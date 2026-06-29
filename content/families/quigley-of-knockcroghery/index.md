@@ -2,18 +2,29 @@
 title: "Quigley of Knockcroghery"
 date: 2023-03-18
 ---
-A family of [Clan Quigley](/clan/quigley/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Knockcroghery”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Knockcroghery&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<a class="tartan" href="/setts/s12/db25w2k2db15lo2db1lo2db15k2w2dg16r1~x2/"><img src="/setts/s12/db25w2k2db15lo2db1lo2db15k2w2dg16r1~x2/sett.png" alt="Quigley of Knockcroghery (Modern)" width="240"><br>Quigley of Knockcroghery (Modern)</a>
+### Quigley of Knockcroghery Hunting
 
-## Other tartans
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/b27w2b15ly1b1ly1b15k2w2y16r1/">Quigley of Knockcroghery Hunting</a> ★</td><td><code>B/54 W4 B30 LY2 B2 LY2 B30 K4 W4 Y32 R/2</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/b27w2b15ly1b1ly1b15k2w2y16r1/"><img src="/variants/s11/b27w2b15ly1b1ly1b15k2w2y16r1~x2/sett.png" alt="Quigley of Knockcroghery Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s11/t27w2t15lyi1t1lyi1t15k2w2ly16r1~x2/"><img src="/setts/s11/t27w2t15lyi1t1lyi1t15k2w2ly16r1~x2/sett.png" alt="Quigley of Knockcroghery (Hunting) (Personal)" width="140"><br>Quigley of Knockcroghery (Hunting) (Personal)</a></li>
-<li><a class="tartan" href="/setts/s12/db25w2k2db15lo2db1lo2db15k2w2g16r1~x2/"><img src="/setts/s12/db25w2k2db15lo2db1lo2db15k2w2g16r1~x2/sett.png" alt="Quigley of Knockcroghery (Pers)" width="140"><br>Quigley of Knockcroghery (Pers)</a></li>
-</ul>
+### Quigley of Knockcroghery
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db25w2k2db15lo2db1lo2db15k2w2dg16r1/">Quigley of Knockcroghery</a> ★</td><td><code>DB/50 W4 K4 DB30 LO4 DB2 LO4 DB30 K4 W4 DG32 R/2</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db25w2k2db15lo2db1lo2db15k2w2dg16r1/"><img src="/variants/s12/db25w2k2db15lo2db1lo2db15k2w2dg16r1~x2/sett.png" alt="Quigley of Knockcroghery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

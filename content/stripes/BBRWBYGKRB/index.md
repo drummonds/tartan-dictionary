@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yorston (2014)](/setts/s10/db109t12r4w4db5ly4g5k4r4t18/)|
-|![Yorston (2014) example sett](/setts/s10/db109t12r4w4db5ly4g5k4r4t18/sett.png)|
+| [Yorston (2014)](/variants/s10/db109t12r4w4db5ly4g5k4r4t18/)|
+|![Yorston (2014) example sett](/variants/s10/db109t12r4w4db5ly4g5k4r4t18/sett.png)|

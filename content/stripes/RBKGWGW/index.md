@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davidson (Wedding) (Personal)](/setts/s7/r2db14k6g1w12g1w2~x4/)|
-|![Davidson (Wedding) (Personal) example sett](/setts/s7/r2db14k6g1w12g1w2~x4/sett.png)|
+| [Davidson (Wedding) (Personal)](/variants/s7/r2db14k6g1w12g1w2~x4/)|
+|![Davidson (Wedding) (Personal) example sett](/variants/s7/r2db14k6g1w12g1w2~x4/sett.png)|

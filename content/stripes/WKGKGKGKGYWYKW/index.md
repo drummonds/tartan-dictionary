@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Avalon - Calvert House](/setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/)|
-|![Avalon - Calvert House example sett](/setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/sett.png)|
+| [Avalon - Calvert House](/variants/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/)|
+|![Avalon - Calvert House example sett](/variants/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/sett.png)|

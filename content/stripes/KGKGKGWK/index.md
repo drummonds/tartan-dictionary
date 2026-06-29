@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lamont Dress](/setts/s8/k11g3k3g3k3g9w18k3~x2/)|
-|![Lamont Dress example sett](/setts/s8/k11g3k3g3k3g9w18k3~x2/sett.png)|
+| [Lamont Dress](/variants/s8/k11g3k3g3k3g9w18k3~x2/)|
+|![Lamont Dress example sett](/variants/s8/k11g3k3g3k3g9w18k3~x2/sett.png)|

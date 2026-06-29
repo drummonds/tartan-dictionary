@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hueg (Munich) Hunting (Personal)](/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/)|
-|![Hueg (Munich) Hunting (Personal) example sett](/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/sett.png)|
+| [Hueg (Munich) Hunting (Personal)](/variants/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/)|
+|![Hueg (Munich) Hunting (Personal) example sett](/variants/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/sett.png)|

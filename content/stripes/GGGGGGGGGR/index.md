@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connacht](/setts/s10/o64dg4dyi1dg4dyi1dg4dyi64dy2dyi2dy8~x2/)|
-|![Connacht example sett](/setts/s10/o64dg4dyi1dg4dyi1dg4dyi64dy2dyi2dy8~x2/sett.png)|
+| [Connacht](/variants/s10/o64dg4dyi1dg4dyi1dg4dyi64dy2dyi2dy8~x2/)|
+|![Connacht example sett](/variants/s10/o64dg4dyi1dg4dyi1dg4dyi64dy2dyi2dy8~x2/sett.png)|

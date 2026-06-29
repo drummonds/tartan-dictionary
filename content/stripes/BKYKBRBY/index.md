@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cirse 3D](/setts/s8/lo8n5r1n15k2lo1k36n1~x2/)|
-|![Cirse 3D example sett](/setts/s8/lo8n5r1n15k2lo1k36n1~x2/sett.png)|
+| [Cirse 3D](/variants/s8/lo8n5r1n15k2lo1k36n1~x2/)|
+|![Cirse 3D example sett](/variants/s8/lo8n5r1n15k2lo1k36n1~x2/sett.png)|

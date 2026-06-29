@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Virgin One](/setts/s6/lo11r2lo11w6lo7w6~x2/)|
-|![Virgin One example sett](/setts/s6/lo11r2lo11w6lo7w6~x2/sett.png)|
+| [Virgin One](/variants/s6/lo11r2lo11w6lo7w6~x2/)|
+|![Virgin One example sett](/variants/s6/lo11r2lo11w6lo7w6~x2/sett.png)|

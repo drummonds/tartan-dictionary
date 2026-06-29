@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Merola (2016)](/setts/s6/k36ly5k1ly1lr5k12~x2/)|
-|![Merola (2016) example sett](/setts/s6/k36ly5k1ly1lr5k12~x2/sett.png)|
+| [Merola (2016)](/variants/s6/k36ly5k1ly1lr5k12~x2/)|
+|![Merola (2016) example sett](/variants/s6/k36ly5k1ly1lr5k12~x2/sett.png)|

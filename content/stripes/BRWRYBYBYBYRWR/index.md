@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inverness Hunting](/setts/s14/db61r6w2r8lo2db3lo2db15~x2/)|
-|![Inverness Hunting example sett](/setts/s14/db61r6w2r8lo2db3lo2db15~x2/sett.png)|
+| [Inverness Hunting](/variants/s14/db61r6w2r8lo2db3lo2db15~x2/)|
+|![Inverness Hunting example sett](/variants/s14/db61r6w2r8lo2db3lo2db15~x2/sett.png)|

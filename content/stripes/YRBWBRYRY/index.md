@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arbroath Smokie](/setts/s9/lo1ri45dt23w1dt6r2lo1r2lo1~x2/)|
-|![Arbroath Smokie example sett](/setts/s9/lo1ri45dt23w1dt6r2lo1r2lo1~x2/sett.png)|
+| [Arbroath Smokie](/variants/s9/lo1ri45dt23w1dt6r2lo1r2lo1~x2/)|
+|![Arbroath Smokie example sett](/variants/s9/lo1ri45dt23w1dt6r2lo1r2lo1~x2/sett.png)|

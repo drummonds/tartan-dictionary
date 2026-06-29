@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thunderlord (Corporate)](/setts/s4/n62w11k4lg17~x2/)|
-|![Thunderlord (Corporate) example sett](/setts/s4/n62w11k4lg17~x2/sett.png)|
+| [Thunderlord (Corporate)](/variants/s4/n62w11k4lg17~x2/)|
+|![Thunderlord (Corporate) example sett](/variants/s4/n62w11k4lg17~x2/sett.png)|

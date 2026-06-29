@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fermanagh (1990)](/setts/s9/n44do4n1k1n4y4k1db4do4~x2/)|
-|![Fermanagh (1990) example sett](/setts/s9/n44do4n1k1n4y4k1db4do4~x2/sett.png)|
+| [Fermanagh (1990)](/variants/s9/n44do4n1k1n4y4k1db4do4~x2/)|
+|![Fermanagh (1990) example sett](/variants/s9/n44do4n1k1n4y4k1db4do4~x2/sett.png)|

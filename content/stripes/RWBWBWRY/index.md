@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alloway Primary (Corporate)](/setts/s8/lb30db1w4o10ly18~x2/)|
-|![Alloway Primary (Corporate) example sett](/setts/s8/lb30db1w4o10ly18~x2/sett.png)|
+| [Alloway Primary (Corporate)](/variants/s8/lb30db1w4o10ly18~x2/)|
+|![Alloway Primary (Corporate) example sett](/variants/s8/lb30db1w4o10ly18~x2/sett.png)|

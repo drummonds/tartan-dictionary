@@ -8,11 +8,15 @@ A family of [Clan Irving](/clan/irving/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s5/g27gi14dt2gi2ly2~x4/"><img src="/setts/s5/g27gi14dt2gi2ly2~x4/sett.png" alt="Irving of Bonshaw" width="240"><br>Irving of Bonshaw</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g27gi14dt2gi2ly2/">Irving of Bonshaw</a> ★</td><td><code>G/108 Gi56 DT8 Gi8 LY/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g27gi14dt2gi2ly2/"><img src="/variants/s5/g27gi14dt2gi2ly2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g27db14k2db2ly2/">Irving of Bonshaw</a></td><td><code>G/108 DB56 K8 DB8 LY/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g27db14k2db2ly2/"><img src="/variants/s5/g27db14k2db2ly2~x4/sett.png" alt="Irving of Bonshaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s5/g27db14k2db2ly2~x4/"><img src="/setts/s5/g27db14k2db2ly2~x4/sett.png" alt="Irving of Bonshaw" width="140"><br>Irving of Bonshaw</a></li>
-</ul>
+[See the Irving of Bonshaw tartan and all its setts →](/tartans/irving-of-bonshaw/)
 

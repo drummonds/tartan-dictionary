@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Iberia Dress, Black (Fashion)](/setts/s7/k60w2r10dg6w4r15ly10~x2/)|
-|![Iberia Dress, Black (Fashion) example sett](/setts/s7/k60w2r10dg6w4r15ly10~x2/sett.png)|
+| [Iberia Dress, Black (Fashion)](/variants/s7/k60w2r10dg6w4r15ly10~x2/)|
+|![Iberia Dress, Black (Fashion) example sett](/variants/s7/k60w2r10dg6w4r15ly10~x2/sett.png)|

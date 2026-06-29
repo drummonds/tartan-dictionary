@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart of Atholl](/setts/s16/dg22k1dg2k1dg3k8r20k1r3~x4/)|
-|![Stewart/Stuart of Atholl example sett](/setts/s16/dg22k1dg2k1dg3k8r20k1r3~x4/sett.png)|
+| [Stewart/Stuart of Atholl](/variants/s16/dg22k1dg2k1dg3k8r20k1r3~x4/)|
+|![Stewart/Stuart of Atholl example sett](/variants/s16/dg22k1dg2k1dg3k8r20k1r3~x4/sett.png)|

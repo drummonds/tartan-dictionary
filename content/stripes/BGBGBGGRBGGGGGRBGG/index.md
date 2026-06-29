@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nova Scotia](/setts/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/)|
-|![Nova Scotia example sett](/setts/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/sett.png)|
+| [Nova Scotia](/variants/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/)|
+|![Nova Scotia example sett](/variants/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/sett.png)|

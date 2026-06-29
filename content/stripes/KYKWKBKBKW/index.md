@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Payne of Wallins Creek (Personal)](/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/)|
-|![Payne of Wallins Creek (Personal) example sett](/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/sett.png)|
+| [Payne of Wallins Creek (Personal)](/variants/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/)|
+|![Payne of Wallins Creek (Personal) example sett](/variants/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/sett.png)|

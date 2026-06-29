@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sutherland of Duffus](/setts/s18/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/)|
-|![Sutherland of Duffus example sett](/setts/s18/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/sett.png)|
+| [Sutherland of Duffus](/variants/s18/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/)|
+|![Sutherland of Duffus example sett](/variants/s18/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/sett.png)|

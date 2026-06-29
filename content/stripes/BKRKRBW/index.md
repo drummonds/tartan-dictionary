@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thomson, Reona Ellen (Personal)](/setts/s7/w2dp5m34k5o9k12dp1~x2/)|
-|![Thomson, Reona Ellen (Personal) example sett](/setts/s7/w2dp5m34k5o9k12dp1~x2/sett.png)|
+| [Thomson, Reona Ellen (Personal)](/variants/s7/w2dp5m34k5o9k12dp1~x2/)|
+|![Thomson, Reona Ellen (Personal) example sett](/variants/s7/w2dp5m34k5o9k12dp1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/)|
-|![MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/sett.png)|
+| [MacDuff Hunting Clan Tartan](/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/)|
+|![MacDuff Hunting Clan Tartan example sett](/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/sett.png)|

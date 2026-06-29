@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Annandale (Personal)](/setts/s16/db3r2t2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/)|
-|![Annandale (Personal) example sett](/setts/s16/db3r2t2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/sett.png)|
+| [Annandale (Personal)](/variants/s16/db3r2t2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/)|
+|![Annandale (Personal) example sett](/variants/s16/db3r2t2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North Tyneside Pipe Band](/setts/s7/b62db22w3db2w2db3r1~x2/)|
-|![North Tyneside Pipe Band example sett](/setts/s7/b62db22w3db2w2db3r1~x2/sett.png)|
+| [North Tyneside Pipe Band](/variants/s7/b62db22w3db2w2db3r1~x2/)|
+|![North Tyneside Pipe Band example sett](/variants/s7/b62db22w3db2w2db3r1~x2/sett.png)|

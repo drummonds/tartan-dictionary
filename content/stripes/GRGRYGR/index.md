@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Watch](/setts/s7/dg10o1dg1o1lr2dg1o1~x4/)|
-|![Green Watch example sett](/setts/s7/dg10o1dg1o1lr2dg1o1~x4/sett.png)|
+| [Green Watch](/variants/s7/dg10o1dg1o1lr2dg1o1~x4/)|
+|![Green Watch example sett](/variants/s7/dg10o1dg1o1lr2dg1o1~x4/sett.png)|

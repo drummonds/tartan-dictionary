@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hungerford RFC](/setts/s6/k50dt3ly3r50~x2/)|
-|![Hungerford RFC example sett](/setts/s6/k50dt3ly3r50~x2/sett.png)|
+| [Hungerford RFC](/variants/s6/k50dt3ly3r50~x2/)|
+|![Hungerford RFC example sett](/variants/s6/k50dt3ly3r50~x2/sett.png)|

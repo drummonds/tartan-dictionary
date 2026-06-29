@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connolly Hunting (Name)](/setts/s10/k6r2k2r2k6db7g20ly2g3r2~x2/)|
-|![Connolly Hunting (Name) example sett](/setts/s10/k6r2k2r2k6db7g20ly2g3r2~x2/sett.png)|
+| [Connolly Hunting (Name)](/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/)|
+|![Connolly Hunting (Name) example sett](/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/sett.png)|

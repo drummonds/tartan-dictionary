@@ -8,12 +8,15 @@ A family of [Clan Laing](/clan/laing/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s5/db8r1w1r1k1~x8/"><img src="/setts/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown" width="240"><br>Laing of Archiestown</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db8r1w1r1k1/">Laing of Archiestown</a> ★</td><td><code>K/8 R8 W8 R8 DB64 R8 W8 R/8</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db8r1w1r1k1/"><img src="/variants/s8/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db19r2w2r2k2/">Laing of Archiestown</a></td><td><code>DB/76 R8 W8 R8 K/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db19r2w2r2k2/"><img src="/variants/s5/db19r2w2r2k2~x4/sett.png" alt="Laing of Archiestown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s5/db19r2w2r2k2~x4/"><img src="/setts/s5/db19r2w2r2k2~x4/sett.png" alt="Laing of Archiestown" width="140"><br>Laing of Archiestown</a></li>
-<li><a class="tartan" href="/setts/s8/db8r1w1r1k1~x8/"><img src="/setts/s8/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown" width="140"><br>Laing of Archiestown</a></li>
-</ul>
+[See the Laing of Archiestown tartan and all its setts →](/tartans/laing-of-archiestown/)
 

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cavalry, 7th..](/setts/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/)|
-|![Cavalry, 7th.. example sett](/setts/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/sett.png)|
+| [Cavalry, 7th..](/variants/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/)|
+|![Cavalry, 7th.. example sett](/variants/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/sett.png)|

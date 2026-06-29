@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Shee #1 (Fashion)](/setts/s5/r37do9r3g9do3~x2/)|
-|![Glen Shee #1 (Fashion) example sett](/setts/s5/r37do9r3g9do3~x2/sett.png)|
+| [Glen Shee #1 (Fashion)](/variants/s5/r37do9r3g9do3~x2/)|
+|![Glen Shee #1 (Fashion) example sett](/variants/s5/r37do9r3g9do3~x2/sett.png)|

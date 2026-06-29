@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bell of Ardbel (Name)](/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/)|
-|![Bell of Ardbel (Name) example sett](/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/sett.png)|
+| [Bell of Ardbel (Name)](/variants/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/)|
+|![Bell of Ardbel (Name) example sett](/variants/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/sett.png)|

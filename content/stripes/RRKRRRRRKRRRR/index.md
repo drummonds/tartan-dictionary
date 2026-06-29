@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmoral (Lavender) (Royal)](/setts/s13/o2r1o8m2k2o1m1o1m4o2k1o1r1~x4/)|
-|![Balmoral (Lavender) (Royal) example sett](/setts/s13/o2r1o8m2k2o1m1o1m4o2k1o1r1~x4/sett.png)|
+| [Balmoral (Lavender) (Royal)](/variants/s13/o2r1o8m2k2o1m1o1m4o2k1o1r1~x4/)|
+|![Balmoral (Lavender) (Royal) example sett](/variants/s13/o2r1o8m2k2o1m1o1m4o2k1o1r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hoban (Personal)](/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/)|
-|![Hoban (Personal) example sett](/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/sett.png)|
+| [Hoban (Personal)](/variants/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/)|
+|![Hoban (Personal) example sett](/variants/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/sett.png)|

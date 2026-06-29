@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Connell, William Benedict (Personal)](/setts/s10/k19dg7k7t2dg20ki9dg6ki4dg10w3~x2/)|
-|![O'Connell, William Benedict (Personal) example sett](/setts/s10/k19dg7k7t2dg20ki9dg6ki4dg10w3~x2/sett.png)|
+| [O'Connell, William Benedict (Personal)](/variants/s10/k19dg7k7t2dg20ki9dg6ki4dg10w3~x2/)|
+|![O'Connell, William Benedict (Personal) example sett](/variants/s10/k19dg7k7t2dg20ki9dg6ki4dg10w3~x2/sett.png)|

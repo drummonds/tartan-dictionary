@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pringle, James (Fashion)](/setts/s7/db20dp2db3dp2db14g18db4~x2/)|
-|![Pringle, James (Fashion) example sett](/setts/s7/db20dp2db3dp2db14g18db4~x2/sett.png)|
+| [Pringle, James (Fashion)](/variants/s7/db20dp2db3dp2db14g18db4~x2/)|
+|![Pringle, James (Fashion) example sett](/variants/s7/db20dp2db3dp2db14g18db4~x2/sett.png)|

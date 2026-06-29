@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buccleuch Dress (Fashion)](/setts/s10/g5r2g2lr34g18r4g4lr4g4r4~x2/)|
-|![Buccleuch Dress (Fashion) example sett](/setts/s10/g5r2g2lr34g18r4g4lr4g4r4~x2/sett.png)|
+| [Buccleuch Dress (Fashion)](/variants/s10/g5r2g2lr34g18r4g4lr4g4r4~x2/)|
+|![Buccleuch Dress (Fashion) example sett](/variants/s10/g5r2g2lr34g18r4g4lr4g4r4~x2/sett.png)|

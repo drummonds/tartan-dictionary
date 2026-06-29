@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Confederate Memorial Dress (Military](/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/)|
-|![Confederate Memorial Dress (Military example sett](/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/sett.png)|
+| [Confederate Memorial Dress (Military](/variants/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/)|
+|![Confederate Memorial Dress (Military example sett](/variants/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/sett.png)|

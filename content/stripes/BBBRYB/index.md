@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meeson Formal](/setts/s6/bi26n10dt19r6ly2b9~x2/)|
-|![Meeson Formal example sett](/setts/s6/bi26n10dt19r6ly2b9~x2/sett.png)|
+| [Meeson Formal](/variants/s6/bi26n10dt19r6ly2b9~x2/)|
+|![Meeson Formal example sett](/variants/s6/bi26n10dt19r6ly2b9~x2/sett.png)|

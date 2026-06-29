@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [de Vere-Austin (Clan)](/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/)|
-|![de Vere-Austin (Clan) example sett](/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/sett.png)|
+| [de Vere-Austin (Clan)](/variants/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/)|
+|![de Vere-Austin (Clan) example sett](/variants/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/sett.png)|

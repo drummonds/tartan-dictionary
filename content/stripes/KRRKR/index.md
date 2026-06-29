@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochcarron, Camel (Fashion)](/setts/s5/o12k1o2o1ki1~x8/)|
-|![Lochcarron, Camel (Fashion) example sett](/setts/s5/o12k1o2o1ki1~x8/sett.png)|
+| [Lochcarron, Camel (Fashion)](/variants/s5/o12k1o2o1ki1~x8/)|
+|![Lochcarron, Camel (Fashion) example sett](/variants/s5/o12k1o2o1ki1~x8/sett.png)|

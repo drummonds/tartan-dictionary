@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [German MacLeod](/setts/s8/ly2r2k2b27k6g13k1lb2~x2/)|
-|![German MacLeod example sett](/setts/s8/ly2r2k2b27k6g13k1lb2~x2/sett.png)|
+| [German MacLeod](/variants/s8/ly2r2k2b27k6g13k1lb2~x2/)|
+|![German MacLeod example sett](/variants/s8/ly2r2k2b27k6g13k1lb2~x2/sett.png)|

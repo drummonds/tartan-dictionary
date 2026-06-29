@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maryland](/setts/s8/dt8t1db1t1m12ly6k12w2~x4/)|
-|![Maryland example sett](/setts/s8/dt8t1db1t1m12ly6k12w2~x4/sett.png)|
+| [Maryland](/variants/s8/dt8t1db1t1m12ly6k12w2~x4/)|
+|![Maryland example sett](/variants/s8/dt8t1db1t1m12ly6k12w2~x4/sett.png)|

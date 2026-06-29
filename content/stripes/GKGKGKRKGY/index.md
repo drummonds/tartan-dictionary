@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzsimmons](/setts/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/)|
-|![Fitzsimmons example sett](/setts/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/sett.png)|
+| [Fitzsimmons](/variants/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/)|
+|![Fitzsimmons example sett](/variants/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/sett.png)|

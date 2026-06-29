@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacMillan Hunting](/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/)|
-|![MacMillan Hunting example sett](/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/sett.png)|
-| [MacMillan, hunting](/setts/s9/db10ly3db30ly5k8g16r4g16r2~x2/)|
-|![MacMillan, hunting example sett](/setts/s9/db10ly3db30ly5k8g16r4g16r2~x2/sett.png)|
+| [MacMillan Hunting](/variants/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/)|
+|![MacMillan Hunting example sett](/variants/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/sett.png)|
+| [MacMillan, hunting](/variants/s9/db10ly3db30ly5k8g16r4g16r2~x2/)|
+|![MacMillan, hunting example sett](/variants/s9/db10ly3db30ly5k8g16r4g16r2~x2/sett.png)|

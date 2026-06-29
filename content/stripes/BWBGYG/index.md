@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrew Society, Sao Paulo (Corp)](/setts/s6/db5w3db36g38ly5g5~x2/)|
-|![St. Andrew Society, Sao Paulo (Corp) example sett](/setts/s6/db5w3db36g38ly5g5~x2/sett.png)|
+| [St. Andrew Society, Sao Paulo (Corp)](/variants/s6/db5w3db36g38ly5g5~x2/)|
+|![St. Andrew Society, Sao Paulo (Corp) example sett](/variants/s6/db5w3db36g38ly5g5~x2/sett.png)|

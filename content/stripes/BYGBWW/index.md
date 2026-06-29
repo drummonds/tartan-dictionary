@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heriot Bay Local (Quadra Island, British Columbia)](/setts/s6/ti5lr2g4t3w1lb5~x8/)|
-|![Heriot Bay Local (Quadra Island, British Columbia) example sett](/setts/s6/ti5lr2g4t3w1lb5~x8/sett.png)|
+| [Heriot Bay Local (Quadra Island, British Columbia)](/variants/s6/ti5lr2g4t3w1lb5~x8/)|
+|![Heriot Bay Local (Quadra Island, British Columbia) example sett](/variants/s6/ti5lr2g4t3w1lb5~x8/sett.png)|

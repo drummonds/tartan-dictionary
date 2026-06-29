@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Merwe](/setts/s6/g15ly2k30g32r3w2~x2/)|
-|![Merwe example sett](/setts/s6/g15ly2k30g32r3w2~x2/sett.png)|
+| [Merwe](/variants/s6/g15ly2k30g32r3w2~x2/)|
+|![Merwe example sett](/variants/s6/g15ly2k30g32r3w2~x2/sett.png)|

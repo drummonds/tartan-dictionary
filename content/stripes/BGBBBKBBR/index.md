@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robert Burns Legacy](/setts/s9/db10g42dbi8t8dbi8k24dbi8db71r10/)|
-|![Robert Burns Legacy example sett](/setts/s9/db10g42dbi8t8dbi8k24dbi8db71r10/sett.png)|
+| [Robert Burns Legacy](/variants/s9/db10g42dbi8t8dbi8k24dbi8db71r10/)|
+|![Robert Burns Legacy example sett](/variants/s9/db10g42dbi8t8dbi8k24dbi8db71r10/sett.png)|

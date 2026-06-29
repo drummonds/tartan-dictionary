@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Berkshire #2](/setts/s10/n6db3k1o10n12dg6k1dg6n1db2~x4/)|
-|![Berkshire #2 example sett](/setts/s10/n6db3k1o10n12dg6k1dg6n1db2~x4/sett.png)|
+| [Berkshire #2](/variants/s10/n6db3k1o10n12dg6k1dg6n1db2~x4/)|
+|![Berkshire #2 example sett](/variants/s10/n6db3k1o10n12dg6k1dg6n1db2~x4/sett.png)|

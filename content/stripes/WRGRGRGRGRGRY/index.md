@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glencross (Haverlands House) (Personal)](/setts/s13/w3r35y3r2y3r10dg3r2dg3r2dg3r10ly2~x2/)|
-|![Glencross (Haverlands House) (Personal) example sett](/setts/s13/w3r35y3r2y3r10dg3r2dg3r2dg3r10ly2~x2/sett.png)|
+| [Glencross (Haverlands House) (Personal)](/variants/s13/w3r35y3r2y3r10dg3r2dg3r2dg3r10ly2~x2/)|
+|![Glencross (Haverlands House) (Personal) example sett](/variants/s13/w3r35y3r2y3r10dg3r2dg3r2dg3r10ly2~x2/sett.png)|

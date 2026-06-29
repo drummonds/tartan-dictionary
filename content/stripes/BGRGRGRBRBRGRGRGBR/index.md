@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gray (Personal)](/setts/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/)|
-|![Gray (Personal) example sett](/setts/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/sett.png)|
+| [Gray (Personal)](/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/)|
+|![Gray (Personal) example sett](/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruichladdich (Corporate)](/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/)|
-|![Bruichladdich (Corporate) example sett](/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/sett.png)|
+| [Bruichladdich (Corporate)](/variants/s10/k3y3lo3y3k12y24k1y3k3w3~x2/)|
+|![Bruichladdich (Corporate) example sett](/variants/s10/k3y3lo3y3k12y24k1y3k3w3~x2/sett.png)|

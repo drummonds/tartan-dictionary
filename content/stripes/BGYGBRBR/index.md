@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gretna Green](/setts/s8/db2g2ly1g30db20r2db2r2~x2/)|
-|![Gretna Green example sett](/setts/s8/db2g2ly1g30db20r2db2r2~x2/sett.png)|
+| [Gretna Green](/variants/s8/db2g2ly1g30db20r2db2r2~x2/)|
+|![Gretna Green example sett](/variants/s8/db2g2ly1g30db20r2db2r2~x2/sett.png)|

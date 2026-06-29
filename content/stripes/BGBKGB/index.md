@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Kallmeyer 'B')](/setts/s6/b48g2b7k24g26b4~x2/)|
-|![Unidentified (Kallmeyer 'B') example sett](/setts/s6/b48g2b7k24g26b4~x2/sett.png)|
+| [Unidentified (Kallmeyer 'B')](/variants/s6/b48g2b7k24g26b4~x2/)|
+|![Unidentified (Kallmeyer 'B') example sett](/variants/s6/b48g2b7k24g26b4~x2/sett.png)|

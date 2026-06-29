@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenlaw, American (Name)](/setts/s8/b46r2b3r2b14g38k3g4~x2/)|
-|![Greenlaw, American (Name) example sett](/setts/s8/b46r2b3r2b14g38k3g4~x2/sett.png)|
+| [Greenlaw, American (Name)](/variants/s8/b46r2b3r2b14g38k3g4~x2/)|
+|![Greenlaw, American (Name) example sett](/variants/s8/b46r2b3r2b14g38k3g4~x2/sett.png)|

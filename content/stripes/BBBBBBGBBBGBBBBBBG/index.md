@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wicklow, County](/setts/s18/n1do1n12t1do3n1g6n2do1n2g6n1do3t1n12do1n1g1~x4/)|
-|![Wicklow, County example sett](/setts/s18/n1do1n12t1do3n1g6n2do1n2g6n1do3t1n12do1n1g1~x4/sett.png)|
+| [Wicklow, County](/variants/s18/n1do1n12t1do3n1g6n2do1n2g6n1do3t1n12do1n1g1~x4/)|
+|![Wicklow, County example sett](/variants/s18/n1do1n12t1do3n1g6n2do1n2g6n1do3t1n12do1n1g1~x4/sett.png)|

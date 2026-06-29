@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dalrymple of Castleton #2](/setts/s16/ly2r15ly2dr2ly2k14ly2g10w1g6w1g10ly2r7g10w1~x2/)|
-|![Dalrymple of Castleton #2 example sett](/setts/s16/ly2r15ly2dr2ly2k14ly2g10w1g6w1g10ly2r7g10w1~x2/sett.png)|
+| [Dalrymple of Castleton #2](/variants/s16/ly2r15ly2dr2ly2k14ly2g10w1g6w1g10ly2r7g10w1~x2/)|
+|![Dalrymple of Castleton #2 example sett](/variants/s16/ly2r15ly2dr2ly2k14ly2g10w1g6w1g10ly2r7g10w1~x2/sett.png)|

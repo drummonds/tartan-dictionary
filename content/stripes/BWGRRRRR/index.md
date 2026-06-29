@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ware/Warr (Name)](/setts/s8/b9w2dg30o6r2o2r2o6~x2/)|
-|![Ware/Warr (Name) example sett](/setts/s8/b9w2dg30o6r2o2r2o6~x2/sett.png)|
+| [Ware/Warr (Name)](/variants/s8/b9w2dg30o6r2o2r2o6~x2/)|
+|![Ware/Warr (Name) example sett](/variants/s8/b9w2dg30o6r2o2r2o6~x2/sett.png)|

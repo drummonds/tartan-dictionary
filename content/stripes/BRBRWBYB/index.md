@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cairngorms National Park](/setts/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/)|
-|![Cairngorms National Park example sett](/setts/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/sett.png)|
+| [Cairngorms National Park](/variants/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/)|
+|![Cairngorms National Park example sett](/variants/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/sett.png)|

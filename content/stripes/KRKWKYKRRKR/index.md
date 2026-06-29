@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Field Marshall Montgomery PB (Corp)](/setts/s11/k8r1k31w2k8ly1k2r1r10k6r2~x2/)|
-|![Field Marshall Montgomery PB (Corp) example sett](/setts/s11/k8r1k31w2k8ly1k2r1r10k6r2~x2/sett.png)|
+| [Field Marshall Montgomery PB (Corp)](/variants/s11/k8r1k31w2k8ly1k2r1r10k6r2~x2/)|
+|![Field Marshall Montgomery PB (Corp) example sett](/variants/s11/k8r1k31w2k8ly1k2r1r10k6r2~x2/sett.png)|

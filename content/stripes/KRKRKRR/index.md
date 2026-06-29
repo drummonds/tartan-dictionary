@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moffat (1984)](/setts/s7/k39o3k3o3k14o28r3~x2/)|
-|![Moffat (1984) example sett](/setts/s7/k39o3k3o3k14o28r3~x2/sett.png)|
+| [Moffat (1984)](/variants/s7/k39o3k3o3k14o28r3~x2/)|
+|![Moffat (1984) example sett](/variants/s7/k39o3k3o3k14o28r3~x2/sett.png)|

@@ -24,9 +24,9 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Vallay (Uist) (?)](/setts/s11/g18r3g2r2n6r2g2r24g2r2g6~x2/)|
-|![MacDonald of Vallay (Uist) (?) example sett](/setts/s11/g18r3g2r2n6r2g2r24g2r2g6~x2/sett.png)|
-| [MacDonell of Glengarry](/setts/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/)|
-|![MacDonell of Glengarry example sett](/setts/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/sett.png)|
-| [MacDonell of Glengarry #4](/setts/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/)|
-|![MacDonell of Glengarry #4 example sett](/setts/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/sett.png)|
+| [MacDonald of Vallay (Uist) (?)](/variants/s11/g18r3g2r2n6r2g2r24g2r2g6~x2/)|
+|![MacDonald of Vallay (Uist) (?) example sett](/variants/s11/g18r3g2r2n6r2g2r24g2r2g6~x2/sett.png)|
+| [MacDonell of Glengarry](/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/)|
+|![MacDonell of Glengarry example sett](/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/sett.png)|
+| [MacDonell of Glengarry #4](/variants/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/)|
+|![MacDonell of Glengarry #4 example sett](/variants/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/sett.png)|

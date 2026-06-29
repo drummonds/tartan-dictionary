@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx, Mannin Plaid](/setts/s4/w1r5o5ly1~x4/)|
-|![Manx, Mannin Plaid example sett](/setts/s4/w1r5o5ly1~x4/sett.png)|
+| [Manx, Mannin Plaid](/variants/s4/w1r5o5ly1~x4/)|
+|![Manx, Mannin Plaid example sett](/variants/s4/w1r5o5ly1~x4/sett.png)|

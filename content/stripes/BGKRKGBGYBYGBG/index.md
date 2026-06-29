@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Penman](/setts/s14/y11db6g6ly1db2ly1g6db6y36k1r3k1g5db5~x2/)|
-|![Penman example sett](/setts/s14/y11db6g6ly1db2ly1g6db6y36k1r3k1g5db5~x2/sett.png)|
-| [Penman](/setts/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/)|
-|![Penman example sett](/setts/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/sett.png)|
+| [Penman](/variants/s14/y11db6g6ly1db2ly1g6db6y36k1r3k1g5db5~x2/)|
+|![Penman example sett](/variants/s14/y11db6g6ly1db2ly1g6db6y36k1r3k1g5db5~x2/sett.png)|
+| [Penman](/variants/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/)|
+|![Penman example sett](/variants/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/sett.png)|

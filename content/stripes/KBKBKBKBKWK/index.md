@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart Mourning (Clan)](/setts/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/)|
-|![Stewart Mourning (Clan) example sett](/setts/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/sett.png)|
+| [Stewart Mourning (Clan)](/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/)|
+|![Stewart Mourning (Clan) example sett](/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/sett.png)|

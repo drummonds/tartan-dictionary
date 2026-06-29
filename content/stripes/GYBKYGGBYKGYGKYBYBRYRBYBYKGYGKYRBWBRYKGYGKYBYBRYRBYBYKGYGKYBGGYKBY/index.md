@@ -24,5 +24,5 @@ It is a 66 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebrides, Inner #01](/setts/s66/g3ly1db2k3ly1g4gi5db8ly1k2gi3ly1gi3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2gi3ly1gi3k2ly1r14t6w1~x2/)|
-|![Hebrides, Inner #01 example sett](/setts/s66/g3ly1db2k3ly1g4gi5db8ly1k2gi3ly1gi3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2gi3ly1gi3k2ly1r14t6w1~x2/sett.png)|
+| [Hebrides, Inner #01](/variants/s66/g3ly1db2k3ly1g4gi5db8ly1k2gi3ly1gi3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2gi3ly1gi3k2ly1r14t6w1~x2/)|
+|![Hebrides, Inner #01 example sett](/variants/s66/g3ly1db2k3ly1g4gi5db8ly1k2gi3ly1gi3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2gi3ly1gi3k2ly1r14t6w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dempster (Personal)](/setts/s13/g9b6g18b34db6b10db6b34r6b8ly6db34b4/)|
-|![Dempster (Personal) example sett](/setts/s13/g9b6g18b34db6b10db6b34r6b8ly6db34b4/sett.png)|
+| [Dempster (Personal)](/variants/s13/g9b6g18b34db6b10db6b34r6b8ly6db34b4/)|
+|![Dempster (Personal) example sett](/variants/s13/g9b6g18b34db6b10db6b34r6b8ly6db34b4/sett.png)|

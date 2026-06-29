@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Deeside District](/setts/s7/ly1b4o1oi5dr2oi1ly1~x2/)|
-|![Deeside District example sett](/setts/s7/ly1b4o1oi5dr2oi1ly1~x2/sett.png)|
+| [Deeside District](/variants/s7/ly1b4o1oi5dr2oi1ly1~x2/)|
+|![Deeside District example sett](/variants/s7/ly1b4o1oi5dr2oi1ly1~x2/sett.png)|

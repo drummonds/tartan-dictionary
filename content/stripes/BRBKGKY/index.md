@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Zangenberg (Personal)](/setts/s7/dp2r2dp16k17dg16k2ly2~x2/)|
-|![Zangenberg (Personal) example sett](/setts/s7/dp2r2dp16k17dg16k2ly2~x2/sett.png)|
+| [Zangenberg (Personal)](/variants/s7/dp2r2dp16k17dg16k2ly2~x2/)|
+|![Zangenberg (Personal) example sett](/variants/s7/dp2r2dp16k17dg16k2ly2~x2/sett.png)|

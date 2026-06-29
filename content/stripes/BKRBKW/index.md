@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hong Kong St Andrew's Society](/setts/s6/db75k4r25db6k6w2~x2/)|
-|![Hong Kong St Andrew's Society example sett](/setts/s6/db75k4r25db6k6w2~x2/sett.png)|
+| [Hong Kong St Andrew's Society](/variants/s6/db75k4r25db6k6w2~x2/)|
+|![Hong Kong St Andrew's Society example sett](/variants/s6/db75k4r25db6k6w2~x2/sett.png)|

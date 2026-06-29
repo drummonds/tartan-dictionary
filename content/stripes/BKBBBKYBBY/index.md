@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hughes (USA) (Name)](/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/)|
-|![Hughes (USA) (Name) example sett](/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/sett.png)|
+| [Hughes (USA) (Name)](/variants/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/)|
+|![Hughes (USA) (Name) example sett](/variants/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/sett.png)|

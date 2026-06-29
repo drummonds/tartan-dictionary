@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bonnie Brae (School)](/setts/s11/o6dg3o3dg3o3dg24db20oi24o3db3oi6/)|
-|![Bonnie Brae (School) example sett](/setts/s11/o6dg3o3dg3o3dg24db20oi24o3db3oi6/sett.png)|
-| [Bonnie Brae School](/setts/s11/r6db3o3r24db20dg24o3dg3o3dg3o6/)|
-|![Bonnie Brae School example sett](/setts/s11/r6db3o3r24db20dg24o3dg3o3dg3o6/sett.png)|
+| [Bonnie Brae (School)](/variants/s11/o6dg3o3dg3o3dg24db20oi24o3db3oi6/)|
+|![Bonnie Brae (School) example sett](/variants/s11/o6dg3o3dg3o3dg24db20oi24o3db3oi6/sett.png)|
+| [Bonnie Brae School](/variants/s11/r6db3o3r24db20dg24o3dg3o3dg3o6/)|
+|![Bonnie Brae School example sett](/variants/s11/r6db3o3r24db20dg24o3dg3o3dg3o6/sett.png)|

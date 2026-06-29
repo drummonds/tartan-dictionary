@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walker Hunting](/setts/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2~x2/)|
-|![Walker Hunting example sett](/setts/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2~x2/sett.png)|
+| [Walker Hunting](/variants/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2~x2/)|
+|![Walker Hunting example sett](/variants/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2~x2/sett.png)|

@@ -1,0 +1,63 @@
+---
+title: "Rothesay"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4n12lo2k10y10lo3y2/)
+(the same proportion at any scale), whose colour order is pattern [GBYKGYG](/stripes/gbykgyg/).
+
+Part of the [Rothesay](/tartans/rothesay/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3571
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Rothesay #2
+- Rothesay, Red
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Rothesay (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3571">record</a>)</li>
+<li>pre 2002 — Rothesay (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/834/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3571](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3571)
+- Scottish Tartans Authority (ITI): 834
+- Scottish Tartans World Register: 834
+
+## Thread count
+G/8 N24 DY4 K20 LT20 DY6 LT/4
+
+One full sett is **160 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> <small style="color:#888">#5C5C5C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.5% 0.000 89.9)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> <small style="color:#888">#D09800</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(71.4% 0.147 82.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> <small style="color:#888">#8C7038</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(56.0% 0.082 83.0)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> <small style="color:#888">#D09800</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(71.4% 0.147 82.1)</small></td></tr><tr><td>LT/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> <small style="color:#888">#8C7038</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(56.0% 0.082 83.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="G/8 N24 DY4 K20 LT20 DY6 LT/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=g4n12lo2k10y10lo3y2~x2">Rothesay</a> <a class="nn-out" href="/variants/s7/g4n12lo2k10y10lo3y2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/g4n12lo2k10y10lo3y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g11k11g2n11ly3~x4&amp;base=g4n12lo2k10y10lo3y2~x2">Casely (Name)</a> <a class="nn-out" href="/variants/s6/r4g11k11g2n11ly3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4g11k11g2n11ly3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=n7w1r6dt10g10w1~x4&amp;base=g4n12lo2k10y10lo3y2~x2">McEachem (Name)</a> <a class="nn-out" href="/variants/s6/n7w1r6dt10g10w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/n7w1r6dt10g10w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.09</div><div class="nn-name"><a href="/ttd/edit/#slug=dy5lo20r3dg13dy13dp3lt3~x2&amp;base=g4n12lo2k10y10lo3y2~x2">Christmas Hill Game Farm</a> <a class="nn-out" href="/variants/s7/dy5lo20r3dg13dy13dp3lt3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy5lo20r3dg13dy13dp3lt3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.23</div><div class="nn-name"><a href="/ttd/edit/#slug=r5ly3r19do6ly5do6dg12db5dg12db3~x2&amp;base=g4n12lo2k10y10lo3y2~x2">Roscommon, County</a> <a class="nn-out" href="/variants/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=g21t21ly3r21n3dp5n3~x2&amp;base=g4n12lo2k10y10lo3y2~x2">Falardeau-Murphy (Canada) (Personal)</a> <a class="nn-out" href="/variants/s7/g21t21ly3r21n3dp5n3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g21t21ly3r21n3dp5n3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g11k11g2n11y3~x4&amp;base=g4n12lo2k10y10lo3y2~x2">Casely</a> <a class="nn-out" href="/variants/s6/r4g11k11g2n11y3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4g11k11g2n11y3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=o56k12o7k12o7g50db50ly10&amp;base=g4n12lo2k10y10lo3y2~x2">Sikh</a> <a class="nn-out" href="/variants/s8/o56k12o7k12o7g50db50ly10/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/o56k12o7k12o7g50db50ly10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=r1dy3g5lo5dt5t1~x4&amp;base=g4n12lo2k10y10lo3y2~x2">Loch Fyne</a> <a class="nn-out" href="/variants/s6/r1dy3g5lo5dt5t1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1dy3g5lo5dt5t1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=g13w2g10k5r13k3r5dt15o5~x2&amp;base=g4n12lo2k10y10lo3y2~x2">Glen Chalmadale</a> <a class="nn-out" href="/variants/s9/g13w2g10k5r13k3r5dt15o5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g13w2g10k5r13k3r5dt15o5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=k1lr1g5dp1g2dy5lr1y3lr1~x4&amp;base=g4n12lo2k10y10lo3y2~x2">Corcoran of Sherbrooke (Personal)</a> <a class="nn-out" href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4g11k11g2n11ly3~x4/"><circle cx="98.4" cy="244.4" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/variants/s6/n7w1r6dt10g10w1~x4/"><circle cx="130.7" cy="223.5" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><a href="/variants/s7/dy5lo20r3dg13dy13dp3lt3~x2/"><circle cx="134.5" cy="207.1" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/"><circle cx="116.6" cy="209.2" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/variants/s7/g21t21ly3r21n3dp5n3~x2/"><circle cx="112.0" cy="194.5" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s6/r4g11k11g2n11y3~x4/"><circle cx="133.1" cy="264.8" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s8/o56k12o7k12o7g50db50ly10/"><circle cx="142.3" cy="189.5" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/variants/s6/r1dy3g5lo5dt5t1~x4/"><circle cx="48.1" cy="237.5" r="4" fill="#3465a4"><title>Loch Fyne</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5dt15o5~x2/"><circle cx="91.0" cy="198.2" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="109.0" cy="205.8" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><circle cx="104.7" cy="229.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/g4n12lo2k10y10lo3y2~x2/

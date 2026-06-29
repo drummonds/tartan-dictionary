@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Qualifications Authority](/setts/s12/db36lo5db8lb3db8lb10db3~x2/)|
-|![Scottish Qualifications Authority example sett](/setts/s12/db36lo5db8lb3db8lb10db3~x2/sett.png)|
+| [Scottish Qualifications Authority](/variants/s12/db36lo5db8lb3db8lb10db3~x2/)|
+|![Scottish Qualifications Authority example sett](/variants/s12/db36lo5db8lb3db8lb10db3~x2/sett.png)|

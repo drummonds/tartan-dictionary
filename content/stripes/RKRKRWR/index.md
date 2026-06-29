@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bon Accord](/setts/s7/r6w3r17k3r3k25r3~x2/)|
-|![Bon Accord example sett](/setts/s7/r6w3r17k3r3k25r3~x2/sett.png)|
-| [Instakilt, Pink (Fashion)](/setts/s7/m8w4m50k12m4k15mi5~x2/)|
-|![Instakilt, Pink (Fashion) example sett](/setts/s7/m8w4m50k12m4k15mi5~x2/sett.png)|
+| [Bon Accord](/variants/s7/r6w3r17k3r3k25r3~x2/)|
+|![Bon Accord example sett](/variants/s7/r6w3r17k3r3k25r3~x2/sett.png)|
+| [Instakilt, Pink (Fashion)](/variants/s7/m8w4m50k12m4k15mi5~x2/)|
+|![Instakilt, Pink (Fashion) example sett](/variants/s7/m8w4m50k12m4k15mi5~x2/sett.png)|

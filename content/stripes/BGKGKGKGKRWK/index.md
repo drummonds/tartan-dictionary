@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/)|
-|![Alamudi (Corporate) example sett](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png)|
+| [Alamudi (Corporate)](/variants/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/)|
+|![Alamudi (Corporate) example sett](/variants/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png)|

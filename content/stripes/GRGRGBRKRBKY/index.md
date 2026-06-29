@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelsey, William (Personal)](/setts/s12/g12r2g2r5g16db3o2k2o3db6k20ly3~x2/)|
-|![Kelsey, William (Personal) example sett](/setts/s12/g12r2g2r5g16db3o2k2o3db6k20ly3~x2/sett.png)|
+| [Kelsey, William (Personal)](/variants/s12/g12r2g2r5g16db3o2k2o3db6k20ly3~x2/)|
+|![Kelsey, William (Personal) example sett](/variants/s12/g12r2g2r5g16db3o2k2o3db6k20ly3~x2/sett.png)|

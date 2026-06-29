@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson Red Cluny](/setts/s7/r6k3r29k23w4k7ly3~x2/)|
-|![MacPherson Red Cluny example sett](/setts/s7/r6k3r29k23w4k7ly3~x2/sett.png)|
+| [MacPherson Red Cluny](/variants/s7/r6k3r29k23w4k7ly3~x2/)|
+|![MacPherson Red Cluny example sett](/variants/s7/r6k3r29k23w4k7ly3~x2/sett.png)|

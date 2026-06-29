@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Williams, Jodi (Personal)](/setts/s7/o2db20r2g3r4g35r1~x2/)|
-|![Williams, Jodi (Personal) example sett](/setts/s7/o2db20r2g3r4g35r1~x2/sett.png)|
+| [Williams, Jodi (Personal)](/variants/s7/o2db20r2g3r4g35r1~x2/)|
+|![Williams, Jodi (Personal) example sett](/variants/s7/o2db20r2g3r4g35r1~x2/sett.png)|

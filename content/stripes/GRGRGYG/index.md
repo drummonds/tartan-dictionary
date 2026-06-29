@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott Autumn (Fashion)](/setts/s7/dg16ly3dg14r16dg2r2dg3~x2/)|
-|![Scott Autumn (Fashion) example sett](/setts/s7/dg16ly3dg14r16dg2r2dg3~x2/sett.png)|
+| [Scott Autumn (Fashion)](/variants/s7/dg16ly3dg14r16dg2r2dg3~x2/)|
+|![Scott Autumn (Fashion) example sett](/variants/s7/dg16ly3dg14r16dg2r2dg3~x2/sett.png)|

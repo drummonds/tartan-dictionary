@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fred Perry](/setts/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/)|
-|![Fred Perry example sett](/setts/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/sett.png)|
+| [Fred Perry](/variants/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/)|
+|![Fred Perry example sett](/variants/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/sett.png)|

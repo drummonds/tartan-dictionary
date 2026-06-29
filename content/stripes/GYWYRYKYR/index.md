@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cawte of Middlebanknock (Personal)](/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/)|
-|![Cawte of Middlebanknock (Personal) example sett](/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/sett.png)|
+| [Cawte of Middlebanknock (Personal)](/variants/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/)|
+|![Cawte of Middlebanknock (Personal) example sett](/variants/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/sett.png)|

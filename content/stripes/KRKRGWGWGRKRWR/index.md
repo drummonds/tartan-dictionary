@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drummond - 1739 Lord John (Artefact)](/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/)|
-|![Drummond - 1739 Lord John (Artefact) example sett](/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/sett.png)|
+| [Drummond - 1739 Lord John (Artefact)](/variants/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/)|
+|![Drummond - 1739 Lord John (Artefact) example sett](/variants/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/sett.png)|

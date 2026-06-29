@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews (Queens University) (Cor](/setts/s8/dy11db1dy11w10db1r11db1r11~x2/)|
-|![St. Andrews (Queens University) (Cor example sett](/setts/s8/dy11db1dy11w10db1r11db1r11~x2/sett.png)|
+| [St. Andrews (Queens University) (Cor](/variants/s8/dy11db1dy11w10db1r11db1r11~x2/)|
+|![St. Andrews (Queens University) (Cor example sett](/variants/s8/dy11db1dy11w10db1r11db1r11~x2/sett.png)|

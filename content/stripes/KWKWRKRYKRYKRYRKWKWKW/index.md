@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clutha](/setts/s21/w6k4w3k3w2k18o1ly5o1k3ly2o1k3ly2o1k32o2w6k3w6k3~x2/)|
-|![Clutha example sett](/setts/s21/w6k4w3k3w2k18o1ly5o1k3ly2o1k3ly2o1k32o2w6k3w6k3~x2/sett.png)|
+| [Clutha](/variants/s21/w6k4w3k3w2k18o1ly5o1k3ly2o1k3ly2o1k32o2w6k3w6k3~x2/)|
+|![Clutha example sett](/variants/s21/w6k4w3k3w2k18o1ly5o1k3ly2o1k3ly2o1k32o2w6k3w6k3~x2/sett.png)|

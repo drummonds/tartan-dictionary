@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donside Trampoline Club](/setts/s17/b12k2b2k2b2k2b2k12lt5k1m2k1lt5k12b12k1w2~x2/)|
-|![Donside Trampoline Club example sett](/setts/s17/b12k2b2k2b2k2b2k12lt5k1m2k1lt5k12b12k1w2~x2/sett.png)|
+| [Donside Trampoline Club](/variants/s17/b12k2b2k2b2k2b2k12lt5k1m2k1lt5k12b12k1w2~x2/)|
+|![Donside Trampoline Club example sett](/variants/s17/b12k2b2k2b2k2b2k12lt5k1m2k1lt5k12b12k1w2~x2/sett.png)|

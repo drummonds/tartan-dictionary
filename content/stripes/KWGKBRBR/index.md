@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Purves (2014)](/setts/s8/ki4w1dg12k3db16r1db1r1~x2/)|
-|![Purves (2014) example sett](/setts/s8/ki4w1dg12k3db16r1db1r1~x2/sett.png)|
+| [Purves (2014)](/variants/s8/ki4w1dg12k3db16r1db1r1~x2/)|
+|![Purves (2014) example sett](/variants/s8/ki4w1dg12k3db16r1db1r1~x2/sett.png)|

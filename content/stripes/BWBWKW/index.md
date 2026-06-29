@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ailsa, Navy (Dance)](/setts/s6/db8w3db28w32k3w4~x2/)|
-|![Ailsa, Navy (Dance) example sett](/setts/s6/db8w3db28w32k3w4~x2/sett.png)|
+| [Ailsa, Navy (Dance)](/variants/s6/db8w3db28w32k3w4~x2/)|
+|![Ailsa, Navy (Dance) example sett](/variants/s6/db8w3db28w32k3w4~x2/sett.png)|

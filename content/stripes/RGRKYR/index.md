@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Victoria, City of (British Columbia)](/setts/s6/r5g2ri2k2lo7r2~x4/)|
-|![Victoria, City of (British Columbia) example sett](/setts/s6/r5g2ri2k2lo7r2~x4/sett.png)|
+| [Victoria, City of (British Columbia)](/variants/s6/r5g2ri2k2lo7r2~x4/)|
+|![Victoria, City of (British Columbia) example sett](/variants/s6/r5g2ri2k2lo7r2~x4/sett.png)|

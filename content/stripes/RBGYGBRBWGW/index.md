@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kremlin Zoria](/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/)|
-|![Kremlin Zoria example sett](/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/sett.png)|
+| [Kremlin Zoria](/variants/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/)|
+|![Kremlin Zoria example sett](/variants/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/sett.png)|

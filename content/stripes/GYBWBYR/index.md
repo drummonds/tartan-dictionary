@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Northern Ontario (District)](/setts/s7/r19lr5b2w12b2ly4g8~x2/)|
-|![Northern Ontario (District) example sett](/setts/s7/r19lr5b2w12b2ly4g8~x2/sett.png)|
+| [Northern Ontario (District)](/variants/s7/r19lr5b2w12b2ly4g8~x2/)|
+|![Northern Ontario (District) example sett](/variants/s7/r19lr5b2w12b2ly4g8~x2/sett.png)|

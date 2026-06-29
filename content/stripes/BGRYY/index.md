@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wild Mustard Dreams](/setts/s5/lo17ly17o17g26b5~x2/)|
-|![Wild Mustard Dreams example sett](/setts/s5/lo17ly17o17g26b5~x2/sett.png)|
+| [Wild Mustard Dreams](/variants/s5/lo17ly17o17g26b5~x2/)|
+|![Wild Mustard Dreams example sett](/variants/s5/lo17ly17o17g26b5~x2/sett.png)|

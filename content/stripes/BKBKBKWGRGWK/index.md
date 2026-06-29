@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fruin Colquhoun](/setts/s12/k19w3g19r5g19w3k19db19k3db2k3db19~x2/)|
-|![Fruin Colquhoun example sett](/setts/s12/k19w3g19r5g19w3k19db19k3db2k3db19~x2/sett.png)|
+| [Fruin Colquhoun](/variants/s12/k19w3g19r5g19w3k19db19k3db2k3db19~x2/)|
+|![Fruin Colquhoun example sett](/variants/s12/k19w3g19r5g19w3k19db19k3db2k3db19~x2/sett.png)|

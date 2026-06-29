@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian Hotel (Corporate)](/setts/s8/n9db1n1db1n1db7k7r2~x4/)|
-|![Caledonian Hotel (Corporate) example sett](/setts/s8/n9db1n1db1n1db7k7r2~x4/sett.png)|
+| [Caledonian Hotel (Corporate)](/variants/s8/n9db1n1db1n1db7k7r2~x4/)|
+|![Caledonian Hotel (Corporate) example sett](/variants/s8/n9db1n1db1n1db7k7r2~x4/sett.png)|

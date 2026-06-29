@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eidart, Scotch House](/setts/s12/y4w2y2w3y20db6r3db2r2db2r17db3~x2/)|
-|![Eidart, Scotch House example sett](/setts/s12/y4w2y2w3y20db6r3db2r2db2r17db3~x2/sett.png)|
+| [Eidart, Scotch House](/variants/s12/y4w2y2w3y20db6r3db2r2db2r17db3~x2/)|
+|![Eidart, Scotch House example sett](/variants/s12/y4w2y2w3y20db6r3db2r2db2r17db3~x2/sett.png)|

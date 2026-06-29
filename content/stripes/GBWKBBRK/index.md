@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yates](/setts/s8/k37r4db30n7k10w5n10y7~x2/)|
-|![Yates example sett](/setts/s8/k37r4db30n7k10w5n10y7~x2/sett.png)|
+| [Yates](/variants/s8/k37r4db30n7k10w5n10y7~x2/)|
+|![Yates example sett](/variants/s8/k37r4db30n7k10w5n10y7~x2/sett.png)|

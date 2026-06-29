@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ross Wedding Dress](/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/)|
-|![Ross Wedding Dress example sett](/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/sett.png)|
+| [Ross Wedding Dress](/variants/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/)|
+|![Ross Wedding Dress example sett](/variants/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/sett.png)|

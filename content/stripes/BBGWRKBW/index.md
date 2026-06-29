@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Italian](/setts/s8/db11dt5g4w3r3k16dt28lb2~x2/)|
-|![Scottish Italian example sett](/setts/s8/db11dt5g4w3r3k16dt28lb2~x2/sett.png)|
+| [Scottish Italian](/variants/s8/db11dt5g4w3r3k16dt28lb2~x2/)|
+|![Scottish Italian example sett](/variants/s8/db11dt5g4w3r3k16dt28lb2~x2/sett.png)|

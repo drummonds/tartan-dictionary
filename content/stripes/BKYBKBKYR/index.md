@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Midnight Glen (Fashion)](/setts/s9/dp3k40lr3dp6k10dp10k3lr1o3~x2/)|
-|![Midnight Glen (Fashion) example sett](/setts/s9/dp3k40lr3dp6k10dp10k3lr1o3~x2/sett.png)|
+| [Midnight Glen (Fashion)](/variants/s9/dp3k40lr3dp6k10dp10k3lr1o3~x2/)|
+|![Midnight Glen (Fashion) example sett](/variants/s9/dp3k40lr3dp6k10dp10k3lr1o3~x2/sett.png)|

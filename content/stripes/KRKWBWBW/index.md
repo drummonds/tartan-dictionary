@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Immanuel Presbyterian Church (Milwaukee)](/setts/s8/k3r2k14lt2db6lt2db16lt3~x2/)|
-|![Immanuel Presbyterian Church (Milwaukee) example sett](/setts/s8/k3r2k14lt2db6lt2db16lt3~x2/sett.png)|
+| [Immanuel Presbyterian Church (Milwaukee)](/variants/s8/k3r2k14lt2db6lt2db16lt3~x2/)|
+|![Immanuel Presbyterian Church (Milwaukee) example sett](/variants/s8/k3r2k14lt2db6lt2db16lt3~x2/sett.png)|

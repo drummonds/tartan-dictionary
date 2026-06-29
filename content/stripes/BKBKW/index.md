@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Spirit (Fashion)](/setts/s5/dp15k5dp15k21w2~x2/)|
-|![Highland Spirit (Fashion) example sett](/setts/s5/dp15k5dp15k21w2~x2/sett.png)|
-| [MacNeil - 1994 (Personal)](/setts/s5/b30k12dt12k2w3~x2/)|
-|![MacNeil - 1994 (Personal) example sett](/setts/s5/b30k12dt12k2w3~x2/sett.png)|
+| [Highland Spirit (Fashion)](/variants/s5/dp15k5dp15k21w2~x2/)|
+|![Highland Spirit (Fashion) example sett](/variants/s5/dp15k5dp15k21w2~x2/sett.png)|
+| [MacNeil - 1994 (Personal)](/variants/s5/b30k12dt12k2w3~x2/)|
+|![MacNeil - 1994 (Personal) example sett](/variants/s5/b30k12dt12k2w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brown of the Southeast (Personal)](/setts/s8/n12dg2n4dg2n4k33dg13r4~x2/)|
-|![Brown of the Southeast (Personal) example sett](/setts/s8/n12dg2n4dg2n4k33dg13r4~x2/sett.png)|
+| [Brown of the Southeast (Personal)](/variants/s8/n12dg2n4dg2n4k33dg13r4~x2/)|
+|![Brown of the Southeast (Personal) example sett](/variants/s8/n12dg2n4dg2n4k33dg13r4~x2/sett.png)|

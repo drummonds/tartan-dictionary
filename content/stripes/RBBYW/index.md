@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jamieson, Robert (Personal)](/setts/s5/lb6lo6b21dt32r3~x2/)|
-|![Jamieson, Robert (Personal) example sett](/setts/s5/lb6lo6b21dt32r3~x2/sett.png)|
+| [Jamieson, Robert (Personal)](/variants/s5/lb6lo6b21dt32r3~x2/)|
+|![Jamieson, Robert (Personal) example sett](/variants/s5/lb6lo6b21dt32r3~x2/sett.png)|

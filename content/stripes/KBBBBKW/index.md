@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mary Washington](/setts/s7/k1db6t1dt6t6k1w1~x6/)|
-|![Mary Washington example sett](/setts/s7/k1db6t1dt6t6k1w1~x6/sett.png)|
+| [Mary Washington](/variants/s7/k1db6t1dt6t6k1w1~x6/)|
+|![Mary Washington example sett](/variants/s7/k1db6t1dt6t6k1w1~x6/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Derbyshire](/setts/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/)|
-|![Derbyshire example sett](/setts/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/sett.png)|
+| [Derbyshire](/variants/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/)|
+|![Derbyshire example sett](/variants/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/sett.png)|

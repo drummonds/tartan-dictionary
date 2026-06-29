@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mearns Castle High School](/setts/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/)|
-|![Mearns Castle High School example sett](/setts/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/sett.png)|
+| [Mearns Castle High School](/variants/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/)|
+|![Mearns Castle High School example sett](/variants/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braes High School Falkirk (School)](/setts/s5/w5r5w5k15r2~x2/)|
-|![Braes High School Falkirk (School) example sett](/setts/s5/w5r5w5k15r2~x2/sett.png)|
+| [Braes High School Falkirk (School)](/variants/s5/w5r5w5k15r2~x2/)|
+|![Braes High School Falkirk (School) example sett](/variants/s5/w5r5w5k15r2~x2/sett.png)|

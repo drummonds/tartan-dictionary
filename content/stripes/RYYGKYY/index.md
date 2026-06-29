@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLachlan W](/tartans/r24lr2ly3dg16k16lr2ly3/)|
-|![MacLachlan W example sett](/setts/s7/r24lr2ly3dg16k16lr2ly3/sett.png)|
+| [MacLachlan W](/setts/r24lr2ly3dg16k16lr2ly3/)|
+|![MacLachlan W example sett](/variants/s7/r24lr2ly3dg16k16lr2ly3/sett.png)|

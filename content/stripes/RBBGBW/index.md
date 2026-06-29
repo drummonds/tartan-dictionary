@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lanark (Fashion #1)](/setts/s6/r1db3dr1g3dr5lb1~x4/)|
-|![Lanark (Fashion #1) example sett](/setts/s6/r1db3dr1g3dr5lb1~x4/sett.png)|
+| [Lanark (Fashion #1)](/variants/s6/r1db3dr1g3dr5lb1~x4/)|
+|![Lanark (Fashion #1) example sett](/variants/s6/r1db3dr1g3dr5lb1~x4/sett.png)|

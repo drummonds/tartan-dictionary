@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lomond Mist](/setts/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/)|
-|![Lomond Mist example sett](/setts/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/sett.png)|
+| [Lomond Mist](/variants/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/)|
+|![Lomond Mist example sett](/variants/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Michael Pellicci (Personal)](/setts/s9/dg60db1lo5k1r15k1w15k1dg15~x2/)|
-|![Michael Pellicci (Personal) example sett](/setts/s9/dg60db1lo5k1r15k1w15k1dg15~x2/sett.png)|
-| [Pellicci, Michael (Personal)](/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/)|
-|![Pellicci, Michael (Personal) example sett](/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/sett.png)|
+| [Michael Pellicci (Personal)](/variants/s9/dg60db1lo5k1r15k1w15k1dg15~x2/)|
+|![Michael Pellicci (Personal) example sett](/variants/s9/dg60db1lo5k1r15k1w15k1dg15~x2/sett.png)|
+| [Pellicci, Michael (Personal)](/variants/s9/g60db1lo5k1r15k1w15k1g15~x2/)|
+|![Pellicci, Michael (Personal) example sett](/variants/s9/g60db1lo5k1r15k1w15k1g15~x2/sett.png)|

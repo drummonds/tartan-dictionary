@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fujisankei Serene (Corporate)](/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/)|
-|![Fujisankei Serene (Corporate) example sett](/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/sett.png)|
+| [Fujisankei Serene (Corporate)](/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4/)|
+|![Fujisankei Serene (Corporate) example sett](/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4/sett.png)|

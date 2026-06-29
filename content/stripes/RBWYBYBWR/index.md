@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Outlander #2](/setts/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/)|
-|![Outlander #2 example sett](/setts/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/sett.png)|
+| [Outlander #2](/variants/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/)|
+|![Outlander #2 example sett](/variants/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/sett.png)|

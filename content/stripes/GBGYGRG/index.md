@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shannon (?)](/setts/s7/dy48dp11g16ly16dy11r3dy11~x2/)|
-|![Shannon (?) example sett](/setts/s7/dy48dp11g16ly16dy11r3dy11~x2/sett.png)|
+| [Shannon (?)](/variants/s7/dy48dp11g16ly16dy11r3dy11~x2/)|
+|![Shannon (?) example sett](/variants/s7/dy48dp11g16ly16dy11r3dy11~x2/sett.png)|

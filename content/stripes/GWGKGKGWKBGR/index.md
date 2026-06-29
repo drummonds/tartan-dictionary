@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacInnes Dress (Dalgliesh)](/setts/s12/r4g16db24k4w4g24k3g3k3g3w24g4/)|
-|![MacInnes Dress (Dalgliesh) example sett](/setts/s12/r4g16db24k4w4g24k3g3k3g3w24g4/sett.png)|
+| [MacInnes Dress (Dalgliesh)](/variants/s12/r4g16db24k4w4g24k3g3k3g3w24g4/)|
+|![MacInnes Dress (Dalgliesh) example sett](/variants/s12/r4g16db24k4w4g24k3g3k3g3w24g4/sett.png)|

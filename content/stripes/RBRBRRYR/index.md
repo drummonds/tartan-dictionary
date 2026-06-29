@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oakwood Purple (Fashion)](/setts/s8/r13db2r2db2r4m10lr2m2~x4/)|
-|![Oakwood Purple (Fashion) example sett](/setts/s8/r13db2r2db2r4m10lr2m2~x4/sett.png)|
+| [Oakwood Purple (Fashion)](/variants/s8/r13db2r2db2r4m10lr2m2~x4/)|
+|![Oakwood Purple (Fashion) example sett](/variants/s8/r13db2r2db2r4m10lr2m2~x4/sett.png)|

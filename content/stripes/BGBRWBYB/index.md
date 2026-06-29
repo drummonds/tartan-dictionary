@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elora (District)](/setts/s8/dt2g2dt11o2w8t12ly2t2~x2/)|
-|![Elora (District) example sett](/setts/s8/dt2g2dt11o2w8t12ly2t2~x2/sett.png)|
+| [Elora (District)](/variants/s8/dt2g2dt11o2w8t12ly2t2~x2/)|
+|![Elora (District) example sett](/variants/s8/dt2g2dt11o2w8t12ly2t2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ohio](/setts/s9/db16w6r8db3ly1g1b3db1g9~x2/)|
-|![Ohio example sett](/setts/s9/db16w6r8db3ly1g1b3db1g9~x2/sett.png)|
-| [Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/)|
-|![Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/sett.png)|
+| [Ohio](/variants/s9/db16w6r8db3ly1g1b3db1g9~x2/)|
+|![Ohio example sett](/variants/s9/db16w6r8db3ly1g1b3db1g9~x2/sett.png)|
+| [Ohio District Tartan](/variants/s9/db16w6r8db3ly1g1t3db1g9~x2/)|
+|![Ohio District Tartan example sett](/variants/s9/db16w6r8db3ly1g1t3db1g9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Del Forno Wolf (Personal)](/setts/s8/g38n8b3db4n12lo1g4n1~x2/)|
-|![Del Forno Wolf (Personal) example sett](/setts/s8/g38n8b3db4n12lo1g4n1~x2/sett.png)|
+| [Del Forno Wolf (Personal)](/variants/s8/g38n8b3db4n12lo1g4n1~x2/)|
+|![Del Forno Wolf (Personal) example sett](/variants/s8/g38n8b3db4n12lo1g4n1~x2/sett.png)|

@@ -1,0 +1,53 @@
+---
+title: "Louisburg Canadian District Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o22ly10w3k8/)
+(the same proportion at any scale), whose colour order is pattern [KWYR](/stripes/kwyr/).
+
+Part of the [Louisburg](/tartans/louisburg/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5500
+
+## Provenance
+
+Earliest known date: 1994 Louisburg is a tiny seaside town in Nova Scotia about 20 miles southeast of Sydney and site of the 1758 Battle of Louisburgh. It was designed by Edith MacIntyre of Louisbourg with the assistance of Jean Kyte and Jean composed the following poem about the colours. CIDD count slightly different - RB/20 W8 Y20 LN/34 (John Fitzpatrick's July 2008 review of Canadian tartans). Gray fog and sea and rocks. The yellow sun. white spindrift on the harbour restless beneath an azure sky. Curent owners (2008): The Louisbourg Heritage Society P.O. Box 396 Louisbourg, B0A 1M0 Nova Scotia, Canada
+
+## Thread count
+N/44 Y20 W6 B/16
+
+One full sett is **112 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(5 of 6 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> <small style="color:#888">#888888</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.7% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> <small style="color:#888">#F8F8F8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(97.9% 0.000 89.9)</small></td></tr><tr><td>/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="N/44 Y20 W6 B/16 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/o22ly10w3db8/"><img src="/variants/s4/o22ly10w3db8~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/o22ly10w3db8/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=o22ly10w3k8~x2">Louisburg Canadian District Tartan</a> <a class="nn-out" href="/variants/s4/o22ly10w3k8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/o22ly10w3k8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.82</div><div class="nn-name"><a href="/ttd/edit/#slug=ly40b8k20g11~x2&amp;base=o22ly10w3k8~x2">Brun, Pierre Emmanuel (Personal)</a> <a class="nn-out" href="/variants/s4/ly40b8k20g11~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly40b8k20g11~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.88</div><div class="nn-name"><a href="/ttd/edit/#slug=k3w3k3ly10r1~x6&amp;base=o22ly10w3k8~x2">Burberry (Genuine)</a> <a class="nn-out" href="/variants/s5/k3w3k3ly10r1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.04</div><div class="nn-name"><a href="/ttd/edit/#slug=o22ly10w3db8~x2&amp;base=o22ly10w3k8~x2">Louisburg</a> <a class="nn-out" href="/variants/s4/o22ly10w3db8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/o22ly10w3db8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=y26k10r10ly10y3~x2&amp;base=o22ly10w3k8~x2">Ikelman No 2</a> <a class="nn-out" href="/variants/s5/y26k10r10ly10y3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/y26k10r10ly10y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.12</div><div class="nn-name"><a href="/ttd/edit/#slug=k6w6k6lo21r2~x4&amp;base=o22ly10w3k8~x2">Burberry Check Corporate Tartan</a> <a class="nn-out" href="/variants/s5/k6w6k6lo21r2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k6w6k6lo21r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=g22w14r7ly2~x2&amp;base=o22ly10w3k8~x2">Loch Lomond #3</a> <a class="nn-out" href="/variants/s4/g22w14r7ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g22w14r7ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.23</div><div class="nn-name"><a href="/ttd/edit/#slug=db3dg6ly1r3~x10&amp;base=o22ly10w3k8~x2">Delroeux, John Michael (Personal)</a> <a class="nn-out" href="/variants/s4/db3dg6ly1r3~x10/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3dg6ly1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=r4k25ly25w4~x2&amp;base=o22ly10w3k8~x2">Bonhill Primary School</a> <a class="nn-out" href="/variants/s4/r4k25ly25w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r4k25ly25w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=db3w25k25r3~x2&amp;base=o22ly10w3k8~x2">Gleneckley</a> <a class="nn-out" href="/variants/s4/db3w25k25r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3w25k25r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.37</div><div class="nn-name"><a href="/ttd/edit/#slug=db10w3db12ly14r4~x2&amp;base=o22ly10w3k8~x2">MacLeod, of Argentina</a> <a class="nn-out" href="/variants/s5/db10w3db12ly14r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db10w3db12ly14r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/ly40b8k20g11~x2/"><circle cx="167.1" cy="240.9" r="4" fill="#3465a4"><title>Brun, Pierre Emmanuel (Personal)</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="222.6" cy="195.8" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/variants/s4/o22ly10w3db8~x2/"><circle cx="218.7" cy="236.7" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s5/y26k10r10ly10y3~x2/"><circle cx="199.2" cy="216.5" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/variants/s5/k6w6k6lo21r2~x4/"><circle cx="243.9" cy="198.7" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan</title></circle></a><a href="/variants/s4/g22w14r7ly2~x2/"><circle cx="213.9" cy="214.1" r="4" fill="#3465a4"><title>Loch Lomond #3</title></circle></a><a href="/variants/s4/db3dg6ly1r3~x10/"><circle cx="170.4" cy="258.1" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/r4k25ly25w4~x2/"><circle cx="184.8" cy="225.6" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s4/db3w25k25r3~x2/"><circle cx="211.2" cy="212.6" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><a href="/variants/s5/db10w3db12ly14r4~x2/"><circle cx="186.2" cy="256.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><circle cx="200.1" cy="228.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s4/o22ly10w3k8~x2/

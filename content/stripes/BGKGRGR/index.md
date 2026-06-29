@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Casely of Mannerston (Personal)](/setts/s7/db50g4k22g23r1g1r2~x2/)|
-|![Casely of Mannerston (Personal) example sett](/setts/s7/db50g4k22g23r1g1r2~x2/sett.png)|
+| [Casely of Mannerston (Personal)](/variants/s7/db50g4k22g23r1g1r2~x2/)|
+|![Casely of Mannerston (Personal) example sett](/variants/s7/db50g4k22g23r1g1r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNathair Sgianach](/setts/s4/db1r1k12g1~x4/)|
-|![MacNathair Sgianach example sett](/setts/s4/db1r1k12g1~x4/sett.png)|
+| [MacNathair Sgianach](/variants/s4/db1r1k12g1~x4/)|
+|![MacNathair Sgianach example sett](/variants/s4/db1r1k12g1~x4/sett.png)|

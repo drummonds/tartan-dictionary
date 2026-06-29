@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks (Muted Loden)](/setts/s8/dy3g6dg2r2dg14g2dg2dy3~x2/)|
-|![Daks (Muted Loden) example sett](/setts/s8/dy3g6dg2r2dg14g2dg2dy3~x2/sett.png)|
+| [Daks (Muted Loden)](/variants/s8/dy3g6dg2r2dg14g2dg2dy3~x2/)|
+|![Daks (Muted Loden) example sett](/variants/s8/dy3g6dg2r2dg14g2dg2dy3~x2/sett.png)|

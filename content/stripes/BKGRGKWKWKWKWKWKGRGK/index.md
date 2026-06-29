@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highfield Dress](/setts/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/)|
-|![Highfield Dress example sett](/setts/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/sett.png)|
+| [Highfield Dress](/variants/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/)|
+|![Highfield Dress example sett](/variants/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/sett.png)|

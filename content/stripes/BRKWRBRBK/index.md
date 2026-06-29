@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [United Arrows House Check](/setts/s9/db45r4k20lb3o9dr4o3dr9k11~x2/)|
-|![United Arrows House Check example sett](/setts/s9/db45r4k20lb3o9dr4o3dr9k11~x2/sett.png)|
+| [United Arrows House Check](/variants/s9/db45r4k20lb3o9dr4o3dr9k11~x2/)|
+|![United Arrows House Check example sett](/variants/s9/db45r4k20lb3o9dr4o3dr9k11~x2/sett.png)|

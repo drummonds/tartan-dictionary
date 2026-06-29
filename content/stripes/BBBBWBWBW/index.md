@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lindsay (Dance)](/setts/s9/w29n2w2n2w2n14dr31n2dr3~x2/)|
-|![Lindsay (Dance) example sett](/setts/s9/w29n2w2n2w2n14dr31n2dr3~x2/sett.png)|
+| [Lindsay (Dance)](/variants/s9/w29n2w2n2w2n14dr31n2dr3~x2/)|
+|![Lindsay (Dance) example sett](/variants/s9/w29n2w2n2w2n14dr31n2dr3~x2/sett.png)|

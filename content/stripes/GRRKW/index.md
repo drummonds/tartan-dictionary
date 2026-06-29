@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kenspeckle](/setts/s5/g50r1ri20k2w1~x2/)|
-|![Kenspeckle example sett](/setts/s5/g50r1ri20k2w1~x2/sett.png)|
+| [Kenspeckle](/variants/s5/g50r1ri20k2w1~x2/)|
+|![Kenspeckle example sett](/variants/s5/g50r1ri20k2w1~x2/sett.png)|

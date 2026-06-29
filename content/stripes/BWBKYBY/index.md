@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [East Carolina University](/setts/s7/p13w2p8k5ly10p75ly3~x2/)|
-|![East Carolina University example sett](/setts/s7/p13w2p8k5ly10p75ly3~x2/sett.png)|
-| [East Carolina University (Corp.)](/setts/s7/dp13w2dp8k5lo10dp75lo3~x2/)|
-|![East Carolina University (Corp.) example sett](/setts/s7/dp13w2dp8k5lo10dp75lo3~x2/sett.png)|
+| [East Carolina University](/variants/s7/p13w2p8k5ly10p75ly3~x2/)|
+|![East Carolina University example sett](/variants/s7/p13w2p8k5ly10p75ly3~x2/sett.png)|
+| [East Carolina University (Corp.)](/variants/s7/dp13w2dp8k5lo10dp75lo3~x2/)|
+|![East Carolina University (Corp.) example sett](/variants/s7/dp13w2dp8k5lo10dp75lo3~x2/sett.png)|

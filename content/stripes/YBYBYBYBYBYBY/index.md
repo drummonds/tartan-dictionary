@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian Airways (Corporate)](/setts/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/)|
-|![Caledonian Airways (Corporate) example sett](/setts/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/sett.png)|
+| [Caledonian Airways (Corporate)](/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/)|
+|![Caledonian Airways (Corporate) example sett](/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/sett.png)|

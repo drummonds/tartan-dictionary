@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [RAF Kinloss (Military)](/setts/s14/t10r4t44lr8t8t4lr4t4lr50t8lr6t5g4t6/)|
-|![RAF Kinloss (Military) example sett](/setts/s14/t10r4t44lr8t8t4lr4t4lr50t8lr6t5g4t6/sett.png)|
+| [RAF Kinloss (Military)](/variants/s14/t10r4t44lr8t8t4lr4t4lr50t8lr6t5g4t6/)|
+|![RAF Kinloss (Military) example sett](/variants/s14/t10r4t44lr8t8t4lr4t4lr50t8lr6t5g4t6/sett.png)|

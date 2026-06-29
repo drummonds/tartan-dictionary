@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rosie O'Grady (P&D) (Corporate)](/setts/s9/k35r6db6r6k16db48r36k6r6/)|
-|![Rosie O'Grady (P&D) (Corporate) example sett](/setts/s9/k35r6db6r6k16db48r36k6r6/sett.png)|
+| [Rosie O'Grady (P&D) (Corporate)](/variants/s9/k35r6db6r6k16db48r36k6r6/)|
+|![Rosie O'Grady (P&D) (Corporate) example sett](/variants/s9/k35r6db6r6k16db48r36k6r6/sett.png)|

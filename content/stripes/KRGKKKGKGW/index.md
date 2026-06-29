@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Chieftain](/setts/s10/k19r1dg3k2k3k2dg2k2dg20w2~x2/)|
-|![Scottish Chieftain example sett](/setts/s10/k19r1dg3k2k3k2dg2k2dg20w2~x2/sett.png)|
+| [Scottish Chieftain](/variants/s10/k19r1dg3k2k3k2dg2k2dg20w2~x2/)|
+|![Scottish Chieftain example sett](/variants/s10/k19r1dg3k2k3k2dg2k2dg20w2~x2/sett.png)|

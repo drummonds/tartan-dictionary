@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathtay](/setts/s13/y6dg2y2dg5k20o2k2o25dr2o2dr4dy10k2~x2/)|
-|![Strathtay example sett](/setts/s13/y6dg2y2dg5k20o2k2o25dr2o2dr4dy10k2~x2/sett.png)|
+| [Strathtay](/variants/s13/y6dg2y2dg5k20o2k2o25dr2o2dr4dy10k2~x2/)|
+|![Strathtay example sett](/variants/s13/y6dg2y2dg5k20o2k2o25dr2o2dr4dy10k2~x2/sett.png)|

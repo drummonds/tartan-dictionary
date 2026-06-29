@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Big Spruce Brewing](/setts/s6/dg11lo1dg1lo6k1lo1~x4/)|
-|![Big Spruce Brewing example sett](/setts/s6/dg11lo1dg1lo6k1lo1~x4/sett.png)|
-| [Big Spruce Brewing](/setts/s6/dg11ly1dg1ly6k1ly1~x8/)|
-|![Big Spruce Brewing example sett](/setts/s6/dg11ly1dg1ly6k1ly1~x8/sett.png)|
+| [Big Spruce Brewing](/variants/s6/dg11lo1dg1lo6k1lo1~x4/)|
+|![Big Spruce Brewing example sett](/variants/s6/dg11lo1dg1lo6k1lo1~x4/sett.png)|
+| [Big Spruce Brewing](/variants/s6/dg11ly1dg1ly6k1ly1~x8/)|
+|![Big Spruce Brewing example sett](/variants/s6/dg11ly1dg1ly6k1ly1~x8/sett.png)|

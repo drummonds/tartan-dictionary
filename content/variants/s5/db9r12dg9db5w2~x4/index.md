@@ -1,0 +1,51 @@
+---
+title: "Battle of Prestonpans (1745) Herit"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9r12dg9db5w2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBW](/stripes/brgbw/).
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10841/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Battle of Prestonpans Heritage Trust, The
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10841](https://www.tartanregister.gov.uk/tartanDetails?ref=10841)
+- Scottish Tartans Authority (ITI): 10841
+
+## Thread count
+DB/36 R48 G36 DB20 W/8
+
+One full sett is **252 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> <small style="color:#888">#285800</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(41.0% 0.122 135.8)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DB/36 R48 G36 DB20 W/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=db9r12dg9db5w2~x4">Battle of Prestonpans (1745) Herit</a> <a class="nn-out" href="/variants/s5/db9r12dg9db5w2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/db9r12dg9db5w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.78</div><div class="nn-name"><a href="/ttd/edit/#slug=dt6k6dt6r14ly3~x2&amp;base=db9r12dg9db5w2~x4">Chivas Regal</a> <a class="nn-out" href="/variants/s5/dt6k6dt6r14ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dt6k6dt6r14ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.88</div><div class="nn-name"><a href="/ttd/edit/#slug=dt2k2dt2r5ly1~x12&amp;base=db9r12dg9db5w2~x4">Chivas Regal (Corporate)</a> <a class="nn-out" href="/variants/s5/dt2k2dt2r5ly1~x12/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dt2k2dt2r5ly1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=db13k13db13r29ly4~x2&amp;base=db9r12dg9db5w2~x4">Highland Pub Company</a> <a class="nn-out" href="/variants/s5/db13k13db13r29ly4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db13k13db13r29ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=db3r2g5r8db12w3~x2&amp;base=db9r12dg9db5w2~x4">Edinburgh Bus Company (Corporate)</a> <a class="nn-out" href="/variants/s6/db3r2g5r8db12w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3r2g5r8db12w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=r6dg5k5t1~x2&amp;base=db9r12dg9db5w2~x4">Unidentified No 28</a> <a class="nn-out" href="/variants/s4/r6dg5k5t1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r6dg5k5t1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=g21db34r14w6~x2&amp;base=db9r12dg9db5w2~x4">Harbison (2015)</a> <a class="nn-out" href="/variants/s4/g21db34r14w6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g21db34r14w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=t1r6db1t3k3t1~x8&amp;base=db9r12dg9db5w2~x4">MacTavish #2</a> <a class="nn-out" href="/variants/s6/t1r6db1t3k3t1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t1r6db1t3k3t1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=dp5k5g5w1~x4&amp;base=db9r12dg9db5w2~x4">Wilson's No.220</a> <a class="nn-out" href="/variants/s4/dp5k5g5w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp5k5g5w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=lo2db4k1db4m4lo4db1~x8&amp;base=db9r12dg9db5w2~x4">Isle of Gigha (District)</a> <a class="nn-out" href="/variants/s7/lo2db4k1db4m4lo4db1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lo2db4k1db4m4lo4db1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=dp8k11g9r2~x2&amp;base=db9r12dg9db5w2~x4">Norwich Collection No. 60</a> <a class="nn-out" href="/variants/s4/dp8k11g9r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp8k11g9r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt6k6dt6r14ly3~x2/"><circle cx="160.5" cy="269.8" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s5/dt2k2dt2r5ly1~x12/"><circle cx="175.6" cy="262.7" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/variants/s5/db13k13db13r29ly4~x2/"><circle cx="184.1" cy="249.7" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="181.6" cy="231.2" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s4/r6dg5k5t1~x2/"><circle cx="144.1" cy="278.8" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="175.6" cy="267.1" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/t1r6db1t3k3t1~x8/"><circle cx="192.3" cy="235.8" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s4/dp5k5g5w1~x4/"><circle cx="112.4" cy="293.0" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/variants/s7/lo2db4k1db4m4lo4db1~x8/"><circle cx="115.1" cy="251.2" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="157.2" cy="297.7" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><circle cx="150.2" cy="264.3" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/db9r12dg9db5w2~x4/

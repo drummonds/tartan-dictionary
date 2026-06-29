@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eglinton, Duke of (Artefact)](/setts/s5/r15w1db4ly1g15~x4/)|
-|![Eglinton, Duke of (Artefact) example sett](/setts/s5/r15w1db4ly1g15~x4/sett.png)|
+| [Eglinton, Duke of (Artefact)](/variants/s5/r15w1db4ly1g15~x4/)|
+|![Eglinton, Duke of (Artefact) example sett](/variants/s5/r15w1db4ly1g15~x4/sett.png)|

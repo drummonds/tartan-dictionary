@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boyle Family, Susan (Personal)](/setts/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/)|
-|![Boyle Family, Susan (Personal) example sett](/setts/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/sett.png)|
+| [Boyle Family, Susan (Personal)](/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/)|
+|![Boyle Family, Susan (Personal) example sett](/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Equorian Olympic](/setts/s8/db2y1o1dg6w3o3o1y1/)|
-|![Equorian Olympic example sett](/setts/s8/db2y1o1dg6w3o3o1y1/sett.png)|
+| [Equorian Olympic](/variants/s8/db2y1o1dg6w3o3o1y1/)|
+|![Equorian Olympic example sett](/variants/s8/db2y1o1dg6w3o3o1y1/sett.png)|

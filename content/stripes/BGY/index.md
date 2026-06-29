@@ -24,11 +24,11 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.081](/setts/s3/dp10g12ly1~x2/)|
-|![Wilson's No.081 example sett](/setts/s3/dp10g12ly1~x2/sett.png)|
-| [Wilson's No.201](/setts/s3/dp2g4ly1~x4/)|
-|![Wilson's No.201 example sett](/setts/s3/dp2g4ly1~x4/sett.png)|
-| [Wilson's, No 201](/setts/s3/p2g4ly1~x4/)|
-|![Wilson's, No 201 example sett](/setts/s3/p2g4ly1~x4/sett.png)|
-| [Wilson's, No 81](/setts/s3/p5g6ly1~x4/)|
-|![Wilson's, No 81 example sett](/setts/s3/p5g6ly1~x4/sett.png)|
+| [Wilson's No.081](/variants/s3/dp10g12ly1~x2/)|
+|![Wilson's No.081 example sett](/variants/s3/dp10g12ly1~x2/sett.png)|
+| [Wilson's No.201](/variants/s3/dp2g4ly1~x4/)|
+|![Wilson's No.201 example sett](/variants/s3/dp2g4ly1~x4/sett.png)|
+| [Wilson's, No 201](/variants/s3/p2g4ly1~x4/)|
+|![Wilson's, No 201 example sett](/variants/s3/p2g4ly1~x4/sett.png)|
+| [Wilson's, No 81](/variants/s3/p5g6ly1~x4/)|
+|![Wilson's, No 81 example sett](/variants/s3/p5g6ly1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Neill, Red](/setts/s6/g46o20g9o20g46lg5~x2/)|
-|![O'Neill, Red example sett](/setts/s6/g46o20g9o20g46lg5~x2/sett.png)|
+| [O'Neill, Red](/variants/s6/g46o20g9o20g46lg5~x2/)|
+|![O'Neill, Red example sett](/variants/s6/g46o20g9o20g46lg5~x2/sett.png)|

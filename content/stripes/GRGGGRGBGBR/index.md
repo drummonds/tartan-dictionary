@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified, chair covering](/setts/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/)|
-|![Unidentified, chair covering example sett](/setts/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/sett.png)|
+| [Unidentified, chair covering](/variants/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/)|
+|![Unidentified, chair covering example sett](/variants/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/sett.png)|

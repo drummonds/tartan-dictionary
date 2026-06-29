@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Trevison](/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/)|
-|![Trevison example sett](/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/sett.png)|
+| [Trevison](/variants/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/)|
+|![Trevison example sett](/variants/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/sett.png)|

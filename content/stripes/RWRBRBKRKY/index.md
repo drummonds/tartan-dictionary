@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Locky](/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/)|
-|![Locky example sett](/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/sett.png)|
+| [Locky](/variants/s10/r3w2r2db2r2db24k28r2k3ly1~x2/)|
+|![Locky example sett](/variants/s10/r3w2r2db2r2db24k28r2k3ly1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orvis Sports Company](/setts/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4~x2/)|
-|![Orvis Sports Company example sett](/setts/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4~x2/sett.png)|
+| [Orvis Sports Company](/variants/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4~x2/)|
+|![Orvis Sports Company example sett](/variants/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4~x2/sett.png)|

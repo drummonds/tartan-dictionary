@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Midlothian](/setts/s6/db31b4db5k19g20lo4~x2/)|
-|![Midlothian example sett](/setts/s6/db31b4db5k19g20lo4~x2/sett.png)|
-| [Midlothian](/setts/s6/db31b4db5k19g20ly4~x2/)|
-|![Midlothian example sett](/setts/s6/db31b4db5k19g20ly4~x2/sett.png)|
+| [Midlothian](/variants/s6/db31b4db5k19g20ly4~x2/)|
+|![Midlothian example sett](/variants/s6/db31b4db5k19g20ly4~x2/sett.png)|
+| [Midlothian](/variants/s6/db31b4db5k19g20lo4~x2/)|
+|![Midlothian example sett](/variants/s6/db31b4db5k19g20lo4~x2/sett.png)|

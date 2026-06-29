@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilkenny, County](/setts/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/)|
-|![Kilkenny, County example sett](/setts/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/sett.png)|
+| [Kilkenny, County](/variants/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/)|
+|![Kilkenny, County example sett](/variants/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/sett.png)|

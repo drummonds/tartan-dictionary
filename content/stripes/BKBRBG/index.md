@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nicolson of Tiree & Coll (Clan)](/setts/s6/g3db8r11dt3k2dp2~x4/)|
-|![Nicolson of Tiree & Coll (Clan) example sett](/setts/s6/g3db8r11dt3k2dp2~x4/sett.png)|
+| [Nicolson of Tiree & Coll (Clan)](/variants/s6/g3db8r11dt3k2dp2~x4/)|
+|![Nicolson of Tiree & Coll (Clan) example sett](/variants/s6/g3db8r11dt3k2dp2~x4/sett.png)|

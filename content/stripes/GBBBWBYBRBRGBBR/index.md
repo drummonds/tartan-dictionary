@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australian Defence Force Academy, The](/setts/s15/g3dbi1t34dbi2w2dbi2lo2dbi2r2db8r2g3dbi1t2r2~x2/)|
-|![Australian Defence Force Academy, The example sett](/setts/s15/g3dbi1t34dbi2w2dbi2lo2dbi2r2db8r2g3dbi1t2r2~x2/sett.png)|
+| [Australian Defence Force Academy, The](/variants/s15/g3dbi1t34dbi2w2dbi2lo2dbi2r2db8r2g3dbi1t2r2~x2/)|
+|![Australian Defence Force Academy, The example sett](/variants/s15/g3dbi1t34dbi2w2dbi2lo2dbi2r2db8r2g3dbi1t2r2~x2/sett.png)|

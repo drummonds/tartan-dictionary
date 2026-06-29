@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carnegie](/setts/s8/r33g17db50g17r11g17r9k7/)|
-|![Carnegie example sett](/setts/s8/r33g17db50g17r11g17r9k7/sett.png)|
-| [Carnegie #3](/setts/s8/r33dg17db50dg17r11dg17r9k7/)|
-|![Carnegie #3 example sett](/setts/s8/r33dg17db50dg17r11dg17r9k7/sett.png)|
+| [Carnegie](/variants/s8/r33g17db50g17r11g17r9k7/)|
+|![Carnegie example sett](/variants/s8/r33g17db50g17r11g17r9k7/sett.png)|
+| [Carnegie #3](/variants/s8/r33dg17db50dg17r11dg17r9k7/)|
+|![Carnegie #3 example sett](/variants/s8/r33dg17db50dg17r11dg17r9k7/sett.png)|

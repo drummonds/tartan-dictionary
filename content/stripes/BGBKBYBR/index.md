@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lapsley, The Tom](/setts/s8/db35g10t10k10db23ly1db3r2~x2/)|
-|![Lapsley, The Tom example sett](/setts/s8/db35g10t10k10db23ly1db3r2~x2/sett.png)|
-| [Lapsley, The Tom (Personal)](/setts/s8/db35g10t10k10db23lo1db3r2~x2/)|
-|![Lapsley, The Tom (Personal) example sett](/setts/s8/db35g10t10k10db23lo1db3r2~x2/sett.png)|
+| [Lapsley, The Tom](/variants/s8/db35g10t10k10db23ly1db3r2~x2/)|
+|![Lapsley, The Tom example sett](/variants/s8/db35g10t10k10db23ly1db3r2~x2/sett.png)|
+| [Lapsley, The Tom (Personal)](/variants/s8/db35g10t10k10db23lo1db3r2~x2/)|
+|![Lapsley, The Tom (Personal) example sett](/variants/s8/db35g10t10k10db23lo1db3r2~x2/sett.png)|

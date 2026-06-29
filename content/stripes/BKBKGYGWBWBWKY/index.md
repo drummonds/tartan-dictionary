@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon Dress #3](/setts/s14/db2k2db4k4dg4ly1dg4w2db3w14db2w2k2ly1~x4/)|
-|![Gordon Dress #3 example sett](/setts/s14/db2k2db4k4dg4ly1dg4w2db3w14db2w2k2ly1~x4/sett.png)|
-| [Gordon, dress 2](/setts/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/)|
-|![Gordon, dress 2 example sett](/setts/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/sett.png)|
+| [Gordon Dress #3](/variants/s14/db2k2db4k4dg4ly1dg4w2db3w14db2w2k2ly1~x4/)|
+|![Gordon Dress #3 example sett](/variants/s14/db2k2db4k4dg4ly1dg4w2db3w14db2w2k2ly1~x4/sett.png)|
+| [Gordon, dress 2](/variants/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/)|
+|![Gordon, dress 2 example sett](/variants/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/sett.png)|

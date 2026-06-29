@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westgaard Captain (Personal)](/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/)|
-|![Westgaard Captain (Personal) example sett](/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/sett.png)|
+| [Westgaard Captain (Personal)](/variants/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/)|
+|![Westgaard Captain (Personal) example sett](/variants/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Caledonian University (Corp)](/setts/s12/k4w2k25w7t1k5t2k5t1w7k26w2~x2/)|
-|![Glasgow Caledonian University (Corp) example sett](/setts/s12/k4w2k25w7t1k5t2k5t1w7k26w2~x2/sett.png)|
+| [Glasgow Caledonian University (Corp)](/variants/s12/k4w2k25w7t1k5t2k5t1w7k26w2~x2/)|
+|![Glasgow Caledonian University (Corp) example sett](/variants/s12/k4w2k25w7t1k5t2k5t1w7k26w2~x2/sett.png)|

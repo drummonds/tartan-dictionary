@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Innes, hunting](/setts/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/)|
-|![Innes, hunting example sett](/setts/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/sett.png)|
+| [Innes, hunting](/variants/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/)|
+|![Innes, hunting example sett](/variants/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/sett.png)|

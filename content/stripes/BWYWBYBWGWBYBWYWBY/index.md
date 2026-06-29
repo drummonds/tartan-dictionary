@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Monaghan (Personal)](/setts/s18/y25w2t4lo7t4w2loi25w2t4lo7~x2/)|
-|![O'Monaghan (Personal) example sett](/setts/s18/y25w2t4lo7t4w2loi25w2t4lo7~x2/sett.png)|
+| [O'Monaghan (Personal)](/variants/s18/y25w2t4lo7t4w2loi25w2t4lo7~x2/)|
+|![O'Monaghan (Personal) example sett](/variants/s18/y25w2t4lo7t4w2loi25w2t4lo7~x2/sett.png)|

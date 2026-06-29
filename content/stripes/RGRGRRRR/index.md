@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beck-McSorley](/setts/s8/r1o1m1o7dg7m1dg1m1~x6/)|
-|![Beck-McSorley example sett](/setts/s8/r1o1m1o7dg7m1dg1m1~x6/sett.png)|
+| [Beck-McSorley](/variants/s8/r1o1m1o7dg7m1dg1m1~x6/)|
+|![Beck-McSorley example sett](/variants/s8/r1o1m1o7dg7m1dg1m1~x6/sett.png)|

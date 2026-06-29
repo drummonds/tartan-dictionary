@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Zealand (2003)](/setts/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/)|
-|![New Zealand (2003) example sett](/setts/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/sett.png)|
+| [New Zealand (2003)](/variants/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/)|
+|![New Zealand (2003) example sett](/variants/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/sett.png)|

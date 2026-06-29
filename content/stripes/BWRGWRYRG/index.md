@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotts Valley](/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/)|
-|![Scotts Valley example sett](/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/sett.png)|
+| [Scotts Valley](/variants/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/)|
+|![Scotts Valley example sett](/variants/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Misty Isle (Fashion)](/setts/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2/)|
-|![Misty Isle (Fashion) example sett](/setts/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2/sett.png)|
+| [Misty Isle (Fashion)](/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2/)|
+|![Misty Isle (Fashion) example sett](/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2/sett.png)|

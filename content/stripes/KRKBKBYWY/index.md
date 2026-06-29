@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Victory](/setts/s9/k2r3k36n2k5n7ly3lt5lg2~x2/)|
-|![Victory example sett](/setts/s9/k2r3k36n2k5n7ly3lt5lg2~x2/sett.png)|
+| [Victory](/variants/s9/k2r3k36n2k5n7ly3lt5lg2~x2/)|
+|![Victory example sett](/variants/s9/k2r3k36n2k5n7ly3lt5lg2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weiss-Halliwell (Personal)](/setts/s36/dp6k1o1k2o1k1dp6k1o22k3o1k3o10k1dp3o1k6o1dg3k1o10k3o1k3o22k1dg6k1o1k2o1k1dg6k1o12k1~x2/)|
-|![Weiss-Halliwell (Personal) example sett](/setts/s36/dp6k1o1k2o1k1dp6k1o22k3o1k3o10k1dp3o1k6o1dg3k1o10k3o1k3o22k1dg6k1o1k2o1k1dg6k1o12k1~x2/sett.png)|
+| [Weiss-Halliwell (Personal)](/variants/s36/dp6k1o1k2o1k1dp6k1o22k3o1k3o10k1dp3o1k6o1dg3k1o10k3o1k3o22k1dg6k1o1k2o1k1dg6k1o12k1~x2/)|
+|![Weiss-Halliwell (Personal) example sett](/variants/s36/dp6k1o1k2o1k1dp6k1o22k3o1k3o10k1dp3o1k6o1dg3k1o10k3o1k3o22k1dg6k1o1k2o1k1dg6k1o12k1~x2/sett.png)|

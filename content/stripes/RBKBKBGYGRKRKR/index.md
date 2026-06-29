@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hay Gray (Personal)](/setts/s14/o18k2o2k2o9g10ly2g10dp11k9dp2k2dp1r3~x2/)|
-|![Hay Gray (Personal) example sett](/setts/s14/o18k2o2k2o9g10ly2g10dp11k9dp2k2dp1r3~x2/sett.png)|
+| [Hay Gray (Personal)](/variants/s14/o18k2o2k2o9g10ly2g10dp11k9dp2k2dp1r3~x2/)|
+|![Hay Gray (Personal) example sett](/variants/s14/o18k2o2k2o9g10ly2g10dp11k9dp2k2dp1r3~x2/sett.png)|

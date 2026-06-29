@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anderson, Red (Fashion)](/setts/s20/ri4y5ri2y7r3ri4r3k4lo2k2lo2k4w4k4ri18r1k2r1ri4r3~x2/)|
-|![Anderson, Red (Fashion) example sett](/setts/s20/ri4y5ri2y7r3ri4r3k4lo2k2lo2k4w4k4ri18r1k2r1ri4r3~x2/sett.png)|
+| [Anderson, Red (Fashion)](/variants/s20/ri4y5ri2y7r3ri4r3k4lo2k2lo2k4w4k4ri18r1k2r1ri4r3~x2/)|
+|![Anderson, Red (Fashion) example sett](/variants/s20/ri4y5ri2y7r3ri4r3k4lo2k2lo2k4w4k4ri18r1k2r1ri4r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scania 1658](/setts/s4/r60ly7r5ly2~x2/)|
-|![Scania 1658 example sett](/setts/s4/r60ly7r5ly2~x2/sett.png)|
+| [Scania 1658](/variants/s4/r60ly7r5ly2~x2/)|
+|![Scania 1658 example sett](/variants/s4/r60ly7r5ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seton](/setts/s18/g3w1g6r2dp2r1k2r10g1r2~x8/)|
-|![Seton example sett](/setts/s18/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png)|
+| [Seton](/variants/s18/g3w1g6r2dp2r1k2r10g1r2~x8/)|
+|![Seton example sett](/variants/s18/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png)|

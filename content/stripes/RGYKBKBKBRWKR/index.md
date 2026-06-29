@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKintosh, MacPherson](/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/)|
-|![MacKintosh, MacPherson example sett](/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/sett.png)|
-| [MacKintosh/MacPherson](/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/)|
-|![MacKintosh/MacPherson example sett](/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/sett.png)|
+| [MacKintosh, MacPherson](/variants/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/)|
+|![MacKintosh, MacPherson example sett](/variants/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/sett.png)|
+| [MacKintosh/MacPherson](/variants/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/)|
+|![MacKintosh/MacPherson example sett](/variants/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/sett.png)|

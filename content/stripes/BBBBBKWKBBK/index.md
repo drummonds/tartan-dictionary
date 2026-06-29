@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clergy "Two Spirit" (Personal)](/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/)|
-|![Clergy "Two Spirit" (Personal) example sett](/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/sett.png)|
+| [Clergy "Two Spirit" (Personal)](/variants/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/)|
+|![Clergy "Two Spirit" (Personal) example sett](/variants/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/sett.png)|

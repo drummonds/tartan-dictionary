@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dalveen (2004)](/setts/s7/lg22w1gi6r6gi6ly3g12~x2/)|
-|![Dalveen (2004) example sett](/setts/s7/lg22w1gi6r6gi6ly3g12~x2/sett.png)|
+| [Dalveen (2004)](/variants/s7/lg22w1gi6r6gi6ly3g12~x2/)|
+|![Dalveen (2004) example sett](/variants/s7/lg22w1gi6r6gi6ly3g12~x2/sett.png)|

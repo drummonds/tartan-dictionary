@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Webster](/setts/s10/g32r3dy12b3ly3b3k24k24lb2k4~x2/)|
-|![Webster example sett](/setts/s10/g32r3dy12b3ly3b3k24k24lb2k4~x2/sett.png)|
+| [Webster](/variants/s10/g32r3dy12b3ly3b3k24k24lb2k4~x2/)|
+|![Webster example sett](/variants/s10/g32r3dy12b3ly3b3k24k24lb2k4~x2/sett.png)|

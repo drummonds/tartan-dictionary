@@ -24,9 +24,9 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae, Dress](/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/)|
-|![MacRae, Dress example sett](/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/sett.png)|
-| [McRae, Dress](/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/)|
-|![McRae, Dress example sett](/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/sett.png)|
-| [Scott, (MacRae)](/setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/)|
-|![Scott, (MacRae) example sett](/setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png)|
+| [MacRae, Dress](/variants/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/)|
+|![MacRae, Dress example sett](/variants/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/sett.png)|
+| [McRae, Dress](/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/)|
+|![McRae, Dress example sett](/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/sett.png)|
+| [Scott, (MacRae)](/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/)|
+|![Scott, (MacRae) example sett](/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png)|

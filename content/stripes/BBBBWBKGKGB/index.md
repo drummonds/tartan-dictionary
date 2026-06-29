@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smithers (Name)](/setts/s11/dp2b6n1b3lb1b4k6g5k1g5dp2~x4/)|
-|![Smithers (Name) example sett](/setts/s11/dp2b6n1b3lb1b4k6g5k1g5dp2~x4/sett.png)|
+| [Smithers (Name)](/variants/s11/dp2b6n1b3lb1b4k6g5k1g5dp2~x4/)|
+|![Smithers (Name) example sett](/variants/s11/dp2b6n1b3lb1b4k6g5k1g5dp2~x4/sett.png)|

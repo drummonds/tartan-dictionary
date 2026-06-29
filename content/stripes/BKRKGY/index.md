@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Dance](/setts/s6/db1k4r1k4dg5lr1~x4/)|
-|![Unidentified Dance example sett](/setts/s6/db1k4r1k4dg5lr1~x4/sett.png)|
+| [Unidentified Dance](/variants/s6/db1k4r1k4dg5lr1~x4/)|
+|![Unidentified Dance example sett](/variants/s6/db1k4r1k4dg5lr1~x4/sett.png)|

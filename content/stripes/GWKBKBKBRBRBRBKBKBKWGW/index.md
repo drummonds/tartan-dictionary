@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sutherland Dress (Dance)](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/)|
-|![Sutherland Dress (Dance) example sett](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/sett.png)|
+| [Sutherland Dress (Dance)](/variants/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/)|
+|![Sutherland Dress (Dance) example sett](/variants/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/sett.png)|

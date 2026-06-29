@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Curnow of Kernow (Personal)](/setts/s7/r3ly2dp26k13y2k8w3~x2/)|
-|![Curnow of Kernow (Personal) example sett](/setts/s7/r3ly2dp26k13y2k8w3~x2/sett.png)|
+| [Curnow of Kernow (Personal)](/variants/s7/r3ly2dp26k13y2k8w3~x2/)|
+|![Curnow of Kernow (Personal) example sett](/variants/s7/r3ly2dp26k13y2k8w3~x2/sett.png)|

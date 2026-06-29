@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Entrepreneurial Spark](/setts/s8/k14lo3w8lo4k6w9k31g1~x2/)|
-|![Entrepreneurial Spark example sett](/setts/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png)|
+| [Entrepreneurial Spark](/variants/s8/k14lo3w8lo4k6w9k31g1~x2/)|
+|![Entrepreneurial Spark example sett](/variants/s8/k14lo3w8lo4k6w9k31g1~x2/sett.png)|

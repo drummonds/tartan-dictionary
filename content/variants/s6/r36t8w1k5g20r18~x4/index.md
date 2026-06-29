@@ -1,0 +1,75 @@
+---
+title: "Sinclair"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36t8w1k5g20r18/)
+(the same proportion at any scale), whose colour order is pattern [RBWKGR](/stripes/rbwkgr/).
+
+Part of the [Sinclair](/tartans/sinclair/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from logan-1831.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link /posts/logans-scottish-gael/
+
+## Provenance
+
+<figure class="logan-scan">
+<a href="/sources/logan-1831/setts/sinclair.png"><img src="/sources/logan-1831/setts/sinclair.png" alt="Sinclair: Logan's printed table listing, scanned"></a>
+<figcaption>Logan, The Scottish Gaël (1831), vol. II p. 408 — page-scan crop (349,1294)–(605,1556)</figcaption>
+</figure>
+
+James Logan recorded the **Sinclair** sett in 1831, on page 408 of the *Table of Clan Tartans* in *The Scottish Gaël* — the earliest systematic published collection of clan setts. Logan gives the stripe widths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
+
+> 9 red · 10 green · 2½ black · ½ white · 4 azure · 18 red
+
+In threads (at 8 to the eighth-inch) that is `R/72 G80 K20 W4 A32 R/144`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
+
+## Related setts
+
+Later records of the **Sinclair** name adjusted Logan's counts: [Sinclair (Logan)](/setts/s6/r28g16k4w1b6r28~b202060-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair](/setts/s10/r30g12k5w2b6r30b12w2k5g12~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair Dress (Dance)](/setts/s12/b4r2b31k10g4w21g2w21g4k10b31r2~b38409c-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair Green (Personal)](/setts/s7/g4r2g30b15w2ba15r4~b5c5c5c-ba1c0070-g006818-r880000-wfcfcfc~x2/). Compare their thread counts with Logan's above.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Sinclair Green
+- Sinclair, Green
+
+## Thread count
+R/144 B32 LN4 K20 G80 R/72
+
+One full sett is **488 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">144</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> <small style="color:#888">#5C8CA8</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(61.7% 0.067 235.0)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">80</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">72</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/144 B32 LN4 K20 G80 R/72 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r28g16k4w1db6r28/"><img src="/variants/s6/r28g16k4w1db6r28~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r28g16k4w1db6r28/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r36t8w1k5g20r18~x4">Sinclair</a> <a class="nn-out" href="/variants/s6/r36t8w1k5g20r18~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r36t8w1k5g20r18~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.71</div><div class="nn-name"><a href="/ttd/edit/#slug=g15k10r30dp2r20w1~x2&amp;base=r36t8w1k5g20r18~x4">Kinnaird (Name)</a> <a class="nn-out" href="/variants/s6/g15k10r30dp2r20w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g15k10r30dp2r20w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.94</div><div class="nn-name"><a href="/ttd/edit/#slug=r28g16k4w1t6r28~x2&amp;base=r36t8w1k5g20r18~x4">Sinclair</a> <a class="nn-out" href="/variants/s6/r28g16k4w1t6r28~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r28g16k4w1t6r28~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.96</div><div class="nn-name"><a href="/ttd/edit/#slug=r28g16k4w1db6r28~x2&amp;base=r36t8w1k5g20r18~x4">Sinclair (Logan)</a> <a class="nn-out" href="/variants/s6/r28g16k4w1db6r28~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r28g16k4w1db6r28~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=r40b8r6g24t1k4~x2&amp;base=r36t8w1k5g20r18~x4">MacPhail (Blue Bands)</a> <a class="nn-out" href="/variants/s6/r40b8r6g24t1k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r40b8r6g24t1k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r28dg16k4lr1b6r28~x2&amp;base=r36t8w1k5g20r18~x4">Sinclair Dress</a> <a class="nn-out" href="/variants/s6/r28dg16k4lr1b6r28~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r28dg16k4lr1b6r28~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r28dg16k4lr1b6r28&amp;base=r36t8w1k5g20r18~x4">Sinclair Dress</a> <a class="nn-out" href="/variants/s6/r28dg16k4lr1b6r28/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r28dg16k4lr1b6r28/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=r25db7r3g13t1k2~x4&amp;base=r36t8w1k5g20r18~x4">MacPhail</a> <a class="nn-out" href="/variants/s6/r25db7r3g13t1k2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r25db7r3g13t1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=r52b16k16g22r16lo3r16~x2&amp;base=r36t8w1k5g20r18~x4">Sturrock, Blue/Black (Clan)</a> <a class="nn-out" href="/variants/s7/r52b16k16g22r16lo3r16~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r52b16k16g22r16lo3r16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.32</div><div class="nn-name"><a href="/ttd/edit/#slug=r41g19r7g8k1w3~x2&amp;base=r36t8w1k5g20r18~x4">MacGregor #4</a> <a class="nn-out" href="/variants/s6/r41g19r7g8k1w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r41g19r7g8k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/variants/s8/r24t3w1g9r12~x8/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r24t3w1g9r12~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="396.3" cy="162.0" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/variants/s6/r28g16k4w1t6r28~x2/"><circle cx="402.5" cy="152.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1db6r28~x2/"><circle cx="414.6" cy="156.7" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/variants/s6/r40b8r6g24t1k4~x2/"><circle cx="363.2" cy="130.7" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><a href="/variants/s6/r28dg16k4lr1b6r28~x2/"><circle cx="422.9" cy="165.9" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r28dg16k4lr1b6r28/"><circle cx="422.9" cy="165.9" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r25db7r3g13t1k2~x4/"><circle cx="327.3" cy="143.1" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s7/r52b16k16g22r16lo3r16~x2/"><circle cx="315.9" cy="173.4" r="4" fill="#3465a4"><title>Sturrock, Blue/Black (Clan)</title></circle></a><a href="/variants/s6/r41g19r7g8k1w3~x2/"><circle cx="427.1" cy="138.0" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/variants/s8/r24t3w1g9r12~x8/"><circle cx="372.9" cy="155.2" r="4" fill="#3465a4"><title>Menzies</title></circle></a><circle cx="378.8" cy="147.7" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/r36t8w1k5g20r18~x4/

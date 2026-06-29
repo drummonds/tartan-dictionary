@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Whitson](/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/)|
-|![Whitson example sett](/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/sett.png)|
-| [Whitson (Name)](/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/)|
-|![Whitson (Name) example sett](/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/sett.png)|
+| [Whitson](/variants/s9/w4k1g19ly1k19db13r2db4r2~x2/)|
+|![Whitson example sett](/variants/s9/w4k1g19ly1k19db13r2db4r2~x2/sett.png)|
+| [Whitson (Name)](/variants/s9/lb4k1y19lo1k19n13r2n4r2~x4/)|
+|![Whitson (Name) example sett](/variants/s9/lb4k1y19lo1k19n13r2n4r2~x4/sett.png)|

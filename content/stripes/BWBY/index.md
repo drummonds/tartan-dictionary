@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Genesee Community College](/setts/s4/b18w4b3lo12~x2/)|
-|![Genesee Community College example sett](/setts/s4/b18w4b3lo12~x2/sett.png)|
+| [Genesee Community College](/variants/s4/b18w4b3lo12~x2/)|
+|![Genesee Community College example sett](/variants/s4/b18w4b3lo12~x2/sett.png)|

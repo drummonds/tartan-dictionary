@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Rust (Corporate)](/setts/s8/db21n2lr1n2db1r2db1o6~x4/)|
-|![Blue Rust (Corporate) example sett](/setts/s8/db21n2lr1n2db1r2db1o6~x4/sett.png)|
+| [Blue Rust (Corporate)](/variants/s8/db21n2lr1n2db1r2db1o6~x4/)|
+|![Blue Rust (Corporate) example sett](/variants/s8/db21n2lr1n2db1r2db1o6~x4/sett.png)|

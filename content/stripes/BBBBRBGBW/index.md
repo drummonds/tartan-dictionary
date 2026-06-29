@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scozia (Fashion)](/setts/s9/dt3db4dt24db6r3db4g3db8w3~x2/)|
-|![Scozia (Fashion) example sett](/setts/s9/dt3db4dt24db6r3db4g3db8w3~x2/sett.png)|
+| [Scozia (Fashion)](/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/)|
+|![Scozia (Fashion) example sett](/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/sett.png)|

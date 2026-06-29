@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auckland (Fashion)](/setts/s8/dg3k3db2k16db2k2db24lb2~x2/)|
-|![Auckland (Fashion) example sett](/setts/s8/dg3k3db2k16db2k2db24lb2~x2/sett.png)|
+| [Auckland (Fashion)](/variants/s8/dg3k3db2k16db2k2db24lb2~x2/)|
+|![Auckland (Fashion) example sett](/variants/s8/dg3k3db2k16db2k2db24lb2~x2/sett.png)|

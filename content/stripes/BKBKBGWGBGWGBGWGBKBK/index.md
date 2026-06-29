@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Hockey Union](/setts/s20/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/)|
-|![Scottish Hockey Union example sett](/setts/s20/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/sett.png)|
+| [Scottish Hockey Union](/variants/s20/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/)|
+|![Scottish Hockey Union example sett](/variants/s20/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/sett.png)|

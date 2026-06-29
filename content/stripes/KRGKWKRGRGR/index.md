@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Episcopal Clergy (Corporate)](/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/)|
-|![Episcopal Clergy (Corporate) example sett](/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/sett.png)|
+| [Episcopal Clergy (Corporate)](/variants/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/)|
+|![Episcopal Clergy (Corporate) example sett](/variants/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/sett.png)|

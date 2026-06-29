@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince of Denmark](/setts/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/)|
-|![Prince of Denmark example sett](/setts/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/sett.png)|
+| [Prince of Denmark](/variants/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/)|
+|![Prince of Denmark example sett](/variants/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/sett.png)|

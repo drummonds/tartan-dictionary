@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Autistic Society Scotland](/setts/s3/r24dp16w3~x4/)|
-|![National Autistic Society Scotland example sett](/setts/s3/r24dp16w3~x4/sett.png)|
+| [National Autistic Society Scotland](/variants/s3/r24dp16w3~x4/)|
+|![National Autistic Society Scotland example sett](/variants/s3/r24dp16w3~x4/sett.png)|

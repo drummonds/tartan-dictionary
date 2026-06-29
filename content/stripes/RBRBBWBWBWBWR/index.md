@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hogmany Plaid (Fashion)](/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/)|
-|![Hogmany Plaid (Fashion) example sett](/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/sett.png)|
+| [Hogmany Plaid (Fashion)](/variants/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/)|
+|![Hogmany Plaid (Fashion) example sett](/variants/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/sett.png)|

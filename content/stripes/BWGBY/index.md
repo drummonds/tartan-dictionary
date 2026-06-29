@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bermuda (1986)](/setts/s5/t4w2g17t17lo2~x4/)|
-|![Bermuda (1986) example sett](/setts/s5/t4w2g17t17lo2~x4/sett.png)|
+| [Bermuda (1986)](/variants/s5/t4w2g17t17lo2~x4/)|
+|![Bermuda (1986) example sett](/variants/s5/t4w2g17t17lo2~x4/sett.png)|

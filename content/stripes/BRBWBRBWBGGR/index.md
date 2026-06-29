@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Patterson, William J.M. (Personal)](/setts/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/)|
-|![Patterson, William J.M. (Personal) example sett](/setts/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/sett.png)|
+| [Patterson, William J.M. (Personal)](/variants/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/)|
+|![Patterson, William J.M. (Personal) example sett](/variants/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/sett.png)|

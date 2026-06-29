@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of New Hampshire (Fash.)](/setts/s10/g49b6k12loi4r6g29lo4dy16g7loi4~x2/)|
-|![State Seal of New Hampshire (Fash.) example sett](/setts/s10/g49b6k12loi4r6g29lo4dy16g7loi4~x2/sett.png)|
+| [State Seal of New Hampshire (Fash.)](/variants/s10/g49b6k12loi4r6g29lo4dy16g7loi4~x2/)|
+|![State Seal of New Hampshire (Fash.) example sett](/variants/s10/g49b6k12loi4r6g29lo4dy16g7loi4~x2/sett.png)|

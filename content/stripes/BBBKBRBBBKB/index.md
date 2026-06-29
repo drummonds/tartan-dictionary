@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Paul Henry (Personal)](/setts/s11/dbi4db3n7k9n13r2dbi13db9n7k3n4~x2/)|
-|![Paul Henry (Personal) example sett](/setts/s11/dbi4db3n7k9n13r2dbi13db9n7k3n4~x2/sett.png)|
+| [Paul Henry (Personal)](/variants/s11/dbi4db3n7k9n13r2dbi13db9n7k3n4~x2/)|
+|![Paul Henry (Personal) example sett](/variants/s11/dbi4db3n7k9n13r2dbi13db9n7k3n4~x2/sett.png)|

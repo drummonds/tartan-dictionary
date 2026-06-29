@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stephens Dress](/setts/s9/k9r4k2r20o9r4db18r4w2~x2/)|
-|![Stephens Dress example sett](/setts/s9/k9r4k2r20o9r4db18r4w2~x2/sett.png)|
+| [Stephens Dress](/variants/s9/k9r4k2r20o9r4db18r4w2~x2/)|
+|![Stephens Dress example sett](/variants/s9/k9r4k2r20o9r4db18r4w2~x2/sett.png)|

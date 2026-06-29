@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/)|
-|![Wilson's No.190 example sett](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/sett.png)|
+| [Wilson's No.190](/variants/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/)|
+|![Wilson's No.190 example sett](/variants/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/sett.png)|

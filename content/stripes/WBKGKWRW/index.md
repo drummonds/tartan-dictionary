@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vinther, Niels Christian (Personal)](/setts/s8/lb3m14w1k2g2k16t20lb1~x2/)|
-|![Vinther, Niels Christian (Personal) example sett](/setts/s8/lb3m14w1k2g2k16t20lb1~x2/sett.png)|
+| [Vinther, Niels Christian (Personal)](/variants/s8/lb3m14w1k2g2k16t20lb1~x2/)|
+|![Vinther, Niels Christian (Personal) example sett](/variants/s8/lb3m14w1k2g2k16t20lb1~x2/sett.png)|

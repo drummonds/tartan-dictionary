@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Justus Hunting (Personal)](/setts/s7/db1dg4r1dg1lo1dg4db1~x12/)|
-|![Justus Hunting (Personal) example sett](/setts/s7/db1dg4r1dg1lo1dg4db1~x12/sett.png)|
-| [Justus hunting](/setts/s7/db1g4r1g1ly1g4db1~x12/)|
-|![Justus hunting example sett](/setts/s7/db1g4r1g1ly1g4db1~x12/sett.png)|
+| [Justus Hunting (Personal)](/variants/s7/db1dg4r1dg1lo1dg4db1~x12/)|
+|![Justus Hunting (Personal) example sett](/variants/s7/db1dg4r1dg1lo1dg4db1~x12/sett.png)|
+| [Justus hunting](/variants/s7/db1g4r1g1ly1g4db1~x12/)|
+|![Justus hunting example sett](/variants/s7/db1g4r1g1ly1g4db1~x12/sett.png)|

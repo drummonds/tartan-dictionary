@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Urquhart](/setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/)|
-|![Urquhart example sett](/setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/sett.png)|
-| [Urquhart (Brydone)](/setts/s14/dg1k1dg8k8db8r1db8k8dg1k1dg1k1dg3w1~x2/)|
-|![Urquhart (Brydone) example sett](/setts/s14/dg1k1dg8k8db8r1db8k8dg1k1dg1k1dg3w1~x2/sett.png)|
+| [Urquhart](/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/)|
+|![Urquhart example sett](/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/sett.png)|
+| [Urquhart (Brydone)](/variants/s14/dg1k1dg8k8db8r1db8k8dg1k1dg1k1dg3w1~x2/)|
+|![Urquhart (Brydone) example sett](/variants/s14/dg1k1dg8k8db8r1db8k8dg1k1dg1k1dg3w1~x2/sett.png)|

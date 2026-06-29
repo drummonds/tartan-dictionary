@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Dress (Dance)](/setts/s7/o16r3lb15r18w15o3lb3~x2/)|
-|![Glasgow Dress (Dance) example sett](/setts/s7/o16r3lb15r18w15o3lb3~x2/sett.png)|
+| [Glasgow Dress (Dance)](/variants/s7/o16r3lb15r18w15o3lb3~x2/)|
+|![Glasgow Dress (Dance) example sett](/variants/s7/o16r3lb15r18w15o3lb3~x2/sett.png)|

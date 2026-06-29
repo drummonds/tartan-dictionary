@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Barrie](/setts/s12/b50r3b4k8o4k2ly3k2r12w2r4b4~x2/)|
-|![City of Barrie example sett](/setts/s12/b50r3b4k8o4k2ly3k2r12w2r4b4~x2/sett.png)|
+| [City of Barrie](/variants/s12/b50r3b4k8o4k2ly3k2r12w2r4b4~x2/)|
+|![City of Barrie example sett](/variants/s12/b50r3b4k8o4k2ly3k2r12w2r4b4~x2/sett.png)|

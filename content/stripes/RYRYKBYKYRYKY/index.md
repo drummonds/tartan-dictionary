@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aboyne](/setts/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/)|
-|![Aboyne example sett](/setts/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/sett.png)|
+| [Aboyne](/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/)|
+|![Aboyne example sett](/variants/s13/lo12k1lo1r28lo4k8lr1do11k8lo32r11lo6r4~x2/sett.png)|

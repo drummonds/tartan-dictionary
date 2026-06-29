@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Craigclowan School](/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/)|
-|![Craigclowan School example sett](/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png)|
+| [Craigclowan School](/variants/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/)|
+|![Craigclowan School example sett](/variants/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png)|

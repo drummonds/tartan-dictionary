@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alan Stone Family (Personal)](/setts/s6/r2w6k12db36o12ly1~x2/)|
-|![Alan Stone Family (Personal) example sett](/setts/s6/r2w6k12db36o12ly1~x2/sett.png)|
-| [Stone, Alan (Personal)](/setts/s6/r2w6k12n36o12ly1~x2/)|
-|![Stone, Alan (Personal) example sett](/setts/s6/r2w6k12n36o12ly1~x2/sett.png)|
+| [Alan Stone Family (Personal)](/variants/s6/r2w6k12db36o12ly1~x2/)|
+|![Alan Stone Family (Personal) example sett](/variants/s6/r2w6k12db36o12ly1~x2/sett.png)|
+| [Stone, Alan (Personal)](/variants/s6/r2w6k12n36o12ly1~x2/)|
+|![Stone, Alan (Personal) example sett](/variants/s6/r2w6k12n36o12ly1~x2/sett.png)|

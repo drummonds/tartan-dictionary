@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jaggy Thistle (Fashion)](/setts/s10/lp9n4lp5o4k3o12n18y4n18o6~x2/)|
-|![Jaggy Thistle (Fashion) example sett](/setts/s10/lp9n4lp5o4k3o12n18y4n18o6~x2/sett.png)|
+| [Jaggy Thistle (Fashion)](/variants/s10/lp9n4lp5o4k3o12n18y4n18o6~x2/)|
+|![Jaggy Thistle (Fashion) example sett](/variants/s10/lp9n4lp5o4k3o12n18y4n18o6~x2/sett.png)|

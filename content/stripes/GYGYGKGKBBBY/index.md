@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Nevis #2 (Personal)](/setts/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4/)|
-|![Glen Nevis #2 (Personal) example sett](/setts/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4/sett.png)|
+| [Glen Nevis #2 (Personal)](/variants/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4/)|
+|![Glen Nevis #2 (Personal) example sett](/variants/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4/sett.png)|

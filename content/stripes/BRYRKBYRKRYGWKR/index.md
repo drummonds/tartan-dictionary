@@ -24,7 +24,7 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crubin Plaid (MacPherson)](/setts/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/)|
-|![Crubin Plaid (MacPherson) example sett](/setts/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/sett.png)|
-| [MacPherson, The Crubin Plaid](/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/)|
-|![MacPherson, The Crubin Plaid example sett](/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/sett.png)|
+| [Crubin Plaid (MacPherson)](/variants/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/)|
+|![Crubin Plaid (MacPherson) example sett](/variants/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/sett.png)|
+| [MacPherson, The Crubin Plaid](/variants/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/)|
+|![MacPherson, The Crubin Plaid example sett](/variants/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/sett.png)|

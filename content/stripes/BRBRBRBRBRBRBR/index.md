@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Cairn](/setts/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4/)|
-|![Hebridean Cairn example sett](/setts/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4/sett.png)|
+| [Hebridean Cairn](/variants/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4/)|
+|![Hebridean Cairn example sett](/variants/s14/n18o2n10o3n3o3n2o3n3o3n10o2n18o1~x4/sett.png)|

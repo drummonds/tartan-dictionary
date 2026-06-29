@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rutherford](/setts/s8/k8r1k1r1k4b11ly1b2~x6/)|
-|![Rutherford example sett](/setts/s8/k8r1k1r1k4b11ly1b2~x6/sett.png)|
+| [Rutherford](/variants/s8/k8r1k1r1k4b11ly1b2~x6/)|
+|![Rutherford example sett](/variants/s8/k8r1k1r1k4b11ly1b2~x6/sett.png)|

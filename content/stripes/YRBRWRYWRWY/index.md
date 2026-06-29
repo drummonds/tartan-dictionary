@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nevis Dress](/setts/s11/lr42r10n2r2lb2r2lr10lb6r2lb3lr2~x2/)|
-|![Nevis Dress example sett](/setts/s11/lr42r10n2r2lb2r2lr10lb6r2lb3lr2~x2/sett.png)|
+| [Nevis Dress](/variants/s11/lr42r10n2r2lb2r2lr10lb6r2lb3lr2~x2/)|
+|![Nevis Dress example sett](/variants/s11/lr42r10n2r2lb2r2lr10lb6r2lb3lr2~x2/sett.png)|

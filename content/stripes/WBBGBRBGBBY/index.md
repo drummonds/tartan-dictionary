@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carinthian National](/setts/s11/w3dt16do15dg18do3r3do3dg18do15dt16ly3~x2/)|
-|![Carinthian National example sett](/setts/s11/w3dt16do15dg18do3r3do3dg18do15dt16ly3~x2/sett.png)|
+| [Carinthian National](/variants/s11/w3dt16do15dg18do3r3do3dg18do15dt16ly3~x2/)|
+|![Carinthian National example sett](/variants/s11/w3dt16do15dg18do3r3do3dg18do15dt16ly3~x2/sett.png)|

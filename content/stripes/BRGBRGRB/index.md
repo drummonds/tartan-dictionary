@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robb Dress (Personal)](/setts/s8/dp2r1dg26r18dp26y1r1dp2~x2/)|
-|![Robb Dress (Personal) example sett](/setts/s8/dp2r1dg26r18dp26y1r1dp2~x2/sett.png)|
+| [Robb Dress (Personal)](/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/)|
+|![Robb Dress (Personal) example sett](/variants/s8/dp2r1dg26r18dp26y1r1dp2~x2/sett.png)|

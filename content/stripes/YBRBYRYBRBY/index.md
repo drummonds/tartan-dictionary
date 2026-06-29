@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bell's](/setts/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/)|
-|![Bell's example sett](/setts/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/sett.png)|
-| [Bell's (Corporate)](/setts/s11/ly6dt8r24dt54ly4r130ly4dt54r24dt8ly3/)|
-|![Bell's (Corporate) example sett](/setts/s11/ly6dt8r24dt54ly4r130ly4dt54r24dt8ly3/sett.png)|
+| [Bell's](/variants/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/)|
+|![Bell's example sett](/variants/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/sett.png)|
+| [Bell's (Corporate)](/variants/s11/ly6dt8r24dt54ly4r130ly4dt54r24dt8ly3/)|
+|![Bell's (Corporate) example sett](/variants/s11/ly6dt8r24dt54ly4r130ly4dt54r24dt8ly3/sett.png)|

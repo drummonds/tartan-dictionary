@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ford & Etal](/setts/s8/k3w1r16k1g21b9k6w1~x4/)|
-|![Ford & Etal example sett](/setts/s8/k3w1r16k1g21b9k6w1~x4/sett.png)|
+| [Ford & Etal](/variants/s8/k3w1r16k1g21b9k6w1~x4/)|
+|![Ford & Etal example sett](/variants/s8/k3w1r16k1g21b9k6w1~x4/sett.png)|

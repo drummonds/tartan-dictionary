@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scobie (Name)](/setts/s12/dp1r1dp1r6g26dp14r20t1r1t1r2lr1~x2/)|
-|![Scobie (Name) example sett](/setts/s12/dp1r1dp1r6g26dp14r20t1r1t1r2lr1~x2/sett.png)|
+| [Scobie (Name)](/variants/s12/dp1r1dp1r6g26dp14r20t1r1t1r2lr1~x2/)|
+|![Scobie (Name) example sett](/variants/s12/dp1r1dp1r6g26dp14r20t1r1t1r2lr1~x2/sett.png)|

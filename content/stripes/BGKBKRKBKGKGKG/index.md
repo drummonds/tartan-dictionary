@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fleming of Castle Carrick (Personal)](/setts/s14/y17k3y3k3y3k16n18k1r3k1n18k16y9dp2~x2/)|
-|![Fleming of Castle Carrick (Personal) example sett](/setts/s14/y17k3y3k3y3k16n18k1r3k1n18k16y9dp2~x2/sett.png)|
+| [Fleming of Castle Carrick (Personal)](/variants/s14/y17k3y3k3y3k16n18k1r3k1n18k16y9dp2~x2/)|
+|![Fleming of Castle Carrick (Personal) example sett](/variants/s14/y17k3y3k3y3k16n18k1r3k1n18k16y9dp2~x2/sett.png)|

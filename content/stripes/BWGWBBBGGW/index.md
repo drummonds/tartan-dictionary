@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Spruce, The (Fashion)](/setts/s10/db2w18gi2w2db3b3db3gi6g24w2~x2/)|
-|![Blue Spruce, The (Fashion) example sett](/setts/s10/db2w18gi2w2db3b3db3gi6g24w2~x2/sett.png)|
+| [Blue Spruce, The (Fashion)](/variants/s10/db2w18gi2w2db3b3db3gi6g24w2~x2/)|
+|![Blue Spruce, The (Fashion) example sett](/variants/s10/db2w18gi2w2db3b3db3gi6g24w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glendinning (Personal)](/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/)|
-|![Glendinning (Personal) example sett](/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/sett.png)|
+| [Glendinning (Personal)](/variants/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/)|
+|![Glendinning (Personal) example sett](/variants/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/sett.png)|

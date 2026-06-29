@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heather Isle](/setts/s14/y80dt16dp8dpi10y8lo1dt6o1~x2/)|
-|![Heather Isle example sett](/setts/s14/y80dt16dp8dpi10y8lo1dt6o1~x2/sett.png)|
+| [Heather Isle](/variants/s14/y80dt16dp8dpi10y8lo1dt6o1~x2/)|
+|![Heather Isle example sett](/variants/s14/y80dt16dp8dpi10y8lo1dt6o1~x2/sett.png)|

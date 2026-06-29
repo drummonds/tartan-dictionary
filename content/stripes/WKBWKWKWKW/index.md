@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Investors Group](/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/)|
-|![Investors Group example sett](/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/sett.png)|
+| [Investors Group](/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/)|
+|![Investors Group example sett](/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/sett.png)|

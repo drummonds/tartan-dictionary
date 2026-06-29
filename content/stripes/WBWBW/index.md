@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asahi (Estimated threadcount)](/setts/s5/w45b2w4b15w7~x2/)|
-|![Asahi (Estimated threadcount) example sett](/setts/s5/w45b2w4b15w7~x2/sett.png)|
-| [Sephardim (Corporate)](/setts/s5/w50db7w7t7w18~x2/)|
-|![Sephardim (Corporate) example sett](/setts/s5/w50db7w7t7w18~x2/sett.png)|
+| [Asahi (Estimated threadcount)](/variants/s5/w45b2w4b15w7~x2/)|
+|![Asahi (Estimated threadcount) example sett](/variants/s5/w45b2w4b15w7~x2/sett.png)|
+| [Sephardim (Corporate)](/variants/s5/w50db7w7t7w18~x2/)|
+|![Sephardim (Corporate) example sett](/variants/s5/w50db7w7t7w18~x2/sett.png)|

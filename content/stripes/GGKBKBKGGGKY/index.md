@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Paterson (Dalgleish Version)](/setts/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2/)|
-|![Paterson (Dalgleish Version) example sett](/setts/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2/sett.png)|
+| [Paterson (Dalgleish Version)](/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2/)|
+|![Paterson (Dalgleish Version) example sett](/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2/sett.png)|

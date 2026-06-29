@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lloyd of Dolobran (Personal)](/setts/s22/k10g4w1g4k1g4r1g4k5db5k1db5~x4/)|
-|![Lloyd of Dolobran (Personal) example sett](/setts/s22/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png)|
+| [Lloyd of Dolobran (Personal)](/variants/s22/k10g4w1g4k1g4r1g4k5db5k1db5~x4/)|
+|![Lloyd of Dolobran (Personal) example sett](/variants/s22/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png)|

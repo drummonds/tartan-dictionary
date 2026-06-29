@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Ambulance Service (Corporat](/setts/s9/r3ti16k12g2k2dg32t2dg2lb3~x2/)|
-|![Scottish Ambulance Service (Corporat example sett](/setts/s9/r3ti16k12g2k2dg32t2dg2lb3~x2/sett.png)|
+| [Scottish Ambulance Service (Corporat](/variants/s9/r3ti16k12g2k2dg32t2dg2lb3~x2/)|
+|![Scottish Ambulance Service (Corporat example sett](/variants/s9/r3ti16k12g2k2dg32t2dg2lb3~x2/sett.png)|

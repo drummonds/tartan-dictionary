@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brook (Estate Check)](/setts/s10/n4lr4do4lr4n4lr4do4lr4r1n4~x4/)|
-|![Brook (Estate Check) example sett](/setts/s10/n4lr4do4lr4n4lr4do4lr4r1n4~x4/sett.png)|
+| [Brook (Estate Check)](/variants/s10/n4lr4do4lr4n4lr4do4lr4r1n4~x4/)|
+|![Brook (Estate Check) example sett](/variants/s10/n4lr4do4lr4n4lr4do4lr4r1n4~x4/sett.png)|

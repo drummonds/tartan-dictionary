@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wcwm 9275-1510-5](/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/)|
-|![Wcwm 9275-1510-5 example sett](/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/sett.png)|
+| [Wcwm 9275-1510-5](/variants/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/)|
+|![Wcwm 9275-1510-5 example sett](/variants/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stenhousemuir Football Club](/setts/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/)|
-|![Stenhousemuir Football Club example sett](/setts/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/sett.png)|
+| [Stenhousemuir Football Club](/variants/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/)|
+|![Stenhousemuir Football Club example sett](/variants/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/sett.png)|

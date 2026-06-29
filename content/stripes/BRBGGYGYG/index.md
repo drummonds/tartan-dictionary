@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keith Stanhope Society (Commem.)](/setts/s9/dt40r4dt10g10y22lo3y4ly3y4~x2/)|
-|![Keith Stanhope Society (Commem.) example sett](/setts/s9/dt40r4dt10g10y22lo3y4ly3y4~x2/sett.png)|
+| [Keith Stanhope Society (Commem.)](/variants/s9/dt40r4dt10g10y22lo3y4ly3y4~x2/)|
+|![Keith Stanhope Society (Commem.) example sett](/variants/s9/dt40r4dt10g10y22lo3y4ly3y4~x2/sett.png)|

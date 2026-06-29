@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connemara (District)](/setts/s9/y3dg1g3dg16r32dg1ly1db4g2~x2/)|
-|![Connemara (District) example sett](/setts/s9/y3dg1g3dg16r32dg1ly1db4g2~x2/sett.png)|
+| [Connemara (District)](/variants/s9/y3dg1g3dg16r32dg1ly1db4g2~x2/)|
+|![Connemara (District) example sett](/variants/s9/y3dg1g3dg16r32dg1ly1db4g2~x2/sett.png)|

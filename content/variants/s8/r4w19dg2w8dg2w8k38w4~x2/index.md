@@ -1,0 +1,67 @@
+---
+title: "St. Piran Dress"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4w19dg2w8dg2w8k38w4/)
+(the same proportion at any scale), whose colour order is pattern [RWGWGWKW](/stripes/rwgwgwkw/).
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904
+
+## Provenance
+
+Earliest known date: 1984 Padstow, Cornwall
+
+## Also known as
+
+This cloth is also recorded under:
+
+- St Piran, Cornish dress
+- St. Piran Dress
+
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — St. Piran Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904">record</a>)</li>
+<li>pre 1985 — St. Piran Dress (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1685/">record</a>)</li>
+<li>undated — St Piran, Cornish dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — St Piran Dress District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1685">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904)
+- Scottish Tartans Authority (ITI): 1685
+- Scottish Tartans World Register: 1685
+
+## Thread count
+R/8 LN38 DG4 LN16 DG4 LN16 K76 LN/8
+
+One full sett is **324 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">76</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/8 LN38 DG4 LN16 DG4 LN16 K76 LN/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r4w19dg2w8dg2w8k38w4~x2">St. Piran Dress</a> <a class="nn-out" href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.82</div><div class="nn-name"><a href="/ttd/edit/#slug=w1m2w17k11w2k4ly1~x4&amp;base=r4w19dg2w8dg2w8k38w4~x2">MacPherson - 1842 (VS) Dress</a> <a class="nn-out" href="/variants/s7/w1m2w17k11w2k4ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w1m2w17k11w2k4ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=r2w30k15lo2k15r2~x2&amp;base=r4w19dg2w8dg2w8k38w4~x2">Brodie (WCWM)</a> <a class="nn-out" href="/variants/s6/r2w30k15lo2k15r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2w30k15lo2k15r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=k9w4k2w4k2w30k9w4db14ly2~x2&amp;base=r4w19dg2w8dg2w8k38w4~x2">Hannay</a> <a class="nn-out" href="/variants/s10/k9w4k2w4k2w30k9w4db14ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k9w4k2w4k2w30k9w4db14ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.03</div><div class="nn-name"><a href="/ttd/edit/#slug=ly35db3r4db3r8db30w3db4~x2&amp;base=r4w19dg2w8dg2w8k38w4~x2">Clemens and August (Personal)</a> <a class="nn-out" href="/variants/s8/ly35db3r4db3r8db30w3db4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/ly35db3r4db3r8db30w3db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=db19w1db6w1db2w2ly2w1ly18~x4&amp;base=r4w19dg2w8dg2w8k38w4~x2">Highland Park High School (Texas)</a> <a class="nn-out" href="/variants/s9/db19w1db6w1db2w2ly2w1ly18~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db19w1db6w1db2w2ly2w1ly18~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r2w6db2w16db3w1k16w1db2k4r2~x2&amp;base=r4w19dg2w8dg2w8k38w4~x2">Scott, (MacRae)</a> <a class="nn-out" href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.12</div><div class="nn-name"><a href="/ttd/edit/#slug=k30w2lr4lo10w9k3lr5~x2&amp;base=r4w19dg2w8dg2w8k38w4~x2">Virginia Commonwealth University</a> <a class="nn-out" href="/variants/s7/k30w2lr4lo10w9k3lr5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k30w2lr4lo10w9k3lr5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.13</div><div class="nn-name"><a href="/ttd/edit/#slug=k9lb4k2lb4k2lb30k9lb4b14lo2~x2&amp;base=r4w19dg2w8dg2w8k38w4~x2">Hannay (Clan)</a> <a class="nn-out" href="/variants/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=db19w1db6w1db2w2lo2w1lo18~x4&amp;base=r4w19dg2w8dg2w8k38w4~x2">Highland Park High School (Texas)</a> <a class="nn-out" href="/variants/s9/db19w1db6w1db2w2lo2w1lo18~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db19w1db6w1db2w2lo2w1lo18~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=w4k2w16k4w4k37dg12k4ly4~x2&amp;base=r4w19dg2w8dg2w8k38w4~x2">Gordon Dress (MacGregor-Hastie)</a> <a class="nn-out" href="/variants/s9/w4k2w16k4w4k37dg12k4ly4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w4k2w16k4w4k37dg12k4ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w1m2w17k11w2k4ly1~x4/"><circle cx="280.8" cy="140.6" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s6/r2w30k15lo2k15r2~x2/"><circle cx="241.9" cy="160.0" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="242.1" cy="131.7" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="226.5" cy="146.2" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2ly2w1ly18~x4/"><circle cx="305.4" cy="136.7" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="207.7" cy="124.4" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/variants/s7/k30w2lr4lo10w9k3lr5~x2/"><circle cx="247.3" cy="153.2" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/"><circle cx="251.5" cy="131.9" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2lo2w1lo18~x4/"><circle cx="314.8" cy="140.4" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s9/w4k2w16k4w4k37dg12k4ly4~x2/"><circle cx="275.4" cy="136.7" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><circle cx="256.8" cy="132.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/r4w19dg2w8dg2w8k38w4~x2/

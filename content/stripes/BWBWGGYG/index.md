@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gigha, Green (Dance)](/setts/s8/db4w2db1w18dg18g18ly3g4~x2/)|
-|![Gigha, Green (Dance) example sett](/setts/s8/db4w2db1w18dg18g18ly3g4~x2/sett.png)|
+| [Gigha, Green (Dance)](/variants/s8/db4w2db1w18dg18g18ly3g4~x2/)|
+|![Gigha, Green (Dance) example sett](/variants/s8/db4w2db1w18dg18g18ly3g4~x2/sett.png)|

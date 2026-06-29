@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Way of the Rainbow](/setts/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/)|
-|![Way of the Rainbow example sett](/setts/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/sett.png)|
+| [Way of the Rainbow](/variants/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/)|
+|![Way of the Rainbow example sett](/variants/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/sett.png)|

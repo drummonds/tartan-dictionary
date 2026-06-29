@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lambert (Front Royal) Hunting](/setts/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/)|
-|![Lambert (Front Royal) Hunting example sett](/setts/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/sett.png)|
+| [Lambert (Front Royal) Hunting](/variants/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/)|
+|![Lambert (Front Royal) Hunting example sett](/variants/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/sett.png)|

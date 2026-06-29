@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lyons](/setts/s10/t9db3g11k7gi3k3gi32r3w3r7~x2/)|
-|![Lyons example sett](/setts/s10/t9db3g11k7gi3k3gi32r3w3r7~x2/sett.png)|
+| [Lyons](/variants/s10/t9db3g11k7gi3k3gi32r3w3r7~x2/)|
+|![Lyons example sett](/variants/s10/t9db3g11k7gi3k3gi32r3w3r7~x2/sett.png)|

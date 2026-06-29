@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Exabyte](/setts/s5/r3n34db4g47lb3~x2/)|
-|![Exabyte example sett](/setts/s5/r3n34db4g47lb3~x2/sett.png)|
+| [Exabyte](/variants/s5/r3n34db4g47lb3~x2/)|
+|![Exabyte example sett](/variants/s5/r3n34db4g47lb3~x2/sett.png)|

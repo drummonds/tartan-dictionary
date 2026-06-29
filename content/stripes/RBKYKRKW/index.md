@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Stuart/Stewart](/setts/s8/r7db2k2ly1k2r2k1w1~x2/)|
-|![Royal Stuart/Stewart example sett](/setts/s8/r7db2k2ly1k2r2k1w1~x2/sett.png)|
+| [Royal Stuart/Stewart](/variants/s8/r7db2k2ly1k2r2k1w1~x2/)|
+|![Royal Stuart/Stewart example sett](/variants/s8/r7db2k2ly1k2r2k1w1~x2/sett.png)|

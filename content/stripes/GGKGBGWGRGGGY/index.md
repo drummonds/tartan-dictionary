@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irish American](/setts/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5ly4~x2/)|
-|![Irish American example sett](/setts/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5ly4~x2/sett.png)|
+| [Irish American](/variants/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5ly4~x2/)|
+|![Irish American example sett](/variants/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5ly4~x2/sett.png)|

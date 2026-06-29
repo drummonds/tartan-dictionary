@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Because You Care](/setts/s7/dg16dp4dg8dp13k3w26dp10~x2/)|
-|![Because You Care example sett](/setts/s7/dg16dp4dg8dp13k3w26dp10~x2/sett.png)|
+| [Because You Care](/variants/s7/dg16dp4dg8dp13k3w26dp10~x2/)|
+|![Because You Care example sett](/variants/s7/dg16dp4dg8dp13k3w26dp10~x2/sett.png)|

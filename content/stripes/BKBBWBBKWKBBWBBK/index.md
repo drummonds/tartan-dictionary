@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Arisaid Blue (Dance)](/setts/s16/w37k4db12b12w2t2dp23k4dp6~x2/)|
-|![Hebridean Arisaid Blue (Dance) example sett](/setts/s16/w37k4db12b12w2t2dp23k4dp6~x2/sett.png)|
+| [Hebridean Arisaid Blue (Dance)](/variants/s16/w37k4db12b12w2t2dp23k4dp6~x2/)|
+|![Hebridean Arisaid Blue (Dance) example sett](/variants/s16/w37k4db12b12w2t2dp23k4dp6~x2/sett.png)|

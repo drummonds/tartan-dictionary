@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Brunswick (Commemorative)](/setts/s36/k50dg16k8ki8dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg20ki40k12ki24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6ki4/)|
-|![New Brunswick (Commemorative) example sett](/setts/s36/k50dg16k8ki8dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg20ki40k12ki24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6ki4/sett.png)|
+| [New Brunswick (Commemorative)](/variants/s36/k50dg16k8ki8dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg20ki40k12ki24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6ki4/)|
+|![New Brunswick (Commemorative) example sett](/variants/s36/k50dg16k8ki8dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg1ki1dg20ki40k12ki24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6ki4/sett.png)|

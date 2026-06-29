@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Huaumé, Patrick Antoine (Personal)](/setts/s11/g10db9m4r2m4g6k10w4g24db60k4/)|
-|![Huaumé, Patrick Antoine (Personal) example sett](/setts/s11/g10db9m4r2m4g6k10w4g24db60k4/sett.png)|
+| [Huaumé, Patrick Antoine (Personal)](/variants/s11/g10db9m4r2m4g6k10w4g24db60k4/)|
+|![Huaumé, Patrick Antoine (Personal) example sett](/variants/s11/g10db9m4r2m4g6k10w4g24db60k4/sett.png)|

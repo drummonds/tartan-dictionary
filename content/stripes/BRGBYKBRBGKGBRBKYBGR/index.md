@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stephenson](/setts/s20/k6g20b2r5b2k20lo3db20g26r3db5~x2/)|
-|![Stephenson example sett](/setts/s20/k6g20b2r5b2k20lo3db20g26r3db5~x2/sett.png)|
+| [Stephenson](/variants/s20/k6g20b2r5b2k20lo3db20g26r3db5~x2/)|
+|![Stephenson example sett](/variants/s20/k6g20b2r5b2k20lo3db20g26r3db5~x2/sett.png)|

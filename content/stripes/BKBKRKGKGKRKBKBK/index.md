@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swallow Hotels](/setts/s16/k4g21k10r2k10db21k4db4k4~x2/)|
-|![Swallow Hotels example sett](/setts/s16/k4g21k10r2k10db21k4db4k4~x2/sett.png)|
+| [Swallow Hotels](/variants/s16/k4g21k10r2k10db21k4db4k4~x2/)|
+|![Swallow Hotels example sett](/variants/s16/k4g21k10r2k10db21k4db4k4~x2/sett.png)|

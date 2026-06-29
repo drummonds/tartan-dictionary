@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish Brewery, Green](/setts/s7/ly3dg24ki11dg3k10dg3w2~x2/)|
-|![Cornish Brewery, Green example sett](/setts/s7/ly3dg24ki11dg3k10dg3w2~x2/sett.png)|
+| [Cornish Brewery, Green](/variants/s7/ly3dg24ki11dg3k10dg3w2~x2/)|
+|![Cornish Brewery, Green example sett](/variants/s7/ly3dg24ki11dg3k10dg3w2~x2/sett.png)|

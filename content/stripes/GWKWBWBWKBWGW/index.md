@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmoral (Green) (Royal)](/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/)|
-|![Balmoral (Green) (Royal) example sett](/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/sett.png)|
-| [Balmoral, Green lines](/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/)|
-|![Balmoral, Green lines example sett](/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/sett.png)|
+| [Balmoral (Green) (Royal)](/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/)|
+|![Balmoral (Green) (Royal) example sett](/variants/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/sett.png)|
+| [Balmoral, Green lines](/variants/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/)|
+|![Balmoral, Green lines example sett](/variants/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/sett.png)|

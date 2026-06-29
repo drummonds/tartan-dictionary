@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Calgary](/setts/s11/r40k5ri4w2ri8o2db3lo1k30ri3w1~x2/)|
-|![Calgary example sett](/setts/s11/r40k5ri4w2ri8o2db3lo1k30ri3w1~x2/sett.png)|
+| [Calgary](/variants/s11/r40k5ri4w2ri8o2db3lo1k30ri3w1~x2/)|
+|![Calgary example sett](/variants/s11/r40k5ri4w2ri8o2db3lo1k30ri3w1~x2/sett.png)|

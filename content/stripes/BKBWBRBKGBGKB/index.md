@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKusick (Piper) #2 (Personal)](/setts/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/)|
-|![MacKusick (Piper) #2 (Personal) example sett](/setts/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/sett.png)|
+| [MacKusick (Piper) #2 (Personal)](/variants/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/)|
+|![MacKusick (Piper) #2 (Personal) example sett](/variants/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/sett.png)|

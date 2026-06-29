@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coogan (Personal)](/setts/s6/ly2db66r16w2r1w1~x2/)|
-|![Coogan (Personal) example sett](/setts/s6/ly2db66r16w2r1w1~x2/sett.png)|
+| [Coogan (Personal)](/variants/s6/ly2db66r16w2r1w1~x2/)|
+|![Coogan (Personal) example sett](/variants/s6/ly2db66r16w2r1w1~x2/sett.png)|

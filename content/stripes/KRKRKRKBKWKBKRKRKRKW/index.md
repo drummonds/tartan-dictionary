@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gwyn of Wales](/setts/s20/k3r30k2r4k2r30k3db30k35w2k35db30k3r30k2r4k2r30k3w2/)|
-|![Gwyn of Wales example sett](/setts/s20/k3r30k2r4k2r30k3db30k35w2k35db30k3r30k2r4k2r30k3w2/sett.png)|
+| [Gwyn of Wales](/variants/s20/k3r30k2r4k2r30k3db30k35w2k35db30k3r30k2r4k2r30k3w2/)|
+|![Gwyn of Wales example sett](/variants/s20/k3r30k2r4k2r30k3db30k35w2k35db30k3r30k2r4k2r30k3w2/sett.png)|

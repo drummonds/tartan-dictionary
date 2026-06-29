@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hardie (Name)](/setts/s6/m4dg9w2dg24dt37r3~x2/)|
-|![Hardie (Name) example sett](/setts/s6/m4dg9w2dg24dt37r3~x2/sett.png)|
-| [Hardie Clan Tartan Tartan Number: 3903. Earliest known date: 2001 Designed by Paul Hardie of Ecclesmachan, West Lothian so that the Hardie family could have their own tartan. Hardie's have worn the MacHardie tartan till now. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/m4g9w2g24db37r3~x2/)|
-|![Hardie Clan Tartan Tartan Number: 3903. Earliest known date: 2001 Designed by Paul Hardie of Ecclesmachan, West Lothian so that the Hardie family could have their own tartan. Hardie's have worn the MacHardie tartan till now. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/m4g9w2g24db37r3~x2/sett.png)|
+| [Hardie (Name)](/variants/s6/m4dg9w2dg24dt37r3~x2/)|
+|![Hardie (Name) example sett](/variants/s6/m4dg9w2dg24dt37r3~x2/sett.png)|
+| [Hardie Clan Tartan](/variants/s6/m4g9w2g24db37r3~x2/)|
+|![Hardie Clan Tartan example sett](/variants/s6/m4g9w2g24db37r3~x2/sett.png)|

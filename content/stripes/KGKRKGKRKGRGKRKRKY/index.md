@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New House Highland (Corporate)](/setts/s18/lo3k1r22k1r1k10dg1r1dg11k1r4k1dg8k1r4k1dg48k1~x2/)|
-|![New House Highland (Corporate) example sett](/setts/s18/lo3k1r22k1r1k10dg1r1dg11k1r4k1dg8k1r4k1dg48k1~x2/sett.png)|
+| [New House Highland (Corporate)](/variants/s18/lo3k1r22k1r1k10dg1r1dg11k1r4k1dg8k1r4k1dg48k1~x2/)|
+|![New House Highland (Corporate) example sett](/variants/s18/lo3k1r22k1r1k10dg1r1dg11k1r4k1dg8k1r4k1dg48k1~x2/sett.png)|

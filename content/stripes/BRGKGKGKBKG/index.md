@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Princess Louise (Royal)](/setts/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/)|
-|![Princess Louise (Royal) example sett](/setts/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/sett.png)|
+| [Princess Louise (Royal)](/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/)|
+|![Princess Louise (Royal) example sett](/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/sett.png)|

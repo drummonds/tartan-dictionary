@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Oregon (Fashion)](/setts/s13/b4k7lo3k3b34k17b4k5b4k7loi11b5lo4~x2/)|
-|![State Seal of Oregon (Fashion) example sett](/setts/s13/b4k7lo3k3b34k17b4k5b4k7loi11b5lo4~x2/sett.png)|
+| [State Seal of Oregon (Fashion)](/variants/s13/b4k7lo3k3b34k17b4k5b4k7loi11b5lo4~x2/)|
+|![State Seal of Oregon (Fashion) example sett](/variants/s13/b4k7lo3k3b34k17b4k5b4k7loi11b5lo4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Amnesty](/setts/s16/db42k5db42o32dg42lo5dg42o32db42w5db42o32dg42dy5dg42o32/)|
-|![Amnesty example sett](/setts/s16/db42k5db42o32dg42lo5dg42o32db42w5db42o32dg42dy5dg42o32/sett.png)|
+| [Amnesty](/variants/s16/db42k5db42o32dg42lo5dg42o32db42w5db42o32dg42dy5dg42o32/)|
+|![Amnesty example sett](/variants/s16/db42k5db42o32dg42lo5dg42o32db42w5db42o32dg42dy5dg42o32/sett.png)|

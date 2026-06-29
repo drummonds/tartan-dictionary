@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Titanium (Fashion)](/setts/s9/n44o8n8o22lb4o4lb11o2lbi2~x2/)|
-|![Titanium (Fashion) example sett](/setts/s9/n44o8n8o22lb4o4lb11o2lbi2~x2/sett.png)|
+| [Titanium (Fashion)](/variants/s9/n44o8n8o22lb4o4lb11o2lbi2~x2/)|
+|![Titanium (Fashion) example sett](/variants/s9/n44o8n8o22lb4o4lb11o2lbi2~x2/sett.png)|

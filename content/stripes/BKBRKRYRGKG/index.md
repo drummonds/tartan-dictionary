@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bracken (WCWM)](/setts/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/)|
-|![Bracken (WCWM) example sett](/setts/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/sett.png)|
+| [Bracken (WCWM)](/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/)|
+|![Bracken (WCWM) example sett](/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/sett.png)|

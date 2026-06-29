@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moray of Abercairney](/setts/s5/ri8r1g4r1db4~x2/)|
-|![Moray of Abercairney example sett](/setts/s5/ri8r1g4r1db4~x2/sett.png)|
-| [Moray of Abercairney #2](/setts/s5/r8ri1dg4ri1db4~x2/)|
-|![Moray of Abercairney #2 example sett](/setts/s5/r8ri1dg4ri1db4~x2/sett.png)|
+| [Moray of Abercairney](/variants/s5/ri8r1g4r1db4~x2/)|
+|![Moray of Abercairney example sett](/variants/s5/ri8r1g4r1db4~x2/sett.png)|
+| [Moray of Abercairney #2](/variants/s5/r8ri1dg4ri1db4~x2/)|
+|![Moray of Abercairney #2 example sett](/variants/s5/r8ri1dg4ri1db4~x2/sett.png)|

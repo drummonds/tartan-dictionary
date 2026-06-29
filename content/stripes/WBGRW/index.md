@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Spring Dress (2004) (Corp)](/setts/s5/w4db30g10r25w2~x2/)|
-|![Highland Spring Dress (2004) (Corp) example sett](/setts/s5/w4db30g10r25w2~x2/sett.png)|
+| [Highland Spring Dress (2004) (Corp)](/variants/s5/w4db30g10r25w2~x2/)|
+|![Highland Spring Dress (2004) (Corp) example sett](/variants/s5/w4db30g10r25w2~x2/sett.png)|

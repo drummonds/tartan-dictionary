@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longford, County](/setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/)|
-|![Longford, County example sett](/setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/sett.png)|
+| [Longford, County](/variants/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/)|
+|![Longford, County example sett](/variants/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/sett.png)|

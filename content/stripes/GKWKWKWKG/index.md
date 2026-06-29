@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jensen, Sven (Personal)](/setts/s9/g12k8w6k22w3k8w3k40g6/)|
-|![Jensen, Sven (Personal) example sett](/setts/s9/g12k8w6k22w3k8w3k40g6/sett.png)|
+| [Jensen, Sven (Personal)](/variants/s9/g12k8w6k22w3k8w3k40g6/)|
+|![Jensen, Sven (Personal) example sett](/variants/s9/g12k8w6k22w3k8w3k40g6/sett.png)|

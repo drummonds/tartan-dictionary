@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heneghan (Personal)](/setts/s14/g16r3w1db2g4r2db4g2r1lo1ly1lo1db6g12~x4/)|
-|![Heneghan (Personal) example sett](/setts/s14/g16r3w1db2g4r2db4g2r1lo1ly1lo1db6g12~x4/sett.png)|
+| [Heneghan (Personal)](/variants/s14/g16r3w1db2g4r2db4g2r1lo1ly1lo1db6g12~x4/)|
+|![Heneghan (Personal) example sett](/variants/s14/g16r3w1db2g4r2db4g2r1lo1ly1lo1db6g12~x4/sett.png)|

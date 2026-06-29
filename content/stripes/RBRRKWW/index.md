@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bombeiros Voluntarios De Galicia (Co](/setts/s7/r3n2r25o12k25w2lb2~x2/)|
-|![Bombeiros Voluntarios De Galicia (Co example sett](/setts/s7/r3n2r25o12k25w2lb2~x2/sett.png)|
+| [Bombeiros Voluntarios De Galicia (Co](/variants/s7/r3n2r25o12k25w2lb2~x2/)|
+|![Bombeiros Voluntarios De Galicia (Co example sett](/variants/s7/r3n2r25o12k25w2lb2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spar (UK) Ltd](/setts/s12/g9k9b10k1b2k2b10k9g9w1g2r1~x4/)|
-|![Spar (UK) Ltd example sett](/setts/s12/g9k9b10k1b2k2b10k9g9w1g2r1~x4/sett.png)|
+| [Spar (UK) Ltd](/variants/s12/g9k9b10k1b2k2b10k9g9w1g2r1~x4/)|
+|![Spar (UK) Ltd example sett](/variants/s12/g9k9b10k1b2k2b10k9g9w1g2r1~x4/sett.png)|

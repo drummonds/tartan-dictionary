@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duffus, Lord](/setts/s7/ly15r7k12ly12k12o12r7~x2/)|
-|![Duffus, Lord example sett](/setts/s7/ly15r7k12ly12k12o12r7~x2/sett.png)|
+| [Duffus, Lord](/variants/s7/ly15r7k12ly12k12o12r7~x2/)|
+|![Duffus, Lord example sett](/variants/s7/ly15r7k12ly12k12o12r7~x2/sett.png)|

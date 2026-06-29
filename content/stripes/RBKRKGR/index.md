@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Triad Highland Games Proposed](/setts/s7/r1g8k8r1k8t8r1~x4/)|
-|![Triad Highland Games Proposed example sett](/setts/s7/r1g8k8r1k8t8r1~x4/sett.png)|
+| [Triad Highland Games Proposed](/variants/s7/r1g8k8r1k8t8r1~x4/)|
+|![Triad Highland Games Proposed example sett](/variants/s7/r1g8k8r1k8t8r1~x4/sett.png)|

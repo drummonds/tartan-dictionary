@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Un-named (D C Dalgliesh) #3](/setts/s6/k3g25o3k15lr24g3~x2/)|
-|![Un-named (D C Dalgliesh) #3 example sett](/setts/s6/k3g25o3k15lr24g3~x2/sett.png)|
+| [Un-named (D C Dalgliesh) #3](/variants/s6/k3g25o3k15lr24g3~x2/)|
+|![Un-named (D C Dalgliesh) #3 example sett](/variants/s6/k3g25o3k15lr24g3~x2/sett.png)|

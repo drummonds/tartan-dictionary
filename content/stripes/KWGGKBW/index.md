@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leach Hunting](/setts/s7/k3lb1g15g6k2dr3lb2~x2/)|
-|![Leach Hunting example sett](/setts/s7/k3lb1g15g6k2dr3lb2~x2/sett.png)|
+| [Leach Hunting](/variants/s7/k3lb1g15g6k2dr3lb2~x2/)|
+|![Leach Hunting example sett](/variants/s7/k3lb1g15g6k2dr3lb2~x2/sett.png)|

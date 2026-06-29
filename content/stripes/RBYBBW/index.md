@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Michigan (Fashion)](/setts/s6/r4do27lo6n19b38lb4~x2/)|
-|![State Seal of Michigan (Fashion) example sett](/setts/s6/r4do27lo6n19b38lb4~x2/sett.png)|
+| [State Seal of Michigan (Fashion)](/variants/s6/r4do27lo6n19b38lb4~x2/)|
+|![State Seal of Michigan (Fashion) example sett](/variants/s6/r4do27lo6n19b38lb4~x2/sett.png)|

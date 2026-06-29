@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson](/tartans/db1r1k8r1db1r1w8r1db1/)|
-|![MacPherson example sett](/setts/s9/db1r1k8r1db1r1w8r1db1~x4/sett.png)|
-| [Meg Merrilees, New (1831)](/setts/s9/t5r5k58r5t5r5w25r5t4/)|
-|![Meg Merrilees, New (1831) example sett](/setts/s9/t5r5k58r5t5r5w25r5t4/sett.png)|
+| [MacPherson](/setts/db1r1k8r1db1r1w8r1db1/)|
+|![MacPherson example sett](/variants/s9/db1r1k8r1db1r1w8r1db1~x4/sett.png)|
+| [Meg Merrilees, New (1831)](/variants/s9/t5r5k58r5t5r5w25r5t4/)|
+|![Meg Merrilees, New (1831) example sett](/variants/s9/t5r5k58r5t5r5w25r5t4/sett.png)|

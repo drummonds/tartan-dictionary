@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ryan/Fehder (Personal)](/setts/s6/w4r7lo5b13o18dg3~x2/)|
-|![Ryan/Fehder (Personal) example sett](/setts/s6/w4r7lo5b13o18dg3~x2/sett.png)|
-| [Ryan/Fehder (Personal)](/setts/s6/w4r7lo5b13r18g3~x2/)|
-|![Ryan/Fehder (Personal) example sett](/setts/s6/w4r7lo5b13r18g3~x2/sett.png)|
+| [Ryan/Fehder (Personal)](/variants/s6/w4r7lo5b13o18dg3~x2/)|
+|![Ryan/Fehder (Personal) example sett](/variants/s6/w4r7lo5b13o18dg3~x2/sett.png)|
+| [Ryan/Fehder (Personal)](/variants/s6/w4r7lo5b13r18g3~x2/)|
+|![Ryan/Fehder (Personal) example sett](/variants/s6/w4r7lo5b13r18g3~x2/sett.png)|

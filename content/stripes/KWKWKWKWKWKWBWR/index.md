@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott, Sir Walter](/setts/s15/k3w7k7w7k7w7k7w7k7w7k7w7db5w3r3~x2/)|
-|![Scott, Sir Walter example sett](/setts/s15/k3w7k7w7k7w7k7w7k7w7k7w7db5w3r3~x2/sett.png)|
+| [Scott, Sir Walter](/variants/s15/k3w7k7w7k7w7k7w7k7w7k7w7db5w3r3~x2/)|
+|![Scott, Sir Walter example sett](/variants/s15/k3w7k7w7k7w7k7w7k7w7k7w7db5w3r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart of Killiecrankie](/setts/s26/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/)|
-|![Stewart of Killiecrankie example sett](/setts/s26/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/sett.png)|
+| [Stewart of Killiecrankie](/variants/s26/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/)|
+|![Stewart of Killiecrankie example sett](/variants/s26/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/sett.png)|

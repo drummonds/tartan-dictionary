@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chattan, Clan](/setts/s16/r120ki4w2g32w4k7r7ki2r7k7w4t32ki8r8k12w4/)|
-|![Chattan, Clan example sett](/setts/s16/r120ki4w2g32w4k7r7ki2r7k7w4t32ki8r8k12w4/sett.png)|
+| [Chattan, Clan](/variants/s16/r120ki4w2g32w4k7r7ki2r7k7w4t32ki8r8k12w4/)|
+|![Chattan, Clan example sett](/variants/s16/r120ki4w2g32w4k7r7ki2r7k7w4t32ki8r8k12w4/sett.png)|

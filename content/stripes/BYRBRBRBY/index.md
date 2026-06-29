@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orlando Fire Department (Corporate)](/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/)|
-|![Orlando Fire Department (Corporate) example sett](/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/sett.png)|
+| [Orlando Fire Department (Corporate)](/variants/s9/db12ly1r16db1r1db14r3db14ly1~x4/)|
+|![Orlando Fire Department (Corporate) example sett](/variants/s9/db12ly1r16db1r1db14r3db14ly1~x4/sett.png)|

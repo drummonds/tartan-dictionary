@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rollo](/setts/s12/k21g21r4g21k21g21ly4g21k21db21k3db21~x2/)|
-|![Rollo example sett](/setts/s12/k21g21r4g21k21g21ly4g21k21db21k3db21~x2/sett.png)|
+| [Rollo](/variants/s12/k21g21r4g21k21g21ly4g21k21db21k3db21~x2/)|
+|![Rollo example sett](/variants/s12/k21g21r4g21k21g21ly4g21k21db21k3db21~x2/sett.png)|

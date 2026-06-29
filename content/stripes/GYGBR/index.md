@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Miramichi](/setts/s5/dg31lo1dg18db18r1~x2/)|
-|![Miramichi example sett](/setts/s5/dg31lo1dg18db18r1~x2/sett.png)|
+| [Miramichi](/variants/s5/dg31lo1dg18db18r1~x2/)|
+|![Miramichi example sett](/variants/s5/dg31lo1dg18db18r1~x2/sett.png)|

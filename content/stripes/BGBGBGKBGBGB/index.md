@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stephen-Mathieson](/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/)|
-|![Stephen-Mathieson example sett](/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/sett.png)|
+| [Stephen-Mathieson](/variants/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/)|
+|![Stephen-Mathieson example sett](/variants/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/sett.png)|

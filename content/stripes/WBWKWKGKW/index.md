@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (shirt fabric)](/setts/s9/w5db3w25k2w2k16g8k1w4/)|
-|![Unidentified (shirt fabric) example sett](/setts/s9/w5db3w25k2w2k16g8k1w4/sett.png)|
+| [Unidentified (shirt fabric)](/variants/s9/w5db3w25k2w2k16g8k1w4/)|
+|![Unidentified (shirt fabric) example sett](/variants/s9/w5db3w25k2w2k16g8k1w4/sett.png)|

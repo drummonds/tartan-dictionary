@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNeil](/setts/s7/lr1r2db16k14dg15k3ly1~x2/)|
-|![MacNeil example sett](/setts/s7/lr1r2db16k14dg15k3ly1~x2/sett.png)|
+| [MacNeil](/variants/s7/lr1r2db16k14dg15k3ly1~x2/)|
+|![MacNeil example sett](/variants/s7/lr1r2db16k14dg15k3ly1~x2/sett.png)|

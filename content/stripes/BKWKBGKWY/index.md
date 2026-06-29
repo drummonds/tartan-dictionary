@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Minnesota Dress](/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/)|
-|![Minnesota Dress example sett](/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/sett.png)|
+| [Minnesota Dress](/variants/s9/dp4k2w3k2db30g9k4w20ly3~x2/)|
+|![Minnesota Dress example sett](/variants/s9/dp4k2w3k2db30g9k4w20ly3~x2/sett.png)|

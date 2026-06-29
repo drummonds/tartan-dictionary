@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart (King George VI)](/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/)|
-|![Stewart (King George VI) example sett](/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/sett.png)|
+| [Stewart (King George VI)](/variants/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/)|
+|![Stewart (King George VI) example sett](/variants/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/sett.png)|

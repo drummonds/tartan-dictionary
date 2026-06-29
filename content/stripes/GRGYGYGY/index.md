@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Christopher (Corporate)](/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/)|
-|![St. Christopher (Corporate) example sett](/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/sett.png)|
+| [St. Christopher (Corporate)](/variants/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/)|
+|![St. Christopher (Corporate) example sett](/variants/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/sett.png)|

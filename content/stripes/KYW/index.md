@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silvicola (Corporate)](/setts/s3/k15ly20w3~x2/)|
-|![Silvicola (Corporate) example sett](/setts/s3/k15ly20w3~x2/sett.png)|
+| [Silvicola (Corporate)](/variants/s3/k15ly20w3~x2/)|
+|![Silvicola (Corporate) example sett](/variants/s3/k15ly20w3~x2/sett.png)|

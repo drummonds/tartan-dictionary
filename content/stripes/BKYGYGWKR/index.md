@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morgan in Maryland (USA)](/setts/s9/db4k1lg18y2lg11y11lb18k1r4~x2/)|
-|![Morgan in Maryland (USA) example sett](/setts/s9/db4k1lg18y2lg11y11lb18k1r4~x2/sett.png)|
+| [Morgan in Maryland (USA)](/variants/s9/db4k1lg18y2lg11y11lb18k1r4~x2/)|
+|![Morgan in Maryland (USA) example sett](/variants/s9/db4k1lg18y2lg11y11lb18k1r4~x2/sett.png)|

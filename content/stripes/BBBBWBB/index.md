@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Langdons](/setts/s7/db2t4w1t4db6t2db2~x4/)|
-|![Langdons example sett](/setts/s7/db2t4w1t4db6t2db2~x4/sett.png)|
+| [Langdons](/variants/s7/db2t4w1t4db6t2db2~x4/)|
+|![Langdons example sett](/variants/s7/db2t4w1t4db6t2db2~x4/sett.png)|

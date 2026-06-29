@@ -1,0 +1,56 @@
+---
+title: "Clan Haggis World (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r13lo13g13db22w4/)
+(the same proportion at any scale), whose colour order is pattern [RYGBW](/stripes/rygbw/).
+
+Part of the [Clan Haggis World](/tartans/clan-haggis-world/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10781/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10781](https://www.tartanregister.gov.uk/tartanDetails?ref=10781)
+- Scottish Tartans Authority (ITI): 10781
+
+## Thread count
+R/26 O26 G26 DB44 W/8
+
+One full sett is **226 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> <small style="color:#888">#C8002C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.6% 0.212 22.0)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#DC943C;"><span style="color:#DC943C;filter:grayscale(1) invert(1) contrast(100);">#DC943C</span></code> <small style="color:#888">#DC943C</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(72.3% 0.133 67.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/26 O26 G26 DB44 W/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r13ly13g13b22w4/"><img src="/variants/s5/r13ly13g13b22w4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r13ly13g13b22w4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r13lo13g13db22w4~x2">Clan Haggis World (Corporate)</a> <a class="nn-out" href="/variants/s5/r13lo13g13db22w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r13lo13g13db22w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=r5t12ly11dt21lo5~x2&amp;base=r13lo13g13db22w4~x2">Inspiration</a> <a class="nn-out" href="/variants/s5/r5t12ly11dt21lo5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r5t12ly11dt21lo5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=r5db12lyi11n21ly5~x2&amp;base=r13lo13g13db22w4~x2">Inspiration</a> <a class="nn-out" href="/variants/s5/r5db12lyi11n21ly5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r5db12lyi11n21ly5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=g15dg18db23w4r8~x2&amp;base=r13lo13g13db22w4~x2">Friebe (2014)</a> <a class="nn-out" href="/variants/s5/g15dg18db23w4r8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g15dg18db23w4r8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=r13ly13g13b22w4~x2&amp;base=r13lo13g13db22w4~x2">Clan Haggis World (Corporate)</a> <a class="nn-out" href="/variants/s5/r13ly13g13b22w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r13ly13g13b22w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=dp11t2k10g10ly3~x2&amp;base=r13lo13g13db22w4~x2">Nobiliary Fraternity</a> <a class="nn-out" href="/variants/s5/dp11t2k10g10ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dp11t2k10g10ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=r1dy6db2lb4k4lb1~x6&amp;base=r13lo13g13db22w4~x2">Thompson's Fancy (Fashion)</a> <a class="nn-out" href="/variants/s6/r1dy6db2lb4k4lb1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1dy6db2lb4k4lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=db9r12dg9db5w2~x4&amp;base=r13lo13g13db22w4~x2">Battle of Prestonpans (1745) Herit</a> <a class="nn-out" href="/variants/s5/db9r12dg9db5w2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db9r12dg9db5w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.38</div><div class="nn-name"><a href="/ttd/edit/#slug=db16r14g16ly3g16r14db16w3~x2&amp;base=r13lo13g13db22w4~x2">Forrester (James) (Personal)</a> <a class="nn-out" href="/variants/s8/db16r14g16ly3g16r14db16w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db16r14g16ly3g16r14db16w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=k8r12w8dg15n30ly5~x2&amp;base=r13lo13g13db22w4~x2">Reekie (Edmonton)</a> <a class="nn-out" href="/variants/s6/k8r12w8dg15n30ly5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k8r12w8dg15n30ly5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/ttd/edit/#slug=lo2db4k1db4m4lo4db1~x8&amp;base=r13lo13g13db22w4~x2">Isle of Gigha (District)</a> <a class="nn-out" href="/variants/s7/lo2db4k1db4m4lo4db1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lo2db4k1db4m4lo4db1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r5t12ly11dt21lo5~x2/"><circle cx="97.7" cy="247.8" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/r5db12lyi11n21ly5~x2/"><circle cx="94.6" cy="241.3" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/g15dg18db23w4r8~x2/"><circle cx="91.0" cy="251.4" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s5/r13ly13g13b22w4~x2/"><circle cx="51.1" cy="238.0" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/dp11t2k10g10ly3~x2/"><circle cx="87.8" cy="247.3" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s6/r1dy6db2lb4k4lb1~x6/"><circle cx="87.4" cy="220.3" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="150.2" cy="264.3" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s8/db16r14g16ly3g16r14db16w3~x2/"><circle cx="92.7" cy="241.0" r="4" fill="#3465a4"><title>Forrester (James) (Personal)</title></circle></a><a href="/variants/s6/k8r12w8dg15n30ly5~x2/"><circle cx="86.5" cy="198.4" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s7/lo2db4k1db4m4lo4db1~x8/"><circle cx="115.1" cy="251.2" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><circle cx="72.1" cy="247.0" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/r13lo13g13db22w4~x2/

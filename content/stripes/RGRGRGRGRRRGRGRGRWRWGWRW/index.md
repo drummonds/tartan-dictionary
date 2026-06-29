@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maple Leaf Dress](/setts/s24/r6g5r6dg1r1dg9o3g3o3r9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1~x4/)|
-|![Maple Leaf Dress example sett](/setts/s24/r6g5r6dg1r1dg9o3g3o3r9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1~x4/sett.png)|
+| [Maple Leaf Dress](/variants/s24/r6g5r6dg1r1dg9o3g3o3r9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1~x4/)|
+|![Maple Leaf Dress example sett](/variants/s24/r6g5r6dg1r1dg9o3g3o3r9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1~x4/sett.png)|

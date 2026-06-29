@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waterford County Crest (Fashion)](/setts/s8/w8dbi5db30lr4dbi13lr13g5lo5~x2/)|
-|![Waterford County Crest (Fashion) example sett](/setts/s8/w8dbi5db30lr4dbi13lr13g5lo5~x2/sett.png)|
+| [Waterford County Crest (Fashion)](/variants/s8/w8dbi5db30lr4dbi13lr13g5lo5~x2/)|
+|![Waterford County Crest (Fashion) example sett](/variants/s8/w8dbi5db30lr4dbi13lr13g5lo5~x2/sett.png)|

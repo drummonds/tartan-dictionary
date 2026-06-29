@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Brien (Scotch Corner)](/setts/s9/y36g19y4g31b2r3b2r3g12~x2/)|
-|![O'Brien (Scotch Corner) example sett](/setts/s9/y36g19y4g31b2r3b2r3g12~x2/sett.png)|
+| [O'Brien (Scotch Corner)](/variants/s9/y36g19y4g31b2r3b2r3g12~x2/)|
+|![O'Brien (Scotch Corner) example sett](/variants/s9/y36g19y4g31b2r3b2r3g12~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gouranga](/setts/s11/b15k3b19w3b5ly5r3ly5lb3ly5k3~x2/)|
-|![Gouranga example sett](/setts/s11/b15k3b19w3b5ly5r3ly5lb3ly5k3~x2/sett.png)|
+| [Gouranga](/variants/s11/b15k3b19w3b5ly5r3ly5lb3ly5k3~x2/)|
+|![Gouranga example sett](/variants/s11/b15k3b19w3b5ly5r3ly5lb3ly5k3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCabe (2016)](/setts/s6/db8ly1dg5ly12r1dg2~x6/)|
-|![McCabe (2016) example sett](/setts/s6/db8ly1dg5ly12r1dg2~x6/sett.png)|
+| [McCabe (2016)](/variants/s6/db8ly1dg5ly12r1dg2~x6/)|
+|![McCabe (2016) example sett](/variants/s6/db8ly1dg5ly12r1dg2~x6/sett.png)|

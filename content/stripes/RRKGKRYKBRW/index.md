@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colville (Personal)](/setts/s11/r16m3k12dy10k3r3ly3k3db2r2w1~x2/)|
-|![Colville (Personal) example sett](/setts/s11/r16m3k12dy10k3r3ly3k3db2r2w1~x2/sett.png)|
+| [Colville (Personal)](/variants/s11/r16m3k12dy10k3r3ly3k3db2r2w1~x2/)|
+|![Colville (Personal) example sett](/variants/s11/r16m3k12dy10k3r3ly3k3db2r2w1~x2/sett.png)|

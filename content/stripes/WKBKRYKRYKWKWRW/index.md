@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Uganda](/setts/s15/w4r2w1k2w8k6ly6r6k6ly6r6k1db16k1w4~x2/)|
-|![Uganda example sett](/setts/s15/w4r2w1k2w8k6ly6r6k6ly6r6k1db16k1w4~x2/sett.png)|
+| [Uganda](/variants/s15/w4r2w1k2w8k6ly6r6k6ly6r6k1db16k1w4~x2/)|
+|![Uganda example sett](/variants/s15/w4r2w1k2w8k6ly6r6k6ly6r6k1db16k1w4~x2/sett.png)|

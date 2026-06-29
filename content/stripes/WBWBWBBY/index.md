@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden, Blue Dress (Dance)](/setts/s8/ly8db4t23w3db22w25db3w6~x2/)|
-|![Culloden, Blue Dress (Dance) example sett](/setts/s8/ly8db4t23w3db22w25db3w6~x2/sett.png)|
+| [Culloden, Blue Dress (Dance)](/variants/s8/ly8db4t23w3db22w25db3w6~x2/)|
+|![Culloden, Blue Dress (Dance) example sett](/variants/s8/ly8db4t23w3db22w25db3w6~x2/sett.png)|

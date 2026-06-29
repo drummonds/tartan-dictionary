@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canmore](/setts/s9/db4k3db28lb2dp6g28n2g4dp4~x2/)|
-|![Canmore example sett](/setts/s9/db4k3db28lb2dp6g28n2g4dp4~x2/sett.png)|
+| [Canmore](/variants/s9/db4k3db28lb2dp6g28n2g4dp4~x2/)|
+|![Canmore example sett](/variants/s9/db4k3db28lb2dp6g28n2g4dp4~x2/sett.png)|

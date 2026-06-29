@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heart of Scotland (Milne) Fancy Tartan Tartan Number: 3105. Earliest known date: 2000 Designed by Ruthven Milne of Piob Mhor, Blairgowrie. Not recorded or registered with anyone so its existance and its 'duplicated' name were not known until September 2002. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2/)|
-|![Heart of Scotland (Milne) Fancy Tartan Tartan Number: 3105. Earliest known date: 2000 Designed by Ruthven Milne of Piob Mhor, Blairgowrie. Not recorded or registered with anyone so its existance and its 'duplicated' name were not known until September 2002. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2/sett.png)|
+| [Heart of Scotland (Milne) Fancy Tartan](/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2/)|
+|![Heart of Scotland (Milne) Fancy Tartan example sett](/variants/s18/dp17dpi3g3dpi3dp4k18db17w4db17k18dp18dpi3g3dpi3dp18k18db17w4~x2/sett.png)|

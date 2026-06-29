@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/)|
-|![Bruce of Kinnaird (Vivienne Westwood Design) example sett](/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/sett.png)|
+| [Bruce of Kinnaird (Vivienne Westwood Design)](/variants/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/)|
+|![Bruce of Kinnaird (Vivienne Westwood Design) example sett](/variants/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Washington DC (Fashion)](/setts/s8/lo5o39r16o5g6o5b32lb5~x2/)|
-|![Washington DC (Fashion) example sett](/setts/s8/lo5o39r16o5g6o5b32lb5~x2/sett.png)|
+| [Washington DC (Fashion)](/variants/s8/lo5o39r16o5g6o5b32lb5~x2/)|
+|![Washington DC (Fashion) example sett](/variants/s8/lo5o39r16o5g6o5b32lb5~x2/sett.png)|

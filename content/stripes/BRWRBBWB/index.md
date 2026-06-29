@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longniddry Lavender (Dance)](/setts/s8/db42o2lb2o2db5p12lb32db4~x2/)|
-|![Longniddry Lavender (Dance) example sett](/setts/s8/db42o2lb2o2db5p12lb32db4~x2/sett.png)|
+| [Longniddry Lavender (Dance)](/variants/s8/db42o2lb2o2db5p12lb32db4~x2/)|
+|![Longniddry Lavender (Dance) example sett](/variants/s8/db42o2lb2o2db5p12lb32db4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silver Thistle (Fashion)](/setts/s7/k4o2k46dbi20k6db3g4~x2/)|
-|![Silver Thistle (Fashion) example sett](/setts/s7/k4o2k46dbi20k6db3g4~x2/sett.png)|
+| [Silver Thistle (Fashion)](/variants/s7/k4o2k46dbi20k6db3g4~x2/)|
+|![Silver Thistle (Fashion) example sett](/variants/s7/k4o2k46dbi20k6db3g4~x2/sett.png)|

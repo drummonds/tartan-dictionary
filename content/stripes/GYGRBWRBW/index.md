@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Telfer](/setts/s9/g9lo2g6r35db6lb1ri20db5lb2~x2/)|
-|![Telfer example sett](/setts/s9/g9lo2g6r35db6lb1ri20db5lb2~x2/sett.png)|
-| [Telfer (Name)](/setts/s9/g9ly2g6r35db6lb1ri20db5lb2~x2/)|
-|![Telfer (Name) example sett](/setts/s9/g9ly2g6r35db6lb1ri20db5lb2~x2/sett.png)|
+| [Telfer](/variants/s9/g9lo2g6r35db6lb1ri20db5lb2~x2/)|
+|![Telfer example sett](/variants/s9/g9lo2g6r35db6lb1ri20db5lb2~x2/sett.png)|
+| [Telfer (Name)](/variants/s9/g9ly2g6r35db6lb1ri20db5lb2~x2/)|
+|![Telfer (Name) example sett](/variants/s9/g9ly2g6r35db6lb1ri20db5lb2~x2/sett.png)|

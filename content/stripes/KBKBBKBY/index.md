@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Granite City (Fashion)](/setts/s8/k3n3k3n21ni21k3ni3lr1~x2/)|
-|![Granite City (Fashion) example sett](/setts/s8/k3n3k3n21ni21k3ni3lr1~x2/sett.png)|
+| [Granite City (Fashion)](/variants/s8/k3n3k3n21ni21k3ni3lr1~x2/)|
+|![Granite City (Fashion) example sett](/variants/s8/k3n3k3n21ni21k3ni3lr1~x2/sett.png)|

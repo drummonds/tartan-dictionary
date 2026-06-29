@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Richardson](/setts/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/)|
-|![Richardson example sett](/setts/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/sett.png)|
-| [Richardson (Personal?)](/setts/s10/r25k1ly2k1ly2k1r10b18w2b12~x2/)|
-|![Richardson (Personal?) example sett](/setts/s10/r25k1ly2k1ly2k1r10b18w2b12~x2/sett.png)|
+| [Richardson](/variants/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/)|
+|![Richardson example sett](/variants/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/sett.png)|
+| [Richardson (Personal?)](/variants/s10/r25k1ly2k1ly2k1r10b18w2b12~x2/)|
+|![Richardson (Personal?) example sett](/variants/s10/r25k1ly2k1ly2k1r10b18w2b12~x2/sett.png)|

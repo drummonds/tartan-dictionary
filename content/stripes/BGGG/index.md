@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Alaskan](/setts/s4/dg41y26yi19n19~x2/)|
-|![Green Alaskan example sett](/setts/s4/dg41y26yi19n19~x2/sett.png)|
+| [Green Alaskan](/variants/s4/dg41y26yi19n19~x2/)|
+|![Green Alaskan example sett](/variants/s4/dg41y26yi19n19~x2/sett.png)|

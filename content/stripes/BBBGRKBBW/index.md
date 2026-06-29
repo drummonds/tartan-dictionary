@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochranza](/setts/s9/db3n1db10g3r1k3db5n2lb1~x4/)|
-|![Lochranza example sett](/setts/s9/db3n1db10g3r1k3db5n2lb1~x4/sett.png)|
+| [Lochranza](/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/)|
+|![Lochranza example sett](/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mandela Commemorative](/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/)|
-|![Mandela Commemorative example sett](/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/sett.png)|
+| [Mandela Commemorative](/variants/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/)|
+|![Mandela Commemorative example sett](/variants/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/sett.png)|

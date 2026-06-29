@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Catalunya Escocia](/setts/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/)|
-|![Catalunya Escocia example sett](/setts/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/sett.png)|
+| [Catalunya Escocia](/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/)|
+|![Catalunya Escocia example sett](/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/sett.png)|

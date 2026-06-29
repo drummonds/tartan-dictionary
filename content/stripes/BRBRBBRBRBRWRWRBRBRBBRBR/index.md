@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [LOOK Keith](/setts/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2/)|
-|![LOOK Keith example sett](/setts/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2/sett.png)|
+| [LOOK Keith](/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2/)|
+|![LOOK Keith example sett](/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2/sett.png)|

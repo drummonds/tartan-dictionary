@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Midnight Sunrise](/setts/s16/lo3db1dp1b8dp1db6b3db4k8b1db4dp1db2k4db16dp2~x2/)|
-|![Midnight Sunrise example sett](/setts/s16/lo3db1dp1b8dp1db6b3db4k8b1db4dp1db2k4db16dp2~x2/sett.png)|
+| [Midnight Sunrise](/variants/s16/lo3db1dp1b8dp1db6b3db4k8b1db4dp1db2k4db16dp2~x2/)|
+|![Midnight Sunrise example sett](/variants/s16/lo3db1dp1b8dp1db6b3db4k8b1db4dp1db2k4db16dp2~x2/sett.png)|

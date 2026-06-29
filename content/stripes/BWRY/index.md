@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dutch Football (Corporate)](/setts/s4/lo24r1w1dt1~x11/)|
-|![Dutch Football (Corporate) example sett](/setts/s4/lo24r1w1dt1~x11/sett.png)|
+| [Dutch Football (Corporate)](/variants/s4/lo24r1w1dt1~x11/)|
+|![Dutch Football (Corporate) example sett](/variants/s4/lo24r1w1dt1~x11/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Karibu](/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/)|
-|![Karibu example sett](/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/sett.png)|
+| [Karibu](/variants/s9/g12w1r1w4r1w1r8ly2r1~x4/)|
+|![Karibu example sett](/variants/s9/g12w1r1w4r1w1r8ly2r1~x4/sett.png)|

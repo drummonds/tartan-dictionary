@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leach (1999)](/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/)|
-|![Leach (1999) example sett](/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/sett.png)|
+| [Leach (1999)](/variants/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/)|
+|![Leach (1999) example sett](/variants/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/sett.png)|

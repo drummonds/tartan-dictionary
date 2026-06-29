@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Total](/setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/)|
-|![Total example sett](/setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/sett.png)|
+| [Total](/variants/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/)|
+|![Total example sett](/variants/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/sett.png)|

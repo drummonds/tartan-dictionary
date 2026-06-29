@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Glenaladale](/setts/s12/ri7r2db2ri2g32ri6db12ri41g2ri5r2g5~x2/)|
-|![MacDonald of Glenaladale example sett](/setts/s12/ri7r2db2ri2g32ri6db12ri41g2ri5r2g5~x2/sett.png)|
-| [MacDougall #5](/setts/s12/ri7r2db2ri2dg32ri6db12ri41dg2ri5r2dg5~x2/)|
-|![MacDougall #5 example sett](/setts/s12/ri7r2db2ri2dg32ri6db12ri41dg2ri5r2dg5~x2/sett.png)|
+| [MacDonald of Glenaladale](/variants/s12/ri7r2db2ri2g32ri6db12ri41g2ri5r2g5~x2/)|
+|![MacDonald of Glenaladale example sett](/variants/s12/ri7r2db2ri2g32ri6db12ri41g2ri5r2g5~x2/sett.png)|
+| [MacDougall #5](/variants/s12/ri7r2db2ri2dg32ri6db12ri41dg2ri5r2dg5~x2/)|
+|![MacDougall #5 example sett](/variants/s12/ri7r2db2ri2dg32ri6db12ri41dg2ri5r2dg5~x2/sett.png)|

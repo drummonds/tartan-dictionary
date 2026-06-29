@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marthas Vineyard (District)](/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/)|
-|![Marthas Vineyard (District) example sett](/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png)|
-| [Mayhew (Personal)](/setts/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/)|
-|![Mayhew (Personal) example sett](/setts/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/sett.png)|
+| [Marthas Vineyard (District)](/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/)|
+|![Marthas Vineyard (District) example sett](/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png)|
+| [Mayhew (Personal)](/variants/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/)|
+|![Mayhew (Personal) example sett](/variants/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/sett.png)|

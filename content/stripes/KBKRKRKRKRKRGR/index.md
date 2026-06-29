@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black (Hebridean) (Artefact)](/setts/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/)|
-|![Black (Hebridean) (Artefact) example sett](/setts/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/sett.png)|
+| [Black (Hebridean) (Artefact)](/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/)|
+|![Black (Hebridean) (Artefact) example sett](/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/sett.png)|

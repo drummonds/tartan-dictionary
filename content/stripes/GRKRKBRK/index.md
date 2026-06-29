@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waterford](/setts/s8/dg30o3k20r2k3db4r24k3~x2/)|
-|![Waterford example sett](/setts/s8/dg30o3k20r2k3db4r24k3~x2/sett.png)|
+| [Waterford](/variants/s8/dg30o3k20r2k3db4r24k3~x2/)|
+|![Waterford example sett](/variants/s8/dg30o3k20r2k3db4r24k3~x2/sett.png)|

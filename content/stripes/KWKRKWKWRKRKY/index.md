@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coeur D'Alene Firefighters Richard Gaines Memorial](/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/)|
-|![Coeur D'Alene Firefighters Richard Gaines Memorial example sett](/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/sett.png)|
+| [Coeur D'Alene Firefighters Richard Gaines Memorial](/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/)|
+|![Coeur D'Alene Firefighters Richard Gaines Memorial example sett](/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/sett.png)|

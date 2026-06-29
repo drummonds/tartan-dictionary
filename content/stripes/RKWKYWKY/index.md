@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cunard o' the Clyde](/setts/s8/r10k3w1k15ly1w3k3ly1~x4/)|
-|![Cunard o' the Clyde example sett](/setts/s8/r10k3w1k15ly1w3k3ly1~x4/sett.png)|
+| [Cunard o' the Clyde](/variants/s8/r10k3w1k15ly1w3k3ly1~x4/)|
+|![Cunard o' the Clyde example sett](/variants/s8/r10k3w1k15ly1w3k3ly1~x4/sett.png)|

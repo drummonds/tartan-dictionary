@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacTaggart (Johnstons)](/setts/s12/db1r1db6k6g1b2g9b2g1k6db6r1~x8/)|
-|![MacTaggart (Johnstons) example sett](/setts/s12/db1r1db6k6g1b2g9b2g1k6db6r1~x8/sett.png)|
+| [MacTaggart (Johnstons)](/variants/s12/db1r1db6k6g1b2g9b2g1k6db6r1~x8/)|
+|![MacTaggart (Johnstons) example sett](/variants/s12/db1r1db6k6g1b2g9b2g1k6db6r1~x8/sett.png)|

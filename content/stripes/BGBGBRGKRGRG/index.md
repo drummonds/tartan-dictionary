@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ridgeback (Corporate)](/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/)|
-|![Ridgeback (Corporate) example sett](/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/sett.png)|
+| [Ridgeback (Corporate)](/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/)|
+|![Ridgeback (Corporate) example sett](/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/sett.png)|

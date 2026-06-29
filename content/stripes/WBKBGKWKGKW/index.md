@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grotto Dove](/setts/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/)|
-|![Grotto Dove example sett](/setts/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/sett.png)|
+| [Grotto Dove](/variants/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/)|
+|![Grotto Dove example sett](/variants/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/sett.png)|

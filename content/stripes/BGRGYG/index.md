@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hutcheson (Name)](/setts/s6/dt8y4r30g30lo3g4~x2/)|
-|![Hutcheson (Name) example sett](/setts/s6/dt8y4r30g30lo3g4~x2/sett.png)|
+| [Hutcheson (Name)](/variants/s6/dt8y4r30g30lo3g4~x2/)|
+|![Hutcheson (Name) example sett](/variants/s6/dt8y4r30g30lo3g4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [KPMG (Corporate)](/setts/s10/r12lo2db3k3db30k20dr6k10lo2dr4~x2/)|
-|![KPMG (Corporate) example sett](/setts/s10/r12lo2db3k3db30k20dr6k10lo2dr4~x2/sett.png)|
+| [KPMG (Corporate)](/variants/s10/r12lo2db3k3db30k20dr6k10lo2dr4~x2/)|
+|![KPMG (Corporate) example sett](/variants/s10/r12lo2db3k3db30k20dr6k10lo2dr4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Romsdal](/setts/s5/g40k10r7k10r7/)|
-|![Romsdal example sett](/setts/s5/g40k10r7k10r7/sett.png)|
+| [Romsdal](/variants/s5/g40k10r7k10r7/)|
+|![Romsdal example sett](/variants/s5/g40k10r7k10r7/sett.png)|

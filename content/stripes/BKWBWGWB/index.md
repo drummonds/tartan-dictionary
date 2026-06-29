@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaw, Miss Rebecca (Personal)](/setts/s8/t5k1w30dp15w8g30w8dp2~x2/)|
-|![Shaw, Miss Rebecca (Personal) example sett](/setts/s8/t5k1w30dp15w8g30w8dp2~x2/sett.png)|
+| [Shaw, Miss Rebecca (Personal)](/variants/s8/t5k1w30dp15w8g30w8dp2~x2/)|
+|![Shaw, Miss Rebecca (Personal) example sett](/variants/s8/t5k1w30dp15w8g30w8dp2~x2/sett.png)|

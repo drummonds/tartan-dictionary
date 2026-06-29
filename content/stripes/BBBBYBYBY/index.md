@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochearn (Fashion)](/setts/s9/lg22db3lg3db3lg3db9t22db3t6~x2/)|
-|![Lochearn (Fashion) example sett](/setts/s9/lg22db3lg3db3lg3db9t22db3t6~x2/sett.png)|
+| [Lochearn (Fashion)](/variants/s9/lg22db3lg3db3lg3db9t22db3t6~x2/)|
+|![Lochearn (Fashion) example sett](/variants/s9/lg22db3lg3db3lg3db9t22db3t6~x2/sett.png)|

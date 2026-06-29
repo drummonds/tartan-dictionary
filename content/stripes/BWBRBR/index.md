@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sail Chalmadale](/setts/s6/db4w1db17ri28dp17r2~x2/)|
-|![Sail Chalmadale example sett](/setts/s6/db4w1db17ri28dp17r2~x2/sett.png)|
+| [Sail Chalmadale](/variants/s6/db4w1db17ri28dp17r2~x2/)|
+|![Sail Chalmadale example sett](/variants/s6/db4w1db17ri28dp17r2~x2/sett.png)|

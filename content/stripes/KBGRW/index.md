@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sachie Hara Scottish Check (Personal)](/setts/s5/k5db4g24r21w3~x2/)|
-|![Sachie Hara Scottish Check (Personal) example sett](/setts/s5/k5db4g24r21w3~x2/sett.png)|
+| [Sachie Hara Scottish Check (Personal)](/variants/s5/k5db4g24r21w3~x2/)|
+|![Sachie Hara Scottish Check (Personal) example sett](/variants/s5/k5db4g24r21w3~x2/sett.png)|

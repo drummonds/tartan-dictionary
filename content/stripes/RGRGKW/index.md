@@ -24,17 +24,17 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGregor](/setts/s6/r36dg18r4dg6k1lb2/)|
-|![MacGregor example sett](/setts/s6/r36dg18r4dg6k1lb2/sett.png)|
-| [MacGregor](/setts/s6/r36g18r4g6k1w2~x2/)|
-|![MacGregor example sett](/setts/s6/r36g18r4g6k1w2~x2/sett.png)|
-| [MacGregor #3](/setts/s6/r36dg18r4dg6k1w2~x2/)|
-|![MacGregor #3 example sett](/setts/s6/r36dg18r4dg6k1w2~x2/sett.png)|
-| [MacGregor #4](/setts/s6/r41g19r7g8k1w3~x2/)|
-|![MacGregor #4 example sett](/setts/s6/r41g19r7g8k1w3~x2/sett.png)|
-| [MacGregor - 1800 (Clan)](/setts/s6/r57g21r8g8k1w3~x2/)|
-|![MacGregor - 1800 (Clan) example sett](/setts/s6/r57g21r8g8k1w3~x2/sett.png)|
-| [MacGregor Hunting Glengyle Clan Tartan Tartan Number: 1285. Earliest known date: 1960 This is the usual MacGregor sett but with a darker crimson background colour. The story goes that Alasdair MacGregor of Cardney wanted to make tartan from the wool of his own sheep. His initial dyeing attempt produced a shocking pink colour, so he dyed the wool a second time to get this dark crimson colour. He liked the result so much that he had a bolt of cloth woven and the Cardney MacGregors have worn it ever since. The addition of the term 'Hunting' to the name is, apparently a commercial attribution. Notes from the STA, quoting Sir Malcolm MacGregor of MacGregor (2006) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/m96g42m16g17k4lb6/)|
-|![MacGregor Hunting Glengyle Clan Tartan Tartan Number: 1285. Earliest known date: 1960 This is the usual MacGregor sett but with a darker crimson background colour. The story goes that Alasdair MacGregor of Cardney wanted to make tartan from the wool of his own sheep. His initial dyeing attempt produced a shocking pink colour, so he dyed the wool a second time to get this dark crimson colour. He liked the result so much that he had a bolt of cloth woven and the Cardney MacGregors have worn it ever since. The addition of the term 'Hunting' to the name is, apparently a commercial attribution. Notes from the STA, quoting Sir Malcolm MacGregor of MacGregor (2006) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/m96g42m16g17k4lb6/sett.png)|
-| [MacGregor of Cardney](/setts/s6/m18g9m2g3k1w1~x4/)|
-|![MacGregor of Cardney example sett](/setts/s6/m18g9m2g3k1w1~x4/sett.png)|
+| [MacGregor](/variants/s6/r36dg18r4dg6k1lb2/)|
+|![MacGregor example sett](/variants/s6/r36dg18r4dg6k1lb2/sett.png)|
+| [MacGregor](/variants/s6/r36g18r4g6k1w2~x2/)|
+|![MacGregor example sett](/variants/s6/r36g18r4g6k1w2~x2/sett.png)|
+| [MacGregor #3](/variants/s6/r36dg18r4dg6k1w2~x2/)|
+|![MacGregor #3 example sett](/variants/s6/r36dg18r4dg6k1w2~x2/sett.png)|
+| [MacGregor #4](/variants/s6/r41g19r7g8k1w3~x2/)|
+|![MacGregor #4 example sett](/variants/s6/r41g19r7g8k1w3~x2/sett.png)|
+| [MacGregor - 1800 (Clan)](/variants/s6/r57g21r8g8k1w3~x2/)|
+|![MacGregor - 1800 (Clan) example sett](/variants/s6/r57g21r8g8k1w3~x2/sett.png)|
+| [MacGregor Hunting Glengyle Clan Tartan](/variants/s6/m96g42m16g17k4lb6/)|
+|![MacGregor Hunting Glengyle Clan Tartan example sett](/variants/s6/m96g42m16g17k4lb6/sett.png)|
+| [MacGregor of Cardney](/variants/s6/m18g9m2g3k1w1~x4/)|
+|![MacGregor of Cardney example sett](/variants/s6/m18g9m2g3k1w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McBeams Boy](/setts/s16/t19db4t19lo5t2lo19t2lo5t19w2t19r5t2r19t2r5~x2/)|
-|![McBeams Boy example sett](/setts/s16/t19db4t19lo5t2lo19t2lo5t19w2t19r5t2r19t2r5~x2/sett.png)|
+| [McBeams Boy](/variants/s16/t19db4t19lo5t2lo19t2lo5t19w2t19r5t2r19t2r5~x2/)|
+|![McBeams Boy example sett](/variants/s16/t19db4t19lo5t2lo19t2lo5t19w2t19r5t2r19t2r5~x2/sett.png)|

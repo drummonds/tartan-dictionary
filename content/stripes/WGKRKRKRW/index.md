@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Neill (District)](/setts/s9/lb2r12k4r2k2r2k6g5lb2~x2/)|
-|![O'Neill (District) example sett](/setts/s9/lb2r12k4r2k2r2k6g5lb2~x2/sett.png)|
+| [O'Neill (District)](/variants/s9/lb2r12k4r2k2r2k6g5lb2~x2/)|
+|![O'Neill (District) example sett](/variants/s9/lb2r12k4r2k2r2k6g5lb2~x2/sett.png)|

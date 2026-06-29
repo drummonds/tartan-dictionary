@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mead (Tennessee) Hunting (Personal)](/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/)|
-|![Mead (Tennessee) Hunting (Personal) example sett](/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/sett.png)|
+| [Mead (Tennessee) Hunting (Personal)](/variants/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/)|
+|![Mead (Tennessee) Hunting (Personal) example sett](/variants/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/sett.png)|

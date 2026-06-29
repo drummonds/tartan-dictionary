@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean](/setts/s14/k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/)|
-|![Hebridean example sett](/setts/s14/k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/sett.png)|
-| [Hebridean 7](/setts/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/)|
-|![Hebridean 7 example sett](/setts/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/sett.png)|
+| [Hebridean](/variants/s14/k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/)|
+|![Hebridean example sett](/variants/s14/k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/sett.png)|
+| [Hebridean 7](/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/)|
+|![Hebridean 7 example sett](/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/sett.png)|

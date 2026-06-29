@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sutherland](/setts/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/)|
-|![Sutherland example sett](/setts/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/sett.png)|
+| [Sutherland](/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/)|
+|![Sutherland example sett](/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/sett.png)|

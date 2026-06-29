@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Somerset](/setts/s16/o8lg7lr5lb2k2lb2k2lb2k2lb2k2lb2lr5lg7o8y8~x4/)|
-|![Somerset example sett](/setts/s16/o8lg7lr5lb2k2lb2k2lb2k2lb2k2lb2lr5lg7o8y8~x4/sett.png)|
+| [Somerset](/variants/s16/o8lg7lr5lb2k2lb2k2lb2k2lb2k2lb2lr5lg7o8y8~x4/)|
+|![Somerset example sett](/variants/s16/o8lg7lr5lb2k2lb2k2lb2k2lb2k2lb2lr5lg7o8y8~x4/sett.png)|

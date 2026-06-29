@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crane of Cluny Hunting (Personal)](/setts/s8/lo83k6lo3k9r2k5lo2ly2~x2/)|
-|![Crane of Cluny Hunting (Personal) example sett](/setts/s8/lo83k6lo3k9r2k5lo2ly2~x2/sett.png)|
+| [Crane of Cluny Hunting (Personal)](/variants/s8/lo83k6lo3k9r2k5lo2ly2~x2/)|
+|![Crane of Cluny Hunting (Personal) example sett](/variants/s8/lo83k6lo3k9r2k5lo2ly2~x2/sett.png)|

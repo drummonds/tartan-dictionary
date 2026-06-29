@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Huntly Gordon](/setts/s6/r2dt3n12k11dg11ly2~x2/)|
-|![Huntly Gordon example sett](/setts/s6/r2dt3n12k11dg11ly2~x2/sett.png)|
-| [Huntly Gordon 2000 (Commem)](/setts/s6/r2dt3b12k11g11ly2~x2/)|
-|![Huntly Gordon 2000 (Commem) example sett](/setts/s6/r2dt3b12k11g11ly2~x2/sett.png)|
+| [Huntly Gordon](/variants/s6/r2dt3n12k11dg11ly2~x2/)|
+|![Huntly Gordon example sett](/variants/s6/r2dt3n12k11dg11ly2~x2/sett.png)|
+| [Huntly Gordon 2000 (Commem)](/variants/s6/r2dt3b12k11g11ly2~x2/)|
+|![Huntly Gordon 2000 (Commem) example sett](/variants/s6/r2dt3b12k11g11ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roberts (Welsh Name)](/setts/s12/db4t20k3t2k3t20db24k3db2k3db24r4/)|
-|![Roberts (Welsh Name) example sett](/setts/s12/db4t20k3t2k3t20db24k3db2k3db24r4/sett.png)|
+| [Roberts (Welsh Name)](/variants/s12/db4t20k3t2k3t20db24k3db2k3db24r4/)|
+|![Roberts (Welsh Name) example sett](/variants/s12/db4t20k3t2k3t20db24k3db2k3db24r4/sett.png)|

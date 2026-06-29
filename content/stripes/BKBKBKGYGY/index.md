@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon #2](/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/)|
-|![Gordon #2 example sett](/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/sett.png)|
-| [Gordon 3](/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/)|
-|![Gordon 3 example sett](/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/sett.png)|
+| [Gordon #2](/variants/s10/db56k6db6k6db6k44dg44ly4dg5ly8/)|
+|![Gordon #2 example sett](/variants/s10/db56k6db6k6db6k44dg44ly4dg5ly8/sett.png)|
+| [Gordon 3](/variants/s10/db56k6db6k6db6k44g44ly4g5ly8/)|
+|![Gordon 3 example sett](/variants/s10/db56k6db6k6db6k44g44ly4g5ly8/sett.png)|

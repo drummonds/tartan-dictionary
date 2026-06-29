@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferster, James Carney (Personal)](/setts/s6/b12dt35lb4w3k11r5~x2/)|
-|![Ferster, James Carney (Personal) example sett](/setts/s6/b12dt35lb4w3k11r5~x2/sett.png)|
+| [Ferster, James Carney (Personal)](/variants/s6/b12dt35lb4w3k11r5~x2/)|
+|![Ferster, James Carney (Personal) example sett](/variants/s6/b12dt35lb4w3k11r5~x2/sett.png)|

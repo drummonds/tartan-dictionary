@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Logan #3](/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/)|
-|![Logan #3 example sett](/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/sett.png)|
+| [Logan #3](/variants/s7/dp9lr4dp1lr4g15r4dp1~x4/)|
+|![Logan #3 example sett](/variants/s7/dp9lr4dp1lr4g15r4dp1~x4/sett.png)|

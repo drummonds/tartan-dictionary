@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crookstoun (Personal)](/setts/s6/b53w27r5k19lo1g11~x2/)|
-|![Crookstoun (Personal) example sett](/setts/s6/b53w27r5k19lo1g11~x2/sett.png)|
-| [Crookstoun, James (West Lothian) (Personal)](/setts/s6/t53w27r5k19lo1dg11~x2/)|
-|![Crookstoun, James (West Lothian) (Personal) example sett](/setts/s6/t53w27r5k19lo1dg11~x2/sett.png)|
+| [Crookstoun (Personal)](/variants/s6/b53w27r5k19lo1g11~x2/)|
+|![Crookstoun (Personal) example sett](/variants/s6/b53w27r5k19lo1g11~x2/sett.png)|
+| [Crookstoun, James (West Lothian) (Personal)](/variants/s6/t53w27r5k19lo1dg11~x2/)|
+|![Crookstoun, James (West Lothian) (Personal) example sett](/variants/s6/t53w27r5k19lo1dg11~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Johore](/setts/s8/o57w5g20o5lo10~x2/)|
-|![Johore example sett](/setts/s8/o57w5g20o5lo10~x2/sett.png)|
+| [Johore](/variants/s8/o57w5g20o5lo10~x2/)|
+|![Johore example sett](/variants/s8/o57w5g20o5lo10~x2/sett.png)|

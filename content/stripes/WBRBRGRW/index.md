@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Utah (US State)](/setts/s8/w2r3dg9r3db2r3db3w1~x6/)|
-|![Utah (US State) example sett](/setts/s8/w2r3dg9r3db2r3db3w1~x6/sett.png)|
-| [Utah Centennial](/setts/s8/w6ri8g24ri8db6r8db8w3~x2/)|
-|![Utah Centennial example sett](/setts/s8/w6ri8g24ri8db6r8db8w3~x2/sett.png)|
+| [Utah (US State)](/variants/s8/w2r3dg9r3db2r3db3w1~x6/)|
+|![Utah (US State) example sett](/variants/s8/w2r3dg9r3db2r3db3w1~x6/sett.png)|
+| [Utah Centennial](/variants/s8/w6ri8g24ri8db6r8db8w3~x2/)|
+|![Utah Centennial example sett](/variants/s8/w6ri8g24ri8db6r8db8w3~x2/sett.png)|

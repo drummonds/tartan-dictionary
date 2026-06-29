@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lords, of Skye](/setts/s4/k46o7k8w20~x2/)|
-|![Lords, of Skye example sett](/setts/s4/k46o7k8w20~x2/sett.png)|
+| [Lords, of Skye](/variants/s4/k46o7k8w20~x2/)|
+|![Lords, of Skye example sett](/variants/s4/k46o7k8w20~x2/sett.png)|

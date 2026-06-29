@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wisconsin (US State)](/setts/s10/n11r3n2o3k12dg20ly2k12n11lo3~x2/)|
-|![Wisconsin (US State) example sett](/setts/s10/n11r3n2o3k12dg20ly2k12n11lo3~x2/sett.png)|
+| [Wisconsin (US State)](/variants/s10/n11r3n2o3k12dg20ly2k12n11lo3~x2/)|
+|![Wisconsin (US State) example sett](/variants/s10/n11r3n2o3k12dg20ly2k12n11lo3~x2/sett.png)|

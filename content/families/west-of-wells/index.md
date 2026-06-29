@@ -8,11 +8,15 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s9/g28k2db3k11db3k2db17dbi4w2~x2/"><img src="/setts/s9/g28k2db3k11db3k2db17dbi4w2~x2/sett.png" alt="West of Wells" width="240"><br>West of Wells</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g28k2db3k11db3k2db17dbi4w2/">West of Wells</a> ★</td><td><code>G/56 K4 DB6 K22 DB6 K4 DB34 DBi8 W/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g28k2db3k11db3k2db17dbi4w2/"><img src="/variants/s9/g28k2db3k11db3k2db17dbi4w2~x2/sett.png" alt="West of Wells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg28k2dbi3k11dbi3k2dbi17db4lr2/">(Personal)</a></td><td><code>DG/56 K4 DBi6 K22 DBi6 K4 DBi34 DB8 LR/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg28k2dbi3k11dbi3k2dbi17db4lr2/"><img src="/variants/s9/dg28k2dbi3k11dbi3k2dbi17db4lr2~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s9/dg28k2dbi3k11dbi3k2dbi17db4lr2~x2/"><img src="/setts/s9/dg28k2dbi3k11dbi3k2dbi17db4lr2~x2/sett.png" alt="West of Wells (Personal)" width="140"><br>West of Wells (Personal)</a></li>
-</ul>
+[See the West of Wells tartan and all its setts →](/tartans/west-of-wells/)
 

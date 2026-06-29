@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Good Morning America (Corporate)](/setts/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/)|
-|![Good Morning America (Corporate) example sett](/setts/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/sett.png)|
+| [Good Morning America (Corporate)](/variants/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/)|
+|![Good Morning America (Corporate) example sett](/variants/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/sett.png)|

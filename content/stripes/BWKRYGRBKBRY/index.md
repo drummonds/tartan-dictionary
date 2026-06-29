@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wren (Name)](/setts/s12/db6w2k2r6ly2g12r6t3k3t3r28ly4~x2/)|
-|![Wren (Name) example sett](/setts/s12/db6w2k2r6ly2g12r6t3k3t3r28ly4~x2/sett.png)|
+| [Wren (Name)](/variants/s12/db6w2k2r6ly2g12r6t3k3t3r28ly4~x2/)|
+|![Wren (Name) example sett](/variants/s12/db6w2k2r6ly2g12r6t3k3t3r28ly4~x2/sett.png)|

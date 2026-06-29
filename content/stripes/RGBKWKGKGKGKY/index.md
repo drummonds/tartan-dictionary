@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacInnes](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/)|
-|![MacInnes example sett](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/sett.png)|
+| [MacInnes](/variants/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/)|
+|![MacInnes example sett](/variants/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/sett.png)|

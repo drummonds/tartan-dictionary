@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacInnes Dress](/setts/s13/dg4w24dg3k3dg3k3dg24k4w4k4db24dg8r4~x2/)|
-|![MacInnes Dress example sett](/setts/s13/dg4w24dg3k3dg3k3dg24k4w4k4db24dg8r4~x2/sett.png)|
-| [MacInnes, dress](/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/)|
-|![MacInnes, dress example sett](/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/sett.png)|
+| [MacInnes Dress](/variants/s13/dg4w24dg3k3dg3k3dg24k4w4k4db24dg8r4~x2/)|
+|![MacInnes Dress example sett](/variants/s13/dg4w24dg3k3dg3k3dg24k4w4k4db24dg8r4~x2/sett.png)|
+| [MacInnes, dress](/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/)|
+|![MacInnes, dress example sett](/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/sett.png)|

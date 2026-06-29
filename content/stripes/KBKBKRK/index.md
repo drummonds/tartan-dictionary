@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gibson, Robert (Personal)](/setts/s7/k5db15k5b1k35m1k2~x4/)|
-|![Gibson, Robert (Personal) example sett](/setts/s7/k5db15k5b1k35m1k2~x4/sett.png)|
+| [Gibson, Robert (Personal)](/variants/s7/k5db15k5b1k35m1k2~x4/)|
+|![Gibson, Robert (Personal) example sett](/variants/s7/k5db15k5b1k35m1k2~x4/sett.png)|

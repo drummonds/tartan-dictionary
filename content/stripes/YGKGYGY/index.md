@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Angle, Green (Fashion)](/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/)|
-|![Angle, Green (Fashion) example sett](/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/sett.png)|
+| [Angle, Green (Fashion)](/variants/s7/lo1dg11k6dg3lo1dg1lo1~x4/)|
+|![Angle, Green (Fashion) example sett](/variants/s7/lo1dg11k6dg3lo1dg1lo1~x4/sett.png)|

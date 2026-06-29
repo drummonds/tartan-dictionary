@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smoke Showing (UFES)](/setts/s9/g3n5k4n33g12k4w2k18lo3~x2/)|
-|![Smoke Showing (UFES) example sett](/setts/s9/g3n5k4n33g12k4w2k18lo3~x2/sett.png)|
+| [Smoke Showing (UFES)](/variants/s9/g3n5k4n33g12k4w2k18lo3~x2/)|
+|![Smoke Showing (UFES) example sett](/variants/s9/g3n5k4n33g12k4w2k18lo3~x2/sett.png)|

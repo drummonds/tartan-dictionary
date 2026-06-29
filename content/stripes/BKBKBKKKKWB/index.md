@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunn (Canada) (Name)](/setts/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2/)|
-|![Dunn (Canada) (Name) example sett](/setts/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2/sett.png)|
+| [Dunn (Canada) (Name)](/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2/)|
+|![Dunn (Canada) (Name) example sett](/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2/sett.png)|

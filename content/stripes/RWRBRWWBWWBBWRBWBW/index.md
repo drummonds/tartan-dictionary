@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Welly (Personal)](/setts/s18/o1lp1o1b1o1w1lp1b1w1lp1b1dp1lp1o1n1lp1b1w1~x10/)|
-|![Welly (Personal) example sett](/setts/s18/o1lp1o1b1o1w1lp1b1w1lp1b1dp1lp1o1n1lp1b1w1~x10/sett.png)|
+| [Welly (Personal)](/variants/s18/o1lp1o1b1o1w1lp1b1w1lp1b1dp1lp1o1n1lp1b1w1~x10/)|
+|![Welly (Personal) example sett](/variants/s18/o1lp1o1b1o1w1lp1b1w1lp1b1dp1lp1o1n1lp1b1w1~x10/sett.png)|

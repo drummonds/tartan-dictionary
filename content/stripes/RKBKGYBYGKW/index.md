@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hororata](/setts/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/)|
-|![Hororata example sett](/setts/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/sett.png)|
+| [Hororata](/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/)|
+|![Hororata example sett](/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/sett.png)|

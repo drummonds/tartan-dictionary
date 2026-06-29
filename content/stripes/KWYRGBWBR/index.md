@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ofsharick, Matthew (Personal)](/setts/s9/o55b8w8b8g5o8ly4w4k4~x2/)|
-|![Ofsharick, Matthew (Personal) example sett](/setts/s9/o55b8w8b8g5o8ly4w4k4~x2/sett.png)|
+| [Ofsharick, Matthew (Personal)](/variants/s9/o55b8w8b8g5o8ly4w4k4~x2/)|
+|![Ofsharick, Matthew (Personal) example sett](/variants/s9/o55b8w8b8g5o8ly4w4k4~x2/sett.png)|

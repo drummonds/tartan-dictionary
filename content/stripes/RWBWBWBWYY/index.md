@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peter Rabbit™](/setts/s10/lr7lg2w2b5w3b7w5b14w5r5~x2/)|
-|![Peter Rabbit™ example sett](/setts/s10/lr7lg2w2b5w3b7w5b14w5r5~x2/sett.png)|
+| [Peter Rabbit™](/variants/s10/lr7lg2w2b5w3b7w5b14w5r5~x2/)|
+|![Peter Rabbit™ example sett](/variants/s10/lr7lg2w2b5w3b7w5b14w5r5~x2/sett.png)|

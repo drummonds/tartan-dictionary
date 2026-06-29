@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barkwell (Personal)](/setts/s8/r20k1ly3k1r60k30r48k4~x2/)|
-|![Barkwell (Personal) example sett](/setts/s8/r20k1ly3k1r60k30r48k4~x2/sett.png)|
+| [Barkwell (Personal)](/variants/s8/r20k1ly3k1r60k30r48k4~x2/)|
+|![Barkwell (Personal) example sett](/variants/s8/r20k1ly3k1r60k30r48k4~x2/sett.png)|

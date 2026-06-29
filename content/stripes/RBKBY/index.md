@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sanix Modern](/setts/s5/r1dt8k6db10lo1~x4/)|
-|![Sanix Modern example sett](/setts/s5/r1dt8k6db10lo1~x4/sett.png)|
+| [Sanix Modern](/variants/s5/r1dt8k6db10lo1~x4/)|
+|![Sanix Modern example sett](/variants/s5/r1dt8k6db10lo1~x4/sett.png)|

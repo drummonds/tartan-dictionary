@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Man, Isle of](/setts/s13/r2db22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/)|
-|![Man, Isle of example sett](/setts/s13/r2db22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png)|
+| [Man, Isle of](/variants/s13/r2db22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/)|
+|![Man, Isle of example sett](/variants/s13/r2db22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png)|

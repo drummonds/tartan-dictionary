@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Rourke (Estimated threadcount)](/setts/s9/t25k1dy6k1lr10w3lr10k1ly3~x4/)|
-|![O'Rourke (Estimated threadcount) example sett](/setts/s9/t25k1dy6k1lr10w3lr10k1ly3~x4/sett.png)|
+| [O'Rourke (Estimated threadcount)](/variants/s9/t25k1dy6k1lr10w3lr10k1ly3~x4/)|
+|![O'Rourke (Estimated threadcount) example sett](/variants/s9/t25k1dy6k1lr10w3lr10k1ly3~x4/sett.png)|

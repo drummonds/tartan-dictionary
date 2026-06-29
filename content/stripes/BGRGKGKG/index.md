@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strath Halladale (Sutherland)](/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/)|
-|![Strath Halladale (Sutherland) example sett](/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/sett.png)|
+| [Strath Halladale (Sutherland)](/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/)|
+|![Strath Halladale (Sutherland) example sett](/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/sett.png)|

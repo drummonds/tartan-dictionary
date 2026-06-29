@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lennox](/setts/s7/r2ri1r10ri2g10lr1g2~x4/)|
-|![Lennox example sett](/setts/s7/r2ri1r10ri2g10lr1g2~x4/sett.png)|
+| [Lennox](/variants/s7/r2ri1r10ri2g10lr1g2~x4/)|
+|![Lennox example sett](/variants/s7/r2ri1r10ri2g10lr1g2~x4/sett.png)|

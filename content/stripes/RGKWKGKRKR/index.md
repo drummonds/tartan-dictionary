@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDiarmid](/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/)|
-|![MacDiarmid example sett](/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/sett.png)|
-| [MacDiarmid #3](/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/)|
-|![MacDiarmid #3 example sett](/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/sett.png)|
+| [MacDiarmid](/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/)|
+|![MacDiarmid example sett](/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/sett.png)|
+| [MacDiarmid #3](/variants/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/)|
+|![MacDiarmid #3 example sett](/variants/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/sett.png)|

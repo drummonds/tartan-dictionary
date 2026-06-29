@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/)|
-|![Knights Templar Dress (Corporate) example sett](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/sett.png)|
+| [Knights Templar Dress (Corporate)](/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/)|
+|![Knights Templar Dress (Corporate) example sett](/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Warren Wilson College](/setts/s14/g20lr6db20ly3db48r6db4r6~x2/)|
-|![Warren Wilson College example sett](/setts/s14/g20lr6db20ly3db48r6db4r6~x2/sett.png)|
+| [Warren Wilson College](/variants/s14/g20lr6db20ly3db48r6db4r6~x2/)|
+|![Warren Wilson College example sett](/variants/s14/g20lr6db20ly3db48r6db4r6~x2/sett.png)|

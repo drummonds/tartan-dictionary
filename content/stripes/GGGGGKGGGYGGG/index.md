@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Neill, Martin](/setts/s13/gi24g2gi4g16gi1k2gi1g16gi3ly1gi12y2gi5~x2/)|
-|![O'Neill, Martin example sett](/setts/s13/gi24g2gi4g16gi1k2gi1g16gi3ly1gi12y2gi5~x2/sett.png)|
+| [O'Neill, Martin](/variants/s13/gi24g2gi4g16gi1k2gi1g16gi3ly1gi12y2gi5~x2/)|
+|![O'Neill, Martin example sett](/variants/s13/gi24g2gi4g16gi1k2gi1g16gi3ly1gi12y2gi5~x2/sett.png)|

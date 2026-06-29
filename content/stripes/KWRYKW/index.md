@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tahrir (Liberation)](/setts/s6/k5w4r15lg70k4w5~x2/)|
-|![Tahrir (Liberation) example sett](/setts/s6/k5w4r15lg70k4w5~x2/sett.png)|
+| [Tahrir (Liberation)](/variants/s6/k5w4r15lg70k4w5~x2/)|
+|![Tahrir (Liberation) example sett](/variants/s6/k5w4r15lg70k4w5~x2/sett.png)|

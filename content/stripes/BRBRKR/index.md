@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGregor, Modern](/setts/s6/db18r9db2r3k1o1~x4/)|
-|![MacGregor, Modern example sett](/setts/s6/db18r9db2r3k1o1~x4/sett.png)|
+| [MacGregor, Modern](/variants/s6/db18r9db2r3k1o1~x4/)|
+|![MacGregor, Modern example sett](/variants/s6/db18r9db2r3k1o1~x4/sett.png)|

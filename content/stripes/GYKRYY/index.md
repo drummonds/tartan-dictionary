@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mitchell, Martin (Personal)](/setts/s6/lr12lo8r5k6lr7g5~x4/)|
-|![Mitchell, Martin (Personal) example sett](/setts/s6/lr12lo8r5k6lr7g5~x4/sett.png)|
+| [Mitchell, Martin (Personal)](/variants/s6/lr12lo8r5k6lr7g5~x4/)|
+|![Mitchell, Martin (Personal) example sett](/variants/s6/lr12lo8r5k6lr7g5~x4/sett.png)|

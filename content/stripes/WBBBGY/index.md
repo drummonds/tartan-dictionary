@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ancient Atlantic (Fashion)](/setts/s6/lb3db17do16dt2dg17lo2~x2/)|
-|![Ancient Atlantic (Fashion) example sett](/setts/s6/lb3db17do16dt2dg17lo2~x2/sett.png)|
+| [Ancient Atlantic (Fashion)](/variants/s6/lb3db17do16dt2dg17lo2~x2/)|
+|![Ancient Atlantic (Fashion) example sett](/variants/s6/lb3db17do16dt2dg17lo2~x2/sett.png)|

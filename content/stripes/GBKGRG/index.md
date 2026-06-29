@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Callum Beg (Fashion)](/setts/s6/g1db6k6g6r1g1~x6/)|
-|![Callum Beg (Fashion) example sett](/setts/s6/g1db6k6g6r1g1~x6/sett.png)|
+| [Callum Beg (Fashion)](/variants/s6/g1db6k6g6r1g1~x6/)|
+|![Callum Beg (Fashion) example sett](/variants/s6/g1db6k6g6r1g1~x6/sett.png)|

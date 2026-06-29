@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lobban (Personal)](/setts/s18/r2t2r2t12k9g12r2g2ly5g2r2g12k9t12r2t2r2t2~x2/)|
-|![Lobban (Personal) example sett](/setts/s18/r2t2r2t12k9g12r2g2ly5g2r2g12k9t12r2t2r2t2~x2/sett.png)|
+| [Lobban (Personal)](/variants/s18/r2t2r2t12k9g12r2g2ly5g2r2g12k9t12r2t2r2t2~x2/)|
+|![Lobban (Personal) example sett](/variants/s18/r2t2r2t12k9g12r2g2ly5g2r2g12k9t12r2t2r2t2~x2/sett.png)|

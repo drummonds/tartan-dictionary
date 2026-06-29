@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Englehart](/setts/s4/g53r13db2ly22~x2/)|
-|![Englehart example sett](/setts/s4/g53r13db2ly22~x2/sett.png)|
-| [Englehart, City of](/setts/s4/dg27r9n2ly14~x4/)|
-|![Englehart, City of example sett](/setts/s4/dg27r9n2ly14~x4/sett.png)|
+| [Englehart](/variants/s4/g53r13db2ly22~x2/)|
+|![Englehart example sett](/variants/s4/g53r13db2ly22~x2/sett.png)|
+| [Englehart, City of](/variants/s4/dg27r9n2ly14~x4/)|
+|![Englehart, City of example sett](/variants/s4/dg27r9n2ly14~x4/sett.png)|

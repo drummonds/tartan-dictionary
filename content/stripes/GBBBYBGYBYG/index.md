@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yarrow](/setts/s11/dy42do10t2do2lo2do2dy10lo6do2lo3dy2~x2/)|
-|![Yarrow example sett](/setts/s11/dy42do10t2do2lo2do2dy10lo6do2lo3dy2~x2/sett.png)|
+| [Yarrow](/variants/s11/dy42do10t2do2lo2do2dy10lo6do2lo3dy2~x2/)|
+|![Yarrow example sett](/variants/s11/dy42do10t2do2lo2do2dy10lo6do2lo3dy2~x2/sett.png)|

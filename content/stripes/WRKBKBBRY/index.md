@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [East Kilbride #2](/setts/s9/w2r14k1n5k1n5do8r10lo2~x4/)|
-|![East Kilbride #2 example sett](/setts/s9/w2r14k1n5k1n5do8r10lo2~x4/sett.png)|
+| [East Kilbride #2](/variants/s9/w2r14k1n5k1n5do8r10lo2~x4/)|
+|![East Kilbride #2 example sett](/variants/s9/w2r14k1n5k1n5do8r10lo2~x4/sett.png)|

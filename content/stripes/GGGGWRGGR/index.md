@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Kingsburgh -1746 (Clan)](/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/)|
-|![MacDonald of Kingsburgh -1746 (Clan) example sett](/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/sett.png)|
+| [MacDonald of Kingsburgh -1746 (Clan)](/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/)|
+|![MacDonald of Kingsburgh -1746 (Clan) example sett](/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/sett.png)|

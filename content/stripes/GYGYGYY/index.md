@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lister (Misty Mountain)](/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/)|
-|![Lister (Misty Mountain) example sett](/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/sett.png)|
+| [Lister (Misty Mountain)](/variants/s7/dy8lr29dy8lo3dy8lr8lo3~x2/)|
+|![Lister (Misty Mountain) example sett](/variants/s7/dy8lr29dy8lo3dy8lr8lo3~x2/sett.png)|

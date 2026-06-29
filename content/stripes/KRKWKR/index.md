@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Monmouth College](/setts/s6/k4r33k24w3k4r3~x2/)|
-|![Monmouth College example sett](/setts/s6/k4r33k24w3k4r3~x2/sett.png)|
+| [Monmouth College](/variants/s6/k4r33k24w3k4r3~x2/)|
+|![Monmouth College example sett](/variants/s6/k4r33k24w3k4r3~x2/sett.png)|

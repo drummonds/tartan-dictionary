@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bogle (2015)](/setts/s15/k16ki2k2ki2k2ki14r16ki1ly2ki1r16ki14k12ki1w2~x2/)|
-|![Bogle (2015) example sett](/setts/s15/k16ki2k2ki2k2ki14r16ki1ly2ki1r16ki14k12ki1w2~x2/sett.png)|
+| [Bogle (2015)](/variants/s15/k16ki2k2ki2k2ki14r16ki1ly2ki1r16ki14k12ki1w2~x2/)|
+|![Bogle (2015) example sett](/variants/s15/k16ki2k2ki2k2ki14r16ki1ly2ki1r16ki14k12ki1w2~x2/sett.png)|

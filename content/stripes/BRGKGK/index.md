@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Denny Hunting](/setts/s6/k4dg5k2dg5r17db2~x2/)|
-|![Denny Hunting example sett](/setts/s6/k4dg5k2dg5r17db2~x2/sett.png)|
-| [Denny, hunting](/setts/s6/k1g6k1g6r16db1~x2/)|
-|![Denny, hunting example sett](/setts/s6/k1g6k1g6r16db1~x2/sett.png)|
+| [Denny Hunting](/variants/s6/k4dg5k2dg5r17db2~x2/)|
+|![Denny Hunting example sett](/variants/s6/k4dg5k2dg5r17db2~x2/sett.png)|
+| [Denny, hunting](/variants/s6/k1g6k1g6r16db1~x2/)|
+|![Denny, hunting example sett](/variants/s6/k1g6k1g6r16db1~x2/sett.png)|

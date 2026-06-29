@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meaux, Luc G (Personal)](/setts/s4/k62o24lo5dg3~x2/)|
-|![Meaux, Luc G (Personal) example sett](/setts/s4/k62o24lo5dg3~x2/sett.png)|
+| [Meaux, Luc G (Personal)](/variants/s4/k62o24lo5dg3~x2/)|
+|![Meaux, Luc G (Personal) example sett](/variants/s4/k62o24lo5dg3~x2/sett.png)|

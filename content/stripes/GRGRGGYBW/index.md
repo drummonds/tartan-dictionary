@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Derry Family (Olney, Buckinghamshire) (Personal)](/setts/s9/w6b36ly12dyi19dy6r6dy6r28dy4/)|
-|![Derry Family (Olney, Buckinghamshire) (Personal) example sett](/setts/s9/w6b36ly12dyi19dy6r6dy6r28dy4/sett.png)|
-| [Derry Family (Personal)](/setts/s9/w6t36lo12g19gi6r6gi6r28gi4/)|
-|![Derry Family (Personal) example sett](/setts/s9/w6t36lo12g19gi6r6gi6r28gi4/sett.png)|
+| [Derry Family (Olney, Buckinghamshire) (Personal)](/variants/s9/w6b36ly12dyi19dy6r6dy6r28dy4/)|
+|![Derry Family (Olney, Buckinghamshire) (Personal) example sett](/variants/s9/w6b36ly12dyi19dy6r6dy6r28dy4/sett.png)|
+| [Derry Family (Personal)](/variants/s9/w6t36lo12g19gi6r6gi6r28gi4/)|
+|![Derry Family (Personal) example sett](/variants/s9/w6t36lo12g19gi6r6gi6r28gi4/sett.png)|

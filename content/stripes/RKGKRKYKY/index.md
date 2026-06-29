@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Magdalene](/setts/s9/ly2k4ly1k4r5k50y1k2r1~x2/)|
-|![Magdalene example sett](/setts/s9/ly2k4ly1k4r5k50y1k2r1~x2/sett.png)|
+| [Magdalene](/variants/s9/ly2k4ly1k4r5k50y1k2r1~x2/)|
+|![Magdalene example sett](/variants/s9/ly2k4ly1k4r5k50y1k2r1~x2/sett.png)|

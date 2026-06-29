@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fulton (1999) (Name)](/setts/s9/db3k5r2g2r3g12r6k1r3~x4/)|
-|![Fulton (1999) (Name) example sett](/setts/s9/db3k5r2g2r3g12r6k1r3~x4/sett.png)|
+| [Fulton (1999) (Name)](/variants/s9/db3k5r2g2r3g12r6k1r3~x4/)|
+|![Fulton (1999) (Name) example sett](/variants/s9/db3k5r2g2r3g12r6k1r3~x4/sett.png)|

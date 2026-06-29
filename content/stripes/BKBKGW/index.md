@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell of Argyll (Smiths)](/setts/s6/db2k2db12k11g16w2~x2/)|
-|![Campbell of Argyll (Smiths) example sett](/setts/s6/db2k2db12k11g16w2~x2/sett.png)|
-| [Campbell, The White Stripe](/setts/s6/db2k2db12k11g12w2~x2/)|
-|![Campbell, The White Stripe example sett](/setts/s6/db2k2db12k11g12w2~x2/sett.png)|
-| [Granger (Personal)](/setts/s6/db40k4db12k21g27w4~x2/)|
-|![Granger (Personal) example sett](/setts/s6/db40k4db12k21g27w4~x2/sett.png)|
+| [Campbell of Argyll (Smiths)](/variants/s6/db2k2db12k11g16w2~x2/)|
+|![Campbell of Argyll (Smiths) example sett](/variants/s6/db2k2db12k11g16w2~x2/sett.png)|
+| [Campbell, The White Stripe](/variants/s6/db2k2db12k11g12w2~x2/)|
+|![Campbell, The White Stripe example sett](/variants/s6/db2k2db12k11g12w2~x2/sett.png)|
+| [Granger (Personal)](/variants/s6/db40k4db12k21g27w4~x2/)|
+|![Granger (Personal) example sett](/variants/s6/db40k4db12k21g27w4~x2/sett.png)|

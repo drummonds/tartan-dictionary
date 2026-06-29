@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [S.I.D.E. (Corporate)](/setts/s5/ly15r9t30w3db4~x2/)|
-|![S.I.D.E. (Corporate) example sett](/setts/s5/ly15r9t30w3db4~x2/sett.png)|
+| [S.I.D.E. (Corporate)](/variants/s5/ly15r9t30w3db4~x2/)|
+|![S.I.D.E. (Corporate) example sett](/variants/s5/ly15r9t30w3db4~x2/sett.png)|

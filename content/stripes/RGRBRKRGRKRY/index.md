@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Queen (Corporate)](/setts/s12/r8g4r30db6r2k1r2g6r8k1r4ly2~x2/)|
-|![Highland Queen (Corporate) example sett](/setts/s12/r8g4r30db6r2k1r2g6r8k1r4ly2~x2/sett.png)|
+| [Highland Queen (Corporate)](/variants/s12/r8g4r30db6r2k1r2g6r8k1r4ly2~x2/)|
+|![Highland Queen (Corporate) example sett](/variants/s12/r8g4r30db6r2k1r2g6r8k1r4ly2~x2/sett.png)|

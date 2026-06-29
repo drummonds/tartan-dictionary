@@ -1,0 +1,62 @@
+---
+title: "Duke of York (Royal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db61r6w2r8lo2db3lo2db15/)
+(the same proportion at any scale), whose colour order is pattern [BRWRYBYB](/stripes/brwrybyb/).
+
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/577/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Duke of York
+- Inverness Htg
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1918 — Duke of York (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/577/">record</a>)</li>
+<li>01/01/1930 — Duke of York (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011">record</a>)</li>
+<li>pre 1930 — Inverness Htg (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3609/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1011](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011)
+- Scottish Tartans Authority (ITI): 3609
+- Scottish Tartans World Register: 577
+
+## Thread count
+DB/122 DR12 W4 DR16 DY4 DB6 DY4 DB/30
+
+One full sett is **244 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">122</td><td><code style="background-color:#00008C;"><span style="color:#00008C;filter:grayscale(1) invert(1) contrast(100);">#00008C</span></code> <small style="color:#888">#00008C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(28.9% 0.200 264.1)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#8C0000;"><span style="color:#8C0000;filter:grayscale(1) invert(1) contrast(100);">#8C0000</span></code> <small style="color:#888">#8C0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(40.2% 0.165 29.2)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#8C0000;"><span style="color:#8C0000;filter:grayscale(1) invert(1) contrast(100);">#8C0000</span></code> <small style="color:#888">#8C0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(40.2% 0.165 29.2)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C88C00;"><span style="color:#C88C00;filter:grayscale(1) invert(1) contrast(100);">#C88C00</span></code> <small style="color:#888">#C88C00</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(68.2% 0.142 78.2)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#00008C;"><span style="color:#00008C;filter:grayscale(1) invert(1) contrast(100);">#00008C</span></code> <small style="color:#888">#00008C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(28.9% 0.200 264.1)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C88C00;"><span style="color:#C88C00;filter:grayscale(1) invert(1) contrast(100);">#C88C00</span></code> <small style="color:#888">#C88C00</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(68.2% 0.142 78.2)</small></td></tr><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">30</td><td><code style="background-color:#00008C;"><span style="color:#00008C;filter:grayscale(1) invert(1) contrast(100);">#00008C</span></code> <small style="color:#888">#00008C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(28.9% 0.200 264.1)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DB/122 DR12 W4 DR16 DY4 DB6 DY4 DB/30 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=db61r6w2r8lo2db3lo2db15~x2">Duke of York (Royal)</a> <a class="nn-out" href="/variants/s8/db61r6w2r8lo2db3lo2db15~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/db61r6w2r8lo2db3lo2db15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=db66w2db10w2db10w2db12r3t24~x2&amp;base=db61r6w2r8lo2db3lo2db15~x2">RAAF</a> <a class="nn-out" href="/variants/s9/db66w2db10w2db10w2db12r3t24~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db66w2db10w2db10w2db12r3t24~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.23</div><div class="nn-name"><a href="/ttd/edit/#slug=db48w2db7w2db7w2db20t11r2~x2&amp;base=db61r6w2r8lo2db3lo2db15~x2">RAAF #4</a> <a class="nn-out" href="/variants/s9/db48w2db7w2db7w2db20t11r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db48w2db7w2db7w2db20t11r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.40</div><div class="nn-name"><a href="/ttd/edit/#slug=db32r3db4k1ly3&amp;base=db61r6w2r8lo2db3lo2db15~x2">MacLaine of Lochbuie Hunting</a> <a class="nn-out" href="/variants/s5/db32r3db4k1ly3/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db32r3db4k1ly3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=db100y10k5y10r8&amp;base=db61r6w2r8lo2db3lo2db15~x2">Waugh</a> <a class="nn-out" href="/variants/s5/db100y10k5y10r8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db100y10k5y10r8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=db61w4db2w7p2g3ly2db16~x2&amp;base=db61r6w2r8lo2db3lo2db15~x2">Boat of Garten (District)</a> <a class="nn-out" href="/variants/s8/db61w4db2w7p2g3ly2db16~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db61w4db2w7p2g3ly2db16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=b10db6b3db62w4db5~x2&amp;base=db61r6w2r8lo2db3lo2db15~x2">Auchairne</a> <a class="nn-out" href="/variants/s6/b10db6b3db62w4db5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b10db6b3db62w4db5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/ttd/edit/#slug=b7db5w6db5r7db2b2db70w2&amp;base=db61r6w2r8lo2db3lo2db15~x2">United States (Corporate)</a> <a class="nn-out" href="/variants/s9/b7db5w6db5r7db2b2db70w2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/b7db5w6db5r7db2b2db70w2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.51</div><div class="nn-name"><a href="/ttd/edit/#slug=db66r16w2r1w1r1w2r16db66ly2~x2&amp;base=db61r6w2r8lo2db3lo2db15~x2">Cougan Irish Personal Tartan</a> <a class="nn-out" href="/variants/s10/db66r16w2r1w1r1w2r16db66ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db66r16w2r1w1r1w2r16db66ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=db100t10k5t10r8&amp;base=db61r6w2r8lo2db3lo2db15~x2">Waugh (Name)</a> <a class="nn-out" href="/variants/s5/db100t10k5t10r8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db100t10k5t10r8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.66</div><div class="nn-name"><a href="/ttd/edit/#slug=ly2db66r16w2r1w1~x2&amp;base=db61r6w2r8lo2db3lo2db15~x2">Coogan (Personal)</a> <a class="nn-out" href="/variants/s6/ly2db66r16w2r1w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/ly2db66r16w2r1w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db66w2db10w2db10w2db12r3t24~x2/"><circle cx="494.1" cy="134.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20t11r2~x2/"><circle cx="548.7" cy="158.2" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s5/db32r3db4k1ly3/"><circle cx="574.8" cy="166.1" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s5/db100y10k5y10r8/"><circle cx="500.7" cy="185.1" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/variants/s8/db61w4db2w7p2g3ly2db16~x2/"><circle cx="533.5" cy="111.6" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="552.3" cy="185.8" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s9/b7db5w6db5r7db2b2db70w2/"><circle cx="524.5" cy="107.9" r="4" fill="#3465a4"><title>United States (Corporate)</title></circle></a><a href="/variants/s10/db66r16w2r1w1r1w2r16db66ly2~x2/"><circle cx="545.6" cy="114.9" r="4" fill="#3465a4"><title>Cougan Irish Personal Tartan</title></circle></a><a href="/variants/s5/db100t10k5t10r8/"><circle cx="511.7" cy="184.0" r="4" fill="#3465a4"><title>Waugh (Name)</title></circle></a><a href="/variants/s6/ly2db66r16w2r1w1~x2/"><circle cx="541.5" cy="123.2" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><circle cx="550.3" cy="141.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/db61r6w2r8lo2db3lo2db15~x2/

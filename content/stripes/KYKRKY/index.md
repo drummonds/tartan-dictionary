@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C21st - Fashion](/setts/s6/k4ly32k16r3k16ly4~x2/)|
-|![Unnamed C21st - Fashion example sett](/setts/s6/k4ly32k16r3k16ly4~x2/sett.png)|
+| [Unnamed C21st - Fashion](/variants/s6/k4ly32k16r3k16ly4~x2/)|
+|![Unnamed C21st - Fashion example sett](/variants/s6/k4ly32k16r3k16ly4~x2/sett.png)|

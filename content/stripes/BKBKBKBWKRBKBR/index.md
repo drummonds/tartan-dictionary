@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sydney Academy](/setts/s14/n31k4n4k4n4k4n6w5k4o3b19k3n4r3~x2/)|
-|![Sydney Academy example sett](/setts/s14/n31k4n4k4n4k4n6w5k4o3b19k3n4r3~x2/sett.png)|
+| [Sydney Academy](/variants/s14/n31k4n4k4n4k4n6w5k4o3b19k3n4r3~x2/)|
+|![Sydney Academy example sett](/variants/s14/n31k4n4k4n4k4n6w5k4o3b19k3n4r3~x2/sett.png)|

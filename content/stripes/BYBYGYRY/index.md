@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Moray](/setts/s8/db1lo1db13loi3y3loi3r1loi1~x4/)|
-|![Glen Moray example sett](/setts/s8/db1lo1db13loi3y3loi3r1loi1~x4/sett.png)|
+| [Glen Moray](/variants/s8/db1lo1db13loi3y3loi3r1loi1~x4/)|
+|![Glen Moray example sett](/variants/s8/db1lo1db13loi3y3loi3r1loi1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inchforth (Personal)](/setts/s9/o4g2o7dt30o8dt7lg5g1w2~x2/)|
-|![Inchforth (Personal) example sett](/setts/s9/o4g2o7dt30o8dt7lg5g1w2~x2/sett.png)|
+| [Inchforth (Personal)](/variants/s9/o4g2o7dt30o8dt7lg5g1w2~x2/)|
+|![Inchforth (Personal) example sett](/variants/s9/o4g2o7dt30o8dt7lg5g1w2~x2/sett.png)|

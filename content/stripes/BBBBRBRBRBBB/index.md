@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Great Scot](/setts/s12/db12t6db52dt41m12dp6m12/)|
-|![Great Scot example sett](/setts/s12/db12t6db52dt41m12dp6m12/sett.png)|
+| [Great Scot](/variants/s12/db12t6db52dt41m12dp6m12/)|
+|![Great Scot example sett](/variants/s12/db12t6db52dt41m12dp6m12/sett.png)|

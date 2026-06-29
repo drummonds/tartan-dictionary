@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Donohue Personal)](/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/)|
-|![O'Donohue Personal) example sett](/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/sett.png)|
+| [O'Donohue Personal)](/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/)|
+|![O'Donohue Personal) example sett](/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/sett.png)|

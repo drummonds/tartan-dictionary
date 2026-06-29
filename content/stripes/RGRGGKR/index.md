@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tipperary, County](/setts/s7/r33k8dy12g12r8dy2r8~x2/)|
-|![Tipperary, County example sett](/setts/s7/r33k8dy12g12r8dy2r8~x2/sett.png)|
+| [Tipperary, County](/variants/s7/r33k8dy12g12r8dy2r8~x2/)|
+|![Tipperary, County example sett](/variants/s7/r33k8dy12g12r8dy2r8~x2/sett.png)|

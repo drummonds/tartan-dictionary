@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Commonwealth Games 1998](/setts/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/)|
-|![Commonwealth Games 1998 example sett](/setts/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/sett.png)|
-| [Commonwealth Games 1998 (Corporate)](/setts/s11/g10m2g2mi4g16dp16mi2t18lo2t8mi3~x2/)|
-|![Commonwealth Games 1998 (Corporate) example sett](/setts/s11/g10m2g2mi4g16dp16mi2t18lo2t8mi3~x2/sett.png)|
+| [Commonwealth Games 1998](/variants/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/)|
+|![Commonwealth Games 1998 example sett](/variants/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/sett.png)|
+| [Commonwealth Games 1998 (Corporate)](/variants/s11/g10m2g2mi4g16dp16mi2t18lo2t8mi3~x2/)|
+|![Commonwealth Games 1998 (Corporate) example sett](/variants/s11/g10m2g2mi4g16dp16mi2t18lo2t8mi3~x2/sett.png)|

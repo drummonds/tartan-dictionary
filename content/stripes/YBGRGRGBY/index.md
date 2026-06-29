@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFie Hunting (Clan?)](/setts/s9/lr1do12g2r2g16r2g2do12lo1~x4/)|
-|![MacFie Hunting (Clan?) example sett](/setts/s9/lr1do12g2r2g16r2g2do12lo1~x4/sett.png)|
+| [MacFie Hunting (Clan?)](/variants/s9/lr1do12g2r2g16r2g2do12lo1~x4/)|
+|![MacFie Hunting (Clan?) example sett](/variants/s9/lr1do12g2r2g16r2g2do12lo1~x4/sett.png)|

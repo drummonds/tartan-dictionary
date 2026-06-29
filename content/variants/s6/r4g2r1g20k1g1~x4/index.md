@@ -1,0 +1,55 @@
+---
+title: "Loch Laggan (District)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g2r1g20k1g1/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGR](/stripes/gkgrgr/).
+
+Part of the [Loch Laggan](/tartans/loch-laggan/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/796/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 796
+
+## Thread count
+R/16 G8 R4 G80 K4 G/4
+
+One full sett is **212 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">80</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/16 G8 R4 G80 K4 G/4 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r4g2r1g19k1g2/"><img src="/variants/s10/r4g2r1g19k1g2~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r4g2r1g19k1g2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r4g2r1g20k1g1~x4">Loch Laggan (District)</a> <a class="nn-out" href="/variants/s6/r4g2r1g20k1g1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r4g2r1g20k1g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.92</div><div class="nn-name"><a href="/ttd/edit/#slug=r19g6r7g101k7g7&amp;base=r4g2r1g20k1g1~x4">Loch Laggan</a> <a class="nn-out" href="/variants/s6/r19g6r7g101k7g7/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r19g6r7g101k7g7/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.35</div><div class="nn-name"><a href="/ttd/edit/#slug=r2g1r1g11w1~x8&amp;base=r4g2r1g20k1g1~x4">Welsh, National</a> <a class="nn-out" href="/variants/s5/r2g1r1g11w1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2g1r1g11w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.42</div><div class="nn-name"><a href="/variants/s10/r4g2r1g19k1g2~x4/">Loch Laggan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r4g2r1g19k1g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.81</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k3g45k3ly2&amp;base=r4g2r1g20k1g1~x4">Mar Tribe</a> <a class="nn-out" href="/variants/s5/r2k3g45k3ly2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2k3g45k3ly2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.82</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k4g45k3ly2&amp;base=r4g2r1g20k1g1~x4">Mar, (Tribe of..)</a> <a class="nn-out" href="/variants/s5/r2k4g45k3ly2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2k4g45k3ly2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.87</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k4g45k3ly2~x2&amp;base=r4g2r1g20k1g1~x4">Mar, Tribe of (Clan)</a> <a class="nn-out" href="/variants/s5/r2k4g45k3ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2k4g45k3ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.96</div><div class="nn-name"><a href="/ttd/edit/#slug=g48r4g2r4g6r2g3r9~x2&amp;base=r4g2r1g20k1g1~x4">Menzies</a> <a class="nn-out" href="/variants/s8/g48r4g2r4g6r2g3r9~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.03</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=g51dp3g5lo3g5dp5g5dp5g5lo3~x2&amp;base=r4g2r1g20k1g1~x4">Highland Hospice (Fashion)</a> <a class="nn-out" href="/variants/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.05</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2&amp;base=r4g2r1g20k1g1~x4">Delta Lambda Phi (Corporate)</a> <a class="nn-out" href="/variants/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.09</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=g25w1dg2w1g6k2w2dg3~x2&amp;base=r4g2r1g20k1g1~x4">Marshall University</a> <a class="nn-out" href="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r19g6r7g101k7g7/"><circle cx="527.5" cy="189.4" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/variants/s5/r2g1r1g11w1~x8/"><circle cx="490.3" cy="219.9" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><a href="/variants/s10/r4g2r1g19k1g2~x4/"><circle cx="587.8" cy="176.1" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/variants/s5/r2k3g45k3ly2/"><circle cx="588.3" cy="184.8" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><a href="/variants/s5/r2k4g45k3ly2/"><circle cx="524.0" cy="162.6" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/variants/s5/r2k4g45k3ly2~x2/"><circle cx="576.3" cy="187.3" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="583.5" cy="188.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/"><circle cx="558.6" cy="179.0" r="4" fill="#3465a4"><title>Highland Hospice (Fashion)</title></circle></a><a href="/variants/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/"><circle cx="513.6" cy="131.3" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="471.3" cy="144.1" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><circle cx="554.0" cy="183.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/r4g2r1g20k1g1~x4/

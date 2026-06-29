@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perry Arisaid (Personal)](/setts/s5/lb65r27w2lb4ly5~x2/)|
-|![Perry Arisaid (Personal) example sett](/setts/s5/lb65r27w2lb4ly5~x2/sett.png)|
+| [Perry Arisaid (Personal)](/variants/s5/lb65r27w2lb4ly5~x2/)|
+|![Perry Arisaid (Personal) example sett](/variants/s5/lb65r27w2lb4ly5~x2/sett.png)|

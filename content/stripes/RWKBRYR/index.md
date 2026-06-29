@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Solberg-Wormald (Personal)](/setts/s7/r155lb16k34db48r18ly6r9/)|
-|![Solberg-Wormald (Personal) example sett](/setts/s7/r155lb16k34db48r18ly6r9/sett.png)|
+| [Solberg-Wormald (Personal)](/variants/s7/r155lb16k34db48r18ly6r9/)|
+|![Solberg-Wormald (Personal) example sett](/variants/s7/r155lb16k34db48r18ly6r9/sett.png)|

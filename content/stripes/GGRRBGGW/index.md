@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [The Climb (Fashion)](/setts/s8/y2dg9ri16r2b30y3dg6lb1~x2/)|
-|![The Climb (Fashion) example sett](/setts/s8/y2dg9ri16r2b30y3dg6lb1~x2/sett.png)|
+| [The Climb (Fashion)](/variants/s8/y2dg9ri16r2b30y3dg6lb1~x2/)|
+|![The Climb (Fashion) example sett](/variants/s8/y2dg9ri16r2b30y3dg6lb1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gates](/setts/s9/db24r3db4r6g8r3g8r30k3~x2/)|
-|![Gates example sett](/setts/s9/db24r3db4r6g8r3g8r30k3~x2/sett.png)|
+| [Gates](/variants/s9/db24r3db4r6g8r3g8r30k3~x2/)|
+|![Gates example sett](/variants/s9/db24r3db4r6g8r3g8r30k3~x2/sett.png)|

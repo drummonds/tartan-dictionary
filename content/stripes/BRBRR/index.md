@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cairns, David (Personal)](/setts/s5/n11o1n4o8r1~x8/)|
-|![Cairns, David (Personal) example sett](/setts/s5/n11o1n4o8r1~x8/sett.png)|
-| [Callum (Buchan)](/setts/s5/n7oi1ni6oi8o1~x8/)|
-|![Callum (Buchan) example sett](/setts/s5/n7oi1ni6oi8o1~x8/sett.png)|
-| [Unidentified 17](/setts/s5/db16o2db16o19r4~x3/)|
-|![Unidentified 17 example sett](/setts/s5/db16o2db16o19r4~x3/sett.png)|
+| [Cairns, David (Personal)](/variants/s5/n11o1n4o8r1~x8/)|
+|![Cairns, David (Personal) example sett](/variants/s5/n11o1n4o8r1~x8/sett.png)|
+| [Callum (Buchan)](/variants/s5/n7oi1ni6oi8o1~x8/)|
+|![Callum (Buchan) example sett](/variants/s5/n7oi1ni6oi8o1~x8/sett.png)|
+| [Unidentified 17](/variants/s5/db16o2db16o19r4~x3/)|
+|![Unidentified 17 example sett](/variants/s5/db16o2db16o19r4~x3/sett.png)|

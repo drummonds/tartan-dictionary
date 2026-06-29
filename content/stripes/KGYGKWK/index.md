@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boxer Beauty](/setts/s7/k13dy28lo13dy28k18w18k13~x2/)|
-|![Boxer Beauty example sett](/setts/s7/k13dy28lo13dy28k18w18k13~x2/sett.png)|
+| [Boxer Beauty](/variants/s7/k13dy28lo13dy28k18w18k13~x2/)|
+|![Boxer Beauty example sett](/variants/s7/k13dy28lo13dy28k18w18k13~x2/sett.png)|

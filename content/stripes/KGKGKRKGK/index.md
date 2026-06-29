@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lindsay (Crimson version) (Clan?)](/setts/s9/k12g1k1g1k1r5k10g1k2~x4/)|
-|![Lindsay (Crimson version) (Clan?) example sett](/setts/s9/k12g1k1g1k1r5k10g1k2~x4/sett.png)|
+| [Lindsay (Crimson version) (Clan?)](/variants/s9/k12g1k1g1k1r5k10g1k2~x4/)|
+|![Lindsay (Crimson version) (Clan?) example sett](/variants/s9/k12g1k1g1k1r5k10g1k2~x4/sett.png)|

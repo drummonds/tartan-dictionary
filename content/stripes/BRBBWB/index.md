@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ewell Castle School](/setts/s6/dt4r1dt18dti18w1dti4~x4/)|
-|![Ewell Castle School example sett](/setts/s6/dt4r1dt18dti18w1dti4~x4/sett.png)|
-| [Ewell Castle School](/setts/s6/db4r1db18b18w1b4~x4/)|
-|![Ewell Castle School example sett](/setts/s6/db4r1db18b18w1b4~x4/sett.png)|
+| [Ewell Castle School](/variants/s6/dt4r1dt18dti18w1dti4~x4/)|
+|![Ewell Castle School example sett](/variants/s6/dt4r1dt18dti18w1dti4~x4/sett.png)|
+| [Ewell Castle School](/variants/s6/db4r1db18b18w1b4~x4/)|
+|![Ewell Castle School example sett](/variants/s6/db4r1db18b18w1b4~x4/sett.png)|

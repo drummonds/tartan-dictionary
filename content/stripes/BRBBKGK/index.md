@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Passion of Scotland (Fashion)](/setts/s7/dt6o4dt2db25k30g2k2~x2/)|
-|![Passion of Scotland (Fashion) example sett](/setts/s7/dt6o4dt2db25k30g2k2~x2/sett.png)|
+| [Passion of Scotland (Fashion)](/variants/s7/dt6o4dt2db25k30g2k2~x2/)|
+|![Passion of Scotland (Fashion) example sett](/variants/s7/dt6o4dt2db25k30g2k2~x2/sett.png)|

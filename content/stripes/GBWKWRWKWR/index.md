@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kervegant, Suzanne (Personal)](/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/)|
-|![Kervegant, Suzanne (Personal) example sett](/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/sett.png)|
+| [Kervegant, Suzanne (Personal)](/variants/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/)|
+|![Kervegant, Suzanne (Personal) example sett](/variants/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/sett.png)|

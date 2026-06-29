@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Deeside Plaid (Taobh Dhi)](/setts/s12/b22g4o24dp6o4w3o4dp6o24g4b22ly4~x2/)|
-|![Deeside Plaid (Taobh Dhi) example sett](/setts/s12/b22g4o24dp6o4w3o4dp6o24g4b22ly4~x2/sett.png)|
+| [Deeside Plaid (Taobh Dhi)](/variants/s12/b22g4o24dp6o4w3o4dp6o24g4b22ly4~x2/)|
+|![Deeside Plaid (Taobh Dhi) example sett](/variants/s12/b22g4o24dp6o4w3o4dp6o24g4b22ly4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacArthur (Highland Society)](/setts/s6/g18ly2g18k4g2k15~x2/)|
-|![MacArthur (Highland Society) example sett](/setts/s6/g18ly2g18k4g2k15~x2/sett.png)|
+| [MacArthur (Highland Society)](/variants/s6/g18ly2g18k4g2k15~x2/)|
+|![MacArthur (Highland Society) example sett](/variants/s6/g18ly2g18k4g2k15~x2/sett.png)|

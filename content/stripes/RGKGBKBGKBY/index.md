@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King (Personal)](/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/)|
-|![King (Personal) example sett](/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/sett.png)|
+| [King (Personal)](/variants/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/)|
+|![King (Personal) example sett](/variants/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malcolm, dress](/setts/s24/k2ly2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2t2~x2/)|
-|![Malcolm, dress example sett](/setts/s24/k2ly2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2t2~x2/sett.png)|
+| [Malcolm, dress](/variants/s24/k2ly2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2t2~x2/)|
+|![Malcolm, dress example sett](/variants/s24/k2ly2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2t2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae Grey (Fashion)](/setts/s11/r2o9lb4w2n22w2lb4w22n2w8r2~x2/)|
-|![MacRae Grey (Fashion) example sett](/setts/s11/r2o9lb4w2n22w2lb4w22n2w8r2~x2/sett.png)|
+| [MacRae Grey (Fashion)](/variants/s11/r2o9lb4w2n22w2lb4w22n2w8r2~x2/)|
+|![MacRae Grey (Fashion) example sett](/variants/s11/r2o9lb4w2n22w2lb4w22n2w8r2~x2/sett.png)|

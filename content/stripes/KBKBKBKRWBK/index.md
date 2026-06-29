@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westenra of Christchurch (Corporate)](/setts/s11/k20dt4k8db9k8dt14k8r3w3db10k12~x2/)|
-|![Westenra of Christchurch (Corporate) example sett](/setts/s11/k20dt4k8db9k8dt14k8r3w3db10k12~x2/sett.png)|
+| [Westenra of Christchurch (Corporate)](/variants/s11/k20dt4k8db9k8dt14k8r3w3db10k12~x2/)|
+|![Westenra of Christchurch (Corporate) example sett](/variants/s11/k20dt4k8db9k8dt14k8r3w3db10k12~x2/sett.png)|

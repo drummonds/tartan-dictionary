@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan de Longueuil](/setts/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/)|
-|![Tartan de Longueuil example sett](/setts/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/sett.png)|
+| [Tartan de Longueuil](/variants/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/)|
+|![Tartan de Longueuil example sett](/variants/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/sett.png)|

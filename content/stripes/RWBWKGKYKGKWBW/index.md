@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r5lb1dt10w2k10y10k1ly3~x4/)|
-|![Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/r5lb1dt10w2k10y10k1ly3~x4/sett.png)|
+| [Culloden 1746 Artefact Tartan](/variants/s14/r5lb1dt10w2k10y10k1ly3~x4/)|
+|![Culloden 1746 Artefact Tartan example sett](/variants/s14/r5lb1dt10w2k10y10k1ly3~x4/sett.png)|

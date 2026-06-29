@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacIntosh Blanket](/setts/s21/w37dy1ri4dg6ri7w2ri3w2ri7dg6r4dy1w64dy1ri4dgi6ri7w2ri3w2ri7~x2/)|
-|![MacIntosh Blanket example sett](/setts/s21/w37dy1ri4dg6ri7w2ri3w2ri7dg6r4dy1w64dy1ri4dgi6ri7w2ri3w2ri7~x2/sett.png)|
+| [MacIntosh Blanket](/variants/s21/w37dy1ri4dg6ri7w2ri3w2ri7dg6r4dy1w64dy1ri4dgi6ri7w2ri3w2ri7~x2/)|
+|![MacIntosh Blanket example sett](/variants/s21/w37dy1ri4dg6ri7w2ri3w2ri7dg6r4dy1w64dy1ri4dgi6ri7w2ri3w2ri7~x2/sett.png)|

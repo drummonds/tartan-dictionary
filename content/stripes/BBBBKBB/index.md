@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Van Loo (Personal)](/setts/s7/t5db30k25t5db30dp2t5~x2/)|
-|![Van Loo (Personal) example sett](/setts/s7/t5db30k25t5db30dp2t5~x2/sett.png)|
-| [Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/t5db30k25t5db30dp3t5~x2/)|
-|![Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/t5db30k25t5db30dp3t5~x2/sett.png)|
+| [Van Loo (Personal)](/variants/s7/t5db30k25t5db30dp2t5~x2/)|
+|![Van Loo (Personal) example sett](/variants/s7/t5db30k25t5db30dp2t5~x2/sett.png)|
+| [Van Loo Tartan](/variants/s7/t5db30k25t5db30dp3t5~x2/)|
+|![Van Loo Tartan example sett](/variants/s7/t5db30k25t5db30dp3t5~x2/sett.png)|

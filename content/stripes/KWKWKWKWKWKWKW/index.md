@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heolbellva ha Materi (Fashion)](/setts/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/)|
-|![Heolbellva ha Materi (Fashion) example sett](/setts/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/sett.png)|
+| [Heolbellva ha Materi (Fashion)](/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/)|
+|![Heolbellva ha Materi (Fashion) example sett](/variants/s14/w91k1w6k2w5k3w4k4w3k5w2k6w1k7~x2/sett.png)|

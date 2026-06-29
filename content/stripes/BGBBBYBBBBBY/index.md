@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Clergy (Personal)](/setts/s12/ly2db1dpi42t2dpi6db1lo1db1dp4b4g1dpi1~x2/)|
-|![Kerr of Ardgowan Clergy (Personal) example sett](/setts/s12/ly2db1dpi42t2dpi6db1lo1db1dp4b4g1dpi1~x2/sett.png)|
+| [Kerr of Ardgowan Clergy (Personal)](/variants/s12/ly2db1dpi42t2dpi6db1lo1db1dp4b4g1dpi1~x2/)|
+|![Kerr of Ardgowan Clergy (Personal) example sett](/variants/s12/ly2db1dpi42t2dpi6db1lo1db1dp4b4g1dpi1~x2/sett.png)|

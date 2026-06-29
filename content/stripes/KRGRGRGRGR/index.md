@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connell (Dalgliesh) (Personal)](/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/)|
-|![Connell (Dalgliesh) (Personal) example sett](/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png)|
+| [Connell (Dalgliesh) (Personal)](/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/)|
+|![Connell (Dalgliesh) (Personal) example sett](/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/sett.png)|

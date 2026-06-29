@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lantern, The](/setts/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/)|
-|![Lantern, The example sett](/setts/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/sett.png)|
+| [Lantern, The](/variants/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/)|
+|![Lantern, The example sett](/variants/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/sett.png)|

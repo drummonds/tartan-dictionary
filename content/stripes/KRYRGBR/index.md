@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Totté (from Hofstade de Baerebeeck) (Personal)](/setts/s7/k51r21ly4r12g8db4r5~x2/)|
-|![Totté (from Hofstade de Baerebeeck) (Personal) example sett](/setts/s7/k51r21ly4r12g8db4r5~x2/sett.png)|
+| [Totté (from Hofstade de Baerebeeck) (Personal)](/variants/s7/k51r21ly4r12g8db4r5~x2/)|
+|![Totté (from Hofstade de Baerebeeck) (Personal) example sett](/variants/s7/k51r21ly4r12g8db4r5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 34 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hislop Hunting (Personal)](/setts/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24r2g4r2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/)|
-|![Hislop Hunting (Personal) example sett](/setts/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24r2g4r2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png)|
+| [Hislop Hunting (Personal)](/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24r2g4r2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/)|
+|![Hislop Hunting (Personal) example sett](/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24r2g4r2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png)|

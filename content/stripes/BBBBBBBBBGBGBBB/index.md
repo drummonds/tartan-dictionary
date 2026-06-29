@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grant - 1819 (Clan)](/setts/s15/db15dp1db2dp2db78t1db2dp21db3g2db3g79db2dp2db10/)|
-|![Grant - 1819 (Clan) example sett](/setts/s15/db15dp1db2dp2db78t1db2dp21db3g2db3g79db2dp2db10/sett.png)|
+| [Grant - 1819 (Clan)](/variants/s15/db15dp1db2dp2db78t1db2dp21db3g2db3g79db2dp2db10/)|
+|![Grant - 1819 (Clan) example sett](/variants/s15/db15dp1db2dp2db78t1db2dp21db3g2db3g79db2dp2db10/sett.png)|

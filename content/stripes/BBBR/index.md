@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elliott](/tartans/db16dr4db3r1/)|
-|![Elliott example sett](/setts/s4/db16dr4db3r1~x2/sett.png)|
-| [Lochaber #3](/setts/s4/db1t1db8r1~x2/)|
-|![Lochaber #3 example sett](/setts/s4/db1t1db8r1~x2/sett.png)|
+| [Elliott](/setts/db16dr4db3r1/)|
+|![Elliott example sett](/variants/s4/db16dr4db3r1~x2/sett.png)|
+| [Lochaber #3](/variants/s4/db1t1db8r1~x2/)|
+|![Lochaber #3 example sett](/variants/s4/db1t1db8r1~x2/sett.png)|

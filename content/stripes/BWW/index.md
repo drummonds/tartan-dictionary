@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Moriston Estate Check](/setts/s3/dt1lb1w1~x8/)|
-|![Glen Moriston Estate Check example sett](/setts/s3/dt1lb1w1~x8/sett.png)|
+| [Glen Moriston Estate Check](/variants/s3/dt1lb1w1~x8/)|
+|![Glen Moriston Estate Check example sett](/variants/s3/dt1lb1w1~x8/sett.png)|

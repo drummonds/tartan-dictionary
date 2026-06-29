@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gudbrandsdalen, Mannsdrakt](/setts/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/)|
-|![Gudbrandsdalen, Mannsdrakt example sett](/setts/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/sett.png)|
+| [Gudbrandsdalen, Mannsdrakt](/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/)|
+|![Gudbrandsdalen, Mannsdrakt example sett](/variants/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/sett.png)|

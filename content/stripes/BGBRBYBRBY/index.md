@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Specimen #3](/setts/s10/db1dg4db1r1db1ly1db5r6db1ly1~x2/)|
-|![Unidentified Specimen #3 example sett](/setts/s10/db1dg4db1r1db1ly1db5r6db1ly1~x2/sett.png)|
-| [Unidentified, specimen](/setts/s10/db1g4db1r1db1ly1db5r6db1ly1~x2/)|
-|![Unidentified, specimen example sett](/setts/s10/db1g4db1r1db1ly1db5r6db1ly1~x2/sett.png)|
+| [Unidentified Specimen #3](/variants/s10/db1dg4db1r1db1ly1db5r6db1ly1~x2/)|
+|![Unidentified Specimen #3 example sett](/variants/s10/db1dg4db1r1db1ly1db5r6db1ly1~x2/sett.png)|
+| [Unidentified, specimen](/variants/s10/db1g4db1r1db1ly1db5r6db1ly1~x2/)|
+|![Unidentified, specimen example sett](/variants/s10/db1g4db1r1db1ly1db5r6db1ly1~x2/sett.png)|

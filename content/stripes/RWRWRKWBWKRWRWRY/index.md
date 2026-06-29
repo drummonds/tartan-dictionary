@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heart of Midlothian Football Club](/setts/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24ly3~x2/)|
-|![Heart of Midlothian Football Club example sett](/setts/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24ly3~x2/sett.png)|
+| [Heart of Midlothian Football Club](/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24ly3~x2/)|
+|![Heart of Midlothian Football Club example sett](/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24ly3~x2/sett.png)|

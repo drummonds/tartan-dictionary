@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Singh, Gopal (Personal)](/setts/s6/k10r4dg34db34k1lo3~x2/)|
-|![Singh, Gopal (Personal) example sett](/setts/s6/k10r4dg34db34k1lo3~x2/sett.png)|
+| [Singh, Gopal (Personal)](/variants/s6/k10r4dg34db34k1lo3~x2/)|
+|![Singh, Gopal (Personal) example sett](/variants/s6/k10r4dg34db34k1lo3~x2/sett.png)|

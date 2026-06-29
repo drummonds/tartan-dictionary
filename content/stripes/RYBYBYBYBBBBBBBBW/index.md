@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Lorient](/setts/s17/r2lr8n1lr4n2lr3n3lr1n15dt1n4dt2n2dt4n1dt9w2~x2/)|
-|![Pride of Lorient example sett](/setts/s17/r2lr8n1lr4n2lr3n3lr1n15dt1n4dt2n2dt4n1dt9w2~x2/sett.png)|
+| [Pride of Lorient](/variants/s17/r2lr8n1lr4n2lr3n3lr1n15dt1n4dt2n2dt4n1dt9w2~x2/)|
+|![Pride of Lorient example sett](/variants/s17/r2lr8n1lr4n2lr3n3lr1n15dt1n4dt2n2dt4n1dt9w2~x2/sett.png)|

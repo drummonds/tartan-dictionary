@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nowell/Noel](/setts/s7/db8g2db10g12k1lb1r1~x4/)|
-|![Nowell/Noel example sett](/setts/s7/db8g2db10g12k1lb1r1~x4/sett.png)|
-| [Nowell/Noel (Name)](/setts/s7/db3g4db20g24k2lb3r1~x2/)|
-|![Nowell/Noel (Name) example sett](/setts/s7/db3g4db20g24k2lb3r1~x2/sett.png)|
+| [Nowell/Noel](/variants/s7/db8g2db10g12k1lb1r1~x4/)|
+|![Nowell/Noel example sett](/variants/s7/db8g2db10g12k1lb1r1~x4/sett.png)|
+| [Nowell/Noel (Name)](/variants/s7/db3g4db20g24k2lb3r1~x2/)|
+|![Nowell/Noel (Name) example sett](/variants/s7/db3g4db20g24k2lb3r1~x2/sett.png)|

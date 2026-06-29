@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spencer (2013)](/setts/s6/dg55ly4db15w3r3w5~x2/)|
-|![Spencer (2013) example sett](/setts/s6/dg55ly4db15w3r3w5~x2/sett.png)|
-| [Spencer (2013)](/setts/s6/g55ly4db15w3r3w5~x2/)|
-|![Spencer (2013) example sett](/setts/s6/g55ly4db15w3r3w5~x2/sett.png)|
+| [Spencer (2013)](/variants/s6/g55ly4db15w3r3w5~x2/)|
+|![Spencer (2013) example sett](/variants/s6/g55ly4db15w3r3w5~x2/sett.png)|
+| [Spencer (2013)](/variants/s6/dg55ly4db15w3r3w5~x2/)|
+|![Spencer (2013) example sett](/variants/s6/dg55ly4db15w3r3w5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride, George (Personal)](/setts/s11/k2db15w5db15r15w2k2g4ly3g4k2~x2/)|
-|![Pride, George (Personal) example sett](/setts/s11/k2db15w5db15r15w2k2g4ly3g4k2~x2/sett.png)|
+| [Pride, George (Personal)](/variants/s11/k2db15w5db15r15w2k2g4ly3g4k2~x2/)|
+|![Pride, George (Personal) example sett](/variants/s11/k2db15w5db15r15w2k2g4ly3g4k2~x2/sett.png)|

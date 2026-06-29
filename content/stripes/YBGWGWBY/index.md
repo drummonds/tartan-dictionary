@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Troon Golf Club, The](/setts/s8/lo3db4w10dg2w2dg5db34ly3~x2/)|
-|![Royal Troon Golf Club, The example sett](/setts/s8/lo3db4w10dg2w2dg5db34ly3~x2/sett.png)|
+| [Royal Troon Golf Club, The](/variants/s8/lo3db4w10dg2w2dg5db34ly3~x2/)|
+|![Royal Troon Golf Club, The example sett](/variants/s8/lo3db4w10dg2w2dg5db34ly3~x2/sett.png)|

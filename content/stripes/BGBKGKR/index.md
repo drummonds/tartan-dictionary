@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McEwan '1856', The](/setts/s7/db2dy3db16k18g18k2r2~x2/)|
-|![McEwan '1856', The example sett](/setts/s7/db2dy3db16k18g18k2r2~x2/sett.png)|
+| [McEwan '1856', The](/variants/s7/db2dy3db16k18g18k2r2~x2/)|
+|![McEwan '1856', The example sett](/variants/s7/db2dy3db16k18g18k2r2~x2/sett.png)|

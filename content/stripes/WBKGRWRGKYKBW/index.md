@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nova Scotia Medical Examiner Service](/setts/s13/w2db2k32dg9r2w2r2dg4k20ly1k9db2w2~x2/)|
-|![Nova Scotia Medical Examiner Service example sett](/setts/s13/w2db2k32dg9r2w2r2dg4k20ly1k9db2w2~x2/sett.png)|
+| [Nova Scotia Medical Examiner Service](/variants/s13/w2db2k32dg9r2w2r2dg4k20ly1k9db2w2~x2/)|
+|![Nova Scotia Medical Examiner Service example sett](/variants/s13/w2db2k32dg9r2w2r2dg4k20ly1k9db2w2~x2/sett.png)|

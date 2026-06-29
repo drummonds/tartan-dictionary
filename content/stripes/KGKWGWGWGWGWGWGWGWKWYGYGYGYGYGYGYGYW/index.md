@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saskatchewan (Commemorative)](/setts/s36/k50g16k8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40k12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/)|
-|![Saskatchewan (Commemorative) example sett](/setts/s36/k50g16k8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40k12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/sett.png)|
+| [Saskatchewan (Commemorative)](/variants/s36/k50g16k8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40k12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/)|
+|![Saskatchewan (Commemorative) example sett](/variants/s36/k50g16k8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40k12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/sett.png)|

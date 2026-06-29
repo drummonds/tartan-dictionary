@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cats (Fashion)](/setts/s12/db8g2k2lo2k2ly2k2g18r2g2r29k3~x2/)|
-|![Cats (Fashion) example sett](/setts/s12/db8g2k2lo2k2ly2k2g18r2g2r29k3~x2/sett.png)|
+| [Cats (Fashion)](/variants/s12/db8g2k2lo2k2ly2k2g18r2g2r29k3~x2/)|
+|![Cats (Fashion) example sett](/variants/s12/db8g2k2lo2k2ly2k2g18r2g2r29k3~x2/sett.png)|

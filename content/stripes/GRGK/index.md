@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Lyon #1](/setts/s4/k6g5r2~x2/)|
-|![Glen Lyon #1 example sett](/setts/s4/k6g5r2~x2/sett.png)|
-| [Wilson's No.187](/setts/s4/k1g1r1~x8/)|
-|![Wilson's No.187 example sett](/setts/s4/k1g1r1~x8/sett.png)|
+| [Glen Lyon #1](/variants/s4/k6g5r2~x2/)|
+|![Glen Lyon #1 example sett](/variants/s4/k6g5r2~x2/sett.png)|
+| [Wilson's No.187](/variants/s4/k1g1r1~x8/)|
+|![Wilson's No.187 example sett](/variants/s4/k1g1r1~x8/sett.png)|

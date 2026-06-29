@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Instakilt, Blue (Fashion)](/setts/s7/b8w4b50k12b4k15r5~x2/)|
-|![Instakilt, Blue (Fashion) example sett](/setts/s7/b8w4b50k12b4k15r5~x2/sett.png)|
+| [Instakilt, Blue (Fashion)](/variants/s7/b8w4b50k12b4k15r5~x2/)|
+|![Instakilt, Blue (Fashion) example sett](/variants/s7/b8w4b50k12b4k15r5~x2/sett.png)|

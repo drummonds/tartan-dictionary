@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kildare County Crest (Fashion)](/setts/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/)|
-|![Kildare County Crest (Fashion) example sett](/setts/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/sett.png)|
+| [Kildare County Crest (Fashion)](/variants/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/)|
+|![Kildare County Crest (Fashion) example sett](/variants/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/sett.png)|

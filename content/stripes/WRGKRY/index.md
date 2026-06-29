@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundhuin](/setts/s6/lr6o5k2y18r28w2~x2/)|
-|![Dundhuin example sett](/setts/s6/lr6o5k2y18r28w2~x2/sett.png)|
+| [Dundhuin](/variants/s6/lr6o5k2y18r28w2~x2/)|
+|![Dundhuin example sett](/variants/s6/lr6o5k2y18r28w2~x2/sett.png)|

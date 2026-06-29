@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canuck Place](/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/)|
-|![Canuck Place example sett](/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/sett.png)|
+| [Canuck Place](/variants/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/)|
+|![Canuck Place example sett](/variants/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/sett.png)|

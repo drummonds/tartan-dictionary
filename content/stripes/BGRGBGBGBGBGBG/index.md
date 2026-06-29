@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Devarr](/setts/s14/do22y26r4y26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/)|
-|![Devarr example sett](/setts/s14/do22y26r4y26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/sett.png)|
+| [Devarr](/variants/s14/do22y26r4y26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/)|
+|![Devarr example sett](/variants/s14/do22y26r4y26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/sett.png)|

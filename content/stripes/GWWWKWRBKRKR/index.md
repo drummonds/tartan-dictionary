@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Zoo Panda (Comm)](/setts/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3/)|
-|![Edinburgh Zoo Panda (Comm) example sett](/setts/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3/sett.png)|
+| [Edinburgh Zoo Panda (Comm)](/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3/)|
+|![Edinburgh Zoo Panda (Comm) example sett](/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lawers Estate](/setts/s6/dt12k1r70k1g12k1~x2/)|
-|![Lawers Estate example sett](/setts/s6/dt12k1r70k1g12k1~x2/sett.png)|
+| [Lawers Estate](/variants/s6/dt12k1r70k1g12k1~x2/)|
+|![Lawers Estate example sett](/variants/s6/dt12k1r70k1g12k1~x2/sett.png)|

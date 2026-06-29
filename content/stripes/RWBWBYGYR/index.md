@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bhutan](/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/)|
-|![Bhutan example sett](/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/sett.png)|
+| [Bhutan](/variants/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/)|
+|![Bhutan example sett](/variants/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/sett.png)|

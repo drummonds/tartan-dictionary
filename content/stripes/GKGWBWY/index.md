@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pinder, Nigel (Personal)](/setts/s7/g12k4g12w1b6w1ly4~x4/)|
-|![Pinder, Nigel (Personal) example sett](/setts/s7/g12k4g12w1b6w1ly4~x4/sett.png)|
+| [Pinder, Nigel (Personal)](/variants/s7/g12k4g12w1b6w1ly4~x4/)|
+|![Pinder, Nigel (Personal) example sett](/variants/s7/g12k4g12w1b6w1ly4~x4/sett.png)|

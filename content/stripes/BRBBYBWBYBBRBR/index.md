@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gretna Gold](/setts/s14/w3dp2lo2dp38db28m2db2r2~x2/)|
-|![Gretna Gold example sett](/setts/s14/w3dp2lo2dp38db28m2db2r2~x2/sett.png)|
+| [Gretna Gold](/variants/s14/w3dp2lo2dp38db28m2db2r2~x2/)|
+|![Gretna Gold example sett](/variants/s14/w3dp2lo2dp38db28m2db2r2~x2/sett.png)|

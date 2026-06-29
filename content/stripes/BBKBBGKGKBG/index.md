@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hudson Hunting (Personal)](/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/)|
-|![Hudson Hunting (Personal) example sett](/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/sett.png)|
+| [Hudson Hunting (Personal)](/variants/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/)|
+|![Hudson Hunting (Personal) example sett](/variants/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Commonwealth Games - 2014](/setts/s11/g28lo18db4lo18r3ri2r3ri2r3ri2r3~x2/)|
-|![Commonwealth Games - 2014 example sett](/setts/s11/g28lo18db4lo18r3ri2r3ri2r3ri2r3~x2/sett.png)|
+| [Commonwealth Games - 2014](/variants/s11/g28lo18db4lo18r3ri2r3ri2r3ri2r3~x2/)|
+|![Commonwealth Games - 2014 example sett](/variants/s11/g28lo18db4lo18r3ri2r3ri2r3ri2r3~x2/sett.png)|

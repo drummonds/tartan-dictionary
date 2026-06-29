@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kunbi](/setts/s8/k76dt11k3ly6k3dt13k11o76/)|
-|![Kunbi example sett](/setts/s8/k76dt11k3ly6k3dt13k11o76/sett.png)|
+| [Kunbi](/variants/s8/k76dt11k3ly6k3dt13k11o76/)|
+|![Kunbi example sett](/variants/s8/k76dt11k3ly6k3dt13k11o76/sett.png)|

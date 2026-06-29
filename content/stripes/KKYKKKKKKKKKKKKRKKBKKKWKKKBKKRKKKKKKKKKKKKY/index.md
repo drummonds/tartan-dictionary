@@ -24,5 +24,5 @@ It is a 43 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arnold (Name)](/setts/s43/k4ki1lo2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1lo2~x2/)|
-|![Arnold (Name) example sett](/setts/s43/k4ki1lo2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1lo2~x2/sett.png)|
+| [Arnold (Name)](/variants/s43/k4ki1lo2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1lo2~x2/)|
+|![Arnold (Name) example sett](/variants/s43/k4ki1lo2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1lo2~x2/sett.png)|

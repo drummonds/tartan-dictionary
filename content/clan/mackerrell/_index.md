@@ -1,9 +1,5 @@
 ---
 title: "Clan MacKerrell"
-date: 2023-03-18
+redirect: "/families/mackerrell-of-hillhouse/"
 ---
-## Families
-
-- [MacKerrell of Hillhouse](/families/mackerrell-of-hillhouse/)
-- [MacKerrell of Hillhouse Htg](/families/mackerrell-of-hillhouse-htg/)
-
+Clan MacKerrell is recorded as the single family [MacKerrell of Hillhouse](/families/mackerrell-of-hillhouse/) — redirecting there.

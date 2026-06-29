@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Illinois St.Andrews Society](/setts/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/)|
-|![Illinois St.Andrews Society example sett](/setts/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/sett.png)|
+| [Illinois St.Andrews Society](/variants/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/)|
+|![Illinois St.Andrews Society example sett](/variants/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/sett.png)|

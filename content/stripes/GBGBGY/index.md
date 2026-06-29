@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keepers of the Quaich](/setts/s6/lo3dy33db24dy2db2dy2~x2/)|
-|![Keepers of the Quaich example sett](/setts/s6/lo3dy33db24dy2db2dy2~x2/sett.png)|
-| [Oman RAF, Sultanate of (Military)](/setts/s6/dy9t3dy6t3dy20ly2~x2/)|
-|![Oman RAF, Sultanate of (Military) example sett](/setts/s6/dy9t3dy6t3dy20ly2~x2/sett.png)|
+| [Keepers of the Quaich](/variants/s6/lo3dy33db24dy2db2dy2~x2/)|
+|![Keepers of the Quaich example sett](/variants/s6/lo3dy33db24dy2db2dy2~x2/sett.png)|
+| [Oman RAF, Sultanate of (Military)](/variants/s6/dy9t3dy6t3dy20ly2~x2/)|
+|![Oman RAF, Sultanate of (Military) example sett](/variants/s6/dy9t3dy6t3dy20ly2~x2/sett.png)|

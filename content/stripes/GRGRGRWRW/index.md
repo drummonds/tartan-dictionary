@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lindsay Dress Red](/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/)|
-|![Lindsay Dress Red example sett](/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/sett.png)|
-| [Lindsay, dress Red](/setts/s9/g26r3g3r3g3r11w27r3w5~x2/)|
-|![Lindsay, dress Red example sett](/setts/s9/g26r3g3r3g3r11w27r3w5~x2/sett.png)|
+| [Lindsay Dress Red](/variants/s9/dg26r3dg3r3dg3r11w27r3w5~x2/)|
+|![Lindsay Dress Red example sett](/variants/s9/dg26r3dg3r3dg3r11w27r3w5~x2/sett.png)|
+| [Lindsay, dress Red](/variants/s9/g26r3g3r3g3r11w27r3w5~x2/)|
+|![Lindsay, dress Red example sett](/variants/s9/g26r3g3r3g3r11w27r3w5~x2/sett.png)|

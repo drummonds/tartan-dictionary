@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Goodwillie (Fashion)](/setts/s8/r15dt5k2dt5r15p3r15w2~x2/)|
-|![Goodwillie (Fashion) example sett](/setts/s8/r15dt5k2dt5r15p3r15w2~x2/sett.png)|
+| [Goodwillie (Fashion)](/variants/s8/r15dt5k2dt5r15p3r15w2~x2/)|
+|![Goodwillie (Fashion) example sett](/variants/s8/r15dt5k2dt5r15p3r15w2~x2/sett.png)|

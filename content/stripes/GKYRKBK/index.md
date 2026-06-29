@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [de Meuron (Neuchâtel) Dress, The](/setts/s7/k40dp5k6o26lr13k9dy3~x2/)|
-|![de Meuron (Neuchâtel) Dress, The example sett](/setts/s7/k40dp5k6o26lr13k9dy3~x2/sett.png)|
+| [de Meuron (Neuchâtel) Dress, The](/variants/s7/k40dp5k6o26lr13k9dy3~x2/)|
+|![de Meuron (Neuchâtel) Dress, The example sett](/variants/s7/k40dp5k6o26lr13k9dy3~x2/sett.png)|

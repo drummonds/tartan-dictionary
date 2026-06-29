@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [South Africa 1994 (Fashion)](/setts/s7/k20ly4db13w4g30w4r13~x2/)|
-|![South Africa 1994 (Fashion) example sett](/setts/s7/k20ly4db13w4g30w4r13~x2/sett.png)|
+| [South Africa 1994 (Fashion)](/variants/s7/k20ly4db13w4g30w4r13~x2/)|
+|![South Africa 1994 (Fashion) example sett](/variants/s7/k20ly4db13w4g30w4r13~x2/sett.png)|

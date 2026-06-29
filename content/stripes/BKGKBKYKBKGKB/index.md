@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray of Elibank](/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/)|
-|![Murray of Elibank example sett](/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/sett.png)|
+| [Murray of Elibank](/variants/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/)|
+|![Murray of Elibank example sett](/variants/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/sett.png)|

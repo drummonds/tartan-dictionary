@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allt Dubh (Black Burn)](/setts/s6/k99r5k4r3k2y1~x2/)|
-|![Allt Dubh (Black Burn) example sett](/setts/s6/k99r5k4r3k2y1~x2/sett.png)|
+| [Allt Dubh (Black Burn)](/variants/s6/k99r5k4r3k2y1~x2/)|
+|![Allt Dubh (Black Burn) example sett](/variants/s6/k99r5k4r3k2y1~x2/sett.png)|

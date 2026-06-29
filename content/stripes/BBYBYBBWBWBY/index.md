@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glover, Thomas Blake](/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/)|
-|![Glover, Thomas Blake example sett](/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/sett.png)|
+| [Glover, Thomas Blake](/variants/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/)|
+|![Glover, Thomas Blake example sett](/variants/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/sett.png)|

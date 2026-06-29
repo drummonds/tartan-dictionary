@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hislop (Name)](/setts/s8/w4k2t18g18k18wi3k18r3~x2/)|
-|![Hislop (Name) example sett](/setts/s8/w4k2t18g18k18wi3k18r3~x2/sett.png)|
+| [Hislop (Name)](/variants/s8/w4k2t18g18k18wi3k18r3~x2/)|
+|![Hislop (Name) example sett](/variants/s8/w4k2t18g18k18wi3k18r3~x2/sett.png)|

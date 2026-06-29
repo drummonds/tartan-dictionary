@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melieres-Frost](/setts/s13/k4w1r2g16r8g8r15lo1r14ly2r2k1w4~x2/)|
-|![Melieres-Frost example sett](/setts/s13/k4w1r2g16r8g8r15lo1r14ly2r2k1w4~x2/sett.png)|
+| [Melieres-Frost](/variants/s13/k4w1r2g16r8g8r15lo1r14ly2r2k1w4~x2/)|
+|![Melieres-Frost example sett](/variants/s13/k4w1r2g16r8g8r15lo1r14ly2r2k1w4~x2/sett.png)|

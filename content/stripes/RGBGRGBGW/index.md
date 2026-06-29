@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Adamson (Personal)](/setts/s9/r1dy7db3g1o3g1db3g7w1~x4/)|
-|![Adamson (Personal) example sett](/setts/s9/r1dy7db3g1o3g1db3g7w1~x4/sett.png)|
+| [Adamson (Personal)](/variants/s9/r1dy7db3g1o3g1db3g7w1~x4/)|
+|![Adamson (Personal) example sett](/variants/s9/r1dy7db3g1o3g1db3g7w1~x4/sett.png)|

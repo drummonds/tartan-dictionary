@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [The Open Championship](/setts/s6/w2db15y2dbi20r9w2~x2/)|
-|![The Open Championship example sett](/setts/s6/w2db15y2dbi20r9w2~x2/sett.png)|
+| [The Open Championship](/variants/s6/w2db15y2dbi20r9w2~x2/)|
+|![The Open Championship example sett](/variants/s6/w2db15y2dbi20r9w2~x2/sett.png)|

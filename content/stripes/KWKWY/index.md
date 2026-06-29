@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks (House Check)](/setts/s5/k3w6k4w6lo3~x2/)|
-|![Daks (House Check) example sett](/setts/s5/k3w6k4w6lo3~x2/sett.png)|
+| [Daks (House Check)](/variants/s5/k3w6k4w6lo3~x2/)|
+|![Daks (House Check) example sett](/variants/s5/k3w6k4w6lo3~x2/sett.png)|

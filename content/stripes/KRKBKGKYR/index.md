@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Alabama (Fashion)](/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/)|
-|![State Seal of Alabama (Fashion) example sett](/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/sett.png)|
+| [State Seal of Alabama (Fashion)](/variants/s9/r60lo4k22g5k25t8k4r4k4~x2/)|
+|![State Seal of Alabama (Fashion) example sett](/variants/s9/r60lo4k22g5k25t8k4r4k4~x2/sett.png)|

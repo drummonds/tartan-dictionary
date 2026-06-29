@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacSween Hunting (Lochs, Isle of Lew](/setts/s7/g3r3g31dg18g4k22ly3/)|
-|![MacSween Hunting (Lochs, Isle of Lew example sett](/setts/s7/g3r3g31dg18g4k22ly3/sett.png)|
-| [MacSween Hunting (Lochs, Isle of Lewis) (Personal)](/setts/s7/dgi3r3dgi31dg18dgi4k22lo3/)|
-|![MacSween Hunting (Lochs, Isle of Lewis) (Personal) example sett](/setts/s7/dgi3r3dgi31dg18dgi4k22lo3/sett.png)|
+| [MacSween Hunting (Lochs, Isle of Lew](/variants/s7/g3r3g31dg18g4k22ly3/)|
+|![MacSween Hunting (Lochs, Isle of Lew example sett](/variants/s7/g3r3g31dg18g4k22ly3/sett.png)|
+| [MacSween Hunting (Lochs, Isle of Lewis) (Personal)](/variants/s7/dgi3r3dgi31dg18dgi4k22lo3/)|
+|![MacSween Hunting (Lochs, Isle of Lewis) (Personal) example sett](/variants/s7/dgi3r3dgi31dg18dgi4k22lo3/sett.png)|

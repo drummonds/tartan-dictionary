@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx Centenary](/setts/s9/db22g3db3g3db3g9y28g3y6~x2/)|
-|![Manx Centenary example sett](/setts/s9/db22g3db3g3db3g9y28g3y6~x2/sett.png)|
+| [Manx Centenary](/variants/s9/db22g3db3g3db3g9y28g3y6~x2/)|
+|![Manx Centenary example sett](/variants/s9/db22g3db3g3db3g9y28g3y6~x2/sett.png)|

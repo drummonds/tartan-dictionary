@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCarthy](/setts/s13/k5g1k3dp2g10k3g4k28dp2k2g1k4dp1~x2/)|
-|![McCarthy example sett](/setts/s13/k5g1k3dp2g10k3g4k28dp2k2g1k4dp1~x2/sett.png)|
+| [McCarthy](/variants/s13/k5g1k3dp2g10k3g4k28dp2k2g1k4dp1~x2/)|
+|![McCarthy example sett](/variants/s13/k5g1k3dp2g10k3g4k28dp2k2g1k4dp1~x2/sett.png)|

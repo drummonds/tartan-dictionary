@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hoosier (Fashion)](/setts/s8/b15db65ly7b4ly3db30b15w3~x2/)|
-|![Hoosier (Fashion) example sett](/setts/s8/b15db65ly7b4ly3db30b15w3~x2/sett.png)|
+| [Hoosier (Fashion)](/variants/s8/b15db65ly7b4ly3db30b15w3~x2/)|
+|![Hoosier (Fashion) example sett](/variants/s8/b15db65ly7b4ly3db30b15w3~x2/sett.png)|

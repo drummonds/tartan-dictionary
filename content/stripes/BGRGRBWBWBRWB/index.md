@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fyvie, Magenta (Dance)](/setts/s13/dpi12dg1r4dg1r4dp5lt3dp5w34dp5r2lt2dpi4~x2/)|
-|![Fyvie, Magenta (Dance) example sett](/setts/s13/dpi12dg1r4dg1r4dp5lt3dp5w34dp5r2lt2dpi4~x2/sett.png)|
+| [Fyvie, Magenta (Dance)](/variants/s13/dpi12dg1r4dg1r4dp5lt3dp5w34dp5r2lt2dpi4~x2/)|
+|![Fyvie, Magenta (Dance) example sett](/variants/s13/dpi12dg1r4dg1r4dp5lt3dp5w34dp5r2lt2dpi4~x2/sett.png)|

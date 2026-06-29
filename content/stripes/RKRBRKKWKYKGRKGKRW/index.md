@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotia Village (Corporate)](/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/)|
-|![Scotia Village (Corporate) example sett](/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/sett.png)|
+| [Scotia Village (Corporate)](/variants/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/)|
+|![Scotia Village (Corporate) example sett](/variants/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/sett.png)|

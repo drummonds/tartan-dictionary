@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Glenaladale - 1772 (Cla](/setts/s11/k5lb2r50k50r5w2r5g42r50k5w2/)|
-|![MacDonald of Glenaladale - 1772 (Cla example sett](/setts/s11/k5lb2r50k50r5w2r5g42r50k5w2/sett.png)|
+| [MacDonald of Glenaladale - 1772 (Cla](/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/)|
+|![MacDonald of Glenaladale - 1772 (Cla example sett](/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/sett.png)|

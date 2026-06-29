@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon Dress (US Fashion)](/setts/s13/k2b1g6b2g2k4g5lo1g5k4db4k2db2~x4/)|
-|![Gordon Dress (US Fashion) example sett](/setts/s13/k2b1g6b2g2k4g5lo1g5k4db4k2db2~x4/sett.png)|
+| [Gordon Dress (US Fashion)](/variants/s13/k2b1g6b2g2k4g5lo1g5k4db4k2db2~x4/)|
+|![Gordon Dress (US Fashion) example sett](/variants/s13/k2b1g6b2g2k4g5lo1g5k4db4k2db2~x4/sett.png)|

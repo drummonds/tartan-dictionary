@@ -1,0 +1,66 @@
+---
+title: "Stevens #3"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2t9dp3r7ri19ly2/)
+(the same proportion at any scale), whose colour order is pattern [BBBRRY](/stripes/bbbrry/).
+
+Part of the [Stevens](/tartans/stevens/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3922
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stevens #2
+- Stevens #3
+- Stevens #4
+- Stevens #5
+- Stevens #6
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3922](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3922)
+- Scottish Tartans Authority (ITI): 7062
+
+## Thread count
+DP/4 B18 DP6 R14 DR38 Y/4
+
+One full sett is **160 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(6 of 7 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DP/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> <small style="color:#888">#440044</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(27.1% 0.125 328.4)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> <small style="color:#888">#5C8CA8</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(61.7% 0.067 235.0)</small></td></tr><tr><td>DP</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> <small style="color:#888">#440044</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(27.1% 0.125 328.4)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">14</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#901C38;"><span style="color:#901C38;filter:grayscale(1) invert(1) contrast(100);">#901C38</span></code> <small style="color:#888">#901C38</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(43.2% 0.150 13.1)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DP/4 B18 DP6 R14 DR38 Y/4 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r6ly3r3db24dbi24g24t3ly4t3g24dbi10w3dbi10db24r3ly3r6/"><img src="/variants/s32/r6ly3r3db24dbi24g24t3ly4t3g24dbi10w3dbi10db24r3ly3r6/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r6ly3r3db24dbi24g24t3ly4t3g24dbi10w3dbi10db24r3ly3r6/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dp2t9dp3r7ri19ly2~x2">Stevens #3</a> <a class="nn-out" href="/variants/s6/dp2t9dp3r7ri19ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/dp2t9dp3r7ri19ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.13</div><div class="nn-name"><a href="/ttd/edit/#slug=ri15r98dp72t25dp8w15&amp;base=dp2t9dp3r7ri19ly2~x2">Afternoon Tea / Assam</a> <a class="nn-out" href="/variants/s6/ri15r98dp72t25dp8w15/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/ri15r98dp72t25dp8w15/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=r8ri1dg4ri1db4~x2&amp;base=dp2t9dp3r7ri19ly2~x2">Moray of Abercairney #2</a> <a class="nn-out" href="/variants/s5/r8ri1dg4ri1db4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r8ri1dg4ri1db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=db15n20do12r34lb3~x2&amp;base=dp2t9dp3r7ri19ly2~x2">McCurdy-Stribbling (Personal)</a> <a class="nn-out" href="/variants/s5/db15n20do12r34lb3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db15n20do12r34lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.39</div><div class="nn-name"><a href="/ttd/edit/#slug=g12ri11p12r3ri32p8g8p8~x2&amp;base=dp2t9dp3r7ri19ly2~x2">Fiddes</a> <a class="nn-out" href="/variants/s8/g12ri11p12r3ri32p8g8p8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g12ri11p12r3ri32p8g8p8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.41</div><div class="nn-name"><a href="/ttd/edit/#slug=m1dp4r10o2w1~x4&amp;base=dp2t9dp3r7ri19ly2~x2">Love</a> <a class="nn-out" href="/variants/s5/m1dp4r10o2w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/m1dp4r10o2w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=w15do8m25do72r98ly15&amp;base=dp2t9dp3r7ri19ly2~x2">Afternoon Tea / Apple Tea</a> <a class="nn-out" href="/variants/s6/w15do8m25do72r98ly15/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w15do8m25do72r98ly15/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=lr11r4y2k4y2r4y12r20t2~x2&amp;base=dp2t9dp3r7ri19ly2~x2">Australia Dress</a> <a class="nn-out" href="/variants/s9/lr11r4y2k4y2r4y12r20t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lr11r4y2k4y2r4y12r20t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.45</div><div class="nn-name"><a href="/ttd/edit/#slug=r28ly3r3db3r4dp8g10dpi15dp4~x2&amp;base=dp2t9dp3r7ri19ly2~x2">Loch Lomond (1999)</a> <a class="nn-out" href="/variants/s9/r28ly3r3db3r4dp8g10dpi15dp4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r28ly3r3db3r4dp8g10dpi15dp4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/ttd/edit/#slug=ri8r1g4r1db4~x2&amp;base=dp2t9dp3r7ri19ly2~x2">Moray of Abercairney</a> <a class="nn-out" href="/variants/s5/ri8r1g4r1db4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/ri8r1g4r1db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.49</div><div class="nn-name"><a href="/ttd/edit/#slug=r8ri1dg4ri1dg1t2~x2&amp;base=dp2t9dp3r7ri19ly2~x2">Moray of Abercairney</a> <a class="nn-out" href="/variants/s6/r8ri1dg4ri1dg1t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r8ri1dg4ri1dg1t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ri15r98dp72t25dp8w15/"><circle cx="236.5" cy="179.3" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s5/r8ri1dg4ri1db4~x2/"><circle cx="239.1" cy="232.3" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/variants/s5/db15n20do12r34lb3~x2/"><circle cx="206.0" cy="223.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s8/g12ri11p12r3ri32p8g8p8~x2/"><circle cx="264.1" cy="206.3" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s5/m1dp4r10o2w1~x4/"><circle cx="324.7" cy="196.2" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/variants/s6/w15do8m25do72r98ly15/"><circle cx="220.2" cy="163.1" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/variants/s9/lr11r4y2k4y2r4y12r20t2~x2/"><circle cx="231.9" cy="167.7" r="4" fill="#3465a4"><title>Australia Dress</title></circle></a><a href="/variants/s9/r28ly3r3db3r4dp8g10dpi15dp4~x2/"><circle cx="227.2" cy="169.4" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2/"><circle cx="241.6" cy="236.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s6/r8ri1dg4ri1dg1t2~x2/"><circle cx="270.7" cy="209.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="244.9" cy="195.0" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/dp2t9dp3r7ri19ly2~x2/

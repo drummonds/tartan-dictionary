@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leonard (Name)](/setts/s8/b36db6b5r3k2r3b5db18~x2/)|
-|![Leonard (Name) example sett](/setts/s8/b36db6b5r3k2r3b5db18~x2/sett.png)|
+| [Leonard (Name)](/variants/s8/b36db6b5r3k2r3b5db18~x2/)|
+|![Leonard (Name) example sett](/variants/s8/b36db6b5r3k2r3b5db18~x2/sett.png)|

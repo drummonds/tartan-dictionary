@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wagland](/setts/s12/db6ly2db15g12dg39w3dg39g12db15ly2db6r3~x2/)|
-|![Wagland example sett](/setts/s12/db6ly2db15g12dg39w3dg39g12db15ly2db6r3~x2/sett.png)|
+| [Wagland](/variants/s12/db6ly2db15g12dg39w3dg39g12db15ly2db6r3~x2/)|
+|![Wagland example sett](/variants/s12/db6ly2db15g12dg39w3dg39g12db15ly2db6r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchan (Clan)](/setts/s21/r6k6r2db24r2db2k2r2db24r2k6db6r2k27r2db2r2k27r2db6k2~x2/)|
-|![Buchan (Clan) example sett](/setts/s21/r6k6r2db24r2db2k2r2db24r2k6db6r2k27r2db2r2k27r2db6k2~x2/sett.png)|
+| [Buchan (Clan)](/variants/s21/r6k6r2db24r2db2k2r2db24r2k6db6r2k27r2db2r2k27r2db6k2~x2/)|
+|![Buchan (Clan) example sett](/variants/s21/r6k6r2db24r2db2k2r2db24r2k6db6r2k27r2db2r2k27r2db6k2~x2/sett.png)|

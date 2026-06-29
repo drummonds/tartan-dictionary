@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O Savanao (District)](/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/)|
-|![O Savanao (District) example sett](/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/sett.png)|
+| [O Savanao (District)](/variants/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/)|
+|![O Savanao (District) example sett](/variants/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/sett.png)|

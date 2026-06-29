@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince Edward Island (CIDD 28100)](/setts/s36/r50lo16r8k8lo1k1lo1k1lo1k1lo1k1lo1k1lo1k1lo20k40r12k24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6k4/)|
-|![Prince Edward Island (CIDD 28100) example sett](/setts/s36/r50lo16r8k8lo1k1lo1k1lo1k1lo1k1lo1k1lo1k1lo20k40r12k24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6k4/sett.png)|
+| [Prince Edward Island (CIDD 28100)](/variants/s36/r50lo16r8k8lo1k1lo1k1lo1k1lo1k1lo1k1lo1k1lo20k40r12k24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6k4/)|
+|![Prince Edward Island (CIDD 28100) example sett](/variants/s36/r50lo16r8k8lo1k1lo1k1lo1k1lo1k1lo1k1lo1k1lo20k40r12k24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6k4/sett.png)|

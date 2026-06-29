@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson of Balquhidder #3](/setts/s6/k3dg12k12r2db12k3~x2/)|
-|![Ferguson of Balquhidder #3 example sett](/setts/s6/k3dg12k12r2db12k3~x2/sett.png)|
-| [Gallamore](/setts/s6/k3db14r2k14g14k3~x2/)|
-|![Gallamore example sett](/setts/s6/k3db14r2k14g14k3~x2/sett.png)|
+| [Ferguson of Balquhidder #3](/variants/s6/k3dg12k12r2db12k3~x2/)|
+|![Ferguson of Balquhidder #3 example sett](/variants/s6/k3dg12k12r2db12k3~x2/sett.png)|
+| [Gallamore](/variants/s6/k3db14r2k14g14k3~x2/)|
+|![Gallamore example sett](/variants/s6/k3db14r2k14g14k3~x2/sett.png)|

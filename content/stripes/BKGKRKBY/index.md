@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilgour (Symmetrical)](/setts/s8/db6k3g14k3r14k3db6ly1~x4/)|
-|![Kilgour (Symmetrical) example sett](/setts/s8/db6k3g14k3r14k3db6ly1~x4/sett.png)|
+| [Kilgour (Symmetrical)](/variants/s8/db6k3g14k3r14k3db6ly1~x4/)|
+|![Kilgour (Symmetrical) example sett](/variants/s8/db6k3g14k3r14k3db6ly1~x4/sett.png)|

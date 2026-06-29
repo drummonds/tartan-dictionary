@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vemma (Corporate) XXXXXXXXX](/setts/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/)|
-|![Vemma (Corporate) XXXXXXXXX example sett](/setts/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/sett.png)|
+| [Vemma (Corporate) XXXXXXXXX](/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/)|
+|![Vemma (Corporate) XXXXXXXXX example sett](/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/sett.png)|

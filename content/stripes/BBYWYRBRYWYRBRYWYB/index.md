@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holyrood Golden Jubilee II](/setts/s18/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/)|
-|![Holyrood Golden Jubilee II example sett](/setts/s18/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/sett.png)|
+| [Holyrood Golden Jubilee II](/variants/s18/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/)|
+|![Holyrood Golden Jubilee II example sett](/variants/s18/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/sett.png)|

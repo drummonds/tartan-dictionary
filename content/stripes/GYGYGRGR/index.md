@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oakwood](/setts/s8/dg13ly2dg2ly2dg4r10g2r2~x4/)|
-|![Oakwood example sett](/setts/s8/dg13ly2dg2ly2dg4r10g2r2~x4/sett.png)|
+| [Oakwood](/variants/s8/dg13ly2dg2ly2dg4r10g2r2~x4/)|
+|![Oakwood example sett](/variants/s8/dg13ly2dg2ly2dg4r10g2r2~x4/sett.png)|

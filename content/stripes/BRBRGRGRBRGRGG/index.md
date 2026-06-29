@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx Heritage](/setts/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/)|
-|![Manx Heritage example sett](/setts/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/sett.png)|
+| [Manx Heritage](/variants/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/)|
+|![Manx Heritage example sett](/variants/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/sett.png)|

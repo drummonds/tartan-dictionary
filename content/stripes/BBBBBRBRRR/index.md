@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roscommon](/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/)|
-|![Roscommon example sett](/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/sett.png)|
+| [Roscommon](/variants/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/)|
+|![Roscommon example sett](/variants/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/sett.png)|

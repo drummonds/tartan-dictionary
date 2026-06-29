@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. David's (District)](/setts/s6/dg60r2dg8r1dg5k2/)|
-|![St. David's (District) example sett](/setts/s6/dg60r2dg8r1dg5k2/sett.png)|
+| [St. David's (District)](/variants/s6/dg60r2dg8r1dg5k2/)|
+|![St. David's (District) example sett](/variants/s6/dg60r2dg8r1dg5k2/sett.png)|

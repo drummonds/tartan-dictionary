@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haggis Hostels](/setts/s4/r10t5lb5dt4~x8/)|
-|![Haggis Hostels example sett](/setts/s4/r10t5lb5dt4~x8/sett.png)|
+| [Haggis Hostels](/variants/s4/r10t5lb5dt4~x8/)|
+|![Haggis Hostels example sett](/variants/s4/r10t5lb5dt4~x8/sett.png)|

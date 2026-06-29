@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waterloo](/setts/s6/y3dg6k6y4r1y1~x2/)|
-|![Waterloo example sett](/setts/s6/y3dg6k6y4r1y1~x2/sett.png)|
+| [Waterloo](/variants/s6/y3dg6k6y4r1y1~x2/)|
+|![Waterloo example sett](/variants/s6/y3dg6k6y4r1y1~x2/sett.png)|

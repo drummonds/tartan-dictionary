@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cavan](/setts/s10/k3r9k5dr9o3dr9k5g24k2o3~x2/)|
-|![Cavan example sett](/setts/s10/k3r9k5dr9o3dr9k5g24k2o3~x2/sett.png)|
+| [Cavan](/variants/s10/k3r9k5dr9o3dr9k5g24k2o3~x2/)|
+|![Cavan example sett](/variants/s10/k3r9k5dr9o3dr9k5g24k2o3~x2/sett.png)|

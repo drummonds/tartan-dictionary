@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Parker Black (2009)](/setts/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/)|
-|![Parker Black (2009) example sett](/setts/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/sett.png)|
+| [Parker Black (2009)](/variants/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/)|
+|![Parker Black (2009) example sett](/variants/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/sett.png)|

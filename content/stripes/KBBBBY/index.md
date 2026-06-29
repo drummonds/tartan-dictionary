@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murdoch (Geoffrey)](/setts/s6/k2dr1dt17dr17db1ly2~x4/)|
-|![Murdoch (Geoffrey) example sett](/setts/s6/k2dr1dt17dr17db1ly2~x4/sett.png)|
+| [Murdoch (Geoffrey)](/variants/s6/k2dr1dt17dr17db1ly2~x4/)|
+|![Murdoch (Geoffrey) example sett](/variants/s6/k2dr1dt17dr17db1ly2~x4/sett.png)|

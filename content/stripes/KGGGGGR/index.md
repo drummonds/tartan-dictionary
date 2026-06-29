@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kenmore Hunting (Fashion)](/setts/s7/k2g2g19g2g2g19r2~x2/)|
-|![Kenmore Hunting (Fashion) example sett](/setts/s7/k2g2g19g2g2g19r2~x2/sett.png)|
+| [Kenmore Hunting (Fashion)](/variants/s7/k2g2g19g2g2g19r2~x2/)|
+|![Kenmore Hunting (Fashion) example sett](/variants/s7/k2g2g19g2g2g19r2~x2/sett.png)|

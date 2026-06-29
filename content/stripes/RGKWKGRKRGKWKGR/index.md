@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDiarmid](/setts/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/)|
-|![MacDiarmid example sett](/setts/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/sett.png)|
+| [MacDiarmid](/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/)|
+|![MacDiarmid example sett](/variants/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aurora House Check](/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/)|
-|![Aurora House Check example sett](/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/sett.png)|
+| [Aurora House Check](/variants/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/)|
+|![Aurora House Check example sett](/variants/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/sett.png)|

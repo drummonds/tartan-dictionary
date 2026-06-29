@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carr (Personal)](/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/)|
-|![Carr (Personal) example sett](/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/sett.png)|
+| [Carr (Personal)](/variants/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/)|
+|![Carr (Personal) example sett](/variants/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/sett.png)|

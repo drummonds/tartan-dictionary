@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doane](/setts/s12/p3dt1do3o8dg4o3dg17do11db6do4db21dt1~x2/)|
-|![Doane example sett](/setts/s12/p3dt1do3o8dg4o3dg17do11db6do4db21dt1~x2/sett.png)|
+| [Doane](/variants/s12/p3dt1do3o8dg4o3dg17do11db6do4db21dt1~x2/)|
+|![Doane example sett](/variants/s12/p3dt1do3o8dg4o3dg17do11db6do4db21dt1~x2/sett.png)|

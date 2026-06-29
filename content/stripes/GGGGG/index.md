@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Celtic 2009 (Sports)](/setts/s5/gi40dg15g4dg4g4~x2/)|
-|![Celtic 2009 (Sports) example sett](/setts/s5/gi40dg15g4dg4g4~x2/sett.png)|
+| [Celtic 2009 (Sports)](/variants/s5/gi40dg15g4dg4g4~x2/)|
+|![Celtic 2009 (Sports) example sett](/variants/s5/gi40dg15g4dg4g4~x2/sett.png)|

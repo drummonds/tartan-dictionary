@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Matthews Check (School)](/setts/s5/db2lo21db11dt21db1~x2/)|
-|![St. Matthews Check (School) example sett](/setts/s5/db2lo21db11dt21db1~x2/sett.png)|
+| [St. Matthews Check (School)](/variants/s5/db2lo21db11dt21db1~x2/)|
+|![St. Matthews Check (School) example sett](/variants/s5/db2lo21db11dt21db1~x2/sett.png)|

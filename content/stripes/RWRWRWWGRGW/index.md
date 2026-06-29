@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ben Cleuch (Fashion)](/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/)|
-|![Ben Cleuch (Fashion) example sett](/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/sett.png)|
+| [Ben Cleuch (Fashion)](/variants/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/)|
+|![Ben Cleuch (Fashion) example sett](/variants/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/sett.png)|

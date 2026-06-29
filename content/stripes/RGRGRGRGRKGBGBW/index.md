@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moir (Loch Insch) (Personal)](/setts/s15/r31g3r2g2r3g2r2g3r15k15g2t15g3t3w2~x2/)|
-|![Moir (Loch Insch) (Personal) example sett](/setts/s15/r31g3r2g2r3g2r2g3r15k15g2t15g3t3w2~x2/sett.png)|
+| [Moir (Loch Insch) (Personal)](/variants/s15/r31g3r2g2r3g2r2g3r15k15g2t15g3t3w2~x2/)|
+|![Moir (Loch Insch) (Personal) example sett](/variants/s15/r31g3r2g2r3g2r2g3r15k15g2t15g3t3w2~x2/sett.png)|

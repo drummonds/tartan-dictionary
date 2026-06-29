@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of the Forth](/setts/s6/k3n23k3n3k20lg3~x2/)|
-|![Pride of the Forth example sett](/setts/s6/k3n23k3n3k20lg3~x2/sett.png)|
-| [Scottish National Party (Corporate)](/setts/s6/k3n31k3n3k27ly3~x2/)|
-|![Scottish National Party (Corporate) example sett](/setts/s6/k3n31k3n3k27ly3~x2/sett.png)|
+| [Pride of the Forth](/variants/s6/k3n23k3n3k20lg3~x2/)|
+|![Pride of the Forth example sett](/variants/s6/k3n23k3n3k20lg3~x2/sett.png)|
+| [Scottish National Party (Corporate)](/variants/s6/k3n31k3n3k27ly3~x2/)|
+|![Scottish National Party (Corporate) example sett](/variants/s6/k3n31k3n3k27ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dallas](/setts/s17/b75n2b10n6w2n6b10w2g9y6w2y6g10w2b6n4w2~x2/)|
-|![Dallas example sett](/setts/s17/b75n2b10n6w2n6b10w2g9y6w2y6g10w2b6n4w2~x2/sett.png)|
+| [Dallas](/variants/s17/b75n2b10n6w2n6b10w2g9y6w2y6g10w2b6n4w2~x2/)|
+|![Dallas example sett](/variants/s17/b75n2b10n6w2n6b10w2g9y6w2y6g10w2b6n4w2~x2/sett.png)|

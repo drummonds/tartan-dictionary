@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Queen of the South](/setts/s8/w3dt10dt12gi11db3gi11g4gi2~x2/)|
-|![Queen of the South example sett](/setts/s8/w3dt10dt12gi11db3gi11g4gi2~x2/sett.png)|
+| [Queen of the South](/variants/s8/w3dt10dt12gi11db3gi11g4gi2~x2/)|
+|![Queen of the South example sett](/variants/s8/w3dt10dt12gi11db3gi11g4gi2~x2/sett.png)|

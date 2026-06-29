@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heather MacRae](/setts/s7/dg2dr12db11lo6dy6dr12dg2~x2/)|
-|![Heather MacRae example sett](/setts/s7/dg2dr12db11lo6dy6dr12dg2~x2/sett.png)|
+| [Heather MacRae](/variants/s7/dg2dr12db11lo6dy6dr12dg2~x2/)|
+|![Heather MacRae example sett](/variants/s7/dg2dr12db11lo6dy6dr12dg2~x2/sett.png)|

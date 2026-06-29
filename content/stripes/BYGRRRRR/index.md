@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Indiana "Cardinal"](/setts/s8/db8ly1dg12r10o2r6o2r4~x4/)|
-|![Indiana "Cardinal" example sett](/setts/s8/db8ly1dg12r10o2r6o2r4~x4/sett.png)|
+| [Indiana "Cardinal"](/variants/s8/db8ly1dg12r10o2r6o2r4~x4/)|
+|![Indiana "Cardinal" example sett](/variants/s8/db8ly1dg12r10o2r6o2r4~x4/sett.png)|

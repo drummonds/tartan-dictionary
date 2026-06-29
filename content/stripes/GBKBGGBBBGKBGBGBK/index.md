@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Trust for Scotland](/setts/s17/dg13db2k2db2dg13y4db14dp2db14y4k12db2dg2db2dg2db2k12~x2/)|
-|![National Trust for Scotland example sett](/setts/s17/dg13db2k2db2dg13y4db14dp2db14y4k12db2dg2db2dg2db2k12~x2/sett.png)|
+| [National Trust for Scotland](/variants/s17/dg13db2k2db2dg13y4db14dp2db14y4k12db2dg2db2dg2db2k12~x2/)|
+|![National Trust for Scotland example sett](/variants/s17/dg13db2k2db2dg13y4db14dp2db14y4k12db2dg2db2dg2db2k12~x2/sett.png)|

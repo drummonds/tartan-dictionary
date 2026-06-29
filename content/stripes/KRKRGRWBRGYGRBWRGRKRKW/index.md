@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordonstoun](/setts/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/)|
-|![Gordonstoun example sett](/setts/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/sett.png)|
+| [Gordonstoun](/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/)|
+|![Gordonstoun example sett](/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/sett.png)|

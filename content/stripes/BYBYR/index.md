@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brooks Brothers Tattersall Camel](/setts/s5/db1lo9db2lo9r1~x4/)|
-|![Brooks Brothers Tattersall Camel example sett](/setts/s5/db1lo9db2lo9r1~x4/sett.png)|
+| [Brooks Brothers Tattersall Camel](/variants/s5/db1lo9db2lo9r1~x4/)|
+|![Brooks Brothers Tattersall Camel example sett](/variants/s5/db1lo9db2lo9r1~x4/sett.png)|

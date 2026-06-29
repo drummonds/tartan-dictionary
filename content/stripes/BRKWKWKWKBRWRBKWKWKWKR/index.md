@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Knights Templar St. Andrews](/setts/s22/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/)|
-|![Scottish Knights Templar St. Andrews example sett](/setts/s22/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png)|
+| [Scottish Knights Templar St. Andrews](/variants/s22/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/)|
+|![Scottish Knights Templar St. Andrews example sett](/variants/s22/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thorburn #1 (Name)](/setts/s9/db12lb2db2t6db4lb3db4lb18r1~x4/)|
-|![Thorburn #1 (Name) example sett](/setts/s9/db12lb2db2t6db4lb3db4lb18r1~x4/sett.png)|
-| [Thorburn (1992)](/setts/s9/db12lb4db4t12db8lb5db8lb35r4~x2/)|
-|![Thorburn (1992) example sett](/setts/s9/db12lb4db4t12db8lb5db8lb35r4~x2/sett.png)|
+| [Thorburn #1 (Name)](/variants/s9/db12lb2db2t6db4lb3db4lb18r1~x4/)|
+|![Thorburn #1 (Name) example sett](/variants/s9/db12lb2db2t6db4lb3db4lb18r1~x4/sett.png)|
+| [Thorburn (1992)](/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2/)|
+|![Thorburn (1992) example sett](/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Thistle](/setts/s9/b10k6g42k2g1k2r1k24r2~x2/)|
-|![Black Thistle example sett](/setts/s9/b10k6g42k2g1k2r1k24r2~x2/sett.png)|
+| [Black Thistle](/variants/s9/b10k6g42k2g1k2r1k24r2~x2/)|
+|![Black Thistle example sett](/variants/s9/b10k6g42k2g1k2r1k24r2~x2/sett.png)|

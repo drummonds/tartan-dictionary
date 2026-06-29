@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Howells](/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/)|
-|![Howells example sett](/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/sett.png)|
+| [Howells](/variants/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/)|
+|![Howells example sett](/variants/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/sett.png)|

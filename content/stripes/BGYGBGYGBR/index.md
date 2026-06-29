@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wheadon](/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/)|
-|![Wheadon example sett](/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/sett.png)|
+| [Wheadon](/variants/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/)|
+|![Wheadon example sett](/variants/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/sett.png)|

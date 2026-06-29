@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Survivor](/setts/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/)|
-|![Survivor example sett](/setts/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/sett.png)|
-| [Survivor (Fashion)](/setts/s13/k1r1k8g1k1g8ly1dt8k1dt1k8w1k1~x3/)|
-|![Survivor (Fashion) example sett](/setts/s13/k1r1k8g1k1g8ly1dt8k1dt1k8w1k1~x3/sett.png)|
+| [Survivor](/variants/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/)|
+|![Survivor example sett](/variants/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/sett.png)|
+| [Survivor (Fashion)](/variants/s13/k1r1k8g1k1g8ly1dt8k1dt1k8w1k1~x3/)|
+|![Survivor (Fashion) example sett](/variants/s13/k1r1k8g1k1g8ly1dt8k1dt1k8w1k1~x3/sett.png)|

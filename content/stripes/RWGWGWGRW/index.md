@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart of Bute St Colmac](/setts/s9/o16lb8dy1lb2dy1lb1dy8o34w2~x2/)|
-|![Stuart of Bute St Colmac example sett](/setts/s9/o16lb8dy1lb2dy1lb1dy8o34w2~x2/sett.png)|
+| [Stuart of Bute St Colmac](/variants/s9/o16lb8dy1lb2dy1lb1dy8o34w2~x2/)|
+|![Stuart of Bute St Colmac example sett](/variants/s9/o16lb8dy1lb2dy1lb1dy8o34w2~x2/sett.png)|

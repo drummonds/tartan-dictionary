@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochnagar](/setts/s6/w1y1y4y7p1w1~x4/)|
-|![Lochnagar example sett](/setts/s6/w1y1y4y7p1w1~x4/sett.png)|
+| [Lochnagar](/variants/s6/w1y1y4y7p1w1~x4/)|
+|![Lochnagar example sett](/variants/s6/w1y1y4y7p1w1~x4/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathspey District (District)](/setts/s7/k1y5k5g5k1g1k1~x4/)|
-|![Strathspey District (District) example sett](/setts/s7/k1y5k5g5k1g1k1~x4/sett.png)|
-| [Taiheiyo Club, Inc.](/setts/s7/k46dg6k6dg6k42dg47k12/)|
-|![Taiheiyo Club, Inc. example sett](/setts/s7/k46dg6k6dg6k42dg47k12/sett.png)|
+| [Strathspey District (District)](/variants/s7/k1y5k5g5k1g1k1~x4/)|
+|![Strathspey District (District) example sett](/variants/s7/k1y5k5g5k1g1k1~x4/sett.png)|
+| [Taiheiyo Club, Inc.](/variants/s7/k46dg6k6dg6k42dg47k12/)|
+|![Taiheiyo Club, Inc. example sett](/variants/s7/k46dg6k6dg6k42dg47k12/sett.png)|

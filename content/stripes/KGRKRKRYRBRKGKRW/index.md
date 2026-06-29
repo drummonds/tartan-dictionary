@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Innes (D C Stewart)](/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/)|
-|![Innes (D C Stewart) example sett](/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/sett.png)|
+| [Innes (D C Stewart)](/variants/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/)|
+|![Innes (D C Stewart) example sett](/variants/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/sett.png)|

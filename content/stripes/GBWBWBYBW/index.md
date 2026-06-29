@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Centrica Energy (Corporate)](/setts/s9/w12db79lo6db53lb4db22lp10db24g8/)|
-|![Centrica Energy (Corporate) example sett](/setts/s9/w12db79lo6db53lb4db22lp10db24g8/sett.png)|
+| [Centrica Energy (Corporate)](/variants/s9/w12db79lo6db53lb4db22lp10db24g8/)|
+|![Centrica Energy (Corporate) example sett](/variants/s9/w12db79lo6db53lb4db22lp10db24g8/sett.png)|

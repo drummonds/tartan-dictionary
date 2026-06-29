@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince George's Police Pipe Band](/setts/s8/db42r2y16r2db6r2y8lo3~x2/)|
-|![Prince George's Police Pipe Band example sett](/setts/s8/db42r2y16r2db6r2y8lo3~x2/sett.png)|
+| [Prince George's Police Pipe Band](/variants/s8/db42r2y16r2db6r2y8lo3~x2/)|
+|![Prince George's Police Pipe Band example sett](/variants/s8/db42r2y16r2db6r2y8lo3~x2/sett.png)|

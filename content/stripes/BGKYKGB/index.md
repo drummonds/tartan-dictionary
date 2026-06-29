@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salvation Army Htg (Corporate)](/setts/s7/db5dg8k1ly2k1dg8db4~x4/)|
-|![Salvation Army Htg (Corporate) example sett](/setts/s7/db5dg8k1ly2k1dg8db4~x4/sett.png)|
-| [Salvation Army, Hunting](/setts/s7/db40g8k1ly2k1g8db5~x4/)|
-|![Salvation Army, Hunting example sett](/setts/s7/db40g8k1ly2k1g8db5~x4/sett.png)|
+| [Salvation Army Htg (Corporate)](/variants/s7/db5dg8k1ly2k1dg8db4~x4/)|
+|![Salvation Army Htg (Corporate) example sett](/variants/s7/db5dg8k1ly2k1dg8db4~x4/sett.png)|
+| [Salvation Army, Hunting](/variants/s7/db40g8k1ly2k1g8db5~x4/)|
+|![Salvation Army, Hunting example sett](/variants/s7/db40g8k1ly2k1g8db5~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hunter of Peebleshire](/setts/s20/g8k1g8k8r1db8w1db8r1k8r1~x4/)|
-|![Hunter of Peebleshire example sett](/setts/s20/g8k1g8k8r1db8w1db8r1k8r1~x4/sett.png)|
+| [Hunter of Peebleshire](/variants/s20/g8k1g8k8r1db8w1db8r1k8r1~x4/)|
+|![Hunter of Peebleshire example sett](/variants/s20/g8k1g8k8r1db8w1db8r1k8r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Ohio (Fashion)](/setts/s9/db60loi3db5lo5db9do20loi4g32lb4~x2/)|
-|![State Seal of Ohio (Fashion) example sett](/setts/s9/db60loi3db5lo5db9do20loi4g32lb4~x2/sett.png)|
+| [State Seal of Ohio (Fashion)](/variants/s9/db60loi3db5lo5db9do20loi4g32lb4~x2/)|
+|![State Seal of Ohio (Fashion) example sett](/variants/s9/db60loi3db5lo5db9do20loi4g32lb4~x2/sett.png)|

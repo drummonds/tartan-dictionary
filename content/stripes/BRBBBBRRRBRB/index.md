@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Scotland, Silver (Fashion)](/setts/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/)|
-|![Pride of Scotland, Silver (Fashion) example sett](/setts/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/sett.png)|
+| [Pride of Scotland, Silver (Fashion)](/variants/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/)|
+|![Pride of Scotland, Silver (Fashion) example sett](/variants/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mostyn](/setts/s9/r20k2r2k2r2k8g24db2g3~x2/)|
-|![Mostyn example sett](/setts/s9/r20k2r2k2r2k8g24db2g3~x2/sett.png)|
+| [Mostyn](/variants/s9/r20k2r2k2r2k8g24db2g3~x2/)|
+|![Mostyn example sett](/variants/s9/r20k2r2k2r2k8g24db2g3~x2/sett.png)|

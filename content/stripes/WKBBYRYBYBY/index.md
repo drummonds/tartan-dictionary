@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Congo, The Democratic Republic of the](/setts/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/)|
-|![Congo, The Democratic Republic of the example sett](/setts/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/sett.png)|
+| [Congo, The Democratic Republic of the](/variants/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/)|
+|![Congo, The Democratic Republic of the example sett](/variants/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/sett.png)|

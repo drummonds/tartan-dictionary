@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gayre, hunting](/setts/s13/db16g4k4y22db5y22k3r5g4y4g4r4k4~x2/)|
-|![Gayre, hunting example sett](/setts/s13/db16g4k4y22db5y22k3r5g4y4g4r4k4~x2/sett.png)|
+| [Gayre, hunting](/variants/s13/db16g4k4y22db5y22k3r5g4y4g4r4k4~x2/)|
+|![Gayre, hunting example sett](/variants/s13/db16g4k4y22db5y22k3r5g4y4g4r4k4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mayo, County](/setts/s12/k4dg16db11r16dg25lo2t3~x2/)|
-|![Mayo, County example sett](/setts/s12/k4dg16db11r16dg25lo2t3~x2/sett.png)|
+| [Mayo, County](/variants/s12/k4dg16db11r16dg25lo2t3~x2/)|
+|![Mayo, County example sett](/variants/s12/k4dg16db11r16dg25lo2t3~x2/sett.png)|

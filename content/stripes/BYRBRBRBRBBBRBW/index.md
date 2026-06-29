@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Matchpoint Dress](/setts/s15/db6ly2o24db4o8db6o6db6o3db10n14db4r3db34lb4/)|
-|![Matchpoint Dress example sett](/setts/s15/db6ly2o24db4o8db6o6db6o3db10n14db4r3db34lb4/sett.png)|
+| [Matchpoint Dress](/variants/s15/db6ly2o24db4o8db6o6db6o3db10n14db4r3db34lb4/)|
+|![Matchpoint Dress example sett](/variants/s15/db6ly2o24db4o8db6o6db6o3db10n14db4r3db34lb4/sett.png)|

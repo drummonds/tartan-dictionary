@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Private SA Club](/setts/s8/k3r8k3r8lo19r7dt36r3~x2/)|
-|![Private SA Club example sett](/setts/s8/k3r8k3r8lo19r7dt36r3~x2/sett.png)|
+| [Private SA Club](/variants/s8/k3r8k3r8lo19r7dt36r3~x2/)|
+|![Private SA Club example sett](/variants/s8/k3r8k3r8lo19r7dt36r3~x2/sett.png)|

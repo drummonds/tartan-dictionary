@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Princess Elizabeth](/setts/s8/r42k4w1k6ly1db1ly1r12~x2/)|
-|![Princess Elizabeth example sett](/setts/s8/r42k4w1k6ly1db1ly1r12~x2/sett.png)|
-| [Princess Elizabeth (Royal)](/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/)|
-|![Princess Elizabeth (Royal) example sett](/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/sett.png)|
+| [Princess Elizabeth](/variants/s8/r42k4w1k6ly1db1ly1r12~x2/)|
+|![Princess Elizabeth example sett](/variants/s8/r42k4w1k6ly1db1ly1r12~x2/sett.png)|
+| [Princess Elizabeth (Royal)](/variants/s8/r72k6lb2k11ly2db2ly2r18~x2/)|
+|![Princess Elizabeth (Royal) example sett](/variants/s8/r72k6lb2k11ly2db2ly2r18~x2/sett.png)|

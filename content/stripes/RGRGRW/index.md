@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Al-Maktoum](/setts/s6/w11r32g12r5g12r5~x2/)|
-|![Al-Maktoum example sett](/setts/s6/w11r32g12r5g12r5~x2/sett.png)|
-| [Makhtoum](/setts/s6/w11r40g13r5g12r5~x2/)|
-|![Makhtoum example sett](/setts/s6/w11r40g13r5g12r5~x2/sett.png)|
+| [Al-Maktoum](/variants/s6/w11r32g12r5g12r5~x2/)|
+|![Al-Maktoum example sett](/variants/s6/w11r32g12r5g12r5~x2/sett.png)|
+| [Makhtoum](/variants/s6/w11r40g13r5g12r5~x2/)|
+|![Makhtoum example sett](/variants/s6/w11r40g13r5g12r5~x2/sett.png)|

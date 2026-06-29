@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nery](/setts/s7/lo6g28r4k20r3db45k5~x2/)|
-|![Nery example sett](/setts/s7/lo6g28r4k20r3db45k5~x2/sett.png)|
+| [Nery](/variants/s7/lo6g28r4k20r3db45k5~x2/)|
+|![Nery example sett](/variants/s7/lo6g28r4k20r3db45k5~x2/sett.png)|

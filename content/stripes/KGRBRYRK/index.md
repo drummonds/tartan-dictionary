@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewarton (Fashion)](/setts/s8/k1o3lr3oi3db3oi3g3k1~x4/)|
-|![Stewarton (Fashion) example sett](/setts/s8/k1o3lr3oi3db3oi3g3k1~x4/sett.png)|
+| [Stewarton (Fashion)](/variants/s8/k1o3lr3oi3db3oi3g3k1~x4/)|
+|![Stewarton (Fashion) example sett](/variants/s8/k1o3lr3oi3db3oi3g3k1~x4/sett.png)|

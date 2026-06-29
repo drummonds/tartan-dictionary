@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barclay Dress](/setts/s4/w5ly32dt32ly5~x2/)|
-|![Barclay Dress example sett](/setts/s4/w5ly32dt32ly5~x2/sett.png)|
+| [Barclay Dress](/variants/s4/w5ly32dt32ly5~x2/)|
+|![Barclay Dress example sett](/variants/s4/w5ly32dt32ly5~x2/sett.png)|

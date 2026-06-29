@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Serenade (Fashion)](/setts/s10/db6dp12lg3dp12b6db2b26dp16lb2dp6~x2/)|
-|![Serenade (Fashion) example sett](/setts/s10/db6dp12lg3dp12b6db2b26dp16lb2dp6~x2/sett.png)|
+| [Serenade (Fashion)](/variants/s10/db6dp12lg3dp12b6db2b26dp16lb2dp6~x2/)|
+|![Serenade (Fashion) example sett](/variants/s10/db6dp12lg3dp12b6db2b26dp16lb2dp6~x2/sett.png)|

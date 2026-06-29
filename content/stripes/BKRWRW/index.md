@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGregor Dress Red (Dance)](/setts/s6/w52r22w6r8k1db3~x2/)|
-|![MacGregor Dress Red (Dance) example sett](/setts/s6/w52r22w6r8k1db3~x2/sett.png)|
+| [MacGregor Dress Red (Dance)](/variants/s6/w52r22w6r8k1db3~x2/)|
+|![MacGregor Dress Red (Dance) example sett](/variants/s6/w52r22w6r8k1db3~x2/sett.png)|

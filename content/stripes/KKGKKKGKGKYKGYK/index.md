@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eynon (Welsh Name)](/setts/s15/k11ki1g3k6ki1k6g3k4g7k11ly1k11g7ly2ki4~x2/)|
-|![Eynon (Welsh Name) example sett](/setts/s15/k11ki1g3k6ki1k6g3k4g7k11ly1k11g7ly2ki4~x2/sett.png)|
+| [Eynon (Welsh Name)](/variants/s15/k11ki1g3k6ki1k6g3k4g7k11ly1k11g7ly2ki4~x2/)|
+|![Eynon (Welsh Name) example sett](/variants/s15/k11ki1g3k6ki1k6g3k4g7k11ly1k11g7ly2ki4~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified #22](/setts/s15/db14r15dp4k18dp4dg20ly4w2k4w2ly4r8k6db1w6~x2/)|
-|![Unidentified #22 example sett](/setts/s15/db14r15dp4k18dp4dg20ly4w2k4w2ly4r8k6db1w6~x2/sett.png)|
-| [Unidentified 4](/setts/s15/db14r15dp4k18dp4g20ly4w2k4w2ly4r8k6db1w6~x2/)|
-|![Unidentified 4 example sett](/setts/s15/db14r15dp4k18dp4g20ly4w2k4w2ly4r8k6db1w6~x2/sett.png)|
+| [Unidentified #22](/variants/s15/db14r15dp4k18dp4dg20ly4w2k4w2ly4r8k6db1w6~x2/)|
+|![Unidentified #22 example sett](/variants/s15/db14r15dp4k18dp4dg20ly4w2k4w2ly4r8k6db1w6~x2/sett.png)|
+| [Unidentified 4](/variants/s15/db14r15dp4k18dp4g20ly4w2k4w2ly4r8k6db1w6~x2/)|
+|![Unidentified 4 example sett](/variants/s15/db14r15dp4k18dp4g20ly4w2k4w2ly4r8k6db1w6~x2/sett.png)|

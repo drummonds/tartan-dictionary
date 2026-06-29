@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corryvrechan Dress (Corporate)](/setts/s10/t40db12ly2db2t2db2g6w21r2t2~x2/)|
-|![Corryvrechan Dress (Corporate) example sett](/setts/s10/t40db12ly2db2t2db2g6w21r2t2~x2/sett.png)|
+| [Corryvrechan Dress (Corporate)](/variants/s10/t40db12ly2db2t2db2g6w21r2t2~x2/)|
+|![Corryvrechan Dress (Corporate) example sett](/variants/s10/t40db12ly2db2t2db2g6w21r2t2~x2/sett.png)|

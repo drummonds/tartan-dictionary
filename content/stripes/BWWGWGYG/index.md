@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Iroquois Falls Centenary](/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/)|
-|![Iroquois Falls Centenary example sett](/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/sett.png)|
+| [Iroquois Falls Centenary](/variants/s8/g18lg6dy3w1dy3w1lt6db6~x2/)|
+|![Iroquois Falls Centenary example sett](/variants/s8/g18lg6dy3w1dy3w1lt6db6~x2/sett.png)|

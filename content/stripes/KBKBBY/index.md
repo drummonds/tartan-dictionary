@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connecticut State Police Pipe Band](/setts/s6/k42n2k2n17db8lo4~x2/)|
-|![Connecticut State Police Pipe Band example sett](/setts/s6/k42n2k2n17db8lo4~x2/sett.png)|
+| [Connecticut State Police Pipe Band](/variants/s6/k42n2k2n17db8lo4~x2/)|
+|![Connecticut State Police Pipe Band example sett](/variants/s6/k42n2k2n17db8lo4~x2/sett.png)|

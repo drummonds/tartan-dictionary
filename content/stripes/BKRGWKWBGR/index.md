@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Steiff](/setts/s10/r15g6db36w2k6w2g30r32k6t4/)|
-|![Steiff example sett](/setts/s10/r15g6db36w2k6w2g30r32k6t4/sett.png)|
+| [Steiff](/variants/s10/r15g6db36w2k6w2g30r32k6t4/)|
+|![Steiff example sett](/variants/s10/r15g6db36w2k6w2g30r32k6t4/sett.png)|

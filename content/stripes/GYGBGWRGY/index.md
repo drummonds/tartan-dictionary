@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antrim County Crest (Fashion)](/setts/s9/g4ly9g3db4g3w3r32g4ly3~x2/)|
-|![Antrim County Crest (Fashion) example sett](/setts/s9/g4ly9g3db4g3w3r32g4ly3~x2/sett.png)|
+| [Antrim County Crest (Fashion)](/variants/s9/g4ly9g3db4g3w3r32g4ly3~x2/)|
+|![Antrim County Crest (Fashion) example sett](/variants/s9/g4ly9g3db4g3w3r32g4ly3~x2/sett.png)|

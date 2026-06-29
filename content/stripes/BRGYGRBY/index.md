@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wicks (Personal)](/setts/s8/dp30o20dg8ly3dg8o20dp30ly2~x2/)|
-|![Wicks (Personal) example sett](/setts/s8/dp30o20dg8ly3dg8o20dp30ly2~x2/sett.png)|
+| [Wicks (Personal)](/variants/s8/dp30o20dg8ly3dg8o20dp30ly2~x2/)|
+|![Wicks (Personal) example sett](/variants/s8/dp30o20dg8ly3dg8o20dp30ly2~x2/sett.png)|

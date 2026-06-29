@@ -14,4 +14,4 @@ weight: 67
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Hash House Harriers Trail (Corp)](/setts/s67/ly1lo1ly1lo1r4ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1do28g28db4g28do28ly1lo1ly1lo1ly1lo1ly1lo1w4ly1lo1ly1lo1w4ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1-h14a4f2c28f558f15/) | tartans-authority |
+| 0.08 | [Hash House Harriers Trail (Corp)](/variants/s67/ly1lo1ly1lo1r4ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1do28g28db4g28do28ly1lo1ly1lo1ly1lo1ly1lo1w4ly1lo1ly1lo1w4ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1-h14a4f2c28f558f15/) | tartans-authority |

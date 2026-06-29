@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braveheart](/setts/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2~x2/)|
-|![Braveheart example sett](/setts/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2~x2/sett.png)|
+| [Braveheart](/variants/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2~x2/)|
+|![Braveheart example sett](/variants/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2~x2/sett.png)|

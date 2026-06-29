@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [James (Welsh Name)](/setts/s15/r11k1k3r6k1r6k3r4k7r11db1r11k7db2k4~x2/)|
-|![James (Welsh Name) example sett](/setts/s15/r11k1k3r6k1r6k3r4k7r11db1r11k7db2k4~x2/sett.png)|
+| [James (Welsh Name)](/variants/s15/r11k1k3r6k1r6k3r4k7r11db1r11k7db2k4~x2/)|
+|![James (Welsh Name) example sett](/variants/s15/r11k1k3r6k1r6k3r4k7r11db1r11k7db2k4~x2/sett.png)|

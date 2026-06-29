@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Falkirk Football Club (Corporate)](/setts/s9/db5r16db4k3db4k3db43r15w1~x2/)|
-|![Falkirk Football Club (Corporate) example sett](/setts/s9/db5r16db4k3db4k3db43r15w1~x2/sett.png)|
+| [Falkirk Football Club (Corporate)](/variants/s9/db5r16db4k3db4k3db43r15w1~x2/)|
+|![Falkirk Football Club (Corporate) example sett](/variants/s9/db5r16db4k3db4k3db43r15w1~x2/sett.png)|

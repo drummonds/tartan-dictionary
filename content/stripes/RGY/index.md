@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Watch](/setts/s3/r104g39ly4/)|
-|![Scottish Watch example sett](/setts/s3/r104g39ly4/sett.png)|
-| [Scottish Watch (Corporate)](/setts/s3/r104dg39lo4~x2/)|
-|![Scottish Watch (Corporate) example sett](/setts/s3/r104dg39lo4~x2/sett.png)|
+| [Scottish Watch](/variants/s3/r104g39ly4/)|
+|![Scottish Watch example sett](/variants/s3/r104g39ly4/sett.png)|
+| [Scottish Watch (Corporate)](/variants/s3/r104dg39lo4~x2/)|
+|![Scottish Watch (Corporate) example sett](/variants/s3/r104dg39lo4~x2/sett.png)|

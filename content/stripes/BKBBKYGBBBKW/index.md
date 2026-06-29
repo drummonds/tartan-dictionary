@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Veere](/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/)|
-|![Veere example sett](/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/sett.png)|
+| [Veere](/variants/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/)|
+|![Veere example sett](/variants/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/sett.png)|

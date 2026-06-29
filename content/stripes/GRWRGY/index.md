@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Ballet](/setts/s6/lo5y22m15lp11m5y2~x2/)|
-|![Scottish Ballet example sett](/setts/s6/lo5y22m15lp11m5y2~x2/sett.png)|
+| [Scottish Ballet](/variants/s6/lo5y22m15lp11m5y2~x2/)|
+|![Scottish Ballet example sett](/variants/s6/lo5y22m15lp11m5y2~x2/sett.png)|

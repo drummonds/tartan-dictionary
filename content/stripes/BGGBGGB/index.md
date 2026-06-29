@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Valley of the Green](/setts/s7/t4gii26gi8t8gi8g3t2~x2/)|
-|![Valley of the Green example sett](/setts/s7/t4gii26gi8t8gi8g3t2~x2/sett.png)|
-| [Valley of the Green (The ) Canadian Tartan Tartan Number: 148. Earliest known date: 1968 Specimen from Miss K Sinclair 1968 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/t4dg26gi8t8gi8g3t2~x2/)|
-|![Valley of the Green (The ) Canadian Tartan Tartan Number: 148. Earliest known date: 1968 Specimen from Miss K Sinclair 1968 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/t4dg26gi8t8gi8g3t2~x2/sett.png)|
-| [Valley, of the Green. (The )](/setts/s7/t4dg26g8t8g8gi3t2~x2/)|
-|![Valley, of the Green. (The ) example sett](/setts/s7/t4dg26g8t8g8gi3t2~x2/sett.png)|
+| [Valley of the Green](/variants/s7/t4gii26gi8t8gi8g3t2~x2/)|
+|![Valley of the Green example sett](/variants/s7/t4gii26gi8t8gi8g3t2~x2/sett.png)|
+| [Valley of the Green (The ) Canadian Tartan](/variants/s7/t4dg26gi8t8gi8g3t2~x2/)|
+|![Valley of the Green (The ) Canadian Tartan example sett](/variants/s7/t4dg26gi8t8gi8g3t2~x2/sett.png)|
+| [Valley, of the Green. (The )](/variants/s7/t4dg26g8t8g8gi3t2~x2/)|
+|![Valley, of the Green. (The ) example sett](/variants/s7/t4dg26g8t8g8gi3t2~x2/sett.png)|

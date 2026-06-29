@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chisholm](/tartans/r12n2lr1n2r3dg8r3n1/)|
-|![Chisholm example sett](/setts/s8/r12n2lr1n2r3dg8r3n1/sett.png)|
+| [Chisholm](/setts/r12n2lr1n2r3dg8r3n1/)|
+|![Chisholm example sett](/variants/s8/r12n2lr1n2r3dg8r3n1/sett.png)|

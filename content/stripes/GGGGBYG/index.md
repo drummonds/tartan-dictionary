@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strange of Balcaskie (Clan)](/setts/s7/g32dy7g7dy16db32ly3dy8~x2/)|
-|![Strange of Balcaskie (Clan) example sett](/setts/s7/g32dy7g7dy16db32ly3dy8~x2/sett.png)|
+| [Strange of Balcaskie (Clan)](/variants/s7/g32dy7g7dy16db32ly3dy8~x2/)|
+|![Strange of Balcaskie (Clan) example sett](/variants/s7/g32dy7g7dy16db32ly3dy8~x2/sett.png)|

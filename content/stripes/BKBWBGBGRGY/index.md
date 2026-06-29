@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Sullivan](/setts/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/)|
-|![O'Sullivan example sett](/setts/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/sett.png)|
+| [O'Sullivan](/variants/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/)|
+|![O'Sullivan example sett](/variants/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/sett.png)|

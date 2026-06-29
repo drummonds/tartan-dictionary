@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stephenson Hunting](/setts/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/)|
-|![Stephenson Hunting example sett](/setts/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/sett.png)|
-| [Stephenson, hunting](/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/)|
-|![Stephenson, hunting example sett](/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/sett.png)|
+| [Stephenson Hunting](/variants/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/)|
+|![Stephenson Hunting example sett](/variants/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/sett.png)|
+| [Stephenson, hunting](/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/)|
+|![Stephenson, hunting example sett](/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/sett.png)|

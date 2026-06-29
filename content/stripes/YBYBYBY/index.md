@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lewis (Welsh Name)](/setts/s7/lo56db2lo19db1lo2db1lo2~x2/)|
-|![Lewis (Welsh Name) example sett](/setts/s7/lo56db2lo19db1lo2db1lo2~x2/sett.png)|
+| [Lewis (Welsh Name)](/variants/s7/lo56db2lo19db1lo2db1lo2~x2/)|
+|![Lewis (Welsh Name) example sett](/variants/s7/lo56db2lo19db1lo2db1lo2~x2/sett.png)|

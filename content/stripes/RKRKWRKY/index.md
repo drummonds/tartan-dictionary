@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barbecue Plaid](/setts/s8/r45k2r2k28w16r4k4lo2/)|
-|![Barbecue Plaid example sett](/setts/s8/r45k2r2k28w16r4k4lo2/sett.png)|
+| [Barbecue Plaid](/variants/s8/r45k2r2k28w16r4k4lo2/)|
+|![Barbecue Plaid example sett](/variants/s8/r45k2r2k28w16r4k4lo2/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKenzie](/setts/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/)|
-|![MacKenzie example sett](/setts/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/sett.png)|
+| [MacKenzie](/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/)|
+|![MacKenzie example sett](/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/sett.png)|

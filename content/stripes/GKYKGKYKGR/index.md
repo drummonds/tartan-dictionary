@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harbor Club (Corporate)](/setts/s10/r47g14k5ly2k3g7~x2/)|
-|![Harbor Club (Corporate) example sett](/setts/s10/r47g14k5ly2k3g7~x2/sett.png)|
+| [Harbor Club (Corporate)](/variants/s10/r47g14k5ly2k3g7~x2/)|
+|![Harbor Club (Corporate) example sett](/variants/s10/r47g14k5ly2k3g7~x2/sett.png)|

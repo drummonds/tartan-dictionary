@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Banff, White (Fashion)](/setts/s7/w8ly3w22o22dr3r2w4~x2/)|
-|![Banff, White (Fashion) example sett](/setts/s7/w8ly3w22o22dr3r2w4~x2/sett.png)|
+| [Banff, White (Fashion)](/variants/s7/w8ly3w22o22dr3r2w4~x2/)|
+|![Banff, White (Fashion) example sett](/variants/s7/w8ly3w22o22dr3r2w4~x2/sett.png)|

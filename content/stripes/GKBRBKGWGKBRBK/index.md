@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asher Personal Tartan Tartan Number: 3840. Earliest known date: 2002 Designed by Robert Asher of London to recognise his family's Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/dg40k2db3r4db3k2dg40w3~x2/)|
-|![Asher Personal Tartan Tartan Number: 3840. Earliest known date: 2002 Designed by Robert Asher of London to recognise his family's Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/dg40k2db3r4db3k2dg40w3~x2/sett.png)|
+| [Asher Personal Tartan](/variants/s14/dg40k2db3r4db3k2dg40w3~x2/)|
+|![Asher Personal Tartan example sett](/variants/s14/dg40k2db3r4db3k2dg40w3~x2/sett.png)|

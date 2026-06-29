@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Chieftain (Universal)](/setts/s8/k20r1dg3k8dg2k2dg20w2~x2/)|
-|![Scottish Chieftain (Universal) example sett](/setts/s8/k20r1dg3k8dg2k2dg20w2~x2/sett.png)|
+| [Scottish Chieftain (Universal)](/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/)|
+|![Scottish Chieftain (Universal) example sett](/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/sett.png)|

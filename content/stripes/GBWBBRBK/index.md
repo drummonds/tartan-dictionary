@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longhaugh Primary School](/setts/s8/g20db2w2db12dp29r1dp1k3~x2/)|
-|![Longhaugh Primary School example sett](/setts/s8/g20db2w2db12dp29r1dp1k3~x2/sett.png)|
+| [Longhaugh Primary School](/variants/s8/g20db2w2db12dp29r1dp1k3~x2/)|
+|![Longhaugh Primary School example sett](/variants/s8/g20db2w2db12dp29r1dp1k3~x2/sett.png)|

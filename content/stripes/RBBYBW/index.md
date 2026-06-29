@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Afternoon Tea / Earl Grey](/setts/s6/r15t98dt72ly25dt8w15/)|
-|![Afternoon Tea / Earl Grey example sett](/setts/s6/r15t98dt72ly25dt8w15/sett.png)|
-| [Afternoon Tea / Earl Grey](/setts/s6/r15t98db72ly25db8w15/)|
-|![Afternoon Tea / Earl Grey example sett](/setts/s6/r15t98db72ly25db8w15/sett.png)|
+| [Afternoon Tea / Earl Grey](/variants/s6/r15t98dt72ly25dt8w15/)|
+|![Afternoon Tea / Earl Grey example sett](/variants/s6/r15t98dt72ly25dt8w15/sett.png)|
+| [Afternoon Tea / Earl Grey](/variants/s6/r15t98db72ly25db8w15/)|
+|![Afternoon Tea / Earl Grey example sett](/variants/s6/r15t98db72ly25db8w15/sett.png)|

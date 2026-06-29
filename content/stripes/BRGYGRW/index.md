@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanhaven Heritage](/setts/s7/t24r27g20lo6g20r2w3~x2/)|
-|![Buchanhaven Heritage example sett](/setts/s7/t24r27g20lo6g20r2w3~x2/sett.png)|
+| [Buchanhaven Heritage](/variants/s7/t24r27g20lo6g20r2w3~x2/)|
+|![Buchanhaven Heritage example sett](/variants/s7/t24r27g20lo6g20r2w3~x2/sett.png)|

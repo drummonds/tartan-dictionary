@@ -24,7 +24,7 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Birral (Clan)](/setts/s17/r65w2dp8t4w2t4dp8w2g32w2r8ri4dp2ri4r8w2dp16~x2/)|
-|![Birral (Clan) example sett](/setts/s17/r65w2dp8t4w2t4dp8w2g32w2r8ri4dp2ri4r8w2dp16~x2/sett.png)|
-| [Birral, Burrell](/setts/s17/ri65w2p8t4w2t4p8w2g32w2ri8r4p2r4ri8w2p16~x2/)|
-|![Birral, Burrell example sett](/setts/s17/ri65w2p8t4w2t4p8w2g32w2ri8r4p2r4ri8w2p16~x2/sett.png)|
+| [Birral (Clan)](/variants/s17/r65w2dp8t4w2t4dp8w2g32w2r8ri4dp2ri4r8w2dp16~x2/)|
+|![Birral (Clan) example sett](/variants/s17/r65w2dp8t4w2t4dp8w2g32w2r8ri4dp2ri4r8w2dp16~x2/sett.png)|
+| [Birral, Burrell](/variants/s17/ri65w2p8t4w2t4p8w2g32w2ri8r4p2r4ri8w2p16~x2/)|
+|![Birral, Burrell example sett](/variants/s17/ri65w2p8t4w2t4p8w2g32w2ri8r4p2r4ri8w2p16~x2/sett.png)|

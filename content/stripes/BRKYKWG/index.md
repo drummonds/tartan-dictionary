@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch House 2000 Dress](/setts/s7/g22w3k2ly3k19r18db4~x2/)|
-|![Scotch House 2000 Dress example sett](/setts/s7/g22w3k2ly3k19r18db4~x2/sett.png)|
+| [Scotch House 2000 Dress](/variants/s7/g22w3k2ly3k19r18db4~x2/)|
+|![Scotch House 2000 Dress example sett](/variants/s7/g22w3k2ly3k19r18db4~x2/sett.png)|

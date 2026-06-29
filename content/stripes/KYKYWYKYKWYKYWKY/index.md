@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corps Suevia Heidelburg (Corporate)](/setts/s16/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/)|
-|![Corps Suevia Heidelburg (Corporate) example sett](/setts/s16/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/sett.png)|
+| [Corps Suevia Heidelburg (Corporate)](/variants/s16/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/)|
+|![Corps Suevia Heidelburg (Corporate) example sett](/variants/s16/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/sett.png)|

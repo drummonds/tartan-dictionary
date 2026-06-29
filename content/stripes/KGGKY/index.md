@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perry Ancient (Personal)](/setts/s5/k75y26y3k4ly6~x2/)|
-|![Perry Ancient (Personal) example sett](/setts/s5/k75y26y3k4ly6~x2/sett.png)|
+| [Perry Ancient (Personal)](/variants/s5/k75y26y3k4ly6~x2/)|
+|![Perry Ancient (Personal) example sett](/variants/s5/k75y26y3k4ly6~x2/sett.png)|

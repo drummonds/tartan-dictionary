@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Forces Thurso (Military)](/setts/s7/db40r3k10lo2lr15w2lr4~x2/)|
-|![U.S. Forces Thurso (Military) example sett](/setts/s7/db40r3k10lo2lr15w2lr4~x2/sett.png)|
+| [U.S. Forces Thurso (Military)](/variants/s7/db40r3k10lo2lr15w2lr4~x2/)|
+|![U.S. Forces Thurso (Military) example sett](/variants/s7/db40r3k10lo2lr15w2lr4~x2/sett.png)|

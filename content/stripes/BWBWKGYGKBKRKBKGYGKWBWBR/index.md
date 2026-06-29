@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilbarchan Unidentified No. 2](/setts/s24/r3k1t14k13g14ly3g14k14w4t4w23t1r3~x2/)|
-|![Kilbarchan Unidentified No. 2 example sett](/setts/s24/r3k1t14k13g14ly3g14k14w4t4w23t1r3~x2/sett.png)|
+| [Kilbarchan Unidentified No. 2](/variants/s24/r3k1t14k13g14ly3g14k14w4t4w23t1r3~x2/)|
+|![Kilbarchan Unidentified No. 2 example sett](/variants/s24/r3k1t14k13g14ly3g14k14w4t4w23t1r3~x2/sett.png)|

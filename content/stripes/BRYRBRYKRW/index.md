@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Selkirk High (Corporate)](/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/)|
-|![Selkirk High (Corporate) example sett](/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/sett.png)|
+| [Selkirk High (Corporate)](/variants/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/)|
+|![Selkirk High (Corporate) example sett](/variants/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/sett.png)|

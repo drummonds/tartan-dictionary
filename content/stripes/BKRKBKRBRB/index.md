@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber (Ingles Buchan)](/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/)|
-|![Lochaber (Ingles Buchan) example sett](/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/sett.png)|
+| [Lochaber (Ingles Buchan)](/variants/s10/do6o4n22r4k22do22k2r5k2do6~x2/)|
+|![Lochaber (Ingles Buchan) example sett](/variants/s10/do6o4n22r4k22do22k2r5k2do6~x2/sett.png)|

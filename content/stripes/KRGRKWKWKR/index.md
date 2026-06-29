@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Woodberry Forest School (Corporate)](/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/)|
-|![Woodberry Forest School (Corporate) example sett](/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/sett.png)|
+| [Woodberry Forest School (Corporate)](/variants/s10/r6k3w3k3w3k34r6g5r6k5~x2/)|
+|![Woodberry Forest School (Corporate) example sett](/variants/s10/r6k3w3k3w3k34r6g5r6k5~x2/sett.png)|

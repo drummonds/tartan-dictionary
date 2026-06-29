@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louisville Fire & Rescue P&D](/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/)|
-|![Louisville Fire & Rescue P&D example sett](/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/sett.png)|
+| [Louisville Fire & Rescue P&D](/variants/s9/w1db8r3db2r1db2r3db8lo1~x4/)|
+|![Louisville Fire & Rescue P&D example sett](/variants/s9/w1db8r3db2r1db2r3db8lo1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leung (Personal)](/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/)|
-|![Leung (Personal) example sett](/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/sett.png)|
+| [Leung (Personal)](/variants/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/)|
+|![Leung (Personal) example sett](/variants/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/sett.png)|

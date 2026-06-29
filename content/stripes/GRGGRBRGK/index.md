@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Land's End (Unnamed Maroon)](/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/)|
-|![Land's End (Unnamed Maroon) example sett](/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/sett.png)|
+| [Land's End (Unnamed Maroon)](/variants/s9/k23y2m3db7m3y2dg15m21y5~x2/)|
+|![Land's End (Unnamed Maroon) example sett](/variants/s9/k23y2m3db7m3y2dg15m21y5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Callanish (District)](/setts/s11/ly2o2n2y2o6y3o3n3y2o2ly2~x2/)|
-|![Callanish (District) example sett](/setts/s11/ly2o2n2y2o6y3o3n3y2o2ly2~x2/sett.png)|
+| [Callanish (District)](/variants/s11/ly2o2n2y2o6y3o3n3y2o2ly2~x2/)|
+|![Callanish (District) example sett](/variants/s11/ly2o2n2y2o6y3o3n3y2o2ly2~x2/sett.png)|

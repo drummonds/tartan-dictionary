@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Uddingston Rugby Club Centenary (Cor](/setts/s9/r24b14lo2b3k2b6r38lo1lr2~x2/)|
-|![Uddingston Rugby Club Centenary (Cor example sett](/setts/s9/r24b14lo2b3k2b6r38lo1lr2~x2/sett.png)|
+| [Uddingston Rugby Club Centenary (Cor](/variants/s9/r24b14lo2b3k2b6r38lo1lr2~x2/)|
+|![Uddingston Rugby Club Centenary (Cor example sett](/variants/s9/r24b14lo2b3k2b6r38lo1lr2~x2/sett.png)|

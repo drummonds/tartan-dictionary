@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Art Pewter Silver](/setts/s8/db12k4y12ly1y12k4db8r3~x2/)|
-|![Art Pewter Silver example sett](/setts/s8/db12k4y12ly1y12k4db8r3~x2/sett.png)|
+| [Art Pewter Silver](/variants/s8/db12k4y12ly1y12k4db8r3~x2/)|
+|![Art Pewter Silver example sett](/variants/s8/db12k4y12ly1y12k4db8r3~x2/sett.png)|

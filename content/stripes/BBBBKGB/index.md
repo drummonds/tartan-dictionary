@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saorsa](/setts/s7/dp18dg24k3db6dp2db5dp18~x2/)|
-|![Saorsa example sett](/setts/s7/dp18dg24k3db6dp2db5dp18~x2/sett.png)|
+| [Saorsa](/variants/s7/dp18dg24k3db6dp2db5dp18~x2/)|
+|![Saorsa example sett](/variants/s7/dp18dg24k3db6dp2db5dp18~x2/sett.png)|

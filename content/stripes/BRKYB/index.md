@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thomas, Jean Marc (Personal)](/setts/s5/t72r16k5ly2dt16~x2/)|
-|![Thomas, Jean Marc (Personal) example sett](/setts/s5/t72r16k5ly2dt16~x2/sett.png)|
+| [Thomas, Jean Marc (Personal)](/variants/s5/t72r16k5ly2dt16~x2/)|
+|![Thomas, Jean Marc (Personal) example sett](/variants/s5/t72r16k5ly2dt16~x2/sett.png)|

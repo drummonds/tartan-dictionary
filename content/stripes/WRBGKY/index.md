@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Christie (London) (Personal)](/setts/s6/w5r25t18g4k2ly5~x2/)|
-|![Christie (London) (Personal) example sett](/setts/s6/w5r25t18g4k2ly5~x2/sett.png)|
+| [Christie (London) (Personal)](/variants/s6/w5r25t18g4k2ly5~x2/)|
+|![Christie (London) (Personal) example sett](/variants/s6/w5r25t18g4k2ly5~x2/sett.png)|

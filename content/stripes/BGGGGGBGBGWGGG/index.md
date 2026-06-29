@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beechgrove Garden, The](/setts/s14/dp2g25dg8g2dg2g25dp2g2dp6g2w2g4dg16g2~x2/)|
-|![Beechgrove Garden, The example sett](/setts/s14/dp2g25dg8g2dg2g25dp2g2dp6g2w2g4dg16g2~x2/sett.png)|
+| [Beechgrove Garden, The](/variants/s14/dp2g25dg8g2dg2g25dp2g2dp6g2w2g4dg16g2~x2/)|
+|![Beechgrove Garden, The example sett](/variants/s14/dp2g25dg8g2dg2g25dp2g2dp6g2w2g4dg16g2~x2/sett.png)|

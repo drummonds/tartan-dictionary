@@ -24,9 +24,9 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cameron Hose #2](/setts/s8/r3k2r23ri3r3w23r3ri3~x2/)|
-|![Cameron Hose #2 example sett](/setts/s8/r3k2r23ri3r3w23r3ri3~x2/sett.png)|
-| [Cameron, Hose for E](/setts/s8/r3ri3w23ri3r3ri23k2ri3~x2/)|
-|![Cameron, Hose for E example sett](/setts/s8/r3ri3w23ri3r3ri23k2ri3~x2/sett.png)|
-| [Hose #2](/setts/s8/r3k2r23ri3r3lb23r3ri3~x2/)|
-|![Hose #2 example sett](/setts/s8/r3k2r23ri3r3lb23r3ri3~x2/sett.png)|
+| [Cameron Hose #2](/variants/s8/r3k2r23ri3r3w23r3ri3~x2/)|
+|![Cameron Hose #2 example sett](/variants/s8/r3k2r23ri3r3w23r3ri3~x2/sett.png)|
+| [Cameron, Hose for E](/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2/)|
+|![Cameron, Hose for E example sett](/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2/sett.png)|
+| [Hose #2](/variants/s8/r3k2r23ri3r3lb23r3ri3~x2/)|
+|![Hose #2 example sett](/variants/s8/r3k2r23ri3r3lb23r3ri3~x2/sett.png)|

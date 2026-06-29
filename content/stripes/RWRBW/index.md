@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Morar](/setts/s5/r38w9r3dr9w3~x2/)|
-|![Loch Morar example sett](/setts/s5/r38w9r3dr9w3~x2/sett.png)|
-| [Loch Morar Trade Tartan Tartan Number: 1701. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/r38w9r3do9w3~x2/)|
-|![Loch Morar Trade Tartan Tartan Number: 1701. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/r38w9r3do9w3~x2/sett.png)|
-| [Loch Tummel](/setts/s5/o38w9o3dr9w3~x2/)|
-|![Loch Tummel example sett](/setts/s5/o38w9o3dr9w3~x2/sett.png)|
+| [Loch Morar](/variants/s5/r38w9r3dr9w3~x2/)|
+|![Loch Morar example sett](/variants/s5/r38w9r3dr9w3~x2/sett.png)|
+| [Loch Morar Trade Tartan](/variants/s5/r38w9r3do9w3~x2/)|
+|![Loch Morar Trade Tartan example sett](/variants/s5/r38w9r3do9w3~x2/sett.png)|
+| [Loch Tummel](/variants/s5/o38w9o3dr9w3~x2/)|
+|![Loch Tummel example sett](/variants/s5/o38w9o3dr9w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hovington (2014)](/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/)|
-|![Hovington (2014) example sett](/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/sett.png)|
+| [Hovington (2014)](/variants/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/)|
+|![Hovington (2014) example sett](/variants/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/sett.png)|

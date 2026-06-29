@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haileybury Pipe Band (Corporate)](/setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/)|
-|![Haileybury Pipe Band (Corporate) example sett](/setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/sett.png)|
+| [Haileybury Pipe Band (Corporate)](/variants/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/)|
+|![Haileybury Pipe Band (Corporate) example sett](/variants/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/sett.png)|

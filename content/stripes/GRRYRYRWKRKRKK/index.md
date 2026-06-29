@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Downs Dress (Personal)](/setts/s14/k68k1r6k4r1k12w1r6ly1r24ly1r2r3g3~x2/)|
-|![Downs Dress (Personal) example sett](/setts/s14/k68k1r6k4r1k12w1r6ly1r24ly1r2r3g3~x2/sett.png)|
+| [Downs Dress (Personal)](/variants/s14/k68k1r6k4r1k12w1r6ly1r24ly1r2r3g3~x2/)|
+|![Downs Dress (Personal) example sett](/variants/s14/k68k1r6k4r1k12w1r6ly1r24ly1r2r3g3~x2/sett.png)|

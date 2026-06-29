@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swiss Highlander](/setts/s10/gi12g24b48r23w8r23b24ly4g12gi12/)|
-|![Swiss Highlander example sett](/setts/s10/gi12g24b48r23w8r23b24ly4g12gi12/sett.png)|
-| [Swiss Highlander (Corporate)](/setts/s10/dg12g24t48r23w8r23t24ly4g12dg12/)|
-|![Swiss Highlander (Corporate) example sett](/setts/s10/dg12g24t48r23w8r23t24ly4g12dg12/sett.png)|
+| [Swiss Highlander](/variants/s10/gi12g24b48r23w8r23b24ly4g12gi12/)|
+|![Swiss Highlander example sett](/variants/s10/gi12g24b48r23w8r23b24ly4g12gi12/sett.png)|
+| [Swiss Highlander (Corporate)](/variants/s10/dg12g24t48r23w8r23t24ly4g12dg12/)|
+|![Swiss Highlander (Corporate) example sett](/variants/s10/dg12g24t48r23w8r23t24ly4g12dg12/sett.png)|

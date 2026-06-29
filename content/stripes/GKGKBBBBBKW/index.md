@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Rugby Union (City of Nagasaki)](/setts/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/)|
-|![Scottish Rugby Union (City of Nagasaki) example sett](/setts/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/sett.png)|
+| [Scottish Rugby Union (City of Nagasaki)](/variants/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/)|
+|![Scottish Rugby Union (City of Nagasaki) example sett](/variants/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/sett.png)|

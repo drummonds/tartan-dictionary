@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dick (Personal)](/setts/s7/k5g30ly3b15k15b7w3~x2/)|
-|![Dick (Personal) example sett](/setts/s7/k5g30ly3b15k15b7w3~x2/sett.png)|
+| [Dick (Personal)](/variants/s7/k5g30ly3b15k15b7w3~x2/)|
+|![Dick (Personal) example sett](/variants/s7/k5g30ly3b15k15b7w3~x2/sett.png)|

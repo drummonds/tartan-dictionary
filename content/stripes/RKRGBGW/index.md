@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MTV](/setts/s7/r5k3r9dg56t4dg2w3/)|
-|![MTV example sett](/setts/s7/r5k3r9dg56t4dg2w3/sett.png)|
+| [MTV](/variants/s7/r5k3r9dg56t4dg2w3/)|
+|![MTV example sett](/variants/s7/r5k3r9dg56t4dg2w3/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nicolson of the Isles (Personal)](/setts/s7/w2r12lg5lb35b4r4ly2~x2/)|
-|![Nicolson of the Isles (Personal) example sett](/setts/s7/w2r12lg5lb35b4r4ly2~x2/sett.png)|
+| [Nicolson of the Isles (Personal)](/variants/s7/w2r12lg5lb35b4r4ly2~x2/)|
+|![Nicolson of the Isles (Personal) example sett](/variants/s7/w2r12lg5lb35b4r4ly2~x2/sett.png)|

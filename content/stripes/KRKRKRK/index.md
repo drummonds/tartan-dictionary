@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell of Lochlane](/setts/s7/k2r1k6r6k1r1k1~x4/)|
-|![Campbell of Lochlane example sett](/setts/s7/k2r1k6r6k1r1k1~x4/sett.png)|
+| [Campbell of Lochlane](/variants/s7/k2r1k6r6k1r1k1~x4/)|
+|![Campbell of Lochlane example sett](/variants/s7/k2r1k6r6k1r1k1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inglis (Name)](/setts/s6/lr4g24db10r3db12lo4~x2/)|
-|![Inglis (Name) example sett](/setts/s6/lr4g24db10r3db12lo4~x2/sett.png)|
+| [Inglis (Name)](/variants/s6/lr4g24db10r3db12lo4~x2/)|
+|![Inglis (Name) example sett](/variants/s6/lr4g24db10r3db12lo4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Institute of Sport](/setts/s14/ly4ri23r4ri2r4t19w4t19r4ri2r4ri23ly4ri2~x2/)|
-|![Scottish Institute of Sport example sett](/setts/s14/ly4ri23r4ri2r4t19w4t19r4ri2r4ri23ly4ri2~x2/sett.png)|
+| [Scottish Institute of Sport](/variants/s14/ly4ri23r4ri2r4t19w4t19r4ri2r4ri23ly4ri2~x2/)|
+|![Scottish Institute of Sport example sett](/variants/s14/ly4ri23r4ri2r4t19w4t19r4ri2r4ri23ly4ri2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Widows Sons Scotland Dress](/setts/s6/lb12dg16k12dg24dp75lo4/)|
-|![Widows Sons Scotland Dress example sett](/setts/s6/lb12dg16k12dg24dp75lo4/sett.png)|
-| [Widows Sons Scotland Dress](/setts/s6/lb12g12k12g24dp75ly4/)|
-|![Widows Sons Scotland Dress example sett](/setts/s6/lb12g12k12g24dp75ly4/sett.png)|
+| [Widows Sons Scotland Dress](/variants/s6/lb12dg16k12dg24dp75lo4/)|
+|![Widows Sons Scotland Dress example sett](/variants/s6/lb12dg16k12dg24dp75lo4/sett.png)|
+| [Widows Sons Scotland Dress](/variants/s6/lb12g12k12g24dp75ly4/)|
+|![Widows Sons Scotland Dress example sett](/variants/s6/lb12g12k12g24dp75ly4/sett.png)|

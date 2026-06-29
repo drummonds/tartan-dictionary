@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal College of Midwives](/setts/s9/ly5lb3k1lb6n11lb3b3lb43w3~x2/)|
-|![Royal College of Midwives example sett](/setts/s9/ly5lb3k1lb6n11lb3b3lb43w3~x2/sett.png)|
+| [Royal College of Midwives](/variants/s9/ly5lb3k1lb6n11lb3b3lb43w3~x2/)|
+|![Royal College of Midwives example sett](/variants/s9/ly5lb3k1lb6n11lb3b3lb43w3~x2/sett.png)|

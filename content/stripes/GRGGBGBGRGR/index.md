@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University Plaid](/setts/s11/dg4r1dg3y1db3y1db3y1r4dg3r4~x2/)|
-|![University Plaid example sett](/setts/s11/dg4r1dg3y1db3y1db3y1r4dg3r4~x2/sett.png)|
+| [University Plaid](/variants/s11/dg4r1dg3y1db3y1db3y1r4dg3r4~x2/)|
+|![University Plaid example sett](/variants/s11/dg4r1dg3y1db3y1db3y1r4dg3r4~x2/sett.png)|

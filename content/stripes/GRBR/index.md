@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coleman, Sarah-Louise (Personal)](/setts/s4/dp3o1g2~x10/)|
-|![Coleman, Sarah-Louise (Personal) example sett](/setts/s4/dp3o1g2~x10/sett.png)|
-| [Wilson's No.062](/setts/s4/db13r2g13~x2/)|
-|![Wilson's No.062 example sett](/setts/s4/db13r2g13~x2/sett.png)|
+| [Coleman, Sarah-Louise (Personal)](/variants/s4/dp3o1g2~x10/)|
+|![Coleman, Sarah-Louise (Personal) example sett](/variants/s4/dp3o1g2~x10/sett.png)|
+| [Wilson's No.062](/variants/s4/db13r2g13~x2/)|
+|![Wilson's No.062 example sett](/variants/s4/db13r2g13~x2/sett.png)|

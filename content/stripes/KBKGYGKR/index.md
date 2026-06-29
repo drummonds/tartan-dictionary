@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aztec, New Mexico](/setts/s8/r3k8g17ly2g17k8b8k2~x2/)|
-|![Aztec, New Mexico example sett](/setts/s8/r3k8g17ly2g17k8b8k2~x2/sett.png)|
+| [Aztec, New Mexico](/variants/s8/r3k8g17ly2g17k8b8k2~x2/)|
+|![Aztec, New Mexico example sett](/variants/s8/r3k8g17ly2g17k8b8k2~x2/sett.png)|

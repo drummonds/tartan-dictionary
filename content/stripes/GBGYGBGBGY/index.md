@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Hospice (Fashion)](/setts/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/)|
-|![Highland Hospice (Fashion) example sett](/setts/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/sett.png)|
+| [Highland Hospice (Fashion)](/variants/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/)|
+|![Highland Hospice (Fashion) example sett](/variants/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish National Day](/setts/s8/k5w2ly36t47r3~x2/)|
-|![Cornish National Day example sett](/setts/s8/k5w2ly36t47r3~x2/sett.png)|
+| [Cornish National Day](/variants/s8/k5w2ly36t47r3~x2/)|
+|![Cornish National Day example sett](/variants/s8/k5w2ly36t47r3~x2/sett.png)|

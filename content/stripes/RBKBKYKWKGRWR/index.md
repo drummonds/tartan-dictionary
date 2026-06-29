@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Christie](/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/)|
-|![Christie example sett](/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/sett.png)|
-| [Christie](/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/)|
-|![Christie example sett](/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/sett.png)|
+| [Christie](/variants/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/)|
+|![Christie example sett](/variants/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/sett.png)|
+| [Christie](/variants/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/)|
+|![Christie example sett](/variants/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/sett.png)|

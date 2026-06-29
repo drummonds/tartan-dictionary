@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Pharmaceutical, Society](/setts/s9/o3lb2g19lb6g2lb6oi14m4w2~x2/)|
-|![Royal Pharmaceutical, Society example sett](/setts/s9/o3lb2g19lb6g2lb6oi14m4w2~x2/sett.png)|
+| [Royal Pharmaceutical, Society](/variants/s9/o3lb2g19lb6g2lb6oi14m4w2~x2/)|
+|![Royal Pharmaceutical, Society example sett](/variants/s9/o3lb2g19lb6g2lb6oi14m4w2~x2/sett.png)|

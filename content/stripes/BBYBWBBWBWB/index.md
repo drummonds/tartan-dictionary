@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Goil Dress](/setts/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/)|
-|![Goil Dress example sett](/setts/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/sett.png)|
+| [Goil Dress](/variants/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/)|
+|![Goil Dress example sett](/variants/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/sett.png)|

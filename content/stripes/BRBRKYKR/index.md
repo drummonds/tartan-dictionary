@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1~x2/)|
-|![Leslie Dress example sett](/setts/s8/r4k6ly1k6r4db16r32db1~x2/sett.png)|
+| [Leslie Dress](/variants/s8/r4k6ly1k6r4db16r32db1~x2/)|
+|![Leslie Dress example sett](/variants/s8/r4k6ly1k6r4db16r32db1~x2/sett.png)|

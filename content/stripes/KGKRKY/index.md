@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kalkofen (Name)](/setts/s6/k40dg15k10r2k10lo2~x2/)|
-|![Kalkofen (Name) example sett](/setts/s6/k40dg15k10r2k10lo2~x2/sett.png)|
+| [Kalkofen (Name)](/variants/s6/k40dg15k10r2k10lo2~x2/)|
+|![Kalkofen (Name) example sett](/variants/s6/k40dg15k10r2k10lo2~x2/sett.png)|

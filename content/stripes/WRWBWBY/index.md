@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson, Blue & White](/setts/s7/w5r3w26db21w3db8ly3~x2/)|
-|![MacPherson, Blue & White example sett](/setts/s7/w5r3w26db21w3db8ly3~x2/sett.png)|
+| [MacPherson, Blue & White](/variants/s7/w5r3w26db21w3db8ly3~x2/)|
+|![MacPherson, Blue & White example sett](/variants/s7/w5r3w26db21w3db8ly3~x2/sett.png)|

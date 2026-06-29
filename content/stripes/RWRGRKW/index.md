@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MMK 1777](/setts/s7/w30k1r7dg7r8w1r2~x4/)|
-|![MMK 1777 example sett](/setts/s7/w30k1r7dg7r8w1r2~x4/sett.png)|
+| [MMK 1777](/variants/s7/w30k1r7dg7r8w1r2~x4/)|
+|![MMK 1777 example sett](/variants/s7/w30k1r7dg7r8w1r2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arran - 1989 (Fashion)](/setts/s8/t12k1t1k1t1db8w9o2~x4/)|
-|![Arran - 1989 (Fashion) example sett](/setts/s8/t12k1t1k1t1db8w9o2~x4/sett.png)|
+| [Arran - 1989 (Fashion)](/variants/s8/t12k1t1k1t1db8w9o2~x4/)|
+|![Arran - 1989 (Fashion) example sett](/variants/s8/t12k1t1k1t1db8w9o2~x4/sett.png)|

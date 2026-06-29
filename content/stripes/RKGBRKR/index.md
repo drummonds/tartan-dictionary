@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sandberg](/setts/s7/r3k12g4db12r1k2r1~x4/)|
-|![Sandberg example sett](/setts/s7/r3k12g4db12r1k2r1~x4/sett.png)|
+| [Sandberg](/variants/s7/r3k12g4db12r1k2r1~x4/)|
+|![Sandberg example sett](/variants/s7/r3k12g4db12r1k2r1~x4/sett.png)|

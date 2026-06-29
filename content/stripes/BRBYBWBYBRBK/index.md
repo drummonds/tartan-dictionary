@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wishart Dress](/setts/s12/k7dbi4r31db3ly2db27lb4~x2/)|
-|![Wishart Dress example sett](/setts/s12/k7dbi4r31db3ly2db27lb4~x2/sett.png)|
+| [Wishart Dress](/variants/s12/k7dbi4r31db3ly2db27lb4~x2/)|
+|![Wishart Dress example sett](/variants/s12/k7dbi4r31db3ly2db27lb4~x2/sett.png)|

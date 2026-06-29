@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clerk](/setts/s6/db5k1dg1k1r3k1~x4/)|
-|![Clerk example sett](/setts/s6/db5k1dg1k1r3k1~x4/sett.png)|
-| [Clerk](/setts/s6/db5k1g1k1r3k1~x4/)|
-|![Clerk example sett](/setts/s6/db5k1g1k1r3k1~x4/sett.png)|
+| [Clerk](/variants/s6/db5k1dg1k1r3k1~x4/)|
+|![Clerk example sett](/variants/s6/db5k1dg1k1r3k1~x4/sett.png)|
+| [Clerk](/variants/s6/db5k1g1k1r3k1~x4/)|
+|![Clerk example sett](/variants/s6/db5k1g1k1r3k1~x4/sett.png)|

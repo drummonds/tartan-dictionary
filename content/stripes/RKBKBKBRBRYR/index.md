@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cailean #2 (Fashion)](/setts/s12/o4k12db2k2db2k2db2oi16dr3oi2lr2oi4~x2/)|
-|![Cailean #2 (Fashion) example sett](/setts/s12/o4k12db2k2db2k2db2oi16dr3oi2lr2oi4~x2/sett.png)|
+| [Cailean #2 (Fashion)](/variants/s12/o4k12db2k2db2k2db2oi16dr3oi2lr2oi4~x2/)|
+|![Cailean #2 (Fashion) example sett](/variants/s12/o4k12db2k2db2k2db2oi16dr3oi2lr2oi4~x2/sett.png)|

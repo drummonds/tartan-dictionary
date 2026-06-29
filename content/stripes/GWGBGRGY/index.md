@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vermont](/setts/s8/g1lb1g6db5dg6r1dg1ly1~x4/)|
-|![Vermont example sett](/setts/s8/g1lb1g6db5dg6r1dg1ly1~x4/sett.png)|
+| [Vermont](/variants/s8/g1lb1g6db5dg6r1dg1ly1~x4/)|
+|![Vermont example sett](/variants/s8/g1lb1g6db5dg6r1dg1ly1~x4/sett.png)|

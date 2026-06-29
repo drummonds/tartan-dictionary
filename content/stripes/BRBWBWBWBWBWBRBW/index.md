@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jeux Canada Games '87](/setts/s16/db6r5db3w2db3w2db3w16db3w2db3w2db3r5db6w2~x2/)|
-|![Jeux Canada Games '87 example sett](/setts/s16/db6r5db3w2db3w2db3w16db3w2db3w2db3r5db6w2~x2/sett.png)|
+| [Jeux Canada Games '87](/variants/s16/db6r5db3w2db3w2db3w16db3w2db3w2db3r5db6w2~x2/)|
+|![Jeux Canada Games '87 example sett](/variants/s16/db6r5db3w2db3w2db3w16db3w2db3w2db3r5db6w2~x2/sett.png)|

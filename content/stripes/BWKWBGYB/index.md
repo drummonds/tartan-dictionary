@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boat of Garten](/setts/s8/db62w4k2w7dp2dg3ly2db16~x2/)|
-|![Boat of Garten example sett](/setts/s8/db62w4k2w7dp2dg3ly2db16~x2/sett.png)|
+| [Boat of Garten](/variants/s8/db62w4k2w7dp2dg3ly2db16~x2/)|
+|![Boat of Garten example sett](/variants/s8/db62w4k2w7dp2dg3ly2db16~x2/sett.png)|

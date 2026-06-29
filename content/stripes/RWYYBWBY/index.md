@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Comrie, Gold (Dance)](/setts/s8/ly42db2w2db2ly5lyi12w32r4~x2/)|
-|![Comrie, Gold (Dance) example sett](/setts/s8/ly42db2w2db2ly5lyi12w32r4~x2/sett.png)|
+| [Comrie, Gold (Dance)](/variants/s8/ly42db2w2db2ly5lyi12w32r4~x2/)|
+|![Comrie, Gold (Dance) example sett](/variants/s8/ly42db2w2db2ly5lyi12w32r4~x2/sett.png)|

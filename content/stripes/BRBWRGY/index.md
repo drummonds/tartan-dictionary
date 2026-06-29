@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barneys (Scunthorpe) (Personal)](/setts/s7/t25r10t25w8m6g8ly5~x2/)|
-|![Barneys (Scunthorpe) (Personal) example sett](/setts/s7/t25r10t25w8m6g8ly5~x2/sett.png)|
+| [Barneys (Scunthorpe) (Personal)](/variants/s7/t25r10t25w8m6g8ly5~x2/)|
+|![Barneys (Scunthorpe) (Personal) example sett](/variants/s7/t25r10t25w8m6g8ly5~x2/sett.png)|

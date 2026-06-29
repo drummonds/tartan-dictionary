@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Limerick County Crest (Fashion)](/setts/s6/w12k3g50w3k13lo6~x2/)|
-|![Limerick County Crest (Fashion) example sett](/setts/s6/w12k3g50w3k13lo6~x2/sett.png)|
+| [Limerick County Crest (Fashion)](/variants/s6/w12k3g50w3k13lo6~x2/)|
+|![Limerick County Crest (Fashion) example sett](/variants/s6/w12k3g50w3k13lo6~x2/sett.png)|

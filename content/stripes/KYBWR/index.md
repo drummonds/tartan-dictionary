@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oklahoma](/setts/s5/k8ly2b21w3r2~x4/)|
-|![Oklahoma example sett](/setts/s5/k8ly2b21w3r2~x4/sett.png)|
+| [Oklahoma](/variants/s5/k8ly2b21w3r2~x4/)|
+|![Oklahoma example sett](/variants/s5/k8ly2b21w3r2~x4/sett.png)|

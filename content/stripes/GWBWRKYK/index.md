@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clan MacLeod Societies of Canada](/setts/s8/k4ly2k4r29w29db4w2g4~x2/)|
-|![Clan MacLeod Societies of Canada example sett](/setts/s8/k4ly2k4r29w29db4w2g4~x2/sett.png)|
+| [Clan MacLeod Societies of Canada](/variants/s8/k4ly2k4r29w29db4w2g4~x2/)|
+|![Clan MacLeod Societies of Canada example sett](/variants/s8/k4ly2k4r29w29db4w2g4~x2/sett.png)|

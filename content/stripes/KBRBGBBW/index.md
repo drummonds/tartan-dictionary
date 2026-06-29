@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Albannach](/setts/s8/k4dp2r7dp60y15db60b5w3/)|
-|![Albannach example sett](/setts/s8/k4dp2r7dp60y15db60b5w3/sett.png)|
-| [Albannach (Corporate)](/setts/s8/k4dp2r7dp60y15dt60n5w3/)|
-|![Albannach (Corporate) example sett](/setts/s8/k4dp2r7dp60y15dt60n5w3/sett.png)|
+| [Albannach](/variants/s8/k4dp2r7dp60y15db60b5w3/)|
+|![Albannach example sett](/variants/s8/k4dp2r7dp60y15db60b5w3/sett.png)|
+| [Albannach (Corporate)](/variants/s8/k4dp2r7dp60y15dt60n5w3/)|
+|![Albannach (Corporate) example sett](/variants/s8/k4dp2r7dp60y15dt60n5w3/sett.png)|

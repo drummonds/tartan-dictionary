@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCuaig (Glenelg and the Western Isles) Hunting](/setts/s9/k20db2k2db4dg4ly2k40r2w3~x2/)|
-|![McCuaig (Glenelg and the Western Isles) Hunting example sett](/setts/s9/k20db2k2db4dg4ly2k40r2w3~x2/sett.png)|
+| [McCuaig (Glenelg and the Western Isles) Hunting](/variants/s9/k20db2k2db4dg4ly2k40r2w3~x2/)|
+|![McCuaig (Glenelg and the Western Isles) Hunting example sett](/variants/s9/k20db2k2db4dg4ly2k40r2w3~x2/sett.png)|

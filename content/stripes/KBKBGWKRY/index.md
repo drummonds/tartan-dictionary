@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Teall of Teallach](/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/)|
-|![Teall of Teallach example sett](/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/sett.png)|
-| [Teall of Teallach (Personal)](/setts/s9/k2t6k1db7g13w1k11r14ly2~x2/)|
-|![Teall of Teallach (Personal) example sett](/setts/s9/k2t6k1db7g13w1k11r14ly2~x2/sett.png)|
+| [Teall of Teallach](/variants/s9/k2t6k1db7dg13w1k11r14ly2~x2/)|
+|![Teall of Teallach example sett](/variants/s9/k2t6k1db7dg13w1k11r14ly2~x2/sett.png)|
+| [Teall of Teallach (Personal)](/variants/s9/k2t6k1db7g13w1k11r14ly2~x2/)|
+|![Teall of Teallach (Personal) example sett](/variants/s9/k2t6k1db7g13w1k11r14ly2~x2/sett.png)|

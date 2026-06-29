@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Scottish Pipe Band Association](/setts/s12/lb6ki1t20r2g3r2ki15r2g3r2ki6k3~x2/)|
-|![Royal Scottish Pipe Band Association example sett](/setts/s12/lb6ki1t20r2g3r2ki15r2g3r2ki6k3~x2/sett.png)|
+| [Royal Scottish Pipe Band Association](/variants/s12/lb6ki1t20r2g3r2ki15r2g3r2ki6k3~x2/)|
+|![Royal Scottish Pipe Band Association example sett](/variants/s12/lb6ki1t20r2g3r2ki15r2g3r2ki6k3~x2/sett.png)|

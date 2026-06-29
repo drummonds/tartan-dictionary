@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Delaware Fine Spirits Guild](/setts/s6/k10g25k10lg15w1lg5~x2/)|
-|![Delaware Fine Spirits Guild example sett](/setts/s6/k10g25k10lg15w1lg5~x2/sett.png)|
+| [Delaware Fine Spirits Guild](/variants/s6/k10g25k10lg15w1lg5~x2/)|
+|![Delaware Fine Spirits Guild example sett](/variants/s6/k10g25k10lg15w1lg5~x2/sett.png)|

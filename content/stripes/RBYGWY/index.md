@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundhuin Gold](/setts/s6/o59t28ly5dg3w4ly5~x2/)|
-|![Dundhuin Gold example sett](/setts/s6/o59t28ly5dg3w4ly5~x2/sett.png)|
+| [Dundhuin Gold](/variants/s6/o59t28ly5dg3w4ly5~x2/)|
+|![Dundhuin Gold example sett](/variants/s6/o59t28ly5dg3w4ly5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nicolson of Harris (Clan?)](/setts/s6/r3dbi15db8g5k2w1~x2/)|
-|![Nicolson of Harris (Clan?) example sett](/setts/s6/r3dbi15db8g5k2w1~x2/sett.png)|
+| [Nicolson of Harris (Clan?)](/variants/s6/r3dbi15db8g5k2w1~x2/)|
+|![Nicolson of Harris (Clan?) example sett](/variants/s6/r3dbi15db8g5k2w1~x2/sett.png)|

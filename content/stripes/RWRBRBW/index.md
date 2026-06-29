@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Fisherwife's Plaid](/setts/s7/w80t1r14t9r24w2r4~x2/)|
-|![Unidentified Fisherwife's Plaid example sett](/setts/s7/w80t1r14t9r24w2r4~x2/sett.png)|
+| [Unidentified Fisherwife's Plaid](/variants/s7/w80t1r14t9r24w2r4~x2/)|
+|![Unidentified Fisherwife's Plaid example sett](/variants/s7/w80t1r14t9r24w2r4~x2/sett.png)|

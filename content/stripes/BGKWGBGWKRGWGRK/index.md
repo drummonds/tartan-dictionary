@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gayre](/setts/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/)|
-|![Gayre example sett](/setts/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/sett.png)|
+| [Gayre](/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/)|
+|![Gayre example sett](/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/sett.png)|

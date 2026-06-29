@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Leonards (Corporate)](/setts/s8/r16db2o6r3k4t2db40t6~x2/)|
-|![St. Leonards (Corporate) example sett](/setts/s8/r16db2o6r3k4t2db40t6~x2/sett.png)|
+| [St. Leonards (Corporate)](/variants/s8/r16db2o6r3k4t2db40t6~x2/)|
+|![St. Leonards (Corporate) example sett](/variants/s8/r16db2o6r3k4t2db40t6~x2/sett.png)|

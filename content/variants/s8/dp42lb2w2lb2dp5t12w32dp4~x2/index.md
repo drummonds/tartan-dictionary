@@ -1,0 +1,65 @@
+---
+title: "Longniddry Dress (Dance)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp42lb2w2lb2dp5t12w32dp4/)
+(the same proportion at any scale), whose colour order is pattern [BWBBWWWB](/stripes/bwbbwwwb/).
+
+Part of the [Longniddry Dress](/tartans/longniddry-dress/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2207
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Longniddry Dress, Red
+- Longniddry Purple
+- Longniddry, dress
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Longniddry Dress (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2207">record</a>)</li>
+<li>01/01/2002 — Longniddry Purple (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2211">record</a>)</li>
+<li>pre 2002 — Longniddry Dress (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6559/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2211](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2211)
+- Scottish Tartans Authority (ITI): 6559
+- Scottish Tartans World Register: 88
+
+## Thread count
+P/84 LP4 LN4 LP4 P10 B24 LN64 P/8
+
+One full sett is **312 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(6 of 7 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>P/</td><td style="text-align:right;font-variant-numeric:tabular-nums">84</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>LP</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> <small style="color:#888">#A8ACE8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(76.3% 0.086 281.2)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>LP</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> <small style="color:#888">#A8ACE8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(76.3% 0.086 281.2)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> <small style="color:#888">#2888C4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(60.1% 0.125 241.5)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>P/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="P/84 LP4 LN4 LP4 P10 B24 LN64 P/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dp42lb2w2lb2dp5t12w32dp4~x2">Longniddry Dress (Dance)</a> <a class="nn-out" href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.15</div><div class="nn-name"><a href="/ttd/edit/#slug=dp42db2w2db2dp5t12w32dp4~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Longniddry Dress District Tartan</a> <a class="nn-out" href="/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.32</div><div class="nn-name"><a href="/ttd/edit/#slug=p42db2w2db2p5b12w32p4~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Longniddry, dress</a> <a class="nn-out" href="/variants/s8/p42db2w2db2p5b12w32p4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/p42db2w2db2p5b12w32p4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.85</div><div class="nn-name"><a href="/ttd/edit/#slug=t2dp1k1dp20w20dp1w2~x4&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Cunningham Dress Purple (Dance) Fashion Tartan</a> <a class="nn-out" href="/variants/s7/t2dp1k1dp20w20dp1w2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/t2dp1k1dp20w20dp1w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=w5dp2w34dp34k2dp2t4~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Cunningham Dress Purple (Dance)</a> <a class="nn-out" href="/variants/s7/w5dp2w34dp34k2dp2t4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w5dp2w34dp34k2dp2t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=db42o2lb2o2db5p12lb32db4~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Longniddry Lavender (Dance)</a> <a class="nn-out" href="/variants/s8/db42o2lb2o2db5p12lb32db4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db42o2lb2o2db5p12lb32db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=dp8db2dp24db5w26k2w8~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Lennox Purple Dress District Tartan</a> <a class="nn-out" href="/variants/s7/dp8db2dp24db5w26k2w8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=lr30lp4lr3dp2r2dp24w2~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">St. Andrew's Links Dress (Corporate)</a> <a class="nn-out" href="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.35</div><div class="nn-name"><a href="/ttd/edit/#slug=lb40k14dp22ly1dp1ly3~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">British Energy Corporate Tartan</a> <a class="nn-out" href="/variants/s6/lb40k14dp22ly1dp1ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb40k14dp22ly1dp1ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.38</div><div class="nn-name"><a href="/ttd/edit/#slug=r15n3w10n7dp40w3dp6~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Loughborough Sport</a> <a class="nn-out" href="/variants/s7/r15n3w10n7dp40w3dp6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r15n3w10n7dp40w3dp6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/ttd/edit/#slug=r25k1ly2k1ly2k1r10db18w2db12~x2&amp;base=dp42lb2w2lb2dp5t12w32dp4~x2">Richardson</a> <a class="nn-out" href="/variants/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/"><circle cx="291.5" cy="123.1" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/p42db2w2db2p5b12w32p4~x2/"><circle cx="296.5" cy="122.5" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s7/t2dp1k1dp20w20dp1w2~x4/"><circle cx="299.7" cy="120.4" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/w5dp2w34dp34k2dp2t4~x2/"><circle cx="279.0" cy="124.5" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/variants/s8/db42o2lb2o2db5p12lb32db4~x2/"><circle cx="304.5" cy="137.3" r="4" fill="#3465a4"><title>Longniddry Lavender (Dance)</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="236.7" cy="160.9" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan</title></circle></a><a href="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="282.6" cy="130.6" r="4" fill="#3465a4"><title>St. Andrew's Links Dress (Corporate)</title></circle></a><a href="/variants/s6/lb40k14dp22ly1dp1ly3~x2/"><circle cx="298.6" cy="122.8" r="4" fill="#3465a4"><title>British Energy Corporate Tartan</title></circle></a><a href="/variants/s7/r15n3w10n7dp40w3dp6~x2/"><circle cx="290.5" cy="155.0" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/variants/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/"><circle cx="262.2" cy="91.8" r="4" fill="#3465a4"><title>Richardson</title></circle></a><circle cx="291.8" cy="122.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/

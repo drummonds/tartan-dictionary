@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaw of Tordarroch Red (Dress)](/setts/s14/t5k1r30dp15r8g30r8dp2~x2/)|
-|![Shaw of Tordarroch Red (Dress) example sett](/setts/s14/t5k1r30dp15r8g30r8dp2~x2/sett.png)|
+| [Shaw of Tordarroch Red (Dress)](/variants/s14/t5k1r30dp15r8g30r8dp2~x2/)|
+|![Shaw of Tordarroch Red (Dress) example sett](/variants/s14/t5k1r30dp15r8g30r8dp2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Cumbrae (Corporate)](/setts/s7/k3y3r3y28n28lb2n2~x2/)|
-|![Isle of Cumbrae (Corporate) example sett](/setts/s7/k3y3r3y28n28lb2n2~x2/sett.png)|
+| [Isle of Cumbrae (Corporate)](/variants/s7/k3y3r3y28n28lb2n2~x2/)|
+|![Isle of Cumbrae (Corporate) example sett](/variants/s7/k3y3r3y28n28lb2n2~x2/sett.png)|

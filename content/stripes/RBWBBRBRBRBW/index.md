@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shotts & Dykehead (Corporate)](/setts/s12/w10db2r3dbi2r2db2r2n14db22w2db6r2~x2/)|
-|![Shotts & Dykehead (Corporate) example sett](/setts/s12/w10db2r3dbi2r2db2r2n14db22w2db6r2~x2/sett.png)|
+| [Shotts & Dykehead (Corporate)](/variants/s12/w10db2r3dbi2r2db2r2n14db22w2db6r2~x2/)|
+|![Shotts & Dykehead (Corporate) example sett](/variants/s12/w10db2r3dbi2r2db2r2n14db22w2db6r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kile (No red line) (Personal)](/setts/s8/db20w3db3w3db3w3k5ly10~x2/)|
-|![Kile (No red line) (Personal) example sett](/setts/s8/db20w3db3w3db3w3k5ly10~x2/sett.png)|
+| [Kile (No red line) (Personal)](/variants/s8/db20w3db3w3db3w3k5ly10~x2/)|
+|![Kile (No red line) (Personal) example sett](/variants/s8/db20w3db3w3db3w3k5ly10~x2/sett.png)|

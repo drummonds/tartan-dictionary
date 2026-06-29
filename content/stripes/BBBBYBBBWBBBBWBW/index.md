@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henbury](/setts/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/)|
-|![Henbury example sett](/setts/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/sett.png)|
+| [Henbury](/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/)|
+|![Henbury example sett](/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/sett.png)|

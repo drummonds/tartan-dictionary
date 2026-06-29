@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Scolpaig)](/setts/s18/k10t1k1r10t1k1t1r10g6r2~x4/)|
-|![Unidentified (Scolpaig) example sett](/setts/s18/k10t1k1r10t1k1t1r10g6r2~x4/sett.png)|
+| [Unidentified (Scolpaig)](/variants/s18/k10t1k1r10t1k1t1r10g6r2~x4/)|
+|![Unidentified (Scolpaig) example sett](/variants/s18/k10t1k1r10t1k1t1r10g6r2~x4/sett.png)|

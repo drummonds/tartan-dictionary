@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lauder](/setts/s6/ly2k4ly2k2ly5r1~x2/)|
-|![Lauder example sett](/setts/s6/ly2k4ly2k2ly5r1~x2/sett.png)|
+| [Lauder](/variants/s6/ly2k4ly2k2ly5r1~x2/)|
+|![Lauder example sett](/variants/s6/ly2k4ly2k2ly5r1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strath Hallidale (Fashion)](/setts/s8/g5k15g5k15g19r2g13lb4~x2/)|
-|![Strath Hallidale (Fashion) example sett](/setts/s8/g5k15g5k15g19r2g13lb4~x2/sett.png)|
+| [Strath Hallidale (Fashion)](/variants/s8/g5k15g5k15g19r2g13lb4~x2/)|
+|![Strath Hallidale (Fashion) example sett](/variants/s8/g5k15g5k15g19r2g13lb4~x2/sett.png)|

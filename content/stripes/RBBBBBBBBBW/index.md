@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Toronto Blue Jays](/setts/s11/r2dp1t13n13dp4n4dp4n4t13dp1w2~x2/)|
-|![Toronto Blue Jays example sett](/setts/s11/r2dp1t13n13dp4n4dp4n4t13dp1w2~x2/sett.png)|
+| [Toronto Blue Jays](/variants/s11/r2dp1t13n13dp4n4dp4n4t13dp1w2~x2/)|
+|![Toronto Blue Jays example sett](/variants/s11/r2dp1t13n13dp4n4dp4n4t13dp1w2~x2/sett.png)|

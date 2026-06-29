@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grainger](/setts/s12/db36r4db6g18db15k18w4~x2/)|
-|![Grainger example sett](/setts/s12/db36r4db6g18db15k18w4~x2/sett.png)|
+| [Grainger](/variants/s12/db36r4db6g18db15k18w4~x2/)|
+|![Grainger example sett](/variants/s12/db36r4db6g18db15k18w4~x2/sett.png)|

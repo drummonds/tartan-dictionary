@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Washington State University Cougar](/setts/s7/m6lb3n6o10m38lb2n4/)|
-|![Washington State University Cougar example sett](/setts/s7/m6lb3n6o10m38lb2n4/sett.png)|
+| [Washington State University Cougar](/variants/s7/m6lb3n6o10m38lb2n4/)|
+|![Washington State University Cougar example sett](/variants/s7/m6lb3n6o10m38lb2n4/sett.png)|

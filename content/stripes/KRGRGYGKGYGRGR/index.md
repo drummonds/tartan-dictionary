@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oakhall](/setts/s14/r48g6r6g12ly3g2k3g2ly3g12r6g6r48k3~x2/)|
-|![Oakhall example sett](/setts/s14/r48g6r6g12ly3g2k3g2ly3g12r6g6r48k3~x2/sett.png)|
+| [Oakhall](/variants/s14/r48g6r6g12ly3g2k3g2ly3g12r6g6r48k3~x2/)|
+|![Oakhall example sett](/variants/s14/r48g6r6g12ly3g2k3g2ly3g12r6g6r48k3~x2/sett.png)|

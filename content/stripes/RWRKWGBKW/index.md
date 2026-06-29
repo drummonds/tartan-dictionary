@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Blanket Pattern](/setts/s9/w120k2db4g3w2k2r8w2r3~x2/)|
-|![Unnamed C18th - Blanket Pattern example sett](/setts/s9/w120k2db4g3w2k2r8w2r3~x2/sett.png)|
+| [Unnamed C18th - Blanket Pattern](/variants/s9/w120k2db4g3w2k2r8w2r3~x2/)|
+|![Unnamed C18th - Blanket Pattern example sett](/variants/s9/w120k2db4g3w2k2r8w2r3~x2/sett.png)|

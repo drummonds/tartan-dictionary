@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hot Boontjie](/setts/s8/r4k32dg18k1w2k1dg4m4~x2/)|
-|![Hot Boontjie example sett](/setts/s8/r4k32dg18k1w2k1dg4m4~x2/sett.png)|
+| [Hot Boontjie](/variants/s8/r4k32dg18k1w2k1dg4m4~x2/)|
+|![Hot Boontjie example sett](/variants/s8/r4k32dg18k1w2k1dg4m4~x2/sett.png)|

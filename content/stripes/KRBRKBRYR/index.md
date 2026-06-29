@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Girl Guiding Scotland (Corporate)](/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/)|
-|![Girl Guiding Scotland (Corporate) example sett](/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/sett.png)|
+| [Girl Guiding Scotland (Corporate)](/variants/s9/k36r3db3r3k8db24r18ly3r3~x2/)|
+|![Girl Guiding Scotland (Corporate) example sett](/variants/s9/k36r3db3r3k8db24r18ly3r3~x2/sett.png)|

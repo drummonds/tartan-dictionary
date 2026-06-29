@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Care Leaver](/setts/s9/lg15k50w4m18k5b5k15ly10k4~x2/)|
-|![Care Leaver example sett](/setts/s9/lg15k50w4m18k5b5k15ly10k4~x2/sett.png)|
+| [Care Leaver](/variants/s9/lg15k50w4m18k5b5k15ly10k4~x2/)|
+|![Care Leaver example sett](/variants/s9/lg15k50w4m18k5b5k15ly10k4~x2/sett.png)|

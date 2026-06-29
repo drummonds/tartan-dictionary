@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Serco Caledonian Sleeper](/setts/s8/db18o4ri4g12lb3r2w2dp10~x2/)|
-|![Serco Caledonian Sleeper example sett](/setts/s8/db18o4ri4g12lb3r2w2dp10~x2/sett.png)|
+| [Serco Caledonian Sleeper](/variants/s8/db18o4ri4g12lb3r2w2dp10~x2/)|
+|![Serco Caledonian Sleeper example sett](/variants/s8/db18o4ri4g12lb3r2w2dp10~x2/sett.png)|

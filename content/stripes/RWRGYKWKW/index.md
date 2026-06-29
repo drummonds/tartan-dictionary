@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cumming LO](/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/)|
-|![Cumming LO example sett](/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/sett.png)|
+| [Cumming LO](/variants/s9/r4lb1r4dg10ly1k10lb4k2lb4/)|
+|![Cumming LO example sett](/variants/s9/r4lb1r4dg10ly1k10lb4k2lb4/sett.png)|

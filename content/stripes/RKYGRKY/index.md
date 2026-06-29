@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scrymgeour (Clan)](/setts/s7/r15k1lo2g3r2k1lo15~x6/)|
-|![Scrymgeour (Clan) example sett](/setts/s7/r15k1lo2g3r2k1lo15~x6/sett.png)|
+| [Scrymgeour (Clan)](/variants/s7/r15k1lo2g3r2k1lo15~x6/)|
+|![Scrymgeour (Clan) example sett](/variants/s7/r15k1lo2g3r2k1lo15~x6/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Women's Rural Institutes](/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/)|
-|![Scottish Women's Rural Institutes example sett](/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/sett.png)|
+| [Scottish Women's Rural Institutes](/variants/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/)|
+|![Scottish Women's Rural Institutes example sett](/variants/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/sett.png)|

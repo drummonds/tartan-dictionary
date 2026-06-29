@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forand (Personal)](/setts/s5/k100r1o10db10ly2~x2/)|
-|![Forand (Personal) example sett](/setts/s5/k100r1o10db10ly2~x2/sett.png)|
+| [Forand (Personal)](/variants/s5/k100r1o10db10ly2~x2/)|
+|![Forand (Personal) example sett](/variants/s5/k100r1o10db10ly2~x2/sett.png)|

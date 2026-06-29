@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brisbane (Artefact)](/setts/s8/g18w3ly1r2ly1r3ly1r10~x4/)|
-|![Brisbane (Artefact) example sett](/setts/s8/g18w3ly1r2ly1r3ly1r10~x4/sett.png)|
-| [Brisbane (Artefact)](/setts/s8/g18lb3ly1r2ly1r3ly1r10~x4/)|
-|![Brisbane (Artefact) example sett](/setts/s8/g18lb3ly1r2ly1r3ly1r10~x4/sett.png)|
+| [Brisbane (Artefact)](/variants/s8/g18w3ly1r2ly1r3ly1r10~x4/)|
+|![Brisbane (Artefact) example sett](/variants/s8/g18w3ly1r2ly1r3ly1r10~x4/sett.png)|
+| [Brisbane (Artefact)](/variants/s8/g18lb3ly1r2ly1r3ly1r10~x4/)|
+|![Brisbane (Artefact) example sett](/variants/s8/g18lb3ly1r2ly1r3ly1r10~x4/sett.png)|

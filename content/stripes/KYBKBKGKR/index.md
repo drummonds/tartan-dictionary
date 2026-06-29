@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Chapeau](/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/)|
-|![Red Chapeau example sett](/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/sett.png)|
+| [Red Chapeau](/variants/s9/r9k1g1k1dp6k1dp6ly1k2~x6/)|
+|![Red Chapeau example sett](/variants/s9/r9k1g1k1dp6k1dp6ly1k2~x6/sett.png)|

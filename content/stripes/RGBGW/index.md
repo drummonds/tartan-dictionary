@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Simple Technology (Corporate)](/setts/s5/r3g28db9dg18w3~x2/)|
-|![Simple Technology (Corporate) example sett](/setts/s5/r3g28db9dg18w3~x2/sett.png)|
+| [Simple Technology (Corporate)](/variants/s5/r3g28db9dg18w3~x2/)|
+|![Simple Technology (Corporate) example sett](/variants/s5/r3g28db9dg18w3~x2/sett.png)|

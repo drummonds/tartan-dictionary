@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Danareth](/setts/s10/k7g6ly3k12r19k12g62k62g12r7/)|
-|![Danareth example sett](/setts/s10/k7g6ly3k12r19k12g62k62g12r7/sett.png)|
+| [Danareth](/variants/s10/k7g6ly3k12r19k12g62k62g12r7/)|
+|![Danareth example sett](/variants/s10/k7g6ly3k12r19k12g62k62g12r7/sett.png)|

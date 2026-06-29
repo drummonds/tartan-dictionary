@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ritchie](/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/)|
-|![Ritchie example sett](/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/sett.png)|
+| [Ritchie](/variants/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/)|
+|![Ritchie example sett](/variants/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/sett.png)|

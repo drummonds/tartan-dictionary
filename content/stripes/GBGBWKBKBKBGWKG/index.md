@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leel (Personal)](/setts/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2/)|
-|![Leel (Personal) example sett](/setts/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2/sett.png)|
+| [Leel (Personal)](/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2/)|
+|![Leel (Personal) example sett](/variants/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2/sett.png)|

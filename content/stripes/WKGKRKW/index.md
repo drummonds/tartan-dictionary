@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince Edward Island](/setts/s7/w2k1g16k12r12k1w2~x2/)|
-|![Prince Edward Island example sett](/setts/s7/w2k1g16k12r12k1w2~x2/sett.png)|
-| [Prince Edward Island #2](/setts/s7/w2k1dg16k12r12k1w2~x2/)|
-|![Prince Edward Island #2 example sett](/setts/s7/w2k1dg16k12r12k1w2~x2/sett.png)|
+| [Prince Edward Island](/variants/s7/w2k1g16k12r12k1w2~x2/)|
+|![Prince Edward Island example sett](/variants/s7/w2k1g16k12r12k1w2~x2/sett.png)|
+| [Prince Edward Island #2](/variants/s7/w2k1dg16k12r12k1w2~x2/)|
+|![Prince Edward Island #2 example sett](/variants/s7/w2k1dg16k12r12k1w2~x2/sett.png)|

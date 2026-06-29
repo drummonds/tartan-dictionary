@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galloway Family](/setts/s4/r2k50y2r1~x2/)|
-|![Galloway Family example sett](/setts/s4/r2k50y2r1~x2/sett.png)|
+| [Galloway Family](/variants/s4/r2k50y2r1~x2/)|
+|![Galloway Family example sett](/variants/s4/r2k50y2r1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grey Watch](/setts/s12/y25k4y4k4y4w20k5w20k20y4k4y4~x2/)|
-|![Grey Watch example sett](/setts/s12/y25k4y4k4y4w20k5w20k20y4k4y4~x2/sett.png)|
+| [Grey Watch](/variants/s12/y25k4y4k4y4w20k5w20k20y4k4y4~x2/)|
+|![Grey Watch example sett](/variants/s12/y25k4y4k4y4w20k5w20k20y4k4y4~x2/sett.png)|

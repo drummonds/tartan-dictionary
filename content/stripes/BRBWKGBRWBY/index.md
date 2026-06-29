@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arisaig (District)](/setts/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/)|
-|![Arisaig (District) example sett](/setts/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/sett.png)|
-| [Arisaig NS Canada](/setts/s11/b4r4b12w12k4g4db8r1w1db1ly1~x2/)|
-|![Arisaig NS Canada example sett](/setts/s11/b4r4b12w12k4g4db8r1w1db1ly1~x2/sett.png)|
+| [Arisaig (District)](/variants/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/)|
+|![Arisaig (District) example sett](/variants/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/sett.png)|
+| [Arisaig NS Canada](/variants/s11/b4r4b12w12k4g4db8r1w1db1ly1~x2/)|
+|![Arisaig NS Canada example sett](/variants/s11/b4r4b12w12k4g4db8r1w1db1ly1~x2/sett.png)|

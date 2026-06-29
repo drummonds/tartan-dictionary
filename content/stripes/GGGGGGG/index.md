@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinnon Htg (Clan)](/setts/s7/dy1g8dy8g1dy8g8dy1~x4/)|
-|![MacKinnon Htg (Clan) example sett](/setts/s7/dy1g8dy8g1dy8g8dy1~x4/sett.png)|
+| [MacKinnon Htg (Clan)](/variants/s7/dy1g8dy8g1dy8g8dy1~x4/)|
+|![MacKinnon Htg (Clan) example sett](/variants/s7/dy1g8dy8g1dy8g8dy1~x4/sett.png)|

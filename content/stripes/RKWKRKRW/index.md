@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Las Vegas Fire Fighters](/setts/s8/r1k3lb2k28r30k1r2lb1~x2/)|
-|![Las Vegas Fire Fighters example sett](/setts/s8/r1k3lb2k28r30k1r2lb1~x2/sett.png)|
+| [Las Vegas Fire Fighters](/variants/s8/r1k3lb2k28r30k1r2lb1~x2/)|
+|![Las Vegas Fire Fighters example sett](/variants/s8/r1k3lb2k28r30k1r2lb1~x2/sett.png)|

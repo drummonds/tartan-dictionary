@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [SPA Association (Corporate)](/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/)|
-|![SPA Association (Corporate) example sett](/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/sett.png)|
+| [SPA Association (Corporate)](/variants/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/)|
+|![SPA Association (Corporate) example sett](/variants/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/sett.png)|

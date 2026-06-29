@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdeen Forever (District)](/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/)|
-|![Aberdeen Forever (District) example sett](/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/sett.png)|
+| [Aberdeen Forever (District)](/variants/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/)|
+|![Aberdeen Forever (District) example sett](/variants/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/sett.png)|

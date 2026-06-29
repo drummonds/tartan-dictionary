@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ogg of Tarragann Hunting](/setts/s12/r2t6r1ki14r1ki14r1k6dg10lo1dg2lo2~x2/)|
-|![Ogg of Tarragann Hunting example sett](/setts/s12/r2t6r1ki14r1ki14r1k6dg10lo1dg2lo2~x2/sett.png)|
+| [Ogg of Tarragann Hunting](/variants/s12/r2t6r1ki14r1ki14r1k6dg10lo1dg2lo2~x2/)|
+|![Ogg of Tarragann Hunting example sett](/variants/s12/r2t6r1ki14r1ki14r1k6dg10lo1dg2lo2~x2/sett.png)|

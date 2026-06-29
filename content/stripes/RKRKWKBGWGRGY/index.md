@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nashotah House (Commemorative)](/setts/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/)|
-|![Nashotah House (Commemorative) example sett](/setts/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/sett.png)|
+| [Nashotah House (Commemorative)](/variants/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/)|
+|![Nashotah House (Commemorative) example sett](/variants/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/sett.png)|

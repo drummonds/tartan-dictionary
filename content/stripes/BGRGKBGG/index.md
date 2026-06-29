@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Power (Corporate)](/setts/s8/dg5g32dp5k10dg8r3dg8dp3~x2/)|
-|![Scottish Power (Corporate) example sett](/setts/s8/dg5g32dp5k10dg8r3dg8dp3~x2/sett.png)|
-| [Womens Rural Institute](/setts/s8/dg4g24dp4k6dg4r3dg4dp3~x2/)|
-|![Womens Rural Institute example sett](/setts/s8/dg4g24dp4k6dg4r3dg4dp3~x2/sett.png)|
+| [Scottish Power (Corporate)](/variants/s8/dg5g32dp5k10dg8r3dg8dp3~x2/)|
+|![Scottish Power (Corporate) example sett](/variants/s8/dg5g32dp5k10dg8r3dg8dp3~x2/sett.png)|
+| [Womens Rural Institute](/variants/s8/dg4g24dp4k6dg4r3dg4dp3~x2/)|
+|![Womens Rural Institute example sett](/variants/s8/dg4g24dp4k6dg4r3dg4dp3~x2/sett.png)|

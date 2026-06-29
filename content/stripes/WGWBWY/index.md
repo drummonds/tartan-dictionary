@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGibboney (Name)](/setts/s6/w1g5lb5t1lb1ly1~x8/)|
-|![MacGibboney (Name) example sett](/setts/s6/w1g5lb5t1lb1ly1~x8/sett.png)|
+| [MacGibboney (Name)](/variants/s6/w1g5lb5t1lb1ly1~x8/)|
+|![MacGibboney (Name) example sett](/variants/s6/w1g5lb5t1lb1ly1~x8/sett.png)|

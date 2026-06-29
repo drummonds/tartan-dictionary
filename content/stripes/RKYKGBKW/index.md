@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hislop hunting](/setts/s8/r2k8ly1k8g8db8k2w2~x2/)|
-|![Hislop hunting example sett](/setts/s8/r2k8ly1k8g8db8k2w2~x2/sett.png)|
+| [Hislop hunting](/variants/s8/r2k8ly1k8g8db8k2w2~x2/)|
+|![Hislop hunting example sett](/variants/s8/r2k8ly1k8g8db8k2w2~x2/sett.png)|

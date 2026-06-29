@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan Army Whisky](/setts/s8/r26g5dg7ri2do9loi1lo1dg4~x2/)|
-|![Tartan Army Whisky example sett](/setts/s8/r26g5dg7ri2do9loi1lo1dg4~x2/sett.png)|
-| [Tartan Army Whisky](/setts/s8/r26g5dg7ri2do9lo1loi1dg4~x2/)|
-|![Tartan Army Whisky example sett](/setts/s8/r26g5dg7ri2do9lo1loi1dg4~x2/sett.png)|
+| [Tartan Army Whisky](/variants/s8/r26g5dg7ri2do9loi1lo1dg4~x2/)|
+|![Tartan Army Whisky example sett](/variants/s8/r26g5dg7ri2do9loi1lo1dg4~x2/sett.png)|
+| [Tartan Army Whisky](/variants/s8/r26g5dg7ri2do9lo1loi1dg4~x2/)|
+|![Tartan Army Whisky example sett](/variants/s8/r26g5dg7ri2do9lo1loi1dg4~x2/sett.png)|

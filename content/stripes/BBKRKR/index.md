@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [H.M.S. DUNCAN](/setts/s6/o3k15r2k15n15p3~x2/)|
-|![H.M.S. DUNCAN example sett](/setts/s6/o3k15r2k15n15p3~x2/sett.png)|
+| [H.M.S. DUNCAN](/variants/s6/o3k15r2k15n15p3~x2/)|
+|![H.M.S. DUNCAN example sett](/variants/s6/o3k15r2k15n15p3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Tummel Trade Tartan Tartan Number: 1751. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/lo38w9lo3do9w3~x2/)|
-|![Loch Tummel Trade Tartan Tartan Number: 1751. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/lo38w9lo3do9w3~x2/sett.png)|
+| [Loch Tummel Trade Tartan](/variants/s5/lo38w9lo3do9w3~x2/)|
+|![Loch Tummel Trade Tartan example sett](/variants/s5/lo38w9lo3do9w3~x2/sett.png)|

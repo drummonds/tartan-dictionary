@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clan An Caigeann (Corporate)](/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/)|
-|![Clan An Caigeann (Corporate) example sett](/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/sett.png)|
+| [Clan An Caigeann (Corporate)](/variants/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/)|
+|![Clan An Caigeann (Corporate) example sett](/variants/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/sett.png)|

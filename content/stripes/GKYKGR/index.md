@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Furnishing #2](/setts/s6/r4g40k21lo2k21g2~x2/)|
-|![Unidentified Furnishing #2 example sett](/setts/s6/r4g40k21lo2k21g2~x2/sett.png)|
+| [Unidentified Furnishing #2](/variants/s6/r4g40k21lo2k21g2~x2/)|
+|![Unidentified Furnishing #2 example sett](/variants/s6/r4g40k21lo2k21g2~x2/sett.png)|

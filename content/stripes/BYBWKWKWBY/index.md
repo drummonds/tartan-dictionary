@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hawick Rugby Club](/setts/s10/db2ly1db7w1k7w2~x6/)|
-|![Hawick Rugby Club example sett](/setts/s10/db2ly1db7w1k7w2~x6/sett.png)|
+| [Hawick Rugby Club](/variants/s10/db2ly1db7w1k7w2~x6/)|
+|![Hawick Rugby Club example sett](/variants/s10/db2ly1db7w1k7w2~x6/sett.png)|

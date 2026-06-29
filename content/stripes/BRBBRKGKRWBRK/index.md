@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Giants Causeway (District)](/setts/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/)|
-|![Giants Causeway (District) example sett](/setts/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/sett.png)|
+| [Giants Causeway (District)](/variants/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/)|
+|![Giants Causeway (District) example sett](/variants/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/sett.png)|

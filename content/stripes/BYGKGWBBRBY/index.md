@@ -24,9 +24,9 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allison](/setts/s11/dbi64ly3g12k3g12w3dbi15db4r21dbi3ly2/)|
-|![Allison example sett](/setts/s11/dbi64ly3g12k3g12w3dbi15db4r21dbi3ly2/sett.png)|
-| [Allison (1882)](/setts/s11/dbi64ly3dg12k3dg12w3dbi15db4r21dbi3ly2/)|
-|![Allison (1882) example sett](/setts/s11/dbi64ly3dg12k3dg12w3dbi15db4r21dbi3ly2/sett.png)|
-| [Allison Family Tartan Tartan Number: 673. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db64ly3g12k3g12w3db15dbi4r21db3ly2/)|
-|![Allison Family Tartan Tartan Number: 673. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/db64ly3g12k3g12w3db15dbi4r21db3ly2/sett.png)|
+| [Allison](/variants/s11/dbi64ly3g12k3g12w3dbi15db4r21dbi3ly2/)|
+|![Allison example sett](/variants/s11/dbi64ly3g12k3g12w3dbi15db4r21dbi3ly2/sett.png)|
+| [Allison (1882)](/variants/s11/dbi64ly3dg12k3dg12w3dbi15db4r21dbi3ly2/)|
+|![Allison (1882) example sett](/variants/s11/dbi64ly3dg12k3dg12w3dbi15db4r21dbi3ly2/sett.png)|
+| [Allison Family Tartan](/variants/s11/db64ly3g12k3g12w3db15dbi4r21db3ly2/)|
+|![Allison Family Tartan example sett](/variants/s11/db64ly3g12k3g12w3db15dbi4r21db3ly2/sett.png)|

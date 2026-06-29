@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skinner](/setts/s6/r8k8lo1k8r8db1~x4/)|
-|![Skinner example sett](/setts/s6/r8k8lo1k8r8db1~x4/sett.png)|
+| [Skinner](/variants/s6/r8k8lo1k8r8db1~x4/)|
+|![Skinner example sett](/variants/s6/r8k8lo1k8r8db1~x4/sett.png)|

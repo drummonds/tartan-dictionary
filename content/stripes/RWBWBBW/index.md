@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bousie (Personal)](/setts/s7/w3t38db38w1ti3w1r2~x2/)|
-|![Bousie (Personal) example sett](/setts/s7/w3t38db38w1ti3w1r2~x2/sett.png)|
+| [Bousie (Personal)](/variants/s7/w3t38db38w1ti3w1r2~x2/)|
+|![Bousie (Personal) example sett](/variants/s7/w3t38db38w1ti3w1r2~x2/sett.png)|

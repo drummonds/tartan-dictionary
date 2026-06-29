@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pro Simon](/setts/s9/k2db2k2db17dg10k2dg2g13o2~x2/)|
-|![Pro Simon example sett](/setts/s9/k2db2k2db17dg10k2dg2g13o2~x2/sett.png)|
+| [Pro Simon](/variants/s9/k2db2k2db17dg10k2dg2g13o2~x2/)|
+|![Pro Simon example sett](/variants/s9/k2db2k2db17dg10k2dg2g13o2~x2/sett.png)|

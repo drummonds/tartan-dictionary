@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leando Hunting (Personal)](/setts/s13/n19do2m1dr3w1dr1w1dr1do6n3dr1do3w1~x4/)|
-|![Leando Hunting (Personal) example sett](/setts/s13/n19do2m1dr3w1dr1w1dr1do6n3dr1do3w1~x4/sett.png)|
+| [Leando Hunting (Personal)](/variants/s13/n19do2m1dr3w1dr1w1dr1do6n3dr1do3w1~x4/)|
+|![Leando Hunting (Personal) example sett](/variants/s13/n19do2m1dr3w1dr1w1dr1do6n3dr1do3w1~x4/sett.png)|

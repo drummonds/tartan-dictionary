@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of the Glen](/setts/s4/g3db3dp4w1~x4/)|
-|![Pride of the Glen example sett](/setts/s4/g3db3dp4w1~x4/sett.png)|
+| [Pride of the Glen](/variants/s4/g3db3dp4w1~x4/)|
+|![Pride of the Glen example sett](/variants/s4/g3db3dp4w1~x4/sett.png)|

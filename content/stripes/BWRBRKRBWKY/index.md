@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hart (Texas) (Personal)](/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/)|
-|![Hart (Texas) (Personal) example sett](/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/sett.png)|
+| [Hart (Texas) (Personal)](/variants/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/)|
+|![Hart (Texas) (Personal) example sett](/variants/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/sett.png)|

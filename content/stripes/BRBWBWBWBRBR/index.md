@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greater Victoria Police PB](/setts/s12/r7dt1r26dt31w1dt1w2~x2/)|
-|![Greater Victoria Police PB example sett](/setts/s12/r7dt1r26dt31w1dt1w2~x2/sett.png)|
+| [Greater Victoria Police PB](/variants/s12/r7dt1r26dt31w1dt1w2~x2/)|
+|![Greater Victoria Police PB example sett](/variants/s12/r7dt1r26dt31w1dt1w2~x2/sett.png)|

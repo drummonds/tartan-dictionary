@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Williams Lake (District)](/setts/s10/ly6k1ly3g3w3r3k2r3db3w3~x2/)|
-|![City of Williams Lake (District) example sett](/setts/s10/ly6k1ly3g3w3r3k2r3db3w3~x2/sett.png)|
+| [City of Williams Lake (District)](/variants/s10/ly6k1ly3g3w3r3k2r3db3w3~x2/)|
+|![City of Williams Lake (District) example sett](/variants/s10/ly6k1ly3g3w3r3k2r3db3w3~x2/sett.png)|

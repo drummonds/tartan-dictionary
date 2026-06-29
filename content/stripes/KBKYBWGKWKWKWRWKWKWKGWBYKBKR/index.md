@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Webb (Personal)](/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/)|
-|![Webb (Personal) example sett](/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/sett.png)|
+| [Webb (Personal)](/variants/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/)|
+|![Webb (Personal) example sett](/variants/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/sett.png)|

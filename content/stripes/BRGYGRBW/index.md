@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forrester (James) (Personal)](/setts/s8/db16r14g16ly3g16r14db16w3~x2/)|
-|![Forrester (James) (Personal) example sett](/setts/s8/db16r14g16ly3g16r14db16w3~x2/sett.png)|
+| [Forrester (James) (Personal)](/variants/s8/db16r14g16ly3g16r14db16w3~x2/)|
+|![Forrester (James) (Personal) example sett](/variants/s8/db16r14g16ly3g16r14db16w3~x2/sett.png)|

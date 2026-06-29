@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Militello (Palermo) Dress (Personal)](/setts/s6/r3w3db36g36k2r2~x2/)|
-|![Militello (Palermo) Dress (Personal) example sett](/setts/s6/r3w3db36g36k2r2~x2/sett.png)|
+| [Militello (Palermo) Dress (Personal)](/variants/s6/r3w3db36g36k2r2~x2/)|
+|![Militello (Palermo) Dress (Personal) example sett](/variants/s6/r3w3db36g36k2r2~x2/sett.png)|

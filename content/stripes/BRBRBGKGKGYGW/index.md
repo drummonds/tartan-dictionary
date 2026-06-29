@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCrann, Julian David (Personal)](/setts/s13/db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2/)|
-|![McCrann, Julian David (Personal) example sett](/setts/s13/db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2/sett.png)|
+| [McCrann, Julian David (Personal)](/variants/s13/db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2/)|
+|![McCrann, Julian David (Personal) example sett](/variants/s13/db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2/sett.png)|

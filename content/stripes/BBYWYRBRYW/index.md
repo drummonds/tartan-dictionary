@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holyrood Golden Jubilee II (Commemo)](/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/)|
-|![Holyrood Golden Jubilee II (Commemo) example sett](/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/sett.png)|
+| [Holyrood Golden Jubilee II (Commemo)](/variants/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/)|
+|![Holyrood Golden Jubilee II (Commemo) example sett](/variants/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/sett.png)|

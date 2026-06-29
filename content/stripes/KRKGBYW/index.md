@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moeller, Karsten (Personal)](/setts/s7/k10r5k5dg55db2lo1w1~x2/)|
-|![Moeller, Karsten (Personal) example sett](/setts/s7/k10r5k5dg55db2lo1w1~x2/sett.png)|
+| [Moeller, Karsten (Personal)](/variants/s7/k10r5k5dg55db2lo1w1~x2/)|
+|![Moeller, Karsten (Personal) example sett](/variants/s7/k10r5k5dg55db2lo1w1~x2/sett.png)|

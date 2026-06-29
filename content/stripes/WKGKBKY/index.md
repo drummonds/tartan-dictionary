@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCormick](/setts/s7/w3k1g20k16db20k1ly3~x2/)|
-|![MacCormick example sett](/setts/s7/w3k1g20k16db20k1ly3~x2/sett.png)|
+| [MacCormick](/variants/s7/w3k1g20k16db20k1ly3~x2/)|
+|![MacCormick example sett](/variants/s7/w3k1g20k16db20k1ly3~x2/sett.png)|

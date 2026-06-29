@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Turnbull Hunting (1983) #2](/setts/s5/k2ly1g10db10w1~x6/)|
-|![Turnbull Hunting (1983) #2 example sett](/setts/s5/k2ly1g10db10w1~x6/sett.png)|
-| [Turnbull, hunting](/setts/s5/k7ly3g28db28w3~x2/)|
-|![Turnbull, hunting example sett](/setts/s5/k7ly3g28db28w3~x2/sett.png)|
+| [Turnbull Hunting (1983) #2](/variants/s5/k2ly1g10db10w1~x6/)|
+|![Turnbull Hunting (1983) #2 example sett](/variants/s5/k2ly1g10db10w1~x6/sett.png)|
+| [Turnbull, hunting](/variants/s5/k7ly3g28db28w3~x2/)|
+|![Turnbull, hunting example sett](/variants/s5/k7ly3g28db28w3~x2/sett.png)|

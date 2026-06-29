@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thomson Dress (Grey) (Fashion)](/setts/s6/r4o25k6w12k11ly3~x2/)|
-|![Thomson Dress (Grey) (Fashion) example sett](/setts/s6/r4o25k6w12k11ly3~x2/sett.png)|
+| [Thomson Dress (Grey) (Fashion)](/variants/s6/r4o25k6w12k11ly3~x2/)|
+|![Thomson Dress (Grey) (Fashion) example sett](/variants/s6/r4o25k6w12k11ly3~x2/sett.png)|

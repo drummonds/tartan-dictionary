@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waipu (District)](/setts/s12/g16db7r2db7k5ly2dp1ly2k5db16g8w1~x2/)|
-|![Waipu (District) example sett](/setts/s12/g16db7r2db7k5ly2dp1ly2k5db16g8w1~x2/sett.png)|
+| [Waipu (District)](/variants/s12/g16db7r2db7k5ly2dp1ly2k5db16g8w1~x2/)|
+|![Waipu (District) example sett](/variants/s12/g16db7r2db7k5ly2dp1ly2k5db16g8w1~x2/sett.png)|

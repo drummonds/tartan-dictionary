@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ofally, County](/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/)|
-|![Ofally, County example sett](/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/sett.png)|
-| [Offally](/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/)|
-|![Offally example sett](/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/sett.png)|
+| [Ofally, County](/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/)|
+|![Ofally, County example sett](/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/sett.png)|
+| [Offally](/variants/s10/r7db2g5db18g10db2k24db2g10ly3~x2/)|
+|![Offally example sett](/variants/s10/r7db2g5db18g10db2k24db2g10ly3~x2/sett.png)|

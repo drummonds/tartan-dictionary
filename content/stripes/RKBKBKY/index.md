@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graeme High School Homecoming 2009](/setts/s7/r1k1db10k1p4k9ly1~x4/)|
-|![Graeme High School Homecoming 2009 example sett](/setts/s7/r1k1db10k1p4k9ly1~x4/sett.png)|
-| [MacCrimmon from Skye](/setts/s7/r5k3t22k17t22k3ly5~x2/)|
-|![MacCrimmon from Skye example sett](/setts/s7/r5k3t22k17t22k3ly5~x2/sett.png)|
+| [Graeme High School Homecoming 2009](/variants/s7/r1k1db10k1p4k9ly1~x4/)|
+|![Graeme High School Homecoming 2009 example sett](/variants/s7/r1k1db10k1p4k9ly1~x4/sett.png)|
+| [MacCrimmon from Skye](/variants/s7/r5k3t22k17t22k3ly5~x2/)|
+|![MacCrimmon from Skye example sett](/variants/s7/r5k3t22k17t22k3ly5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart - (Galloway ?)](/setts/s14/k56r90db4w4k13ly3k3w3k3g18r14k3r7w3/)|
-|![Stewart - (Galloway ?) example sett](/setts/s14/k56r90db4w4k13ly3k3w3k3g18r14k3r7w3/sett.png)|
+| [Stewart - (Galloway ?)](/variants/s14/k56r90db4w4k13ly3k3w3k3g18r14k3r7w3/)|
+|![Stewart - (Galloway ?) example sett](/variants/s14/k56r90db4w4k13ly3k3w3k3g18r14k3r7w3/sett.png)|

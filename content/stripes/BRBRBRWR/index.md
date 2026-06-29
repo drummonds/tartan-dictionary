@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corrie](/setts/s8/dt14o1dt1o1dt6oi14w1oi1~x4/)|
-|![Corrie example sett](/setts/s8/dt14o1dt1o1dt6oi14w1oi1~x4/sett.png)|
+| [Corrie](/variants/s8/dt14o1dt1o1dt6oi14w1oi1~x4/)|
+|![Corrie example sett](/variants/s8/dt14o1dt1o1dt6oi14w1oi1~x4/sett.png)|

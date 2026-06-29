@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moffat (1950)](/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/)|
-|![Moffat (1950) example sett](/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/sett.png)|
+| [Moffat (1950)](/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/)|
+|![Moffat (1950) example sett](/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/sett.png)|

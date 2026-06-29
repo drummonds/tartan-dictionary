@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Michael from Appin (Personal)](/setts/s12/db4r24dg2r3dg19ly2r2db8r2dg2w2r2~x2/)|
-|![Michael from Appin (Personal) example sett](/setts/s12/db4r24dg2r3dg19ly2r2db8r2dg2w2r2~x2/sett.png)|
+| [Michael from Appin (Personal)](/variants/s12/db4r24dg2r3dg19ly2r2db8r2dg2w2r2~x2/)|
+|![Michael from Appin (Personal) example sett](/variants/s12/db4r24dg2r3dg19ly2r2db8r2dg2w2r2~x2/sett.png)|

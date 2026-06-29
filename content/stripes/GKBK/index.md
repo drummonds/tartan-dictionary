@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wallington (Corporate?)](/setts/s4/k60t3k9g7/)|
-|![Wallington (Corporate?) example sett](/setts/s4/k60t3k9g7/sett.png)|
+| [Wallington (Corporate?)](/variants/s4/k60t3k9g7/)|
+|![Wallington (Corporate?) example sett](/variants/s4/k60t3k9g7/sett.png)|

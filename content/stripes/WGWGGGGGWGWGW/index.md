@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLachlan, Brown Dress (Fashion)](/setts/s13/lb16dy2lb2dy2lb2dy16dy16g3dy16dy16lb16dy2lb2~x2/)|
-|![MacLachlan, Brown Dress (Fashion) example sett](/setts/s13/lb16dy2lb2dy2lb2dy16dy16g3dy16dy16lb16dy2lb2~x2/sett.png)|
+| [MacLachlan, Brown Dress (Fashion)](/variants/s13/lb16dy2lb2dy2lb2dy16dy16g3dy16dy16lb16dy2lb2~x2/)|
+|![MacLachlan, Brown Dress (Fashion) example sett](/variants/s13/lb16dy2lb2dy2lb2dy16dy16g3dy16dy16lb16dy2lb2~x2/sett.png)|

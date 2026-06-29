@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBrair Hunting](/setts/s8/lo57k1r12lb1g12r14lb1r2~x2/)|
-|![MacBrair Hunting example sett](/setts/s8/lo57k1r12lb1g12r14lb1r2~x2/sett.png)|
+| [MacBrair Hunting](/variants/s8/lo57k1r12lb1g12r14lb1r2~x2/)|
+|![MacBrair Hunting example sett](/variants/s8/lo57k1r12lb1g12r14lb1r2~x2/sett.png)|

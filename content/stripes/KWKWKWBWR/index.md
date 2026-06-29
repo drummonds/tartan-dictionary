@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott, Sir Walter #3](/setts/s9/k4w4k4w4k4w4db3w2r2/)|
-|![Scott, Sir Walter #3 example sett](/setts/s9/k4w4k4w4k4w4db3w2r2/sett.png)|
+| [Scott, Sir Walter #3](/variants/s9/k4w4k4w4k4w4db3w2r2/)|
+|![Scott, Sir Walter #3 example sett](/variants/s9/k4w4k4w4k4w4db3w2r2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of West Lothian](/setts/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/)|
-|![Spirit of West Lothian example sett](/setts/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/sett.png)|
+| [Spirit of West Lothian](/variants/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/)|
+|![Spirit of West Lothian example sett](/variants/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/sett.png)|

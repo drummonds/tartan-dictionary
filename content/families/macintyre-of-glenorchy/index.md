@@ -8,5 +8,11 @@ A family of [Clan MacIntyre](/clan/macintyre/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/"><img src="/setts/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/sett.png" alt="MacIntyre of Glenorchy Clan Tartan Tartan Number: 402. Earliest known date: 1850 Smiths' version is also known as MacIntyre of Whitehouse. Though different from the sett recorded by Lord Lyon it is the one most often available in modern times. Before moving to Badenoch to take protection for Clan Chattan, the MacIntyres were listed as followers of Stewart of Appin. See products available Copyright © Blair Urquhart, Comrie, 2015" width="240"><br>MacIntyre of Glenorchy Clan Tartan Tartan Number: 402. Earliest known date: 1850 Smiths' version is also known as MacIntyre of Whitehouse. Though different from the sett recorded by Lord Lyon it is the one most often available in modern times. Before moving to Badenoch to take protection for Clan Chattan, the MacIntyres were listed as followers of Stewart of Appin. See products available Copyright © Blair Urquhart, Comrie, 2015</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1/">MacIntyre of Glenorchy</a> ★</td><td><code>T/4 R4 DB4 R8 G32 R4 DB4 R8 G4 R4 DB32 R8 G4 R4 T/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1/"><img src="/variants/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/sett.png" alt="MacIntyre of Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

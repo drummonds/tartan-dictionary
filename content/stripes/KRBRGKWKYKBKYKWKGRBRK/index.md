@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLean](/setts/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/)|
-|![MacLean example sett](/setts/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/sett.png)|
+| [MacLean](/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/)|
+|![MacLean example sett](/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/sett.png)|

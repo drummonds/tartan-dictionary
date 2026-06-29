@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ledford (Name)](/tartans/g9o4ly1/)|
-|![Ledford (Name) example sett](/setts/s3/g9o4ly1~x4/sett.png)|
-| [McMoosie](/setts/s3/g81r10ly20~x2/)|
-|![McMoosie example sett](/setts/s3/g81r10ly20~x2/sett.png)|
+| [Ledford (Name)](/setts/g9o4ly1/)|
+|![Ledford (Name) example sett](/variants/s3/g9o4ly1~x4/sett.png)|
+| [McMoosie](/variants/s3/g81r10ly20~x2/)|
+|![McMoosie example sett](/variants/s3/g81r10ly20~x2/sett.png)|

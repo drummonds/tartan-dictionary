@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morgan of Wales](/setts/s11/ri4ly34do20ly4do8ly6r2ly5do2ly3ri4/)|
-|![Morgan of Wales example sett](/setts/s11/ri4ly34do20ly4do8ly6r2ly5do2ly3ri4/sett.png)|
+| [Morgan of Wales](/variants/s11/ri4ly34do20ly4do8ly6r2ly5do2ly3ri4/)|
+|![Morgan of Wales example sett](/variants/s11/ri4ly34do20ly4do8ly6r2ly5do2ly3ri4/sett.png)|

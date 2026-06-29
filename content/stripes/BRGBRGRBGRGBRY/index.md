@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinnon](/tartans/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/)|
-|![MacKinnon example sett](/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/sett.png)|
+| [MacKinnon](/setts/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/)|
+|![MacKinnon example sett](/variants/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/sett.png)|

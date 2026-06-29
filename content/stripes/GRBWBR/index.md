@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galloway (Dance)](/setts/s6/r3b2w35b35r2g3~x2/)|
-|![Galloway (Dance) example sett](/setts/s6/r3b2w35b35r2g3~x2/sett.png)|
+| [Galloway (Dance)](/variants/s6/r3b2w35b35r2g3~x2/)|
+|![Galloway (Dance) example sett](/variants/s6/r3b2w35b35r2g3~x2/sett.png)|

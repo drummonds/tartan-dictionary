@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwegian Migration Period](/setts/s8/oi30ly4dt9lb2dt1o6dt8r8~x4/)|
-|![Norwegian Migration Period example sett](/setts/s8/oi30ly4dt9lb2dt1o6dt8r8~x4/sett.png)|
+| [Norwegian Migration Period](/variants/s8/oi30ly4dt9lb2dt1o6dt8r8~x4/)|
+|![Norwegian Migration Period example sett](/variants/s8/oi30ly4dt9lb2dt1o6dt8r8~x4/sett.png)|

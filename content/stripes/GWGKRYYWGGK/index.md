@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Bear Pride](/setts/s11/k35dy11y3w1ly3lo1o5k5y2w2dy22~x2/)|
-|![International Bear Pride example sett](/setts/s11/k35dy11y3w1ly3lo1o5k5y2w2dy22~x2/sett.png)|
+| [International Bear Pride](/variants/s11/k35dy11y3w1ly3lo1o5k5y2w2dy22~x2/)|
+|![International Bear Pride example sett](/variants/s11/k35dy11y3w1ly3lo1o5k5y2w2dy22~x2/sett.png)|

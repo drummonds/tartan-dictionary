@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLean Dress (Lumsden)](/setts/s6/r1w12g6r8lb3lo1~x4/)|
-|![MacLean Dress (Lumsden) example sett](/setts/s6/r1w12g6r8lb3lo1~x4/sett.png)|
+| [MacLean Dress (Lumsden)](/variants/s6/r1w12g6r8lb3lo1~x4/)|
+|![MacLean Dress (Lumsden) example sett](/variants/s6/r1w12g6r8lb3lo1~x4/sett.png)|

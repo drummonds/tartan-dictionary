@@ -24,5 +24,5 @@ It is a 33 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Invermark](/setts/s33/dt2lb2dy2lb2dy2lb2dt2lb2dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1m1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1~x2/)|
-|![Invermark example sett](/setts/s33/dt2lb2dy2lb2dy2lb2dt2lb2dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1m1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1~x2/sett.png)|
+| [Invermark](/variants/s33/dt2lb2dy2lb2dy2lb2dt2lb2dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1m1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1~x2/)|
+|![Invermark example sett](/variants/s33/dt2lb2dy2lb2dy2lb2dt2lb2dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1m1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1dy1lb1~x2/sett.png)|

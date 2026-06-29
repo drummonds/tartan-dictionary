@@ -24,5 +24,5 @@ It is a 35 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coulin](/setts/s35/lo16k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1lo8k1b1k1b1o9k1b1k1b1~x4/)|
-|![Coulin example sett](/setts/s35/lo16k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1lo8k1b1k1b1o9k1b1k1b1~x4/sett.png)|
+| [Coulin](/variants/s35/lo16k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1lo8k1b1k1b1o9k1b1k1b1~x4/)|
+|![Coulin example sett](/variants/s35/lo16k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1lo8k1b1k1b1o9k1b1k1b1~x4/sett.png)|

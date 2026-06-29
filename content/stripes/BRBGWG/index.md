@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heritage Tartan, The](/setts/s6/db8r4db24g35lb4g8/)|
-|![Heritage Tartan, The example sett](/setts/s6/db8r4db24g35lb4g8/sett.png)|
+| [Heritage Tartan, The](/variants/s6/db8r4db24g35lb4g8/)|
+|![Heritage Tartan, The example sett](/variants/s6/db8r4db24g35lb4g8/sett.png)|

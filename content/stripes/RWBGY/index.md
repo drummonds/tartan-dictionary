@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Centennial-King George Lodge No.171](/setts/s5/r2w7b30dg36ly2~x2/)|
-|![Centennial-King George Lodge No.171 example sett](/setts/s5/r2w7b30dg36ly2~x2/sett.png)|
-| [Centennial-King George Lodge No.171](/setts/s5/r2w7db30g36ly2~x2/)|
-|![Centennial-King George Lodge No.171 example sett](/setts/s5/r2w7db30g36ly2~x2/sett.png)|
+| [Centennial-King George Lodge No.171](/variants/s5/r2w7b30dg36ly2~x2/)|
+|![Centennial-King George Lodge No.171 example sett](/variants/s5/r2w7b30dg36ly2~x2/sett.png)|
+| [Centennial-King George Lodge No.171](/variants/s5/r2w7db30g36ly2~x2/)|
+|![Centennial-King George Lodge No.171 example sett](/variants/s5/r2w7db30g36ly2~x2/sett.png)|

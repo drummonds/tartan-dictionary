@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Scottish National Tartan Tartan Number: 6622. Earliest known date: Marton Mills./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/o8w1o1ni1o1k7n7k1n3k1n7k7o7k1ni3~x2/)|
-|![Black Scottish National Tartan Tartan Number: 6622. Earliest known date: Marton Mills./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/o8w1o1ni1o1k7n7k1n3k1n7k7o7k1ni3~x2/sett.png)|
+| [Black Scottish National Tartan](/variants/s15/o8w1o1ni1o1k7n7k1n3k1n7k7o7k1ni3~x2/)|
+|![Black Scottish National Tartan example sett](/variants/s15/o8w1o1ni1o1k7n7k1n3k1n7k7o7k1ni3~x2/sett.png)|

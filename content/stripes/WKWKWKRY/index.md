@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberlour](/setts/s8/lb23k4lb4k4lb4k22o23lo5~x2/)|
-|![Aberlour example sett](/setts/s8/lb23k4lb4k4lb4k22o23lo5~x2/sett.png)|
+| [Aberlour](/variants/s8/lb23k4lb4k4lb4k22o23lo5~x2/)|
+|![Aberlour example sett](/variants/s8/lb23k4lb4k4lb4k22o23lo5~x2/sett.png)|

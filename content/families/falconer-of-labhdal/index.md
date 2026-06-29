@@ -8,11 +8,15 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/t7k7t7g20t2g2~x4/"><img src="/setts/s6/t7k7t7g20t2g2~x4/sett.png" alt="Falconer of Labhdal (Personal)" width="240"><br>Falconer of Labhdal (Personal)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/t7k7t7g20t2g2/">Falconer of Labhdal</a> ★</td><td><code>T/28 K28 T28 G80 T8 G/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t7k7t7g20t2g2/"><img src="/variants/s6/t7k7t7g20t2g2~x4/sett.png" alt="Falconer of Labhdal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k7t7g20t2g2t2g20t7k7t7/">Personal Tartan</a></td><td><code>K/28 T28 G80 T8 G8 T8 G80 T28 K28 T/28</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k7t7g20t2g2t2g20t7k7t7/"><img src="/variants/s10/k7t7g20t2g2t2g20t7k7t7~x4/sett.png" alt="Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s10/k7t7g20t2g2t2g20t7k7t7~x4/"><img src="/setts/s10/k7t7g20t2g2t2g20t7k7t7~x4/sett.png" alt="Falconer of Labhdal Personal Tartan Tartan Number: 6787. Earliest known date: 2005 August This is what James K.R. Falconer calls an update of the family tartan submitted in September 2005 and is the conventional Falconer tartan as seen at #387 with an extra blue line in the centre of the green and the colours rendered in lighter shades. Woven by Drove Weaving of Langholm (Lochcarron) and organised through Pride of Lammermuir, Lady Hilary Menzies. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Falconer of Labhdal Personal Tartan Tartan Number: 6787. Earliest known date: 2005 August This is what James K.R. Falconer calls an update of the family tartan submitted in September 2005 and is the conventional Falconer tartan as seen at #387 with an extra blue line in the centre of the green and the colours rendered in lighter shades. Woven by Drove Weaving of Langholm (Lochcarron) and organised through Pride of Lammermuir, Lady Hilary Menzies. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+[See the Falconer of Labhdal tartan and all its setts →](/tartans/falconer-of-labhdal/)
 

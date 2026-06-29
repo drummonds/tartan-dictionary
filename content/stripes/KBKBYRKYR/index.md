@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Craigholme (Corporate)](/setts/s9/k24db2k24db14ly3r36k18ly5r3~x2/)|
-|![Craigholme (Corporate) example sett](/setts/s9/k24db2k24db14ly3r36k18ly5r3~x2/sett.png)|
+| [Craigholme (Corporate)](/variants/s9/k24db2k24db14ly3r36k18ly5r3~x2/)|
+|![Craigholme (Corporate) example sett](/variants/s9/k24db2k24db14ly3r36k18ly5r3~x2/sett.png)|

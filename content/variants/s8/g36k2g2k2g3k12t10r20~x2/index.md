@@ -1,0 +1,65 @@
+---
+title: "Georgia, State of"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g36k2g2k2g3k12t10r20/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBR](/stripes/gkgkgkbr/).
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1333
+
+## Provenance
+
+Earliest known date: 1982 The tartan commemorates the founding of the State of Georgia and combines elements in the design associated with its historic past. General Oglethorpe commanded the Highland Independant Company of Foot which, in 1746, wore the Black Watch tartan. Captain John 'Mohr' MacIntosh is remembered in the MacIntosh red. Georgia tartan is much in evidence at the annual Stone Mountain Highland Games held in Atlanta, Georgias capital.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Georgia, State of
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1981 — Georgia, State of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1333">record</a>)</li>
+<li>undated — Georgia (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Georgia District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=794">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1333](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1333)
+- Scottish Tartans Authority (ITI): 794
+- Scottish Tartans World Register: 794
+
+## Thread count
+G/72 K4 G4 K4 G6 K24 B20 R/40
+
+One full sett is **236 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">72</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> <small style="color:#888">#5C8CA8</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(61.7% 0.067 235.0)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> <small style="color:#888">#C8002C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.6% 0.212 22.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="G/72 K4 G4 K4 G6 K24 B20 R/40 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=g36k2g2k2g3k12t10r20~x2">Georgia, State of</a> <a class="nn-out" href="/variants/s8/g36k2g2k2g3k12t10r20~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g36k2g2k2g3k12t10r20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.77</div><div class="nn-name"><a href="/ttd/edit/#slug=k1db1g16r16k12db8g16db1k1~x2&amp;base=g36k2g2k2g3k12t10r20~x2">MacNett</a> <a class="nn-out" href="/variants/s9/k1db1g16r16k12db8g16db1k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k1db1g16r16k12db8g16db1k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.78</div><div class="nn-name"><a href="/ttd/edit/#slug=lo15k1lo2k1lo2k10dy14w2~x2&amp;base=g36k2g2k2g3k12t10r20~x2">Buccleuch Weavers Tartan</a> <a class="nn-out" href="/variants/s8/lo15k1lo2k1lo2k10dy14w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lo15k1lo2k1lo2k10dy14w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.82</div><div class="nn-name"><a href="/ttd/edit/#slug=lo15k1lo2k1lo2k10y14w2~x2&amp;base=g36k2g2k2g3k12t10r20~x2">Buccleuch (Fashion)</a> <a class="nn-out" href="/variants/s8/lo15k1lo2k1lo2k10y14w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lo15k1lo2k1lo2k10y14w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.85</div><div class="nn-name"><a href="/ttd/edit/#slug=db4o17db4g4db2g4db4g27db4ly4~x2&amp;base=g36k2g2k2g3k12t10r20~x2">Cape Breton University</a> <a class="nn-out" href="/variants/s10/db4o17db4g4db2g4db4g27db4ly4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db4o17db4g4db2g4db4g27db4ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=r5k2dg1k2r5k2dg18lo3~x2&amp;base=g36k2g2k2g3k12t10r20~x2">Midpac Tissue (non woven)</a> <a class="nn-out" href="/variants/s8/r5k2dg1k2r5k2dg18lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r5k2dg1k2r5k2dg18lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.94</div><div class="nn-name"><a href="/ttd/edit/#slug=y36k2y2k2y3k12t10r20~x2&amp;base=g36k2g2k2g3k12t10r20~x2">Georgia, State of (District)</a> <a class="nn-out" href="/variants/s8/y36k2y2k2y3k12t10r20~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y36k2y2k2y3k12t10r20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=w1r1g1r11t6r1g14r1g1w1~x4&amp;base=g36k2g2k2g3k12t10r20~x2">Glen Tilt #2</a> <a class="nn-out" href="/variants/s10/w1r1g1r11t6r1g14r1g1w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w1r1g1r11t6r1g14r1g1w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=g28r12g4db20ly2db3ly2db3g7~x2&amp;base=g36k2g2k2g3k12t10r20~x2">Cork</a> <a class="nn-out" href="/variants/s9/g28r12g4db20ly2db3ly2db3g7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g28r12g4db20ly2db3ly2db3g7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=g4r4k12w2k12g32r4k3~x2&amp;base=g36k2g2k2g3k12t10r20~x2">MacHardy (Clans Originaux)</a> <a class="nn-out" href="/variants/s8/g4r4k12w2k12g32r4k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g4r4k12w2k12g32r4k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.09</div><div class="nn-name"><a href="/ttd/edit/#slug=do2lr2k6do3k2o14k1o1~x4&amp;base=g36k2g2k2g3k12t10r20~x2">Blair Atholl (Fashion)</a> <a class="nn-out" href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/do2lr2k6do3k2o14k1o1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k1db1g16r16k12db8g16db1k1~x2/"><circle cx="235.7" cy="178.1" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/variants/s8/lo15k1lo2k1lo2k10dy14w2~x2/"><circle cx="229.3" cy="169.8" r="4" fill="#3465a4"><title>Buccleuch Weavers Tartan</title></circle></a><a href="/variants/s8/lo15k1lo2k1lo2k10y14w2~x2/"><circle cx="229.8" cy="169.6" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/variants/s10/db4o17db4g4db2g4db4g27db4ly4~x2/"><circle cx="250.9" cy="159.9" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/variants/s8/r5k2dg1k2r5k2dg18lo3~x2/"><circle cx="308.5" cy="164.4" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/variants/s8/y36k2y2k2y3k12t10r20~x2/"><circle cx="289.7" cy="167.3" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/variants/s10/w1r1g1r11t6r1g14r1g1w1~x4/"><circle cx="266.4" cy="154.1" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s9/g28r12g4db20ly2db3ly2db3g7~x2/"><circle cx="273.9" cy="178.4" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="296.3" cy="177.0" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="267.3" cy="161.8" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><circle cx="273.2" cy="166.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/g36k2g2k2g3k12t10r20~x2/

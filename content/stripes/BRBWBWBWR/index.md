@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [31, Tartan (The.. )](/setts/s9/db2r21db1w4db7w2db2w2r2~x2/)|
-|![31, Tartan (The.. ) example sett](/setts/s9/db2r21db1w4db7w2db2w2r2~x2/sett.png)|
-| [American](/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/)|
-|![American example sett](/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/sett.png)|
+| [31, Tartan (The.. )](/variants/s9/db2r21db1w4db7w2db2w2r2~x2/)|
+|![31, Tartan (The.. ) example sett](/variants/s9/db2r21db1w4db7w2db2w2r2~x2/sett.png)|
+| [American](/variants/s9/db2r21db1lb4db7lb2db2lb2r2~x4/)|
+|![American example sett](/variants/s9/db2r21db1lb4db7lb2db2lb2r2~x4/sett.png)|

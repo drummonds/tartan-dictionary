@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wcwm 1873-5](/setts/s9/k1db8r1dy3r1dy8k4dg14r1~x4/)|
-|![Wcwm 1873-5 example sett](/setts/s9/k1db8r1dy3r1dy8k4dg14r1~x4/sett.png)|
+| [Wcwm 1873-5](/variants/s9/k1db8r1dy3r1dy8k4dg14r1~x4/)|
+|![Wcwm 1873-5 example sett](/variants/s9/k1db8r1dy3r1dy8k4dg14r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Falconer of Labhdal (Personal)](/setts/s6/t7k7t7g20t2g2~x4/)|
-|![Falconer of Labhdal (Personal) example sett](/setts/s6/t7k7t7g20t2g2~x4/sett.png)|
+| [Falconer of Labhdal (Personal)](/variants/s6/t7k7t7g20t2g2~x4/)|
+|![Falconer of Labhdal (Personal) example sett](/variants/s6/t7k7t7g20t2g2~x4/sett.png)|

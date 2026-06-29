@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kells Irish Pubs (Corporate)](/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/)|
-|![Kells Irish Pubs (Corporate) example sett](/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/sett.png)|
+| [Kells Irish Pubs (Corporate)](/variants/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/)|
+|![Kells Irish Pubs (Corporate) example sett](/variants/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/sett.png)|

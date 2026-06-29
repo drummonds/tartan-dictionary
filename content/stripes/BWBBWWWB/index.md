@@ -24,11 +24,11 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eildon (1980)](/setts/s8/dbi42lbi2lb2lbi2dbi5db12lb32dbi4~x2/)|
-|![Eildon (1980) example sett](/setts/s8/dbi42lbi2lb2lbi2dbi5db12lb32dbi4~x2/sett.png)|
-| [Longniddry Blue (Dance)](/setts/s8/dt42lbi2lb2lbi2dt5dti12lb32dt4~x2/)|
-|![Longniddry Blue (Dance) example sett](/setts/s8/dt42lbi2lb2lbi2dt5dti12lb32dt4~x2/sett.png)|
-| [Longniddry Dress (Dance)](/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/)|
-|![Longniddry Dress (Dance) example sett](/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/sett.png)|
-| [Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db42lbi2lb2lbi2db5dt12lb32db4~x2/)|
-|![Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/db42lbi2lb2lbi2db5dt12lb32db4~x2/sett.png)|
+| [Eildon (1980)](/variants/s8/dbi42lbi2lb2lbi2dbi5db12lb32dbi4~x2/)|
+|![Eildon (1980) example sett](/variants/s8/dbi42lbi2lb2lbi2dbi5db12lb32dbi4~x2/sett.png)|
+| [Longniddry Blue (Dance)](/variants/s8/dt42lbi2lb2lbi2dt5dti12lb32dt4~x2/)|
+|![Longniddry Blue (Dance) example sett](/variants/s8/dt42lbi2lb2lbi2dt5dti12lb32dt4~x2/sett.png)|
+| [Longniddry Dress (Dance)](/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/)|
+|![Longniddry Dress (Dance) example sett](/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/sett.png)|
+| [Longniddry Eildon Blue Dress Fancy Tartan](/variants/s8/db42lbi2lb2lbi2db5dt12lb32db4~x2/)|
+|![Longniddry Eildon Blue Dress Fancy Tartan example sett](/variants/s8/db42lbi2lb2lbi2db5dt12lb32db4~x2/sett.png)|

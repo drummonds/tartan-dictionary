@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacQueen of Dalmagarry (Clan?)](/setts/s8/g3r4k1r26y14r4dp16w2~x2/)|
-|![MacQueen of Dalmagarry (Clan?) example sett](/setts/s8/g3r4k1r26y14r4dp16w2~x2/sett.png)|
+| [MacQueen of Dalmagarry (Clan?)](/variants/s8/g3r4k1r26y14r4dp16w2~x2/)|
+|![MacQueen of Dalmagarry (Clan?) example sett](/variants/s8/g3r4k1r26y14r4dp16w2~x2/sett.png)|

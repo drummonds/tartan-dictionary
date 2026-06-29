@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Martin Hunting](/setts/s5/dp20k5ki19g19ly2~x2/)|
-|![Martin Hunting example sett](/setts/s5/dp20k5ki19g19ly2~x2/sett.png)|
+| [Martin Hunting](/variants/s5/dp20k5ki19g19ly2~x2/)|
+|![Martin Hunting example sett](/variants/s5/dp20k5ki19g19ly2~x2/sett.png)|

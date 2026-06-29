@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden Dress Ancient](/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/)|
-|![Culloden Dress Ancient example sett](/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/sett.png)|
-| [Culloden, dress Ancient](/setts/s8/r6db2p21w3dg19w26dg3w5~x2/)|
-|![Culloden, dress Ancient example sett](/setts/s8/r6db2p21w3dg19w26dg3w5~x2/sett.png)|
+| [Culloden Dress Ancient](/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/)|
+|![Culloden Dress Ancient example sett](/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/sett.png)|
+| [Culloden, dress Ancient](/variants/s8/r6db2p21w3dg19w26dg3w5~x2/)|
+|![Culloden, dress Ancient example sett](/variants/s8/r6db2p21w3dg19w26dg3w5~x2/sett.png)|

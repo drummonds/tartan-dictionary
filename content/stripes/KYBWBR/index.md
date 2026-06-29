@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kendle (2013)](/setts/s6/r5db58lb4t6ly4k4~x2/)|
-|![Kendle (2013) example sett](/setts/s6/r5db58lb4t6ly4k4~x2/sett.png)|
+| [Kendle (2013)](/variants/s6/r5db58lb4t6ly4k4~x2/)|
+|![Kendle (2013) example sett](/variants/s6/r5db58lb4t6ly4k4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Greenford (Personal)](/setts/s4/y50dy25ly2dp6~x2/)|
-|![Highland Greenford (Personal) example sett](/setts/s4/y50dy25ly2dp6~x2/sett.png)|
+| [Highland Greenford (Personal)](/variants/s4/y50dy25ly2dp6~x2/)|
+|![Highland Greenford (Personal) example sett](/variants/s4/y50dy25ly2dp6~x2/sett.png)|

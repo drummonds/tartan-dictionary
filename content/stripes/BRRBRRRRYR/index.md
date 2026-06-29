@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Star Is Born, A](/setts/s10/oi2lo14o14r1oi2r2b2r2oi20b2~x4/)|
-|![Star Is Born, A example sett](/setts/s10/oi2lo14o14r1oi2r2b2r2oi20b2~x4/sett.png)|
+| [Star Is Born, A](/variants/s10/oi2lo14o14r1oi2r2b2r2oi20b2~x4/)|
+|![Star Is Born, A example sett](/variants/s10/oi2lo14o14r1oi2r2b2r2oi20b2~x4/sett.png)|

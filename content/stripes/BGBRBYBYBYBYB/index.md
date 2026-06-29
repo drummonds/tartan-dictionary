@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [G8 Summit](/setts/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/)|
-|![G8 Summit example sett](/setts/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/sett.png)|
+| [G8 Summit](/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/)|
+|![G8 Summit example sett](/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/sett.png)|

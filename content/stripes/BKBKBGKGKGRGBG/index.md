@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prestoungrange (Personal)](/setts/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/)|
-|![Prestoungrange (Personal) example sett](/setts/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/sett.png)|
-| [Prestoungrange/Dolphinstoun/Wills](/setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/)|
-|![Prestoungrange/Dolphinstoun/Wills example sett](/setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/sett.png)|
+| [Prestoungrange (Personal)](/variants/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/)|
+|![Prestoungrange (Personal) example sett](/variants/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/sett.png)|
+| [Prestoungrange/Dolphinstoun/Wills](/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/)|
+|![Prestoungrange/Dolphinstoun/Wills example sett](/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNappy](/setts/s6/w36lt12w1r12g16ly2~x2/)|
-|![MacNappy example sett](/setts/s6/w36lt12w1r12g16ly2~x2/sett.png)|
+| [MacNappy](/variants/s6/w36lt12w1r12g16ly2~x2/)|
+|![MacNappy example sett](/variants/s6/w36lt12w1r12g16ly2~x2/sett.png)|

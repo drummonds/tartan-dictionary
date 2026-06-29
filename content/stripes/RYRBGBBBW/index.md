@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heirloom Red Alba (Fashion)](/setts/s9/r4ly2r34db10y4db4t4db23w3~x2/)|
-|![Heirloom Red Alba (Fashion) example sett](/setts/s9/r4ly2r34db10y4db4t4db23w3~x2/sett.png)|
+| [Heirloom Red Alba (Fashion)](/variants/s9/r4ly2r34db10y4db4t4db23w3~x2/)|
+|![Heirloom Red Alba (Fashion) example sett](/variants/s9/r4ly2r34db10y4db4t4db23w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galway County Crest (Fashion)](/setts/s9/o10t5db15k3db15k5r25k3w4~x2/)|
-|![Galway County Crest (Fashion) example sett](/setts/s9/o10t5db15k3db15k5r25k3w4~x2/sett.png)|
+| [Galway County Crest (Fashion)](/variants/s9/o10t5db15k3db15k5r25k3w4~x2/)|
+|![Galway County Crest (Fashion) example sett](/variants/s9/o10t5db15k3db15k5r25k3w4~x2/sett.png)|

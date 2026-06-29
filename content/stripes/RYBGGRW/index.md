@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (ex Tony Murray)](/setts/s7/r2ly2db9dy1dg9r1w1~x2/)|
-|![Unidentified (ex Tony Murray) example sett](/setts/s7/r2ly2db9dy1dg9r1w1~x2/sett.png)|
+| [Unidentified (ex Tony Murray)](/variants/s7/r2ly2db9dy1dg9r1w1~x2/)|
+|![Unidentified (ex Tony Murray) example sett](/variants/s7/r2ly2db9dy1dg9r1w1~x2/sett.png)|

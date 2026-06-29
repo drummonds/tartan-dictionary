@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burns](/setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/)|
-|![Burns example sett](/setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/sett.png)|
-| [Burns 1930](/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/)|
-|![Burns 1930 example sett](/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/sett.png)|
+| [Burns](/variants/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/)|
+|![Burns example sett](/variants/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/sett.png)|
+| [Burns 1930](/variants/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/)|
+|![Burns 1930 example sett](/variants/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/sett.png)|

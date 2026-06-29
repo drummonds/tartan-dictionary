@@ -24,7 +24,7 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anderson (MacGregor-Hastie #1)](/setts/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/)|
-|![Anderson (MacGregor-Hastie #1) example sett](/setts/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/sett.png)|
-| [Anderson 7](/setts/s22/r8t16k2r4k2t51k8w8k6ly4k4ly4k12r4k12r4g16k2r4k2r16g8/)|
-|![Anderson 7 example sett](/setts/s22/r8t16k2r4k2t51k8w8k6ly4k4ly4k12r4k12r4g16k2r4k2r16g8/sett.png)|
+| [Anderson (MacGregor-Hastie #1)](/variants/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/)|
+|![Anderson (MacGregor-Hastie #1) example sett](/variants/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/sett.png)|
+| [Anderson 7](/variants/s22/r8t16k2r4k2t51k8w8k6ly4k4ly4k12r4k12r4g16k2r4k2r16g8/)|
+|![Anderson 7 example sett](/variants/s22/r8t16k2r4k2t51k8w8k6ly4k4ly4k12r4k12r4g16k2r4k2r16g8/sett.png)|

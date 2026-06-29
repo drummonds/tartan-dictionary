@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Margach, William (Dumbarton)](/setts/s6/m4k3t18r3dp34w3~x2/)|
-|![Margach, William (Dumbarton) example sett](/setts/s6/m4k3t18r3dp34w3~x2/sett.png)|
-| [Margach, William (Personal)](/setts/s6/m4k3b18r3dt34w3~x2/)|
-|![Margach, William (Personal) example sett](/setts/s6/m4k3b18r3dt34w3~x2/sett.png)|
+| [Margach, William (Dumbarton)](/variants/s6/m4k3t18r3dp34w3~x2/)|
+|![Margach, William (Dumbarton) example sett](/variants/s6/m4k3t18r3dp34w3~x2/sett.png)|
+| [Margach, William (Personal)](/variants/s6/m4k3b18r3dt34w3~x2/)|
+|![Margach, William (Personal) example sett](/variants/s6/m4k3b18r3dt34w3~x2/sett.png)|

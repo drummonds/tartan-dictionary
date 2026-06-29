@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.033](/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/)|
-|![Wilson's No.033 example sett](/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/sett.png)|
+| [Wilson's No.033](/variants/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/)|
+|![Wilson's No.033 example sett](/variants/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/sett.png)|

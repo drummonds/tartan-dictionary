@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Langhein, Alex (Personal)](/setts/s8/k40dg15k10r2k10lo2k10lo2~x2/)|
-|![Langhein, Alex (Personal) example sett](/setts/s8/k40dg15k10r2k10lo2k10lo2~x2/sett.png)|
+| [Langhein, Alex (Personal)](/variants/s8/k40dg15k10r2k10lo2k10lo2~x2/)|
+|![Langhein, Alex (Personal) example sett](/variants/s8/k40dg15k10r2k10lo2k10lo2~x2/sett.png)|

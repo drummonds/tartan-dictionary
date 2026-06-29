@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan Tangerine](/setts/s7/o1w1dp4w1o4k1w1~x8/)|
-|![Tartan Tangerine example sett](/setts/s7/o1w1dp4w1o4k1w1~x8/sett.png)|
+| [Tartan Tangerine](/variants/s7/o1w1dp4w1o4k1w1~x8/)|
+|![Tartan Tangerine example sett](/variants/s7/o1w1dp4w1o4k1w1~x8/sett.png)|

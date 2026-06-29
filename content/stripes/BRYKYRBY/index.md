@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pittsburgh St Andrew's Society](/setts/s8/t1r1lo1k15lo15r1t1lo1~x4/)|
-|![Pittsburgh St Andrew's Society example sett](/setts/s8/t1r1lo1k15lo15r1t1lo1~x4/sett.png)|
+| [Pittsburgh St Andrew's Society](/variants/s8/t1r1lo1k15lo15r1t1lo1~x4/)|
+|![Pittsburgh St Andrew's Society example sett](/variants/s8/t1r1lo1k15lo15r1t1lo1~x4/sett.png)|

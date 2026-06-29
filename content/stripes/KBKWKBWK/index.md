@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salem Scottish Dancer's Wee Bluet](/setts/s8/k10n10k60w9k7n36w6k6/)|
-|![Salem Scottish Dancer's Wee Bluet example sett](/setts/s8/k10n10k60w9k7n36w6k6/sett.png)|
+| [Salem Scottish Dancer's Wee Bluet](/variants/s8/k10n10k60w9k7n36w6k6/)|
+|![Salem Scottish Dancer's Wee Bluet example sett](/variants/s8/k10n10k60w9k7n36w6k6/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walter](/setts/s7/r24w3ly4dg18p18dy3t4~x2/)|
-|![Walter example sett](/setts/s7/r24w3ly4dg18p18dy3t4~x2/sett.png)|
-| [Walter (Personal)](/setts/s7/r24w3ly4dg18dp18y3t4~x2/)|
-|![Walter (Personal) example sett](/setts/s7/r24w3ly4dg18dp18y3t4~x2/sett.png)|
+| [Walter](/variants/s7/r24w3ly4dg18p18dy3t4~x2/)|
+|![Walter example sett](/variants/s7/r24w3ly4dg18p18dy3t4~x2/sett.png)|
+| [Walter (Personal)](/variants/s7/r24w3ly4dg18dp18y3t4~x2/)|
+|![Walter (Personal) example sett](/variants/s7/r24w3ly4dg18dp18y3t4~x2/sett.png)|

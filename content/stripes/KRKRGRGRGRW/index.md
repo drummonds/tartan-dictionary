@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North Berwick Pipe Band (Dancing)](/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/)|
-|![North Berwick Pipe Band (Dancing) example sett](/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/sett.png)|
+| [North Berwick Pipe Band (Dancing)](/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/)|
+|![North Berwick Pipe Band (Dancing) example sett](/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/sett.png)|

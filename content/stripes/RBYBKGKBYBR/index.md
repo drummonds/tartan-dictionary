@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rangers Dress (Sports)](/setts/s11/r2db6lr2db2k9y30k9db5lr4db2r2~x2/)|
-|![Rangers Dress (Sports) example sett](/setts/s11/r2db6lr2db2k9y30k9db5lr4db2r2~x2/sett.png)|
+| [Rangers Dress (Sports)](/variants/s11/r2db6lr2db2k9y30k9db5lr4db2r2~x2/)|
+|![Rangers Dress (Sports) example sett](/variants/s11/r2db6lr2db2k9y30k9db5lr4db2r2~x2/sett.png)|

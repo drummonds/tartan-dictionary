@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Monarchs](/setts/s6/db19k4dr1k4dg9dr1~x4/)|
-|![Monarchs example sett](/setts/s6/db19k4dr1k4dg9dr1~x4/sett.png)|
-| [Wilson's, No 166](/setts/s6/t3g12k14t11k3t3~x2/)|
-|![Wilson's, No 166 example sett](/setts/s6/t3g12k14t11k3t3~x2/sett.png)|
+| [Monarchs](/variants/s6/db19k4dr1k4dg9dr1~x4/)|
+|![Monarchs example sett](/variants/s6/db19k4dr1k4dg9dr1~x4/sett.png)|
+| [Wilson's, No 166](/variants/s6/t3g12k14t11k3t3~x2/)|
+|![Wilson's, No 166 example sett](/variants/s6/t3g12k14t11k3t3~x2/sett.png)|

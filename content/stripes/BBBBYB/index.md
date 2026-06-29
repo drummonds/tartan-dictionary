@@ -24,13 +24,13 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connecticut State Police PB (Cor.)](/setts/s6/n42db2n2db17lo8db4~x2/)|
-|![Connecticut State Police PB (Cor.) example sett](/setts/s6/n42db2n2db17lo8db4~x2/sett.png)|
-| [Hepburn #2](/setts/s6/db13b1db3b6ly1b1~x4/)|
-|![Hepburn #2 example sett](/setts/s6/db13b1db3b6ly1b1~x4/sett.png)|
-| [Port Authority of NY & NJ](/setts/s6/t9db2t39dt33lo2dt5~x2/)|
-|![Port Authority of NY & NJ example sett](/setts/s6/t9db2t39dt33lo2dt5~x2/sett.png)|
-| [Sligo](/setts/s6/t50dr4t12dr23ly4dr4~x2/)|
-|![Sligo example sett](/setts/s6/t50dr4t12dr23ly4dr4~x2/sett.png)|
-| [Sligo, County](/setts/s6/db50do4db12do23ly4do4~x2/)|
-|![Sligo, County example sett](/setts/s6/db50do4db12do23ly4do4~x2/sett.png)|
+| [Connecticut State Police PB (Cor.)](/variants/s6/n42db2n2db17lo8db4~x2/)|
+|![Connecticut State Police PB (Cor.) example sett](/variants/s6/n42db2n2db17lo8db4~x2/sett.png)|
+| [Hepburn #2](/variants/s6/db13b1db3b6ly1b1~x4/)|
+|![Hepburn #2 example sett](/variants/s6/db13b1db3b6ly1b1~x4/sett.png)|
+| [Port Authority of NY & NJ](/variants/s6/t9db2t39dt33lo2dt5~x2/)|
+|![Port Authority of NY & NJ example sett](/variants/s6/t9db2t39dt33lo2dt5~x2/sett.png)|
+| [Sligo](/variants/s6/t50dr4t12dr23ly4dr4~x2/)|
+|![Sligo example sett](/variants/s6/t50dr4t12dr23ly4dr4~x2/sett.png)|
+| [Sligo, County](/variants/s6/db50do4db12do23ly4do4~x2/)|
+|![Sligo, County example sett](/variants/s6/db50do4db12do23ly4do4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bannockbane Dark Green](/setts/s7/dg4g3dg24w15lo21gi3lo4~x2/)|
-|![Bannockbane Dark Green example sett](/setts/s7/dg4g3dg24w15lo21gi3lo4~x2/sett.png)|
+| [Bannockbane Dark Green](/variants/s7/dg4g3dg24w15lo21gi3lo4~x2/)|
+|![Bannockbane Dark Green example sett](/variants/s7/dg4g3dg24w15lo21gi3lo4~x2/sett.png)|

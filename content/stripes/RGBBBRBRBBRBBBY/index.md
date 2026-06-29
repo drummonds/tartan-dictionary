@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Cathedral (Fashion)](/setts/s15/r4g1db22dbi2dp2r1dp2r4dbi1dp10r2dbi20dp1dbi2ly2~x2/)|
-|![Highland Cathedral (Fashion) example sett](/setts/s15/r4g1db22dbi2dp2r1dp2r4dbi1dp10r2dbi20dp1dbi2ly2~x2/sett.png)|
+| [Highland Cathedral (Fashion)](/variants/s15/r4g1db22dbi2dp2r1dp2r4dbi1dp10r2dbi20dp1dbi2ly2~x2/)|
+|![Highland Cathedral (Fashion) example sett](/variants/s15/r4g1db22dbi2dp2r1dp2r4dbi1dp10r2dbi20dp1dbi2ly2~x2/sett.png)|

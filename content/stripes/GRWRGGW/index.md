@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian Brewery (Corporate)](/setts/s7/lb4dg13g6r16lbi2r2g2~x2/)|
-|![Caledonian Brewery (Corporate) example sett](/setts/s7/lb4dg13g6r16lbi2r2g2~x2/sett.png)|
+| [Caledonian Brewery (Corporate)](/variants/s7/lb4dg13g6r16lbi2r2g2~x2/)|
+|![Caledonian Brewery (Corporate) example sett](/variants/s7/lb4dg13g6r16lbi2r2g2~x2/sett.png)|

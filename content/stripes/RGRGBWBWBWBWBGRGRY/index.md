@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chinese Scottish](/setts/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24ly3~x2/)|
-|![Chinese Scottish example sett](/setts/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24ly3~x2/sett.png)|
+| [Chinese Scottish](/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24ly3~x2/)|
+|![Chinese Scottish example sett](/variants/s18/r24g6r3g3db6w1db1w2db58w2db1w1db6g3r3g6r24ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/ki2k28ki4k1ki4m16t3m2y2m3t1~x2/)|
-|![Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/ki2k28ki4k1ki4m16t3m2y2m3t1~x2/sett.png)|
+| [Torridon Dress Tartan](/variants/s11/ki2k28ki4k1ki4m16t3m2y2m3t1~x2/)|
+|![Torridon Dress Tartan example sett](/variants/s11/ki2k28ki4k1ki4m16t3m2y2m3t1~x2/sett.png)|

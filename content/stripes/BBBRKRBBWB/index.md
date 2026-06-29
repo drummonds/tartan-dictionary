@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Custer (Personal)](/setts/s10/db20w1dp8t1r2k3r2t1dp20db8~x2/)|
-|![Custer (Personal) example sett](/setts/s10/db20w1dp8t1r2k3r2t1dp20db8~x2/sett.png)|
+| [Custer (Personal)](/variants/s10/db20w1dp8t1r2k3r2t1dp20db8~x2/)|
+|![Custer (Personal) example sett](/variants/s10/db20w1dp8t1r2k3r2t1dp20db8~x2/sett.png)|

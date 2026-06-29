@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [J & B Whisky (Original) (Corporate)](/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/)|
-|![J & B Whisky (Original) (Corporate) example sett](/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/sett.png)|
+| [J & B Whisky (Original) (Corporate)](/variants/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/)|
+|![J & B Whisky (Original) (Corporate) example sett](/variants/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/sett.png)|

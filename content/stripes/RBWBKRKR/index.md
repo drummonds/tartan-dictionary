@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKean](/setts/s8/r2k4r2k4db1w1db4r1~x4/)|
-|![MacKean example sett](/setts/s8/r2k4r2k4db1w1db4r1~x4/sett.png)|
-| [MacKean Red (Personal)](/setts/s8/r2k4r2k4db1lb1db4r1~x4/)|
-|![MacKean Red (Personal) example sett](/setts/s8/r2k4r2k4db1lb1db4r1~x4/sett.png)|
+| [MacKean](/variants/s8/r2k4r2k4db1w1db4r1~x4/)|
+|![MacKean example sett](/variants/s8/r2k4r2k4db1w1db4r1~x4/sett.png)|
+| [MacKean Red (Personal)](/variants/s8/r2k4r2k4db1lb1db4r1~x4/)|
+|![MacKean Red (Personal) example sett](/variants/s8/r2k4r2k4db1lb1db4r1~x4/sett.png)|

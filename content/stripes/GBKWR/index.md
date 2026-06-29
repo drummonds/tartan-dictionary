@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Charles-Carberry (Personal)](/setts/s5/dg21t10k26w10r1~x2/)|
-|![Charles-Carberry (Personal) example sett](/setts/s5/dg21t10k26w10r1~x2/sett.png)|
+| [Charles-Carberry (Personal)](/variants/s5/dg21t10k26w10r1~x2/)|
+|![Charles-Carberry (Personal) example sett](/variants/s5/dg21t10k26w10r1~x2/sett.png)|

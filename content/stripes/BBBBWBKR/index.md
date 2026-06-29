@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beauly Firth and Glens](/setts/s8/dp3n3dp3n27w1t15k22r3~x2/)|
-|![Beauly Firth and Glens example sett](/setts/s8/dp3n3dp3n27w1t15k22r3~x2/sett.png)|
+| [Beauly Firth and Glens](/variants/s8/dp3n3dp3n27w1t15k22r3~x2/)|
+|![Beauly Firth and Glens example sett](/variants/s8/dp3n3dp3n27w1t15k22r3~x2/sett.png)|

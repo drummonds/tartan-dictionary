@@ -1,9 +1,5 @@
 ---
 title: "Clan Mead"
-date: 2023-03-18
+redirect: "/families/mead-of-poetry/"
 ---
-## Families
-
-- [Mead Of Poetry, The](/families/mead-of-poetry-the/)
-- [Mead of Poetry](/families/mead-of-poetry/)
-
+Clan Mead is recorded as the single family [Mead of Poetry](/families/mead-of-poetry/) — redirecting there.

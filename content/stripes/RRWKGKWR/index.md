@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathblane](/setts/s8/o6w2k4dy12k4w2o6r3~x2/)|
-|![Strathblane example sett](/setts/s8/o6w2k4dy12k4w2o6r3~x2/sett.png)|
+| [Strathblane](/variants/s8/o6w2k4dy12k4w2o6r3~x2/)|
+|![Strathblane example sett](/variants/s8/o6w2k4dy12k4w2o6r3~x2/sett.png)|

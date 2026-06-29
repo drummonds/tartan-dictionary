@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chateau](/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/)|
-|![Chateau example sett](/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/sett.png)|
+| [Chateau](/variants/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/)|
+|![Chateau example sett](/variants/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/sett.png)|

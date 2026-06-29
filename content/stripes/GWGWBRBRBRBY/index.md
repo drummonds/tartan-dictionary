@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walker, Dress (Personal)](/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/)|
-|![Walker, Dress (Personal) example sett](/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/sett.png)|
+| [Walker, Dress (Personal)](/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/)|
+|![Walker, Dress (Personal) example sett](/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/sett.png)|

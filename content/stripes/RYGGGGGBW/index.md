@@ -24,9 +24,9 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nova Scotia](/setts/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/)|
-|![Nova Scotia example sett](/setts/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/sett.png)|
-| [Nova Scotia (Province)](/setts/s9/w2db20gi2g2gi2g4gi8ly2r1~x2/)|
-|![Nova Scotia (Province) example sett](/setts/s9/w2db20gi2g2gi2g4gi8ly2r1~x2/sett.png)|
-| [Unidentified (ex Tony Murray)](/setts/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2/)|
-|![Unidentified (ex Tony Murray) example sett](/setts/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2/sett.png)|
+| [Nova Scotia](/variants/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/)|
+|![Nova Scotia example sett](/variants/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/sett.png)|
+| [Nova Scotia (Province)](/variants/s9/w2db20gi2g2gi2g4gi8ly2r1~x2/)|
+|![Nova Scotia (Province) example sett](/variants/s9/w2db20gi2g2gi2g4gi8ly2r1~x2/sett.png)|
+| [Unidentified (ex Tony Murray)](/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2/)|
+|![Unidentified (ex Tony Murray) example sett](/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2/sett.png)|

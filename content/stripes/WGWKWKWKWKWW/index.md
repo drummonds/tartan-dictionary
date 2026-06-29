@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Liberty Square](/setts/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/)|
-|![Liberty Square example sett](/setts/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/sett.png)|
+| [Liberty Square](/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/)|
+|![Liberty Square example sett](/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/sett.png)|

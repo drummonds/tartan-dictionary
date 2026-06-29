@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Krifa-Jean (Personal)](/setts/s7/dg4ri5ly4db4dy2k4r4~x10/)|
-|![Krifa-Jean (Personal) example sett](/setts/s7/dg4ri5ly4db4dy2k4r4~x10/sett.png)|
+| [Krifa-Jean (Personal)](/variants/s7/dg4ri5ly4db4dy2k4r4~x10/)|
+|![Krifa-Jean (Personal) example sett](/variants/s7/dg4ri5ly4db4dy2k4r4~x10/sett.png)|

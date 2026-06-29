@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stone of Destiny, The (Commemorative](/setts/s9/db4lo2db20dt2r4dt2db3dt12db2~x2/)|
-|![Stone of Destiny, The (Commemorative example sett](/setts/s9/db4lo2db20dt2r4dt2db3dt12db2~x2/sett.png)|
+| [Stone of Destiny, The (Commemorative](/variants/s9/db4lo2db20dt2r4dt2db3dt12db2~x2/)|
+|![Stone of Destiny, The (Commemorative example sett](/variants/s9/db4lo2db20dt2r4dt2db3dt12db2~x2/sett.png)|

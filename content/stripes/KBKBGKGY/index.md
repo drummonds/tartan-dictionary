@@ -24,13 +24,13 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Banff Centennial](/setts/s8/k1b1k1b12dg12k1dg1ly1~x4/)|
-|![Banff Centennial example sett](/setts/s8/k1b1k1b12dg12k1dg1ly1~x4/sett.png)|
-| [Banff Centennial (Commemorative)](/setts/s8/k1b1k1b7dg8k1dg1ly1~x4/)|
-|![Banff Centennial (Commemorative) example sett](/setts/s8/k1b1k1b7dg8k1dg1ly1~x4/sett.png)|
-| [Johnston](/tartans/ly3dg2k1dg30db24k2db2k2/)|
-|![Johnston example sett](/setts/s8/ly3dg2k1dg30db24k2db2k2/sett.png)|
-| [Johnston (Clan)](/setts/s8/ly3g2k1g30b24k2b2k2~x2/)|
-|![Johnston (Clan) example sett](/setts/s8/ly3g2k1g30b24k2b2k2~x2/sett.png)|
-| [Johnston / Johnstone](/setts/s8/ly3g2k1g30db24k2db2k2~x2/)|
-|![Johnston / Johnstone example sett](/setts/s8/ly3g2k1g30db24k2db2k2~x2/sett.png)|
+| [Banff Centennial](/variants/s8/k1b1k1b12dg12k1dg1ly1~x4/)|
+|![Banff Centennial example sett](/variants/s8/k1b1k1b12dg12k1dg1ly1~x4/sett.png)|
+| [Banff Centennial (Commemorative)](/variants/s8/k1b1k1b7dg8k1dg1ly1~x4/)|
+|![Banff Centennial (Commemorative) example sett](/variants/s8/k1b1k1b7dg8k1dg1ly1~x4/sett.png)|
+| [Johnston](/setts/ly3dg2k1dg30db24k2db2k2/)|
+|![Johnston example sett](/variants/s8/ly3dg2k1dg30db24k2db2k2/sett.png)|
+| [Johnston (Clan)](/variants/s8/ly3g2k1g30b24k2b2k2~x2/)|
+|![Johnston (Clan) example sett](/variants/s8/ly3g2k1g30b24k2b2k2~x2/sett.png)|
+| [Johnston / Johnstone](/variants/s8/ly3g2k1g30db24k2db2k2~x2/)|
+|![Johnston / Johnstone example sett](/variants/s8/ly3g2k1g30db24k2db2k2~x2/sett.png)|

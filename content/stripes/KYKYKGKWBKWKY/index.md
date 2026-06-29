@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lotus Elan (Corporate)](/setts/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/)|
-|![Lotus Elan (Corporate) example sett](/setts/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/sett.png)|
+| [Lotus Elan (Corporate)](/variants/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/)|
+|![Lotus Elan (Corporate) example sett](/variants/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/sett.png)|

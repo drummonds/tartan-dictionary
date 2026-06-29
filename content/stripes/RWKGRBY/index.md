@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alabama (Fashion)](/setts/s7/r3lb8k9g16r12n12lo3~x2/)|
-|![Alabama (Fashion) example sett](/setts/s7/r3lb8k9g16r12n12lo3~x2/sett.png)|
+| [Alabama (Fashion)](/variants/s7/r3lb8k9g16r12n12lo3~x2/)|
+|![Alabama (Fashion) example sett](/variants/s7/r3lb8k9g16r12n12lo3~x2/sett.png)|

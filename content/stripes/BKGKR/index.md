@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clark](/tartans/r3k1dg1k1b3/)|
-|![Clark example sett](/setts/s5/r3k1dg1k1b3~x4/sett.png)|
-| [Clark Clerk(e)](/setts/s5/db3k1dg1k1m3~x16/)|
-|![Clark Clerk(e) example sett](/setts/s5/db3k1dg1k1m3~x16/sett.png)|
+| [Clark](/setts/r3k1dg1k1b3/)|
+|![Clark example sett](/variants/s5/r3k1dg1k1b3~x4/sett.png)|
+| [Clark Clerk(e)](/variants/s5/db3k1dg1k1m3~x16/)|
+|![Clark Clerk(e) example sett](/variants/s5/db3k1dg1k1m3~x16/sett.png)|

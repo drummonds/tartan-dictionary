@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galt, Alexander, Sir](/setts/s13/r4dg20k16ly2k3lr3k2db18r6k2r4k1lr2~x4/)|
-|![Galt, Alexander, Sir example sett](/setts/s13/r4dg20k16ly2k3lr3k2db18r6k2r4k1lr2~x4/sett.png)|
+| [Galt, Alexander, Sir](/variants/s13/r4dg20k16ly2k3lr3k2db18r6k2r4k1lr2~x4/)|
+|![Galt, Alexander, Sir example sett](/variants/s13/r4dg20k16ly2k3lr3k2db18r6k2r4k1lr2~x4/sett.png)|

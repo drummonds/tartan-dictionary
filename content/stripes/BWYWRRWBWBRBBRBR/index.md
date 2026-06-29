@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wcwm 1717](/setts/s16/do20lb1lo8lb1r16ri4lb1do18lb1do20ri8do8b8r8b8r1~x4/)|
-|![Wcwm 1717 example sett](/setts/s16/do20lb1lo8lb1r16ri4lb1do18lb1do20ri8do8b8r8b8r1~x4/sett.png)|
+| [Wcwm 1717](/variants/s16/do20lb1lo8lb1r16ri4lb1do18lb1do20ri8do8b8r8b8r1~x4/)|
+|![Wcwm 1717 example sett](/variants/s16/do20lb1lo8lb1r16ri4lb1do18lb1do20ri8do8b8r8b8r1~x4/sett.png)|

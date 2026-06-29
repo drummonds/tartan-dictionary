@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cavalier, Red](/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/)|
-|![Cavalier, Red example sett](/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/sett.png)|
+| [Cavalier, Red](/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/)|
+|![Cavalier, Red example sett](/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/sett.png)|

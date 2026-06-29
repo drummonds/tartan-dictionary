@@ -1,0 +1,116 @@
+---
+title: "Unidentified #54"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1/)
+(the same proportion at any scale), whose colour order is pattern [WRBRGWGYGWRW](/stripes/wrbrgwgygwrw/).
+
+Part of the [Unidentified](/tartans/unidentified/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4255
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #10
+- Unidentified #12
+- Unidentified #14
+- Unidentified #15
+- Unidentified #16
+- Unidentified #18
+- Unidentified #2
+- Unidentified #21
+- Unidentified #22
+- Unidentified #24
+- Unidentified #25
+- Unidentified #28
+- Unidentified #29
+- Unidentified #30
+- Unidentified #31
+- Unidentified #32
+- Unidentified #36
+- Unidentified #37
+- Unidentified #38
+- Unidentified #40
+- Unidentified #43
+- Unidentified #44
+- Unidentified #45
+- Unidentified #46
+- Unidentified #47
+- Unidentified #48
+- Unidentified #49
+- Unidentified #5
+- Unidentified #50
+- Unidentified #51
+- Unidentified #52
+- Unidentified #53
+- Unidentified #54
+- Unidentified #55
+- Unidentified #56
+- Unidentified #57
+- Unidentified #58
+- Unidentified #59
+- Unidentified #60
+- Unidentified #61
+- Unidentified #62
+- Unidentified #63
+- Unidentified #64
+- Unidentified #65
+- Unidentified #66
+- Unidentified #7
+- Unidentified #8
+- Unidentified #9
+- Unidentified 16
+- Unidentified Artifact
+- Unidentified Plaid
+- Unidentified Plaid #11
+- Unidentified Plaid #13
+- Unidentified Plaid #2
+- Unidentified Plaid #3
+- Unidentified Plaid #7
+- Unidentified Plaid #8
+- Unidentified Plaid #9
+- Unidentified Portrait
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4255](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4255)
+- Scottish Tartans Authority (ITI): 4576
+
+## Thread count
+N/96 DR8 N12 T4 DY4 T4 N4 T24 LT24 B4 LT8 N/4
+
+One full sett is **292 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 6 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">96</td><td><code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> <small style="color:#888">#C8C8C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(83.3% 0.000 89.9)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#8C0000;"><span style="color:#8C0000;filter:grayscale(1) invert(1) contrast(100);">#8C0000</span></code> <small style="color:#888">#8C0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(40.2% 0.165 29.2)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> <small style="color:#888">#C8C8C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(83.3% 0.000 89.9)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#502814;"><span style="color:#502814;filter:grayscale(1) invert(1) contrast(100);">#502814</span></code> <small style="color:#888">#502814</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(32.6% 0.067 45.9)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C89800;"><span style="color:#C89800;filter:grayscale(1) invert(1) contrast(100);">#C89800</span></code> <small style="color:#888">#C89800</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(70.6% 0.144 85.9)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#502814;"><span style="color:#502814;filter:grayscale(1) invert(1) contrast(100);">#502814</span></code> <small style="color:#888">#502814</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(32.6% 0.067 45.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> <small style="color:#888">#C8C8C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(83.3% 0.000 89.9)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#502814;"><span style="color:#502814;filter:grayscale(1) invert(1) contrast(100);">#502814</span></code> <small style="color:#888">#502814</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(32.6% 0.067 45.9)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#8C6428;"><span style="color:#8C6428;filter:grayscale(1) invert(1) contrast(100);">#8C6428</span></code> <small style="color:#888">#8C6428</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(53.3% 0.092 74.3)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#3474FC;"><span style="color:#3474FC;filter:grayscale(1) invert(1) contrast(100);">#3474FC</span></code> <small style="color:#888">#3474FC</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(59.7% 0.214 262.7)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#8C6428;"><span style="color:#8C6428;filter:grayscale(1) invert(1) contrast(100);">#8C6428</span></code> <small style="color:#888">#8C6428</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(53.3% 0.092 74.3)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> <small style="color:#888">#C8C8C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(83.3% 0.000 89.9)</small></td></tr></tbody></table>
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dp4r3dp26r26dg26r4/"><img src="/variants/s6/dp4r3dp26r26dg26r4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dp4r3dp26r26dg26r4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Unidentified #54</a> <a class="nn-out" href="/variants/s12/lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=w63k4t9ly2t4ly2t4o11r8t2r4w5~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Seller, Sillar</a> <a class="nn-out" href="/variants/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Stewart Dress (Artefact)</a> <a class="nn-out" href="/variants/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/variants/s11/y56lr6wi6ly2w2ly2w16lr10w2y6r3~x2/">McAleavy (2014)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/y56lr6wi6ly2w2ly2w16lr10w2y6r3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Diana, Plaid dress</a> <a class="nn-out" href="/variants/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Renfrew #2</a> <a class="nn-out" href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=w50o4lo2k2lo2o4lo10o15t2~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Australian, dress</a> <a class="nn-out" href="/variants/s9/w50o4lo2k2lo2o4lo10o15t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w50o4lo2k2lo2o4lo10o15t2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=w72y20ly2db3w2y3o16dy6y2dy5w2~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Stewart Blue Dress Clan Tartan</a> <a class="nn-out" href="/variants/s11/w72y20ly2db3w2y3o16dy6y2dy5w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/w72y20ly2db3w2y3o16dy6y2dy5w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=w2k1g6dy11w26r2w1ly2~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Saskatchewan Dress (Dance)</a> <a class="nn-out" href="/variants/s8/w2k1g6dy11w26r2w1ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w2k1g6dy11w26r2w1ly2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=lg8lr2r3lr2ly2lr28r10lb1db3lb2~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">Confederate Memorial Commemmorative Tartan</a> <a class="nn-out" href="/variants/s10/lg8lr2r3lr2ly2lr28r10lb1db3lb2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/lg8lr2r3lr2ly2lr28r10lb1db3lb2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=y56lb6ly6lyi2w2lyi2w16lb10w2y6r3~x2&amp;base=lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4">McAleavy (2014)</a> <a class="nn-out" href="/variants/s11/y56lb6ly6lyi2w2lyi2w16lb10w2y6r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/y56lb6ly6lyi2w2lyi2w16lb10w2y6r3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/"><circle cx="304.0" cy="34.6" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/"><circle cx="309.6" cy="31.7" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/variants/s11/y56lr6wi6ly2w2ly2w16lr10w2y6r3~x2/"><circle cx="292.0" cy="60.2" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/"><circle cx="336.0" cy="43.5" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="317.1" cy="74.3" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s9/w50o4lo2k2lo2o4lo10o15t2~x2/"><circle cx="317.6" cy="83.9" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/variants/s11/w72y20ly2db3w2y3o16dy6y2dy5w2~x2/"><circle cx="329.1" cy="47.8" r="4" fill="#3465a4"><title>Stewart Blue Dress Clan Tartan</title></circle></a><a href="/variants/s8/w2k1g6dy11w26r2w1ly2~x2/"><circle cx="280.5" cy="76.5" r="4" fill="#3465a4"><title>Saskatchewan Dress (Dance)</title></circle></a><a href="/variants/s10/lg8lr2r3lr2ly2lr28r10lb1db3lb2~x2/"><circle cx="286.3" cy="79.6" r="4" fill="#3465a4"><title>Confederate Memorial Commemmorative Tartan</title></circle></a><a href="/variants/s11/y56lb6ly6lyi2w2lyi2w16lb10w2y6r3~x2/"><circle cx="292.9" cy="59.5" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><circle cx="317.1" cy="58.3" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s12/lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4/

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McBrayer Blue (Personal)](/setts/s8/db57k1r12db1g12r14db1r2~x2/)|
-|![McBrayer Blue (Personal) example sett](/setts/s8/db57k1r12db1g12r14db1r2~x2/sett.png)|
+| [McBrayer Blue (Personal)](/variants/s8/db57k1r12db1g12r14db1r2~x2/)|
+|![McBrayer Blue (Personal) example sett](/variants/s8/db57k1r12db1g12r14db1r2~x2/sett.png)|

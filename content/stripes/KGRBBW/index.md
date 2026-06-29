@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Glencoe](/setts/s6/k3g2m3db30dp32w3~x2/)|
-|![Pride of Glencoe example sett](/setts/s6/k3g2m3db30dp32w3~x2/sett.png)|
+| [Pride of Glencoe](/variants/s6/k3g2m3db30dp32w3~x2/)|
+|![Pride of Glencoe example sett](/variants/s6/k3g2m3db30dp32w3~x2/sett.png)|

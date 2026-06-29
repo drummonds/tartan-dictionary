@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae, of Ardentoul](/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/)|
-|![MacRae, of Ardentoul example sett](/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/sett.png)|
+| [MacRae, of Ardentoul](/variants/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/)|
+|![MacRae, of Ardentoul example sett](/variants/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/sett.png)|

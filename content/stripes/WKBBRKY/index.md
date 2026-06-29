@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [George Heriot's School](/setts/s7/w3k1db24dbi10o24k1ly3~x2/)|
-|![George Heriot's School example sett](/setts/s7/w3k1db24dbi10o24k1ly3~x2/sett.png)|
+| [George Heriot's School](/variants/s7/w3k1db24dbi10o24k1ly3~x2/)|
+|![George Heriot's School example sett](/variants/s7/w3k1db24dbi10o24k1ly3~x2/sett.png)|

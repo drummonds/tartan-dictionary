@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dauphinee (Personal)](/setts/s11/r9k4w6k4db21lo3db13k2w4k2r6~x2/)|
-|![Dauphinee (Personal) example sett](/setts/s11/r9k4w6k4db21lo3db13k2w4k2r6~x2/sett.png)|
-| [Dauphinee (Trussville, Alabama) (Personal)](/setts/s11/r9k4w6k4dt21ly3dt13k2w4k2r6~x2/)|
-|![Dauphinee (Trussville, Alabama) (Personal) example sett](/setts/s11/r9k4w6k4dt21ly3dt13k2w4k2r6~x2/sett.png)|
+| [Dauphinee (Personal)](/variants/s11/r9k4w6k4db21lo3db13k2w4k2r6~x2/)|
+|![Dauphinee (Personal) example sett](/variants/s11/r9k4w6k4db21lo3db13k2w4k2r6~x2/sett.png)|
+| [Dauphinee (Trussville, Alabama) (Personal)](/variants/s11/r9k4w6k4dt21ly3dt13k2w4k2r6~x2/)|
+|![Dauphinee (Trussville, Alabama) (Personal) example sett](/variants/s11/r9k4w6k4dt21ly3dt13k2w4k2r6~x2/sett.png)|

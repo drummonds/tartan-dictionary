@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clyde Valley HOG](/setts/s8/k54lr6k6lr6o20lo40k6ly3/)|
-|![Clyde Valley HOG example sett](/setts/s8/k54lr6k6lr6o20lo40k6ly3/sett.png)|
+| [Clyde Valley HOG](/variants/s8/k54lr6k6lr6o20lo40k6ly3/)|
+|![Clyde Valley HOG example sett](/variants/s8/k54lr6k6lr6o20lo40k6ly3/sett.png)|

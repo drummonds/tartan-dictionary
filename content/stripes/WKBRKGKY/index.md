@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGeachie (Personal)](/setts/s8/w1k6b9r12k12g32k6ly1~x2/)|
-|![McGeachie (Personal) example sett](/setts/s8/w1k6b9r12k12g32k6ly1~x2/sett.png)|
+| [McGeachie (Personal)](/variants/s8/w1k6b9r12k12g32k6ly1~x2/)|
+|![McGeachie (Personal) example sett](/variants/s8/w1k6b9r12k12g32k6ly1~x2/sett.png)|

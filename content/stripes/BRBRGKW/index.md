@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chestico](/setts/s7/db20o1db1o1dg8k1w3~x2/)|
-|![Chestico example sett](/setts/s7/db20o1db1o1dg8k1w3~x2/sett.png)|
+| [Chestico](/variants/s7/db20o1db1o1dg8k1w3~x2/)|
+|![Chestico example sett](/variants/s7/db20o1db1o1dg8k1w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clydebank (Fashion)](/setts/s12/r2p3r1p16n2p9n9p3n15g1n3g2~x2/)|
-|![Clydebank (Fashion) example sett](/setts/s12/r2p3r1p16n2p9n9p3n15g1n3g2~x2/sett.png)|
+| [Clydebank (Fashion)](/variants/s12/r2p3r1p16n2p9n9p3n15g1n3g2~x2/)|
+|![Clydebank (Fashion) example sett](/variants/s12/r2p3r1p16n2p9n9p3n15g1n3g2~x2/sett.png)|

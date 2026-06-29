@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sempill (Clan)](/setts/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/)|
-|![Sempill (Clan) example sett](/setts/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/sett.png)|
+| [Sempill (Clan)](/variants/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/)|
+|![Sempill (Clan) example sett](/variants/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/sett.png)|

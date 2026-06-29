@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bowie (white lines) (Name)](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/)|
-|![Bowie (white lines) (Name) example sett](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/sett.png)|
+| [Bowie (white lines) (Name)](/variants/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/)|
+|![Bowie (white lines) (Name) example sett](/variants/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/sett.png)|

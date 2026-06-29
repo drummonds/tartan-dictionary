@@ -24,9 +24,9 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Conroy](/setts/s8/r64k10ly4ri5w2k2db3ly4~x2/)|
-|![Conroy example sett](/setts/s8/r64k10ly4ri5w2k2db3ly4~x2/sett.png)|
-| [Conroy (Personal)](/setts/s8/r64k10lo4m5lb2k2db3lo4~x2/)|
-|![Conroy (Personal) example sett](/setts/s8/r64k10lo4m5lb2k2db3lo4~x2/sett.png)|
-| [Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r64k10ly4m5w2k2db3ly4~x2/)|
-|![Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/r64k10ly4m5w2k2db3ly4~x2/sett.png)|
+| [Conroy](/variants/s8/r64k10ly4ri5w2k2db3ly4~x2/)|
+|![Conroy example sett](/variants/s8/r64k10ly4ri5w2k2db3ly4~x2/sett.png)|
+| [Conroy (Personal)](/variants/s8/r64k10lo4m5lb2k2db3lo4~x2/)|
+|![Conroy (Personal) example sett](/variants/s8/r64k10lo4m5lb2k2db3lo4~x2/sett.png)|
+| [Conroy Family Tartan](/variants/s8/r64k10ly4m5w2k2db3ly4~x2/)|
+|![Conroy Family Tartan example sett](/variants/s8/r64k10ly4m5w2k2db3ly4~x2/sett.png)|

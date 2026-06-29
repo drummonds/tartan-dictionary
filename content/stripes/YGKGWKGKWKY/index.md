@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Offally County Crest (Fashion)](/setts/s11/ly24k8lp4k6g76k8w14g4k9g12lo10/)|
-|![Offally County Crest (Fashion) example sett](/setts/s11/ly24k8lp4k6g76k8w14g4k9g12lo10/sett.png)|
+| [Offally County Crest (Fashion)](/variants/s11/ly24k8lp4k6g76k8w14g4k9g12lo10/)|
+|![Offally County Crest (Fashion) example sett](/variants/s11/ly24k8lp4k6g76k8w14g4k9g12lo10/sett.png)|

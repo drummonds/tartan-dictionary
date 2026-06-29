@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bobby Jones (Personal)](/setts/s6/r1dy2dt12dy8db16lo1~x2/)|
-|![Bobby Jones (Personal) example sett](/setts/s6/r1dy2dt12dy8db16lo1~x2/sett.png)|
-| [Irving of Bonshaw Tower (Personal)](/setts/s6/r2g3db2g14db14lr2~x2/)|
-|![Irving of Bonshaw Tower (Personal) example sett](/setts/s6/r2g3db2g14db14lr2~x2/sett.png)|
+| [Bobby Jones (Personal)](/variants/s6/r1dy2dt12dy8db16lo1~x2/)|
+|![Bobby Jones (Personal) example sett](/variants/s6/r1dy2dt12dy8db16lo1~x2/sett.png)|
+| [Irving of Bonshaw Tower (Personal)](/variants/s6/r2g3db2g14db14lr2~x2/)|
+|![Irving of Bonshaw Tower (Personal) example sett](/variants/s6/r2g3db2g14db14lr2~x2/sett.png)|

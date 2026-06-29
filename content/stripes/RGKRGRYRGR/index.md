@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Annan](/setts/s10/o15y1o2lo2o2y1o3k8y10o3~x4/)|
-|![Annan example sett](/setts/s10/o15y1o2lo2o2y1o3k8y10o3~x4/sett.png)|
+| [Annan](/variants/s10/o15y1o2lo2o2y1o3k8y10o3~x4/)|
+|![Annan example sett](/variants/s10/o15y1o2lo2o2y1o3k8y10o3~x4/sett.png)|

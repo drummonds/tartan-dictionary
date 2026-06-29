@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kildonan Blue (Fashion)](/setts/s9/t22db3t3db3t3db9lb28db3lb6~x2/)|
-|![Kildonan Blue (Fashion) example sett](/setts/s9/t22db3t3db3t3db9lb28db3lb6~x2/sett.png)|
+| [Kildonan Blue (Fashion)](/variants/s9/t22db3t3db3t3db9lb28db3lb6~x2/)|
+|![Kildonan Blue (Fashion) example sett](/variants/s9/t22db3t3db3t3db9lb28db3lb6~x2/sett.png)|

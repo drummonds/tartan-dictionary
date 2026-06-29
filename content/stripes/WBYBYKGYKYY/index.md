@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cossar (Personal)](/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/)|
-|![Cossar (Personal) example sett](/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/sett.png)|
+| [Cossar (Personal)](/variants/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/)|
+|![Cossar (Personal) example sett](/variants/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/sett.png)|

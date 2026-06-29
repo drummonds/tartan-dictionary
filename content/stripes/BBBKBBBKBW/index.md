@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Wales (Fashion)](/setts/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/)|
-|![Spirit of Wales (Fashion) example sett](/setts/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/sett.png)|
+| [Spirit of Wales (Fashion)](/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/)|
+|![Spirit of Wales (Fashion) example sett](/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/sett.png)|

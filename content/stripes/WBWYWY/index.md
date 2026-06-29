@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ailsa, Gold (Dance)](/setts/s6/ly8w3ly28w32dp3w4~x2/)|
-|![Ailsa, Gold (Dance) example sett](/setts/s6/ly8w3ly28w32dp3w4~x2/sett.png)|
+| [Ailsa, Gold (Dance)](/variants/s6/ly8w3ly28w32dp3w4~x2/)|
+|![Ailsa, Gold (Dance) example sett](/variants/s6/ly8w3ly28w32dp3w4~x2/sett.png)|

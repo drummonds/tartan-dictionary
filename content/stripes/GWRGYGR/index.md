@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan for London, A (Fashion)](/setts/s7/r30dg18lr3dg18r20lb3g3~x2/)|
-|![Tartan for London, A (Fashion) example sett](/setts/s7/r30dg18lr3dg18r20lb3g3~x2/sett.png)|
+| [Tartan for London, A (Fashion)](/variants/s7/r30dg18lr3dg18r20lb3g3~x2/)|
+|![Tartan for London, A (Fashion) example sett](/variants/s7/r30dg18lr3dg18r20lb3g3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Postal Service (Corporate)](/setts/s7/k2t10r5w2db2w2r2~x6/)|
-|![U.S. Postal Service (Corporate) example sett](/setts/s7/k2t10r5w2db2w2r2~x6/sett.png)|
+| [U.S. Postal Service (Corporate)](/variants/s7/k2t10r5w2db2w2r2~x6/)|
+|![U.S. Postal Service (Corporate) example sett](/variants/s7/k2t10r5w2db2w2r2~x6/sett.png)|

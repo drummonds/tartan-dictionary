@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tolmie](/setts/s5/k8lo1k8dg13r2~x4/)|
-|![Tolmie example sett](/setts/s5/k8lo1k8dg13r2~x4/sett.png)|
+| [Tolmie](/variants/s5/k8lo1k8dg13r2~x4/)|
+|![Tolmie example sett](/variants/s5/k8lo1k8dg13r2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Tourist Board (1990) (Corp)](/setts/s5/b50db15w3db4w2~x2/)|
-|![Scottish Tourist Board (1990) (Corp) example sett](/setts/s5/b50db15w3db4w2~x2/sett.png)|
+| [Scottish Tourist Board (1990) (Corp)](/variants/s5/b50db15w3db4w2~x2/)|
+|![Scottish Tourist Board (1990) (Corp) example sett](/variants/s5/b50db15w3db4w2~x2/sett.png)|

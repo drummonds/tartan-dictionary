@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caithness Glass (Corporate)](/setts/s6/r1w10ly2w16db40w1~x2/)|
-|![Caithness Glass (Corporate) example sett](/setts/s6/r1w10ly2w16db40w1~x2/sett.png)|
+| [Caithness Glass (Corporate)](/variants/s6/r1w10ly2w16db40w1~x2/)|
+|![Caithness Glass (Corporate) example sett](/variants/s6/r1w10ly2w16db40w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Orchy #2 or MacIntyre](/setts/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/)|
-|![Glen Orchy #2 or MacIntyre example sett](/setts/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/sett.png)|
+| [Glen Orchy #2 or MacIntyre](/variants/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/)|
+|![Glen Orchy #2 or MacIntyre example sett](/variants/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/sett.png)|

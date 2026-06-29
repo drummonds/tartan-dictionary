@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelly of Sleat (Name)](/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/)|
-|![Kelly of Sleat (Name) example sett](/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/sett.png)|
+| [Kelly of Sleat (Name)](/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/)|
+|![Kelly of Sleat (Name) example sett](/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/sett.png)|

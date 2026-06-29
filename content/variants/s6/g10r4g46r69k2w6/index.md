@@ -1,0 +1,59 @@
+---
+title: "Colchester & District Pipes & Drums"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10r4g46r69k2w6/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKW](/stripes/grgrkw/).
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10181
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Colchester & District Pipes & Drums
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2010 — Colchester & District Pipes & Drums (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10181">record</a>)</li>
+<li>1st Jan. 2010 — Colchester & District P&D (Corporate (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10181/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10181](https://www.tartanregister.gov.uk/tartanDetails?ref=10181)
+- Scottish Tartans Authority (ITI): 10181
+
+## Thread count
+G/10 R4 G46 R69 K2 W/6
+
+One full sett is **258 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#458B00;"><span style="color:#458B00;filter:grayscale(1) invert(1) contrast(100);">#458B00</span></code> <small style="color:#888">#458B00</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(56.8% 0.167 135.4)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#EE0000;"><span style="color:#EE0000;filter:grayscale(1) invert(1) contrast(100);">#EE0000</span></code> <small style="color:#888">#EE0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(59.6% 0.245 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">46</td><td><code style="background-color:#458B00;"><span style="color:#458B00;filter:grayscale(1) invert(1) contrast(100);">#458B00</span></code> <small style="color:#888">#458B00</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(56.8% 0.167 135.4)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">69</td><td><code style="background-color:#EE0000;"><span style="color:#EE0000;filter:grayscale(1) invert(1) contrast(100);">#EE0000</span></code> <small style="color:#888">#EE0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(59.6% 0.245 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> <small style="color:#888">#FFFFFF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(100.0% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="G/10 R4 G46 R69 K2 W/6 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=g10r4g46r69k2w6">Colchester &amp; District Pipes &amp; Drums</a> <a class="nn-out" href="/variants/s6/g10r4g46r69k2w6/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g10r4g46r69k2w6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=r36g18r4g6k1w2~x2&amp;base=g10r4g46r69k2w6">MacGregor</a> <a class="nn-out" href="/variants/s6/r36g18r4g6k1w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r36g18r4g6k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=r41g19r7g8k1w3~x2&amp;base=g10r4g46r69k2w6">MacGregor #4</a> <a class="nn-out" href="/variants/s6/r41g19r7g8k1w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r41g19r7g8k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=r36dg18r4dg6k1w2~x2&amp;base=g10r4g46r69k2w6">MacGregor #3</a> <a class="nn-out" href="/variants/s6/r36dg18r4dg6k1w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r36dg18r4dg6k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=g1ly1g1w1g10r20ly1~x4&amp;base=g10r4g46r69k2w6">Maver (Buckie)</a> <a class="nn-out" href="/variants/s7/g1ly1g1w1g10r20ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g1ly1g1w1g10r20ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=r56w2db6w2g32r11db6w5&amp;base=g10r4g46r69k2w6">Spens</a> <a class="nn-out" href="/variants/s8/r56w2db6w2g32r11db6w5/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r56w2db6w2g32r11db6w5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=r40w2db2w2r1ly20~x2&amp;base=g10r4g46r69k2w6">National Defense</a> <a class="nn-out" href="/variants/s6/r40w2db2w2r1ly20~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r40w2db2w2r1ly20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/ttd/edit/#slug=r36dg18r4dg6k1lb2&amp;base=g10r4g46r69k2w6">MacGregor</a> <a class="nn-out" href="/variants/s6/r36dg18r4dg6k1lb2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r36dg18r4dg6k1lb2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.40</div><div class="nn-name"><a href="/ttd/edit/#slug=r17dy5w1r5w7dy47r7~x2&amp;base=g10r4g46r69k2w6">Pride of Cleveland Fall</a> <a class="nn-out" href="/variants/s7/r17dy5w1r5w7dy47r7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r17dy5w1r5w7dy47r7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.41</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g4w3g4r4g14r28k1r3g4~x2&amp;base=g10r4g46r69k2w6">Scott - 1842 (Clan)</a> <a class="nn-out" href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.47</div><div class="nn-name"><a href="/ttd/edit/#slug=lo5r6k5r6lo36b3lo2k1~x2&amp;base=g10r4g46r69k2w6">Lermontov Bicentenary</a> <a class="nn-out" href="/variants/s8/lo5r6k5r6lo36b3lo2k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lo5r6k5r6lo36b3lo2k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="420.9" cy="138.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r41g19r7g8k1w3~x2/"><circle cx="427.1" cy="138.0" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/variants/s6/r36dg18r4dg6k1w2~x2/"><circle cx="420.6" cy="134.5" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/variants/s7/g1ly1g1w1g10r20ly1~x4/"><circle cx="368.0" cy="118.1" r="4" fill="#3465a4"><title>Maver (Buckie)</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="359.1" cy="124.2" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s6/r40w2db2w2r1ly20~x2/"><circle cx="407.7" cy="104.4" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s6/r36dg18r4dg6k1lb2/"><circle cx="424.7" cy="139.8" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s7/r17dy5w1r5w7dy47r7~x2/"><circle cx="416.4" cy="123.9" r="4" fill="#3465a4"><title>Pride of Cleveland Fall</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="380.5" cy="123.6" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/variants/s8/lo5r6k5r6lo36b3lo2k1~x2/"><circle cx="446.7" cy="108.8" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><circle cx="377.6" cy="129.2" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/g10r4g46r69k2w6/

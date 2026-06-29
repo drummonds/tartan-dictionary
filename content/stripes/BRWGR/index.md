@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Sock Tie)](/setts/s5/db27o9w3dy16r7~x2/)|
-|![Unidentified (Sock Tie) example sett](/setts/s5/db27o9w3dy16r7~x2/sett.png)|
+| [Unidentified (Sock Tie)](/variants/s5/db27o9w3dy16r7~x2/)|
+|![Unidentified (Sock Tie) example sett](/variants/s5/db27o9w3dy16r7~x2/sett.png)|

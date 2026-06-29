@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bog Myrtle Corner](/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/)|
-|![Bog Myrtle Corner example sett](/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/sett.png)|
+| [Bog Myrtle Corner](/variants/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/)|
+|![Bog Myrtle Corner example sett](/variants/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/sett.png)|

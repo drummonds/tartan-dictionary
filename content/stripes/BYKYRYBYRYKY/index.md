@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carlisle (Family)](/setts/s12/b33lo6r3lo6k3lo15b32~x4/)|
-|![Carlisle (Family) example sett](/setts/s12/b33lo6r3lo6k3lo15b32~x4/sett.png)|
+| [Carlisle (Family)](/variants/s12/b33lo6r3lo6k3lo15b32~x4/)|
+|![Carlisle (Family) example sett](/variants/s12/b33lo6r3lo6k3lo15b32~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Monuments (Corporate)](/setts/s9/k3n6k2n8dt20o3dt2o2dt3~x2/)|
-|![Scottish Monuments (Corporate) example sett](/setts/s9/k3n6k2n8dt20o3dt2o2dt3~x2/sett.png)|
+| [Scottish Monuments (Corporate)](/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2/)|
+|![Scottish Monuments (Corporate) example sett](/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2/sett.png)|

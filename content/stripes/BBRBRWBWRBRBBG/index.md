@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harding](/setts/s14/dg30dt2n7r14n7r7w1dt14~x2/)|
-|![Harding example sett](/setts/s14/dg30dt2n7r14n7r7w1dt14~x2/sett.png)|
+| [Harding](/variants/s14/dg30dt2n7r14n7r7w1dt14~x2/)|
+|![Harding example sett](/variants/s14/dg30dt2n7r14n7r7w1dt14~x2/sett.png)|

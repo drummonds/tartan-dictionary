@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Studio Wolf Polysun](/setts/s12/ri18r3w3r3ri2r1w1g1ri2ly1r1k1~x4/)|
-|![Studio Wolf Polysun example sett](/setts/s12/ri18r3w3r3ri2r1w1g1ri2ly1r1k1~x4/sett.png)|
+| [Studio Wolf Polysun](/variants/s12/ri18r3w3r3ri2r1w1g1ri2ly1r1k1~x4/)|
+|![Studio Wolf Polysun example sett](/variants/s12/ri18r3w3r3ri2r1w1g1ri2ly1r1k1~x4/sett.png)|

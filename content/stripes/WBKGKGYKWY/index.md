@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kagame (Personal)](/setts/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/)|
-|![Kagame (Personal) example sett](/setts/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png)|
+| [Kagame (Personal)](/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/)|
+|![Kagame (Personal) example sett](/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/sett.png)|

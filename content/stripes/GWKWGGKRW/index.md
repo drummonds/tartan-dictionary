@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leach, Leech, Leitch, hunting](/setts/s9/dg32w1k3w1g14dg7k3m3w1~x2/)|
-|![Leach, Leech, Leitch, hunting example sett](/setts/s9/dg32w1k3w1g14dg7k3m3w1~x2/sett.png)|
+| [Leach, Leech, Leitch, hunting](/variants/s9/dg32w1k3w1g14dg7k3m3w1~x2/)|
+|![Leach, Leech, Leitch, hunting example sett](/variants/s9/dg32w1k3w1g14dg7k3m3w1~x2/sett.png)|

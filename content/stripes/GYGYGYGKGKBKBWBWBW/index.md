@@ -24,7 +24,7 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Islamic](/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/)|
-|![Scottish Islamic example sett](/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/sett.png)|
-| [Scottish Islamic (Corporate)](/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/)|
-|![Scottish Islamic (Corporate) example sett](/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/sett.png)|
+| [Scottish Islamic](/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/)|
+|![Scottish Islamic example sett](/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/sett.png)|
+| [Scottish Islamic (Corporate)](/variants/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/)|
+|![Scottish Islamic (Corporate) example sett](/variants/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/sett.png)|

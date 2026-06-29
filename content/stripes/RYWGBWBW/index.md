@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Miller Hargreaves (Personal)](/setts/s8/lb40db4lb4p5g5lb3ly6r3~x2/)|
-|![Miller Hargreaves (Personal) example sett](/setts/s8/lb40db4lb4p5g5lb3ly6r3~x2/sett.png)|
+| [Miller Hargreaves (Personal)](/variants/s8/lb40db4lb4p5g5lb3ly6r3~x2/)|
+|![Miller Hargreaves (Personal) example sett](/variants/s8/lb40db4lb4p5g5lb3ly6r3~x2/sett.png)|

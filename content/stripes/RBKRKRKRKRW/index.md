@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hilton Plaid](/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/)|
-|![Hilton Plaid example sett](/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/sett.png)|
+| [Hilton Plaid](/variants/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/)|
+|![Hilton Plaid example sett](/variants/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/sett.png)|

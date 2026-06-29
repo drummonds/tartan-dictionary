@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Columba](/setts/s8/db60t5w4o12g42p12t5p12/)|
-|![St Columba example sett](/setts/s8/db60t5w4o12g42p12t5p12/sett.png)|
+| [St Columba](/variants/s8/db60t5w4o12g42p12t5p12/)|
+|![St Columba example sett](/variants/s8/db60t5w4o12g42p12t5p12/sett.png)|

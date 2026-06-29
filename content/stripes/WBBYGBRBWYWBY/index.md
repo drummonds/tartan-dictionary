@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Arisaid (Personal)](/setts/s13/ly2t1w42lo2w6dp1r1dp1g4lo4dp1t1w1~x2/)|
-|![Kerr of Ardgowan Arisaid (Personal) example sett](/setts/s13/ly2t1w42lo2w6dp1r1dp1g4lo4dp1t1w1~x2/sett.png)|
+| [Kerr of Ardgowan Arisaid (Personal)](/variants/s13/ly2t1w42lo2w6dp1r1dp1g4lo4dp1t1w1~x2/)|
+|![Kerr of Ardgowan Arisaid (Personal) example sett](/variants/s13/ly2t1w42lo2w6dp1r1dp1g4lo4dp1t1w1~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Festival of Authors](/setts/s6/dp30m5dp5t4dp4g12~x2/)|
-|![International Festival of Authors example sett](/setts/s6/dp30m5dp5t4dp4g12~x2/sett.png)|
-| [International Festival of Authors (C](/setts/s6/dp30m5dp5b4dp4g12~x2/)|
-|![International Festival of Authors (C example sett](/setts/s6/dp30m5dp5b4dp4g12~x2/sett.png)|
+| [International Festival of Authors](/variants/s6/dp30m5dp5t4dp4g12~x2/)|
+|![International Festival of Authors example sett](/variants/s6/dp30m5dp5t4dp4g12~x2/sett.png)|
+| [International Festival of Authors (C](/variants/s6/dp30m5dp5b4dp4g12~x2/)|
+|![International Festival of Authors (C example sett](/variants/s6/dp30m5dp5b4dp4g12~x2/sett.png)|

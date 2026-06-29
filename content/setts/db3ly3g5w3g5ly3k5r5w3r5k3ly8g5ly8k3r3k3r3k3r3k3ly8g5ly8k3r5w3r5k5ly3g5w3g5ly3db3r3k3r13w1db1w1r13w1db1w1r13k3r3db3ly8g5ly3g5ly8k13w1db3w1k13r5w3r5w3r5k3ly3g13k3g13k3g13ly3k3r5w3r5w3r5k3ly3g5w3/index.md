@@ -1,0 +1,5 @@
+---
+title: "Drummond of Strathallan or Ogilvy"
+redirect: "/variants/s82/db3ly3g5w3g5ly3k5r5w3r5k3ly8g5ly8k3r3k3r3k3r3k3ly8g5ly8k3r5w3r5k5ly3g5w3g5ly3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly8g5ly3g5ly8k13w1db3w1k13r5w3r5w3r5k3ly3g13k3g13k3g13ly3k3r5w3r5w3r5k3ly3g5w3~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Drummond of Strathallan or Ogilvy](/variants/s82/db3ly3g5w3g5ly3k5r5w3r5k3ly8g5ly8k3r3k3r3k3r3k3ly8g5ly8k3r5w3r5k5ly3g5w3g5ly3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly8g5ly3g5ly8k13w1db3w1k13r5w3r5w3r5k3ly3g13k3g13k3g13ly3k3r5w3r5w3r5k3ly3g5w3~x2/).

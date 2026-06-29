@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hirter Karo](/setts/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/)|
-|![Hirter Karo example sett](/setts/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/sett.png)|
+| [Hirter Karo](/variants/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/)|
+|![Hirter Karo example sett](/variants/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/sett.png)|

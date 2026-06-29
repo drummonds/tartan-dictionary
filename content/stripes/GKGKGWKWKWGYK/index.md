@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lomond (1983)](/setts/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/)|
-|![Lomond (1983) example sett](/setts/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/sett.png)|
+| [Lomond (1983)](/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/)|
+|![Lomond (1983) example sett](/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/sett.png)|

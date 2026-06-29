@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thompson/Thomson/MacTavish special grey](/setts/s6/r3y27k6lo13k14r3~x2/)|
-|![Thompson/Thomson/MacTavish special grey example sett](/setts/s6/r3y27k6lo13k14r3~x2/sett.png)|
+| [Thompson/Thomson/MacTavish special grey](/variants/s6/r3y27k6lo13k14r3~x2/)|
+|![Thompson/Thomson/MacTavish special grey example sett](/variants/s6/r3y27k6lo13k14r3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connacht](/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8~x2/)|
-|![Connacht example sett](/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8~x2/sett.png)|
-| [Connaught Irish District Tartan Tartan Number: 2064. Earliest known date: Not known A tartan from the West of Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/ly32g2m1g2m1g2m32do1m1do4~x2/)|
-|![Connaught Irish District Tartan Tartan Number: 2064. Earliest known date: Not known A tartan from the West of Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/ly32g2m1g2m1g2m32do1m1do4~x2/sett.png)|
+| [Connacht](/variants/s10/lo64g4o1g4o1g4o64dr2o2dr8~x2/)|
+|![Connacht example sett](/variants/s10/lo64g4o1g4o1g4o64dr2o2dr8~x2/sett.png)|
+| [Connaught Irish District Tartan](/variants/s10/ly32g2m1g2m1g2m32do1m1do4~x2/)|
+|![Connaught Irish District Tartan example sett](/variants/s10/ly32g2m1g2m1g2m32do1m1do4~x2/sett.png)|

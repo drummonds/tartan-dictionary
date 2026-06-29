@@ -8,11 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/db56lo2dg19lo1dg2lo1db2~x2/"><img src="/setts/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png" alt="Lewis of Wales" width="240"><br>Lewis of Wales</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s7/db56lo2dg19lo1dg2lo1db2~x2/"><img src="/setts/s7/db56lo2dg19lo1dg2lo1db2~x2/sett.png" alt="Lewis Welsh Name Tartan Tartan Number: 5758. Earliest known date: 22002 The tartan for this Welsh surname and its variations, Lewis, Lewys, Lou, Louis, Lew, Lewes, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Lewis Welsh Name Tartan Tartan Number: 5758. Earliest known date: 22002 The tartan for this Welsh surname and its variations, Lewis, Lewys, Lou, Louis, Lew, Lewes, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db56lo2dg19lo1dg2lo1db2/">Lewis of Wales</a> ★</td><td><code>DB/112 LO4 DG38 LO2 DG4 LO2 DB4 LO2 DG4 LO2 DG38 LO/4</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db56lo2dg19lo1dg2lo1db2/"><img src="/variants/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png" alt="Lewis of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

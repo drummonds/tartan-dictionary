@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Knox #1](/setts/s24/db10lbi3lb2lo2db18db3lo2lo4db18db13lbi2lo2r11dt12lo2dp2g2g13r2lo4g4g3k2lb10~x2/)|
-|![Knox #1 example sett](/setts/s24/db10lbi3lb2lo2db18db3lo2lo4db18db13lbi2lo2r11dt12lo2dp2g2g13r2lo4g4g3k2lb10~x2/sett.png)|
+| [Knox #1](/variants/s24/db10lbi3lb2lo2db18db3lo2lo4db18db13lbi2lo2r11dt12lo2dp2g2g13r2lo4g4g3k2lb10~x2/)|
+|![Knox #1 example sett](/variants/s24/db10lbi3lb2lo2db18db3lo2lo4db18db13lbi2lo2r11dt12lo2dp2g2g13r2lo4g4g3k2lb10~x2/sett.png)|

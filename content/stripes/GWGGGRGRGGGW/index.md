@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tricor](/setts/s12/y23o4dy6g6y4lb1y4~x4/)|
-|![Tricor example sett](/setts/s12/y23o4dy6g6y4lb1y4~x4/sett.png)|
+| [Tricor](/variants/s12/y23o4dy6g6y4lb1y4~x4/)|
+|![Tricor example sett](/variants/s12/y23o4dy6g6y4lb1y4~x4/sett.png)|

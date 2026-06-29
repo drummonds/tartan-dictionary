@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Presbyterian Synod (US) (Corporate)](/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/)|
-|![Presbyterian Synod (US) (Corporate) example sett](/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/sett.png)|
+| [Presbyterian Synod (US) (Corporate)](/variants/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/)|
+|![Presbyterian Synod (US) (Corporate) example sett](/variants/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/sett.png)|

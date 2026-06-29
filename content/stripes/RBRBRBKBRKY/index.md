@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDougall - 1970 (William) (Comm)](/setts/s11/r5dti5r5dti5r5dti14k16dt14r3k3ly3~x2/)|
-|![MacDougall - 1970 (William) (Comm) example sett](/setts/s11/r5dti5r5dti5r5dti14k16dt14r3k3ly3~x2/sett.png)|
+| [MacDougall - 1970 (William) (Comm)](/variants/s11/r5dti5r5dti5r5dti14k16dt14r3k3ly3~x2/)|
+|![MacDougall - 1970 (William) (Comm) example sett](/variants/s11/r5dti5r5dti5r5dti14k16dt14r3k3ly3~x2/sett.png)|

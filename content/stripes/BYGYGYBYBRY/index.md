@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Craven County (Commemorative)](/setts/s11/b46ly1dy5ly1g5ly1dp5ly1b16r1ly4~x2/)|
-|![Craven County (Commemorative) example sett](/setts/s11/b46ly1dy5ly1g5ly1dp5ly1b16r1ly4~x2/sett.png)|
+| [Craven County (Commemorative)](/variants/s11/b46ly1dy5ly1g5ly1dp5ly1b16r1ly4~x2/)|
+|![Craven County (Commemorative) example sett](/variants/s11/b46ly1dy5ly1g5ly1dp5ly1b16r1ly4~x2/sett.png)|

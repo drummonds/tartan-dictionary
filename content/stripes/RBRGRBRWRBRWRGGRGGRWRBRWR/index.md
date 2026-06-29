@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAlister Modern (Lochcarron)](/setts/s25/r18t1r1gi8r1t1r6w1r1db4r1w1r2gi3g1r2g1gi3r3w1r1db2r1w1r8~x2/)|
-|![MacAlister Modern (Lochcarron) example sett](/setts/s25/r18t1r1gi8r1t1r6w1r1db4r1w1r2gi3g1r2g1gi3r3w1r1db2r1w1r8~x2/sett.png)|
+| [MacAlister Modern (Lochcarron)](/variants/s25/r18t1r1gi8r1t1r6w1r1db4r1w1r2gi3g1r2g1gi3r3w1r1db2r1w1r8~x2/)|
+|![MacAlister Modern (Lochcarron) example sett](/variants/s25/r18t1r1gi8r1t1r6w1r1db4r1w1r2gi3g1r2g1gi3r3w1r1db2r1w1r8~x2/sett.png)|

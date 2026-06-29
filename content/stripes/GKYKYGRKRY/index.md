@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anthony Plaid Stewart](/setts/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/)|
-|![Anthony Plaid Stewart example sett](/setts/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/sett.png)|
+| [Anthony Plaid Stewart](/variants/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/)|
+|![Anthony Plaid Stewart example sett](/variants/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/sett.png)|

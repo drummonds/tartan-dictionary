@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Portree, Check](/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/)|
-|![Portree, Check example sett](/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/sett.png)|
+| [Portree, Check](/variants/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/)|
+|![Portree, Check example sett](/variants/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/sett.png)|

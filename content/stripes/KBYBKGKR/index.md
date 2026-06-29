@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fox Hunting](/setts/s8/r4k2g36k2b18ly3b18k2~x2/)|
-|![Fox Hunting example sett](/setts/s8/r4k2g36k2b18ly3b18k2~x2/sett.png)|
+| [Fox Hunting](/variants/s8/r4k2g36k2b18ly3b18k2~x2/)|
+|![Fox Hunting example sett](/variants/s8/r4k2g36k2b18ly3b18k2~x2/sett.png)|

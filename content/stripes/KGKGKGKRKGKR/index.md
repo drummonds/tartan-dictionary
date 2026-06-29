@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pope (Welsh Name)](/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/)|
-|![Pope (Welsh Name) example sett](/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/sett.png)|
+| [Pope (Welsh Name)](/variants/s12/k10y26k2y4k2y26k3r36k3g30k3r2/)|
+|![Pope (Welsh Name) example sett](/variants/s12/k10y26k2y4k2y26k3r36k3g30k3r2/sett.png)|

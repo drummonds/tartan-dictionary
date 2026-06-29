@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx Laxey Dress Green](/setts/s5/w14dp4ly1g8db2~x2/)|
-|![Manx Laxey Dress Green example sett](/setts/s5/w14dp4ly1g8db2~x2/sett.png)|
+| [Manx Laxey Dress Green](/variants/s5/w14dp4ly1g8db2~x2/)|
+|![Manx Laxey Dress Green example sett](/variants/s5/w14dp4ly1g8db2~x2/sett.png)|

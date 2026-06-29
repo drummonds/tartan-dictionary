@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McIntosh, Georgina (Personal)](/setts/s6/db9r1db2r1r4w1~x12/)|
-|![McIntosh, Georgina (Personal) example sett](/setts/s6/db9r1db2r1r4w1~x12/sett.png)|
+| [McIntosh, Georgina (Personal)](/variants/s6/db9r1db2r1r4w1~x12/)|
+|![McIntosh, Georgina (Personal) example sett](/variants/s6/db9r1db2r1r4w1~x12/sett.png)|

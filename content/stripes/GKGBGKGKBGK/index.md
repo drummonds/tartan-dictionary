@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Priest](/setts/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/)|
-|![Priest example sett](/setts/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/sett.png)|
+| [Priest](/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/)|
+|![Priest example sett](/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/sett.png)|

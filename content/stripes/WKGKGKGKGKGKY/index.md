@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robieson, Graham A. (Personal)](/setts/s13/w1ki1dg8ki1dg1k8dg1ki8dg1k1dg8ki1ly1~x6/)|
-|![Robieson, Graham A. (Personal) example sett](/setts/s13/w1ki1dg8ki1dg1k8dg1ki8dg1k1dg8ki1ly1~x6/sett.png)|
-| [Robieson, Graham Alexander (Personal)](/setts/s13/w1k1dg8k1dg1ki8dg1k8dg1ki1dg8k1ly1~x6/)|
-|![Robieson, Graham Alexander (Personal) example sett](/setts/s13/w1k1dg8k1dg1ki8dg1k8dg1ki1dg8k1ly1~x6/sett.png)|
+| [Robieson, Graham A. (Personal)](/variants/s13/w1ki1dg8ki1dg1k8dg1ki8dg1k1dg8ki1ly1~x6/)|
+|![Robieson, Graham A. (Personal) example sett](/variants/s13/w1ki1dg8ki1dg1k8dg1ki8dg1k1dg8ki1ly1~x6/sett.png)|
+| [Robieson, Graham Alexander (Personal)](/variants/s13/w1k1dg8k1dg1ki8dg1k8dg1ki1dg8k1ly1~x6/)|
+|![Robieson, Graham Alexander (Personal) example sett](/variants/s13/w1k1dg8k1dg1ki8dg1k8dg1ki1dg8k1ly1~x6/sett.png)|

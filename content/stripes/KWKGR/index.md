@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burberry Hunting](/setts/s5/k3w3k3y10r1~x6/)|
-|![Burberry Hunting example sett](/setts/s5/k3w3k3y10r1~x6/sett.png)|
-| [Oban Grey](/setts/s5/k4w3k4y9r1~x4/)|
-|![Oban Grey example sett](/setts/s5/k4w3k4y9r1~x4/sett.png)|
+| [Burberry Hunting](/variants/s5/k3w3k3y10r1~x6/)|
+|![Burberry Hunting example sett](/variants/s5/k3w3k3y10r1~x6/sett.png)|
+| [Oban Grey](/variants/s5/k4w3k4y9r1~x4/)|
+|![Oban Grey example sett](/variants/s5/k4w3k4y9r1~x4/sett.png)|

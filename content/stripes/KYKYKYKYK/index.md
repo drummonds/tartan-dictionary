@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Justus Black & Gold (Angus) (Persona](/setts/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/)|
-|![Justus Black & Gold (Angus) (Persona example sett](/setts/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/sett.png)|
+| [Justus Black & Gold (Angus) (Persona](/variants/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/)|
+|![Justus Black & Gold (Angus) (Persona example sett](/variants/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/sett.png)|

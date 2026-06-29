@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shanghai Scottish](/setts/s11/w4lt13dbi5lt8dbi27lt15db16r3db3r23ly4/)|
-|![Shanghai Scottish example sett](/setts/s11/w4lt13dbi5lt8dbi27lt15db16r3db3r23ly4/sett.png)|
+| [Shanghai Scottish](/variants/s11/w4lt13dbi5lt8dbi27lt15db16r3db3r23ly4/)|
+|![Shanghai Scottish example sett](/variants/s11/w4lt13dbi5lt8dbi27lt15db16r3db3r23ly4/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Astrobiology](/setts/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/)|
-|![Astrobiology example sett](/setts/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/sett.png)|
+| [Astrobiology](/variants/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/)|
+|![Astrobiology example sett](/variants/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/sett.png)|

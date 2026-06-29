@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dove (Personal)](/setts/s9/n33k16g17o3g17k16n15k3w3~x2/)|
-|![Dove (Personal) example sett](/setts/s9/n33k16g17o3g17k16n15k3w3~x2/sett.png)|
+| [Dove (Personal)](/variants/s9/n33k16g17o3g17k16n15k3w3~x2/)|
+|![Dove (Personal) example sett](/variants/s9/n33k16g17o3g17k16n15k3w3~x2/sett.png)|

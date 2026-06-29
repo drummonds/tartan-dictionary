@@ -1,0 +1,70 @@
+---
+title: "Fitzgerald (Family)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3b22r3b3k14b14t3b3w2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKBBBW](/stripes/rbrbkbbbw/).
+
+Part of the [Fitzgerald](/tartans/fitzgerald/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Fitzgerald Blue
+- Fitzgerald Family
+- Fitzgerald Red
+- Fitzgerald, Blue
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1970 — Fitzgerald (Family) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193">record</a>)</li>
+<li>1975 — Fitzgerald Family (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1419/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1193](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193)
+- Scottish Tartans Authority (ITI): 1419
+- Scottish Tartans World Register: 1419
+
+## Thread count
+R/6 B44 R6 B6 K28 B28 Ba6 B6 W/4
+
+One full sett is **258 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(4 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">28</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">28</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>Ba</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#3C94D4;"><span style="color:#3C94D4;filter:grayscale(1) invert(1) contrast(100);">#3C94D4</span></code> <small style="color:#888">#3C94D4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(64.2% 0.127 243.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr></tbody></table>
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/k4r4w4r28b4r4g25r4b25r4b4r28w4r4k4/"><img src="/variants/s15/k4r4w4r28b4r4g25r4b25r4b4r28w4r4k4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/k4r4w4r28b4r4g25r4b25r4b4r28w4r4k4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r3b22r3b3k14b14t3b3w2~x2">Fitzgerald (Family)</a> <a class="nn-out" href="/variants/s9/r3b22r3b3k14b14t3b3w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r3b22r3b3k14b14t3b3w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=db30r3db3ly3db3g30db36w5~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">De Nardi Hunting (Personal)</a> <a class="nn-out" href="/variants/s8/db30r3db3ly3db3g30db36w5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db30r3db3ly3db3g30db36w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.23</div><div class="nn-name"><a href="/ttd/edit/#slug=db10k1g2k2t3k2g2k1db10w1~x8&amp;base=r3b22r3b3k14b14t3b3w2~x2">Isle of Harris</a> <a class="nn-out" href="/variants/s10/db10k1g2k2t3k2g2k1db10w1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db10k1g2k2t3k2g2k1db10w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.23</div><div class="nn-name"><a href="/ttd/edit/#slug=r3db21r3db3k13db13t3db3w2~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">Fitzgerald, Blue</a> <a class="nn-out" href="/variants/s9/r3db21r3db3k13db13t3db3w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r3db21r3db3k13db13t3db3w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=m4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">Ruxton, dress</a> <a class="nn-out" href="/variants/s12/m4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/m4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=r4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">Ruxton Dress</a> <a class="nn-out" href="/variants/s12/r4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.32</div><div class="nn-name"><a href="/ttd/edit/#slug=k22b16r3b16k2b16g3b3lb5~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">Jethart (District)</a> <a class="nn-out" href="/variants/s9/k22b16r3b16k2b16g3b3lb5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k22b16r3b16k2b16g3b3lb5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.35</div><div class="nn-name"><a href="/ttd/edit/#slug=db32r4db4ly4db9o9db4o16w7~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">Nevada State American District Tartan</a> <a class="nn-out" href="/variants/s9/db32r4db4ly4db9o9db4o16w7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db32r4db4ly4db9o9db4o16w7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.38</div><div class="nn-name"><a href="/ttd/edit/#slug=db30lb2k9w3db6w4k3lb6~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">Detroit Lions</a> <a class="nn-out" href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.38</div><div class="nn-name"><a href="/ttd/edit/#slug=db42k6db3k3db3w5db17w7lo10k3~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">California Riverside, University of (Corporate)</a> <a class="nn-out" href="/variants/s10/db42k6db3k3db3w5db17w7lo10k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db42k6db3k3db3w5db17w7lo10k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.39</div><div class="nn-name"><a href="/ttd/edit/#slug=g5lo2w2db8k2db5k2db28k2db10w4g3w2lo4~x2&amp;base=r3b22r3b3k14b14t3b3w2~x2">Carstairs</a> <a class="nn-out" href="/variants/s14/g5lo2w2db8k2db5k2db28k2db10w4g3w2lo4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/g5lo2w2db8k2db5k2db28k2db10w4g3w2lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db30r3db3ly3db3g30db36w5~x2/"><circle cx="342.6" cy="176.0" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.4" cy="172.8" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="305.8" cy="175.2" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/variants/s12/m4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/"><circle cx="244.7" cy="144.7" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s12/r4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/"><circle cx="248.1" cy="144.7" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="283.8" cy="187.8" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/variants/s9/db32r4db4ly4db9o9db4o16w7~x2/"><circle cx="241.8" cy="175.4" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="290.8" cy="154.2" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7lo10k3~x2/"><circle cx="352.0" cy="149.0" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/variants/s14/g5lo2w2db8k2db5k2db28k2db10w4g3w2lo4~x2/"><circle cx="329.5" cy="126.2" r="4" fill="#3465a4"><title>Carstairs</title></circle></a><circle cx="287.0" cy="163.5" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s9/r3b22r3b3k14b14t3b3w2~x2/

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swedish #2](/setts/s11/db80ly1k4ly4k4ly4k22dg36db4b6lb2/)|
-|![Swedish #2 example sett](/setts/s11/db80ly1k4ly4k4ly4k22dg36db4b6lb2/sett.png)|
+| [Swedish #2](/variants/s11/db80ly1k4ly4k4ly4k22dg36db4b6lb2/)|
+|![Swedish #2 example sett](/variants/s11/db80ly1k4ly4k4ly4k22dg36db4b6lb2/sett.png)|

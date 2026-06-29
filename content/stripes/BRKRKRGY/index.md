@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Templeton (Name?)](/setts/s8/b4r1k11r20k20r20g4ly1~x2/)|
-|![Templeton (Name?) example sett](/setts/s8/b4r1k11r20k20r20g4ly1~x2/sett.png)|
+| [Templeton (Name?)](/variants/s8/b4r1k11r20k20r20g4ly1~x2/)|
+|![Templeton (Name?) example sett](/variants/s8/b4r1k11r20k20r20g4ly1~x2/sett.png)|

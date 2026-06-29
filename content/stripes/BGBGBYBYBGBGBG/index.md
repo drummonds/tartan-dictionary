@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/)|
-|![Kinross example sett](/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/sett.png)|
+| [Kinross](/variants/s14/dg20db2g6db2dg4db27lo2db8~x2/)|
+|![Kinross example sett](/variants/s14/dg20db2g6db2dg4db27lo2db8~x2/sett.png)|

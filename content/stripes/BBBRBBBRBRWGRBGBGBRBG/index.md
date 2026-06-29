@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Otago Peninsula Corporate Tartan Tartan Number: 2110. Earliest known date: 1990 Otago Peninsula Trust was set up to look after a large house and gardens in Dunedin which is open to visitors. The colours chosen are to represent the wildlife e.g. Salmon pink and Kingfisher blue. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/g4dt4ri4dt2g12dt2g12dt2ri4g4w1r4db2ri4dt4db4dt4ri4dt2db12dt2~x2/)|
-|![Otago Peninsula Corporate Tartan Tartan Number: 2110. Earliest known date: 1990 Otago Peninsula Trust was set up to look after a large house and gardens in Dunedin which is open to visitors. The colours chosen are to represent the wildlife e.g. Salmon pink and Kingfisher blue. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s21/g4dt4ri4dt2g12dt2g12dt2ri4g4w1r4db2ri4dt4db4dt4ri4dt2db12dt2~x2/sett.png)|
+| [Otago Peninsula Corporate Tartan](/variants/s21/g4dt4ri4dt2g12dt2g12dt2ri4g4w1r4db2ri4dt4db4dt4ri4dt2db12dt2~x2/)|
+|![Otago Peninsula Corporate Tartan example sett](/variants/s21/g4dt4ri4dt2g12dt2g12dt2ri4g4w1r4db2ri4dt4db4dt4ri4dt2db12dt2~x2/sett.png)|

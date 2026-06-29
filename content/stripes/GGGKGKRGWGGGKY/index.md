@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Celtic F.C.](/setts/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/)|
-|![Celtic F.C. example sett](/setts/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/sett.png)|
+| [Celtic F.C.](/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/)|
+|![Celtic F.C. example sett](/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/sett.png)|

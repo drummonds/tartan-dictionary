@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Heather](/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/)|
-|![Scottish Heather example sett](/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/sett.png)|
+| [Scottish Heather](/variants/s9/db1p1g3dp6db2k32db2dp12w1~x2/)|
+|![Scottish Heather example sett](/variants/s9/db1p1g3dp6db2k32db2dp12w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walker, Gauvin (Personal)](/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/)|
-|![Walker, Gauvin (Personal) example sett](/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/sett.png)|
+| [Walker, Gauvin (Personal)](/variants/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/)|
+|![Walker, Gauvin (Personal) example sett](/variants/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/sett.png)|

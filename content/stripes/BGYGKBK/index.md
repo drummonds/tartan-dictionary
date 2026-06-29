@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNiel of Colonsay](/setts/s7/db4dg6lr1dg6k6db6k2~x2/)|
-|![MacNiel of Colonsay example sett](/setts/s7/db4dg6lr1dg6k6db6k2~x2/sett.png)|
+| [MacNiel of Colonsay](/variants/s7/db4dg6lr1dg6k6db6k2~x2/)|
+|![MacNiel of Colonsay example sett](/variants/s7/db4dg6lr1dg6k6db6k2~x2/sett.png)|

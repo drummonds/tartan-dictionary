@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swallow Hotels (Corporate)](/setts/s9/k4g21k10r2k10db21k4db4k4~x2/)|
-|![Swallow Hotels (Corporate) example sett](/setts/s9/k4g21k10r2k10db21k4db4k4~x2/sett.png)|
+| [Swallow Hotels (Corporate)](/variants/s9/k4g21k10r2k10db21k4db4k4~x2/)|
+|![Swallow Hotels (Corporate) example sett](/variants/s9/k4g21k10r2k10db21k4db4k4~x2/sett.png)|

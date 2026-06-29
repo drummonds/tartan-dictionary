@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ryutokukan High School (Corporate)](/setts/s12/o3n20r1n4r2n2r4n2r5g2ri20w3~x2/)|
-|![Ryutokukan High School (Corporate) example sett](/setts/s12/o3n20r1n4r2n2r4n2r5g2ri20w3~x2/sett.png)|
+| [Ryutokukan High School (Corporate)](/variants/s12/o3n20r1n4r2n2r4n2r5g2ri20w3~x2/)|
+|![Ryutokukan High School (Corporate) example sett](/variants/s12/o3n20r1n4r2n2r4n2r5g2ri20w3~x2/sett.png)|

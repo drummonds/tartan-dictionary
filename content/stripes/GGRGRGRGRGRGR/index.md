@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [All Irish Green Irish District Tartan Tartan Number: 4065. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/gi6g2r2gi30o2g4o2dg2o1dg20o1g2r4~x2/)|
-|![All Irish Green Irish District Tartan Tartan Number: 4065. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/gi6g2r2gi30o2g4o2dg2o1dg20o1g2r4~x2/sett.png)|
+| [All Irish Green Irish District Tartan](/variants/s13/gi6g2r2gi30o2g4o2dg2o1dg20o1g2r4~x2/)|
+|![All Irish Green Irish District Tartan example sett](/variants/s13/gi6g2r2gi30o2g4o2dg2o1dg20o1g2r4~x2/sett.png)|

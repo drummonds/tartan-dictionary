@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ar Lenn Vor](/setts/s11/b15ly30w30k20w20k15w10ly4b94w4r10/)|
-|![Ar Lenn Vor example sett](/setts/s11/b15ly30w30k20w20k15w10ly4b94w4r10/sett.png)|
-| [Ar Lenn Vor](/setts/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/)|
-|![Ar Lenn Vor example sett](/setts/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/sett.png)|
+| [Ar Lenn Vor](/variants/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/)|
+|![Ar Lenn Vor example sett](/variants/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/sett.png)|
+| [Ar Lenn Vor](/variants/s11/b15ly30w30k20w20k15w10ly4b94w4r10/)|
+|![Ar Lenn Vor example sett](/variants/s11/b15ly30w30k20w20k15w10ly4b94w4r10/sett.png)|

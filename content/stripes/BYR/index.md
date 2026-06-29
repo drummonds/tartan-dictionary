@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nutwood](/setts/s3/r1ly60b1~x2/)|
-|![Nutwood example sett](/setts/s3/r1ly60b1~x2/sett.png)|
-| [Usa](/setts/s3/db1lr1r1~x4/)|
-|![Usa example sett](/setts/s3/db1lr1r1~x4/sett.png)|
+| [Nutwood](/variants/s3/r1ly60b1~x2/)|
+|![Nutwood example sett](/variants/s3/r1ly60b1~x2/sett.png)|
+| [Usa](/variants/s3/db1lr1r1~x4/)|
+|![Usa example sett](/variants/s3/db1lr1r1~x4/sett.png)|

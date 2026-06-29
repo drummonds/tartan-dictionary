@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDougal 3](/setts/s11/r4g8k6ri8r6g2r2g2r24g1r3~x2/)|
-|![MacDougal 3 example sett](/setts/s11/r4g8k6ri8r6g2r2g2r24g1r3~x2/sett.png)|
-| [MacDougall #8](/setts/s11/r4dg8k6ri8r6dg2r2dg2r24dg1r3~x2/)|
-|![MacDougall #8 example sett](/setts/s11/r4dg8k6ri8r6dg2r2dg2r24dg1r3~x2/sett.png)|
+| [MacDougal 3](/variants/s11/r4g8k6ri8r6g2r2g2r24g1r3~x2/)|
+|![MacDougal 3 example sett](/variants/s11/r4g8k6ri8r6g2r2g2r24g1r3~x2/sett.png)|
+| [MacDougall #8](/variants/s11/r4dg8k6ri8r6dg2r2dg2r24dg1r3~x2/)|
+|![MacDougall #8 example sett](/variants/s11/r4dg8k6ri8r6dg2r2dg2r24dg1r3~x2/sett.png)|

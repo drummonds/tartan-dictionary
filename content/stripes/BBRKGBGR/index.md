@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hinnigan (Personal)](/setts/s8/o8g4db16g4k14o14db4b3~x2/)|
-|![Hinnigan (Personal) example sett](/setts/s8/o8g4db16g4k14o14db4b3~x2/sett.png)|
+| [Hinnigan (Personal)](/variants/s8/o8g4db16g4k14o14db4b3~x2/)|
+|![Hinnigan (Personal) example sett](/variants/s8/o8g4db16g4k14o14db4b3~x2/sett.png)|

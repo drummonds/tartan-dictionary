@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pritchard](/setts/s11/w24db2k2ly1k1w1g6n4g1n1w1~x4/)|
-|![Pritchard example sett](/setts/s11/w24db2k2ly1k1w1g6n4g1n1w1~x4/sett.png)|
+| [Pritchard](/variants/s11/w24db2k2ly1k1w1g6n4g1n1w1~x4/)|
+|![Pritchard example sett](/variants/s11/w24db2k2ly1k1w1g6n4g1n1w1~x4/sett.png)|

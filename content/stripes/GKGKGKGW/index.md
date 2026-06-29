@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manor (Corporate)](/setts/s8/dg14k1dg2k1dg2k10g14lp2/)|
-|![Manor (Corporate) example sett](/setts/s8/dg14k1dg2k1dg2k10g14lp2/sett.png)|
+| [Manor (Corporate)](/variants/s8/dg14k1dg2k1dg2k10g14lp2/)|
+|![Manor (Corporate) example sett](/variants/s8/dg14k1dg2k1dg2k10g14lp2/sett.png)|

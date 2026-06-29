@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Flower of Scotland](/setts/s6/r3b25k16b3g25b3~x2/)|
-|![Flower of Scotland example sett](/setts/s6/r3b25k16b3g25b3~x2/sett.png)|
-| [Flower of Scotland](/setts/s6/db3g28db3k16db28r3/)|
-|![Flower of Scotland example sett](/setts/s6/db3g28db3k16db28r3/sett.png)|
-| [Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/o1b7k4b1g7b1/)|
-|![Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/o1b7k4b1g7b1~x2/sett.png)|
+| [Flower of Scotland](/variants/s6/r3b25k16b3g25b3~x2/)|
+|![Flower of Scotland example sett](/variants/s6/r3b25k16b3g25b3~x2/sett.png)|
+| [Flower of Scotland](/variants/s6/db3g28db3k16db28r3/)|
+|![Flower of Scotland example sett](/variants/s6/db3g28db3k16db28r3/sett.png)|
+| [Flower of Scotland MINI Tartan](/setts/o1b7k4b1g7b1/)|
+|![Flower of Scotland MINI Tartan example sett](/variants/s6/o1b7k4b1g7b1~x2/sett.png)|

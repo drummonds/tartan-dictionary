@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinnon Dress Hunting (Fashion)](/setts/s4/dg7dr7w7r1~x6/)|
-|![MacKinnon Dress Hunting (Fashion) example sett](/setts/s4/dg7dr7w7r1~x6/sett.png)|
-| [MacKinnon Dress Trade Tartan Tartan Number: 921. Earliest known date: 1970-80 Canada. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/g9dr7w7r1~x4/)|
-|![MacKinnon Dress Trade Tartan Tartan Number: 921. Earliest known date: 1970-80 Canada. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/g9dr7w7r1~x4/sett.png)|
+| [MacKinnon Dress Hunting (Fashion)](/variants/s4/dg7dr7w7r1~x6/)|
+|![MacKinnon Dress Hunting (Fashion) example sett](/variants/s4/dg7dr7w7r1~x6/sett.png)|
+| [MacKinnon Dress Trade Tartan](/variants/s4/g9dr7w7r1~x4/)|
+|![MacKinnon Dress Trade Tartan example sett](/variants/s4/g9dr7w7r1~x4/sett.png)|

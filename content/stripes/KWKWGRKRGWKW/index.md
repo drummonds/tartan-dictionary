@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wild Highlanders](/setts/s12/k36w3k10w3g28r6k18~x2/)|
-|![Wild Highlanders example sett](/setts/s12/k36w3k10w3g28r6k18~x2/sett.png)|
+| [Wild Highlanders](/variants/s12/k36w3k10w3g28r6k18~x2/)|
+|![Wild Highlanders example sett](/variants/s12/k36w3k10w3g28r6k18~x2/sett.png)|

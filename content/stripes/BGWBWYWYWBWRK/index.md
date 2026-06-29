@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gibbs, Gibson](/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/)|
-|![Gibbs, Gibson example sett](/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/sett.png)|
+| [Gibbs, Gibson](/variants/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/)|
+|![Gibbs, Gibson example sett](/variants/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/sett.png)|

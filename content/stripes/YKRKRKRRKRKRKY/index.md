@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [German Heritage](/setts/s14/lo4k2ri8k4ri4k63r5ri64k4ri3k4ri8k2lo4/)|
-|![German Heritage example sett](/setts/s14/lo4k2ri8k4ri4k63r5ri64k4ri3k4ri8k2lo4/sett.png)|
+| [German Heritage](/variants/s14/lo4k2ri8k4ri4k63r5ri64k4ri3k4ri8k2lo4/)|
+|![German Heritage example sett](/variants/s14/lo4k2ri8k4ri4k63r5ri64k4ri3k4ri8k2lo4/sett.png)|

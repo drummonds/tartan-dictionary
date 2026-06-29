@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skye](/setts/s18/n50k12o2k2w2k2o12n7k7w2~x2/)|
-|![Skye example sett](/setts/s18/n50k12o2k2w2k2o12n7k7w2~x2/sett.png)|
+| [Skye](/variants/s18/n50k12o2k2w2k2o12n7k7w2~x2/)|
+|![Skye example sett](/variants/s18/n50k12o2k2w2k2o12n7k7w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Police Association](/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/)|
-|![International Police Association example sett](/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/sett.png)|
+| [International Police Association](/variants/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/)|
+|![International Police Association example sett](/variants/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/sett.png)|

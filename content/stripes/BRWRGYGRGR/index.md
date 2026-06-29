@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connecticut, State of](/setts/s10/b20o2w1o5g8ly1g2r1g8o8~x4/)|
-|![Connecticut, State of example sett](/setts/s10/b20o2w1o5g8ly1g2r1g8o8~x4/sett.png)|
+| [Connecticut, State of](/variants/s10/b20o2w1o5g8ly1g2r1g8o8~x4/)|
+|![Connecticut, State of example sett](/variants/s10/b20o2w1o5g8ly1g2r1g8o8~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dryfe](/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/)|
-|![Dryfe example sett](/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/sett.png)|
+| [Dryfe](/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/)|
+|![Dryfe example sett](/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/sett.png)|

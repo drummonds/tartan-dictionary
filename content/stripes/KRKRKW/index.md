@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lanoir](/setts/s6/k4r4k20r1k20w4~x6/)|
-|![Lanoir example sett](/setts/s6/k4r4k20r1k20w4~x6/sett.png)|
+| [Lanoir](/variants/s6/k4r4k20r1k20w4~x6/)|
+|![Lanoir example sett](/variants/s6/k4r4k20r1k20w4~x6/sett.png)|

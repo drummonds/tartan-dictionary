@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRaes of America](/setts/s8/w8db4ly2db36t48db2t4r5~x2/)|
-|![MacRaes of America example sett](/setts/s8/w8db4ly2db36t48db2t4r5~x2/sett.png)|
+| [MacRaes of America](/variants/s8/w8db4ly2db36t48db2t4r5~x2/)|
+|![MacRaes of America example sett](/variants/s8/w8db4ly2db36t48db2t4r5~x2/sett.png)|

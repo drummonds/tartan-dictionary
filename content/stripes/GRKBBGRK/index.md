@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stansbury](/setts/s8/dg28r3k28db8t1dg8r2k3~x2/)|
-|![Stansbury example sett](/setts/s8/dg28r3k28db8t1dg8r2k3~x2/sett.png)|
-| [Stansbury (2014)](/setts/s8/dg28r3k28dt8t1dg8r2k3~x2/)|
-|![Stansbury (2014) example sett](/setts/s8/dg28r3k28dt8t1dg8r2k3~x2/sett.png)|
+| [Stansbury](/variants/s8/dg28r3k28db8t1dg8r2k3~x2/)|
+|![Stansbury example sett](/variants/s8/dg28r3k28db8t1dg8r2k3~x2/sett.png)|
+| [Stansbury (2014)](/variants/s8/dg28r3k28dt8t1dg8r2k3~x2/)|
+|![Stansbury (2014) example sett](/variants/s8/dg28r3k28dt8t1dg8r2k3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [European Union](/setts/s7/w6g64ly2g20ly38g20g1/)|
-|![European Union example sett](/setts/s7/w6g64ly2g20ly38g20g1/sett.png)|
+| [European Union](/variants/s7/w6g64ly2g20ly38g20g1/)|
+|![European Union example sett](/variants/s7/w6g64ly2g20ly38g20g1/sett.png)|

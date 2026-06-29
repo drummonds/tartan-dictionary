@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fowler](/setts/s13/k4o4k1o4k1o8k1o4k8db2k1db14r2~x2/)|
-|![Fowler example sett](/setts/s13/k4o4k1o4k1o8k1o4k8db2k1db14r2~x2/sett.png)|
+| [Fowler](/variants/s13/k4o4k1o4k1o8k1o4k8db2k1db14r2~x2/)|
+|![Fowler example sett](/variants/s13/k4o4k1o4k1o8k1o4k8db2k1db14r2~x2/sett.png)|

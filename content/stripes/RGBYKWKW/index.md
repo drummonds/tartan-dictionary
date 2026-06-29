@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden - 2000 (Fashion)](/setts/s8/r4dy2t15ly2k14w14k2w4~x2/)|
-|![Culloden - 2000 (Fashion) example sett](/setts/s8/r4dy2t15ly2k14w14k2w4~x2/sett.png)|
-| [Culloden Blue, Stirling](/setts/s8/r4dy2b15ly2k14w14k2w4~x2/)|
-|![Culloden Blue, Stirling example sett](/setts/s8/r4dy2b15ly2k14w14k2w4~x2/sett.png)|
+| [Culloden - 2000 (Fashion)](/variants/s8/r4dy2t15ly2k14w14k2w4~x2/)|
+|![Culloden - 2000 (Fashion) example sett](/variants/s8/r4dy2t15ly2k14w14k2w4~x2/sett.png)|
+| [Culloden Blue, Stirling](/variants/s8/r4dy2b15ly2k14w14k2w4~x2/)|
+|![Culloden Blue, Stirling example sett](/variants/s8/r4dy2b15ly2k14w14k2w4~x2/sett.png)|

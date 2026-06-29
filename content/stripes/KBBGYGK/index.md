@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chesters, Eric (Personal)](/setts/s7/k12g8ly1dg13t1db31k8~x2/)|
-|![Chesters, Eric (Personal) example sett](/setts/s7/k12g8ly1dg13t1db31k8~x2/sett.png)|
+| [Chesters, Eric (Personal)](/variants/s7/k12g8ly1dg13t1db31k8~x2/)|
+|![Chesters, Eric (Personal) example sett](/variants/s7/k12g8ly1dg13t1db31k8~x2/sett.png)|

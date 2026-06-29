@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sorbie](/setts/s10/k1b17k17b1r1b1k17b17k1w1~x4/)|
-|![Sorbie example sett](/setts/s10/k1b17k17b1r1b1k17b17k1w1~x4/sett.png)|
+| [Sorbie](/variants/s10/k1b17k17b1r1b1k17b17k1w1~x4/)|
+|![Sorbie example sett](/variants/s10/k1b17k17b1r1b1k17b17k1w1~x4/sett.png)|

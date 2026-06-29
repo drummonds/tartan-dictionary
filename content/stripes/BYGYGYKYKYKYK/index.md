@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saunders (Personal)](/setts/s13/k1ly1k1ly1k1ly1k1ly1y46lr17y4lr16dr1~x2/)|
-|![Saunders (Personal) example sett](/setts/s13/k1ly1k1ly1k1ly1k1ly1y46lr17y4lr16dr1~x2/sett.png)|
+| [Saunders (Personal)](/variants/s13/k1ly1k1ly1k1ly1k1ly1y46lr17y4lr16dr1~x2/)|
+|![Saunders (Personal) example sett](/variants/s13/k1ly1k1ly1k1ly1k1ly1y46lr17y4lr16dr1~x2/sett.png)|

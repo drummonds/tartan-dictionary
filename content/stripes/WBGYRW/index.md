@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glencross (Moniaive) (Personal)](/setts/s6/w2r45ly3dg8db8w2~x2/)|
-|![Glencross (Moniaive) (Personal) example sett](/setts/s6/w2r45ly3dg8db8w2~x2/sett.png)|
+| [Glencross (Moniaive) (Personal)](/variants/s6/w2r45ly3dg8db8w2~x2/)|
+|![Glencross (Moniaive) (Personal) example sett](/variants/s6/w2r45ly3dg8db8w2~x2/sett.png)|

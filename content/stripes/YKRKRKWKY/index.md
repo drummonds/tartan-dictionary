@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bunnahabhain](/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/)|
-|![Bunnahabhain example sett](/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/sett.png)|
+| [Bunnahabhain](/variants/s9/lo8k7r3k7r3k38w2k3lo6~x2/)|
+|![Bunnahabhain example sett](/variants/s9/lo8k7r3k7r3k38w2k3lo6~x2/sett.png)|

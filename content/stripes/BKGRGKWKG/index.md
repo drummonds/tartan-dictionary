@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson (Tarlogie)](/setts/s9/b24k8g8r2g4k1w2k1g4~x2/)|
-|![Ferguson (Tarlogie) example sett](/setts/s9/b24k8g8r2g4k1w2k1g4~x2/sett.png)|
+| [Ferguson (Tarlogie)](/variants/s9/b24k8g8r2g4k1w2k1g4~x2/)|
+|![Ferguson (Tarlogie) example sett](/variants/s9/b24k8g8r2g4k1w2k1g4~x2/sett.png)|

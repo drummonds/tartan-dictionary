@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [President High School](/setts/s8/n83k7w6n10r7k3r20w3~x2/)|
-|![President High School example sett](/setts/s8/n83k7w6n10r7k3r20w3~x2/sett.png)|
+| [President High School](/variants/s8/n83k7w6n10r7k3r20w3~x2/)|
+|![President High School example sett](/variants/s8/n83k7w6n10r7k3r20w3~x2/sett.png)|

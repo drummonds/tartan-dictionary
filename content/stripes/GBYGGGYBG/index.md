@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roast Den, The](/setts/s9/y62do12lg1yi4dg2yi4lg1do12dg12~x2/)|
-|![Roast Den, The example sett](/setts/s9/y62do12lg1yi4dg2yi4lg1do12dg12~x2/sett.png)|
+| [Roast Den, The](/variants/s9/y62do12lg1yi4dg2yi4lg1do12dg12~x2/)|
+|![Roast Den, The example sett](/variants/s9/y62do12lg1yi4dg2yi4lg1do12dg12~x2/sett.png)|

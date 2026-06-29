@@ -1,9 +1,5 @@
 ---
 title: "Clan Quigley"
-date: 2023-03-18
+redirect: "/families/quigley-of-knockcroghery/"
 ---
-## Families
-
-- [Quigley of Knockcroghery](/families/quigley-of-knockcroghery/)
-- [Quigley of Knockcroghery Htg](/families/quigley-of-knockcroghery-htg/)
-
+Clan Quigley is recorded as the single family [Quigley of Knockcroghery](/families/quigley-of-knockcroghery/) — redirecting there.

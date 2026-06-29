@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crawford Arisaid (Dance)](/setts/s9/r6w1r2w25r3g12r3g12r3~x2/)|
-|![Crawford Arisaid (Dance) example sett](/setts/s9/r6w1r2w25r3g12r3g12r3~x2/sett.png)|
+| [Crawford Arisaid (Dance)](/variants/s9/r6w1r2w25r3g12r3g12r3~x2/)|
+|![Crawford Arisaid (Dance) example sett](/variants/s9/r6w1r2w25r3g12r3g12r3~x2/sett.png)|

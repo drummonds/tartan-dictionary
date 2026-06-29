@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North Berwick (Dance)](/setts/s11/dt10r2dt10r10dg2r2dg2r2dg10r1w2~x4/)|
-|![North Berwick (Dance) example sett](/setts/s11/dt10r2dt10r10dg2r2dg2r2dg10r1w2~x4/sett.png)|
+| [North Berwick (Dance)](/variants/s11/dt10r2dt10r10dg2r2dg2r2dg10r1w2~x4/)|
+|![North Berwick (Dance) example sett](/variants/s11/dt10r2dt10r10dg2r2dg2r2dg10r1w2~x4/sett.png)|

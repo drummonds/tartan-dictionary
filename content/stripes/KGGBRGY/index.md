@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snelgrove (Name)](/setts/s7/k2g6dy4t1r18dy5lo1~x4/)|
-|![Snelgrove (Name) example sett](/setts/s7/k2g6dy4t1r18dy5lo1~x4/sett.png)|
+| [Snelgrove (Name)](/variants/s7/k2g6dy4t1r18dy5lo1~x4/)|
+|![Snelgrove (Name) example sett](/variants/s7/k2g6dy4t1r18dy5lo1~x4/sett.png)|

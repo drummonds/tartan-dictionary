@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eljamel, Sam (Personal)](/setts/s9/t38r5dt5g5w5ly5t5r5w5~x2/)|
-|![Eljamel, Sam (Personal) example sett](/setts/s9/t38r5dt5g5w5ly5t5r5w5~x2/sett.png)|
+| [Eljamel, Sam (Personal)](/variants/s9/t38r5dt5g5w5ly5t5r5w5~x2/)|
+|![Eljamel, Sam (Personal) example sett](/variants/s9/t38r5dt5g5w5ly5t5r5w5~x2/sett.png)|

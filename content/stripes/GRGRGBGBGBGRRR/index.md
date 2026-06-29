@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allen - Northumbrian Hunting (Personal)](/setts/s14/dy16oi2dy3oi4dy2ni12dy18n2dy18ni12dy12o2oi2o2~x2/)|
-|![Allen - Northumbrian Hunting (Personal) example sett](/setts/s14/dy16oi2dy3oi4dy2ni12dy18n2dy18ni12dy12o2oi2o2~x2/sett.png)|
+| [Allen - Northumbrian Hunting (Personal)](/variants/s14/dy16oi2dy3oi4dy2ni12dy18n2dy18ni12dy12o2oi2o2~x2/)|
+|![Allen - Northumbrian Hunting (Personal) example sett](/variants/s14/dy16oi2dy3oi4dy2ni12dy18n2dy18ni12dy12o2oi2o2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Turnberry (MacArthur)](/setts/s8/o24n3o3n3o3n20lr22n4~x2/)|
-|![Turnberry (MacArthur) example sett](/setts/s8/o24n3o3n3o3n20lr22n4~x2/sett.png)|
+| [Turnberry (MacArthur)](/variants/s8/o24n3o3n3o3n20lr22n4~x2/)|
+|![Turnberry (MacArthur) example sett](/variants/s8/o24n3o3n3o3n20lr22n4~x2/sett.png)|

@@ -8,11 +8,11 @@ A family of [Clan Hunter](/clan/hunter/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><img src="/setts/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/sett.png" alt="Hunter of Peebleshire (Clan?)" width="240"><br>Hunter of Peebleshire (Clan?)</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s20/g8k1g8k8r1db8w1db8r1k8r1~x4/"><img src="/setts/s20/g8k1g8k8r1db8w1db8r1k8r1~x4/sett.png" alt="Hunter of Peebleshire" width="140"><br>Hunter of Peebleshire</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g8k1g8k8r1db8w1db8r1k8r1/">Hunter of Peebleshire</a> ★</td><td><code>G/32 K4 G32 K32 R4 DB32 W4 DB32 R4 K32 R4 K32 R4 DB32 W4 DB32 R4 K32 G32 K/4</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g8k1g8k8r1db8w1db8r1k8r1/"><img src="/variants/s20/g8k1g8k8r1db8w1db8r1k8r1~x4/sett.png" alt="Hunter of Peebleshire sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

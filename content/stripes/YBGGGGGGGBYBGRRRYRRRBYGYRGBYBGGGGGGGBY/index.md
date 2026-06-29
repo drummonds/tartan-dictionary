@@ -24,5 +24,5 @@ It is a 38 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Brunswick, variation](/setts/s38/ly2t2g1gi2g2gi2g2gi2g2t2ly2t2g28r24ly1y2ly3t4r10o16r4ly2r14o5r10g28t2ly2t2g1gi2g2gi2g2gi2g1t2ly2/)|
-|![New Brunswick, variation example sett](/setts/s38/ly2t2g1gi2g2gi2g2gi2g2t2ly2t2g28r24ly1y2ly3t4r10o16r4ly2r14o5r10g28t2ly2t2g1gi2g2gi2g2gi2g1t2ly2/sett.png)|
+| [New Brunswick, variation](/variants/s38/ly2t2g1gi2g2gi2g2gi2g2t2ly2t2g28r24ly1y2ly3t4r10o16r4ly2r14o5r10g28t2ly2t2g1gi2g2gi2g2gi2g1t2ly2/)|
+|![New Brunswick, variation example sett](/variants/s38/ly2t2g1gi2g2gi2g2gi2g2t2ly2t2g28r24ly1y2ly3t4r10o16r4ly2r14o5r10g28t2ly2t2g1gi2g2gi2g2gi2g1t2ly2/sett.png)|

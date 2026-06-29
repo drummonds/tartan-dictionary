@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brian Boru 1014 (Commemorative)](/setts/s16/r4o2r24k1o8r2o1r2o4r2o1r2o16ly2o1ly4~x2/)|
-|![Brian Boru 1014 (Commemorative) example sett](/setts/s16/r4o2r24k1o8r2o1r2o4r2o1r2o16ly2o1ly4~x2/sett.png)|
+| [Brian Boru 1014 (Commemorative)](/variants/s16/r4o2r24k1o8r2o1r2o4r2o1r2o16ly2o1ly4~x2/)|
+|![Brian Boru 1014 (Commemorative) example sett](/variants/s16/r4o2r24k1o8r2o1r2o4r2o1r2o16ly2o1ly4~x2/sett.png)|

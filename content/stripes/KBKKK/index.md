@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McTear's Auctioneers](/setts/s5/k2ki23k23dt23ki2~x2/)|
-|![McTear's Auctioneers example sett](/setts/s5/k2ki23k23dt23ki2~x2/sett.png)|
+| [McTear's Auctioneers](/variants/s5/k2ki23k23dt23ki2~x2/)|
+|![McTear's Auctioneers example sett](/variants/s5/k2ki23k23dt23ki2~x2/sett.png)|

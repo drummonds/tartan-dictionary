@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruma](/setts/s13/r2do1k1do10r1do10k13n4k1n11dy9n2lr1~x2/)|
-|![Bruma example sett](/setts/s13/r2do1k1do10r1do10k13n4k1n11dy9n2lr1~x2/sett.png)|
+| [Bruma](/variants/s13/r2do1k1do10r1do10k13n4k1n11dy9n2lr1~x2/)|
+|![Bruma example sett](/variants/s13/r2do1k1do10r1do10k13n4k1n11dy9n2lr1~x2/sett.png)|

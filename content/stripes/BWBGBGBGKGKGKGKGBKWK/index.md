@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson-Blyth](/setts/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/)|
-|![Wilson-Blyth example sett](/setts/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/sett.png)|
+| [Wilson-Blyth](/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/)|
+|![Wilson-Blyth example sett](/variants/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/sett.png)|

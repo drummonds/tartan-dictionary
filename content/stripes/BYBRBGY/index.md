@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hill of Banchory Primary (School)](/setts/s7/db1ly6db8r1db8g6ly1~x4/)|
-|![Hill of Banchory Primary (School) example sett](/setts/s7/db1ly6db8r1db8g6ly1~x4/sett.png)|
+| [Hill of Banchory Primary (School)](/variants/s7/db1ly6db8r1db8g6ly1~x4/)|
+|![Hill of Banchory Primary (School) example sett](/variants/s7/db1ly6db8r1db8g6ly1~x4/sett.png)|

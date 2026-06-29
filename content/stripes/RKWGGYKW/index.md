@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Madewell Dress](/setts/s8/r2k2w16dg13g6ly2k2w2~x2/)|
-|![Madewell Dress example sett](/setts/s8/r2k2w16dg13g6ly2k2w2~x2/sett.png)|
+| [Madewell Dress](/variants/s8/r2k2w16dg13g6ly2k2w2~x2/)|
+|![Madewell Dress example sett](/variants/s8/r2k2w16dg13g6ly2k2w2~x2/sett.png)|

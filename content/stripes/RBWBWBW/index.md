@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haddrell (2013)](/setts/s7/r2b4lb18n2lb2n41w2~x2/)|
-|![Haddrell (2013) example sett](/setts/s7/r2b4lb18n2lb2n41w2~x2/sett.png)|
+| [Haddrell (2013)](/variants/s7/r2b4lb18n2lb2n41w2~x2/)|
+|![Haddrell (2013) example sett](/variants/s7/r2b4lb18n2lb2n41w2~x2/sett.png)|

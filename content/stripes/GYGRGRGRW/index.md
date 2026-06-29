@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tinkler, Andrew (Stobart Group)](/setts/s9/g2ly9dy6o3dy2o3dy2o10w2~x4/)|
-|![Tinkler, Andrew (Stobart Group) example sett](/setts/s9/g2ly9dy6o3dy2o3dy2o10w2~x4/sett.png)|
+| [Tinkler, Andrew (Stobart Group)](/variants/s9/g2ly9dy6o3dy2o3dy2o10w2~x4/)|
+|![Tinkler, Andrew (Stobart Group) example sett](/variants/s9/g2ly9dy6o3dy2o3dy2o10w2~x4/sett.png)|

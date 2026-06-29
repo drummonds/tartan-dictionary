@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Giles Check (Corporate)](/tartans/db3o1w1o25w1o1dp3/)|
-|![St. Giles Check (Corporate) example sett](/setts/s7/db3o1w1o25w1o1dp3~x2/sett.png)|
+| [St Giles Check Tartan](/setts/db3o1w1o25w1o1dp3/)|
+|![St Giles Check Tartan example sett](/variants/s7/db3o1w1o25w1o1dp3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Birral/Burrell](/setts/s17/t4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8t4w2~x2/)|
-|![Birral/Burrell example sett](/setts/s17/t4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8t4w2~x2/sett.png)|
+| [Birral/Burrell](/variants/s17/t4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8t4w2~x2/)|
+|![Birral/Burrell example sett](/variants/s17/t4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8t4w2~x2/sett.png)|

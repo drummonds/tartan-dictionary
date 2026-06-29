@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow](/setts/s7/dg20r3y3r15w19dg3t2~x2/)|
-|![Glasgow example sett](/setts/s7/dg20r3y3r15w19dg3t2~x2/sett.png)|
+| [Glasgow](/variants/s7/dg20r3y3r15w19dg3t2~x2/)|
+|![Glasgow example sett](/variants/s7/dg20r3y3r15w19dg3t2~x2/sett.png)|

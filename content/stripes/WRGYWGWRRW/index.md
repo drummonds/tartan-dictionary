@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jacobite Silk sash](/setts/s10/w2r8dy5ly6w5dg21w6r8ri4w2/)|
-|![Jacobite Silk sash example sett](/setts/s10/w2r8dy5ly6w5dg21w6r8ri4w2/sett.png)|
+| [Jacobite Silk sash](/variants/s10/w2r8dy5ly6w5dg21w6r8ri4w2/)|
+|![Jacobite Silk sash example sett](/variants/s10/w2r8dy5ly6w5dg21w6r8ri4w2/sett.png)|

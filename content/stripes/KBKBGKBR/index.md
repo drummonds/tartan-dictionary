@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Heritage](/setts/s8/k2dbi6k1db7dg13k11db42r2~x2/)|
-|![Scottish Heritage example sett](/setts/s8/k2dbi6k1db7dg13k11db42r2~x2/sett.png)|
+| [Scottish Heritage](/variants/s8/k2dbi6k1db7dg13k11db42r2~x2/)|
+|![Scottish Heritage example sett](/variants/s8/k2dbi6k1db7dg13k11db42r2~x2/sett.png)|

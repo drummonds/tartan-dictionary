@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bagpipe Shop (Switzerland)](/setts/s5/n10w3lr3g1r1~x10/)|
-|![Bagpipe Shop (Switzerland) example sett](/setts/s5/n10w3lr3g1r1~x10/sett.png)|
+| [Bagpipe Shop (Switzerland)](/variants/s5/n10w3lr3g1r1~x10/)|
+|![Bagpipe Shop (Switzerland) example sett](/variants/s5/n10w3lr3g1r1~x10/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Porteous](/setts/s6/k1ly1db8g10t7w1~x2/)|
-|![Porteous example sett](/setts/s6/k1ly1db8g10t7w1~x2/sett.png)|
-| [Porteous Family Tartan Tartan Number: 1264. Earliest known date: 1978 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k1ly1db8g10dbi7w1~x2/)|
-|![Porteous Family Tartan Tartan Number: 1264. Earliest known date: 1978 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/k1ly1db8g10dbi7w1~x2/sett.png)|
+| [Porteous](/variants/s6/k1ly1db8g10t7w1~x2/)|
+|![Porteous example sett](/variants/s6/k1ly1db8g10t7w1~x2/sett.png)|
+| [Porteous Family Tartan](/variants/s6/k1ly1db8g10dbi7w1~x2/)|
+|![Porteous Family Tartan example sett](/variants/s6/k1ly1db8g10dbi7w1~x2/sett.png)|

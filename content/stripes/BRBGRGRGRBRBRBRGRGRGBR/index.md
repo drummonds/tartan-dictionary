@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inverness Fencibles](/setts/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/)|
-|![Inverness Fencibles example sett](/setts/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/sett.png)|
+| [Inverness Fencibles](/variants/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/)|
+|![Inverness Fencibles example sett](/variants/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/sett.png)|

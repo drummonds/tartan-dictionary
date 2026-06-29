@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Coat](/setts/s14/dg6r2dg2r24t1db1r2db12r2db1t1r2dg24r2~x2/)|
-|![Unidentified Coat example sett](/setts/s14/dg6r2dg2r24t1db1r2db12r2db1t1r2dg24r2~x2/sett.png)|
-| [Unidentified, coat](/setts/s14/g6r2g2r24t1db1r2db12r2db1t1r2g24r2~x2/)|
-|![Unidentified, coat example sett](/setts/s14/g6r2g2r24t1db1r2db12r2db1t1r2g24r2~x2/sett.png)|
+| [Unidentified Coat](/variants/s14/dg6r2dg2r24t1db1r2db12r2db1t1r2dg24r2~x2/)|
+|![Unidentified Coat example sett](/variants/s14/dg6r2dg2r24t1db1r2db12r2db1t1r2dg24r2~x2/sett.png)|
+| [Unidentified, coat](/variants/s14/g6r2g2r24t1db1r2db12r2db1t1r2g24r2~x2/)|
+|![Unidentified, coat example sett](/variants/s14/g6r2g2r24t1db1r2db12r2db1t1r2g24r2~x2/sett.png)|

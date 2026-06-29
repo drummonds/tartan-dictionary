@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Northern Kentucky University](/setts/s7/w5k3ly6k5w3k30ly2~x2/)|
-|![Northern Kentucky University example sett](/setts/s7/w5k3ly6k5w3k30ly2~x2/sett.png)|
+| [Northern Kentucky University](/variants/s7/w5k3ly6k5w3k30ly2~x2/)|
+|![Northern Kentucky University example sett](/variants/s7/w5k3ly6k5w3k30ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fermanagh County, Crest Range](/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/)|
-|![Fermanagh County, Crest Range example sett](/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/sett.png)|
+| [Fermanagh County, Crest Range](/variants/s10/r4w6k10db5k3o16k3dg33k1w4~x2/)|
+|![Fermanagh County, Crest Range example sett](/variants/s10/r4w6k10db5k3o16k3dg33k1w4~x2/sett.png)|

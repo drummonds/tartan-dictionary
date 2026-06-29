@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sands-Pingot Family, Alabama (Personal)](/setts/s5/ly6r1ly4r4db2~x5/)|
-|![Sands-Pingot Family, Alabama (Personal) example sett](/setts/s5/ly6r1ly4r4db2~x5/sett.png)|
+| [Sands-Pingot Family, Alabama (Personal)](/variants/s5/ly6r1ly4r4db2~x5/)|
+|![Sands-Pingot Family, Alabama (Personal) example sett](/variants/s5/ly6r1ly4r4db2~x5/sett.png)|

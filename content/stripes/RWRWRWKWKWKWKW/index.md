@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [d'Andeville, Xavier (Personal)](/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/)|
-|![d'Andeville, Xavier (Personal) example sett](/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/sett.png)|
+| [d'Andeville, Xavier (Personal)](/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/)|
+|![d'Andeville, Xavier (Personal) example sett](/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/sett.png)|

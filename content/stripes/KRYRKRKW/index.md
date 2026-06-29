@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdeen Football Club (2002)](/setts/s8/k4r4ly2r41k4r4k12w2~x2/)|
-|![Aberdeen Football Club (2002) example sett](/setts/s8/k4r4ly2r41k4r4k12w2~x2/sett.png)|
+| [Aberdeen Football Club (2002)](/variants/s8/k4r4ly2r41k4r4k12w2~x2/)|
+|![Aberdeen Football Club (2002) example sett](/variants/s8/k4r4ly2r41k4r4k12w2~x2/sett.png)|

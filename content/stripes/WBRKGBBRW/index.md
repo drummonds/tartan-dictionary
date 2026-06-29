@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish National - 1934 (Fashion)](/setts/s9/w2r3db6db8g12k1r4db2w2~x4/)|
-|![Scottish National - 1934 (Fashion) example sett](/setts/s9/w2r3db6db8g12k1r4db2w2~x4/sett.png)|
+| [Scottish National - 1934 (Fashion)](/variants/s9/w2r3db6db8g12k1r4db2w2~x4/)|
+|![Scottish National - 1934 (Fashion) example sett](/variants/s9/w2r3db6db8g12k1r4db2w2~x4/sett.png)|

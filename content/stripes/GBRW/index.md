@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harbison (2015)](/setts/s4/g21db34r14w6~x2/)|
-|![Harbison (2015) example sett](/setts/s4/g21db34r14w6~x2/sett.png)|
+| [Harbison (2015)](/variants/s4/g21db34r14w6~x2/)|
+|![Harbison (2015) example sett](/variants/s4/g21db34r14w6~x2/sett.png)|

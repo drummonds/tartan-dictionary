@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Sarnia](/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/)|
-|![City of Sarnia example sett](/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/sett.png)|
+| [City of Sarnia](/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/)|
+|![City of Sarnia example sett](/variants/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/sett.png)|

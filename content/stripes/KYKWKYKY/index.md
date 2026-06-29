@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nowell/Noel 1951 (Name)](/setts/s8/lr3k24lr6k8w4k8lr35k2~x2/)|
-|![Nowell/Noel 1951 (Name) example sett](/setts/s8/lr3k24lr6k8w4k8lr35k2~x2/sett.png)|
+| [Nowell/Noel 1951 (Name)](/variants/s8/lr3k24lr6k8w4k8lr35k2~x2/)|
+|![Nowell/Noel 1951 (Name) example sett](/variants/s8/lr3k24lr6k8w4k8lr35k2~x2/sett.png)|

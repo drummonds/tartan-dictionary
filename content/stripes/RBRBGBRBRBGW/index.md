@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meath](/setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/)|
-|![Meath example sett](/setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/sett.png)|
+| [Meath](/variants/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/)|
+|![Meath example sett](/variants/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/sett.png)|

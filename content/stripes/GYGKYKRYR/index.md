@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grant, Champion](/setts/s9/r14ly2r6k1ly14k1g10ly1g10~x2/)|
-|![Grant, Champion example sett](/setts/s9/r14ly2r6k1ly14k1g10ly1g10~x2/sett.png)|
+| [Grant, Champion](/variants/s9/r14ly2r6k1ly14k1g10ly1g10~x2/)|
+|![Grant, Champion example sett](/variants/s9/r14ly2r6k1ly14k1g10ly1g10~x2/sett.png)|

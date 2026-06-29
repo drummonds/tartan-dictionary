@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ross Hunting](/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/)|
-|![Ross Hunting example sett](/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/sett.png)|
+| [Ross Hunting](/variants/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/)|
+|![Ross Hunting example sett](/variants/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/sett.png)|

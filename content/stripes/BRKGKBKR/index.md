@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Common Kilt](/setts/s8/r3k2db25k28dg25k2r1db2~x2/)|
-|![Common Kilt example sett](/setts/s8/r3k2db25k28dg25k2r1db2~x2/sett.png)|
-| [Common Kilt](/setts/s8/r3k2db25k28g25k2r1db2~x2/)|
-|![Common Kilt example sett](/setts/s8/r3k2db25k28g25k2r1db2~x2/sett.png)|
+| [Common Kilt](/variants/s8/r3k2db25k28dg25k2r1db2~x2/)|
+|![Common Kilt example sett](/variants/s8/r3k2db25k28dg25k2r1db2~x2/sett.png)|
+| [Common Kilt](/variants/s8/r3k2db25k28g25k2r1db2~x2/)|
+|![Common Kilt example sett](/variants/s8/r3k2db25k28g25k2r1db2~x2/sett.png)|

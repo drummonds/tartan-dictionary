@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reece (Name)](/setts/s7/w2lo44db8lo2db2lo3r1~x2/)|
-|![Reece (Name) example sett](/setts/s7/w2lo44db8lo2db2lo3r1~x2/sett.png)|
+| [Reece (Name)](/variants/s7/w2lo44db8lo2db2lo3r1~x2/)|
+|![Reece (Name) example sett](/variants/s7/w2lo44db8lo2db2lo3r1~x2/sett.png)|

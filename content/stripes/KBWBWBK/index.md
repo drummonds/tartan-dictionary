@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blueheart](/setts/s7/k1db18lt5db1lt3db18k1~x4/)|
-|![Blueheart example sett](/setts/s7/k1db18lt5db1lt3db18k1~x4/sett.png)|
+| [Blueheart](/variants/s7/k1db18lt5db1lt3db18k1~x4/)|
+|![Blueheart example sett](/variants/s7/k1db18lt5db1lt3db18k1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBeth Dress (Clan)](/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/)|
-|![MacBeth Dress (Clan) example sett](/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/sett.png)|
+| [MacBeth Dress (Clan)](/variants/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/)|
+|![MacBeth Dress (Clan) example sett](/variants/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/sett.png)|

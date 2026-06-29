@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Linden Family Tartan Tartan Number: 5772. Earliest known date: Jan 2003 Blue and white from the saltire. Purple and green from the thistle. The name Linden is associated with the colour green. The Linden tree is a lime tree. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dt4k9dgi20dp2dg20k5dt6lr2~x2/)|
-|![Linden Family Tartan Tartan Number: 5772. Earliest known date: Jan 2003 Blue and white from the saltire. Purple and green from the thistle. The name Linden is associated with the colour green. The Linden tree is a lime tree. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/dt4k9dgi20dp2dg20k5dt6lr2~x2/sett.png)|
+| [Linden Family Tartan](/variants/s8/dt4k9dgi20dp2dg20k5dt6lr2~x2/)|
+|![Linden Family Tartan example sett](/variants/s8/dt4k9dgi20dp2dg20k5dt6lr2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Suffolk County Police](/setts/s20/db74db6k12ly3k3w3db16db8k3db4w3~x2/)|
-|![Suffolk County Police example sett](/setts/s20/db74db6k12ly3k3w3db16db8k3db4w3~x2/sett.png)|
+| [Suffolk County Police](/variants/s20/db74db6k12ly3k3w3db16db8k3db4w3~x2/)|
+|![Suffolk County Police example sett](/variants/s20/db74db6k12ly3k3w3db16db8k3db4w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bear Baars (Personal)](/setts/s11/ri2db2w2r1w2db10w1k2ri10w1ri2~x4/)|
-|![Bear Baars (Personal) example sett](/setts/s11/ri2db2w2r1w2db10w1k2ri10w1ri2~x4/sett.png)|
+| [Bear Baars (Personal)](/variants/s11/ri2db2w2r1w2db10w1k2ri10w1ri2~x4/)|
+|![Bear Baars (Personal) example sett](/variants/s11/ri2db2w2r1w2db10w1k2ri10w1ri2~x4/sett.png)|

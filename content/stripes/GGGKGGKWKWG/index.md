@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Undiscovered Scotland (Corporate)](/setts/s11/dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/)|
-|![Undiscovered Scotland (Corporate) example sett](/setts/s11/dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/sett.png)|
+| [Undiscovered Scotland (Corporate)](/variants/s11/dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/)|
+|![Undiscovered Scotland (Corporate) example sett](/variants/s11/dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/sett.png)|

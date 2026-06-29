@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Comme Ça Il Principe](/setts/s10/dt3k53dt4k4dt4k4dt24db10dt1r1/)|
-|![Comme Ça Il Principe example sett](/setts/s10/dt3k53dt4k4dt4k4dt24db10dt1r1/sett.png)|
+| [Comme Ça Il Principe](/variants/s10/dt3k53dt4k4dt4k4dt24db10dt1r1/)|
+|![Comme Ça Il Principe example sett](/variants/s10/dt3k53dt4k4dt4k4dt24db10dt1r1/sett.png)|

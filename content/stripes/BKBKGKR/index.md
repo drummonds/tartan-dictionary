@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinlay (Clan)](/setts/s7/db4k2db10k10g10k2r3~x2/)|
-|![MacKinlay (Clan) example sett](/setts/s7/db4k2db10k10g10k2r3~x2/sett.png)|
-| [Renfrew](/setts/s7/db6k2db18k18g18k3r2~x2/)|
-|![Renfrew example sett](/setts/s7/db6k2db18k18g18k3r2~x2/sett.png)|
+| [MacKinlay (Clan)](/variants/s7/db4k2db10k10g10k2r3~x2/)|
+|![MacKinlay (Clan) example sett](/variants/s7/db4k2db10k10g10k2r3~x2/sett.png)|
+| [Renfrew](/variants/s7/db6k2db18k18g18k3r2~x2/)|
+|![Renfrew example sett](/variants/s7/db6k2db18k18g18k3r2~x2/sett.png)|

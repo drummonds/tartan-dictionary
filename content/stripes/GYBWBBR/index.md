@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Porcupine City of](/setts/s7/r10n3db1lb8db1lo2g5~x4/)|
-|![Porcupine City of example sett](/setts/s7/r10n3db1lb8db1lo2g5~x4/sett.png)|
+| [Porcupine City of](/variants/s7/r10n3db1lb8db1lo2g5~x4/)|
+|![Porcupine City of example sett](/variants/s7/r10n3db1lb8db1lo2g5~x4/sett.png)|

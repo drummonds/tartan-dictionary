@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westgate Fashion Tartan Tartan Number: 6019. Earliest known date: pre 2003 A fashion tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/y14k80y14ly5~x2/)|
-|![Westgate Fashion Tartan Tartan Number: 6019. Earliest known date: pre 2003 A fashion tartan See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/y14k80y14ly5~x2/sett.png)|
-| [Wilson's No.053 #2](/setts/s4/g4k5g4ly1~x2/)|
-|![Wilson's No.053 #2 example sett](/setts/s4/g4k5g4ly1~x2/sett.png)|
+| [Westgate Fashion Tartan](/variants/s4/y14k80y14ly5~x2/)|
+|![Westgate Fashion Tartan example sett](/variants/s4/y14k80y14ly5~x2/sett.png)|
+| [Wilson's No.053 #2](/variants/s4/g4k5g4ly1~x2/)|
+|![Wilson's No.053 #2 example sett](/variants/s4/g4k5g4ly1~x2/sett.png)|

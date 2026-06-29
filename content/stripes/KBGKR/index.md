@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Douglas, (Black)](/setts/s5/k12db3g23k23r3~x2/)|
-|![Douglas, (Black) example sett](/setts/s5/k12db3g23k23r3~x2/sett.png)|
-| [Douglas, Black](/setts/s5/k8b5g44k40r6/)|
-|![Douglas, Black example sett](/setts/s5/k8b5g44k40r6/sett.png)|
+| [Douglas, (Black)](/variants/s5/k12db3g23k23r3~x2/)|
+|![Douglas, (Black) example sett](/variants/s5/k12db3g23k23r3~x2/sett.png)|
+| [Douglas, Black](/variants/s5/k8b5g44k40r6/)|
+|![Douglas, Black example sett](/variants/s5/k8b5g44k40r6/sett.png)|

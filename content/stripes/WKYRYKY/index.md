@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-Dreger](/setts/s7/w3k5lo3r3lo32k2lo3~x2/)|
-|![Bro-Dreger example sett](/setts/s7/w3k5lo3r3lo32k2lo3~x2/sett.png)|
+| [Bro-Dreger](/variants/s7/w3k5lo3r3lo32k2lo3~x2/)|
+|![Bro-Dreger example sett](/variants/s7/w3k5lo3r3lo32k2lo3~x2/sett.png)|

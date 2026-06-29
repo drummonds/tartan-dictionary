@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Austin College Page](/setts/s10/r3ly2r2ly3r3ly7r3k7r14ly2~x2/)|
-|![Austin College Page example sett](/setts/s10/r3ly2r2ly3r3ly7r3k7r14ly2~x2/sett.png)|
+| [Austin College Page](/variants/s10/r3ly2r2ly3r3ly7r3k7r14ly2~x2/)|
+|![Austin College Page example sett](/variants/s10/r3ly2r2ly3r3ly7r3k7r14ly2~x2/sett.png)|

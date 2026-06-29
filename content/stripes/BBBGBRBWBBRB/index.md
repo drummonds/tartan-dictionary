@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Glencoe (Dance)](/setts/s12/dp6r2dp2db2w35db12o2dp25g3dp4db2dp4~x2/)|
-|![MacDonald of Glencoe (Dance) example sett](/setts/s12/dp6r2dp2db2w35db12o2dp25g3dp4db2dp4~x2/sett.png)|
+| [MacDonald of Glencoe (Dance)](/variants/s12/dp6r2dp2db2w35db12o2dp25g3dp4db2dp4~x2/)|
+|![MacDonald of Glencoe (Dance) example sett](/variants/s12/dp6r2dp2db2w35db12o2dp25g3dp4db2dp4~x2/sett.png)|

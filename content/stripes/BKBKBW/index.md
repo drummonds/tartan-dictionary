@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dollar Academy](/setts/s6/db9k9db9k9db42lb5~x2/)|
-|![Dollar Academy example sett](/setts/s6/db9k9db9k9db42lb5~x2/sett.png)|
-| [Dollar Academy (1930s) (Corporate)](/setts/s6/db9k9db9k9db42w5~x2/)|
-|![Dollar Academy (1930s) (Corporate) example sett](/setts/s6/db9k9db9k9db42w5~x2/sett.png)|
+| [Dollar Academy](/variants/s6/db9k9db9k9db42lb5~x2/)|
+|![Dollar Academy example sett](/variants/s6/db9k9db9k9db42lb5~x2/sett.png)|
+| [Dollar Academy (1930s) (Corporate)](/variants/s6/db9k9db9k9db42w5~x2/)|
+|![Dollar Academy (1930s) (Corporate) example sett](/variants/s6/db9k9db9k9db42w5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.079](/setts/s4/k7w1g7t1~x2/)|
-|![Wilson's No.079 example sett](/setts/s4/k7w1g7t1~x2/sett.png)|
+| [Wilson's No.079](/variants/s4/k7w1g7t1~x2/)|
+|![Wilson's No.079 example sett](/variants/s4/k7w1g7t1~x2/sett.png)|

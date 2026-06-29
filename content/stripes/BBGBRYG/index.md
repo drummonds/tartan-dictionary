@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wrigglesworth Family Canada (Personal)](/setts/s7/db30n10y10db5r3ly3g3~x2/)|
-|![Wrigglesworth Family Canada (Personal) example sett](/setts/s7/db30n10y10db5r3ly3g3~x2/sett.png)|
+| [Wrigglesworth Family Canada (Personal)](/variants/s7/db30n10y10db5r3ly3g3~x2/)|
+|![Wrigglesworth Family Canada (Personal) example sett](/variants/s7/db30n10y10db5r3ly3g3~x2/sett.png)|

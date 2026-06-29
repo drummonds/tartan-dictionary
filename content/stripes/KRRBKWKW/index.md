@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lootens Jensen (Personal)](/setts/s8/w26k8w3k5db3r5o3k4~x2/)|
-|![Lootens Jensen (Personal) example sett](/setts/s8/w26k8w3k5db3r5o3k4~x2/sett.png)|
+| [Lootens Jensen (Personal)](/variants/s8/w26k8w3k5db3r5o3k4~x2/)|
+|![Lootens Jensen (Personal) example sett](/variants/s8/w26k8w3k5db3r5o3k4~x2/sett.png)|

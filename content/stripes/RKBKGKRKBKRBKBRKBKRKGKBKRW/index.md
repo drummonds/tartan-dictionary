@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Schneidersohne Centenary](/setts/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/)|
-|![Schneidersohne Centenary example sett](/setts/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/sett.png)|
+| [Schneidersohne Centenary](/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/)|
+|![Schneidersohne Centenary example sett](/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/sett.png)|

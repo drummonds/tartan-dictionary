@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dominion (Fashion)](/setts/s7/lg6r1lg17db3lg3db8lg1~x2/)|
-|![Dominion (Fashion) example sett](/setts/s7/lg6r1lg17db3lg3db8lg1~x2/sett.png)|
+| [Dominion (Fashion)](/variants/s7/lg6r1lg17db3lg3db8lg1~x2/)|
+|![Dominion (Fashion) example sett](/variants/s7/lg6r1lg17db3lg3db8lg1~x2/sett.png)|

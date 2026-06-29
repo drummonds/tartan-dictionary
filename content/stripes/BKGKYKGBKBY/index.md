@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skye](/setts/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/)|
-|![Skye example sett](/setts/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/sett.png)|
+| [Skye](/variants/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/)|
+|![Skye example sett](/variants/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/sett.png)|

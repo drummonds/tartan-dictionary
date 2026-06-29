@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAndrew Dress (Name)](/setts/s6/r72k8r4g16r7o2~x2/)|
-|![MacAndrew Dress (Name) example sett](/setts/s6/r72k8r4g16r7o2~x2/sett.png)|
+| [MacAndrew Dress (Name)](/variants/s6/r72k8r4g16r7o2~x2/)|
+|![MacAndrew Dress (Name) example sett](/variants/s6/r72k8r4g16r7o2~x2/sett.png)|

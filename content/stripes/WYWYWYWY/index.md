@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walk the Walk](/setts/s8/w60lr15w3lr3w3lr3w5lr15~x2/)|
-|![Walk the Walk example sett](/setts/s8/w60lr15w3lr3w3lr3w5lr15~x2/sett.png)|
+| [Walk the Walk](/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2/)|
+|![Walk the Walk example sett](/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2/sett.png)|

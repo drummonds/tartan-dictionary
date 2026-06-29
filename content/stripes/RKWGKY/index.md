@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braemar Royal Highland Gathering](/setts/s6/r3k4lb2g64k6ly3~x2/)|
-|![Braemar Royal Highland Gathering example sett](/setts/s6/r3k4lb2g64k6ly3~x2/sett.png)|
-| [Brandon (Manitoba)](/setts/s6/o84k35w3g35k3ly10/)|
-|![Brandon (Manitoba) example sett](/setts/s6/o84k35w3g35k3ly10/sett.png)|
+| [Braemar Royal Highland Gathering](/variants/s6/r3k4lb2g64k6ly3~x2/)|
+|![Braemar Royal Highland Gathering example sett](/variants/s6/r3k4lb2g64k6ly3~x2/sett.png)|
+| [Brandon (Manitoba)](/variants/s6/o84k35w3g35k3ly10/)|
+|![Brandon (Manitoba) example sett](/variants/s6/o84k35w3g35k3ly10/sett.png)|

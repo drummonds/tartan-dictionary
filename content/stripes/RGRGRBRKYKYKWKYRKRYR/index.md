@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anderson](/setts/s20/r4g6r2g6r3db4r2k4ly2k2ly2k3w3k3lg18r2k2r2lg6r3~x2/)|
-|![Anderson example sett](/setts/s20/r4g6r2g6r3db4r2k4ly2k2ly2k3w3k3lg18r2k2r2lg6r3~x2/sett.png)|
+| [Anderson](/variants/s20/r4g6r2g6r3db4r2k4ly2k2ly2k3w3k3lg18r2k2r2lg6r3~x2/)|
+|![Anderson example sett](/variants/s20/r4g6r2g6r3db4r2k4ly2k2ly2k3w3k3lg18r2k2r2lg6r3~x2/sett.png)|

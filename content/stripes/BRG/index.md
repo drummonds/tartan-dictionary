@@ -24,13 +24,13 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson (Old)](/setts/s3/dg17r2db15~x2/)|
-|![Ferguson (Old) example sett](/setts/s3/dg17r2db15~x2/sett.png)|
-| [Ferguson - 1930 (Old)](/setts/s3/g17r2db15~x2/)|
-|![Ferguson - 1930 (Old) example sett](/setts/s3/g17r2db15~x2/sett.png)|
-| [Wilson's No 62, (Ferguson)](/setts/s3/db13r2g13~x2/)|
-|![Wilson's No 62, (Ferguson) example sett](/setts/s3/db13r2g13~x2/sett.png)|
-| [Wilson's, No 161](/setts/s3/g13r2t13~x2/)|
-|![Wilson's, No 161 example sett](/setts/s3/g13r2t13~x2/sett.png)|
-| [Wilson's, No 212](/setts/s3/g9r2t2~x4/)|
-|![Wilson's, No 212 example sett](/setts/s3/g9r2t2~x4/sett.png)|
+| [Ferguson (Old)](/variants/s3/dg17r2db15~x2/)|
+|![Ferguson (Old) example sett](/variants/s3/dg17r2db15~x2/sett.png)|
+| [Ferguson - 1930 (Old)](/variants/s3/g17r2db15~x2/)|
+|![Ferguson - 1930 (Old) example sett](/variants/s3/g17r2db15~x2/sett.png)|
+| [Wilson's No 62, (Ferguson)](/variants/s3/db13r2g13~x2/)|
+|![Wilson's No 62, (Ferguson) example sett](/variants/s3/db13r2g13~x2/sett.png)|
+| [Wilson's, No 161](/variants/s3/g13r2t13~x2/)|
+|![Wilson's, No 161 example sett](/variants/s3/g13r2t13~x2/sett.png)|
+| [Wilson's, No 212](/variants/s3/g9r2t2~x4/)|
+|![Wilson's, No 212 example sett](/variants/s3/g9r2t2~x4/sett.png)|

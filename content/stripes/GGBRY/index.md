@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McMoosie Htg (Fashion)](/setts/s5/dy46g23b23r4ly4~x2/)|
-|![McMoosie Htg (Fashion) example sett](/setts/s5/dy46g23b23r4ly4~x2/sett.png)|
+| [McMoosie Htg (Fashion)](/variants/s5/dy46g23b23r4ly4~x2/)|
+|![McMoosie Htg (Fashion) example sett](/variants/s5/dy46g23b23r4ly4~x2/sett.png)|

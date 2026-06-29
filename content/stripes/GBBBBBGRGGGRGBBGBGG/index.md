@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watkins Welsh Name Tartan Tartan Number: 6169. Earliest known date: pre 2004 The tartan for this Welsh surname and its variations, Walters, Watts, Gwatkin, Watkiss, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/g2gi2db5gi4db10dt15gi10r12gi6g4gi6r12gi10dt18t2db2dt18db1g2/)|
-|![Watkins Welsh Name Tartan Tartan Number: 6169. Earliest known date: pre 2004 The tartan for this Welsh surname and its variations, Walters, Watts, Gwatkin, Watkiss, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s19/g2gi2db5gi4db10dt15gi10r12gi6g4gi6r12gi10dt18t2db2dt18db1g2/sett.png)|
+| [Watkins Welsh Name Tartan](/variants/s19/g2gi2db5gi4db10dt15gi10r12gi6g4gi6r12gi10dt18t2db2dt18db1g2/)|
+|![Watkins Welsh Name Tartan example sett](/variants/s19/g2gi2db5gi4db10dt15gi10r12gi6g4gi6r12gi10dt18t2db2dt18db1g2/sett.png)|

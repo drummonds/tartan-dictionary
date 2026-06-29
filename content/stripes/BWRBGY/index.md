@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [COG USA, THE](/setts/s6/lo9dg18t9r1w1db1~x4/)|
-|![COG USA, THE example sett](/setts/s6/lo9dg18t9r1w1db1~x4/sett.png)|
-| [T.H.E. C.O.G. USA (Corporate)](/setts/s6/lo9g18t9r1w1db1~x4/)|
-|![T.H.E. C.O.G. USA (Corporate) example sett](/setts/s6/lo9g18t9r1w1db1~x4/sett.png)|
+| [COG USA, THE](/variants/s6/lo9dg18t9r1w1db1~x4/)|
+|![COG USA, THE example sett](/variants/s6/lo9dg18t9r1w1db1~x4/sett.png)|
+| [T.H.E. C.O.G. USA (Corporate)](/variants/s6/lo9g18t9r1w1db1~x4/)|
+|![T.H.E. C.O.G. USA (Corporate) example sett](/variants/s6/lo9g18t9r1w1db1~x4/sett.png)|

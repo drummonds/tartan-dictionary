@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smith (Sir William)](/setts/s10/db18ki20g20ki1k3ki1g20ki20db18t3~x2/)|
-|![Smith (Sir William) example sett](/setts/s10/db18ki20g20ki1k3ki1g20ki20db18t3~x2/sett.png)|
+| [Smith (Sir William)](/variants/s10/db18ki20g20ki1k3ki1g20ki20db18t3~x2/)|
+|![Smith (Sir William) example sett](/variants/s10/db18ki20g20ki1k3ki1g20ki20db18t3~x2/sett.png)|

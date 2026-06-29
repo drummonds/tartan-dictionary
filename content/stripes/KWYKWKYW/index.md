@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colbert Check (Fashion)](/setts/s8/k62w10ly10k4w18k4lo3w4/)|
-|![Colbert Check (Fashion) example sett](/setts/s8/k62w10ly10k4w18k4lo3w4/sett.png)|
+| [Colbert Check (Fashion)](/variants/s8/k62w10ly10k4w18k4lo3w4/)|
+|![Colbert Check (Fashion) example sett](/variants/s8/k62w10ly10k4w18k4lo3w4/sett.png)|

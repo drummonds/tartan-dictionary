@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moffat (1994)](/setts/s11/dp4g3k1g3dp2g20k10r20dp2k2lo4~x2/)|
-|![Moffat (1994) example sett](/setts/s11/dp4g3k1g3dp2g20k10r20dp2k2lo4~x2/sett.png)|
+| [Moffat (1994)](/variants/s11/dp4g3k1g3dp2g20k10r20dp2k2lo4~x2/)|
+|![Moffat (1994) example sett](/variants/s11/dp4g3k1g3dp2g20k10r20dp2k2lo4~x2/sett.png)|

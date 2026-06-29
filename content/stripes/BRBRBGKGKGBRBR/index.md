@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenlaw, American](/setts/s14/b46r2b3r2b14g38k3g4~x2/)|
-|![Greenlaw, American example sett](/setts/s14/b46r2b3r2b14g38k3g4~x2/sett.png)|
+| [Greenlaw, American](/variants/s14/b46r2b3r2b14g38k3g4~x2/)|
+|![Greenlaw, American example sett](/variants/s14/b46r2b3r2b14g38k3g4~x2/sett.png)|

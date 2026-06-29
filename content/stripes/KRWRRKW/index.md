@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swallow (Personal)](/setts/s7/k11ri11w11ri11r30k3w3~x2/)|
-|![Swallow (Personal) example sett](/setts/s7/k11ri11w11ri11r30k3w3~x2/sett.png)|
+| [Swallow (Personal)](/variants/s7/k11ri11w11ri11r30k3w3~x2/)|
+|![Swallow (Personal) example sett](/variants/s7/k11ri11w11ri11r30k3w3~x2/sett.png)|

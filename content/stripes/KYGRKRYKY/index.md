@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brooks Brothers Signature (Corporate](/setts/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/)|
-|![Brooks Brothers Signature (Corporate example sett](/setts/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/sett.png)|
+| [Brooks Brothers Signature (Corporate](/variants/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/)|
+|![Brooks Brothers Signature (Corporate example sett](/variants/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vancouver Centennial](/setts/s6/g4ly2g24w12db26r1~x2/)|
-|![Vancouver Centennial example sett](/setts/s6/g4ly2g24w12db26r1~x2/sett.png)|
+| [Vancouver Centennial](/variants/s6/g4ly2g24w12db26r1~x2/)|
+|![Vancouver Centennial example sett](/variants/s6/g4ly2g24w12db26r1~x2/sett.png)|

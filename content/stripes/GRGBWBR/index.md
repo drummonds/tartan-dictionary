@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brough (Name)](/setts/s7/r18db12w2db12dg8r3dg10~x2/)|
-|![Brough (Name) example sett](/setts/s7/r18db12w2db12dg8r3dg10~x2/sett.png)|
-| [Sinclair Green (Personal)](/setts/s7/r4db15w2n15g30r2g4~x2/)|
-|![Sinclair Green (Personal) example sett](/setts/s7/r4db15w2n15g30r2g4~x2/sett.png)|
+| [Brough (Name)](/variants/s7/r18db12w2db12dg8r3dg10~x2/)|
+|![Brough (Name) example sett](/variants/s7/r18db12w2db12dg8r3dg10~x2/sett.png)|
+| [Sinclair Green (Personal)](/variants/s7/r4db15w2n15g30r2g4~x2/)|
+|![Sinclair Green (Personal) example sett](/variants/s7/r4db15w2n15g30r2g4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burns Heritage Check](/setts/s9/k6w6k6w6g7w4dy3g2dy3~x2/)|
-|![Burns Heritage Check example sett](/setts/s9/k6w6k6w6g7w4dy3g2dy3~x2/sett.png)|
+| [Burns Heritage Check](/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/)|
+|![Burns Heritage Check example sett](/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/sett.png)|

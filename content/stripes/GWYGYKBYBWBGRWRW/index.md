@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Zinnen of Scene (Luxembourg) (Personal)](/setts/s16/dg32w2ly2dy2ly6k2db6ly2db2w2db2dg10r5w2r4w2~x2/)|
-|![Zinnen of Scene (Luxembourg) (Personal) example sett](/setts/s16/dg32w2ly2dy2ly6k2db6ly2db2w2db2dg10r5w2r4w2~x2/sett.png)|
+| [Zinnen of Scene (Luxembourg) (Personal)](/variants/s16/dg32w2ly2dy2ly6k2db6ly2db2w2db2dg10r5w2r4w2~x2/)|
+|![Zinnen of Scene (Luxembourg) (Personal) example sett](/variants/s16/dg32w2ly2dy2ly6k2db6ly2db2w2db2dg10r5w2r4w2~x2/sett.png)|

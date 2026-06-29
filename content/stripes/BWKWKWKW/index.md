@@ -24,11 +24,11 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buccleuch, Check](/setts/s8/k1w1k1w1db1~x12/)|
-|![Buccleuch, Check example sett](/setts/s8/k1w1k1w1db1~x12/sett.png)|
-| [Haig Check (Estate Check)](/setts/s8/k1w1k1w1b1~x12/)|
-|![Haig Check (Estate Check) example sett](/setts/s8/k1w1k1w1b1~x12/sett.png)|
-| [Menzies Mauve and White](/setts/s8/dp120w10k4w11k3w5k3w19/)|
-|![Menzies Mauve and White example sett](/setts/s8/dp120w10k4w11k3w5k3w19/sett.png)|
-| [Menzies, Mauve and White](/setts/s8/p120w10k4w11k3w5k3w19/)|
-|![Menzies, Mauve and White example sett](/setts/s8/p120w10k4w11k3w5k3w19/sett.png)|
+| [Buccleuch, Check](/variants/s8/k1w1k1w1db1~x12/)|
+|![Buccleuch, Check example sett](/variants/s8/k1w1k1w1db1~x12/sett.png)|
+| [Haig Check (Estate Check)](/variants/s8/k1w1k1w1b1~x12/)|
+|![Haig Check (Estate Check) example sett](/variants/s8/k1w1k1w1b1~x12/sett.png)|
+| [Menzies Mauve and White](/variants/s8/dp120w10k4w11k3w5k3w19/)|
+|![Menzies Mauve and White example sett](/variants/s8/dp120w10k4w11k3w5k3w19/sett.png)|
+| [Menzies, Mauve and White](/variants/s8/p120w10k4w11k3w5k3w19/)|
+|![Menzies, Mauve and White example sett](/variants/s8/p120w10k4w11k3w5k3w19/sett.png)|

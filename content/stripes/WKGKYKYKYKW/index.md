@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vaughan (Welsh Series)](/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/)|
-|![Vaughan (Welsh Series) example sett](/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/sett.png)|
+| [Vaughan (Welsh Series)](/variants/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/)|
+|![Vaughan (Welsh Series) example sett](/variants/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/sett.png)|

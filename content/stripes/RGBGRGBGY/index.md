@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cruikshank (Name)](/setts/s9/r4g15db8g4r48g4db8g4ly3~x2/)|
-|![Cruikshank (Name) example sett](/setts/s9/r4g15db8g4r48g4db8g4ly3~x2/sett.png)|
+| [Cruikshank (Name)](/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/)|
+|![Cruikshank (Name) example sett](/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/sett.png)|

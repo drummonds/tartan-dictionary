@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wedding Day](/setts/s9/o4w1dp48r2m3r2dp3w1o4~x2/)|
-|![Wedding Day example sett](/setts/s9/o4w1dp48r2m3r2dp3w1o4~x2/sett.png)|
+| [Wedding Day](/variants/s9/o4w1dp48r2m3r2dp3w1o4~x2/)|
+|![Wedding Day example sett](/variants/s9/o4w1dp48r2m3r2dp3w1o4~x2/sett.png)|

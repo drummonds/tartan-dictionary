@@ -24,9 +24,9 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaw](/tartans/b5k1r30n15r8dg30r8n2/)|
-|![Shaw example sett](/setts/s8/b5k1r30n15r8dg30r8n2/sett.png)|
-| [Shaw Red of Tordarroch Dress (Clan 2](/tartans/t5k1r30dp15r8g30r8dp2/)|
-|![Shaw Red of Tordarroch Dress (Clan 2 example sett](/setts/s8/t5k1r30dp15r8g30r8dp2/sett.png)|
-| [Shaw of Tordarroch](/setts/s8/t5k1r30p15r8g30r8p2~x2/)|
-|![Shaw of Tordarroch example sett](/setts/s8/t5k1r30p15r8g30r8p2~x2/sett.png)|
+| [Shaw](/setts/b5k1r30n15r8dg30r8n2/)|
+|![Shaw example sett](/variants/s8/b5k1r30n15r8dg30r8n2/sett.png)|
+| [Shaw of Tordarroch](/variants/s8/t5k1r30p15r8g30r8p2~x2/)|
+|![Shaw of Tordarroch example sett](/variants/s8/t5k1r30p15r8g30r8p2~x2/sett.png)|
+| [Shaw of Tordarroch Clan Tartan](/setts/t5k1r30dp15r8g30r8dp2/)|
+|![Shaw of Tordarroch Clan Tartan example sett](/variants/s8/t5k1r30dp15r8g30r8dp2/sett.png)|

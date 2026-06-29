@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Solberg-Bell](/setts/s6/ly8k2dt20t4w1k2~x4/)|
-|![Solberg-Bell example sett](/setts/s6/ly8k2dt20t4w1k2~x4/sett.png)|
-| [Solberg-Bell (Personal)](/setts/s6/lo8k2dt20t4w1k2~x4/)|
-|![Solberg-Bell (Personal) example sett](/setts/s6/lo8k2dt20t4w1k2~x4/sett.png)|
+| [Solberg-Bell](/variants/s6/ly8k2dt20t4w1k2~x4/)|
+|![Solberg-Bell example sett](/variants/s6/ly8k2dt20t4w1k2~x4/sett.png)|
+| [Solberg-Bell (Personal)](/variants/s6/lo8k2dt20t4w1k2~x4/)|
+|![Solberg-Bell (Personal) example sett](/variants/s6/lo8k2dt20t4w1k2~x4/sett.png)|

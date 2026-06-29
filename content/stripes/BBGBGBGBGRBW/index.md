@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ayre Robinson (Personal)](/setts/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/)|
-|![Ayre Robinson (Personal) example sett](/setts/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/sett.png)|
+| [Ayre Robinson (Personal)](/variants/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/)|
+|![Ayre Robinson (Personal) example sett](/variants/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/sett.png)|

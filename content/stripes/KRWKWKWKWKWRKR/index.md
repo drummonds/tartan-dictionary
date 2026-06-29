@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Sullivan-Beare](/setts/s14/k24o8lb3k3lb3k3lb40k3lb3k3lb3o8k24o8~x2/)|
-|![O'Sullivan-Beare example sett](/setts/s14/k24o8lb3k3lb3k3lb40k3lb3k3lb3o8k24o8~x2/sett.png)|
+| [O'Sullivan-Beare](/variants/s14/k24o8lb3k3lb3k3lb40k3lb3k3lb3o8k24o8~x2/)|
+|![O'Sullivan-Beare example sett](/variants/s14/k24o8lb3k3lb3k3lb40k3lb3k3lb3o8k24o8~x2/sett.png)|

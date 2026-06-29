@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aceo](/setts/s12/k2y10n5y20n5lo3n7k3n7k4n4w2~x2/)|
-|![Aceo example sett](/setts/s12/k2y10n5y20n5lo3n7k3n7k4n4w2~x2/sett.png)|
+| [Aceo](/variants/s12/k2y10n5y20n5lo3n7k3n7k4n4w2~x2/)|
+|![Aceo example sett](/variants/s12/k2y10n5y20n5lo3n7k3n7k4n4w2~x2/sett.png)|

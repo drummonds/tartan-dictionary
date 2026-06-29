@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Titles](/setts/s9/ly6b15k20ki25o40ki25k20b15w4/)|
-|![Highland Titles example sett](/setts/s9/ly6b15k20ki25o40ki25k20b15w4/sett.png)|
+| [Highland Titles](/variants/s9/ly6b15k20ki25o40ki25k20b15w4/)|
+|![Highland Titles example sett](/variants/s9/ly6b15k20ki25o40ki25k20b15w4/sett.png)|

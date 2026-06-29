@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jewish (Kosher) (Corporate)](/setts/s11/w3db3w1dt44o1dt2o1r4o1dt5lo2~x2/)|
-|![Jewish (Kosher) (Corporate) example sett](/setts/s11/w3db3w1dt44o1dt2o1r4o1dt5lo2~x2/sett.png)|
+| [Jewish (Kosher) (Corporate)](/variants/s11/w3db3w1dt44o1dt2o1r4o1dt5lo2~x2/)|
+|![Jewish (Kosher) (Corporate) example sett](/variants/s11/w3db3w1dt44o1dt2o1r4o1dt5lo2~x2/sett.png)|

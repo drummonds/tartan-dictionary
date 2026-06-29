@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sandberg of Greenock (Personal)](/setts/s8/ly3k12db1g5db12r1k2r1~x4/)|
-|![Sandberg of Greenock (Personal) example sett](/setts/s8/ly3k12db1g5db12r1k2r1~x4/sett.png)|
+| [Sandberg of Greenock (Personal)](/variants/s8/ly3k12db1g5db12r1k2r1~x4/)|
+|![Sandberg of Greenock (Personal) example sett](/variants/s8/ly3k12db1g5db12r1k2r1~x4/sett.png)|

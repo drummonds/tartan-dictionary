@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden, Gold](/setts/s8/r5t2dp14w2k13y13k2ly3~x2/)|
-|![Culloden, Gold example sett](/setts/s8/r5t2dp14w2k13y13k2ly3~x2/sett.png)|
+| [Culloden, Gold](/variants/s8/r5t2dp14w2k13y13k2ly3~x2/)|
+|![Culloden, Gold example sett](/variants/s8/r5t2dp14w2k13y13k2ly3~x2/sett.png)|

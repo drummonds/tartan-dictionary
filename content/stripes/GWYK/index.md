@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dhillon (Personal)](/setts/s4/k35lo3w3g3~x4/)|
-|![Dhillon (Personal) example sett](/setts/s4/k35lo3w3g3~x4/sett.png)|
-| [Hogan (2014)](/setts/s4/g10w7ly41k7~x2/)|
-|![Hogan (2014) example sett](/setts/s4/g10w7ly41k7~x2/sett.png)|
+| [Dhillon (Personal)](/variants/s4/k35lo3w3g3~x4/)|
+|![Dhillon (Personal) example sett](/variants/s4/k35lo3w3g3~x4/sett.png)|
+| [Hogan (2014)](/variants/s4/g10w7ly41k7~x2/)|
+|![Hogan (2014) example sett](/variants/s4/g10w7ly41k7~x2/sett.png)|

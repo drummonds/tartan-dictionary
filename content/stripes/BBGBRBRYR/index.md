@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Lomond](/setts/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/)|
-|![Loch Lomond example sett](/setts/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/sett.png)|
-| [Loch Lomond (1999)](/setts/s9/r28ly3r3db3r4dp8g10dpi15dp4~x2/)|
-|![Loch Lomond (1999) example sett](/setts/s9/r28ly3r3db3r4dp8g10dpi15dp4~x2/sett.png)|
+| [Loch Lomond](/variants/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/)|
+|![Loch Lomond example sett](/variants/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/sett.png)|
+| [Loch Lomond (1999)](/variants/s9/r28ly3r3db3r4dp8g10dpi15dp4~x2/)|
+|![Loch Lomond (1999) example sett](/variants/s9/r28ly3r3db3r4dp8g10dpi15dp4~x2/sett.png)|

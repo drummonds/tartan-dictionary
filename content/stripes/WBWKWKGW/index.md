@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forbes - 1880 (Clans Originaux)](/setts/s8/w2g4k7w2k1w11db2w2~x4/)|
-|![Forbes - 1880 (Clans Originaux) example sett](/setts/s8/w2g4k7w2k1w11db2w2~x4/sett.png)|
+| [Forbes - 1880 (Clans Originaux)](/variants/s8/w2g4k7w2k1w11db2w2~x4/)|
+|![Forbes - 1880 (Clans Originaux) example sett](/variants/s8/w2g4k7w2k1w11db2w2~x4/sett.png)|

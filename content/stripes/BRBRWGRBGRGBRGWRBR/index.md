@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C18/19th - Antigonish (A)](/setts/s18/r26y6dt26r2y26w1r6dt2r6dt13~x2/)|
-|![Unnamed C18/19th - Antigonish (A) example sett](/setts/s18/r26y6dt26r2y26w1r6dt2r6dt13~x2/sett.png)|
+| [Unnamed C18/19th - Antigonish (A)](/variants/s18/r26y6dt26r2y26w1r6dt2r6dt13~x2/)|
+|![Unnamed C18/19th - Antigonish (A) example sett](/variants/s18/r26y6dt26r2y26w1r6dt2r6dt13~x2/sett.png)|

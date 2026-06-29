@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [TACC](/setts/s7/n34k7n12k40n3k4lt3~x2/)|
-|![TACC example sett](/setts/s7/n34k7n12k40n3k4lt3~x2/sett.png)|
+| [TACC](/variants/s7/n34k7n12k40n3k4lt3~x2/)|
+|![TACC example sett](/variants/s7/n34k7n12k40n3k4lt3~x2/sett.png)|

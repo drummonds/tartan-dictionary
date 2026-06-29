@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Storrie (Name)](/setts/s11/g20k1o1k1g20k10o2k2r2db20w1~x2/)|
-|![Storrie (Name) example sett](/setts/s11/g20k1o1k1g20k10o2k2r2db20w1~x2/sett.png)|
+| [Storrie (Name)](/variants/s11/g20k1o1k1g20k10o2k2r2db20w1~x2/)|
+|![Storrie (Name) example sett](/variants/s11/g20k1o1k1g20k10o2k2r2db20w1~x2/sett.png)|

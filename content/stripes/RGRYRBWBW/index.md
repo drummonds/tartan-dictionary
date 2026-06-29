@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Russian Scottish](/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/)|
-|![Russian Scottish example sett](/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/sett.png)|
-| [Russian Scottish (District)](/setts/s9/w2db2w1db40r3ly1r10g10r1~x2/)|
-|![Russian Scottish (District) example sett](/setts/s9/w2db2w1db40r3ly1r10g10r1~x2/sett.png)|
+| [Russian Scottish](/variants/s9/w3b2w2b40r3ly1r10g10r1~x2/)|
+|![Russian Scottish example sett](/variants/s9/w3b2w2b40r3ly1r10g10r1~x2/sett.png)|
+| [Russian Scottish (District)](/variants/s9/w2db2w1db40r3ly1r10g10r1~x2/)|
+|![Russian Scottish (District) example sett](/variants/s9/w2db2w1db40r3ly1r10g10r1~x2/sett.png)|

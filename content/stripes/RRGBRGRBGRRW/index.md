@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinnon #7](/setts/s12/ri3r4dg3dp3r11dg30r3dp7dg3ri2r4w2~x2/)|
-|![MacKinnon #7 example sett](/setts/s12/ri3r4dg3dp3r11dg30r3dp7dg3ri2r4w2~x2/sett.png)|
-| [MacKinnon 1](/setts/s12/r3ri4g3p3ri11g30ri3p7g3r2ri4w2~x2/)|
-|![MacKinnon 1 example sett](/setts/s12/r3ri4g3p3ri11g30ri3p7g3r2ri4w2~x2/sett.png)|
+| [MacKinnon #7](/variants/s12/ri3r4dg3dp3r11dg30r3dp7dg3ri2r4w2~x2/)|
+|![MacKinnon #7 example sett](/variants/s12/ri3r4dg3dp3r11dg30r3dp7dg3ri2r4w2~x2/sett.png)|
+| [MacKinnon 1](/variants/s12/r3ri4g3p3ri11g30ri3p7g3r2ri4w2~x2/)|
+|![MacKinnon 1 example sett](/variants/s12/r3ri4g3p3ri11g30ri3p7g3r2ri4w2~x2/sett.png)|

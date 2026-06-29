@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Okanagan(District)](/setts/s13/lb17r2w2db9ly2yi16w1r6w1g5ly1y8ly2~x2/)|
-|![Okanagan(District) example sett](/setts/s13/lb17r2w2db9ly2yi16w1r6w1g5ly1y8ly2~x2/sett.png)|
+| [Okanagan(District)](/variants/s13/lb17r2w2db9ly2yi16w1r6w1g5ly1y8ly2~x2/)|
+|![Okanagan(District) example sett](/variants/s13/lb17r2w2db9ly2yi16w1r6w1g5ly1y8ly2~x2/sett.png)|

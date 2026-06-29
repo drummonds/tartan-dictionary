@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Trotter (Personal)](/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/)|
-|![Trotter (Personal) example sett](/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/sett.png)|
+| [Trotter (Personal)](/variants/s9/dt23k2dt2k2dt2k28r2k4n2~x2/)|
+|![Trotter (Personal) example sett](/variants/s9/dt23k2dt2k2dt2k28r2k4n2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Missouri (Proposed)](/setts/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/)|
-|![Missouri (Proposed) example sett](/setts/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/sett.png)|
+| [Missouri (Proposed)](/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/)|
+|![Missouri (Proposed) example sett](/variants/s16/g4w2r2lg3db3dr2db2dr2g2dr2g3dr2g8dr6g8lg2~x2/sett.png)|

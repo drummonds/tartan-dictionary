@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thomas Newcomen's Combustion Engine](/setts/s4/k7r5w3db2~x4/)|
-|![Thomas Newcomen's Combustion Engine example sett](/setts/s4/k7r5w3db2~x4/sett.png)|
+| [Thomas Newcomen's Combustion Engine](/variants/s4/k7r5w3db2~x4/)|
+|![Thomas Newcomen's Combustion Engine example sett](/variants/s4/k7r5w3db2~x4/sett.png)|

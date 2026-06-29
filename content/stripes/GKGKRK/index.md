@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fife, Duke Of](/setts/s6/dg32k6dg4k8r1k2~x4/)|
-|![Fife, Duke Of example sett](/setts/s6/dg32k6dg4k8r1k2~x4/sett.png)|
-| [Fife, Duke of..](/setts/s6/g32k6g4k8r1k2~x2/)|
-|![Fife, Duke of.. example sett](/setts/s6/g32k6g4k8r1k2~x2/sett.png)|
+| [Fife, Duke Of](/variants/s6/dg32k6dg4k8r1k2~x4/)|
+|![Fife, Duke Of example sett](/variants/s6/dg32k6dg4k8r1k2~x4/sett.png)|
+| [Fife, Duke of..](/variants/s6/g32k6g4k8r1k2~x2/)|
+|![Fife, Duke of.. example sett](/variants/s6/g32k6g4k8r1k2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bundy, Dress Black Personal)](/setts/s8/g1g1w1g15w15g1w1g1~x4/)|
-|![Bundy, Dress Black Personal) example sett](/setts/s8/g1g1w1g15w15g1w1g1~x4/sett.png)|
-| [Jubilation Tartan](/setts/s8/g8w2g11w13g30w13g11g2~x2/)|
-|![Jubilation Tartan example sett](/setts/s8/g8w2g11w13g30w13g11g2~x2/sett.png)|
+| [Bundy, Dress Black Personal)](/variants/s8/g1g1w1g15w15g1w1g1~x4/)|
+|![Bundy, Dress Black Personal) example sett](/variants/s8/g1g1w1g15w15g1w1g1~x4/sett.png)|
+| [Jubilation Tartan](/variants/s8/g8w2g11w13g30w13g11g2~x2/)|
+|![Jubilation Tartan example sett](/variants/s8/g8w2g11w13g30w13g11g2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Navy Submarine Service](/setts/s9/w3db3r2db14k3dg12k14db16lo2~x2/)|
-|![Royal Navy Submarine Service example sett](/setts/s9/w3db3r2db14k3dg12k14db16lo2~x2/sett.png)|
+| [Royal Navy Submarine Service](/variants/s9/w3db3r2db14k3dg12k14db16lo2~x2/)|
+|![Royal Navy Submarine Service example sett](/variants/s9/w3db3r2db14k3dg12k14db16lo2~x2/sett.png)|

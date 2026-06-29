@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greyfriars (District)](/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/)|
-|![Greyfriars (District) example sett](/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/sett.png)|
+| [Greyfriars (District)](/variants/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/)|
+|![Greyfriars (District) example sett](/variants/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/sett.png)|

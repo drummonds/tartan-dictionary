@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunbog Primary School](/setts/s10/r12db3g5db16ly2g2~x2/)|
-|![Dunbog Primary School example sett](/setts/s10/r12db3g5db16ly2g2~x2/sett.png)|
+| [Dunbog Primary School](/variants/s10/r12db3g5db16ly2g2~x2/)|
+|![Dunbog Primary School example sett](/variants/s10/r12db3g5db16ly2g2~x2/sett.png)|

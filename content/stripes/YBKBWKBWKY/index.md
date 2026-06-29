@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cavan County Crest (Fashion)](/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/)|
-|![Cavan County Crest (Fashion) example sett](/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png)|
+| [Cavan County Crest (Fashion)](/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/)|
+|![Cavan County Crest (Fashion) example sett](/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png)|

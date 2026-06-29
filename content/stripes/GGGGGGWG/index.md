@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snaefell (District)](/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/)|
-|![Snaefell (District) example sett](/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/sett.png)|
+| [Snaefell (District)](/variants/s8/y22dy2y2dy2y2dy14w16dy3~x2/)|
+|![Snaefell (District) example sett](/variants/s8/y22dy2y2dy2y2dy14w16dy3~x2/sett.png)|

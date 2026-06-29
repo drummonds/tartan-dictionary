@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mercer, Charles](/setts/s8/db9b2db2ly1b7db2r1b4~x4/)|
-|![Mercer, Charles example sett](/setts/s8/db9b2db2ly1b7db2r1b4~x4/sett.png)|
+| [Mercer, Charles](/variants/s8/db9b2db2ly1b7db2r1b4~x4/)|
+|![Mercer, Charles example sett](/variants/s8/db9b2db2ly1b7db2r1b4~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hawaiian](/setts/s14/t4r1ly1t12do4y10ly1r3~x4/)|
-|![Hawaiian example sett](/setts/s14/t4r1ly1t12do4y10ly1r3~x4/sett.png)|
+| [Hawaiian](/variants/s14/t4r1ly1t12do4y10ly1r3~x4/)|
+|![Hawaiian example sett](/variants/s14/t4r1ly1t12do4y10ly1r3~x4/sett.png)|

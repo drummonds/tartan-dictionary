@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGillivray, Pauline (Personal)](/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/)|
-|![McGillivray, Pauline (Personal) example sett](/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/sett.png)|
+| [McGillivray, Pauline (Personal)](/variants/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/)|
+|![McGillivray, Pauline (Personal) example sett](/variants/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/sett.png)|

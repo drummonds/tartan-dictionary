@@ -1,0 +1,56 @@
+---
+title: "Bagpipe Shop (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n10w3lb3g1r1/)
+(the same proportion at any scale), whose colour order is pattern [BWWGR](/stripes/bwwgr/).
+
+Part of the [Bagpipe Shop](/tartans/bagpipe-shop/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10773/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10773](https://www.tartanregister.gov.uk/tartanDetails?ref=10773)
+- Scottish Tartans Authority (ITI): 10773
+
+## Thread count
+N/100 LN30 Na30 G10 R/10
+
+One full sett is **250 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(4 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">100</td><td><code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> <small style="color:#888">#5C5C5C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.5% 0.000 89.9)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">30</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>Na</td><td style="text-align:right;font-variant-numeric:tabular-nums">30</td><td><code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> <small style="color:#888">#C0C0C0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(80.8% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="N/100 LN30 Na30 G10 R/10 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/n10w3lr3g1r1/"><img src="/variants/s5/n10w3lr3g1r1~x10/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/n10w3lr3g1r1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=n10w3lb3g1r1~x10">Bagpipe Shop (Corporate)</a> <a class="nn-out" href="/variants/s5/n10w3lb3g1r1~x10/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/n10w3lb3g1r1~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.28</div><div class="nn-name"><a href="/ttd/edit/#slug=n10w3lr3g1r1~x10&amp;base=n10w3lb3g1r1~x10">Bagpipe Shop (Switzerland)</a> <a class="nn-out" href="/variants/s5/n10w3lr3g1r1~x10/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n10w3lr3g1r1~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.81</div><div class="nn-name"><a href="/ttd/edit/#slug=ly15r9t30w3db4~x2&amp;base=n10w3lb3g1r1~x10">S.I.D.E. (Corporate)</a> <a class="nn-out" href="/variants/s5/ly15r9t30w3db4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/ly15r9t30w3db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=o10k1db3g3ly1~x6&amp;base=n10w3lb3g1r1~x10">Celtic Norse Heritage Society</a> <a class="nn-out" href="/variants/s5/o10k1db3g3ly1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/o10k1db3g3ly1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=b4g16ly2p7b28w4~x2&amp;base=n10w3lb3g1r1~x10">Manx Laxey</a> <a class="nn-out" href="/variants/s6/b4g16ly2p7b28w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b4g16ly2p7b28w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=t4dg16ly2dp7t28w4~x2&amp;base=n10w3lb3g1r1~x10">Manx Laxey (Blue)</a> <a class="nn-out" href="/variants/s6/t4dg16ly2dp7t28w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t4dg16ly2dp7t28w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.37</div><div class="nn-name"><a href="/ttd/edit/#slug=o62t17ly12g8dg8~x2&amp;base=n10w3lb3g1r1~x10">Dundhuin Dress (Personal)</a> <a class="nn-out" href="/variants/s5/o62t17ly12g8dg8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/o62t17ly12g8dg8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.37</div><div class="nn-name"><a href="/ttd/edit/#slug=lb3k3lb3k3o15r1~x4&amp;base=n10w3lb3g1r1~x10">Tiree Grey</a> <a class="nn-out" href="/variants/s6/lb3k3lb3k3o15r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb3k3lb3k3o15r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=o19k2w4k2n5k2n5~x2&amp;base=n10w3lb3g1r1~x10">Kyle Tartan</a> <a class="nn-out" href="/variants/s7/o19k2w4k2n5k2n5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/o19k2w4k2n5k2n5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.45</div><div class="nn-name"><a href="/ttd/edit/#slug=g11lo10dp11t33w3~x2&amp;base=n10w3lb3g1r1~x10">Sterling, Rob (Florida) (Persona Name Tartan</a> <a class="nn-out" href="/variants/s5/g11lo10dp11t33w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g11lo10dp11t33w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/ttd/edit/#slug=g15ly3r3dp8w2~x6&amp;base=n10w3lb3g1r1~x10">ChuMac (Personal)</a> <a class="nn-out" href="/variants/s5/g15ly3r3dp8w2~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g15ly3r3dp8w2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n10w3lr3g1r1~x10/"><circle cx="277.0" cy="188.8" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s5/ly15r9t30w3db4~x2/"><circle cx="230.0" cy="193.7" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s5/o10k1db3g3ly1~x6/"><circle cx="260.1" cy="190.9" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/variants/s6/b4g16ly2p7b28w4~x2/"><circle cx="271.5" cy="176.2" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s6/t4dg16ly2dp7t28w4~x2/"><circle cx="273.2" cy="182.3" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/variants/s5/o62t17ly12g8dg8~x2/"><circle cx="314.7" cy="210.1" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><a href="/variants/s6/lb3k3lb3k3o15r1~x4/"><circle cx="290.6" cy="171.5" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s7/o19k2w4k2n5k2n5~x2/"><circle cx="255.1" cy="189.1" r="4" fill="#3465a4"><title>Kyle Tartan</title></circle></a><a href="/variants/s5/g11lo10dp11t33w3~x2/"><circle cx="242.2" cy="215.6" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Persona Name Tartan</title></circle></a><a href="/variants/s5/g15ly3r3dp8w2~x6/"><circle cx="205.2" cy="211.4" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><circle cx="274.0" cy="188.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/n10w3lb3g1r1~x10/

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aitken (Fashion)](/setts/s8/k5k2ki2k12ki16r20ki2r4~x2/)|
-|![Aitken (Fashion) example sett](/setts/s8/k5k2ki2k12ki16r20ki2r4~x2/sett.png)|
+| [Aitken (Fashion)](/variants/s8/k5k2ki2k12ki16r20ki2r4~x2/)|
+|![Aitken (Fashion) example sett](/variants/s8/k5k2ki2k12ki16r20ki2r4~x2/sett.png)|

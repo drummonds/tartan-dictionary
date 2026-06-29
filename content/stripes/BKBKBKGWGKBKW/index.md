@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cheape of Torosay (Personal)](/setts/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/)|
-|![Cheape of Torosay (Personal) example sett](/setts/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/sett.png)|
+| [Cheape of Torosay (Personal)](/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/)|
+|![Cheape of Torosay (Personal) example sett](/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/sett.png)|

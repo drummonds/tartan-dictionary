@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell Cawdor](/setts/s7/r2k1db8k8dg8k1lb2/)|
-|![Campbell Cawdor example sett](/setts/s7/r2k1db8k8dg8k1lb2/sett.png)|
+| [Campbell Cawdor](/variants/s7/r2k1db8k8dg8k1lb2/)|
+|![Campbell Cawdor example sett](/variants/s7/r2k1db8k8dg8k1lb2/sett.png)|

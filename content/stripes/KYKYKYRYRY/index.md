@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Intergen](/setts/s10/lg33r1lg4r1lg33k30ly3k4ly3k30~x2/)|
-|![Intergen example sett](/setts/s10/lg33r1lg4r1lg33k30ly3k4ly3k30~x2/sett.png)|
+| [Intergen](/variants/s10/lg33r1lg4r1lg33k30ly3k4ly3k30~x2/)|
+|![Intergen example sett](/variants/s10/lg33r1lg4r1lg33k30ly3k4ly3k30~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan, dress](/setts/s13/r3w34k2y4k2ly7k2ly7k2y4k2o34t3~x2/)|
-|![Buchanan, dress example sett](/setts/s13/r3w34k2y4k2ly7k2ly7k2y4k2o34t3~x2/sett.png)|
+| [Buchanan, dress](/variants/s13/r3w34k2y4k2ly7k2ly7k2y4k2o34t3~x2/)|
+|![Buchanan, dress example sett](/variants/s13/r3w34k2y4k2ly7k2ly7k2y4k2o34t3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [De Grussa](/setts/s6/db24w4db24ly4r5k4~x2/)|
-|![De Grussa example sett](/setts/s6/db24w4db24ly4r5k4~x2/sett.png)|
-| [de Grussa (Personal)](/setts/s6/db24w4db24lo4r5k4~x2/)|
-|![de Grussa (Personal) example sett](/setts/s6/db24w4db24lo4r5k4~x2/sett.png)|
+| [De Grussa](/variants/s6/db24w4db24ly4r5k4~x2/)|
+|![De Grussa example sett](/variants/s6/db24w4db24ly4r5k4~x2/sett.png)|
+| [de Grussa (Personal)](/variants/s6/db24w4db24lo4r5k4~x2/)|
+|![de Grussa (Personal) example sett](/variants/s6/db24w4db24lo4r5k4~x2/sett.png)|

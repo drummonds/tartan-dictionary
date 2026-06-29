@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Torridon, Burgundy (Dance)](/setts/s7/w3lg2w30r30n2r2lg3~x2/)|
-|![Torridon, Burgundy (Dance) example sett](/setts/s7/w3lg2w30r30n2r2lg3~x2/sett.png)|
+| [Torridon, Burgundy (Dance)](/variants/s7/w3lg2w30r30n2r2lg3~x2/)|
+|![Torridon, Burgundy (Dance) example sett](/variants/s7/w3lg2w30r30n2r2lg3~x2/sett.png)|

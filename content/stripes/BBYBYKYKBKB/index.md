@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dutton, Stuart (Personal)](/setts/s11/db4k4db10k10ly2k10lr4db8lr12db2dp1~x2/)|
-|![Dutton, Stuart (Personal) example sett](/setts/s11/db4k4db10k10ly2k10lr4db8lr12db2dp1~x2/sett.png)|
+| [Dutton, Stuart (Personal)](/variants/s11/db4k4db10k10ly2k10lr4db8lr12db2dp1~x2/)|
+|![Dutton, Stuart (Personal) example sett](/variants/s11/db4k4db10k10ly2k10lr4db8lr12db2dp1~x2/sett.png)|

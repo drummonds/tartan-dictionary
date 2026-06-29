@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westminster College (Corporate)](/setts/s16/k2db2k2db21k2db2r21k2db2k2db2k21k21lr1k21db2~x2/)|
-|![Westminster College (Corporate) example sett](/setts/s16/k2db2k2db21k2db2r21k2db2k2db2k21k21lr1k21db2~x2/sett.png)|
+| [Westminster College (Corporate)](/variants/s16/k2db2k2db21k2db2r21k2db2k2db2k21k21lr1k21db2~x2/)|
+|![Westminster College (Corporate) example sett](/variants/s16/k2db2k2db21k2db2r21k2db2k2db2k21k21lr1k21db2~x2/sett.png)|

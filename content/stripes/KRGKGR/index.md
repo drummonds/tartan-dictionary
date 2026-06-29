@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perthshire Tourist Board](/setts/s6/k26r6dg16k8dg3r2~x2/)|
-|![Perthshire Tourist Board example sett](/setts/s6/k26r6dg16k8dg3r2~x2/sett.png)|
+| [Perthshire Tourist Board](/variants/s6/k26r6dg16k8dg3r2~x2/)|
+|![Perthshire Tourist Board example sett](/variants/s6/k26r6dg16k8dg3r2~x2/sett.png)|

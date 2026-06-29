@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thirkill (Dalgliesh)](/setts/s7/w6r18k2r6g7k8ly6~x4/)|
-|![Thirkill (Dalgliesh) example sett](/setts/s7/w6r18k2r6g7k8ly6~x4/sett.png)|
+| [Thirkill (Dalgliesh)](/variants/s7/w6r18k2r6g7k8ly6~x4/)|
+|![Thirkill (Dalgliesh) example sett](/variants/s7/w6r18k2r6g7k8ly6~x4/sett.png)|

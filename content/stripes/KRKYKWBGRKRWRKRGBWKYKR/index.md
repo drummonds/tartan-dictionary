@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart of Galloway (VS)](/setts/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4/)|
-|![Stewart/Stuart of Galloway (VS) example sett](/setts/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4/sett.png)|
+| [Stewart/Stuart of Galloway (VS)](/variants/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4/)|
+|![Stewart/Stuart of Galloway (VS) example sett](/variants/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4/sett.png)|

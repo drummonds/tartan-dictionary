@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx Hunting](/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/)|
-|![Manx Hunting example sett](/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/sett.png)|
+| [Manx Hunting](/variants/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/)|
+|![Manx Hunting example sett](/variants/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/sett.png)|

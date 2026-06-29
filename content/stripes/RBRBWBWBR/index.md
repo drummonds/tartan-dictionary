@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robberstad](/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/)|
-|![Robberstad example sett](/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/sett.png)|
+| [Robberstad](/variants/s9/r60b15r4dt10w2dt10w2dt10r4~x2/)|
+|![Robberstad example sett](/variants/s9/r60b15r4dt10w2dt10w2dt10r4~x2/sett.png)|

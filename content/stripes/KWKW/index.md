@@ -24,13 +24,13 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Covenanter](/setts/s4/w30k1w1k2~x2/)|
-|![Covenanter example sett](/setts/s4/w30k1w1k2~x2/sett.png)|
-| [Lendrum (B&W)](/tartans/k7w6k1/)|
-|![Lendrum (B&W) example sett](/setts/s4/k7w6k1~x2/sett.png)|
-| [MacFarlane VS](/setts/s4/k7lb6k1/)|
-|![MacFarlane VS example sett](/setts/s4/k7lb6k1/sett.png)|
-| [MacPhee (Black and White)](/setts/s4/k22w3k3w22~x2/)|
-|![MacPhee (Black and White) example sett](/setts/s4/k22w3k3w22~x2/sett.png)|
-| [Shepherd or Falkirk](/setts/s4/k1w1~x6/)|
-|![Shepherd or Falkirk example sett](/setts/s4/k1w1~x6/sett.png)|
+| [Covenanter](/variants/s4/w30k1w1k2~x2/)|
+|![Covenanter example sett](/variants/s4/w30k1w1k2~x2/sett.png)|
+| [Lendrum (B&W)](/setts/k7w6k1/)|
+|![Lendrum (B&W) example sett](/variants/s4/k7w6k1~x2/sett.png)|
+| [MacFarlane VS](/variants/s4/k7lb6k1/)|
+|![MacFarlane VS example sett](/variants/s4/k7lb6k1/sett.png)|
+| [MacPhee (Black and White)](/variants/s4/k22w3k3w22~x2/)|
+|![MacPhee (Black and White) example sett](/variants/s4/k22w3k3w22~x2/sett.png)|
+| [Shepherd or Falkirk](/variants/s4/k1w1~x6/)|
+|![Shepherd or Falkirk example sett](/variants/s4/k1w1~x6/sett.png)|

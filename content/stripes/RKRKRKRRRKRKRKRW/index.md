@@ -24,7 +24,7 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chicago University of.. Corporate Tartan Tartan Number: 2073. Earliest known date: 1991 William Rainey Harper, a Scot, was founder and first president of the University. Andrew MacLeish was one of the original trustees. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/ri30k8ri2k2ri3k2ri8r15ri8k2ri3k2ri2k8ri30w3~x2/)|
-|![Chicago University of.. Corporate Tartan Tartan Number: 2073. Earliest known date: 1991 William Rainey Harper, a Scot, was founder and first president of the University. Andrew MacLeish was one of the original trustees. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s16/ri30k8ri2k2ri3k2ri8r15ri8k2ri3k2ri2k8ri30w3~x2/sett.png)|
-| [Chicago, University of..](/setts/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/)|
-|![Chicago, University of.. example sett](/setts/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/sett.png)|
+| [Chicago University of.. Corporate Tartan](/variants/s16/ri30k8ri2k2ri3k2ri8r15ri8k2ri3k2ri2k8ri30w3~x2/)|
+|![Chicago University of.. Corporate Tartan example sett](/variants/s16/ri30k8ri2k2ri3k2ri8r15ri8k2ri3k2ri2k8ri30w3~x2/sett.png)|
+| [Chicago, University of..](/variants/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/)|
+|![Chicago, University of.. example sett](/variants/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/sett.png)|

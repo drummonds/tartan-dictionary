@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Traynor](/setts/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/)|
-|![Traynor example sett](/setts/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/sett.png)|
+| [Traynor](/variants/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/)|
+|![Traynor example sett](/variants/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/sett.png)|

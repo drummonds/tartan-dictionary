@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson Gathering 1996](/setts/s9/b3r2o16r2b3r2g16r2b3~x4/)|
-|![MacPherson Gathering 1996 example sett](/setts/s9/b3r2o16r2b3r2g16r2b3~x4/sett.png)|
+| [MacPherson Gathering 1996](/variants/s9/b3r2o16r2b3r2g16r2b3~x4/)|
+|![MacPherson Gathering 1996 example sett](/variants/s9/b3r2o16r2b3r2g16r2b3~x4/sett.png)|

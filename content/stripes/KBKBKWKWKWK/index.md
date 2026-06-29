@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shalom (Fashion)](/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/)|
-|![Shalom (Fashion) example sett](/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/sett.png)|
+| [Shalom (Fashion)](/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/)|
+|![Shalom (Fashion) example sett](/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/sett.png)|

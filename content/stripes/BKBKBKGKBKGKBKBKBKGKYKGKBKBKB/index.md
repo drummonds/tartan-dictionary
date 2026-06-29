@@ -24,5 +24,5 @@ It is a 29 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Broun Hunting (Personal?)](/setts/s29/dt16k3dt3k3dt3k16g15k1t3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/)|
-|![Broun Hunting (Personal?) example sett](/setts/s29/dt16k3dt3k3dt3k16g15k1t3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/sett.png)|
+| [Broun Hunting (Personal?)](/variants/s29/dt16k3dt3k3dt3k16g15k1t3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/)|
+|![Broun Hunting (Personal?) example sett](/variants/s29/dt16k3dt3k3dt3k16g15k1t3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/sett.png)|

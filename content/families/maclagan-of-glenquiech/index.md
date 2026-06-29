@@ -8,5 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><img src="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/sett.png" alt="MacLagan of Glenquiech" width="240"><br>MacLagan of Glenquiech</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r6db6r3db3r3db28k21g28r21k2ly4/">MacLagan of Glenquiech</a> ★</td><td><code>R/6 DB6 R3 DB3 R3 DB28 K21 G28 R21 K2 LY/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r6db6r3db3r3db28k21g28r21k2ly4/"><img src="/variants/s11/r6db6r3db3r3db28k21g28r21k2ly4/sett.png" alt="MacLagan of Glenquiech sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

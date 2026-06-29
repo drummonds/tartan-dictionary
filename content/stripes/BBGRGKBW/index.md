@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alba](/setts/s8/dp24dt2g3m2g3k11dt29w2~x2/)|
-|![Alba example sett](/setts/s8/dp24dt2g3m2g3k11dt29w2~x2/sett.png)|
+| [Alba](/variants/s8/dp24dt2g3m2g3k11dt29w2~x2/)|
+|![Alba example sett](/variants/s8/dp24dt2g3m2g3k11dt29w2~x2/sett.png)|

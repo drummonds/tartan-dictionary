@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFarlane Hunting (MacGregor Hastie)](/setts/s14/g42k2g12w2r3k2r3w2k2dp12k4r3w4k3~x2/)|
-|![MacFarlane Hunting (MacGregor Hastie) example sett](/setts/s14/g42k2g12w2r3k2r3w2k2dp12k4r3w4k3~x2/sett.png)|
+| [MacFarlane Hunting (MacGregor Hastie)](/variants/s14/g42k2g12w2r3k2r3w2k2dp12k4r3w4k3~x2/)|
+|![MacFarlane Hunting (MacGregor Hastie) example sett](/variants/s14/g42k2g12w2r3k2r3w2k2dp12k4r3w4k3~x2/sett.png)|

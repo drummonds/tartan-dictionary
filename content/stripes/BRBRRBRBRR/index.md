@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harry (Welsh Name)](/setts/s10/dt6o3dt3o15r7dt7r5dt17r46o4/)|
-|![Harry (Welsh Name) example sett](/setts/s10/dt6o3dt3o15r7dt7r5dt17r46o4/sett.png)|
+| [Harry (Welsh Name)](/variants/s10/dt6o3dt3o15r7dt7r5dt17r46o4/)|
+|![Harry (Welsh Name) example sett](/variants/s10/dt6o3dt3o15r7dt7r5dt17r46o4/sett.png)|

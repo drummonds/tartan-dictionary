@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [The KpgM](/setts/s10/r24o4db6k6db60k40dr12k20o3dr8/)|
-|![The KpgM example sett](/setts/s10/r24o4db6k6db60k40dr12k20o3dr8/sett.png)|
+| [The KpgM](/variants/s10/r24o4db6k6db60k40dr12k20o3dr8/)|
+|![The KpgM example sett](/variants/s10/r24o4db6k6db60k40dr12k20o3dr8/sett.png)|

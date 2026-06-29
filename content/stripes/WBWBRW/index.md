@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burns (Fashion)](/setts/s6/w15do6w1do3o3w1~x4/)|
-|![Burns (Fashion) example sett](/setts/s6/w15do6w1do3o3w1~x4/sett.png)|
-| [Montrose Football Club](/setts/s6/w6r13dt80w4dt2w4/)|
-|![Montrose Football Club example sett](/setts/s6/w6r13dt80w4dt2w4/sett.png)|
+| [Burns (Fashion)](/variants/s6/w15do6w1do3o3w1~x4/)|
+|![Burns (Fashion) example sett](/variants/s6/w15do6w1do3o3w1~x4/sett.png)|
+| [Montrose Football Club](/variants/s6/w6r13dt80w4dt2w4/)|
+|![Montrose Football Club example sett](/variants/s6/w6r13dt80w4dt2w4/sett.png)|

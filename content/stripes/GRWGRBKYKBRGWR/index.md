@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling University #2](/setts/s14/g22r3w1g2r3t16k3ly2~x4/)|
-|![Stirling University #2 example sett](/setts/s14/g22r3w1g2r3t16k3ly2~x4/sett.png)|
+| [Stirling University #2](/variants/s14/g22r3w1g2r3t16k3ly2~x4/)|
+|![Stirling University #2 example sett](/variants/s14/g22r3w1g2r3t16k3ly2~x4/sett.png)|

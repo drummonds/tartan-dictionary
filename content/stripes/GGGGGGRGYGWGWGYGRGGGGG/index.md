@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Womens Royal Army Corps Assoc.](/setts/s22/dg2g1dg2g1dg24r2dg10ly1dg10w2dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/)|
-|![Womens Royal Army Corps Assoc. example sett](/setts/s22/dg2g1dg2g1dg24r2dg10ly1dg10w2dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/sett.png)|
+| [Womens Royal Army Corps Assoc.](/variants/s22/dg2g1dg2g1dg24r2dg10ly1dg10w2dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/)|
+|![Womens Royal Army Corps Assoc. example sett](/variants/s22/dg2g1dg2g1dg24r2dg10ly1dg10w2dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/sett.png)|

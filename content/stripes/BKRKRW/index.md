@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Koot Wedding (Personal)](/setts/s6/dt48k32r1k8r3w3~x2/)|
-|![Koot Wedding (Personal) example sett](/setts/s6/dt48k32r1k8r3w3~x2/sett.png)|
-| [Koot Wedding (Personal)](/setts/s6/db48k32r1k8r3w3~x2/)|
-|![Koot Wedding (Personal) example sett](/setts/s6/db48k32r1k8r3w3~x2/sett.png)|
+| [Koot Wedding (Personal)](/variants/s6/dt48k32r1k8r3w3~x2/)|
+|![Koot Wedding (Personal) example sett](/variants/s6/dt48k32r1k8r3w3~x2/sett.png)|
+| [Koot Wedding (Personal)](/variants/s6/db48k32r1k8r3w3~x2/)|
+|![Koot Wedding (Personal) example sett](/variants/s6/db48k32r1k8r3w3~x2/sett.png)|

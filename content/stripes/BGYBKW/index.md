@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Young, Christina](/setts/s6/w162k10dp10lo9y6dp3/)|
-|![Young, Christina example sett](/setts/s6/w162k10dp10lo9y6dp3/sett.png)|
+| [Young, Christina](/variants/s6/w162k10dp10lo9y6dp3/)|
+|![Young, Christina example sett](/variants/s6/w162k10dp10lo9y6dp3/sett.png)|

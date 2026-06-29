@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mack Original (Personal)](/setts/s13/g2r2g21k8t8k2t28k2t8k8g21w2g2~x2/)|
-|![Mack Original (Personal) example sett](/setts/s13/g2r2g21k8t8k2t28k2t8k8g21w2g2~x2/sett.png)|
+| [Mack Original (Personal)](/variants/s13/g2r2g21k8t8k2t28k2t8k8g21w2g2~x2/)|
+|![Mack Original (Personal) example sett](/variants/s13/g2r2g21k8t8k2t28k2t8k8g21w2g2~x2/sett.png)|

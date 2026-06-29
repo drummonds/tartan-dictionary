@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Virginia Military Institute (Milit.)](/setts/s9/r6w30r2k3r30g3r2w25r6~x2/)|
-|![Virginia Military Institute (Milit.) example sett](/setts/s9/r6w30r2k3r30g3r2w25r6~x2/sett.png)|
+| [Virginia Military Institute (Milit.)](/variants/s9/r6w30r2k3r30g3r2w25r6~x2/)|
+|![Virginia Military Institute (Milit.) example sett](/variants/s9/r6w30r2k3r30g3r2w25r6~x2/sett.png)|

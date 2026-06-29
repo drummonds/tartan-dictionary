@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orlando Police Department](/setts/s16/db12ly1t16db1t1db14t3db14ly1~x4/)|
-|![Orlando Police Department example sett](/setts/s16/db12ly1t16db1t1db14t3db14ly1~x4/sett.png)|
+| [Orlando Police Department](/variants/s16/db12ly1t16db1t1db14t3db14ly1~x4/)|
+|![Orlando Police Department example sett](/variants/s16/db12ly1t16db1t1db14t3db14ly1~x4/sett.png)|

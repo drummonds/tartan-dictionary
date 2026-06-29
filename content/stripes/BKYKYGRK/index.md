@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBeth (Fashion)](/setts/s8/db42k6lo2k3lo2g10r7k2~x2/)|
-|![MacBeth (Fashion) example sett](/setts/s8/db42k6lo2k3lo2g10r7k2~x2/sett.png)|
+| [MacBeth (Fashion)](/variants/s8/db42k6lo2k3lo2g10r7k2~x2/)|
+|![MacBeth (Fashion) example sett](/variants/s8/db42k6lo2k3lo2g10r7k2~x2/sett.png)|

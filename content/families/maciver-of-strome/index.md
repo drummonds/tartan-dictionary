@@ -2,11 +2,17 @@
 title: "MacIver of Strome"
 date: 2023-03-18
 ---
-A family of [Clan Maciver](/clan/maciver/).
+A family of [Clan MacIver](/clan/maciver/).
 
 **Trove of Scotland:** [search “Strome”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Strome&viewmode=grid)
 
 ## Tartan
 
-<a class="tartan" href="/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/"><img src="/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/sett.png" alt="MacIver of Strome (Personal)" width="240"><br>MacIver of Strome (Personal)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/w2db3r2db19k7db6k22db6k7db19r2db3ly2/">MacIver of Strome</a> ★</td><td><code>LY/4 DB6 R4 DB38 K14 DB12 K44 DB12 K14 DB38 R4 DB6 W/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/w2db3r2db19k7db6k22db6k7db19r2db3ly2/"><img src="/variants/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/sett.png" alt="MacIver of Strome sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

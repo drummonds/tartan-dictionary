@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rourke-Frew (Ontario)](/setts/s11/dp6do3r2do3r31do6lo2do6lo13do2lo2~x2/)|
-|![Rourke-Frew (Ontario) example sett](/setts/s11/dp6do3r2do3r31do6lo2do6lo13do2lo2~x2/sett.png)|
+| [Rourke-Frew (Ontario)](/variants/s11/dp6do3r2do3r31do6lo2do6lo13do2lo2~x2/)|
+|![Rourke-Frew (Ontario) example sett](/variants/s11/dp6do3r2do3r31do6lo2do6lo13do2lo2~x2/sett.png)|

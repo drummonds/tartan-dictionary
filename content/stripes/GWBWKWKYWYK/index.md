@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-Roazhon](/setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/)|
-|![Bro-Roazhon example sett](/setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/sett.png)|
+| [Bro-Roazhon](/variants/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/)|
+|![Bro-Roazhon example sett](/variants/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/sett.png)|

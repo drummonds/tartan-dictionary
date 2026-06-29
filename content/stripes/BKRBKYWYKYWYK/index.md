@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Presley of Lonmay #2](/setts/s13/db17k2m2db17k14lo1w2lo1k4lo1w2lo1k14~x2/)|
-|![Presley of Lonmay #2 example sett](/setts/s13/db17k2m2db17k14lo1w2lo1k4lo1w2lo1k14~x2/sett.png)|
+| [Presley of Lonmay #2](/variants/s13/db17k2m2db17k14lo1w2lo1k4lo1w2lo1k14~x2/)|
+|![Presley of Lonmay #2 example sett](/variants/s13/db17k2m2db17k14lo1w2lo1k4lo1w2lo1k14~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walterstrm (2014))](/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/)|
-|![Walterstrm (2014)) example sett](/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/sett.png)|
-| [Walterström (2014)](/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/)|
-|![Walterström (2014) example sett](/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/sett.png)|
+| [Walterstrm (2014))](/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/)|
+|![Walterstrm (2014)) example sett](/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/sett.png)|
+| [Walterström (2014)](/variants/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/)|
+|![Walterström (2014) example sett](/variants/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/sett.png)|

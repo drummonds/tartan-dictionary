@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of London (Corporate)](/setts/s4/k5n24w24r5~x2/)|
-|![City of London (Corporate) example sett](/setts/s4/k5n24w24r5~x2/sett.png)|
-| [Raven (Fashion)](/setts/s4/k19db18w9r3~x4/)|
-|![Raven (Fashion) example sett](/setts/s4/k19db18w9r3~x4/sett.png)|
+| [City of London (Corporate)](/variants/s4/k5n24w24r5~x2/)|
+|![City of London (Corporate) example sett](/variants/s4/k5n24w24r5~x2/sett.png)|
+| [Raven (Fashion)](/variants/s4/k19db18w9r3~x4/)|
+|![Raven (Fashion) example sett](/variants/s4/k19db18w9r3~x4/sett.png)|

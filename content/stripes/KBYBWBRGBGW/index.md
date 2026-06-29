@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holyrood (Commemorative)](/setts/s11/k48n12lo3n3w3n3o9dy8t2dy10w2~x2/)|
-|![Holyrood (Commemorative) example sett](/setts/s11/k48n12lo3n3w3n3o9dy8t2dy10w2~x2/sett.png)|
+| [Holyrood (Commemorative)](/variants/s11/k48n12lo3n3w3n3o9dy8t2dy10w2~x2/)|
+|![Holyrood (Commemorative) example sett](/variants/s11/k48n12lo3n3w3n3o9dy8t2dy10w2~x2/sett.png)|

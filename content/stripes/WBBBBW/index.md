@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Douglas Variation](/setts/s6/w4db25b25db2b5w2~x2/)|
-|![Douglas Variation example sett](/setts/s6/w4db25b25db2b5w2~x2/sett.png)|
+| [Douglas Variation](/variants/s6/w4db25b25db2b5w2~x2/)|
+|![Douglas Variation example sett](/variants/s6/w4db25b25db2b5w2~x2/sett.png)|

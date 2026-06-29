@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oakleigh (Corporate)](/setts/s6/k4ly1k20b20k1b4~x4/)|
-|![Oakleigh (Corporate) example sett](/setts/s6/k4ly1k20b20k1b4~x4/sett.png)|
-| [Sligo Irish County Tartan Tartan Number: 2256. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/t50k4t12k23lo4k4~x2/)|
-|![Sligo Irish County Tartan Tartan Number: 2256. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/t50k4t12k23lo4k4~x2/sett.png)|
+| [Oakleigh (Corporate)](/variants/s6/k4ly1k20b20k1b4~x4/)|
+|![Oakleigh (Corporate) example sett](/variants/s6/k4ly1k20b20k1b4~x4/sett.png)|
+| [Sligo Irish County Tartan](/variants/s6/t50k4t12k23lo4k4~x2/)|
+|![Sligo Irish County Tartan example sett](/variants/s6/t50k4t12k23lo4k4~x2/sett.png)|

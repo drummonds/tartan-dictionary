@@ -1,9 +1,5 @@
 ---
 title: "Clan Donachie"
-date: 2023-03-18
+redirect: "/families/donachie-of-brockloch/"
 ---
-## Families
-
-- [Donachie of Brockloch](/families/donachie-of-brockloch/)
-- [Donachie of Brockloch Htg](/families/donachie-of-brockloch-htg/)
-
+Clan Donachie is recorded as the single family [Donachie of Brockloch](/families/donachie-of-brockloch/) — redirecting there.

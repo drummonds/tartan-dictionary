@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mazda](/setts/s7/w4k4w21k12w4k12ly4/)|
-|![Mazda example sett](/setts/s7/w4k4w21k12w4k12ly4/sett.png)|
+| [Mazda](/variants/s7/w4k4w21k12w4k12ly4/)|
+|![Mazda example sett](/variants/s7/w4k4w21k12w4k12ly4/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jardine Dress (Clan)](/setts/s12/r26k2r6k2r6k20lr2db44lr2k6dg64k3/)|
-|![Jardine Dress (Clan) example sett](/setts/s12/r26k2r6k2r6k20lr2db44lr2k6dg64k3/sett.png)|
+| [Jardine Dress (Clan)](/variants/s12/r26k2r6k2r6k20lr2db44lr2k6dg64k3/)|
+|![Jardine Dress (Clan) example sett](/variants/s12/r26k2r6k2r6k20lr2db44lr2k6dg64k3/sett.png)|

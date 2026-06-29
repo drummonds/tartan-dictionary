@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebrides #2](/setts/s20/db25dbi2r25g10r4db25r2g2r25g2r2~x2/)|
-|![Hebrides #2 example sett](/setts/s20/db25dbi2r25g10r4db25r2g2r25g2r2~x2/sett.png)|
+| [Hebrides #2](/variants/s20/db25dbi2r25g10r4db25r2g2r25g2r2~x2/)|
+|![Hebrides #2 example sett](/variants/s20/db25dbi2r25g10r4db25r2g2r25g2r2~x2/sett.png)|

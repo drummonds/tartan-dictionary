@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland the Brave Corporate Tartan Tartan Number: 2563. Earliest known date: 1999 Scotland the Brave See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dt6w1dt40dp1k12dg12m6dg2dr2dg4~x2/)|
-|![Scotland the Brave Corporate Tartan Tartan Number: 2563. Earliest known date: 1999 Scotland the Brave See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/dt6w1dt40dp1k12dg12m6dg2dr2dg4~x2/sett.png)|
+| [Scotland the Brave Corporate Tartan](/variants/s10/dt6w1dt40dp1k12dg12m6dg2dr2dg4~x2/)|
+|![Scotland the Brave Corporate Tartan example sett](/variants/s10/dt6w1dt40dp1k12dg12m6dg2dr2dg4~x2/sett.png)|

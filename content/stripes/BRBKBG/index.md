@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Andrews Hotel, Golf Resort, and SPA](/setts/s6/g50db20k3db2o2db5~x2/)|
-|![St Andrews Hotel, Golf Resort, and SPA example sett](/setts/s6/g50db20k3db2o2db5~x2/sett.png)|
+| [St Andrews Hotel, Golf Resort, and SPA](/variants/s6/g50db20k3db2o2db5~x2/)|
+|![St Andrews Hotel, Golf Resort, and SPA example sett](/variants/s6/g50db20k3db2o2db5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland's Grace](/setts/s17/n24t2n4m2t2n4m4t5g5ly3r7ni2r2ni3r1ni23n4~x2/)|
-|![Scotland's Grace example sett](/setts/s17/n24t2n4m2t2n4m4t5g5ly3r7ni2r2ni3r1ni23n4~x2/sett.png)|
+| [Scotland's Grace](/variants/s17/n24t2n4m2t2n4m4t5g5ly3r7ni2r2ni3r1ni23n4~x2/)|
+|![Scotland's Grace example sett](/variants/s17/n24t2n4m2t2n4m4t5g5ly3r7ni2r2ni3r1ni23n4~x2/sett.png)|

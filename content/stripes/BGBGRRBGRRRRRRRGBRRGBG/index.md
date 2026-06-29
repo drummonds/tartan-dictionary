@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathgaela](/setts/s22/dg3db3dg11o8m8db4dg3m3r3m15r3m15r3m3dg3db4m8o8dg11db3dg3dp3~x2/)|
-|![Strathgaela example sett](/setts/s22/dg3db3dg11o8m8db4dg3m3r3m15r3m15r3m3dg3db4m8o8dg11db3dg3dp3~x2/sett.png)|
+| [Strathgaela](/variants/s22/dg3db3dg11o8m8db4dg3m3r3m15r3m15r3m3dg3db4m8o8dg11db3dg3dp3~x2/)|
+|![Strathgaela example sett](/variants/s22/dg3db3dg11o8m8db4dg3m3r3m15r3m15r3m3dg3db4m8o8dg11db3dg3dp3~x2/sett.png)|

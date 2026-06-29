@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Monarch of the Glen](/setts/s22/dp42dt3g1dt2r1dt2dp2db20dt1r2dt3g1dt2r1dt2dp2g3dt1g2lo1g2db2~x2/)|
-|![Monarch of the Glen example sett](/setts/s22/dp42dt3g1dt2r1dt2dp2db20dt1r2dt3g1dt2r1dt2dp2g3dt1g2lo1g2db2~x2/sett.png)|
+| [Monarch of the Glen](/variants/s22/dp42dt3g1dt2r1dt2dp2db20dt1r2dt3g1dt2r1dt2dp2g3dt1g2lo1g2db2~x2/)|
+|![Monarch of the Glen example sett](/variants/s22/dp42dt3g1dt2r1dt2dp2db20dt1r2dt3g1dt2r1dt2dp2g3dt1g2lo1g2db2~x2/sett.png)|

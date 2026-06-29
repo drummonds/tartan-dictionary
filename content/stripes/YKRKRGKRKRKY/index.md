@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Integrated Landscape Management (ILM)](/setts/s12/ly6k2ri8k4r64g14k63ri4k4ri8k2ly6/)|
-|![Integrated Landscape Management (ILM) example sett](/setts/s12/ly6k2ri8k4r64g14k63ri4k4ri8k2ly6/sett.png)|
+| [Integrated Landscape Management (ILM)](/variants/s12/ly6k2ri8k4r64g14k63ri4k4ri8k2ly6/)|
+|![Integrated Landscape Management (ILM) example sett](/variants/s12/ly6k2ri8k4r64g14k63ri4k4ri8k2ly6/sett.png)|

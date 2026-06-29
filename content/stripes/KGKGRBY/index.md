@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Selvon-Bruce (Personal)](/setts/s7/k3g2k3g18r2db2lo1~x4/)|
-|![Selvon-Bruce (Personal) example sett](/setts/s7/k3g2k3g18r2db2lo1~x4/sett.png)|
+| [Selvon-Bruce (Personal)](/variants/s7/k3g2k3g18r2db2lo1~x4/)|
+|![Selvon-Bruce (Personal) example sett](/variants/s7/k3g2k3g18r2db2lo1~x4/sett.png)|

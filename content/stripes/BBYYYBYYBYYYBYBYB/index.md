@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Agincourt (Fashion)](/setts/s17/dt4lo1dt3lo1dt1lo1lo1lo6dt4lo2lo6dt7lo6lo1lo28dt1dt1~x4/)|
-|![Agincourt (Fashion) example sett](/setts/s17/dt4lo1dt3lo1dt1lo1lo1lo6dt4lo2lo6dt7lo6lo1lo28dt1dt1~x4/sett.png)|
+| [Agincourt (Fashion)](/variants/s17/dt4lo1dt3lo1dt1lo1lo1lo6dt4lo2lo6dt7lo6lo1lo28dt1dt1~x4/)|
+|![Agincourt (Fashion) example sett](/variants/s17/dt4lo1dt3lo1dt1lo1lo1lo6dt4lo2lo6dt7lo6lo1lo28dt1dt1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malaysian Unknown (Artefact)](/setts/s5/lb45r2g9lb2r30~x2/)|
-|![Malaysian Unknown (Artefact) example sett](/setts/s5/lb45r2g9lb2r30~x2/sett.png)|
+| [Malaysian Unknown (Artefact)](/variants/s5/lb45r2g9lb2r30~x2/)|
+|![Malaysian Unknown (Artefact) example sett](/variants/s5/lb45r2g9lb2r30~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden, Stirling](/setts/s8/r4o2b15ly2k14w14k2w4~x2/)|
-|![Culloden, Stirling example sett](/setts/s8/r4o2b15ly2k14w14k2w4~x2/sett.png)|
+| [Culloden, Stirling](/variants/s8/r4o2b15ly2k14w14k2w4~x2/)|
+|![Culloden, Stirling example sett](/variants/s8/r4o2b15ly2k14w14k2w4~x2/sett.png)|

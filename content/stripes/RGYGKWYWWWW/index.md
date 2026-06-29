@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Tony Murray Collection](/setts/s11/r2dg20ly1dg1k2lb1ly1lb22w1lb1w1~x4/)|
-|![Unidentified (Tony Murray Collection example sett](/setts/s11/r2dg20ly1dg1k2lb1ly1lb22w1lb1w1~x4/sett.png)|
+| [Unidentified (Tony Murray Collection](/variants/s11/r2dg20ly1dg1k2lb1ly1lb22w1lb1w1~x4/)|
+|![Unidentified (Tony Murray Collection example sett](/variants/s11/r2dg20ly1dg1k2lb1ly1lb22w1lb1w1~x4/sett.png)|

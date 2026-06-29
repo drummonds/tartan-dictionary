@@ -24,5 +24,5 @@ It is a 38 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Brunswick variation Canadian Tartan Tartan Number: 1880. Earliest known date: pre 2003 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s38/ly2t2gi1g2gi2g2gi2g2gi2t2ly2t2gi28r24ly1o2ly3t4r10dy16r4ly2r14dy5r10gi28t2ly2t2gi1g2gi2g2gi2g2gi1t2ly2/)|
-|![New Brunswick variation Canadian Tartan Tartan Number: 1880. Earliest known date: pre 2003 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s38/ly2t2gi1g2gi2g2gi2g2gi2t2ly2t2gi28r24ly1o2ly3t4r10dy16r4ly2r14dy5r10gi28t2ly2t2gi1g2gi2g2gi2g2gi1t2ly2/sett.png)|
+| [New Brunswick variation Canadian Tartan](/variants/s38/ly2t2gi1g2gi2g2gi2g2gi2t2ly2t2gi28r24ly1o2ly3t4r10dy16r4ly2r14dy5r10gi28t2ly2t2gi1g2gi2g2gi2g2gi1t2ly2/)|
+|![New Brunswick variation Canadian Tartan example sett](/variants/s38/ly2t2gi1g2gi2g2gi2g2gi2t2ly2t2gi28r24ly1o2ly3t4r10dy16r4ly2r14dy5r10gi28t2ly2t2gi1g2gi2g2gi2g2gi1t2ly2/sett.png)|

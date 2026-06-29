@@ -1,0 +1,73 @@
+---
+title: "Auchairne (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b11db7b3db70lb4db6/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWB](/stripes/bbbbwb/).
+
+Part of the [Auchairne](/tartans/auchairne/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2214/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Auchairne Grey
+- Auchairne grey
+- Auchairne, Grey
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1982 — Auchairne (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2214/">record</a>)</li>
+<li>01/01/1994 — Auchairne (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=129">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [129](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=129)
+- Scottish Tartans Authority (ITI): 2214
+- Scottish Tartans World Register: 2214
+
+## Thread count
+B/22 DB14 B6 DB140 LB8 DB/12
+
+One full sett is **370 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">22</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">14</td><td><code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> <small style="color:#888">#1C1C50</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.2% 0.093 277.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">140</td><td><code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> <small style="color:#888">#1C1C50</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.2% 0.093 277.9)</small></td></tr><tr><td>LB</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> <small style="color:#888">#98C8E8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(81.0% 0.068 237.9)</small></td></tr><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> <small style="color:#888">#1C1C50</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.2% 0.093 277.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="B/22 DB14 B6 DB140 LB8 DB/12 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r13o3r4o56n4o4/"><img src="/variants/s6/r13o3r4o56n4o4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r13o3r4o56n4o4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=b11db7b3db70lb4db6~x2">Auchairne (Corporate)</a> <a class="nn-out" href="/variants/s6/b11db7b3db70lb4db6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/b11db7b3db70lb4db6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=r3db2r1db18g1db2~x4&amp;base=b11db7b3db70lb4db6~x2">Lynch</a> <a class="nn-out" href="/variants/s6/r3db2r1db18g1db2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3db2r1db18g1db2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=db144r9t44db4t4db4&amp;base=b11db7b3db70lb4db6~x2">United French Freemasons (Corporate</a> <a class="nn-out" href="/variants/s6/db144r9t44db4t4db4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db144r9t44db4t4db4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.61</div><div class="nn-name"><a href="/ttd/edit/#slug=db32r3db4k1ly3~x2&amp;base=b11db7b3db70lb4db6~x2">MacLaine of Lochbuie, hunting</a> <a class="nn-out" href="/variants/s5/db32r3db4k1ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db32r3db4k1ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.61</div><div class="nn-name"><a href="/variants/s10/t4dt2t1dt23lb2t2~x2/">Covenant College (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/t4dt2t1dt23lb2t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.66</div><div class="nn-name"><a href="/ttd/edit/#slug=db48w2db7w2db7w2db20t11r2~x2&amp;base=b11db7b3db70lb4db6~x2">RAAF #4</a> <a class="nn-out" href="/variants/s9/db48w2db7w2db7w2db20t11r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db48w2db7w2db7w2db20t11r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.67</div><div class="nn-name"><a href="/ttd/edit/#slug=db16ri4db3r1~x2&amp;base=b11db7b3db70lb4db6~x2">Elliott</a> <a class="nn-out" href="/variants/s4/db16ri4db3r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db16ri4db3r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.67</div><div class="nn-name"><a href="/ttd/edit/#slug=r19db6r7db101dg6db7~x2&amp;base=b11db7b3db70lb4db6~x2">Lynch</a> <a class="nn-out" href="/variants/s6/r19db6r7db101dg6db7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r19db6r7db101dg6db7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.74</div><div class="nn-name"><a href="/ttd/edit/#slug=b10db6b3db62w4db5~x2&amp;base=b11db7b3db70lb4db6~x2">Auchairne</a> <a class="nn-out" href="/variants/s6/b10db6b3db62w4db5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b10db6b3db62w4db5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.74</div><div class="nn-name"><a href="/ttd/edit/#slug=db122r11w4r15ly4db6ly4db30&amp;base=b11db7b3db70lb4db6~x2">Inverness, Duke of York</a> <a class="nn-out" href="/variants/s8/db122r11w4r15ly4db6ly4db30/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db122r11w4r15ly4db6ly4db30/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.75</div><div class="nn-name"><a href="/ttd/edit/#slug=r19db6r14db101g7db7&amp;base=b11db7b3db70lb4db6~x2">Lynch Family Tartan</a> <a class="nn-out" href="/variants/s6/r19db6r14db101g7db7/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r19db6r14db101g7db7/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3db2r1db18g1db2~x4/"><circle cx="601.3" cy="205.3" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/variants/s6/db144r9t44db4t4db4/"><circle cx="557.3" cy="176.8" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s5/db32r3db4k1ly3~x2/"><circle cx="596.1" cy="164.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie, hunting</title></circle></a><a href="/variants/s10/t4dt2t1dt23lb2t2~x2/"><circle cx="590.6" cy="186.4" r="4" fill="#3465a4"><title>Covenant College (Corporate)</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20t11r2~x2/"><circle cx="548.7" cy="158.2" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s4/db16ri4db3r1~x2/"><circle cx="554.0" cy="251.9" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s6/r19db6r7db101dg6db7~x2/"><circle cx="593.9" cy="211.5" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="552.3" cy="185.8" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s8/db122r11w4r15ly4db6ly4db30/"><circle cx="575.0" cy="137.8" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s6/r19db6r14db101g7db7/"><circle cx="530.1" cy="198.7" r="4" fill="#3465a4"><title>Lynch Family Tartan</title></circle></a><circle cx="612.6" cy="198.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/b11db7b3db70lb4db6~x2/

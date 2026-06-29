@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fort William](/setts/s11/y17t2ly2t2k21t2k3y30k2t2k4~x2/)|
-|![Fort William example sett](/setts/s11/y17t2ly2t2k21t2k3y30k2t2k4~x2/sett.png)|
+| [Fort William](/variants/s11/y17t2ly2t2k21t2k3y30k2t2k4~x2/)|
+|![Fort William example sett](/variants/s11/y17t2ly2t2k21t2k3y30k2t2k4~x2/sett.png)|

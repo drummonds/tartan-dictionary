@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Birnham, Blue (Dance)](/setts/s6/k3w25g16w3n25w3~x2/)|
-|![Birnham, Blue (Dance) example sett](/setts/s6/k3w25g16w3n25w3~x2/sett.png)|
+| [Birnham, Blue (Dance)](/variants/s6/k3w25g16w3n25w3~x2/)|
+|![Birnham, Blue (Dance) example sett](/variants/s6/k3w25g16w3n25w3~x2/sett.png)|

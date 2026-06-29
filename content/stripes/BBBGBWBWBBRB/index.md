@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Glencoe (Dance) Fashion Tartan Tartan Number: 6553. Earliest known date: 01/01/2005 Threadcount taken from DC Dalgliesh Dancers' Swatch book, 2005./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/p6r2p2dt2w31dt12lb2p26g3p4db2p4~x2/)|
-|![MacDonald of Glencoe (Dance) Fashion Tartan Tartan Number: 6553. Earliest known date: 01/01/2005 Threadcount taken from DC Dalgliesh Dancers' Swatch book, 2005./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/p6r2p2dt2w31dt12lb2p26g3p4db2p4~x2/sett.png)|
+| [MacDonald of Glencoe (Dance) Fashion Tartan](/variants/s12/p6r2p2dt2w31dt12lb2p26g3p4db2p4~x2/)|
+|![MacDonald of Glencoe (Dance) Fashion Tartan example sett](/variants/s12/p6r2p2dt2w31dt12lb2p26g3p4db2p4~x2/sett.png)|

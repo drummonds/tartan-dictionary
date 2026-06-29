@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glassary #3](/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/)|
-|![Glassary #3 example sett](/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/sett.png)|
+| [Glassary #3](/variants/s8/db4ly1r12ly2r2ly12r1ly4~x4/)|
+|![Glassary #3 example sett](/variants/s8/db4ly1r12ly2r2ly12r1ly4~x4/sett.png)|

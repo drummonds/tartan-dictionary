@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Du Lion](/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/)|
-|![Du Lion example sett](/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/sett.png)|
+| [Du Lion](/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/)|
+|![Du Lion example sett](/variants/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/sett.png)|

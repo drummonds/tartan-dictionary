@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott](/setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/)|
-|![Scott example sett](/setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/sett.png)|
-| [Stuart/Stewart Mourning](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/)|
-|![Stuart/Stewart Mourning example sett](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/sett.png)|
+| [Scott](/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/)|
+|![Scott example sett](/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/sett.png)|
+| [Stuart/Stewart Mourning](/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/)|
+|![Stuart/Stewart Mourning example sett](/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/sett.png)|

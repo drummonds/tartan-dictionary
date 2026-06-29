@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [European Congress of Immunology 2012](/setts/s13/p13ly2k18r22k28b6w2b6k28r22b18ly2p13/)|
-|![European Congress of Immunology 2012 example sett](/setts/s13/p13ly2k18r22k28b6w2b6k28r22b18ly2p13/sett.png)|
+| [European Congress of Immunology 2012](/variants/s13/p13ly2k18r22k28b6w2b6k28r22b18ly2p13/)|
+|![European Congress of Immunology 2012 example sett](/variants/s13/p13ly2k18r22k28b6w2b6k28r22b18ly2p13/sett.png)|

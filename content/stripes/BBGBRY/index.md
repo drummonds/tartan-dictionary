@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wright , Anne (Personal)](/setts/s6/db12t6g30db9r8ly1~x2/)|
-|![Wright , Anne (Personal) example sett](/setts/s6/db12t6g30db9r8ly1~x2/sett.png)|
-| [Wright, Anne (Personal)](/setts/s6/db12t6g30db9r8lo1~x2/)|
-|![Wright, Anne (Personal) example sett](/setts/s6/db12t6g30db9r8lo1~x2/sett.png)|
+| [Wright , Anne (Personal)](/variants/s6/db12t6g30db9r8ly1~x2/)|
+|![Wright , Anne (Personal) example sett](/variants/s6/db12t6g30db9r8ly1~x2/sett.png)|
+| [Wright, Anne (Personal)](/variants/s6/db12t6g30db9r8lo1~x2/)|
+|![Wright, Anne (Personal) example sett](/variants/s6/db12t6g30db9r8lo1~x2/sett.png)|

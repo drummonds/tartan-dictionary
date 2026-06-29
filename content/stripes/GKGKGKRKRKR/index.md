@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aubigny, Auld Alliance](/setts/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/)|
-|![Aubigny, Auld Alliance example sett](/setts/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/sett.png)|
+| [Aubigny, Auld Alliance](/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/)|
+|![Aubigny, Auld Alliance example sett](/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Commonwealth Games](/setts/s6/m3db17dt13m2k20w2~x2/)|
-|![Commonwealth Games example sett](/setts/s6/m3db17dt13m2k20w2~x2/sett.png)|
+| [Commonwealth Games](/variants/s6/m3db17dt13m2k20w2~x2/)|
+|![Commonwealth Games example sett](/variants/s6/m3db17dt13m2k20w2~x2/sett.png)|

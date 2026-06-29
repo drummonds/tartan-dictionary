@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vasseur Mignon (Personal)](/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/)|
-|![Vasseur Mignon (Personal) example sett](/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/sett.png)|
+| [Vasseur Mignon (Personal)](/variants/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/)|
+|![Vasseur Mignon (Personal) example sett](/variants/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Landels (Personal)](/setts/s5/db31g2k20ly2gi24~x2/)|
-|![Landels (Personal) example sett](/setts/s5/db31g2k20ly2gi24~x2/sett.png)|
+| [Landels (Personal)](/variants/s5/db31g2k20ly2gi24~x2/)|
+|![Landels (Personal) example sett](/variants/s5/db31g2k20ly2gi24~x2/sett.png)|

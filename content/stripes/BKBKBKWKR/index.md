@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Llewellen of Wales](/setts/s9/dr74k4dr7k4dr9k40w2k4o2/)|
-|![Llewellen of Wales example sett](/setts/s9/dr74k4dr7k4dr9k40w2k4o2/sett.png)|
+| [Llewellen of Wales](/variants/s9/dr74k4dr7k4dr9k40w2k4o2/)|
+|![Llewellen of Wales example sett](/variants/s9/dr74k4dr7k4dr9k40w2k4o2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Historic Scotland (pre 1998) (Corp)](/setts/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/)|
-|![Historic Scotland (pre 1998) (Corp) example sett](/setts/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/sett.png)|
+| [Historic Scotland (pre 1998) (Corp)](/variants/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/)|
+|![Historic Scotland (pre 1998) (Corp) example sett](/variants/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/sett.png)|

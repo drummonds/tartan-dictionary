@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cadenhead (2015)](/setts/s9/lb54dy4o4g12m4g8w1g8db6~x2/)|
-|![Cadenhead (2015) example sett](/setts/s9/lb54dy4o4g12m4g8w1g8db6~x2/sett.png)|
+| [Cadenhead (2015)](/variants/s9/lb54dy4o4g12m4g8w1g8db6~x2/)|
+|![Cadenhead (2015) example sett](/variants/s9/lb54dy4o4g12m4g8w1g8db6~x2/sett.png)|

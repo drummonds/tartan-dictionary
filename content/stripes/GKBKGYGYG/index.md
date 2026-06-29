@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzpatrick Hunting](/setts/s9/g5ly1g3ly2g8k8db1k8g1~x4/)|
-|![Fitzpatrick Hunting example sett](/setts/s9/g5ly1g3ly2g8k8db1k8g1~x4/sett.png)|
+| [Fitzpatrick Hunting](/variants/s9/g5ly1g3ly2g8k8db1k8g1~x4/)|
+|![Fitzpatrick Hunting example sett](/variants/s9/g5ly1g3ly2g8k8db1k8g1~x4/sett.png)|

@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCandlish Hunting Green](/setts/s11/lb3k1g12k1g1k2g1k6g12k1lo1~x4/)|
-|![MacCandlish Hunting Green example sett](/setts/s11/lb3k1g12k1g1k2g1k6g12k1lo1~x4/sett.png)|
-| [McCandlish Htg, Green (Name)](/setts/s11/lb3k1gi12k1gi1k2gi1k6g12k1lo1~x4/)|
-|![McCandlish Htg, Green (Name) example sett](/setts/s11/lb3k1gi12k1gi1k2gi1k6g12k1lo1~x4/sett.png)|
+| [MacCandlish Hunting Green](/variants/s11/lb3k1g12k1g1k2g1k6g12k1lo1~x4/)|
+|![MacCandlish Hunting Green example sett](/variants/s11/lb3k1g12k1g1k2g1k6g12k1lo1~x4/sett.png)|
+| [McCandlish Htg, Green (Name)](/variants/s11/lb3k1gi12k1gi1k2gi1k6g12k1lo1~x4/)|
+|![McCandlish Htg, Green (Name) example sett](/variants/s11/lb3k1gi12k1gi1k2gi1k6g12k1lo1~x4/sett.png)|

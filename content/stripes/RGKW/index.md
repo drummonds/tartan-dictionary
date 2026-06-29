@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loganair, Uniform Skirt](/setts/s4/r5y32k31w5~x2/)|
-|![Loganair, Uniform Skirt example sett](/setts/s4/r5y32k31w5~x2/sett.png)|
-| [SAL Glindrande Stiernan](/setts/s4/r3g1k3w1~x20/)|
-|![SAL Glindrande Stiernan example sett](/setts/s4/r3g1k3w1~x20/sett.png)|
+| [Loganair, Uniform Skirt](/variants/s4/r5y32k31w5~x2/)|
+|![Loganair, Uniform Skirt example sett](/variants/s4/r5y32k31w5~x2/sett.png)|
+| [SAL Glindrande Stiernan](/variants/s4/r3g1k3w1~x20/)|
+|![SAL Glindrande Stiernan example sett](/variants/s4/r3g1k3w1~x20/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burnett](/setts/s8/r4g14ly3g14r4g3r29y4~x2/)|
-|![Burnett example sett](/setts/s8/r4g14ly3g14r4g3r29y4~x2/sett.png)|
+| [Burnett](/variants/s8/r4g14ly3g14r4g3r29y4~x2/)|
+|![Burnett example sett](/variants/s8/r4g14ly3g14r4g3r29y4~x2/sett.png)|

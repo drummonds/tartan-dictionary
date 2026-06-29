@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Old](/setts/s8/k2t1g16t1k13t18k2t2~x2/)|
-|![Hebridean Old example sett](/setts/s8/k2t1g16t1k13t18k2t2~x2/sett.png)|
+| [Hebridean Old](/variants/s8/k2t1g16t1k13t18k2t2~x2/)|
+|![Hebridean Old example sett](/variants/s8/k2t1g16t1k13t18k2t2~x2/sett.png)|

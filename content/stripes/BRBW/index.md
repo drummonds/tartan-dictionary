@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Triplett, Jack Arnold](/setts/s4/w14b5r1t1~x8/)|
-|![Triplett, Jack Arnold example sett](/setts/s4/w14b5r1t1~x8/sett.png)|
-| [Triplett, Jack Arnold](/setts/s4/w35ni12r2n2~x2/)|
-|![Triplett, Jack Arnold example sett](/setts/s4/w35ni12r2n2~x2/sett.png)|
+| [Triplett, Jack Arnold](/variants/s4/w35ni12r2n2~x2/)|
+|![Triplett, Jack Arnold example sett](/variants/s4/w35ni12r2n2~x2/sett.png)|
+| [Triplett, Jack Arnold](/variants/s4/w14b5r1t1~x8/)|
+|![Triplett, Jack Arnold example sett](/variants/s4/w14b5r1t1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray, dress White](/setts/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/)|
-|![Murray, dress White example sett](/setts/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/sett.png)|
+| [Murray, dress White](/variants/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/)|
+|![Murray, dress White example sett](/variants/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Kelly Family (Personal)](/setts/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/)|
-|![O'Kelly Family (Personal) example sett](/setts/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/sett.png)|
+| [O'Kelly Family (Personal)](/variants/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/)|
+|![O'Kelly Family (Personal) example sett](/variants/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/sett.png)|

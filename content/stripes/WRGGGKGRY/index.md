@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Virginia Military Institute, New Market](/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/)|
-|![Virginia Military Institute, New Market example sett](/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/sett.png)|
+| [Virginia Military Institute, New Market](/variants/s9/w6r25y2g3y30k3y2r30ly6~x2/)|
+|![Virginia Military Institute, New Market example sett](/variants/s9/w6r25y2g3y30k3y2r30ly6~x2/sett.png)|

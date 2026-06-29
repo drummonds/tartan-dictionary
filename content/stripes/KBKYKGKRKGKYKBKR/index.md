@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strachan](/setts/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/)|
-|![Strachan example sett](/setts/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/sett.png)|
+| [Strachan](/variants/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/)|
+|![Strachan example sett](/variants/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/sett.png)|

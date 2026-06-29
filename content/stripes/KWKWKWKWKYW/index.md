@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Napier Rose](/setts/s11/k4w2k2w2k2w4k2w2k4lr12w1~x4/)|
-|![Napier Rose example sett](/setts/s11/k4w2k2w2k2w4k2w2k4lr12w1~x4/sett.png)|
+| [Napier Rose](/variants/s11/k4w2k2w2k2w4k2w2k4lr12w1~x4/)|
+|![Napier Rose example sett](/variants/s11/k4w2k2w2k2w4k2w2k4lr12w1~x4/sett.png)|

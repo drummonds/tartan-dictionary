@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rankin (Dalgleish) #2](/setts/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/)|
-|![Rankin (Dalgleish) #2 example sett](/setts/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/sett.png)|
+| [Rankin (Dalgleish) #2](/variants/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/)|
+|![Rankin (Dalgleish) #2 example sett](/variants/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/sett.png)|

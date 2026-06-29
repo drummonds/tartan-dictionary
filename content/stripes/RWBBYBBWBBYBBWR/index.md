@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan, John & Isabella (Commemor)](/setts/s15/r1w1db8t12ly1t1db2w3db6t1ly1t1db1w1r1~x6/)|
-|![Buchanan, John & Isabella (Commemor) example sett](/setts/s15/r1w1db8t12ly1t1db2w3db6t1ly1t1db1w1r1~x6/sett.png)|
+| [Buchanan, John & Isabella (Commemor)](/variants/s15/r1w1db8t12ly1t1db2w3db6t1ly1t1db1w1r1~x6/)|
+|![Buchanan, John & Isabella (Commemor) example sett](/variants/s15/r1w1db8t12ly1t1db2w3db6t1ly1t1db1w1r1~x6/sett.png)|

@@ -24,7 +24,7 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barkway (Name)](/setts/s18/g3gi2g2gi16g2gi2g2gi2g4n4k2n2k2n2k24r2k2w3~x2/)|
-|![Barkway (Name) example sett](/setts/s18/g3gi2g2gi16g2gi2g2gi2g4n4k2n2k2n2k24r2k2w3~x2/sett.png)|
-| [Barkway Wedding 2012](/setts/s18/dgi3dg2dgi2dg16dgi2dg2dgi2dg2dgi4dt4k2dt2k2dt2k24r2k2w3~x2/)|
-|![Barkway Wedding 2012 example sett](/setts/s18/dgi3dg2dgi2dg16dgi2dg2dgi2dg2dgi4dt4k2dt2k2dt2k24r2k2w3~x2/sett.png)|
+| [Barkway (Name)](/variants/s18/g3gi2g2gi16g2gi2g2gi2g4n4k2n2k2n2k24r2k2w3~x2/)|
+|![Barkway (Name) example sett](/variants/s18/g3gi2g2gi16g2gi2g2gi2g4n4k2n2k2n2k24r2k2w3~x2/sett.png)|
+| [Barkway Wedding 2012](/variants/s18/dgi3dg2dgi2dg16dgi2dg2dgi2dg2dgi4dt4k2dt2k2dt2k24r2k2w3~x2/)|
+|![Barkway Wedding 2012 example sett](/variants/s18/dgi3dg2dgi2dg16dgi2dg2dgi2dg2dgi4dt4k2dt2k2dt2k24r2k2w3~x2/sett.png)|

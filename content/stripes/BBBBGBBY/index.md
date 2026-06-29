@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Munster Ancestry (Fashion)](/setts/s8/n4db48n21db14dy3db6n1ly3~x2/)|
-|![Munster Ancestry (Fashion) example sett](/setts/s8/n4db48n21db14dy3db6n1ly3~x2/sett.png)|
+| [Munster Ancestry (Fashion)](/variants/s8/n4db48n21db14dy3db6n1ly3~x2/)|
+|![Munster Ancestry (Fashion) example sett](/variants/s8/n4db48n21db14dy3db6n1ly3~x2/sett.png)|

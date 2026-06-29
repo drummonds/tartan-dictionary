@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Noordermeer (Personal)](/setts/s10/k64r1k4r1k6r7w2r7k6t2~x2/)|
-|![Noordermeer (Personal) example sett](/setts/s10/k64r1k4r1k6r7w2r7k6t2~x2/sett.png)|
+| [Noordermeer (Personal)](/variants/s10/k64r1k4r1k6r7w2r7k6t2~x2/)|
+|![Noordermeer (Personal) example sett](/variants/s10/k64r1k4r1k6r7w2r7k6t2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McAlifyfe (Personal)](/setts/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2/)|
-|![McAlifyfe (Personal) example sett](/setts/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2/sett.png)|
-| [McAlifyfe (Personal)](/setts/s11/k3y3ly2y30k2y3m12y6mi6k3y3~x2/)|
-|![McAlifyfe (Personal) example sett](/setts/s11/k3y3ly2y30k2y3m12y6mi6k3y3~x2/sett.png)|
+| [McAlifyfe (Personal)](/variants/s11/k3y3ly2y30k2y3m12y6mi6k3y3~x2/)|
+|![McAlifyfe (Personal) example sett](/variants/s11/k3y3ly2y30k2y3m12y6mi6k3y3~x2/sett.png)|
+| [McAlifyfe (Personal)](/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2/)|
+|![McAlifyfe (Personal) example sett](/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2/sett.png)|

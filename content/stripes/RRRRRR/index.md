@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Samye Sangha #2](/setts/s6/ri32r3ri3r2ri3r23~x2/)|
-|![Samye Sangha #2 example sett](/setts/s6/ri32r3ri3r2ri3r23~x2/sett.png)|
-| [Youth on The Horizon (Fashion)](/setts/s6/riii2r2ri2r2rii6r1~x8/)|
-|![Youth on The Horizon (Fashion) example sett](/setts/s6/riii2r2ri2r2rii6r1~x8/sett.png)|
+| [Samye Sangha #2](/variants/s6/ri32r3ri3r2ri3r23~x2/)|
+|![Samye Sangha #2 example sett](/variants/s6/ri32r3ri3r2ri3r23~x2/sett.png)|
+| [Youth on The Horizon (Fashion)](/variants/s6/riii2r2ri2r2rii6r1~x8/)|
+|![Youth on The Horizon (Fashion) example sett](/variants/s6/riii2r2ri2r2rii6r1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bressuire (District)](/setts/s7/r1g4lo1g3r4n15w1~x4/)|
-|![Bressuire (District) example sett](/setts/s7/r1g4lo1g3r4n15w1~x4/sett.png)|
+| [Bressuire (District)](/variants/s7/r1g4lo1g3r4n15w1~x4/)|
+|![Bressuire (District) example sett](/variants/s7/r1g4lo1g3r4n15w1~x4/sett.png)|

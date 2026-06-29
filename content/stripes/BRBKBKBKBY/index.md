@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brady 60th, Keith James (Personal)](/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/)|
-|![Brady 60th, Keith James (Personal) example sett](/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/sett.png)|
+| [Brady 60th, Keith James (Personal)](/variants/s10/n1o1n7k3n1k1n1k1db9lo1~x4/)|
+|![Brady 60th, Keith James (Personal) example sett](/variants/s10/n1o1n7k3n1k1n1k1db9lo1~x4/sett.png)|

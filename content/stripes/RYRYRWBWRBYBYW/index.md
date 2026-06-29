@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [San Francisco](/setts/s14/r4lo4r1lo2r24w2db4w2r4db2lo18db2lo1w4~x2/)|
-|![San Francisco example sett](/setts/s14/r4lo4r1lo2r24w2db4w2r4db2lo18db2lo1w4~x2/sett.png)|
+| [San Francisco](/variants/s14/r4lo4r1lo2r24w2db4w2r4db2lo18db2lo1w4~x2/)|
+|![San Francisco example sett](/variants/s14/r4lo4r1lo2r24w2db4w2r4db2lo18db2lo1w4~x2/sett.png)|

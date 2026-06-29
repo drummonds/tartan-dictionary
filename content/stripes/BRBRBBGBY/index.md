@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ayrshire Tourist Board](/setts/s9/db10m3b4m3db7b3g7db17ly2~x2/)|
-|![Ayrshire Tourist Board example sett](/setts/s9/db10m3b4m3db7b3g7db17ly2~x2/sett.png)|
+| [Ayrshire Tourist Board](/variants/s9/db10m3b4m3db7b3g7db17ly2~x2/)|
+|![Ayrshire Tourist Board example sett](/variants/s9/db10m3b4m3db7b3g7db17ly2~x2/sett.png)|

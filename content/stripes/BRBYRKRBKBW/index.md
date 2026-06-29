@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Gourock Yacht Club, The](/setts/s11/db5r2db8ly2r3k9r2db18k9dbi4w2~x2/)|
-|![Royal Gourock Yacht Club, The example sett](/setts/s11/db5r2db8ly2r3k9r2db18k9dbi4w2~x2/sett.png)|
+| [Royal Gourock Yacht Club, The](/variants/s11/db5r2db8ly2r3k9r2db18k9dbi4w2~x2/)|
+|![Royal Gourock Yacht Club, The example sett](/variants/s11/db5r2db8ly2r3k9r2db18k9dbi4w2~x2/sett.png)|

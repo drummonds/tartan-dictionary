@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cahaba Memorial](/setts/s13/lo2w3k1db9k1t6g1t3g1t19k2w7lo1~x2/)|
-|![Cahaba Memorial example sett](/setts/s13/lo2w3k1db9k1t6g1t3g1t19k2w7lo1~x2/sett.png)|
+| [Cahaba Memorial](/variants/s13/lo2w3k1db9k1t6g1t3g1t19k2w7lo1~x2/)|
+|![Cahaba Memorial example sett](/variants/s13/lo2w3k1db9k1t6g1t3g1t19k2w7lo1~x2/sett.png)|

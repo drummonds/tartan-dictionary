@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King George (Nash)](/setts/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/)|
-|![King George (Nash) example sett](/setts/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/sett.png)|
+| [King George (Nash)](/variants/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/)|
+|![King George (Nash) example sett](/variants/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/sett.png)|

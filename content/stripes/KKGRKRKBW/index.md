@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunedin (USA) (District)](/setts/s9/w3t25k3r3k3r8g21k3k2~x2/)|
-|![Dunedin (USA) (District) example sett](/setts/s9/w3t25k3r3k3r8g21k3k2~x2/sett.png)|
+| [Dunedin (USA) (District)](/variants/s9/w3t25k3r3k3r8g21k3k2~x2/)|
+|![Dunedin (USA) (District) example sett](/variants/s9/w3t25k3r3k3r8g21k3k2~x2/sett.png)|

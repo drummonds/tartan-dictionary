@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morris of Balgonie Arisaid (Personal)](/setts/s13/w2b10w2r3w10g3w2db3w10k3w2gi10ly2~x2/)|
-|![Morris of Balgonie Arisaid (Personal) example sett](/setts/s13/w2b10w2r3w10g3w2db3w10k3w2gi10ly2~x2/sett.png)|
+| [Morris of Balgonie Arisaid (Personal)](/variants/s13/w2b10w2r3w10g3w2db3w10k3w2gi10ly2~x2/)|
+|![Morris of Balgonie Arisaid (Personal) example sett](/variants/s13/w2b10w2r3w10g3w2db3w10k3w2gi10ly2~x2/sett.png)|

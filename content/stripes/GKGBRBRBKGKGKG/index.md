@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLachlan, Hunting](/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/)|
-|![MacLachlan, Hunting example sett](/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/sett.png)|
+| [MacLachlan, Hunting](/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/)|
+|![MacLachlan, Hunting example sett](/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/sett.png)|

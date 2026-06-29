@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch House (Fashion)](/setts/s12/dg2lb1dg1lb1dg8k4db2k1db1k1db8o1~x4/)|
-|![Scotch House (Fashion) example sett](/setts/s12/dg2lb1dg1lb1dg8k4db2k1db1k1db8o1~x4/sett.png)|
+| [Scotch House (Fashion)](/variants/s12/dg2lb1dg1lb1dg8k4db2k1db1k1db8o1~x4/)|
+|![Scotch House (Fashion) example sett](/variants/s12/dg2lb1dg1lb1dg8k4db2k1db1k1db8o1~x4/sett.png)|

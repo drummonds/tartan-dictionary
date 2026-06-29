@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/do24g2do5lo14g2lo5dy17do2~x2/)|
-|![Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/do24g2do5lo14g2lo5dy17do2~x2/sett.png)|
+| [Loch Rannoch Trade Tartan](/variants/s8/do24g2do5lo14g2lo5dy17do2~x2/)|
+|![Loch Rannoch Trade Tartan example sett](/variants/s8/do24g2do5lo14g2lo5dy17do2~x2/sett.png)|

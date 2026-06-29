@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nicolson of Lewis (Clan?)](/setts/s6/dti3dt5n2dg5r11w3~x4/)|
-|![Nicolson of Lewis (Clan?) example sett](/setts/s6/dti3dt5n2dg5r11w3~x4/sett.png)|
+| [Nicolson of Lewis (Clan?)](/variants/s6/dti3dt5n2dg5r11w3~x4/)|
+|![Nicolson of Lewis (Clan?) example sett](/variants/s6/dti3dt5n2dg5r11w3~x4/sett.png)|

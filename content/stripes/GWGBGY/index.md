@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meath County Crest (Fashion)](/setts/s6/lo21g28db24g72w16g20/)|
-|![Meath County Crest (Fashion) example sett](/setts/s6/lo21g28db24g72w16g20/sett.png)|
+| [Meath County Crest (Fashion)](/variants/s6/lo21g28db24g72w16g20/)|
+|![Meath County Crest (Fashion) example sett](/variants/s6/lo21g28db24g72w16g20/sett.png)|

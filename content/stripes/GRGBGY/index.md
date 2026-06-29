@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dy15r5dy30db32dy4ly3~x2/)|
-|![Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/dy15r5dy30db32dy4ly3~x2/sett.png)|
+| [Cameron Hunting Brown Clan Tartan](/variants/s6/dy15r5dy30db32dy4ly3~x2/)|
+|![Cameron Hunting Brown Clan Tartan example sett](/variants/s6/dy15r5dy30db32dy4ly3~x2/sett.png)|

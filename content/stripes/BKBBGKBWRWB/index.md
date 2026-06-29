@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donohoe Grey, Peter (Commemorative)](/setts/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/)|
-|![Donohoe Grey, Peter (Commemorative) example sett](/setts/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/sett.png)|
+| [Donohoe Grey, Peter (Commemorative)](/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/)|
+|![Donohoe Grey, Peter (Commemorative) example sett](/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/sett.png)|

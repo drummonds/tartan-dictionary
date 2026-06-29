@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crihfield Family (Personal)](/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/)|
-|![Crihfield Family (Personal) example sett](/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/sett.png)|
+| [Crihfield Family (Personal)](/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/)|
+|![Crihfield Family (Personal) example sett](/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/sett.png)|

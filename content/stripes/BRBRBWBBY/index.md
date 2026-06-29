@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Telfer, Brian William (Personal)](/setts/s9/db3r13db13r9db5w2dp9db21ly2~x2/)|
-|![Telfer, Brian William (Personal) example sett](/setts/s9/db3r13db13r9db5w2dp9db21ly2~x2/sett.png)|
+| [Telfer, Brian William (Personal)](/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/)|
+|![Telfer, Brian William (Personal) example sett](/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/sett.png)|

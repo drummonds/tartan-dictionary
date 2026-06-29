@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Printing Industries of America](/setts/s8/k7r2k2ki6lo1ki1lo1ki4~x4/)|
-|![Printing Industries of America example sett](/setts/s8/k7r2k2ki6lo1ki1lo1ki4~x4/sett.png)|
+| [Printing Industries of America](/variants/s8/k7r2k2ki6lo1ki1lo1ki4~x4/)|
+|![Printing Industries of America example sett](/variants/s8/k7r2k2ki6lo1ki1lo1ki4~x4/sett.png)|

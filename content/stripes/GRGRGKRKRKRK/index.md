@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald #8](/setts/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/)|
-|![MacDonald #8 example sett](/setts/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/sett.png)|
-| [MacDonald 6](/setts/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/)|
-|![MacDonald 6 example sett](/setts/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/sett.png)|
+| [MacDonald #8](/variants/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/)|
+|![MacDonald #8 example sett](/variants/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/sett.png)|
+| [MacDonald 6](/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/)|
+|![MacDonald 6 example sett](/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/sett.png)|

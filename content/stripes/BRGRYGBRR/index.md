@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdeen Mither Kirk (St Nicholas)](/setts/s9/dt58o3y16r3lo2y7dt29r3o2~x2/)|
-|![Aberdeen Mither Kirk (St Nicholas) example sett](/setts/s9/dt58o3y16r3lo2y7dt29r3o2~x2/sett.png)|
+| [Aberdeen Mither Kirk (St Nicholas)](/variants/s9/dt58o3y16r3lo2y7dt29r3o2~x2/)|
+|![Aberdeen Mither Kirk (St Nicholas) example sett](/variants/s9/dt58o3y16r3lo2y7dt29r3o2~x2/sett.png)|

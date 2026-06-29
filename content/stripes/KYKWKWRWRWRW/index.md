@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fish Hoek High School](/setts/s12/w20r5w5r81w5r5w20k5w5k60lo10k4/)|
-|![Fish Hoek High School example sett](/setts/s12/w20r5w5r81w5r5w20k5w5k60lo10k4/sett.png)|
+| [Fish Hoek High School](/variants/s12/w20r5w5r81w5r5w20k5w5k60lo10k4/)|
+|![Fish Hoek High School example sett](/variants/s12/w20r5w5r81w5r5w20k5w5k60lo10k4/sett.png)|

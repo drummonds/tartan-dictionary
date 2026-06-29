@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/)|
-|![Stuart of Bute example sett](/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/sett.png)|
+| [Stuart of Bute](/variants/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/)|
+|![Stuart of Bute example sett](/variants/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/sett.png)|

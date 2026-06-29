@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guildry of Stirling](/setts/s10/gi18k3gi3k3gi3k21g2k21gi21k4~x2/)|
-|![Guildry of Stirling example sett](/setts/s10/gi18k3gi3k3gi3k21g2k21gi21k4~x2/sett.png)|
-| [Guildry of Stirling](/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/)|
-|![Guildry of Stirling example sett](/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/sett.png)|
+| [Guildry of Stirling](/variants/s10/gi18k3gi3k3gi3k21g2k21gi21k4~x2/)|
+|![Guildry of Stirling example sett](/variants/s10/gi18k3gi3k3gi3k21g2k21gi21k4~x2/sett.png)|
+| [Guildry of Stirling](/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/)|
+|![Guildry of Stirling example sett](/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/sett.png)|

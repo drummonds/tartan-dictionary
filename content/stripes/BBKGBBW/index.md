@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barrance, Paul and Kelly (Personal)](/setts/s7/dp3dt42k2dg17dt9dp3w2~x2/)|
-|![Barrance, Paul and Kelly (Personal) example sett](/setts/s7/dp3dt42k2dg17dt9dp3w2~x2/sett.png)|
+| [Barrance, Paul and Kelly (Personal)](/variants/s7/dp3dt42k2dg17dt9dp3w2~x2/)|
+|![Barrance, Paul and Kelly (Personal) example sett](/variants/s7/dp3dt42k2dg17dt9dp3w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [White Stripes Hunting](/setts/s7/r2k1r2k14w1k1w1~x8/)|
-|![White Stripes Hunting example sett](/setts/s7/r2k1r2k14w1k1w1~x8/sett.png)|
+| [White Stripes Hunting](/variants/s7/r2k1r2k14w1k1w1~x8/)|
+|![White Stripes Hunting example sett](/variants/s7/r2k1r2k14w1k1w1~x8/sett.png)|

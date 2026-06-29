@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norris Hunting](/setts/s6/k2w1o8r1t28r2~x2/)|
-|![Norris Hunting example sett](/setts/s6/k2w1o8r1t28r2~x2/sett.png)|
+| [Norris Hunting](/variants/s6/k2w1o8r1t28r2~x2/)|
+|![Norris Hunting example sett](/variants/s6/k2w1o8r1t28r2~x2/sett.png)|

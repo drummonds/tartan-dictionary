@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mantle (Personal)](/setts/s8/r3g2r3g18k14w2db16g3~x2/)|
-|![Mantle (Personal) example sett](/setts/s8/r3g2r3g18k14w2db16g3~x2/sett.png)|
+| [Mantle (Personal)](/variants/s8/r3g2r3g18k14w2db16g3~x2/)|
+|![Mantle (Personal) example sett](/variants/s8/r3g2r3g18k14w2db16g3~x2/sett.png)|

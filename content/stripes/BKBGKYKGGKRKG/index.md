@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greg Wells (Personal)](/setts/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/)|
-|![Greg Wells (Personal) example sett](/setts/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/sett.png)|
+| [Greg Wells (Personal)](/variants/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/)|
+|![Greg Wells (Personal) example sett](/variants/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/sett.png)|

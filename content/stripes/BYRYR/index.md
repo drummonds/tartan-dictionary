@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carlisle Ancient](/setts/s5/b11lo2r1lo2r1~x4/)|
-|![Carlisle Ancient example sett](/setts/s5/b11lo2r1lo2r1~x4/sett.png)|
-| [Carlisle, Ancient](/setts/s5/t11ly2r1ly2r1~x4/)|
-|![Carlisle, Ancient example sett](/setts/s5/t11ly2r1ly2r1~x4/sett.png)|
+| [Carlisle Ancient](/variants/s5/b11lo2r1lo2r1~x4/)|
+|![Carlisle Ancient example sett](/variants/s5/b11lo2r1lo2r1~x4/sett.png)|
+| [Carlisle, Ancient](/variants/s5/t11ly2r1ly2r1~x4/)|
+|![Carlisle, Ancient example sett](/variants/s5/t11ly2r1ly2r1~x4/sett.png)|

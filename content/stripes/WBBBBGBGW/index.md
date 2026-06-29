@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sound of Iona](/setts/s9/w30t4db6dp4db6g6db12g13lb4~x2/)|
-|![Sound of Iona example sett](/setts/s9/w30t4db6dp4db6g6db12g13lb4~x2/sett.png)|
+| [Sound of Iona](/variants/s9/w30t4db6dp4db6g6db12g13lb4~x2/)|
+|![Sound of Iona example sett](/variants/s9/w30t4db6dp4db6g6db12g13lb4~x2/sett.png)|

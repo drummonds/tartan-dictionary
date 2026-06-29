@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Soutar (Name)](/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/)|
-|![Soutar (Name) example sett](/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/sett.png)|
+| [Soutar (Name)](/variants/s9/k20w3t20k3r3dg20r10w3k20~x2/)|
+|![Soutar (Name) example sett](/variants/s9/k20w3t20k3r3dg20r10w3k20~x2/sett.png)|

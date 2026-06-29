@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonell of Keppoch](/setts/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/)|
-|![MacDonell of Keppoch example sett](/setts/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/sett.png)|
-| [MacDonell of Keppoch #2](/setts/s11/r8dg2r6db1r2db1r8dg12r14db1r2~x2/)|
-|![MacDonell of Keppoch #2 example sett](/setts/s11/r8dg2r6db1r2db1r8dg12r14db1r2~x2/sett.png)|
+| [MacDonell of Keppoch](/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/)|
+|![MacDonell of Keppoch example sett](/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/sett.png)|
+| [MacDonell of Keppoch #2](/variants/s11/r8dg2r6db1r2db1r8dg12r14db1r2~x2/)|
+|![MacDonell of Keppoch #2 example sett](/variants/s11/r8dg2r6db1r2db1r8dg12r14db1r2~x2/sett.png)|

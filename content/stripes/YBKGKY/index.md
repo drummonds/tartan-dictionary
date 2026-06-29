@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNiel of Barra](/tartans/lr3db14k12dg12k2ly3/)|
-|![MacNiel of Barra example sett](/setts/s6/lr3db14k12dg12k2ly3/sett.png)|
+| [MacNiel of Barra](/setts/lr3db14k12dg12k2ly3/)|
+|![MacNiel of Barra example sett](/variants/s6/lr3db14k12dg12k2ly3/sett.png)|

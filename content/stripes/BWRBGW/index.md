@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McEachem (Name)](/setts/s6/n7w1r6dt10g10w1~x4/)|
-|![McEachem (Name) example sett](/setts/s6/n7w1r6dt10g10w1~x4/sett.png)|
-| [McEachern, Andrew](/setts/s6/do7w1r6db10g10w1~x4/)|
-|![McEachern, Andrew example sett](/setts/s6/do7w1r6db10g10w1~x4/sett.png)|
+| [McEachem (Name)](/variants/s6/n7w1r6dt10g10w1~x4/)|
+|![McEachem (Name) example sett](/variants/s6/n7w1r6dt10g10w1~x4/sett.png)|
+| [McEachern, Andrew](/variants/s6/do7w1r6db10g10w1~x4/)|
+|![McEachern, Andrew example sett](/variants/s6/do7w1r6db10g10w1~x4/sett.png)|

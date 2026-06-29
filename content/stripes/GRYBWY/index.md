@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ravetta, Phil (Fife)](/setts/s6/g20r10ly2db100w1lg10/)|
-|![Ravetta, Phil (Fife) example sett](/setts/s6/g20r10ly2db100w1lg10/sett.png)|
+| [Ravetta, Phil (Fife)](/variants/s6/g20r10ly2db100w1lg10/)|
+|![Ravetta, Phil (Fife) example sett](/variants/s6/g20r10ly2db100w1lg10/sett.png)|

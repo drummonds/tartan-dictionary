@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corries](/setts/s6/t28dt15r2dt2w1dt6~x2/)|
-|![Corries example sett](/setts/s6/t28dt15r2dt2w1dt6~x2/sett.png)|
+| [Corries](/variants/s6/t28dt15r2dt2w1dt6~x2/)|
+|![Corries example sett](/variants/s6/t28dt15r2dt2w1dt6~x2/sett.png)|

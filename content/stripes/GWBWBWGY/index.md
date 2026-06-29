@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alloway Primary School (Ayr)](/setts/s8/wi30db1w4y10ly18~x2/)|
-|![Alloway Primary School (Ayr) example sett](/setts/s8/wi30db1w4y10ly18~x2/sett.png)|
+| [Alloway Primary School (Ayr)](/variants/s8/wi30db1w4y10ly18~x2/)|
+|![Alloway Primary School (Ayr) example sett](/variants/s8/wi30db1w4y10ly18~x2/sett.png)|

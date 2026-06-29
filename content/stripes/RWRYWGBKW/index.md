@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Arisaid, Red/White (Dance)](/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/)|
-|![Hebridean Arisaid, Red/White (Dance) example sett](/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/sett.png)|
+| [Hebridean Arisaid, Red/White (Dance)](/variants/s9/w37k4db12g12w2lr2r23w4r6~x2/)|
+|![Hebridean Arisaid, Red/White (Dance) example sett](/variants/s9/w37k4db12g12w2lr2r23w4r6~x2/sett.png)|

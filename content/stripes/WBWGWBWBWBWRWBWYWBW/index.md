@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Four Quarters (Personal)](/setts/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1ly7w1dp2w7~x2/)|
-|![Four Quarters (Personal) example sett](/setts/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1ly7w1dp2w7~x2/sett.png)|
+| [Four Quarters (Personal)](/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1ly7w1dp2w7~x2/)|
+|![Four Quarters (Personal) example sett](/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1ly7w1dp2w7~x2/sett.png)|

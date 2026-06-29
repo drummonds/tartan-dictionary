@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cowper (Personal)](/setts/s10/g1w1g8w1g8w1g2w1g4w1~x4/)|
-|![Cowper (Personal) example sett](/setts/s10/g1w1g8w1g8w1g2w1g4w1~x4/sett.png)|
+| [Cowper (Personal)](/variants/s10/g1w1g8w1g8w1g2w1g4w1~x4/)|
+|![Cowper (Personal) example sett](/variants/s10/g1w1g8w1g8w1g2w1g4w1~x4/sett.png)|

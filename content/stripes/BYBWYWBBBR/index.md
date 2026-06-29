@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forfar](/setts/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/)|
-|![Forfar example sett](/setts/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/sett.png)|
+| [Forfar](/variants/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/)|
+|![Forfar example sett](/variants/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/sett.png)|

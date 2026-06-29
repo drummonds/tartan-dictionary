@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heddle](/setts/s13/n8db24k2db2n8db2k2db4ly2db4k2n12w3~x2/)|
-|![Heddle example sett](/setts/s13/n8db24k2db2n8db2k2db4ly2db4k2n12w3~x2/sett.png)|
+| [Heddle](/variants/s13/n8db24k2db2n8db2k2db4ly2db4k2n12w3~x2/)|
+|![Heddle example sett](/variants/s13/n8db24k2db2n8db2k2db4ly2db4k2n12w3~x2/sett.png)|

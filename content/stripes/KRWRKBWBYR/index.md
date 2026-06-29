@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [RCACA](/setts/s10/k4r1w1r2k48dr4w1db30ly2r2~x2/)|
-|![RCACA example sett](/setts/s10/k4r1w1r2k48dr4w1db30ly2r2~x2/sett.png)|
+| [RCACA](/variants/s10/k4r1w1r2k48dr4w1db30ly2r2~x2/)|
+|![RCACA example sett](/variants/s10/k4r1w1r2k48dr4w1db30ly2r2~x2/sett.png)|

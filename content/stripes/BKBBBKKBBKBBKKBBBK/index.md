@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hughes (USA) (Personal)](/setts/s18/ki12db3b4db3ki3k36db3b2k3b2db3k36ki3db3b4db3ki12b4~x2/)|
-|![Hughes (USA) (Personal) example sett](/setts/s18/ki12db3b4db3ki3k36db3b2k3b2db3k36ki3db3b4db3ki12b4~x2/sett.png)|
+| [Hughes (USA) (Personal)](/variants/s18/ki12db3b4db3ki3k36db3b2k3b2db3k36ki3db3b4db3ki12b4~x2/)|
+|![Hughes (USA) (Personal) example sett](/variants/s18/ki12db3b4db3ki3k36db3b2k3b2db3k36ki3db3b4db3ki12b4~x2/sett.png)|

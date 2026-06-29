@@ -24,11 +24,11 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramada](/setts/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/)|
-|![Ramada example sett](/setts/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/sett.png)|
-| [Ramada (Corporate)](/setts/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/)|
-|![Ramada (Corporate) example sett](/setts/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/sett.png)|
-| [Unidentified #34](/setts/s18/r66db1dbi1r6dg30r6dbi1db1r3dbi16r3db1dbi1r54dg3ri1r6dg6~x2/)|
-|![Unidentified #34 example sett](/setts/s18/r66db1dbi1r6dg30r6dbi1db1r3dbi16r3db1dbi1r54dg3ri1r6dg6~x2/sett.png)|
-| [Unidentified 8](/setts/s18/ri66db1dbi1ri6g30ri6dbi1db1ri3dbi16ri3db1dbi1ri54g3r1ri6g6~x2/)|
-|![Unidentified 8 example sett](/setts/s18/ri66db1dbi1ri6g30ri6dbi1db1ri3dbi16ri3db1dbi1ri54g3r1ri6g6~x2/sett.png)|
+| [Ramada](/variants/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/)|
+|![Ramada example sett](/variants/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/sett.png)|
+| [Ramada (Corporate)](/variants/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/)|
+|![Ramada (Corporate) example sett](/variants/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/sett.png)|
+| [Unidentified #34](/variants/s18/r66db1dbi1r6dg30r6dbi1db1r3dbi16r3db1dbi1r54dg3ri1r6dg6~x2/)|
+|![Unidentified #34 example sett](/variants/s18/r66db1dbi1r6dg30r6dbi1db1r3dbi16r3db1dbi1r54dg3ri1r6dg6~x2/sett.png)|
+| [Unidentified 8](/variants/s18/ri66db1dbi1ri6g30ri6dbi1db1ri3dbi16ri3db1dbi1ri54g3r1ri6g6~x2/)|
+|![Unidentified 8 example sett](/variants/s18/ri66db1dbi1ri6g30ri6dbi1db1ri3dbi16ri3db1dbi1ri54g3r1ri6g6~x2/sett.png)|

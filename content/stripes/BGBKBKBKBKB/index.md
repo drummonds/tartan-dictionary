@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bute Heather, Hunting (Fashion)](/setts/s11/n12y3ni36k12ni8k8ni16k2ni18k4n10/)|
-|![Bute Heather, Hunting (Fashion) example sett](/setts/s11/n12y3ni36k12ni8k8ni16k2ni18k4n10/sett.png)|
+| [Bute Heather, Hunting (Fashion)](/variants/s11/n12y3ni36k12ni8k8ni16k2ni18k4n10/)|
+|![Bute Heather, Hunting (Fashion) example sett](/variants/s11/n12y3ni36k12ni8k8ni16k2ni18k4n10/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kirtle](/setts/s11/r42ri10n2ri2db2ri2r10db6ri2db3r2~x2/)|
-|![Kirtle example sett](/setts/s11/r42ri10n2ri2db2ri2r10db6ri2db3r2~x2/sett.png)|
+| [Kirtle](/variants/s11/r42ri10n2ri2db2ri2r10db6ri2db3r2~x2/)|
+|![Kirtle example sett](/variants/s11/r42ri10n2ri2db2ri2r10db6ri2db3r2~x2/sett.png)|

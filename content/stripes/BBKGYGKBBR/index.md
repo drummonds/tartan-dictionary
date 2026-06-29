@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Huntly Gordon 2000](/setts/s10/dt3b12k11g11ly2g11k11b12dt3r2~x2/)|
-|![Huntly Gordon 2000 example sett](/setts/s10/dt3b12k11g11ly2g11k11b12dt3r2~x2/sett.png)|
+| [Huntly Gordon 2000](/variants/s10/dt3b12k11g11ly2g11k11b12dt3r2~x2/)|
+|![Huntly Gordon 2000 example sett](/variants/s10/dt3b12k11g11ly2g11k11b12dt3r2~x2/sett.png)|

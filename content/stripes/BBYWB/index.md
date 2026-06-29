@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Emond, Kenneth (Personal)](/setts/s5/dt36t21ly4lb12dp2~x2/)|
-|![Emond, Kenneth (Personal) example sett](/setts/s5/dt36t21ly4lb12dp2~x2/sett.png)|
+| [Emond, Kenneth (Personal)](/variants/s5/dt36t21ly4lb12dp2~x2/)|
+|![Emond, Kenneth (Personal) example sett](/variants/s5/dt36t21ly4lb12dp2~x2/sett.png)|

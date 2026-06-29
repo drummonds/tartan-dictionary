@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce of Kinnaird Dress (Dance)](/setts/s10/w45r9k2w8k2ly1k10db8dp12w2~x2/)|
-|![Bruce of Kinnaird Dress (Dance) example sett](/setts/s10/w45r9k2w8k2ly1k10db8dp12w2~x2/sett.png)|
+| [Bruce of Kinnaird Dress (Dance)](/variants/s10/w45r9k2w8k2ly1k10db8dp12w2~x2/)|
+|![Bruce of Kinnaird Dress (Dance) example sett](/variants/s10/w45r9k2w8k2ly1k10db8dp12w2~x2/sett.png)|

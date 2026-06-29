@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nance (1998)](/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/)|
-|![Nance (1998) example sett](/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/sett.png)|
+| [Nance (1998)](/variants/s10/db2lo1db6r1db2r2k2g6t1g2~x4/)|
+|![Nance (1998) example sett](/variants/s10/db2lo1db6r1db2r2k2g6t1g2~x4/sett.png)|

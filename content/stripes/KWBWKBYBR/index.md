@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inverness Cathedral (Corporate)](/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/)|
-|![Inverness Cathedral (Corporate) example sett](/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/sett.png)|
+| [Inverness Cathedral (Corporate)](/variants/s9/r72db6ly1db12k4w1n4w1k5~x2/)|
+|![Inverness Cathedral (Corporate) example sett](/variants/s9/r72db6ly1db12k4w1n4w1k5~x2/sett.png)|

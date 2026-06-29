@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Torridon Tweed](/setts/s6/n4db1n6m1n14lr1~x8/)|
-|![Torridon Tweed example sett](/setts/s6/n4db1n6m1n14lr1~x8/sett.png)|
+| [Torridon Tweed](/variants/s6/n4db1n6m1n14lr1~x8/)|
+|![Torridon Tweed example sett](/variants/s6/n4db1n6m1n14lr1~x8/sett.png)|

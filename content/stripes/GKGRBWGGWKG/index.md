@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCulloch Dress (Name)](/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/)|
-|![MacCulloch Dress (Name) example sett](/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png)|
+| [MacCulloch Dress (Name)](/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/)|
+|![MacCulloch Dress (Name) example sett](/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png)|

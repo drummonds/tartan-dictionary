@@ -1,0 +1,18 @@
+---
+title: "MacTaggart"
+date: 2023-03-18
+---
+
+The **MacTaggart** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db1r1db6k6g1b2g9b2g1k6db6r1/">MacTaggart</a> ★</td><td><code>R/8 DB48 K48 G8 B16 G72 B16 G8 K48 DB48 R8 DB/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db1r1db6k6g1b2g9b2g1k6db6r1/"><img src="/variants/s12/db1r1db6k6g1b2g9b2g1k6db6r1~x8/sett.png" alt="MacTaggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg30db4dg2k20db18r1db4/">MacTaggart</a></td><td><code>DG/60 DB8 DG4 K40 DB36 R2 DB/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg30db4dg2k20db18r1db4/"><img src="/variants/s7/dg30db4dg2k20db18r1db4~x2/sett.png" alt="MacTaggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

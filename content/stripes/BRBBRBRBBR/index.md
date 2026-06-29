@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hutchesons' Grammar School](/setts/s10/t8o4db30dt30r3dt4~x2/)|
-|![Hutchesons' Grammar School example sett](/setts/s10/t8o4db30dt30r3dt4~x2/sett.png)|
+| [Hutchesons' Grammar School](/variants/s10/t8o4db30dt30r3dt4~x2/)|
+|![Hutchesons' Grammar School example sett](/variants/s10/t8o4db30dt30r3dt4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [SiMBA](/setts/s6/dp2g3lp21dp42w1g2~x2/)|
-|![SiMBA example sett](/setts/s6/dp2g3lp21dp42w1g2~x2/sett.png)|
+| [SiMBA](/variants/s6/dp2g3lp21dp42w1g2~x2/)|
+|![SiMBA example sett](/variants/s6/dp2g3lp21dp42w1g2~x2/sett.png)|

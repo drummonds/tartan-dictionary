@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gracey (2013)](/setts/s7/t3k3db17k20g20dp8p3~x2/)|
-|![Gracey (2013) example sett](/setts/s7/t3k3db17k20g20dp8p3~x2/sett.png)|
+| [Gracey (2013)](/variants/s7/t3k3db17k20g20dp8p3~x2/)|
+|![Gracey (2013) example sett](/variants/s7/t3k3db17k20g20dp8p3~x2/sett.png)|

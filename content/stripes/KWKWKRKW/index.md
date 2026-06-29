@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Volkswagen Black Trim (Fashion)](/setts/s8/k20w1k1w3k1r1k1w1~x4/)|
-|![Volkswagen Black Trim (Fashion) example sett](/setts/s8/k20w1k1w3k1r1k1w1~x4/sett.png)|
+| [Volkswagen Black Trim (Fashion)](/variants/s8/k20w1k1w3k1r1k1w1~x4/)|
+|![Volkswagen Black Trim (Fashion) example sett](/variants/s8/k20w1k1w3k1r1k1w1~x4/sett.png)|

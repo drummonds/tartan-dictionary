@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cameron of Locheil](/tartans/r6dg3r6db1lr1db1r2db8r4/)|
-|![Cameron of Locheil example sett](/setts/s9/r6dg3r6db1lr1db1r2db8r4/sett.png)|
+| [Cameron of Locheil](/setts/r6dg3r6db1lr1db1r2db8r4/)|
+|![Cameron of Locheil example sett](/variants/s9/r6dg3r6db1lr1db1r2db8r4/sett.png)|

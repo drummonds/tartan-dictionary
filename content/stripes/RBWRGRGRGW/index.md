@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tennessee](/setts/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/)|
-|![Tennessee example sett](/setts/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/sett.png)|
-| [Tennessee](/setts/s10/r2db10w1m1g1r1g6m1g10w1~x2/)|
-|![Tennessee example sett](/setts/s10/r2db10w1m1g1r1g6m1g10w1~x2/sett.png)|
+| [Tennessee](/variants/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/)|
+|![Tennessee example sett](/variants/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/sett.png)|
+| [Tennessee](/variants/s10/r2db10w1m1g1r1g6m1g10w1~x2/)|
+|![Tennessee example sett](/variants/s10/r2db10w1m1g1r1g6m1g10w1~x2/sett.png)|

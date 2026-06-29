@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heather Isle (Fashion)](/setts/s8/y80dt16dp8dpi10y8lo1dt6o1~x2/)|
-|![Heather Isle (Fashion) example sett](/setts/s8/y80dt16dp8dpi10y8lo1dt6o1~x2/sett.png)|
+| [Heather Isle (Fashion)](/variants/s8/y80dt16dp8dpi10y8lo1dt6o1~x2/)|
+|![Heather Isle (Fashion) example sett](/variants/s8/y80dt16dp8dpi10y8lo1dt6o1~x2/sett.png)|

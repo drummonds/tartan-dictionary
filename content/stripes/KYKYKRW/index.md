@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Partick Thistle Football Club](/setts/s7/k53ly4k7ly2k4r30w3~x2/)|
-|![Partick Thistle Football Club example sett](/setts/s7/k53ly4k7ly2k4r30w3~x2/sett.png)|
+| [Partick Thistle Football Club](/variants/s7/k53ly4k7ly2k4r30w3~x2/)|
+|![Partick Thistle Football Club example sett](/variants/s7/k53ly4k7ly2k4r30w3~x2/sett.png)|

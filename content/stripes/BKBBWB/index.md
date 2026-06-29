@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thompson (Dance)](/setts/s6/b1lb6db1b3k3b1~x8/)|
-|![Thompson (Dance) example sett](/setts/s6/b1lb6db1b3k3b1~x8/sett.png)|
+| [Thompson (Dance)](/variants/s6/b1lb6db1b3k3b1~x8/)|
+|![Thompson (Dance) example sett](/variants/s6/b1lb6db1b3k3b1~x8/sett.png)|

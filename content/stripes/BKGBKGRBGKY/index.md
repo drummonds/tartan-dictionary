@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Amarillo](/setts/s11/dt18k2g2dt9k4gi9r4dt9g2k2lo1~x4/)|
-|![Amarillo example sett](/setts/s11/dt18k2g2dt9k4gi9r4dt9g2k2lo1~x4/sett.png)|
+| [Amarillo](/variants/s11/dt18k2g2dt9k4gi9r4dt9g2k2lo1~x4/)|
+|![Amarillo example sett](/variants/s11/dt18k2g2dt9k4gi9r4dt9g2k2lo1~x4/sett.png)|

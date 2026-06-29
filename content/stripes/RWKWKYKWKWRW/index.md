@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson Dress Clan Tartan Tartan Number: 3246. Earliest known date: 1842 This version was recorded in the STS Sindex without the suffix, 'Dress', and with red in place of purple. Manufacturers have constistantly produced a MacPherson Dress with double purple stripes. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w6m4w32k32w5k12ly4~x2/)|
-|![MacPherson Dress Clan Tartan Tartan Number: 3246. Earliest known date: 1842 This version was recorded in the STS Sindex without the suffix, 'Dress', and with red in place of purple. Manufacturers have constistantly produced a MacPherson Dress with double purple stripes. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/w6m4w32k32w5k12ly4~x2/sett.png)|
+| [MacPherson Dress Clan Tartan](/variants/s12/w6m4w32k32w5k12ly4~x2/)|
+|![MacPherson Dress Clan Tartan example sett](/variants/s12/w6m4w32k32w5k12ly4~x2/sett.png)|

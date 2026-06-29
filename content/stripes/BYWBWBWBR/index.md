@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orlando Dress, City of (District)](/setts/s9/b12ly1w16b1w1b14w3b14r2~x4/)|
-|![Orlando Dress, City of (District) example sett](/setts/s9/b12ly1w16b1w1b14w3b14r2~x4/sett.png)|
+| [Orlando Dress, City of (District)](/variants/s9/b12ly1w16b1w1b14w3b14r2~x4/)|
+|![Orlando Dress, City of (District) example sett](/variants/s9/b12ly1w16b1w1b14w3b14r2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bull-Dog Sauce](/setts/s7/w20g2w20k8r20g3r2~x2/)|
-|![Bull-Dog Sauce example sett](/setts/s7/w20g2w20k8r20g3r2~x2/sett.png)|
+| [Bull-Dog Sauce](/variants/s7/w20g2w20k8r20g3r2~x2/)|
+|![Bull-Dog Sauce example sett](/variants/s7/w20g2w20k8r20g3r2~x2/sett.png)|

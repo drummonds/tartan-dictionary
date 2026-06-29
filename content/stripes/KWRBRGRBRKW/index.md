@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hoben (Personal)](/setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/)|
-|![Hoben (Personal) example sett](/setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/sett.png)|
+| [Hoben (Personal)](/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/)|
+|![Hoben (Personal) example sett](/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/sett.png)|

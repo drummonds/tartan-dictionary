@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bank of Scotland](/setts/s5/w4db30k23db24ly4~x2/)|
-|![Bank of Scotland example sett](/setts/s5/w4db30k23db24ly4~x2/sett.png)|
-| [Bank of Scotland (1995)](/setts/s5/lo1db6k5db6lb1~x6/)|
-|![Bank of Scotland (1995) example sett](/setts/s5/lo1db6k5db6lb1~x6/sett.png)|
+| [Bank of Scotland](/variants/s5/w4db30k23db24ly4~x2/)|
+|![Bank of Scotland example sett](/variants/s5/w4db30k23db24ly4~x2/sett.png)|
+| [Bank of Scotland (1995)](/variants/s5/lo1db6k5db6lb1~x6/)|
+|![Bank of Scotland (1995) example sett](/variants/s5/lo1db6k5db6lb1~x6/sett.png)|

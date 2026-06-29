@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunbar Hunting](/setts/s6/g4k2g28k8dg21g3~x2/)|
-|![Dunbar Hunting example sett](/setts/s6/g4k2g28k8dg21g3~x2/sett.png)|
+| [Dunbar Hunting](/variants/s6/g4k2g28k8dg21g3~x2/)|
+|![Dunbar Hunting example sett](/variants/s6/g4k2g28k8dg21g3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathspey (Estate Check)](/setts/s9/do1w1k1w1do1w1k1w1dt1~x6/)|
-|![Strathspey (Estate Check) example sett](/setts/s9/do1w1k1w1do1w1k1w1dt1~x6/sett.png)|
+| [Strathspey (Estate Check)](/variants/s9/do1w1k1w1do1w1k1w1dt1~x6/)|
+|![Strathspey (Estate Check) example sett](/variants/s9/do1w1k1w1do1w1k1w1dt1~x6/sett.png)|

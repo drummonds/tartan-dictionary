@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tennant](/setts/s4/k18dg18dy21r4~x2/)|
-|![Tennant example sett](/setts/s4/k18dg18dy21r4~x2/sett.png)|
+| [Tennant](/variants/s4/k18dg18dy21r4~x2/)|
+|![Tennant example sett](/variants/s4/k18dg18dy21r4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bains of Caithness](/setts/s9/db3g6db2b11r3ly4r3b28w3~x2/)|
-|![Bains of Caithness example sett](/setts/s9/db3g6db2b11r3ly4r3b28w3~x2/sett.png)|
+| [Bains of Caithness](/variants/s9/db3g6db2b11r3ly4r3b28w3~x2/)|
+|![Bains of Caithness example sett](/variants/s9/db3g6db2b11r3ly4r3b28w3~x2/sett.png)|

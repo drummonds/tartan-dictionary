@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilmaine Saints](/setts/s6/k54n11g13ly1db13w1~x2/)|
-|![Kilmaine Saints example sett](/setts/s6/k54n11g13ly1db13w1~x2/sett.png)|
+| [Kilmaine Saints](/variants/s6/k54n11g13ly1db13w1~x2/)|
+|![Kilmaine Saints example sett](/variants/s6/k54n11g13ly1db13w1~x2/sett.png)|

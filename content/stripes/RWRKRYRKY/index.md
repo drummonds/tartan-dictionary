@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hampden-Sydney College](/setts/s9/r80w2r5k10r6lr4r10k2lr6/)|
-|![Hampden-Sydney College example sett](/setts/s9/r80w2r5k10r6lr4r10k2lr6/sett.png)|
+| [Hampden-Sydney College](/variants/s9/r80w2r5k10r6lr4r10k2lr6/)|
+|![Hampden-Sydney College example sett](/variants/s9/r80w2r5k10r6lr4r10k2lr6/sett.png)|

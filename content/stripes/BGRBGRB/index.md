@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Netball (1986) (Corporate)](/setts/s7/dp3g14m2dp10g2m14dp3~x2/)|
-|![Scottish Netball (1986) (Corporate) example sett](/setts/s7/dp3g14m2dp10g2m14dp3~x2/sett.png)|
-| [Scottish Netball Association](/setts/s7/p3r14g2p10r2g14p3~x2/)|
-|![Scottish Netball Association example sett](/setts/s7/p3r14g2p10r2g14p3~x2/sett.png)|
-| [Scottish Netball Association](/setts/s7/dp3dg14r2dp10dg2r14dp3~x2/)|
-|![Scottish Netball Association example sett](/setts/s7/dp3dg14r2dp10dg2r14dp3~x2/sett.png)|
+| [Scottish Netball (1986) (Corporate)](/variants/s7/dp3g14m2dp10g2m14dp3~x2/)|
+|![Scottish Netball (1986) (Corporate) example sett](/variants/s7/dp3g14m2dp10g2m14dp3~x2/sett.png)|
+| [Scottish Netball Association](/variants/s7/dp3dg14r2dp10dg2r14dp3~x2/)|
+|![Scottish Netball Association example sett](/variants/s7/dp3dg14r2dp10dg2r14dp3~x2/sett.png)|
+| [Scottish Netball Association](/variants/s7/p3r14g2p10r2g14p3~x2/)|
+|![Scottish Netball Association example sett](/variants/s7/p3r14g2p10r2g14p3~x2/sett.png)|

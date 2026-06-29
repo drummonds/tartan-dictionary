@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Southwell (Australian) (Personal)](/setts/s8/gi39r2w1r2db14w14gi2g10~x2/)|
-|![Southwell (Australian) (Personal) example sett](/setts/s8/gi39r2w1r2db14w14gi2g10~x2/sett.png)|
+| [Southwell (Australian) (Personal)](/variants/s8/gi39r2w1r2db14w14gi2g10~x2/)|
+|![Southwell (Australian) (Personal) example sett](/variants/s8/gi39r2w1r2db14w14gi2g10~x2/sett.png)|

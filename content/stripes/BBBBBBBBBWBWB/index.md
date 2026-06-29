@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Sky (Fashion)](/setts/s13/n43dti2n2dti1n1dt11n2dti2n1lb1n20lbi4n7~x2/)|
-|![Highland Sky (Fashion) example sett](/setts/s13/n43dti2n2dti1n1dt11n2dti2n1lb1n20lbi4n7~x2/sett.png)|
+| [Highland Sky (Fashion)](/variants/s13/n43dti2n2dti1n1dt11n2dti2n1lb1n20lbi4n7~x2/)|
+|![Highland Sky (Fashion) example sett](/variants/s13/n43dti2n2dti1n1dt11n2dti2n1lb1n20lbi4n7~x2/sett.png)|

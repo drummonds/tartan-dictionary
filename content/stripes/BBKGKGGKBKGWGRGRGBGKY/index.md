@@ -24,7 +24,7 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified #3](/setts/s21/dp128db20k3dg6k1dg4dgi8k2b5k2dgi70w6dgi12r24dgi5r5dgi8db4dgi12k2ly7/)|
-|![Unidentified #3 example sett](/setts/s21/dp128db20k3dg6k1dg4dgi8k2b5k2dgi70w6dgi12r24dgi5r5dgi8db4dgi12k2ly7/sett.png)|
-| [Unidentified 5](/setts/s21/p128db20k3dg6k1dg4g8k2b5k2g70w6g12r24g5r5g8db4g12k2ly7/)|
-|![Unidentified 5 example sett](/setts/s21/p128db20k3dg6k1dg4g8k2b5k2g70w6g12r24g5r5g8db4g12k2ly7/sett.png)|
+| [Unidentified #3](/variants/s21/dp128db20k3dg6k1dg4dgi8k2b5k2dgi70w6dgi12r24dgi5r5dgi8db4dgi12k2ly7/)|
+|![Unidentified #3 example sett](/variants/s21/dp128db20k3dg6k1dg4dgi8k2b5k2dgi70w6dgi12r24dgi5r5dgi8db4dgi12k2ly7/sett.png)|
+| [Unidentified 5](/variants/s21/p128db20k3dg6k1dg4g8k2b5k2g70w6g12r24g5r5g8db4g12k2ly7/)|
+|![Unidentified 5 example sett](/variants/s21/p128db20k3dg6k1dg4g8k2b5k2g70w6g12r24g5r5g8db4g12k2ly7/sett.png)|

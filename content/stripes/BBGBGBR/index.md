@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Komissarov, Dmitry (Personal)](/setts/s7/dp30db30y4db4y4db5r6~x2/)|
-|![Komissarov, Dmitry (Personal) example sett](/setts/s7/dp30db30y4db4y4db5r6~x2/sett.png)|
+| [Komissarov, Dmitry (Personal)](/variants/s7/dp30db30y4db4y4db5r6~x2/)|
+|![Komissarov, Dmitry (Personal) example sett](/variants/s7/dp30db30y4db4y4db5r6~x2/sett.png)|

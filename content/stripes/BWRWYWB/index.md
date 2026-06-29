@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Justus dress](/setts/s7/db1w4r1w1ly1w4db1~x12/)|
-|![Justus dress example sett](/setts/s7/db1w4r1w1ly1w4db1~x12/sett.png)|
+| [Justus dress](/variants/s7/db1w4r1w1ly1w4db1~x12/)|
+|![Justus dress example sett](/variants/s7/db1w4r1w1ly1w4db1~x12/sett.png)|

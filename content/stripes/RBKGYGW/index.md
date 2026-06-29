@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hewitt](/setts/s7/r30db12k6dg12ly2dg3w2~x2/)|
-|![Hewitt example sett](/setts/s7/r30db12k6dg12ly2dg3w2~x2/sett.png)|
-| [Hewitt (Name)](/setts/s7/r30db12k3g12ly2g3w2~x2/)|
-|![Hewitt (Name) example sett](/setts/s7/r30db12k3g12ly2g3w2~x2/sett.png)|
+| [Hewitt](/variants/s7/r30db12k6dg12ly2dg3w2~x2/)|
+|![Hewitt example sett](/variants/s7/r30db12k6dg12ly2dg3w2~x2/sett.png)|
+| [Hewitt (Name)](/variants/s7/r30db12k3g12ly2g3w2~x2/)|
+|![Hewitt (Name) example sett](/variants/s7/r30db12k3g12ly2g3w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westwood MacPoiret (Fashion)](/setts/s13/db21o3db3o3db3k20dp18w3dp18k20db18o3db3~x2/)|
-|![Westwood MacPoiret (Fashion) example sett](/setts/s13/db21o3db3o3db3k20dp18w3dp18k20db18o3db3~x2/sett.png)|
+| [Westwood MacPoiret (Fashion)](/variants/s13/db21o3db3o3db3k20dp18w3dp18k20db18o3db3~x2/)|
+|![Westwood MacPoiret (Fashion) example sett](/variants/s13/db21o3db3o3db3k20dp18w3dp18k20db18o3db3~x2/sett.png)|

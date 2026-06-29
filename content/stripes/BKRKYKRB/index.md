@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salvation Army Dress (Corporate)](/setts/s8/db74k2r15k2ly4k2r16db10~x2/)|
-|![Salvation Army Dress (Corporate) example sett](/setts/s8/db74k2r15k2ly4k2r16db10~x2/sett.png)|
+| [Salvation Army Dress (Corporate)](/variants/s8/db74k2r15k2ly4k2r16db10~x2/)|
+|![Salvation Army Dress (Corporate) example sett](/variants/s8/db74k2r15k2ly4k2r16db10~x2/sett.png)|

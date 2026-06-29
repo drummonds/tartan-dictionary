@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thom(p)son, Grey](/setts/s6/r2y20k5w10k10r2~x2/)|
-|![Thom(p)son, Grey example sett](/setts/s6/r2y20k5w10k10r2~x2/sett.png)|
+| [Thom(p)son, Grey](/variants/s6/r2y20k5w10k10r2~x2/)|
+|![Thom(p)son, Grey example sett](/variants/s6/r2y20k5w10k10r2~x2/sett.png)|

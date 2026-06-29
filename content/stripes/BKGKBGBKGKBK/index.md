@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marchmont (Personal)](/setts/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/)|
-|![Marchmont (Personal) example sett](/setts/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/sett.png)|
+| [Marchmont (Personal)](/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/)|
+|![Marchmont (Personal) example sett](/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/sett.png)|

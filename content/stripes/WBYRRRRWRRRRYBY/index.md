@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wisconsin in Scotland (Corporate)](/setts/s15/w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/)|
-|![Wisconsin in Scotland (Corporate) example sett](/setts/s15/w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/sett.png)|
+| [Wisconsin in Scotland (Corporate)](/variants/s15/w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/)|
+|![Wisconsin in Scotland (Corporate) example sett](/variants/s15/w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Japanese (nihon)](/setts/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/)|
-|![Japanese (nihon) example sett](/setts/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/sett.png)|
+| [Japanese (nihon)](/variants/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/)|
+|![Japanese (nihon) example sett](/variants/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/sett.png)|

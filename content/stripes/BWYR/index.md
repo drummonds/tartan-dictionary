@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louisburg](/setts/s4/o22ly10w3db8~x2/)|
-|![Louisburg example sett](/setts/s4/o22ly10w3db8~x2/sett.png)|
+| [Louisburg](/variants/s4/o22ly10w3db8~x2/)|
+|![Louisburg example sett](/variants/s4/o22ly10w3db8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmoral](/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/)|
-|![Balmoral example sett](/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/sett.png)|
+| [Balmoral](/variants/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/)|
+|![Balmoral example sett](/variants/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State University of New York College at Buffalo](/setts/s8/k70r5k3lb4dp4lb4k3r12/)|
-|![State University of New York College at Buffalo example sett](/setts/s8/k70r5k3lb4dp4lb4k3r12/sett.png)|
+| [State University of New York College at Buffalo](/variants/s8/k70r5k3lb4dp4lb4k3r12/)|
+|![State University of New York College at Buffalo example sett](/variants/s8/k70r5k3lb4dp4lb4k3r12/sett.png)|

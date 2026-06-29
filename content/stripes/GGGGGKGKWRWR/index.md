@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ross Arisaid](/setts/s12/r4w4r2w29k10gi3k10gi4g4gi3g3gi3~x2/)|
-|![Ross Arisaid example sett](/setts/s12/r4w4r2w29k10gi3k10gi4g4gi3g3gi3~x2/sett.png)|
-| [Ross, hunting dress](/setts/s12/g4gi3g3gi4g4k8g3k9w29r2w4r2~x2/)|
-|![Ross, hunting dress example sett](/setts/s12/g4gi3g3gi4g4k8g3k9w29r2w4r2~x2/sett.png)|
+| [Ross Arisaid](/variants/s12/r4w4r2w29k10gi3k10gi4g4gi3g3gi3~x2/)|
+|![Ross Arisaid example sett](/variants/s12/r4w4r2w29k10gi3k10gi4g4gi3g3gi3~x2/sett.png)|
+| [Ross, hunting dress](/variants/s12/g4gi3g3gi4g4k8g3k9w29r2w4r2~x2/)|
+|![Ross, hunting dress example sett](/variants/s12/g4gi3g3gi4g4k8g3k9w29r2w4r2~x2/sett.png)|

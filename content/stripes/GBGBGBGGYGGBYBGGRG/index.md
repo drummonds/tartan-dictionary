@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Turcan Connell](/setts/s18/dy27dt3dy8dt4dy8dt3dy14g8lr5dy5g14dt12lr6dt12dy15g9r4g9~x2/)|
-|![Turcan Connell example sett](/setts/s18/dy27dt3dy8dt4dy8dt3dy14g8lr5dy5g14dt12lr6dt12dy15g9r4g9~x2/sett.png)|
+| [Turcan Connell](/variants/s18/dy27dt3dy8dt4dy8dt3dy14g8lr5dy5g14dt12lr6dt12dy15g9r4g9~x2/)|
+|![Turcan Connell example sett](/variants/s18/dy27dt3dy8dt4dy8dt3dy14g8lr5dy5g14dt12lr6dt12dy15g9r4g9~x2/sett.png)|

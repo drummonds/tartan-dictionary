@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [78th Highlanders (Fraser) (Mil.)](/setts/s12/dg26r2dg2r2r19r28r3r28r19dg22r2dg2~x2/)|
-|![78th Highlanders (Fraser) (Mil.) example sett](/setts/s12/dg26r2dg2r2r19r28r3r28r19dg22r2dg2~x2/sett.png)|
+| [78th Highlanders (Fraser) (Mil.)](/variants/s12/dg26r2dg2r2r19r28r3r28r19dg22r2dg2~x2/)|
+|![78th Highlanders (Fraser) (Mil.) example sett](/variants/s12/dg26r2dg2r2r19r28r3r28r19dg22r2dg2~x2/sett.png)|

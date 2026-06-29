@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Remony (Red)](/setts/s8/r17db2r2db13r2db2g17db2~x2/)|
-|![Remony (Red) example sett](/setts/s8/r17db2r2db13r2db2g17db2~x2/sett.png)|
+| [Remony (Red)](/variants/s8/r17db2r2db13r2db2g17db2~x2/)|
+|![Remony (Red) example sett](/variants/s8/r17db2r2db13r2db2g17db2~x2/sett.png)|

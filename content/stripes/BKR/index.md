@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allen, Nicholas (Personal)](/setts/s3/dt1k2r1~x42/)|
-|![Allen, Nicholas (Personal) example sett](/setts/s3/dt1k2r1~x42/sett.png)|
-| [Wilson's No.198](/setts/s3/r4k7t4~x2/)|
-|![Wilson's No.198 example sett](/setts/s3/r4k7t4~x2/sett.png)|
+| [Allen, Nicholas (Personal)](/variants/s3/dt1k2r1~x42/)|
+|![Allen, Nicholas (Personal) example sett](/variants/s3/dt1k2r1~x42/sett.png)|
+| [Wilson's No.198](/variants/s3/r4k7t4~x2/)|
+|![Wilson's No.198 example sett](/variants/s3/r4k7t4~x2/sett.png)|

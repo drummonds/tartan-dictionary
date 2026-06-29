@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentfied (Ligioner Highland Games](/setts/s6/do4g25lo10g3lo18r4~x2/)|
-|![Unidentfied (Ligioner Highland Games example sett](/setts/s6/do4g25lo10g3lo18r4~x2/sett.png)|
+| [Unidentfied (Ligioner Highland Games](/variants/s6/do4g25lo10g3lo18r4~x2/)|
+|![Unidentfied (Ligioner Highland Games example sett](/variants/s6/do4g25lo10g3lo18r4~x2/sett.png)|

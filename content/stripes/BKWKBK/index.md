@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Express International](/setts/s6/k1db7k4lb1k4p1~x4/)|
-|![Scottish Express International example sett](/setts/s6/k1db7k4lb1k4p1~x4/sett.png)|
+| [Scottish Express International](/variants/s6/k1db7k4lb1k4p1~x4/)|
+|![Scottish Express International example sett](/variants/s6/k1db7k4lb1k4p1~x4/sett.png)|

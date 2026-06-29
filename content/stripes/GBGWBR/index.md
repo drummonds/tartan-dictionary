@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norris (1957)](/setts/s6/g6b1g7w1b7r1~x4/)|
-|![Norris (1957) example sett](/setts/s6/g6b1g7w1b7r1~x4/sett.png)|
+| [Norris (1957)](/variants/s6/g6b1g7w1b7r1~x4/)|
+|![Norris (1957) example sett](/variants/s6/g6b1g7w1b7r1~x4/sett.png)|

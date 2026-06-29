@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of West Virginia (Fash)](/setts/s8/o49lo3b13dy8k23b10o14r4~x2/)|
-|![State Seal of West Virginia (Fash) example sett](/setts/s8/o49lo3b13dy8k23b10o14r4~x2/sett.png)|
+| [State Seal of West Virginia (Fash)](/variants/s8/o49lo3b13dy8k23b10o14r4~x2/)|
+|![State Seal of West Virginia (Fash) example sett](/variants/s8/o49lo3b13dy8k23b10o14r4~x2/sett.png)|

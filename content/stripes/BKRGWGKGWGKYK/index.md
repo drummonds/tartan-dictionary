@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graham-Maila (Personal)](/setts/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/)|
-|![Graham-Maila (Personal) example sett](/setts/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/sett.png)|
+| [Graham-Maila (Personal)](/variants/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/)|
+|![Graham-Maila (Personal) example sett](/variants/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/sett.png)|

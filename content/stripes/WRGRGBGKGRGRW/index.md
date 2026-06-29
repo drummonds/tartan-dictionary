@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reid, Green](/tartans/w1r2g10r2g2k8g2db8g2r2g10r2w1/)|
-|![Reid, Green example sett](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/sett.png)|
+| [Reid, Green](/setts/w1r2g10r2g2k8g2db8g2r2g10r2w1/)|
+|![Reid, Green example sett](/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/sett.png)|

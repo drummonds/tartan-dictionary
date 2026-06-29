@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Largs District Tartan Tartan Number: 478. Earliest known date: 1981 The Largs tartan is a new design created for the town and officially adopted in 1981. There is also a dress version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/dbi4r4db44w6db5dy4db3dy8db3dy16dbi4r22w4/)|
-|![Largs District Tartan Tartan Number: 478. Earliest known date: 1981 The Largs tartan is a new design created for the town and officially adopted in 1981. There is also a dress version. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/dbi4r4db44w6db5dy4db3dy8db3dy16dbi4r22w4/sett.png)|
+| [Largs District Tartan](/variants/s13/dbi4r4db44w6db5dy4db3dy8db3dy16dbi4r22w4/)|
+|![Largs District Tartan example sett](/variants/s13/dbi4r4db44w6db5dy4db3dy8db3dy16dbi4r22w4/sett.png)|

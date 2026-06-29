@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [World Peace (Fashion)](/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/)|
-|![World Peace (Fashion) example sett](/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/sett.png)|
+| [World Peace (Fashion)](/variants/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/)|
+|![World Peace (Fashion) example sett](/variants/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/sett.png)|

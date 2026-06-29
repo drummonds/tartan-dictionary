@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Livingston Football Club (2001)](/setts/s6/w4k24ly5k10ly12r1~x2/)|
-|![Livingston Football Club (2001) example sett](/setts/s6/w4k24ly5k10ly12r1~x2/sett.png)|
+| [Livingston Football Club (2001)](/variants/s6/w4k24ly5k10ly12r1~x2/)|
+|![Livingston Football Club (2001) example sett](/variants/s6/w4k24ly5k10ly12r1~x2/sett.png)|

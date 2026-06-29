@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jefferson (Personal)](/setts/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2/)|
-|![Jefferson (Personal) example sett](/setts/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2/sett.png)|
+| [Jefferson (Personal)](/variants/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2/)|
+|![Jefferson (Personal) example sett](/variants/s12/g28lb2dp20t9r22k7r22t9dp20lb2g28ly7~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 30 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corps Suevia Heidelburg](/setts/s30/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/)|
-|![Corps Suevia Heidelburg example sett](/setts/s30/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/sett.png)|
+| [Corps Suevia Heidelburg](/variants/s30/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/)|
+|![Corps Suevia Heidelburg example sett](/variants/s30/ly21k2lb2ly2k2ly2lb2k2ly2k2ly2lb6ly2k2ly3k20~x2/sett.png)|

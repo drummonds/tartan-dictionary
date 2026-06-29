@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Angels' Share, The](/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/)|
-|![Angels' Share, The example sett](/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/sett.png)|
+| [Angels' Share, The](/variants/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/)|
+|![Angels' Share, The example sett](/variants/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longniddry Turquoise (Dance)](/setts/s8/lb38k2w2k2lb5g10w30lb4~x2/)|
-|![Longniddry Turquoise (Dance) example sett](/setts/s8/lb38k2w2k2lb5g10w30lb4~x2/sett.png)|
+| [Longniddry Turquoise (Dance)](/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/)|
+|![Longniddry Turquoise (Dance) example sett](/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harley Davidson (Corporate)](/setts/s6/oi4n6k4o8k49oi2/)|
-|![Harley Davidson (Corporate) example sett](/setts/s6/oi4n6k4o8k49oi2/sett.png)|
+| [Harley Davidson (Corporate)](/variants/s6/oi4n6k4o8k49oi2/)|
+|![Harley Davidson (Corporate) example sett](/variants/s6/oi4n6k4o8k49oi2/sett.png)|

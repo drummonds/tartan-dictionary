@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fibonacci7](/setts/s7/db13dg8r5db3dg2r1ly1~x4/)|
-|![Fibonacci7 example sett](/setts/s7/db13dg8r5db3dg2r1ly1~x4/sett.png)|
+| [Fibonacci7](/variants/s7/db13dg8r5db3dg2r1ly1~x4/)|
+|![Fibonacci7 example sett](/variants/s7/db13dg8r5db3dg2r1ly1~x4/sett.png)|

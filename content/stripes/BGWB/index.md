@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leutz (Name?)](/setts/s4/t53g20w18db14~x2/)|
-|![Leutz (Name?) example sett](/setts/s4/t53g20w18db14~x2/sett.png)|
+| [Leutz (Name?)](/variants/s4/t53g20w18db14~x2/)|
+|![Leutz (Name?) example sett](/variants/s4/t53g20w18db14~x2/sett.png)|

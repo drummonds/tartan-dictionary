@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braemar, Camel](/setts/s10/o1k1o10k1o4k1oi3k5w2oi1~x4/)|
-|![Braemar, Camel example sett](/setts/s10/o1k1o10k1o4k1oi3k5w2oi1~x4/sett.png)|
-| [Braemar, or Blair Atholl](/setts/s10/o1k1o11k1o5k1oi3k5w2oi1~x4/)|
-|![Braemar, or Blair Atholl example sett](/setts/s10/o1k1o11k1o5k1oi3k5w2oi1~x4/sett.png)|
+| [Braemar, Camel](/variants/s10/o1k1o10k1o4k1oi3k5w2oi1~x4/)|
+|![Braemar, Camel example sett](/variants/s10/o1k1o10k1o4k1oi3k5w2oi1~x4/sett.png)|
+| [Braemar, or Blair Atholl](/variants/s10/o1k1o11k1o5k1oi3k5w2oi1~x4/)|
+|![Braemar, or Blair Atholl example sett](/variants/s10/o1k1o11k1o5k1oi3k5w2oi1~x4/sett.png)|

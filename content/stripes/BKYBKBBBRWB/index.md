@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arran Mist](/setts/s11/do8w1o1db10n16do2k3db33lr1ki3do2~x2/)|
-|![Arran Mist example sett](/setts/s11/do8w1o1db10n16do2k3db33lr1ki3do2~x2/sett.png)|
+| [Arran Mist](/variants/s11/do8w1o1db10n16do2k3db33lr1ki3do2~x2/)|
+|![Arran Mist example sett](/variants/s11/do8w1o1db10n16do2k3db33lr1ki3do2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochwood Estate Check](/setts/s7/r4ly3g4ly4b4ly4g4~x2/)|
-|![Lochwood Estate Check example sett](/setts/s7/r4ly3g4ly4b4ly4g4~x2/sett.png)|
+| [Lochwood Estate Check](/variants/s7/r4ly3g4ly4b4ly4g4~x2/)|
+|![Lochwood Estate Check example sett](/variants/s7/r4ly3g4ly4b4ly4g4~x2/sett.png)|

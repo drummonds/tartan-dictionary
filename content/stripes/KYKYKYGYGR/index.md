@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spotsylvania County, Sherrif's Office of](/setts/s10/k2ly2k24ly2k2ly2dy30lr3g2r2~x2/)|
-|![Spotsylvania County, Sherrif's Office of example sett](/setts/s10/k2ly2k24ly2k2ly2dy30lr3g2r2~x2/sett.png)|
+| [Spotsylvania County, Sherrif's Office of](/variants/s10/k2ly2k24ly2k2ly2dy30lr3g2r2~x2/)|
+|![Spotsylvania County, Sherrif's Office of example sett](/variants/s10/k2ly2k24ly2k2ly2dy30lr3g2r2~x2/sett.png)|

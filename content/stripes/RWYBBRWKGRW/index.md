@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kingennie Sunrise](/setts/s11/m24lb4lr3t3b3m3lp3k24g2m2w2~x2/)|
-|![Kingennie Sunrise example sett](/setts/s11/m24lb4lr3t3b3m3lp3k24g2m2w2~x2/sett.png)|
+| [Kingennie Sunrise](/variants/s11/m24lb4lr3t3b3m3lp3k24g2m2w2~x2/)|
+|![Kingennie Sunrise example sett](/variants/s11/m24lb4lr3t3b3m3lp3k24g2m2w2~x2/sett.png)|

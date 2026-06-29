@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rams Timeless](/setts/s10/g12y6lo16gi10w6gi8g12gi70y9gi7/)|
-|![Rams Timeless example sett](/setts/s10/g12y6lo16gi10w6gi8g12gi70y9gi7/sett.png)|
+| [Rams Timeless](/variants/s10/g12y6lo16gi10w6gi8g12gi70y9gi7/)|
+|![Rams Timeless example sett](/variants/s10/g12y6lo16gi10w6gi8g12gi70y9gi7/sett.png)|

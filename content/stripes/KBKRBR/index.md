@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graham of Menteith, (Red)](/setts/s6/r26t3r4k16db16k4~x2/)|
-|![Graham of Menteith, (Red) example sett](/setts/s6/r26t3r4k16db16k4~x2/sett.png)|
+| [Graham of Menteith, (Red)](/variants/s6/r26t3r4k16db16k4~x2/)|
+|![Graham of Menteith, (Red) example sett](/variants/s6/r26t3r4k16db16k4~x2/sett.png)|

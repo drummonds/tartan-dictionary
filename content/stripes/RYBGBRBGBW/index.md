@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Steve Walls](/setts/s10/r3ly1db15g16db3r6db6g8db15w3~x2/)|
-|![Steve Walls example sett](/setts/s10/r3ly1db15g16db3r6db6g8db15w3~x2/sett.png)|
-| [Steve Walls Commemorative](/setts/s10/r3ly1db15dg16db3r6db6dg8db15w3~x2/)|
-|![Steve Walls Commemorative example sett](/setts/s10/r3ly1db15dg16db3r6db6dg8db15w3~x2/sett.png)|
+| [Steve Walls](/variants/s10/r3ly1db15g16db3r6db6g8db15w3~x2/)|
+|![Steve Walls example sett](/variants/s10/r3ly1db15g16db3r6db6g8db15w3~x2/sett.png)|
+| [Steve Walls Commemorative](/variants/s10/r3ly1db15dg16db3r6db6dg8db15w3~x2/)|
+|![Steve Walls Commemorative example sett](/variants/s10/r3ly1db15dg16db3r6db6dg8db15w3~x2/sett.png)|

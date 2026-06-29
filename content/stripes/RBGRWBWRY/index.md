@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brousseau (Personal)](/setts/s9/ly25o2w2db2w2o13dy28db2o3~x2/)|
-|![Brousseau (Personal) example sett](/setts/s9/ly25o2w2db2w2o13dy28db2o3~x2/sett.png)|
+| [Brousseau (Personal)](/variants/s9/ly25o2w2db2w2o13dy28db2o3~x2/)|
+|![Brousseau (Personal) example sett](/variants/s9/ly25o2w2db2w2o13dy28db2o3~x2/sett.png)|

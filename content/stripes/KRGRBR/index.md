@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eyre (Personal)](/setts/s6/r3db12r4g18r6k2~x2/)|
-|![Eyre (Personal) example sett](/setts/s6/r3db12r4g18r6k2~x2/sett.png)|
-| [Finnigan (Estimated threadcount)](/setts/s6/r3db15r3g8r20k2~x2/)|
-|![Finnigan (Estimated threadcount) example sett](/setts/s6/r3db15r3g8r20k2~x2/sett.png)|
+| [Eyre (Personal)](/variants/s6/r3db12r4g18r6k2~x2/)|
+|![Eyre (Personal) example sett](/variants/s6/r3db12r4g18r6k2~x2/sett.png)|
+| [Finnigan (Estimated threadcount)](/variants/s6/r3db15r3g8r20k2~x2/)|
+|![Finnigan (Estimated threadcount) example sett](/variants/s6/r3db15r3g8r20k2~x2/sett.png)|

@@ -8,11 +8,15 @@ A family of [Clan Sutherland](/clan/sutherland/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s18/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/"><img src="/setts/s18/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/sett.png" alt="Sutherland of Duffus" width="240"><br>Sutherland of Duffus</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3/">Sutherland of Duffus</a> ★</td><td><code>LO/28 LY6 LO28 K6 LO28 K6 LO28 LB6 R44 LB6 LO28 K6 LO28 K6 LO28 LY6 LO28 LY/6</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3/"><img src="/variants/s18/lo14ly3lo14k3lo14k3lo14lb3r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/sett.png" alt="Sutherland of Duffus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r22lb3lo14k3lo14k3lo14ly3lo14ly3/">(Clan)</a></td><td><code>R/44 LB6 LO28 K6 LO28 K6 LO28 LY6 LO28 LY/6</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r22lb3lo14k3lo14k3lo14ly3lo14ly3/"><img src="/variants/s10/r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s10/r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/"><img src="/setts/s10/r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/sett.png" alt="Sutherland of Duffus (Clan)" width="140"><br>Sutherland of Duffus (Clan)</a></li>
-</ul>
+[See the Sutherland of Duffus tartan and all its setts →](/tartans/sutherland-of-duffus/)
 

@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Abercrombie](/setts/s9/k12r1g14w1g14k14r1db8k2~x2/)|
-|![Abercrombie example sett](/setts/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png)|
-| [Abercrombie (McKinlay)](/setts/s9/k12r1dg14w1dg14k14r1db8k2~x2/)|
-|![Abercrombie (McKinlay) example sett](/setts/s9/k12r1dg14w1dg14k14r1db8k2~x2/sett.png)|
+| [Abercrombie](/variants/s9/k12r1g14w1g14k14r1db8k2~x2/)|
+|![Abercrombie example sett](/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png)|
+| [Abercrombie (McKinlay)](/variants/s9/k12r1dg14w1dg14k14r1db8k2~x2/)|
+|![Abercrombie (McKinlay) example sett](/variants/s9/k12r1dg14w1dg14k14r1db8k2~x2/sett.png)|

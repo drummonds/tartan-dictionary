@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bullman (Name)](/setts/s10/g2ly1g13y2g1k12db10r1db1w2~x2/)|
-|![Bullman (Name) example sett](/setts/s10/g2ly1g13y2g1k12db10r1db1w2~x2/sett.png)|
+| [Bullman (Name)](/variants/s10/g2ly1g13y2g1k12db10r1db1w2~x2/)|
+|![Bullman (Name) example sett](/variants/s10/g2ly1g13y2g1k12db10r1db1w2~x2/sett.png)|

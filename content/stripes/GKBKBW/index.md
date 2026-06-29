@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Yorkland (Fashion)](/setts/s6/g35k3dbi26k4db4w3~x2/)|
-|![Pride of Yorkland (Fashion) example sett](/setts/s6/g35k3dbi26k4db4w3~x2/sett.png)|
+| [Pride of Yorkland (Fashion)](/variants/s6/g35k3dbi26k4db4w3~x2/)|
+|![Pride of Yorkland (Fashion) example sett](/variants/s6/g35k3dbi26k4db4w3~x2/sett.png)|

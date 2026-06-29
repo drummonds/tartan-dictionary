@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swankie (Personal)](/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/)|
-|![Swankie (Personal) example sett](/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/sett.png)|
+| [Swankie (Personal)](/variants/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/)|
+|![Swankie (Personal) example sett](/variants/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/sett.png)|

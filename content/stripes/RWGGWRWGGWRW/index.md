@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Arisaid #2](/setts/s12/r30w24dg15g15w24r30w24g15dg15w24r30w23~x2/)|
-|![Unidentified Arisaid #2 example sett](/setts/s12/r30w24dg15g15w24r30w24g15dg15w24r30w23~x2/sett.png)|
+| [Unidentified Arisaid #2](/variants/s12/r30w24dg15g15w24r30w24g15dg15w24r30w23~x2/)|
+|![Unidentified Arisaid #2 example sett](/variants/s12/r30w24dg15g15w24r30w24g15dg15w24r30w23~x2/sett.png)|

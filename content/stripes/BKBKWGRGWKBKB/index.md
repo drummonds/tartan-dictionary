@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colquhoun](/setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/)|
-|![Colquhoun example sett](/setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/sett.png)|
+| [Colquhoun](/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/)|
+|![Colquhoun example sett](/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/sett.png)|

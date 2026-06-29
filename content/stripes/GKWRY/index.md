@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oakley (2015)](/setts/s5/dg37k22w4r15lo3~x2/)|
-|![Oakley (2015) example sett](/setts/s5/dg37k22w4r15lo3~x2/sett.png)|
-| [Oakley (2015)](/setts/s5/dg37k22w4r15ly3~x2/)|
-|![Oakley (2015) example sett](/setts/s5/dg37k22w4r15ly3~x2/sett.png)|
+| [Oakley (2015)](/variants/s5/dg37k22w4r15lo3~x2/)|
+|![Oakley (2015) example sett](/variants/s5/dg37k22w4r15lo3~x2/sett.png)|
+| [Oakley (2015)](/variants/s5/dg37k22w4r15ly3~x2/)|
+|![Oakley (2015) example sett](/variants/s5/dg37k22w4r15ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bendigo](/setts/s11/r22w1lo7w1dg21w1db12w1ri1w1r8~x2/)|
-|![Bendigo example sett](/setts/s11/r22w1lo7w1dg21w1db12w1ri1w1r8~x2/sett.png)|
+| [Bendigo](/variants/s11/r22w1lo7w1dg21w1db12w1ri1w1r8~x2/)|
+|![Bendigo example sett](/variants/s11/r22w1lo7w1dg21w1db12w1ri1w1r8~x2/sett.png)|

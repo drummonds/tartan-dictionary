@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Berger-MacLaren (Personal)](/setts/s7/lg37k12lo17r3lo17k1ly3~x2/)|
-|![Berger-MacLaren (Personal) example sett](/setts/s7/lg37k12lo17r3lo17k1ly3~x2/sett.png)|
+| [Berger-MacLaren (Personal)](/variants/s7/lg37k12lo17r3lo17k1ly3~x2/)|
+|![Berger-MacLaren (Personal) example sett](/variants/s7/lg37k12lo17r3lo17k1ly3~x2/sett.png)|

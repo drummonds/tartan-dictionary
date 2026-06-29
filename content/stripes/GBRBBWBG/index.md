@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wellmont Golf Tournament](/setts/s8/g24dr2w2dr2dt8o1dr24g4~x2/)|
-|![Wellmont Golf Tournament example sett](/setts/s8/g24dr2w2dr2dt8o1dr24g4~x2/sett.png)|
+| [Wellmont Golf Tournament](/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/)|
+|![Wellmont Golf Tournament example sett](/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baluch Regiment (Military)](/setts/s9/r5g20r5g3r4g5r36do2w4~x2/)|
-|![Baluch Regiment (Military) example sett](/setts/s9/r5g20r5g3r4g5r36do2w4~x2/sett.png)|
+| [Baluch Regiment (Military)](/variants/s9/r5g20r5g3r4g5r36do2w4~x2/)|
+|![Baluch Regiment (Military) example sett](/variants/s9/r5g20r5g3r4g5r36do2w4~x2/sett.png)|

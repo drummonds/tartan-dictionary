@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loudoun's Highlanders - 1747 #1 (Mil](/setts/s6/r4k2db24k20g20lo3~x2/)|
-|![Loudoun's Highlanders - 1747 #1 (Mil example sett](/setts/s6/r4k2db24k20g20lo3~x2/sett.png)|
+| [Loudoun's Highlanders - 1747 #1 (Mil](/variants/s6/r4k2db24k20g20lo3~x2/)|
+|![Loudoun's Highlanders - 1747 #1 (Mil example sett](/variants/s6/r4k2db24k20g20lo3~x2/sett.png)|

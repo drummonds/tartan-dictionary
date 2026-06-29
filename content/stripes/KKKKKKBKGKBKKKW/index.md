@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCruden, Raymond (Personal)](/setts/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2/)|
-|![McCruden, Raymond (Personal) example sett](/setts/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2/sett.png)|
+| [McCruden, Raymond (Personal)](/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2/)|
+|![McCruden, Raymond (Personal) example sett](/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2/sett.png)|

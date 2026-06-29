@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelvingrove](/setts/s14/k16b1k1b1k1b9g18b1~x4/)|
-|![Kelvingrove example sett](/setts/s14/k16b1k1b1k1b9g18b1~x4/sett.png)|
+| [Kelvingrove](/variants/s14/k16b1k1b1k1b9g18b1~x4/)|
+|![Kelvingrove example sett](/variants/s14/k16b1k1b1k1b9g18b1~x4/sett.png)|

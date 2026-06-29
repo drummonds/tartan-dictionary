@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grampian Television](/setts/s8/k12n3k12n18w5~x2/)|
-|![Grampian Television example sett](/setts/s8/k12n3k12n18w5~x2/sett.png)|
+| [Grampian Television](/variants/s8/k12n3k12n18w5~x2/)|
+|![Grampian Television example sett](/variants/s8/k12n3k12n18w5~x2/sett.png)|

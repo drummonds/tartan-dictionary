@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kirk in the Hills](/setts/s10/lb16db6k1ly1k1db1lb4dy4k1r1~x4/)|
-|![Kirk in the Hills example sett](/setts/s10/lb16db6k1ly1k1db1lb4dy4k1r1~x4/sett.png)|
+| [Kirk in the Hills](/variants/s10/lb16db6k1ly1k1db1lb4dy4k1r1~x4/)|
+|![Kirk in the Hills example sett](/variants/s10/lb16db6k1ly1k1db1lb4dy4k1r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Giles Cathedral (Corporate)](/setts/s6/db2n2lb1n18lb2r2~x4/)|
-|![St. Giles Cathedral (Corporate) example sett](/setts/s6/db2n2lb1n18lb2r2~x4/sett.png)|
+| [St. Giles Cathedral (Corporate)](/variants/s6/db2n2lb1n18lb2r2~x4/)|
+|![St. Giles Cathedral (Corporate) example sett](/variants/s6/db2n2lb1n18lb2r2~x4/sett.png)|

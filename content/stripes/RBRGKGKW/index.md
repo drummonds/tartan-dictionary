@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Zamzam (Personal)](/setts/s8/r70b1r2g12k2g1k10w1~x2/)|
-|![Zamzam (Personal) example sett](/setts/s8/r70b1r2g12k2g1k10w1~x2/sett.png)|
+| [Zamzam (Personal)](/variants/s8/r70b1r2g12k2g1k10w1~x2/)|
+|![Zamzam (Personal) example sett](/variants/s8/r70b1r2g12k2g1k10w1~x2/sett.png)|

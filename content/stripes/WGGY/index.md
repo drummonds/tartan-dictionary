@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGuigan, Julia (Personal)](/setts/s4/lb9y52dy15ly4~x2/)|
-|![McGuigan, Julia (Personal) example sett](/setts/s4/lb9y52dy15ly4~x2/sett.png)|
+| [McGuigan, Julia (Personal)](/variants/s4/lb9y52dy15ly4~x2/)|
+|![McGuigan, Julia (Personal) example sett](/variants/s4/lb9y52dy15ly4~x2/sett.png)|

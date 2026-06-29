@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [PMMC](/setts/s7/r3k11dg29k28g19ly2b1~x2/)|
-|![PMMC example sett](/setts/s7/r3k11dg29k28g19ly2b1~x2/sett.png)|
-| [PMMC](/setts/s7/r3k11gi29k28g19ly2db1~x2/)|
-|![PMMC example sett](/setts/s7/r3k11gi29k28g19ly2db1~x2/sett.png)|
+| [PMMC](/variants/s7/r3k11dg29k28g19ly2b1~x2/)|
+|![PMMC example sett](/variants/s7/r3k11dg29k28g19ly2b1~x2/sett.png)|
+| [PMMC](/variants/s7/r3k11gi29k28g19ly2db1~x2/)|
+|![PMMC example sett](/variants/s7/r3k11gi29k28g19ly2db1~x2/sett.png)|

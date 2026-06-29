@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cladish](/setts/s8/y10lo5y54lo2lb32loi54b4loi10/)|
-|![Cladish example sett](/setts/s8/y10lo5y54lo2lb32loi54b4loi10/sett.png)|
+| [Cladish](/variants/s8/y10lo5y54lo2lb32loi54b4loi10/)|
+|![Cladish example sett](/variants/s8/y10lo5y54lo2lb32loi54b4loi10/sett.png)|

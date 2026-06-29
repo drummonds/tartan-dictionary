@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Midnight Balmoral (Fashion)](/setts/s9/o4w1k36db2r4w1db14r8w1~x2/)|
-|![Midnight Balmoral (Fashion) example sett](/setts/s9/o4w1k36db2r4w1db14r8w1~x2/sett.png)|
+| [Midnight Balmoral (Fashion)](/variants/s9/o4w1k36db2r4w1db14r8w1~x2/)|
+|![Midnight Balmoral (Fashion) example sett](/variants/s9/o4w1k36db2r4w1db14r8w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lehbrink No. 1 (Fashion)](/setts/s24/ly8oi68o56lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1r52n6r14ly8/)|
-|![Lehbrink No. 1 (Fashion) example sett](/setts/s24/ly8oi68o56lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1r52n6r14ly8/sett.png)|
+| [Lehbrink No. 1 (Fashion)](/variants/s24/ly8oi68o56lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1r52n6r14ly8/)|
+|![Lehbrink No. 1 (Fashion) example sett](/variants/s24/ly8oi68o56lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1o1lyi1r52n6r14ly8/sett.png)|

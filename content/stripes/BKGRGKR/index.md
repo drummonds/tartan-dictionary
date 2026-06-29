@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ednie (Personal)](/setts/s7/b11k4g4m1g4k1r1~x4/)|
-|![Ednie (Personal) example sett](/setts/s7/b11k4g4m1g4k1r1~x4/sett.png)|
+| [Ednie (Personal)](/variants/s7/b11k4g4m1g4k1r1~x4/)|
+|![Ednie (Personal) example sett](/variants/s7/b11k4g4m1g4k1r1~x4/sett.png)|

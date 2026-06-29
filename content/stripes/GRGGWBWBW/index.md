@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gaelic College of St.Anns](/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/)|
-|![Gaelic College of St.Anns example sett](/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/sett.png)|
+| [Gaelic College of St.Anns](/variants/s9/g8r1g4dy2w4t3w1t3w4~x8/)|
+|![Gaelic College of St.Anns example sett](/variants/s9/g8r1g4dy2w4t3w1t3w4~x8/sett.png)|

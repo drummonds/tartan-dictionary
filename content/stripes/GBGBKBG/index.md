@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tern House](/setts/s7/dg23db3k8db4dg4db56dy8/)|
-|![Tern House example sett](/setts/s7/dg23db3k8db4dg4db56dy8/sett.png)|
+| [Tern House](/variants/s7/dg23db3k8db4dg4db56dy8/)|
+|![Tern House example sett](/variants/s7/dg23db3k8db4dg4db56dy8/sett.png)|

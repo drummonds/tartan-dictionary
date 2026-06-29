@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Butties](/setts/s6/w93lr6w13b35w12lr6/)|
-|![Butties example sett](/setts/s6/w93lr6w13b35w12lr6/sett.png)|
+| [Butties](/variants/s6/w93lr6w13b35w12lr6/)|
+|![Butties example sett](/variants/s6/w93lr6w13b35w12lr6/sett.png)|

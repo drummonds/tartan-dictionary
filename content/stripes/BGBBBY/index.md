@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harbour Town Hilton Head, The](/setts/s6/dt3g11dt3dr11dt18lo3~x2/)|
-|![Harbour Town Hilton Head, The example sett](/setts/s6/dt3g11dt3dr11dt18lo3~x2/sett.png)|
+| [Harbour Town Hilton Head, The](/variants/s6/dt3g11dt3dr11dt18lo3~x2/)|
+|![Harbour Town Hilton Head, The example sett](/variants/s6/dt3g11dt3dr11dt18lo3~x2/sett.png)|

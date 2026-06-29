@@ -24,11 +24,11 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [13, Irish Regiment](/setts/s4/y100o26dg3dr2/)|
-|![13, Irish Regiment example sett](/setts/s4/y100o26dg3dr2/sett.png)|
-| [Highland Spring (1997) (Corporate)](/setts/s4/dp7g23r3g7~x2/)|
-|![Highland Spring (1997) (Corporate) example sett](/setts/s4/dp7g23r3g7~x2/sett.png)|
-| [Wilson's No.188](/setts/s4/g2r4g2t1~x4/)|
-|![Wilson's No.188 example sett](/setts/s4/g2r4g2t1~x4/sett.png)|
-| [Wilson's No.207](/setts/s4/g2r2g2t1~x4/)|
-|![Wilson's No.207 example sett](/setts/s4/g2r2g2t1~x4/sett.png)|
+| [13, Irish Regiment](/variants/s4/y100o26dg3dr2/)|
+|![13, Irish Regiment example sett](/variants/s4/y100o26dg3dr2/sett.png)|
+| [Highland Spring (1997) (Corporate)](/variants/s4/dp7g23r3g7~x2/)|
+|![Highland Spring (1997) (Corporate) example sett](/variants/s4/dp7g23r3g7~x2/sett.png)|
+| [Wilson's No.188](/variants/s4/g2r4g2t1~x4/)|
+|![Wilson's No.188 example sett](/variants/s4/g2r4g2t1~x4/sett.png)|
+| [Wilson's No.207](/variants/s4/g2r2g2t1~x4/)|
+|![Wilson's No.207 example sett](/variants/s4/g2r2g2t1~x4/sett.png)|

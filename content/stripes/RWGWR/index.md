@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daughter of Mull](/setts/s5/r1w1g1lb1m1~x16/)|
-|![Daughter of Mull example sett](/setts/s5/r1w1g1lb1m1~x16/sett.png)|
+| [Daughter of Mull](/variants/s5/r1w1g1lb1m1~x16/)|
+|![Daughter of Mull example sett](/variants/s5/r1w1g1lb1m1~x16/sett.png)|

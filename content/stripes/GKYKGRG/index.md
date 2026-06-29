@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wcwm 1062](/setts/s7/g3r20g16k22lo6k3g2~x2/)|
-|![Wcwm 1062 example sett](/setts/s7/g3r20g16k22lo6k3g2~x2/sett.png)|
+| [Wcwm 1062](/variants/s7/g3r20g16k22lo6k3g2~x2/)|
+|![Wcwm 1062 example sett](/variants/s7/g3r20g16k22lo6k3g2~x2/sett.png)|

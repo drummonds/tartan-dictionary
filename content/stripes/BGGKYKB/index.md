@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lenaghan (Personal)](/setts/s7/db10dg5g5k1ly2k1dbi10~x2/)|
-|![Lenaghan (Personal) example sett](/setts/s7/db10dg5g5k1ly2k1dbi10~x2/sett.png)|
+| [Lenaghan (Personal)](/variants/s7/db10dg5g5k1ly2k1dbi10~x2/)|
+|![Lenaghan (Personal) example sett](/variants/s7/db10dg5g5k1ly2k1dbi10~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lambert (Front Royal) Greer](/setts/s8/k3r34dg10r5t2k8o2w3~x2/)|
-|![Lambert (Front Royal) Greer example sett](/setts/s8/k3r34dg10r5t2k8o2w3~x2/sett.png)|
+| [Lambert (Front Royal) Greer](/variants/s8/k3r34dg10r5t2k8o2w3~x2/)|
+|![Lambert (Front Royal) Greer example sett](/variants/s8/k3r34dg10r5t2k8o2w3~x2/sett.png)|

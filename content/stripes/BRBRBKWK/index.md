@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murdoch Celebration (Personal)](/setts/s8/db30r2db2r4db9k26w2k4~x2/)|
-|![Murdoch Celebration (Personal) example sett](/setts/s8/db30r2db2r4db9k26w2k4~x2/sett.png)|
+| [Murdoch Celebration (Personal)](/variants/s8/db30r2db2r4db9k26w2k4~x2/)|
+|![Murdoch Celebration (Personal) example sett](/variants/s8/db30r2db2r4db9k26w2k4~x2/sett.png)|

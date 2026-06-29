@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Burn (Fashion)](/setts/s8/lo10dg1k2b2k18b1w45b1~x2/)|
-|![Highland Burn (Fashion) example sett](/setts/s8/lo10dg1k2b2k18b1w45b1~x2/sett.png)|
+| [Highland Burn (Fashion)](/variants/s8/lo10dg1k2b2k18b1w45b1~x2/)|
+|![Highland Burn (Fashion) example sett](/variants/s8/lo10dg1k2b2k18b1w45b1~x2/sett.png)|

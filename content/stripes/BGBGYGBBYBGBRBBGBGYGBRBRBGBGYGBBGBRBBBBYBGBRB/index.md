@@ -24,5 +24,5 @@ It is a 45 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Mist](/setts/s45/dt2g3dp1g2lo1g2dti2dp1lo2dp3g1dp2r1dp2dt2g3dp1g2lo1g2dti2r1dt2r1dt30g3dp1g2lo1g2dti1dp2g1dp2r1dp2dt2dti28dp1lo2dp3g1dp2r1dp2~x2/)|
-|![Highland Mist example sett](/setts/s45/dt2g3dp1g2lo1g2dti2dp1lo2dp3g1dp2r1dp2dt2g3dp1g2lo1g2dti2r1dt2r1dt30g3dp1g2lo1g2dti1dp2g1dp2r1dp2dt2dti28dp1lo2dp3g1dp2r1dp2~x2/sett.png)|
+| [Highland Mist](/variants/s45/dt2g3dp1g2lo1g2dti2dp1lo2dp3g1dp2r1dp2dt2g3dp1g2lo1g2dti2r1dt2r1dt30g3dp1g2lo1g2dti1dp2g1dp2r1dp2dt2dti28dp1lo2dp3g1dp2r1dp2~x2/)|
+|![Highland Mist example sett](/variants/s45/dt2g3dp1g2lo1g2dti2dp1lo2dp3g1dp2r1dp2dt2g3dp1g2lo1g2dti2r1dt2r1dt30g3dp1g2lo1g2dti1dp2g1dp2r1dp2dt2dti28dp1lo2dp3g1dp2r1dp2~x2/sett.png)|

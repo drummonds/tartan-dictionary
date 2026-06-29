@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irving of Glentulchan (Personal)](/setts/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/)|
-|![Irving of Glentulchan (Personal) example sett](/setts/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/sett.png)|
+| [Irving of Glentulchan (Personal)](/variants/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/)|
+|![Irving of Glentulchan (Personal) example sett](/variants/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/sett.png)|

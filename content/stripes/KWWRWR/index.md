@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGregor - 2005 (Black - Personal)](/setts/s6/r41w19r7w8w1k3~x2/)|
-|![MacGregor - 2005 (Black - Personal) example sett](/setts/s6/r41w19r7w8w1k3~x2/sett.png)|
+| [MacGregor - 2005 (Black - Personal)](/variants/s6/r41w19r7w8w1k3~x2/)|
+|![MacGregor - 2005 (Black - Personal) example sett](/variants/s6/r41w19r7w8w1k3~x2/sett.png)|

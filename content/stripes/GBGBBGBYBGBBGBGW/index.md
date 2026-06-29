@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Borderland](/setts/s16/dg2ni1dg30n10ni20dg1ni2lo1ni2dg1ni20n10dg30ni1dg2lb2~x2/)|
-|![Scottish Borderland example sett](/setts/s16/dg2ni1dg30n10ni20dg1ni2lo1ni2dg1ni20n10dg30ni1dg2lb2~x2/sett.png)|
+| [Scottish Borderland](/variants/s16/dg2ni1dg30n10ni20dg1ni2lo1ni2dg1ni20n10dg30ni1dg2lb2~x2/)|
+|![Scottish Borderland example sett](/variants/s16/dg2ni1dg30n10ni20dg1ni2lo1ni2dg1ni20n10dg30ni1dg2lb2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brabender](/setts/s8/k1g4r1k4db1k1db7g1~x6/)|
-|![Brabender example sett](/setts/s8/k1g4r1k4db1k1db7g1~x6/sett.png)|
+| [Brabender](/variants/s8/k1g4r1k4db1k1db7g1~x6/)|
+|![Brabender example sett](/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png)|

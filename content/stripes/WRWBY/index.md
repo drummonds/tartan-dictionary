@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Common Ground (Dress)](/setts/s5/w3r27w16db27ly3~x2/)|
-|![Common Ground (Dress) example sett](/setts/s5/w3r27w16db27ly3~x2/sett.png)|
-| [Common Ground Dress (Fashion)](/setts/s5/w3r27w16db27lo3~x2/)|
-|![Common Ground Dress (Fashion) example sett](/setts/s5/w3r27w16db27lo3~x2/sett.png)|
+| [Common Ground (Dress)](/variants/s5/w3r27w16db27ly3~x2/)|
+|![Common Ground (Dress) example sett](/variants/s5/w3r27w16db27ly3~x2/sett.png)|
+| [Common Ground Dress (Fashion)](/variants/s5/w3r27w16db27lo3~x2/)|
+|![Common Ground Dress (Fashion) example sett](/variants/s5/w3r27w16db27lo3~x2/sett.png)|

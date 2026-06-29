@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rainbow](/setts/s6/g2ly1lo1r1p1db1~x36/)|
-|![Rainbow example sett](/setts/s6/g2ly1lo1r1p1db1~x36/sett.png)|
-| [Rainbow (Fashion)](/setts/s6/g2ly1lo1r1dp1db1~x36/)|
-|![Rainbow (Fashion) example sett](/setts/s6/g2ly1lo1r1dp1db1~x36/sett.png)|
+| [Rainbow](/variants/s6/g2ly1lo1r1p1db1~x36/)|
+|![Rainbow example sett](/variants/s6/g2ly1lo1r1p1db1~x36/sett.png)|
+| [Rainbow (Fashion)](/variants/s6/g2ly1lo1r1dp1db1~x36/)|
+|![Rainbow (Fashion) example sett](/variants/s6/g2ly1lo1r1dp1db1~x36/sett.png)|

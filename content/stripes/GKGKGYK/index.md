@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Rover, The](/setts/s7/dy10k2y5k2dg46ly2k2~x2/)|
-|![Green Rover, The example sett](/setts/s7/dy10k2y5k2dg46ly2k2~x2/sett.png)|
+| [Green Rover, The](/variants/s7/dy10k2y5k2dg46ly2k2~x2/)|
+|![Green Rover, The example sett](/variants/s7/dy10k2y5k2dg46ly2k2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swan 2015, Brian E (Personal)](/setts/s7/k2db9k2db9k13w1k2~x4/)|
-|![Swan 2015, Brian E (Personal) example sett](/setts/s7/k2db9k2db9k13w1k2~x4/sett.png)|
+| [Swan 2015, Brian E (Personal)](/variants/s7/k2db9k2db9k13w1k2~x4/)|
+|![Swan 2015, Brian E (Personal) example sett](/variants/s7/k2db9k2db9k13w1k2~x4/sett.png)|

@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Stewart, (Variant)](/setts/s12/g32t2k7ly1k1w1k2r7g5k1g3w1~x2/)|
-|![Royal Stewart, (Variant) example sett](/setts/s12/g32t2k7ly1k1w1k2r7g5k1g3w1~x2/sett.png)|
-| [Stuart/Stewart (Variant)](/setts/s12/dg32t2k7ly1k1w1k2r7dg5k1dg3w1~x2/)|
-|![Stuart/Stewart (Variant) example sett](/setts/s12/dg32t2k7ly1k1w1k2r7dg5k1dg3w1~x2/sett.png)|
+| [Royal Stewart, (Variant)](/variants/s12/g32t2k7ly1k1w1k2r7g5k1g3w1~x2/)|
+|![Royal Stewart, (Variant) example sett](/variants/s12/g32t2k7ly1k1w1k2r7g5k1g3w1~x2/sett.png)|
+| [Stuart/Stewart (Variant)](/variants/s12/dg32t2k7ly1k1w1k2r7dg5k1dg3w1~x2/)|
+|![Stuart/Stewart (Variant) example sett](/variants/s12/dg32t2k7ly1k1w1k2r7dg5k1dg3w1~x2/sett.png)|

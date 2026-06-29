@@ -24,5 +24,5 @@ It is a 34 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart of Ardshiel](/setts/s34/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/)|
-|![Stuart/Stewart of Ardshiel example sett](/setts/s34/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/sett.png)|
+| [Stuart/Stewart of Ardshiel](/variants/s34/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/)|
+|![Stuart/Stewart of Ardshiel example sett](/variants/s34/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/sett.png)|

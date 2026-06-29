@@ -1,0 +1,83 @@
+---
+title: "Bannockbane Grey #1"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4ly2k13ly1w8o13ly2o4/)
+(the same proportion at any scale), whose colour order is pattern [KYKYWRYR](/stripes/kykywryr/).
+
+Part of the [Bannockbane](/tartans/bannockbane/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=198
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bannockbane Blue
+- Bannockbane Blue #1
+- Bannockbane Blue #2
+- Bannockbane Blue #3
+- Bannockbane Brown #2
+- Bannockbane Green
+- Bannockbane Grey #1
+- Bannockbane Grey #2
+- Bannockbane Grey #3
+- Bannockbane, Blue
+- Bannockbane, Green
+- Bannockbane, Grey
+- Bannockbane, Light Tan
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — Bannockbane Grey #1 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=198">record</a>)</li>
+<li>undated — Bannockbane, Light Tan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [198](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=198)
+- Scottish Tartans Authority (ITI): 1270
+- Scottish Tartans World Register: 1270
+
+## Thread count
+K/8 Y4 K26 Y2 W16 N26 Y4 N/8
+
+One full sett is **172 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> <small style="color:#888">#888888</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.7% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> <small style="color:#888">#888888</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.7% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/8 Y4 K26 Y2 W16 N26 Y4 N/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/o2dy2o15dy2w10lo15dy2lo2/"><img src="/variants/s8/o2dy2o15dy2w10lo15dy2lo2~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/o2dy2o15dy2w10lo15dy2lo2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k4ly2k13ly1w8o13ly2o4~x2">Bannockbane Grey #1</a> <a class="nn-out" href="/variants/s8/k4ly2k13ly1w8o13ly2o4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k4ly2k13ly1w8o13ly2o4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.51</div><div class="nn-name"><a href="/ttd/edit/#slug=dr4ly2dr13ly1w8t13ly2t4~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Bannockbane, Dark Tan</a> <a class="nn-out" href="/variants/s8/dr4ly2dr13ly1w8t13ly2t4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dr4ly2dr13ly1w8t13ly2t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.55</div><div class="nn-name"><a href="/ttd/edit/#slug=k4ly2k13ly1w8lo13ly2lo4~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Bannockbane Light Tan</a> <a class="nn-out" href="/variants/s8/k4ly2k13ly1w8lo13ly2lo4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4ly2k13ly1w8lo13ly2lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.67</div><div class="nn-name"><a href="/ttd/edit/#slug=ly6k6y30k8lb18k6ly3~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Cape Breton (yellow stripes)</a> <a class="nn-out" href="/variants/s7/ly6k6y30k8lb18k6ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly6k6y30k8lb18k6ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.67</div><div class="nn-name"><a href="/ttd/edit/#slug=dg2dr8dg8o3dr1w12dg2dr1~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">National Trust</a> <a class="nn-out" href="/variants/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.69</div><div class="nn-name"><a href="/ttd/edit/#slug=dg3o2dg14o1w10y14o2y3~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Bannockbane Hunting (MacBean and Bishop)</a> <a class="nn-out" href="/variants/s8/dg3o2dg14o1w10y14o2y3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg3o2dg14o1w10y14o2y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.72</div><div class="nn-name"><a href="/ttd/edit/#slug=do4ly2do13ly1w13t13ly2t4~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Bannockbane Tan</a> <a class="nn-out" href="/variants/s8/do4ly2do13ly1w13t13ly2t4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/do4ly2do13ly1w13t13ly2t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.78</div><div class="nn-name"><a href="/ttd/edit/#slug=db4dy3db21dy2w14o22dy3o4~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Bannock Bane M.407</a> <a class="nn-out" href="/variants/s8/db4dy3db21dy2w14o22dy3o4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db4dy3db21dy2w14o22dy3o4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.78</div><div class="nn-name"><a href="/ttd/edit/#slug=dt8w22dt5w4k24r6k2r6~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Unidentified (ex Tony Murray)</a> <a class="nn-out" href="/variants/s8/dt8w22dt5w4k24r6k2r6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dt8w22dt5w4k24r6k2r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.92</div><div class="nn-name"><a href="/ttd/edit/#slug=ly9k32g6w20ly3w9k5~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Black and White Golf</a> <a class="nn-out" href="/variants/s7/ly9k32g6w20ly3w9k5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly9k32g6w20ly3w9k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.94</div><div class="nn-name"><a href="/ttd/edit/#slug=r2o20k5w10k10r2~x2&amp;base=k4ly2k13ly1w8o13ly2o4~x2">Thompson Grey Family Tartan</a> <a class="nn-out" href="/variants/s6/r2o20k5w10k10r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2o20k5w10k10r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr4ly2dr13ly1w8t13ly2t4~x2/"><circle cx="163.3" cy="171.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/variants/s8/k4ly2k13ly1w8lo13ly2lo4~x2/"><circle cx="156.6" cy="169.1" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2/"><circle cx="147.5" cy="180.5" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/"><circle cx="143.4" cy="169.9" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg3o2dg14o1w10y14o2y3~x2/"><circle cx="167.2" cy="168.1" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s8/do4ly2do13ly1w13t13ly2t4~x2/"><circle cx="141.7" cy="168.9" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14o22dy3o4~x2/"><circle cx="158.8" cy="167.8" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/dt8w22dt5w4k24r6k2r6~x2/"><circle cx="139.6" cy="165.6" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="177.1" cy="174.5" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s6/r2o20k5w10k10r2~x2/"><circle cx="173.9" cy="193.4" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan</title></circle></a><circle cx="151.5" cy="167.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/k4ly2k13ly1w8o13ly2o4~x2/

@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Philippine Heritage](/setts/s5/db30w4lo1w4r30~x4/)|
-|![Philippine Heritage example sett](/setts/s5/db30w4lo1w4r30~x4/sett.png)|
-| [Philippine Heritage (Corporate)](/setts/s5/db30w4ly1w4r30~x4/)|
-|![Philippine Heritage (Corporate) example sett](/setts/s5/db30w4ly1w4r30~x4/sett.png)|
+| [Philippine Heritage](/variants/s5/db30w4lo1w4r30~x4/)|
+|![Philippine Heritage example sett](/variants/s5/db30w4lo1w4r30~x4/sett.png)|
+| [Philippine Heritage (Corporate)](/variants/s5/db30w4ly1w4r30~x4/)|
+|![Philippine Heritage (Corporate) example sett](/variants/s5/db30w4ly1w4r30~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greater St Louis Area Firefighters Highland Guard](/setts/s9/n3r3k38n25ly3n6r7n3ly2~x2/)|
-|![Greater St Louis Area Firefighters Highland Guard example sett](/setts/s9/n3r3k38n25ly3n6r7n3ly2~x2/sett.png)|
+| [Greater St Louis Area Firefighters Highland Guard](/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/)|
+|![Greater St Louis Area Firefighters Highland Guard example sett](/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/sett.png)|

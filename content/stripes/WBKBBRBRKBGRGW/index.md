@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberfeldy](/setts/s14/w2n2k2t2n32r2n2r2k13n2g16r2g2w2~x2/)|
-|![Aberfeldy example sett](/setts/s14/w2n2k2t2n32r2n2r2k13n2g16r2g2w2~x2/sett.png)|
+| [Aberfeldy](/variants/s14/w2n2k2t2n32r2n2r2k13n2g16r2g2w2~x2/)|
+|![Aberfeldy example sett](/variants/s14/w2n2k2t2n32r2n2r2k13n2g16r2g2w2~x2/sett.png)|

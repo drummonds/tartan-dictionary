@@ -6,13 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><img src="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/sett.png" alt="Grant" width="240"><br>Grant</a>
+<a class="tartan" href="/variants/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><img src="/variants/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/sett.png" alt="Grant" width="240"><br>Grant</a>
 
 ## Families
 
-- [Grant of Acharrow](/families/grant-of-acharrow/)
-- [Grant of Acharrow Artifact](/families/grant-of-acharrow-artifact/)
-- [Grant of Achnarrow Error](/families/grant-of-achnarrow-error/)
+- [Grant of Achnarrow](/families/grant-of-achnarrow/)
 - [Grant of Ballindalloch](/families/grant-of-ballindalloch/)
 - [Grant of Glenmoriston](/families/grant-of-glenmoriston/)
 - [Grant of Lurg](/families/grant-of-lurg/)

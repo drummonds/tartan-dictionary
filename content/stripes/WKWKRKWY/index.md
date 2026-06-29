@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crane of Cluny Dress (Personal)](/setts/s8/w83k6w3k9r2k5w2ly2~x2/)|
-|![Crane of Cluny Dress (Personal) example sett](/setts/s8/w83k6w3k9r2k5w2ly2~x2/sett.png)|
+| [Crane of Cluny Dress (Personal)](/variants/s8/w83k6w3k9r2k5w2ly2~x2/)|
+|![Crane of Cluny Dress (Personal) example sett](/variants/s8/w83k6w3k9r2k5w2ly2~x2/sett.png)|

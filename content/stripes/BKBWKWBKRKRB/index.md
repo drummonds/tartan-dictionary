@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Trillard (Personal)](/setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/)|
-|![Trillard (Personal) example sett](/setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/sett.png)|
+| [Trillard (Personal)](/variants/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/)|
+|![Trillard (Personal) example sett](/variants/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Russia, The](/setts/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2/)|
-|![Spirit of Russia, The example sett](/setts/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2/sett.png)|
+| [Spirit of Russia, The](/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2/)|
+|![Spirit of Russia, The example sett](/variants/s10/w4dbi2w1r2w16dbi16r16dbi12db1w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pubcrawlers (Corporate)](/setts/s7/g3dy4g2dy22n5r16ly3~x2/)|
-|![Pubcrawlers (Corporate) example sett](/setts/s7/g3dy4g2dy22n5r16ly3~x2/sett.png)|
+| [Pubcrawlers (Corporate)](/variants/s7/g3dy4g2dy22n5r16ly3~x2/)|
+|![Pubcrawlers (Corporate) example sett](/variants/s7/g3dy4g2dy22n5r16ly3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of South Korea](/setts/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/)|
-|![Spirit of South Korea example sett](/setts/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/sett.png)|
-| [Spirit of South Korea (Fashion)](/setts/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/)|
-|![Spirit of South Korea (Fashion) example sett](/setts/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png)|
+| [Spirit of South Korea](/variants/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/)|
+|![Spirit of South Korea example sett](/variants/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/sett.png)|
+| [Spirit of South Korea (Fashion)](/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/)|
+|![Spirit of South Korea (Fashion) example sett](/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png)|

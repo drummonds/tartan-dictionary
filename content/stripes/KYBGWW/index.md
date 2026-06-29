@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Porteous (Clan)](/setts/s6/k3ly3db20g25lb18w3~x2/)|
-|![Porteous (Clan) example sett](/setts/s6/k3ly3db20g25lb18w3~x2/sett.png)|
+| [Porteous (Clan)](/variants/s6/k3ly3db20g25lb18w3~x2/)|
+|![Porteous (Clan) example sett](/variants/s6/k3ly3db20g25lb18w3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forget Family (Personal)](/setts/s6/g8lo1g8lo12r1lo1~x4/)|
-|![Forget Family (Personal) example sett](/setts/s6/g8lo1g8lo12r1lo1~x4/sett.png)|
-| [Forget Family (Yonne)](/setts/s6/dg8lo1dg8lo12r1lo1~x4/)|
-|![Forget Family (Yonne) example sett](/setts/s6/dg8lo1dg8lo12r1lo1~x4/sett.png)|
+| [Forget Family (Personal)](/variants/s6/g8lo1g8lo12r1lo1~x4/)|
+|![Forget Family (Personal) example sett](/variants/s6/g8lo1g8lo12r1lo1~x4/sett.png)|
+| [Forget Family (Yonne)](/variants/s6/dg8lo1dg8lo12r1lo1~x4/)|
+|![Forget Family (Yonne) example sett](/variants/s6/dg8lo1dg8lo12r1lo1~x4/sett.png)|

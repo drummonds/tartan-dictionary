@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saltcoats (Fashion)](/setts/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/)|
-|![Saltcoats (Fashion) example sett](/setts/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/sett.png)|
+| [Saltcoats (Fashion)](/variants/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/)|
+|![Saltcoats (Fashion) example sett](/variants/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Golden Broom](/setts/s14/lg12ly3lg6r19k1ri8k2t4k2lg19k1r19k1ri9~x2/)|
-|![Golden Broom example sett](/setts/s14/lg12ly3lg6r19k1ri8k2t4k2lg19k1r19k1ri9~x2/sett.png)|
+| [Golden Broom](/variants/s14/lg12ly3lg6r19k1ri8k2t4k2lg19k1r19k1ri9~x2/)|
+|![Golden Broom example sett](/variants/s14/lg12ly3lg6r19k1ri8k2t4k2lg19k1r19k1ri9~x2/sett.png)|

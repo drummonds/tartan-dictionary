@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perry, hunting (Green)](/setts/s5/k65g27w2k4ly5~x2/)|
-|![Perry, hunting (Green) example sett](/setts/s5/k65g27w2k4ly5~x2/sett.png)|
+| [Perry, hunting (Green)](/variants/s5/k65g27w2k4ly5~x2/)|
+|![Perry, hunting (Green) example sett](/variants/s5/k65g27w2k4ly5~x2/sett.png)|

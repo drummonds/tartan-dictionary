@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bouguet, Adrian Hunting (Personal)](/setts/s12/lb15lr6dgi15lr4lbi3dgi3lbi3lr4dg15lr2w3r1~x2/)|
-|![Bouguet, Adrian Hunting (Personal) example sett](/setts/s12/lb15lr6dgi15lr4lbi3dgi3lbi3lr4dg15lr2w3r1~x2/sett.png)|
-| [Bouguet, Adrian Hunting (Personal)](/setts/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w2r1~x2/)|
-|![Bouguet, Adrian Hunting (Personal) example sett](/setts/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w2r1~x2/sett.png)|
+| [Bouguet, Adrian Hunting (Personal)](/variants/s12/lb15lr6dgi15lr4lbi3dgi3lbi3lr4dg15lr2w3r1~x2/)|
+|![Bouguet, Adrian Hunting (Personal) example sett](/variants/s12/lb15lr6dgi15lr4lbi3dgi3lbi3lr4dg15lr2w3r1~x2/sett.png)|
+| [Bouguet, Adrian Hunting (Personal)](/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w2r1~x2/)|
+|![Bouguet, Adrian Hunting (Personal) example sett](/variants/s12/lb15lo6g15lo4lbi3g3lbi3lo4dg15lo2w2r1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fueglistal](/setts/s9/k3lo6lb13r2lb2r32lb1r2lb1~x2/)|
-|![Fueglistal example sett](/setts/s9/k3lo6lb13r2lb2r32lb1r2lb1~x2/sett.png)|
+| [Fueglistal](/variants/s9/k3lo6lb13r2lb2r32lb1r2lb1~x2/)|
+|![Fueglistal example sett](/variants/s9/k3lo6lb13r2lb2r32lb1r2lb1~x2/sett.png)|

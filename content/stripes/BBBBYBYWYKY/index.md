@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lieuwen (2013)](/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/)|
-|![Lieuwen (2013) example sett](/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/sett.png)|
+| [Lieuwen (2013)](/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/)|
+|![Lieuwen (2013) example sett](/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/sett.png)|

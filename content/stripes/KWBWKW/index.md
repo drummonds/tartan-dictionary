@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ikelman No 1](/setts/s6/w8k16w2db2w1k1~x4/)|
-|![Ikelman No 1 example sett](/setts/s6/w8k16w2db2w1k1~x4/sett.png)|
+| [Ikelman No 1](/variants/s6/w8k16w2db2w1k1~x4/)|
+|![Ikelman No 1 example sett](/variants/s6/w8k16w2db2w1k1~x4/sett.png)|

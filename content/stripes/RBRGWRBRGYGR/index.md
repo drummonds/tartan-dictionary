@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mair (Personal)](/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/)|
-|![Mair (Personal) example sett](/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/sett.png)|
+| [Mair (Personal)](/variants/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/)|
+|![Mair (Personal) example sett](/variants/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Staffa #5](/setts/s14/ri2r4dg2db2r6dg14r2db2dg2r12dg7ri2r5w1~x2/)|
-|![MacDonald of Staffa #5 example sett](/setts/s14/ri2r4dg2db2r6dg14r2db2dg2r12dg7ri2r5w1~x2/sett.png)|
-| [MacDonald of Staffa 4](/setts/s14/ri2r4g2db2r6g14r2db2g2r12g7ri2r5w1~x2/)|
-|![MacDonald of Staffa 4 example sett](/setts/s14/ri2r4g2db2r6g14r2db2g2r12g7ri2r5w1~x2/sett.png)|
+| [MacDonald of Staffa #5](/variants/s14/ri2r4dg2db2r6dg14r2db2dg2r12dg7ri2r5w1~x2/)|
+|![MacDonald of Staffa #5 example sett](/variants/s14/ri2r4dg2db2r6dg14r2db2dg2r12dg7ri2r5w1~x2/sett.png)|
+| [MacDonald of Staffa 4](/variants/s14/ri2r4g2db2r6g14r2db2g2r12g7ri2r5w1~x2/)|
+|![MacDonald of Staffa 4 example sett](/variants/s14/ri2r4g2db2r6g14r2db2g2r12g7ri2r5w1~x2/sett.png)|

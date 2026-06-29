@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tindal](/setts/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/)|
-|![Tindal example sett](/setts/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/sett.png)|
+| [Tindal](/variants/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/)|
+|![Tindal example sett](/variants/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/sett.png)|

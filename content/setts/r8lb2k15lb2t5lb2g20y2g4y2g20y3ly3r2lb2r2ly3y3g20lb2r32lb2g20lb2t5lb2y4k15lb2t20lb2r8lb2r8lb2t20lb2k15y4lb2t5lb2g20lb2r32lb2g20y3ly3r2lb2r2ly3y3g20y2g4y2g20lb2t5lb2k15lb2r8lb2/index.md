@@ -1,0 +1,5 @@
+---
+title: "Hunter"
+redirect: "/variants/s66/r8lb2k15lb2t5lb2g20y2g4y2g20y3ly3r2lb2r2ly3y3g20lb2r32lb2g20lb2t5lb2y4k15lb2t20lb2r8lb2r8lb2t20lb2k15y4lb2t5lb2g20lb2r32lb2g20y3ly3r2lb2r2ly3y3g20y2g4y2g20lb2t5lb2k15lb2r8lb2/"
+---
+This sett is recorded as a single cloth — redirecting to [Hunter](/variants/s66/r8lb2k15lb2t5lb2g20y2g4y2g20y3ly3r2lb2r2ly3y3g20lb2r32lb2g20lb2t5lb2y4k15lb2t20lb2r8lb2r8lb2t20lb2k15y4lb2t5lb2g20lb2r32lb2g20y3ly3r2lb2r2ly3y3g20y2g4y2g20lb2t5lb2k15lb2r8lb2/).

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sullivan of Braemar](/setts/s8/k8ly4k16db10r19db10w2r6~x2/)|
-|![Sullivan of Braemar example sett](/setts/s8/k8ly4k16db10r19db10w2r6~x2/sett.png)|
+| [Sullivan of Braemar](/variants/s8/k8ly4k16db10r19db10w2r6~x2/)|
+|![Sullivan of Braemar example sett](/variants/s8/k8ly4k16db10r19db10w2r6~x2/sett.png)|

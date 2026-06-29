@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan Dress Blue (Dance)](/setts/s6/w5db16w5db16w33r3~x2/)|
-|![Buchanan Dress Blue (Dance) example sett](/setts/s6/w5db16w5db16w33r3~x2/sett.png)|
+| [Buchanan Dress Blue (Dance)](/variants/s6/w5db16w5db16w33r3~x2/)|
+|![Buchanan Dress Blue (Dance) example sett](/variants/s6/w5db16w5db16w33r3~x2/sett.png)|

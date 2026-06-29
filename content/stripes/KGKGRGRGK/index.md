@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gaelic Society of Moscow (Corporate)](/setts/s9/k15g2k2g4r2g2r2g2k2~x2/)|
-|![Gaelic Society of Moscow (Corporate) example sett](/setts/s9/k15g2k2g4r2g2r2g2k2~x2/sett.png)|
+| [Gaelic Society of Moscow (Corporate)](/variants/s9/k15g2k2g4r2g2r2g2k2~x2/)|
+|![Gaelic Society of Moscow (Corporate) example sett](/variants/s9/k15g2k2g4r2g2r2g2k2~x2/sett.png)|

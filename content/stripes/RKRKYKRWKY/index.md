@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C20th - Skirt](/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/)|
-|![Unnamed C20th - Skirt example sett](/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/sett.png)|
+| [Unnamed C20th - Skirt](/variants/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/)|
+|![Unnamed C20th - Skirt example sett](/variants/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/sett.png)|

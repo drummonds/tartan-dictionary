@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland’s Golf Coast](/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/)|
-|![Scotland’s Golf Coast example sett](/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/sett.png)|
+| [Scotland’s Golf Coast](/variants/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/)|
+|![Scotland’s Golf Coast example sett](/variants/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/sett.png)|

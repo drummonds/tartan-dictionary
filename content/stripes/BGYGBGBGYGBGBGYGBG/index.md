@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Hospice](/setts/s18/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/)|
-|![Highland Hospice example sett](/setts/s18/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/sett.png)|
+| [Highland Hospice](/variants/s18/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/)|
+|![Highland Hospice example sett](/variants/s18/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/sett.png)|

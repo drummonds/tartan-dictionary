@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaw Dress (Personal)](/setts/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6t3~x2/)|
-|![Shaw Dress (Personal) example sett](/setts/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6t3~x2/sett.png)|
+| [Shaw Dress (Personal)](/variants/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6t3~x2/)|
+|![Shaw Dress (Personal) example sett](/variants/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6t3~x2/sett.png)|

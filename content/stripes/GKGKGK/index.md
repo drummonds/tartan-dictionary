@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carnet (Fashion)](/setts/s6/k6dg3k3dg11k1dg2~x4/)|
-|![Carnet (Fashion) example sett](/setts/s6/k6dg3k3dg11k1dg2~x4/sett.png)|
+| [Carnet (Fashion)](/variants/s6/k6dg3k3dg11k1dg2~x4/)|
+|![Carnet (Fashion) example sett](/variants/s6/k6dg3k3dg11k1dg2~x4/sett.png)|

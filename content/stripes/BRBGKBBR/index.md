@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDuff Hunting](/setts/s8/do10r2do10g17k12db9do9r2~x2/)|
-|![MacDuff Hunting example sett](/setts/s8/do10r2do10g17k12db9do9r2~x2/sett.png)|
-| [Wcwm 1310](/setts/s8/do10r3do10g14k12db12do14r4~x2/)|
-|![Wcwm 1310 example sett](/setts/s8/do10r3do10g14k12db12do14r4~x2/sett.png)|
+| [MacDuff Hunting](/variants/s8/do10r2do10g17k12db9do9r2~x2/)|
+|![MacDuff Hunting example sett](/variants/s8/do10r2do10g17k12db9do9r2~x2/sett.png)|
+| [Wcwm 1310](/variants/s8/do10r3do10g14k12db12do14r4~x2/)|
+|![Wcwm 1310 example sett](/variants/s8/do10r3do10g14k12db12do14r4~x2/sett.png)|

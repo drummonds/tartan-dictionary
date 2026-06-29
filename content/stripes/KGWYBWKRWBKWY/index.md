@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mazarian](/setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/)|
-|![Mazarian example sett](/setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/sett.png)|
-| [Nazarian (Personal)](/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/)|
-|![Nazarian (Personal) example sett](/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/sett.png)|
+| [Mazarian](/variants/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/)|
+|![Mazarian example sett](/variants/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/sett.png)|
+| [Nazarian (Personal)](/variants/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/)|
+|![Nazarian (Personal) example sett](/variants/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/sett.png)|

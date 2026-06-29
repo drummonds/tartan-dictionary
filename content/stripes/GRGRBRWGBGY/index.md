@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hunter (USA)](/setts/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/)|
-|![Hunter (USA) example sett](/setts/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/sett.png)|
+| [Hunter (USA)](/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/)|
+|![Hunter (USA) example sett](/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/sett.png)|

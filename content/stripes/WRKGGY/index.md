@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tyrolean (Fashion?)](/setts/s6/w3r22k18g10dy6ly3~x2/)|
-|![Tyrolean (Fashion?) example sett](/setts/s6/w3r22k18g10dy6ly3~x2/sett.png)|
+| [Tyrolean (Fashion?)](/variants/s6/w3r22k18g10dy6ly3~x2/)|
+|![Tyrolean (Fashion?) example sett](/variants/s6/w3r22k18g10dy6ly3~x2/sett.png)|

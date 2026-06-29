@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diamond Jubilee (Lochcarron) (Comm.)](/setts/s10/dp46db12lo3db3lb3dp11dbi5db2dbi7w2~x2/)|
-|![Diamond Jubilee (Lochcarron) (Comm.) example sett](/setts/s10/dp46db12lo3db3lb3dp11dbi5db2dbi7w2~x2/sett.png)|
+| [Diamond Jubilee (Lochcarron) (Comm.)](/variants/s10/dp46db12lo3db3lb3dp11dbi5db2dbi7w2~x2/)|
+|![Diamond Jubilee (Lochcarron) (Comm.) example sett](/variants/s10/dp46db12lo3db3lb3dp11dbi5db2dbi7w2~x2/sett.png)|

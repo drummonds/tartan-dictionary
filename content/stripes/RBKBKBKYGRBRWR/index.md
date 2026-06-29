@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonia Variant](/setts/s14/r7t3k2t2k2t3k6ly2dg7r4db2r4w2r5~x2/)|
-|![Caledonia Variant example sett](/setts/s14/r7t3k2t2k2t3k6ly2dg7r4db2r4w2r5~x2/sett.png)|
-| [Caledonia, Variant](/setts/s14/r7t3k2t2k2t3k6ly2g7r4db2r4w2r5~x2/)|
-|![Caledonia, Variant example sett](/setts/s14/r7t3k2t2k2t3k6ly2g7r4db2r4w2r5~x2/sett.png)|
+| [Caledonia Variant](/variants/s14/r7t3k2t2k2t3k6ly2dg7r4db2r4w2r5~x2/)|
+|![Caledonia Variant example sett](/variants/s14/r7t3k2t2k2t3k6ly2dg7r4db2r4w2r5~x2/sett.png)|
+| [Caledonia, Variant](/variants/s14/r7t3k2t2k2t3k6ly2g7r4db2r4w2r5~x2/)|
+|![Caledonia, Variant example sett](/variants/s14/r7t3k2t2k2t3k6ly2g7r4db2r4w2r5~x2/sett.png)|

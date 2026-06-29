@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCallum of Berwick](/setts/s9/db10r7db31k25dg23k8db7k8ly5~x2/)|
-|![MacCallum of Berwick example sett](/setts/s9/db10r7db31k25dg23k8db7k8ly5~x2/sett.png)|
-| [MacCallum, of Berwick](/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/)|
-|![MacCallum, of Berwick example sett](/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/sett.png)|
+| [MacCallum of Berwick](/variants/s9/db10r7db31k25dg23k8db7k8ly5~x2/)|
+|![MacCallum of Berwick example sett](/variants/s9/db10r7db31k25dg23k8db7k8ly5~x2/sett.png)|
+| [MacCallum, of Berwick](/variants/s9/db10r7db31k25g23k8db7k8ly5~x2/)|
+|![MacCallum, of Berwick example sett](/variants/s9/db10r7db31k25g23k8db7k8ly5~x2/sett.png)|

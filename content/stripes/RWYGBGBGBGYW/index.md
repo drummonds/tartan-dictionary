@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4~x2/)|
-|![Walter (Personal) example sett](/setts/s12/r24w3ly4dg18dp18y3t4~x2/sett.png)|
+| [Walter (Personal)](/variants/s12/r24w3ly4dg18dp18y3t4~x2/)|
+|![Walter (Personal) example sett](/variants/s12/r24w3ly4dg18dp18y3t4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie Silver](/setts/s7/r3n20k2n20o20lb20r3~x2/)|
-|![Brodie Silver example sett](/setts/s7/r3n20k2n20o20lb20r3~x2/sett.png)|
+| [Brodie Silver](/variants/s7/r3n20k2n20o20lb20r3~x2/)|
+|![Brodie Silver example sett](/variants/s7/r3n20k2n20o20lb20r3~x2/sett.png)|

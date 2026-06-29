@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Friends of Scotland Caucus](/setts/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/)|
-|![Friends of Scotland Caucus example sett](/setts/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/sett.png)|
+| [Friends of Scotland Caucus](/variants/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/)|
+|![Friends of Scotland Caucus example sett](/variants/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/sett.png)|

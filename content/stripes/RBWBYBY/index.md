@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Legion Branch 50](/setts/s7/r68db9lb10db13lo1db1lo2~x2/)|
-|![Canadian Legion Branch 50 example sett](/setts/s7/r68db9lb10db13lo1db1lo2~x2/sett.png)|
+| [Canadian Legion Branch 50](/variants/s7/r68db9lb10db13lo1db1lo2~x2/)|
+|![Canadian Legion Branch 50 example sett](/variants/s7/r68db9lb10db13lo1db1lo2~x2/sett.png)|

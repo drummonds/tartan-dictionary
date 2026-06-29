@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shembe Zulu Church](/setts/s5/k5w25r6k45w4~x2/)|
-|![Shembe Zulu Church example sett](/setts/s5/k5w25r6k45w4~x2/sett.png)|
+| [Shembe Zulu Church](/variants/s5/k5w25r6k45w4~x2/)|
+|![Shembe Zulu Church example sett](/variants/s5/k5w25r6k45w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nunavut Territory (District)](/setts/s7/db60w1ly4k4w1lp8w2~x2/)|
-|![Nunavut Territory (District) example sett](/setts/s7/db60w1ly4k4w1lp8w2~x2/sett.png)|
+| [Nunavut Territory (District)](/variants/s7/db60w1ly4k4w1lp8w2~x2/)|
+|![Nunavut Territory (District) example sett](/variants/s7/db60w1ly4k4w1lp8w2~x2/sett.png)|

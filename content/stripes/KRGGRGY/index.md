@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crossbill](/setts/s7/k2m15dy15g15r2g3ly2~x2/)|
-|![Crossbill example sett](/setts/s7/k2m15dy15g15r2g3ly2~x2/sett.png)|
+| [Crossbill](/variants/s7/k2m15dy15g15r2g3ly2~x2/)|
+|![Crossbill example sett](/variants/s7/k2m15dy15g15r2g3ly2~x2/sett.png)|

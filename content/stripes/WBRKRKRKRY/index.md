@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Golfers](/setts/s10/lo4r2k9r25k3r2k3r4db15w3~x2/)|
-|![Golfers example sett](/setts/s10/lo4r2k9r25k3r2k3r4db15w3~x2/sett.png)|
-| [Royal & Ancient/Golfing Stewart](/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/)|
-|![Royal & Ancient/Golfing Stewart example sett](/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/sett.png)|
+| [Golfers](/variants/s10/lo4r2k9r25k3r2k3r4db15w3~x2/)|
+|![Golfers example sett](/variants/s10/lo4r2k9r25k3r2k3r4db15w3~x2/sett.png)|
+| [Royal & Ancient/Golfing Stewart](/variants/s10/ly4r2k9r25k3r2k3r4db15w3~x2/)|
+|![Royal & Ancient/Golfing Stewart example sett](/variants/s10/ly4r2k9r25k3r2k3r4db15w3~x2/sett.png)|

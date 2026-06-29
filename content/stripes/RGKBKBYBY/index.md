@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bell of the Borders.](/setts/s9/r3g2k9b2k2b24ly2b2ly1~x2/)|
-|![Bell of the Borders. example sett](/setts/s9/r3g2k9b2k2b24ly2b2ly1~x2/sett.png)|
+| [Bell of the Borders.](/variants/s9/r3g2k9b2k2b24ly2b2ly1~x2/)|
+|![Bell of the Borders. example sett](/variants/s9/r3g2k9b2k2b24ly2b2ly1~x2/sett.png)|

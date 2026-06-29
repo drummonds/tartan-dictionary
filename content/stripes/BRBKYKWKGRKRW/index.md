@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince Albert](/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/)|
-|![Prince Albert example sett](/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/sett.png)|
-| [Prince Albert](/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/)|
-|![Prince Albert example sett](/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/sett.png)|
+| [Prince Albert](/variants/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/)|
+|![Prince Albert example sett](/variants/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/sett.png)|
+| [Prince Albert](/variants/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/)|
+|![Prince Albert example sett](/variants/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/sett.png)|

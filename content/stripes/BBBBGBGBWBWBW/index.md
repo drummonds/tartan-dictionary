@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Watch Dress, Brown/Grey (Fash)](/setts/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/)|
-|![Black Watch Dress, Brown/Grey (Fash) example sett](/setts/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/sett.png)|
+| [Black Watch Dress, Brown/Grey (Fash)](/variants/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/)|
+|![Black Watch Dress, Brown/Grey (Fash) example sett](/variants/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/sett.png)|

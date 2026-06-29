@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balamory](/setts/s14/b9lbi4dt2lbi2dt2lbi4dt10b1lbi16b9w2b9lb2b9~x2/)|
-|![Balamory example sett](/setts/s14/b9lbi4dt2lbi2dt2lbi4dt10b1lbi16b9w2b9lb2b9~x2/sett.png)|
+| [Balamory](/variants/s14/b9lbi4dt2lbi2dt2lbi4dt10b1lbi16b9w2b9lb2b9~x2/)|
+|![Balamory example sett](/variants/s14/b9lbi4dt2lbi2dt2lbi4dt10b1lbi16b9w2b9lb2b9~x2/sett.png)|

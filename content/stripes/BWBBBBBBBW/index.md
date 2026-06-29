@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Covenant College (Corporate)](/setts/s10/t4dt2t1dt23lb2t2~x2/)|
-|![Covenant College (Corporate) example sett](/setts/s10/t4dt2t1dt23lb2t2~x2/sett.png)|
+| [Covenant College (Corporate)](/variants/s10/t4dt2t1dt23lb2t2~x2/)|
+|![Covenant College (Corporate) example sett](/variants/s10/t4dt2t1dt23lb2t2~x2/sett.png)|

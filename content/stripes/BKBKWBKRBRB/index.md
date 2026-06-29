@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ibrox](/setts/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/)|
-|![Ibrox example sett](/setts/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/sett.png)|
+| [Ibrox](/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/)|
+|![Ibrox example sett](/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/sett.png)|

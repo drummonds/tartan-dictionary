@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Akins Clan (Personal)](/setts/s8/ri21r3ri3r3ri3db19g22lt3~x2/)|
-|![Akins Clan (Personal) example sett](/setts/s8/ri21r3ri3r3ri3db19g22lt3~x2/sett.png)|
+| [Akins Clan (Personal)](/variants/s8/ri21r3ri3r3ri3db19g22lt3~x2/)|
+|![Akins Clan (Personal) example sett](/variants/s8/ri21r3ri3r3ri3db19g22lt3~x2/sett.png)|

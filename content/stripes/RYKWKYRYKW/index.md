@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westwood MacStone (Fashion)](/setts/s10/w2k13lo13r2lo13k13w2k6lo6r1~x2/)|
-|![Westwood MacStone (Fashion) example sett](/setts/s10/w2k13lo13r2lo13k13w2k6lo6r1~x2/sett.png)|
+| [Westwood MacStone (Fashion)](/variants/s10/w2k13lo13r2lo13k13w2k6lo6r1~x2/)|
+|![Westwood MacStone (Fashion) example sett](/variants/s10/w2k13lo13r2lo13k13w2k6lo6r1~x2/sett.png)|

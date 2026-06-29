@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diamond Jubilee](/setts/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/)|
-|![Diamond Jubilee example sett](/setts/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/sett.png)|
+| [Diamond Jubilee](/variants/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/)|
+|![Diamond Jubilee example sett](/variants/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/sett.png)|

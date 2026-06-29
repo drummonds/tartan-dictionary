@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacInroy (Rattray)](/setts/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/)|
-|![MacInroy (Rattray) example sett](/setts/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/sett.png)|
-| [Rattray of Lude](/setts/s10/k1g8k4r1db8r1db1r8g1w1~x4/)|
-|![Rattray of Lude example sett](/setts/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png)|
+| [MacInroy (Rattray)](/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/)|
+|![MacInroy (Rattray) example sett](/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/sett.png)|
+| [Rattray of Lude](/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/)|
+|![Rattray of Lude example sett](/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png)|

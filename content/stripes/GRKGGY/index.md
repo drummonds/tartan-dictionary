@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jack (Personal)](/setts/s6/g4r52k20dy9g2lo1~x2/)|
-|![Jack (Personal) example sett](/setts/s6/g4r52k20dy9g2lo1~x2/sett.png)|
+| [Jack (Personal)](/variants/s6/g4r52k20dy9g2lo1~x2/)|
+|![Jack (Personal) example sett](/variants/s6/g4r52k20dy9g2lo1~x2/sett.png)|

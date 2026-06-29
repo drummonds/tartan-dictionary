@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Spring (1985) (Corporate)](/setts/s12/r16k2r9ki12ki2ki10ki3k2ki3k2ki3r10~x2/)|
-|![Highland Spring (1985) (Corporate) example sett](/setts/s12/r16k2r9ki12ki2ki10ki3k2ki3k2ki3r10~x2/sett.png)|
+| [Highland Spring (1985) (Corporate)](/variants/s12/r16k2r9ki12ki2ki10ki3k2ki3k2ki3r10~x2/)|
+|![Highland Spring (1985) (Corporate) example sett](/variants/s12/r16k2r9ki12ki2ki10ki3k2ki3k2ki3r10~x2/sett.png)|

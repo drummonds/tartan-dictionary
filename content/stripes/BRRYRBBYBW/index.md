@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University of Dundee](/setts/s10/dbi5o4r6lo1r9db35dbi5lo1dbi12w1~x2/)|
-|![University of Dundee example sett](/setts/s10/dbi5o4r6lo1r9db35dbi5lo1dbi12w1~x2/sett.png)|
+| [University of Dundee](/variants/s10/dbi5o4r6lo1r9db35dbi5lo1dbi12w1~x2/)|
+|![University of Dundee example sett](/variants/s10/dbi5o4r6lo1r9db35dbi5lo1dbi12w1~x2/sett.png)|

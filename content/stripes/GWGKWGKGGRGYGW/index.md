@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reilly fae the Mearns](/setts/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/)|
-|![Reilly fae the Mearns example sett](/setts/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/sett.png)|
-| [Reilly fae the Mearns (Personal)](/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/)|
-|![Reilly fae the Mearns (Personal) example sett](/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/sett.png)|
+| [Reilly fae the Mearns](/variants/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/)|
+|![Reilly fae the Mearns example sett](/variants/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/sett.png)|
+| [Reilly fae the Mearns (Personal)](/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/)|
+|![Reilly fae the Mearns (Personal) example sett](/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/sett.png)|

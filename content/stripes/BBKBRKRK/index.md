@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brave for Men](/setts/s8/k5o5k5o34do33k6do5t2/)|
-|![Brave for Men example sett](/setts/s8/k5o5k5o34do33k6do5t2/sett.png)|
+| [Brave for Men](/variants/s8/k5o5k5o34do33k6do5t2/)|
+|![Brave for Men example sett](/variants/s8/k5o5k5o34do33k6do5t2/sett.png)|

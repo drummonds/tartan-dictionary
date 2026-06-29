@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sreijsener (Name)](/setts/s8/r8m12k6m33k72o6k8w6/)|
-|![Sreijsener (Name) example sett](/setts/s8/r8m12k6m33k72o6k8w6/sett.png)|
+| [Sreijsener (Name)](/variants/s8/r8m12k6m33k72o6k8w6/)|
+|![Sreijsener (Name) example sett](/variants/s8/r8m12k6m33k72o6k8w6/sett.png)|

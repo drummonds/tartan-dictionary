@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eire](/setts/s9/dg6lr2dg10k3r1k3lo10lr2lo6~x4/)|
-|![Eire example sett](/setts/s9/dg6lr2dg10k3r1k3lo10lr2lo6~x4/sett.png)|
-| [Eire (District?)](/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/)|
-|![Eire (District?) example sett](/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/sett.png)|
+| [Eire](/variants/s9/dg6lr2dg10k3r1k3lo10lr2lo6~x4/)|
+|![Eire example sett](/variants/s9/dg6lr2dg10k3r1k3lo10lr2lo6~x4/sett.png)|
+| [Eire (District?)](/variants/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/)|
+|![Eire (District?) example sett](/variants/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/sett.png)|

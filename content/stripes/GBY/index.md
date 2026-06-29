@@ -24,9 +24,9 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gearach Woodcock Tweed (Corporate)](/setts/s3/dy2t1lo1~x2/)|
-|![Gearach Woodcock Tweed (Corporate) example sett](/setts/s3/dy2t1lo1~x2/sett.png)|
-| [Unidentified pattern #2](/setts/s3/dg12db3ly1~x4/)|
-|![Unidentified pattern #2 example sett](/setts/s3/dg12db3ly1~x4/sett.png)|
-| [Unidentified, pattern](/setts/s3/g12db3ly1~x4/)|
-|![Unidentified, pattern example sett](/setts/s3/g12db3ly1~x4/sett.png)|
+| [Gearach Woodcock Tweed (Corporate)](/variants/s3/dy2t1lo1~x2/)|
+|![Gearach Woodcock Tweed (Corporate) example sett](/variants/s3/dy2t1lo1~x2/sett.png)|
+| [Unidentified pattern #2](/variants/s3/dg12db3ly1~x4/)|
+|![Unidentified pattern #2 example sett](/variants/s3/dg12db3ly1~x4/sett.png)|
+| [Unidentified, pattern](/variants/s3/g12db3ly1~x4/)|
+|![Unidentified, pattern example sett](/variants/s3/g12db3ly1~x4/sett.png)|

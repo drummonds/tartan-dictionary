@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robertson Dress (Dalgleish) #2](/setts/s8/db24r4g24r4w20r10g3w4~x2/)|
-|![Robertson Dress (Dalgleish) #2 example sett](/setts/s8/db24r4g24r4w20r10g3w4~x2/sett.png)|
+| [Robertson Dress (Dalgleish) #2](/variants/s8/db24r4g24r4w20r10g3w4~x2/)|
+|![Robertson Dress (Dalgleish) #2 example sett](/variants/s8/db24r4g24r4w20r10g3w4~x2/sett.png)|

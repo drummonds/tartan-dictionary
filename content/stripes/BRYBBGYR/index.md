@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hawaii (District)](/setts/s8/t4r1ly1t12do4y10ly1r3~x4/)|
-|![Hawaii (District) example sett](/setts/s8/t4r1ly1t12do4y10ly1r3~x4/sett.png)|
+| [Hawaii (District)](/variants/s8/t4r1ly1t12do4y10ly1r3~x4/)|
+|![Hawaii (District) example sett](/variants/s8/t4r1ly1t12do4y10ly1r3~x4/sett.png)|

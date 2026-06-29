@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKay](/setts/s7/db8dg8db1dg8k8db8ly2~x2/)|
-|![MacKay example sett](/setts/s7/db8dg8db1dg8k8db8ly2~x2/sett.png)|
-| [MacKay](/setts/s7/db8g8db1g8k8db8ly2~x2/)|
-|![MacKay example sett](/setts/s7/db8g8db1g8k8db8ly2~x2/sett.png)|
+| [MacKay](/variants/s7/db8dg8db1dg8k8db8ly2~x2/)|
+|![MacKay example sett](/variants/s7/db8dg8db1dg8k8db8ly2~x2/sett.png)|
+| [MacKay](/variants/s7/db8g8db1g8k8db8ly2~x2/)|
+|![MacKay example sett](/variants/s7/db8g8db1g8k8db8ly2~x2/sett.png)|

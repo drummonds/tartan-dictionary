@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dogrobes](/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/)|
-|![Dogrobes example sett](/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/sett.png)|
+| [Dogrobes](/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/)|
+|![Dogrobes example sett](/variants/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/sett.png)|

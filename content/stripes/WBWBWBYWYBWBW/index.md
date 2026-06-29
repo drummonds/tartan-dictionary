@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Poulter, Pink (Corporate)](/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/)|
-|![Poulter, Pink (Corporate) example sett](/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/sett.png)|
+| [Poulter, Pink (Corporate)](/variants/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/)|
+|![Poulter, Pink (Corporate) example sett](/variants/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/sett.png)|

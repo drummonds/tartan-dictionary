@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peter of Lee (Chief) (Personal)](/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/)|
-|![Peter of Lee (Chief) (Personal) example sett](/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/sett.png)|
+| [Peter of Lee (Chief) (Personal)](/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/)|
+|![Peter of Lee (Chief) (Personal) example sett](/variants/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/sett.png)|

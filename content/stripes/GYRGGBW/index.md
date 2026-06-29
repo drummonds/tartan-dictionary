@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Christmas Hill Game Farm](/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/)|
-|![Christmas Hill Game Farm example sett](/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/sett.png)|
+| [Christmas Hill Game Farm](/variants/s7/dy5lo20r3dg13dy13dp3lt3~x2/)|
+|![Christmas Hill Game Farm example sett](/variants/s7/dy5lo20r3dg13dy13dp3lt3~x2/sett.png)|

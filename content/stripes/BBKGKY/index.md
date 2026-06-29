@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smith, Sir William (?)](/setts/s6/t3db18k20g20k1ly3~x2/)|
-|![Smith, Sir William (?) example sett](/setts/s6/t3db18k20g20k1ly3~x2/sett.png)|
+| [Smith, Sir William (?)](/variants/s6/t3db18k20g20k1ly3~x2/)|
+|![Smith, Sir William (?) example sett](/variants/s6/t3db18k20g20k1ly3~x2/sett.png)|

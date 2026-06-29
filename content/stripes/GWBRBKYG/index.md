@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mull Millenium Tartan](/setts/s8/g91ly3k28n18r12dt18w2g12/)|
-|![Mull Millenium Tartan example sett](/setts/s8/g91ly3k28n18r12dt18w2g12/sett.png)|
-| [Mull Millennium](/setts/s8/g92ly3k28n18r12db18w2g12/)|
-|![Mull Millennium example sett](/setts/s8/g92ly3k28n18r12db18w2g12/sett.png)|
+| [Mull Millenium Tartan](/variants/s8/g91ly3k28n18r12dt18w2g12/)|
+|![Mull Millenium Tartan example sett](/variants/s8/g91ly3k28n18r12dt18w2g12/sett.png)|
+| [Mull Millennium](/variants/s8/g92ly3k28n18r12db18w2g12/)|
+|![Mull Millennium example sett](/variants/s8/g92ly3k28n18r12db18w2g12/sett.png)|

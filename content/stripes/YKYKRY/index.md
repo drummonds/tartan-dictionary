@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Masai Shuka 16 (Artefact)](/setts/s6/ly8k3ly4k2r30ly6~x2/)|
-|![Masai Shuka 16 (Artefact) example sett](/setts/s6/ly8k3ly4k2r30ly6~x2/sett.png)|
+| [Masai Shuka 16 (Artefact)](/variants/s6/ly8k3ly4k2r30ly6~x2/)|
+|![Masai Shuka 16 (Artefact) example sett](/variants/s6/ly8k3ly4k2r30ly6~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [British Judo Association](/setts/s6/ri28r1b18ly2g6b18~x2/)|
-|![British Judo Association example sett](/setts/s6/ri28r1b18ly2g6b18~x2/sett.png)|
-| [European Judo Union](/setts/s6/ri28r1db18ly2g1db18~x2/)|
-|![European Judo Union example sett](/setts/s6/ri28r1db18ly2g1db18~x2/sett.png)|
+| [British Judo Association](/variants/s6/ri28r1b18ly2g6b18~x2/)|
+|![British Judo Association example sett](/variants/s6/ri28r1b18ly2g6b18~x2/sett.png)|
+| [European Judo Union](/variants/s6/ri28r1db18ly2g1db18~x2/)|
+|![European Judo Union example sett](/variants/s6/ri28r1db18ly2g1db18~x2/sett.png)|

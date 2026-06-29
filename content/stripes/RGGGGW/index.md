@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galloway Hunting](/setts/s6/r3gi2g32gi32g2w3~x2/)|
-|![Galloway Hunting example sett](/setts/s6/r3gi2g32gi32g2w3~x2/sett.png)|
-| [Galloway, hunting](/setts/s6/r3dg1g32dg32g1w3~x2/)|
-|![Galloway, hunting example sett](/setts/s6/r3dg1g32dg32g1w3~x2/sett.png)|
+| [Galloway Hunting](/variants/s6/r3gi2g32gi32g2w3~x2/)|
+|![Galloway Hunting example sett](/variants/s6/r3gi2g32gi32g2w3~x2/sett.png)|
+| [Galloway, hunting](/variants/s6/r3dg1g32dg32g1w3~x2/)|
+|![Galloway, hunting example sett](/variants/s6/r3dg1g32dg32g1w3~x2/sett.png)|

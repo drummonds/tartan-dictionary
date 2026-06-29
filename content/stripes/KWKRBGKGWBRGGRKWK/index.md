@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brinkie's Brae](/setts/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/)|
-|![Brinkie's Brae example sett](/setts/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/sett.png)|
+| [Brinkie's Brae](/variants/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/)|
+|![Brinkie's Brae example sett](/variants/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/sett.png)|

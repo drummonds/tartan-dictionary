@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barbecue Presbyterian Church](/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/)|
-|![Barbecue Presbyterian Church example sett](/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/sett.png)|
+| [Barbecue Presbyterian Church](/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/)|
+|![Barbecue Presbyterian Church example sett](/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manderson (Personal)](/setts/s11/k8n22n8dg16k24dr8dg32lbi32dr7lbi12lb4/)|
-|![Manderson (Personal) example sett](/setts/s11/k8n22n8dg16k24dr8dg32lbi32dr7lbi12lb4/sett.png)|
+| [Manderson (Personal)](/variants/s11/k8n22n8dg16k24dr8dg32lbi32dr7lbi12lb4/)|
+|![Manderson (Personal) example sett](/variants/s11/k8n22n8dg16k24dr8dg32lbi32dr7lbi12lb4/sett.png)|

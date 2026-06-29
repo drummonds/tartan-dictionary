@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tarbh Deargh (Red Bull)](/setts/s4/w80db30lo5ly4~x2/)|
-|![Tarbh Deargh (Red Bull) example sett](/setts/s4/w80db30lo5ly4~x2/sett.png)|
+| [Tarbh Deargh (Red Bull)](/variants/s4/w80db30lo5ly4~x2/)|
+|![Tarbh Deargh (Red Bull) example sett](/variants/s4/w80db30lo5ly4~x2/sett.png)|

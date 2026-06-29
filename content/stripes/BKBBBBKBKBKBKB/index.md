@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Payne](/setts/s14/dbi2ki1dbi4db5dp3db20ki8dbi4ki1dbi2ki1dbi33k1dbi1~x2/)|
-|![Payne example sett](/setts/s14/dbi2ki1dbi4db5dp3db20ki8dbi4ki1dbi2ki1dbi33k1dbi1~x2/sett.png)|
+| [Payne](/variants/s14/dbi2ki1dbi4db5dp3db20ki8dbi4ki1dbi2ki1dbi33k1dbi1~x2/)|
+|![Payne example sett](/variants/s14/dbi2ki1dbi4db5dp3db20ki8dbi4ki1dbi2ki1dbi33k1dbi1~x2/sett.png)|

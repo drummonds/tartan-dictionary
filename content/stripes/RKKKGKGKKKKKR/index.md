@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Metropolitan Atlanta Police](/setts/s13/r2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2r2~x2/)|
-|![Metropolitan Atlanta Police example sett](/setts/s13/r2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2r2~x2/sett.png)|
+| [Metropolitan Atlanta Police](/variants/s13/r2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2r2~x2/)|
+|![Metropolitan Atlanta Police example sett](/variants/s13/r2ki2k21ki8dg16k3dg16ki8k3ki3k21ki2r2~x2/sett.png)|

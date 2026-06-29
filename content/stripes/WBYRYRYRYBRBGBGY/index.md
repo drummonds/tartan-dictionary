@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cribb (2016)](/setts/s16/w2n1lr12m2lr2m2lr2m2lr2dp10m1dp10dg12n2dg4lr2~x2/)|
-|![Cribb (2016) example sett](/setts/s16/w2n1lr12m2lr2m2lr2m2lr2dp10m1dp10dg12n2dg4lr2~x2/sett.png)|
+| [Cribb (2016)](/variants/s16/w2n1lr12m2lr2m2lr2m2lr2dp10m1dp10dg12n2dg4lr2~x2/)|
+|![Cribb (2016) example sett](/variants/s16/w2n1lr12m2lr2m2lr2m2lr2dp10m1dp10dg12n2dg4lr2~x2/sett.png)|

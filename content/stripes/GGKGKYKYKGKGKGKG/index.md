@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hope Vere / Weir](/setts/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/)|
-|![Hope Vere / Weir example sett](/setts/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/sett.png)|
+| [Hope Vere / Weir](/variants/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/)|
+|![Hope Vere / Weir example sett](/variants/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/sett.png)|

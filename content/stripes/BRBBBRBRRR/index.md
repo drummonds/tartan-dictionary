@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dark Lochnagar](/setts/s10/do6o1do40n1do12o12n6o2r2o4~x2/)|
-|![Dark Lochnagar example sett](/setts/s10/do6o1do40n1do12o12n6o2r2o4~x2/sett.png)|
-| [Lochnagar Dark (Fashion)](/setts/s10/do6o1do40n1do12o12dp6o2r2o4~x2/)|
-|![Lochnagar Dark (Fashion) example sett](/setts/s10/do6o1do40n1do12o12dp6o2r2o4~x2/sett.png)|
+| [Dark Lochnagar](/variants/s10/do6o1do40n1do12o12n6o2r2o4~x2/)|
+|![Dark Lochnagar example sett](/variants/s10/do6o1do40n1do12o12n6o2r2o4~x2/sett.png)|
+| [Lochnagar Dark (Fashion)](/variants/s10/do6o1do40n1do12o12dp6o2r2o4~x2/)|
+|![Lochnagar Dark (Fashion) example sett](/variants/s10/do6o1do40n1do12o12dp6o2r2o4~x2/sett.png)|

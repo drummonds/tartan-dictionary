@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Scottish Corporation](/setts/s9/w2r3dbi12db3dbi3db28r3db3ly2~x2/)|
-|![Royal Scottish Corporation example sett](/setts/s9/w2r3dbi12db3dbi3db28r3db3ly2~x2/sett.png)|
+| [Royal Scottish Corporation](/variants/s9/w2r3dbi12db3dbi3db28r3db3ly2~x2/)|
+|![Royal Scottish Corporation example sett](/variants/s9/w2r3dbi12db3dbi3db28r3db3ly2~x2/sett.png)|

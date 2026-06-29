@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bonhill Primary School](/setts/s4/r4k25ly25w4~x2/)|
-|![Bonhill Primary School example sett](/setts/s4/r4k25ly25w4~x2/sett.png)|
+| [Bonhill Primary School](/variants/s4/r4k25ly25w4~x2/)|
+|![Bonhill Primary School example sett](/variants/s4/r4k25ly25w4~x2/sett.png)|

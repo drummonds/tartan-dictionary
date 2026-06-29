@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inverclyde (Corporate)](/setts/s11/w3db5dbi2db9n10t2n4t2g10r33w2~x2/)|
-|![Inverclyde (Corporate) example sett](/setts/s11/w3db5dbi2db9n10t2n4t2g10r33w2~x2/sett.png)|
+| [Inverclyde (Corporate)](/variants/s11/w3db5dbi2db9n10t2n4t2g10r33w2~x2/)|
+|![Inverclyde (Corporate) example sett](/variants/s11/w3db5dbi2db9n10t2n4t2g10r33w2~x2/sett.png)|

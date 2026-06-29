@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skye Highland Outfitters (Corporate)](/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/)|
-|![Skye Highland Outfitters (Corporate) example sett](/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/sett.png)|
+| [Skye Highland Outfitters (Corporate)](/variants/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/)|
+|![Skye Highland Outfitters (Corporate) example sett](/variants/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clare (Prince George) (Personal)](/setts/s5/dp5lo5dy13g41r3~x2/)|
-|![Clare (Prince George) (Personal) example sett](/setts/s5/dp5lo5dy13g41r3~x2/sett.png)|
-| [Clare, Richard (Personal)](/setts/s5/dt5lo5dy13g41r3~x2/)|
-|![Clare, Richard (Personal) example sett](/setts/s5/dt5lo5dy13g41r3~x2/sett.png)|
+| [Clare (Prince George) (Personal)](/variants/s5/dp5lo5dy13g41r3~x2/)|
+|![Clare (Prince George) (Personal) example sett](/variants/s5/dp5lo5dy13g41r3~x2/sett.png)|
+| [Clare, Richard (Personal)](/variants/s5/dt5lo5dy13g41r3~x2/)|
+|![Clare, Richard (Personal) example sett](/variants/s5/dt5lo5dy13g41r3~x2/sett.png)|

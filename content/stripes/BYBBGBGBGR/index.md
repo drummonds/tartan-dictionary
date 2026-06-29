@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haines Family (Personal)](/setts/s10/r2y6t1y1t1y1t3dt8ly1b1~x4/)|
-|![Haines Family (Personal) example sett](/setts/s10/r2y6t1y1t1y1t3dt8ly1b1~x4/sett.png)|
+| [Haines Family (Personal)](/variants/s10/r2y6t1y1t1y1t3dt8ly1b1~x4/)|
+|![Haines Family (Personal) example sett](/variants/s10/r2y6t1y1t1y1t3dt8ly1b1~x4/sett.png)|

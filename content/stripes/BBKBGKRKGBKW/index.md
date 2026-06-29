@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Heritage Society (Corporate](/setts/s12/db76p6k6db24g17k4r10k4g17db4k2w6/)|
-|![Scottish Heritage Society (Corporate example sett](/setts/s12/db76p6k6db24g17k4r10k4g17db4k2w6/sett.png)|
+| [Scottish Heritage Society (Corporate](/variants/s12/db76p6k6db24g17k4r10k4g17db4k2w6/)|
+|![Scottish Heritage Society (Corporate example sett](/variants/s12/db76p6k6db24g17k4r10k4g17db4k2w6/sett.png)|

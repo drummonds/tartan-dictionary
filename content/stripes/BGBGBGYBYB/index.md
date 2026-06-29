@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rice (Welsh Name)](/setts/s10/dt4lo21dt1lo21y8db4y5db4y4dt4/)|
-|![Rice (Welsh Name) example sett](/setts/s10/dt4lo21dt1lo21y8db4y5db4y4dt4/sett.png)|
+| [Rice (Welsh Name)](/variants/s10/dt4lo21dt1lo21y8db4y5db4y4dt4/)|
+|![Rice (Welsh Name) example sett](/variants/s10/dt4lo21dt1lo21y8db4y5db4y4dt4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLeroy & Troine](/setts/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/)|
-|![MacLeroy & Troine example sett](/setts/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/sett.png)|
+| [MacLeroy & Troine](/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/)|
+|![MacLeroy & Troine example sett](/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/sett.png)|

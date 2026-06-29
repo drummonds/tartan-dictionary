@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Young Presidents Organisation Dress](/setts/s8/r6ly15do4db12g12dy4r25w5~x2/)|
-|![Young Presidents Organisation Dress example sett](/setts/s8/r6ly15do4db12g12dy4r25w5~x2/sett.png)|
+| [Young Presidents Organisation Dress](/variants/s8/r6ly15do4db12g12dy4r25w5~x2/)|
+|![Young Presidents Organisation Dress example sett](/variants/s8/r6ly15do4db12g12dy4r25w5~x2/sett.png)|

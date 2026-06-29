@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robinson, Barbara Ann (Personal)](/setts/s11/ly2n16dg2n2dg16dp2w15t2w2t16ly2~x2/)|
-|![Robinson, Barbara Ann (Personal) example sett](/setts/s11/ly2n16dg2n2dg16dp2w15t2w2t16ly2~x2/sett.png)|
+| [Robinson, Barbara Ann (Personal)](/variants/s11/ly2n16dg2n2dg16dp2w15t2w2t16ly2~x2/)|
+|![Robinson, Barbara Ann (Personal) example sett](/variants/s11/ly2n16dg2n2dg16dp2w15t2w2t16ly2~x2/sett.png)|

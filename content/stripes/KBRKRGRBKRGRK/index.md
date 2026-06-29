@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchan](/tartans/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/)|
-|![Buchan example sett](/setts/s13/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/sett.png)|
-| [Cumming](/tartans/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/)|
-|![Cumming example sett](/setts/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/sett.png)|
+| [Buchan](/setts/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/)|
+|![Buchan example sett](/variants/s13/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/sett.png)|
+| [Cumming](/setts/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/)|
+|![Cumming example sett](/variants/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Richecourt, Baron of (Personal)](/setts/s7/w4k30r1k1r3w12ly3~x2/)|
-|![Richecourt, Baron of (Personal) example sett](/setts/s7/w4k30r1k1r3w12ly3~x2/sett.png)|
+| [Richecourt, Baron of (Personal)](/variants/s7/w4k30r1k1r3w12ly3~x2/)|
+|![Richecourt, Baron of (Personal) example sett](/variants/s7/w4k30r1k1r3w12ly3~x2/sett.png)|

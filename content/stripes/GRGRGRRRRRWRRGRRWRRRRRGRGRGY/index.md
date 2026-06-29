@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jewel Look JTB](/setts/s28/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/)|
-|![Jewel Look JTB example sett](/setts/s28/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/sett.png)|
+| [Jewel Look JTB](/variants/s28/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/)|
+|![Jewel Look JTB example sett](/variants/s28/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/sett.png)|

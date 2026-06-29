@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacHinery Dress (Fashion)](/setts/s14/t6ly2t24w4t4r2db16t20w4t20db16w16db3w4~x2/)|
-|![MacHinery Dress (Fashion) example sett](/setts/s14/t6ly2t24w4t4r2db16t20w4t20db16w16db3w4~x2/sett.png)|
+| [MacHinery Dress (Fashion)](/variants/s14/t6ly2t24w4t4r2db16t20w4t20db16w16db3w4~x2/)|
+|![MacHinery Dress (Fashion) example sett](/variants/s14/t6ly2t24w4t4r2db16t20w4t20db16w16db3w4~x2/sett.png)|

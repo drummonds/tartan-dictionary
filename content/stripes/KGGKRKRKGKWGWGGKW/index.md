@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Margaret's School Edinburgh](/setts/s17/k16gi3g8k3m12k3m12k3g8k3lb12g8lb12g8gi3k16w3~x2/)|
-|![St. Margaret's School Edinburgh example sett](/setts/s17/k16gi3g8k3m12k3m12k3g8k3lb12g8lb12g8gi3k16w3~x2/sett.png)|
+| [St. Margaret's School Edinburgh](/variants/s17/k16gi3g8k3m12k3m12k3g8k3lb12g8lb12g8gi3k16w3~x2/)|
+|![St. Margaret's School Edinburgh example sett](/variants/s17/k16gi3g8k3m12k3m12k3g8k3lb12g8lb12g8gi3k16w3~x2/sett.png)|

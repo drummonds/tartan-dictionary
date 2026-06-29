@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New World Celts (Corporate)](/setts/s13/k75t2w2k2ly2dg4r3k2r4k1w4k2t5~x2/)|
-|![New World Celts (Corporate) example sett](/setts/s13/k75t2w2k2ly2dg4r3k2r4k1w4k2t5~x2/sett.png)|
+| [New World Celts (Corporate)](/variants/s13/k75t2w2k2ly2dg4r3k2r4k1w4k2t5~x2/)|
+|![New World Celts (Corporate) example sett](/variants/s13/k75t2w2k2ly2dg4r3k2r4k1w4k2t5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLean, dress](/setts/s6/r1w12g6r8t3ly1~x4/)|
-|![MacLean, dress example sett](/setts/s6/r1w12g6r8t3ly1~x4/sett.png)|
+| [MacLean, dress](/variants/s6/r1w12g6r8t3ly1~x4/)|
+|![MacLean, dress example sett](/variants/s6/r1w12g6r8t3ly1~x4/sett.png)|

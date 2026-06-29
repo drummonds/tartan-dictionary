@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/)|
-|![Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/sett.png)|
+| [Crawfordjohn Personal Tartan](/variants/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/)|
+|![Crawfordjohn Personal Tartan example sett](/variants/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/sett.png)|

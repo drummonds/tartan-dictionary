@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alexander Hunting (Name)](/setts/s9/db12r2db4r4k15db4g4db2g12~x2/)|
-|![Alexander Hunting (Name) example sett](/setts/s9/db12r2db4r4k15db4g4db2g12~x2/sett.png)|
+| [Alexander Hunting (Name)](/variants/s9/db12r2db4r4k15db4g4db2g12~x2/)|
+|![Alexander Hunting (Name) example sett](/variants/s9/db12r2db4r4k15db4g4db2g12~x2/sett.png)|

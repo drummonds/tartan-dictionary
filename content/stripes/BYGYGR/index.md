@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balfour](/setts/s6/db30ly3dy11ly3y33r6~x2/)|
-|![Balfour example sett](/setts/s6/db30ly3dy11ly3y33r6~x2/sett.png)|
-| [Balfour #2](/tartans/db18ly2dy6ly2dy19r3/)|
-|![Balfour #2 example sett](/setts/s6/db18ly2dy6ly2dy19r3~x2/sett.png)|
-| [Balfour Hunting](/setts/s6/b30ly3dy11ly3g33r6~x2/)|
-|![Balfour Hunting example sett](/setts/s6/b30ly3dy11ly3g33r6~x2/sett.png)|
+| [Balfour](/variants/s6/db30ly3dy11ly3y33r6~x2/)|
+|![Balfour example sett](/variants/s6/db30ly3dy11ly3y33r6~x2/sett.png)|
+| [Balfour #2](/setts/db18ly2dy6ly2dy19r3/)|
+|![Balfour #2 example sett](/variants/s6/db18ly2dy6ly2dy19r3~x2/sett.png)|
+| [Balfour Hunting](/variants/s6/b30ly3dy11ly3g33r6~x2/)|
+|![Balfour Hunting example sett](/variants/s6/b30ly3dy11ly3g33r6~x2/sett.png)|

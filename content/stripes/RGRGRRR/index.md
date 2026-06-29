@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ballintrae](/setts/s7/r10g44o5dg40o62r5o10/)|
-|![Ballintrae example sett](/setts/s7/r10g44o5dg40o62r5o10/sett.png)|
+| [Ballintrae](/variants/s7/r10g44o5dg40o62r5o10/)|
+|![Ballintrae example sett](/variants/s7/r10g44o5dg40o62r5o10/sett.png)|

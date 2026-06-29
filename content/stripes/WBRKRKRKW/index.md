@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Memery (Reston, USA)](/setts/s9/w4k6r3k15r3k6r27db9w2~x2/)|
-|![Memery (Reston, USA) example sett](/setts/s9/w4k6r3k15r3k6r27db9w2~x2/sett.png)|
+| [Memery (Reston, USA)](/variants/s9/w4k6r3k15r3k6r27db9w2~x2/)|
+|![Memery (Reston, USA) example sett](/variants/s9/w4k6r3k15r3k6r27db9w2~x2/sett.png)|

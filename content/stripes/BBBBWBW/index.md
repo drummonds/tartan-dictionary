@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gavin (Personal)](/setts/s7/w26dri2w3dri15dri26dr2dri3~x2/)|
-|![Gavin (Personal) example sett](/setts/s7/w26dri2w3dri15dri26dr2dri3~x2/sett.png)|
+| [Gavin (Personal)](/variants/s7/w26dri2w3dri15dri26dr2dri3~x2/)|
+|![Gavin (Personal) example sett](/variants/s7/w26dri2w3dri15dri26dr2dri3~x2/sett.png)|

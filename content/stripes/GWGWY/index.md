@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eastern Townshippers (Corporate)](/setts/s5/g1w5g5w5ly1~x8/)|
-|![Eastern Townshippers (Corporate) example sett](/setts/s5/g1w5g5w5ly1~x8/sett.png)|
+| [Eastern Townshippers (Corporate)](/variants/s5/g1w5g5w5ly1~x8/)|
+|![Eastern Townshippers (Corporate) example sett](/variants/s5/g1w5g5w5ly1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Welsh National (Fashion)](/setts/s7/k4dy2r2dy2k2dy15lo2~x4/)|
-|![Welsh National (Fashion) example sett](/setts/s7/k4dy2r2dy2k2dy15lo2~x4/sett.png)|
+| [Welsh National (Fashion)](/variants/s7/k4dy2r2dy2k2dy15lo2~x4/)|
+|![Welsh National (Fashion) example sett](/variants/s7/k4dy2r2dy2k2dy15lo2~x4/sett.png)|

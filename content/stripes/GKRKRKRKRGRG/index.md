@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walker](/setts/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/)|
-|![Walker example sett](/setts/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/sett.png)|
+| [Walker](/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/)|
+|![Walker example sett](/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/sett.png)|

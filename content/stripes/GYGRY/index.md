@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pendlebury, Andrew (Personal)](/setts/s5/g25lo6dg5r3lo10~x4/)|
-|![Pendlebury, Andrew (Personal) example sett](/setts/s5/g25lo6dg5r3lo10~x4/sett.png)|
+| [Pendlebury, Andrew (Personal)](/variants/s5/g25lo6dg5r3lo10~x4/)|
+|![Pendlebury, Andrew (Personal) example sett](/variants/s5/g25lo6dg5r3lo10~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 48 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Recovery hunting](/setts/s48/k1g8k1ly1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4/)|
-|![Recovery hunting example sett](/setts/s48/k1g8k1ly1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4/sett.png)|
+| [Recovery hunting](/variants/s48/k1g8k1ly1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4/)|
+|![Recovery hunting example sett](/variants/s48/k1g8k1ly1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4/sett.png)|

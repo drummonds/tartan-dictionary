@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McHattie (Personal)](/setts/s5/k45b2r4ly1w1~x2/)|
-|![McHattie (Personal) example sett](/setts/s5/k45b2r4ly1w1~x2/sett.png)|
-| [McHattie (Personal)](/setts/s5/k45db2r4ly1w1~x2/)|
-|![McHattie (Personal) example sett](/setts/s5/k45db2r4ly1w1~x2/sett.png)|
+| [McHattie (Personal)](/variants/s5/k45b2r4ly1w1~x2/)|
+|![McHattie (Personal) example sett](/variants/s5/k45b2r4ly1w1~x2/sett.png)|
+| [McHattie (Personal)](/variants/s5/k45db2r4ly1w1~x2/)|
+|![McHattie (Personal) example sett](/variants/s5/k45db2r4ly1w1~x2/sett.png)|

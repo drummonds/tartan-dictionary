@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwich University](/setts/s4/db39lo8r3w1~x4/)|
-|![Norwich University example sett](/setts/s4/db39lo8r3w1~x4/sett.png)|
-| [Norwich University (Corporate)](/setts/s4/db39ly8r3w1~x4/)|
-|![Norwich University (Corporate) example sett](/setts/s4/db39ly8r3w1~x4/sett.png)|
+| [Norwich University](/variants/s4/db39lo8r3w1~x4/)|
+|![Norwich University example sett](/variants/s4/db39lo8r3w1~x4/sett.png)|
+| [Norwich University (Corporate)](/variants/s4/db39ly8r3w1~x4/)|
+|![Norwich University (Corporate) example sett](/variants/s4/db39ly8r3w1~x4/sett.png)|

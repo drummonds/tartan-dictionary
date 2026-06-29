@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [American National](/setts/s8/k3r3dg4db7k3dt39db15w3~x2/)|
-|![American National example sett](/setts/s8/k3r3dg4db7k3dt39db15w3~x2/sett.png)|
+| [American National](/variants/s8/k3r3dg4db7k3dt39db15w3~x2/)|
+|![American National example sett](/variants/s8/k3r3dg4db7k3dt39db15w3~x2/sett.png)|

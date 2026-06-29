@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian Canals (Corporate)](/setts/s7/dg2k1db29k2dg9k27lo2~x2/)|
-|![Caledonian Canals (Corporate) example sett](/setts/s7/dg2k1db29k2dg9k27lo2~x2/sett.png)|
+| [Caledonian Canals (Corporate)](/variants/s7/dg2k1db29k2dg9k27lo2~x2/)|
+|![Caledonian Canals (Corporate) example sett](/variants/s7/dg2k1db29k2dg9k27lo2~x2/sett.png)|

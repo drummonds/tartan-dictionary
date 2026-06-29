@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wood (Personal)](/setts/s8/g11t3g5r3g5k22db22k5~x2/)|
-|![Wood (Personal) example sett](/setts/s8/g11t3g5r3g5k22db22k5~x2/sett.png)|
+| [Wood (Personal)](/variants/s8/g11t3g5r3g5k22db22k5~x2/)|
+|![Wood (Personal) example sett](/variants/s8/g11t3g5r3g5k22db22k5~x2/sett.png)|

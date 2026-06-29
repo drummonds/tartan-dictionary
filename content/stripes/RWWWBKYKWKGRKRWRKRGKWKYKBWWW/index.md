@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hay-Stewart](/setts/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2~x2/)|
-|![Hay-Stewart example sett](/setts/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2~x2/sett.png)|
+| [Hay-Stewart](/variants/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2~x2/)|
+|![Hay-Stewart example sett](/variants/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2~x2/sett.png)|

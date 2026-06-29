@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunbarton Weft](/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/)|
-|![Dunbarton Weft example sett](/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/sett.png)|
+| [Dunbarton Weft](/variants/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/)|
+|![Dunbarton Weft example sett](/variants/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/sett.png)|

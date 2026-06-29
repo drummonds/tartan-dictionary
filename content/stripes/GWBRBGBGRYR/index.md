@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Belfast Tattoo](/setts/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/)|
-|![Belfast Tattoo example sett](/setts/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/sett.png)|
+| [Belfast Tattoo](/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/)|
+|![Belfast Tattoo example sett](/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/sett.png)|

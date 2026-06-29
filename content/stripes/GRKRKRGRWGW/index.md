@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Livingston (Personal)](/setts/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/)|
-|![Livingston (Personal) example sett](/setts/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/sett.png)|
+| [Livingston (Personal)](/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/)|
+|![Livingston (Personal) example sett](/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/sett.png)|

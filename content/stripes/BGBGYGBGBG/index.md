@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oman, Sultanate of / Oliver dress](/setts/s10/dy9t3dy6t3dy20ly2~x2/)|
-|![Oman, Sultanate of / Oliver dress example sett](/setts/s10/dy9t3dy6t3dy20ly2~x2/sett.png)|
+| [Oman, Sultanate of / Oliver dress](/variants/s10/dy9t3dy6t3dy20ly2~x2/)|
+|![Oman, Sultanate of / Oliver dress example sett](/variants/s10/dy9t3dy6t3dy20ly2~x2/sett.png)|

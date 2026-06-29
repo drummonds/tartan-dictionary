@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Regalia](/setts/s7/dg1dy7dg7o2dy1ly15w1~x4/)|
-|![Regalia example sett](/setts/s7/dg1dy7dg7o2dy1ly15w1~x4/sett.png)|
+| [Regalia](/variants/s7/dg1dy7dg7o2dy1ly15w1~x4/)|
+|![Regalia example sett](/variants/s7/dg1dy7dg7o2dy1ly15w1~x4/sett.png)|

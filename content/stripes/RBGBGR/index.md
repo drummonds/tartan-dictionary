@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Deeside (District)](/setts/s6/ri4y2db4y35t27r3~x2/)|
-|![Royal Deeside (District) example sett](/setts/s6/ri4y2db4y35t27r3~x2/sett.png)|
+| [Royal Deeside (District)](/variants/s6/ri4y2db4y35t27r3~x2/)|
+|![Royal Deeside (District) example sett](/variants/s6/ri4y2db4y35t27r3~x2/sett.png)|

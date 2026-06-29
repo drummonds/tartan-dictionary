@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kaptain Family (Personal)](/setts/s8/k1w1ly2dg1k10db1r2w1~x10/)|
-|![Kaptain Family (Personal) example sett](/setts/s8/k1w1ly2dg1k10db1r2w1~x10/sett.png)|
+| [Kaptain Family (Personal)](/variants/s8/k1w1ly2dg1k10db1r2w1~x10/)|
+|![Kaptain Family (Personal) example sett](/variants/s8/k1w1ly2dg1k10db1r2w1~x10/sett.png)|

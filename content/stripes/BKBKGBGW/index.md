@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dress Watch](/setts/s8/db4k3db18k18g18db1g2w4~x2/)|
-|![Dress Watch example sett](/setts/s8/db4k3db18k18g18db1g2w4~x2/sett.png)|
+| [Dress Watch](/variants/s8/db4k3db18k18g18db1g2w4~x2/)|
+|![Dress Watch example sett](/variants/s8/db4k3db18k18g18db1g2w4~x2/sett.png)|

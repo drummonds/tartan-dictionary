@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spens (Lochcarron)](/setts/s9/r40w1db7w1g12r8db6t2w1~x2/)|
-|![Spens (Lochcarron) example sett](/setts/s9/r40w1db7w1g12r8db6t2w1~x2/sett.png)|
+| [Spens (Lochcarron)](/variants/s9/r40w1db7w1g12r8db6t2w1~x2/)|
+|![Spens (Lochcarron) example sett](/variants/s9/r40w1db7w1g12r8db6t2w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Douglas, brown](/setts/s5/k7t3o30dt30w3~x2/)|
-|![Douglas, brown example sett](/setts/s5/k7t3o30dt30w3~x2/sett.png)|
+| [Douglas, brown](/variants/s5/k7t3o30dt30w3~x2/)|
+|![Douglas, brown example sett](/variants/s5/k7t3o30dt30w3~x2/sett.png)|

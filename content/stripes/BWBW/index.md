@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lewis, Navy (Dance)](/setts/s4/db4w35db31w4~x2/)|
-|![Lewis, Navy (Dance) example sett](/setts/s4/db4w35db31w4~x2/sett.png)|
+| [Lewis, Navy (Dance)](/variants/s4/db4w35db31w4~x2/)|
+|![Lewis, Navy (Dance) example sett](/variants/s4/db4w35db31w4~x2/sett.png)|

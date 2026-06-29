@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Bus Company (Corporate)](/setts/s6/db3r2g5r8db12w3~x2/)|
-|![Edinburgh Bus Company (Corporate) example sett](/setts/s6/db3r2g5r8db12w3~x2/sett.png)|
-| [Lothian Buses (Corporate?)](/setts/s6/w2db15r3g3r3db1~x8/)|
-|![Lothian Buses (Corporate?) example sett](/setts/s6/w2db15r3g3r3db1~x8/sett.png)|
+| [Edinburgh Bus Company (Corporate)](/variants/s6/db3r2g5r8db12w3~x2/)|
+|![Edinburgh Bus Company (Corporate) example sett](/variants/s6/db3r2g5r8db12w3~x2/sett.png)|
+| [Lothian Buses (Corporate?)](/variants/s6/w2db15r3g3r3db1~x8/)|
+|![Lothian Buses (Corporate?) example sett](/variants/s6/w2db15r3g3r3db1~x8/sett.png)|

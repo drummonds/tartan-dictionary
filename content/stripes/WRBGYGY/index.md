@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caig (Personal)](/setts/s7/w3r2p31g30ly2g2ly1~x2/)|
-|![Caig (Personal) example sett](/setts/s7/w3r2p31g30ly2g2ly1~x2/sett.png)|
+| [Caig (Personal)](/variants/s7/w3r2p31g30ly2g2ly1~x2/)|
+|![Caig (Personal) example sett](/variants/s7/w3r2p31g30ly2g2ly1~x2/sett.png)|

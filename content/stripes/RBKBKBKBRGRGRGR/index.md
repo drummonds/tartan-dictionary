@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Homecoming (Fashion)](/setts/s15/o2dt14k3dt3k3dt3k15dt4oi2dy2oi2dy11oi2dy2oi2~x2/)|
-|![Homecoming (Fashion) example sett](/setts/s15/o2dt14k3dt3k3dt3k15dt4oi2dy2oi2dy11oi2dy2oi2~x2/sett.png)|
+| [Homecoming (Fashion)](/variants/s15/o2dt14k3dt3k3dt3k15dt4oi2dy2oi2dy11oi2dy2oi2~x2/)|
+|![Homecoming (Fashion) example sett](/variants/s15/o2dt14k3dt3k3dt3k15dt4oi2dy2oi2dy11oi2dy2oi2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harkness Dress](/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/)|
-|![Harkness Dress example sett](/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/sett.png)|
+| [Harkness Dress](/variants/s18/b10r2w2r16g6r1g2r1g3r6~x4/)|
+|![Harkness Dress example sett](/variants/s18/b10r2w2r16g6r1g2r1g3r6~x4/sett.png)|

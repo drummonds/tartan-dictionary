@@ -1,9 +1,5 @@
 ---
 title: "Clan Lochcarron"
-date: 2023-03-18
+redirect: "/families/lochcarron-of-scotland/"
 ---
-## Families
-
-- [Lochcarron of Scotland](/families/lochcarron-of-scotland/)
-- [Lochcarron of Scotland Diamond Jubilee](/families/lochcarron-of-scotland-diamond-jubilee/)
-
+Clan Lochcarron is recorded as the single family [Lochcarron of Scotland](/families/lochcarron-of-scotland/) — redirecting there.

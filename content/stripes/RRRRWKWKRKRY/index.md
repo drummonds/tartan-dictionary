@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r1o20r1o3w1k1w1k4o3k1o2ly1~x2/)|
-|![Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r1o20r1o3w1k1w1k4o3k1o2ly1~x2/sett.png)|
+| [Stewart Grey Fancy Tartan](/variants/s12/r1o20r1o3w1k1w1k4o3k1o2ly1~x2/)|
+|![Stewart Grey Fancy Tartan example sett](/variants/s12/r1o20r1o3w1k1w1k4o3k1o2ly1~x2/sett.png)|

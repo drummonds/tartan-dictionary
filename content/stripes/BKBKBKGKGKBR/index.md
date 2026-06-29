@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Young Presidents Organisation](/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/)|
-|![Young Presidents Organisation example sett](/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/sett.png)|
+| [Young Presidents Organisation](/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/)|
+|![Young Presidents Organisation example sett](/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/sett.png)|

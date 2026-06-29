@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sir Billi](/setts/s10/dg12w5k11dg42k3dg42k11w5dg12r8~x2/)|
-|![Sir Billi example sett](/setts/s10/dg12w5k11dg42k3dg42k11w5dg12r8~x2/sett.png)|
+| [Sir Billi](/variants/s10/dg12w5k11dg42k3dg42k11w5dg12r8~x2/)|
+|![Sir Billi example sett](/variants/s10/dg12w5k11dg42k3dg42k11w5dg12r8~x2/sett.png)|

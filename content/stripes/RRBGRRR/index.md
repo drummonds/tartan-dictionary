@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dorward](/setts/s7/o7r3o9g15db19o14r4~x2/)|
-|![Dorward example sett](/setts/s7/o7r3o9g15db19o14r4~x2/sett.png)|
+| [Dorward](/variants/s7/o7r3o9g15db19o14r4~x2/)|
+|![Dorward example sett](/variants/s7/o7r3o9g15db19o14r4~x2/sett.png)|

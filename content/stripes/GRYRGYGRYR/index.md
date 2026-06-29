@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Lindley #5](/setts/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/)|
-|![Unidentified Lindley #5 example sett](/setts/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/sett.png)|
+| [Unidentified Lindley #5](/variants/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/)|
+|![Unidentified Lindley #5 example sett](/variants/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/sett.png)|

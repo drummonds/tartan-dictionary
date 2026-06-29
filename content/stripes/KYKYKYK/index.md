@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Check (Fashion)](/setts/s7/k3lo18k12lo18k2lo2k3~x2/)|
-|![Kinloch Anderson Check (Fashion) example sett](/setts/s7/k3lo18k12lo18k2lo2k3~x2/sett.png)|
+| [Kinloch Anderson Check (Fashion)](/variants/s7/k3lo18k12lo18k2lo2k3~x2/)|
+|![Kinloch Anderson Check (Fashion) example sett](/variants/s7/k3lo18k12lo18k2lo2k3~x2/sett.png)|

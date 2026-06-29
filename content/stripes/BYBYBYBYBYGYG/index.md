@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald Lord of the Isles Hunting](/tartans/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/)|
-|![MacDonald Lord of the Isles Hunting example sett](/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/sett.png)|
+| [MacDonald Lord of the Isles Hunting](/setts/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/)|
+|![MacDonald Lord of the Isles Hunting example sett](/variants/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/sett.png)|

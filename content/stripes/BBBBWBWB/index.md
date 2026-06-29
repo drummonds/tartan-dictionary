@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antigonish](/setts/s8/t4db1t4db24w6db4w1db2~x4/)|
-|![Antigonish example sett](/setts/s8/t4db1t4db24w6db4w1db2~x4/sett.png)|
+| [Antigonish](/variants/s8/t4db1t4db24w6db4w1db2~x4/)|
+|![Antigonish example sett](/variants/s8/t4db1t4db24w6db4w1db2~x4/sett.png)|

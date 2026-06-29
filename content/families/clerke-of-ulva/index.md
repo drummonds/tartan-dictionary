@@ -8,12 +8,17 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><img src="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png" alt="Clerke of Ulva" width="240"><br>Clerke of Ulva</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1/">Clerke of Ulva</a> ★</td><td><code>LT/6 DG6 K8 DG28 K8 DG6 K28 DB36 LO2 DB8 LO4 DB8 LO/2</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1/"><img src="/variants/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png" alt="Clerke of Ulva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/t3g3k4g14k4g3k14db18m1db4m2/">Family Tartan</a></td><td><code>T/6 G6 K8 G28 K8 G6 K28 DB36 M2 DB8 M/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t3g3k4g14k4g3k14db18m1db4m2/"><img src="/variants/s11/t3g3k4g14k4g3k14db18m1db4m2~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/t3g3k4g14k4g3k14db18r1db4r2/">Clerke of Ulva</a></td><td><code>T/6 G6 K8 G28 K8 G6 K28 DB36 R2 DB8 R/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t3g3k4g14k4g3k14db18r1db4r2/"><img src="/variants/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/sett.png" alt="Clerke of Ulva sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><img src="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/sett.png" alt="Clerke of Ulva" width="140"><br>Clerke of Ulva</a></li>
-<li><a class="tartan" href="/setts/s11/t3g3k4g14k4g3k14db18m1db4m2~x2/"><img src="/setts/s11/t3g3k4g14k4g3k14db18m1db4m2~x2/sett.png" alt="Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+[See the Clerke of Ulva tartan and all its setts →](/tartans/clerke-of-ulva/)
 

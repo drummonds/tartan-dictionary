@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montreat](/setts/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/)|
-|![Montreat example sett](/setts/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/sett.png)|
+| [Montreat](/variants/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/)|
+|![Montreat example sett](/variants/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/sett.png)|

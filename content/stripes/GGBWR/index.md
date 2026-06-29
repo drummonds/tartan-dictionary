@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Friebe (2014)](/setts/s5/g15dg18db23w4r8~x2/)|
-|![Friebe (2014) example sett](/setts/s5/g15dg18db23w4r8~x2/sett.png)|
-| [Friebe (2014)](/setts/s5/g15dg18dt23w4r8~x2/)|
-|![Friebe (2014) example sett](/setts/s5/g15dg18dt23w4r8~x2/sett.png)|
+| [Friebe (2014)](/variants/s5/g15dg18db23w4r8~x2/)|
+|![Friebe (2014) example sett](/variants/s5/g15dg18db23w4r8~x2/sett.png)|
+| [Friebe (2014)](/variants/s5/g15dg18dt23w4r8~x2/)|
+|![Friebe (2014) example sett](/variants/s5/g15dg18dt23w4r8~x2/sett.png)|

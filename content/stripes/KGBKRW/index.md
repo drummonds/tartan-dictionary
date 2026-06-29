@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bryant (Dalgleish) (Personal)](/setts/s6/lb3r30k18db6g30k2~x2/)|
-|![Bryant (Dalgleish) (Personal) example sett](/setts/s6/lb3r30k18db6g30k2~x2/sett.png)|
+| [Bryant (Dalgleish) (Personal)](/variants/s6/lb3r30k18db6g30k2~x2/)|
+|![Bryant (Dalgleish) (Personal) example sett](/variants/s6/lb3r30k18db6g30k2~x2/sett.png)|

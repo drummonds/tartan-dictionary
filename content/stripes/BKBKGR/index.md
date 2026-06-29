@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray](/setts/s6/db2k2db12k8g11r2~x2/)|
-|![Murray example sett](/setts/s6/db2k2db12k8g11r2~x2/sett.png)|
-| [Murray #3](/setts/s6/db2k2db12k8dg11r2~x2/)|
-|![Murray #3 example sett](/setts/s6/db2k2db12k8dg11r2~x2/sett.png)|
+| [Murray](/variants/s6/db2k2db12k8g11r2~x2/)|
+|![Murray example sett](/variants/s6/db2k2db12k8g11r2~x2/sett.png)|
+| [Murray #3](/variants/s6/db2k2db12k8dg11r2~x2/)|
+|![Murray #3 example sett](/variants/s6/db2k2db12k8dg11r2~x2/sett.png)|

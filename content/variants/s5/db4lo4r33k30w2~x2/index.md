@@ -1,0 +1,62 @@
+---
+title: "Wormeck (2013) Germany"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4lo4r33k30w2/)
+(the same proportion at any scale), whose colour order is pattern [BYRKW](/stripes/byrkw/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10714
+
+## Provenance
+
+Earliest known date: 11 October 2012 This tartan was created by the designer for his wedding and for all those with the surname Wormeck who wish to wear it. The colours are taken from the national and regional flags of Germany and former Prussia, the province of Schleswig-Holstein, Scotland, the Czech Republic and Sweden, all places significant to the designer and his family.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wormeck Germany
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/10/2012 — Wormeck (2013) Germany (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10714">record</a>)</li>
+<li>undated — Wormeck (2013) German Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10714">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10714](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10714)
+
+## Thread count
+DB/8 O8 DR66 K60 W/4
+
+One full sett is **280 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#271B86;"><span style="color:#271B86;filter:grayscale(1) invert(1) contrast(100);">#271B86</span></code> <small style="color:#888">#271B86</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(32.6% 0.166 276.9)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#EBAA57;"><span style="color:#EBAA57;filter:grayscale(1) invert(1) contrast(100);">#EBAA57</span></code> <small style="color:#888">#EBAA57</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(78.4% 0.125 70.8)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">66</td><td><code style="background-color:#A90725;"><span style="color:#A90725;filter:grayscale(1) invert(1) contrast(100);">#A90725</span></code> <small style="color:#888">#A90725</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(46.6% 0.185 22.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> <small style="color:#888">#120A01</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(15.2% 0.028 78.6)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#F7F1E8;"><span style="color:#F7F1E8;filter:grayscale(1) invert(1) contrast(100);">#F7F1E8</span></code> <small style="color:#888">#F7F1E8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.0% 0.014 78.3)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DB/8 O8 DR66 K60 W/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=db4lo4r33k30w2~x2">Wormeck (2013) Germany</a> <a class="nn-out" href="/variants/s5/db4lo4r33k30w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/db4lo4r33k30w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=db1r12k6ly1k6db1~x4&amp;base=db4lo4r33k30w2~x2">Cetoloni (Personal)</a> <a class="nn-out" href="/variants/s6/db1r12k6ly1k6db1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1r12k6ly1k6db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=w6r36k48lo4k5ly6&amp;base=db4lo4r33k30w2~x2">Drambuie</a> <a class="nn-out" href="/variants/s6/w6r36k48lo4k5ly6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w6r36k48lo4k5ly6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=db3k32r27w2~x2&amp;base=db4lo4r33k30w2~x2">Templar Grand Priory USA</a> <a class="nn-out" href="/variants/s4/db3k32r27w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3k32r27w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=k51r21ly4r12g8db4r5~x2&amp;base=db4lo4r33k30w2~x2">Totté (from Hofstade de Baerebeeck) (Personal)</a> <a class="nn-out" href="/variants/s7/k51r21ly4r12g8db4r5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k51r21ly4r12g8db4r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=r60k40ly3pi5p3dg12~x2&amp;base=db4lo4r33k30w2~x2">Rei Okamoto (Personal)</a> <a class="nn-out" href="/variants/s6/r60k40ly3pi5p3dg12~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r60k40ly3pi5p3dg12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=r5m2r30k28w2k4~x2&amp;base=db4lo4r33k30w2~x2">Ramsay Red Clan Tartan</a> <a class="nn-out" href="/variants/s6/r5m2r30k28w2k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5m2r30k28w2k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=b4r1k11r20k20r20g4ly1~x2&amp;base=db4lo4r33k30w2~x2">Templeton (Name?)</a> <a class="nn-out" href="/variants/s8/b4r1k11r20k20r20g4ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/b4r1k11r20k20r20g4ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=r2db12r2dg12r24w1~x2&amp;base=db4lo4r33k30w2~x2">Fraser</a> <a class="nn-out" href="/variants/s6/r2db12r2dg12r24w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db12r2dg12r24w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.32</div><div class="nn-name"><a href="/ttd/edit/#slug=r50k25g10o5ly2~x2&amp;base=db4lo4r33k30w2~x2">MacGleish Formal (Personal)</a> <a class="nn-out" href="/variants/s5/r50k25g10o5ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r50k25g10o5ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/ttd/edit/#slug=r1db6r1dg6r12lb1&amp;base=db4lo4r33k30w2~x2">Fraser VS</a> <a class="nn-out" href="/variants/s6/r1db6r1dg6r12lb1/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1db6r1dg6r12lb1/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12k6ly1k6db1~x4/"><circle cx="272.6" cy="188.5" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s6/w6r36k48lo4k5ly6/"><circle cx="265.6" cy="167.5" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="314.7" cy="200.5" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="245.5" cy="142.2" r="4" fill="#3465a4"><title>Totté (from Hofstade de Baerebeeck) (Personal)</title></circle></a><a href="/variants/s6/r60k40ly3pi5p3dg12~x2/"><circle cx="273.9" cy="127.0" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s6/r5m2r30k28w2k4~x2/"><circle cx="324.6" cy="169.5" r="4" fill="#3465a4"><title>Ramsay Red Clan Tartan</title></circle></a><a href="/variants/s8/b4r1k11r20k20r20g4ly1~x2/"><circle cx="285.4" cy="149.6" r="4" fill="#3465a4"><title>Templeton (Name?)</title></circle></a><a href="/variants/s6/r2db12r2dg12r24w1~x2/"><circle cx="321.0" cy="162.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s5/r50k25g10o5ly2~x2/"><circle cx="321.1" cy="146.9" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s6/r1db6r1dg6r12lb1/"><circle cx="280.6" cy="185.4" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><circle cx="267.0" cy="164.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/db4lo4r33k30w2~x2/

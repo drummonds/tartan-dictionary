@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rankin Grey (Personal)](/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/)|
-|![Rankin Grey (Personal) example sett](/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/sett.png)|
+| [Rankin Grey (Personal)](/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/)|
+|![Rankin Grey (Personal) example sett](/variants/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Free (Universal)](/setts/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/)|
-|![Free (Universal) example sett](/setts/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/sett.png)|
-| [Free (Wishaw)](/setts/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/)|
-|![Free (Wishaw) example sett](/setts/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/sett.png)|
+| [Free (Universal)](/variants/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/)|
+|![Free (Universal) example sett](/variants/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/sett.png)|
+| [Free (Wishaw)](/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/)|
+|![Free (Wishaw) example sett](/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/sett.png)|

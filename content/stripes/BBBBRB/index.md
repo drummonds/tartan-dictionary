@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [French Freemasons' Pride (Fashion)](/setts/s6/db128r8t41n4t4n4/)|
-|![French Freemasons' Pride (Fashion) example sett](/setts/s6/db128r8t41n4t4n4/sett.png)|
-| [United French Freemasons (Corporate](/setts/s6/db144r9t44db4t4db4/)|
-|![United French Freemasons (Corporate example sett](/setts/s6/db144r9t44db4t4db4/sett.png)|
+| [French Freemasons' Pride (Fashion)](/variants/s6/db128r8t41n4t4n4/)|
+|![French Freemasons' Pride (Fashion) example sett](/variants/s6/db128r8t41n4t4n4/sett.png)|
+| [United French Freemasons (Corporate](/variants/s6/db144r9t44db4t4db4/)|
+|![United French Freemasons (Corporate example sett](/variants/s6/db144r9t44db4t4db4/sett.png)|

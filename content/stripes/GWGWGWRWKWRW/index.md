@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Old England House Check](/setts/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/)|
-|![Old England House Check example sett](/setts/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/sett.png)|
+| [Old England House Check](/variants/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/)|
+|![Old England House Check example sett](/variants/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/sett.png)|

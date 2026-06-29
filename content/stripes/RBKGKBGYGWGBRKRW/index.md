@@ -24,7 +24,7 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hueg (Bavaria) Scottish Thistle (Personal)](/setts/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/)|
-|![Hueg (Bavaria) Scottish Thistle (Personal) example sett](/setts/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/sett.png)|
-| [Hueg Scottish Thistle (Personal)](/setts/s16/r2dt2k3dg25k2dt3dg4ly2dg2w2dg6dt2r7k2r3w2~x2/)|
-|![Hueg Scottish Thistle (Personal) example sett](/setts/s16/r2dt2k3dg25k2dt3dg4ly2dg2w2dg6dt2r7k2r3w2~x2/sett.png)|
+| [Hueg (Bavaria) Scottish Thistle (Personal)](/variants/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/)|
+|![Hueg (Bavaria) Scottish Thistle (Personal) example sett](/variants/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/sett.png)|
+| [Hueg Scottish Thistle (Personal)](/variants/s16/r2dt2k3dg25k2dt3dg4ly2dg2w2dg6dt2r7k2r3w2~x2/)|
+|![Hueg Scottish Thistle (Personal) example sett](/variants/s16/r2dt2k3dg25k2dt3dg4ly2dg2w2dg6dt2r7k2r3w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenock](/setts/s7/g2k2g17k16r2db17ly2~x2/)|
-|![Greenock example sett](/setts/s7/g2k2g17k16r2db17ly2~x2/sett.png)|
+| [Greenock](/variants/s7/g2k2g17k16r2db17ly2~x2/)|
+|![Greenock example sett](/variants/s7/g2k2g17k16r2db17ly2~x2/sett.png)|

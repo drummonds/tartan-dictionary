@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified, Ross-shire](/setts/s8/w75o1r18g9o1r27w2r5~x2/)|
-|![Unidentified, Ross-shire example sett](/setts/s8/w75o1r18g9o1r27w2r5~x2/sett.png)|
+| [Unidentified, Ross-shire](/variants/s8/w75o1r18g9o1r27w2r5~x2/)|
+|![Unidentified, Ross-shire example sett](/variants/s8/w75o1r18g9o1r27w2r5~x2/sett.png)|

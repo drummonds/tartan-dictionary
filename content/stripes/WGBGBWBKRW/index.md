@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pilkington (2016)](/setts/s10/w2dg15db8dg2db32lb1db8k13r2lb1~x2/)|
-|![Pilkington (2016) example sett](/setts/s10/w2dg15db8dg2db32lb1db8k13r2lb1~x2/sett.png)|
+| [Pilkington (2016)](/variants/s10/w2dg15db8dg2db32lb1db8k13r2lb1~x2/)|
+|![Pilkington (2016) example sett](/variants/s10/w2dg15db8dg2db32lb1db8k13r2lb1~x2/sett.png)|

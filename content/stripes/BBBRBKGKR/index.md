@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holland & Sherry (Corporate)](/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/)|
-|![Holland & Sherry (Corporate) example sett](/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/sett.png)|
+| [Holland & Sherry (Corporate)](/variants/s9/dt20b3dt4r3dt3k10g21k4r20~x2/)|
+|![Holland & Sherry (Corporate) example sett](/variants/s9/dt20b3dt4r3dt3k10g21k4r20~x2/sett.png)|

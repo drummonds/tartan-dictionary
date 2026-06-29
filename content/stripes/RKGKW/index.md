@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clark](/setts/s5/r3k1dg1k1lb3~x4/)|
-|![Clark example sett](/setts/s5/r3k1dg1k1lb3~x4/sett.png)|
+| [Clark](/variants/s5/r3k1dg1k1lb3~x4/)|
+|![Clark example sett](/variants/s5/r3k1dg1k1lb3~x4/sett.png)|

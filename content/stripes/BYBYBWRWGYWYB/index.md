@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Dress (Personal)](/setts/s13/dp2ly1t42lo2t6w1r1w1g4lo4w1ly1dp1~x2/)|
-|![Kerr of Ardgowan Dress (Personal) example sett](/setts/s13/dp2ly1t42lo2t6w1r1w1g4lo4w1ly1dp1~x2/sett.png)|
+| [Kerr of Ardgowan Dress (Personal)](/variants/s13/dp2ly1t42lo2t6w1r1w1g4lo4w1ly1dp1~x2/)|
+|![Kerr of Ardgowan Dress (Personal) example sett](/variants/s13/dp2ly1t42lo2t6w1r1w1g4lo4w1ly1dp1~x2/sett.png)|

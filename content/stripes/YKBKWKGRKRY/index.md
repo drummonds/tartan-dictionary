@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Customs & Border Protection (C](/setts/s11/lo24k7db1k1w1k1dy4r3k1r2lo1~x4/)|
-|![U.S. Customs & Border Protection (C example sett](/setts/s11/lo24k7db1k1w1k1dy4r3k1r2lo1~x4/sett.png)|
+| [U.S. Customs & Border Protection (C](/variants/s11/lo24k7db1k1w1k1dy4r3k1r2lo1~x4/)|
+|![U.S. Customs & Border Protection (C example sett](/variants/s11/lo24k7db1k1w1k1dy4r3k1r2lo1~x4/sett.png)|

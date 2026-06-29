@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson, Romance of](/setts/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/)|
-|![Kinloch Anderson, Romance of example sett](/setts/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/sett.png)|
+| [Kinloch Anderson, Romance of](/variants/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/)|
+|![Kinloch Anderson, Romance of example sett](/variants/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/sett.png)|

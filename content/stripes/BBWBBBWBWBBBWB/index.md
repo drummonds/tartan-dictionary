@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harmony Eildon](/setts/s14/db41ti2w2ti2db5t12w31db4~x2/)|
-|![Harmony Eildon example sett](/setts/s14/db41ti2w2ti2db5t12w31db4~x2/sett.png)|
+| [Harmony Eildon](/variants/s14/db41ti2w2ti2db5t12w31db4~x2/)|
+|![Harmony Eildon example sett](/variants/s14/db41ti2w2ti2db5t12w31db4~x2/sett.png)|

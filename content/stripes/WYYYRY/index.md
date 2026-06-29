@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Max Reger, The](/setts/s6/w1lg6ly9lo9r9lg1~x4/)|
-|![Max Reger, The example sett](/setts/s6/w1lg6ly9lo9r9lg1~x4/sett.png)|
+| [Max Reger, The](/variants/s6/w1lg6ly9lo9r9lg1~x4/)|
+|![Max Reger, The example sett](/variants/s6/w1lg6ly9lo9r9lg1~x4/sett.png)|

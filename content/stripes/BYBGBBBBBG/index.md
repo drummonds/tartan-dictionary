@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Cathedral](/setts/s10/g18dp3dbi10db2dbi10dp20g20dp3lo2dbi2~x2/)|
-|![Glasgow Cathedral example sett](/setts/s10/g18dp3dbi10db2dbi10dp20g20dp3lo2dbi2~x2/sett.png)|
+| [Glasgow Cathedral](/variants/s10/g18dp3dbi10db2dbi10dp20g20dp3lo2dbi2~x2/)|
+|![Glasgow Cathedral example sett](/variants/s10/g18dp3dbi10db2dbi10dp20g20dp3lo2dbi2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tinkler (Corporate)](/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/)|
-|![Tinkler (Corporate) example sett](/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/sett.png)|
+| [Tinkler (Corporate)](/variants/s9/g2lo9do6r3do2r3do2r10w2~x4/)|
+|![Tinkler (Corporate) example sett](/variants/s9/g2lo9do6r3do2r3do2r10w2~x4/sett.png)|

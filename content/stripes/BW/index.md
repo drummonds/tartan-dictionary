@@ -24,5 +24,5 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sillitoe](/setts/s2/db1w1~x20/)|
-|![Sillitoe example sett](/setts/s2/db1w1~x20/sett.png)|
+| [Sillitoe](/variants/s2/db1w1~x20/)|
+|![Sillitoe example sett](/variants/s2/db1w1~x20/sett.png)|

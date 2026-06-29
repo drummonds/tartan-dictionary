@@ -12,11 +12,11 @@
 (function () {
   'use strict';
 
-  var SETT_PATH = /^\/setts\/s\d+\/[0-9a-z~-]+\/(edit\/)?$/;
+  var SETT_PATH = /^\/variants\/s\d+\/[0-9a-z~-]+\/(edit\/)?$/; // the variant path (#69a)
   // A /tartans/<bare-sett>/ URL with no page is a singleton tartan (one sett) — the id IS a valid
   // unit slug, so the shell opens it straight in the TTD (tartan-weaver issue follow-up).
-  var TARTAN_PATH = /^\/tartans\/([0-9a-z!~-]+)\/$/;
-  var NEW_PATH = '/setts/new/';
+  var TARTAN_PATH = /^\/setts\/([0-9a-z!~-]+)\/$/; // a singleton sett's structure path (#69a)
+  var NEW_PATH = '/variants/new/';
   var TTD_PATH = '/ttd/edit/';
   var t0 = performance.now();
 
@@ -82,7 +82,7 @@
   function hydrateStatic() {
     var header = document.querySelector('.post-header h1');
     var text = document.querySelector('.post-text');
-    var m = /^\/setts\/s\d+\/([0-9a-z~-]+)\/$/.exec(location.pathname);
+    var m = /^\/variants\/s\d+\/([0-9a-z~-]+)\/$/.exec(location.pathname);
     var edit = document.querySelector('a.weaver-edit');
     var em = edit && /[#&]slug=([0-9a-z~-]+)/.exec(edit.getAttribute('href') || '');
     var slug = (em && em[1]) || (m && m[1]);
@@ -152,7 +152,7 @@
    * in a new tab, and offer it for download. Popup-blocked? fall back to a direct download. */
   function weaveFullPage(info) {
     var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
-    var png = window.weaver.renderWoven(info.slug, 1400, tpcm, 1800);
+    var png = window.weaver.renderWoven(info.slug, 1400, tpcm, 1800, overlayArg());
     if (!png || png.error) {
       statLine('full-page weave failed: ' + ((png && png.error) || 'unknown'));
       return;
@@ -175,9 +175,38 @@
     }
   }
 
+  /* Render a print-ready 4×6" postcard (1800×1200 @300dpi, woven full-bleed with a QR back to the
+   * tartan's dictionary page) in pure Go via the wasm engine, and offer it as a direct image download. */
+  function weavePostcard(info) {
+    var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
+    var png = window.weaver.postcard(info.slug, tpcm, ed.name || info.name || '', overlayArg());
+    if (!png || png.error) {
+      statLine('postcard failed: ' + ((png && png.error) || 'unknown'));
+      return;
+    }
+    var url = pngURL(png);
+    var file = ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan') + '-postcard.png';
+    var win = window.open('', '_blank');
+    if (win) {
+      win.document.write('<!doctype html><meta charset="utf-8"><title>' + esc(file) + '</title>' +
+        '<body style="margin:0;background:#222;text-align:center;font:14px system-ui">' +
+        '<p style="margin:.5em"><a href="' + url + '" download="' + esc(file) + '" style="color:#9cf">⤓ Download ' + esc(file) + '</a></p>' +
+        '<img src="' + url + '" style="max-width:100%;height:auto">' +
+        '</body>');
+      win.document.close();
+    } else {
+      var a = document.createElement('a');
+      a.href = url;
+      a.download = file;
+      a.click();
+    }
+  }
+
   function wireFullPage(shell, info) {
     var btn = document.getElementById('weaver-fullpage');
     if (btn) btn.addEventListener('click', function () { weaveFullPage(info); });
+    var pc = document.getElementById('weaver-postcard');
+    if (pc) pc.addEventListener('click', function () { weavePostcard(info); });
   }
 
   /* Build the sample sheet as a PDF (rendered in pure Go via the wasm engine — name, woven sample,
@@ -212,14 +241,28 @@
    * form. Re-entered on every fragment change. */
   // The editor's whole state is the address: ed.slug (#slug=), ed.base (&base=) and the supplier the
   // jog navigates (a transient view choice). ed.ttd false is the read-only 404 sett shell.
-  var ed = { shell: null, slug: '', base: '', ttd: true };
+  var ed = { shell: null, slug: '', base: '', ttd: true, palette: {} };
   var ttdSup = '';
+
+  /* The editor carries the cloth's EXACT colours as ed.palette ({code:"#RRGGBB"}) alongside the slug,
+   * because the slug rounds every colour to its human-palette cell — so a fine-grid / superfine / fine-
+   * supplier jog would otherwise round straight back and look dead (#15). overlayArg passes it to the
+   * Go engine (image + page renders, and applyShade, all take it as a trailing JSON arg); palMap reads
+   * the exact palette back out of a render result so the next render/jog steps from it. */
+  function overlayArg() {
+    return (ed.palette && Object.keys(ed.palette).length) ? JSON.stringify(ed.palette) : '';
+  }
+  function palMap(info) {
+    var m = {};
+    if (info && info.palette) info.palette.forEach(function (p) { m[p.code] = p.hex; });
+    return m;
+  }
 
   function bootTTD(shell) {
     var m = /[#&]slug=([0-9a-z~-]+)/.exec(location.hash);
     status(shell, m ? 'Weaving this tartan in your browser…' : 'Starting the weaver…');
     loadEngine().then(function () {
-      ed.shell = shell; ed.ttd = true; ed.base = baseSlugFromHash() || '';
+      ed.shell = shell; ed.ttd = true; ed.base = baseSlugFromHash() || ''; ed.palette = paletteFromHash(); ed.name = nameFromHash() || '';
       if (!m) {
         // No sett chosen: open a plain starter cloth straight in the editor.
         var blank = window.weaver.fromInput('', 'K#101010 W#F4F4F0', 'K24 W24');
@@ -248,7 +291,7 @@
         status(shell, 'This sett address could not be read: ' + info.error);
         return;
       }
-      ed.shell = shell; ed.ttd = false; ed.base = ''; ed.slug = info.slug;
+      ed.shell = shell; ed.ttd = false; ed.base = ''; ed.slug = info.slug; ed.palette = {}; ed.name = '';
       renderEditor();
     });
   }
@@ -265,15 +308,17 @@
     ed.slug = info.slug; // canonical
     var name = (typeof window.weaver.title === 'function' && (window.weaver.title(info.slug, '') || {}).text) || 'Tartan variant';
     info.name = name;
-    ed.shell.innerHTML = window.weaver.editorPage(info.slug, ed.base || '', ttdSup);
+    var ov = overlayArg();
+    ed.shell.innerHTML = window.weaver.editorPage(info.slug, ed.base || '', ttdSup, ed.name || '', ov);
 
-    // The working cloth's images, rendered in-page (no dependency on the image service worker).
+    // The working cloth's images, rendered in-page (no dependency on the image service worker), with
+    // the exact-colour overlay so a fine edit shows in the weave, not just the palette.
     var settEl = document.getElementById('weaver-sett');
-    if (settEl) { var sp = window.weaver.renderSett(info.slug, 1000, 64); if (!sp.error) settEl.src = pngURL(sp); }
+    if (settEl) { var sp = window.weaver.renderSett(info.slug, 1000, 64, ov); if (!sp.error) settEl.src = pngURL(sp); }
     var tartanEl = document.getElementById('weaver-tartan');
     if (tartanEl) {
       var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
-      var wp = window.weaver.renderWoven(info.slug, 880, tpcm);
+      var wp = window.weaver.renderWoven(info.slug, 880, tpcm, 0, ov);
       if (!wp.error) tartanEl.src = pngURL(wp);
     }
 
@@ -321,13 +366,16 @@
     if (!btn) return;
     ev.preventDefault();
     if (btn.hasAttribute('data-shade-hex')) {
-      var nx = window.weaver.applyShade(ed.slug, btn.dataset.shadeCode, btn.dataset.shadeHex);
+      // Step from the cloth's current EXACT colours, and keep the new exact palette so the next jog
+      // accumulates instead of snapping back to the slug's rounded shade (#15).
+      var nx = window.weaver.applyShade(ed.slug, btn.dataset.shadeCode, btn.dataset.shadeHex, overlayArg());
       if (nx.error) { statLine('shade step failed: ' + nx.error); return; }
+      ed.palette = palMap(nx);
       gotoSlug(nx.slug); return;
     }
     if (btn.hasAttribute('data-pin') || btn.hasAttribute('data-repin')) { ed.base = ed.slug; renderEditor(); return; }
     if (btn.hasAttribute('data-unpin')) { ed.base = ''; renderEditor(); return; }
-    if (btn.hasAttribute('data-reset')) { if (ed.base) { ed.slug = ed.base; renderEditor(); } return; }
+    if (btn.hasAttribute('data-reset')) { if (ed.base) { ed.slug = ed.base; ed.palette = {}; renderEditor(); } return; }
     if (btn.hasAttribute('data-scale')) {
       var cur = (window.weaver.parseSlug(ed.slug).scale) || 1;
       var n = Math.max(1, cur + parseInt(btn.dataset.scale, 10));
@@ -345,6 +393,9 @@
 
   function onEditorChange(ev) {
     var el = ev.target;
+    // The name is metadata, not structure — record it and push it into the address (&name=), but do
+    // NOT re-render (that would steal focus mid-edit). It feeds the postcard + share link from ed.name.
+    if (el.matches && el.matches('#weaver-name')) { ed.name = el.value.trim(); if (ed.ttd) setTTDFragment(ed.slug, ed.base); return; }
     if (el.matches && el.matches('select[data-shade-supplier]')) { ttdSup = el.value; renderEditor(); return; }
     if (el.matches && el.matches('input[data-count]')) { var v = Math.max(1, parseInt(el.value, 10) || 1); editStripes(function (a, i) { a[i].count = v; return a; }, stripeIndex(el)); return; }
     if (el.matches && el.matches('input[data-hex]')) { var hex = el.value.toUpperCase(); editStripes(function (a, i) { a[i].hex = hex; return a; }, stripeIndex(el)); return; }
@@ -355,6 +406,9 @@
   /* Read the per-stripe {hex,count} from the rendered rows, apply fn, then rebuild the slug via
    * fromInput — transient codes → canonical; unit counts × the ~xN repeat; first + last are pivots. */
   function editStripes(fn, i) {
+    // Each thread-count row carries its own colour (a per-stripe recolour input) and count, so a
+    // recolour can change one stripe or introduce a new colour. fromInput re-letters by hex, so a new
+    // shade splits off its own code and a matched shade merges.
     var arr = [];
     ed.shell.querySelectorAll('.thread-stripe').forEach(function (r) {
       var c = r.querySelector('input[data-hex]'), n = r.querySelector('input[data-count]');
@@ -369,6 +423,9 @@
     var tc = out.map(function (s, j) { return codeFor(s.hex) + ((j === 0 || j === last) ? '/' : '') + (s.count * scale); }).join(' ');
     var next = window.weaver.fromInput('', pal.join(' '), tc);
     if (next.error) { statLine('thread edit failed: ' + next.error); return; }
+    // The rows already carry the exact colours (the overlay rendered them), so the rebuilt cloth keeps
+    // them — carry its exact palette forward so a structural edit doesn't drop a fine shade.
+    ed.palette = palMap(next);
     gotoSlug(next.slug);
   }
 
@@ -387,10 +444,22 @@
     try { return m ? decodeURIComponent(m[1]) : ''; } catch (e) { return ''; }
   }
 
+  // The exact-colour palette an edited cloth carries in the fragment (&pal=<json>). A custom shade is a
+  // different cloth, so it rides in the address — the URL changes on a fine jog and the edit is
+  // shareable/reloadable, while the canonical &slug= stays the human-palette identity.
+  function paletteFromHash() {
+    var m = /[#&]pal=([^&]*)/.exec(location.hash);
+    if (!m) return {};
+    try { var o = JSON.parse(decodeURIComponent(m[1])); return (o && typeof o === 'object') ? o : {}; }
+    catch (e) { return {}; }
+  }
+
   function setTTDFragment(slug, base) {
-    var nm = nameFromHash();
+    var nm = (typeof ed.name === 'string') ? ed.name : nameFromHash();
+    var pal = (ed.palette && Object.keys(ed.palette).length) ?
+      '&pal=' + encodeURIComponent(JSON.stringify(ed.palette)) : '';
     history.replaceState(null, '', TTD_PATH + '#slug=' + slug +
-      (base ? '&base=' + base : '') + (nm ? '&name=' + encodeURIComponent(nm) : ''));
+      (base ? '&base=' + base : '') + (nm ? '&name=' + encodeURIComponent(nm) : '') + pal);
   }
 
   /* Fetches the shipped ΔTartan index lazily, then fills container with the nearest existing
@@ -566,8 +635,8 @@
         '<p><img class="weaver-print-tartan" alt="Woven sample"></p></div>';
       document.body.appendChild(sheet);
 
-      var settPNG = window.weaver.renderSett(info.slug, 2000, 120);
-      var wovenPNG = window.weaver.renderWoven(info.slug, PAPER[size].px);
+      var settPNG = window.weaver.renderSett(info.slug, 2000, 120, overlayArg());
+      var wovenPNG = window.weaver.renderWoven(info.slug, PAPER[size].px, 0, 0, overlayArg());
       if (settPNG.error || wovenPNG.error) throw new Error(settPNG.error || wovenPNG.error);
       var settImg = sheet.querySelector('.weaver-print-sett');
       var wovenImg = sheet.querySelector('.weaver-print-tartan');

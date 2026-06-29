@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [ODL (Corporate)](/setts/s8/k4r1db3dbi28db36k3r2o1~x2/)|
-|![ODL (Corporate) example sett](/setts/s8/k4r1db3dbi28db36k3r2o1~x2/sett.png)|
+| [ODL (Corporate)](/variants/s8/k4r1db3dbi28db36k3r2o1~x2/)|
+|![ODL (Corporate) example sett](/variants/s8/k4r1db3dbi28db36k3r2o1~x2/sett.png)|

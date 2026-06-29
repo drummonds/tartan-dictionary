@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [American Heritage](/setts/s11/w5k2db14k4r8k4db4k80r6k4r4/)|
-|![American Heritage example sett](/setts/s11/w5k2db14k4r8k4db4k80r6k4r4/sett.png)|
+| [American Heritage](/variants/s11/w5k2db14k4r8k4db4k80r6k4r4/)|
+|![American Heritage example sett](/variants/s11/w5k2db14k4r8k4db4k80r6k4r4/sett.png)|

@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/"><img src="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/sett.png" alt="MacKinnon" width="240"><br>MacKinnon</a>
+<a class="tartan" href="/variants/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/"><img src="/variants/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/sett.png" alt="MacKinnon" width="240"><br>MacKinnon</a>
 

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murdoch Clebration (Personal)](/setts/s8/k21db8r4db2r2db23k4w2~x2/)|
-|![Murdoch Clebration (Personal) example sett](/setts/s8/k21db8r4db2r2db23k4w2~x2/sett.png)|
+| [Murdoch Clebration (Personal)](/variants/s8/k21db8r4db2r2db23k4w2~x2/)|
+|![Murdoch Clebration (Personal) example sett](/variants/s8/k21db8r4db2r2db23k4w2~x2/sett.png)|

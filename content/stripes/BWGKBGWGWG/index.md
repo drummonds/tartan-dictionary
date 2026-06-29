@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Pointe-Claire (District)](/setts/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/)|
-|![City of Pointe-Claire (District) example sett](/setts/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/sett.png)|
+| [City of Pointe-Claire (District)](/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/)|
+|![City of Pointe-Claire (District) example sett](/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/sett.png)|

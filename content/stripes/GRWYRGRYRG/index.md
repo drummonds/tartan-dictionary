@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glendronach Distillery](/setts/s10/dg22o2lb1lo3o1dg6o22lo3o1dg10~x4/)|
-|![Glendronach Distillery example sett](/setts/s10/dg22o2lb1lo3o1dg6o22lo3o1dg10~x4/sett.png)|
+| [Glendronach Distillery](/variants/s10/dg22o2lb1lo3o1dg6o22lo3o1dg10~x4/)|
+|![Glendronach Distillery example sett](/variants/s10/dg22o2lb1lo3o1dg6o22lo3o1dg10~x4/sett.png)|

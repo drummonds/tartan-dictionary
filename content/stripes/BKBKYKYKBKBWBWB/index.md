@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skarpathiotakis, George (Personal)](/setts/s15/db2k4db9k4ly4k3ly2k5db4k3db18w2db2w2db2~x2/)|
-|![Skarpathiotakis, George (Personal) example sett](/setts/s15/db2k4db9k4ly4k3ly2k5db4k3db18w2db2w2db2~x2/sett.png)|
+| [Skarpathiotakis, George (Personal)](/variants/s15/db2k4db9k4ly4k3ly2k5db4k3db18w2db2w2db2~x2/)|
+|![Skarpathiotakis, George (Personal) example sett](/variants/s15/db2k4db9k4ly4k3ly2k5db4k3db18w2db2w2db2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell 'Camel'](/setts/s10/do1lr2k5do3k1o4k1o10k1o1~x4/)|
-|![Campbell 'Camel' example sett](/setts/s10/do1lr2k5do3k1o4k1o10k1o1~x4/sett.png)|
+| [Campbell 'Camel'](/variants/s10/do1lr2k5do3k1o4k1o10k1o1~x4/)|
+|![Campbell 'Camel' example sett](/variants/s10/do1lr2k5do3k1o4k1o10k1o1~x4/sett.png)|

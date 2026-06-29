@@ -1,7 +1,9 @@
-{{/* The /tartans/ index carries its whole body in generated content — an A–Z of the multi-scale
-     tartans (internal/dictionary writeTartans) — so render .Content as a single reading-card page,
-     like stripes/list.html. The per-tartan pages under /tartans/<bare-sett>/ are leaf bundles
-     rendered by tartans/single.html. */}}
+{{/* The /tartans/ named-tartan index (#69b) carries its whole body in generated content — an A–Z of
+     every named tartan that groups more than one sett (internal/dictionary writeTartansIndex) — so
+     render .Content as a single reading-card page, like families/list.html and stripes/list.html.
+     Without this the section falls back to _default/list.html's date archive, which ignores the body
+     and lists nothing. The per-tartan pages under /tartans/<slug>/ are leaf bundles rendered by
+     _default/single.html. */}}
 {{ define "main" }}
 <article class="post">
   <header class="post-header">

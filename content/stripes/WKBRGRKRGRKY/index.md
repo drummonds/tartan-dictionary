@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Scottish P.B. Assoc. (Corp.)](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/)|
-|![Royal Scottish P.B. Assoc. (Corp.) example sett](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/sett.png)|
+| [Royal Scottish P.B. Assoc. (Corp.)](/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/)|
+|![Royal Scottish P.B. Assoc. (Corp.) example sett](/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/sett.png)|

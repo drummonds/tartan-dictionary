@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Coe #2](/setts/s8/k37w9k3g9w3~x2/)|
-|![Glen Coe #2 example sett](/setts/s8/k37w9k3g9w3~x2/sett.png)|
+| [Glen Coe #2](/variants/s8/k37w9k3g9w3~x2/)|
+|![Glen Coe #2 example sett](/variants/s8/k37w9k3g9w3~x2/sett.png)|

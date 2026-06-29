@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heather (RSPCC)](/setts/s16/db4lb3o30lb3dp16lb3dp10dpi48g4~x2/)|
-|![Heather (RSPCC) example sett](/setts/s16/db4lb3o30lb3dp16lb3dp10dpi48g4~x2/sett.png)|
+| [Heather (RSPCC)](/variants/s16/db4lb3o30lb3dp16lb3dp10dpi48g4~x2/)|
+|![Heather (RSPCC) example sett](/variants/s16/db4lb3o30lb3dp16lb3dp10dpi48g4~x2/sett.png)|

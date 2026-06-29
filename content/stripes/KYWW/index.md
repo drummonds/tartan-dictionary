@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Riverside](/setts/s4/lb20w13ly24k3~x2/)|
-|![Spirit of Riverside example sett](/setts/s4/lb20w13ly24k3~x2/sett.png)|
+| [Spirit of Riverside](/variants/s4/lb20w13ly24k3~x2/)|
+|![Spirit of Riverside example sett](/variants/s4/lb20w13ly24k3~x2/sett.png)|

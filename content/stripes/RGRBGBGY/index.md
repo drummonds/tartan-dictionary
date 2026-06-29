@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Minnesota (Fashion)](/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/)|
-|![State Seal of Minnesota (Fashion) example sett](/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/sett.png)|
+| [State Seal of Minnesota (Fashion)](/variants/s8/r4g46r10db10dy33db5dy4lo3~x2/)|
+|![State Seal of Minnesota (Fashion) example sett](/variants/s8/r4g46r10db10dy33db5dy4lo3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lougheed](/setts/s8/lb3r3k4lb2r18k1r2k2~x4/)|
-|![Lougheed example sett](/setts/s8/lb3r3k4lb2r18k1r2k2~x4/sett.png)|
+| [Lougheed](/variants/s8/lb3r3k4lb2r18k1r2k2~x4/)|
+|![Lougheed example sett](/variants/s8/lb3r3k4lb2r18k1r2k2~x4/sett.png)|

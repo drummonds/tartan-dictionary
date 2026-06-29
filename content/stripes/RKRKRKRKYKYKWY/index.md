@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Desert](/setts/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/)|
-|![Desert example sett](/setts/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/sett.png)|
+| [Desert](/variants/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/)|
+|![Desert example sett](/variants/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/sett.png)|

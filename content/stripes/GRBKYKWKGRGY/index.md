@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/)|
-|![Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/sett.png)|
+| [Stewart of Galloway Clan Tartan](/variants/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/)|
+|![Stewart of Galloway Clan Tartan example sett](/variants/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/sett.png)|

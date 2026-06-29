@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerr Hunting](/setts/s18/g16k2g2k2g4k10b19k2b2k3~x2/)|
-|![Kerr Hunting example sett](/setts/s18/g16k2g2k2g4k10b19k2b2k3~x2/sett.png)|
+| [Kerr Hunting](/variants/s18/g16k2g2k2g4k10b19k2b2k3~x2/)|
+|![Kerr Hunting example sett](/variants/s18/g16k2g2k2g4k10b19k2b2k3~x2/sett.png)|

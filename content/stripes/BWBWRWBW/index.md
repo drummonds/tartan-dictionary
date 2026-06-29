@@ -24,9 +24,9 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w18db4w18r30w18db4w9dp4/)|
-|![Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/w18db4w18r30w18db4w9dp4/sett.png)|
-| [Milne, Dress (Dance)](/setts/s8/w12t2w12r17w12t2w5dp2~x4/)|
-|![Milne, Dress (Dance) example sett](/setts/s8/w12t2w12r17w12t2w5dp2~x4/sett.png)|
-| [Milne, dress](/setts/s8/w18db4w18r30w18db4w9p4/)|
-|![Milne, dress example sett](/setts/s8/w18db4w18r30w18db4w9p4/sett.png)|
+| [Milne Dress Family Tartan](/variants/s8/w18db4w18r30w18db4w9dp4/)|
+|![Milne Dress Family Tartan example sett](/variants/s8/w18db4w18r30w18db4w9dp4/sett.png)|
+| [Milne, Dress (Dance)](/variants/s8/w12t2w12r17w12t2w5dp2~x4/)|
+|![Milne, Dress (Dance) example sett](/variants/s8/w12t2w12r17w12t2w5dp2~x4/sett.png)|
+| [Milne, dress](/variants/s8/w18db4w18r30w18db4w9p4/)|
+|![Milne, dress example sett](/variants/s8/w18db4w18r30w18db4w9p4/sett.png)|

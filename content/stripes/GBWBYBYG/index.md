@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duke of York Hunting](/setts/s8/g99db20w8db30ly8db10ly8g46/)|
-|![Duke of York Hunting example sett](/setts/s8/g99db20w8db30ly8db10ly8g46/sett.png)|
+| [Duke of York Hunting](/variants/s8/g99db20w8db30ly8db10ly8g46/)|
+|![Duke of York Hunting example sett](/variants/s8/g99db20w8db30ly8db10ly8g46/sett.png)|

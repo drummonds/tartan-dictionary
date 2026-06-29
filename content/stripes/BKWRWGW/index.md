@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson Dress](/setts/s7/t17k12w9m2w9g1w2~x4/)|
-|![Ferguson Dress example sett](/setts/s7/t17k12w9m2w9g1w2~x4/sett.png)|
-| [Ferguson Dress #2](/setts/s7/db68k42w32r5w32dg4w6/)|
-|![Ferguson Dress #2 example sett](/setts/s7/db68k42w32r5w32dg4w6/sett.png)|
+| [Ferguson Dress](/variants/s7/t17k12w9m2w9g1w2~x4/)|
+|![Ferguson Dress example sett](/variants/s7/t17k12w9m2w9g1w2~x4/sett.png)|
+| [Ferguson Dress #2](/variants/s7/db68k42w32r5w32dg4w6/)|
+|![Ferguson Dress #2 example sett](/variants/s7/db68k42w32r5w32dg4w6/sett.png)|

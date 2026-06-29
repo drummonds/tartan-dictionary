@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Flowers of the Forest, The](/setts/s10/b8t4do5r1do5r1do5r1do16b1~x4/)|
-|![Flowers of the Forest, The example sett](/setts/s10/b8t4do5r1do5r1do5r1do16b1~x4/sett.png)|
+| [Flowers of the Forest, The](/variants/s10/b8t4do5r1do5r1do5r1do16b1~x4/)|
+|![Flowers of the Forest, The example sett](/variants/s10/b8t4do5r1do5r1do5r1do16b1~x4/sett.png)|

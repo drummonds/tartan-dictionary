@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal British Legion, The](/setts/s7/r6b2g20k3db8gi2b4~x2/)|
-|![Royal British Legion, The example sett](/setts/s7/r6b2g20k3db8gi2b4~x2/sett.png)|
+| [Royal British Legion, The](/variants/s7/r6b2g20k3db8gi2b4~x2/)|
+|![Royal British Legion, The example sett](/variants/s7/r6b2g20k3db8gi2b4~x2/sett.png)|

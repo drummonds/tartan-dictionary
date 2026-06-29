@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.205](/setts/s4/w1dg10dp4lt1~x2/)|
-|![Wilson's No.205 example sett](/setts/s4/w1dg10dp4lt1~x2/sett.png)|
+| [Wilson's No.205](/variants/s4/w1dg10dp4lt1~x2/)|
+|![Wilson's No.205 example sett](/variants/s4/w1dg10dp4lt1~x2/sett.png)|

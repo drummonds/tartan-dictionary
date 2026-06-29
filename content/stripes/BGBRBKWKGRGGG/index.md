@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redgate (Name)](/setts/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/)|
-|![Redgate (Name) example sett](/setts/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/sett.png)|
+| [Redgate (Name)](/variants/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/)|
+|![Redgate (Name) example sett](/variants/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/sett.png)|

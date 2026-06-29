@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Bus Tours](/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/)|
-|![Edinburgh Bus Tours example sett](/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/sett.png)|
+| [Edinburgh Bus Tours](/variants/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/)|
+|![Edinburgh Bus Tours example sett](/variants/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/sett.png)|

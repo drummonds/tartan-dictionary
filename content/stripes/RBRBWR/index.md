@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [British European](/tartans/r12db2r12db17w2r2/)|
-|![British European example sett](/setts/s6/r12db2r12db17w2r2~x2/sett.png)|
+| [British European](/setts/r12db2r12db17w2r2/)|
+|![British European example sett](/variants/s6/r12db2r12db17w2r2~x2/sett.png)|

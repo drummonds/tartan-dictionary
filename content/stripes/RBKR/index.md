@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galloway (Name)](/setts/s4/r2k50n2r1~x2/)|
-|![Galloway (Name) example sett](/setts/s4/r2k50n2r1~x2/sett.png)|
+| [Galloway (Name)](/variants/s4/r2k50n2r1~x2/)|
+|![Galloway (Name) example sett](/variants/s4/r2k50n2r1~x2/sett.png)|

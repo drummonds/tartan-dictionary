@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.226](/setts/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2/)|
-|![Wilson's No.226 example sett](/setts/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2/sett.png)|
+| [Wilson's No.226](/variants/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2/)|
+|![Wilson's No.226 example sett](/variants/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2/sett.png)|

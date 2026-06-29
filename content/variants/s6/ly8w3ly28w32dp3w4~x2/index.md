@@ -1,0 +1,66 @@
+---
+title: "Ailsa, Gold (Dance)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly8w3ly28w32dp3w4/)
+(the same proportion at any scale), whose colour order is pattern [WBWYWY](/stripes/wbwywy/).
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7605/
+
+## Provenance
+
+Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ailsa Yellow
+- Ailsa, Gold
+
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Ailsa, Gold (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7605/">record</a>)</li>
+<li>undated — Ailsa Gold (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5629">record</a>)</li>
+<li>undated — Ailsa Yellow Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7604">record</a>)</li>
+<li>undated — Ailsa Gold Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7605">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5629](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5629)
+- Scottish Tartans Authority (ITI): 7605
+
+## Thread count
+Y/16 W6 Y56 W64 P6 W/8
+
+One full sett is **288 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#F8B400;"><span style="color:#F8B400;filter:grayscale(1) invert(1) contrast(100);">#F8B400</span></code> <small style="color:#888">#F8B400</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.2% 0.168 81.1)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> <small style="color:#888">#F0E0C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(91.3% 0.036 78.1)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#F8B400;"><span style="color:#F8B400;filter:grayscale(1) invert(1) contrast(100);">#F8B400</span></code> <small style="color:#888">#F8B400</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.2% 0.168 81.1)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> <small style="color:#888">#F0E0C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(91.3% 0.036 78.1)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> <small style="color:#888">#F0E0C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(91.3% 0.036 78.1)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="Y/16 W6 Y56 W64 P6 W/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=ly8w3ly28w32dp3w4~x2">Ailsa, Gold (Dance)</a> <a class="nn-out" href="/variants/s6/ly8w3ly28w32dp3w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/ly8w3ly28w32dp3w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.09</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=ly8r2ly8g1r6ly3g4ly2~x4&amp;base=ly8w3ly28w32dp3w4~x2">Glufree</a> <a class="nn-out" href="/variants/s8/ly8r2ly8g1r6ly3g4ly2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/ly8r2ly8g1r6ly3g4ly2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.34</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=n2w2ly7lb14n2w2~x2&amp;base=ly8w3ly28w32dp3w4~x2">Cairngorm</a> <a class="nn-out" href="/variants/s6/n2w2ly7lb14n2w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/n2w2ly7lb14n2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.41</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=r8w3r28w32k3w4~x2&amp;base=ly8w3ly28w32dp3w4~x2">Ailsa, Pink (Dance)</a> <a class="nn-out" href="/variants/s6/r8w3r28w32k3w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r8w3r28w32k3w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.50</div><div class="nn-name nn-far"><a href="/variants/s10/o29g2o2g2o6ly21~x4/">Maguire Clan Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/o29g2o2g2o6ly21~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.55</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=t6lo28o20t3~x2&amp;base=ly8w3ly28w32dp3w4~x2">Prince of Orange</a> <a class="nn-out" href="/variants/s4/t6lo28o20t3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/t6lo28o20t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.57</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=y2w19lr2w2y3w3y3lr6ly25w2~x2&amp;base=ly8w3ly28w32dp3w4~x2">Llama (Fashion)</a> <a class="nn-out" href="/variants/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.58</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=o2w1lo17o14w15o2w2~x2&amp;base=ly8w3ly28w32dp3w4~x2">North American Sheep Breeders Association</a> <a class="nn-out" href="/variants/s7/o2w1lo17o14w15o2w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/o2w1lo17o14w15o2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.59</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=w1dp1lb7o4lb1w1~x4&amp;base=ly8w3ly28w32dp3w4~x2">Lochnagar Trade Tartan</a> <a class="nn-out" href="/variants/s6/w1dp1lb7o4lb1w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w1dp1lb7o4lb1w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.63</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=lb40dp5lb6ly26o13lb9dy3~x2&amp;base=ly8w3ly28w32dp3w4~x2">de Meuron Dress (Family)</a> <a class="nn-out" href="/variants/s7/lb40dp5lb6ly26o13lb9dy3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb40dp5lb6ly26o13lb9dy3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.64</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=o10y1k1y1k1y11o18y1k1y10~x4&amp;base=ly8w3ly28w32dp3w4~x2">Donachie of Brockloch Ancient Hunting</a> <a class="nn-out" href="/variants/s10/o10y1k1y1k1y11o18y1k1y10~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/o10y1k1y1k1y11o18y1k1y10~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly8r2ly8g1r6ly3g4ly2~x4/"><circle cx="346.7" cy="240.3" r="4" fill="#3465a4"><title>Glufree</title></circle></a><a href="/variants/s6/n2w2ly7lb14n2w2~x2/"><circle cx="262.1" cy="214.3" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="339.5" cy="198.2" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s10/o29g2o2g2o6ly21~x4/"><circle cx="443.3" cy="171.6" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s4/t6lo28o20t3~x2/"><circle cx="328.9" cy="260.1" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/"><circle cx="265.0" cy="156.0" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/variants/s7/o2w1lo17o14w15o2w2~x2/"><circle cx="274.2" cy="202.0" r="4" fill="#3465a4"><title>North American Sheep Breeders Association</title></circle></a><a href="/variants/s6/w1dp1lb7o4lb1w1~x4/"><circle cx="317.8" cy="230.3" r="4" fill="#3465a4"><title>Lochnagar Trade Tartan</title></circle></a><a href="/variants/s7/lb40dp5lb6ly26o13lb9dy3~x2/"><circle cx="285.4" cy="166.7" r="4" fill="#3465a4"><title>de Meuron Dress (Family)</title></circle></a><a href="/variants/s10/o10y1k1y1k1y11o18y1k1y10~x4/"><circle cx="420.0" cy="197.5" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><circle cx="383.7" cy="225.7" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/ly8w3ly28w32dp3w4~x2/

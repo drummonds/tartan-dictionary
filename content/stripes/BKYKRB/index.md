@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cetoloni (Personal)](/setts/s6/db1r12k6ly1k6db1~x4/)|
-|![Cetoloni (Personal) example sett](/setts/s6/db1r12k6ly1k6db1~x4/sett.png)|
+| [Cetoloni (Personal)](/variants/s6/db1r12k6ly1k6db1~x4/)|
+|![Cetoloni (Personal) example sett](/variants/s6/db1r12k6ly1k6db1~x4/sett.png)|

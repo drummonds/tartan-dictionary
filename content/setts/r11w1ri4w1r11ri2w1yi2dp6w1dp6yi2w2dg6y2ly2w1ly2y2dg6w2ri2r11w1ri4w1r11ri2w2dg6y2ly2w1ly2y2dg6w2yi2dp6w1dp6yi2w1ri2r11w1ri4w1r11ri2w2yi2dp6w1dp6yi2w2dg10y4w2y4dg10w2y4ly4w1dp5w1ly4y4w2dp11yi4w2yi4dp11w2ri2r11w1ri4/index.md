@@ -1,0 +1,5 @@
+---
+title: "Waggrall"
+redirect: "/variants/s81/r11w1ri4w1r11ri2w1yi2dp6w1dp6yi2w2dg6y2ly2w1ly2y2dg6w2ri2r11w1ri4w1r11ri2w2dg6y2ly2w1ly2y2dg6w2yi2dp6w1dp6yi2w1ri2r11w1ri4w1r11ri2w2yi2dp6w1dp6yi2w2dg10y4w2y4dg10w2y4ly4w1dp5w1ly4y4w2dp11yi4w2yi4dp11w-h661ad2c19f880f79/"
+---
+This sett is recorded as a single cloth — redirecting to [Waggrall](/variants/s81/r11w1ri4w1r11ri2w1yi2dp6w1dp6yi2w2dg6y2ly2w1ly2y2dg6w2ri2r11w1ri4w1r11ri2w2dg6y2ly2w1ly2y2dg6w2yi2dp6w1dp6yi2w1ri2r11w1ri4w1r11ri2w2yi2dp6w1dp6yi2w2dg10y4w2y4dg10w2y4ly4w1dp5w1ly4y4w2dp11yi4w2yi4dp11w-h661ad2c19f880f79/).

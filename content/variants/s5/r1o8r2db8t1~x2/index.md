@@ -1,0 +1,55 @@
+---
+title: "Unamed, Riding cloak 1745"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1o8r2db8t1/)
+(the same proportion at any scale), whose colour order is pattern [BBRRR](/stripes/bbrrr/).
+
+Part of the [Unamed Riding cloak 1745](/tartans/unamed-riding-cloak-1745/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unamed, Riding cloak 1745
+
+## Thread count
+R/2 LT16 R4 B16 Ba/2
+
+One full sett is **76 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#806050;"><span style="color:#806050;filter:grayscale(1) invert(1) contrast(100);">#806050</span></code> <small style="color:#888">#806050</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(51.7% 0.049 47.8)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#304080;"><span style="color:#304080;filter:grayscale(1) invert(1) contrast(100);">#304080</span></code> <small style="color:#888">#304080</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.4% 0.109 270.2)</small></td></tr><tr><td>Ba/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#5480B0;"><span style="color:#5480B0;filter:grayscale(1) invert(1) contrast(100);">#5480B0</span></code> <small style="color:#888">#5480B0</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(58.8% 0.089 251.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/2 LT16 R4 B16 Ba/2 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r1dy8r2db8t1/"><img src="/variants/s5/r1dy8r2db8t1~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r1dy8r2db8t1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r1o8r2db8t1~x2">Unamed, Riding cloak 1745</a> <a class="nn-out" href="/variants/s5/r1o8r2db8t1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r1o8r2db8t1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r1dy8r2db8t1~x2&amp;base=r1o8r2db8t1~x2">Unamed Riding cloak 1745</a> <a class="nn-out" href="/variants/s5/r1dy8r2db8t1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r1dy8r2db8t1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.49</div><div class="nn-name"><a href="/ttd/edit/#slug=dy4lg11dy14o30r4~x2&amp;base=r1o8r2db8t1~x2">Trinity Bicycles</a> <a class="nn-out" href="/variants/s5/dy4lg11dy14o30r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dy4lg11dy14o30r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.54</div><div class="nn-name"><a href="/ttd/edit/#slug=n7r1dt6r8lr1~x8&amp;base=r1o8r2db8t1~x2">Callum (Buchan) (Name)</a> <a class="nn-out" href="/variants/s5/n7r1dt6r8lr1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n7r1dt6r8lr1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.55</div><div class="nn-name"><a href="/ttd/edit/#slug=r2db13ri3db3ri16t2~x4&amp;base=r1o8r2db8t1~x2">MacArthur-Fox, dress</a> <a class="nn-out" href="/variants/s6/r2db13ri3db3ri16t2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db13ri3db3ri16t2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.64</div><div class="nn-name"><a href="/ttd/edit/#slug=o15r5o30db32o4ly3~x2&amp;base=r1o8r2db8t1~x2">Cameron, hunting</a> <a class="nn-out" href="/variants/s6/o15r5o30db32o4ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o15r5o30db32o4ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.65</div><div class="nn-name"><a href="/ttd/edit/#slug=dg2dp10dy15dg10dp2~x4&amp;base=r1o8r2db8t1~x2">Harmony 6</a> <a class="nn-out" href="/variants/s5/dg2dp10dy15dg10dp2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dg2dp10dy15dg10dp2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.67</div><div class="nn-name"><a href="/ttd/edit/#slug=dp32dg16o14k4o6dp7k2~x2&amp;base=r1o8r2db8t1~x2">Aisteach</a> <a class="nn-out" href="/variants/s7/dp32dg16o14k4o6dp7k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp32dg16o14k4o6dp7k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.69</div><div class="nn-name"><a href="/variants/s6/r4ni3n12db8ni2r4/">Bristol Gramar School Check (School)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4ni3n12db8ni2r4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.69</div><div class="nn-name"><a href="/ttd/edit/#slug=r2y23db11b22r2~x2&amp;base=r1o8r2db8t1~x2">Skibo (Corporate)</a> <a class="nn-out" href="/variants/s5/r2y23db11b22r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2y23db11b22r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.73</div><div class="nn-name"><a href="/ttd/edit/#slug=db18ly2o6ly2o19r3~x2&amp;base=r1o8r2db8t1~x2">Balfour blue &amp; brown</a> <a class="nn-out" href="/variants/s6/db18ly2o6ly2o19r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db18ly2o6ly2o19r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1dy8r2db8t1~x2/"><circle cx="273.8" cy="253.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/variants/s5/dy4lg11dy14o30r4~x2/"><circle cx="317.1" cy="270.9" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/variants/s5/n7r1dt6r8lr1~x8/"><circle cx="258.2" cy="263.9" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s6/r2db13ri3db3ri16t2~x4/"><circle cx="347.6" cy="245.6" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s6/o15r5o30db32o4ly3~x2/"><circle cx="378.5" cy="245.6" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/variants/s5/dg2dp10dy15dg10dp2~x4/"><circle cx="304.8" cy="310.2" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s7/dp32dg16o14k4o6dp7k2~x2/"><circle cx="351.7" cy="236.0" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s6/r4ni3n12db8ni2r4/"><circle cx="197.3" cy="266.6" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/variants/s5/r2y23db11b22r2~x2/"><circle cx="291.1" cy="268.8" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s6/db18ly2o6ly2o19r3~x2/"><circle cx="316.8" cy="227.3" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><circle cx="299.4" cy="264.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/r1o8r2db8t1~x2/

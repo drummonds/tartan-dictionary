@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King (Austria) (Personal)](/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/)|
-|![King (Austria) (Personal) example sett](/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/sett.png)|
+| [King (Austria) (Personal)](/variants/s9/w2r2db14g16ly2k2g2r35g1~x2/)|
+|![King (Austria) (Personal) example sett](/variants/s9/w2r2db14g16ly2k2g2r35g1~x2/sett.png)|

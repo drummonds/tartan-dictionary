@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spens/Spence (Clan)](/setts/s9/r26t1t10t1g32r11t8w3t1~x2/)|
-|![Spens/Spence (Clan) example sett](/setts/s9/r26t1t10t1g32r11t8w3t1~x2/sett.png)|
+| [Spens/Spence (Clan)](/variants/s9/r26t1t10t1g32r11t8w3t1~x2/)|
+|![Spens/Spence (Clan) example sett](/variants/s9/r26t1t10t1g32r11t8w3t1~x2/sett.png)|

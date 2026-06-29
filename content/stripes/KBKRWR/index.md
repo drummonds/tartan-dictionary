@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graham of Menteith (Red)](/setts/s6/r36lb3r5k21db24k3~x2/)|
-|![Graham of Menteith (Red) example sett](/setts/s6/r36lb3r5k21db24k3~x2/sett.png)|
-| [Merrilees Dress (Dance)](/setts/s6/k23b6k6r5w35r10~x2/)|
-|![Merrilees Dress (Dance) example sett](/setts/s6/k23b6k6r5w35r10~x2/sett.png)|
+| [Graham of Menteith (Red)](/variants/s6/r36lb3r5k21db24k3~x2/)|
+|![Graham of Menteith (Red) example sett](/variants/s6/r36lb3r5k21db24k3~x2/sett.png)|
+| [Merrilees Dress (Dance)](/variants/s6/k23b6k6r5w35r10~x2/)|
+|![Merrilees Dress (Dance) example sett](/variants/s6/k23b6k6r5w35r10~x2/sett.png)|

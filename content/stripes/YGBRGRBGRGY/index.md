@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [West Virginia Old Shawl](/setts/s11/ly1g1db2r2g2r12t2g1r2g1ly1~x4/)|
-|![West Virginia Old Shawl example sett](/setts/s11/ly1g1db2r2g2r12t2g1r2g1ly1~x4/sett.png)|
+| [West Virginia Old Shawl](/variants/s11/ly1g1db2r2g2r12t2g1r2g1ly1~x4/)|
+|![West Virginia Old Shawl example sett](/variants/s11/ly1g1db2r2g2r12t2g1r2g1ly1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Durie](/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/)|
-|![Durie example sett](/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/sett.png)|
+| [Durie](/variants/s9/k12r1k1r1k1r4dg12ly1dg2~x4/)|
+|![Durie example sett](/variants/s9/k12r1k1r1k1r4dg12ly1dg2~x4/sett.png)|

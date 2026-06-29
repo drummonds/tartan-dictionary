@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [World Youth Congress](/setts/s18/db8ly1db16w1g12db27w1db1w1db1w1db27g12w1db16ly1db8r2~x2/)|
-|![World Youth Congress example sett](/setts/s18/db8ly1db16w1g12db27w1db1w1db1w1db27g12w1db16ly1db8r2~x2/sett.png)|
+| [World Youth Congress](/variants/s18/db8ly1db16w1g12db27w1db1w1db1w1db27g12w1db16ly1db8r2~x2/)|
+|![World Youth Congress example sett](/variants/s18/db8ly1db16w1g12db27w1db1w1db1w1db27g12w1db16ly1db8r2~x2/sett.png)|

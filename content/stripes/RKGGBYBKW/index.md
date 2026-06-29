@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hughes Interconnection Int. (Pers)](/setts/s9/w4k2b18ly4b18dy26g18k1m2~x2/)|
-|![Hughes Interconnection Int. (Pers) example sett](/setts/s9/w4k2b18ly4b18dy26g18k1m2~x2/sett.png)|
+| [Hughes Interconnection Int. (Pers)](/variants/s9/w4k2b18ly4b18dy26g18k1m2~x2/)|
+|![Hughes Interconnection Int. (Pers) example sett](/variants/s9/w4k2b18ly4b18dy26g18k1m2~x2/sett.png)|

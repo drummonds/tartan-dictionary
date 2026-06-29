@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mauchline](/setts/s14/dy24k4w7dy7lo4o28dy7k29dy35r7dy7w4dy4k17/)|
-|![Mauchline example sett](/setts/s14/dy24k4w7dy7lo4o28dy7k29dy35r7dy7w4dy4k17/sett.png)|
+| [Mauchline](/variants/s14/dy24k4w7dy7lo4o28dy7k29dy35r7dy7w4dy4k17/)|
+|![Mauchline example sett](/variants/s14/dy24k4w7dy7lo4o28dy7k29dy35r7dy7w4dy4k17/sett.png)|

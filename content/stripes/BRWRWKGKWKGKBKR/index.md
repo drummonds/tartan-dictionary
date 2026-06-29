@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLeods Highlanders](/setts/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/)|
-|![MacLeods Highlanders example sett](/setts/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/sett.png)|
+| [MacLeods Highlanders](/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/)|
+|![MacLeods Highlanders example sett](/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/sett.png)|

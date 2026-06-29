@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Feis An Eilein](/setts/s7/y2r9db8m4db8dg2ly2~x8/)|
-|![Feis An Eilein example sett](/setts/s7/y2r9db8m4db8dg2ly2~x8/sett.png)|
+| [Feis An Eilein](/variants/s7/y2r9db8m4db8dg2ly2~x8/)|
+|![Feis An Eilein example sett](/variants/s7/y2r9db8m4db8dg2ly2~x8/sett.png)|

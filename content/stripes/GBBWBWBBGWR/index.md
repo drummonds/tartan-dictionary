@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kuehle Family (Personal)](/setts/s11/y30db6p1w2p6w2p1db6y30lb1r3~x2/)|
-|![Kuehle Family (Personal) example sett](/setts/s11/y30db6p1w2p6w2p1db6y30lb1r3~x2/sett.png)|
+| [Kuehle Family (Personal)](/variants/s11/y30db6p1w2p6w2p1db6y30lb1r3~x2/)|
+|![Kuehle Family (Personal) example sett](/variants/s11/y30db6p1w2p6w2p1db6y30lb1r3~x2/sett.png)|

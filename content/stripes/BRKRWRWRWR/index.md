@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Good Conduct (USA)](/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/)|
-|![Good Conduct (USA) example sett](/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png)|
+| [Good Conduct (USA)](/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/)|
+|![Good Conduct (USA) example sett](/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/sett.png)|

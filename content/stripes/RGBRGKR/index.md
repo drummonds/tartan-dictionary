@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart, Plaid](/tartans/r2g4db8r9g9k2r2/)|
-|![Stewart, Plaid example sett](/setts/s7/r2g4db8r9g9k2r2~x2/sett.png)|
+| [Stewart, Plaid](/setts/r2g4db8r9g9k2r2/)|
+|![Stewart, Plaid example sett](/variants/s7/r2g4db8r9g9k2r2~x2/sett.png)|

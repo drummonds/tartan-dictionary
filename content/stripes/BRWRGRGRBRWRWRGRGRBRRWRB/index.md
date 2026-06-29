@@ -24,7 +24,7 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDougall #4](/setts/s24/t1r2w1ri2r6db1r1dg3r3dg3ri2w1r1w1ri2db3r2dg1r2dg6r1w1ri2t1~x4/)|
-|![MacDougall #4 example sett](/setts/s24/t1r2w1ri2r6db1r1dg3r3dg3ri2w1r1w1ri2db3r2dg1r2dg6r1w1ri2t1~x4/sett.png)|
-| [MacDougall 8](/setts/s24/t1r2w1ri2r6db1r1g3r3g3ri2w1r1w1ri2db3r2g1r2g6r1w1ri2t1~x2/)|
-|![MacDougall 8 example sett](/setts/s24/t1r2w1ri2r6db1r1g3r3g3ri2w1r1w1ri2db3r2g1r2g6r1w1ri2t1~x2/sett.png)|
+| [MacDougall #4](/variants/s24/t1r2w1ri2r6db1r1dg3r3dg3ri2w1r1w1ri2db3r2dg1r2dg6r1w1ri2t1~x4/)|
+|![MacDougall #4 example sett](/variants/s24/t1r2w1ri2r6db1r1dg3r3dg3ri2w1r1w1ri2db3r2dg1r2dg6r1w1ri2t1~x4/sett.png)|
+| [MacDougall 8](/variants/s24/t1r2w1ri2r6db1r1g3r3g3ri2w1r1w1ri2db3r2g1r2g6r1w1ri2t1~x2/)|
+|![MacDougall 8 example sett](/variants/s24/t1r2w1ri2r6db1r1g3r3g3ri2w1r1w1ri2db3r2g1r2g6r1w1ri2t1~x2/sett.png)|

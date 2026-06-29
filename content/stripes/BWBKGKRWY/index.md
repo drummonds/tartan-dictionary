@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brooke](/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/)|
-|![Brooke example sett](/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/sett.png)|
+| [Brooke](/variants/s9/b2lb1b2k16g20k14r2w2ly2~x2/)|
+|![Brooke example sett](/variants/s9/b2lb1b2k16g20k14r2w2ly2~x2/sett.png)|

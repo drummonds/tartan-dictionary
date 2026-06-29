@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brooks Brothers (Corporate)](/setts/s11/oi48k10db12k2oi3k2db12k10o10k2ly3~x2/)|
-|![Brooks Brothers (Corporate) example sett](/setts/s11/oi48k10db12k2oi3k2db12k10o10k2ly3~x2/sett.png)|
+| [Brooks Brothers (Corporate)](/variants/s11/oi48k10db12k2oi3k2db12k10o10k2ly3~x2/)|
+|![Brooks Brothers (Corporate) example sett](/variants/s11/oi48k10db12k2oi3k2db12k10o10k2ly3~x2/sett.png)|

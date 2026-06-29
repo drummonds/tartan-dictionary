@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harmon Dress](/setts/s18/k2lb6ly2lb2ly2lb19n2dg2n2lb2r4k2r11dg2r2dg2r6ly2~x2/)|
-|![Harmon Dress example sett](/setts/s18/k2lb6ly2lb2ly2lb19n2dg2n2lb2r4k2r11dg2r2dg2r6ly2~x2/sett.png)|
+| [Harmon Dress](/variants/s18/k2lb6ly2lb2ly2lb19n2dg2n2lb2r4k2r11dg2r2dg2r6ly2~x2/)|
+|![Harmon Dress example sett](/variants/s18/k2lb6ly2lb2ly2lb19n2dg2n2lb2r4k2r11dg2r2dg2r6ly2~x2/sett.png)|

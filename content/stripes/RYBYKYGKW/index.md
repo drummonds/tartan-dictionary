@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling (Clan)](/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/)|
-|![Stirling (Clan) example sett](/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/sett.png)|
+| [Stirling (Clan)](/variants/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/)|
+|![Stirling (Clan) example sett](/variants/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/sett.png)|

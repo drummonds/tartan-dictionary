@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gold Brothers](/setts/s6/db6g27db3k19dp27w3~x2/)|
-|![Gold Brothers example sett](/setts/s6/db6g27db3k19dp27w3~x2/sett.png)|
+| [Gold Brothers](/variants/s6/db6g27db3k19dp27w3~x2/)|
+|![Gold Brothers example sett](/variants/s6/db6g27db3k19dp27w3~x2/sett.png)|

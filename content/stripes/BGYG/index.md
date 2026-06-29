@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Special Saffron (Fashion)](/setts/s4/dg21lo44dg86t10/)|
-|![Special Saffron (Fashion) example sett](/setts/s4/dg21lo44dg86t10/sett.png)|
-| [Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/dg21ly43dg86t10/)|
-|![Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/dg21ly43dg86t10/sett.png)|
-| [Special, Saffron](/setts/s4/dg21lo43dg86b10/)|
-|![Special, Saffron example sett](/setts/s4/dg21lo43dg86b10/sett.png)|
+| [Special Saffron (Fashion)](/variants/s4/dg21lo44dg86t10/)|
+|![Special Saffron (Fashion) example sett](/variants/s4/dg21lo44dg86t10/sett.png)|
+| [Special Saffron Tartan](/variants/s4/dg21ly43dg86t10/)|
+|![Special Saffron Tartan example sett](/variants/s4/dg21ly43dg86t10/sett.png)|
+| [Special, Saffron](/variants/s4/dg21lo43dg86b10/)|
+|![Special, Saffron example sett](/variants/s4/dg21lo43dg86b10/sett.png)|

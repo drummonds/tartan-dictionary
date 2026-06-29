@@ -2,6 +2,12 @@
 title: "Clan Presley"
 date: 2023-03-18
 ---
+*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+
+## Tartan
+
+<a class="tartan" href="/variants/s13/db17k2m2db17k14lo1w2lo1k4lo1w2lo1k14~x2/"><img src="/variants/s13/db17k2m2db17k14lo1w2lo1k4lo1w2lo1k14~x2/sett.png" alt="Presley of Lonmay #2" width="240"><br>Presley of Lonmay #2</a>
+
 ## Families
 
 - [Presley of Lonmay](/families/presley-of-lonmay/)

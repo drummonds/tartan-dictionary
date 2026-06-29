@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allanton (Fashion)](/setts/s6/t4g16ly2db7t28w4~x2/)|
-|![Allanton (Fashion) example sett](/setts/s6/t4g16ly2db7t28w4~x2/sett.png)|
-| [Manx Laxey](/setts/s6/b4g16ly2p7b28w4~x2/)|
-|![Manx Laxey example sett](/setts/s6/b4g16ly2p7b28w4~x2/sett.png)|
-| [Manx Laxey (Blue)](/setts/s6/t4dg16ly2dp7t28w4~x2/)|
-|![Manx Laxey (Blue) example sett](/setts/s6/t4dg16ly2dp7t28w4~x2/sett.png)|
+| [Allanton (Fashion)](/variants/s6/t4g16ly2db7t28w4~x2/)|
+|![Allanton (Fashion) example sett](/variants/s6/t4g16ly2db7t28w4~x2/sett.png)|
+| [Manx Laxey](/variants/s6/b4g16ly2p7b28w4~x2/)|
+|![Manx Laxey example sett](/variants/s6/b4g16ly2p7b28w4~x2/sett.png)|
+| [Manx Laxey (Blue)](/variants/s6/t4dg16ly2dp7t28w4~x2/)|
+|![Manx Laxey (Blue) example sett](/variants/s6/t4dg16ly2dp7t28w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bowie, Black (Name)](/setts/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/)|
-|![Bowie, Black (Name) example sett](/setts/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/sett.png)|
+| [Bowie, Black (Name)](/variants/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/)|
+|![Bowie, Black (Name) example sett](/variants/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce (Vestiarium)](/setts/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/)|
-|![Bruce (Vestiarium) example sett](/setts/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/sett.png)|
+| [Bruce (Vestiarium)](/variants/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/)|
+|![Bruce (Vestiarium) example sett](/variants/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/sett.png)|

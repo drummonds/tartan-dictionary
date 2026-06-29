@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Benedict (Personal)](/setts/s5/dg4lb4k2r15ly4~x4/)|
-|![Benedict (Personal) example sett](/setts/s5/dg4lb4k2r15ly4~x4/sett.png)|
-| [Benedict (Personal)](/setts/s5/g4lb4k2r15ly4~x4/)|
-|![Benedict (Personal) example sett](/setts/s5/g4lb4k2r15ly4~x4/sett.png)|
+| [Benedict (Personal)](/variants/s5/dg4lb4k2r15ly4~x4/)|
+|![Benedict (Personal) example sett](/variants/s5/dg4lb4k2r15ly4~x4/sett.png)|
+| [Benedict (Personal)](/variants/s5/g4lb4k2r15ly4~x4/)|
+|![Benedict (Personal) example sett](/variants/s5/g4lb4k2r15ly4~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hosey](/setts/s13/r5db3t20db3dg5g20ly3g20dg5db3t20db3w5/)|
-|![Hosey example sett](/setts/s13/r5db3t20db3dg5g20ly3g20dg5db3t20db3w5/sett.png)|
+| [Hosey](/variants/s13/r5db3t20db3dg5g20ly3g20dg5db3t20db3w5/)|
+|![Hosey example sett](/variants/s13/r5db3t20db3dg5g20ly3g20dg5db3t20db3w5/sett.png)|

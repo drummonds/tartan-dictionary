@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coast & Glen (Fishbox) Ltd](/setts/s18/db8w3db8lo2w3t2dbi19db19t1lg2dbi4db4t5lg2lo2dbi4w3db4~x2/)|
-|![Coast & Glen (Fishbox) Ltd example sett](/setts/s18/db8w3db8lo2w3t2dbi19db19t1lg2dbi4db4t5lg2lo2dbi4w3db4~x2/sett.png)|
+| [Coast & Glen (Fishbox) Ltd](/variants/s18/db8w3db8lo2w3t2dbi19db19t1lg2dbi4db4t5lg2lo2dbi4w3db4~x2/)|
+|![Coast & Glen (Fishbox) Ltd example sett](/variants/s18/db8w3db8lo2w3t2dbi19db19t1lg2dbi4db4t5lg2lo2dbi4w3db4~x2/sett.png)|

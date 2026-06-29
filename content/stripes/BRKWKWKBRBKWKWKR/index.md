@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Knights Templar International](/setts/s16/r3db20k6lb5k4lb3k2r1db2~x2/)|
-|![Scottish Knights Templar International example sett](/setts/s16/r3db20k6lb5k4lb3k2r1db2~x2/sett.png)|
+| [Scottish Knights Templar International](/variants/s16/r3db20k6lb5k4lb3k2r1db2~x2/)|
+|![Scottish Knights Templar International example sett](/variants/s16/r3db20k6lb5k4lb3k2r1db2~x2/sett.png)|

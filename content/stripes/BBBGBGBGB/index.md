@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Breckon Hunting](/setts/s9/dt3dr1dt14dg14dr1dg1dr1dg1dr2~x4/)|
-|![Breckon Hunting example sett](/setts/s9/dt3dr1dt14dg14dr1dg1dr1dg1dr2~x4/sett.png)|
+| [Breckon Hunting](/variants/s9/dt3dr1dt14dg14dr1dg1dr1dg1dr2~x4/)|
+|![Breckon Hunting example sett](/variants/s9/dt3dr1dt14dg14dr1dg1dr1dg1dr2~x4/sett.png)|

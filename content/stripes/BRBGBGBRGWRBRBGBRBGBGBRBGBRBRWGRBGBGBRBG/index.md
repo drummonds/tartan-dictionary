@@ -24,5 +24,5 @@ It is a 40 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Otago Peninsula](/setts/s40/g4dt4r4dt2g12dt2g12dt2r4g4w1ri4db2r4dt4g4dt4r4dt2g12dt2~x2/)|
-|![Otago Peninsula example sett](/setts/s40/g4dt4r4dt2g12dt2g12dt2r4g4w1ri4db2r4dt4g4dt4r4dt2g12dt2~x2/sett.png)|
+| [Otago Peninsula](/variants/s40/g4dt4r4dt2g12dt2g12dt2r4g4w1ri4db2r4dt4g4dt4r4dt2g12dt2~x2/)|
+|![Otago Peninsula example sett](/variants/s40/g4dt4r4dt2g12dt2g12dt2r4g4w1ri4db2r4dt4g4dt4r4dt2g12dt2~x2/sett.png)|

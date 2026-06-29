@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Thistle (Fashion)](/setts/s9/o4dp2o7n30o8n7dpi5dp1w2~x2/)|
-|![Hebridean Thistle (Fashion) example sett](/setts/s9/o4dp2o7n30o8n7dpi5dp1w2~x2/sett.png)|
+| [Hebridean Thistle (Fashion)](/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2/)|
+|![Hebridean Thistle (Fashion) example sett](/variants/s9/o4dp2o7n30o8n7dpi5dp1w2~x2/sett.png)|

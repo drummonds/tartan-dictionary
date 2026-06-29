@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hastings-Stephenson (Personal)](/setts/s8/g44db11g5t3g4db8g4w1~x2/)|
-|![Hastings-Stephenson (Personal) example sett](/setts/s8/g44db11g5t3g4db8g4w1~x2/sett.png)|
+| [Hastings-Stephenson (Personal)](/variants/s8/g44db11g5t3g4db8g4w1~x2/)|
+|![Hastings-Stephenson (Personal) example sett](/variants/s8/g44db11g5t3g4db8g4w1~x2/sett.png)|

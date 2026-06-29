@@ -8,11 +8,15 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s18/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40ly3~x2/"><img src="/setts/s18/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40ly3~x2/sett.png" alt="Griffiths of Llangynin (Personal)" width="240"><br>Griffiths of Llangynin (Personal)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40ly3/">Griffiths of Llangynin</a> ★</td><td><code>DB/80 K16 R8 K8 R16 K8 R8 K16 DG80 K16 R8 K8 R16 K8 R8 K16 DB80 LY/6</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40ly3/"><img src="/variants/s18/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40ly3~x2/sett.png" alt="Griffiths of Llangynin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg40k8r4k4r8k4r4k8db40ly3/">(Personal)</a></td><td><code>DG/80 K16 R8 K8 R16 K8 R8 K16 DB80 LY/6</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg40k8r4k4r8k4r4k8db40ly3/"><img src="/variants/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/"><img src="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/sett.png" alt="Griffiths of Llangynin (Personal)" width="140"><br>Griffiths of Llangynin (Personal)</a></li>
-</ul>
+[See the Griffiths of Llangynin tartan and all its setts →](/tartans/griffiths-of-llangynin/)
 

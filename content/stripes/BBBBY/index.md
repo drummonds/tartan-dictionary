@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North Sea Commission](/setts/s5/t9dt3t1dt12ly1~x4/)|
-|![North Sea Commission example sett](/setts/s5/t9dt3t1dt12ly1~x4/sett.png)|
+| [North Sea Commission](/variants/s5/t9dt3t1dt12ly1~x4/)|
+|![North Sea Commission example sett](/variants/s5/t9dt3t1dt12ly1~x4/sett.png)|

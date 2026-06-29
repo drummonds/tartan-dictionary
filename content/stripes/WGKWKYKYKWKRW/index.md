@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan D](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/)|
-|![Buchanan D example sett](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/sett.png)|
-| [Buchanan D1](/setts/s13/lb2r16k1lb2k1ly4k1ly4k1lb2k1g16lb2~x2/)|
-|![Buchanan D1 example sett](/setts/s13/lb2r16k1lb2k1ly4k1ly4k1lb2k1g16lb2~x2/sett.png)|
+| [Buchanan D](/variants/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/)|
+|![Buchanan D example sett](/variants/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/sett.png)|
+| [Buchanan D1](/variants/s13/lb2r16k1lb2k1ly4k1ly4k1lb2k1g16lb2~x2/)|
+|![Buchanan D1 example sett](/variants/s13/lb2r16k1lb2k1ly4k1ly4k1lb2k1g16lb2~x2/sett.png)|

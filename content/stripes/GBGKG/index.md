@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peterhead](/setts/s5/g7db1g2k3g2~x4/)|
-|![Peterhead example sett](/setts/s5/g7db1g2k3g2~x4/sett.png)|
-| [Peterhead (Personal)](/setts/s5/g9n1g2k4g2~x4/)|
-|![Peterhead (Personal) example sett](/setts/s5/g9n1g2k4g2~x4/sett.png)|
+| [Peterhead](/variants/s5/g7db1g2k3g2~x4/)|
+|![Peterhead example sett](/variants/s5/g7db1g2k3g2~x4/sett.png)|
+| [Peterhead (Personal)](/variants/s5/g9n1g2k4g2~x4/)|
+|![Peterhead (Personal) example sett](/variants/s5/g9n1g2k4g2~x4/sett.png)|

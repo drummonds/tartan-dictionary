@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bredillet (Personal)](/setts/s13/db16k2lo2k2lo2k15db14k2db14k15db16k4w1~x2/)|
-|![Bredillet (Personal) example sett](/setts/s13/db16k2lo2k2lo2k15db14k2db14k15db16k4w1~x2/sett.png)|
+| [Bredillet (Personal)](/variants/s13/db16k2lo2k2lo2k15db14k2db14k15db16k4w1~x2/)|
+|![Bredillet (Personal) example sett](/variants/s13/db16k2lo2k2lo2k15db14k2db14k15db16k4w1~x2/sett.png)|

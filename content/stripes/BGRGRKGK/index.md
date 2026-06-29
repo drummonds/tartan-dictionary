@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bentley](/setts/s8/db28dg2r5dg2r5k21dg23k2~x2/)|
-|![Bentley example sett](/setts/s8/db28dg2r5dg2r5k21dg23k2~x2/sett.png)|
+| [Bentley](/variants/s8/db28dg2r5dg2r5k21dg23k2~x2/)|
+|![Bentley example sett](/variants/s8/db28dg2r5dg2r5k21dg23k2~x2/sett.png)|

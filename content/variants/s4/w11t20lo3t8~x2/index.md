@@ -1,0 +1,52 @@
+---
+title: "Lucard, Stéphane (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w11t20lo3t8/)
+(the same proportion at any scale), whose colour order is pattern [BYBW](/stripes/bybw/).
+
+Part of the [Lucard, Stéphane](/tartans/lucard-st-phane/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11149
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Lucard, Stphane )
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11149](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11149)
+
+## Thread count
+W/22 B40 Y6 B/16
+
+One full sett is **130 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">22</td><td><code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> <small style="color:#888">#FFFFFF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(100.0% 0.000 89.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#788CB4;"><span style="color:#788CB4;filter:grayscale(1) invert(1) contrast(100);">#788CB4</span></code> <small style="color:#888">#788CB4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(63.9% 0.065 264.0)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E0A126;"><span style="color:#E0A126;filter:grayscale(1) invert(1) contrast(100);">#E0A126</span></code> <small style="color:#888">#E0A126</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(75.1% 0.146 78.3)</small></td></tr><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#788CB4;"><span style="color:#788CB4;filter:grayscale(1) invert(1) contrast(100);">#788CB4</span></code> <small style="color:#888">#788CB4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(63.9% 0.065 264.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="W/22 B40 Y6 B/16 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=w11t20lo3t8~x2">Lucard, Stéphane (Personal)</a> <a class="nn-out" href="/variants/s4/w11t20lo3t8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/w11t20lo3t8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.09</div><div class="nn-name"><a href="/ttd/edit/#slug=w11t20ly3t8ly3t10~x2&amp;base=w11t20lo3t8~x2">Lucard, Stphane (Personal))</a> <a class="nn-out" href="/variants/s6/w11t20ly3t8ly3t10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w11t20ly3t8ly3t10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.56</div><div class="nn-name"><a href="/ttd/edit/#slug=b18w4b3lo12~x2&amp;base=w11t20lo3t8~x2">Genesee Community College</a> <a class="nn-out" href="/variants/s4/b18w4b3lo12~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/b18w4b3lo12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.79</div><div class="nn-name"><a href="/variants/s6/w20b20w3b3~x2/">Unidentified, Plaid Barbie's Moss</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w20b20w3b3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.84</div><div class="nn-name"><a href="/ttd/edit/#slug=b1lr4r1lr1lo1lr4b1~x12&amp;base=w11t20lo3t8~x2">Justus Dress (Personal)</a> <a class="nn-out" href="/variants/s7/b1lr4r1lr1lo1lr4b1~x12/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/b1lr4r1lr1lo1lr4b1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.00</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=db1lo5db1lo5db2w1~x4&amp;base=w11t20lo3t8~x2">Tokharion</a> <a class="nn-out" href="/variants/s6/db1lo5db1lo5db2w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1lo5db1lo5db2w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.06</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=b4g8b18w3~x2&amp;base=w11t20lo3t8~x2">Blue Meadow Check (Fashion)</a> <a class="nn-out" href="/variants/s4/b4g8b18w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/b4g8b18w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.07</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=w7db16w20db3w3ly3~x2&amp;base=w11t20lo3t8~x2">Unidentified (Shirt)</a> <a class="nn-out" href="/variants/s6/w7db16w20db3w3ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w7db16w20db3w3ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.18</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=lb40w25dt16lb8dt4~x2&amp;base=w11t20lo3t8~x2">Louise Beveridge (Personal)</a> <a class="nn-out" href="/variants/s5/lb40w25dt16lb8dt4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lb40w25dt16lb8dt4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.21</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=db1w4r1w1ly1w4db1~x12&amp;base=w11t20lo3t8~x2">Justus dress</a> <a class="nn-out" href="/variants/s7/db1w4r1w1ly1w4db1~x12/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1w4r1w1ly1w4db1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.32</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=t11ly2r1ly2r1~x4&amp;base=w11t20lo3t8~x2">Carlisle, Ancient</a> <a class="nn-out" href="/variants/s5/t11ly2r1ly2r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/t11ly2r1ly2r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w11t20ly3t8ly3t10~x2/"><circle cx="363.9" cy="258.2" r="4" fill="#3465a4"><title>Lucard, Stphane (Personal))</title></circle></a><a href="/variants/s4/b18w4b3lo12~x2/"><circle cx="288.0" cy="268.7" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s6/w20b20w3b3~x2/"><circle cx="399.3" cy="270.7" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s7/b1lr4r1lr1lo1lr4b1~x12/"><circle cx="342.3" cy="243.1" r="4" fill="#3465a4"><title>Justus Dress (Personal)</title></circle></a><a href="/variants/s6/db1lo5db1lo5db2w1~x4/"><circle cx="359.6" cy="260.5" r="4" fill="#3465a4"><title>Tokharion</title></circle></a><a href="/variants/s4/b4g8b18w3~x2/"><circle cx="365.7" cy="286.1" r="4" fill="#3465a4"><title>Blue Meadow Check (Fashion)</title></circle></a><a href="/variants/s6/w7db16w20db3w3ly3~x2/"><circle cx="285.1" cy="219.6" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s5/lb40w25dt16lb8dt4~x2/"><circle cx="261.2" cy="233.2" r="4" fill="#3465a4"><title>Louise Beveridge (Personal)</title></circle></a><a href="/variants/s7/db1w4r1w1ly1w4db1~x12/"><circle cx="307.9" cy="221.1" r="4" fill="#3465a4"><title>Justus dress</title></circle></a><a href="/variants/s5/t11ly2r1ly2r1~x4/"><circle cx="407.1" cy="208.9" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><circle cx="363.0" cy="277.7" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s4/w11t20lo3t8~x2/

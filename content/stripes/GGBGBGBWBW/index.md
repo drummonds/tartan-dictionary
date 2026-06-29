@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tweedsmuir Dress (Dance)](/setts/s10/g1y15dp1y1dp1y2dp6w15t1w1~x4/)|
-|![Tweedsmuir Dress (Dance) example sett](/setts/s10/g1y15dp1y1dp1y2dp6w15t1w1~x4/sett.png)|
+| [Tweedsmuir Dress (Dance)](/variants/s10/g1y15dp1y1dp1y2dp6w15t1w1~x4/)|
+|![Tweedsmuir Dress (Dance) example sett](/variants/s10/g1y15dp1y1dp1y2dp6w15t1w1~x4/sett.png)|

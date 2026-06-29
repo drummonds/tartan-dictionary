@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melange](/setts/s9/k80n4k44n50k36n4y12k12y45/)|
-|![Melange example sett](/setts/s9/k80n4k44n50k36n4y12k12y45/sett.png)|
+| [Melange](/variants/s9/k80n4k44n50k36n4y12k12y45/)|
+|![Melange example sett](/variants/s9/k80n4k44n50k36n4y12k12y45/sett.png)|

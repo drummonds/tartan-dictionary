@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart Camel Fashion Tartan Tartan Number: 4038. Earliest known date: 01/01/1999 No Details See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/y3k3dg2k6yi7dg2y3dg2lo3dg5y3b3y20k2~x2/)|
-|![Stewart Camel Fashion Tartan Tartan Number: 4038. Earliest known date: 01/01/1999 No Details See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/y3k3dg2k6yi7dg2y3dg2lo3dg5y3b3y20k2~x2/sett.png)|
+| [Stewart Camel Fashion Tartan](/variants/s14/y3k3dg2k6yi7dg2y3dg2lo3dg5y3b3y20k2~x2/)|
+|![Stewart Camel Fashion Tartan example sett](/variants/s14/y3k3dg2k6yi7dg2y3dg2lo3dg5y3b3y20k2~x2/sett.png)|

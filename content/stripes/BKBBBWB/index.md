@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian Mist](/setts/s7/dt27k5dp2n1dp1w1dp5~x4/)|
-|![Caledonian Mist example sett](/setts/s7/dt27k5dp2n1dp1w1dp5~x4/sett.png)|
+| [Caledonian Mist](/variants/s7/dt27k5dp2n1dp1w1dp5~x4/)|
+|![Caledonian Mist example sett](/variants/s7/dt27k5dp2n1dp1w1dp5~x4/sett.png)|

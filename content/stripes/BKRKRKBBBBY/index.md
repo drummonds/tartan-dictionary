@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Concours of Elegance](/setts/s11/db130k18m6k6m6k6b18db14b5db18lo4/)|
-|![Concours of Elegance example sett](/setts/s11/db130k18m6k6m6k6b18db14b5db18lo4/sett.png)|
+| [Concours of Elegance](/variants/s11/db130k18m6k6m6k6b18db14b5db18lo4/)|
+|![Concours of Elegance example sett](/variants/s11/db130k18m6k6m6k6b18db14b5db18lo4/sett.png)|

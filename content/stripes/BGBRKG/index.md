@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson Britt (Corporate)](/setts/s6/do2dy12do12r1k12dy2~x6/)|
-|![Ferguson Britt (Corporate) example sett](/setts/s6/do2dy12do12r1k12dy2~x6/sett.png)|
+| [Ferguson Britt (Corporate)](/variants/s6/do2dy12do12r1k12dy2~x6/)|
+|![Ferguson Britt (Corporate) example sett](/variants/s6/do2dy12do12r1k12dy2~x6/sett.png)|

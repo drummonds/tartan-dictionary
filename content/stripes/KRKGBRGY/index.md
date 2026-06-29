@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bootneck 350](/setts/s8/k6r4k19dg4db25r5dg3ly2~x2/)|
-|![Bootneck 350 example sett](/setts/s8/k6r4k19dg4db25r5dg3ly2~x2/sett.png)|
+| [Bootneck 350](/variants/s8/k6r4k19dg4db25r5dg3ly2~x2/)|
+|![Bootneck 350 example sett](/variants/s8/k6r4k19dg4db25r5dg3ly2~x2/sett.png)|

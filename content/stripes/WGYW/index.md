@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunoon](/setts/s4/w2g13lo13w2~x6/)|
-|![Dunoon example sett](/setts/s4/w2g13lo13w2~x6/sett.png)|
+| [Dunoon](/variants/s4/w2g13lo13w2~x6/)|
+|![Dunoon example sett](/variants/s4/w2g13lo13w2~x6/sett.png)|

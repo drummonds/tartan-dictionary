@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Water](/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/)|
-|![Black Water example sett](/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/sett.png)|
+| [Black Water](/variants/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/)|
+|![Black Water example sett](/variants/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/sett.png)|

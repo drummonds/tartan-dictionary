@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cartier, Sir George Etienne](/setts/s10/r4dg6o3dg10k14n6r18n6k4n2~x2/)|
-|![Cartier, Sir George Etienne example sett](/setts/s10/r4dg6o3dg10k14n6r18n6k4n2~x2/sett.png)|
+| [Cartier, Sir George Etienne](/variants/s10/r4dg6o3dg10k14n6r18n6k4n2~x2/)|
+|![Cartier, Sir George Etienne example sett](/variants/s10/r4dg6o3dg10k14n6r18n6k4n2~x2/sett.png)|

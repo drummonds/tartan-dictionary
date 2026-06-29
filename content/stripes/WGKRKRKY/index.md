@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hoa Sen](/setts/s8/ly8k2r23k1r17k1g4w3~x2/)|
-|![Hoa Sen example sett](/setts/s8/ly8k2r23k1r17k1g4w3~x2/sett.png)|
+| [Hoa Sen](/variants/s8/ly8k2r23k1r17k1g4w3~x2/)|
+|![Hoa Sen example sett](/variants/s8/ly8k2r23k1r17k1g4w3~x2/sett.png)|

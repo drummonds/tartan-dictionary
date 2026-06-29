@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leando (Coldingham) Hunting (Personal)](/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/)|
-|![Leando (Coldingham) Hunting (Personal) example sett](/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/sett.png)|
+| [Leando (Coldingham) Hunting (Personal)](/variants/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/)|
+|![Leando (Coldingham) Hunting (Personal) example sett](/variants/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wellington](/setts/s6/db1r1db6k6dg6w1~x2/)|
-|![Wellington example sett](/setts/s6/db1r1db6k6dg6w1~x2/sett.png)|
-| [Wellington](/setts/s6/db1r1db6k6g6w1~x2/)|
-|![Wellington example sett](/setts/s6/db1r1db6k6g6w1~x2/sett.png)|
+| [Wellington](/variants/s6/db1r1db6k6dg6w1~x2/)|
+|![Wellington example sett](/variants/s6/db1r1db6k6dg6w1~x2/sett.png)|
+| [Wellington](/variants/s6/db1r1db6k6g6w1~x2/)|
+|![Wellington example sett](/variants/s6/db1r1db6k6g6w1~x2/sett.png)|

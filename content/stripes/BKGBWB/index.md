@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Riley's Theme (Fashion)](/setts/s6/db20k4g5dp14w1db2~x2/)|
-|![Riley's Theme (Fashion) example sett](/setts/s6/db20k4g5dp14w1db2~x2/sett.png)|
+| [Riley's Theme (Fashion)](/variants/s6/db20k4g5dp14w1db2~x2/)|
+|![Riley's Theme (Fashion) example sett](/variants/s6/db20k4g5dp14w1db2~x2/sett.png)|

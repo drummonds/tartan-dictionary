@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hand (Personal)](/setts/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2/)|
-|![Hand (Personal) example sett](/setts/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2/sett.png)|
+| [Hand (Personal)](/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2/)|
+|![Hand (Personal) example sett](/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2/sett.png)|

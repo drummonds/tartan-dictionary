@@ -2,6 +2,12 @@
 title: "Clan MacDonald"
 date: 2023-03-18
 ---
+*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+
+## Tartan
+
+<a class="tartan" href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/"><img src="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley" width="240"><br>MacDonald of Aird & Valley</a>
+
 ## Families
 
 - [MacDonald of Aird & Valley](/families/macdonald-of-aird-valley/)
@@ -14,7 +20,6 @@ date: 2023-03-18
 - [MacDonald of Denovan](/families/macdonald-of-denovan/)
 - [MacDonald of Glenaladale](/families/macdonald-of-glenaladale/)
 - [MacDonald of Glencoe](/families/macdonald-of-glencoe/)
-- [MacDonald of Glencoe Artifact](/families/macdonald-of-glencoe-artifact/)
 - [MacDonald of Kingsburgh](/families/macdonald-of-kingsburgh/)
 - [MacDonald of Kingsburgh -1746](/families/macdonald-of-kingsburgh-1746/)
 - [MacDonald of Lochmaddy](/families/macdonald-of-lochmaddy/)

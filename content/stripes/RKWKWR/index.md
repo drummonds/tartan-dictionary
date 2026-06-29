@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rui (Personal)](/setts/s6/r1lb12k1w2k5r1~x4/)|
-|![Rui (Personal) example sett](/setts/s6/r1lb12k1w2k5r1~x4/sett.png)|
+| [Rui (Personal)](/variants/s6/r1lb12k1w2k5r1~x4/)|
+|![Rui (Personal) example sett](/variants/s6/r1lb12k1w2k5r1~x4/sett.png)|

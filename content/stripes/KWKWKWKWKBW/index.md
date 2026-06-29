@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Napier](/tartans/k4w2k2w2k2w4k2w2k4db12w1/)|
-|![Napier example sett](/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/sett.png)|
-| [Napier](/setts/s11/k2lb2k2lb2k2lb4k2lb2k4db12lb1~x2/)|
-|![Napier example sett](/setts/s11/k2lb2k2lb2k2lb4k2lb2k4db12lb1~x2/sett.png)|
+| [Napier](/setts/k4w2k2w2k2w4k2w2k4db12w1/)|
+|![Napier example sett](/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/sett.png)|
+| [Napier](/variants/s11/k2lb2k2lb2k2lb4k2lb2k4db12lb1~x2/)|
+|![Napier example sett](/variants/s11/k2lb2k2lb2k2lb4k2lb2k4db12lb1~x2/sett.png)|

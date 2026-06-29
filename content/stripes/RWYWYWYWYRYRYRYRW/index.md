@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nike Golf Light](/setts/s17/r5w20lr1w2lr1w2lr2w2lr5o2lr2o2lr2o3lr2o10w3~x2/)|
-|![Nike Golf Light example sett](/setts/s17/r5w20lr1w2lr1w2lr2w2lr5o2lr2o2lr2o3lr2o10w3~x2/sett.png)|
+| [Nike Golf Light](/variants/s17/r5w20lr1w2lr1w2lr2w2lr5o2lr2o2lr2o3lr2o10w3~x2/)|
+|![Nike Golf Light example sett](/variants/s17/r5w20lr1w2lr1w2lr2w2lr5o2lr2o2lr2o3lr2o10w3~x2/sett.png)|

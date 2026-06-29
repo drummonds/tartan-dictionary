@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redpath, Robert A (Personal)](/setts/s8/r26n4r1p2dg1n4dg14w2~x2/)|
-|![Redpath, Robert A (Personal) example sett](/setts/s8/r26n4r1p2dg1n4dg14w2~x2/sett.png)|
+| [Redpath, Robert A (Personal)](/variants/s8/r26n4r1p2dg1n4dg14w2~x2/)|
+|![Redpath, Robert A (Personal) example sett](/variants/s8/r26n4r1p2dg1n4dg14w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weir Minerals (Corporate)](/setts/s4/db80w1lo8w3~x2/)|
-|![Weir Minerals (Corporate) example sett](/setts/s4/db80w1lo8w3~x2/sett.png)|
+| [Weir Minerals (Corporate)](/variants/s4/db80w1lo8w3~x2/)|
+|![Weir Minerals (Corporate) example sett](/variants/s4/db80w1lo8w3~x2/sett.png)|

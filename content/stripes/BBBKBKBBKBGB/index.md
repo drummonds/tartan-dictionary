@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland's Own (Fashion)](/setts/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/)|
-|![Scotland's Own (Fashion) example sett](/setts/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/sett.png)|
+| [Scotland's Own (Fashion)](/variants/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/)|
+|![Scotland's Own (Fashion) example sett](/variants/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/sett.png)|

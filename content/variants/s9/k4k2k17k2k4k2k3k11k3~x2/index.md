@@ -1,0 +1,26 @@
+---
+title: "Stone of Destiny Universal Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4k2k17k2k4k2k3k11k3/)
+(the same proportion at any scale), whose colour order is pattern [KKKKKKKKK](/stripes/kkkkkkkkk/).
+
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2291
+
+## Provenance
+
+Earliest known date: 1996 Designed by Polly Wittering of House of Edgar to commemorate the return of the Stone of Destiny from Westminster.
+
+## Thread count
+AB/8 Y4 AB34 NB4 R8 NB4 AB6 NB22 AB/6
+
+One full sett is **178 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">34</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">22</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td>/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr></tbody></table>
+
+ID: /variants/s9/k4k2k17k2k4k2k3k11k3~x2/

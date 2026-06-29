@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Home (Clans Originaux)](/setts/s14/g3b36k9r3k3r3k36r3k3r3k9b36g3b2~x2/)|
-|![Home (Clans Originaux) example sett](/setts/s14/g3b36k9r3k3r3k36r3k3r3k9b36g3b2~x2/sett.png)|
+| [Home (Clans Originaux)](/variants/s14/g3b36k9r3k3r3k36r3k3r3k9b36g3b2~x2/)|
+|![Home (Clans Originaux) example sett](/variants/s14/g3b36k9r3k3r3k36r3k3r3k9b36g3b2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [NHS Grampian](/setts/s7/k4w1t2w1k16db36t4~x2/)|
-|![NHS Grampian example sett](/setts/s7/k4w1t2w1k16db36t4~x2/sett.png)|
+| [NHS Grampian](/variants/s7/k4w1t2w1k16db36t4~x2/)|
+|![NHS Grampian example sett](/variants/s7/k4w1t2w1k16db36t4~x2/sett.png)|

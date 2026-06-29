@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan Hunting (Scott Adie)](/tartans/dy6g6dy6ly1dy6g6k6g4k6g6dy6t1/)|
-|![Buchanan Hunting (Scott Adie) example sett](/setts/s12/dy6g6dy6ly1dy6g6k6g4k6g6dy6t1~x2/sett.png)|
-| [Buchanan Hunting (Scott Adie) #2](/setts/s12/dy3g3dy3lo1dy3g3k3g3k3g3dy3t2~x8/)|
-|![Buchanan Hunting (Scott Adie) #2 example sett](/setts/s12/dy3g3dy3lo1dy3g3k3g3k3g3dy3t2~x8/sett.png)|
+| [Buchanan Hunting (Scott Adie) #2](/variants/s12/dy3g3dy3lo1dy3g3k3g3k3g3dy3t2~x8/)|
+|![Buchanan Hunting (Scott Adie) #2 example sett](/variants/s12/dy3g3dy3lo1dy3g3k3g3k3g3dy3t2~x8/sett.png)|
+| [Buchanan Hunting Clan Tartan](/setts/dy6g6dy6ly1dy6g6k6g4k6g6dy6t1/)|
+|![Buchanan Hunting Clan Tartan example sett](/variants/s12/dy6g6dy6ly1dy6g6k6g4k6g6dy6t1~x2/sett.png)|

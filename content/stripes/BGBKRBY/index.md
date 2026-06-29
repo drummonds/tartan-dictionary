@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of South Lanarkshire (Distric](/setts/s7/t13g2t12k8r1dt35lo1~x2/)|
-|![Spirit of South Lanarkshire (Distric example sett](/setts/s7/t13g2t12k8r1dt35lo1~x2/sett.png)|
+| [Spirit of South Lanarkshire (Distric](/variants/s7/t13g2t12k8r1dt35lo1~x2/)|
+|![Spirit of South Lanarkshire (Distric example sett](/variants/s7/t13g2t12k8r1dt35lo1~x2/sett.png)|

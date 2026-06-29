@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Finnie (Personal)](/setts/s8/k4w1dp5w1k20db37w4db4~x2/)|
-|![Finnie (Personal) example sett](/setts/s8/k4w1dp5w1k20db37w4db4~x2/sett.png)|
+| [Finnie (Personal)](/variants/s8/k4w1dp5w1k20db37w4db4~x2/)|
+|![Finnie (Personal) example sett](/variants/s8/k4w1dp5w1k20db37w4db4~x2/sett.png)|

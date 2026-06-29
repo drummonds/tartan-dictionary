@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Postcode Lottery](/setts/s7/g3r1g12w4lb15ly1lb3~x4/)|
-|![Postcode Lottery example sett](/setts/s7/g3r1g12w4lb15ly1lb3~x4/sett.png)|
+| [Postcode Lottery](/variants/s7/g3r1g12w4lb15ly1lb3~x4/)|
+|![Postcode Lottery example sett](/variants/s7/g3r1g12w4lb15ly1lb3~x4/sett.png)|

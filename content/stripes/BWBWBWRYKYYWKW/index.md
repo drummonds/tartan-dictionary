@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salaberry-de-Valleyfield Traditional](/setts/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/)|
-|![Salaberry-de-Valleyfield Traditional example sett](/setts/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/sett.png)|
+| [Salaberry-de-Valleyfield Traditional](/variants/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/)|
+|![Salaberry-de-Valleyfield Traditional example sett](/variants/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/sett.png)|

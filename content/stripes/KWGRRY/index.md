@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mason (Personal)](/setts/s6/k7w2dg2o31r35lo2~x2/)|
-|![Mason (Personal) example sett](/setts/s6/k7w2dg2o31r35lo2~x2/sett.png)|
-| [Mason, David Elsworth (Personal)](/setts/s6/k7w2dg2r31ri35lo2~x2/)|
-|![Mason, David Elsworth (Personal) example sett](/setts/s6/k7w2dg2r31ri35lo2~x2/sett.png)|
+| [Mason (Personal)](/variants/s6/k7w2dg2o31r35lo2~x2/)|
+|![Mason (Personal) example sett](/variants/s6/k7w2dg2o31r35lo2~x2/sett.png)|
+| [Mason, David Elsworth (Personal)](/variants/s6/k7w2dg2r31ri35lo2~x2/)|
+|![Mason, David Elsworth (Personal) example sett](/variants/s6/k7w2dg2r31ri35lo2~x2/sett.png)|

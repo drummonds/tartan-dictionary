@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Waistcoat](/setts/s7/dbi4db4dg16dgi16dbi4db4ly1~x4/)|
-|![Unidentified Waistcoat example sett](/setts/s7/dbi4db4dg16dgi16dbi4db4ly1~x4/sett.png)|
-| [Unidentified, Waistcoat](/setts/s7/dbi4db4dg16g16dbi4db4ly1~x4/)|
-|![Unidentified, Waistcoat example sett](/setts/s7/dbi4db4dg16g16dbi4db4ly1~x4/sett.png)|
+| [Unidentified Waistcoat](/variants/s7/dbi4db4dg16dgi16dbi4db4ly1~x4/)|
+|![Unidentified Waistcoat example sett](/variants/s7/dbi4db4dg16dgi16dbi4db4ly1~x4/sett.png)|
+| [Unidentified, Waistcoat](/variants/s7/dbi4db4dg16g16dbi4db4ly1~x4/)|
+|![Unidentified, Waistcoat example sett](/variants/s7/dbi4db4dg16g16dbi4db4ly1~x4/sett.png)|

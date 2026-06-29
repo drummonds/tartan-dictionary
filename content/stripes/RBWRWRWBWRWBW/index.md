@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fiona](/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/)|
-|![Fiona example sett](/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/sett.png)|
+| [Fiona](/variants/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/)|
+|![Fiona example sett](/variants/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/sett.png)|

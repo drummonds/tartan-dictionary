@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilsyth (District)](/setts/s6/g4ly3db35r13dp8w3~x2/)|
-|![Kilsyth (District) example sett](/setts/s6/g4ly3db35r13dp8w3~x2/sett.png)|
+| [Kilsyth (District)](/variants/s6/g4ly3db35r13dp8w3~x2/)|
+|![Kilsyth (District) example sett](/variants/s6/g4ly3db35r13dp8w3~x2/sett.png)|

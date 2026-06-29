@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heirloom Blue Alba (Fashion)](/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/)|
-|![Heirloom Blue Alba (Fashion) example sett](/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/sett.png)|
+| [Heirloom Blue Alba (Fashion)](/variants/s9/t4lo2t34db10lr4db4dp4db23w3~x2/)|
+|![Heirloom Blue Alba (Fashion) example sett](/variants/s9/t4lo2t34db10lr4db4dp4db23w3~x2/sett.png)|

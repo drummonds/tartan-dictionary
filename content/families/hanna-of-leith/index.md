@@ -8,5 +8,11 @@ A family of [Clan Hanna](/clan/hanna/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/"><img src="/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/sett.png" alt="Hanna of Leith (yellow line)" width="240"><br>Hanna of Leith (yellow line)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dy9n4dy2n4dy2n30dy9n4t14lo2/">Hanna of Leith</a> ★</td><td><code>DY/18 N8 DY4 N8 DY4 N60 DY18 N8 T28 LO/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dy9n4dy2n4dy2n30dy9n4t14lo2/"><img src="/variants/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/sett.png" alt="Hanna of Leith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

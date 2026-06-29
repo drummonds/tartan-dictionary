@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keppoch](/setts/s7/k5g2k5g2db8g25w4~x2/)|
-|![Keppoch example sett](/setts/s7/k5g2k5g2db8g25w4~x2/sett.png)|
+| [Keppoch](/variants/s7/k5g2k5g2db8g25w4~x2/)|
+|![Keppoch example sett](/variants/s7/k5g2k5g2db8g25w4~x2/sett.png)|

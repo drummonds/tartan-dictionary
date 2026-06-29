@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eachaidh](/setts/s6/k6y1r18b6dg18k2~x2/)|
-|![Eachaidh example sett](/setts/s6/k6y1r18b6dg18k2~x2/sett.png)|
+| [Eachaidh](/variants/s6/k6y1r18b6dg18k2~x2/)|
+|![Eachaidh example sett](/variants/s6/k6y1r18b6dg18k2~x2/sett.png)|

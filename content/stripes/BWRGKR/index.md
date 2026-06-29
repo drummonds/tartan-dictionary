@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Military Medical Memorial (USA)](/setts/s6/db6w3r3g55k10r3~x4/)|
-|![Military Medical Memorial (USA) example sett](/setts/s6/db6w3r3g55k10r3~x4/sett.png)|
+| [Military Medical Memorial (USA)](/variants/s6/db6w3r3g55k10r3~x4/)|
+|![Military Medical Memorial (USA) example sett](/variants/s6/db6w3r3g55k10r3~x4/sett.png)|

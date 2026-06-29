@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chambers, Christopher J (Personal)](/setts/s7/t13r1g13w1k1w7k3~x2/)|
-|![Chambers, Christopher J (Personal) example sett](/setts/s7/t13r1g13w1k1w7k3~x2/sett.png)|
+| [Chambers, Christopher J (Personal)](/variants/s7/t13r1g13w1k1w7k3~x2/)|
+|![Chambers, Christopher J (Personal) example sett](/variants/s7/t13r1g13w1k1w7k3~x2/sett.png)|

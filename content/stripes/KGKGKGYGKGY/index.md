@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [American Monahan (Personal)](/setts/s11/k13g3k4g3k3g19lo1g19k3g2lo4~x2/)|
-|![American Monahan (Personal) example sett](/setts/s11/k13g3k4g3k3g19lo1g19k3g2lo4~x2/sett.png)|
+| [American Monahan (Personal)](/variants/s11/k13g3k4g3k3g19lo1g19k3g2lo4~x2/)|
+|![American Monahan (Personal) example sett](/variants/s11/k13g3k4g3k3g19lo1g19k3g2lo4~x2/sett.png)|

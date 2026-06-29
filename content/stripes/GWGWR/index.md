@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Trinity Bicycles (Corporate)](/setts/s5/r4lbi30y14lb11y4~x2/)|
-|![Trinity Bicycles (Corporate) example sett](/setts/s5/r4lbi30y14lb11y4~x2/sett.png)|
+| [Trinity Bicycles (Corporate)](/variants/s5/r4lbi30y14lb11y4~x2/)|
+|![Trinity Bicycles (Corporate) example sett](/variants/s5/r4lbi30y14lb11y4~x2/sett.png)|

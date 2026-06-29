@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cian (Carroll), Clan](/setts/s11/db16k1t1db10k4o8dp4db7t1k1lo2~x2/)|
-|![Cian (Carroll), Clan example sett](/setts/s11/db16k1t1db10k4o8dp4db7t1k1lo2~x2/sett.png)|
+| [Cian (Carroll), Clan](/variants/s11/db16k1t1db10k4o8dp4db7t1k1lo2~x2/)|
+|![Cian (Carroll), Clan example sett](/variants/s11/db16k1t1db10k4o8dp4db7t1k1lo2~x2/sett.png)|

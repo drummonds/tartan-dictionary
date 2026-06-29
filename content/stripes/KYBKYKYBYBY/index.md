@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clergy (Corporate)](/setts/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2/)|
-|![Clergy (Corporate) example sett](/setts/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2/sett.png)|
+| [Clergy (Corporate)](/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2/)|
+|![Clergy (Corporate) example sett](/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2/sett.png)|

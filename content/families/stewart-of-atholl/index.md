@@ -8,12 +8,15 @@ A family of [Clan Stewart](/clan/stewart/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s16/dg22k1dg2k1dg3k8r20k1r3~x4/"><img src="/setts/s16/dg22k1dg2k1dg3k8r20k1r3~x4/sett.png" alt="Stewart/Stuart of Atholl" width="240"><br>Stewart/Stuart of Atholl</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dg22k1dg2k1dg3k8r20k1r3/">Stewart of Atholl</a> ★</td><td><code>R/12 K4 R80 K32 DG12 K4 DG8 K4 DG88 K4 DG8 K4 DG12 K32 R80 K/4</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg22k1dg2k1dg3k8r20k1r3/"><img src="/variants/s16/dg22k1dg2k1dg3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg22k1dg2k1dg3k8r20k1r6/">Stewart of Atholl</a></td><td><code>DG/44 K2 DG4 K2 DG6 K16 R40 K2 R/12</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg22k1dg2k1dg3k8r20k1r6/"><img src="/variants/s9/dg22k1dg2k1dg3k8r20k1r6~x2/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s9/dg22k1dg2k1dg3k8r20k1r6~x2/"><img src="/setts/s9/dg22k1dg2k1dg3k8r20k1r6~x2/sett.png" alt="Stewart of Atholl" width="140"><br>Stewart of Atholl</a></li>
-<li><a class="tartan" href="/setts/s9/dg22k1dg2k1dg3k8r20k1r3~x4/"><img src="/setts/s9/dg22k1dg2k1dg3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl (Clan)" width="140"><br>Stewart of Atholl (Clan)</a></li>
-</ul>
+[See the Stewart of Atholl tartan and all its setts →](/tartans/stewart-of-atholl/)
 

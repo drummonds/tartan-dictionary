@@ -1,0 +1,14 @@
+{{/* The /tartans/ index carries its whole body in generated content — an A–Z of the multi-scale
+     tartans (internal/dictionary writeTartans) — so render .Content as a single reading-card page,
+     like stripes/list.html. The per-tartan pages under /tartans/<bare-sett>/ are leaf bundles
+     rendered by tartans/single.html. */}}
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

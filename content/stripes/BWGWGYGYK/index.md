@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McClurg, William Thomas (Personal)](/setts/s9/k4ly1g2ly1g32lt1g3lt32db3~x2/)|
-|![McClurg, William Thomas (Personal) example sett](/setts/s9/k4ly1g2ly1g32lt1g3lt32db3~x2/sett.png)|
+| [McClurg, William Thomas (Personal)](/variants/s9/k4ly1g2ly1g32lt1g3lt32db3~x2/)|
+|![McClurg, William Thomas (Personal) example sett](/variants/s9/k4ly1g2ly1g32lt1g3lt32db3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Berwick (Fashion)](/setts/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/)|
-|![Berwick (Fashion) example sett](/setts/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/sett.png)|
+| [Berwick (Fashion)](/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/)|
+|![Berwick (Fashion) example sett](/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/sett.png)|

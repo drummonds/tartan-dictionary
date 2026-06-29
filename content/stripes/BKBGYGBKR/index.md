@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glackin-McColgan (Personal)](/setts/s9/b16k11b24dg10ly3dg17b15k5r6~x2/)|
-|![Glackin-McColgan (Personal) example sett](/setts/s9/b16k11b24dg10ly3dg17b15k5r6~x2/sett.png)|
+| [Glackin-McColgan (Personal)](/variants/s9/b16k11b24dg10ly3dg17b15k5r6~x2/)|
+|![Glackin-McColgan (Personal) example sett](/variants/s9/b16k11b24dg10ly3dg17b15k5r6~x2/sett.png)|

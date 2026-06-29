@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Langholm Millennium](/setts/s12/m43k3dy1k2w1k6r2dg1k1dg3k1ly3~x2/)|
-|![Langholm Millennium example sett](/setts/s12/m43k3dy1k2w1k6r2dg1k1dg3k1ly3~x2/sett.png)|
+| [Langholm Millennium](/variants/s12/m43k3dy1k2w1k6r2dg1k1dg3k1ly3~x2/)|
+|![Langholm Millennium example sett](/variants/s12/m43k3dy1k2w1k6r2dg1k1dg3k1ly3~x2/sett.png)|

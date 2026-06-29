@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University of Alabama (Corporate)](/setts/s14/m32k2n3w4n3k2m22k1m5k2w6k2m4w5~x2/)|
-|![University of Alabama (Corporate) example sett](/setts/s14/m32k2n3w4n3k2m22k1m5k2w6k2m4w5~x2/sett.png)|
+| [University of Alabama (Corporate)](/variants/s14/m32k2n3w4n3k2m22k1m5k2w6k2m4w5~x2/)|
+|![University of Alabama (Corporate) example sett](/variants/s14/m32k2n3w4n3k2m22k1m5k2w6k2m4w5~x2/sett.png)|

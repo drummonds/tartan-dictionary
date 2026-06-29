@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Castle Fraser Check](/setts/s3/dg20r1dg4~x3/)|
-|![Castle Fraser Check example sett](/setts/s3/dg20r1dg4~x3/sett.png)|
+| [Castle Fraser Check](/variants/s3/dg20r1dg4~x3/)|
+|![Castle Fraser Check example sett](/variants/s3/dg20r1dg4~x3/sett.png)|

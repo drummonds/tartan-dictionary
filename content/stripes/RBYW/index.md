@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kellogg College University of Oxford](/setts/s4/r21db61lo8w21~x2/)|
-|![Kellogg College University of Oxford example sett](/setts/s4/r21db61lo8w21~x2/sett.png)|
-| [Kellogg College University of Oxford](/setts/s4/r21db61ly8w21~x2/)|
-|![Kellogg College University of Oxford example sett](/setts/s4/r21db61ly8w21~x2/sett.png)|
+| [Kellogg College University of Oxford](/variants/s4/r21db61lo8w21~x2/)|
+|![Kellogg College University of Oxford example sett](/variants/s4/r21db61lo8w21~x2/sett.png)|
+| [Kellogg College University of Oxford](/variants/s4/r21db61ly8w21~x2/)|
+|![Kellogg College University of Oxford example sett](/variants/s4/r21db61ly8w21~x2/sett.png)|

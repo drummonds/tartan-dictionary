@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Broberg (Scania) (Personal)](/setts/s4/r80t40k5lo6/)|
-|![Broberg (Scania) (Personal) example sett](/setts/s4/r80t40k5lo6/sett.png)|
-| [Rogues (United States), The](/setts/s4/r3n12k50ly3~x2/)|
-|![Rogues (United States), The example sett](/setts/s4/r3n12k50ly3~x2/sett.png)|
-| [Rogues, The (Corporate)](/setts/s4/r3t12k50ly3~x2/)|
-|![Rogues, The (Corporate) example sett](/setts/s4/r3t12k50ly3~x2/sett.png)|
+| [Broberg (Scania) (Personal)](/variants/s4/r80t40k5lo6/)|
+|![Broberg (Scania) (Personal) example sett](/variants/s4/r80t40k5lo6/sett.png)|
+| [Rogues (United States), The](/variants/s4/r3n12k50ly3~x2/)|
+|![Rogues (United States), The example sett](/variants/s4/r3n12k50ly3~x2/sett.png)|
+| [Rogues, The (Corporate)](/variants/s4/r3t12k50ly3~x2/)|
+|![Rogues, The (Corporate) example sett](/variants/s4/r3t12k50ly3~x2/sett.png)|

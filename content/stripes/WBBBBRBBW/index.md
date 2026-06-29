@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caitriot](/setts/s9/w3t2n14o8t14db16n13t2w3~x2/)|
-|![Caitriot example sett](/setts/s9/w3t2n14o8t14db16n13t2w3~x2/sett.png)|
+| [Caitriot](/variants/s9/w3t2n14o8t14db16n13t2w3~x2/)|
+|![Caitriot example sett](/variants/s9/w3t2n14o8t14db16n13t2w3~x2/sett.png)|

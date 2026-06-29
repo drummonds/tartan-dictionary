@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milne-Murtagh (2009)](/setts/s7/m5yii2k30yi26y2yi2ki4~x2/)|
-|![Milne-Murtagh (2009) example sett](/setts/s7/m5yii2k30yi26y2yi2ki4~x2/sett.png)|
+| [Milne-Murtagh (2009)](/variants/s7/m5yii2k30yi26y2yi2ki4~x2/)|
+|![Milne-Murtagh (2009) example sett](/variants/s7/m5yii2k30yi26y2yi2ki4~x2/sett.png)|

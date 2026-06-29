@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lawson, William](/setts/s8/r3dgi1k16w3k15dg13dgi22lo3~x2/)|
-|![Lawson, William example sett](/setts/s8/r3dgi1k16w3k15dg13dgi22lo3~x2/sett.png)|
+| [Lawson, William](/variants/s8/r3dgi1k16w3k15dg13dgi22lo3~x2/)|
+|![Lawson, William example sett](/variants/s8/r3dgi1k16w3k15dg13dgi22lo3~x2/sett.png)|

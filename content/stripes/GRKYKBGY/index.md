@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mensah](/setts/s8/ly3g9db9k1ly2k15r37g2~x2/)|
-|![Mensah example sett](/setts/s8/ly3g9db9k1ly2k15r37g2~x2/sett.png)|
+| [Mensah](/variants/s8/ly3g9db9k1ly2k15r37g2~x2/)|
+|![Mensah example sett](/variants/s8/ly3g9db9k1ly2k15r37g2~x2/sett.png)|

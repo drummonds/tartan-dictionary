@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laidlaw's Highland Drovers](/setts/s6/b35k10b4w2b3r2~x2/)|
-|![Laidlaw's Highland Drovers example sett](/setts/s6/b35k10b4w2b3r2~x2/sett.png)|
+| [Laidlaw's Highland Drovers](/variants/s6/b35k10b4w2b3r2~x2/)|
+|![Laidlaw's Highland Drovers example sett](/variants/s6/b35k10b4w2b3r2~x2/sett.png)|

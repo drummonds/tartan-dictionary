@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hartmann (Personal)](/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/)|
-|![Hartmann (Personal) example sett](/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/sett.png)|
+| [Hartmann (Personal)](/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/)|
+|![Hartmann (Personal) example sett](/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/sett.png)|

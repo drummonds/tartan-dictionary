@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baker (Name)](/setts/s8/db28lo3w1lo3db4w2dp1w5~x4/)|
-|![Baker (Name) example sett](/setts/s8/db28lo3w1lo3db4w2dp1w5~x4/sett.png)|
+| [Baker (Name)](/variants/s8/db28lo3w1lo3db4w2dp1w5~x4/)|
+|![Baker (Name) example sett](/variants/s8/db28lo3w1lo3db4w2dp1w5~x4/sett.png)|

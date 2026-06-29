@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robert Lee Jordan Defiance (Personal)](/setts/s14/k3ki1dg21dp1dg3dp12dt3dp3dt4dp3dt24ki1w5r3~x2/)|
-|![Robert Lee Jordan Defiance (Personal) example sett](/setts/s14/k3ki1dg21dp1dg3dp12dt3dp3dt4dp3dt24ki1w5r3~x2/sett.png)|
+| [Robert Lee Jordan Defiance (Personal)](/variants/s14/k3ki1dg21dp1dg3dp12dt3dp3dt4dp3dt24ki1w5r3~x2/)|
+|![Robert Lee Jordan Defiance (Personal) example sett](/variants/s14/k3ki1dg21dp1dg3dp12dt3dp3dt4dp3dt24ki1w5r3~x2/sett.png)|

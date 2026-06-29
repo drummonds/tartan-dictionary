@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waterfront](/setts/s6/r2db38k20w1dg20r2/)|
-|![Waterfront example sett](/setts/s6/r2db38k20w1dg20r2/sett.png)|
+| [Waterfront](/variants/s6/r2db38k20w1dg20r2/)|
+|![Waterfront example sett](/variants/s6/r2db38k20w1dg20r2/sett.png)|

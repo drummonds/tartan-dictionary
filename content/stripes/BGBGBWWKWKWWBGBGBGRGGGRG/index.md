@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Sullivan, McCragh](/setts/s24/yi16r2yi4y2yi4r2yi16db2yi3db2yi3db10w2lb12k2lb5k2lb12w2db10yi3db2yi3db2~x2/)|
-|![O'Sullivan, McCragh example sett](/setts/s24/yi16r2yi4y2yi4r2yi16db2yi3db2yi3db10w2lb12k2lb5k2lb12w2db10yi3db2yi3db2~x2/sett.png)|
+| [O'Sullivan, McCragh](/variants/s24/yi16r2yi4y2yi4r2yi16db2yi3db2yi3db10w2lb12k2lb5k2lb12w2db10yi3db2yi3db2~x2/)|
+|![O'Sullivan, McCragh example sett](/variants/s24/yi16r2yi4y2yi4r2yi16db2yi3db2yi3db10w2lb12k2lb5k2lb12w2db10yi3db2yi3db2~x2/sett.png)|

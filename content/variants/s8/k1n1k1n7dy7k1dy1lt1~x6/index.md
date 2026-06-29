@@ -1,0 +1,67 @@
+---
+title: "Auld Lang Syne"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1n1k1n7dy7k1dy1lt1/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGKGW](/stripes/kbkbgkgw/).
+
+Part of the [Auld Lang Syne](/tartans/auld-lang-syne/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=131
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Auld Lang Syne Blue
+- Auld Lang Syne Brown
+- Auld Lang Syne, Blue
+- Auld Lang Syne, Grey
+- MacRae, Rae
+- MacRae/Rae
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [131](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=131)
+- Scottish Tartans World Register: 240
+
+## Thread count
+K/6 B6 K6 B42 T42 K6 T6 LB/6
+
+One full sett is **228 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#07648C;"><span style="color:#07648C;filter:grayscale(1) invert(1) contrast(100);">#07648C</span></code> <small style="color:#888">#07648C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.6% 0.099 235.4)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">42</td><td><code style="background-color:#07648C;"><span style="color:#07648C;filter:grayscale(1) invert(1) contrast(100);">#07648C</span></code> <small style="color:#888">#07648C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.6% 0.099 235.4)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">42</td><td><code style="background-color:#503C14;"><span style="color:#503C14;filter:grayscale(1) invert(1) contrast(100);">#503C14</span></code> <small style="color:#888">#503C14</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(37.0% 0.062 81.8)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#503C14;"><span style="color:#503C14;filter:grayscale(1) invert(1) contrast(100);">#503C14</span></code> <small style="color:#888">#503C14</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(37.0% 0.062 81.8)</small></td></tr><tr><td>LB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#82F5FA;"><span style="color:#82F5FA;filter:grayscale(1) invert(1) contrast(100);">#82F5FA</span></code> <small style="color:#888">#82F5FA</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.4% 0.105 199.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/6 B6 K6 B42 T42 K6 T6 LB/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dp27dg6dp27dg28dp5dg7dp5dg28dp31dg6dp31dg28dp2dg2dp4dg2dp2dg28dp2dg2dp4dg2dp2dg28dp27dg6dp27/"><img src="/variants/s27/dp27dg6dp27dg28dp5dg7dp5dg28dp31dg6dp31dg28dp2dg2dp4dg2dp2dg28dp2dg2dp4dg2dp2dg28dp27dg6dp27~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dp27dg6dp27dg28dp5dg7dp5dg28dp31dg6dp31dg28dp2dg2dp4dg2dp2dg28dp2dg2dp4dg2dp2dg28dp27dg6dp27/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k1n1k1n7dy7k1dy1lt1~x6">Auld Lang Syne</a> <a class="nn-out" href="/variants/s8/k1n1k1n7dy7k1dy1lt1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k1n1k1n7dy7k1dy1lt1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.73</div><div class="nn-name"><a href="/ttd/edit/#slug=k1n1k1n8dy8k1dy1lt1~x6&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Auld Lang Syne Burns Commemorative Tartan</a> <a class="nn-out" href="/variants/s8/k1n1k1n8dy8k1dy1lt1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k1n1k1n8dy8k1dy1lt1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.87</div><div class="nn-name"><a href="/ttd/edit/#slug=db2r3g11r3db2t2db11r2g2~x2&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Hebridean 1</a> <a class="nn-out" href="/variants/s9/db2r3g11r3db2t2db11r2g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db2r3g11r3db2t2db11r2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=g8r3g3r5g26db7t3db28r3db6~x2&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Stewart of Appin Htg (error)</a> <a class="nn-out" href="/variants/s10/g8r3g3r5g26db7t3db28r3db6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g8r3g3r5g26db7t3db28r3db6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.91</div><div class="nn-name"><a href="/ttd/edit/#slug=r1o1m1o7dg7m1dg1m1~x6&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Beck-McSorley</a> <a class="nn-out" href="/variants/s8/r1o1m1o7dg7m1dg1m1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r1o1m1o7dg7m1dg1m1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.92</div><div class="nn-name"><a href="/ttd/edit/#slug=y5dt2y18lo2dt5lo2o5dt17y2lo4~x2&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Antrim, County</a> <a class="nn-out" href="/variants/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.94</div><div class="nn-name"><a href="/ttd/edit/#slug=n32k3n3k3b5k8o21k4~x2&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Speyside Blue (Fashion)</a> <a class="nn-out" href="/variants/s8/n32k3n3k3b5k8o21k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n32k3n3k3b5k8o21k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=k5b3k3b23n4k25n23lb3n5~x2&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Cahonas Scotland</a> <a class="nn-out" href="/variants/s9/k5b3k3b23n4k25n23lb3n5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k5b3k3b23n4k25n23lb3n5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=db10k1db1k1db2k8dg10w1~x4&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Lamont</a> <a class="nn-out" href="/variants/s8/db10k1db1k1db2k8dg10w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db10k1db1k1db2k8dg10w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.03</div><div class="nn-name"><a href="/ttd/edit/#slug=db22g4k4g14lb3g4lb3g4k3~x2&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Graden (Personal)</a> <a class="nn-out" href="/variants/s9/db22g4k4g14lb3g4lb3g4k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db22g4k4g14lb3g4lb3g4k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.03</div><div class="nn-name"><a href="/ttd/edit/#slug=db12r1db1r1db1r4g12ly1g2~x4&amp;base=k1n1k1n7dy7k1dy1lt1~x6">Durie (Clan)</a> <a class="nn-out" href="/variants/s9/db12r1db1r1db1r4g12ly1g2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db12r1db1r1db1r4g12ly1g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1n1k1n8dy8k1dy1lt1~x6/"><circle cx="255.2" cy="206.1" r="4" fill="#3465a4"><title>Auld Lang Syne Burns Commemorative Tartan</title></circle></a><a href="/variants/s9/db2r3g11r3db2t2db11r2g2~x2/"><circle cx="212.2" cy="229.8" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7t3db28r3db6~x2/"><circle cx="271.2" cy="199.2" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s8/r1o1m1o7dg7m1dg1m1~x6/"><circle cx="235.4" cy="204.3" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/variants/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/"><circle cx="249.1" cy="206.9" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><a href="/variants/s8/n32k3n3k3b5k8o21k4~x2/"><circle cx="266.9" cy="198.4" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/variants/s9/k5b3k3b23n4k25n23lb3n5~x2/"><circle cx="198.6" cy="207.5" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8dg10w1~x4/"><circle cx="244.1" cy="220.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s9/db22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="217.0" cy="209.9" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/variants/s9/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="267.2" cy="183.3" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><circle cx="243.8" cy="216.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/k1n1k1n7dy7k1dy1lt1~x6/

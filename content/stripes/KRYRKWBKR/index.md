@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tayside Police (Corporate)](/setts/s9/k12r12lo3r4k10w2dt17k13o4~x2/)|
-|![Tayside Police (Corporate) example sett](/setts/s9/k12r12lo3r4k10w2dt17k13o4~x2/sett.png)|
+| [Tayside Police (Corporate)](/variants/s9/k12r12lo3r4k10w2dt17k13o4~x2/)|
+|![Tayside Police (Corporate) example sett](/variants/s9/k12r12lo3r4k10w2dt17k13o4~x2/sett.png)|

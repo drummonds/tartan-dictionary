@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boswell Dress Personal Tartan Tartan Number: 6359. Earliest known date: 2004 A tartan for William Boswell of Balmuto in Fife. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w13r3w2k5w2r3w13db8~x2/)|
-|![Boswell Dress Personal Tartan Tartan Number: 6359. Earliest known date: 2004 A tartan for William Boswell of Balmuto in Fife. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/w13r3w2k5w2r3w13db8~x2/sett.png)|
+| [Boswell Dress Personal Tartan](/variants/s8/w13r3w2k5w2r3w13db8~x2/)|
+|![Boswell Dress Personal Tartan example sett](/variants/s8/w13r3w2k5w2r3w13db8~x2/sett.png)|

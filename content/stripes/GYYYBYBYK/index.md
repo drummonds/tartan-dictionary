@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cotswolds Distillery](/setts/s9/k4ly12n3ly3n3ly4lr17ly15dy4~x2/)|
-|![Cotswolds Distillery example sett](/setts/s9/k4ly12n3ly3n3ly4lr17ly15dy4~x2/sett.png)|
+| [Cotswolds Distillery](/variants/s9/k4ly12n3ly3n3ly4lr17ly15dy4~x2/)|
+|![Cotswolds Distillery example sett](/variants/s9/k4ly12n3ly3n3ly4lr17ly15dy4~x2/sett.png)|

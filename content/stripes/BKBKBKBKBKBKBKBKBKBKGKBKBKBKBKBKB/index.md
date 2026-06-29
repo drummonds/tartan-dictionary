@@ -24,5 +24,5 @@ It is a 33 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald, Flora (Artefact)](/setts/s33/b24k4b4k4b4k22b24k6b24k22b18k24b18k22b14k4b4k4b8k1g6k1b8k4b4k4b14k22b4k4b4k4b24~x2/)|
-|![MacDonald, Flora (Artefact) example sett](/setts/s33/b24k4b4k4b4k22b24k6b24k22b18k24b18k22b14k4b4k4b8k1g6k1b8k4b4k4b14k22b4k4b4k4b24~x2/sett.png)|
+| [MacDonald, Flora (Artefact)](/variants/s33/b24k4b4k4b4k22b24k6b24k22b18k24b18k22b14k4b4k4b8k1g6k1b8k4b4k4b14k22b4k4b4k4b24~x2/)|
+|![MacDonald, Flora (Artefact) example sett](/variants/s33/b24k4b4k4b4k22b24k6b24k22b18k24b18k22b14k4b4k4b8k1g6k1b8k4b4k4b14k22b4k4b4k4b24~x2/sett.png)|

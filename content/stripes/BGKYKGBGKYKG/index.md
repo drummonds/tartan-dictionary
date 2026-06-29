@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salvation Army Hunting](/setts/s12/dg8k1ly2k1dg8db4dg8k1ly2k1dg8db5~x4/)|
-|![Salvation Army Hunting example sett](/setts/s12/dg8k1ly2k1dg8db4dg8k1ly2k1dg8db5~x4/sett.png)|
+| [Salvation Army Hunting](/variants/s12/dg8k1ly2k1dg8db4dg8k1ly2k1dg8db5~x4/)|
+|![Salvation Army Hunting example sett](/variants/s12/dg8k1ly2k1dg8db4dg8k1ly2k1dg8db5~x4/sett.png)|

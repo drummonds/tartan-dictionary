@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Langtree](/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/)|
-|![Langtree example sett](/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/sett.png)|
+| [Langtree](/variants/s12/k86y6k4w3k3r3k3y22o14k3o6w4/)|
+|![Langtree example sett](/variants/s12/k86y6k4w3k3r3k3y22o14k3o6w4/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott, hunting](/setts/s8/r3o14g8r2g2w2g2r1~x2/)|
-|![Scott, hunting example sett](/setts/s8/r3o14g8r2g2w2g2r1~x2/sett.png)|
+| [Scott, hunting](/variants/s8/r3o14g8r2g2w2g2r1~x2/)|
+|![Scott, hunting example sett](/variants/s8/r3o14g8r2g2w2g2r1~x2/sett.png)|

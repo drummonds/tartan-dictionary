@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Passchendaele (Commemorative)](/setts/s6/g3k3lo2ri28o28r1~x2/)|
-|![Passchendaele (Commemorative) example sett](/setts/s6/g3k3lo2ri28o28r1~x2/sett.png)|
+| [Passchendaele (Commemorative)](/variants/s6/g3k3lo2ri28o28r1~x2/)|
+|![Passchendaele (Commemorative) example sett](/variants/s6/g3k3lo2ri28o28r1~x2/sett.png)|

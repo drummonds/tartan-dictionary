@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Little's Chauffeur Drive](/setts/s6/db1n8w1db4m8w1~x6/)|
-|![Little's Chauffeur Drive example sett](/setts/s6/db1n8w1db4m8w1~x6/sett.png)|
+| [Little's Chauffeur Drive](/variants/s6/db1n8w1db4m8w1~x6/)|
+|![Little's Chauffeur Drive example sett](/variants/s6/db1n8w1db4m8w1~x6/sett.png)|

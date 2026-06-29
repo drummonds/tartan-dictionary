@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saorsa (Corporate)](/setts/s6/db11g15k2n5dbi3n11~x2/)|
-|![Saorsa (Corporate) example sett](/setts/s6/db11g15k2n5dbi3n11~x2/sett.png)|
+| [Saorsa (Corporate)](/variants/s6/db11g15k2n5dbi3n11~x2/)|
+|![Saorsa (Corporate) example sett](/variants/s6/db11g15k2n5dbi3n11~x2/sett.png)|

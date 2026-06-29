@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.112 (Light Blue)](/setts/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/)|
-|![Wilson's No.112 (Light Blue) example sett](/setts/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/sett.png)|
+| [Wilson's No.112 (Light Blue)](/variants/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/)|
+|![Wilson's No.112 (Light Blue) example sett](/variants/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/sett.png)|

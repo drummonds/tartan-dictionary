@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Fife](/setts/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/)|
-|![Pride of Fife example sett](/setts/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/sett.png)|
+| [Pride of Fife](/variants/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/)|
+|![Pride of Fife example sett](/variants/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/sett.png)|

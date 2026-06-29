@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/)|
-|![Glen Lyon (Fashion) example sett](/setts/s7/o3db1o11w1k5n14lo3~x4/sett.png)|
+| [Glen Lyon (Fashion)](/variants/s7/o3db1o11w1k5n14lo3~x4/)|
+|![Glen Lyon (Fashion) example sett](/variants/s7/o3db1o11w1k5n14lo3~x4/sett.png)|

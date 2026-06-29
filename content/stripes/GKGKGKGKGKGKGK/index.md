@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochcarron Hunting (Corporate)](/setts/s14/dg3k10dg3k2dg2k2dg3k5dg2k5dg22ki2dg3ki2~x2/)|
-|![Lochcarron Hunting (Corporate) example sett](/setts/s14/dg3k10dg3k2dg2k2dg3k5dg2k5dg22ki2dg3ki2~x2/sett.png)|
-| [Watertown Library Assoc.](/setts/s14/k4y2k27y2k8y31k2y4~x2/)|
-|![Watertown Library Assoc. example sett](/setts/s14/k4y2k27y2k8y31k2y4~x2/sett.png)|
+| [Lochcarron Hunting (Corporate)](/variants/s14/dg3k10dg3k2dg2k2dg3k5dg2k5dg22ki2dg3ki2~x2/)|
+|![Lochcarron Hunting (Corporate) example sett](/variants/s14/dg3k10dg3k2dg2k2dg3k5dg2k5dg22ki2dg3ki2~x2/sett.png)|
+| [Watertown Library Assoc.](/variants/s14/k4y2k27y2k8y31k2y4~x2/)|
+|![Watertown Library Assoc. example sett](/variants/s14/k4y2k27y2k8y31k2y4~x2/sett.png)|

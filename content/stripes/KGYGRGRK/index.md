@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oakhall (Corporate)](/setts/s8/k3r48g6r6g12ly3g2k3~x2/)|
-|![Oakhall (Corporate) example sett](/setts/s8/k3r48g6r6g12ly3g2k3~x2/sett.png)|
+| [Oakhall (Corporate)](/variants/s8/k3r48g6r6g12ly3g2k3~x2/)|
+|![Oakhall (Corporate) example sett](/variants/s8/k3r48g6r6g12ly3g2k3~x2/sett.png)|

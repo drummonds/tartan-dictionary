@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lytley Formal (Personal)](/setts/s6/db1dt1r1dp2ri1ly1~x10/)|
-|![Lytley Formal (Personal) example sett](/setts/s6/db1dt1r1dp2ri1ly1~x10/sett.png)|
-| [Lytley alias Parsons Formal (Personal)](/setts/s6/dbi1db1ri1p2r1ly1~x10/)|
-|![Lytley alias Parsons Formal (Personal) example sett](/setts/s6/dbi1db1ri1p2r1ly1~x10/sett.png)|
+| [Lytley Formal (Personal)](/variants/s6/db1dt1r1dp2ri1ly1~x10/)|
+|![Lytley Formal (Personal) example sett](/variants/s6/db1dt1r1dp2ri1ly1~x10/sett.png)|
+| [Lytley alias Parsons Formal (Personal)](/variants/s6/dbi1db1ri1p2r1ly1~x10/)|
+|![Lytley alias Parsons Formal (Personal) example sett](/variants/s6/dbi1db1ri1p2r1ly1~x10/sett.png)|

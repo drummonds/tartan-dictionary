@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sidney, (Nova Scotia)](/setts/s8/y16k4w2k4y6lo11y2lo16~x2/)|
-|![Sidney, (Nova Scotia) example sett](/setts/s8/y16k4w2k4y6lo11y2lo16~x2/sett.png)|
+| [Sidney, (Nova Scotia)](/variants/s8/y16k4w2k4y6lo11y2lo16~x2/)|
+|![Sidney, (Nova Scotia) example sett](/variants/s8/y16k4w2k4y6lo11y2lo16~x2/sett.png)|

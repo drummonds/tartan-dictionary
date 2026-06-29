@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sirens & Swords](/setts/s6/dt36y20dg6w12k6r3~x2/)|
-|![Sirens & Swords example sett](/setts/s6/dt36y20dg6w12k6r3~x2/sett.png)|
+| [Sirens & Swords](/variants/s6/dt36y20dg6w12k6r3~x2/)|
+|![Sirens & Swords example sett](/variants/s6/dt36y20dg6w12k6r3~x2/sett.png)|

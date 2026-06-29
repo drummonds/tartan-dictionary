@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salt Lake City Arts Council (Corp)](/setts/s12/db16dp2db2dp2db2dp8g8lo8r8k1w1r2~x2/)|
-|![Salt Lake City Arts Council (Corp) example sett](/setts/s12/db16dp2db2dp2db2dp8g8lo8r8k1w1r2~x2/sett.png)|
+| [Salt Lake City Arts Council (Corp)](/variants/s12/db16dp2db2dp2db2dp8g8lo8r8k1w1r2~x2/)|
+|![Salt Lake City Arts Council (Corp) example sett](/variants/s12/db16dp2db2dp2db2dp8g8lo8r8k1w1r2~x2/sett.png)|

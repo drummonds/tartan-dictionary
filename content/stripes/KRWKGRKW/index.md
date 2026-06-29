@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malliou, Despina (Personal)](/setts/s8/k8r7w4k8g5r7k18lt2~x2/)|
-|![Malliou, Despina (Personal) example sett](/setts/s8/k8r7w4k8g5r7k18lt2~x2/sett.png)|
+| [Malliou, Despina (Personal)](/variants/s8/k8r7w4k8g5r7k18lt2~x2/)|
+|![Malliou, Despina (Personal) example sett](/variants/s8/k8r7w4k8g5r7k18lt2~x2/sett.png)|

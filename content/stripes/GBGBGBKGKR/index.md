@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Urbino (Fashion)](/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/)|
-|![Urbino (Fashion) example sett](/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/sett.png)|
+| [Urbino (Fashion)](/variants/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/)|
+|![Urbino (Fashion) example sett](/variants/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/sett.png)|

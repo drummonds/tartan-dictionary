@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [YMCA](/setts/s12/r4w1ri36db4k1db3k10w1db4w1k8w1~x2/)|
-|![YMCA example sett](/setts/s12/r4w1ri36db4k1db3k10w1db4w1k8w1~x2/sett.png)|
-| [YMCA (Corporate)](/setts/s12/r4w1ri36dt4k1dt3k10w1dt4w1k8w1~x2/)|
-|![YMCA (Corporate) example sett](/setts/s12/r4w1ri36dt4k1dt3k10w1dt4w1k8w1~x2/sett.png)|
+| [YMCA](/variants/s12/r4w1ri36db4k1db3k10w1db4w1k8w1~x2/)|
+|![YMCA example sett](/variants/s12/r4w1ri36db4k1db3k10w1db4w1k8w1~x2/sett.png)|
+| [YMCA (Corporate)](/variants/s12/r4w1ri36dt4k1dt3k10w1dt4w1k8w1~x2/)|
+|![YMCA (Corporate) example sett](/variants/s12/r4w1ri36dt4k1dt3k10w1dt4w1k8w1~x2/sett.png)|

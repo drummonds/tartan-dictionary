@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson Dress variation](/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/)|
-|![Ferguson Dress variation example sett](/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/sett.png)|
+| [Ferguson Dress variation](/variants/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/)|
+|![Ferguson Dress variation example sett](/variants/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/sett.png)|

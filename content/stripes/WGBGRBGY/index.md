@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Devon Rural Skills Trust](/setts/s8/w5y4t1y4r4t1dg4ly1~x6/)|
-|![Devon Rural Skills Trust example sett](/setts/s8/w5y4t1y4r4t1dg4ly1~x6/sett.png)|
-| [Devon Rural Skills Trust](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/)|
-|![Devon Rural Skills Trust example sett](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/sett.png)|
+| [Devon Rural Skills Trust](/variants/s8/w5y4b1y4r4b1dg4ly1~x2/)|
+|![Devon Rural Skills Trust example sett](/variants/s8/w5y4b1y4r4b1dg4ly1~x2/sett.png)|
+| [Devon Rural Skills Trust](/variants/s8/w5y4t1y4r4t1dg4ly1~x6/)|
+|![Devon Rural Skills Trust example sett](/variants/s8/w5y4t1y4r4t1dg4ly1~x6/sett.png)|

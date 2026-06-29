@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland, Green (Corporate)](/setts/s10/dp4g13db5ly3t6ly3db5n6g28w2~x2/)|
-|![Highland, Green (Corporate) example sett](/setts/s10/dp4g13db5ly3t6ly3db5n6g28w2~x2/sett.png)|
+| [Highland, Green (Corporate)](/variants/s10/dp4g13db5ly3t6ly3db5n6g28w2~x2/)|
+|![Highland, Green (Corporate) example sett](/variants/s10/dp4g13db5ly3t6ly3db5n6g28w2~x2/sett.png)|

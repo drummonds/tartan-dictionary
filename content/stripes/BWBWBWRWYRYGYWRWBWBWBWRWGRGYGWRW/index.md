@@ -24,5 +24,5 @@ It is a 32 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Elgin Primary School](/setts/s32/db8w5db5w5db8w2r1w2ly3r6ly3g6ly14w2r1w2db8w5db5w5db8w2r1w2g3r6g3ly6g14w2r1w2~x2/)|
-|![New Elgin Primary School example sett](/setts/s32/db8w5db5w5db8w2r1w2ly3r6ly3g6ly14w2r1w2db8w5db5w5db8w2r1w2g3r6g3ly6g14w2r1w2~x2/sett.png)|
+| [New Elgin Primary School](/variants/s32/db8w5db5w5db8w2r1w2ly3r6ly3g6ly14w2r1w2db8w5db5w5db8w2r1w2g3r6g3ly6g14w2r1w2~x2/)|
+|![New Elgin Primary School example sett](/variants/s32/db8w5db5w5db8w2r1w2ly3r6ly3g6ly14w2r1w2db8w5db5w5db8w2r1w2g3r6g3ly6g14w2r1w2~x2/sett.png)|

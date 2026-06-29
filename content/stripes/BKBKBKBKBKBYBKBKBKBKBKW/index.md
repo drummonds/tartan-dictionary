@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Made in Scotland](/setts/s23/w3k9t2k1t2k1t2k1t2k1t20lo2t20k1t2k1t2k1t2k1t2k2p2~x2/)|
-|![Made in Scotland example sett](/setts/s23/w3k9t2k1t2k1t2k1t2k1t20lo2t20k1t2k1t2k1t2k1t2k2p2~x2/sett.png)|
+| [Made in Scotland](/variants/s23/w3k9t2k1t2k1t2k1t2k1t20lo2t20k1t2k1t2k1t2k1t2k2p2~x2/)|
+|![Made in Scotland example sett](/variants/s23/w3k9t2k1t2k1t2k1t2k1t20lo2t20k1t2k1t2k1t2k1t2k2p2~x2/sett.png)|

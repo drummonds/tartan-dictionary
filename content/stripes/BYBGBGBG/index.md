@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinross (Fashion)](/setts/s8/dg20db2g6db2dg4db27lo2db8~x2/)|
-|![Kinross (Fashion) example sett](/setts/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png)|
+| [Kinross (Fashion)](/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/)|
+|![Kinross (Fashion) example sett](/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png)|

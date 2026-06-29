@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Kinross](/setts/s8/k20db2k6db2k4db27w2db8~x2/)|
-|![Pride of Kinross example sett](/setts/s8/k20db2k6db2k4db27w2db8~x2/sett.png)|
+| [Pride of Kinross](/variants/s8/k20db2k6db2k4db27w2db8~x2/)|
+|![Pride of Kinross example sett](/variants/s8/k20db2k6db2k4db27w2db8~x2/sett.png)|

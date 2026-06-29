@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hallingdal (District)](/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/)|
-|![Hallingdal (District) example sett](/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/sett.png)|
+| [Hallingdal (District)](/variants/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/)|
+|![Hallingdal (District) example sett](/variants/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/sett.png)|

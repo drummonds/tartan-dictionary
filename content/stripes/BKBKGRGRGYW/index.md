@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mulcahy](/setts/s11/db66k2db10k15g15r4g15r4g30ly2w4/)|
-|![Mulcahy example sett](/setts/s11/db66k2db10k15g15r4g15r4g30ly2w4/sett.png)|
+| [Mulcahy](/variants/s11/db66k2db10k15g15r4g15r4g30ly2w4/)|
+|![Mulcahy example sett](/variants/s11/db66k2db10k15g15r4g15r4g30ly2w4/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gayre (Clan)](/setts/s15/r20g4k4lb4g16r4g16lb4k4r6g4lb4g3r6k4~x2/)|
-|![Gayre (Clan) example sett](/setts/s15/r20g4k4lb4g16r4g16lb4k4r6g4lb4g3r6k4~x2/sett.png)|
+| [Gayre (Clan)](/variants/s15/r20g4k4lb4g16r4g16lb4k4r6g4lb4g3r6k4~x2/)|
+|![Gayre (Clan) example sett](/variants/s15/r20g4k4lb4g16r4g16lb4k4r6g4lb4g3r6k4~x2/sett.png)|

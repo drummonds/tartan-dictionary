@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tulsa](/setts/s6/r14k3r14g13db8g13~x2/)|
-|![Tulsa example sett](/setts/s6/r14k3r14g13db8g13~x2/sett.png)|
-| [Tulsa, City of](/setts/s6/dg14db8dg14r14k3r14~x2/)|
-|![Tulsa, City of example sett](/setts/s6/dg14db8dg14r14k3r14~x2/sett.png)|
+| [Tulsa](/variants/s6/r14k3r14g13db8g13~x2/)|
+|![Tulsa example sett](/variants/s6/r14k3r14g13db8g13~x2/sett.png)|
+| [Tulsa, City of](/variants/s6/dg14db8dg14r14k3r14~x2/)|
+|![Tulsa, City of example sett](/variants/s6/dg14db8dg14r14k3r14~x2/sett.png)|

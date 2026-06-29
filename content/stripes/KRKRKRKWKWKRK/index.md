@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh International Film Festival](/setts/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/)|
-|![Edinburgh International Film Festival example sett](/setts/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png)|
+| [Edinburgh International Film Festival](/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/)|
+|![Edinburgh International Film Festival example sett](/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png)|

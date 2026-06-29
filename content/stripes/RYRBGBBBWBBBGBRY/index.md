@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heirloom Red Alba](/setts/s16/r4ly2r34db10y4db4t4db23w3~x2/)|
-|![Heirloom Red Alba example sett](/setts/s16/r4ly2r34db10y4db4t4db23w3~x2/sett.png)|
+| [Heirloom Red Alba](/variants/s16/r4ly2r34db10y4db4t4db23w3~x2/)|
+|![Heirloom Red Alba example sett](/variants/s16/r4ly2r34db10y4db4t4db23w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milne (Personal)](/setts/s8/w12dg2w12r17w12dg2w5b2~x4/)|
-|![Milne (Personal) example sett](/setts/s8/w12dg2w12r17w12dg2w5b2~x4/sett.png)|
+| [Milne (Personal)](/variants/s8/w12dg2w12r17w12dg2w5b2~x4/)|
+|![Milne (Personal) example sett](/variants/s8/w12dg2w12r17w12dg2w5b2~x4/sett.png)|

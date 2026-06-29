@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North of Scotland Tartan Army](/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/)|
-|![North of Scotland Tartan Army example sett](/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/sett.png)|
+| [North of Scotland Tartan Army](/variants/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/)|
+|![North of Scotland Tartan Army example sett](/variants/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/sett.png)|

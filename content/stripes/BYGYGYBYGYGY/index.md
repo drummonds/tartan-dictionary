@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lewis of Wales](/setts/s12/db56lo2dg19lo1dg2lo1db2~x2/)|
-|![Lewis of Wales example sett](/setts/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png)|
+| [Lewis of Wales](/variants/s12/db56lo2dg19lo1dg2lo1db2~x2/)|
+|![Lewis of Wales example sett](/variants/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png)|

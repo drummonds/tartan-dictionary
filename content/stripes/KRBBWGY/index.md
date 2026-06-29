@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jefferson (Personal)](/setts/s7/k7r22t9dp20lb2g28ly7~x2/)|
-|![Jefferson (Personal) example sett](/setts/s7/k7r22t9dp20lb2g28ly7~x2/sett.png)|
+| [Jefferson (Personal)](/variants/s7/k7r22t9dp20lb2g28ly7~x2/)|
+|![Jefferson (Personal) example sett](/variants/s7/k7r22t9dp20lb2g28ly7~x2/sett.png)|

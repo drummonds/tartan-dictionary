@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Poulter SG 096 (Fashion)](/setts/s13/w25g8w8g8w8g46t46wi8t46g46w46g8w8/)|
-|![Poulter SG 096 (Fashion) example sett](/setts/s13/w25g8w8g8w8g46t46wi8t46g46w46g8w8/sett.png)|
+| [Poulter SG 096 (Fashion)](/variants/s13/w25g8w8g8w8g46t46wi8t46g46w46g8w8/)|
+|![Poulter SG 096 (Fashion) example sett](/variants/s13/w25g8w8g8w8g46t46wi8t46g46w46g8w8/sett.png)|

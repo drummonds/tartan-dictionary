@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Masai Shuka 25 (Artefact)](/setts/s5/db15w2r20db2r4~x2/)|
-|![Masai Shuka 25 (Artefact) example sett](/setts/s5/db15w2r20db2r4~x2/sett.png)|
+| [Masai Shuka 25 (Artefact)](/variants/s5/db15w2r20db2r4~x2/)|
+|![Masai Shuka 25 (Artefact) example sett](/variants/s5/db15w2r20db2r4~x2/sett.png)|

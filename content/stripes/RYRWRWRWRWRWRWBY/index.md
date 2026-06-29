@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bradwell, Carl (Personal)](/setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/)|
-|![Bradwell, Carl (Personal) example sett](/setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/sett.png)|
+| [Bradwell, Carl (Personal)](/variants/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/)|
+|![Bradwell, Carl (Personal) example sett](/variants/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/sett.png)|

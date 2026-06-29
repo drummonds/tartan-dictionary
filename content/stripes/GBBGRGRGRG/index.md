@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Annan (Fashion)](/setts/s10/y16oi2y2o2y2oi2y2do6n10y3~x2/)|
-|![Annan (Fashion) example sett](/setts/s10/y16oi2y2o2y2oi2y2do6n10y3~x2/sett.png)|
+| [Annan (Fashion)](/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2/)|
+|![Annan (Fashion) example sett](/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2/sett.png)|

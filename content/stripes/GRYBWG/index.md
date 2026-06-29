@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ravetta (Name)](/setts/s6/g20r10ly2db100w1y10/)|
-|![Ravetta (Name) example sett](/setts/s6/g20r10ly2db100w1y10/sett.png)|
+| [Ravetta (Name)](/variants/s6/g20r10ly2db100w1y10/)|
+|![Ravetta (Name) example sett](/variants/s6/g20r10ly2db100w1y10/sett.png)|

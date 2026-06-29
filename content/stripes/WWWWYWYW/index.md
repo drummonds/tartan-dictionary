@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Amazon](/setts/s8/w8wi30w60wi15lo2wi2lo2wi5~x2/)|
-|![Amazon example sett](/setts/s8/w8wi30w60wi15lo2wi2lo2wi5~x2/sett.png)|
-| [Amazon](/setts/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/)|
-|![Amazon example sett](/setts/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/sett.png)|
+| [Amazon](/variants/s8/w8wi30w60wi15lo2wi2lo2wi5~x2/)|
+|![Amazon example sett](/variants/s8/w8wi30w60wi15lo2wi2lo2wi5~x2/sett.png)|
+| [Amazon](/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/)|
+|![Amazon example sett](/variants/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/sett.png)|

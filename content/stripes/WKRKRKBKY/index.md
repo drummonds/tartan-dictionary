@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Castle Stewart (District)](/setts/s9/lo7k3db4k3r21k2r4k2w4~x2/)|
-|![Castle Stewart (District) example sett](/setts/s9/lo7k3db4k3r21k2r4k2w4~x2/sett.png)|
+| [Castle Stewart (District)](/variants/s9/lo7k3db4k3r21k2r4k2w4~x2/)|
+|![Castle Stewart (District) example sett](/variants/s9/lo7k3db4k3r21k2r4k2w4~x2/sett.png)|

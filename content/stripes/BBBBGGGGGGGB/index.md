@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Heather](/setts/s12/dp4dt4dp2dt14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2/)|
-|![Kinloch Anderson Heather example sett](/setts/s12/dp4dt4dp2dt14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2/sett.png)|
+| [Kinloch Anderson Heather](/variants/s12/dp4dt4dp2dt14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2/)|
+|![Kinloch Anderson Heather example sett](/variants/s12/dp4dt4dp2dt14dg6dgi3dg6dgii2dgi4dgii2dgi15n3~x2/sett.png)|

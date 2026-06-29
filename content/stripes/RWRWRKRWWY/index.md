@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling & Bannockburn Dress (Dist)](/setts/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/)|
-|![Stirling & Bannockburn Dress (Dist) example sett](/setts/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/sett.png)|
+| [Stirling & Bannockburn Dress (Dist)](/variants/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/)|
+|![Stirling & Bannockburn Dress (Dist) example sett](/variants/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/sett.png)|

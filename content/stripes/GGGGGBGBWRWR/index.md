@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ross Hunting Dress](/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/)|
-|![Ross Hunting Dress example sett](/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/sett.png)|
+| [Ross Hunting Dress](/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/)|
+|![Ross Hunting Dress example sett](/variants/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/sett.png)|

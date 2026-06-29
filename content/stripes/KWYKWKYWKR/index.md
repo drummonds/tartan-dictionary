@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish National](/setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/)|
-|![Cornish National example sett](/setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/sett.png)|
+| [Cornish National](/variants/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/)|
+|![Cornish National example sett](/variants/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/sett.png)|

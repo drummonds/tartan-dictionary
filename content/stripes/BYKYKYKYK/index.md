@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cardiff City Football Club (Corp)](/setts/s9/k4lo24ki13lo2ki4lo3ki1lo3t2~x2/)|
-|![Cardiff City Football Club (Corp) example sett](/setts/s9/k4lo24ki13lo2ki4lo3ki1lo3t2~x2/sett.png)|
+| [Cardiff City Football Club (Corp)](/variants/s9/k4lo24ki13lo2ki4lo3ki1lo3t2~x2/)|
+|![Cardiff City Football Club (Corp) example sett](/variants/s9/k4lo24ki13lo2ki4lo3ki1lo3t2~x2/sett.png)|

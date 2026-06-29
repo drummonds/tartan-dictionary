@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sidey Family (Dundee) (Personal)](/setts/s10/db4w1k2db25k12dbi1k2g16k2r1~x2/)|
-|![Sidey Family (Dundee) (Personal) example sett](/setts/s10/db4w1k2db25k12dbi1k2g16k2r1~x2/sett.png)|
-| [Sidey Family Tartan (Name)](/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/)|
-|![Sidey Family Tartan (Name) example sett](/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/sett.png)|
+| [Sidey Family (Dundee) (Personal)](/variants/s10/db4w1k2db25k12dbi1k2g16k2r1~x2/)|
+|![Sidey Family (Dundee) (Personal) example sett](/variants/s10/db4w1k2db25k12dbi1k2g16k2r1~x2/sett.png)|
+| [Sidey Family Tartan (Name)](/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/)|
+|![Sidey Family Tartan (Name) example sett](/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/sett.png)|

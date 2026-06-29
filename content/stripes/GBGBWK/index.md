@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crombie House Check](/setts/s6/k3lb10db2g6db18g2~x2/)|
-|![Crombie House Check example sett](/setts/s6/k3lb10db2g6db18g2~x2/sett.png)|
+| [Crombie House Check](/variants/s6/k3lb10db2g6db18g2~x2/)|
+|![Crombie House Check example sett](/variants/s6/k3lb10db2g6db18g2~x2/sett.png)|

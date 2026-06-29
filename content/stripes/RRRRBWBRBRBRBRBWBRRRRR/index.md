@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shieldhall](/setts/s22/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/)|
-|![Shieldhall example sett](/setts/s22/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/sett.png)|
+| [Shieldhall](/variants/s22/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/)|
+|![Shieldhall example sett](/variants/s22/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/sett.png)|

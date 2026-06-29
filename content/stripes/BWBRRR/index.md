@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Steffen, Markus (Personal)](/setts/s6/db35w4db10m3r3m3~x4/)|
-|![Steffen, Markus (Personal) example sett](/setts/s6/db35w4db10m3r3m3~x4/sett.png)|
-| [Steffen, Morris (Personal)](/setts/s6/db35w4db10ri3r3ri3~x4/)|
-|![Steffen, Morris (Personal) example sett](/setts/s6/db35w4db10ri3r3ri3~x4/sett.png)|
+| [Steffen, Markus (Personal)](/variants/s6/db35w4db10m3r3m3~x4/)|
+|![Steffen, Markus (Personal) example sett](/variants/s6/db35w4db10m3r3m3~x4/sett.png)|
+| [Steffen, Morris (Personal)](/variants/s6/db35w4db10ri3r3ri3~x4/)|
+|![Steffen, Morris (Personal) example sett](/variants/s6/db35w4db10ri3r3ri3~x4/sett.png)|

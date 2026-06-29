@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-Vigouden (Corporate)](/setts/s12/db29y3k3y3k3y3dg28k3y2k3r3lo3~x2/)|
-|![Bro-Vigouden (Corporate) example sett](/setts/s12/db29y3k3y3k3y3dg28k3y2k3r3lo3~x2/sett.png)|
+| [Bro-Vigouden (Corporate)](/variants/s12/db29y3k3y3k3y3dg28k3y2k3r3lo3~x2/)|
+|![Bro-Vigouden (Corporate) example sett](/variants/s12/db29y3k3y3k3y3dg28k3y2k3r3lo3~x2/sett.png)|

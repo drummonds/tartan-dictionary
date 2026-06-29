@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [USCBP - Office of Field Operations](/setts/s9/k6db3k3db33k16b21k3b3r4~x2/)|
-|![USCBP - Office of Field Operations example sett](/setts/s9/k6db3k3db33k16b21k3b3r4~x2/sett.png)|
+| [USCBP - Office of Field Operations](/variants/s9/k6db3k3db33k16b21k3b3r4~x2/)|
+|![USCBP - Office of Field Operations example sett](/variants/s9/k6db3k3db33k16b21k3b3r4~x2/sett.png)|

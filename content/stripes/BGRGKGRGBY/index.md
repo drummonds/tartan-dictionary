@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [CAL FIRE Local 2881](/setts/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2/)|
-|![CAL FIRE Local 2881 example sett](/setts/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2/sett.png)|
+| [CAL FIRE Local 2881](/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2/)|
+|![CAL FIRE Local 2881 example sett](/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Newall (Dumbarton) (Personal)](/setts/s7/t30dp15w4dg12w9t8w3~x2/)|
-|![Newall (Dumbarton) (Personal) example sett](/setts/s7/t30dp15w4dg12w9t8w3~x2/sett.png)|
-| [Newall (Personal)](/setts/s7/b30dt15lb4dg12lb9b8lb3~x2/)|
-|![Newall (Personal) example sett](/setts/s7/b30dt15lb4dg12lb9b8lb3~x2/sett.png)|
+| [Newall (Dumbarton) (Personal)](/variants/s7/t30dp15w4dg12w9t8w3~x2/)|
+|![Newall (Dumbarton) (Personal) example sett](/variants/s7/t30dp15w4dg12w9t8w3~x2/sett.png)|
+| [Newall (Personal)](/variants/s7/b30dt15lb4dg12lb9b8lb3~x2/)|
+|![Newall (Personal) example sett](/variants/s7/b30dt15lb4dg12lb9b8lb3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watret (Artefact)](/setts/s11/db21dp21ly21o2r21lo21ly21db2r2dp2o21~x2/)|
-|![Watret (Artefact) example sett](/setts/s11/db21dp21ly21o2r21lo21ly21db2r2dp2o21~x2/sett.png)|
+| [Watret (Artefact)](/variants/s11/db21dp21ly21o2r21lo21ly21db2r2dp2o21~x2/)|
+|![Watret (Artefact) example sett](/variants/s11/db21dp21ly21o2r21lo21ly21db2r2dp2o21~x2/sett.png)|

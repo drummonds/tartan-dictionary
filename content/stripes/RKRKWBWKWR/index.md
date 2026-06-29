@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Fawn](/setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/)|
-|![Stuart/Stewart Fawn example sett](/setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/sett.png)|
+| [Stuart/Stewart Fawn](/variants/s10/o24k5r2k2w2n8w3k2w2o2~x2/)|
+|![Stuart/Stewart Fawn example sett](/variants/s10/o24k5r2k2w2n8w3k2w2o2~x2/sett.png)|

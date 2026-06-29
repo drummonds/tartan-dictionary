@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loevenstein Castle #2](/setts/s4/lr20db1lr4db3~x4/)|
-|![Loevenstein Castle #2 example sett](/setts/s4/lr20db1lr4db3~x4/sett.png)|
+| [Loevenstein Castle #2](/variants/s4/lr20db1lr4db3~x4/)|
+|![Loevenstein Castle #2 example sett](/variants/s4/lr20db1lr4db3~x4/sett.png)|

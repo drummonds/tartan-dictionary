@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaw (Clan 1)](/setts/s6/g24k2db3k2db8r2~x2/)|
-|![Shaw (Clan 1) example sett](/setts/s6/g24k2db3k2db8r2~x2/sett.png)|
+| [Shaw (Clan 1)](/variants/s6/g24k2db3k2db8r2~x2/)|
+|![Shaw (Clan 1) example sett](/variants/s6/g24k2db3k2db8r2~x2/sett.png)|

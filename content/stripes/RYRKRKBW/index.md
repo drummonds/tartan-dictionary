@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Granite (Fashion)](/setts/s8/o3lr4o4k4o18k3n36w3~x2/)|
-|![Hebridean Granite (Fashion) example sett](/setts/s8/o3lr4o4k4o18k3n36w3~x2/sett.png)|
+| [Hebridean Granite (Fashion)](/variants/s8/o3lr4o4k4o18k3n36w3~x2/)|
+|![Hebridean Granite (Fashion) example sett](/variants/s8/o3lr4o4k4o18k3n36w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Tourist Board (1981) (Corp)](/setts/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/)|
-|![Scottish Tourist Board (1981) (Corp) example sett](/setts/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/sett.png)|
+| [Scottish Tourist Board (1981) (Corp)](/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/)|
+|![Scottish Tourist Board (1981) (Corp) example sett](/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/sett.png)|

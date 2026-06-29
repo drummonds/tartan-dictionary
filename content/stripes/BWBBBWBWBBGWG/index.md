@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clan Iain Mhor (Name)](/setts/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/)|
-|![Clan Iain Mhor (Name) example sett](/setts/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/sett.png)|
+| [Clan Iain Mhor (Name)](/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/)|
+|![Clan Iain Mhor (Name) example sett](/variants/s13/dg22w2dg2dr3dt2w2dt19w2dt2dr3dt2w2dt19~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thorburn (Lochcarron)](/setts/s6/dt3t14dt3o16dt34r3~x2/)|
-|![Thorburn (Lochcarron) example sett](/setts/s6/dt3t14dt3o16dt34r3~x2/sett.png)|
+| [Thorburn (Lochcarron)](/variants/s6/dt3t14dt3o16dt34r3~x2/)|
+|![Thorburn (Lochcarron) example sett](/variants/s6/dt3t14dt3o16dt34r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Biffy Clyro](/setts/s7/ly3db22k3db3k11r20ly3~x2/)|
-|![Biffy Clyro example sett](/setts/s7/ly3db22k3db3k11r20ly3~x2/sett.png)|
+| [Biffy Clyro](/variants/s7/ly3db22k3db3k11r20ly3~x2/)|
+|![Biffy Clyro example sett](/variants/s7/ly3db22k3db3k11r20ly3~x2/sett.png)|

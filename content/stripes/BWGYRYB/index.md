@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kuznetsov (2014)](/setts/s7/db49ly12r12ly12dg32w8db3/)|
-|![Kuznetsov (2014) example sett](/setts/s7/db49ly12r12ly12dg32w8db3/sett.png)|
+| [Kuznetsov (2014)](/variants/s7/db49ly12r12ly12dg32w8db3/)|
+|![Kuznetsov (2014) example sett](/variants/s7/db49ly12r12ly12dg32w8db3/sett.png)|

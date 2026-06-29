@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stevens #3](/setts/s6/dp2t9dp3r7ri19ly2~x2/)|
-|![Stevens #3 example sett](/setts/s6/dp2t9dp3r7ri19ly2~x2/sett.png)|
+| [Stevens #3](/variants/s6/dp2t9dp3r7ri19ly2~x2/)|
+|![Stevens #3 example sett](/variants/s6/dp2t9dp3r7ri19ly2~x2/sett.png)|

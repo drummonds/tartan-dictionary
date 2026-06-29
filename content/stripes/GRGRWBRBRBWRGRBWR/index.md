@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Lochmaddy](/setts/s17/r13w1t2r2g14r2w1t2r2db4r2t2w1r16g1r2g3~x2/)|
-|![MacDonald of Lochmaddy example sett](/setts/s17/r13w1t2r2g14r2w1t2r2db4r2t2w1r16g1r2g3~x2/sett.png)|
+| [MacDonald of Lochmaddy](/variants/s17/r13w1t2r2g14r2w1t2r2db4r2t2w1r16g1r2g3~x2/)|
+|![MacDonald of Lochmaddy example sett](/variants/s17/r13w1t2r2g14r2w1t2r2db4r2t2w1r16g1r2g3~x2/sett.png)|

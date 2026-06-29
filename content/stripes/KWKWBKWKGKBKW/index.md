@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lesotho](/setts/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/)|
-|![Lesotho example sett](/setts/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/sett.png)|
+| [Lesotho](/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/)|
+|![Lesotho example sett](/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed - C19th (Annie Oakley)](/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/)|
-|![Unnamed - C19th (Annie Oakley) example sett](/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/sett.png)|
+| [Unnamed - C19th (Annie Oakley)](/variants/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/)|
+|![Unnamed - C19th (Annie Oakley) example sett](/variants/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/sett.png)|

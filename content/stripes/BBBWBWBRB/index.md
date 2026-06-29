@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wyckoff, Ann Grainger Phillips](/setts/s9/b70db5b3w5b3w5b3r5b8~x2/)|
-|![Wyckoff, Ann Grainger Phillips example sett](/setts/s9/b70db5b3w5b3w5b3r5b8~x2/sett.png)|
+| [Wyckoff, Ann Grainger Phillips](/variants/s9/b70db5b3w5b3w5b3r5b8~x2/)|
+|![Wyckoff, Ann Grainger Phillips example sett](/variants/s9/b70db5b3w5b3w5b3r5b8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tainsh (2016)](/setts/s6/k62r9w7lt6ly3g6~x2/)|
-|![Tainsh (2016) example sett](/setts/s6/k62r9w7lt6ly3g6~x2/sett.png)|
+| [Tainsh (2016)](/variants/s6/k62r9w7lt6ly3g6~x2/)|
+|![Tainsh (2016) example sett](/variants/s6/k62r9w7lt6ly3g6~x2/sett.png)|

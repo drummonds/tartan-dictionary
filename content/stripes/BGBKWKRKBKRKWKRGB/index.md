@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Selkirk Corporate District Tartan Tartan Number: 2304. Earliest known date: 1996 . See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/db24g2db12k2w2k3m2k3dbi4k3m2k3w2k2r12g2dbi24~x2/)|
-|![Selkirk Corporate District Tartan Tartan Number: 2304. Earliest known date: 1996 . See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s17/db24g2db12k2w2k3m2k3dbi4k3m2k3w2k2r12g2dbi24~x2/sett.png)|
+| [Selkirk Corporate District Tartan](/variants/s17/db24g2db12k2w2k3m2k3dbi4k3m2k3w2k2r12g2dbi24~x2/)|
+|![Selkirk Corporate District Tartan example sett](/variants/s17/db24g2db12k2w2k3m2k3dbi4k3m2k3w2k2r12g2dbi24~x2/sett.png)|

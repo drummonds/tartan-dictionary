@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Earl of Inverness (Royal)](/setts/s8/r100dbi10w5dbi14ly4db8ly4r24/)|
-|![Earl of Inverness (Royal) example sett](/setts/s8/r100dbi10w5dbi14ly4db8ly4r24/sett.png)|
-| [Princess Elizabeth #2](/setts/s8/r60db8w3db10ly3t4ly3r19~x2/)|
-|![Princess Elizabeth #2 example sett](/setts/s8/r60db8w3db10ly3t4ly3r19~x2/sett.png)|
+| [Earl of Inverness (Royal)](/variants/s8/r100dbi10w5dbi14ly4db8ly4r24/)|
+|![Earl of Inverness (Royal) example sett](/variants/s8/r100dbi10w5dbi14ly4db8ly4r24/sett.png)|
+| [Princess Elizabeth #2](/variants/s8/r60db8w3db10ly3t4ly3r19~x2/)|
+|![Princess Elizabeth #2 example sett](/variants/s8/r60db8w3db10ly3t4ly3r19~x2/sett.png)|

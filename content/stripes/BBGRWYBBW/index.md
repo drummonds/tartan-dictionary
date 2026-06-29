@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Army Ranger](/setts/s9/dt11dti6dg25r1w2lo1dt25dti5w7~x2/)|
-|![Army Ranger example sett](/setts/s9/dt11dti6dg25r1w2lo1dt25dti5w7~x2/sett.png)|
+| [Army Ranger](/variants/s9/dt11dti6dg25r1w2lo1dt25dti5w7~x2/)|
+|![Army Ranger example sett](/variants/s9/dt11dti6dg25r1w2lo1dt25dti5w7~x2/sett.png)|

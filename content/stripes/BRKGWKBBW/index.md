@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moran (Virgin Islands) (Personal)](/setts/s9/t3r3k5g8w2k13db13t26w3~x2/)|
-|![Moran (Virgin Islands) (Personal) example sett](/setts/s9/t3r3k5g8w2k13db13t26w3~x2/sett.png)|
+| [Moran (Virgin Islands) (Personal)](/variants/s9/t3r3k5g8w2k13db13t26w3~x2/)|
+|![Moran (Virgin Islands) (Personal) example sett](/variants/s9/t3r3k5g8w2k13db13t26w3~x2/sett.png)|

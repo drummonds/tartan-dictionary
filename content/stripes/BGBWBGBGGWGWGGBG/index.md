@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart-Houghton Hunting (Personal)](/setts/s16/db11y4db4w2db4y4db11dg26y4w3y4w2y14dg10db16dg6~x2/)|
-|![Stuart-Houghton Hunting (Personal) example sett](/setts/s16/db11y4db4w2db4y4db11dg26y4w3y4w2y14dg10db16dg6~x2/sett.png)|
+| [Stuart-Houghton Hunting (Personal)](/variants/s16/db11y4db4w2db4y4db11dg26y4w3y4w2y14dg10db16dg6~x2/)|
+|![Stuart-Houghton Hunting (Personal) example sett](/variants/s16/db11y4db4w2db4y4db11dg26y4w3y4w2y14dg10db16dg6~x2/sett.png)|

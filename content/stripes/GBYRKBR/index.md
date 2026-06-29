@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gloucester County Pipe Band (Corp)](/setts/s7/g54dt14ly7r14k7dt14r6~x2/)|
-|![Gloucester County Pipe Band (Corp) example sett](/setts/s7/g54dt14ly7r14k7dt14r6~x2/sett.png)|
+| [Gloucester County Pipe Band (Corp)](/variants/s7/g54dt14ly7r14k7dt14r6~x2/)|
+|![Gloucester County Pipe Band (Corp) example sett](/variants/s7/g54dt14ly7r14k7dt14r6~x2/sett.png)|

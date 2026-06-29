@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLachlan, Gold Dress (Fashion)](/setts/s13/lo16k2lo2k2lo2db16db16r3db16db16lo16k2lo2~x2/)|
-|![MacLachlan, Gold Dress (Fashion) example sett](/setts/s13/lo16k2lo2k2lo2db16db16r3db16db16lo16k2lo2~x2/sett.png)|
+| [MacLachlan, Gold Dress (Fashion)](/variants/s13/lo16k2lo2k2lo2db16db16r3db16db16lo16k2lo2~x2/)|
+|![MacLachlan, Gold Dress (Fashion) example sett](/variants/s13/lo16k2lo2k2lo2db16db16r3db16db16lo16k2lo2~x2/sett.png)|

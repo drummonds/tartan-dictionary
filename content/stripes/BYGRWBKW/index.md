@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Utah (Fashion)](/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/)|
-|![State Seal of Utah (Fashion) example sett](/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/sett.png)|
+| [State Seal of Utah (Fashion)](/variants/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/)|
+|![State Seal of Utah (Fashion) example sett](/variants/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/sett.png)|

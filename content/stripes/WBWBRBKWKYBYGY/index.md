@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redgate Dress (Name)](/setts/s14/lb7db4lb2db7r2db7k6lb1k6lo5db3lo3y13lo4~x2/)|
-|![Redgate Dress (Name) example sett](/setts/s14/lb7db4lb2db7r2db7k6lb1k6lo5db3lo3y13lo4~x2/sett.png)|
+| [Redgate Dress (Name)](/variants/s14/lb7db4lb2db7r2db7k6lb1k6lo5db3lo3y13lo4~x2/)|
+|![Redgate Dress (Name) example sett](/variants/s14/lb7db4lb2db7r2db7k6lb1k6lo5db3lo3y13lo4~x2/sett.png)|

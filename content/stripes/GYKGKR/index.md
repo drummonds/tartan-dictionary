@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Touch](/setts/s6/y5ly1k5dg46k5r3~x2/)|
-|![Touch example sett](/setts/s6/y5ly1k5dg46k5r3~x2/sett.png)|
+| [Touch](/variants/s6/y5ly1k5dg46k5r3~x2/)|
+|![Touch example sett](/variants/s6/y5ly1k5dg46k5r3~x2/sett.png)|

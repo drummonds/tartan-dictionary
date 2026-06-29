@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forbes, of Druminnor](/setts/s16/db6o2db2o2db2dy6g8dy1w2dy1g8o2dy4db8o2db2~x2/)|
-|![Forbes, of Druminnor example sett](/setts/s16/db6o2db2o2db2dy6g8dy1w2dy1g8o2dy4db8o2db2~x2/sett.png)|
+| [Forbes, of Druminnor](/variants/s16/db6o2db2o2db2dy6g8dy1w2dy1g8o2dy4db8o2db2~x2/)|
+|![Forbes, of Druminnor example sett](/variants/s16/db6o2db2o2db2dy6g8dy1w2dy1g8o2dy4db8o2db2~x2/sett.png)|

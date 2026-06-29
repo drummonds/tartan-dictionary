@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPhadran](/setts/s7/g3db12lr1k12g13r2g2~x2/)|
-|![MacPhadran example sett](/setts/s7/g3db12lr1k12g13r2g2~x2/sett.png)|
+| [MacPhadran](/variants/s7/g3db12lr1k12g13r2g2~x2/)|
+|![MacPhadran example sett](/variants/s7/g3db12lr1k12g13r2g2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rosemount Course, Blairgowrie Golf Club](/setts/s11/w3lo30dg3db3r3lo3db8g3lo3db3w3~x2/)|
-|![Rosemount Course, Blairgowrie Golf Club example sett](/setts/s11/w3lo30dg3db3r3lo3db8g3lo3db3w3~x2/sett.png)|
+| [Rosemount Course, Blairgowrie Golf Club](/variants/s11/w3lo30dg3db3r3lo3db8g3lo3db3w3~x2/)|
+|![Rosemount Course, Blairgowrie Golf Club example sett](/variants/s11/w3lo30dg3db3r3lo3db8g3lo3db3w3~x2/sett.png)|

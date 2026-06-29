@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Banause-Zunft zu Olte](/setts/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/)|
-|![Banause-Zunft zu Olte example sett](/setts/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/sett.png)|
+| [Banause-Zunft zu Olte](/variants/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/)|
+|![Banause-Zunft zu Olte example sett](/variants/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/sett.png)|

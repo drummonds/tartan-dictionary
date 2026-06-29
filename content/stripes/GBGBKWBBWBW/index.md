@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Motor Trade Assoc. (Corp)](/setts/s11/g5t2g16t10k2w3db6t14w2db4w2~x2/)|
-|![Scottish Motor Trade Assoc. (Corp) example sett](/setts/s11/g5t2g16t10k2w3db6t14w2db4w2~x2/sett.png)|
-| [Scottish Motor Trade Association](/setts/s11/g12dbi4gi54db26k4w8dbi18db44w3dbi12w4/)|
-|![Scottish Motor Trade Association example sett](/setts/s11/g12dbi4gi54db26k4w8dbi18db44w3dbi12w4/sett.png)|
+| [Scottish Motor Trade Assoc. (Corp)](/variants/s11/g5t2g16t10k2w3db6t14w2db4w2~x2/)|
+|![Scottish Motor Trade Assoc. (Corp) example sett](/variants/s11/g5t2g16t10k2w3db6t14w2db4w2~x2/sett.png)|
+| [Scottish Motor Trade Association](/variants/s11/g12dbi4gi54db26k4w8dbi18db44w3dbi12w4/)|
+|![Scottish Motor Trade Association example sett](/variants/s11/g12dbi4gi54db26k4w8dbi18db44w3dbi12w4/sett.png)|

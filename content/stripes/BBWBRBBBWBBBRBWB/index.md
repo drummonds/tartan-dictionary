@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [United States (Personal)](/setts/s16/b7db5w6db5r7db2b2db70w2/)|
-|![United States (Personal) example sett](/setts/s16/b7db5w6db5r7db2b2db70w2/sett.png)|
+| [United States (Personal)](/variants/s16/b7db5w6db5r7db2b2db70w2/)|
+|![United States (Personal) example sett](/variants/s16/b7db5w6db5r7db2b2db70w2/sett.png)|

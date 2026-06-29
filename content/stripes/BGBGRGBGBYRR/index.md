@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Niagara Falls](/setts/s12/db22g4db4g17o17g17db4g4db22ly8o8r8~x2/)|
-|![Niagara Falls example sett](/setts/s12/db22g4db4g17o17g17db4g4db22ly8o8r8~x2/sett.png)|
+| [Niagara Falls](/variants/s12/db22g4db4g17o17g17db4g4db22ly8o8r8~x2/)|
+|![Niagara Falls example sett](/variants/s12/db22g4db4g17o17g17db4g4db22ly8o8r8~x2/sett.png)|

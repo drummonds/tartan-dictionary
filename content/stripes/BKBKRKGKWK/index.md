@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thin Blue Line UK](/setts/s10/dt5k35b3k2r3k2g3k2w3k2~x2/)|
-|![Thin Blue Line UK example sett](/setts/s10/dt5k35b3k2r3k2g3k2w3k2~x2/sett.png)|
+| [Thin Blue Line UK](/variants/s10/dt5k35b3k2r3k2g3k2w3k2~x2/)|
+|![Thin Blue Line UK example sett](/variants/s10/dt5k35b3k2r3k2g3k2w3k2~x2/sett.png)|

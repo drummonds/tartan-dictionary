@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Watch (Fashion) #1](/setts/s4/g6k2r3k1~x4/)|
-|![Red Watch (Fashion) #1 example sett](/setts/s4/g6k2r3k1~x4/sett.png)|
+| [Red Watch (Fashion) #1](/variants/s4/g6k2r3k1~x4/)|
+|![Red Watch (Fashion) #1 example sett](/variants/s4/g6k2r3k1~x4/sett.png)|

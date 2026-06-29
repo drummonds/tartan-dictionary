@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snaefell](/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/)|
-|![Snaefell example sett](/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/sett.png)|
+| [Snaefell](/variants/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/)|
+|![Snaefell example sett](/variants/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/sett.png)|

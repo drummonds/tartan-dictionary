@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Border Patrol](/setts/s8/k10b10k15g40k15b10k10ly3~x2/)|
-|![U.S. Border Patrol example sett](/setts/s8/k10b10k15g40k15b10k10ly3~x2/sett.png)|
+| [U.S. Border Patrol](/variants/s8/k10b10k15g40k15b10k10ly3~x2/)|
+|![U.S. Border Patrol example sett](/variants/s8/k10b10k15g40k15b10k10ly3~x2/sett.png)|

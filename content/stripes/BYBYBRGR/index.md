@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Katsushika Scottish Country Dancers](/setts/s8/db22ly2db1ly2db10r2g11r6~x2/)|
-|![Katsushika Scottish Country Dancers example sett](/setts/s8/db22ly2db1ly2db10r2g11r6~x2/sett.png)|
+| [Katsushika Scottish Country Dancers](/variants/s8/db22ly2db1ly2db10r2g11r6~x2/)|
+|![Katsushika Scottish Country Dancers example sett](/variants/s8/db22ly2db1ly2db10r2g11r6~x2/sett.png)|

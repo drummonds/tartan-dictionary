@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cape Breton Polish Society](/setts/s10/w3r28k1o5k1ly3g8r5w21k2~x2/)|
-|![Cape Breton Polish Society example sett](/setts/s10/w3r28k1o5k1ly3g8r5w21k2~x2/sett.png)|
+| [Cape Breton Polish Society](/variants/s10/w3r28k1o5k1ly3g8r5w21k2~x2/)|
+|![Cape Breton Polish Society example sett](/variants/s10/w3r28k1o5k1ly3g8r5w21k2~x2/sett.png)|

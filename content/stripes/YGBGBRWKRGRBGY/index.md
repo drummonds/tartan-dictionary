@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [West Virginia](/setts/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/)|
-|![West Virginia example sett](/setts/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/sett.png)|
+| [West Virginia](/variants/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/)|
+|![West Virginia example sett](/variants/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tune Hotels](/setts/s9/r3ri18rii6r15ri4r3ri4r7w2~x2/)|
-|![Tune Hotels example sett](/setts/s9/r3ri18rii6r15ri4r3ri4r7w2~x2/sett.png)|
-| [Tune Hotels (Corporate)](/setts/s9/ri3r18rii6ri15r4ri3r4ri7w2~x2/)|
-|![Tune Hotels (Corporate) example sett](/setts/s9/ri3r18rii6ri15r4ri3r4ri7w2~x2/sett.png)|
+| [Tune Hotels](/variants/s9/r3ri18rii6r15ri4r3ri4r7w2~x2/)|
+|![Tune Hotels example sett](/variants/s9/r3ri18rii6r15ri4r3ri4r7w2~x2/sett.png)|
+| [Tune Hotels (Corporate)](/variants/s9/ri3r18rii6ri15r4ri3r4ri7w2~x2/)|
+|![Tune Hotels (Corporate) example sett](/variants/s9/ri3r18rii6ri15r4ri3r4ri7w2~x2/sett.png)|

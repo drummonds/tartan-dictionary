@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Kincardine](/setts/s6/g4db36lg6g16db16g3~x2/)|
-|![City of Kincardine example sett](/setts/s6/g4db36lg6g16db16g3~x2/sett.png)|
+| [City of Kincardine](/variants/s6/g4db36lg6g16db16g3~x2/)|
+|![City of Kincardine example sett](/variants/s6/g4db36lg6g16db16g3~x2/sett.png)|

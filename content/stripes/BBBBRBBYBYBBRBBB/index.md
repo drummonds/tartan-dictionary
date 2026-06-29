@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stone of Destiny, The](/setts/s16/dt12db3dt2r4dt2db20lo2db4lo2db20dt2r4dt2db3dt12db2~x2/)|
-|![Stone of Destiny, The example sett](/setts/s16/dt12db3dt2r4dt2db20lo2db4lo2db20dt2r4dt2db3dt12db2~x2/sett.png)|
+| [Stone of Destiny, The](/variants/s16/dt12db3dt2r4dt2db20lo2db4lo2db20dt2r4dt2db3dt12db2~x2/)|
+|![Stone of Destiny, The example sett](/variants/s16/dt12db3dt2r4dt2db20lo2db4lo2db20dt2r4dt2db3dt12db2~x2/sett.png)|

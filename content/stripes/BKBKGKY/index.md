@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forbes LC](/tartans/db1k6db6k6dg6k1lr1/)|
-|![Forbes LC example sett](/setts/s7/db1k6db6k6dg6k1lr1/sett.png)|
+| [Forbes LC](/setts/db1k6db6k6dg6k1lr1/)|
+|![Forbes LC example sett](/variants/s7/db1k6db6k6dg6k1lr1/sett.png)|

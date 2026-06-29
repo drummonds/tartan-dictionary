@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marchmont](/setts/s7/k1db12k12g1k12db12w1~x4/)|
-|![Marchmont example sett](/setts/s7/k1db12k12g1k12db12w1~x4/sett.png)|
+| [Marchmont](/variants/s7/k1db12k12g1k12db12w1~x4/)|
+|![Marchmont example sett](/variants/s7/k1db12k12g1k12db12w1~x4/sett.png)|

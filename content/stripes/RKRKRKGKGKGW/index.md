@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duns Pipe Band](/setts/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/)|
-|![Duns Pipe Band example sett](/setts/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/sett.png)|
+| [Duns Pipe Band](/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/)|
+|![Duns Pipe Band example sett](/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/sett.png)|

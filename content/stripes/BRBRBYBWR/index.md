@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Clyde College](/setts/s9/t48r1db10r1t10lr2db27w1m3~x2/)|
-|![Glasgow Clyde College example sett](/setts/s9/t48r1db10r1t10lr2db27w1m3~x2/sett.png)|
+| [Glasgow Clyde College](/variants/s9/t48r1db10r1t10lr2db27w1m3~x2/)|
+|![Glasgow Clyde College example sett](/variants/s9/t48r1db10r1t10lr2db27w1m3~x2/sett.png)|

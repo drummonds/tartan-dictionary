@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buckeye](/setts/s4/y25k4w8r16~x4/)|
-|![Buckeye example sett](/setts/s4/y25k4w8r16~x4/sett.png)|
+| [Buckeye](/variants/s4/y25k4w8r16~x4/)|
+|![Buckeye example sett](/variants/s4/y25k4w8r16~x4/sett.png)|

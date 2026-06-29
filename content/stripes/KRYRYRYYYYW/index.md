@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shenzhen (Sports)](/setts/s11/k3o29lo2o2lo4o2lo20ly1lo2ly10w3~x2/)|
-|![Shenzhen (Sports) example sett](/setts/s11/k3o29lo2o2lo4o2lo20ly1lo2ly10w3~x2/sett.png)|
+| [Shenzhen (Sports)](/variants/s11/k3o29lo2o2lo4o2lo20ly1lo2ly10w3~x2/)|
+|![Shenzhen (Sports) example sett](/variants/s11/k3o29lo2o2lo4o2lo20ly1lo2ly10w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thousand Islands](/setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/)|
-|![Thousand Islands example sett](/setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/sett.png)|
+| [Thousand Islands](/variants/s10/db20t8lo5k6t4r3t3y30r2t3~x2/)|
+|![Thousand Islands example sett](/variants/s10/db20t8lo5k6t4r3t3y30r2t3~x2/sett.png)|

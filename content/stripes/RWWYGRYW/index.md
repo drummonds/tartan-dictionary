@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Takashimaya Dm Rose](/setts/s8/m4lb2w11ly9y16o16ly2lb4~x2/)|
-|![Takashimaya Dm Rose example sett](/setts/s8/m4lb2w11ly9y16o16ly2lb4~x2/sett.png)|
+| [Takashimaya Dm Rose](/variants/s8/m4lb2w11ly9y16o16ly2lb4~x2/)|
+|![Takashimaya Dm Rose example sett](/variants/s8/m4lb2w11ly9y16o16ly2lb4~x2/sett.png)|

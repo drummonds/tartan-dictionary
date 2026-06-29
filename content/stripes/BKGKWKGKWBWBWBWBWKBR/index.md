@@ -24,7 +24,7 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKenzie Dress #4](/setts/s20/db10k10dg9k2w2k2dg9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/)|
-|![MacKenzie Dress #4 example sett](/setts/s20/db10k10dg9k2w2k2dg9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/sett.png)|
-| [MacKenzie, dress](/setts/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/)|
-|![MacKenzie, dress example sett](/setts/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/sett.png)|
+| [MacKenzie Dress #4](/variants/s20/db10k10dg9k2w2k2dg9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/)|
+|![MacKenzie Dress #4 example sett](/variants/s20/db10k10dg9k2w2k2dg9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/sett.png)|
+| [MacKenzie, dress](/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/)|
+|![MacKenzie, dress example sett](/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/sett.png)|

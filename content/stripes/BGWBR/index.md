@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Turnbull Dress, Bruce (Personal)](/setts/s5/db10g4w27db40r4~x2/)|
-|![Turnbull Dress, Bruce (Personal) example sett](/setts/s5/db10g4w27db40r4~x2/sett.png)|
+| [Turnbull Dress, Bruce (Personal)](/variants/s5/db10g4w27db40r4~x2/)|
+|![Turnbull Dress, Bruce (Personal) example sett](/variants/s5/db10g4w27db40r4~x2/sett.png)|

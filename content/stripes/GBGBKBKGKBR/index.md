@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brethwe Powys](/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/)|
-|![Brethwe Powys example sett](/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/sett.png)|
+| [Brethwe Powys](/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/)|
+|![Brethwe Powys example sett](/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/sett.png)|

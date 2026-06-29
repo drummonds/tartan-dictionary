@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spragg, Andrew](/setts/s7/ri2dg16r1ri2r12ly1y1~x2/)|
-|![Spragg, Andrew example sett](/setts/s7/ri2dg16r1ri2r12ly1y1~x2/sett.png)|
+| [Spragg, Andrew](/variants/s7/ri2dg16r1ri2r12ly1y1~x2/)|
+|![Spragg, Andrew example sett](/variants/s7/ri2dg16r1ri2r12ly1y1~x2/sett.png)|

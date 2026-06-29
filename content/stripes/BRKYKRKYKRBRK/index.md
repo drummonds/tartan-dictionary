@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leslie (J Cant)](/setts/s13/db50r2k3ly2k3r2k3ly2k3r2db3r12k2~x2/)|
-|![Leslie (J Cant) example sett](/setts/s13/db50r2k3ly2k3r2k3ly2k3r2db3r12k2~x2/sett.png)|
+| [Leslie (J Cant)](/variants/s13/db50r2k3ly2k3r2k3ly2k3r2db3r12k2~x2/)|
+|![Leslie (J Cant) example sett](/variants/s13/db50r2k3ly2k3r2k3ly2k3r2db3r12k2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haymarket, dress Blue](/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/)|
-|![Haymarket, dress Blue example sett](/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/sett.png)|
+| [Haymarket, dress Blue](/variants/s9/g5db22g6k10w24ly2db2w2r2~x2/)|
+|![Haymarket, dress Blue example sett](/variants/s9/g5db22g6k10w24ly2db2w2r2~x2/sett.png)|

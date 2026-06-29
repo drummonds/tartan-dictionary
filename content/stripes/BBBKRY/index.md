@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fife (McGill)](/setts/s6/db31t4db6k19r20ly4~x2/)|
-|![Fife (McGill) example sett](/setts/s6/db31t4db6k19r20ly4~x2/sett.png)|
+| [Fife (McGill)](/variants/s6/db31t4db6k19r20ly4~x2/)|
+|![Fife (McGill) example sett](/variants/s6/db31t4db6k19r20ly4~x2/sett.png)|

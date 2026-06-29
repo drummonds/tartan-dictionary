@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hirstwood (Name)](/setts/s4/lo28r24dg55dp19~x2/)|
-|![Hirstwood (Name) example sett](/setts/s4/lo28r24dg55dp19~x2/sett.png)|
-| [Wilson's No.192](/setts/s4/dp4g10r1ly1~x2/)|
-|![Wilson's No.192 example sett](/setts/s4/dp4g10r1ly1~x2/sett.png)|
-| [Wilson's, No 192](/setts/s4/p4g10r1ly1~x2/)|
-|![Wilson's, No 192 example sett](/setts/s4/p4g10r1ly1~x2/sett.png)|
+| [Hirstwood (Name)](/variants/s4/lo28r24dg55dp19~x2/)|
+|![Hirstwood (Name) example sett](/variants/s4/lo28r24dg55dp19~x2/sett.png)|
+| [Wilson's No.192](/variants/s4/dp4g10r1ly1~x2/)|
+|![Wilson's No.192 example sett](/variants/s4/dp4g10r1ly1~x2/sett.png)|
+| [Wilson's, No 192](/variants/s4/p4g10r1ly1~x2/)|
+|![Wilson's, No 192 example sett](/variants/s4/p4g10r1ly1~x2/sett.png)|

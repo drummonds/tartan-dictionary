@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Seabees](/setts/s24/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/)|
-|![U.S. Seabees example sett](/setts/s24/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/sett.png)|
+| [U.S. Seabees](/variants/s24/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/)|
+|![U.S. Seabees example sett](/variants/s24/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/sett.png)|

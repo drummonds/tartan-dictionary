@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Michie Dress, Andrew](/setts/s5/dp62g5dg20lg5k1~x2/)|
-|![Michie Dress, Andrew example sett](/setts/s5/dp62g5dg20lg5k1~x2/sett.png)|
+| [Michie Dress, Andrew](/variants/s5/dp62g5dg20lg5k1~x2/)|
+|![Michie Dress, Andrew example sett](/variants/s5/dp62g5dg20lg5k1~x2/sett.png)|

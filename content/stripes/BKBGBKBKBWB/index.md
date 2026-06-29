@@ -24,9 +24,9 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bute Heather](/setts/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/)|
-|![Bute Heather example sett](/setts/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/sett.png)|
-| [Bute Heather, Ancient (Fashion)](/setts/s11/dp13w2t38k13t28k8dp17dg2dp17k4dt11/)|
-|![Bute Heather, Ancient (Fashion) example sett](/setts/s11/dp13w2t38k13t28k8dp17dg2dp17k4dt11/sett.png)|
-| [Bute Heather, Modern](/setts/s11/dbi6w1db18k6db4k4dp8dg1dp8k2dbi5~x2/)|
-|![Bute Heather, Modern example sett](/setts/s11/dbi6w1db18k6db4k4dp8dg1dp8k2dbi5~x2/sett.png)|
+| [Bute Heather](/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/)|
+|![Bute Heather example sett](/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/sett.png)|
+| [Bute Heather, Ancient (Fashion)](/variants/s11/dp13w2t38k13t28k8dp17dg2dp17k4dt11/)|
+|![Bute Heather, Ancient (Fashion) example sett](/variants/s11/dp13w2t38k13t28k8dp17dg2dp17k4dt11/sett.png)|
+| [Bute Heather, Modern](/variants/s11/dbi6w1db18k6db4k4dp8dg1dp8k2dbi5~x2/)|
+|![Bute Heather, Modern example sett](/variants/s11/dbi6w1db18k6db4k4dp8dg1dp8k2dbi5~x2/sett.png)|

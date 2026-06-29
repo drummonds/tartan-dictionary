@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Eloi (Corporate)](/setts/s4/r3lo2k10w1~x6/)|
-|![St. Eloi (Corporate) example sett](/setts/s4/r3lo2k10w1~x6/sett.png)|
+| [St. Eloi (Corporate)](/variants/s4/r3lo2k10w1~x6/)|
+|![St. Eloi (Corporate) example sett](/variants/s4/r3lo2k10w1~x6/sett.png)|

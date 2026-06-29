@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ardmore (Fashion)](/setts/s8/k21o2k8w2o16n6k2n8~x2/)|
-|![Ardmore (Fashion) example sett](/setts/s8/k21o2k8w2o16n6k2n8~x2/sett.png)|
+| [Ardmore (Fashion)](/variants/s8/k21o2k8w2o16n6k2n8~x2/)|
+|![Ardmore (Fashion) example sett](/variants/s8/k21o2k8w2o16n6k2n8~x2/sett.png)|

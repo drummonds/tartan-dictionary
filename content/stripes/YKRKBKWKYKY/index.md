@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dublin County Crest (Fashion)](/setts/s11/lo9k8lo30k4lb8k4db24k54r14k4lr8/)|
-|![Dublin County Crest (Fashion) example sett](/setts/s11/lo9k8lo30k4lb8k4db24k54r14k4lr8/sett.png)|
+| [Dublin County Crest (Fashion)](/variants/s11/lo9k8lo30k4lb8k4db24k54r14k4lr8/)|
+|![Dublin County Crest (Fashion) example sett](/variants/s11/lo9k8lo30k4lb8k4db24k54r14k4lr8/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Khosla, Sarah and Justin (Personal)](/setts/s9/dp4n10m18ly3m3ly5r8n9w4~x2/)|
-|![Khosla, Sarah and Justin (Personal) example sett](/setts/s9/dp4n10m18ly3m3ly5r8n9w4~x2/sett.png)|
+| [Khosla, Sarah and Justin (Personal)](/variants/s9/dp4n10m18ly3m3ly5r8n9w4~x2/)|
+|![Khosla, Sarah and Justin (Personal) example sett](/variants/s9/dp4n10m18ly3m3ly5r8n9w4~x2/sett.png)|

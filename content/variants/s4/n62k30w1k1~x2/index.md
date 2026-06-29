@@ -1,0 +1,54 @@
+---
+title: "Pride of New Zealand"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n62k30w1k1/)
+(the same proportion at any scale), whose colour order is pattern [BKWK](/stripes/bkwk/).
+
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — Pride of New Zealand (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373">record</a>)</li>
+<li>August 1999 — Pride of New Zealand (District?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2632/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3373](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373)
+- Scottish Tartans Authority (ITI): 2632
+- Scottish Tartans World Register: 2632
+
+## Thread count
+N/124 K60 W2 K/2
+
+One full sett is **250 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Logan (The Scottish Gael, 1831)</strong> <small style="color:#888">(2 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">124</td><td><code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> <small style="color:#888">#5C5C5C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.5% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="N/124 K60 W2 K/2 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=n62k30w1k1~x2">Pride of New Zealand</a> <a class="nn-out" href="/variants/s4/n62k30w1k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/n62k30w1k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.39</div><div class="nn-name"><a href="/ttd/edit/#slug=k62t33ly1~x2&amp;base=n62k30w1k1~x2">Westwater (Edinburgh, 2012)</a> <a class="nn-out" href="/variants/s3/k62t33ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k62t33ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/ttd/edit/#slug=n2k13n31k1n1~x4&amp;base=n62k30w1k1~x2">Silver Mist</a> <a class="nn-out" href="/variants/s5/n2k13n31k1n1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n2k13n31k1n1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.47</div><div class="nn-name"><a href="/ttd/edit/#slug=n124k60w1k2~x2&amp;base=n62k30w1k1~x2">Pride of New Zealand, The</a> <a class="nn-out" href="/variants/s4/n124k60w1k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/n124k60w1k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.68</div><div class="nn-name"><a href="/ttd/edit/#slug=k13n2k13n31k1n1~x4&amp;base=n62k30w1k1~x2">Silver Mist (Corporate)</a> <a class="nn-out" href="/variants/s6/k13n2k13n31k1n1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k13n2k13n31k1n1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.80</div><div class="nn-name"><a href="/ttd/edit/#slug=k75g26lr2g4lo5~x2&amp;base=n62k30w1k1~x2">Perry Hunting (Green) (Personal)</a> <a class="nn-out" href="/variants/s5/k75g26lr2g4lo5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.84</div><div class="nn-name"><a href="/ttd/edit/#slug=k62b33ly1~x2&amp;base=n62k30w1k1~x2">Westwater (Personal)</a> <a class="nn-out" href="/variants/s3/k62b33ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k62b33ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.86</div><div class="nn-name"><a href="/ttd/edit/#slug=dt8y74k8dt42y11k2y16dt4&amp;base=n62k30w1k1~x2">Orkney Slate</a> <a class="nn-out" href="/variants/s8/dt8y74k8dt42y11k2y16dt4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dt8y74k8dt42y11k2y16dt4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.90</div><div class="nn-name"><a href="/ttd/edit/#slug=k72g23k7g8r1w3~x2&amp;base=n62k30w1k1~x2">MacGregor, Black (Personal)</a> <a class="nn-out" href="/variants/s6/k72g23k7g8r1w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k72g23k7g8r1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.91</div><div class="nn-name"><a href="/ttd/edit/#slug=db48g14r3g2r3g2~x2&amp;base=n62k30w1k1~x2">Wilson</a> <a class="nn-out" href="/variants/s6/db48g14r3g2r3g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db48g14r3g2r3g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.96</div><div class="nn-name"><a href="/ttd/edit/#slug=lr4dt1r15dt42r6dt4lo1~x2&amp;base=n62k30w1k1~x2">Lion Brand Sportswear</a> <a class="nn-out" href="/variants/s7/lr4dt1r15dt42r6dt4lo1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lr4dt1r15dt42r6dt4lo1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k62t33ly1~x2/"><circle cx="469.9" cy="220.8" r="4" fill="#3465a4"><title>Westwater (Edinburgh, 2012)</title></circle></a><a href="/variants/s5/n2k13n31k1n1~x4/"><circle cx="561.9" cy="215.7" r="4" fill="#3465a4"><title>Silver Mist</title></circle></a><a href="/variants/s4/n124k60w1k2~x2/"><circle cx="483.1" cy="180.3" r="4" fill="#3465a4"><title>Pride of New Zealand, The</title></circle></a><a href="/variants/s6/k13n2k13n31k1n1~x4/"><circle cx="462.5" cy="214.1" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/variants/s5/k75g26lr2g4lo5~x2/"><circle cx="465.7" cy="167.0" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/variants/s3/k62b33ly1~x2/"><circle cx="458.9" cy="221.5" r="4" fill="#3465a4"><title>Westwater (Personal)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4/"><circle cx="431.5" cy="151.0" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/variants/s6/k72g23k7g8r1w3~x2/"><circle cx="499.6" cy="149.5" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s6/db48g14r3g2r3g2~x2/"><circle cx="489.6" cy="188.6" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/variants/s7/lr4dt1r15dt42r6dt4lo1~x2/"><circle cx="495.1" cy="156.2" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><circle cx="511.9" cy="193.3" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s4/n62k30w1k1~x2/

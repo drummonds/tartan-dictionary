@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morris (Welsh Name)](/setts/s8/db6db3ly3db2ly3db4ly48db4/)|
-|![Morris (Welsh Name) example sett](/setts/s8/db6db3ly3db2ly3db4ly48db4/sett.png)|
+| [Morris (Welsh Name)](/variants/s8/db6db3ly3db2ly3db4ly48db4/)|
+|![Morris (Welsh Name) example sett](/variants/s8/db6db3ly3db2ly3db4ly48db4/sett.png)|

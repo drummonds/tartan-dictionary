@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Belfinlay](/setts/s10/k8g4r4g3r32g3r4g3r4k4~x2/)|
-|![MacDonald of Belfinlay example sett](/setts/s10/k8g4r4g3r32g3r4g3r4k4~x2/sett.png)|
+| [MacDonald of Belfinlay](/variants/s10/k8g4r4g3r32g3r4g3r4k4~x2/)|
+|![MacDonald of Belfinlay example sett](/variants/s10/k8g4r4g3r32g3r4g3r4k4~x2/sett.png)|

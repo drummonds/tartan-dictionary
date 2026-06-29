@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Llama (Fashion)](/setts/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/)|
-|![Llama (Fashion) example sett](/setts/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/sett.png)|
+| [Llama (Fashion)](/variants/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/)|
+|![Llama (Fashion) example sett](/variants/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/sett.png)|

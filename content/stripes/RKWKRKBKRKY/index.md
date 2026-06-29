@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/)|
-|![Andreou Family (Personal) example sett](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/sett.png)|
+| [Andreou Family (Personal)](/variants/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/)|
+|![Andreou Family (Personal) example sett](/variants/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/sett.png)|

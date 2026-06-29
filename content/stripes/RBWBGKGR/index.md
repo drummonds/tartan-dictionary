@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inverness](/tartans/r36db3w1db6g1k1g1r9/)|
-|![Inverness example sett](/setts/s8/r36db3w1db6g1k1g1r9~x2/sett.png)|
+| [Inverness](/setts/r36db3w1db6g1k1g1r9/)|
+|![Inverness example sett](/variants/s8/r36db3w1db6g1k1g1r9~x2/sett.png)|

@@ -1,0 +1,62 @@
+---
+title: "Tait #1"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5k2db19g4k19g28k2ly5/)
+(the same proportion at any scale), whose colour order is pattern [RKBGKGKY](/stripes/rkbgkgky/).
+
+Part of the [Tait](/tartans/tait/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4063
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Tait #1
+- Tait #2
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Tait #1 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4063">record</a>)</li>
+<li>pre 2003 — Tait #1 (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5949/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4063](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4063)
+- Scottish Tartans Authority (ITI): 5949
+
+## Thread count
+R/10 K4 DB38 G8 K38 G56 K4 Y/10
+
+One full sett is **316 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/10 K4 DB38 G8 K38 G56 K4 Y/10 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r5k2db19g4k19g28k2ly5~x2">Tait #1</a> <a class="nn-out" href="/variants/s8/r5k2db19g4k19g28k2ly5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r5k2db19g4k19g28k2ly5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.48</div><div class="nn-name"><a href="/ttd/edit/#slug=r12db68w7k39g75r6g6&amp;base=r5k2db19g4k19g28k2ly5~x2">Rhun (Fashion)</a> <a class="nn-out" href="/variants/s7/r12db68w7k39g75r6g6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r12db68w7k39g75r6g6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.63</div><div class="nn-name"><a href="/ttd/edit/#slug=r2g10k12n1ly2n14k1n1g2~x2&amp;base=r5k2db19g4k19g28k2ly5~x2">McWilliams Wedding (Personal)</a> <a class="nn-out" href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.67</div><div class="nn-name"><a href="/ttd/edit/#slug=g3db12w1k12g13r2g2~x2&amp;base=r5k2db19g4k19g28k2ly5~x2">Paterson (Personal)</a> <a class="nn-out" href="/variants/s7/g3db12w1k12g13r2g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g3db12w1k12g13r2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.70</div><div class="nn-name"><a href="/variants/s9/r2g10ki12n1k2n14ki1n1g2~x2/">MacWilliams Wedding Personal Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r2g10ki12n1k2n14ki1n1g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.70</div><div class="nn-name"><a href="/ttd/edit/#slug=dg24k5dg6r6dg6k20b20w2~x2&amp;base=r5k2db19g4k19g28k2ly5~x2">Dunfermline Bank of Scotland (Corp)</a> <a class="nn-out" href="/variants/s8/dg24k5dg6r6dg6k20b20w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg24k5dg6r6dg6k20b20w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.70</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k9g12db8r1db1w1~x4&amp;base=r5k2db19g4k19g28k2ly5~x2">Genet, Citizen (Commem)</a> <a class="nn-out" href="/variants/s7/r2k9g12db8r1db1w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2k9g12db8r1db1w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.83</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g2r3g18k14w2db16g3~x2&amp;base=r5k2db19g4k19g28k2ly5~x2">Mantle (Personal)</a> <a class="nn-out" href="/variants/s8/r3g2r3g18k14w2db16g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3g2r3g18k14w2db16g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.83</div><div class="nn-name"><a href="/ttd/edit/#slug=db3ly1db12k4ly2k4dg8r2dg8r1~x4&amp;base=r5k2db19g4k19g28k2ly5~x2">MacMillan Htg (1906) (Clan)</a> <a class="nn-out" href="/variants/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.88</div><div class="nn-name"><a href="/ttd/edit/#slug=g14k2g4r2g4k14dp15k1w3~x2&amp;base=r5k2db19g4k19g28k2ly5~x2">MacRae Hunting #2</a> <a class="nn-out" href="/variants/s9/g14k2g4r2g4k14dp15k1w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g14k2g4r2g4k14dp15k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.89</div><div class="nn-name"><a href="/ttd/edit/#slug=g11k2g1m4db1m4db13lt2db1~x4&amp;base=r5k2db19g4k19g28k2ly5~x2">Dunbartonshire</a> <a class="nn-out" href="/variants/s9/g11k2g1m4db1m4db13lt2db1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g11k2g1m4db1m4db13lt2db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="196.7" cy="184.1" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="191.0" cy="160.7" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="200.7" cy="195.4" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/variants/s9/r2g10ki12n1k2n14ki1n1g2~x2/"><circle cx="199.6" cy="167.1" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20b20w2~x2/"><circle cx="181.9" cy="194.6" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.8" cy="184.1" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/variants/s8/r3g2r3g18k14w2db16g3~x2/"><circle cx="174.5" cy="196.7" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/variants/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/"><circle cx="162.8" cy="180.1" r="4" fill="#3465a4"><title>MacMillan Htg (1906) (Clan)</title></circle></a><a href="/variants/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.5" cy="166.4" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s9/g11k2g1m4db1m4db13lt2db1~x4/"><circle cx="195.3" cy="162.4" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><circle cx="184.2" cy="172.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/r5k2db19g4k19g28k2ly5~x2/

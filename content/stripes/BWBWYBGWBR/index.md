@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stratford (Ontario), City of](/setts/s10/db42w5db1w1ly9db1g2w1db1r1~x4/)|
-|![Stratford (Ontario), City of example sett](/setts/s10/db42w5db1w1ly9db1g2w1db1r1~x4/sett.png)|
-| [Stratford, (Oregon) City of (Dist.)](/setts/s10/b42w5b1w1lo9b1g2w1b1r1~x4/)|
-|![Stratford, (Oregon) City of (Dist.) example sett](/setts/s10/b42w5b1w1lo9b1g2w1b1r1~x4/sett.png)|
+| [Stratford (Ontario), City of](/variants/s10/db42w5db1w1ly9db1g2w1db1r1~x4/)|
+|![Stratford (Ontario), City of example sett](/variants/s10/db42w5db1w1ly9db1g2w1db1r1~x4/sett.png)|
+| [Stratford, (Oregon) City of (Dist.)](/variants/s10/b42w5b1w1lo9b1g2w1b1r1~x4/)|
+|![Stratford, (Oregon) City of (Dist.) example sett](/variants/s10/b42w5b1w1lo9b1g2w1b1r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hunter of Bute (Personal)](/setts/s16/r12g6k6g2k1g1k6r24w2~x2/)|
-|![Hunter of Bute (Personal) example sett](/setts/s16/r12g6k6g2k1g1k6r24w2~x2/sett.png)|
+| [Hunter of Bute (Personal)](/variants/s16/r12g6k6g2k1g1k6r24w2~x2/)|
+|![Hunter of Bute (Personal) example sett](/variants/s16/r12g6k6g2k1g1k6r24w2~x2/sett.png)|

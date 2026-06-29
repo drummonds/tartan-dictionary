@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dickson (Kirkcudbrightshire)](/setts/s7/b6k8b6g12db29w3db4~x2/)|
-|![Dickson (Kirkcudbrightshire) example sett](/setts/s7/b6k8b6g12db29w3db4~x2/sett.png)|
+| [Dickson (Kirkcudbrightshire)](/variants/s7/b6k8b6g12db29w3db4~x2/)|
+|![Dickson (Kirkcudbrightshire) example sett](/variants/s7/b6k8b6g12db29w3db4~x2/sett.png)|

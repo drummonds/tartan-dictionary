@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Argyll Campbell](/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/)|
-|![Argyll Campbell example sett](/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/sett.png)|
-| [Argyll, Campbell](/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/)|
-|![Argyll, Campbell example sett](/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/sett.png)|
+| [Argyll Campbell](/variants/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/)|
+|![Argyll Campbell example sett](/variants/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/sett.png)|
+| [Argyll, Campbell](/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/)|
+|![Argyll, Campbell example sett](/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/sett.png)|

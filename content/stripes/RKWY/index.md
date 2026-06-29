@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McPeek (Fashion)](/setts/s4/r125k26lb20lo16/)|
-|![McPeek (Fashion) example sett](/setts/s4/r125k26lb20lo16/sett.png)|
+| [McPeek (Fashion)](/variants/s4/r125k26lb20lo16/)|
+|![McPeek (Fashion) example sett](/variants/s4/r125k26lb20lo16/sett.png)|

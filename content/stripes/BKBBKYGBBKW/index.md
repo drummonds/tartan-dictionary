@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Veere (District)](/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/)|
-|![Veere (District) example sett](/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/sett.png)|
+| [Veere (District)](/variants/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/)|
+|![Veere (District) example sett](/variants/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/sett.png)|

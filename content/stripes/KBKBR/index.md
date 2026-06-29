@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKay (Blue) #2](/setts/s5/k15db4k15db28r2~x2/)|
-|![MacKay (Blue) #2 example sett](/setts/s5/k15db4k15db28r2~x2/sett.png)|
+| [MacKay (Blue) #2](/variants/s5/k15db4k15db28r2~x2/)|
+|![MacKay (Blue) #2 example sett](/variants/s5/k15db4k15db28r2~x2/sett.png)|

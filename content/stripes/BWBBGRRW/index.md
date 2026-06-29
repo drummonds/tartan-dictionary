@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hier Family, Kilcreggan (Personal)](/setts/s8/db45wi2t23db10dg2r1m5w1~x2/)|
-|![Hier Family, Kilcreggan (Personal) example sett](/setts/s8/db45wi2t23db10dg2r1m5w1~x2/sett.png)|
+| [Hier Family, Kilcreggan (Personal)](/variants/s8/db45wi2t23db10dg2r1m5w1~x2/)|
+|![Hier Family, Kilcreggan (Personal) example sett](/variants/s8/db45wi2t23db10dg2r1m5w1~x2/sett.png)|

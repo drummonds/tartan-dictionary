@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Qualifications Auth. (Corp)](/setts/s7/db36lo5db8lb3db8lb10db3~x2/)|
-|![Scottish Qualifications Auth. (Corp) example sett](/setts/s7/db36lo5db8lb3db8lb10db3~x2/sett.png)|
+| [Scottish Qualifications Auth. (Corp)](/variants/s7/db36lo5db8lb3db8lb10db3~x2/)|
+|![Scottish Qualifications Auth. (Corp) example sett](/variants/s7/db36lo5db8lb3db8lb10db3~x2/sett.png)|

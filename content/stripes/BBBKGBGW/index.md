@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moray (Corporate)](/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/)|
-|![Moray (Corporate) example sett](/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/sett.png)|
+| [Moray (Corporate)](/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/)|
+|![Moray (Corporate) example sett](/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/sett.png)|

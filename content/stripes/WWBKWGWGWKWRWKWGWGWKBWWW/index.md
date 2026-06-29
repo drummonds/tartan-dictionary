@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diana Princess of Wales Memorial](/setts/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/)|
-|![Diana Princess of Wales Memorial example sett](/setts/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|
+| [Diana Princess of Wales Memorial](/variants/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/)|
+|![Diana Princess of Wales Memorial example sett](/variants/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|

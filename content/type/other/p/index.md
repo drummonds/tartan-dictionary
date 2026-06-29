@@ -1,0 +1,46 @@
+---
+title: "Other tartans — P"
+date: 2023-03-18
+---
+38 Other tartans beginning with P. [Back to all Other tartans](/type/other/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/variants/s14/r3gi4g2gi10k18gi2db18gi3db18gi2k18gi16w1r3~x2/"><img src="/variants/s14/r3gi4g2gi10k18gi2db18gi3db18gi2k18gi16w1r3~x2/sett.png" alt="Paget Family Tartan" width="140"><br>Paget Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s15/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3~x2/"><img src="/variants/s15/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3~x2/sett.png" alt="Palatine Union Personal Tartan" width="140"><br>Palatine Union Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s26/r6db16w4db4w4db4w4db16ly2db16r6w3db4w3r6db16ly2db16w4db4w4db4w4db16r6db4~x2/"><img src="/variants/s26/r6db16w4db4w4db4w4db16ly2db16r6w3db4w3r6db16ly2db16w4db4w4db4w4db16r6db4~x2/sett.png" alt="Parker Personal Tartan" width="140"><br>Parker Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s7/db8g11k3g11r12dt10ly2~x2/"><img src="/variants/s7/db8g11k3g11r12dt10ly2~x2/sett.png" alt="Parliament Trade Tartan" width="140"><br>Parliament Trade Tartan</a></li>
+<li><a class="tartan" href="/variants/s4/do10ly1do30y3~x4/"><img src="/variants/s4/do10ly1do30y3~x4/sett.png" alt="Pasteur Fancy Tartan" width="140"><br>Pasteur Fancy Tartan</a></li>
+<li><a class="tartan" href="/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2/"><img src="/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2/sett.png" alt="Paterson Clan/Family Weavers Tartan" width="140"><br>Paterson Clan/Family Weavers Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/db12w1dg12r12dg2r12dg12w1db12g3~x2/"><img src="/variants/s10/db12w1dg12r12dg2r12dg12w1db12g3~x2/sett.png" alt="Patterson (Red) Clan Tartan" width="140"><br>Patterson (Red) Clan Tartan</a></li>
+<li><a class="tartan" href="/variants/s11/dt30dp4dt5dg3dt2dg2dt2dg10dp7k2dp9~x2/"><img src="/variants/s11/dt30dp4dt5dg3dt2dg2dt2dg10dp7k2dp9~x2/sett.png" alt="Paxton Tartan" width="140"><br>Paxton Tartan</a></li>
+<li><a class="tartan" href="/variants/s5/lo3g14dy1g14lo3~x4/"><img src="/variants/s5/lo3g14dy1g14lo3~x4/sett.png" alt="Pearson Family Tartan" width="140"><br>Pearson Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s20/db40dg34r5dg34k6dg34ly5dg34db40dbi6db40dg34ly5dg34k6dg34r5dg34db40dbi6/"><img src="/variants/s20/db40dg34r5dg34k6dg34ly5dg34db40dbi6db40dg34ly5dg34k6dg34r5dg34db40dbi6/sett.png" alt="Pendleton dress Corporate Tartan" width="140"><br>Pendleton dress Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s20/db16dg14r3dg14k3dg14lo3dg14db16dbi2db16dg14lo3dg14k3dg14r3dg14db16dbi2~x2/"><img src="/variants/s20/db16dg14r3dg14k3dg14lo3dg14db16dbi2db16dg14lo3dg14k3dg14r3dg14db16dbi2~x2/sett.png" alt="Pendleton hunting Corporate Tartan" width="140"><br>Pendleton hunting Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s14/o11db6g6ly1db2ly1g6db6o36k1r3k1g5db5~x2/"><img src="/variants/s14/o11db6g6ly1db2ly1g6db6o36k1r3k1g5db5~x2/sett.png" alt="Penman Clan Tartan" width="140"><br>Penman Clan Tartan</a></li>
+<li><a class="tartan" href="/variants/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/"><img src="/variants/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/sett.png" alt="Penman Family Tartan" width="140"><br>Penman Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s6/db26r6g16db8g3r2~x2/"><img src="/variants/s6/db26r6g16db8g3r2~x2/sett.png" alt="Perthshire (New) District Tartan" width="140"><br>Perthshire (New) District Tartan</a></li>
+<li><a class="tartan" href="/variants/s7/r23k1g9r3db1lr1r1~x4/"><img src="/variants/s7/r23k1g9r3db1lr1r1~x4/sett.png" alt="Perthshire Clayquhat District Tartan" width="140"><br>Perthshire Clayquhat District Tartan</a></li>
+<li><a class="tartan" href="/variants/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><img src="/variants/s9/r41w2dp5ly2g21r9dp5db3w2~x2/sett.png" alt="Perthshire or Drummond District Tartan" width="140"><br>Perthshire or Drummond District Tartan</a></li>
+<li><a class="tartan" href="/variants/s11/k2ki20dg30ki2dg4ki2dg30ki3db30ki35r2/"><img src="/variants/s11/k2ki20dg30ki2dg4ki2dg30ki3db30ki35r2/sett.png" alt="Phillips Welsh Name Tartan" width="140"><br>Phillips Welsh Name Tartan</a></li>
+<li><a class="tartan" href="/variants/s7/r2w1lb50t24g12ki1k1~x2/"><img src="/variants/s7/r2w1lb50t24g12ki1k1~x2/sett.png" alt="Pincock Name Tartan" width="140"><br>Pincock Name Tartan</a></li>
+<li><a class="tartan" href="/variants/s13/p3n3p3n3p3g23n2ly2n23r6p8ly2n2~x2/"><img src="/variants/s13/p3n3p3n3p3g23n2ly2n23r6p8ly2n2~x2/sett.png" alt="Pitcairn Hunting Corporate Tartan" width="140"><br>Pitcairn Hunting Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/db2k3dg5k7db20k2db5k2dg20lb1~x2/"><img src="/variants/s10/db2k3dg5k7db20k2db5k2dg20lb1~x2/sett.png" alt="Pitceathly Chamberlain Tartan" width="140"><br>Pitceathly Chamberlain Tartan</a></li>
+<li><a class="tartan" href="/variants/s6/r30k8dg30b4r3b2~x2/"><img src="/variants/s6/r30k8dg30b4r3b2~x2/sett.png" alt="Plummer Family Personal Tartan" width="140"><br>Plummer Family Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s17/db6k1db1k1db1k7dg6ly1db1lb1db1ly1dg6k7db7k1db1~x4/"><img src="/variants/s17/db6k1db1k1db1k7dg6ly1db1lb1db1ly1dg6k7db7k1db1~x4/sett.png" alt="Polaris Corporate Tartan" width="140"><br>Polaris Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><img src="/variants/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/sett.png" alt="Popular" width="140"><br>Popular</a></li>
+<li><a class="tartan" href="/variants/s11/o1r1o3lo1o1do8ly7g1o1t1w1~x2/"><img src="/variants/s11/o1r1o3lo1o1do8ly7g1o1t1w1~x2/sett.png" alt="Porcupine Fancy Tartan" width="140"><br>Porcupine Fancy Tartan</a></li>
+<li><a class="tartan" href="/variants/s6/k1ly1db8g10dbi7w1~x2/"><img src="/variants/s6/k1ly1db8g10dbi7w1~x2/sett.png" alt="Porteous Family Tartan" width="140"><br>Porteous Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s12/o38lp4o8dy2o4w3o4r14n7o2n4w2~x2/"><img src="/variants/s12/o38lp4o8dy2o4w3o4r14n7o2n4w2~x2/sett.png" alt="Portree Check (District) Tartan" width="140"><br>Portree Check (District) Tartan</a></li>
+<li><a class="tartan" href="/variants/s12/dg24b7dg7b7dg7db22b7db4ly4db4b40r14/"><img src="/variants/s12/dg24b7dg7b7dg7db22b7db4ly4db4b40r14/sett.png" alt="Powys Welsh District Tartan" width="140"><br>Powys Welsh District Tartan</a></li>
+<li><a class="tartan" href="/variants/s15/db20k16g3dp23m7g10m7dp23g3k16db23w2db2w2db3~x2/"><img src="/variants/s15/db20k16g3dp23m7g10m7dp23g3k16db23w2db2w2db3~x2/sett.png" alt="Pride of Bannockburn Fashion Tartan" width="140"><br>Pride of Bannockburn Fashion Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/dg9k2dg2g13k2g2ly1dg13k26ly2~x2/"><img src="/variants/s10/dg9k2dg2g13k2g2ly1dg13k26ly2~x2/sett.png" alt="Pride of Ireland Fashion Tartan" width="140"><br>Pride of Ireland Fashion Tartan</a></li>
+<li><a class="tartan" href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2/"><img src="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2/sett.png" alt="Pride of Scotland General Tartan" width="140"><br>Pride of Scotland General Tartan</a></li>
+<li><a class="tartan" href="/variants/s11/k7n2lr2n2k13n2k2lr2n13k26lp2~x2/"><img src="/variants/s11/k7n2lr2n2k13n2k2lr2n13k26lp2~x2/sett.png" alt="Pride of Scotland Platinum Fashion Tartan" width="140"><br>Pride of Scotland Platinum Fashion Tartan</a></li>
+<li><a class="tartan" href="/variants/s11/k7lr2w2lr2k13lr2k2b1lr13k26b2~x2/"><img src="/variants/s11/k7lr2w2lr2k13lr2k2b1lr13k26b2~x2/sett.png" alt="Pride of Scotland Royal fashion Tartan" width="140"><br>Pride of Scotland Royal fashion Tartan</a></li>
+<li><a class="tartan" href="/variants/s13/ly3r3k5r2db9r7k1r3k1r7g7r2k2~x2/"><img src="/variants/s13/ly3r3k5r2db9r7k1r3k1r7g7r2k2~x2/sett.png" alt="Prince Charles Edward (Edinburgh)" width="140"><br>Prince Charles Edward (Edinburgh)</a></li>
+<li><a class="tartan" href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/sett.png" alt="Prince David Royal Family Tartan" width="140"><br>Prince David Royal Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s15/g16dy1g2dy1g2dy12m12dy1ly2dy1m12dy12g12dy1w2~x2/"><img src="/variants/s15/g16dy1g2dy1g2dy12m12dy1ly2dy1m12dy12g12dy1w2~x2/sett.png" alt="Prince Edward Island District Tartan" width="140"><br>Prince Edward Island District Tartan</a></li>
+<li><a class="tartan" href="/variants/s6/g36r18g4r6k1w2~x2/"><img src="/variants/s6/g36r18g4r6k1w2~x2/sett.png" alt="Princess Margaret Rose Tartan" width="140"><br>Princess Margaret Rose Tartan</a></li>
+<li><a class="tartan" href="/variants/s11/r2dg32ly2dg2k3db2ly2db28w2db2w2~x2/"><img src="/variants/s11/r2dg32ly2dg2k3db2ly2db28w2db2w2~x2/sett.png" alt="Pringle Personal Tartan" width="140"><br>Pringle Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s8/db25lo1db6b1db6lb4t3w1~x4/"><img src="/variants/s8/db25lo1db6b1db6lb4t3w1~x4/sett.png" alt="PSN Test" width="140"><br>PSN Test</a></li>
+</ul>

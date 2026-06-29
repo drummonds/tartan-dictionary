@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Kentigern College](/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/)|
-|![St Kentigern College example sett](/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/sett.png)|
-| [St. Kentigern College (Corporate)](/setts/s10/db30dbi3db3dbi3db3dbi10k10dg20k2w4~x2/)|
-|![St. Kentigern College (Corporate) example sett](/setts/s10/db30dbi3db3dbi3db3dbi10k10dg20k2w4~x2/sett.png)|
+| [St Kentigern College](/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2/)|
+|![St Kentigern College example sett](/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2/sett.png)|
+| [St. Kentigern College (Corporate)](/variants/s10/db30dbi3db3dbi3db3dbi10k10dg20k2w4~x2/)|
+|![St. Kentigern College (Corporate) example sett](/variants/s10/db30dbi3db3dbi3db3dbi10k10dg20k2w4~x2/sett.png)|

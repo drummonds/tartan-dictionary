@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clare, County](/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/)|
-|![Clare, County example sett](/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/sett.png)|
+| [Clare, County](/variants/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/)|
+|![Clare, County example sett](/variants/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/sett.png)|

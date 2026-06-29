@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Council for Commercial Arbitration](/setts/s13/o2w1o12db2r1db18r1b18r1b2w12o1w1~x2/)|
-|![International Council for Commercial Arbitration example sett](/setts/s13/o2w1o12db2r1db18r1b18r1b2w12o1w1~x2/sett.png)|
+| [International Council for Commercial Arbitration](/variants/s13/o2w1o12db2r1db18r1b18r1b2w12o1w1~x2/)|
+|![International Council for Commercial Arbitration example sett](/variants/s13/o2w1o12db2r1db18r1b18r1b2w12o1w1~x2/sett.png)|

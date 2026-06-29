@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cunningham Dress Burgundy (Dance)](/setts/s7/w5r2w34r34k2r2ly4~x2/)|
-|![Cunningham Dress Burgundy (Dance) example sett](/setts/s7/w5r2w34r34k2r2ly4~x2/sett.png)|
+| [Cunningham Dress Burgundy (Dance)](/variants/s7/w5r2w34r34k2r2ly4~x2/)|
+|![Cunningham Dress Burgundy (Dance) example sett](/variants/s7/w5r2w34r34k2r2ly4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [West Lothian](/setts/s9/g40k8g4k8g4r14db64t9db3/)|
-|![West Lothian example sett](/setts/s9/g40k8g4k8g4r14db64t9db3/sett.png)|
+| [West Lothian](/variants/s9/g40k8g4k8g4r14db64t9db3/)|
+|![West Lothian example sett](/variants/s9/g40k8g4k8g4r14db64t9db3/sett.png)|

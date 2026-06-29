@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forde](/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/)|
-|![Forde example sett](/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/sett.png)|
+| [Forde](/variants/s10/g16y1k2r1k1r1k2y1k1g1~x4/)|
+|![Forde example sett](/variants/s10/g16y1k2r1k1r1k2y1k1g1~x4/sett.png)|

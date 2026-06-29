@@ -24,13 +24,13 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser (Wilson 1820)](/setts/s9/db2r2db10r10db1r10g10r1db2~x4/)|
-|![Fraser (Wilson 1820) example sett](/setts/s9/db2r2db10r10db1r10g10r1db2~x4/sett.png)|
-| [Lovat or Fraser](/setts/s9/dp1r7dg22r23dp1r23dp22r7dp1~x2/)|
-|![Lovat or Fraser example sett](/setts/s9/dp1r7dg22r23dp1r23dp22r7dp1~x2/sett.png)|
-| [Lovat or Fraser Clan Tartan Tartan Number: 400. Earliest known date: 1820 The Scottish Tartans Society archives contain several queries on this name. J. Scarlett lists this sett under Fraser (Frasers of Lovat) with the comment. "The pattern is reputed to have been woven by Wilson's c.1820." (STS archive). 18 year old Simon Fraser became 25th chief of the Frasers of Lovat in March 1995, on the death of his grandfather, Lord Lovat, the famous war veteran. (Scotsman 17 March 1995) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/)|
-|![Lovat or Fraser Clan Tartan Tartan Number: 400. Earliest known date: 1820 The Scottish Tartans Society archives contain several queries on this name. J. Scarlett lists this sett under Fraser (Frasers of Lovat) with the comment. "The pattern is reputed to have been woven by Wilson's c.1820." (STS archive). 18 year old Simon Fraser became 25th chief of the Frasers of Lovat in March 1995, on the death of his grandfather, Lord Lovat, the famous war veteran. (Scotsman 17 March 1995) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png)|
-| [Lovat, or Fraser](/setts/s9/p1r7g22r23p1r23p22r7p1~x2/)|
-|![Lovat, or Fraser example sett](/setts/s9/p1r7g22r23p1r23p22r7p1~x2/sett.png)|
-| [MacPherson Gathering 1996](/setts/s9/b3r2n16r2b3r2g16r2b3~x4/)|
-|![MacPherson Gathering 1996 example sett](/setts/s9/b3r2n16r2b3r2g16r2b3~x4/sett.png)|
+| [Fraser (Wilson 1820)](/variants/s9/db2r2db10r10db1r10g10r1db2~x4/)|
+|![Fraser (Wilson 1820) example sett](/variants/s9/db2r2db10r10db1r10g10r1db2~x4/sett.png)|
+| [Lovat or Fraser](/variants/s9/dp1r7dg22r23dp1r23dp22r7dp1~x2/)|
+|![Lovat or Fraser example sett](/variants/s9/dp1r7dg22r23dp1r23dp22r7dp1~x2/sett.png)|
+| [Lovat or Fraser Clan Tartan](/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/)|
+|![Lovat or Fraser Clan Tartan example sett](/variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/sett.png)|
+| [Lovat, or Fraser](/variants/s9/p1r7g22r23p1r23p22r7p1~x2/)|
+|![Lovat, or Fraser example sett](/variants/s9/p1r7g22r23p1r23p22r7p1~x2/sett.png)|
+| [MacPherson Gathering 1996](/variants/s9/b3r2n16r2b3r2g16r2b3~x4/)|
+|![MacPherson Gathering 1996 example sett](/variants/s9/b3r2n16r2b3r2g16r2b3~x4/sett.png)|

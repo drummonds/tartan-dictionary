@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hummelt, Katherine (Personal)](/setts/s8/db11dg10y6db7lt2db3dp10lt2~x2/)|
-|![Hummelt, Katherine (Personal) example sett](/setts/s8/db11dg10y6db7lt2db3dp10lt2~x2/sett.png)|
+| [Hummelt, Katherine (Personal)](/variants/s8/db11dg10y6db7lt2db3dp10lt2~x2/)|
+|![Hummelt, Katherine (Personal) example sett](/variants/s8/db11dg10y6db7lt2db3dp10lt2~x2/sett.png)|

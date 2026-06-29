@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ballantyne (Personal)](/setts/s5/y60g13y9r8ly4~x2/)|
-|![Ballantyne (Personal) example sett](/setts/s5/y60g13y9r8ly4~x2/sett.png)|
+| [Ballantyne (Personal)](/variants/s5/y60g13y9r8ly4~x2/)|
+|![Ballantyne (Personal) example sett](/variants/s5/y60g13y9r8ly4~x2/sett.png)|

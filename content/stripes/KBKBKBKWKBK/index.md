@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Jewish Community](/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/)|
-|![Scottish Jewish Community example sett](/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/sett.png)|
+| [Scottish Jewish Community](/variants/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/)|
+|![Scottish Jewish Community example sett](/variants/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/sett.png)|

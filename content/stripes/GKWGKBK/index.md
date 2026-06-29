@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCallum](/setts/s7/dg8k2lb1dg4k6db6k1~x2/)|
-|![MacCallum example sett](/setts/s7/dg8k2lb1dg4k6db6k1~x2/sett.png)|
+| [MacCallum](/variants/s7/dg8k2lb1dg4k6db6k1~x2/)|
+|![MacCallum example sett](/variants/s7/dg8k2lb1dg4k6db6k1~x2/sett.png)|

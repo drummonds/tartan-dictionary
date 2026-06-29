@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fujitsu](/setts/s8/w1db6dp9r12k12g32k6ly1~x2/)|
-|![Fujitsu example sett](/setts/s8/w1db6dp9r12k12g32k6ly1~x2/sett.png)|
+| [Fujitsu](/variants/s8/w1db6dp9r12k12g32k6ly1~x2/)|
+|![Fujitsu example sett](/variants/s8/w1db6dp9r12k12g32k6ly1~x2/sett.png)|

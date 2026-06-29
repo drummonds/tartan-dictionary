@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milling-Christensen](/setts/s5/w8r6ly2g34b3~x2/)|
-|![Milling-Christensen example sett](/setts/s5/w8r6ly2g34b3~x2/sett.png)|
-| [Milling-Kristensen (Personal)](/setts/s5/w8r6lo2g34b3~x2/)|
-|![Milling-Kristensen (Personal) example sett](/setts/s5/w8r6lo2g34b3~x2/sett.png)|
+| [Milling-Christensen](/variants/s5/w8r6ly2g34b3~x2/)|
+|![Milling-Christensen example sett](/variants/s5/w8r6ly2g34b3~x2/sett.png)|
+| [Milling-Kristensen (Personal)](/variants/s5/w8r6lo2g34b3~x2/)|
+|![Milling-Kristensen (Personal) example sett](/variants/s5/w8r6lo2g34b3~x2/sett.png)|

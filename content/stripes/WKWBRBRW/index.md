@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Merida Dance](/setts/s8/w8k4w54db18m6db8m49w6/)|
-|![Merida Dance example sett](/setts/s8/w8k4w54db18m6db8m49w6/sett.png)|
-| [Meridia Dance](/setts/s8/w8k6w54db16m6db8m49w6/)|
-|![Meridia Dance example sett](/setts/s8/w8k6w54db16m6db8m49w6/sett.png)|
+| [Merida Dance](/variants/s8/w8k4w54db18m6db8m49w6/)|
+|![Merida Dance example sett](/variants/s8/w8k4w54db18m6db8m49w6/sett.png)|
+| [Meridia Dance](/variants/s8/w8k6w54db16m6db8m49w6/)|
+|![Meridia Dance example sett](/variants/s8/w8k6w54db16m6db8m49w6/sett.png)|

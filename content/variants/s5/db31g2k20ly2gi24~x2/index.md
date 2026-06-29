@@ -1,0 +1,53 @@
+---
+title: "Landels (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db31g2k20ly2gi24/)
+(the same proportion at any scale), whose colour order is pattern [BGKYG](/stripes/bgkyg/).
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7370/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2007 — Landels (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7370/">record</a>)</li>
+<li>undated — Landels (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5476">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5476](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5476)
+- Scottish Tartans Authority (ITI): 7370
+
+## Thread count
+DB/62 G4 K40 Y4 Ga/48
+
+One full sett is **206 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">62</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>Ga/</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DB/62 G4 K40 Y4 Ga/48 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=db31g2k20ly2gi24~x2">Landels (Personal)</a> <a class="nn-out" href="/variants/s5/db31g2k20ly2gi24~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/db31g2k20ly2gi24~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.61</div><div class="nn-name"><a href="/ttd/edit/#slug=b32do16dg3o4k28~x2&amp;base=db31g2k20ly2gi24~x2">Corey in Balachuirn</a> <a class="nn-out" href="/variants/s5/b32do16dg3o4k28~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/b32do16dg3o4k28~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.77</div><div class="nn-name"><a href="/ttd/edit/#slug=k2dg12k12r1db12w2~x2&amp;base=db31g2k20ly2gi24~x2">Russell or Mitchell or Hunter or Galbraith</a> <a class="nn-out" href="/variants/s6/k2dg12k12r1db12w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2dg12k12r1db12w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.80</div><div class="nn-name"><a href="/ttd/edit/#slug=dy2g12k10r1db16r2~x2&amp;base=db31g2k20ly2gi24~x2">MacWilliam Clan Tartan</a> <a class="nn-out" href="/variants/s6/dy2g12k10r1db16r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dy2g12k10r1db16r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.81</div><div class="nn-name"><a href="/ttd/edit/#slug=r2db23k14dg16k2w2~x2&amp;base=db31g2k20ly2gi24~x2">MacPhail Hunting</a> <a class="nn-out" href="/variants/s6/r2db23k14dg16k2w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db23k14dg16k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.86</div><div class="nn-name"><a href="/ttd/edit/#slug=dy2g12k10r1b16r2~x4&amp;base=db31g2k20ly2gi24~x2">MacWilliam (Clan)</a> <a class="nn-out" href="/variants/s6/dy2g12k10r1b16r2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dy2g12k10r1b16r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=db22w2k10g11r3g4~x2&amp;base=db31g2k20ly2gi24~x2">Paterson Blue (Personal)</a> <a class="nn-out" href="/variants/s6/db22w2k10g11r3g4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db22w2k10g11r3g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=g3db12w1k12g13r2g2~x2&amp;base=db31g2k20ly2gi24~x2">Paterson (Personal)</a> <a class="nn-out" href="/variants/s7/g3db12w1k12g13r2g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g3db12w1k12g13r2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=r4k2db24k20g20lo3~x2&amp;base=db31g2k20ly2gi24~x2">Loudoun's Highlanders - 1747 #1 (Mil</a> <a class="nn-out" href="/variants/s6/r4k2db24k20g20lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4k2db24k20g20lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=dg3db12lb1k12dg13r2dg2~x2&amp;base=db31g2k20ly2gi24~x2">MacPhedran/MacFadzean</a> <a class="nn-out" href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.99</div><div class="nn-name"><a href="/ttd/edit/#slug=k7r3g30db28lb3~x2&amp;base=db31g2k20ly2gi24~x2">Highlander Highland Laddie</a> <a class="nn-out" href="/variants/s5/k7r3g30db28lb3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7r3g30db28lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/b32do16dg3o4k28~x2/"><circle cx="199.3" cy="230.5" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s6/k2dg12k12r1db12w2~x2/"><circle cx="180.5" cy="212.1" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="214.2" cy="201.6" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/r2db23k14dg16k2w2~x2/"><circle cx="214.9" cy="210.7" r="4" fill="#3465a4"><title>MacPhail Hunting</title></circle></a><a href="/variants/s6/dy2g12k10r1b16r2~x4/"><circle cx="193.3" cy="192.3" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="203.8" cy="205.8" r="4" fill="#3465a4"><title>Paterson Blue (Personal)</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="200.7" cy="195.4" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/variants/s6/r4k2db24k20g20lo3~x2/"><circle cx="173.5" cy="211.7" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="220.5" cy="204.2" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s5/k7r3g30db28lb3~x2/"><circle cx="222.2" cy="214.8" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><circle cx="218.6" cy="214.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/db31g2k20ly2gi24~x2/

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glennie (Personal)](/setts/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/)|
-|![Glennie (Personal) example sett](/setts/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/sett.png)|
+| [Glennie (Personal)](/variants/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/)|
+|![Glennie (Personal) example sett](/variants/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/sett.png)|

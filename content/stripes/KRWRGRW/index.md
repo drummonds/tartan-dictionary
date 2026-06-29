@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Starr (1978) (Name)](/setts/s7/k2r4w1r10g12r2w2~x4/)|
-|![Starr (1978) (Name) example sett](/setts/s7/k2r4w1r10g12r2w2~x4/sett.png)|
+| [Starr (1978) (Name)](/variants/s7/k2r4w1r10g12r2w2~x4/)|
+|![Starr (1978) (Name) example sett](/variants/s7/k2r4w1r10g12r2w2~x4/sett.png)|

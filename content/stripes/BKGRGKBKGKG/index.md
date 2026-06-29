@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highfield Hunting (Name)](/setts/s11/db10k2g2r2g2k2do2k2dy4k1y2~x4/)|
-|![Highfield Hunting (Name) example sett](/setts/s11/db10k2g2r2g2k2do2k2dy4k1y2~x4/sett.png)|
+| [Highfield Hunting (Name)](/variants/s11/db10k2g2r2g2k2do2k2dy4k1y2~x4/)|
+|![Highfield Hunting (Name) example sett](/variants/s11/db10k2g2r2g2k2do2k2dy4k1y2~x4/sett.png)|

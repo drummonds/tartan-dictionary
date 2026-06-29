@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gow](/setts/s8/r4dg4r1db4r4~x12/)|
-|![Gow example sett](/setts/s8/r4dg4r1db4r4~x12/sett.png)|
-| [Gow (Portrait)](/setts/s8/r5dp5r1g5r5~x8/)|
-|![Gow (Portrait) example sett](/setts/s8/r5dp5r1g5r5~x8/sett.png)|
+| [Gow](/variants/s8/r4dg4r1db4r4~x12/)|
+|![Gow example sett](/variants/s8/r4dg4r1db4r4~x12/sett.png)|
+| [Gow (Portrait)](/variants/s8/r5dp5r1g5r5~x8/)|
+|![Gow (Portrait) example sett](/variants/s8/r5dp5r1g5r5~x8/sett.png)|

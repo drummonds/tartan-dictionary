@@ -1,0 +1,61 @@
+---
+title: "Campbell of Cawdor"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k1db8k8g8k1t2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKR](/stripes/bkgkbkr/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=518
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Argyll / MacCorquodale
+- Campbell of Cawdor
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1798 — Campbell of Cawdor (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=518">record</a>)</li>
+<li>pre 1798 — Campbell of Cawdor (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=518)
+- Scottish Tartans Authority (ITI): 2
+- Scottish Tartans World Register: 2
+
+## Thread count
+R/8 K4 DB32 K32 G32 K4 B/8
+
+One full sett is **224 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> <small style="color:#888">#5C8CA8</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(61.7% 0.067 235.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/8 K4 DB32 K32 G32 K4 B/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r2k1db8k8g8k1t2~x4">Campbell of Cawdor</a> <a class="nn-out" href="/variants/s7/r2k1db8k8g8k1t2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r2k1db8k8g8k1t2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.00</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k1db8k8g8k1t2~x2&amp;base=r2k1db8k8g8k1t2~x4">Argyll</a> <a class="nn-out" href="/variants/s7/r2k1db8k8g8k1t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2k1db8k8g8k1t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k1db8k8g8k1y2~x2&amp;base=r2k1db8k8g8k1t2~x4">Campbell of Cawdor Clan Tartan</a> <a class="nn-out" href="/variants/s7/r2k1db8k8g8k1y2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2k1db8k8g8k1y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.34</div><div class="nn-name"><a href="/ttd/edit/#slug=dg17ly2k14r2db9r2db10~x2&amp;base=r2k1db8k8g8k1t2~x4">MacDonald (Flora.. )</a> <a class="nn-out" href="/variants/s7/dg17ly2k14r2db9r2db10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg17ly2k14r2db9r2db10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.47</div><div class="nn-name"><a href="/ttd/edit/#slug=r4dg16k16db4dg3db12lo2~x2&amp;base=r2k1db8k8g8k1t2~x4">Junior Chamber International (Corp)</a> <a class="nn-out" href="/variants/s7/r4dg16k16db4dg3db12lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4dg16k16db4dg3db12lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.48</div><div class="nn-name"><a href="/ttd/edit/#slug=t4g14ly2k14db14k2db3~x2&amp;base=r2k1db8k8g8k1t2~x4">Hogarth of Firhill (Clan)</a> <a class="nn-out" href="/variants/s7/t4g14ly2k14db14k2db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/t4g14ly2k14db14k2db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.50</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g16w2k16db16k2db2~x2&amp;base=r2k1db8k8g8k1t2~x4">Colquhoun Clan Tartan</a> <a class="nn-out" href="/variants/s7/r3g16w2k16db16k2db2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3g16w2k16db16k2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.53</div><div class="nn-name"><a href="/ttd/edit/#slug=k1g8w1k8db8r1~x4&amp;base=r2k1db8k8g8k1t2~x4">Leslie Hunting</a> <a class="nn-out" href="/variants/s6/k1g8w1k8db8r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1g8w1k8db8r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.54</div><div class="nn-name"><a href="/ttd/edit/#slug=r5g19w3k19db19k3db2~x2&amp;base=r2k1db8k8g8k1t2~x4">Fruin Colquhoun (Commemorative?)</a> <a class="nn-out" href="/variants/s7/r5g19w3k19db19k3db2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r5g19w3k19db19k3db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.55</div><div class="nn-name"><a href="/ttd/edit/#slug=g11t3g5r3g5k22db22k5~x2&amp;base=r2k1db8k8g8k1t2~x4">Wood (Personal)</a> <a class="nn-out" href="/variants/s8/g11t3g5r3g5k22db22k5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g11t3g5r3g5k22db22k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.59</div><div class="nn-name"><a href="/ttd/edit/#slug=k2g17k16r2db17lr2~x2&amp;base=r2k1db8k8g8k1t2~x4">Mitchell (Clan)</a> <a class="nn-out" href="/variants/s6/k2g17k16r2db17lr2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g17k16r2db17lr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2k1db8k8g8k1t2~x2/"><circle cx="151.0" cy="217.9" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="149.5" cy="216.9" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan</title></circle></a><a href="/variants/s7/dg17ly2k14r2db9r2db10~x2/"><circle cx="160.9" cy="221.6" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/variants/s7/r4dg16k16db4dg3db12lo2~x2/"><circle cx="161.7" cy="228.1" r="4" fill="#3465a4"><title>Junior Chamber International (Corp)</title></circle></a><a href="/variants/s7/t4g14ly2k14db14k2db3~x2/"><circle cx="134.9" cy="222.1" r="4" fill="#3465a4"><title>Hogarth of Firhill (Clan)</title></circle></a><a href="/variants/s7/r3g16w2k16db16k2db2~x2/"><circle cx="150.2" cy="206.9" r="4" fill="#3465a4"><title>Colquhoun Clan Tartan</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="160.6" cy="222.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s7/r5g19w3k19db19k3db2~x2/"><circle cx="148.1" cy="204.2" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/variants/s8/g11t3g5r3g5k22db22k5~x2/"><circle cx="172.5" cy="217.9" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s6/k2g17k16r2db17lr2~x2/"><circle cx="163.2" cy="222.5" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><circle cx="151.0" cy="217.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/r2k1db8k8g8k1t2~x4/

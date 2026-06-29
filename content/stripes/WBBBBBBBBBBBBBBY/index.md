@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ryder Cup 2014 (Corporate)](/setts/s16/w3db21dbii8t1dbii4t1dbii3t2dbii2t2dbii1t3dbii1t12dbi5ly3~x2/)|
-|![Ryder Cup 2014 (Corporate) example sett](/setts/s16/w3db21dbii8t1dbii4t1dbii3t2dbii2t2dbii1t3dbii1t12dbi5ly3~x2/sett.png)|
+| [Ryder Cup 2014 (Corporate)](/variants/s16/w3db21dbii8t1dbii4t1dbii3t2dbii2t2dbii1t3dbii1t12dbi5ly3~x2/)|
+|![Ryder Cup 2014 (Corporate) example sett](/variants/s16/w3db21dbii8t1dbii4t1dbii3t2dbii2t2dbii1t3dbii1t12dbi5ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerr Shepherd's Plaid (Clan)](/setts/s20/k1w1k1w1k1w1k1w1k1w1r1~x8/)|
-|![Kerr Shepherd's Plaid (Clan) example sett](/setts/s20/k1w1k1w1k1w1k1w1k1w1r1~x8/sett.png)|
+| [Kerr Shepherd's Plaid (Clan)](/variants/s20/k1w1k1w1k1w1k1w1k1w1r1~x8/)|
+|![Kerr Shepherd's Plaid (Clan) example sett](/variants/s20/k1w1k1w1k1w1k1w1k1w1r1~x8/sett.png)|

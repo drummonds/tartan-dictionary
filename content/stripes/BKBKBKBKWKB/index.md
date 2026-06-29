@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dawson-Nunes (Personal)](/setts/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/)|
-|![Dawson-Nunes (Personal) example sett](/setts/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/sett.png)|
+| [Dawson-Nunes (Personal)](/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/)|
+|![Dawson-Nunes (Personal) example sett](/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/sett.png)|

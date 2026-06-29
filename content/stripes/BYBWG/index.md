@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boroughmuir](/setts/s5/dg30w8dt32ly1dt8~x2/)|
-|![Boroughmuir example sett](/setts/s5/dg30w8dt32ly1dt8~x2/sett.png)|
-| [Wimbledon](/setts/s5/g30w8db32ly1db8~x2/)|
-|![Wimbledon example sett](/setts/s5/g30w8db32ly1db8~x2/sett.png)|
+| [Boroughmuir](/variants/s5/dg30w8dt32ly1dt8~x2/)|
+|![Boroughmuir example sett](/variants/s5/dg30w8dt32ly1dt8~x2/sett.png)|
+| [Wimbledon](/variants/s5/g30w8db32ly1db8~x2/)|
+|![Wimbledon example sett](/variants/s5/g30w8db32ly1db8~x2/sett.png)|

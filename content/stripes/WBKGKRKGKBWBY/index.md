@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sacramento City Fire Department (P&D](/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/)|
-|![Sacramento City Fire Department (P&D example sett](/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/sett.png)|
+| [Sacramento City Fire Department (P&D](/variants/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/)|
+|![Sacramento City Fire Department (P&D example sett](/variants/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/sett.png)|

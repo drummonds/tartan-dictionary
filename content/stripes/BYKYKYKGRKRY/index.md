@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBeth](/tartans/db36ly4k6lr1k1lr1k1dg8r6k1r3lr1/)|
-|![MacBeth example sett](/setts/s12/db36ly4k6lr1k1lr1k1dg8r6k1r3lr1/sett.png)|
+| [MacBeth](/setts/db36ly4k6lr1k1lr1k1dg8r6k1r3lr1/)|
+|![MacBeth example sett](/variants/s12/db36ly4k6lr1k1lr1k1dg8r6k1r3lr1/sett.png)|

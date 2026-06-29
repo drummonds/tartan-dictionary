@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Army of Oman](/setts/s12/dg6w3dg15r3dg15ly3k10dg21r3k3r3dg3~x2/)|
-|![Royal Army of Oman example sett](/setts/s12/dg6w3dg15r3dg15ly3k10dg21r3k3r3dg3~x2/sett.png)|
+| [Royal Army of Oman](/variants/s12/dg6w3dg15r3dg15ly3k10dg21r3k3r3dg3~x2/)|
+|![Royal Army of Oman example sett](/variants/s12/dg6w3dg15r3dg15ly3k10dg21r3k3r3dg3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forbes of Druinnor (Artefact)](/setts/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/)|
-|![Forbes of Druinnor (Artefact) example sett](/setts/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/sett.png)|
+| [Forbes of Druinnor (Artefact)](/variants/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/)|
+|![Forbes of Druinnor (Artefact) example sett](/variants/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/sett.png)|

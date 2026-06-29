@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irvine of Drum](/setts/s8/t3k3t21g49t21k3t3w3~x2/)|
-|![Irvine of Drum example sett](/setts/s8/t3k3t21g49t21k3t3w3~x2/sett.png)|
+| [Irvine of Drum](/variants/s8/t3k3t21g49t21k3t3w3~x2/)|
+|![Irvine of Drum example sett](/variants/s8/t3k3t21g49t21k3t3w3~x2/sett.png)|

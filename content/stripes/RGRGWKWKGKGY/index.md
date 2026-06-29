@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Authentic Grey](/setts/s12/r1y20r1y3w1k1w1k4y3k1y2ly1~x2/)|
-|![Stuart/Stewart Authentic Grey example sett](/setts/s12/r1y20r1y3w1k1w1k4y3k1y2ly1~x2/sett.png)|
+| [Stuart/Stewart Authentic Grey](/variants/s12/r1y20r1y3w1k1w1k4y3k1y2ly1~x2/)|
+|![Stuart/Stewart Authentic Grey example sett](/variants/s12/r1y20r1y3w1k1w1k4y3k1y2ly1~x2/sett.png)|

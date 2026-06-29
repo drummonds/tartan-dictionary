@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diana Memorial Rose](/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/)|
-|![Diana Memorial Rose example sett](/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/sett.png)|
+| [Diana Memorial Rose](/variants/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/)|
+|![Diana Memorial Rose example sett](/variants/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/sett.png)|

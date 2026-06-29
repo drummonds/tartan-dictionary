@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberuchill](/setts/s8/m8k2dy10dp30dy30g55k4lo6/)|
-|![Aberuchill example sett](/setts/s8/m8k2dy10dp30dy30g55k4lo6/sett.png)|
+| [Aberuchill](/variants/s8/m8k2dy10dp30dy30g55k4lo6/)|
+|![Aberuchill example sett](/variants/s8/m8k2dy10dp30dy30g55k4lo6/sett.png)|

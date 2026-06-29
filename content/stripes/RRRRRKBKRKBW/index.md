@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLellan of Gartbreck (Personal)](/setts/s12/o3r3o4r4o20k5n4k3o3k2n25w3~x2/)|
-|![MacLellan of Gartbreck (Personal) example sett](/setts/s12/o3r3o4r4o20k5n4k3o3k2n25w3~x2/sett.png)|
+| [MacLellan of Gartbreck (Personal)](/variants/s12/o3r3o4r4o20k5n4k3o3k2n25w3~x2/)|
+|![MacLellan of Gartbreck (Personal) example sett](/variants/s12/o3r3o4r4o20k5n4k3o3k2n25w3~x2/sett.png)|

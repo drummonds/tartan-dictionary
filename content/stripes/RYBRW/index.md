@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snowbird (Corporate)](/setts/s5/r8lg15b12r29w4~x2/)|
-|![Snowbird (Corporate) example sett](/setts/s5/r8lg15b12r29w4~x2/sett.png)|
+| [Snowbird (Corporate)](/variants/s5/r8lg15b12r29w4~x2/)|
+|![Snowbird (Corporate) example sett](/variants/s5/r8lg15b12r29w4~x2/sett.png)|

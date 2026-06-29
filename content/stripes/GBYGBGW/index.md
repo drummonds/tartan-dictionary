@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chambers Bay](/setts/s7/g2t15lr5g2t2g7w2~x4/)|
-|![Chambers Bay example sett](/setts/s7/g2t15lr5g2t2g7w2~x4/sett.png)|
+| [Chambers Bay](/variants/s7/g2t15lr5g2t2g7w2~x4/)|
+|![Chambers Bay example sett](/variants/s7/g2t15lr5g2t2g7w2~x4/sett.png)|

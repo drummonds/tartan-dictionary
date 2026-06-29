@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland's Lionheart](/setts/s9/k78y16k2n2k2y2k3r2k10~x2/)|
-|![Scotland's Lionheart example sett](/setts/s9/k78y16k2n2k2y2k3r2k10~x2/sett.png)|
+| [Scotland's Lionheart](/variants/s9/k78y16k2n2k2y2k3r2k10~x2/)|
+|![Scotland's Lionheart example sett](/variants/s9/k78y16k2n2k2y2k3r2k10~x2/sett.png)|

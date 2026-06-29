@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rogue Attitude](/setts/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/)|
-|![Rogue Attitude example sett](/setts/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/sett.png)|
+| [Rogue Attitude](/variants/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/)|
+|![Rogue Attitude example sett](/variants/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Naysmith, William A (Personal)](/setts/s10/lb4r2db14k4lb4k3lb3k2r2lbi2~x2/)|
-|![Naysmith, William A (Personal) example sett](/setts/s10/lb4r2db14k4lb4k3lb3k2r2lbi2~x2/sett.png)|
+| [Naysmith, William A (Personal)](/variants/s10/lb4r2db14k4lb4k3lb3k2r2lbi2~x2/)|
+|![Naysmith, William A (Personal) example sett](/variants/s10/lb4r2db14k4lb4k3lb3k2r2lbi2~x2/sett.png)|

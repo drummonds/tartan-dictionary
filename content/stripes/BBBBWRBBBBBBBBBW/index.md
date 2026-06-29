@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Alliance](/setts/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2/)|
-|![Auld Alliance example sett](/setts/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2/sett.png)|
+| [Auld Alliance](/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2/)|
+|![Auld Alliance example sett](/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2/sett.png)|

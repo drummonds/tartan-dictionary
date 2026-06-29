@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oban Mist](/setts/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2/)|
-|![Oban Mist example sett](/setts/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2/sett.png)|
+| [Oban Mist](/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2/)|
+|![Oban Mist example sett](/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Labrador Club of Scotland (Corporate](/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/)|
-|![Labrador Club of Scotland (Corporate example sett](/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/sett.png)|
+| [Labrador Club of Scotland (Corporate](/variants/s8/o21ly4dy5ly4o5k21g21lo5~x2/)|
+|![Labrador Club of Scotland (Corporate example sett](/variants/s8/o21ly4dy5ly4o5k21g21lo5~x2/sett.png)|

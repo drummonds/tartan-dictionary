@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramsay, Red](/setts/s7/k4o9k13g6o3g9w4~x2/)|
-|![Ramsay, Red example sett](/setts/s7/k4o9k13g6o3g9w4~x2/sett.png)|
+| [Ramsay, Red](/variants/s7/k4o9k13g6o3g9w4~x2/)|
+|![Ramsay, Red example sett](/variants/s7/k4o9k13g6o3g9w4~x2/sett.png)|

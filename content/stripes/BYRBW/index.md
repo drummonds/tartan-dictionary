@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doohan (New South Wales), Andrew](/setts/s5/t2lo1r4t4w2~x10/)|
-|![Doohan (New South Wales), Andrew example sett](/setts/s5/t2lo1r4t4w2~x10/sett.png)|
+| [Doohan (New South Wales), Andrew](/variants/s5/t2lo1r4t4w2~x10/)|
+|![Doohan (New South Wales), Andrew example sett](/variants/s5/t2lo1r4t4w2~x10/sett.png)|

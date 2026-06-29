@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graham, Red Dress](/setts/s9/y1k1r8y4k6dg8w8k1y1~x4/)|
-|![Graham, Red Dress example sett](/setts/s9/y1k1r8y4k6dg8w8k1y1~x4/sett.png)|
+| [Graham, Red Dress](/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/)|
+|![Graham, Red Dress example sett](/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/sett.png)|

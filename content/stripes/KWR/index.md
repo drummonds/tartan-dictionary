@@ -24,11 +24,11 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coigach Tweed](/setts/s3/k1lb1o1~x6/)|
-|![Coigach Tweed example sett](/setts/s3/k1lb1o1~x6/sett.png)|
-| [Dacre Estate Check](/setts/s3/k1w1r1~x14/)|
-|![Dacre Estate Check example sett](/setts/s3/k1w1r1~x14/sett.png)|
-| [International Karate Fed. (Corporat)](/setts/s3/r8w1k1~x20/)|
-|![International Karate Fed. (Corporat) example sett](/setts/s3/r8w1k1~x20/sett.png)|
-| [St Georges Check](/setts/s3/r35w94k6/)|
-|![St Georges Check example sett](/setts/s3/r35w94k6/sett.png)|
+| [Coigach Tweed](/variants/s3/k1lb1o1~x6/)|
+|![Coigach Tweed example sett](/variants/s3/k1lb1o1~x6/sett.png)|
+| [Dacre Estate Check](/variants/s3/k1w1r1~x14/)|
+|![Dacre Estate Check example sett](/variants/s3/k1w1r1~x14/sett.png)|
+| [International Karate Fed. (Corporat)](/variants/s3/r8w1k1~x20/)|
+|![International Karate Fed. (Corporat) example sett](/variants/s3/r8w1k1~x20/sett.png)|
+| [St Georges Check](/variants/s3/r35w94k6/)|
+|![St Georges Check example sett](/variants/s3/r35w94k6/sett.png)|

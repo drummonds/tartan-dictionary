@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yair Dance](/setts/s9/w3ly4w26m18w2m4r2m4w2~x2/)|
-|![Yair Dance example sett](/setts/s9/w3ly4w26m18w2m4r2m4w2~x2/sett.png)|
+| [Yair Dance](/variants/s9/w3ly4w26m18w2m4r2m4w2~x2/)|
+|![Yair Dance example sett](/variants/s9/w3ly4w26m18w2m4r2m4w2~x2/sett.png)|

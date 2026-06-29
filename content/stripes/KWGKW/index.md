@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shepherd, Derek (Wandering)](/setts/s5/lb2k2g2lb1k1~x20/)|
-|![Shepherd, Derek (Wandering) example sett](/setts/s5/lb2k2g2lb1k1~x20/sett.png)|
+| [Shepherd, Derek (Wandering)](/variants/s5/lb2k2g2lb1k1~x20/)|
+|![Shepherd, Derek (Wandering) example sett](/variants/s5/lb2k2g2lb1k1~x20/sett.png)|

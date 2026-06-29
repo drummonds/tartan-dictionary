@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eastern States Exposition-West Springfield](/setts/s9/dp1g1b2ly1b16lb16b1w2r1~x4/)|
-|![Eastern States Exposition-West Springfield example sett](/setts/s9/dp1g1b2ly1b16lb16b1w2r1~x4/sett.png)|
+| [Eastern States Exposition-West Springfield](/variants/s9/dp1g1b2ly1b16lb16b1w2r1~x4/)|
+|![Eastern States Exposition-West Springfield example sett](/variants/s9/dp1g1b2ly1b16lb16b1w2r1~x4/sett.png)|

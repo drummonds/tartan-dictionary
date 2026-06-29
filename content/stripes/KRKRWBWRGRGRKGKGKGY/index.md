@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Princess Beatrice, dress](/setts/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/)|
-|![Princess Beatrice, dress example sett](/setts/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/sett.png)|
+| [Princess Beatrice, dress](/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/)|
+|![Princess Beatrice, dress example sett](/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/sett.png)|

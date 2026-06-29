@@ -24,9 +24,9 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rob Roy](/tartans/k1r1/)|
-|![Rob Roy example sett](/setts/s2/k1r1~x4/sett.png)|
-| [St Kilda](/tartans/k4r1/)|
-|![St Kilda example sett](/setts/s2/k4r1~x6/sett.png)|
-| [Wilson's No.234](/setts/s2/r8k3~x2/)|
-|![Wilson's No.234 example sett](/setts/s2/r8k3~x2/sett.png)|
+| [Rob Roy](/setts/k1r1/)|
+|![Rob Roy example sett](/variants/s2/k1r1~x4/sett.png)|
+| [St Kilda](/setts/k4r1/)|
+|![St Kilda example sett](/variants/s2/k4r1~x6/sett.png)|
+| [Wilson's No.234](/variants/s2/r8k3~x2/)|
+|![Wilson's No.234 example sett](/variants/s2/r8k3~x2/sett.png)|

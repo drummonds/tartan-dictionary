@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ryder Cup 2006](/setts/s10/k10lo1k3dt8dg8dgi1dg8dt8k15lo1~x2/)|
-|![Ryder Cup 2006 example sett](/setts/s10/k10lo1k3dt8dg8dgi1dg8dt8k15lo1~x2/sett.png)|
+| [Ryder Cup 2006](/variants/s10/k10lo1k3dt8dg8dgi1dg8dt8k15lo1~x2/)|
+|![Ryder Cup 2006 example sett](/variants/s10/k10lo1k3dt8dg8dgi1dg8dt8k15lo1~x2/sett.png)|

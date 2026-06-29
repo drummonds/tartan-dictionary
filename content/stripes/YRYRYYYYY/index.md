@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Compaq Check (Corporate)](/setts/s9/ly1r1ly1r1ly1lo1ly1lo1ly1~x6/)|
-|![Compaq Check (Corporate) example sett](/setts/s9/ly1r1ly1r1ly1lo1ly1lo1ly1~x6/sett.png)|
+| [Compaq Check (Corporate)](/variants/s9/ly1r1ly1r1ly1lo1ly1lo1ly1~x6/)|
+|![Compaq Check (Corporate) example sett](/variants/s9/ly1r1ly1r1ly1lo1ly1lo1ly1~x6/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ellan Vannin](/setts/s6/gi2g8dp4lb2gi13b2~x4/)|
-|![Ellan Vannin example sett](/setts/s6/gi2g8dp4lb2gi13b2~x4/sett.png)|
-| [Manx, Ellan Vannin](/setts/s6/g2gi7db3w2g14b2~x4/)|
-|![Manx, Ellan Vannin example sett](/setts/s6/g2gi7db3w2g14b2~x4/sett.png)|
+| [Ellan Vannin](/variants/s6/gi2g8dp4lb2gi13b2~x4/)|
+|![Ellan Vannin example sett](/variants/s6/gi2g8dp4lb2gi13b2~x4/sett.png)|
+| [Manx, Ellan Vannin](/variants/s6/g2gi7db3w2g14b2~x4/)|
+|![Manx, Ellan Vannin example sett](/variants/s6/g2gi7db3w2g14b2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jardine, of Castlemilk](/setts/s9/r8o33ly33k33r8db8ly33db8r8/)|
-|![Jardine, of Castlemilk example sett](/setts/s9/r8o33ly33k33r8db8ly33db8r8/sett.png)|
+| [Jardine, of Castlemilk](/variants/s9/r8o33ly33k33r8db8ly33db8r8/)|
+|![Jardine, of Castlemilk example sett](/variants/s9/r8o33ly33k33r8db8ly33db8r8/sett.png)|

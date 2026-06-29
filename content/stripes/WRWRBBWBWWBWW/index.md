@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daughters of the American Revolution](/setts/s13/w2r2w2r4db18dbi14lb6dbi5lb4w2dbi5w2lb2~x2/)|
-|![Daughters of the American Revolution example sett](/setts/s13/w2r2w2r4db18dbi14lb6dbi5lb4w2dbi5w2lb2~x2/sett.png)|
+| [Daughters of the American Revolution](/variants/s13/w2r2w2r4db18dbi14lb6dbi5lb4w2dbi5w2lb2~x2/)|
+|![Daughters of the American Revolution example sett](/variants/s13/w2r2w2r4db18dbi14lb6dbi5lb4w2dbi5w2lb2~x2/sett.png)|

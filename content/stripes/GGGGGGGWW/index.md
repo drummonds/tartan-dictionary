@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling Millennium](/setts/s9/lp2w1y1g1gi1dg1y1g1dg1~x20/)|
-|![Stirling Millennium example sett](/setts/s9/lp2w1y1g1gi1dg1y1g1dg1~x20/sett.png)|
+| [Stirling Millennium](/variants/s9/lp2w1y1g1gi1dg1y1g1dg1~x20/)|
+|![Stirling Millennium example sett](/variants/s9/lp2w1y1g1gi1dg1y1g1dg1~x20/sett.png)|

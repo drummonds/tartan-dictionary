@@ -24,5 +24,5 @@ It is a 32 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilburnie](/setts/s32/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/)|
-|![Kilburnie example sett](/setts/s32/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/sett.png)|
+| [Kilburnie](/variants/s32/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/)|
+|![Kilburnie example sett](/variants/s32/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/sett.png)|

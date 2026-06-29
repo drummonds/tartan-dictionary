@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bradey Blue Dress](/setts/s9/m1k1w13b13db7k7w13k1m1~x4/)|
-|![Bradey Blue Dress example sett](/setts/s9/m1k1w13b13db7k7w13k1m1~x4/sett.png)|
+| [Bradey Blue Dress](/variants/s9/m1k1w13b13db7k7w13k1m1~x4/)|
+|![Bradey Blue Dress example sett](/variants/s9/m1k1w13b13db7k7w13k1m1~x4/sett.png)|

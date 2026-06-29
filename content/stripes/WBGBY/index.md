@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGuinness, Tam (Personal)](/setts/s5/lo2db4g60p30w1~x2/)|
-|![McGuinness, Tam (Personal) example sett](/setts/s5/lo2db4g60p30w1~x2/sett.png)|
-| [McGuinness, Tam (Personal)](/setts/s5/lo2db4g60dp30w1~x2/)|
-|![McGuinness, Tam (Personal) example sett](/setts/s5/lo2db4g60dp30w1~x2/sett.png)|
+| [McGuinness, Tam (Personal)](/variants/s5/lo2db4g60p30w1~x2/)|
+|![McGuinness, Tam (Personal) example sett](/variants/s5/lo2db4g60p30w1~x2/sett.png)|
+| [McGuinness, Tam (Personal)](/variants/s5/lo2db4g60dp30w1~x2/)|
+|![McGuinness, Tam (Personal) example sett](/variants/s5/lo2db4g60dp30w1~x2/sett.png)|

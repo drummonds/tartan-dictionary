@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eastern Kentucky University](/setts/s6/r15o9w4k12r15k5~x2/)|
-|![Eastern Kentucky University example sett](/setts/s6/r15o9w4k12r15k5~x2/sett.png)|
+| [Eastern Kentucky University](/variants/s6/r15o9w4k12r15k5~x2/)|
+|![Eastern Kentucky University example sett](/variants/s6/r15o9w4k12r15k5~x2/sett.png)|

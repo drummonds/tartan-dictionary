@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fontainbleu](/setts/s26/o66n8o4dt2o1lo2o3dt4o4lo1dt1o8dt2n8dt2o8dt2o1lo2o3dt4o4lo1dt1o4n8~x2/)|
-|![Fontainbleu example sett](/setts/s26/o66n8o4dt2o1lo2o3dt4o4lo1dt1o8dt2n8dt2o8dt2o1lo2o3dt4o4lo1dt1o4n8~x2/sett.png)|
+| [Fontainbleu](/variants/s26/o66n8o4dt2o1lo2o3dt4o4lo1dt1o8dt2n8dt2o8dt2o1lo2o3dt4o4lo1dt1o4n8~x2/)|
+|![Fontainbleu example sett](/variants/s26/o66n8o4dt2o1lo2o3dt4o4lo1dt1o8dt2n8dt2o8dt2o1lo2o3dt4o4lo1dt1o4n8~x2/sett.png)|

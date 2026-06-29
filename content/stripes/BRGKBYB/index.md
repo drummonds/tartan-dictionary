@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundas](/setts/s7/db9r24dg24k24db24ly2db9/)|
-|![Dundas example sett](/setts/s7/db9r24dg24k24db24ly2db9/sett.png)|
-| [Dundas](/setts/s7/db9r24g24k24db24ly2db9/)|
-|![Dundas example sett](/setts/s7/db9r24g24k24db24ly2db9/sett.png)|
+| [Dundas](/variants/s7/db9r24dg24k24db24ly2db9/)|
+|![Dundas example sett](/variants/s7/db9r24dg24k24db24ly2db9/sett.png)|
+| [Dundas](/variants/s7/db9r24g24k24db24ly2db9/)|
+|![Dundas example sett](/variants/s7/db9r24g24k24db24ly2db9/sett.png)|

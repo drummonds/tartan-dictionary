@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [de Meuron (Family)](/setts/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/)|
-|![de Meuron (Family) example sett](/setts/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/sett.png)|
+| [de Meuron (Family)](/variants/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/)|
+|![de Meuron (Family) example sett](/variants/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/sett.png)|

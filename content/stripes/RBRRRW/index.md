@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fernie (Personal)](/setts/s6/r25dt5o2r12oi1w1~x2/)|
-|![Fernie (Personal) example sett](/setts/s6/r25dt5o2r12oi1w1~x2/sett.png)|
+| [Fernie (Personal)](/variants/s6/r25dt5o2r12oi1w1~x2/)|
+|![Fernie (Personal) example sett](/variants/s6/r25dt5o2r12oi1w1~x2/sett.png)|

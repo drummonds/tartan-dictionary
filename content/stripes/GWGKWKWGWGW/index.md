@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clergy 6](/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/)|
-|![Clergy 6 example sett](/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/sett.png)|
+| [Clergy 6](/variants/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/)|
+|![Clergy 6 example sett](/variants/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/sett.png)|

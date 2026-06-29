@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Presbyterian College Band (Corp)](/setts/s7/r28k2b36k2w4k2b7~x2/)|
-|![Presbyterian College Band (Corp) example sett](/setts/s7/r28k2b36k2w4k2b7~x2/sett.png)|
+| [Presbyterian College Band (Corp)](/variants/s7/r28k2b36k2w4k2b7~x2/)|
+|![Presbyterian College Band (Corp) example sett](/variants/s7/r28k2b36k2w4k2b7~x2/sett.png)|

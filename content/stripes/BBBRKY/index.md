@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Long One Design](/setts/s6/lo4k28r2do22t8do3~x2/)|
-|![Loch Long One Design example sett](/setts/s6/lo4k28r2do22t8do3~x2/sett.png)|
+| [Loch Long One Design](/variants/s6/lo4k28r2do22t8do3~x2/)|
+|![Loch Long One Design example sett](/variants/s6/lo4k28r2do22t8do3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Old Spice (Corporate)](/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/)|
-|![Old Spice (Corporate) example sett](/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/sett.png)|
+| [Old Spice (Corporate)](/variants/s10/r104dg3r5dg3r18dg8w9r9w9r3/)|
+|![Old Spice (Corporate) example sett](/variants/s10/r104dg3r5dg3r18dg8w9r9w9r3/sett.png)|

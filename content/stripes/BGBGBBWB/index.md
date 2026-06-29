@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clans of Caledonia](/setts/s8/db4g5dp3g5db46dp42w4dp4/)|
-|![Clans of Caledonia example sett](/setts/s8/db4g5dp3g5db46dp42w4dp4/sett.png)|
+| [Clans of Caledonia](/variants/s8/db4g5dp3g5db46dp42w4dp4/)|
+|![Clans of Caledonia example sett](/variants/s8/db4g5dp3g5db46dp42w4dp4/sett.png)|

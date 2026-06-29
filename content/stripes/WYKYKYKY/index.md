@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Johnston Orange/Black (Corporate)](/setts/s8/w1lo1k1lo12k12lo1k1lo1~x4/)|
-|![Johnston Orange/Black (Corporate) example sett](/setts/s8/w1lo1k1lo12k12lo1k1lo1~x4/sett.png)|
+| [Johnston Orange/Black (Corporate)](/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/)|
+|![Johnston Orange/Black (Corporate) example sett](/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/sett.png)|

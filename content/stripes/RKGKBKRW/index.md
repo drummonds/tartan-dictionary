@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tennent (Personal)](/setts/s8/r1k7g7k7db7k7r1w1~x4/)|
-|![Tennent (Personal) example sett](/setts/s8/r1k7g7k7db7k7r1w1~x4/sett.png)|
+| [Tennent (Personal)](/variants/s8/r1k7g7k7db7k7r1w1~x4/)|
+|![Tennent (Personal) example sett](/variants/s8/r1k7g7k7db7k7r1w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nichol (Personal)](/setts/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/)|
-|![Nichol (Personal) example sett](/setts/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/sett.png)|
+| [Nichol (Personal)](/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/)|
+|![Nichol (Personal) example sett](/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/sett.png)|

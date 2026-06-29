@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLeod Soc. of Scotland, (Comm)](/setts/s7/gi3g3r22k5db22ly2w2~x2/)|
-|![MacLeod Soc. of Scotland, (Comm) example sett](/setts/s7/gi3g3r22k5db22ly2w2~x2/sett.png)|
+| [MacLeod Soc. of Scotland, (Comm)](/variants/s7/gi3g3r22k5db22ly2w2~x2/)|
+|![MacLeod Soc. of Scotland, (Comm) example sett](/variants/s7/gi3g3r22k5db22ly2w2~x2/sett.png)|

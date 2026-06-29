@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [George (Personal)](/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/)|
-|![George (Personal) example sett](/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/sett.png)|
-| [George (Personal)](/setts/s9/r6db2r1db8r3db16g28w2g4~x2/)|
-|![George (Personal) example sett](/setts/s9/r6db2r1db8r3db16g28w2g4~x2/sett.png)|
+| [George (Personal)](/variants/s9/r6db2r1db16r3db16dg28w2dg4~x2/)|
+|![George (Personal) example sett](/variants/s9/r6db2r1db16r3db16dg28w2dg4~x2/sett.png)|
+| [George (Personal)](/variants/s9/r6db2r1db8r3db16g28w2g4~x2/)|
+|![George (Personal) example sett](/variants/s9/r6db2r1db8r3db16g28w2g4~x2/sett.png)|

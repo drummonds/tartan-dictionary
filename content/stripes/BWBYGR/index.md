@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Winterbottom)](/setts/s6/db13w13db4ly2g8r3~x2/)|
-|![Unidentified (Winterbottom) example sett](/setts/s6/db13w13db4ly2g8r3~x2/sett.png)|
+| [Unidentified (Winterbottom)](/variants/s6/db13w13db4ly2g8r3~x2/)|
+|![Unidentified (Winterbottom) example sett](/variants/s6/db13w13db4ly2g8r3~x2/sett.png)|

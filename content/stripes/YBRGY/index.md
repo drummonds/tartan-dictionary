@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wicks (Personal)](/setts/s5/ly3dg8o20dp30ly2~x2/)|
-|![Wicks (Personal) example sett](/setts/s5/ly3dg8o20dp30ly2~x2/sett.png)|
+| [Wicks (Personal)](/variants/s5/ly3dg8o20dp30ly2~x2/)|
+|![Wicks (Personal) example sett](/variants/s5/ly3dg8o20dp30ly2~x2/sett.png)|

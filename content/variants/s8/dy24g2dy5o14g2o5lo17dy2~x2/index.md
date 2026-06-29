@@ -1,0 +1,63 @@
+---
+title: "Loch Rannoch #2"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy24g2dy5o14g2o5lo17dy2/)
+(the same proportion at any scale), whose colour order is pattern [GGGRGRYG](/stripes/gggrgryg/).
+
+Part of the [Loch Rannoch](/tartans/loch-rannoch/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Loch Rannoch #2
+- Loch Rannoch Fancy
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — Loch Rannoch #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157">record</a>)</li>
+<li>1975 — Loch Rannoch (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1735/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2157](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157)
+- Scottish Tartans Authority (ITI): 1735
+- Scottish Tartans World Register: 1735
+
+## Thread count
+T/48 G4 T10 Oa28 G4 Oa10 O34 T/4
+
+One full sett is **232 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>T/</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> <small style="color:#888">#604000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.8% 0.083 76.8)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> <small style="color:#888">#604000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.8% 0.083 76.8)</small></td></tr><tr><td>Oa</td><td style="text-align:right;font-variant-numeric:tabular-nums">28</td><td><code style="background-color:#E86000;"><span style="color:#E86000;filter:grayscale(1) invert(1) contrast(100);">#E86000</span></code> <small style="color:#888">#E86000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(65.3% 0.187 44.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>Oa</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#E86000;"><span style="color:#E86000;filter:grayscale(1) invert(1) contrast(100);">#E86000</span></code> <small style="color:#888">#E86000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(65.3% 0.187 44.9)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">34</td><td><code style="background-color:#DC943C;"><span style="color:#DC943C;filter:grayscale(1) invert(1) contrast(100);">#DC943C</span></code> <small style="color:#888">#DC943C</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(72.3% 0.133 67.9)</small></td></tr><tr><td>T/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> <small style="color:#888">#604000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.8% 0.083 76.8)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="T/48 G4 T10 Oa28 G4 Oa10 O34 T/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dy24g2dy5o14g2o5lo17dy2~x2">Loch Rannoch #2</a> <a class="nn-out" href="/variants/s8/dy24g2dy5o14g2o5lo17dy2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dy24g2dy5o14g2o5lo17dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=r2ri1r10ri2g10lr1g2~x4&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">Lennox</a> <a class="nn-out" href="/variants/s7/r2ri1r10ri2g10lr1g2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2ri1r10ri2g10lr1g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.12</div><div class="nn-name"><a href="/ttd/edit/#slug=ri8r1g4r1g1t2~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">Moray of Abercairney</a> <a class="nn-out" href="/variants/s6/ri8r1g4r1g1t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/ri8r1g4r1g1t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=r2ri1r10ri2g10w1g2~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">Lennox</a> <a class="nn-out" href="/variants/s7/r2ri1r10ri2g10w1g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2ri1r10ri2g10w1g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=r3o14g8r2g2w2g2r1~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">Scott, hunting</a> <a class="nn-out" href="/variants/s8/r3o14g8r2g2w2g2r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3o14g8r2g2w2g2r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=g6r2ri2g4ri2r12k1~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">MacNab 5</a> <a class="nn-out" href="/variants/s7/g6r2ri2g4ri2r12k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g6r2ri2g4ri2r12k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=g28r7m7g14m7r48k4~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">MacNab 6</a> <a class="nn-out" href="/variants/s7/g28r7m7g14m7r48k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g28r7m7g14m7r48k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=y30k4ly10k4o5ly5o15~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">Alister Grant 'Mohr', the Laird's Champion</a> <a class="nn-out" href="/variants/s7/y30k4ly10k4o5ly5o15~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y30k4ly10k4o5ly5o15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g3lo2r18w2g21lo2g2lo3~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">MacDonald of Kingsburgh</a> <a class="nn-out" href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g14ly3g14r4g3r29y4~x2&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">Burnett</a> <a class="nn-out" href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r4g14ly3g14r4g3r29y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.33</div><div class="nn-name"><a href="/ttd/edit/#slug=r15k1y2db3r2k1y15~x6&amp;base=dy24g2dy5o14g2o5lo17dy2~x2">Scrymgeour</a> <a class="nn-out" href="/variants/s7/r15k1y2db3r2k1y15~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r15k1y2db3r2k1y15~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2ri1r10ri2g10lr1g2~x4/"><circle cx="284.3" cy="198.7" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/variants/s6/ri8r1g4r1g1t2~x2/"><circle cx="277.4" cy="215.2" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r2ri1r10ri2g10w1g2~x2/"><circle cx="269.2" cy="191.9" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/variants/s8/r3o14g8r2g2w2g2r1~x2/"><circle cx="261.5" cy="179.0" r="4" fill="#3465a4"><title>Scott, hunting</title></circle></a><a href="/variants/s7/g6r2ri2g4ri2r12k1~x2/"><circle cx="287.1" cy="191.1" r="4" fill="#3465a4"><title>MacNab 5</title></circle></a><a href="/variants/s7/g28r7m7g14m7r48k4~x2/"><circle cx="288.4" cy="187.6" r="4" fill="#3465a4"><title>MacNab 6</title></circle></a><a href="/variants/s7/y30k4ly10k4o5ly5o15~x2/"><circle cx="213.4" cy="210.9" r="4" fill="#3465a4"><title>Alister Grant 'Mohr', the Laird's Champion</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="295.7" cy="168.7" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="307.7" cy="194.5" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="304.7" cy="166.9" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><circle cx="268.0" cy="188.7" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/dy24g2dy5o14g2o5lo17dy2~x2/

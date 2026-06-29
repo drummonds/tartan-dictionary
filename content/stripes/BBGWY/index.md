@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edelstein (Personal)](/setts/s5/dp10db10g10w1ly1~x6/)|
-|![Edelstein (Personal) example sett](/setts/s5/dp10db10g10w1ly1~x6/sett.png)|
+| [Edelstein (Personal)](/variants/s5/dp10db10g10w1ly1~x6/)|
+|![Edelstein (Personal) example sett](/variants/s5/dp10db10g10w1ly1~x6/sett.png)|

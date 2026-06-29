@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holland, Tartan of](/setts/s24/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/)|
-|![Holland, Tartan of example sett](/setts/s24/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/sett.png)|
+| [Holland, Tartan of](/variants/s24/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/)|
+|![Holland, Tartan of example sett](/variants/s24/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/sett.png)|

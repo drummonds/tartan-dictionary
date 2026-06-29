@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tau-Taurini (Provisional) (Personal)](/setts/s10/db64ly3w3r12ri3g3dp3w3t10db10/)|
-|![Tau-Taurini (Provisional) (Personal) example sett](/setts/s10/db64ly3w3r12ri3g3dp3w3t10db10/sett.png)|
+| [Tau-Taurini (Provisional) (Personal)](/variants/s10/db64ly3w3r12ri3g3dp3w3t10db10/)|
+|![Tau-Taurini (Provisional) (Personal) example sett](/variants/s10/db64ly3w3r12ri3g3dp3w3t10db10/sett.png)|

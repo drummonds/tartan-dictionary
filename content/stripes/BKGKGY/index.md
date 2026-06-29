@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leahy (Australia) (Personal)](/setts/s6/db2k6g2k6gi12ly1~x4/)|
-|![Leahy (Australia) (Personal) example sett](/setts/s6/db2k6g2k6gi12ly1~x4/sett.png)|
-| [Leahy, Thomas Francis & Mary (Australia)](/setts/s6/db2k6g2k6dg12ly1~x4/)|
-|![Leahy, Thomas Francis & Mary (Australia) example sett](/setts/s6/db2k6g2k6dg12ly1~x4/sett.png)|
+| [Leahy (Australia) (Personal)](/variants/s6/db2k6g2k6gi12ly1~x4/)|
+|![Leahy (Australia) (Personal) example sett](/variants/s6/db2k6g2k6gi12ly1~x4/sett.png)|
+| [Leahy, Thomas Francis & Mary (Australia)](/variants/s6/db2k6g2k6dg12ly1~x4/)|
+|![Leahy, Thomas Francis & Mary (Australia) example sett](/variants/s6/db2k6g2k6dg12ly1~x4/sett.png)|

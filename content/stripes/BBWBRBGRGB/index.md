@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Lion (Corporate)](/setts/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2/)|
-|![Scottish Lion (Corporate) example sett](/setts/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2/sett.png)|
+| [Scottish Lion (Corporate)](/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2/)|
+|![Scottish Lion (Corporate) example sett](/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2/sett.png)|

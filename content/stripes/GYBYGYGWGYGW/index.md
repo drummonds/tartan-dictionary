@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Bay, Wisconsin (District)](/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/)|
-|![Green Bay, Wisconsin (District) example sett](/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/sett.png)|
+| [Green Bay, Wisconsin (District)](/variants/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/)|
+|![Green Bay, Wisconsin (District) example sett](/variants/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Trafalgar (Fashion)](/setts/s6/g3db1g8db7k3ly1~x2/)|
-|![Trafalgar (Fashion) example sett](/setts/s6/g3db1g8db7k3ly1~x2/sett.png)|
+| [Trafalgar (Fashion)](/variants/s6/g3db1g8db7k3ly1~x2/)|
+|![Trafalgar (Fashion) example sett](/variants/s6/g3db1g8db7k3ly1~x2/sett.png)|

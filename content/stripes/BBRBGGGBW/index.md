@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Columbian](/setts/s9/db25t25r2t25g25y2g25db25w4~x2/)|
-|![Royal Columbian example sett](/setts/s9/db25t25r2t25g25y2g25db25w4~x2/sett.png)|
+| [Royal Columbian](/variants/s9/db25t25r2t25g25y2g25db25w4~x2/)|
+|![Royal Columbian example sett](/variants/s9/db25t25r2t25g25y2g25db25w4~x2/sett.png)|

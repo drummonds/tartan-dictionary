@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buffalo](/setts/s15/t28o3t3k2t3o3t28g14k3o3k3ly3k4o3db6~x2/)|
-|![Buffalo example sett](/setts/s15/t28o3t3k2t3o3t28g14k3o3k3ly3k4o3db6~x2/sett.png)|
+| [Buffalo](/variants/s15/t28o3t3k2t3o3t28g14k3o3k3ly3k4o3db6~x2/)|
+|![Buffalo example sett](/variants/s15/t28o3t3k2t3o3t28g14k3o3k3ly3k4o3db6~x2/sett.png)|

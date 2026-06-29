@@ -24,13 +24,13 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray](/setts/s6/t3k16dg16k16db3t3~x2/)|
-|![Murray example sett](/setts/s6/t3k16dg16k16db3t3~x2/sett.png)|
-| [Murray](/setts/s6/t3k16g16k16db3t3~x2/)|
-|![Murray example sett](/setts/s6/t3k16g16k16db3t3~x2/sett.png)|
-| [Unidentified No 59](/setts/s6/t1db11k11dg11k2t1~x2/)|
-|![Unidentified No 59 example sett](/setts/s6/t1db11k11dg11k2t1~x2/sett.png)|
-| [Unnamed, No 59](/setts/s6/t1db11k11g11k2t1~x2/)|
-|![Unnamed, No 59 example sett](/setts/s6/t1db11k11g11k2t1~x2/sett.png)|
-| [Wilson's No.228 #2](/setts/s6/dp8k11dg9k11dp8t2~x2/)|
-|![Wilson's No.228 #2 example sett](/setts/s6/dp8k11dg9k11dp8t2~x2/sett.png)|
+| [Murray](/variants/s6/t3k16dg16k16db3t3~x2/)|
+|![Murray example sett](/variants/s6/t3k16dg16k16db3t3~x2/sett.png)|
+| [Murray](/variants/s6/t3k16g16k16db3t3~x2/)|
+|![Murray example sett](/variants/s6/t3k16g16k16db3t3~x2/sett.png)|
+| [Unidentified No 59](/variants/s6/t1db11k11dg11k2t1~x2/)|
+|![Unidentified No 59 example sett](/variants/s6/t1db11k11dg11k2t1~x2/sett.png)|
+| [Unnamed, No 59](/variants/s6/t1db11k11g11k2t1~x2/)|
+|![Unnamed, No 59 example sett](/variants/s6/t1db11k11g11k2t1~x2/sett.png)|
+| [Wilson's No.228 #2](/variants/s6/dp8k11dg9k11dp8t2~x2/)|
+|![Wilson's No.228 #2 example sett](/variants/s6/dp8k11dg9k11dp8t2~x2/sett.png)|

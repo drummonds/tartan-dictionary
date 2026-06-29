@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mariverain](/setts/s11/db5r1db5g7db3lo1db4r5g2lo2g2~x8/)|
-|![Mariverain example sett](/setts/s11/db5r1db5g7db3lo1db4r5g2lo2g2~x8/sett.png)|
+| [Mariverain](/variants/s11/db5r1db5g7db3lo1db4r5g2lo2g2~x8/)|
+|![Mariverain example sett](/variants/s11/db5r1db5g7db3lo1db4r5g2lo2g2~x8/sett.png)|

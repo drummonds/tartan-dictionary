@@ -1,0 +1,62 @@
+---
+title: "Oban Grey"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w3k4y9r1/)
+(the same proportion at any scale), whose colour order is pattern [KWKGR](/stripes/kwkgr/).
+
+Part of the [Oban](/tartans/oban/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3212
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Oban Grey
+- Oban, Grey
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Oban Grey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3212">record</a>)</li>
+<li>undated — Oban, Grey (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3212](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3212)
+- Scottish Tartans World Register: 1237
+
+## Thread count
+K/16 LN12 K16 N36 R/4
+
+One full sett is **148 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> <small style="color:#888">#808080</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.0% 0.000 89.9)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> <small style="color:#888">#DC0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.2% 0.230 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/16 LN12 K16 N36 R/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k4w3k4y9r1~x4">Oban Grey</a> <a class="nn-out" href="/variants/s5/k4w3k4y9r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k4w3k4y9r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.09</div><div class="nn-name"><a href="/ttd/edit/#slug=k4w3k4o9r1~x4&amp;base=k4w3k4y9r1~x4">Oban Grey District Tartan</a> <a class="nn-out" href="/variants/s5/k4w3k4o9r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k4w3k4o9r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=r5o32k31w5&amp;base=k4w3k4y9r1~x4">Loganair Uniform Skirt Corporate Tartan</a> <a class="nn-out" href="/variants/s4/r5o32k31w5/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r5o32k31w5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=r5o32k31w5~x2&amp;base=k4w3k4y9r1~x4">Loganair</a> <a class="nn-out" href="/variants/s4/r5o32k31w5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r5o32k31w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.94</div><div class="nn-name"><a href="/ttd/edit/#slug=r2y20k5w10k10r2~x2&amp;base=k4w3k4y9r1~x4">Thom(p)son, Grey</a> <a class="nn-out" href="/variants/s6/r2y20k5w10k10r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2y20k5w10k10r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=r2o20k5w10k10r2~x2&amp;base=k4w3k4y9r1~x4">Thompson Grey Family Tartan</a> <a class="nn-out" href="/variants/s6/r2o20k5w10k10r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2o20k5w10k10r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=k3w3k3y10r1~x6&amp;base=k4w3k4y9r1~x4">Burberry Hunting</a> <a class="nn-out" href="/variants/s5/k3w3k3y10r1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=db14g21db4r21db14ly2~x2&amp;base=k4w3k4y9r1~x4">Kilgour</a> <a class="nn-out" href="/variants/s6/db14g21db4r21db14ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db14g21db4r21db14ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=db3dg6ly1r3~x10&amp;base=k4w3k4y9r1~x4">Delroeux, John Michael (Personal)</a> <a class="nn-out" href="/variants/s4/db3dg6ly1r3~x10/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3dg6ly1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.03</div><div class="nn-name"><a href="/ttd/edit/#slug=ly5g22dp15dpi11dp5g2~x2&amp;base=k4w3k4y9r1~x4">Scottish Ballet</a> <a class="nn-out" href="/variants/s6/ly5g22dp15dpi11dp5g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/ly5g22dp15dpi11dp5g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=r4o30k6w13k13w3~x2&amp;base=k4w3k4y9r1~x4">Thom(p)son camel</a> <a class="nn-out" href="/variants/s6/r4o30k6w13k13w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4o30k6w13k13w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k4w3k4o9r1~x4/"><circle cx="185.2" cy="223.7" r="4" fill="#3465a4"><title>Oban Grey District Tartan</title></circle></a><a href="/variants/s4/r5o32k31w5/"><circle cx="208.7" cy="240.7" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><a href="/variants/s4/r5o32k31w5~x2/"><circle cx="209.7" cy="242.3" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/variants/s6/r2y20k5w10k10r2~x2/"><circle cx="164.2" cy="191.7" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s6/r2o20k5w10k10r2~x2/"><circle cx="173.9" cy="193.4" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan</title></circle></a><a href="/variants/s5/k3w3k3y10r1~x6/"><circle cx="231.5" cy="211.6" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s6/db14g21db4r21db14ly2~x2/"><circle cx="185.2" cy="225.7" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s4/db3dg6ly1r3~x10/"><circle cx="170.4" cy="258.1" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s6/ly5g22dp15dpi11dp5g2~x2/"><circle cx="194.5" cy="214.0" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="184.3" cy="188.4" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><circle cx="186.9" cy="224.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/k4w3k4y9r1~x4/

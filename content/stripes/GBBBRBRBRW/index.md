@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gill, Anil (Personal)](/setts/s10/g1db30dp32db1r5db1ri4db1r2w1~x2/)|
-|![Gill, Anil (Personal) example sett](/setts/s10/g1db30dp32db1r5db1ri4db1r2w1~x2/sett.png)|
+| [Gill, Anil (Personal)](/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2/)|
+|![Gill, Anil (Personal) example sett](/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2/sett.png)|

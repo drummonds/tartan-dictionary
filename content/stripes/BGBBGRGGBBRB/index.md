@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bowhunter (Fashion)](/setts/s12/dp3y10dp2db25dy3o4dy3g10db3dp2o3dp1~x2/)|
-|![Bowhunter (Fashion) example sett](/setts/s12/dp3y10dp2db25dy3o4dy3g10db3dp2o3dp1~x2/sett.png)|
+| [Bowhunter (Fashion)](/variants/s12/dp3y10dp2db25dy3o4dy3g10db3dp2o3dp1~x2/)|
+|![Bowhunter (Fashion) example sett](/variants/s12/dp3y10dp2db25dy3o4dy3g10db3dp2o3dp1~x2/sett.png)|

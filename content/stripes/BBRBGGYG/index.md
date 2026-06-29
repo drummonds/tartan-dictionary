@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Telfer Green](/setts/s8/g7lo2g5dg37db6r16db5b2~x2/)|
-|![Telfer Green example sett](/setts/s8/g7lo2g5dg37db6r16db5b2~x2/sett.png)|
+| [Telfer Green](/variants/s8/g7lo2g5dg37db6r16db5b2~x2/)|
+|![Telfer Green example sett](/variants/s8/g7lo2g5dg37db6r16db5b2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kozlosky (Personal)](/setts/s10/ly21ri8r14ly6ri3r10~x2/)|
-|![Kozlosky (Personal) example sett](/setts/s10/ly21ri8r14ly6ri3r10~x2/sett.png)|
+| [Kozlosky (Personal)](/variants/s10/ly21ri8r14ly6ri3r10~x2/)|
+|![Kozlosky (Personal) example sett](/variants/s10/ly21ri8r14ly6ri3r10~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Recovery Hunting](/setts/s25/r1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1lo1~x4/)|
-|![Recovery Hunting example sett](/setts/s25/r1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1lo1~x4/sett.png)|
+| [Recovery Hunting](/variants/s25/r1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1lo1~x4/)|
+|![Recovery Hunting example sett](/variants/s25/r1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1lo1~x4/sett.png)|

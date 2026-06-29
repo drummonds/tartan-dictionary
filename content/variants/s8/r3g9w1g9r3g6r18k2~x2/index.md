@@ -1,0 +1,80 @@
+---
+title: "Cumming #2"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g9w1g9r3g6r18k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGWGR](/stripes/krgrgwgr/).
+
+Part of the [Cumming](/tartans/cumming/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835
+
+## Provenance
+
+Earliest known date: 1850 This sett closely resembles the 'Vestiarium' version, but is in fact the one given by Logan as MacAuley and illustrated by MacIan in 'The Clans of the Scottish Highlands', 1847. The Smith brothers said that the sett had the approval of the head of the family og Cumming.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Comyn or MacAulay
+- Comyn, or MacAulay
+- Cumming #2
+- Cumming Hunting
+
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — Cumming #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835">record</a>)</li>
+<li>1850 — Cumming - 1850 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1157/">record</a>)</li>
+<li>undated — Comyn, or MacAulay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Comyn or MacAulay Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1157">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [835](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835)
+- Scottish Tartans Authority (ITI): 1157
+- Scottish Tartans World Register: 1157
+
+## Thread count
+R/6 G18 W2 G18 R6 G12 R36 K/4
+
+One full sett is **194 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/6 G18 W2 G18 R6 G12 R36 K/4 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3/"><img src="/variants/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r3g9w1g9r3g6r18k2~x2">Cumming #2</a> <a class="nn-out" href="/variants/s8/r3g9w1g9r3g6r18k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r3g9w1g9r3g6r18k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.55</div><div class="nn-name"><a href="/ttd/edit/#slug=r3dg9lb1dg9r3dg6r18k2~x2&amp;base=r3g9w1g9r3g6r18k2~x2">Cumming SM</a> <a class="nn-out" href="/variants/s8/r3dg9lb1dg9r3dg6r18k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3dg9lb1dg9r3dg6r18k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.79</div><div class="nn-name"><a href="/ttd/edit/#slug=g9r2g9r14k1w2~x2&amp;base=r3g9w1g9r3g6r18k2~x2">MacGregor of Balquidder (Logan)</a> <a class="nn-out" href="/variants/s6/g9r2g9r14k1w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g9r2g9r14k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.88</div><div class="nn-name"><a href="/ttd/edit/#slug=k2r16g6r3g8w1~x4&amp;base=r3g9w1g9r3g6r18k2~x2">MacAulay (Clan)</a> <a class="nn-out" href="/variants/s6/k2r16g6r3g8w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2r16g6r3g8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.89</div><div class="nn-name"><a href="/ttd/edit/#slug=k2r16g6r3g8lb1~x2&amp;base=r3g9w1g9r3g6r18k2~x2">MacAulay</a> <a class="nn-out" href="/variants/s6/k2r16g6r3g8lb1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=r3dg9lr1dg9r3dg6r18k2~x2&amp;base=r3g9w1g9r3g6r18k2~x2">Cumming SM</a> <a class="nn-out" href="/variants/s8/r3dg9lr1dg9r3dg6r18k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3dg9lr1dg9r3dg6r18k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=k2r16g6r3g8w1~x2&amp;base=r3g9w1g9r3g6r18k2~x2">MacAulay</a> <a class="nn-out" href="/variants/s6/k2r16g6r3g8w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2r16g6r3g8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.99</div><div class="nn-name"><a href="/ttd/edit/#slug=r12db2r3g20k4g20r30k2r1~x2&amp;base=r3g9w1g9r3g6r18k2~x2">Oriel #1 (District)</a> <a class="nn-out" href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=db1r12g6ly1g6db1~x4&amp;base=r3g9w1g9r3g6r18k2~x2">Cetoloni (Personal)</a> <a class="nn-out" href="/variants/s6/db1r12g6ly1g6db1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1r12g6ly1g6db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=g28r7m7g14m7r48k4~x2&amp;base=r3g9w1g9r3g6r18k2~x2">MacNab 6</a> <a class="nn-out" href="/variants/s7/g28r7m7g14m7r48k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g28r7m7g14m7r48k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=g20k2r3k2r6g20r29g3r10~x2&amp;base=r3g9w1g9r3g6r18k2~x2">Livingston</a> <a class="nn-out" href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r3dg9lb1dg9r3dg6r18k2~x2/"><circle cx="307.6" cy="176.1" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x2/"><circle cx="297.2" cy="199.6" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x4/"><circle cx="330.6" cy="188.3" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="334.7" cy="190.4" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s8/r3dg9lr1dg9r3dg6r18k2~x2/"><circle cx="330.6" cy="190.5" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x2/"><circle cx="314.2" cy="181.6" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/"><circle cx="344.2" cy="146.3" r="4" fill="#3465a4"><title>Oriel #1 (District)</title></circle></a><a href="/variants/s6/db1r12g6ly1g6db1~x4/"><circle cx="287.5" cy="198.5" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s7/g28r7m7g14m7r48k4~x2/"><circle cx="288.4" cy="187.6" r="4" fill="#3465a4"><title>MacNab 6</title></circle></a><a href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="334.8" cy="186.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><circle cx="312.5" cy="177.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/r3g9w1g9r3g6r18k2~x2/

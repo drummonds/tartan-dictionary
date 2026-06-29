@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hash House Harriers Hunting (Corp)](/setts/s13/g7dy1lb1dy1lo1dy7n7dy1n7dy7g7dy1r1~x4/)|
-|![Hash House Harriers Hunting (Corp) example sett](/setts/s13/g7dy1lb1dy1lo1dy7n7dy1n7dy7g7dy1r1~x4/sett.png)|
+| [Hash House Harriers Hunting (Corp)](/variants/s13/g7dy1lb1dy1lo1dy7n7dy1n7dy7g7dy1r1~x4/)|
+|![Hash House Harriers Hunting (Corp) example sett](/variants/s13/g7dy1lb1dy1lo1dy7n7dy1n7dy7g7dy1r1~x4/sett.png)|

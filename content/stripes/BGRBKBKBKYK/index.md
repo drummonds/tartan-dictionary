@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lawtie (Personal)](/setts/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/)|
-|![Lawtie (Personal) example sett](/setts/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/sett.png)|
+| [Lawtie (Personal)](/variants/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/)|
+|![Lawtie (Personal) example sett](/variants/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/sett.png)|

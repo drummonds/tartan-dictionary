@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenlivet Dress Reproduction (Corp)](/setts/s8/dy6r2dy42db2dy5w16dy5db2~x2/)|
-|![Glenlivet Dress Reproduction (Corp) example sett](/setts/s8/dy6r2dy42db2dy5w16dy5db2~x2/sett.png)|
+| [Glenlivet Dress Reproduction (Corp)](/variants/s8/dy6r2dy42db2dy5w16dy5db2~x2/)|
+|![Glenlivet Dress Reproduction (Corp) example sett](/variants/s8/dy6r2dy42db2dy5w16dy5db2~x2/sett.png)|

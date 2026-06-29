@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heidrick Family (Personal)](/setts/s5/w14k30b9r8o9~x2/)|
-|![Heidrick Family (Personal) example sett](/setts/s5/w14k30b9r8o9~x2/sett.png)|
+| [Heidrick Family (Personal)](/variants/s5/w14k30b9r8o9~x2/)|
+|![Heidrick Family (Personal) example sett](/variants/s5/w14k30b9r8o9~x2/sett.png)|

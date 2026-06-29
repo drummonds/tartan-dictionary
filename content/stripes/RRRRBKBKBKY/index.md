@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dryburgh](/setts/s11/oi2o2oi2o16n10k3n2k2n2k10ly2~x2/)|
-|![Dryburgh example sett](/setts/s11/oi2o2oi2o16n10k3n2k2n2k10ly2~x2/sett.png)|
+| [Dryburgh](/variants/s11/oi2o2oi2o16n10k3n2k2n2k10ly2~x2/)|
+|![Dryburgh example sett](/variants/s11/oi2o2oi2o16n10k3n2k2n2k10ly2~x2/sett.png)|

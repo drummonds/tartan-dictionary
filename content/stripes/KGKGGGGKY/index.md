@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leinster Ancestry (Fashion)](/setts/s9/k4dg33k18dy10g19dy3dg15k1lo3~x2/)|
-|![Leinster Ancestry (Fashion) example sett](/setts/s9/k4dg33k18dy10g19dy3dg15k1lo3~x2/sett.png)|
+| [Leinster Ancestry (Fashion)](/variants/s9/k4dg33k18dy10g19dy3dg15k1lo3~x2/)|
+|![Leinster Ancestry (Fashion) example sett](/variants/s9/k4dg33k18dy10g19dy3dg15k1lo3~x2/sett.png)|

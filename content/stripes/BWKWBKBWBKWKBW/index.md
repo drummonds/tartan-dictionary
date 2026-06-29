@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skye Dress Blue, Isle of (Dance)](/setts/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/)|
-|![Skye Dress Blue, Isle of (Dance) example sett](/setts/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/sett.png)|
+| [Skye Dress Blue, Isle of (Dance)](/variants/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/)|
+|![Skye Dress Blue, Isle of (Dance) example sett](/variants/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/sett.png)|

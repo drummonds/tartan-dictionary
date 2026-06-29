@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [JMAR Unlimited](/setts/s9/g6w1lb3t6b12bi15lp3w1lbi1~x2/)|
-|![JMAR Unlimited example sett](/setts/s9/g6w1lb3t6b12bi15lp3w1lbi1~x2/sett.png)|
+| [JMAR Unlimited](/variants/s9/g6w1lb3t6b12bi15lp3w1lbi1~x2/)|
+|![JMAR Unlimited example sett](/variants/s9/g6w1lb3t6b12bi15lp3w1lbi1~x2/sett.png)|

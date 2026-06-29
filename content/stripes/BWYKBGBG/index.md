@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alexander of Menstry Dress](/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/)|
-|![Alexander of Menstry Dress example sett](/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/sett.png)|
+| [Alexander of Menstry Dress](/variants/s8/db5w30lr9k9dp9g2dp2g5~x2/)|
+|![Alexander of Menstry Dress example sett](/variants/s8/db5w30lr9k9dp9g2dp2g5~x2/sett.png)|

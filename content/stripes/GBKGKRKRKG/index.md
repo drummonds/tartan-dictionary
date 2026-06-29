@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arizona Jones](/setts/s10/g18k1r9k12r9k1g18k1n6g1~x2/)|
-|![Arizona Jones example sett](/setts/s10/g18k1r9k12r9k1g18k1n6g1~x2/sett.png)|
-| [Jones (Arizona) (Name)](/setts/s10/dg18k1r9k12r9k1dg18k1n6dg1~x2/)|
-|![Jones (Arizona) (Name) example sett](/setts/s10/dg18k1r9k12r9k1dg18k1n6dg1~x2/sett.png)|
+| [Arizona Jones](/variants/s10/g18k1r9k12r9k1g18k1n6g1~x2/)|
+|![Arizona Jones example sett](/variants/s10/g18k1r9k12r9k1g18k1n6g1~x2/sett.png)|
+| [Jones (Arizona) (Name)](/variants/s10/dg18k1r9k12r9k1dg18k1n6dg1~x2/)|
+|![Jones (Arizona) (Name) example sett](/variants/s10/dg18k1r9k12r9k1dg18k1n6dg1~x2/sett.png)|

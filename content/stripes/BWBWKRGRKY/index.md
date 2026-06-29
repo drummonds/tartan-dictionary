@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gillies Red Dress](/setts/s10/ly6k2r12dg4r8k10w24t2w3t2~x2/)|
-|![Gillies Red Dress example sett](/setts/s10/ly6k2r12dg4r8k10w24t2w3t2~x2/sett.png)|
-| [Gillies, dress Red](/setts/s10/ly6k2r15g5r8k12w24t2w4t2~x2/)|
-|![Gillies, dress Red example sett](/setts/s10/ly6k2r15g5r8k12w24t2w4t2~x2/sett.png)|
+| [Gillies Red Dress](/variants/s10/ly6k2r12dg4r8k10w24t2w3t2~x2/)|
+|![Gillies Red Dress example sett](/variants/s10/ly6k2r12dg4r8k10w24t2w3t2~x2/sett.png)|
+| [Gillies, dress Red](/variants/s10/ly6k2r15g5r8k12w24t2w4t2~x2/)|
+|![Gillies, dress Red example sett](/variants/s10/ly6k2r15g5r8k12w24t2w4t2~x2/sett.png)|

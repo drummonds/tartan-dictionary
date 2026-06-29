@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greyhound Grenadiers Pipe Band](/setts/s22/k2n2k2n1n10r2n4n10k4b9n10n2~x2/)|
-|![Greyhound Grenadiers Pipe Band example sett](/setts/s22/k2n2k2n1n10r2n4n10k4b9n10n2~x2/sett.png)|
+| [Greyhound Grenadiers Pipe Band](/variants/s22/k2n2k2n1n10r2n4n10k4b9n10n2~x2/)|
+|![Greyhound Grenadiers Pipe Band example sett](/variants/s22/k2n2k2n1n10r2n4n10k4b9n10n2~x2/sett.png)|

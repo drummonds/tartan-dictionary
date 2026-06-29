@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilbranan Sound (Personal)](/setts/s8/ni8r11ni28r4k17n1k7r2~x2/)|
-|![Kilbranan Sound (Personal) example sett](/setts/s8/ni8r11ni28r4k17n1k7r2~x2/sett.png)|
+| [Kilbranan Sound (Personal)](/variants/s8/ni8r11ni28r4k17n1k7r2~x2/)|
+|![Kilbranan Sound (Personal) example sett](/variants/s8/ni8r11ni28r4k17n1k7r2~x2/sett.png)|

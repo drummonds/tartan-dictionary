@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber](/setts/s18/g4t2db33r2k35g33k1r2k1g4~x2/)|
-|![Lochaber example sett](/setts/s18/g4t2db33r2k35g33k1r2k1g4~x2/sett.png)|
+| [Lochaber](/variants/s18/g4t2db33r2k35g33k1r2k1g4~x2/)|
+|![Lochaber example sett](/variants/s18/g4t2db33r2k35g33k1r2k1g4~x2/sett.png)|

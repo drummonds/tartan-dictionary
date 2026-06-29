@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce Hunting](/setts/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/)|
-|![Bruce Hunting example sett](/setts/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/sett.png)|
+| [Bruce Hunting](/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/)|
+|![Bruce Hunting example sett](/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/sett.png)|

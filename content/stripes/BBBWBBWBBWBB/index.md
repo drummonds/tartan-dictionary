@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews Dress, Earl of](/setts/s12/w28t19dbi19w4db2p2dbi7~x2/)|
-|![St. Andrews Dress, Earl of example sett](/setts/s12/w28t19dbi19w4db2p2dbi7~x2/sett.png)|
+| [St. Andrews Dress, Earl of](/variants/s12/w28t19dbi19w4db2p2dbi7~x2/)|
+|![St. Andrews Dress, Earl of example sett](/variants/s12/w28t19dbi19w4db2p2dbi7~x2/sett.png)|

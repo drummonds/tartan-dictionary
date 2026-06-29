@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Châine des Rôtisseurs, (Grande Bretagne)](/setts/s13/y4r2y2r2y1r19y3r2db11r3y2r3w2~x2/)|
-|![Châine des Rôtisseurs, (Grande Bretagne) example sett](/setts/s13/y4r2y2r2y1r19y3r2db11r3y2r3w2~x2/sett.png)|
+| [Châine des Rôtisseurs, (Grande Bretagne)](/variants/s13/y4r2y2r2y1r19y3r2db11r3y2r3w2~x2/)|
+|![Châine des Rôtisseurs, (Grande Bretagne) example sett](/variants/s13/y4r2y2r2y1r19y3r2db11r3y2r3w2~x2/sett.png)|

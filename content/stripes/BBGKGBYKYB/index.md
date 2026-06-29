@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews University (Corporate)](/setts/s10/db6ly3k2ly5dbi30g2k4g2dbi6db4~x2/)|
-|![St. Andrews University (Corporate) example sett](/setts/s10/db6ly3k2ly5dbi30g2k4g2dbi6db4~x2/sett.png)|
+| [St. Andrews University (Corporate)](/variants/s10/db6ly3k2ly5dbi30g2k4g2dbi6db4~x2/)|
+|![St. Andrews University (Corporate) example sett](/variants/s10/db6ly3k2ly5dbi30g2k4g2dbi6db4~x2/sett.png)|

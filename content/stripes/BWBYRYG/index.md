@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tombow 140th Anniversary, The](/setts/s7/g4lo7r9lo9b20w2b2~x2/)|
-|![Tombow 140th Anniversary, The example sett](/setts/s7/g4lo7r9lo9b20w2b2~x2/sett.png)|
-| [Tombow 140th Anniversary, The](/setts/s7/g4ly7o9ly9db20w2db2~x2/)|
-|![Tombow 140th Anniversary, The example sett](/setts/s7/g4ly7o9ly9db20w2db2~x2/sett.png)|
+| [Tombow 140th Anniversary, The](/variants/s7/g4lo7r9lo9b20w2b2~x2/)|
+|![Tombow 140th Anniversary, The example sett](/variants/s7/g4lo7r9lo9b20w2b2~x2/sett.png)|
+| [Tombow 140th Anniversary, The](/variants/s7/g4ly7o9ly9db20w2db2~x2/)|
+|![Tombow 140th Anniversary, The example sett](/variants/s7/g4ly7o9ly9db20w2db2~x2/sett.png)|

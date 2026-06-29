@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Park HS Pipe Band](/setts/s13/ly22w1ly2w2db2w1db14w1db2w2db2w1db14~x4/)|
-|![Highland Park HS Pipe Band example sett](/setts/s13/ly22w1ly2w2db2w1db14w1db2w2db2w1db14~x4/sett.png)|
+| [Highland Park HS Pipe Band](/variants/s13/ly22w1ly2w2db2w1db14w1db2w2db2w1db14~x4/)|
+|![Highland Park HS Pipe Band example sett](/variants/s13/ly22w1ly2w2db2w1db14w1db2w2db2w1db14~x4/sett.png)|

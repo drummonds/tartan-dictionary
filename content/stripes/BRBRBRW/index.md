@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Mildreds Check (School)](/setts/s7/db4r1db18r18db1r1w1~x2/)|
-|![St. Mildreds Check (School) example sett](/setts/s7/db4r1db18r18db1r1w1~x2/sett.png)|
+| [St. Mildreds Check (School)](/variants/s7/db4r1db18r18db1r1w1~x2/)|
+|![St. Mildreds Check (School) example sett](/variants/s7/db4r1db18r18db1r1w1~x2/sett.png)|

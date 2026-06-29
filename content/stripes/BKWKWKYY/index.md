@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sneddon, Jonathan Taylor (Personal)](/setts/s8/b15k2w2k2w2k16lr22ly2~x4/)|
-|![Sneddon, Jonathan Taylor (Personal) example sett](/setts/s8/b15k2w2k2w2k16lr22ly2~x4/sett.png)|
+| [Sneddon, Jonathan Taylor (Personal)](/variants/s8/b15k2w2k2w2k16lr22ly2~x4/)|
+|![Sneddon, Jonathan Taylor (Personal) example sett](/variants/s8/b15k2w2k2w2k16lr22ly2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dti26dg2dti6~x2/)|
-|![Spirit of Fife example sett](/setts/s14/dg10w2dt3g2m14dti26dg2dti6~x2/sett.png)|
+| [Spirit of Fife](/variants/s14/dg10w2dt3g2m14dti26dg2dti6~x2/)|
+|![Spirit of Fife example sett](/variants/s14/dg10w2dt3g2m14dti26dg2dti6~x2/sett.png)|

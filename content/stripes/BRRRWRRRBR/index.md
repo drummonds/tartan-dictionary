@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fernie (Personal)](/setts/s10/r25dt5o2r12oi1w1~x2/)|
-|![Fernie (Personal) example sett](/setts/s10/r25dt5o2r12oi1w1~x2/sett.png)|
+| [Fernie (Personal)](/variants/s10/r25dt5o2r12oi1w1~x2/)|
+|![Fernie (Personal) example sett](/variants/s10/r25dt5o2r12oi1w1~x2/sett.png)|

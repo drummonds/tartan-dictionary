@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Siddle](/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/)|
-|![Siddle example sett](/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/sett.png)|
+| [Siddle](/variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/)|
+|![Siddle example sett](/variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alpha Chi Sigma Fraternity](/setts/s10/dt35ly1dt3ly1dt3ly1dt20r6w1r5~x2/)|
-|![Alpha Chi Sigma Fraternity example sett](/setts/s10/dt35ly1dt3ly1dt3ly1dt20r6w1r5~x2/sett.png)|
+| [Alpha Chi Sigma Fraternity](/variants/s10/dt35ly1dt3ly1dt3ly1dt20r6w1r5~x2/)|
+|![Alpha Chi Sigma Fraternity example sett](/variants/s10/dt35ly1dt3ly1dt3ly1dt20r6w1r5~x2/sett.png)|

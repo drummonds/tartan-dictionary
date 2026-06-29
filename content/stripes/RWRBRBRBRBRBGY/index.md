@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cairn (Fashion)](/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/)|
-|![Cairn (Fashion) example sett](/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/sett.png)|
+| [Cairn (Fashion)](/variants/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/)|
+|![Cairn (Fashion) example sett](/variants/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/sett.png)|

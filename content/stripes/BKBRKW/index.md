@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wylie](/setts/s6/n45k3n10o4ki1w2~x4/)|
-|![Wylie example sett](/setts/s6/n45k3n10o4ki1w2~x4/sett.png)|
+| [Wylie](/variants/s6/n45k3n10o4ki1w2~x4/)|
+|![Wylie example sett](/variants/s6/n45k3n10o4ki1w2~x4/sett.png)|

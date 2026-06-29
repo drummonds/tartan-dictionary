@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crofters (Personal)](/setts/s7/db20r2g9w6ly4k2g8~x2/)|
-|![Crofters (Personal) example sett](/setts/s7/db20r2g9w6ly4k2g8~x2/sett.png)|
+| [Crofters (Personal)](/variants/s7/db20r2g9w6ly4k2g8~x2/)|
+|![Crofters (Personal) example sett](/variants/s7/db20r2g9w6ly4k2g8~x2/sett.png)|

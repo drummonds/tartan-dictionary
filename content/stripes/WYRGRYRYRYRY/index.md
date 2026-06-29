@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Flodden](/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/)|
-|![Flodden example sett](/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/sett.png)|
+| [Flodden](/variants/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/)|
+|![Flodden example sett](/variants/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/sett.png)|

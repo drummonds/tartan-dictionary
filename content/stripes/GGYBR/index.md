@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundhuin Dress (Personal)](/setts/s5/o62t17ly12g8dg8~x2/)|
-|![Dundhuin Dress (Personal) example sett](/setts/s5/o62t17ly12g8dg8~x2/sett.png)|
-| [Dundhuin Hunting (Personal)](/setts/s5/dg62g17ly12t8o8~x2/)|
-|![Dundhuin Hunting (Personal) example sett](/setts/s5/dg62g17ly12t8o8~x2/sett.png)|
+| [Dundhuin Dress (Personal)](/variants/s5/o62t17ly12g8dg8~x2/)|
+|![Dundhuin Dress (Personal) example sett](/variants/s5/o62t17ly12g8dg8~x2/sett.png)|
+| [Dundhuin Hunting (Personal)](/variants/s5/dg62g17ly12t8o8~x2/)|
+|![Dundhuin Hunting (Personal) example sett](/variants/s5/dg62g17ly12t8o8~x2/sett.png)|

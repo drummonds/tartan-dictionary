@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser Arisaid #2](/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/)|
-|![Fraser Arisaid #2 example sett](/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/sett.png)|
+| [Fraser Arisaid #2](/variants/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/)|
+|![Fraser Arisaid #2 example sett](/variants/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/sett.png)|

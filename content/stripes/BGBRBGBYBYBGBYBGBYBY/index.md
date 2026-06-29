@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smith of Pennylands](/setts/s20/dt30g30dt2r7dt2g30dt30lg30b7lg30dt30g30dt2ly7dt2g30dt30lg30b7lg30~x2/)|
-|![Smith of Pennylands example sett](/setts/s20/dt30g30dt2r7dt2g30dt30lg30b7lg30dt30g30dt2ly7dt2g30dt30lg30b7lg30~x2/sett.png)|
+| [Smith of Pennylands](/variants/s20/dt30g30dt2r7dt2g30dt30lg30b7lg30dt30g30dt2ly7dt2g30dt30lg30b7lg30~x2/)|
+|![Smith of Pennylands example sett](/variants/s20/dt30g30dt2r7dt2g30dt30lg30b7lg30dt30g30dt2ly7dt2g30dt30lg30b7lg30~x2/sett.png)|

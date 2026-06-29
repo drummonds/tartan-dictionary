@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Sullivan-Beare (Family)](/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/)|
-|![O'Sullivan-Beare (Family) example sett](/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/sett.png)|
+| [O'Sullivan-Beare (Family)](/variants/s8/lb40k3lb3k3lb3o8k24o8~x2/)|
+|![O'Sullivan-Beare (Family) example sett](/variants/s8/lb40k3lb3k3lb3o8k24o8~x2/sett.png)|

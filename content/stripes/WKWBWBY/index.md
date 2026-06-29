@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson Dress Blue (Dance)](/setts/s7/w5k3w26db21w3db8ly3~x2/)|
-|![MacPherson Dress Blue (Dance) example sett](/setts/s7/w5k3w26db21w3db8ly3~x2/sett.png)|
+| [MacPherson Dress Blue (Dance)](/variants/s7/w5k3w26db21w3db8ly3~x2/)|
+|![MacPherson Dress Blue (Dance) example sett](/variants/s7/w5k3w26db21w3db8ly3~x2/sett.png)|

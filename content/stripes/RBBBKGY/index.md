@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/m4db2t7db20k7g10ly4~x2/)|
-|![Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/m4db2t7db20k7g10ly4~x2/sett.png)|
+| [Renfrewshire District Tartan](/variants/s7/m4db2t7db20k7g10ly4~x2/)|
+|![Renfrewshire District Tartan example sett](/variants/s7/m4db2t7db20k7g10ly4~x2/sett.png)|

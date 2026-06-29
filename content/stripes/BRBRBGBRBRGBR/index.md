@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Great Dane, The](/setts/s13/db6ri30db6ri30db6g6db6ri6db15r2g10db15r2/)|
-|![Great Dane, The example sett](/setts/s13/db6ri30db6ri30db6g6db6ri6db15r2g10db15r2/sett.png)|
+| [Great Dane, The](/variants/s13/db6ri30db6ri30db6g6db6ri6db15r2g10db15r2/)|
+|![Great Dane, The example sett](/variants/s13/db6ri30db6ri30db6g6db6ri6db15r2g10db15r2/sett.png)|

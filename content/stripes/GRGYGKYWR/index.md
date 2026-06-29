@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cates Hunting](/setts/s9/dg23r7dgi25ly5dg17k5ly1w1r1~x2/)|
-|![Cates Hunting example sett](/setts/s9/dg23r7dgi25ly5dg17k5ly1w1r1~x2/sett.png)|
-| [Cates Hunting (Clan)](/setts/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/)|
-|![Cates Hunting (Clan) example sett](/setts/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/sett.png)|
+| [Cates Hunting](/variants/s9/dg23r7dgi25ly5dg17k5ly1w1r1~x2/)|
+|![Cates Hunting example sett](/variants/s9/dg23r7dgi25ly5dg17k5ly1w1r1~x2/sett.png)|
+| [Cates Hunting (Clan)](/variants/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/)|
+|![Cates Hunting (Clan) example sett](/variants/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/sett.png)|

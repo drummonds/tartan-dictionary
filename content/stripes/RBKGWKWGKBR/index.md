@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rose](/setts/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/)|
-|![Rose example sett](/setts/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/sett.png)|
+| [Rose](/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/)|
+|![Rose example sett](/variants/s11/r2db10k10g10w1k4w1g10k10db10r1~x4/sett.png)|

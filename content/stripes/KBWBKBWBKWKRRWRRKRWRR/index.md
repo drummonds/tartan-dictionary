@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdeen Dress (Dance)](/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/)|
-|![Aberdeen Dress (Dance) example sett](/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/sett.png)|
+| [Aberdeen Dress (Dance)](/variants/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/)|
+|![Aberdeen Dress (Dance) example sett](/variants/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/sett.png)|

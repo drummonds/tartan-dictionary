@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marion (Personal)](/setts/s6/p5g8k5db32w2r2~x2/)|
-|![Marion (Personal) example sett](/setts/s6/p5g8k5db32w2r2~x2/sett.png)|
+| [Marion (Personal)](/variants/s6/p5g8k5db32w2r2~x2/)|
+|![Marion (Personal) example sett](/variants/s6/p5g8k5db32w2r2~x2/sett.png)|

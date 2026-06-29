@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Monarch of Argyll (Fashion)](/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/)|
-|![Monarch of Argyll (Fashion) example sett](/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/sett.png)|
+| [Monarch of Argyll (Fashion)](/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6/)|
+|![Monarch of Argyll (Fashion) example sett](/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6/sett.png)|

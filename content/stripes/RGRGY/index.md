@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hunt (Personal)](/setts/s5/r9y2r45y20lo3~x2/)|
-|![Hunt (Personal) example sett](/setts/s5/r9y2r45y20lo3~x2/sett.png)|
+| [Hunt (Personal)](/variants/s5/r9y2r45y20lo3~x2/)|
+|![Hunt (Personal) example sett](/variants/s5/r9y2r45y20lo3~x2/sett.png)|

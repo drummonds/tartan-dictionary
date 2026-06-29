@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Romantic Scotland (Madonna)](/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/)|
-|![Romantic Scotland (Madonna) example sett](/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/sett.png)|
+| [Romantic Scotland (Madonna)](/variants/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/)|
+|![Romantic Scotland (Madonna) example sett](/variants/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/sett.png)|

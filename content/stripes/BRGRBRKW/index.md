@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaw](/setts/s8/lb5k1r30dp15r8dg30r8dp2/)|
-|![Shaw example sett](/setts/s8/lb5k1r30dp15r8dg30r8dp2/sett.png)|
+| [Shaw](/variants/s8/lb5k1r30dp15r8dg30r8dp2/)|
+|![Shaw example sett](/variants/s8/lb5k1r30dp15r8dg30r8dp2/sett.png)|

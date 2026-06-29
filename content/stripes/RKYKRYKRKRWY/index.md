@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cates Dress (Clan)](/setts/s12/ly2w1r2k20r9k20ly7o20k5ly1k1r1~x2/)|
-|![Cates Dress (Clan) example sett](/setts/s12/ly2w1r2k20r9k20ly7o20k5ly1k1r1~x2/sett.png)|
+| [Cates Dress (Clan)](/variants/s12/ly2w1r2k20r9k20ly7o20k5ly1k1r1~x2/)|
+|![Cates Dress (Clan) example sett](/variants/s12/ly2w1r2k20r9k20ly7o20k5ly1k1r1~x2/sett.png)|

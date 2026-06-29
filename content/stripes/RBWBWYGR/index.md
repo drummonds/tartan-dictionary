@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Raymond of Doune](/setts/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/)|
-|![Raymond of Doune example sett](/setts/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/sett.png)|
+| [Raymond of Doune](/variants/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/)|
+|![Raymond of Doune example sett](/variants/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/sett.png)|

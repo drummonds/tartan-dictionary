@@ -24,11 +24,11 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Confederate Cavalry (Military)](/setts/s6/dg2y14dg8y3dg12lo2~x2/)|
-|![Confederate Cavalry (Military) example sett](/setts/s6/dg2y14dg8y3dg12lo2~x2/sett.png)|
-| [MacSporran Rejected design](/setts/s6/dg30dgi13dg7dgi30dg2ly4~x2/)|
-|![MacSporran Rejected design example sett](/setts/s6/dg30dgi13dg7dgi30dg2ly4~x2/sett.png)|
-| [MacSporran, Rejected design](/setts/s6/dg30g13dg7g30dg2ly4~x2/)|
-|![MacSporran, Rejected design example sett](/setts/s6/dg30g13dg7g30dg2ly4~x2/sett.png)|
-| [Park (Estate Check)](/setts/s6/y4dg18dgi6dg6dgi24ly3~x2/)|
-|![Park (Estate Check) example sett](/setts/s6/y4dg18dgi6dg6dgi24ly3~x2/sett.png)|
+| [Confederate Cavalry (Military)](/variants/s6/dg2y14dg8y3dg12lo2~x2/)|
+|![Confederate Cavalry (Military) example sett](/variants/s6/dg2y14dg8y3dg12lo2~x2/sett.png)|
+| [MacSporran Rejected design](/variants/s6/dg30dgi13dg7dgi30dg2ly4~x2/)|
+|![MacSporran Rejected design example sett](/variants/s6/dg30dgi13dg7dgi30dg2ly4~x2/sett.png)|
+| [MacSporran, Rejected design](/variants/s6/dg30g13dg7g30dg2ly4~x2/)|
+|![MacSporran, Rejected design example sett](/variants/s6/dg30g13dg7g30dg2ly4~x2/sett.png)|
+| [Park (Estate Check)](/variants/s6/y4dg18dgi6dg6dgi24ly3~x2/)|
+|![Park (Estate Check) example sett](/variants/s6/y4dg18dgi6dg6dgi24ly3~x2/sett.png)|

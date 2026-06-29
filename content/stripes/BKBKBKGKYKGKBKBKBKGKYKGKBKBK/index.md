@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon Clan](/setts/s28/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/)|
-|![Gordon Clan example sett](/setts/s28/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/sett.png)|
+| [Gordon Clan](/variants/s28/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/)|
+|![Gordon Clan example sett](/variants/s28/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/sett.png)|

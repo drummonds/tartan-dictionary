@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bacon, Blue](/setts/s4/db14k3r3w1~x2/)|
-|![Bacon, Blue example sett](/setts/s4/db14k3r3w1~x2/sett.png)|
-| [Templar Grand Priory USA](/setts/s4/db3k32r27w2~x2/)|
-|![Templar Grand Priory USA example sett](/setts/s4/db3k32r27w2~x2/sett.png)|
+| [Bacon, Blue](/variants/s4/db14k3r3w1~x2/)|
+|![Bacon, Blue example sett](/variants/s4/db14k3r3w1~x2/sett.png)|
+| [Templar Grand Priory USA](/variants/s4/db3k32r27w2~x2/)|
+|![Templar Grand Priory USA example sett](/variants/s4/db3k32r27w2~x2/sett.png)|

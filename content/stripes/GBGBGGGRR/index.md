@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lawrence's Seven Pillars of Khaki](/setts/s9/r3o23y8g6y8t6y10t12y3~x2/)|
-|![Lawrence's Seven Pillars of Khaki example sett](/setts/s9/r3o23y8g6y8t6y10t12y3~x2/sett.png)|
-| [Lawrence's Seven Pillars of Khaki](/setts/s9/r3o23gi8g6gi8t6gi10t12gi3~x2/)|
-|![Lawrence's Seven Pillars of Khaki example sett](/setts/s9/r3o23gi8g6gi8t6gi10t12gi3~x2/sett.png)|
+| [Lawrence's Seven Pillars of Khaki](/variants/s9/r3o23y8g6y8t6y10t12y3~x2/)|
+|![Lawrence's Seven Pillars of Khaki example sett](/variants/s9/r3o23y8g6y8t6y10t12y3~x2/sett.png)|
+| [Lawrence's Seven Pillars of Khaki](/variants/s9/r3o23gi8g6gi8t6gi10t12gi3~x2/)|
+|![Lawrence's Seven Pillars of Khaki example sett](/variants/s9/r3o23gi8g6gi8t6gi10t12gi3~x2/sett.png)|

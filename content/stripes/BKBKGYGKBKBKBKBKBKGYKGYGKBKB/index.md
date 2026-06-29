@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon](/setts/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/)|
-|![Gordon example sett](/setts/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/sett.png)|
+| [Gordon](/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/)|
+|![Gordon example sett](/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/sett.png)|

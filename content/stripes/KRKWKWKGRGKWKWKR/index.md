@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Southdown](/setts/s16/k3r1k3w5k5w3k5dy23r3~x2/)|
-|![Southdown example sett](/setts/s16/k3r1k3w5k5w3k5dy23r3~x2/sett.png)|
+| [Southdown](/variants/s16/k3r1k3w5k5w3k5dy23r3~x2/)|
+|![Southdown example sett](/variants/s16/k3r1k3w5k5w3k5dy23r3~x2/sett.png)|

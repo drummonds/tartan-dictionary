@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sinclair-Brown (Personal)](/setts/s14/db64k11r2k4r2k4g32lo4~x2/)|
-|![Sinclair-Brown (Personal) example sett](/setts/s14/db64k11r2k4r2k4g32lo4~x2/sett.png)|
+| [Sinclair-Brown (Personal)](/variants/s14/db64k11r2k4r2k4g32lo4~x2/)|
+|![Sinclair-Brown (Personal) example sett](/variants/s14/db64k11r2k4r2k4g32lo4~x2/sett.png)|

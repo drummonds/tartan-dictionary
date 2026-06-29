@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fujisankei Serene](/setts/s9/n1t6db4t1db16ni1db4ni6t1~x4/)|
-|![Fujisankei Serene example sett](/setts/s9/n1t6db4t1db16ni1db4ni6t1~x4/sett.png)|
-| [Phillips](/setts/s9/do40t2dp2t2do2dpi5dp20t2dp20~x2/)|
-|![Phillips example sett](/setts/s9/do40t2dp2t2do2dpi5dp20t2dp20~x2/sett.png)|
+| [Fujisankei Serene](/variants/s9/n1t6db4t1db16ni1db4ni6t1~x4/)|
+|![Fujisankei Serene example sett](/variants/s9/n1t6db4t1db16ni1db4ni6t1~x4/sett.png)|
+| [Phillips](/variants/s9/do40t2dp2t2do2dpi5dp20t2dp20~x2/)|
+|![Phillips example sett](/variants/s9/do40t2dp2t2do2dpi5dp20t2dp20~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Curry (Personal)](/setts/s8/r3g2r6g20k15g3db18w2~x2/)|
-|![Curry (Personal) example sett](/setts/s8/r3g2r6g20k15g3db18w2~x2/sett.png)|
+| [Curry (Personal)](/variants/s8/r3g2r6g20k15g3db18w2~x2/)|
+|![Curry (Personal) example sett](/variants/s8/r3g2r6g20k15g3db18w2~x2/sett.png)|

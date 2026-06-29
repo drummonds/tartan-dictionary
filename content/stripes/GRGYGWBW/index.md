@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Mountain](/setts/s8/dg26r2dg3ly2dg8w20db3w4~x2/)|
-|![Green Mountain example sett](/setts/s8/dg26r2dg3ly2dg8w20db3w4~x2/sett.png)|
+| [Green Mountain](/variants/s8/dg26r2dg3ly2dg8w20db3w4~x2/)|
+|![Green Mountain example sett](/variants/s8/dg26r2dg3ly2dg8w20db3w4~x2/sett.png)|

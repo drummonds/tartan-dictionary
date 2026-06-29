@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hawkes, Norman (Personal)](/setts/s6/g7w4k21n16db16r5~x2/)|
-|![Hawkes, Norman (Personal) example sett](/setts/s6/g7w4k21n16db16r5~x2/sett.png)|
+| [Hawkes, Norman (Personal)](/variants/s6/g7w4k21n16db16r5~x2/)|
+|![Hawkes, Norman (Personal) example sett](/variants/s6/g7w4k21n16db16r5~x2/sett.png)|

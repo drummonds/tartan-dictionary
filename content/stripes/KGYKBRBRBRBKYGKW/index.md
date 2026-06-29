@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Whitson](/setts/s16/lb4k1y19lo1k19n13r2n4r2~x4/)|
-|![Whitson example sett](/setts/s16/lb4k1y19lo1k19n13r2n4r2~x4/sett.png)|
+| [Whitson](/variants/s16/lb4k1y19lo1k19n13r2n4r2~x4/)|
+|![Whitson example sett](/variants/s16/lb4k1y19lo1k19n13r2n4r2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Riding Cloak](/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/)|
-|![Stuart/Stewart Riding Cloak example sett](/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/sett.png)|
+| [Stuart/Stewart Riding Cloak](/variants/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/)|
+|![Stuart/Stewart Riding Cloak example sett](/variants/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/sett.png)|

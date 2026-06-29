@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australia 2000](/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/)|
-|![Australia 2000 example sett](/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/sett.png)|
+| [Australia 2000](/variants/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/)|
+|![Australia 2000 example sett](/variants/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/sett.png)|

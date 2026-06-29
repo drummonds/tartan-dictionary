@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bethune (Personal)](/setts/s13/t2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/)|
-|![Bethune (Personal) example sett](/setts/s13/t2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/sett.png)|
+| [Bethune (Personal)](/variants/s13/t2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/)|
+|![Bethune (Personal) example sett](/variants/s13/t2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drumbeg](/setts/s12/o12n3o3dt4o16r3o3r3o3r16dt52o4/)|
-|![Drumbeg example sett](/setts/s12/o12n3o3dt4o16r3o3r3o3r16dt52o4/sett.png)|
+| [Drumbeg](/variants/s12/o12n3o3dt4o16r3o3r3o3r16dt52o4/)|
+|![Drumbeg example sett](/variants/s12/o12n3o3dt4o16r3o3r3o3r16dt52o4/sett.png)|

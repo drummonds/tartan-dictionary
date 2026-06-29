@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lermontov Bicentenary](/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/)|
-|![Lermontov Bicentenary example sett](/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/sett.png)|
-| [Lermontov Bicentenary](/setts/s8/lo5r6k5r6lo36db3lo2k1~x2/)|
-|![Lermontov Bicentenary example sett](/setts/s8/lo5r6k5r6lo36db3lo2k1~x2/sett.png)|
+| [Lermontov Bicentenary](/variants/s8/lo5r6k5r6lo36b3lo2k1~x2/)|
+|![Lermontov Bicentenary example sett](/variants/s8/lo5r6k5r6lo36b3lo2k1~x2/sett.png)|
+| [Lermontov Bicentenary](/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/)|
+|![Lermontov Bicentenary example sett](/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/sett.png)|

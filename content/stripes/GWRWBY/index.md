@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duminiak (Trevose, Pennsylvania)](/setts/s6/y47w6r24w3dp5lo3~x2/)|
-|![Duminiak (Trevose, Pennsylvania) example sett](/setts/s6/y47w6r24w3dp5lo3~x2/sett.png)|
+| [Duminiak (Trevose, Pennsylvania)](/variants/s6/y47w6r24w3dp5lo3~x2/)|
+|![Duminiak (Trevose, Pennsylvania) example sett](/variants/s6/y47w6r24w3dp5lo3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gracie](/setts/s5/g47r3g6db35ly3~x2/)|
-|![Gracie example sett](/setts/s5/g47r3g6db35ly3~x2/sett.png)|
-| [Gracie (Name)](/setts/s5/g47r3g6db35lo3~x2/)|
-|![Gracie (Name) example sett](/setts/s5/g47r3g6db35lo3~x2/sett.png)|
+| [Gracie](/variants/s5/g47r3g6db35ly3~x2/)|
+|![Gracie example sett](/variants/s5/g47r3g6db35ly3~x2/sett.png)|
+| [Gracie (Name)](/variants/s5/g47r3g6db35lo3~x2/)|
+|![Gracie (Name) example sett](/variants/s5/g47r3g6db35lo3~x2/sett.png)|

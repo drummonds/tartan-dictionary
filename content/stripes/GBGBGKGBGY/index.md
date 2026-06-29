@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sardar Chadha (Personal)](/setts/s10/lo6g34db4g4k32g4db34g4db2g5/)|
-|![Sardar Chadha (Personal) example sett](/setts/s10/lo6g34db4g4k32g4db34g4db2g5/sett.png)|
+| [Sardar Chadha (Personal)](/variants/s10/lo6g34db4g4k32g4db34g4db2g5/)|
+|![Sardar Chadha (Personal) example sett](/variants/s10/lo6g34db4g4k32g4db34g4db2g5/sett.png)|

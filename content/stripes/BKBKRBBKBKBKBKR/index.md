@@ -24,7 +24,7 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Amble](/setts/s15/do20k6do5k8o4do6t3k1do3k1t3k9t11k1o1~x2/)|
-|![Amble example sett](/setts/s15/do20k6do5k8o4do6t3k1do3k1t3k9t11k1o1~x2/sett.png)|
-| [Amble (Fashion)](/setts/s15/do20k6do5k8o4do6db3k1do3k1db3k9db11k1o1~x2/)|
-|![Amble (Fashion) example sett](/setts/s15/do20k6do5k8o4do6db3k1do3k1db3k9db11k1o1~x2/sett.png)|
+| [Amble](/variants/s15/do20k6do5k8o4do6t3k1do3k1t3k9t11k1o1~x2/)|
+|![Amble example sett](/variants/s15/do20k6do5k8o4do6t3k1do3k1t3k9t11k1o1~x2/sett.png)|
+| [Amble (Fashion)](/variants/s15/do20k6do5k8o4do6db3k1do3k1db3k9db11k1o1~x2/)|
+|![Amble (Fashion) example sett](/variants/s15/do20k6do5k8o4do6db3k1do3k1db3k9db11k1o1~x2/sett.png)|

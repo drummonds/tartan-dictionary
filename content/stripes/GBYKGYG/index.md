@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rothesay](/setts/s7/g4n12lo2k10y10lo3y2~x2/)|
-|![Rothesay example sett](/setts/s7/g4n12lo2k10y10lo3y2~x2/sett.png)|
+| [Rothesay](/variants/s7/g4n12lo2k10y10lo3y2~x2/)|
+|![Rothesay example sett](/variants/s7/g4n12lo2k10y10lo3y2~x2/sett.png)|

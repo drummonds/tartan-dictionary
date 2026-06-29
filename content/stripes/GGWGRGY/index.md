@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Devon, Original](/setts/s7/y5g4w1g4o4dg4ly1~x4/)|
-|![Devon, Original example sett](/setts/s7/y5g4w1g4o4dg4ly1~x4/sett.png)|
+| [Devon, Original](/variants/s7/y5g4w1g4o4dg4ly1~x4/)|
+|![Devon, Original example sett](/variants/s7/y5g4w1g4o4dg4ly1~x4/sett.png)|

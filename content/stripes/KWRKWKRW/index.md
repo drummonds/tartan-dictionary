@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University of Cincinnati](/tartans/k66w1r8k14w14k6r11w8/)|
-|![University of Cincinnati example sett](/setts/s8/k66w1r8k14w14k6r11w8~x2/sett.png)|
+| [University of Cincinnati](/setts/k66w1r8k14w14k6r11w8/)|
+|![University of Cincinnati example sett](/variants/s8/k66w1r8k14w14k6r11w8~x2/sett.png)|

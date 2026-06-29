@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Howard, Vincent (Personal)](/setts/s6/r65dg16r4dp4r4w5~x2/)|
-|![Howard, Vincent (Personal) example sett](/setts/s6/r65dg16r4dp4r4w5~x2/sett.png)|
-| [Howard, Vincent (Personal)](/setts/s6/r65g16r4dp4r4w5~x2/)|
-|![Howard, Vincent (Personal) example sett](/setts/s6/r65g16r4dp4r4w5~x2/sett.png)|
+| [Howard, Vincent (Personal)](/variants/s6/r65dg16r4dp4r4w5~x2/)|
+|![Howard, Vincent (Personal) example sett](/variants/s6/r65dg16r4dp4r4w5~x2/sett.png)|
+| [Howard, Vincent (Personal)](/variants/s6/r65g16r4dp4r4w5~x2/)|
+|![Howard, Vincent (Personal) example sett](/variants/s6/r65g16r4dp4r4w5~x2/sett.png)|

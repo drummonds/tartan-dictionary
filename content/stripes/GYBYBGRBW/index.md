@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Casey of West Virginia (Personal)](/setts/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/)|
-|![Casey of West Virginia (Personal) example sett](/setts/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/sett.png)|
+| [Casey of West Virginia (Personal)](/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/)|
+|![Casey of West Virginia (Personal) example sett](/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/sett.png)|

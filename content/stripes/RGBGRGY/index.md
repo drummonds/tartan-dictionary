@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Scouts](/setts/s7/r3g22db16g14r2g6ly1~x2/)|
-|![Scottish Scouts example sett](/setts/s7/r3g22db16g14r2g6ly1~x2/sett.png)|
-| [Scottish Scouts (1957) (Corporate)](/setts/s7/r3g22db16g14r2g6lo2~x2/)|
-|![Scottish Scouts (1957) (Corporate) example sett](/setts/s7/r3g22db16g14r2g6lo2~x2/sett.png)|
+| [Scottish Scouts](/variants/s7/r3g22db16g14r2g6ly1~x2/)|
+|![Scottish Scouts example sett](/variants/s7/r3g22db16g14r2g6ly1~x2/sett.png)|
+| [Scottish Scouts (1957) (Corporate)](/variants/s7/r3g22db16g14r2g6lo2~x2/)|
+|![Scottish Scouts (1957) (Corporate) example sett](/variants/s7/r3g22db16g14r2g6lo2~x2/sett.png)|

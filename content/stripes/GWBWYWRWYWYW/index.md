@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rainbow (Fort Worth)](/setts/s12/g1w1b1w1lo1w1r1w1lo1w1ly1w1~x10/)|
-|![Rainbow (Fort Worth) example sett](/setts/s12/g1w1b1w1lo1w1r1w1lo1w1ly1w1~x10/sett.png)|
+| [Rainbow (Fort Worth)](/variants/s12/g1w1b1w1lo1w1r1w1lo1w1ly1w1~x10/)|
+|![Rainbow (Fort Worth) example sett](/variants/s12/g1w1b1w1lo1w1r1w1lo1w1ly1w1~x10/sett.png)|

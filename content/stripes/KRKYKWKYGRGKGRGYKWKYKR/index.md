@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/)|
-|![O'Keefe example sett](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/sett.png)|
+| [O'Keefe](/variants/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/)|
+|![O'Keefe example sett](/variants/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/sett.png)|

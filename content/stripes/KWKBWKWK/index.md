@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [London Fog Black (Fashion)](/setts/s8/k198lb9k17t13lb9k4lb13k4/)|
-|![London Fog Black (Fashion) example sett](/setts/s8/k198lb9k17t13lb9k4lb13k4/sett.png)|
+| [London Fog Black (Fashion)](/variants/s8/k198lb9k17t13lb9k4lb13k4/)|
+|![London Fog Black (Fashion) example sett](/variants/s8/k198lb9k17t13lb9k4lb13k4/sett.png)|

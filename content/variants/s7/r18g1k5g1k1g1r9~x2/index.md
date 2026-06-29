@@ -1,0 +1,61 @@
+---
+title: "Duke of Sussex"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r18g1k5g1k1g1r9/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKGR](/stripes/rgkgkgr/).
+
+Part of the [Duke of Sussex](/tartans/duke-of-sussex/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Inverness, Augustus
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1830 — Duke of Sussex (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010">record</a>)</li>
+<li>1830 — Duke of Sussex (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5265/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1010](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010)
+- Scottish Tartans Authority (ITI): 5265
+
+## Thread count
+R/36 G2 K10 G2 K2 G2 R/18
+
+One full sett is **90 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/36 G2 K10 G2 K2 G2 R/18 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r18g1k5g1k1g1r9~x2">Duke of Sussex</a> <a class="nn-out" href="/variants/s7/r18g1k5g1k1g1r9~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r18g1k5g1k1g1r9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=k2r1k2r14w1r1w1~x8&amp;base=r18g1k5g1k1g1r9~x2">White Stripes Dress, (Corporate)</a> <a class="nn-out" href="/variants/s7/k2r1k2r14w1r1w1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k2r1k2r14w1r1w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=ly4k1r30k15r24k2r4k1~x4&amp;base=r18g1k5g1k1g1r9~x2">Oilmens (Corporate)</a> <a class="nn-out" href="/variants/s8/ly4k1r30k15r24k2r4k1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/ly4k1r30k15r24k2r4k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=r51o2r6k10r2k4o3k3~x2&amp;base=r18g1k5g1k1g1r9~x2">Virgin</a> <a class="nn-out" href="/variants/s8/r51o2r6k10r2k4o3k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r51o2r6k10r2k4o3k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.40</div><div class="nn-name"><a href="/ttd/edit/#slug=k4r4ly2r41k4r4k12w2~x2&amp;base=r18g1k5g1k1g1r9~x2">Aberdeen Football Club (2002)</a> <a class="nn-out" href="/variants/s8/k4r4ly2r41k4r4k12w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4r4ly2r41k4r4k12w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.40</div><div class="nn-name"><a href="/ttd/edit/#slug=r75k15r4k15r4~x2&amp;base=r18g1k5g1k1g1r9~x2">Masai Shuka 07 (Artefact)</a> <a class="nn-out" href="/variants/s5/r75k15r4k15r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r75k15r4k15r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.49</div><div class="nn-name"><a href="/ttd/edit/#slug=dg2r28db6r5db2r2db2r11lb2&amp;base=r18g1k5g1k1g1r9~x2">Rose</a> <a class="nn-out" href="/variants/s9/dg2r28db6r5db2r2db2r11lb2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg2r28db6r5db2r2db2r11lb2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.50</div><div class="nn-name"><a href="/ttd/edit/#slug=r64k8w3k8w3b4w3r18~x2&amp;base=r18g1k5g1k1g1r9~x2">Inverness - 2000 (Fashion)</a> <a class="nn-out" href="/variants/s8/r64k8w3k8w3b4w3r18~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r64k8w3k8w3b4w3r18~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.55</div><div class="nn-name"><a href="/ttd/edit/#slug=r58ly3r6dg16r12dg16r6&amp;base=r18g1k5g1k1g1r9~x2">Cameron Ancient</a> <a class="nn-out" href="/variants/s7/r58ly3r6dg16r12dg16r6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r58ly3r6dg16r12dg16r6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.62</div><div class="nn-name"><a href="/ttd/edit/#slug=r32k2r4k2r2k8r30lb3~x2&amp;base=r18g1k5g1k1g1r9~x2">University of Chicago (Corporate)</a> <a class="nn-out" href="/variants/s8/r32k2r4k2r2k8r30lb3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r32k2r4k2r2k8r30lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.62</div><div class="nn-name"><a href="/variants/s8/r35lb3r8ly2dg11~x2/">Highlands of Wyomissing (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r35lb3r8ly2dg11~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="474.2" cy="146.4" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/variants/s8/ly4k1r30k15r24k2r4k1~x4/"><circle cx="491.9" cy="144.2" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/variants/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="516.5" cy="117.3" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="433.9" cy="116.1" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/variants/s5/r75k15r4k15r4~x2/"><circle cx="538.1" cy="193.9" r="4" fill="#3465a4"><title>Masai Shuka 07 (Artefact)</title></circle></a><a href="/variants/s9/dg2r28db6r5db2r2db2r11lb2/"><circle cx="490.3" cy="143.4" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="482.9" cy="126.7" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/variants/s7/r58ly3r6dg16r12dg16r6/"><circle cx="487.3" cy="173.3" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s8/r32k2r4k2r2k8r30lb3~x2/"><circle cx="563.1" cy="175.5" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s8/r35lb3r8ly2dg11~x2/"><circle cx="446.9" cy="151.4" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><circle cx="486.9" cy="155.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/r18g1k5g1k1g1r9~x2/

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laksaa (Manx)](/setts/s8/n22k2n2k2n2k16w16k3~x2/)|
-|![Laksaa (Manx) example sett](/setts/s8/n22k2n2k2n2k16w16k3~x2/sett.png)|
+| [Laksaa (Manx)](/variants/s8/n22k2n2k2n2k16w16k3~x2/)|
+|![Laksaa (Manx) example sett](/variants/s8/n22k2n2k2n2k16w16k3~x2/sett.png)|

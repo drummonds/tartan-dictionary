@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Riley (Personal)](/setts/s8/p26g6k8g3k8g30w3g3~x2/)|
-|![Riley (Personal) example sett](/setts/s8/p26g6k8g3k8g30w3g3~x2/sett.png)|
+| [Riley (Personal)](/variants/s8/p26g6k8g3k8g30w3g3~x2/)|
+|![Riley (Personal) example sett](/variants/s8/p26g6k8g3k8g30w3g3~x2/sett.png)|

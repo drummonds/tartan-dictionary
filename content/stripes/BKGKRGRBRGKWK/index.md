@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clifford](/setts/s13/dt10k3g3k8m9g3m10b3m28g3k3w3k3~x2/)|
-|![Clifford example sett](/setts/s13/dt10k3g3k8m9g3m10b3m28g3k3w3k3~x2/sett.png)|
+| [Clifford](/variants/s13/dt10k3g3k8m9g3m10b3m28g3k3w3k3~x2/)|
+|![Clifford example sett](/variants/s13/dt10k3g3k8m9g3m10b3m28g3k3w3k3~x2/sett.png)|

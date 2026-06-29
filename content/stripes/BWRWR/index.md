@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenshee](/setts/s5/r12w1r2lb1n3~x4/)|
-|![Glenshee example sett](/setts/s5/r12w1r2lb1n3~x4/sett.png)|
+| [Glenshee](/variants/s5/r12w1r2lb1n3~x4/)|
+|![Glenshee example sett](/variants/s5/r12w1r2lb1n3~x4/sett.png)|

@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFadzean](/setts/s6/db48w2k20dg22r3dg4~x2/)|
-|![MacFadzean example sett](/setts/s6/db48w2k20dg22r3dg4~x2/sett.png)|
-| [MacFadzean](/setts/s6/db48w2k20g22r3g4~x2/)|
-|![MacFadzean example sett](/setts/s6/db48w2k20g22r3g4~x2/sett.png)|
-| [Paterson Blue (Personal)](/setts/s6/db22w2k10g11r3g4~x2/)|
-|![Paterson Blue (Personal) example sett](/setts/s6/db22w2k10g11r3g4~x2/sett.png)|
+| [MacFadzean](/variants/s6/db48w2k20dg22r3dg4~x2/)|
+|![MacFadzean example sett](/variants/s6/db48w2k20dg22r3dg4~x2/sett.png)|
+| [MacFadzean](/variants/s6/db48w2k20g22r3g4~x2/)|
+|![MacFadzean example sett](/variants/s6/db48w2k20g22r3g4~x2/sett.png)|
+| [Paterson Blue (Personal)](/variants/s6/db22w2k10g11r3g4~x2/)|
+|![Paterson Blue (Personal) example sett](/variants/s6/db22w2k10g11r3g4~x2/sett.png)|

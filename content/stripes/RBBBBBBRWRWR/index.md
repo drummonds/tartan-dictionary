@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Callum, Scotch House](/setts/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/)|
-|![Callum, Scotch House example sett](/setts/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/sett.png)|
+| [Callum, Scotch House](/variants/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/)|
+|![Callum, Scotch House example sett](/variants/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/sett.png)|

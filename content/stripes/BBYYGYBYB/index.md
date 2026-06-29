@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brighton Mac Dermotte](/setts/s9/dt47ly1do27lr4dg5ly1lr8t1do1~x2/)|
-|![Brighton Mac Dermotte example sett](/setts/s9/dt47ly1do27lr4dg5ly1lr8t1do1~x2/sett.png)|
+| [Brighton Mac Dermotte](/variants/s9/dt47ly1do27lr4dg5ly1lr8t1do1~x2/)|
+|![Brighton Mac Dermotte example sett](/variants/s9/dt47ly1do27lr4dg5ly1lr8t1do1~x2/sett.png)|

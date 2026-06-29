@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prehospital EMS (Corporate)](/setts/s5/k1w7lo7b16ly1~x4/)|
-|![Prehospital EMS (Corporate) example sett](/setts/s5/k1w7lo7b16ly1~x4/sett.png)|
+| [Prehospital EMS (Corporate)](/variants/s5/k1w7lo7b16ly1~x4/)|
+|![Prehospital EMS (Corporate) example sett](/variants/s5/k1w7lo7b16ly1~x4/sett.png)|

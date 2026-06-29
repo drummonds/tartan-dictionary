@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mingulay (Fashion)](/setts/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4/)|
-|![Mingulay (Fashion) example sett](/setts/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4/sett.png)|
+| [Mingulay (Fashion)](/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4/)|
+|![Mingulay (Fashion) example sett](/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4/sett.png)|

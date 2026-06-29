@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Omani Regiment 2nd Pipe Sqn.](/setts/s6/g23r23w9r23g23w9~x2/)|
-|![Omani Regiment 2nd Pipe Sqn. example sett](/setts/s6/g23r23w9r23g23w9~x2/sett.png)|
+| [Omani Regiment 2nd Pipe Sqn.](/variants/s6/g23r23w9r23g23w9~x2/)|
+|![Omani Regiment 2nd Pipe Sqn. example sett](/variants/s6/g23r23w9r23g23w9~x2/sett.png)|

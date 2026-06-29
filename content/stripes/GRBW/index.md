@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNab WI2](/setts/s4/dg15r3dp11lb2/)|
-|![MacNab WI2 example sett](/setts/s4/dg15r3dp11lb2/sett.png)|
-| [McNiff, Kevin (Personal)](/setts/s4/dg20r7db40w2~x2/)|
-|![McNiff, Kevin (Personal) example sett](/setts/s4/dg20r7db40w2~x2/sett.png)|
-| [McNiff, Kevin (Personal)](/setts/s4/g20r7db40w2~x2/)|
-|![McNiff, Kevin (Personal) example sett](/setts/s4/g20r7db40w2~x2/sett.png)|
+| [MacNab WI2](/variants/s4/dg15r3dp11lb2/)|
+|![MacNab WI2 example sett](/variants/s4/dg15r3dp11lb2/sett.png)|
+| [McNiff, Kevin (Personal)](/variants/s4/dg20r7db40w2~x2/)|
+|![McNiff, Kevin (Personal) example sett](/variants/s4/dg20r7db40w2~x2/sett.png)|
+| [McNiff, Kevin (Personal)](/variants/s4/g20r7db40w2~x2/)|
+|![McNiff, Kevin (Personal) example sett](/variants/s4/g20r7db40w2~x2/sett.png)|

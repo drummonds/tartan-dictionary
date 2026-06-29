@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [NewGeneration Alchemy (NGA) Inc](/setts/s6/k31r2k10db1k1w1~x4/)|
-|![NewGeneration Alchemy (NGA) Inc example sett](/setts/s6/k31r2k10db1k1w1~x4/sett.png)|
+| [NewGeneration Alchemy (NGA) Inc](/variants/s6/k31r2k10db1k1w1~x4/)|
+|![NewGeneration Alchemy (NGA) Inc example sett](/variants/s6/k31r2k10db1k1w1~x4/sett.png)|

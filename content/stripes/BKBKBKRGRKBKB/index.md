@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Riddoch (Name)](/setts/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/)|
-|![Riddoch (Name) example sett](/setts/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/sett.png)|
+| [Riddoch (Name)](/variants/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/)|
+|![Riddoch (Name) example sett](/variants/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/sett.png)|

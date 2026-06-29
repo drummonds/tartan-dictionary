@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chafee of Glenmary (Personal)](/setts/s14/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2~x2/)|
-|![Chafee of Glenmary (Personal) example sett](/setts/s14/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2~x2/sett.png)|
+| [Chafee of Glenmary (Personal)](/variants/s14/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2~x2/)|
+|![Chafee of Glenmary (Personal) example sett](/variants/s14/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2~x2/sett.png)|

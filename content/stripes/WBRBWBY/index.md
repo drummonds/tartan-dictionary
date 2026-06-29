@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fazzolettone (Fashion?)](/setts/s7/w2db3r24db15w6db3ly2~x2/)|
-|![Fazzolettone (Fashion?) example sett](/setts/s7/w2db3r24db15w6db3ly2~x2/sett.png)|
+| [Fazzolettone (Fashion?)](/variants/s7/w2db3r24db15w6db3ly2~x2/)|
+|![Fazzolettone (Fashion?) example sett](/variants/s7/w2db3r24db15w6db3ly2~x2/sett.png)|

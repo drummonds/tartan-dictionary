@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bedford Check](/setts/s4/t3o6k4t2~x2/)|
-|![Bedford Check example sett](/setts/s4/t3o6k4t2~x2/sett.png)|
+| [Bedford Check](/variants/s4/t3o6k4t2~x2/)|
+|![Bedford Check example sett](/variants/s4/t3o6k4t2~x2/sett.png)|

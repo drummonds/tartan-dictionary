@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cumnock](/setts/s8/g3db16k3p2k45r1k2lo3~x2/)|
-|![Cumnock example sett](/setts/s8/g3db16k3p2k45r1k2lo3~x2/sett.png)|
-| [Cumnock (District)](/setts/s8/g3db16k3dp2k45r1k2lo3~x2/)|
-|![Cumnock (District) example sett](/setts/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png)|
+| [Cumnock](/variants/s8/g3db16k3p2k45r1k2lo3~x2/)|
+|![Cumnock example sett](/variants/s8/g3db16k3p2k45r1k2lo3~x2/sett.png)|
+| [Cumnock (District)](/variants/s8/g3db16k3dp2k45r1k2lo3~x2/)|
+|![Cumnock (District) example sett](/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mighty Men](/setts/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/)|
-|![Mighty Men example sett](/setts/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/sett.png)|
+| [Mighty Men](/variants/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/)|
+|![Mighty Men example sett](/variants/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/sett.png)|

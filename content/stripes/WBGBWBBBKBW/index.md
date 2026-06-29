@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Dunnett](/setts/s11/w50db14g2db2w2db2n10b6k2b3w2~x2/)|
-|![Blue Dunnett example sett](/setts/s11/w50db14g2db2w2db2n10b6k2b3w2~x2/sett.png)|
-| [Blue Dunnett (Fashion)](/setts/s11/lb50db14g2db2lb2db2n10b6k2b3lb2~x2/)|
-|![Blue Dunnett (Fashion) example sett](/setts/s11/lb50db14g2db2lb2db2n10b6k2b3lb2~x2/sett.png)|
+| [Blue Dunnett](/variants/s11/w50db14g2db2w2db2n10b6k2b3w2~x2/)|
+|![Blue Dunnett example sett](/variants/s11/w50db14g2db2w2db2n10b6k2b3w2~x2/sett.png)|
+| [Blue Dunnett (Fashion)](/variants/s11/lb50db14g2db2lb2db2n10b6k2b3lb2~x2/)|
+|![Blue Dunnett (Fashion) example sett](/variants/s11/lb50db14g2db2lb2db2n10b6k2b3lb2~x2/sett.png)|

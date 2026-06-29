@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rowan (Personal)](/setts/s5/g12lo1db8k1db1~x4/)|
-|![Rowan (Personal) example sett](/setts/s5/g12lo1db8k1db1~x4/sett.png)|
+| [Rowan (Personal)](/variants/s5/g12lo1db8k1db1~x4/)|
+|![Rowan (Personal) example sett](/variants/s5/g12lo1db8k1db1~x4/sett.png)|

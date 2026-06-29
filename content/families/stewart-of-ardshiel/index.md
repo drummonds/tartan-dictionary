@@ -8,13 +8,11 @@ A family of [Clan Stewart](/clan/stewart/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s18/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/"><img src="/setts/s18/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/sett.png" alt="Stewart of Ardshiel - 1816 (Clan)" width="240"><br>Stewart of Ardshiel - 1816 (Clan)</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s18/g14ri6r2k3ri65k2t2ri6k34ri6t2k2ri4g66ri12r2k2t4/"><img src="/setts/s18/g14ri6r2k3ri65k2t2ri6k34ri6t2k2ri4g66ri12r2k2t4/sett.png" alt="Stewart of Ardshiel" width="140"><br>Stewart of Ardshiel</a></li>
-<li><a class="tartan" href="/setts/s18/g14r6ri2dt3r65dt2t2r6dt34r6t2dt2r4g66r12ri2dt2t4/"><img src="/setts/s18/g14r6ri2dt3r65dt2t2r6dt34r6t2dt2r4g66r12ri2dt2t4/sett.png" alt="Stewart of Ardshiel Clan Tartan Tartan Number: 73. Earliest known date: 1822 There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Stewart of Ardshiel Clan Tartan Tartan Number: 73. Earliest known date: 1822 There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-<li><a class="tartan" href="/setts/s34/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/"><img src="/setts/s34/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/sett.png" alt="Stuart/Stewart of Ardshiel" width="140"><br>Stuart/Stewart of Ardshiel</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/">Stewart of Ardshiel</a> ★</td><td><code>T/4 K2 Ri2 R12 DG66 R4 K2 T2 R6 K34 R6 T2 K2 R65 K3 Ri2 R6 DG14 R6 Ri2 K3 R65 K2 T2 R6 K34 R6 T2 K2 R4 DG66 R12 Ri2 K/2</code></td><td>4</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/"><img src="/variants/s34/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/sett.png" alt="Stewart of Ardshiel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

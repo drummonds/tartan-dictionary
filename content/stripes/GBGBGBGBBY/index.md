@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hanna of Leith (yellow line)](/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/)|
-|![Hanna of Leith (yellow line) example sett](/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/sett.png)|
+| [Hanna of Leith (yellow line)](/variants/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/)|
+|![Hanna of Leith (yellow line) example sett](/variants/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/sett.png)|

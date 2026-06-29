@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sens](/setts/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/)|
-|![Sens example sett](/setts/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/sett.png)|
+| [Sens](/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/)|
+|![Sens example sett](/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/sett.png)|

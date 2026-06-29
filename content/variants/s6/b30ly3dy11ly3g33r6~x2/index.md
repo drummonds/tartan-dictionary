@@ -1,0 +1,64 @@
+---
+title: "Balfour Hunting"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b30ly3dy11ly3g33r6/)
+(the same proportion at any scale), whose colour order is pattern [BYGYGR](/stripes/bygygr/).
+
+Part of the [Balfour Hunting](/tartans/balfour-hunting/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4866
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Balfour
+- Balfour #2
+- Balfour blue & brown
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4866](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4866)
+- Scottish Tartans Authority (ITI): 3970
+
+## Thread count
+B/60 Y6 T22 Y6 G66 R/12
+
+One full sett is **272 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> <small style="color:#888">#1870A4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(52.2% 0.113 241.2)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">22</td><td><code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> <small style="color:#888">#604000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.8% 0.083 76.8)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">66</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="B/60 Y6 T22 Y6 G66 R/12 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/db18ly2dy6ly2dy19r3/"><img src="/variants/s6/db18ly2dy6ly2dy19r3~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/db18ly2dy6ly2dy19r3/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=b30ly3dy11ly3g33r6~x2">Balfour Hunting</a> <a class="nn-out" href="/variants/s6/b30ly3dy11ly3g33r6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/b30ly3dy11ly3g33r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.88</div><div class="nn-name"><a href="/ttd/edit/#slug=k9lr6n22g28ly2~x2&amp;base=b30ly3dy11ly3g33r6~x2">Wellington (Lochcarron)</a> <a class="nn-out" href="/variants/s5/k9lr6n22g28ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k9lr6n22g28ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.04</div><div class="nn-name"><a href="/ttd/edit/#slug=gi2lo1gi12lb6g12r1~x4&amp;base=b30ly3dy11ly3g33r6~x2">City of Vancouver (Commemorative)</a> <a class="nn-out" href="/variants/s6/gi2lo1gi12lb6g12r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/gi2lo1gi12lb6g12r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=dg6ly3dg26k10n30lb3~x2&amp;base=b30ly3dy11ly3g33r6~x2">Montrose (1983)</a> <a class="nn-out" href="/variants/s6/dg6ly3dg26k10n30lb3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg6ly3dg26k10n30lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=g32o7g7o16db32ly3o8~x2&amp;base=b30ly3dy11ly3g33r6~x2">Strange Of Balcaskie</a> <a class="nn-out" href="/variants/s7/g32o7g7o16db32ly3o8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g32o7g7o16db32ly3o8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=dg5g32dp5k10dg8r3dg8dp3~x2&amp;base=b30ly3dy11ly3g33r6~x2">Scottish Power (Corporate)</a> <a class="nn-out" href="/variants/s8/dg5g32dp5k10dg8r3dg8dp3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg5g32dp5k10dg8r3dg8dp3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.12</div><div class="nn-name"><a href="/ttd/edit/#slug=db3g13lr1o3lr1db10lo1~x2&amp;base=b30ly3dy11ly3g33r6~x2">Graeme Heckenberg Hunting</a> <a class="nn-out" href="/variants/s7/db3g13lr1o3lr1db10lo1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db3g13lr1o3lr1db10lo1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g28db9dg18w3~x2&amp;base=b30ly3dy11ly3g33r6~x2">Simple Technology (Corporate)</a> <a class="nn-out" href="/variants/s5/r3g28db9dg18w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3g28db9dg18w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=b32dy16g3lo4dg28~x2&amp;base=b30ly3dy11ly3g33r6~x2">Corey (Name)</a> <a class="nn-out" href="/variants/s5/b32dy16g3lo4dg28~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/b32dy16g3lo4dg28~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=db9w4g36t36r4&amp;base=b30ly3dy11ly3g33r6~x2">Alvis of Lee (Personal)</a> <a class="nn-out" href="/variants/s5/db9w4g36t36r4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db9w4g36t36r4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=g10db42r5dg42g42ly5g10&amp;base=b30ly3dy11ly3g33r6~x2">New Mexico</a> <a class="nn-out" href="/variants/s7/g10db42r5dg42g42ly5g10/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g10db42r5dg42g42ly5g10/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k9lr6n22g28ly2~x2/"><circle cx="230.4" cy="221.8" r="4" fill="#3465a4"><title>Wellington (Lochcarron)</title></circle></a><a href="/variants/s6/gi2lo1gi12lb6g12r1~x4/"><circle cx="246.1" cy="215.0" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/variants/s6/dg6ly3dg26k10n30lb3~x2/"><circle cx="254.3" cy="228.9" r="4" fill="#3465a4"><title>Montrose (1983)</title></circle></a><a href="/variants/s7/g32o7g7o16db32ly3o8~x2/"><circle cx="237.9" cy="236.3" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8r3dg8dp3~x2/"><circle cx="243.3" cy="197.6" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><a href="/variants/s7/db3g13lr1o3lr1db10lo1~x2/"><circle cx="261.5" cy="191.5" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="234.7" cy="232.4" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s5/b32dy16g3lo4dg28~x2/"><circle cx="218.0" cy="238.8" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s5/db9w4g36t36r4/"><circle cx="213.3" cy="216.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s7/g10db42r5dg42g42ly5g10/"><circle cx="187.8" cy="219.0" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><circle cx="216.7" cy="209.7" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/b30ly3dy11ly3g33r6~x2/

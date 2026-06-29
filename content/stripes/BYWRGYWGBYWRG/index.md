@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hogan](/setts/s13/dg49r3w2ly1t3dg19w2ly1dg5r3w2ly1t3~x2/)|
-|![Hogan example sett](/setts/s13/dg49r3w2ly1t3dg19w2ly1dg5r3w2ly1t3~x2/sett.png)|
+| [Hogan](/variants/s13/dg49r3w2ly1t3dg19w2ly1dg5r3w2ly1t3~x2/)|
+|![Hogan example sett](/variants/s13/dg49r3w2ly1t3dg19w2ly1dg5r3w2ly1t3~x2/sett.png)|

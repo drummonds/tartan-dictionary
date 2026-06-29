@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beck Dress (Personal)](/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/)|
-|![Beck Dress (Personal) example sett](/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/sett.png)|
+| [Beck Dress (Personal)](/variants/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/)|
+|![Beck Dress (Personal) example sett](/variants/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/sett.png)|

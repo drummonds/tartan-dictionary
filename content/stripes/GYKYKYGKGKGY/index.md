@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meredith of Wales](/setts/s12/g4ly20k3ly2k3ly20g24k3g2k3g24ly4/)|
-|![Meredith of Wales example sett](/setts/s12/g4ly20k3ly2k3ly20g24k3g2k3g24ly4/sett.png)|
+| [Meredith of Wales](/variants/s12/g4ly20k3ly2k3ly20g24k3g2k3g24ly4/)|
+|![Meredith of Wales example sett](/variants/s12/g4ly20k3ly2k3ly20g24k3g2k3g24ly4/sett.png)|

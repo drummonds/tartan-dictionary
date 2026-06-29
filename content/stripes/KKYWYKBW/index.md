@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Modern Craft (Masonic)](/setts/s8/k108ki4lr4w2lr4ki1db2w2~x2/)|
-|![Modern Craft (Masonic) example sett](/setts/s8/k108ki4lr4w2lr4ki1db2w2~x2/sett.png)|
+| [Modern Craft (Masonic)](/variants/s8/k108ki4lr4w2lr4ki1db2w2~x2/)|
+|![Modern Craft (Masonic) example sett](/variants/s8/k108ki4lr4w2lr4ki1db2w2~x2/sett.png)|

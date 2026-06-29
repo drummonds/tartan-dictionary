@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLachlan Dress](/setts/s7/r36w3lo4g24w24k3lo6~x2/)|
-|![MacLachlan Dress example sett](/setts/s7/r36w3lo4g24w24k3lo6~x2/sett.png)|
+| [MacLachlan Dress](/variants/s7/r36w3lo4g24w24k3lo6~x2/)|
+|![MacLachlan Dress example sett](/variants/s7/r36w3lo4g24w24k3lo6~x2/sett.png)|

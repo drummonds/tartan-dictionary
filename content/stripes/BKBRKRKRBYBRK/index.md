@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brough from Orkney (Name)](/setts/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/)|
-|![Brough from Orkney (Name) example sett](/setts/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/sett.png)|
+| [Brough from Orkney (Name)](/variants/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/)|
+|![Brough from Orkney (Name) example sett](/variants/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/sett.png)|

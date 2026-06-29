@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser Hunting](/setts/s6/r1o4g3o1db3o1~x2/)|
-|![Fraser Hunting example sett](/setts/s6/r1o4g3o1db3o1~x2/sett.png)|
+| [Fraser Hunting](/variants/s6/r1o4g3o1db3o1~x2/)|
+|![Fraser Hunting example sett](/variants/s6/r1o4g3o1db3o1~x2/sett.png)|

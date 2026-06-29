@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Little of Morton Rigg](/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/)|
-|![Little of Morton Rigg example sett](/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/sett.png)|
+| [Little of Morton Rigg](/variants/s10/k4w4k4w4k4r8k2r8k8lo1~x4/)|
+|![Little of Morton Rigg example sett](/variants/s10/k4w4k4w4k4r8k2r8k8lo1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sackett (Name)](/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/)|
-|![Sackett (Name) example sett](/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/sett.png)|
+| [Sackett (Name)](/variants/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/)|
+|![Sackett (Name) example sett](/variants/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holehouse, Dag (Personal)](/setts/s5/g22dy40n8k9o1~x2/)|
-|![Holehouse, Dag (Personal) example sett](/setts/s5/g22dy40n8k9o1~x2/sett.png)|
+| [Holehouse, Dag (Personal)](/variants/s5/g22dy40n8k9o1~x2/)|
+|![Holehouse, Dag (Personal) example sett](/variants/s5/g22dy40n8k9o1~x2/sett.png)|

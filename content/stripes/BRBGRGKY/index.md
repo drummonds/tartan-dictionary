@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Craik of Assington (Personal)](/setts/s8/db4r11db1g8r2g4k1lo2~x4/)|
-|![Craik of Assington (Personal) example sett](/setts/s8/db4r11db1g8r2g4k1lo2~x4/sett.png)|
-| [Craik, of Assington](/setts/s8/db4r11db1g8r2g4k1ly2~x4/)|
-|![Craik, of Assington example sett](/setts/s8/db4r11db1g8r2g4k1ly2~x4/sett.png)|
+| [Craik of Assington (Personal)](/variants/s8/db4r11db1g8r2g4k1lo2~x4/)|
+|![Craik of Assington (Personal) example sett](/variants/s8/db4r11db1g8r2g4k1lo2~x4/sett.png)|
+| [Craik, of Assington](/variants/s8/db4r11db1g8r2g4k1ly2~x4/)|
+|![Craik, of Assington example sett](/variants/s8/db4r11db1g8r2g4k1ly2~x4/sett.png)|

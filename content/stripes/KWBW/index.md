@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hogg](/setts/s4/k1w1do1~x8/)|
-|![Hogg example sett](/setts/s4/k1w1do1~x8/sett.png)|
+| [Hogg](/variants/s4/k1w1do1~x8/)|
+|![Hogg example sett](/variants/s4/k1w1do1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Niagara Region](/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/)|
-|![Niagara Region example sett](/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/sett.png)|
+| [Niagara Region](/variants/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/)|
+|![Niagara Region example sett](/variants/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/sett.png)|

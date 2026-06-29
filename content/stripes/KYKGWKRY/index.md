@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilkenny County Crest (Fashion)](/setts/s8/lo6r8k4w6y16k13lr19k5~x2/)|
-|![Kilkenny County Crest (Fashion) example sett](/setts/s8/lo6r8k4w6y16k13lr19k5~x2/sett.png)|
+| [Kilkenny County Crest (Fashion)](/variants/s8/lo6r8k4w6y16k13lr19k5~x2/)|
+|![Kilkenny County Crest (Fashion) example sett](/variants/s8/lo6r8k4w6y16k13lr19k5~x2/sett.png)|

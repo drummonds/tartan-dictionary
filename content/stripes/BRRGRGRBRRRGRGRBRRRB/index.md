@@ -24,7 +24,7 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDougal 2](/setts/s20/t1ri12r4g72r8g4r8db18ri12r4ri12g18r18g18r8db4r72ri6r4t1~x2/)|
-|![MacDougal 2 example sett](/setts/s20/t1ri12r4g72r8g4r8db18ri12r4ri12g18r18g18r8db4r72ri6r4t1~x2/sett.png)|
-| [MacDougall (Logan)](/setts/s20/t1ri12r4dg72r8dg4r8db18ri12r4ri12dg18r18dg18r8db4r72ri6r4t1~x2/)|
-|![MacDougall (Logan) example sett](/setts/s20/t1ri12r4dg72r8dg4r8db18ri12r4ri12dg18r18dg18r8db4r72ri6r4t1~x2/sett.png)|
+| [MacDougal 2](/variants/s20/t1ri12r4g72r8g4r8db18ri12r4ri12g18r18g18r8db4r72ri6r4t1~x2/)|
+|![MacDougal 2 example sett](/variants/s20/t1ri12r4g72r8g4r8db18ri12r4ri12g18r18g18r8db4r72ri6r4t1~x2/sett.png)|
+| [MacDougall (Logan)](/variants/s20/t1ri12r4dg72r8dg4r8db18ri12r4ri12dg18r18dg18r8db4r72ri6r4t1~x2/)|
+|![MacDougall (Logan) example sett](/variants/s20/t1ri12r4dg72r8dg4r8db18ri12r4ri12dg18r18dg18r8db4r72ri6r4t1~x2/sett.png)|

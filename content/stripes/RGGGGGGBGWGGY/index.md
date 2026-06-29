@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Field Gun Association](/setts/s13/r2dg12g3dg2g2dg2g16t4dg12w1g8dg14ly2~x2/)|
-|![Field Gun Association example sett](/setts/s13/r2dg12g3dg2g2dg2g16t4dg12w1g8dg14ly2~x2/sett.png)|
+| [Field Gun Association](/variants/s13/r2dg12g3dg2g2dg2g16t4dg12w1g8dg14ly2~x2/)|
+|![Field Gun Association example sett](/variants/s13/r2dg12g3dg2g2dg2g16t4dg12w1g8dg14ly2~x2/sett.png)|

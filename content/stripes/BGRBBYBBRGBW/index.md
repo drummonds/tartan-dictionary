@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roseline](/setts/s12/db5dg9r3db18dr80ly3dr40db18r3dg9db5w2~x2/)|
-|![Roseline example sett](/setts/s12/db5dg9r3db18dr80ly3dr40db18r3dg9db5w2~x2/sett.png)|
+| [Roseline](/variants/s12/db5dg9r3db18dr80ly3dr40db18r3dg9db5w2~x2/)|
+|![Roseline example sett](/variants/s12/db5dg9r3db18dr80ly3dr40db18r3dg9db5w2~x2/sett.png)|

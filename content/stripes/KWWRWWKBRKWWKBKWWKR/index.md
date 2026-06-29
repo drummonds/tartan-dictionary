@@ -24,7 +24,7 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [J.C.M. Customs](/setts/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/)|
-|![J.C.M. Customs example sett](/setts/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/sett.png)|
-| [JCM Customs](/setts/s19/k3w1wi1r5wi1w1k1db1r1k1w1wi1k1db4k1wi1w4k40r3~x2/)|
-|![JCM Customs example sett](/setts/s19/k3w1wi1r5wi1w1k1db1r1k1w1wi1k1db4k1wi1w4k40r3~x2/sett.png)|
+| [J.C.M. Customs](/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/)|
+|![J.C.M. Customs example sett](/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/sett.png)|
+| [JCM Customs](/variants/s19/k3w1wi1r5wi1w1k1db1r1k1w1wi1k1db4k1wi1w4k40r3~x2/)|
+|![JCM Customs example sett](/variants/s19/k3w1wi1r5wi1w1k1db1r1k1w1wi1k1db4k1wi1w4k40r3~x2/sett.png)|

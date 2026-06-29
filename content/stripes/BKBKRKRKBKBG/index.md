@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silver Thistle](/setts/s12/k4o2k46dbi20k6db3g4~x2/)|
-|![Silver Thistle example sett](/setts/s12/k4o2k46dbi20k6db3g4~x2/sett.png)|
+| [Silver Thistle](/variants/s12/k4o2k46dbi20k6db3g4~x2/)|
+|![Silver Thistle example sett](/variants/s12/k4o2k46dbi20k6db3g4~x2/sett.png)|

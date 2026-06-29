@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunbar of Pitgaveny](/setts/s3/r1y19w1~x2/)|
-|![Dunbar of Pitgaveny example sett](/setts/s3/r1y19w1~x2/sett.png)|
+| [Dunbar of Pitgaveny](/variants/s3/r1y19w1~x2/)|
+|![Dunbar of Pitgaveny example sett](/variants/s3/r1y19w1~x2/sett.png)|

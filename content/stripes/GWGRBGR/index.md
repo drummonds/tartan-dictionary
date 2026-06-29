@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Shield (Personal)](/setts/s7/r5dg8do13o21y34w55dg3/)|
-|![Canadian Shield (Personal) example sett](/setts/s7/r5dg8do13o21y34w55dg3/sett.png)|
+| [Canadian Shield (Personal)](/variants/s7/r5dg8do13o21y34w55dg3/)|
+|![Canadian Shield (Personal) example sett](/variants/s7/r5dg8do13o21y34w55dg3/sett.png)|

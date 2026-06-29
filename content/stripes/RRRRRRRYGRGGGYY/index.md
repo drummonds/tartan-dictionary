@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dixon, Clyde (Personal)](/setts/s15/lg2ly1g2dg8g8o9g3ly2r1o1r1o1r1o1r1~x2/)|
-|![Dixon, Clyde (Personal) example sett](/setts/s15/lg2ly1g2dg8g8o9g3ly2r1o1r1o1r1o1r1~x2/sett.png)|
+| [Dixon, Clyde (Personal)](/variants/s15/lg2ly1g2dg8g8o9g3ly2r1o1r1o1r1o1r1~x2/)|
+|![Dixon, Clyde (Personal) example sett](/variants/s15/lg2ly1g2dg8g8o9g3ly2r1o1r1o1r1o1r1~x2/sett.png)|

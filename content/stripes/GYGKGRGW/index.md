@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hanby (Personal)](/setts/s8/g21ly10g20k3g10r3g10w3~x2/)|
-|![Hanby (Personal) example sett](/setts/s8/g21ly10g20k3g10r3g10w3~x2/sett.png)|
+| [Hanby (Personal)](/variants/s8/g21ly10g20k3g10r3g10w3~x2/)|
+|![Hanby (Personal) example sett](/variants/s8/g21ly10g20k3g10r3g10w3~x2/sett.png)|

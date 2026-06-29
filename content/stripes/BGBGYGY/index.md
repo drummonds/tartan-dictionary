@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bannockbane Brown #2](/setts/s7/db3y2db30y19lo14y2lo3~x2/)|
-|![Bannockbane Brown #2 example sett](/setts/s7/db3y2db30y19lo14y2lo3~x2/sett.png)|
+| [Bannockbane Brown #2](/variants/s7/db3y2db30y19lo14y2lo3~x2/)|
+|![Bannockbane Brown #2 example sett](/variants/s7/db3y2db30y19lo14y2lo3~x2/sett.png)|

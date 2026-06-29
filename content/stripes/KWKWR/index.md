@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks - House Check, C.6700.03](/setts/s5/k3w7k4w6o3~x2/)|
-|![Daks - House Check, C.6700.03 example sett](/setts/s5/k3w7k4w6o3~x2/sett.png)|
-| [McPartlin (Personal)](/setts/s5/k27w29k5w14r2~x2/)|
-|![McPartlin (Personal) example sett](/setts/s5/k27w29k5w14r2~x2/sett.png)|
+| [Daks - House Check, C.6700.03](/variants/s5/k3w7k4w6o3~x2/)|
+|![Daks - House Check, C.6700.03 example sett](/variants/s5/k3w7k4w6o3~x2/sett.png)|
+| [McPartlin (Personal)](/variants/s5/k27w29k5w14r2~x2/)|
+|![McPartlin (Personal) example sett](/variants/s5/k27w29k5w14r2~x2/sett.png)|

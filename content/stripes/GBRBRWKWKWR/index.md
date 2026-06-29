@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norham and Ladykirk](/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/)|
-|![Norham and Ladykirk example sett](/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/sett.png)|
+| [Norham and Ladykirk](/variants/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/)|
+|![Norham and Ladykirk example sett](/variants/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/sett.png)|

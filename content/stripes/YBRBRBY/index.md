@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lion Brand Sportswear](/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/)|
-|![Lion Brand Sportswear example sett](/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/sett.png)|
+| [Lion Brand Sportswear](/variants/s7/lr4dt1r15dt42r6dt4lo1~x2/)|
+|![Lion Brand Sportswear example sett](/variants/s7/lr4dt1r15dt42r6dt4lo1~x2/sett.png)|

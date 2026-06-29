@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braid (Estimated threadcount)](/setts/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/)|
-|![Braid (Estimated threadcount) example sett](/setts/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/sett.png)|
+| [Braid (Estimated threadcount)](/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/)|
+|![Braid (Estimated threadcount) example sett](/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/sett.png)|

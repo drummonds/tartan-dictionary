@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lemania](/setts/s8/g12db3g3db3g3k15lg20b3~x2/)|
-|![Lemania example sett](/setts/s8/g12db3g3db3g3k15lg20b3~x2/sett.png)|
+| [Lemania](/variants/s8/g12db3g3db3g3k15lg20b3~x2/)|
+|![Lemania example sett](/variants/s8/g12db3g3db3g3k15lg20b3~x2/sett.png)|

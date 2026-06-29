@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilbers](/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/)|
-|![Wilbers example sett](/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/sett.png)|
+| [Wilbers](/variants/s8/ly5k9ly2k7lo35r4lo35k4~x2/)|
+|![Wilbers example sett](/variants/s8/ly5k9ly2k7lo35r4lo35k4~x2/sett.png)|

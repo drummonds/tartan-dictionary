@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saskatchewan Dress (Dance)](/setts/s8/w2k1g6dy11w26r2w1ly2~x2/)|
-|![Saskatchewan Dress (Dance) example sett](/setts/s8/w2k1g6dy11w26r2w1ly2~x2/sett.png)|
+| [Saskatchewan Dress (Dance)](/variants/s8/w2k1g6dy11w26r2w1ly2~x2/)|
+|![Saskatchewan Dress (Dance) example sett](/variants/s8/w2k1g6dy11w26r2w1ly2~x2/sett.png)|

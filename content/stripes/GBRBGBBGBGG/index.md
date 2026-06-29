@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Williams (Fashion)](/setts/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/)|
-|![Williams (Fashion) example sett](/setts/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/sett.png)|
+| [Williams (Fashion)](/variants/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/)|
+|![Williams (Fashion) example sett](/variants/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/sett.png)|

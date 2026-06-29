@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corey in Balachuirn](/setts/s5/b32do16dg3o4k28~x2/)|
-|![Corey in Balachuirn example sett](/setts/s5/b32do16dg3o4k28~x2/sett.png)|
+| [Corey in Balachuirn](/variants/s5/b32do16dg3o4k28~x2/)|
+|![Corey in Balachuirn example sett](/variants/s5/b32do16dg3o4k28~x2/sett.png)|

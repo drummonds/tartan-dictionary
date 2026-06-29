@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Utah Valley University](/setts/s8/k3w7dg3k16dg17w1dg8k1~x2/)|
-|![Utah Valley University example sett](/setts/s8/k3w7dg3k16dg17w1dg8k1~x2/sett.png)|
+| [Utah Valley University](/variants/s8/k3w7dg3k16dg17w1dg8k1~x2/)|
+|![Utah Valley University example sett](/variants/s8/k3w7dg3k16dg17w1dg8k1~x2/sett.png)|

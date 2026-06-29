@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crane of Clunie](/setts/s8/g165k12g6k18r4k10g4y4/)|
-|![Crane of Clunie example sett](/setts/s8/g165k12g6k18r4k10g4y4/sett.png)|
+| [Crane of Clunie](/variants/s8/g165k12g6k18r4k10g4y4/)|
+|![Crane of Clunie example sett](/variants/s8/g165k12g6k18r4k10g4y4/sett.png)|

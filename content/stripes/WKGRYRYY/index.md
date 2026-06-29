@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saskatchewan](/setts/s8/w2k1dg6o11lo26r2lo1ly2~x2/)|
-|![Saskatchewan example sett](/setts/s8/w2k1dg6o11lo26r2lo1ly2~x2/sett.png)|
+| [Saskatchewan](/variants/s8/w2k1dg6o11lo26r2lo1ly2~x2/)|
+|![Saskatchewan example sett](/variants/s8/w2k1dg6o11lo26r2lo1ly2~x2/sett.png)|

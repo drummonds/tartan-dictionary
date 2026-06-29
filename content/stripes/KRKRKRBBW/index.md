@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Real Mary King's Close, The](/setts/s9/k2r2k15o2k4o2n9do27w2~x2/)|
-|![Real Mary King's Close, The example sett](/setts/s9/k2r2k15o2k4o2n9do27w2~x2/sett.png)|
+| [Real Mary King's Close, The](/variants/s9/k2r2k15o2k4o2n9do27w2~x2/)|
+|![Real Mary King's Close, The example sett](/variants/s9/k2r2k15o2k4o2n9do27w2~x2/sett.png)|

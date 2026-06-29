@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laksaa](/setts/s8/y21k2y2k2y2k15w17k3~x2/)|
-|![Laksaa example sett](/setts/s8/y21k2y2k2y2k15w17k3~x2/sett.png)|
+| [Laksaa](/variants/s8/y21k2y2k2y2k15w17k3~x2/)|
+|![Laksaa example sett](/variants/s8/y21k2y2k2y2k15w17k3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rosser of Wales](/setts/s6/dg16k57r36k2r4dg2/)|
-|![Rosser of Wales example sett](/setts/s6/dg16k57r36k2r4dg2/sett.png)|
+| [Rosser of Wales](/variants/s6/dg16k57r36k2r4dg2/)|
+|![Rosser of Wales example sett](/variants/s6/dg16k57r36k2r4dg2/sett.png)|

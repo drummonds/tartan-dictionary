@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling University (Corporate)](/setts/s8/g22r3w1g2r3t16k3ly2~x4/)|
-|![Stirling University (Corporate) example sett](/setts/s8/g22r3w1g2r3t16k3ly2~x4/sett.png)|
+| [Stirling University (Corporate)](/variants/s8/g22r3w1g2r3t16k3ly2~x4/)|
+|![Stirling University (Corporate) example sett](/variants/s8/g22r3w1g2r3t16k3ly2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotia](/setts/s9/w4db58g28o4w18db14r3db8ly4/)|
-|![Scotia example sett](/setts/s9/w4db58g28o4w18db14r3db8ly4/sett.png)|
+| [Scotia](/variants/s9/w4db58g28o4w18db14r3db8ly4/)|
+|![Scotia example sett](/variants/s9/w4db58g28o4w18db14r3db8ly4/sett.png)|

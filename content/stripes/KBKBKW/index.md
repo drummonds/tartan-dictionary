@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swan, Brian E](/setts/s6/k6db17k6db17k27w3~x2/)|
-|![Swan, Brian E example sett](/setts/s6/k6db17k6db17k27w3~x2/sett.png)|
+| [Swan, Brian E](/variants/s6/k6db17k6db17k27w3~x2/)|
+|![Swan, Brian E example sett](/variants/s6/k6db17k6db17k27w3~x2/sett.png)|

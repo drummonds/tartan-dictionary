@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Richmond de Ellel (Personal)](/setts/s7/k5lo25k10r3k10lo25w5~x2/)|
-|![Richmond de Ellel (Personal) example sett](/setts/s7/k5lo25k10r3k10lo25w5~x2/sett.png)|
+| [Richmond de Ellel (Personal)](/variants/s7/k5lo25k10r3k10lo25w5~x2/)|
+|![Richmond de Ellel (Personal) example sett](/variants/s7/k5lo25k10r3k10lo25w5~x2/sett.png)|

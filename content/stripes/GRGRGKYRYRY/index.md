@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenmorangie (Corporate)](/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/)|
-|![Glenmorangie (Corporate) example sett](/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/sett.png)|
+| [Glenmorangie (Corporate)](/variants/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/)|
+|![Glenmorangie (Corporate) example sett](/variants/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/sett.png)|

@@ -1,24 +1,40 @@
 ---
-title: "Shaw of Tordarroch"
+title: "Shaw of Tordarroch,"
 date: 2023-03-18
 ---
 A family of [Clan Shaw](/clan/shaw/).
 
-**Trove of Scotland:** [search “Tordarroch”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Tordarroch&viewmode=grid)
+**Trove of Scotland:** [search “Tordarroch,”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Tordarroch%2C&viewmode=grid)
 
-## Tartan
+## Tartans
 
-<a class="tartan" href="/setts/s14/t5k1r30dp15r8g30r8dp2~x2/"><img src="/setts/s14/t5k1r30dp15r8g30r8dp2~x2/sett.png" alt="Shaw of Tordarroch Red (Dress)" width="240"><br>Shaw of Tordarroch Red (Dress)</a>
+### Shaw of Tordarroch
 
-## Other tartans
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/t5k1r30dp15r8g30r8dp2/">Shaw of Tordarroch</a> ★</td><td><code>T/10 K2 R60 DP30 R16 G60 R16 DP4 R16 G60 R16 DP30 R60 K/2</code></td><td>3</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t5k1r30dp15r8g30r8dp2/"><img src="/variants/s14/t5k1r30dp15r8g30r8dp2~x2/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/t5k1g30db15r8g30r8db2/">Green (Hunting)</a></td><td><code>T/10 K2 G60 DB30 R16 G60 R16 DB4 R16 G60 R16 DB30 G60 K/2</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t5k1g30db15r8g30r8db2/"><img src="/variants/s14/t5k1g30db15r8g30r8db2~x2/sett.png" alt="Green (Hunting) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/t5k1r30p15r8g30r8p2/">Shaw of Tordarroch</a></td><td><code>T/10 K2 R60 P30 R16 G60 R16 P/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t5k1r30p15r8g30r8p2/"><img src="/variants/s8/t5k1r30p15r8g30r8p2~x2/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s8/t5k1r30dp15r8g30r8dp2~x2/"><img src="/setts/s8/t5k1r30dp15r8g30r8dp2~x2/sett.png" alt="Shaw Red of Tordarroch Dress (Clan 2" width="140"><br>Shaw Red of Tordarroch Dress (Clan 2</a></li>
-<li><a class="tartan" href="/setts/s8/t5k1r30p15r8g30r8p2~x2/"><img src="/setts/s8/t5k1r30p15r8g30r8p2~x2/sett.png" alt="Shaw of Tordarroch" width="140"><br>Shaw of Tordarroch</a></li>
-<li><a class="tartan" href="/setts/s8/t5k1r30dp15r8g30r8dp2/"><img src="/setts/s8/t5k1r30dp15r8g30r8dp2/sett.png" alt="Shaw of Tordarroch Clan Tartan Tartan Number: 352. Earliest known date: 1969 When Major C.J. Shaw of Tordarroch, matriculated and became the first chief of the Clan for some 400 years, he had a new tartan designed, which reflects the Clan's Mackintosh ancestry. He specifically states that the old design is still perfectly acceptable and approves its continued use by all members of the Clan. Donald Stewart, who designed the new sett, is the author of 'The Setts of the Scottish Tartans', the first comprehensive record of tartan patterns, published in 1950. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Shaw of Tordarroch Clan Tartan Tartan Number: 352. Earliest known date: 1969 When Major C.J. Shaw of Tordarroch, matriculated and became the first chief of the Clan for some 400 years, he had a new tartan designed, which reflects the Clan's Mackintosh ancestry. He specifically states that the old design is still perfectly acceptable and approves its continued use by all members of the Clan. Donald Stewart, who designed the new sett, is the author of 'The Setts of the Scottish Tartans', the first comprehensive record of tartan patterns, published in 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-<li><a class="tartan" href="/setts/s8/t5k1g30db15r8g30r8db2~x2/"><img src="/setts/s8/t5k1g30db15r8g30r8db2~x2/sett.png" alt="Shaw of Tordarroch Green (Htg) (Clan" width="140"><br>Shaw of Tordarroch Green (Htg) (Clan</a></li>
-<li><a class="tartan" href="/setts/s14/t5k1g30db15r8g30r8db2~x2/"><img src="/setts/s14/t5k1g30db15r8g30r8db2~x2/sett.png" alt="Shaw of Tordarroch Green (Hunting)" width="140"><br>Shaw of Tordarroch Green (Hunting)</a></li>
-<li><a class="tartan" href="/setts/s8/t5k1y30dp15r8y30r8dp2/"><img src="/setts/s8/t5k1y30dp15r8y30r8dp2/sett.png" alt="Shaw of Tordarroch Hunting Clan Tartan Tartan Number: 318. Earliest known date: 1969 Also known as 'Green Shaw of Tordarroch'. Green is 'Sage Green' Proportionally reduced for display. (50%) See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Shaw of Tordarroch Hunting Clan Tartan Tartan Number: 318. Earliest known date: 1969 Also known as 'Green Shaw of Tordarroch'. Green is 'Sage Green' Proportionally reduced for display. (50%) See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-<li><a class="tartan" href="/setts/s8/t5k1y30p15r8y30r8p2~x2/"><img src="/setts/s8/t5k1y30p15r8y30r8p2~x2/sett.png" alt="Shaw of Tordarroch, hunting" width="140"><br>Shaw of Tordarroch, hunting</a></li>
-</ul>
+[See the Shaw of Tordarroch tartan and all its setts →](/tartans/shaw-of-tordarroch/)
+
+### Shaw of Tordarroch Hunting
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/t5k1y30dp15r8y30r8dp2/">Shaw of Tordarroch Hunting</a> ★</td><td><code>T/5 K1 Y30 DP15 R8 Y30 R8 DP/2</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t5k1y30dp15r8y30r8dp2/"><img src="/variants/s8/t5k1y30dp15r8y30r8dp2/sett.png" alt="Shaw of Tordarroch Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/t5k1y30p15r8y30r8p2/">Shaw of Tordarroch, hunting</a></td><td><code>T/10 K2 Y60 P30 R16 Y60 R16 P/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/t5k1y30p15r8y30r8p2/"><img src="/variants/s8/t5k1y30p15r8y30r8p2~x2/sett.png" alt="Shaw of Tordarroch, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+[See the Shaw of Tordarroch Hunting tartan and all its setts →](/tartans/shaw-of-tordarroch-hunting/)
 

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manitoba Dress (1958) (District)](/setts/s8/db4w1db2w18g3w1r9ly4~x4/)|
-|![Manitoba Dress (1958) (District) example sett](/setts/s8/db4w1db2w18g3w1r9ly4~x4/sett.png)|
+| [Manitoba Dress (1958) (District)](/variants/s8/db4w1db2w18g3w1r9ly4~x4/)|
+|![Manitoba Dress (1958) (District) example sett](/variants/s8/db4w1db2w18g3w1r9ly4~x4/sett.png)|

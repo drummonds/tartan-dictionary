@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Highland, The (Fashion)](/setts/s6/db2dg15do3db7dg7db2~x4/)|
-|![Green Highland, The (Fashion) example sett](/setts/s6/db2dg15do3db7dg7db2~x4/sett.png)|
+| [Green Highland, The (Fashion)](/variants/s6/db2dg15do3db7dg7db2~x4/)|
+|![Green Highland, The (Fashion) example sett](/variants/s6/db2dg15do3db7dg7db2~x4/sett.png)|

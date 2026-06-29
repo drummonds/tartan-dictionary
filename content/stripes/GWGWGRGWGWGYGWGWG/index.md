@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jubilee (Artefact)](/setts/s17/g3lb24g8lb12g44r6g44lb48g6lb48g44lo6g44lb12g8lb24g3/)|
-|![Jubilee (Artefact) example sett](/setts/s17/g3lb24g8lb12g44r6g44lb48g6lb48g44lo6g44lb12g8lb24g3/sett.png)|
+| [Jubilee (Artefact)](/variants/s17/g3lb24g8lb12g44r6g44lb48g6lb48g44lo6g44lb12g8lb24g3/)|
+|![Jubilee (Artefact) example sett](/variants/s17/g3lb24g8lb12g44r6g44lb48g6lb48g44lo6g44lb12g8lb24g3/sett.png)|

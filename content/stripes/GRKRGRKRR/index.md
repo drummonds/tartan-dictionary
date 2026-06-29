@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seaforth (Estate Check)](/tartans/r1o1k1o1y1o1k1o1y1/)|
-|![Seaforth (Estate Check) example sett](/setts/s9/r1o1k1o1y1o1k1o1y1~x6/sett.png)|
+| [Seaforth (Estate Check)](/setts/r1o1k1o1y1o1k1o1y1/)|
+|![Seaforth (Estate Check) example sett](/variants/s9/r1o1k1o1y1o1k1o1y1~x6/sett.png)|

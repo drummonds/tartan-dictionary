@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Parkin](/setts/s8/w3dt9ly1lb3dp9lb1dt40dp2~x2/)|
-|![Parkin example sett](/setts/s8/w3dt9ly1lb3dp9lb1dt40dp2~x2/sett.png)|
+| [Parkin](/variants/s8/w3dt9ly1lb3dp9lb1dt40dp2~x2/)|
+|![Parkin example sett](/variants/s8/w3dt9ly1lb3dp9lb1dt40dp2~x2/sett.png)|

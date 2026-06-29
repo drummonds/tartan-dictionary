@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hugh Fraser of Boblainy](/setts/s5/r1r14g7db7r1~x4/)|
-|![Hugh Fraser of Boblainy example sett](/setts/s5/r1r14g7db7r1~x4/sett.png)|
+| [Hugh Fraser of Boblainy](/variants/s5/r1r14g7db7r1~x4/)|
+|![Hugh Fraser of Boblainy example sett](/variants/s5/r1r14g7db7r1~x4/sett.png)|

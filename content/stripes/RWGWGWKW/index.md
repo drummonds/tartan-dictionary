@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Piran Dress](/setts/s8/r4w19dg2w8dg2w8k38w4~x2/)|
-|![St. Piran Dress example sett](/setts/s8/r4w19dg2w8dg2w8k38w4~x2/sett.png)|
+| [St. Piran Dress](/variants/s8/r4w19dg2w8dg2w8k38w4~x2/)|
+|![St. Piran Dress example sett](/variants/s8/r4w19dg2w8dg2w8k38w4~x2/sett.png)|

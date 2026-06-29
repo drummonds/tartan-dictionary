@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rocket Dog (Fashion)](/setts/s7/k9r9k25w30k5w5r7/)|
-|![Rocket Dog (Fashion) example sett](/setts/s7/k9r9k25w30k5w5r7/sett.png)|
+| [Rocket Dog (Fashion)](/variants/s7/k9r9k25w30k5w5r7/)|
+|![Rocket Dog (Fashion) example sett](/variants/s7/k9r9k25w30k5w5r7/sett.png)|

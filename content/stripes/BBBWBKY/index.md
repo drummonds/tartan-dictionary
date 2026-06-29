@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New York State Troopers](/setts/s7/n6dp4n2w2n25k26ly4~x2/)|
-|![New York State Troopers example sett](/setts/s7/n6dp4n2w2n25k26ly4~x2/sett.png)|
+| [New York State Troopers](/variants/s7/n6dp4n2w2n25k26ly4~x2/)|
+|![New York State Troopers example sett](/variants/s7/n6dp4n2w2n25k26ly4~x2/sett.png)|

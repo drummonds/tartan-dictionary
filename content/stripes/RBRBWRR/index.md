@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barbour Dress](/setts/s7/o4do2o21db11w2oi20r3~x2/)|
-|![Barbour Dress example sett](/setts/s7/o4do2o21db11w2oi20r3~x2/sett.png)|
+| [Barbour Dress](/variants/s7/o4do2o21db11w2oi20r3~x2/)|
+|![Barbour Dress example sett](/variants/s7/o4do2o21db11w2oi20r3~x2/sett.png)|

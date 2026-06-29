@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orange Fanaticos (Corporate)](/setts/s7/t12lo75k22w12k22w16t8/)|
-|![Orange Fanaticos (Corporate) example sett](/setts/s7/t12lo75k22w12k22w16t8/sett.png)|
+| [Orange Fanaticos (Corporate)](/variants/s7/t12lo75k22w12k22w16t8/)|
+|![Orange Fanaticos (Corporate) example sett](/variants/s7/t12lo75k22w12k22w16t8/sett.png)|

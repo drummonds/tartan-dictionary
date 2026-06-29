@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Humming Bird (Fashion)](/setts/s8/r6t3m20ly2k20w20k2w5~x2/)|
-|![Humming Bird (Fashion) example sett](/setts/s8/r6t3m20ly2k20w20k2w5~x2/sett.png)|
+| [Humming Bird (Fashion)](/variants/s8/r6t3m20ly2k20w20k2w5~x2/)|
+|![Humming Bird (Fashion) example sett](/variants/s8/r6t3m20ly2k20w20k2w5~x2/sett.png)|

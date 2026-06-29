@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bundy, Dress Red (Personal Dance)](/setts/s8/k1r1w1r15w15r1w1k1~x4/)|
-|![Bundy, Dress Red (Personal Dance) example sett](/setts/s8/k1r1w1r15w15r1w1k1~x4/sett.png)|
+| [Bundy, Dress Red (Personal Dance)](/variants/s8/k1r1w1r15w15r1w1k1~x4/)|
+|![Bundy, Dress Red (Personal Dance) example sett](/variants/s8/k1r1w1r15w15r1w1k1~x4/sett.png)|

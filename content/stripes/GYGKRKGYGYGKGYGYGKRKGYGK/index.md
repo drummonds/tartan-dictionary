@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenshields (Personal)](/setts/s24/g20ly4g18k16r3k10g4ly26g20ly4g20k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/)|
-|![Greenshields (Personal) example sett](/setts/s24/g20ly4g18k16r3k10g4ly26g20ly4g20k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/sett.png)|
+| [Greenshields (Personal)](/variants/s24/g20ly4g18k16r3k10g4ly26g20ly4g20k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/)|
+|![Greenshields (Personal) example sett](/variants/s24/g20ly4g18k16r3k10g4ly26g20ly4g20k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/sett.png)|

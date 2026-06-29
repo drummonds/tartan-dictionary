@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Newfoundland](/setts/s7/r4g3o8w3o4g18ly3~x2/)|
-|![Newfoundland example sett](/setts/s7/r4g3o8w3o4g18ly3~x2/sett.png)|
+| [Newfoundland](/variants/s7/r4g3o8w3o4g18ly3~x2/)|
+|![Newfoundland example sett](/variants/s7/r4g3o8w3o4g18ly3~x2/sett.png)|

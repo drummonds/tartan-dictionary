@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNeish Htg](/setts/s11/r6g3k3o24g4k10g4r2g24r6g2~x2/)|
-|![MacNeish Htg example sett](/setts/s11/r6g3k3o24g4k10g4r2g24r6g2~x2/sett.png)|
+| [MacNeish Htg](/variants/s11/r6g3k3o24g4k10g4r2g24r6g2~x2/)|
+|![MacNeish Htg example sett](/variants/s11/r6g3k3o24g4k10g4r2g24r6g2~x2/sett.png)|

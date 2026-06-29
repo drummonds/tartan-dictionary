@@ -24,5 +24,5 @@ It is a 29 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shearer](/setts/s29/r2g4o2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11o2g4r2~x2/)|
-|![Shearer example sett](/setts/s29/r2g4o2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11o2g4r2~x2/sett.png)|
+| [Shearer](/variants/s29/r2g4o2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11o2g4r2~x2/)|
+|![Shearer example sett](/variants/s29/r2g4o2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11o2g4r2~x2/sett.png)|

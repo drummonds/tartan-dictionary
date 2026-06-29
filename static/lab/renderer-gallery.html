@@ -69,7 +69,7 @@ related setts) the slug alone can't carry.</p>
 
 <div class="card">
   <h2>Name &amp; identity</h2>
-  <div class="row dyn"><span class="lbl">Go internal renderer<small>title · registryRefOf · tartanURL</small></span><div class="out" id="d-name"></div></div>
+  <div class="row dyn"><span class="lbl">Go internal renderer<small>title · registryRefOf · settURL</small></span><div class="out" id="d-name"></div></div>
   <div class="row sta"><span class="lbl">Static site<small>+ story heading</small></span><div class="out note" id="s-name"></div></div>
 </div>
 
@@ -148,19 +148,19 @@ related setts) the slug alone can't carry.</p>
   <p class="note">Drummond of Megginch — its tartans; note some entries link straight to a sett page.</p>
   <iframe class="pageframe" loading="lazy" title="Drummond of Megginch family" src="/families/drummond-of-megginch/"></iframe>
 
-  <h3>A tartan page <a class="lnk" href="/tartans/g14w1g7k7db2k2db2k2db7/" target="_blank" rel="noopener">↗ open</a></h3>
+  <h3>A tartan page <a class="lnk" href="/setts/g14w1g7k7db2k2db2k2db7/" target="_blank" rel="noopener">↗ open</a></h3>
   <p class="note">The named master sett, scale-independent (name, aliases, related setts, story) — the
   tartan-tier identity of the sett below.</p>
-  <iframe class="pageframe" loading="lazy" title="a tartan page" src="/tartans/g14w1g7k7db2k2db2k2db7/"></iframe>
+  <iframe class="pageframe" loading="lazy" title="a tartan page" src="/setts/g14w1g7k7db2k2db2k2db7/"></iframe>
 
-  <h3>A sett page <a class="lnk" href="/setts/s9/g14w1g7k7db2k2db2k2db7~x4/" target="_blank" rel="noopener">↗ open</a></h3>
+  <h3>A sett page <a class="lnk" href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/" target="_blank" rel="noopener">↗ open</a></h3>
   <p class="note">A specific variant (sett + scale) — what a family entry often links to directly. This
   is the variant-tier view of the tartan above.</p>
-  <iframe class="pageframe" loading="lazy" title="a sett page" src="/setts/s9/g14w1g7k7db2k2db2k2db7~x4/"></iframe>
+  <iframe class="pageframe" loading="lazy" title="a sett page" src="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"></iframe>
 
-  <h3>A sett page with attestations <a class="lnk" href="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/" target="_blank" rel="noopener">↗ open</a></h3>
+  <h3>A sett page with attestations <a class="lnk" href="/variants/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/" target="_blank" rel="noopener">↗ open</a></h3>
   <p class="note">A variant recorded by more than one source — the attestations list each dated witness.</p>
-  <iframe class="pageframe" loading="lazy" title="a sett page with attestations" src="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"></iframe>
+  <iframe class="pageframe" loading="lazy" title="a sett page with attestations" src="/variants/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"></iframe>
 </div>
 
 <script src="/wasm/wasm_exec.js"></script>
@@ -306,18 +306,18 @@ related setts) the slug alone can't carry.</p>
 
       // Name & identity. The SRT badge shows the register's emblem (replacing the letters "SRT")
       // plus the ref, and only appears for a registered sett. A second badge links back to this
-      // tartan's Tartan Dictionary master-sett entry (its /tartans/ page).
+      // tartan's Tartan Dictionary master-sett entry (its /setts/ page).
       var srtBadge = ref
         ? ' <a class="badge srt" target="_blank" rel="noopener" title="Scottish Register of Tartans #' + esc(ref) +
           '" href="https://www.tartanregister.gov.uk/tartanDetails?ref=' + encodeURIComponent(ref) +
           '"><img class="srt-logo" src="/img/srt.svg" alt="Scottish Register of Tartans">&nbsp;#' + esc(ref) + '</a>'
         : '';
-      var dictBadge = info.tartanURL
-        ? ' <a class="badge dict" title="Tartan Dictionary entry" href="' + info.tartanURL +
+      var dictBadge = info.settURL
+        ? ' <a class="badge dict" title="Tartan Dictionary entry" href="' + info.settURL +
           '"><img class="dict-logo" src="/img/ttd-favicon.svg" alt="Tartan Dictionary">&nbsp;Tartan&nbsp;Dictionary</a>'
         : '';
       var idHTML = '<div class="name">' + esc(name) + srtBadge + dictBadge + '</div>' +
-        '<p class="note">parent <a href="' + info.tartanURL + '">' + esc(info.tartanURL) + '</a> · ' +
+        '<p class="note">parent <a href="' + info.settURL + '">' + esc(info.settURL) + '</a> · ' +
         'variant <a href="' + info.path + '">' + esc(info.path) + '</a></p>';
       html($('d-name'), idHTML);
       $('s-name').innerHTML = 'Same name + register emblem badge + Tartan Dictionary back-link, then the static ' +

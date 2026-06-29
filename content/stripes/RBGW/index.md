@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manor of Wrentnall (Personal)](/setts/s4/r31db33g12w2~x2/)|
-|![Manor of Wrentnall (Personal) example sett](/setts/s4/r31db33g12w2~x2/sett.png)|
-| [Manor of Wrentnall (Personal)](/setts/s4/r31dt33g12w2~x2/)|
-|![Manor of Wrentnall (Personal) example sett](/setts/s4/r31dt33g12w2~x2/sett.png)|
+| [Manor of Wrentnall (Personal)](/variants/s4/r31db33g12w2~x2/)|
+|![Manor of Wrentnall (Personal) example sett](/variants/s4/r31db33g12w2~x2/sett.png)|
+| [Manor of Wrentnall (Personal)](/variants/s4/r31dt33g12w2~x2/)|
+|![Manor of Wrentnall (Personal) example sett](/variants/s4/r31dt33g12w2~x2/sett.png)|

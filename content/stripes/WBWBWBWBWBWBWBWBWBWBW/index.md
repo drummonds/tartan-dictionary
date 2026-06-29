@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince of Wales Check](/setts/s21/lb2do2lb2do2lb2dt4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1~x4/)|
-|![Prince of Wales Check example sett](/setts/s21/lb2do2lb2do2lb2dt4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1~x4/sett.png)|
+| [Prince of Wales Check](/variants/s21/lb2do2lb2do2lb2dt4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1~x4/)|
+|![Prince of Wales Check example sett](/variants/s21/lb2do2lb2do2lb2dt4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1~x4/sett.png)|

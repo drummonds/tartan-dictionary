@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blackwood (Corporate)](/setts/s7/dg5db1dg5dp1g5dbi1dg5~x2/)|
-|![Blackwood (Corporate) example sett](/setts/s7/dg5db1dg5dp1g5dbi1dg5~x2/sett.png)|
-| [Blackwood (Loch Wood)](/setts/s7/gi5db1g5dp1gi5b1gi5~x4/)|
-|![Blackwood (Loch Wood) example sett](/setts/s7/gi5db1g5dp1gi5b1gi5~x4/sett.png)|
+| [Blackwood (Corporate)](/variants/s7/dg5db1dg5dp1g5dbi1dg5~x2/)|
+|![Blackwood (Corporate) example sett](/variants/s7/dg5db1dg5dp1g5dbi1dg5~x2/sett.png)|
+| [Blackwood (Loch Wood)](/variants/s7/gi5db1g5dp1gi5b1gi5~x4/)|
+|![Blackwood (Loch Wood) example sett](/variants/s7/gi5db1g5dp1gi5b1gi5~x4/sett.png)|

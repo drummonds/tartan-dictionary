@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Open Squash (Corporate)](/setts/s5/db23dp2g11dp24lb3~x2/)|
-|![Scottish Open Squash (Corporate) example sett](/setts/s5/db23dp2g11dp24lb3~x2/sett.png)|
+| [Scottish Open Squash (Corporate)](/variants/s5/db23dp2g11dp24lb3~x2/)|
+|![Scottish Open Squash (Corporate) example sett](/variants/s5/db23dp2g11dp24lb3~x2/sett.png)|

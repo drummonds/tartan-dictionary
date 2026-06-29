@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Damm, Alexander (Personal)](/setts/s9/db11k1db1k1db1k7dg8r1lg6~x4/)|
-|![Damm, Alexander (Personal) example sett](/setts/s9/db11k1db1k1db1k7dg8r1lg6~x4/sett.png)|
+| [Damm, Alexander (Personal)](/variants/s9/db11k1db1k1db1k7dg8r1lg6~x4/)|
+|![Damm, Alexander (Personal) example sett](/variants/s9/db11k1db1k1db1k7dg8r1lg6~x4/sett.png)|

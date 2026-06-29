@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holiday Inn Crown Plaza](/setts/s13/g27r2g3w3db3ly2db14w2db3ly3db3w2db14~x2/)|
-|![Holiday Inn Crown Plaza example sett](/setts/s13/g27r2g3w3db3ly2db14w2db3ly3db3w2db14~x2/sett.png)|
+| [Holiday Inn Crown Plaza](/variants/s13/g27r2g3w3db3ly2db14w2db3ly3db3w2db14~x2/)|
+|![Holiday Inn Crown Plaza example sett](/variants/s13/g27r2g3w3db3ly2db14w2db3ly3db3w2db14~x2/sett.png)|

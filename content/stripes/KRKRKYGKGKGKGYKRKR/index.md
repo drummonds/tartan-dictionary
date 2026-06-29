@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sackett](/setts/s18/k8dg8k1dg8lr1k8o8k1o8k8~x4/)|
-|![Sackett example sett](/setts/s18/k8dg8k1dg8lr1k8o8k1o8k8~x4/sett.png)|
+| [Sackett](/variants/s18/k8dg8k1dg8lr1k8o8k1o8k8~x4/)|
+|![Sackett example sett](/variants/s18/k8dg8k1dg8lr1k8o8k1o8k8~x4/sett.png)|

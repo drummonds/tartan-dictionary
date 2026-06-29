@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Currie of Arran (Clan/family)](/setts/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/)|
-|![Currie of Arran (Clan/family) example sett](/setts/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/sett.png)|
+| [Currie of Arran (Clan/family)](/variants/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/)|
+|![Currie of Arran (Clan/family) example sett](/variants/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/sett.png)|

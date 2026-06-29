@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/)|
-|![MacCainsh example sett](/setts/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/sett.png)|
-| [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/)|
-|![MacCainsh example sett](/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/sett.png)|
+| [MacCainsh](/variants/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/)|
+|![MacCainsh example sett](/variants/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/sett.png)|
+| [MacCainsh](/variants/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/)|
+|![MacCainsh example sett](/variants/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/sett.png)|

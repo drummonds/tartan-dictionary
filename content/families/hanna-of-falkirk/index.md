@@ -8,5 +8,11 @@ A family of [Clan Hanna](/clan/hanna/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/"><img src="/setts/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/sett.png" alt="Hanna of Falkirk (Clan?)" width="240"><br>Hanna of Falkirk (Clan?)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k9lr4k2lr4k2lr30k9lr4k14ly2/">Hanna of Falkirk</a> ★</td><td><code>K/18 LR8 K4 LR8 K4 LR60 K18 LR8 K28 LY/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k9lr4k2lr4k2lr30k9lr4k14ly2/"><img src="/variants/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/sett.png" alt="Hanna of Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

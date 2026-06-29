@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cowe (Personal)](/setts/s7/k8t3k32b14w3k25t3~x2/)|
-|![Cowe (Personal) example sett](/setts/s7/k8t3k32b14w3k25t3~x2/sett.png)|
+| [Cowe (Personal)](/variants/s7/k8t3k32b14w3k25t3~x2/)|
+|![Cowe (Personal) example sett](/variants/s7/k8t3k32b14w3k25t3~x2/sett.png)|

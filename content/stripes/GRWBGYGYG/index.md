@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nickel Lodge, Centennial](/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/)|
-|![Nickel Lodge, Centennial example sett](/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/sett.png)|
+| [Nickel Lodge, Centennial](/variants/s9/y18ly1y2ly1y2db6w4o1g6~x2/)|
+|![Nickel Lodge, Centennial example sett](/variants/s9/y18ly1y2ly1y2db6w4o1g6~x2/sett.png)|

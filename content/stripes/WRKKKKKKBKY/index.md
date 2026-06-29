@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Correctional Service Canada](/setts/s11/ly4k5b2k30ki1k4ki4k1ki15r6w3~x2/)|
-|![Correctional Service Canada example sett](/setts/s11/ly4k5b2k30ki1k4ki4k1ki15r6w3~x2/sett.png)|
+| [Correctional Service Canada](/variants/s11/ly4k5b2k30ki1k4ki4k1ki15r6w3~x2/)|
+|![Correctional Service Canada example sett](/variants/s11/ly4k5b2k30ki1k4ki4k1ki15r6w3~x2/sett.png)|

@@ -62,358 +62,358 @@ weight: 23
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Leith, (Hay)](/setts/s23/k3r1ly1k2r16db2r1ly1r2db15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/) | weddslist |
-| 0.05 | [Hay and Leith](/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lb1k15r1dp15r2ly1r1dp2r16k2ly1r1k3/) | weddslist |
-| 0.06 | [Hay, or Leith](/setts/s23/k3r1ly1k2r16g2r1ly1r2g15w1k15r1db15r2ly1r1p2r16k2ly1r1k3~x2/) | weddslist |
-| 0.08 | [Hay](/setts/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/) | logan-1831 |
-| 0.08 | [Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s23/k3r1ly1k2r16dp2r1ly1r2dp15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/) | house-of-tartan |
-| 0.08 | [Hay & Leith - 1800 (Clan)](/setts/s23/k10r3ly3k6r48dg6r2ly2r6dg40w2k38r2dp40r6ly2r2dp6r48k6ly2r3k10/) | tartans-authority |
+| 0.04 | [Leith, (Hay)](/variants/s23/k3r1ly1k2r16db2r1ly1r2db15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/) | weddslist |
+| 0.05 | [Hay and Leith](/variants/s23/k3r1ly1k2r16dg2r1ly1r2dg15lb1k15r1dp15r2ly1r1dp2r16k2ly1r1k3/) | weddslist |
+| 0.06 | [Hay, or Leith](/variants/s23/k3r1ly1k2r16g2r1ly1r2g15w1k15r1db15r2ly1r1p2r16k2ly1r1k3~x2/) | weddslist |
+| 0.08 | [Hay](/variants/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/) | logan-1831 |
+| 0.08 | [Hay or Leith Clan Tartan](/variants/s23/k3r1ly1k2r16dp2r1ly1r2dp15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/) | house-of-tartan |
+| 0.08 | [Hay & Leith - 1800 (Clan)](/variants/s23/k10r3ly3k6r48dg6r2ly2r6dg40w2k38r2dp40r6ly2r2dp6r48k6ly2r3k10/) | tartans-authority |
 
 ### GBKBKGRGKGKGKGKGYGKBKBG
 <a class="pat" href="/stripes/gbkbkgrgkgkgkgkgygkbkbg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GBKBKGRGKGKGKGKGYGKBKBG</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Stewart Hunting Early](/setts/s23/dg2db4k1db1k3dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db3dg2/) | weddslist |
-| 0.10 | [Stewart Hunting Early](/setts/s23/dg4db9k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db9dg4~x2/) | weddslist |
-| 0.10 | [Stewart Hunting Early](/setts/s23/dg4db9k3db3k8dg27r8dg27k8dg5k13dg8k13dg5k8dg27ly8dg27k8db3k3db9dg4/) | weddslist |
+| 0.07 | [Stewart Hunting Early](/variants/s23/dg2db4k1db1k3dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db3dg2/) | weddslist |
+| 0.10 | [Stewart Hunting Early](/variants/s23/dg4db9k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db9dg4~x2/) | weddslist |
+| 0.10 | [Stewart Hunting Early](/variants/s23/dg4db9k3db3k8dg27r8dg27k8dg5k13dg8k13dg5k8dg27ly8dg27k8db3k3db9dg4/) | weddslist |
 
 ### RBRGRBRGRBRBRGRBRBRGRGR
 <a class="pat" href="/stripes/rbrgrbrgrbrbrgrbrbrgrgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGRBRGRBRBRGRBRBRGRGR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [MacAlister (Cockburn Collection 1810-20)](/setts/s23/r32dg8r4dg8r8db8r12t1r1dg18r1t1r32t1r1dg18r1t1r12dg6r1t1r4~x2/) | register-of-tartans |
-| 0.08 | [MacAlister](/setts/s23/r32g8r4g8r8db8r12t1r1g18r1t1r32t1r1g18r1t1r12g6r1t1r4~x2/) | weddslist |
-| 0.12 | [MacAlister CC](/setts/s23/r32dg8r4dg8r8db8r12b1r1dg18r1b1r32b1r1dg18r1b1r12dg6r1b1r4~x2/) | weddslist |
+| 0.08 | [MacAlister (Cockburn Collection 1810-20)](/variants/s23/r32dg8r4dg8r8db8r12t1r1dg18r1t1r32t1r1dg18r1t1r12dg6r1t1r4~x2/) | register-of-tartans |
+| 0.08 | [MacAlister](/variants/s23/r32g8r4g8r8db8r12t1r1g18r1t1r32t1r1g18r1t1r12g6r1t1r4~x2/) | weddslist |
+| 0.12 | [MacAlister CC](/variants/s23/r32dg8r4dg8r8db8r12b1r1dg18r1b1r32b1r1dg18r1b1r12dg6r1b1r4~x2/) | weddslist |
 
 ### BKGKGKGKGKGKYKBRKYKBKWK
 <a class="pat" href="/stripes/bkgkgkgkgkgkykbrkykbkwk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">BKGKGKGKGKGKYKBRKYKBKWK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Ferrazza (Personal)](/setts/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/) | tartans-authority |
-| 0.08 | [Ferrazza in Guidonia, Rome (Personal)](/setts/s23/db16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/) | register-of-tartans |
+| 0.06 | [Ferrazza (Personal)](/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/) | tartans-authority |
+| 0.08 | [Ferrazza in Guidonia, Rome (Personal)](/variants/s23/db16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/) | register-of-tartans |
 
 ### BKRGRKRGRKBRGRKRBKRKRGR
 <a class="pat" href="/stripes/bkrgrkrgrkbrgrkrbkrkrgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BKRGRKRGRKBRGRKRBKRKRGR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Comyn / Cumming, Buchan](/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/) | weddslist |
-| 0.07 | [Cumming/Comyn/Buchan](/setts/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/) | register-of-tartans |
+| 0.04 | [Comyn / Cumming, Buchan](/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/) | weddslist |
+| 0.07 | [Cumming/Comyn/Buchan](/variants/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/) | register-of-tartans |
 
 ### GWRRRGRRRWKGKWBBBWBBBWR
 <a class="pat" href="/stripes/gwrrrgrrrwkgkwbbbwbbbwr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">GWRRRGRRRWKGKWBBBWBBBWR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [MacBean, MacVean](/setts/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2g9k2w2m3r3ri3g2ri3r3m3w2g6~x2/) | weddslist |
-| 0.12 | [MacBean MacVean](/setts/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2dg9k2w2m3r3ri3dg2ri3r3m3w2dg6~x2/) | register-of-tartans |
+| 0.10 | [MacBean, MacVean](/variants/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2g9k2w2m3r3ri3g2ri3r3m3w2g6~x2/) | weddslist |
+| 0.12 | [MacBean MacVean](/variants/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2dg9k2w2m3r3ri3dg2ri3r3m3w2dg6~x2/) | register-of-tartans |
 
 ### KRYKRBRYRBRKYGRYRGRKYRK
 <a class="pat" href="/stripes/krykrbryrbrkygryrgrkyrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">KRYKRBRYRBRKYGRYRGRKYRK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Hay and Leith](/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3~x2/) | weddslist |
-| 0.11 | [Hay and Leith](/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3/) | weddslist |
+| 0.11 | [Hay and Leith](/variants/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3~x2/) | weddslist |
+| 0.11 | [Hay and Leith](/variants/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3/) | weddslist |
 
 ### KWRKYWYKGWKRYGWGYRKWBWR
 <a class="pat" href="/stripes/kwrkywykgwkrygwgyrkwbwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KWRKYWYKGWKRYGWGYRKWBWR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [MacLeod of Gesto (Clan)](/setts/s23/r86w2t6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/) | tartans-authority |
-| 0.09 | [MacLeod of Gesto Clan Tartan Tartan Number: 1258. Earliest known date: pre 1850 Very similar to the sett recorded by Rhuriah MacLeod from a sample in a collection made for the Great Exhibition in London in 1851, now held by the Smith Institute in Stirling. The samples, made by Wilson's of Bannockburn, were donated to the institute anonymously in 1930. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s23/r88w2t8w2k2r2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/) | house-of-tartan |
+| 0.09 | [MacLeod of Gesto (Clan)](/variants/s23/r86w2t6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/) | tartans-authority |
+| 0.09 | [MacLeod of Gesto Clan Tartan](/variants/s23/r88w2t8w2k2r2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/) | house-of-tartan |
 
 ### KYKGKGBRBRBRBRBRBGKGKYK
 <a class="pat" href="/stripes/kykgkgbrbrbrbrbrbgkgkyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">KYKGKGBRBRBRBRBRBGKGKYK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Wood (Clan)](/setts/s23/k3lr2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6ly2k3~x2/) | tartans-authority |
-| 0.08 | [Wood Clan/Family Tartan Tartan Number: 6630. Earliest known date: March 2005 A tartan for all of the name. Initiated by Leslie N Wood of Dartmouth, Devon and designed by Keith Lumsden. Incorporates the colours of the Duke of Fife and Angus district tartans - areas with which the Woods are said to be historically connected. A Clan Wood Society is in the process of being formed (March 2005) and it is expected that they will adopt this tartan. Woven sample See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s23/k3lr2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6ly2k3~x2/) | house-of-tartan |
+| 0.08 | [Wood (Clan)](/variants/s23/k3lr2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6ly2k3~x2/) | tartans-authority |
+| 0.08 | [Wood Clan/Family Tartan](/variants/s23/k3lr2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6ly2k3~x2/) | house-of-tartan |
 
 ### WBWBWKBKBKBKGKYKGKWBWBW
 <a class="pat" href="/stripes/wbwbwkbkbkbkgkykgkwbwbw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBWBWKBKBKBKGKYKGKWBWBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Gordon dress](/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/) | weddslist |
-| 0.07 | [Gordon Dress (Original)](/setts/s23/w2db1w12db2w2k8dg8k1ly2k1dg8k8db8k2db2k2db8k8w2db2w12db1w2~x2/) | register-of-tartans |
+| 0.04 | [Gordon dress](/variants/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/) | weddslist |
+| 0.07 | [Gordon Dress (Original)](/variants/s23/w2db1w12db2w2k8dg8k1ly2k1dg8k8db8k2db2k2db8k8w2db2w12db1w2~x2/) | register-of-tartans |
 
 ### WBWBWKBKRKBKGKWKGKWBWBW
 <a class="pat" href="/stripes/wbwbwkbkrkbkgkwkgkwbwbw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBWBWKBKRKBKGKWKGKWBWBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [MacKenzie, dress](/setts/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/) | weddslist |
-| 0.07 | [MacKenzie Dress #3](/setts/s23/w2db2w53db2w2k15dg15k2w3k2dg15k15db14k2r3k2db14k15w2db2w53db2w2~x2/) | register-of-tartans |
+| 0.04 | [MacKenzie, dress](/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/) | weddslist |
+| 0.07 | [MacKenzie Dress #3](/variants/s23/w2db2w53db2w2k15dg15k2w3k2dg15k15db14k2r3k2db14k15w2db2w53db2w2~x2/) | register-of-tartans |
 
 ### WBWBWYWBWYWGWBWBWRWRBRW
 <a class="pat" href="/stripes/wbwbwywbwywgwbwbwrwrbrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBWBWYWBWYWGWBWBWRWRBRW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Lasting Family Tartan Tartan Number: 1789. Earliest known date: 1819 An early plaid sett from Wilson's of Bannockburn 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s23/w2dp7w2t6w2ly4w2dp4w2ly4w2g19w2dp7w2dp7w2r19w4r3t2r3w2~x2/) | house-of-tartan |
-| 0.09 | [Lasting](/setts/s23/w2p7w2t6w2ly4w2p4w2ly4w2g19w2p7w2p7w2r19w4r3t2r3w2~x2/) | weddslist |
+| 0.09 | [Lasting Family Tartan](/variants/s23/w2dp7w2t6w2ly4w2dp4w2ly4w2g19w2dp7w2dp7w2r19w4r3t2r3w2~x2/) | house-of-tartan |
+| 0.09 | [Lasting](/variants/s23/w2p7w2t6w2ly4w2p4w2ly4w2g19w2p7w2p7w2r19w4r3t2r3w2~x2/) | weddslist |
 
 ### BBYBYBYBYBYBYBYBYBYBYRB
 <a class="pat" href="/stripes/bbybybybybybybybybybyrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BBYBYBYBYBYBYBYBYBYBYRB</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Unidentified Plaid 3](/setts/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dr130n10/) | weddslist |
+| 0.10 | [Unidentified Plaid 3](/variants/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dr130n10/) | weddslist |
 
 ### BGYBYBYBYBYBYBYBYBYBYRB
 <a class="pat" href="/stripes/bgybybybybybybybybybyrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BGYBYBYBYBYBYBYBYBYBYRB</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Unidentified Plaid #13](/setts/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dy130n10/) | register-of-tartans |
+| 0.09 | [Unidentified Plaid #13](/variants/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dy130n10/) | register-of-tartans |
 
 ### BKBBKGRGKWWKGRGKRBRBRBW
 <a class="pat" href="/stripes/bkbbkgrgkwwkgrgkrbrbrbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKBBKGRGKWWKGRGKRBRBRBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Rankin (Dalgleish)](/setts/s23/db18k2db2db2k20g10r2g10k1lb1lb2k1g10r2g10k20r1db14r3db2r2db4lb1~x2/) | register-of-tartans |
+| 0.13 | [Rankin (Dalgleish)](/variants/s23/db18k2db2db2k20g10r2g10k1lb1lb2k1g10r2g10k20r1db14r3db2r2db4lb1~x2/) | register-of-tartans |
 
 ### BKBKBKBKBKBYBKBKBKBKBKW
 <a class="pat" href="/stripes/bkbkbkbkbkbybkbkbkbkbkw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKBKBKBKBKBYBKBKBKBKBKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.16 | [Made in Scotland](/setts/s23/w3k9t2k1t2k1t2k1t2k1t20lo2t20k1t2k1t2k1t2k1t2k2p2~x2/) | register-of-tartans |
+| 0.16 | [Made in Scotland](/variants/s23/w3k9t2k1t2k1t2k1t2k1t20lo2t20k1t2k1t2k1t2k1t2k2p2~x2/) | register-of-tartans |
 
 ### BKBKBKGRGKKWGRGKRBRBRBW
 <a class="pat" href="/stripes/bkbkbkgrgkkwgrgkrbrbrbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKBKBKGRGKKWGRGKRBRBRBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Rankin (Dalgleish) #2](/setts/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/) | register-of-tartans |
+| 0.08 | [Rankin (Dalgleish) #2](/variants/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/) | register-of-tartans |
 
 ### BKBKBKGRGKWKGRGKRBRBRBW
 <a class="pat" href="/stripes/bkbkbkgrgkwkgrgkrbrbrbw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BKBKBKGRGKWKGRGKRBRBRBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Rankine](/setts/s23/db15k1db1k1db1k12g9r1g9k1w1k1g9r1g9k12r1db9r2db1r1db6w1~x2/) | register-of-tartans |
+| 0.07 | [Rankine](/variants/s23/db15k1db1k1db1k12g9r1g9k1w1k1g9r1g9k12r1db9r2db1r1db6w1~x2/) | register-of-tartans |
 
 ### BKBKBKWGKWBWBWBWBWKGYGK
 <a class="pat" href="/stripes/bkbkbkwgkwbwbwbwbwkgygk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBKBKWGKWBWBWBWBWKGYGK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Campbell dress](/setts/s23/k12g12ly3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/) | weddslist |
+| 0.04 | [Campbell dress](/variants/s23/k12g12ly3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/) | weddslist |
 
 ### BKRGRKRGRKBRGRKRKBRKRGR
 <a class="pat" href="/stripes/bkrgrkrgrkbrgrkrkbrkrgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BKRGRKRGRKBRGRKRKBRKRGR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Buchan](/setts/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/) | register-of-tartans |
+| 0.09 | [Buchan](/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/) | register-of-tartans |
 
 ### BKRKBKRWYRYWRYRYRKBKRKB
 <a class="pat" href="/stripes/bkrkbkrwyrywryryrkbkrkb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">BKRKBKRWYRYWRYRYRKBKRKB</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Unidentified #13](/setts/s23/db8k2r7k2db8k2r33w93ly3r3ly3w34r98ly3r3ly3r33k2db8k2r7k2db8~x2/) | register-of-tartans |
+| 0.06 | [Unidentified #13](/variants/s23/db8k2r7k2db8k2r33w93ly3r3ly3w34r98ly3r3ly3r33k2db8k2r7k2db8~x2/) | register-of-tartans |
 
 ### BRBRGRGRGBRBRBGRGRGRBRB
 <a class="pat" href="/stripes/brbrgrgrgbrbrbgrgrgrbrb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">BRBRGRGRGBRBRBGRGRGRBRB</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Fraser](/setts/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/) | logan-1831 |
+| 0.03 | [Fraser](/variants/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/) | logan-1831 |
 
 ### BRKBKBKBKBBWKBKBKBKBKBK
 <a class="pat" href="/stripes/brkbkbkbkbbwkbkbkbkbkbk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BRKBKBKBKBBWKBKBKBKBKBK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Unidentified Plaid 12](/setts/s23/k207dbi6k2dbi6k2dbi6k2dbi6k92db28k6w4db77dbi6k2db10k2db10k2db10k2r4db14/) | weddslist |
+| 0.06 | [Unidentified Plaid 12](/variants/s23/k207dbi6k2dbi6k2dbi6k2dbi6k92db28k6w4db77dbi6k2db10k2db10k2db10k2r4db14/) | weddslist |
 
 ### BWRKWKWKWKWKWKWKWKWKWRK
 <a class="pat" href="/stripes/bwrkwkwkwkwkwkwkwkwkwrk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">BWRKWKWKWKWKWKWKWKWKWRK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [McCready (Name)](/setts/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/) | tartans-authority |
+| 0.08 | [McCready (Name)](/variants/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/) | tartans-authority |
 
 ### GBKBKGRGKGKGKGKGRGKBKBG
 <a class="pat" href="/stripes/gbkbkgrgkgkgkgkgrgkbkbg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GBKBKGRGKGKGKGKGRGKBKBG</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.20 | [Gunning, Robert Maxwell Stewart (Personal)](/setts/s23/dg2t5k2t2k3dg15r2dg15k3dg2k5dg2k5dg2k3dg15m2dg15k3t2k2t5dg2~x2/) | register-of-tartans |
+| 0.20 | [Gunning, Robert Maxwell Stewart (Personal)](/variants/s23/dg2t5k2t2k3dg15r2dg15k3dg2k5dg2k5dg2k3dg15m2dg15k3t2k2t5dg2~x2/) | register-of-tartans |
 
 ### GKGKGKGGGWGGGGKGKGKGGWG
 <a class="pat" href="/stripes/gkgkgkgggwggggkgkgkggwg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GKGKGKGGGWGGGGKGKGKGGWG</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Scottish National, dress](/setts/s23/dg11k2dg3k2dg11k8g2g2g2w2g11g2g2g2k8dg11k2dg3k2dg11g12w11g3~x2/) | weddslist |
+| 0.10 | [Scottish National, dress](/variants/s23/dg11k2dg3k2dg11k8g2g2g2w2g11g2g2g2k8dg11k2dg3k2dg11g12w11g3~x2/) | weddslist |
 
 ### GKWKYBKWKWKWKWKWKGRGWGK
 <a class="pat" href="/stripes/gkwkybkwkwkwkwkwkgrgwgk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GKWKYBKWKWKWKWKWKGRGWGK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Abbotsford Check](/setts/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4ly2k3w3k2g5~x2/) | register-of-tartans |
+| 0.06 | [Abbotsford Check](/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4ly2k3w3k2g5~x2/) | register-of-tartans |
 
 ### GRGKGKGKGKGKGKGKGKGKGKK
 <a class="pat" href="/stripes/grgkgkgkgkgkgkgkgkgkgkk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">GRGKGKGKGKGKGKGKGKGKGKK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Braveheart (Corporate)](/setts/s23/k20k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1o20g2~x2/) | tartans-authority |
+| 0.06 | [Braveheart (Corporate)](/variants/s23/k20k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1o20g2~x2/) | tartans-authority |
 
 ### GRGRGKRBRBRBRBRBRKGRGRG
 <a class="pat" href="/stripes/grgrgkrbrbrbrbrbrkgrgrg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GRGRGKRBRBRBRBRBRKGRGRG</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [MacDonald](/setts/s23/g20r2g4r6g32k32r2db32r6db3r2db20r2db3r6db32r2k32g32r6g4r2g10~x2/) | logan-1831 |
+| 0.07 | [MacDonald](/variants/s23/g20r2g4r6g32k32r2db32r6db3r2db20r2db3r6db32r2k32g32r6g4r2g10~x2/) | logan-1831 |
 
 ### GRRRWRWRGRBRBRGRWRWRRRG
 <a class="pat" href="/stripes/grrrwrwrgrbrbrgrwrwrrrg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GRRRWRWRGRBRBRGRWRWRRRG</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Trost](/setts/s23/g4r2ri2r24w2r3w3r3g10ri10b2ri4b2ri10g10r3w3r2w2r24ri2r2g4~x2/) | register-of-tartans |
+| 0.11 | [Trost](/variants/s23/g4r2ri2r24w2r3w3r3g10ri10b2ri4b2ri10g10r3w3r2w2r24ri2r2g4~x2/) | register-of-tartans |
 
 ### KBKBKRKBKRKBKBKBYKYKRKR
 <a class="pat" href="/stripes/kbkbkrkbkrkbkbkbykykrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KBKBKRKBKRKBKBKBYKYKRKR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Zibrant](/setts/s23/k8n1k3n1k8ri9k6n4k6ri9k8n1k3n1k8n13lo1k13ly5k3r5k3r5~x2/) | register-of-tartans |
+| 0.12 | [Zibrant](/variants/s23/k8n1k3n1k8ri9k6n4k6ri9k8n1k3n1k8n13lo1k13ly5k3r5k3r5~x2/) | register-of-tartans |
 
 ### KBKRWRWRWRWRWRWBWBWBWKW
 <a class="pat" href="/stripes/kbkrwrwrwrwrwrwbwbwbwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KBKRWRWRWRWRWRWBWBWBWKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.15 | [Gullane](/setts/s23/k10n2k3m2w1m3w1m4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4/) | register-of-tartans |
+| 0.15 | [Gullane](/variants/s23/k10n2k3m2w1m3w1m4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4/) | register-of-tartans |
 
 ### KRGRKBRGRKRBKRKRGRBKRGR
 <a class="pat" href="/stripes/krgrkbrgrkrbkrkrgrbkrgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">KRGRKBRGRKRBKRKRGRBKRGR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Cumming Hunting](/setts/s23/k1r1g8r1k6t1r6g6r1k8r1t1k1r1k8r1g6r6t1k6r1g8r1~x4/) | register-of-tartans |
+| 0.09 | [Cumming Hunting](/variants/s23/k1r1g8r1k6t1r6g6r1k8r1t1k1r1k8r1g6r6t1k6r1g8r1~x4/) | register-of-tartans |
 
 ### KWKGKGBRGRGRGRGRBGKGKYK
 <a class="pat" href="/stripes/kwkgkgbrgrgrgrgrbgkgkyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">KWKGKGBRGRGRGRGRBGKGKYK</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Wood Dress](/setts/s23/k1w1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2ly1k1~x2/) | register-of-tartans |
+| 0.11 | [Wood Dress](/variants/s23/k1w1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2ly1k1~x2/) | register-of-tartans |
 
 ### KWRKYWYKGWKRYGWGYKWBKWR
 <a class="pat" href="/stripes/kwrkywykgwkrygwgykwbkwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KWRKYWYKGWKRYGWGYKWBKWR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [MacLeod of Gesto #2](/setts/s23/r88w2k4t8w2k2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/) | register-of-tartans |
+| 0.08 | [MacLeod of Gesto #2](/variants/s23/r88w2k4t8w2k2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/) | register-of-tartans |
 
 ### RBRBRBRWRGRGRGRYRBRBRBR
 <a class="pat" href="/stripes/rbrbrbrwrgrgrgryrbrbrbr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRBRBRWRGRGRGRYRBRBRBR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Fox, Red](/setts/s23/r7db6r3db4r3db11r18ly3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7~x2/) | register-of-tartans |
+| 0.05 | [Fox, Red](/variants/s23/r7db6r3db4r3db11r18ly3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7~x2/) | register-of-tartans |
 
 ### RBRWYYWYYWRWYYWYYWRYYBW
 <a class="pat" href="/stripes/rbrwyywyywrwyywyywryybw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBRWYYWYYWRWYYWYYWRYYBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [B & Q (Corporate)](/setts/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/) | tartans-authority |
+| 0.06 | [B & Q (Corporate)](/variants/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/) | tartans-authority |
 
 ### RGRGRBRWRGRWRWRGRWRGRWR
 <a class="pat" href="/stripes/rgrgrbrwrgrwrwrgrwrgrwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGRGRBRWRGRWRWRGRWRGRWR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [MacAlister CC](/setts/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/) | weddslist |
+| 0.09 | [MacAlister CC](/variants/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/) | weddslist |
 
 ### RKBWBWBWBWBGWGWGWGWGKRY
 <a class="pat" href="/stripes/rkbwbwbwbwbgwgwgwgwgkry/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RKBWBWBWBWBGWGWGWGWGKRY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Lachine](/setts/s23/ly2r1k1g20w2g2w2g2w2g2w2g8t8w2t2w2t2w2t2w2t20k1r1~x2/) | register-of-tartans |
+| 0.10 | [Lachine](/variants/s23/ly2r1k1g20w2g2w2g2w2g2w2g8t8w2t2w2t2w2t2w2t20k1r1~x2/) | register-of-tartans |
 
 ### RKRKRKRYRYRYRYRYRYRYRYR
 <a class="pat" href="/stripes/rkrkrkryryryryryryryryr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">RKRKRKRYRYRYRYRYRYRYRYR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Starrett Company, L.S. (Corporate)](/setts/s23/r34ly3r6ly4r4ly6r4ly8r26ly8r4ly6r4ly4r6ly3r34k8o3k6o4k10o10/) | tartans-authority |
+| 0.11 | [Starrett Company, L.S. (Corporate)](/variants/s23/r34ly3r6ly4r4ly6r4ly8r26ly8r4ly6r4ly4r6ly3r34k8o3k6o4k10o10/) | tartans-authority |
 
 ### RWBWBRBRBRBRBRBRBBWBWBW
 <a class="pat" href="/stripes/rwbwbrbrbrbrbrbrbbwbwbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWBWBRBRBRBRBRBRBBWBWBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Alabama (Provisional)](/setts/s23/r5w3dt2w1dt4ri1dt1ri3dt1ri1dt4o4t1o1t1o4dt4b25w1b2w2b2w3~x2/) | register-of-tartans |
+| 0.12 | [Alabama (Provisional)](/variants/s23/r5w3dt2w1dt4ri1dt1ri3dt1ri1dt4o4t1o1t1o4dt4b25w1b2w2b2w3~x2/) | register-of-tartans |
 
 ### RWRKRGYKBKBRBKBKGYRKRWR
 <a class="pat" href="/stripes/rwrkrgykbkbrbkbkgyrkrwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RWRKRGYKBKBRBKBKGYRKRWR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Cromdale](/setts/s23/r20w1r20k2r20g8ly1k4db1k1db4r1db4k1db1k4g8ly1r20k2r20w1r20~x2/) | register-of-tartans |
+| 0.06 | [Cromdale](/variants/s23/r20w1r20k2r20g8ly1k4db1k1db4r1db4k1db1k4g8ly1r20k2r20w1r20~x2/) | register-of-tartans |
 
 ### RWRWRRRWRRRWRRRWRYRYRWR
 <a class="pat" href="/stripes/rwrwrrrwrrrwrrrwryryrwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RWRWRRRWRRRWRRRWRYRYRWR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Glenorchy, Lord (Portrait)](/setts/s23/r50w1ri12lo4ri1lo4ri12w1r4ri1r4w1ri6r1ri6w1r4ri1r4w1ri12w1r50~x2/) | tartans-authority |
+| 0.08 | [Glenorchy, Lord (Portrait)](/variants/s23/r50w1ri12lo4ri1lo4ri12w1r4ri1r4w1ri6r1ri6w1r4ri1r4w1ri12w1r50~x2/) | tartans-authority |
 
 ### WBWBKBRBRBKGKBYKGKWBWBW
 <a class="pat" href="/stripes/wbwbkbrbrbkgkbykgkwbwbw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBWBKBRBRBKGKBYKGKWBWBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Malcolm, Dress](/setts/s23/w4dbi4w50dbi5k25dbi23r3dbi10r3dbi23k25g27k4db4ly4k4g27k26w5dbi5w50dbi4w4/) | register-of-tartans |
+| 0.07 | [Malcolm, Dress](/variants/s23/w4dbi4w50dbi5k25dbi23r3dbi10r3dbi23k25g27k4db4ly4k4g27k26w5dbi5w50dbi4w4/) | register-of-tartans |
 
 ### WBWGWYWBWYWGWBWBWRWRGRW
 <a class="pat" href="/stripes/wbwgwywbwywgwbwbwrwrgrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WBWGWYWBWYWGWBWBWRWRGRW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Lasting](/setts/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2/) | register-of-tartans |
+| 0.10 | [Lasting](/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2/) | register-of-tartans |
 
 ### WKWKBBBGBWBBBYBRBBBKWKW
 <a class="pat" href="/stripes/wkwkbbbgbwbbbybrbbbkwkw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WKWKBBBGBWBBBYBRBBBKWKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Progress Blue Lodge (Corporate)](/setts/s23/w4k4w4k2t12dp2t12r9t2ly6t2db11t2w6t2g9t12dp2t12k2w4k4w4~x2/) | tartans-authority |
+| 0.10 | [Progress Blue Lodge (Corporate)](/variants/s23/w4k4w4k2t12dp2t12r9t2ly6t2db11t2w6t2g9t12dp2t12k2w4k4w4~x2/) | tartans-authority |
 
 ### WKWKWBWGWWWBWYWRWBWKWKW
 <a class="pat" href="/stripes/wkwkwbwgwwwbwywrwbwkwkw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WKWKWBWGWWWBWYWRWBWKWKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.14 | [Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge](/setts/s23/w4k4w4k2lt12p2lt12r9lt2ly6lt2db11lt2w6lt2g9lt12p2lt12k2w4k4w4~x2/) | register-of-tartans |
+| 0.14 | [Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge](/variants/s23/w4k4w4k2lt12p2lt12r9lt2ly6lt2db11lt2w6lt2g9lt12p2lt12k2w4k4w4~x2/) | register-of-tartans |
 
 ### WRKRGKWKYKBRBKYKWKGRKRW
 <a class="pat" href="/stripes/wrkrgkwkykbrbkykwkgrkrw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRKRGKWKYKBRBKYKWKGRKRW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Stewart](/setts/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/) | logan-1831 |
+| 0.09 | [Stewart](/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/) | logan-1831 |
 
 ### YKYKYKYKYKYKYKYKYKYKYKY
 <a class="pat" href="/stripes/ykykykykykykykykykykyky/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YKYKYKYKYKYKYKYKYKYKYKY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Garwhal Rifles (Military)](/setts/s23/ly18k15ly2k2ly2k15ly15k15ly3k15ly18k2ly3k2ly3k15ly3k2ly3k2ly18k15ly2~x2/) | tartans-authority |
+| 0.09 | [Garwhal Rifles (Military)](/variants/s23/ly18k15ly2k2ly2k15ly15k15ly3k15ly18k2ly3k2ly3k15ly3k2ly3k2ly18k15ly2~x2/) | tartans-authority |

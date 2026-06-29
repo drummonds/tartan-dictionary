@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tennessee State (US State)](/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/)|
-|![Tennessee State (US State) example sett](/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/sett.png)|
+| [Tennessee State (US State)](/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/)|
+|![Tennessee State (US State) example sett](/variants/s10/r2db12w1db1g1r1g7db1g12w1~x4/sett.png)|

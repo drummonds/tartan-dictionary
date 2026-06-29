@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laggen Dress (Fashion)](/setts/s11/y42k10y2k2ki2k2y10ki6k2ki3y2~x2/)|
-|![Laggen Dress (Fashion) example sett](/setts/s11/y42k10y2k2ki2k2y10ki6k2ki3y2~x2/sett.png)|
+| [Laggen Dress (Fashion)](/variants/s11/y42k10y2k2ki2k2y10ki6k2ki3y2~x2/)|
+|![Laggen Dress (Fashion) example sett](/variants/s11/y42k10y2k2ki2k2y10ki6k2ki3y2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Praetorian (Fashion)](/setts/s14/w1dp1ly1r8k1lr1w8lr1k8lr1w1r8lr1w1~x6/)|
-|![Praetorian (Fashion) example sett](/setts/s14/w1dp1ly1r8k1lr1w8lr1k8lr1w1r8lr1w1~x6/sett.png)|
+| [Praetorian (Fashion)](/variants/s14/w1dp1ly1r8k1lr1w8lr1k8lr1w1r8lr1w1~x6/)|
+|![Praetorian (Fashion) example sett](/variants/s14/w1dp1ly1r8k1lr1w8lr1k8lr1w1r8lr1w1~x6/sett.png)|

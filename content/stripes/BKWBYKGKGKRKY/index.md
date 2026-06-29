@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watt (Personal)](/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/)|
-|![Watt (Personal) example sett](/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/sett.png)|
+| [Watt (Personal)](/variants/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/)|
+|![Watt (Personal) example sett](/variants/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/sett.png)|

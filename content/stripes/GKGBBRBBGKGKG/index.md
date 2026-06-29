@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLachlan, Green Dress (Fashion)](/setts/s13/g16k2g2k2g2db16db16r3db16db16g16k2g2~x2/)|
-|![MacLachlan, Green Dress (Fashion) example sett](/setts/s13/g16k2g2k2g2db16db16r3db16db16g16k2g2~x2/sett.png)|
+| [MacLachlan, Green Dress (Fashion)](/variants/s13/g16k2g2k2g2db16db16r3db16db16g16k2g2~x2/)|
+|![MacLachlan, Green Dress (Fashion) example sett](/variants/s13/g16k2g2k2g2db16db16r3db16db16g16k2g2~x2/sett.png)|

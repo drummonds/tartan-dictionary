@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beatrice Princess.. (Hunting) Royal Family Tartan Tartan Number: 545. Earliest known date: pre 2003 Reduced by 1/6th to display. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/dbi10r5g5r5g60dbi13g10db67g5k5g5k5g13ly10/)|
-|![Beatrice Princess.. (Hunting) Royal Family Tartan Tartan Number: 545. Earliest known date: pre 2003 Reduced by 1/6th to display. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/dbi10r5g5r5g60dbi13g10db67g5k5g5k5g13ly10/sett.png)|
-| [Princess Beatrice Hunting (MacKinlay strip)](/setts/s14/db6r3g3r3g36dbi6g6db40g3k3g3k3g8ly6~x2/)|
-|![Princess Beatrice Hunting (MacKinlay strip) example sett](/setts/s14/db6r3g3r3g36dbi6g6db40g3k3g3k3g8ly6~x2/sett.png)|
+| [Beatrice Princess.. (Hunting) Royal Family Tartan](/variants/s14/dbi10r5g5r5g60dbi13g10db67g5k5g5k5g13ly10/)|
+|![Beatrice Princess.. (Hunting) Royal Family Tartan example sett](/variants/s14/dbi10r5g5r5g60dbi13g10db67g5k5g5k5g13ly10/sett.png)|
+| [Princess Beatrice Hunting (MacKinlay strip)](/variants/s14/db6r3g3r3g36dbi6g6db40g3k3g3k3g8ly6~x2/)|
+|![Princess Beatrice Hunting (MacKinlay strip) example sett](/variants/s14/db6r3g3r3g36dbi6g6db40g3k3g3k3g8ly6~x2/sett.png)|

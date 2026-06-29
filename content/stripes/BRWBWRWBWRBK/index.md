@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Postal Service](/setts/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/)|
-|![U.S. Postal Service example sett](/setts/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/sett.png)|
+| [U.S. Postal Service](/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/)|
+|![U.S. Postal Service example sett](/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/sett.png)|

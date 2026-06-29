@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-Wened](/setts/s6/k43r10w3k3w15db3~x2/)|
-|![Bro-Wened example sett](/setts/s6/k43r10w3k3w15db3~x2/sett.png)|
+| [Bro-Wened](/variants/s6/k43r10w3k3w15db3~x2/)|
+|![Bro-Wened example sett](/variants/s6/k43r10w3k3w15db3~x2/sett.png)|

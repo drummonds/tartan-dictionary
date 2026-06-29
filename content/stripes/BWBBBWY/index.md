@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Muir, John](/setts/s7/ly2w21db16b8db30w8db1~x2/)|
-|![Muir, John example sett](/setts/s7/ly2w21db16b8db30w8db1~x2/sett.png)|
+| [Muir, John](/variants/s7/ly2w21db16b8db30w8db1~x2/)|
+|![Muir, John example sett](/variants/s7/ly2w21db16b8db30w8db1~x2/sett.png)|

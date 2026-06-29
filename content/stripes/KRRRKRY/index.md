@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Welsh, National](/setts/s7/k4o2r2o2k2o15ly2~x4/)|
-|![Welsh, National example sett](/setts/s7/k4o2r2o2k2o15ly2~x4/sett.png)|
+| [Welsh, National](/variants/s7/k4o2r2o2k2o15ly2~x4/)|
+|![Welsh, National example sett](/variants/s7/k4o2r2o2k2o15ly2~x4/sett.png)|

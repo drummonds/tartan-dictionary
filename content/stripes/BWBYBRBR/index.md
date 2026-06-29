@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heriot](/setts/s8/o20db2o2db2lo3db12w18db3~x2/)|
-|![Heriot example sett](/setts/s8/o20db2o2db2lo3db12w18db3~x2/sett.png)|
+| [Heriot](/variants/s8/o20db2o2db2lo3db12w18db3~x2/)|
+|![Heriot example sett](/variants/s8/o20db2o2db2lo3db12w18db3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robitaille, Jean-Francois (Personal)](/setts/s12/db21w2y3w2y2w2k12w2g6db15r2ly4~x2/)|
-|![Robitaille, Jean-Francois (Personal) example sett](/setts/s12/db21w2y3w2y2w2k12w2g6db15r2ly4~x2/sett.png)|
+| [Robitaille, Jean-Francois (Personal)](/variants/s12/db21w2y3w2y2w2k12w2g6db15r2ly4~x2/)|
+|![Robitaille, Jean-Francois (Personal) example sett](/variants/s12/db21w2y3w2y2w2k12w2g6db15r2ly4~x2/sett.png)|

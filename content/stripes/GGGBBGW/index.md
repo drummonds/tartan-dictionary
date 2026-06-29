@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pollard (2014)](/setts/s7/g5dg5gi5dbi5db5dg10w2~x8/)|
-|![Pollard (2014) example sett](/setts/s7/g5dg5gi5dbi5db5dg10w2~x8/sett.png)|
-| [Pollard (2014)](/setts/s7/g5dg5gi5db5dbi5dg10w2~x8/)|
-|![Pollard (2014) example sett](/setts/s7/g5dg5gi5db5dbi5dg10w2~x8/sett.png)|
+| [Pollard (2014)](/variants/s7/g5dg5gi5dbi5db5dg10w2~x8/)|
+|![Pollard (2014) example sett](/variants/s7/g5dg5gi5dbi5db5dg10w2~x8/sett.png)|
+| [Pollard (2014)](/variants/s7/g5dg5gi5db5dbi5dg10w2~x8/)|
+|![Pollard (2014) example sett](/variants/s7/g5dg5gi5db5dbi5dg10w2~x8/sett.png)|

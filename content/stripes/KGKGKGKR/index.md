@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacArthur-Fox 1993 (Personal)](/setts/s8/k22g5k2g5k11g33k2r4~x2/)|
-|![MacArthur-Fox 1993 (Personal) example sett](/setts/s8/k22g5k2g5k11g33k2r4~x2/sett.png)|
+| [MacArthur-Fox 1993 (Personal)](/variants/s8/k22g5k2g5k11g33k2r4~x2/)|
+|![MacArthur-Fox 1993 (Personal) example sett](/variants/s8/k22g5k2g5k11g33k2r4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clinton (Personal)](/setts/s8/w5db6r18k8b5k4db27w3~x2/)|
-|![Clinton (Personal) example sett](/setts/s8/w5db6r18k8b5k4db27w3~x2/sett.png)|
+| [Clinton (Personal)](/variants/s8/w5db6r18k8b5k4db27w3~x2/)|
+|![Clinton (Personal) example sett](/variants/s8/w5db6r18k8b5k4db27w3~x2/sett.png)|

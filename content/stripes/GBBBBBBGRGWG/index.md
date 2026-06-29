@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cailean (Scotch House)](/setts/s12/dy4w2dy2r3dy19t6db3t2db2t2db15dy3~x2/)|
-|![Cailean (Scotch House) example sett](/setts/s12/dy4w2dy2r3dy19t6db3t2db2t2db15dy3~x2/sett.png)|
+| [Cailean (Scotch House)](/variants/s12/dy4w2dy2r3dy19t6db3t2db2t2db15dy3~x2/)|
+|![Cailean (Scotch House) example sett](/variants/s12/dy4w2dy2r3dy19t6db3t2db2t2db15dy3~x2/sett.png)|

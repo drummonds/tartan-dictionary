@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lemania (District)](/setts/s13/dg12db3dg3db3dg3k15b20dt3b20k15dg12db3dg3~x2/)|
-|![Lemania (District) example sett](/setts/s13/dg12db3dg3db3dg3k15b20dt3b20k15dg12db3dg3~x2/sett.png)|
+| [Lemania (District)](/variants/s13/dg12db3dg3db3dg3k15b20dt3b20k15dg12db3dg3~x2/)|
+|![Lemania (District) example sett](/variants/s13/dg12db3dg3db3dg3k15b20dt3b20k15dg12db3dg3~x2/sett.png)|

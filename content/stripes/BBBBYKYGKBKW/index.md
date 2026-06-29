@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tanzania](/setts/s12/db4b1db2b16ly2k8ly2g16k1db24k1w4~x2/)|
-|![Tanzania example sett](/setts/s12/db4b1db2b16ly2k8ly2g16k1db24k1w4~x2/sett.png)|
+| [Tanzania](/variants/s12/db4b1db2b16ly2k8ly2g16k1db24k1w4~x2/)|
+|![Tanzania example sett](/variants/s12/db4b1db2b16ly2k8ly2g16k1db24k1w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Herron from Ulster (Personal)](/setts/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/)|
-|![Herron from Ulster (Personal) example sett](/setts/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/sett.png)|
+| [Herron from Ulster (Personal)](/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/)|
+|![Herron from Ulster (Personal) example sett](/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/sett.png)|

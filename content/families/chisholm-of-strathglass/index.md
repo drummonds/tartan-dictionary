@@ -8,12 +8,11 @@ A family of [Clan Chisholm](/clan/chisholm/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/"><img src="/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/sett.png" alt="Chisholm of Strathglass" width="240"><br>Chisholm of Strathglass</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><img src="/setts/s10/r7w2r36db6g3db3g3db3g12r4~x2/sett.png" alt="Chisholm of Strathglass" width="140"><br>Chisholm of Strathglass</a></li>
-<li><a class="tartan" href="/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/"><img src="/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/sett.png" alt="Chisholm of Strathglass (Clan)" width="140"><br>Chisholm of Strathglass (Clan)</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r7w2r36db6g3db3g3db3g12r4/">Chisholm of Strathglass</a> ★</td><td><code>R/14 W4 R72 DB12 G6 DB6 G6 DB6 G24 R/8</code></td><td>3</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r7w2r36db6g3db3g3db3g12r4/"><img src="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/sett.png" alt="Chisholm of Strathglass sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

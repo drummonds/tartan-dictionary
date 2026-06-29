@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diaspora](/setts/s6/dt3dg1r24dt16db28w3~x2/)|
-|![Diaspora example sett](/setts/s6/dt3dg1r24dt16db28w3~x2/sett.png)|
+| [Diaspora](/variants/s6/dt3dg1r24dt16db28w3~x2/)|
+|![Diaspora example sett](/variants/s6/dt3dg1r24dt16db28w3~x2/sett.png)|

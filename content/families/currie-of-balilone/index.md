@@ -8,12 +8,17 @@ A family of [Clan Currie](/clan/currie/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s13/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6~x2/"><img src="/setts/s13/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6~x2/sett.png" alt="Currie of Balilone (Variant Franklin)" width="240"><br>Currie of Balilone (Variant Franklin)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6/">Currie of Balilone</a> ★</td><td><code>DG/60 K2 DG4 LO4 K4 W2 K24 W2 K4 W4 K4 W2 K/12</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6/"><img src="/variants/s13/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6~x2/sett.png" alt="Currie of Balilone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12/">Family Tartan</a></td><td><code>G/48 K2 G4 LY4 DG4 W2 DG24 W2 DG4 W4 DG4 W2 DG/24</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12/"><img src="/variants/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12/">Currie, of Balilone</a></td><td><code>G/48 K2 G4 Y4 DG4 W2 DG24 W2 DG4 W4 DG4 W2 DG/24</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12/"><img src="/variants/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="Currie, of Balilone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><img src="/setts/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-<li><a class="tartan" href="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><img src="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png" alt="Currie, of Balilone" width="140"><br>Currie, of Balilone</a></li>
-</ul>
+[See the Currie of Balilone tartan and all its setts →](/tartans/currie-of-balilone/)
 

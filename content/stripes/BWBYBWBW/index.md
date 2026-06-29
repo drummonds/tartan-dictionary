@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alaska Highlanders P & D (Corporate)](/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/)|
-|![Alaska Highlanders P & D (Corporate) example sett](/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/sett.png)|
+| [Alaska Highlanders P & D (Corporate)](/variants/s8/db9lb27db2ly4db2lb10db2w3~x2/)|
+|![Alaska Highlanders P & D (Corporate) example sett](/variants/s8/db9lb27db2ly4db2lb10db2w3~x2/sett.png)|

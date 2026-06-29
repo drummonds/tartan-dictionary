@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kings Mountain 1780](/setts/s9/ly9k1n4k1r30k1t4g9ly3~x2/)|
-|![Kings Mountain 1780 example sett](/setts/s9/ly9k1n4k1r30k1t4g9ly3~x2/sett.png)|
+| [Kings Mountain 1780](/variants/s9/ly9k1n4k1r30k1t4g9ly3~x2/)|
+|![Kings Mountain 1780 example sett](/variants/s9/ly9k1n4k1r30k1t4g9ly3~x2/sett.png)|

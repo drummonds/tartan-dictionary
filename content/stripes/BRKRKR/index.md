@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hakkarain Personal Finnish Tartan Tartan Number: 6110. Earliest known date: 2003 A personal tartan designed by Jari Hakkarainen of Porvoo in Finland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db37o18k37r2k2r2~x2/)|
-|![Hakkarain Personal Finnish Tartan Tartan Number: 6110. Earliest known date: 2003 A personal tartan designed by Jari Hakkarainen of Porvoo in Finland. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/db37o18k37r2k2r2~x2/sett.png)|
+| [Hakkarain Personal Finnish Tartan](/variants/s6/db37o18k37r2k2r2~x2/)|
+|![Hakkarain Personal Finnish Tartan example sett](/variants/s6/db37o18k37r2k2r2~x2/sett.png)|

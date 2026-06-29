@@ -24,13 +24,13 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grant](/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/)|
-|![Grant example sett](/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/sett.png)|
-| [Grant (Wilson's 1819 Key Pattern Book)](/setts/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/)|
-|![Grant (Wilson's 1819 Key Pattern Book) example sett](/setts/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/sett.png)|
-| [Grant, hunting](/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/)|
-|![Grant, hunting example sett](/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/sett.png)|
-| [MacLaren](/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/)|
-|![MacLaren example sett](/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/sett.png)|
-| [MacLaren (labelled)](/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/)|
-|![MacLaren (labelled) example sett](/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/sett.png)|
+| [Grant](/variants/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/)|
+|![Grant example sett](/variants/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/sett.png)|
+| [Grant (Wilson's 1819 Key Pattern Book)](/variants/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/)|
+|![Grant (Wilson's 1819 Key Pattern Book) example sett](/variants/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/sett.png)|
+| [Grant, hunting](/variants/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/)|
+|![Grant, hunting example sett](/variants/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/sett.png)|
+| [MacLaren](/variants/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/)|
+|![MacLaren example sett](/variants/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/sett.png)|
+| [MacLaren (labelled)](/variants/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/)|
+|![MacLaren (labelled) example sett](/variants/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/sett.png)|

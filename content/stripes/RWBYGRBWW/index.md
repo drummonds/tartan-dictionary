@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perth - 1819 (District)](/setts/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/)|
-|![Perth - 1819 (District) example sett](/setts/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/sett.png)|
+| [Perth - 1819 (District)](/variants/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/)|
+|![Perth - 1819 (District) example sett](/variants/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/sett.png)|

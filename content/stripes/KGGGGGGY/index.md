@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brocéliande (Restricted)](/setts/s8/k3g11dgii15dgi5dgii10dg14dgi14ly2~x2/)|
-|![Brocéliande (Restricted) example sett](/setts/s8/k3g11dgii15dgi5dgii10dg14dgi14ly2~x2/sett.png)|
+| [Brocéliande (Restricted)](/variants/s8/k3g11dgii15dgi5dgii10dg14dgi14ly2~x2/)|
+|![Brocéliande (Restricted) example sett](/variants/s8/k3g11dgii15dgi5dgii10dg14dgi14ly2~x2/sett.png)|

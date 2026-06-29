@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwegian Night](/setts/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/)|
-|![Norwegian Night example sett](/setts/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/sett.png)|
+| [Norwegian Night](/variants/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/)|
+|![Norwegian Night example sett](/variants/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/sett.png)|

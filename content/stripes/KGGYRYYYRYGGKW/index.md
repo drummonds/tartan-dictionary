@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saskatchewan](/setts/s14/w2k1g6dy11lo26r2lo1ly2~x2/)|
-|![Saskatchewan example sett](/setts/s14/w2k1g6dy11lo26r2lo1ly2~x2/sett.png)|
+| [Saskatchewan](/variants/s14/w2k1g6dy11lo26r2lo1ly2~x2/)|
+|![Saskatchewan example sett](/variants/s14/w2k1g6dy11lo26r2lo1ly2~x2/sett.png)|

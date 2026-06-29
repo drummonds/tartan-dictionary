@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shiel, Magenta (Dance)](/setts/s7/w8b5t10dp24w30b2dg2~x2/)|
-|![Shiel, Magenta (Dance) example sett](/setts/s7/w8b5t10dp24w30b2dg2~x2/sett.png)|
+| [Shiel, Magenta (Dance)](/variants/s7/w8b5t10dp24w30b2dg2~x2/)|
+|![Shiel, Magenta (Dance) example sett](/variants/s7/w8b5t10dp24w30b2dg2~x2/sett.png)|

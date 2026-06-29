@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Italian American](/setts/s9/r4k2w6k2db40k80dg10w6r3/)|
-|![Italian American example sett](/setts/s9/r4k2w6k2db40k80dg10w6r3/sett.png)|
-| [Italian American (Corporate)](/setts/s9/r4k2w6k2b40k80g10w6r3/)|
-|![Italian American (Corporate) example sett](/setts/s9/r4k2w6k2b40k80g10w6r3/sett.png)|
+| [Italian American](/variants/s9/r4k2w6k2db40k80dg10w6r3/)|
+|![Italian American example sett](/variants/s9/r4k2w6k2db40k80dg10w6r3/sett.png)|
+| [Italian American (Corporate)](/variants/s9/r4k2w6k2b40k80g10w6r3/)|
+|![Italian American (Corporate) example sett](/variants/s9/r4k2w6k2b40k80g10w6r3/sett.png)|

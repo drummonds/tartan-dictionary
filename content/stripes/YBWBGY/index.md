@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [South Aiken Presby Church (Corporate](/setts/s6/ly30g3t2lb2t30lo4~x2/)|
-|![South Aiken Presby Church (Corporate example sett](/setts/s6/ly30g3t2lb2t30lo4~x2/sett.png)|
+| [South Aiken Presby Church (Corporate](/variants/s6/ly30g3t2lb2t30lo4~x2/)|
+|![South Aiken Presby Church (Corporate example sett](/variants/s6/ly30g3t2lb2t30lo4~x2/sett.png)|

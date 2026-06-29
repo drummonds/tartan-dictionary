@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grainger (Name)](/setts/s7/db36r4db6g18db15k18w4~x2/)|
-|![Grainger (Name) example sett](/setts/s7/db36r4db6g18db15k18w4~x2/sett.png)|
+| [Grainger (Name)](/variants/s7/db36r4db6g18db15k18w4~x2/)|
+|![Grainger (Name) example sett](/variants/s7/db36r4db6g18db15k18w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Palmer, Arnold](/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/)|
-|![Palmer, Arnold example sett](/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/sett.png)|
+| [Palmer, Arnold](/variants/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/)|
+|![Palmer, Arnold example sett](/variants/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/sett.png)|

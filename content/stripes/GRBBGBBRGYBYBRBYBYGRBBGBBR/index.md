@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westmeath](/setts/s26/g11r6dt6do2g3do2dt6r6g36lo2do3lo2dt5r5~x2/)|
-|![Westmeath example sett](/setts/s26/g11r6dt6do2g3do2dt6r6g36lo2do3lo2dt5r5~x2/sett.png)|
+| [Westmeath](/variants/s26/g11r6dt6do2g3do2dt6r6g36lo2do3lo2dt5r5~x2/)|
+|![Westmeath example sett](/variants/s26/g11r6dt6do2g3do2dt6r6g36lo2do3lo2dt5r5~x2/sett.png)|

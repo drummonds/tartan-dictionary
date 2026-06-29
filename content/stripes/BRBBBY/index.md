@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cameron Hunting](/setts/s6/do15r5do30b32do4lo3~x2/)|
-|![Cameron Hunting example sett](/setts/s6/do15r5do30b32do4lo3~x2/sett.png)|
+| [Cameron Hunting](/variants/s6/do15r5do30b32do4lo3~x2/)|
+|![Cameron Hunting example sett](/variants/s6/do15r5do30b32do4lo3~x2/sett.png)|

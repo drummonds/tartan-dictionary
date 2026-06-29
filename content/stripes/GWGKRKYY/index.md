@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunedin (NZ)](/setts/s8/g1w1g4k1r1k1lg4ly1~x8/)|
-|![Dunedin (NZ) example sett](/setts/s8/g1w1g4k1r1k1lg4ly1~x8/sett.png)|
+| [Dunedin (NZ)](/variants/s8/g1w1g4k1r1k1lg4ly1~x8/)|
+|![Dunedin (NZ) example sett](/variants/s8/g1w1g4k1r1k1lg4ly1~x8/sett.png)|

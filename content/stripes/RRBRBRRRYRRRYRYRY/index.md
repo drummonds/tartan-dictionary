@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thom, Calum (Personal)](/setts/s17/ly3ri2ly9ri1ly3ri3m3ri10ly2ri10m3ri3do6ri2do6m2r2~x2/)|
-|![Thom, Calum (Personal) example sett](/setts/s17/ly3ri2ly9ri1ly3ri3m3ri10ly2ri10m3ri3do6ri2do6m2r2~x2/sett.png)|
+| [Thom, Calum (Personal)](/variants/s17/ly3ri2ly9ri1ly3ri3m3ri10ly2ri10m3ri3do6ri2do6m2r2~x2/)|
+|![Thom, Calum (Personal) example sett](/variants/s17/ly3ri2ly9ri1ly3ri3m3ri10ly2ri10m3ri3do6ri2do6m2r2~x2/sett.png)|

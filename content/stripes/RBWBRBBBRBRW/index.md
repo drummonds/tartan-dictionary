@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramblers Red Hat Society](/setts/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2/)|
-|![Ramblers Red Hat Society example sett](/setts/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2/sett.png)|
-| [Ramblers Red Hat Society (Corporate)](/setts/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/)|
-|![Ramblers Red Hat Society (Corporate) example sett](/setts/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/sett.png)|
+| [Ramblers Red Hat Society](/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2/)|
+|![Ramblers Red Hat Society example sett](/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2/sett.png)|
+| [Ramblers Red Hat Society (Corporate)](/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/)|
+|![Ramblers Red Hat Society (Corporate) example sett](/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Camelot (Corporate)](/setts/s7/g30p5db32k32g36lg2ly5/)|
-|![Camelot (Corporate) example sett](/setts/s7/g30p5db32k32g36lg2ly5/sett.png)|
+| [Camelot (Corporate)](/variants/s7/g30p5db32k32g36lg2ly5/)|
+|![Camelot (Corporate) example sett](/variants/s7/g30p5db32k32g36lg2ly5/sett.png)|

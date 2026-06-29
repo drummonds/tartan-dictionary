@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mica, Green (Fashion)](/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/)|
-|![Mica, Green (Fashion) example sett](/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/sett.png)|
+| [Mica, Green (Fashion)](/variants/s8/dy6o2dy12k4dt14k1dy3ly2~x2/)|
+|![Mica, Green (Fashion) example sett](/variants/s8/dy6o2dy12k4dt14k1dy3ly2~x2/sett.png)|

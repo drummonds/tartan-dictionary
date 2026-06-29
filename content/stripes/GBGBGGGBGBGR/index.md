@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highlander](/setts/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/)|
-|![Highlander example sett](/setts/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/sett.png)|
+| [Highlander](/variants/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/)|
+|![Highlander example sett](/variants/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/sett.png)|

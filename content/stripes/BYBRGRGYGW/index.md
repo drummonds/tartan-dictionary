@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornell (Fashion)](/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/)|
-|![Cornell (Fashion) example sett](/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/sett.png)|
+| [Cornell (Fashion)](/variants/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/)|
+|![Cornell (Fashion) example sett](/variants/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/sett.png)|

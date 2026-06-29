@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King Pootatau Te Wherowhero](/setts/s14/db23k1db1w1db1r1db4lo2db1lo2db1lo2db1lo2~x2/)|
-|![King Pootatau Te Wherowhero example sett](/setts/s14/db23k1db1w1db1r1db4lo2db1lo2db1lo2db1lo2~x2/sett.png)|
+| [King Pootatau Te Wherowhero](/variants/s14/db23k1db1w1db1r1db4lo2db1lo2db1lo2db1lo2~x2/)|
+|![King Pootatau Te Wherowhero example sett](/variants/s14/db23k1db1w1db1r1db4lo2db1lo2db1lo2db1lo2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vermont Dress](/setts/s8/g1w1g6db5w6r1g1lo1~x4/)|
-|![Vermont Dress example sett](/setts/s8/g1w1g6db5w6r1g1lo1~x4/sett.png)|
+| [Vermont Dress](/variants/s8/g1w1g6db5w6r1g1lo1~x4/)|
+|![Vermont Dress example sett](/variants/s8/g1w1g6db5w6r1g1lo1~x4/sett.png)|

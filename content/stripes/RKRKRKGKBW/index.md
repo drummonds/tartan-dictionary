@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leitrim County, Crest Range](/setts/s10/o10k24o5k13o24k5dg52k5db18w8/)|
-|![Leitrim County, Crest Range example sett](/setts/s10/o10k24o5k13o24k5dg52k5db18w8/sett.png)|
+| [Leitrim County, Crest Range](/variants/s10/o10k24o5k13o24k5dg52k5db18w8/)|
+|![Leitrim County, Crest Range example sett](/variants/s10/o10k24o5k13o24k5dg52k5db18w8/sett.png)|

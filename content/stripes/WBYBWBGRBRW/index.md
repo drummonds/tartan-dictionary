@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart dress, Blue](/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/)|
-|![Stewart dress, Blue example sett](/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/sett.png)|
+| [Stewart dress, Blue](/variants/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/)|
+|![Stewart dress, Blue example sett](/variants/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/sett.png)|

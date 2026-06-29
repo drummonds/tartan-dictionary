@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jrgensen of Taasingee (Personal)](/setts/s19/lr4r10dt6dg10dt6r22g6r4dt22r4dt22dg36dt22r4dt22r4g6dt10g3/)|
-|![Jrgensen of Taasingee (Personal) example sett](/setts/s19/lr4r10dt6dg10dt6r22g6r4dt22r4dt22dg36dt22r4dt22r4g6dt10g3/sett.png)|
+| [Jrgensen of Taasingee (Personal)](/variants/s19/lr4r10dt6dg10dt6r22g6r4dt22r4dt22dg36dt22r4dt22r4g6dt10g3/)|
+|![Jrgensen of Taasingee (Personal) example sett](/variants/s19/lr4r10dt6dg10dt6r22g6r4dt22r4dt22dg36dt22r4dt22r4g6dt10g3/sett.png)|

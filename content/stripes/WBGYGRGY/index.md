@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yes Scotland](/setts/s8/lr12dg4m4dg4lr31y3b12w4~x2/)|
-|![Yes Scotland example sett](/setts/s8/lr12dg4m4dg4lr31y3b12w4~x2/sett.png)|
+| [Yes Scotland](/variants/s8/lr12dg4m4dg4lr31y3b12w4~x2/)|
+|![Yes Scotland example sett](/variants/s8/lr12dg4m4dg4lr31y3b12w4~x2/sett.png)|

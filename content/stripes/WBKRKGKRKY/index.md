@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tantallon](/setts/s10/w3db21k2r7k2g10k2r7k21ly3~x2/)|
-|![Tantallon example sett](/setts/s10/w3db21k2r7k2g10k2r7k21ly3~x2/sett.png)|
-| [Tantallon #2](/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/)|
-|![Tantallon #2 example sett](/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/sett.png)|
+| [Tantallon](/variants/s10/w3db21k2r7k2g10k2r7k21ly3~x2/)|
+|![Tantallon example sett](/variants/s10/w3db21k2r7k2g10k2r7k21ly3~x2/sett.png)|
+| [Tantallon #2](/variants/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/)|
+|![Tantallon #2 example sett](/variants/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/sett.png)|

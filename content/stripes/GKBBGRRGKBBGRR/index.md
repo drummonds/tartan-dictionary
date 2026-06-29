@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heart of Alba](/setts/s14/dg48k5db4t2dg1r2o4dg20k3db4t2dg1o4r2~x2/)|
-|![Heart of Alba example sett](/setts/s14/dg48k5db4t2dg1r2o4dg20k3db4t2dg1o4r2~x2/sett.png)|
+| [Heart of Alba](/variants/s14/dg48k5db4t2dg1r2o4dg20k3db4t2dg1o4r2~x2/)|
+|![Heart of Alba example sett](/variants/s14/dg48k5db4t2dg1r2o4dg20k3db4t2dg1o4r2~x2/sett.png)|

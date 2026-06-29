@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell, New Louden](/setts/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/)|
-|![Campbell, New Louden example sett](/setts/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/sett.png)|
+| [Campbell, New Louden](/variants/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/)|
+|![Campbell, New Louden example sett](/variants/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perry Golf](/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/)|
-|![Perry Golf example sett](/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/sett.png)|
+| [Perry Golf](/variants/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/)|
+|![Perry Golf example sett](/variants/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/sett.png)|

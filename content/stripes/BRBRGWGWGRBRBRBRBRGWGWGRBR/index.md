@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Duke of Perth](/setts/s26/db30r14db2r14g20w1g2w1g20r44db4r10t1r4~x2/)|
-|![Unnamed C18th - Duke of Perth example sett](/setts/s26/db30r14db2r14g20w1g2w1g20r44db4r10t1r4~x2/sett.png)|
+| [Unnamed C18th - Duke of Perth](/variants/s26/db30r14db2r14g20w1g2w1g20r44db4r10t1r4~x2/)|
+|![Unnamed C18th - Duke of Perth example sett](/variants/s26/db30r14db2r14g20w1g2w1g20r44db4r10t1r4~x2/sett.png)|

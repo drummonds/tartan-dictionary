@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cathro](/setts/s5/dp9db6w1dg4dp2~x4/)|
-|![Cathro example sett](/setts/s5/dp9db6w1dg4dp2~x4/sett.png)|
-| [Cathro (Name)](/setts/s5/p9b6w1g4p2~x8/)|
-|![Cathro (Name) example sett](/setts/s5/p9b6w1g4p2~x8/sett.png)|
+| [Cathro](/variants/s5/dp9db6w1dg4dp2~x4/)|
+|![Cathro example sett](/variants/s5/dp9db6w1dg4dp2~x4/sett.png)|
+| [Cathro (Name)](/variants/s5/p9b6w1g4p2~x8/)|
+|![Cathro (Name) example sett](/variants/s5/p9b6w1g4p2~x8/sett.png)|

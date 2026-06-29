@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [All Breeds Dairy Goats (Corporate)](/setts/s36/db10r10k36w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo26w26g10ly10~x2/)|
-|![All Breeds Dairy Goats (Corporate) example sett](/setts/s36/db10r10k36w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo26w26g10ly10~x2/sett.png)|
+| [All Breeds Dairy Goats (Corporate)](/variants/s36/db10r10k36w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo26w26g10ly10~x2/)|
+|![All Breeds Dairy Goats (Corporate) example sett](/variants/s36/db10r10k36w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo26w26g10ly10~x2/sett.png)|

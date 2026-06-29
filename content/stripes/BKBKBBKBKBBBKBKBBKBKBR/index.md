@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roberts of Wales](/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/)|
-|![Roberts of Wales example sett](/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/sett.png)|
+| [Roberts of Wales](/variants/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/)|
+|![Roberts of Wales example sett](/variants/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/sett.png)|

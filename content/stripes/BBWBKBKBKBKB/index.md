@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grampian Police](/setts/s12/dt5t2w1t2k32dt3k4dt29k2db1k3dt3~x2/)|
-|![Grampian Police example sett](/setts/s12/dt5t2w1t2k32dt3k4dt29k2db1k3dt3~x2/sett.png)|
+| [Grampian Police](/variants/s12/dt5t2w1t2k32dt3k4dt29k2db1k3dt3~x2/)|
+|![Grampian Police example sett](/variants/s12/dt5t2w1t2k32dt3k4dt29k2db1k3dt3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pownall (2015)](/setts/s5/dp30y7w6db30ly8~x2/)|
-|![Pownall (2015) example sett](/setts/s5/dp30y7w6db30ly8~x2/sett.png)|
+| [Pownall (2015)](/variants/s5/dp30y7w6db30ly8~x2/)|
+|![Pownall (2015) example sett](/variants/s5/dp30y7w6db30ly8~x2/sett.png)|

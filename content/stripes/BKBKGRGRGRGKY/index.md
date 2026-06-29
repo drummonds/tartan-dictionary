@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [California](/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/)|
-|![California example sett](/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/sett.png)|
+| [California](/variants/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/)|
+|![California example sett](/variants/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/sett.png)|

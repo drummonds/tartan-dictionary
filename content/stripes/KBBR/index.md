@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doyle Blue](/setts/s4/k80dp30db9r3~x2/)|
-|![Doyle Blue example sett](/setts/s4/k80dp30db9r3~x2/sett.png)|
+| [Doyle Blue](/variants/s4/k80dp30db9r3~x2/)|
+|![Doyle Blue example sett](/variants/s4/k80dp30db9r3~x2/sett.png)|

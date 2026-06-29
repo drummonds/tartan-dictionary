@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salem Scottish Dancers (Corporate)](/setts/s8/dt5b5dt30w4dt4b18w3dt3~x2/)|
-|![Salem Scottish Dancers (Corporate) example sett](/setts/s8/dt5b5dt30w4dt4b18w3dt3~x2/sett.png)|
+| [Salem Scottish Dancers (Corporate)](/variants/s8/dt5b5dt30w4dt4b18w3dt3~x2/)|
+|![Salem Scottish Dancers (Corporate) example sett](/variants/s8/dt5b5dt30w4dt4b18w3dt3~x2/sett.png)|

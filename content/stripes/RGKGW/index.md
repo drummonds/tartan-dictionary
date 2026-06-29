@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Basque (Corporate)](/setts/s5/r44g6k3g16w22/)|
-|![Basque (Corporate) example sett](/setts/s5/r44g6k3g16w22/sett.png)|
-| [Inverness Basque](/setts/s5/r22dg6k3dg16w22/)|
-|![Inverness Basque example sett](/setts/s5/r22dg6k3dg16w22/sett.png)|
-| [Inverness Basque (District)](/setts/s5/r33g9k5g24w33~x2/)|
-|![Inverness Basque (District) example sett](/setts/s5/r33g9k5g24w33~x2/sett.png)|
+| [Basque (Corporate)](/variants/s5/r44g6k3g16w22/)|
+|![Basque (Corporate) example sett](/variants/s5/r44g6k3g16w22/sett.png)|
+| [Inverness Basque](/variants/s5/r22dg6k3dg16w22/)|
+|![Inverness Basque example sett](/variants/s5/r22dg6k3dg16w22/sett.png)|
+| [Inverness Basque (District)](/variants/s5/r33g9k5g24w33~x2/)|
+|![Inverness Basque (District) example sett](/variants/s5/r33g9k5g24w33~x2/sett.png)|

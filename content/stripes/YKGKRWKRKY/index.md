@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLamroc](/setts/s10/ly4k1r16k16w3r1k16g16k1ly4~x2/)|
-|![MacLamroc example sett](/setts/s10/ly4k1r16k16w3r1k16g16k1ly4~x2/sett.png)|
+| [MacLamroc](/variants/s10/ly4k1r16k16w3r1k16g16k1ly4~x2/)|
+|![MacLamroc example sett](/variants/s10/ly4k1r16k16w3r1k16g16k1ly4~x2/sett.png)|

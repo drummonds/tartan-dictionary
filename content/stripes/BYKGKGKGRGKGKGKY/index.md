@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ogilvie of Inverarity (Wilson) / Ochterlonie](/setts/s16/db20ly3k7g11k2g3k2g3r4~x2/)|
-|![Ogilvie of Inverarity (Wilson) / Ochterlonie example sett](/setts/s16/db20ly3k7g11k2g3k2g3r4~x2/sett.png)|
+| [Ogilvie of Inverarity (Wilson) / Ochterlonie](/variants/s16/db20ly3k7g11k2g3k2g3r4~x2/)|
+|![Ogilvie of Inverarity (Wilson) / Ochterlonie example sett](/variants/s16/db20ly3k7g11k2g3k2g3r4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Patterson, William John Magee (Personal)](/setts/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/)|
-|![Patterson, William John Magee (Personal) example sett](/setts/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/sett.png)|
+| [Patterson, William John Magee (Personal)](/variants/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/)|
+|![Patterson, William John Magee (Personal) example sett](/variants/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shiel, Claret (Dance)](/setts/s7/w8ri5dp10r24w30ri2db2~x2/)|
-|![Shiel, Claret (Dance) example sett](/setts/s7/w8ri5dp10r24w30ri2db2~x2/sett.png)|
+| [Shiel, Claret (Dance)](/variants/s7/w8ri5dp10r24w30ri2db2~x2/)|
+|![Shiel, Claret (Dance) example sett](/variants/s7/w8ri5dp10r24w30ri2db2~x2/sett.png)|

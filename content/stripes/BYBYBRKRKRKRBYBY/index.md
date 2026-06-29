@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Historic Scotland](/setts/s16/dt4lr1dt1lr3dt24o9k1o9k3~x2/)|
-|![Historic Scotland example sett](/setts/s16/dt4lr1dt1lr3dt24o9k1o9k3~x2/sett.png)|
+| [Historic Scotland](/variants/s16/dt4lr1dt1lr3dt24o9k1o9k3~x2/)|
+|![Historic Scotland example sett](/variants/s16/dt4lr1dt1lr3dt24o9k1o9k3~x2/sett.png)|

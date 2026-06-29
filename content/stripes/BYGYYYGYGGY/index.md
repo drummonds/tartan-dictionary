@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Annand Family (Personal)](/setts/s11/dp4loi8g2loi2lo2loi2g2loi2dy6g10loi3~x2/)|
-|![Annand Family (Personal) example sett](/setts/s11/dp4loi8g2loi2lo2loi2g2loi2dy6g10loi3~x2/sett.png)|
+| [Annand Family (Personal)](/variants/s11/dp4loi8g2loi2lo2loi2g2loi2dy6g10loi3~x2/)|
+|![Annand Family (Personal) example sett](/variants/s11/dp4loi8g2loi2lo2loi2g2loi2dy6g10loi3~x2/sett.png)|

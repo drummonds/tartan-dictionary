@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Little Dress](/setts/s10/k4r4k4r4k4w8k2w8k8lo1~x4/)|
-|![Little Dress example sett](/setts/s10/k4r4k4r4k4w8k2w8k8lo1~x4/sett.png)|
+| [Little Dress](/variants/s10/k4r4k4r4k4w8k2w8k8lo1~x4/)|
+|![Little Dress example sett](/variants/s10/k4r4k4r4k4w8k2w8k8lo1~x4/sett.png)|

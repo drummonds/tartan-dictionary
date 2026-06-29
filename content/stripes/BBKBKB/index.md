@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loevenstein Castle 3 (Artefact)](/setts/s6/db40k1db4k2db8db24~x2/)|
-|![Loevenstein Castle 3 (Artefact) example sett](/setts/s6/db40k1db4k2db8db24~x2/sett.png)|
+| [Loevenstein Castle 3 (Artefact)](/variants/s6/db40k1db4k2db8db24~x2/)|
+|![Loevenstein Castle 3 (Artefact) example sett](/variants/s6/db40k1db4k2db8db24~x2/sett.png)|

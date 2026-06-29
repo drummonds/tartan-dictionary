@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balfour blue & brown](/setts/s6/db18ly2o6ly2o19r3~x2/)|
-|![Balfour blue & brown example sett](/setts/s6/db18ly2o6ly2o19r3~x2/sett.png)|
+| [Balfour blue & brown](/variants/s6/db18ly2o6ly2o19r3~x2/)|
+|![Balfour blue & brown example sett](/variants/s6/db18ly2o6ly2o19r3~x2/sett.png)|

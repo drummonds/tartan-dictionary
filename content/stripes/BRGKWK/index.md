@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stovell (2015)](/setts/s6/db15r6dg8k2w2k2~x6/)|
-|![Stovell (2015) example sett](/setts/s6/db15r6dg8k2w2k2~x6/sett.png)|
+| [Stovell (2015)](/variants/s6/db15r6dg8k2w2k2~x6/)|
+|![Stovell (2015) example sett](/variants/s6/db15r6dg8k2w2k2~x6/sett.png)|

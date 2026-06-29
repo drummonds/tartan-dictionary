@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Granite (Corporate)](/setts/s12/o8dt8o4dt28dti12n6dti12r4n8r4n29lb6/)|
-|![Kinloch Anderson Granite (Corporate) example sett](/setts/s12/o8dt8o4dt28dti12n6dti12r4n8r4n29lb6/sett.png)|
+| [Kinloch Anderson Granite (Corporate)](/variants/s12/o8dt8o4dt28dti12n6dti12r4n8r4n29lb6/)|
+|![Kinloch Anderson Granite (Corporate) example sett](/variants/s12/o8dt8o4dt28dti12n6dti12r4n8r4n29lb6/sett.png)|

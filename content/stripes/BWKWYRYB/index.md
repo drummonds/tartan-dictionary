@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wingtip](/setts/s8/db11lb1k3w1lg4r5lo1db5~x4/)|
-|![Wingtip example sett](/setts/s8/db11lb1k3w1lg4r5lo1db5~x4/sett.png)|
+| [Wingtip](/variants/s8/db11lb1k3w1lg4r5lo1db5~x4/)|
+|![Wingtip example sett](/variants/s8/db11lb1k3w1lg4r5lo1db5~x4/sett.png)|

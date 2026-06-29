@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Portosalvo (Corporate)](/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/)|
-|![Portosalvo (Corporate) example sett](/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/sett.png)|
+| [Portosalvo (Corporate)](/variants/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/)|
+|![Portosalvo (Corporate) example sett](/variants/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/sett.png)|

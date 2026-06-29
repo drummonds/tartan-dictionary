@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Michie](/setts/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27ri4t4r4t27/)|
-|![Michie example sett](/setts/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27ri4t4r4t27/sett.png)|
+| [Michie](/variants/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27ri4t4r4t27/)|
+|![Michie example sett](/variants/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27ri4t4r4t27/sett.png)|

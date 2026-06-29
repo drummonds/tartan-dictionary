@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland the Brave](/setts/s10/ki6w1ki40p1k12dg12p6dg2dp2dg4~x2/)|
-|![Scotland the Brave example sett](/setts/s10/ki6w1ki40p1k12dg12p6dg2dp2dg4~x2/sett.png)|
+| [Scotland the Brave](/variants/s10/ki6w1ki40p1k12dg12p6dg2dp2dg4~x2/)|
+|![Scotland the Brave example sett](/variants/s10/ki6w1ki40p1k12dg12p6dg2dp2dg4~x2/sett.png)|

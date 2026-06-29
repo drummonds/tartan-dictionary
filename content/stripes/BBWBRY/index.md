@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Venters (Personal)](/setts/s6/db15dt55w1dp5r2ly1~x2/)|
-|![Venters (Personal) example sett](/setts/s6/db15dt55w1dp5r2ly1~x2/sett.png)|
+| [Venters (Personal)](/variants/s6/db15dt55w1dp5r2ly1~x2/)|
+|![Venters (Personal) example sett](/variants/s6/db15dt55w1dp5r2ly1~x2/sett.png)|

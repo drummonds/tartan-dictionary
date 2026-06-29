@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carmen Lau (Hong Kong) (Personal)](/setts/s7/ly8k3t2do1w6g12do2~x2/)|
-|![Carmen Lau (Hong Kong) (Personal) example sett](/setts/s7/ly8k3t2do1w6g12do2~x2/sett.png)|
+| [Carmen Lau (Hong Kong) (Personal)](/variants/s7/ly8k3t2do1w6g12do2~x2/)|
+|![Carmen Lau (Hong Kong) (Personal) example sett](/variants/s7/ly8k3t2do1w6g12do2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eglinton](/setts/s7/k3dg3k3lb16k3r3k3/)|
-|![Eglinton example sett](/setts/s7/k3dg3k3lb16k3r3k3/sett.png)|
+| [Eglinton](/variants/s7/k3dg3k3lb16k3r3k3/)|
+|![Eglinton example sett](/variants/s7/k3dg3k3lb16k3r3k3/sett.png)|

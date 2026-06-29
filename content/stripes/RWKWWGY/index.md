@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ch. Supt. Everett and Mrs Julene Sum](/setts/s7/r9w27k7w45lb60dg4lo5/)|
-|![Ch. Supt. Everett and Mrs Julene Sum example sett](/setts/s7/r9w27k7w45lb60dg4lo5/sett.png)|
-| [Ch. Supt. Everett and Mrs Julene Summerfield Dress](/setts/s7/r9w25k7w45lt60g4ly5/)|
-|![Ch. Supt. Everett and Mrs Julene Summerfield Dress example sett](/setts/s7/r9w25k7w45lt60g4ly5/sett.png)|
+| [Ch. Supt. Everett and Mrs Julene Sum](/variants/s7/r9w27k7w45lb60dg4lo5/)|
+|![Ch. Supt. Everett and Mrs Julene Sum example sett](/variants/s7/r9w27k7w45lb60dg4lo5/sett.png)|
+| [Ch. Supt. Everett and Mrs Julene Summerfield Dress](/variants/s7/r9w25k7w45lt60g4ly5/)|
+|![Ch. Supt. Everett and Mrs Julene Summerfield Dress example sett](/variants/s7/r9w25k7w45lt60g4ly5/sett.png)|

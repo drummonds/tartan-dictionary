@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunkeld](/setts/s15/o4oi3w24oi4o4k12m16k2w4k2m16k12dr16k2o4/)|
-|![Dunkeld example sett](/setts/s15/o4oi3w24oi4o4k12m16k2w4k2m16k12dr16k2o4/sett.png)|
+| [Dunkeld](/variants/s15/o4oi3w24oi4o4k12m16k2w4k2m16k12dr16k2o4/)|
+|![Dunkeld example sett](/variants/s15/o4oi3w24oi4o4k12m16k2w4k2m16k12dr16k2o4/sett.png)|

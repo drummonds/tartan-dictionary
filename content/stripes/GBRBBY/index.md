@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reagan](/setts/s6/g2n1r29b29n1lo2~x2/)|
-|![Reagan example sett](/setts/s6/g2n1r29b29n1lo2~x2/sett.png)|
+| [Reagan](/variants/s6/g2n1r29b29n1lo2~x2/)|
+|![Reagan example sett](/variants/s6/g2n1r29b29n1lo2~x2/sett.png)|

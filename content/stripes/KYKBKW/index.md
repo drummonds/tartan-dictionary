@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jon's Theme](/setts/s6/k1ly2k3n12k18w1~x2/)|
-|![Jon's Theme example sett](/setts/s6/k1ly2k3n12k18w1~x2/sett.png)|
-| [Jon's Theme (Fashion)](/setts/s6/k1lo2k3db12k18w1~x2/)|
-|![Jon's Theme (Fashion) example sett](/setts/s6/k1lo2k3db12k18w1~x2/sett.png)|
+| [Jon's Theme](/variants/s6/k1ly2k3n12k18w1~x2/)|
+|![Jon's Theme example sett](/variants/s6/k1ly2k3n12k18w1~x2/sett.png)|
+| [Jon's Theme (Fashion)](/variants/s6/k1lo2k3db12k18w1~x2/)|
+|![Jon's Theme (Fashion) example sett](/variants/s6/k1lo2k3db12k18w1~x2/sett.png)|

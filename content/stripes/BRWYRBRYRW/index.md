@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenburnie School](/setts/s10/n22r2w1lo3r1n6r22lo3r1w10~x4/)|
-|![Glenburnie School example sett](/setts/s10/n22r2w1lo3r1n6r22lo3r1w10~x4/sett.png)|
+| [Glenburnie School](/variants/s10/n22r2w1lo3r1n6r22lo3r1w10~x4/)|
+|![Glenburnie School example sett](/variants/s10/n22r2w1lo3r1n6r22lo3r1w10~x4/sett.png)|

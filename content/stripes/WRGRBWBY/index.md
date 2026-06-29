@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manitoba Masonic](/setts/s8/ly3n8w3n34r34g4r4w2~x2/)|
-|![Manitoba Masonic example sett](/setts/s8/ly3n8w3n34r34g4r4w2~x2/sett.png)|
-| [Manitoba Masonic (Corporate)](/setts/s8/ly3db8w3db34r34g4r4w2~x2/)|
-|![Manitoba Masonic (Corporate) example sett](/setts/s8/ly3db8w3db34r34g4r4w2~x2/sett.png)|
+| [Manitoba Masonic](/variants/s8/ly3n8w3n34r34g4r4w2~x2/)|
+|![Manitoba Masonic example sett](/variants/s8/ly3n8w3n34r34g4r4w2~x2/sett.png)|
+| [Manitoba Masonic (Corporate)](/variants/s8/ly3db8w3db34r34g4r4w2~x2/)|
+|![Manitoba Masonic (Corporate) example sett](/variants/s8/ly3db8w3db34r34g4r4w2~x2/sett.png)|

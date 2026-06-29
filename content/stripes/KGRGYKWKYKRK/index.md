@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Keefe (Name)](/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/)|
-|![O'Keefe (Name) example sett](/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/sett.png)|
+| [O'Keefe (Name)](/variants/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/)|
+|![O'Keefe (Name) example sett](/variants/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/sett.png)|

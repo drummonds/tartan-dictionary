@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Great Glen (Fashion)](/setts/s17/dt5o4dt4o38n34dt4n4lb2n2ly2n4dt4n34o38dt4o4dt2/)|
-|![Great Glen (Fashion) example sett](/setts/s17/dt5o4dt4o38n34dt4n4lb2n2ly2n4dt4n34o38dt4o4dt2/sett.png)|
+| [Great Glen (Fashion)](/variants/s17/dt5o4dt4o38n34dt4n4lb2n2ly2n4dt4n34o38dt4o4dt2/)|
+|![Great Glen (Fashion) example sett](/variants/s17/dt5o4dt4o38n34dt4n4lb2n2ly2n4dt4n34o38dt4o4dt2/sett.png)|

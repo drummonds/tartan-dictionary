@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Ridge Highlands Heritage](/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/)|
-|![Blue Ridge Highlands Heritage example sett](/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/sett.png)|
+| [Blue Ridge Highlands Heritage](/variants/s8/t27db9lb3g6db33lb3dr3ly2~x2/)|
+|![Blue Ridge Highlands Heritage example sett](/variants/s8/t27db9lb3g6db33lb3dr3ly2~x2/sett.png)|

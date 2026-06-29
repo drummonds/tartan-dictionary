@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKessog](/setts/s11/n1lo8dy2lo2db6w1db6lo2dy2lo8r1~x4/)|
-|![MacKessog example sett](/setts/s11/n1lo8dy2lo2db6w1db6lo2dy2lo8r1~x4/sett.png)|
+| [MacKessog](/variants/s11/n1lo8dy2lo2db6w1db6lo2dy2lo8r1~x4/)|
+|![MacKessog example sett](/variants/s11/n1lo8dy2lo2db6w1db6lo2dy2lo8r1~x4/sett.png)|

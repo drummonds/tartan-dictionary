@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of the Glen (Corporate)](/setts/s11/p2dbi4db7dbi3dg20dbi5k7dbi3dp3dt35w2~x2/)|
-|![Spirit of the Glen (Corporate) example sett](/setts/s11/p2dbi4db7dbi3dg20dbi5k7dbi3dp3dt35w2~x2/sett.png)|
+| [Spirit of the Glen (Corporate)](/variants/s11/p2dbi4db7dbi3dg20dbi5k7dbi3dp3dt35w2~x2/)|
+|![Spirit of the Glen (Corporate) example sett](/variants/s11/p2dbi4db7dbi3dg20dbi5k7dbi3dp3dt35w2~x2/sett.png)|

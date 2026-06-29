@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dy17o5db2w12db2ly4g7~x2/)|
-|![Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/dy17o5db2w12db2ly4g7~x2/sett.png)|
+| [Ontario Northern Canadian District Tartan](/variants/s7/dy17o5db2w12db2ly4g7~x2/)|
+|![Ontario Northern Canadian District Tartan example sett](/variants/s7/dy17o5db2w12db2ly4g7~x2/sett.png)|

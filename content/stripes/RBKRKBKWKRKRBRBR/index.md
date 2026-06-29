@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Canadian Air Force #2](/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/)|
-|![Royal Canadian Air Force #2 example sett](/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/sett.png)|
+| [Royal Canadian Air Force #2](/variants/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/)|
+|![Royal Canadian Air Force #2 example sett](/variants/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/sett.png)|

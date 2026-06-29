@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotsman](/setts/s7/g21k14g9db21k3db12dp3~x2/)|
-|![Scotsman example sett](/setts/s7/g21k14g9db21k3db12dp3~x2/sett.png)|
-| [Scotsman](/setts/s7/dg21k14dg9dt21k3dt12p3~x2/)|
-|![Scotsman example sett](/setts/s7/dg21k14dg9dt21k3dt12p3~x2/sett.png)|
+| [Scotsman](/variants/s7/g21k14g9db21k3db12dp3~x2/)|
+|![Scotsman example sett](/variants/s7/g21k14g9db21k3db12dp3~x2/sett.png)|
+| [Scotsman](/variants/s7/dg21k14dg9dt21k3dt12p3~x2/)|
+|![Scotsman example sett](/variants/s7/dg21k14dg9dt21k3dt12p3~x2/sett.png)|

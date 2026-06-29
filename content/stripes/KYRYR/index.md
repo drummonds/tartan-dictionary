@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shire of Hornwood (USA)](/setts/s5/r18ly3r18ly30k4~x2/)|
-|![Shire of Hornwood (USA) example sett](/setts/s5/r18ly3r18ly30k4~x2/sett.png)|
+| [Shire of Hornwood (USA)](/variants/s5/r18ly3r18ly30k4~x2/)|
+|![Shire of Hornwood (USA) example sett](/variants/s5/r18ly3r18ly30k4~x2/sett.png)|

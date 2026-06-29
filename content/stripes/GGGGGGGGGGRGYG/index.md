@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New South Wales](/setts/s14/gi3lo1gi3r1gi14dg2gi3dg1gi3g1gi2g1gi2g2~x4/)|
-|![New South Wales example sett](/setts/s14/gi3lo1gi3r1gi14dg2gi3dg1gi3g1gi2g1gi2g2~x4/sett.png)|
+| [New South Wales](/variants/s14/gi3lo1gi3r1gi14dg2gi3dg1gi3g1gi2g1gi2g2~x4/)|
+|![New South Wales example sett](/variants/s14/gi3lo1gi3r1gi14dg2gi3dg1gi3g1gi2g1gi2g2~x4/sett.png)|

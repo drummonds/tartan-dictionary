@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cowan of Inveresk (Personal)](/setts/s8/r4dg16w2k15db15k2db2ly2~x2/)|
-|![Cowan of Inveresk (Personal) example sett](/setts/s8/r4dg16w2k15db15k2db2ly2~x2/sett.png)|
-| [Cowan, of Inveresk](/setts/s8/r4g16w2k15db15k2db2ly2~x2/)|
-|![Cowan, of Inveresk example sett](/setts/s8/r4g16w2k15db15k2db2ly2~x2/sett.png)|
+| [Cowan of Inveresk (Personal)](/variants/s8/r4dg16w2k15db15k2db2ly2~x2/)|
+|![Cowan of Inveresk (Personal) example sett](/variants/s8/r4dg16w2k15db15k2db2ly2~x2/sett.png)|
+| [Cowan, of Inveresk](/variants/s8/r4g16w2k15db15k2db2ly2~x2/)|
+|![Cowan, of Inveresk example sett](/variants/s8/r4g16w2k15db15k2db2ly2~x2/sett.png)|

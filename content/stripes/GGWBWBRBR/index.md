@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Copar a'Beannichte Dress (Personal)](/setts/s9/g20gi6w15dt5w2dt15o4dt10r2~x2/)|
-|![Copar a'Beannichte Dress (Personal) example sett](/setts/s9/g20gi6w15dt5w2dt15o4dt10r2~x2/sett.png)|
+| [Copar a'Beannichte Dress (Personal)](/variants/s9/g20gi6w15dt5w2dt15o4dt10r2~x2/)|
+|![Copar a'Beannichte Dress (Personal) example sett](/variants/s9/g20gi6w15dt5w2dt15o4dt10r2~x2/sett.png)|

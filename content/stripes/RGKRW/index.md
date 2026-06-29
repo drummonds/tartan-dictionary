@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ryutokukan Junior High School](/setts/s5/r6dg13k5r20w3~x2/)|
-|![Ryutokukan Junior High School example sett](/setts/s5/r6dg13k5r20w3~x2/sett.png)|
+| [Ryutokukan Junior High School](/variants/s5/r6dg13k5r20w3~x2/)|
+|![Ryutokukan Junior High School example sett](/variants/s5/r6dg13k5r20w3~x2/sett.png)|

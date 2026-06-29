@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Calgary Firefighters](/setts/s5/y4k48y16r12b3~x2/)|
-|![Calgary Firefighters example sett](/setts/s5/y4k48y16r12b3~x2/sett.png)|
+| [Calgary Firefighters](/variants/s5/y4k48y16r12b3~x2/)|
+|![Calgary Firefighters example sett](/variants/s5/y4k48y16r12b3~x2/sett.png)|

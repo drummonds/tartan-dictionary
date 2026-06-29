@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dahlonega (District)](/setts/s6/r5g18ly2k14t5k4~x2/)|
-|![Dahlonega (District) example sett](/setts/s6/r5g18ly2k14t5k4~x2/sett.png)|
-| [Unidentified No 79](/setts/s6/r5dg18ly2k14t5k4~x2/)|
-|![Unidentified No 79 example sett](/setts/s6/r5dg18ly2k14t5k4~x2/sett.png)|
+| [Dahlonega (District)](/variants/s6/r5g18ly2k14t5k4~x2/)|
+|![Dahlonega (District) example sett](/variants/s6/r5g18ly2k14t5k4~x2/sett.png)|
+| [Unidentified No 79](/variants/s6/r5dg18ly2k14t5k4~x2/)|
+|![Unidentified No 79 example sett](/variants/s6/r5dg18ly2k14t5k4~x2/sett.png)|

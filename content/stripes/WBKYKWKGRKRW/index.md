@@ -24,15 +24,15 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart Dress](/setts/s12/lb36db5k5ly1k1lb1k1dg8r4k1r2lb1/)|
-|![Stewart Dress example sett](/setts/s12/lb36db5k5ly1k1lb1k1dg8r4k1r2lb1/sett.png)|
-| [Stewart Dress (Clan)](/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/)|
-|![Stewart Dress (Clan) example sett](/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/sett.png)|
-| [Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/)|
-|![Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/sett.png)|
-| [Stewart dress](/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/)|
-|![Stewart dress example sett](/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/sett.png)|
-| [Stuart/Stewart Dress](/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/)|
-|![Stuart/Stewart Dress example sett](/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/sett.png)|
-| [Stuart/Stewart Dress Royal](/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/)|
-|![Stuart/Stewart Dress Royal example sett](/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/sett.png)|
+| [Stewart Dress](/variants/s12/lb36db5k5ly1k1lb1k1dg8r4k1r2lb1/)|
+|![Stewart Dress example sett](/variants/s12/lb36db5k5ly1k1lb1k1dg8r4k1r2lb1/sett.png)|
+| [Stewart Dress (Clan)](/variants/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/)|
+|![Stewart Dress (Clan) example sett](/variants/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/sett.png)|
+| [Stewart Dress MINI Tartan](/variants/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/)|
+|![Stewart Dress MINI Tartan example sett](/variants/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/sett.png)|
+| [Stewart dress](/variants/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/)|
+|![Stewart dress example sett](/variants/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/sett.png)|
+| [Stuart/Stewart Dress](/variants/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/)|
+|![Stuart/Stewart Dress example sett](/variants/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/sett.png)|
+| [Stuart/Stewart Dress Royal](/variants/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/)|
+|![Stuart/Stewart Dress Royal example sett](/variants/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/sett.png)|

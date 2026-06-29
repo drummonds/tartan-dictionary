@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graham W](/tartans/dg21lr2dg4k17n14k3/)|
-|![Graham W example sett](/setts/s6/dg21lr2dg4k17n14k3/sett.png)|
-| [Wilson's, No 160](/setts/s6/g21ly2g4k16p14k3~x2/)|
-|![Wilson's, No 160 example sett](/setts/s6/g21ly2g4k16p14k3~x2/sett.png)|
+| [Graham W](/setts/dg21lr2dg4k17n14k3/)|
+|![Graham W example sett](/variants/s6/dg21lr2dg4k17n14k3/sett.png)|
+| [Wilson's, No 160](/variants/s6/g21ly2g4k16p14k3~x2/)|
+|![Wilson's, No 160 example sett](/variants/s6/g21ly2g4k16p14k3~x2/sett.png)|

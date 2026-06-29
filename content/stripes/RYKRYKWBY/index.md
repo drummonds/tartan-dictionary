@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tipperary County Crest (Fashion)](/setts/s9/r10lr36k24r30lo8k16w18db16lo9/)|
-|![Tipperary County Crest (Fashion) example sett](/setts/s9/r10lr36k24r30lo8k16w18db16lo9/sett.png)|
+| [Tipperary County Crest (Fashion)](/variants/s9/r10lr36k24r30lo8k16w18db16lo9/)|
+|![Tipperary County Crest (Fashion) example sett](/variants/s9/r10lr36k24r30lo8k16w18db16lo9/sett.png)|

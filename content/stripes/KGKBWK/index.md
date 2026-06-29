@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Leven, Check](/setts/s6/k2g13k11t4w9k2~x2/)|
-|![Loch Leven, Check example sett](/setts/s6/k2g13k11t4w9k2~x2/sett.png)|
+| [Loch Leven, Check](/variants/s6/k2g13k11t4w9k2~x2/)|
+|![Loch Leven, Check example sett](/variants/s6/k2g13k11t4w9k2~x2/sett.png)|

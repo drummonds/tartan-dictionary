@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAulay](/setts/s6/k2r16g6r3g8lb1~x2/)|
-|![MacAulay example sett](/setts/s6/k2r16g6r3g8lb1~x2/sett.png)|
-| [MacAulay](/tartans/k2r16g6r3g8w1/)|
-|![MacAulay example sett](/setts/s6/k2r16g6r3g8w1~x2/sett.png)|
-| [MacAulay](/setts/s6/k2r16dg6r3dg8lb1/)|
-|![MacAulay example sett](/setts/s6/k2r16dg6r3dg8lb1/sett.png)|
+| [MacAulay](/variants/s6/k2r16dg6r3dg8lb1/)|
+|![MacAulay example sett](/variants/s6/k2r16dg6r3dg8lb1/sett.png)|
+| [MacAulay](/variants/s6/k2r16g6r3g8lb1~x2/)|
+|![MacAulay example sett](/variants/s6/k2r16g6r3g8lb1~x2/sett.png)|
+| [MacAulay](/setts/k2r16g6r3g8w1/)|
+|![MacAulay example sett](/variants/s6/k2r16g6r3g8w1~x2/sett.png)|

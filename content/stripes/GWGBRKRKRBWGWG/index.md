@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Teirney (Estimated threadcount)](/setts/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~x2/)|
-|![Teirney (Estimated threadcount) example sett](/setts/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~x2/sett.png)|
+| [Teirney (Estimated threadcount)](/variants/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~x2/)|
+|![Teirney (Estimated threadcount) example sett](/variants/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~x2/sett.png)|

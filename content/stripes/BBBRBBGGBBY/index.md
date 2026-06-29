@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of New York (Fashion)](/setts/s11/dt60b5dt4r6dt4b5dy22g5b23dt1lo4~x2/)|
-|![State Seal of New York (Fashion) example sett](/setts/s11/dt60b5dt4r6dt4b5dy22g5b23dt1lo4~x2/sett.png)|
+| [State Seal of New York (Fashion)](/variants/s11/dt60b5dt4r6dt4b5dy22g5b23dt1lo4~x2/)|
+|![State Seal of New York (Fashion) example sett](/variants/s11/dt60b5dt4r6dt4b5dy22g5b23dt1lo4~x2/sett.png)|

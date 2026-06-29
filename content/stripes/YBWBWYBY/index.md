@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [East Tennessee State University](/setts/s8/lo2dbi2w1db6w1ly2dbi17ly1~x2/)|
-|![East Tennessee State University example sett](/setts/s8/lo2dbi2w1db6w1ly2dbi17ly1~x2/sett.png)|
+| [East Tennessee State University](/variants/s8/lo2dbi2w1db6w1ly2dbi17ly1~x2/)|
+|![East Tennessee State University example sett](/variants/s8/lo2dbi2w1db6w1ly2dbi17ly1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haymarket Dress (Dance)](/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/)|
-|![Haymarket Dress (Dance) example sett](/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/sett.png)|
+| [Haymarket Dress (Dance)](/variants/s16/y2dt8y2k5w12lo1dt1w1r1~x4/)|
+|![Haymarket Dress (Dance) example sett](/variants/s16/y2dt8y2k5w12lo1dt1w1r1~x4/sett.png)|

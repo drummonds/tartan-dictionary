@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gilhooley (Name)](/setts/s11/ly7gi1k1ly2k9g22gi7k27b4k3w4~x2/)|
-|![Gilhooley (Name) example sett](/setts/s11/ly7gi1k1ly2k9g22gi7k27b4k3w4~x2/sett.png)|
+| [Gilhooley (Name)](/variants/s11/ly7gi1k1ly2k9g22gi7k27b4k3w4~x2/)|
+|![Gilhooley (Name) example sett](/variants/s11/ly7gi1k1ly2k9g22gi7k27b4k3w4~x2/sett.png)|

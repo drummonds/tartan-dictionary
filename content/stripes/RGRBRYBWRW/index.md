@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swiss Country](/setts/s10/r108g3r2db2r2ly2n5w2r6w6~x2/)|
-|![Swiss Country example sett](/setts/s10/r108g3r2db2r2ly2n5w2r6w6~x2/sett.png)|
+| [Swiss Country](/variants/s10/r108g3r2db2r2ly2n5w2r6w6~x2/)|
+|![Swiss Country example sett](/variants/s10/r108g3r2db2r2ly2n5w2r6w6~x2/sett.png)|

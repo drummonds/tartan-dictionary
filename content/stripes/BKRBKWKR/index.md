@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4n16r2k31n2/)|
-|![Distripress Annual Congress 2012 example sett](/setts/s8/r12k2w8k4n16r2k31n2/sett.png)|
+| [Distripress Annual Congress 2012](/variants/s8/r12k2w8k4n16r2k31n2/)|
+|![Distripress Annual Congress 2012 example sett](/variants/s8/r12k2w8k4n16r2k31n2/sett.png)|

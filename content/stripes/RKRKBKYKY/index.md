@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotsburn Croft](/setts/s9/lg16k3lg16k26dp4k26o20k3o8/)|
-|![Scotsburn Croft example sett](/setts/s9/lg16k3lg16k26dp4k26o20k3o8/sett.png)|
+| [Scotsburn Croft](/variants/s9/lg16k3lg16k26dp4k26o20k3o8/)|
+|![Scotsburn Croft example sett](/variants/s9/lg16k3lg16k26dp4k26o20k3o8/sett.png)|

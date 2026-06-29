@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lindley-Highfield (Name)](/setts/s7/dg7dp3w1g2dg1r2dp1~x8/)|
-|![Lindley-Highfield (Name) example sett](/setts/s7/dg7dp3w1g2dg1r2dp1~x8/sett.png)|
+| [Lindley-Highfield (Name)](/variants/s7/dg7dp3w1g2dg1r2dp1~x8/)|
+|![Lindley-Highfield (Name) example sett](/variants/s7/dg7dp3w1g2dg1r2dp1~x8/sett.png)|

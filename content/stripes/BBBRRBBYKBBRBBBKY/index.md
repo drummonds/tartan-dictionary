@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kennewell (Personal)](/setts/s17/db25b15dt6o3r2db10b5lr5k2b15db25o5dt2b25db15k6lr3/)|
-|![Kennewell (Personal) example sett](/setts/s17/db25b15dt6o3r2db10b5lr5k2b15db25o5dt2b25db15k6lr3/sett.png)|
+| [Kennewell (Personal)](/variants/s17/db25b15dt6o3r2db10b5lr5k2b15db25o5dt2b25db15k6lr3/)|
+|![Kennewell (Personal) example sett](/variants/s17/db25b15dt6o3r2db10b5lr5k2b15db25o5dt2b25db15k6lr3/sett.png)|

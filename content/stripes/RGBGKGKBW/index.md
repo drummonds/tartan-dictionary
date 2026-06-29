@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Andrews Golf Club](/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/)|
-|![St Andrews Golf Club example sett](/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/sett.png)|
+| [St Andrews Golf Club](/variants/s9/r1dg3t1dg5k1dg1k9db12w1~x4/)|
+|![St Andrews Golf Club example sett](/variants/s9/r1dg3t1dg5k1dg1k9db12w1~x4/sett.png)|

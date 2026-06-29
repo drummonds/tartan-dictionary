@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [PSN Test](/setts/s8/db25lo1db6b1db6lb4t3w1~x4/)|
-|![PSN Test example sett](/setts/s8/db25lo1db6b1db6lb4t3w1~x4/sett.png)|
+| [PSN Test](/variants/s8/db25lo1db6b1db6lb4t3w1~x4/)|
+|![PSN Test example sett](/variants/s8/db25lo1db6b1db6lb4t3w1~x4/sett.png)|

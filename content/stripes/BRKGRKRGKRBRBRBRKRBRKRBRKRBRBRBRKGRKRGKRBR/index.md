@@ -24,5 +24,5 @@ It is a 42 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Cant #06](/setts/s42/r16t3r16k3dg32r16k3r16dg32k3r18db3r3t3r3db3r18k34r3db34r16k3/)|
-|![Unidentified Cant #06 example sett](/setts/s42/r16t3r16k3dg32r16k3r16dg32k3r18db3r3t3r3db3r18k34r3db34r16k3/sett.png)|
+| [Unidentified Cant #06](/variants/s42/r16t3r16k3dg32r16k3r16dg32k3r18db3r3t3r3db3r18k34r3db34r16k3/)|
+|![Unidentified Cant #06 example sett](/variants/s42/r16t3r16k3dg32r16k3r16dg32k3r18db3r3t3r3db3r18k34r3db34r16k3/sett.png)|

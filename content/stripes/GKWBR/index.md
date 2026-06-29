@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nicolson Dress (Clan)](/setts/s5/r62db8w20k3g4~x2/)|
-|![Nicolson Dress (Clan) example sett](/setts/s5/r62db8w20k3g4~x2/sett.png)|
+| [Nicolson Dress (Clan)](/variants/s5/r62db8w20k3g4~x2/)|
+|![Nicolson Dress (Clan) example sett](/variants/s5/r62db8w20k3g4~x2/sett.png)|

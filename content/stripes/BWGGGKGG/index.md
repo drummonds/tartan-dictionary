@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gairloch](/setts/s8/y24y1k9y1y9y2w2db2~x2/)|
-|![Gairloch example sett](/setts/s8/y24y1k9y1y9y2w2db2~x2/sett.png)|
+| [Gairloch](/variants/s8/y24y1k9y1y9y2w2db2~x2/)|
+|![Gairloch example sett](/variants/s8/y24y1k9y1y9y2w2db2~x2/sett.png)|

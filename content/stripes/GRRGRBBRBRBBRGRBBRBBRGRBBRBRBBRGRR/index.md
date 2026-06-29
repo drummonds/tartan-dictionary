@@ -24,5 +24,5 @@ It is a 34 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramada Corporate Tartan Tartan Number: 6374. Earliest known date: 2004 Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s34/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2/)|
-|![Ramada Corporate Tartan Tartan Number: 6374. Earliest known date: 2004 Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s34/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2/sett.png)|
+| [Ramada Corporate Tartan](/variants/s34/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2/)|
+|![Ramada Corporate Tartan example sett](/variants/s34/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6dg6~x2/sett.png)|

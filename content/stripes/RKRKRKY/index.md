@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacIain](/tartans/r4k8r4k8r12k1ly2/)|
-|![MacIain example sett](/setts/s7/r4k8r4k8r12k1ly2~x2/sett.png)|
-| [MacIan](/setts/s7/r2k4r2k4r6k1lo1~x4/)|
-|![MacIan example sett](/setts/s7/r2k4r2k4r6k1lo1~x4/sett.png)|
-| [MacKeane (Clan?)](/setts/s7/r4k8r4k8r12k1ly1~x2/)|
-|![MacKeane (Clan?) example sett](/setts/s7/r4k8r4k8r12k1ly1~x2/sett.png)|
+| [MacIain](/setts/r4k8r4k8r12k1ly2/)|
+|![MacIain example sett](/variants/s7/r4k8r4k8r12k1ly2~x2/sett.png)|
+| [MacIan](/variants/s7/r2k4r2k4r6k1lo1~x4/)|
+|![MacIan example sett](/variants/s7/r2k4r2k4r6k1lo1~x4/sett.png)|
+| [MacKeane (Clan?)](/variants/s7/r4k8r4k8r12k1ly1~x2/)|
+|![MacKeane (Clan?) example sett](/variants/s7/r4k8r4k8r12k1ly1~x2/sett.png)|

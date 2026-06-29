@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Craparo](/setts/s9/r3w6ly4k25w3n30o30w3k2~x2/)|
-|![Craparo example sett](/setts/s9/r3w6ly4k25w3n30o30w3k2~x2/sett.png)|
+| [Craparo](/variants/s9/r3w6ly4k25w3n30o30w3k2~x2/)|
+|![Craparo example sett](/variants/s9/r3w6ly4k25w3n30o30w3k2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alberta Caledonia (Corporate)](/setts/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/)|
-|![Alberta Caledonia (Corporate) example sett](/setts/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/sett.png)|
+| [Alberta Caledonia (Corporate)](/variants/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/)|
+|![Alberta Caledonia (Corporate) example sett](/variants/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon of Abergeldie (Red..) Portrait Tartan Tartan Number: 955. Earliest known date: 1723 This sett was reconstructed from a scarf in a painting of Rachael Gordon, hanging in Abergeldie Castle, painted by Alexander in 1723. The count and colour desciption was taken by the Lord Lyon in 1953. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r20w1k1m6ly1g18~x2/)|
-|![Gordon of Abergeldie (Red..) Portrait Tartan Tartan Number: 955. Earliest known date: 1723 This sett was reconstructed from a scarf in a painting of Rachael Gordon, hanging in Abergeldie Castle, painted by Alexander in 1723. The count and colour desciption was taken by the Lord Lyon in 1953. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/r20w1k1m6ly1g18~x2/sett.png)|
+| [Gordon of Abergeldie (Red..) Portrait Tartan](/variants/s6/r20w1k1m6ly1g18~x2/)|
+|![Gordon of Abergeldie (Red..) Portrait Tartan example sett](/variants/s6/r20w1k1m6ly1g18~x2/sett.png)|

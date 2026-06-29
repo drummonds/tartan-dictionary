@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tunes of Glory (Film)](/setts/s8/lo3y40db12lo3k2lb4k2lo3~x2/)|
-|![Tunes of Glory (Film) example sett](/setts/s8/lo3y40db12lo3k2lb4k2lo3~x2/sett.png)|
+| [Tunes of Glory (Film)](/variants/s8/lo3y40db12lo3k2lb4k2lo3~x2/)|
+|![Tunes of Glory (Film) example sett](/variants/s8/lo3y40db12lo3k2lb4k2lo3~x2/sett.png)|

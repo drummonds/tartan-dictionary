@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ancient Atlantic](/setts/s6/w1db6dy5k1db6ly1~x4/)|
-|![Ancient Atlantic example sett](/setts/s6/w1db6dy5k1db6ly1~x4/sett.png)|
-| [Baptist Union of Scotland](/setts/s6/lo4db23k4g16db23lb4/)|
-|![Baptist Union of Scotland example sett](/setts/s6/lo4db23k4g16db23lb4/sett.png)|
+| [Ancient Atlantic](/variants/s6/w1db6dy5k1db6ly1~x4/)|
+|![Ancient Atlantic example sett](/variants/s6/w1db6dy5k1db6ly1~x4/sett.png)|
+| [Baptist Union of Scotland](/variants/s6/lo4db23k4g16db23lb4/)|
+|![Baptist Union of Scotland example sett](/variants/s6/lo4db23k4g16db23lb4/sett.png)|

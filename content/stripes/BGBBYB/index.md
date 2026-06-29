@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Discover Islay (District)](/setts/s6/dp6ly1dp20db6g19dp2~x4/)|
-|![Discover Islay (District) example sett](/setts/s6/dp6ly1dp20db6g19dp2~x4/sett.png)|
+| [Discover Islay (District)](/variants/s6/dp6ly1dp20db6g19dp2~x4/)|
+|![Discover Islay (District) example sett](/variants/s6/dp6ly1dp20db6g19dp2~x4/sett.png)|

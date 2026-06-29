@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenfeshie (Personal)](/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/)|
-|![Glenfeshie (Personal) example sett](/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/sett.png)|
+| [Glenfeshie (Personal)](/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/)|
+|![Glenfeshie (Personal) example sett](/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/sett.png)|

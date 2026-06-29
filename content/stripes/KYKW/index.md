@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Takla Makan #2 (Artefact)](/setts/s4/k4lo15k4w2~x2/)|
-|![Takla Makan #2 (Artefact) example sett](/setts/s4/k4lo15k4w2~x2/sett.png)|
+| [Takla Makan #2 (Artefact)](/variants/s4/k4lo15k4w2~x2/)|
+|![Takla Makan #2 (Artefact) example sett](/variants/s4/k4lo15k4w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Napier University](/setts/s8/db4w8db8w10k16lg4r38ly1/)|
-|![Edinburgh Napier University example sett](/setts/s8/db4w8db8w10k16lg4r38ly1/sett.png)|
+| [Edinburgh Napier University](/variants/s8/db4w8db8w10k16lg4r38ly1/)|
+|![Edinburgh Napier University example sett](/variants/s8/db4w8db8w10k16lg4r38ly1/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [London Fog Black](/setts/s6/k10lr2w5lr4k50b2~x2/)|
-|![London Fog Black example sett](/setts/s6/k10lr2w5lr4k50b2~x2/sett.png)|
+| [London Fog Black](/variants/s6/k10lr2w5lr4k50b2~x2/)|
+|![London Fog Black example sett](/variants/s6/k10lr2w5lr4k50b2~x2/sett.png)|

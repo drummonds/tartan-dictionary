@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dinarzh: (Fashion)](/setts/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/)|
-|![Dinarzh: (Fashion) example sett](/setts/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/sett.png)|
-| [Dinarzh: Fortress of the Bear](/setts/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/)|
-|![Dinarzh: Fortress of the Bear example sett](/setts/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/sett.png)|
+| [Dinarzh: (Fashion)](/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/)|
+|![Dinarzh: (Fashion) example sett](/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/sett.png)|
+| [Dinarzh: Fortress of the Bear](/variants/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/)|
+|![Dinarzh: Fortress of the Bear example sett](/variants/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/sett.png)|

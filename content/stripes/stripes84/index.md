@@ -14,4 +14,4 @@ weight: 84
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Dunbar Plaid (Artefact)](/setts/s84/w6k1w1k1w1k5w2k5w4k4r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k4w24k4~x2/) | tartans-authority |
+| 0.07 | [Dunbar Plaid (Artefact)](/variants/s84/w6k1w1k1w1k5w2k5w4k4r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k4w24k4~x2/) | tartans-authority |

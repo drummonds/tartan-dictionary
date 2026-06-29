@@ -24,5 +24,5 @@ It is a 30 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Italian](/setts/s30/db24k2db24k1lb1k1gi12r2k2r2gi12k1lb1k1db24r2lb2g2db24k1lb1k1gi12r2k2r2gi12k1lb1k1~x2/)|
-|![Italian example sett](/setts/s30/db24k2db24k1lb1k1gi12r2k2r2gi12k1lb1k1db24r2lb2g2db24k1lb1k1gi12r2k2r2gi12k1lb1k1~x2/sett.png)|
+| [Italian](/variants/s30/db24k2db24k1lb1k1gi12r2k2r2gi12k1lb1k1db24r2lb2g2db24k1lb1k1gi12r2k2r2gi12k1lb1k1~x2/)|
+|![Italian example sett](/variants/s30/db24k2db24k1lb1k1gi12r2k2r2gi12k1lb1k1db24r2lb2g2db24k1lb1k1gi12r2k2r2gi12k1lb1k1~x2/sett.png)|

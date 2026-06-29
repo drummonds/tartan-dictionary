@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chattahoochee](/setts/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2/)|
-|![Chattahoochee example sett](/setts/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2/sett.png)|
+| [Chattahoochee](/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2/)|
+|![Chattahoochee example sett](/variants/s12/y3dg15ki3dg3ki3dg4ki8db8r11k3r3w3~x2/sett.png)|

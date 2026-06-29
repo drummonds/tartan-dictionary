@@ -1,0 +1,55 @@
+---
+title: "Loevenstein Castle"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r20k3r4lb2k7/)
+(the same proportion at any scale), whose colour order is pattern [KWRKR](/stripes/kwrkr/).
+
+Part of the [Loevenstein Castle](/tartans/loevenstein-castle/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5296
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Loevenstein Castle #2
+- Loevenstein Castle #3
+- Loevenstein Castle 1
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5296](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5296)
+- Scottish Tartans Authority (ITI): 3634
+
+## Thread count
+DR/40 K6 DR8 N4 K/14
+
+One full sett is **90 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR/</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#8C0000;"><span style="color:#8C0000;filter:grayscale(1) invert(1) contrast(100);">#8C0000</span></code> <small style="color:#888">#8C0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(40.2% 0.165 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#8C0000;"><span style="color:#8C0000;filter:grayscale(1) invert(1) contrast(100);">#8C0000</span></code> <small style="color:#888">#8C0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(40.2% 0.165 29.2)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> <small style="color:#888">#C8C8C8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(83.3% 0.000 89.9)</small></td></tr><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">14</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DR/40 K6 DR8 N4 K/14 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r20k3r4lb2k7~x2">Loevenstein Castle</a> <a class="nn-out" href="/variants/s5/r20k3r4lb2k7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r20k3r4lb2k7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.23</div><div class="nn-name"><a href="/ttd/edit/#slug=r20k3r4w2k7~x2&amp;base=r20k3r4lb2k7~x2">Loevenstein Castle 1 (Artefact)</a> <a class="nn-out" href="/variants/s5/r20k3r4w2k7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r20k3r4w2k7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=r4k8r12k1ly1~x2&amp;base=r20k3r4lb2k7~x2">MacKeane</a> <a class="nn-out" href="/variants/s5/r4k8r12k1ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r4k8r12k1ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=r41k19r7k9w3~x2&amp;base=r20k3r4lb2k7~x2">MacGregor, Black (Personal)</a> <a class="nn-out" href="/variants/s5/r41k19r7k9w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r41k19r7k9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=db4r3db3r22dg8r2~x2&amp;base=r20k3r4lb2k7~x2">Auld Reekie</a> <a class="nn-out" href="/variants/s6/db4r3db3r22dg8r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db4r3db3r22dg8r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g5r2k6r18k2r4~x2&amp;base=r20k3r4lb2k7~x2">MacQuarrie 5</a> <a class="nn-out" href="/variants/s7/r4g5r2k6r18k2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4g5r2k6r18k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=k2r6k2r6k12ly1~x4&amp;base=r20k3r4lb2k7~x2">MacQueen</a> <a class="nn-out" href="/variants/s6/k2r6k2r6k12ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2r6k2r6k12ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.33</div><div class="nn-name"><a href="/ttd/edit/#slug=k8r1k8r11ly1r1~x4&amp;base=r20k3r4lb2k7~x2">Swanstrom (Personal)</a> <a class="nn-out" href="/variants/s6/k8r1k8r11ly1r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k8r1k8r11ly1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=r4k1r12k12r2~x2&amp;base=r20k3r4lb2k7~x2">Campbell of Armaddie</a> <a class="nn-out" href="/variants/s5/r4k1r12k12r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r4k1r12k12r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=k16r2k2r12w1~x2&amp;base=r20k3r4lb2k7~x2">MacIver</a> <a class="nn-out" href="/variants/s5/k16r2k2r12w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k16r2k2r12w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.38</div><div class="nn-name"><a href="/ttd/edit/#slug=r36k18r4k7w2~x2&amp;base=r20k3r4lb2k7~x2">Hopkins (Name)</a> <a class="nn-out" href="/variants/s5/r36k18r4k7w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r36k18r4k7w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r20k3r4w2k7~x2/"><circle cx="396.6" cy="215.6" r="4" fill="#3465a4"><title>Loevenstein Castle 1 (Artefact)</title></circle></a><a href="/variants/s5/r4k8r12k1ly1~x2/"><circle cx="383.5" cy="213.8" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="381.4" cy="202.6" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s6/db4r3db3r22dg8r2~x2/"><circle cx="398.9" cy="202.7" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/variants/s7/r4g5r2k6r18k2r4~x2/"><circle cx="388.8" cy="201.6" r="4" fill="#3465a4"><title>MacQuarrie 5</title></circle></a><a href="/variants/s6/k2r6k2r6k12ly1~x4/"><circle cx="341.5" cy="217.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k8r1k8r11ly1r1~x4/"><circle cx="335.5" cy="215.7" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/variants/s5/r4k1r12k12r2~x2/"><circle cx="372.7" cy="231.0" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="359.3" cy="196.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="398.3" cy="190.2" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><circle cx="403.3" cy="218.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/r20k3r4lb2k7~x2/

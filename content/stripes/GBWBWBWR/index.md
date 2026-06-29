@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch House (Corporate)](/setts/s8/y52db6lb3db2lb2db2lb16r3~x2/)|
-|![Scotch House (Corporate) example sett](/setts/s8/y52db6lb3db2lb2db2lb16r3~x2/sett.png)|
+| [Scotch House (Corporate)](/variants/s8/y52db6lb3db2lb2db2lb16r3~x2/)|
+|![Scotch House (Corporate) example sett](/variants/s8/y52db6lb3db2lb2db2lb16r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ballater Victoria Week](/setts/s5/dp8ly6k2y1w1~x8/)|
-|![Ballater Victoria Week example sett](/setts/s5/dp8ly6k2y1w1~x8/sett.png)|
+| [Ballater Victoria Week](/variants/s5/dp8ly6k2y1w1~x8/)|
+|![Ballater Victoria Week example sett](/variants/s5/dp8ly6k2y1w1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reekie, Charlene (Personal)](/setts/s6/w43k5r3g5ly27dp5~x2/)|
-|![Reekie, Charlene (Personal) example sett](/setts/s6/w43k5r3g5ly27dp5~x2/sett.png)|
+| [Reekie, Charlene (Personal)](/variants/s6/w43k5r3g5ly27dp5~x2/)|
+|![Reekie, Charlene (Personal) example sett](/variants/s6/w43k5r3g5ly27dp5~x2/sett.png)|

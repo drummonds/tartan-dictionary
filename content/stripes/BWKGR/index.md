@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fily, Sylvain Roger](/setts/s5/r2g2k20w1db1~x6/)|
-|![Fily, Sylvain Roger example sett](/setts/s5/r2g2k20w1db1~x6/sett.png)|
+| [Fily, Sylvain Roger](/variants/s5/r2g2k20w1db1~x6/)|
+|![Fily, Sylvain Roger example sett](/variants/s5/r2g2k20w1db1~x6/sett.png)|

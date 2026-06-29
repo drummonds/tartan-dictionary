@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinross](/setts/s7/k6db1k6g4k10g20r2~x2/)|
-|![MacKinross example sett](/setts/s7/k6db1k6g4k10g20r2~x2/sett.png)|
+| [MacKinross](/variants/s7/k6db1k6g4k10g20r2~x2/)|
+|![MacKinross example sett](/variants/s7/k6db1k6g4k10g20r2~x2/sett.png)|

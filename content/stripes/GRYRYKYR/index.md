@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hackston (Green stripe) (Portrait)](/setts/s8/r51lr2k11lo3r11lo3r11g3~x2/)|
-|![Hackston (Green stripe) (Portrait) example sett](/setts/s8/r51lr2k11lo3r11lo3r11g3~x2/sett.png)|
+| [Hackston (Green stripe) (Portrait)](/variants/s8/r51lr2k11lo3r11lo3r11g3~x2/)|
+|![Hackston (Green stripe) (Portrait) example sett](/variants/s8/r51lr2k11lo3r11lo3r11g3~x2/sett.png)|

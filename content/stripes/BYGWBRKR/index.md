@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inkster (Name)](/setts/s8/db31ly4g68w4db31r2k6r2~x2/)|
-|![Inkster (Name) example sett](/setts/s8/db31ly4g68w4db31r2k6r2~x2/sett.png)|
+| [Inkster (Name)](/variants/s8/db31ly4g68w4db31r2k6r2~x2/)|
+|![Inkster (Name) example sett](/variants/s8/db31ly4g68w4db31r2k6r2~x2/sett.png)|

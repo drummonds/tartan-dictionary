@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber](/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/)|
-|![Lochaber example sett](/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/sett.png)|
-| [Lochaber - 1819 (District)](/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/)|
-|![Lochaber - 1819 (District) example sett](/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/sett.png)|
+| [Lochaber](/variants/s10/g4t2db33r2k35g33k1r2k1g4~x2/)|
+|![Lochaber example sett](/variants/s10/g4t2db33r2k35g33k1r2k1g4~x2/sett.png)|
+| [Lochaber - 1819 (District)](/variants/s10/g2t2db33r2k35g33k1r2k1g2~x2/)|
+|![Lochaber - 1819 (District) example sett](/variants/s10/g2t2db33r2k35g33k1r2k1g2~x2/sett.png)|

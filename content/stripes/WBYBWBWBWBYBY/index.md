@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Delta Dental Association](/setts/s13/wi4n1lr29n6w13n13w6n13w13n6lr29n1lg4~x2/)|
-|![Delta Dental Association example sett](/setts/s13/wi4n1lr29n6w13n13w6n13w13n6lr29n1lg4~x2/sett.png)|
+| [Delta Dental Association](/variants/s13/wi4n1lr29n6w13n13w6n13w13n6lr29n1lg4~x2/)|
+|![Delta Dental Association example sett](/variants/s13/wi4n1lr29n6w13n13w6n13w13n6lr29n1lg4~x2/sett.png)|

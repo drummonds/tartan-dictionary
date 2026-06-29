@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leslie Red (VS)](/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/)|
-|![Leslie Red (VS) example sett](/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/sett.png)|
+| [Leslie Red (VS)](/variants/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/)|
+|![Leslie Red (VS) example sett](/variants/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/sett.png)|

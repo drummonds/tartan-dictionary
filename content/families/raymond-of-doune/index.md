@@ -8,5 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/"><img src="/setts/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/sett.png" alt="Raymond of Doune" width="240"><br>Raymond of Doune</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r4dg10lo1lb1dt4lb1dt25r2/">Raymond of Doune</a> ★</td><td><code>R/8 DG20 LO2 LB2 DT8 LB2 DT50 R/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r4dg10lo1lb1dt4lb1dt25r2/"><img src="/variants/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/sett.png" alt="Raymond of Doune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

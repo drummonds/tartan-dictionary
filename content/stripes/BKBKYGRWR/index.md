@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Comyn, Cumming](/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/)|
-|![Comyn, Cumming example sett](/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/sett.png)|
-| [Comyn/Cumming](/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/)|
-|![Comyn/Cumming example sett](/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/sett.png)|
+| [Comyn, Cumming](/variants/s9/r4w1r4g10ly1k10t4k2t4~x4/)|
+|![Comyn, Cumming example sett](/variants/s9/r4w1r4g10ly1k10t4k2t4~x4/sett.png)|
+| [Comyn/Cumming](/variants/s9/r4w1r4dg10ly1k10t4k2t4~x4/)|
+|![Comyn/Cumming example sett](/variants/s9/r4w1r4dg10ly1k10t4k2t4~x4/sett.png)|

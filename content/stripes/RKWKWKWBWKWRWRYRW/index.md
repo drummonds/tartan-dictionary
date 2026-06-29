@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clanedin](/setts/s17/r3k8w2k3w2k2w6db3w6k2w2o3w2o4ly2o10w3~x2/)|
-|![Clanedin example sett](/setts/s17/r3k8w2k3w2k2w6db3w6k2w2o3w2o4ly2o10w3~x2/sett.png)|
+| [Clanedin](/variants/s17/r3k8w2k3w2k2w6db3w6k2w2o3w2o4ly2o10w3~x2/)|
+|![Clanedin example sett](/variants/s17/r3k8w2k3w2k2w6db3w6k2w2o3w2o4ly2o10w3~x2/sett.png)|

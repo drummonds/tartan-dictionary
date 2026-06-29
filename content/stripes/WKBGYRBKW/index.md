@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stott (Personal)](/setts/s9/w2k25dt2dg6ly2r6dt2k25w2~x2/)|
-|![Stott (Personal) example sett](/setts/s9/w2k25dt2dg6ly2r6dt2k25w2~x2/sett.png)|
+| [Stott (Personal)](/variants/s9/w2k25dt2dg6ly2r6dt2k25w2~x2/)|
+|![Stott (Personal) example sett](/variants/s9/w2k25dt2dg6ly2r6dt2k25w2~x2/sett.png)|

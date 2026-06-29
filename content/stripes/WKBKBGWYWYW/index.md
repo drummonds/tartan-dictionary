@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzpatrick](/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/)|
-|![Fitzpatrick example sett](/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/sett.png)|
-| [Fitzpatrick](/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/)|
-|![Fitzpatrick example sett](/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/sett.png)|
+| [Fitzpatrick](/variants/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/)|
+|![Fitzpatrick example sett](/variants/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/sett.png)|
+| [Fitzpatrick](/variants/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/)|
+|![Fitzpatrick example sett](/variants/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/sett.png)|

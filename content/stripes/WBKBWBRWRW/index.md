@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harris, Royal Blue (Dance)](/setts/s10/w3db2k4db2w2db26r4w30r2w3~x2/)|
-|![Harris, Royal Blue (Dance) example sett](/setts/s10/w3db2k4db2w2db26r4w30r2w3~x2/sett.png)|
+| [Harris, Royal Blue (Dance)](/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/)|
+|![Harris, Royal Blue (Dance) example sett](/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/sett.png)|

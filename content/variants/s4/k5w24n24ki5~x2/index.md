@@ -1,0 +1,58 @@
+---
+title: "City of London"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5w24n24ki5/)
+(the same proportion at any scale), whose colour order is pattern [KBWK](/stripes/kbwk/).
+
+Part of the [City of London](/tartans/city-of-london/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734
+
+## Provenance
+
+Earliest known date: 12 November 2012 A tartan for the City of London, approved by Roger Gifford, elected Lord Mayor of the City of London in 2012, using the white and red of the cross of St. George and silver grey from the City Arms. Woven Sample: A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland.
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>17/05/2012 — City of London (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734">record</a>)</li>
+<li>undated — City of London Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10734">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734)
+
+## Thread count
+K/10 N48 W48 R/10
+
+One full sett is **212 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#666666;"><span style="color:#666666;filter:grayscale(1) invert(1) contrast(100);">#666666</span></code> <small style="color:#888">#666666</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(51.0% 0.000 89.9)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> <small style="color:#888">#FFFFFF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(100.0% 0.000 89.9)</small></td></tr><tr><td>/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/10 N48 W48 R/10 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k5w24n24ki5~x2">City of London</a> <a class="nn-out" href="/variants/s4/k5w24n24ki5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/k5w24n24ki5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.53</div><div class="nn-name"><a href="/ttd/edit/#slug=k5n24w24r5~x2&amp;base=k5w24n24ki5~x2">City of London (Corporate)</a> <a class="nn-out" href="/variants/s4/k5n24w24r5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k5n24w24r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.65</div><div class="nn-name"><a href="/ttd/edit/#slug=r7w36db36ly7~x2&amp;base=k5w24n24ki5~x2">MacRae of Conchra #3</a> <a class="nn-out" href="/variants/s4/r7w36db36ly7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r7w36db36ly7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=r1w8dt8ly1~x4&amp;base=k5w24n24ki5~x2">MacRae of Conchra</a> <a class="nn-out" href="/variants/s4/r1w8dt8ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r1w8dt8ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=b8w13r3w2k5~x2&amp;base=k5w24n24ki5~x2">Boswell Dress (Personal)</a> <a class="nn-out" href="/variants/s5/b8w13r3w2k5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/b8w13r3w2k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=ly40b8k20g11~x2&amp;base=k5w24n24ki5~x2">Brun, Pierre Emmanuel (Personal)</a> <a class="nn-out" href="/variants/s4/ly40b8k20g11~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly40b8k20g11~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/ttd/edit/#slug=o22ly10w3db8~x2&amp;base=k5w24n24ki5~x2">Louisburg</a> <a class="nn-out" href="/variants/s4/o22ly10w3db8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/o22ly10w3db8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.39</div><div class="nn-name"><a href="/ttd/edit/#slug=o22ly10w3k8~x2&amp;base=k5w24n24ki5~x2">Louisburg Canadian District Tartan</a> <a class="nn-out" href="/variants/s4/o22ly10w3k8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/o22ly10w3k8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.41</div><div class="nn-name"><a href="/ttd/edit/#slug=k23b6k6r5w35r10~x2&amp;base=k5w24n24ki5~x2">Merrilees Dress (Dance)</a> <a class="nn-out" href="/variants/s6/k23b6k6r5w35r10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k23b6k6r5w35r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=db10w3db12ly14r4~x2&amp;base=k5w24n24ki5~x2">MacLeod, of Argentina</a> <a class="nn-out" href="/variants/s5/db10w3db12ly14r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db10w3db12ly14r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/ttd/edit/#slug=db3w25k25r3~x2&amp;base=k5w24n24ki5~x2">Gleneckley</a> <a class="nn-out" href="/variants/s4/db3w25k25r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3w25k25r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="154.9" cy="237.3" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s4/r7w36db36ly7~x2/"><circle cx="160.8" cy="234.0" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s4/r1w8dt8ly1~x4/"><circle cx="207.3" cy="213.6" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s5/b8w13r3w2k5~x2/"><circle cx="164.3" cy="214.5" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/variants/s4/ly40b8k20g11~x2/"><circle cx="167.1" cy="240.9" r="4" fill="#3465a4"><title>Brun, Pierre Emmanuel (Personal)</title></circle></a><a href="/variants/s4/o22ly10w3db8~x2/"><circle cx="218.7" cy="236.7" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/o22ly10w3k8~x2/"><circle cx="200.1" cy="228.9" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s6/k23b6k6r5w35r10~x2/"><circle cx="153.6" cy="191.5" r="4" fill="#3465a4"><title>Merrilees Dress (Dance)</title></circle></a><a href="/variants/s5/db10w3db12ly14r4~x2/"><circle cx="186.2" cy="256.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s4/db3w25k25r3~x2/"><circle cx="211.2" cy="212.6" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><circle cx="146.1" cy="237.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s4/k5w24n24ki5~x2/

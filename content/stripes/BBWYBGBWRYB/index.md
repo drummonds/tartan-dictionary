@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colours of Hope](/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/)|
-|![Colours of Hope example sett](/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/sett.png)|
+| [Colours of Hope](/variants/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/)|
+|![Colours of Hope example sett](/variants/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/sett.png)|

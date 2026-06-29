@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connel](/tartans/w1r8k8ly1/)|
-|![Connel example sett](/setts/s4/w1r8k8ly1~x2/sett.png)|
-| [Masai Shuka 18 (Artefact)](/setts/s4/ly6k3r40w3~x2/)|
-|![Masai Shuka 18 (Artefact) example sett](/setts/s4/ly6k3r40w3~x2/sett.png)|
-| [Riddick Furya](/setts/s4/ly2k3r31w1~x4/)|
-|![Riddick Furya example sett](/setts/s4/ly2k3r31w1~x4/sett.png)|
+| [Connel](/setts/w1r8k8ly1/)|
+|![Connel example sett](/variants/s4/w1r8k8ly1~x2/sett.png)|
+| [Masai Shuka 18 (Artefact)](/variants/s4/ly6k3r40w3~x2/)|
+|![Masai Shuka 18 (Artefact) example sett](/variants/s4/ly6k3r40w3~x2/sett.png)|
+| [Riddick Furya](/variants/s4/ly2k3r31w1~x4/)|
+|![Riddick Furya example sett](/variants/s4/ly2k3r31w1~x4/sett.png)|

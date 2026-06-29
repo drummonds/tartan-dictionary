@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barbecue Plaid (Fashion)](/setts/s10/ly2k2r2w8k14r1k1r1k1r1~x2/)|
-|![Barbecue Plaid (Fashion) example sett](/setts/s10/ly2k2r2w8k14r1k1r1k1r1~x2/sett.png)|
+| [Barbecue Plaid (Fashion)](/variants/s10/ly2k2r2w8k14r1k1r1k1r1~x2/)|
+|![Barbecue Plaid (Fashion) example sett](/variants/s10/ly2k2r2w8k14r1k1r1k1r1~x2/sett.png)|

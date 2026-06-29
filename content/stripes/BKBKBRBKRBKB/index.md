@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmoral (Pendleton)](/setts/s12/n3k2n19r3k1n3r4n3k1n2k1n2~x4/)|
-|![Balmoral (Pendleton) example sett](/setts/s12/n3k2n19r3k1n3r4n3k1n2k1n2~x4/sett.png)|
+| [Balmoral (Pendleton)](/variants/s12/n3k2n19r3k1n3r4n3k1n2k1n2~x4/)|
+|![Balmoral (Pendleton) example sett](/variants/s12/n3k2n19r3k1n3r4n3k1n2k1n2~x4/sett.png)|

@@ -1,0 +1,56 @@
+---
+title: "Dunoon"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2g13lo13w2/)
+(the same proportion at any scale), whose colour order is pattern [WGYW](/stripes/wgyw/).
+
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Provenance
+
+Earliest known date: 1935 Glasgow Irish Pipe Band
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Dunoon
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Dunoon (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Dunoon Irish Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1802">record</a>)</li>
+</ul>
+</details>
+
+## Thread count
+LN/12 O78 G78 LN/12
+
+One full sett is **336 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Dictionary</strong> <small style="color:#888">(1 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">78</td><td><code style="background-color:#FF8500;"><span style="color:#FF8500;filter:grayscale(1) invert(1) contrast(100);">#FF8500</span></code> <small style="color:#888">#FF8500</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(74.0% 0.183 55.1)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">78</td><td><code style="background-color:#008000;"><span style="color:#008000;filter:grayscale(1) invert(1) contrast(100);">#008000</span></code> <small style="color:#888">#008000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(52.0% 0.177 142.5)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="LN/12 O78 G78 LN/12 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=w2g13lo13w2~x6">Dunoon</a> <a class="nn-out" href="/variants/s4/w2g13lo13w2~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/w2g13lo13w2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=w2o13g13w2~x6&amp;base=w2g13lo13w2~x6">Dunoon Irish (Corporate)</a> <a class="nn-out" href="/variants/s4/w2o13g13w2~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/w2o13g13w2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=do4g25lo10g3lo18r4~x2&amp;base=w2g13lo13w2~x6">Unidentfied (Ligioner Highland Games</a> <a class="nn-out" href="/variants/s6/do4g25lo10g3lo18r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/do4g25lo10g3lo18r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.56</div><div class="nn-name"><a href="/ttd/edit/#slug=lo5g7k1t1~x4&amp;base=w2g13lo13w2~x6">Wilson's, No 195</a> <a class="nn-out" href="/variants/s4/lo5g7k1t1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/lo5g7k1t1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.73</div><div class="nn-name"><a href="/ttd/edit/#slug=g6ly1r1t2r2~x4&amp;base=w2g13lo13w2~x6">Wilson's, No 179</a> <a class="nn-out" href="/variants/s5/g6ly1r1t2r2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g6ly1r1t2r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.89</div><div class="nn-name"><a href="/ttd/edit/#slug=o20w13ly24k3~x2&amp;base=w2g13lo13w2~x6">Spirit of Riverside (Corporate)</a> <a class="nn-out" href="/variants/s4/o20w13ly24k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/o20w13ly24k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.94</div><div class="nn-name"><a href="/ttd/edit/#slug=r4lyi1r3ly1lyi8ly2~x4&amp;base=w2g13lo13w2~x6">Buchele Check (Fashion?)</a> <a class="nn-out" href="/variants/s6/r4lyi1r3ly1lyi8ly2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4lyi1r3ly1lyi8ly2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.95</div><div class="nn-name"><a href="/ttd/edit/#slug=w1ly8g3ly1db3ly1~x4&amp;base=w2g13lo13w2~x6">Fraser, Yellow</a> <a class="nn-out" href="/variants/s6/w1ly8g3ly1db3ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w1ly8g3ly1db3ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.97</div><div class="nn-name"><a href="/ttd/edit/#slug=ly1r3g7r3g7r3ly1~x4&amp;base=w2g13lo13w2~x6">Unidentified 24</a> <a class="nn-out" href="/variants/s7/ly1r3g7r3g7r3ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly1r3g7r3g7r3ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.98</div><div class="nn-name"><a href="/ttd/edit/#slug=w5ly32dt32ly5~x2&amp;base=w2g13lo13w2~x6">Barclay Dress</a> <a class="nn-out" href="/variants/s4/w5ly32dt32ly5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/w5ly32dt32ly5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">2.00</div><div class="nn-name"><a href="/ttd/edit/#slug=lo17ly17lo17g26db5~x2&amp;base=w2g13lo13w2~x6">Wild Mustard Dreams</a> <a class="nn-out" href="/variants/s5/lo17ly17lo17g26db5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lo17ly17lo17g26db5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w2o13g13w2~x6/"><circle cx="248.3" cy="258.2" r="4" fill="#3465a4"><title>Dunoon Irish (Corporate)</title></circle></a><a href="/variants/s6/do4g25lo10g3lo18r4~x2/"><circle cx="221.4" cy="206.0" r="4" fill="#3465a4"><title>Unidentfied (Ligioner Highland Games</title></circle></a><a href="/variants/s4/lo5g7k1t1~x4/"><circle cx="236.1" cy="235.8" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/variants/s5/g6ly1r1t2r2~x4/"><circle cx="244.6" cy="244.0" r="4" fill="#3465a4"><title>Wilson's, No 179</title></circle></a><a href="/variants/s4/o20w13ly24k3~x2/"><circle cx="182.3" cy="250.8" r="4" fill="#3465a4"><title>Spirit of Riverside (Corporate)</title></circle></a><a href="/variants/s6/r4lyi1r3ly1lyi8ly2~x4/"><circle cx="259.3" cy="217.0" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/variants/s6/w1ly8g3ly1db3ly1~x4/"><circle cx="278.2" cy="194.4" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/variants/s7/ly1r3g7r3g7r3ly1~x4/"><circle cx="307.3" cy="251.0" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/variants/s4/w5ly32dt32ly5~x2/"><circle cx="248.2" cy="242.4" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s5/lo17ly17lo17g26db5~x2/"><circle cx="145.2" cy="274.2" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><circle cx="249.7" cy="255.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s4/w2g13lo13w2~x6/

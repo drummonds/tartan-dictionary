@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meiklejohn (Personal)](/setts/s8/m2k13db4k13dg6k17dg23w1~x2/)|
-|![Meiklejohn (Personal) example sett](/setts/s8/m2k13db4k13dg6k17dg23w1~x2/sett.png)|
+| [Meiklejohn (Personal)](/variants/s8/m2k13db4k13dg6k17dg23w1~x2/)|
+|![Meiklejohn (Personal) example sett](/variants/s8/m2k13db4k13dg6k17dg23w1~x2/sett.png)|

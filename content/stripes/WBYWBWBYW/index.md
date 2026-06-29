@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silver (Personal)](/setts/s9/w24b24lr6w1db4w20b10lr3w4~x2/)|
-|![Silver (Personal) example sett](/setts/s9/w24b24lr6w1db4w20b10lr3w4~x2/sett.png)|
+| [Silver (Personal)](/variants/s9/w24b24lr6w1db4w20b10lr3w4~x2/)|
+|![Silver (Personal) example sett](/variants/s9/w24b24lr6w1db4w20b10lr3w4~x2/sett.png)|

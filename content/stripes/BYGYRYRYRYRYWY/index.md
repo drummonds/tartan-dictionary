@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Catalan](/setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/)|
-|![Catalan example sett](/setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/sett.png)|
+| [Catalan](/variants/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/)|
+|![Catalan example sett](/variants/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/sett.png)|

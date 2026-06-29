@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Granite](/setts/s10/do8y2do27k10n4k2n3k2n16do2~x2/)|
-|![Highland Granite example sett](/setts/s10/do8y2do27k10n4k2n3k2n16do2~x2/sett.png)|
+| [Highland Granite](/variants/s10/do8y2do27k10n4k2n3k2n16do2~x2/)|
+|![Highland Granite example sett](/variants/s10/do8y2do27k10n4k2n3k2n16do2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nor Westers](/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/)|
-|![Nor Westers example sett](/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/sett.png)|
+| [Nor Westers](/variants/s9/k1g23k1ly3k1w8r1t5k1~x2/)|
+|![Nor Westers example sett](/variants/s9/k1g23k1ly3k1w8r1t5k1~x2/sett.png)|

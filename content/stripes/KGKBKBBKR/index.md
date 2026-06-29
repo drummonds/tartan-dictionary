@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lusk (Personal)](/setts/s9/k2g30k3db4k2dbi18t1k3r2~x2/)|
-|![Lusk (Personal) example sett](/setts/s9/k2g30k3db4k2dbi18t1k3r2~x2/sett.png)|
+| [Lusk (Personal)](/variants/s9/k2g30k3db4k2dbi18t1k3r2~x2/)|
+|![Lusk (Personal) example sett](/variants/s9/k2g30k3db4k2dbi18t1k3r2~x2/sett.png)|

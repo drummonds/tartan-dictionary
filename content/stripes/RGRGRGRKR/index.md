@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maxwell Variant](/setts/s9/r40k15r6dg32r6dg32r40dg2r20/)|
-|![Maxwell Variant example sett](/setts/s9/r40k15r6dg32r6dg32r40dg2r20/sett.png)|
+| [Maxwell Variant](/variants/s9/r40k15r6dg32r6dg32r40dg2r20/)|
+|![Maxwell Variant example sett](/variants/s9/r40k15r6dg32r6dg32r40dg2r20/sett.png)|

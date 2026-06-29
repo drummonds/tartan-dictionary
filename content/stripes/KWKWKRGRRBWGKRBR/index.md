@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Edinburgh (2001) (District)](/setts/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/)|
-|![City of Edinburgh (2001) (District) example sett](/setts/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/sett.png)|
+| [City of Edinburgh (2001) (District)](/variants/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/)|
+|![City of Edinburgh (2001) (District) example sett](/variants/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathisla (District)](/setts/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2/)|
-|![Strathisla (District) example sett](/setts/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2/sett.png)|
+| [Strathisla (District)](/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2/)|
+|![Strathisla (District) example sett](/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2/sett.png)|

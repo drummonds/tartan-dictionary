@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified, Toy Bear](/setts/s8/dg47ly2dg5ly2dg4k15db19r2~x2/)|
-|![Unidentified, Toy Bear example sett](/setts/s8/dg47ly2dg5ly2dg4k15db19r2~x2/sett.png)|
+| [Unidentified, Toy Bear](/variants/s8/dg47ly2dg5ly2dg4k15db19r2~x2/)|
+|![Unidentified, Toy Bear example sett](/variants/s8/dg47ly2dg5ly2dg4k15db19r2~x2/sett.png)|

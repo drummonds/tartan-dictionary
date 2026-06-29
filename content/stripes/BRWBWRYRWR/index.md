@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenfinnan (Clan?)](/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/)|
-|![Glenfinnan (Clan?) example sett](/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/sett.png)|
+| [Glenfinnan (Clan?)](/variants/s10/n28r26w2n5w2r26lg28r5w2r5~x2/)|
+|![Glenfinnan (Clan?) example sett](/variants/s10/n28r26w2n5w2r26lg28r5w2r5~x2/sett.png)|

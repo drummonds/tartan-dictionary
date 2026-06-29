@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Svanholm (Personal)](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/)|
-|![Svanholm (Personal) example sett](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/sett.png)|
+| [Svanholm (Personal)](/variants/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/)|
+|![Svanholm (Personal) example sett](/variants/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/sett.png)|

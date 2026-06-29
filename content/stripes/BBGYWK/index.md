@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lethcoe (Thousand Oaks) (Personal)](/setts/s6/k16w4ly2g31t4dp4~x4/)|
-|![Lethcoe (Thousand Oaks) (Personal) example sett](/setts/s6/k16w4ly2g31t4dp4~x4/sett.png)|
+| [Lethcoe (Thousand Oaks) (Personal)](/variants/s6/k16w4ly2g31t4dp4~x4/)|
+|![Lethcoe (Thousand Oaks) (Personal) example sett](/variants/s6/k16w4ly2g31t4dp4~x4/sett.png)|

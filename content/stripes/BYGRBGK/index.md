@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mayo](/setts/s7/k4g16db11r16g25ly2t3~x2/)|
-|![Mayo example sett](/setts/s7/k4g16db11r16g25ly2t3~x2/sett.png)|
-| [Mayo, County (District)](/setts/s7/k4dg16db11r16dg25lo2t3~x2/)|
-|![Mayo, County (District) example sett](/setts/s7/k4dg16db11r16dg25lo2t3~x2/sett.png)|
+| [Mayo](/variants/s7/k4g16db11r16g25ly2t3~x2/)|
+|![Mayo example sett](/variants/s7/k4g16db11r16g25ly2t3~x2/sett.png)|
+| [Mayo, County (District)](/variants/s7/k4dg16db11r16dg25lo2t3~x2/)|
+|![Mayo, County (District) example sett](/variants/s7/k4dg16db11r16dg25lo2t3~x2/sett.png)|

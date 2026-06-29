@@ -1,9 +1,5 @@
 ---
 title: "Clan MacLaine"
-date: 2023-03-18
+redirect: "/families/maclaine-of-lochbuie/"
 ---
-## Families
-
-- [MacLaine of Lochbuie](/families/maclaine-of-lochbuie/)
-- [MacLaine of Lochbuie Htg](/families/maclaine-of-lochbuie-htg/)
-
+Clan MacLaine is recorded as the single family [MacLaine of Lochbuie](/families/maclaine-of-lochbuie/) — redirecting there.

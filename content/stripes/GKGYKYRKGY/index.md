@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antrim](/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/)|
-|![Antrim example sett](/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/sett.png)|
+| [Antrim](/variants/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/)|
+|![Antrim example sett](/variants/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/sett.png)|

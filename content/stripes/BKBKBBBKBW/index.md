@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melrose Newbigging Grey (Name)](/setts/s10/n1k6n35k6n2dp3n1k6n2w1~x2/)|
-|![Melrose Newbigging Grey (Name) example sett](/setts/s10/n1k6n35k6n2dp3n1k6n2w1~x2/sett.png)|
+| [Melrose Newbigging Grey (Name)](/variants/s10/n1k6n35k6n2dp3n1k6n2w1~x2/)|
+|![Melrose Newbigging Grey (Name) example sett](/variants/s10/n1k6n35k6n2dp3n1k6n2w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Contrecoeur](/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/)|
-|![Contrecoeur example sett](/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/sett.png)|
+| [Contrecoeur](/variants/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/)|
+|![Contrecoeur example sett](/variants/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/sett.png)|

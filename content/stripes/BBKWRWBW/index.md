@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silver Wedding (Fashion)](/setts/s8/dp8n44k32lp2o53lb8n8lb4/)|
-|![Silver Wedding (Fashion) example sett](/setts/s8/dp8n44k32lp2o53lb8n8lb4/sett.png)|
+| [Silver Wedding (Fashion)](/variants/s8/dp8n44k32lp2o53lb8n8lb4/)|
+|![Silver Wedding (Fashion) example sett](/variants/s8/dp8n44k32lp2o53lb8n8lb4/sett.png)|

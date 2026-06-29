@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henderson](/setts/s9/ly1k6dg4k1dg16db1dg4db6lb1~x2/)|
-|![Henderson example sett](/setts/s9/ly1k6dg4k1dg16db1dg4db6lb1~x2/sett.png)|
-| [MacKendrick](/tartans/w1db6g4db1g16k1g4k6ly1/)|
-|![MacKendrick example sett](/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/sett.png)|
+| [Henderson](/variants/s9/ly1k6dg4k1dg16db1dg4db6lb1~x2/)|
+|![Henderson example sett](/variants/s9/ly1k6dg4k1dg16db1dg4db6lb1~x2/sett.png)|
+| [MacKendrick](/setts/w1db6g4db1g16k1g4k6ly1/)|
+|![MacKendrick example sett](/variants/s9/w1db6g4db1g16k1g4k6ly1~x2/sett.png)|

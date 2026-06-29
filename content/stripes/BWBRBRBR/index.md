@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Turnberry, Manx Snaefell](/setts/s8/o22dr2o2dr2o2dr15w17dr3~x2/)|
-|![Turnberry, Manx Snaefell example sett](/setts/s8/o22dr2o2dr2o2dr15w17dr3~x2/sett.png)|
+| [Turnberry, Manx Snaefell](/variants/s8/o22dr2o2dr2o2dr15w17dr3~x2/)|
+|![Turnberry, Manx Snaefell example sett](/variants/s8/o22dr2o2dr2o2dr15w17dr3~x2/sett.png)|

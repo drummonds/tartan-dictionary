@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laporte](/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/)|
-|![Laporte example sett](/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/sett.png)|
+| [Laporte](/variants/s10/y8r6k4r64o1k28r6y40r6k4~x2/)|
+|![Laporte example sett](/variants/s10/y8r6k4r64o1k28r6y40r6k4~x2/sett.png)|

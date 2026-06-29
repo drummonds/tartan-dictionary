@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx National](/setts/s7/p8g31r4y4db17b64w4/)|
-|![Manx National example sett](/setts/s7/p8g31r4y4db17b64w4/sett.png)|
-| [Manx National](/setts/s7/p2g6r1y1db3b10w1~x2/)|
-|![Manx National example sett](/setts/s7/p2g6r1y1db3b10w1~x2/sett.png)|
+| [Manx National](/variants/s7/p2g6r1y1db3b10w1~x2/)|
+|![Manx National example sett](/variants/s7/p2g6r1y1db3b10w1~x2/sett.png)|
+| [Manx National](/variants/s7/p8g31r4y4db17b64w4/)|
+|![Manx National example sett](/variants/s7/p8g31r4y4db17b64w4/sett.png)|

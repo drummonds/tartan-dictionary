@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bonnie Royal](/setts/s6/w5db32g12db2w30k4~x2/)|
-|![Bonnie Royal example sett](/setts/s6/w5db32g12db2w30k4~x2/sett.png)|
+| [Bonnie Royal](/variants/s6/w5db32g12db2w30k4~x2/)|
+|![Bonnie Royal example sett](/variants/s6/w5db32g12db2w30k4~x2/sett.png)|

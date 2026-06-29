@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden Grey](/setts/s8/r6db3dp24w2k23y23k2y6~x2/)|
-|![Culloden Grey example sett](/setts/s8/r6db3dp24w2k23y23k2y6~x2/sett.png)|
-| [Culloden, Grey](/setts/s8/r6db3p24w2k23y23k2y6~x2/)|
-|![Culloden, Grey example sett](/setts/s8/r6db3p24w2k23y23k2y6~x2/sett.png)|
+| [Culloden Grey](/variants/s8/r6db3dp24w2k23y23k2y6~x2/)|
+|![Culloden Grey example sett](/variants/s8/r6db3dp24w2k23y23k2y6~x2/sett.png)|
+| [Culloden, Grey](/variants/s8/r6db3p24w2k23y23k2y6~x2/)|
+|![Culloden, Grey example sett](/variants/s8/r6db3p24w2k23y23k2y6~x2/sett.png)|

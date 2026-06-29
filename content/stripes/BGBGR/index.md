@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hector, James (Corporate)](/setts/s5/do2dg11dt27dg8r2~x2/)|
-|![Hector, James (Corporate) example sett](/setts/s5/do2dg11dt27dg8r2~x2/sett.png)|
-| [MacNab WI 1](/setts/s5/dr24dg1b1dg2r24~x2/)|
-|![MacNab WI 1 example sett](/setts/s5/dr24dg1b1dg2r24~x2/sett.png)|
-| [Unidentified #24](/setts/s5/db16dy2db16dy19r4~x3/)|
-|![Unidentified #24 example sett](/setts/s5/db16dy2db16dy19r4~x3/sett.png)|
+| [Hector, James (Corporate)](/variants/s5/do2dg11dt27dg8r2~x2/)|
+|![Hector, James (Corporate) example sett](/variants/s5/do2dg11dt27dg8r2~x2/sett.png)|
+| [MacNab WI 1](/variants/s5/dr24dg1b1dg2r24~x2/)|
+|![MacNab WI 1 example sett](/variants/s5/dr24dg1b1dg2r24~x2/sett.png)|
+| [Unidentified #24](/variants/s5/db16dy2db16dy19r4~x3/)|
+|![Unidentified #24 example sett](/variants/s5/db16dy2db16dy19r4~x3/sett.png)|

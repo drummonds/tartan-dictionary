@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davet (2014)](/setts/s6/t5k1w11k1r42k1~x2/)|
-|![Davet (2014) example sett](/setts/s6/t5k1w11k1r42k1~x2/sett.png)|
+| [Davet (2014)](/variants/s6/t5k1w11k1r42k1~x2/)|
+|![Davet (2014) example sett](/variants/s6/t5k1w11k1r42k1~x2/sett.png)|

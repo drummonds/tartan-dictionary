@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chisholm VS](/tartans/r6lr1r24db6dg2k1dg2k1dg12r1/)|
-|![Chisholm VS example sett](/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1/sett.png)|
+| [Chisholm VS](/setts/r6lr1r24db6dg2k1dg2k1dg12r1/)|
+|![Chisholm VS example sett](/variants/s10/r6lr1r24db6dg2k1dg2k1dg12r1/sett.png)|

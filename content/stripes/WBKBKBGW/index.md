@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelvinside Academy (School)](/setts/s8/w4y15db8k4db28k2db4w2/)|
-|![Kelvinside Academy (School) example sett](/setts/s8/w4y15db8k4db28k2db4w2/sett.png)|
+| [Kelvinside Academy (School)](/variants/s8/w4y15db8k4db28k2db4w2/)|
+|![Kelvinside Academy (School) example sett](/variants/s8/w4y15db8k4db28k2db4w2/sett.png)|

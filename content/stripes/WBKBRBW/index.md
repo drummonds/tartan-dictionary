@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Central Newcastle School](/setts/s7/lp10dp9o59dp9k59dp9lp5/)|
-|![Central Newcastle School example sett](/setts/s7/lp10dp9o59dp9k59dp9lp5/sett.png)|
+| [Central Newcastle School](/variants/s7/lp10dp9o59dp9k59dp9lp5/)|
+|![Central Newcastle School example sett](/variants/s7/lp10dp9o59dp9k59dp9lp5/sett.png)|

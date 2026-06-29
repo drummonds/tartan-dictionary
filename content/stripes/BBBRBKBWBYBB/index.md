@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manchester City Football Club "Blue Moon"](/setts/s12/db4t16db4r2db2k2db2w5db3ly2db2t2~x2/)|
-|![Manchester City Football Club "Blue Moon" example sett](/setts/s12/db4t16db4r2db2k2db2w5db3ly2db2t2~x2/sett.png)|
+| [Manchester City Football Club "Blue Moon"](/variants/s12/db4t16db4r2db2k2db2w5db3ly2db2t2~x2/)|
+|![Manchester City Football Club "Blue Moon" example sett](/variants/s12/db4t16db4r2db2k2db2w5db3ly2db2t2~x2/sett.png)|

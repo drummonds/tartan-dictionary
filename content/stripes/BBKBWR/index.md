@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gandy of Myrton (Name)](/setts/s6/r14w5dt20k10t10dt10~x2/)|
-|![Gandy of Myrton (Name) example sett](/setts/s6/r14w5dt20k10t10dt10~x2/sett.png)|
+| [Gandy of Myrton (Name)](/variants/s6/r14w5dt20k10t10dt10~x2/)|
+|![Gandy of Myrton (Name) example sett](/variants/s6/r14w5dt20k10t10dt10~x2/sett.png)|

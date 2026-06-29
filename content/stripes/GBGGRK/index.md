@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rowardennan](/setts/s6/k3r22dgi5dg10do10dg2~x2/)|
-|![Rowardennan example sett](/setts/s6/k3r22dgi5dg10do10dg2~x2/sett.png)|
+| [Rowardennan](/variants/s6/k3r22dgi5dg10do10dg2~x2/)|
+|![Rowardennan example sett](/variants/s6/k3r22dgi5dg10do10dg2~x2/sett.png)|

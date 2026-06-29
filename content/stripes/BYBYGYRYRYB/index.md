@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C19th (Silk Sash)](/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/)|
-|![Unnamed C19th (Silk Sash) example sett](/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/sett.png)|
+| [Unnamed C19th (Silk Sash)](/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/)|
+|![Unnamed C19th (Silk Sash) example sett](/variants/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/sett.png)|

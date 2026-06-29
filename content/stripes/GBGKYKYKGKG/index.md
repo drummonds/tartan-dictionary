@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hopetoun](/setts/s11/g13k2g2k11ly1k2ly1k11g2b1g11~x4/)|
-|![Hopetoun example sett](/setts/s11/g13k2g2k11ly1k2ly1k11g2b1g11~x4/sett.png)|
+| [Hopetoun](/variants/s11/g13k2g2k11ly1k2ly1k11g2b1g11~x4/)|
+|![Hopetoun example sett](/variants/s11/g13k2g2k11ly1k2ly1k11g2b1g11~x4/sett.png)|

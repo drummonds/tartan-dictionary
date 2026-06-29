@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arundel County (Dalgleish)](/setts/s8/r2t5k4lo1k4db16k3g2~x4/)|
-|![Arundel County (Dalgleish) example sett](/setts/s8/r2t5k4lo1k4db16k3g2~x4/sett.png)|
+| [Arundel County (Dalgleish)](/variants/s8/r2t5k4lo1k4db16k3g2~x4/)|
+|![Arundel County (Dalgleish) example sett](/variants/s8/r2t5k4lo1k4db16k3g2~x4/sett.png)|

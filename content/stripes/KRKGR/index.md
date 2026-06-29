@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Novotel, The](/setts/s5/ki3r11k26dy11ri3~x2/)|
-|![Novotel, The example sett](/setts/s5/ki3r11k26dy11ri3~x2/sett.png)|
+| [Novotel, The](/variants/s5/ki3r11k26dy11ri3~x2/)|
+|![Novotel, The example sett](/variants/s5/ki3r11k26dy11ri3~x2/sett.png)|

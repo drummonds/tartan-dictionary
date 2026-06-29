@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yamaue (Corporate)](/setts/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/)|
-|![Yamaue (Corporate) example sett](/setts/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/sett.png)|
+| [Yamaue (Corporate)](/variants/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/)|
+|![Yamaue (Corporate) example sett](/variants/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/sett.png)|

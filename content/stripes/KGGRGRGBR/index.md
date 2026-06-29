@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glens of Corbie (Corporate)](/setts/s9/k3g30y20o6y3o3y3dt20r2~x2/)|
-|![Glens of Corbie (Corporate) example sett](/setts/s9/k3g30y20o6y3o3y3dt20r2~x2/sett.png)|
+| [Glens of Corbie (Corporate)](/variants/s9/k3g30y20o6y3o3y3dt20r2~x2/)|
+|![Glens of Corbie (Corporate) example sett](/variants/s9/k3g30y20o6y3o3y3dt20r2~x2/sett.png)|

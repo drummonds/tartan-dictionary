@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of 1994](/setts/s9/k13ly4g15w4r13w4g15w4db13~x2/)|
-|![Spirit of 1994 example sett](/setts/s9/k13ly4g15w4r13w4g15w4db13~x2/sett.png)|
+| [Spirit of 1994](/variants/s9/k13ly4g15w4r13w4g15w4db13~x2/)|
+|![Spirit of 1994 example sett](/variants/s9/k13ly4g15w4r13w4g15w4db13~x2/sett.png)|

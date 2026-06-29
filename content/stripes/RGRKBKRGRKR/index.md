@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)](/setts/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/)|
-|![MacNicol/Nicolson (Inverness Tweed Mill Co Ltd) example sett](/setts/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/sett.png)|
+| [MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)](/variants/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/)|
+|![MacNicol/Nicolson (Inverness Tweed Mill Co Ltd) example sett](/variants/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/sett.png)|

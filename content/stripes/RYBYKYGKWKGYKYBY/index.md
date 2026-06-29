@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling](/setts/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/)|
-|![Stirling example sett](/setts/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/sett.png)|
+| [Stirling](/variants/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/)|
+|![Stirling example sett](/variants/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/sett.png)|

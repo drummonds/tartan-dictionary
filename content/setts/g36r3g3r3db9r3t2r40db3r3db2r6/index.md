@@ -1,0 +1,5 @@
+---
+title: "MacLintock - 1880 (Clan)"
+redirect: "/variants/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [MacLintock - 1880 (Clan)](/variants/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/).

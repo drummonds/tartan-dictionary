@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson](/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/)|
-|![MacPherson example sett](/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/sett.png)|
+| [MacPherson](/variants/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/)|
+|![MacPherson example sett](/variants/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/sett.png)|

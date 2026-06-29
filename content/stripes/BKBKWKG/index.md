@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kyle](/setts/s7/y19k2w2k2n5k2n5~x4/)|
-|![Kyle example sett](/setts/s7/y19k2w2k2n5k2n5~x4/sett.png)|
+| [Kyle](/variants/s7/y19k2w2k2n5k2n5~x4/)|
+|![Kyle example sett](/variants/s7/y19k2w2k2n5k2n5~x4/sett.png)|

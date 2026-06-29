@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reid and Taylor](/setts/s7/k2g10k9db9r1k1db2~x2/)|
-|![Reid and Taylor example sett](/setts/s7/k2g10k9db9r1k1db2~x2/sett.png)|
+| [Reid and Taylor](/variants/s7/k2g10k9db9r1k1db2~x2/)|
+|![Reid and Taylor example sett](/variants/s7/k2g10k9db9r1k1db2~x2/sett.png)|

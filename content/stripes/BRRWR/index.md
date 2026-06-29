@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Shee Plaid (Fashion)](/setts/s5/r12w1r2o1n3~x4/)|
-|![Glen Shee Plaid (Fashion) example sett](/setts/s5/r12w1r2o1n3~x4/sett.png)|
+| [Glen Shee Plaid (Fashion)](/variants/s5/r12w1r2o1n3~x4/)|
+|![Glen Shee Plaid (Fashion) example sett](/variants/s5/r12w1r2o1n3~x4/sett.png)|

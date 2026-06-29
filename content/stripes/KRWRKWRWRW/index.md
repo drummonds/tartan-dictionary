@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forbes (Fashion)](/setts/s10/k46r8lb1r8k8lb6o6lb14o1lb6~x4/)|
-|![Forbes (Fashion) example sett](/setts/s10/k46r8lb1r8k8lb6o6lb14o1lb6~x4/sett.png)|
+| [Forbes (Fashion)](/variants/s10/k46r8lb1r8k8lb6o6lb14o1lb6~x4/)|
+|![Forbes (Fashion) example sett](/variants/s10/k46r8lb1r8k8lb6o6lb14o1lb6~x4/sett.png)|

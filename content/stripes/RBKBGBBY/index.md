@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Los Angeles](/setts/s8/ly4db24t5g2db3k5t33r2~x2/)|
-|![Los Angeles example sett](/setts/s8/ly4db24t5g2db3k5t33r2~x2/sett.png)|
+| [Los Angeles](/variants/s8/ly4db24t5g2db3k5t33r2~x2/)|
+|![Los Angeles example sett](/variants/s8/ly4db24t5g2db3k5t33r2~x2/sett.png)|

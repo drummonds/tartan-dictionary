@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cambridge](/setts/s15/db73k4t6k4db73g73r4g73db73k4t4k4db73g73ly4/)|
-|![Cambridge example sett](/setts/s15/db73k4t6k4db73g73r4g73db73k4t4k4db73g73ly4/sett.png)|
+| [Cambridge](/variants/s15/db73k4t6k4db73g73r4g73db73k4t4k4db73g73ly4/)|
+|![Cambridge example sett](/variants/s15/db73k4t6k4db73g73r4g73db73k4t4k4db73g73ly4/sett.png)|

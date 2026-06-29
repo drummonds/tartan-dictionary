@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hislop Hunting (Name)](/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/)|
-|![Hislop Hunting (Name) example sett](/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/sett.png)|
-| [Hislop/Hyslop Hunting #2](/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/)|
-|![Hislop/Hyslop Hunting #2 example sett](/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/sett.png)|
+| [Hislop Hunting (Name)](/variants/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/)|
+|![Hislop Hunting (Name) example sett](/variants/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/sett.png)|
+| [Hislop/Hyslop Hunting #2](/variants/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/)|
+|![Hislop/Hyslop Hunting #2 example sett](/variants/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/sett.png)|

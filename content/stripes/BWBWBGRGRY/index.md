@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chinese Scottish (Corporate)](/setts/s10/db58w2db1w1db6g3r3g6r24ly3~x2/)|
-|![Chinese Scottish (Corporate) example sett](/setts/s10/db58w2db1w1db6g3r3g6r24ly3~x2/sett.png)|
+| [Chinese Scottish (Corporate)](/variants/s10/db58w2db1w1db6g3r3g6r24ly3~x2/)|
+|![Chinese Scottish (Corporate) example sett](/variants/s10/db58w2db1w1db6g3r3g6r24ly3~x2/sett.png)|

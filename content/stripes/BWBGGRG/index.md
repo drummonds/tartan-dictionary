@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wellmont Foundation (Corporate)](/setts/s7/dt12w2dt13dg3g2r24g3~x2/)|
-|![Wellmont Foundation (Corporate) example sett](/setts/s7/dt12w2dt13dg3g2r24g3~x2/sett.png)|
+| [Wellmont Foundation (Corporate)](/variants/s7/dt12w2dt13dg3g2r24g3~x2/)|
+|![Wellmont Foundation (Corporate) example sett](/variants/s7/dt12w2dt13dg3g2r24g3~x2/sett.png)|

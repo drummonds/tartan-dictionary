@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [205 (Scottish) Field Hospital (Mil.)](/setts/s6/o3ri18k2dg18k24r1~x2/)|
-|![205 (Scottish) Field Hospital (Mil.) example sett](/setts/s6/o3ri18k2dg18k24r1~x2/sett.png)|
+| [205 (Scottish) Field Hospital (Mil.)](/variants/s6/o3ri18k2dg18k24r1~x2/)|
+|![205 (Scottish) Field Hospital (Mil.) example sett](/variants/s6/o3ri18k2dg18k24r1~x2/sett.png)|

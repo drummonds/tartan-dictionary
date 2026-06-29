@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diana, Plaid Dress](/setts/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/)|
-|![Diana, Plaid Dress example sett](/setts/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/sett.png)|
+| [Diana, Plaid Dress](/variants/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/)|
+|![Diana, Plaid Dress example sett](/variants/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/sett.png)|

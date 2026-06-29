@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Union Fire Club Pipes and Drums](/setts/s5/k30r10ly1k8w3~x4/)|
-|![Union Fire Club Pipes and Drums example sett](/setts/s5/k30r10ly1k8w3~x4/sett.png)|
+| [Union Fire Club Pipes and Drums](/variants/s5/k30r10ly1k8w3~x4/)|
+|![Union Fire Club Pipes and Drums example sett](/variants/s5/k30r10ly1k8w3~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunfermline](/setts/s6/r11n3r12k11b11w1~x2/)|
-|![Dunfermline example sett](/setts/s6/r11n3r12k11b11w1~x2/sett.png)|
+| [Dunfermline](/variants/s6/r11n3r12k11b11w1~x2/)|
+|![Dunfermline example sett](/variants/s6/r11n3r12k11b11w1~x2/sett.png)|

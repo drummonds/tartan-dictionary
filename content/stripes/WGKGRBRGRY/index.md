@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hello Kitty Red](/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/)|
-|![Hello Kitty Red example sett](/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/sett.png)|
+| [Hello Kitty Red](/variants/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/)|
+|![Hello Kitty Red example sett](/variants/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/sett.png)|

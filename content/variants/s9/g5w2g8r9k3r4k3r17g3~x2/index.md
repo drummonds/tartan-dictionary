@@ -1,0 +1,68 @@
+---
+title: "Morrison"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5w2g8r9k3r4k3r17g3/)
+(the same proportion at any scale), whose colour order is pattern [GRKRKRGWG](/stripes/grkrkrgwg/).
+
+Part of the [Morrison](/tartans/morrison/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Morrison Ancient
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1747 — Morrison (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019">record</a>)</li>
+<li>1747 — Morrison (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/998/">record</a>)</li>
+<li>undated — Morrison (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3019](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019)
+- Scottish Tartans Authority (ITI): 998
+- Scottish Tartans World Register: 998
+
+## Thread count
+G/10 LN4 G16 R18 K6 R8 K6 R34 G/6
+
+One full sett is **200 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">34</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr></tbody></table>
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dg6w3dg12r12k4r6k4r24dg4r6/"><img src="/variants/s10/dg6w3dg12r12k4r6k4r24dg4r6/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dg6w3dg12r12k4r6k4r24dg4r6/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=g5w2g8r9k3r4k3r17g3~x2">Morrison</a> <a class="nn-out" href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.65</div><div class="nn-name"><a href="/ttd/edit/#slug=dg9lb4dg15r17k5r7k5r32dg5&amp;base=g5w2g8r9k3r4k3r17g3~x2">Morrison LC</a> <a class="nn-out" href="/variants/s9/dg9lb4dg15r17k5r7k5r32dg5/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg9lb4dg15r17k5r7k5r32dg5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.72</div><div class="nn-name"><a href="/ttd/edit/#slug=r6g4r24k4r6k4r12g12w3g6&amp;base=g5w2g8r9k3r4k3r17g3~x2">Morrison, Ancient</a> <a class="nn-out" href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r6g4r24k4r6k4r12g12w3g6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.73</div><div class="nn-name"><a href="/ttd/edit/#slug=dg6w3dg12r12k4r6k4r24dg4r6&amp;base=g5w2g8r9k3r4k3r17g3~x2">Morrison Ancient</a> <a class="nn-out" href="/variants/s10/dg6w3dg12r12k4r6k4r24dg4r6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dg6w3dg12r12k4r6k4r24dg4r6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.78</div><div class="nn-name"><a href="/ttd/edit/#slug=dg9lr4dg15r17k5r7k5r32dg5~x2&amp;base=g5w2g8r9k3r4k3r17g3~x2">Morrison LC</a> <a class="nn-out" href="/variants/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.78</div><div class="nn-name"><a href="/ttd/edit/#slug=dg9lr4dg15r17k5r7k5r32dg5&amp;base=g5w2g8r9k3r4k3r17g3~x2">Morrison LC</a> <a class="nn-out" href="/variants/s9/dg9lr4dg15r17k5r7k5r32dg5/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg9lr4dg15r17k5r7k5r32dg5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.78</div><div class="nn-name"><a href="/ttd/edit/#slug=k1r9dg2r2dg4lb1dg4r1~x2&amp;base=g5w2g8r9k3r4k3r17g3~x2">Comyn</a> <a class="nn-out" href="/variants/s8/k1r9dg2r2dg4lb1dg4r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k1r9dg2r2dg4lb1dg4r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.79</div><div class="nn-name"><a href="/ttd/edit/#slug=r2db1r10k4r2dg8r2dg8r7k1r2db1~x2&amp;base=g5w2g8r9k3r4k3r17g3~x2">MacQuarrie Ancient</a> <a class="nn-out" href="/variants/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.87</div><div class="nn-name"><a href="/ttd/edit/#slug=r12g2r4g4k15t4r4t2r12~x2&amp;base=g5w2g8r9k3r4k3r17g3~x2">Alexander - 1985 (Name)</a> <a class="nn-out" href="/variants/s9/r12g2r4g4k15t4r4t2r12~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r12g2r4g4k15t4r4t2r12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.89</div><div class="nn-name"><a href="/ttd/edit/#slug=r10g2r20g16db3g16r3dbi8r20g2r10~x2&amp;base=g5w2g8r9k3r4k3r17g3~x2">Peacock, Grahame (Name)</a> <a class="nn-out" href="/variants/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.89</div><div class="nn-name"><a href="/ttd/edit/#slug=r10g24k10r28lb3r6~x2&amp;base=g5w2g8r9k3r4k3r17g3~x2">Nisbet</a> <a class="nn-out" href="/variants/s6/r10g24k10r28lb3r6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r10g24k10r28lb3r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="280.4" cy="189.6" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/"><circle cx="286.9" cy="185.9" r="4" fill="#3465a4"><title>Morrison, Ancient</title></circle></a><a href="/variants/s10/dg6w3dg12r12k4r6k4r24dg4r6/"><circle cx="300.1" cy="187.6" r="4" fill="#3465a4"><title>Morrison Ancient</title></circle></a><a href="/variants/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="297.6" cy="202.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="297.6" cy="202.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s8/k1r9dg2r2dg4lb1dg4r1~x2/"><circle cx="282.4" cy="192.6" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/"><circle cx="275.2" cy="176.1" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/variants/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="258.2" cy="201.2" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/variants/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/"><circle cx="315.2" cy="199.0" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="285.6" cy="217.7" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><circle cx="285.1" cy="195.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s9/g5w2g8r9k3r4k3r17g3~x2/

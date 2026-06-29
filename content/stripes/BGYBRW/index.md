@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mekos, The](/setts/s6/do19dg23lo3db15r11w5~x2/)|
-|![Mekos, The example sett](/setts/s6/do19dg23lo3db15r11w5~x2/sett.png)|
+| [Mekos, The](/variants/s6/do19dg23lo3db15r11w5~x2/)|
+|![Mekos, The example sett](/variants/s6/do19dg23lo3db15r11w5~x2/sett.png)|

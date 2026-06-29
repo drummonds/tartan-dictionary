@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bennet Dress (Fashion)](/setts/s11/w64db18lb2db3w2db3n14b8k2b4w2~x2/)|
-|![Bennet Dress (Fashion) example sett](/setts/s11/w64db18lb2db3w2db3n14b8k2b4w2~x2/sett.png)|
+| [Bennet Dress (Fashion)](/variants/s11/w64db18lb2db3w2db3n14b8k2b4w2~x2/)|
+|![Bennet Dress (Fashion) example sett](/variants/s11/w64db18lb2db3w2db3n14b8k2b4w2~x2/sett.png)|

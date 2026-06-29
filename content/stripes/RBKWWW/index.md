@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Christopher's School (Corporate)](/setts/s6/lb20w2lb5k2b10r3~x2/)|
-|![St. Christopher's School (Corporate) example sett](/setts/s6/lb20w2lb5k2b10r3~x2/sett.png)|
+| [St. Christopher's School (Corporate)](/variants/s6/lb20w2lb5k2b10r3~x2/)|
+|![St. Christopher's School (Corporate) example sett](/variants/s6/lb20w2lb5k2b10r3~x2/sett.png)|

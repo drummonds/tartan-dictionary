@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGregor - 1975 (Dance, Green)](/setts/s6/w52g22w6g8k1r3~x2/)|
-|![MacGregor - 1975 (Dance, Green) example sett](/setts/s6/w52g22w6g8k1r3~x2/sett.png)|
-| [MacGregor Dress Green (Dance)](/setts/s6/w52dg22w6dg8k1r3~x2/)|
-|![MacGregor Dress Green (Dance) example sett](/setts/s6/w52dg22w6dg8k1r3~x2/sett.png)|
-| [MacGregor, Green](/setts/s6/w47g20w6g8k1r3~x2/)|
-|![MacGregor, Green example sett](/setts/s6/w47g20w6g8k1r3~x2/sett.png)|
+| [MacGregor - 1975 (Dance, Green)](/variants/s6/w52g22w6g8k1r3~x2/)|
+|![MacGregor - 1975 (Dance, Green) example sett](/variants/s6/w52g22w6g8k1r3~x2/sett.png)|
+| [MacGregor Dress Green (Dance)](/variants/s6/w52dg22w6dg8k1r3~x2/)|
+|![MacGregor Dress Green (Dance) example sett](/variants/s6/w52dg22w6dg8k1r3~x2/sett.png)|
+| [MacGregor, Green](/variants/s6/w47g20w6g8k1r3~x2/)|
+|![MacGregor, Green example sett](/variants/s6/w47g20w6g8k1r3~x2/sett.png)|

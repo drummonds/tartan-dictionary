@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greylock](/setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/)|
-|![Greylock example sett](/setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/sett.png)|
+| [Greylock](/variants/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/)|
+|![Greylock example sett](/variants/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/sett.png)|

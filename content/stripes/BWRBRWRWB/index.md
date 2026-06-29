@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boring and Dull](/setts/s9/db5w4r1db26r25w1r8w5dt1~x2/)|
-|![Boring and Dull example sett](/setts/s9/db5w4r1db26r25w1r8w5dt1~x2/sett.png)|
+| [Boring and Dull](/variants/s9/db5w4r1db26r25w1r8w5dt1~x2/)|
+|![Boring and Dull example sett](/variants/s9/db5w4r1db26r25w1r8w5dt1~x2/sett.png)|

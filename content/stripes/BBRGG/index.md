@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunanas Rising (Corporate)](/setts/s5/dg35y25r15b2db21~x2/)|
-|![Dunanas Rising (Corporate) example sett](/setts/s5/dg35y25r15b2db21~x2/sett.png)|
-| [Dunans Rising](/setts/s5/g35y25m15t2t21~x2/)|
-|![Dunans Rising example sett](/setts/s5/g35y25m15t2t21~x2/sett.png)|
+| [Dunanas Rising (Corporate)](/variants/s5/dg35y25r15b2db21~x2/)|
+|![Dunanas Rising (Corporate) example sett](/variants/s5/dg35y25r15b2db21~x2/sett.png)|
+| [Dunans Rising](/variants/s5/g35y25m15t2t21~x2/)|
+|![Dunans Rising example sett](/variants/s5/g35y25m15t2t21~x2/sett.png)|

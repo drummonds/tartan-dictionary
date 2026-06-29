@@ -24,9 +24,9 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forbes](/setts/s9/db8k2db2k2db2k8g7k1w1~x2/)|
-|![Forbes example sett](/setts/s9/db8k2db2k2db2k8g7k1w1~x2/sett.png)|
-| [Forbes #3](/setts/s9/db8k2db2k2db2k8dg7k1w1~x2/)|
-|![Forbes #3 example sett](/setts/s9/db8k2db2k2db2k8dg7k1w1~x2/sett.png)|
-| [Forbes #5](/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/)|
-|![Forbes #5 example sett](/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/sett.png)|
+| [Forbes](/variants/s9/db8k2db2k2db2k8g7k1w1~x2/)|
+|![Forbes example sett](/variants/s9/db8k2db2k2db2k8g7k1w1~x2/sett.png)|
+| [Forbes #3](/variants/s9/db8k2db2k2db2k8dg7k1w1~x2/)|
+|![Forbes #3 example sett](/variants/s9/db8k2db2k2db2k8dg7k1w1~x2/sett.png)|
+| [Forbes #5](/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/)|
+|![Forbes #5 example sett](/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/sett.png)|

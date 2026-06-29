@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2/)|
-|![Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2/sett.png)|
+| [Clack Personal Tartan](/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2/)|
+|![Clack Personal Tartan example sett](/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carson of Rusco (Personal)](/setts/s13/dt36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/)|
-|![Carson of Rusco (Personal) example sett](/setts/s13/dt36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/sett.png)|
+| [Carson of Rusco (Personal)](/variants/s13/dt36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/)|
+|![Carson of Rusco (Personal) example sett](/variants/s13/dt36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/sett.png)|

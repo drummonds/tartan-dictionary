@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leach Htg (Name)](/setts/s6/k3lb1g21k2dr3lb2~x2/)|
-|![Leach Htg (Name) example sett](/setts/s6/k3lb1g21k2dr3lb2~x2/sett.png)|
-| [New York Fire Department Pipe Band](/setts/s6/k4w1g13k11db11lb3~x4/)|
-|![New York Fire Department Pipe Band example sett](/setts/s6/k4w1g13k11db11lb3~x4/sett.png)|
+| [Leach Htg (Name)](/variants/s6/k3lb1g21k2dr3lb2~x2/)|
+|![Leach Htg (Name) example sett](/variants/s6/k3lb1g21k2dr3lb2~x2/sett.png)|
+| [New York Fire Department Pipe Band](/variants/s6/k4w1g13k11db11lb3~x4/)|
+|![New York Fire Department Pipe Band example sett](/variants/s6/k4w1g13k11db11lb3~x4/sett.png)|

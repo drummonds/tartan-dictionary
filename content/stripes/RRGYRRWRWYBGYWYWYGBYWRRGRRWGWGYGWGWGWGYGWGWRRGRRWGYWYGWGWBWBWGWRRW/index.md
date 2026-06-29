@@ -24,5 +24,5 @@ It is a 66 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hunter (1775)](/setts/s66/r30ri4y6lo4ri4r16w2ri4w2lo4db18y6ly3w2lo4w2ly3y6db18lo4w2ri4r12y2r12ri3w2g10w2g2ly4g2w2y8w4y8w2g2ly4g2w2g10w2ri4r12y2r12ri4w2g10lo4w4lo4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2/)|
-|![Hunter (1775) example sett](/setts/s66/r30ri4y6lo4ri4r16w2ri4w2lo4db18y6ly3w2lo4w2ly3y6db18lo4w2ri4r12y2r12ri3w2g10w2g2ly4g2w2y8w4y8w2g2ly4g2w2g10w2ri4r12y2r12ri4w2g10lo4w4lo4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2/sett.png)|
+| [Hunter (1775)](/variants/s66/r30ri4y6lo4ri4r16w2ri4w2lo4db18y6ly3w2lo4w2ly3y6db18lo4w2ri4r12y2r12ri3w2g10w2g2ly4g2w2y8w4y8w2g2ly4g2w2g10w2ri4r12y2r12ri4w2g10lo4w4lo4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2/)|
+|![Hunter (1775) example sett](/variants/s66/r30ri4y6lo4ri4r16w2ri4w2lo4db18y6ly3w2lo4w2ly3y6db18lo4w2ri4r12y2r12ri3w2g10w2g2ly4g2w2y8w4y8w2g2ly4g2w2g10w2ri4r12y2r12ri4w2g10lo4w4lo4g10w2y6w2db12w2db12w2y6w2ri4r12w2~x2/sett.png)|

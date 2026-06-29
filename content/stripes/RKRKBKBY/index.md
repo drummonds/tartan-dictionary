@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aitken](/setts/s8/lo5db2k2db12k16r20k2r4~x2/)|
-|![Aitken example sett](/setts/s8/lo5db2k2db12k16r20k2r4~x2/sett.png)|
+| [Aitken](/variants/s8/lo5db2k2db12k16r20k2r4~x2/)|
+|![Aitken example sett](/variants/s8/lo5db2k2db12k16r20k2r4~x2/sett.png)|

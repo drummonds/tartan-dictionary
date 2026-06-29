@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Special Saffron](/setts/s6/dg86lo44dg21lo44dg86t10/)|
-|![Special Saffron example sett](/setts/s6/dg86lo44dg21lo44dg86t10/sett.png)|
+| [Special Saffron](/variants/s6/dg86lo44dg21lo44dg86t10/)|
+|![Special Saffron example sett](/variants/s6/dg86lo44dg21lo44dg86t10/sett.png)|

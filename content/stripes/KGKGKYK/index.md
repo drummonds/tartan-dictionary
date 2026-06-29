@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grass of Rasunda (2009), The](/setts/s7/k14dg7k2y8k4lo2k1~x4/)|
-|![Grass of Rasunda (2009), The example sett](/setts/s7/k14dg7k2y8k4lo2k1~x4/sett.png)|
-| [Grass of Rasunda (Commemorative)](/setts/s7/k14dg7k2y8k4ly2k1~x4/)|
-|![Grass of Rasunda (Commemorative) example sett](/setts/s7/k14dg7k2y8k4ly2k1~x4/sett.png)|
+| [Grass of Rasunda (2009), The](/variants/s7/k14dg7k2y8k4lo2k1~x4/)|
+|![Grass of Rasunda (2009), The example sett](/variants/s7/k14dg7k2y8k4lo2k1~x4/sett.png)|
+| [Grass of Rasunda (Commemorative)](/variants/s7/k14dg7k2y8k4ly2k1~x4/)|
+|![Grass of Rasunda (Commemorative) example sett](/variants/s7/k14dg7k2y8k4ly2k1~x4/sett.png)|

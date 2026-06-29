@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glaz](/setts/s18/r2ly1y7t1y4t2y3t3y1t15lr1t4dt2t2dt4t1dt9lr2~x2/)|
-|![Glaz example sett](/setts/s18/r2ly1y7t1y4t2y3t3y1t15lr1t4dt2t2dt4t1dt9lr2~x2/sett.png)|
+| [Glaz](/variants/s18/r2ly1y7t1y4t2y3t3y1t15lr1t4dt2t2dt4t1dt9lr2~x2/)|
+|![Glaz example sett](/variants/s18/r2ly1y7t1y4t2y3t3y1t15lr1t4dt2t2dt4t1dt9lr2~x2/sett.png)|

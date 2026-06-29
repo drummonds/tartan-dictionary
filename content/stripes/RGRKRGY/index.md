@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McInally (Name)](/setts/s7/r3g16r4k6r28g2lo3~x2/)|
-|![McInally (Name) example sett](/setts/s7/r3g16r4k6r28g2lo3~x2/sett.png)|
+| [McInally (Name)](/variants/s7/r3g16r4k6r28g2lo3~x2/)|
+|![McInally (Name) example sett](/variants/s7/r3g16r4k6r28g2lo3~x2/sett.png)|

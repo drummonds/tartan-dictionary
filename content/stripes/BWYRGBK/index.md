@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guide Dogs (Corporate)](/setts/s7/db67w1lo6r5dg25db3k5~x2/)|
-|![Guide Dogs (Corporate) example sett](/setts/s7/db67w1lo6r5dg25db3k5~x2/sett.png)|
+| [Guide Dogs (Corporate)](/variants/s7/db67w1lo6r5dg25db3k5~x2/)|
+|![Guide Dogs (Corporate) example sett](/variants/s7/db67w1lo6r5dg25db3k5~x2/sett.png)|

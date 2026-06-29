@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donnolly](/setts/s6/db3g21db3o21db35w3~x2/)|
-|![Donnolly example sett](/setts/s6/db3g21db3o21db35w3~x2/sett.png)|
+| [Donnolly](/variants/s6/db3g21db3o21db35w3~x2/)|
+|![Donnolly example sett](/variants/s6/db3g21db3o21db35w3~x2/sett.png)|

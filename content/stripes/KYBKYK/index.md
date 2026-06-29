@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stutterheim](/setts/s6/k4ly18n44k3ly10k4/)|
-|![Stutterheim example sett](/setts/s6/k4ly18n44k3ly10k4/sett.png)|
-| [Stutterheim (Corporate)](/setts/s6/k4ly18db44k3ly10k4/)|
-|![Stutterheim (Corporate) example sett](/setts/s6/k4ly18db44k3ly10k4/sett.png)|
+| [Stutterheim](/variants/s6/k4ly18n44k3ly10k4/)|
+|![Stutterheim example sett](/variants/s6/k4ly18n44k3ly10k4/sett.png)|
+| [Stutterheim (Corporate)](/variants/s6/k4ly18db44k3ly10k4/)|
+|![Stutterheim (Corporate) example sett](/variants/s6/k4ly18db44k3ly10k4/sett.png)|

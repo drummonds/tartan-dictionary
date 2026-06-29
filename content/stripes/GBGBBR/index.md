@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dege of Saville Row](/setts/s6/dy11db1dy3dbi1db9r1~x4/)|
-|![Dege of Saville Row example sett](/setts/s6/dy11db1dy3dbi1db9r1~x4/sett.png)|
+| [Dege of Saville Row](/variants/s6/dy11db1dy3dbi1db9r1~x4/)|
+|![Dege of Saville Row example sett](/variants/s6/dy11db1dy3dbi1db9r1~x4/sett.png)|

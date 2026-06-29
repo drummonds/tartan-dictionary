@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rainbow](/setts/s14/db1w1ri1w1r1w1r1w1ri1w1ly1w1g1w1~x6/)|
-|![Rainbow example sett](/setts/s14/db1w1ri1w1r1w1r1w1ri1w1ly1w1g1w1~x6/sett.png)|
+| [Rainbow](/variants/s14/db1w1ri1w1r1w1r1w1ri1w1ly1w1g1w1~x6/)|
+|![Rainbow example sett](/variants/s14/db1w1ri1w1r1w1r1w1ri1w1ly1w1g1w1~x6/sett.png)|

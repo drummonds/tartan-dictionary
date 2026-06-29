@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Breacan](/setts/s12/o3w1o1w3gi1w1gi10g2gi1g10ly2r2~x2/)|
-|![Breacan example sett](/setts/s12/o3w1o1w3gi1w1gi10g2gi1g10ly2r2~x2/sett.png)|
+| [Breacan](/variants/s12/o3w1o1w3gi1w1gi10g2gi1g10ly2r2~x2/)|
+|![Breacan example sett](/variants/s12/o3w1o1w3gi1w1gi10g2gi1g10ly2r2~x2/sett.png)|

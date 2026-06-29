@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colonial Marine (Aliens Legacy)](/setts/s4/g56dy13ly13w5~x2/)|
-|![Colonial Marine (Aliens Legacy) example sett](/setts/s4/g56dy13ly13w5~x2/sett.png)|
+| [Colonial Marine (Aliens Legacy)](/variants/s4/g56dy13ly13w5~x2/)|
+|![Colonial Marine (Aliens Legacy) example sett](/variants/s4/g56dy13ly13w5~x2/sett.png)|

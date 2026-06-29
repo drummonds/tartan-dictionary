@@ -1,0 +1,73 @@
+---
+title: "Bermuda (1986)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t4w2g17t17lo2/)
+(the same proportion at any scale), whose colour order is pattern [BWGBY](/stripes/bwgby/).
+
+Part of the [Bermuda](/tartans/bermuda/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5047
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bermuda Blue
+- Bermuda Plaid
+- Bermuda, Blue
+- Bermuda, Plaid
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — Bermuda (1986) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5047">record</a>)</li>
+<li>1986 — Bermuda (1986) (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3685/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5047](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5047)
+- Scottish Tartans Authority (ITI): 3685
+
+## Thread count
+Ba/16 W8 Bb68 Ba68 O/8
+
+One full sett is **312 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(7 of 8 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>Ba/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> <small style="color:#888">#2888C4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(60.1% 0.125 241.5)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr><tr><td>Bb</td><td style="text-align:right;font-variant-numeric:tabular-nums">68</td><td><code style="background-color:#009468;"><span style="color:#009468;filter:grayscale(1) invert(1) contrast(100);">#009468</span></code> <small style="color:#888">#009468</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(59.0% 0.126 163.6)</small></td></tr><tr><td>Ba</td><td style="text-align:right;font-variant-numeric:tabular-nums">68</td><td><code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> <small style="color:#888">#2888C4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(60.1% 0.125 241.5)</small></td></tr><tr><td>O/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> <small style="color:#888">#D87C00</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(67.3% 0.155 61.8)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="Ba/16 W8 Bb68 Ba68 O/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/b12r4db4b42r6b6db11b6dg19b8r4b6db6/"><img src="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/b12r4db4b42r6b6db11b6dg19b8r4b6db6/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=t4w2g17t17lo2~x4">Bermuda (1986)</a> <a class="nn-out" href="/variants/s5/t4w2g17t17lo2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/t4w2g17t17lo2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=g2t15lr5g2t2g7w2~x4&amp;base=t4w2g17t17lo2~x4">Chambers Bay</a> <a class="nn-out" href="/variants/s7/g2t15lr5g2t2g7w2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g2t15lr5g2t2g7w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/ttd/edit/#slug=g6n2g25n4t25n2t6~x2&amp;base=t4w2g17t17lo2~x4">Lennox Dress, Purple (Dance)</a> <a class="nn-out" href="/variants/s7/g6n2g25n4t25n2t6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g6n2g25n4t25n2t6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.85</div><div class="nn-name"><a href="/ttd/edit/#slug=r1lg9lr9k1lr1w1~x6&amp;base=t4w2g17t17lo2~x4">Irving of Glentulchan (Personal)</a> <a class="nn-out" href="/variants/s6/r1lg9lr9k1lr1w1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1lg9lr9k1lr1w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.91</div><div class="nn-name"><a href="/ttd/edit/#slug=t3k3t21g49t21k3t3w3~x2&amp;base=t4w2g17t17lo2~x4">Irvine of Drum</a> <a class="nn-out" href="/variants/s8/t3k3t21g49t21k3t3w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/t3k3t21g49t21k3t3w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.95</div><div class="nn-name"><a href="/ttd/edit/#slug=dg5r3g30db30w3~x2&amp;base=t4w2g17t17lo2~x4">Gamba Tuscany Fife</a> <a class="nn-out" href="/variants/s5/dg5r3g30db30w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dg5r3g30db30w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.96</div><div class="nn-name"><a href="/ttd/edit/#slug=g49t21k3t3w3~x2&amp;base=t4w2g17t17lo2~x4">Irvine of Drum (Clan)</a> <a class="nn-out" href="/variants/s5/g49t21k3t3w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g49t21k3t3w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.03</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=t12g2t2g2t2o8gi8o1~x2&amp;base=t4w2g17t17lo2~x4">Universal, Ancient</a> <a class="nn-out" href="/variants/s8/t12g2t2g2t2o8gi8o1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/t12g2t2g2t2o8gi8o1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.04</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=db3o10g9r1g3~x4&amp;base=t4w2g17t17lo2~x4">Bethlehem, City of (District)</a> <a class="nn-out" href="/variants/s5/db3o10g9r1g3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db3o10g9r1g3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.06</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=n8g20w4r1~x5&amp;base=t4w2g17t17lo2~x4">Farooq (Personal)</a> <a class="nn-out" href="/variants/s4/n8g20w4r1~x5/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/n8g20w4r1~x5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.07</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=g13k2g34k6b16r2b16k2g13~x2&amp;base=t4w2g17t17lo2~x4">Lockhart</a> <a class="nn-out" href="/variants/s9/g13k2g34k6b16r2b16k2g13~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g13k2g34k6b16r2b16k2g13~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g2t15lr5g2t2g7w2~x4/"><circle cx="305.5" cy="243.8" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/variants/s7/g6n2g25n4t25n2t6~x2/"><circle cx="314.4" cy="223.3" r="4" fill="#3465a4"><title>Lennox Dress, Purple (Dance)</title></circle></a><a href="/variants/s6/r1lg9lr9k1lr1w1~x6/"><circle cx="299.2" cy="214.3" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s8/t3k3t21g49t21k3t3w3~x2/"><circle cx="367.3" cy="200.9" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s5/dg5r3g30db30w3~x2/"><circle cx="278.8" cy="236.5" r="4" fill="#3465a4"><title>Gamba Tuscany Fife</title></circle></a><a href="/variants/s5/g49t21k3t3w3~x2/"><circle cx="451.6" cy="226.9" r="4" fill="#3465a4"><title>Irvine of Drum (Clan)</title></circle></a><a href="/variants/s8/t12g2t2g2t2o8gi8o1~x2/"><circle cx="290.1" cy="235.2" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s5/db3o10g9r1g3~x4/"><circle cx="279.3" cy="256.1" r="4" fill="#3465a4"><title>Bethlehem, City of (District)</title></circle></a><a href="/variants/s4/n8g20w4r1~x5/"><circle cx="414.7" cy="231.7" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s9/g13k2g34k6b16r2b16k2g13~x2/"><circle cx="373.7" cy="213.7" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><circle cx="334.7" cy="265.2" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/t4w2g17t17lo2~x4/

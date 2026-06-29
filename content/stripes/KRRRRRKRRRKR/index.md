@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Forest (Fashion)](/setts/s12/k20oi2o2oi7o2oi2k2o7oi2o2k20oi4~x4/)|
-|![Black Forest (Fashion) example sett](/setts/s12/k20oi2o2oi7o2oi2k2o7oi2o2k20oi4~x4/sett.png)|
+| [Black Forest (Fashion)](/variants/s12/k20oi2o2oi7o2oi2k2o7oi2o2k20oi4~x4/)|
+|![Black Forest (Fashion) example sett](/variants/s12/k20oi2o2oi7o2oi2k2o7oi2o2k20oi4~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skye Dress, Blue, Earl of (Dance)](/setts/s16/db4b2n4b2db4w3db3b2w4b2db4r14w22db2w5r4~x2/)|
-|![Skye Dress, Blue, Earl of (Dance) example sett](/setts/s16/db4b2n4b2db4w3db3b2w4b2db4r14w22db2w5r4~x2/sett.png)|
+| [Skye Dress, Blue, Earl of (Dance)](/variants/s16/db4b2n4b2db4w3db3b2w4b2db4r14w22db2w5r4~x2/)|
+|![Skye Dress, Blue, Earl of (Dance) example sett](/variants/s16/db4b2n4b2db4w3db3b2w4b2db4r14w22db2w5r4~x2/sett.png)|

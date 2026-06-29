@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kintail Dress](/setts/s8/y3g32y36o12k2w68g3k2~x2/)|
-|![Kintail Dress example sett](/setts/s8/y3g32y36o12k2w68g3k2~x2/sett.png)|
+| [Kintail Dress](/variants/s8/y3g32y36o12k2w68g3k2~x2/)|
+|![Kintail Dress example sett](/variants/s8/y3g32y36o12k2w68g3k2~x2/sett.png)|

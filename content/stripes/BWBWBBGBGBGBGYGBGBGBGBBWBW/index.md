@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews](/setts/s26/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2~x2/)|
-|![St. Andrews example sett](/setts/s26/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2~x2/sett.png)|
+| [St. Andrews](/variants/s26/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2~x2/)|
+|![St. Andrews example sett](/variants/s26/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2~x2/sett.png)|

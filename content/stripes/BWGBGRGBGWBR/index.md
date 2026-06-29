@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thompson (Pendleton)](/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/)|
-|![Thompson (Pendleton) example sett](/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/sett.png)|
+| [Thompson (Pendleton)](/variants/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/)|
+|![Thompson (Pendleton) example sett](/variants/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oriel #1 (District)](/setts/s9/r12db2r3g20k4g20r30k2r1~x2/)|
-|![Oriel #1 (District) example sett](/setts/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png)|
+| [Oriel #1 (District)](/variants/s9/r12db2r3g20k4g20r30k2r1~x2/)|
+|![Oriel #1 (District) example sett](/variants/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png)|

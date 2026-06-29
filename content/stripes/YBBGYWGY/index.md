@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Philpotts, Brian](/setts/s8/ly8t24db21g18loi4lb3dy2lo1~x2/)|
-|![Philpotts, Brian example sett](/setts/s8/ly8t24db21g18loi4lb3dy2lo1~x2/sett.png)|
+| [Philpotts, Brian](/variants/s8/ly8t24db21g18loi4lb3dy2lo1~x2/)|
+|![Philpotts, Brian example sett](/variants/s8/ly8t24db21g18loi4lb3dy2lo1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Denovan Htg (Clan)](/setts/s12/dg10dp2dg3r4dg13k13r2g13r4g3r2g10~x2/)|
-|![MacDonald of Denovan Htg (Clan) example sett](/setts/s12/dg10dp2dg3r4dg13k13r2g13r4g3r2g10~x2/sett.png)|
+| [MacDonald of Denovan Htg (Clan)](/variants/s12/dg10dp2dg3r4dg13k13r2g13r4g3r2g10~x2/)|
+|![MacDonald of Denovan Htg (Clan) example sett](/variants/s12/dg10dp2dg3r4dg13k13r2g13r4g3r2g10~x2/sett.png)|

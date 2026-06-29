@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beaudoux - Amis Picards (District)](/setts/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/)|
-|![Beaudoux - Amis Picards (District) example sett](/setts/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/sett.png)|
+| [Beaudoux - Amis Picards (District)](/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/)|
+|![Beaudoux - Amis Picards (District) example sett](/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antique 2000](/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/)|
-|![Antique 2000 example sett](/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/sett.png)|
+| [Antique 2000](/variants/s8/dt10r1dt1r1dt1k6y9b2~x2/)|
+|![Antique 2000 example sett](/variants/s8/dt10r1dt1r1dt1k6y9b2~x2/sett.png)|

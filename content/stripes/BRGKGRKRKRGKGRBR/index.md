@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oriel #1](/setts/s16/r12db2r3g20k4g20r30k2r1~x2/)|
-|![Oriel #1 example sett](/setts/s16/r12db2r3g20k4g20r30k2r1~x2/sett.png)|
+| [Oriel #1](/variants/s16/r12db2r3g20k4g20r30k2r1~x2/)|
+|![Oriel #1 example sett](/variants/s16/r12db2r3g20k4g20r30k2r1~x2/sett.png)|

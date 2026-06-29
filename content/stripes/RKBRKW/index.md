@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jewell of Kernow (Personal)](/setts/s6/w6k29o29dp7k3r3~x2/)|
-|![Jewell of Kernow (Personal) example sett](/setts/s6/w6k29o29dp7k3r3~x2/sett.png)|
+| [Jewell of Kernow (Personal)](/variants/s6/w6k29o29dp7k3r3~x2/)|
+|![Jewell of Kernow (Personal) example sett](/variants/s6/w6k29o29dp7k3r3~x2/sett.png)|

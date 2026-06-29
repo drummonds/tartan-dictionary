@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Musselburgh Dress (Dance)](/setts/s9/t14db1n3g1n3db1n4w24r1~x4/)|
-|![Musselburgh Dress (Dance) example sett](/setts/s9/t14db1n3g1n3db1n4w24r1~x4/sett.png)|
+| [Musselburgh Dress (Dance)](/variants/s9/t14db1n3g1n3db1n4w24r1~x4/)|
+|![Musselburgh Dress (Dance) example sett](/variants/s9/t14db1n3g1n3db1n4w24r1~x4/sett.png)|

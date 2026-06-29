@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pino Family (Pennsylvania) (Personal)](/setts/s13/gi25g7gi25g7lg5gi25g7gi25g7lg5r2w2r2~x2/)|
-|![Pino Family (Pennsylvania) (Personal) example sett](/setts/s13/gi25g7gi25g7lg5gi25g7gi25g7lg5r2w2r2~x2/sett.png)|
+| [Pino Family (Pennsylvania) (Personal)](/variants/s13/gi25g7gi25g7lg5gi25g7gi25g7lg5r2w2r2~x2/)|
+|![Pino Family (Pennsylvania) (Personal) example sett](/variants/s13/gi25g7gi25g7lg5gi25g7gi25g7lg5r2w2r2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDuff Dress #5](/setts/s7/w39db9k10dg11r7k3r7~x2/)|
-|![MacDuff Dress #5 example sett](/setts/s7/w39db9k10dg11r7k3r7~x2/sett.png)|
-| [MacDuff dress](/setts/s7/w39db9k10g11r7k3r7~x2/)|
-|![MacDuff dress example sett](/setts/s7/w39db9k10g11r7k3r7~x2/sett.png)|
+| [MacDuff Dress #5](/variants/s7/w39db9k10dg11r7k3r7~x2/)|
+|![MacDuff Dress #5 example sett](/variants/s7/w39db9k10dg11r7k3r7~x2/sett.png)|
+| [MacDuff dress](/variants/s7/w39db9k10g11r7k3r7~x2/)|
+|![MacDuff dress example sett](/variants/s7/w39db9k10g11r7k3r7~x2/sett.png)|

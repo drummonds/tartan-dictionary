@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inverness Caledonian Thistle Football Club](/setts/s8/k21db3k12r2db12k2db12w2~x2/)|
-|![Inverness Caledonian Thistle Football Club example sett](/setts/s8/k21db3k12r2db12k2db12w2~x2/sett.png)|
+| [Inverness Caledonian Thistle Football Club](/variants/s8/k21db3k12r2db12k2db12w2~x2/)|
+|![Inverness Caledonian Thistle Football Club example sett](/variants/s8/k21db3k12r2db12k2db12w2~x2/sett.png)|

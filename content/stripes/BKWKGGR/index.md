@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Katrine](/setts/s7/b8k11w3k11g12g10m2~x2/)|
-|![Loch Katrine example sett](/setts/s7/b8k11w3k11g12g10m2~x2/sett.png)|
+| [Loch Katrine](/variants/s7/b8k11w3k11g12g10m2~x2/)|
+|![Loch Katrine example sett](/variants/s7/b8k11w3k11g12g10m2~x2/sett.png)|

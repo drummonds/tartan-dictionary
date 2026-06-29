@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fettes Personal Tartan Tartan Number: 7565. Earliest known date: 2008 Designed online for four kilts by Fiona Fettes. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k50dt3lp2r3w1~x2/)|
-|![Fettes Personal Tartan Tartan Number: 7565. Earliest known date: 2008 Designed online for four kilts by Fiona Fettes. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/k50dt3lp2r3w1~x2/sett.png)|
+| [Fettes Personal Tartan](/variants/s5/k50dt3lp2r3w1~x2/)|
+|![Fettes Personal Tartan example sett](/variants/s5/k50dt3lp2r3w1~x2/sett.png)|

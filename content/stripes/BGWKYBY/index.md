@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Washington (Fashion)](/setts/s7/b5dy28lb5k20lo5b47lo4~x2/)|
-|![State Seal of Washington (Fashion) example sett](/setts/s7/b5dy28lb5k20lo5b47lo4~x2/sett.png)|
+| [State Seal of Washington (Fashion)](/variants/s7/b5dy28lb5k20lo5b47lo4~x2/)|
+|![State Seal of Washington (Fashion) example sett](/variants/s7/b5dy28lb5k20lo5b47lo4~x2/sett.png)|

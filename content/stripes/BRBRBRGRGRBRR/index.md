@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray of Atholl](/setts/s13/db18o4db3o3db3o18g18r10g18o18db18o3r10~x2/)|
-|![Murray of Atholl example sett](/setts/s13/db18o4db3o3db3o18g18r10g18o18db18o3r10~x2/sett.png)|
+| [Murray of Atholl](/variants/s13/db18o4db3o3db3o18g18r10g18o18db18o3r10~x2/)|
+|![Murray of Atholl example sett](/variants/s13/db18o4db3o3db3o18g18r10g18o18db18o3r10~x2/sett.png)|

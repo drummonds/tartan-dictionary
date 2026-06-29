@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Phillips (Welsh Name)](/setts/s11/k2dg20k30dg2k4dg2k30dg3k30dg35dg2/)|
-|![Phillips (Welsh Name) example sett](/setts/s11/k2dg20k30dg2k4dg2k30dg3k30dg35dg2/sett.png)|
+| [Phillips (Welsh Name)](/variants/s11/k2dg20k30dg2k4dg2k30dg3k30dg35dg2/)|
+|![Phillips (Welsh Name) example sett](/variants/s11/k2dg20k30dg2k4dg2k30dg3k30dg35dg2/sett.png)|

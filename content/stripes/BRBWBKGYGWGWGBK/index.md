@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australian Federal Police](/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/)|
-|![Australian Federal Police example sett](/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/sett.png)|
+| [Australian Federal Police](/variants/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/)|
+|![Australian Federal Police example sett](/variants/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Seabees (Military)](/setts/s13/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/)|
-|![U.S. Seabees (Military) example sett](/setts/s13/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/sett.png)|
+| [U.S. Seabees (Military)](/variants/s13/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/)|
+|![U.S. Seabees (Military) example sett](/variants/s13/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72~x2/sett.png)|

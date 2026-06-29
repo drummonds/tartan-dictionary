@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jones, Melnyk (Personal)](/setts/s20/g5k5g5r12g3k15g3k2w1k2t7k2ly10k2t7k2w1k3r15k3~x2/)|
-|![Jones, Melnyk (Personal) example sett](/setts/s20/g5k5g5r12g3k15g3k2w1k2t7k2ly10k2t7k2w1k3r15k3~x2/sett.png)|
+| [Jones, Melnyk (Personal)](/variants/s20/g5k5g5r12g3k15g3k2w1k2t7k2ly10k2t7k2w1k3r15k3~x2/)|
+|![Jones, Melnyk (Personal) example sett](/variants/s20/g5k5g5r12g3k15g3k2w1k2t7k2ly10k2t7k2w1k3r15k3~x2/sett.png)|

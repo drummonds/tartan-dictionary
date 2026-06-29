@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mead (Personal)](/setts/s10/b36k3r6k3dt10r5dt3ly4k1b2~x2/)|
-|![Mead (Personal) example sett](/setts/s10/b36k3r6k3dt10r5dt3ly4k1b2~x2/sett.png)|
-| [Mead (Tennessee) Modern Dress (Personal)](/setts/s10/dbi36k3r6k3db10r5db3ly4k1dbi2~x2/)|
-|![Mead (Tennessee) Modern Dress (Personal) example sett](/setts/s10/dbi36k3r6k3db10r5db3ly4k1dbi2~x2/sett.png)|
+| [Mead (Personal)](/variants/s10/b36k3r6k3dt10r5dt3ly4k1b2~x2/)|
+|![Mead (Personal) example sett](/variants/s10/b36k3r6k3dt10r5dt3ly4k1b2~x2/sett.png)|
+| [Mead (Tennessee) Modern Dress (Personal)](/variants/s10/dbi36k3r6k3db10r5db3ly4k1dbi2~x2/)|
+|![Mead (Tennessee) Modern Dress (Personal) example sett](/variants/s10/dbi36k3r6k3db10r5db3ly4k1dbi2~x2/sett.png)|

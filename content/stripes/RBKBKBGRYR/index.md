@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacEdward](/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/)|
-|![MacEdward example sett](/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/sett.png)|
-| [MacEdward (MacGregor Hastie)](/setts/s10/r6lo1r24dg6db2k1db2k1db12r1~x2/)|
-|![MacEdward (MacGregor Hastie) example sett](/setts/s10/r6lo1r24dg6db2k1db2k1db12r1~x2/sett.png)|
+| [MacEdward](/variants/s10/r6ly1r24g6db2k1db2k1db12r1~x2/)|
+|![MacEdward example sett](/variants/s10/r6ly1r24g6db2k1db2k1db12r1~x2/sett.png)|
+| [MacEdward (MacGregor Hastie)](/variants/s10/r6lo1r24dg6db2k1db2k1db12r1~x2/)|
+|![MacEdward (MacGregor Hastie) example sett](/variants/s10/r6lo1r24dg6db2k1db2k1db12r1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fuller of Hopewell (Personal)](/setts/s7/k1w1k18db20w1r1lo1~x4/)|
-|![Fuller of Hopewell (Personal) example sett](/setts/s7/k1w1k18db20w1r1lo1~x4/sett.png)|
+| [Fuller of Hopewell (Personal)](/variants/s7/k1w1k18db20w1r1lo1~x4/)|
+|![Fuller of Hopewell (Personal) example sett](/variants/s7/k1w1k18db20w1r1lo1~x4/sett.png)|

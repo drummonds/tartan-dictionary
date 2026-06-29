@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Columbian Canadian Tartan Tartan Number: 1900. Earliest known date: pre 2003 This entry needs checking. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db25w2db25t25r2t25g25ly2g25~x2/)|
-|![Royal Columbian Canadian Tartan Tartan Number: 1900. Earliest known date: pre 2003 This entry needs checking. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/db25w2db25t25r2t25g25ly2g25~x2/sett.png)|
+| [Royal Columbian Canadian Tartan](/variants/s9/db25w2db25t25r2t25g25ly2g25~x2/)|
+|![Royal Columbian Canadian Tartan example sett](/variants/s9/db25w2db25t25r2t25g25ly2g25~x2/sett.png)|

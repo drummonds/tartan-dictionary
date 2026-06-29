@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maple Leaf](/setts/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2y4~x8/)|
-|![Maple Leaf example sett](/setts/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2y4~x8/sett.png)|
+| [Maple Leaf](/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2y4~x8/)|
+|![Maple Leaf example sett](/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2y4~x8/sett.png)|

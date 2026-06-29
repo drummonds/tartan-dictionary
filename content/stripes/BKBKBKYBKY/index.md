@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Scotland, Muted (Fashion)](/setts/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/)|
-|![Pride of Scotland, Muted (Fashion) example sett](/setts/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/sett.png)|
+| [Pride of Scotland, Muted (Fashion)](/variants/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/)|
+|![Pride of Scotland, Muted (Fashion) example sett](/variants/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/sett.png)|

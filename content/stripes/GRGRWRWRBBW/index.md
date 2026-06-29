@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hynde](/setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/)|
-|![Hynde example sett](/setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/sett.png)|
-| [Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/)|
-|![Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/sett.png)|
+| [Hynde](/variants/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/)|
+|![Hynde example sett](/variants/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/sett.png)|
+| [Hynde Artifact Tartan](/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/)|
+|![Hynde Artifact Tartan example sett](/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/sett.png)|

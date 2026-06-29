@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tupper., Sir Charles..](/setts/s10/db4o7ly3o12g15o5db20o5g4o2~x2/)|
-|![Tupper., Sir Charles.. example sett](/setts/s10/db4o7ly3o12g15o5db20o5g4o2~x2/sett.png)|
+| [Tupper., Sir Charles..](/variants/s10/db4o7ly3o12g15o5db20o5g4o2~x2/)|
+|![Tupper., Sir Charles.. example sett](/variants/s10/db4o7ly3o12g15o5db20o5g4o2~x2/sett.png)|

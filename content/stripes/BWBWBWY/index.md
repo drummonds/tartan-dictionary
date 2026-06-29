@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Talisker](/setts/s7/db16wi4db1wi2db24w1lo4~x2/)|
-|![Talisker example sett](/setts/s7/db16wi4db1wi2db24w1lo4~x2/sett.png)|
+| [Talisker](/variants/s7/db16wi4db1wi2db24w1lo4~x2/)|
+|![Talisker example sett](/variants/s7/db16wi4db1wi2db24w1lo4~x2/sett.png)|

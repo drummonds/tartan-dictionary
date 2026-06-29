@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Believe - Corinna](/setts/s8/k4dr8m30k8dr6k8dr12w3~x2/)|
-|![Believe - Corinna example sett](/setts/s8/k4dr8m30k8dr6k8dr12w3~x2/sett.png)|
+| [Believe - Corinna](/variants/s8/k4dr8m30k8dr6k8dr12w3~x2/)|
+|![Believe - Corinna example sett](/variants/s8/k4dr8m30k8dr6k8dr12w3~x2/sett.png)|

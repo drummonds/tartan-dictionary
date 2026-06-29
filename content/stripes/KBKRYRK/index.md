@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Benson (New England)](/setts/s7/k16b2k8r3lr3r3k8~x2/)|
-|![Benson (New England) example sett](/setts/s7/k16b2k8r3lr3r3k8~x2/sett.png)|
+| [Benson (New England)](/variants/s7/k16b2k8r3lr3r3k8~x2/)|
+|![Benson (New England) example sett](/variants/s7/k16b2k8r3lr3r3k8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malone, Keagan Allen (Personal)](/setts/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/)|
-|![Malone, Keagan Allen (Personal) example sett](/setts/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/sett.png)|
+| [Malone, Keagan Allen (Personal)](/variants/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/)|
+|![Malone, Keagan Allen (Personal) example sett](/variants/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/sett.png)|

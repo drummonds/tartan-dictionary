@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orlando Police Department (Corporate](/setts/s9/db12ly1t16db1t1db14t3db14ly1~x4/)|
-|![Orlando Police Department (Corporate example sett](/setts/s9/db12ly1t16db1t1db14t3db14ly1~x4/sett.png)|
+| [Orlando Police Department (Corporate](/variants/s9/db12ly1t16db1t1db14t3db14ly1~x4/)|
+|![Orlando Police Department (Corporate example sett](/variants/s9/db12ly1t16db1t1db14t3db14ly1~x4/sett.png)|

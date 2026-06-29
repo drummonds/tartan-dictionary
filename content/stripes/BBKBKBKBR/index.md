@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [VersaCold/Atlas (Corporate)](/setts/s9/db3n44k9n10k9n10k9n44r3~x2/)|
-|![VersaCold/Atlas (Corporate) example sett](/setts/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png)|
+| [VersaCold/Atlas (Corporate)](/variants/s9/db3n44k9n10k9n10k9n44r3~x2/)|
+|![VersaCold/Atlas (Corporate) example sett](/variants/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png)|

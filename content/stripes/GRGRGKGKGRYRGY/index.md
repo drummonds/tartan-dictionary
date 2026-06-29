@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balnagowan (Harrods)](/setts/s14/ly3dy3r1ly2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/)|
-|![Balnagowan (Harrods) example sett](/setts/s14/ly3dy3r1ly2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/sett.png)|
+| [Balnagowan (Harrods)](/variants/s14/ly3dy3r1ly2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/)|
+|![Balnagowan (Harrods) example sett](/variants/s14/ly3dy3r1ly2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/sett.png)|

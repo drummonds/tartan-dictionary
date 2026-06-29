@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Largs (1981) (District)](/setts/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/)|
-|![Largs (1981) (District) example sett](/setts/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/sett.png)|
+| [Largs (1981) (District)](/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/)|
+|![Largs (1981) (District) example sett](/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/sett.png)|

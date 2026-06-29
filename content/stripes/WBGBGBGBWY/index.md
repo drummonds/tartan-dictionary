@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ballarat](/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/)|
-|![Ballarat example sett](/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/sett.png)|
+| [Ballarat](/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2/)|
+|![Ballarat example sett](/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2/sett.png)|

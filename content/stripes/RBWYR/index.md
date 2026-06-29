@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wedding (Fashion)](/setts/s5/ri2dp30w1lo2r1~x2/)|
-|![Wedding (Fashion) example sett](/setts/s5/ri2dp30w1lo2r1~x2/sett.png)|
+| [Wedding (Fashion)](/variants/s5/ri2dp30w1lo2r1~x2/)|
+|![Wedding (Fashion) example sett](/variants/s5/ri2dp30w1lo2r1~x2/sett.png)|

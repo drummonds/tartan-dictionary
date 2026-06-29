@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inkster](/setts/s10/g25db10dy3db2dy2db6~x2/)|
-|![Inkster example sett](/setts/s10/g25db10dy3db2dy2db6~x2/sett.png)|
+| [Inkster](/variants/s10/g25db10dy3db2dy2db6~x2/)|
+|![Inkster example sett](/variants/s10/g25db10dy3db2dy2db6~x2/sett.png)|

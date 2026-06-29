@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grant of Acharrow](/setts/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/)|
-|![Grant of Acharrow example sett](/setts/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/sett.png)|
+| [Grant of Acharrow](/variants/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/)|
+|![Grant of Acharrow example sett](/variants/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/sett.png)|

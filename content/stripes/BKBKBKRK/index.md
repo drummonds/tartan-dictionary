@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Speyside Blue (Fashion)](/setts/s8/n32k3n3k3b5k8o21k4~x2/)|
-|![Speyside Blue (Fashion) example sett](/setts/s8/n32k3n3k3b5k8o21k4~x2/sett.png)|
+| [Speyside Blue (Fashion)](/variants/s8/n32k3n3k3b5k8o21k4~x2/)|
+|![Speyside Blue (Fashion) example sett](/variants/s8/n32k3n3k3b5k8o21k4~x2/sett.png)|

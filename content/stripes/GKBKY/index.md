@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carolina University, Western](/setts/s5/dg1k2dp27k2ly1~x2/)|
-|![Carolina University, Western example sett](/setts/s5/dg1k2dp27k2ly1~x2/sett.png)|
-| [U.S. Border Patrol (Corporate)](/setts/s5/g40k15b10k10ly3~x2/)|
-|![U.S. Border Patrol (Corporate) example sett](/setts/s5/g40k15b10k10ly3~x2/sett.png)|
+| [Carolina University, Western](/variants/s5/dg1k2dp27k2ly1~x2/)|
+|![Carolina University, Western example sett](/variants/s5/dg1k2dp27k2ly1~x2/sett.png)|
+| [U.S. Border Patrol (Corporate)](/variants/s5/g40k15b10k10ly3~x2/)|
+|![U.S. Border Patrol (Corporate) example sett](/variants/s5/g40k15b10k10ly3~x2/sett.png)|

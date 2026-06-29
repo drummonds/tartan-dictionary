@@ -24,5 +24,5 @@ It is a 34 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebrides South Uist #2](/setts/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2/)|
-|![Hebrides South Uist #2 example sett](/setts/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2/sett.png)|
+| [Hebrides South Uist #2](/variants/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2/)|
+|![Hebrides South Uist #2 example sett](/variants/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2/sett.png)|

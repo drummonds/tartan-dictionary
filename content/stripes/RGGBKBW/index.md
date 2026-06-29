@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coulthard (Personal)](/setts/s7/r3g9y15db10k2db18w3~x2/)|
-|![Coulthard (Personal) example sett](/setts/s7/r3g9y15db10k2db18w3~x2/sett.png)|
+| [Coulthard (Personal)](/variants/s7/r3g9y15db10k2db18w3~x2/)|
+|![Coulthard (Personal) example sett](/variants/s7/r3g9y15db10k2db18w3~x2/sett.png)|

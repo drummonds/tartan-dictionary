@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart dress](/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/)|
-|![Stewart dress example sett](/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/sett.png)|
+| [Stewart dress](/variants/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/)|
+|![Stewart dress example sett](/variants/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/sett.png)|

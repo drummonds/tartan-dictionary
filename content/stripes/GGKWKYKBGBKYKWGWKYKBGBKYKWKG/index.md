@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.017 #2](/setts/s28/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/)|
-|![Wilson's No.017 #2 example sett](/setts/s28/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/sett.png)|
+| [Wilson's No.017 #2](/variants/s28/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/)|
+|![Wilson's No.017 #2 example sett](/variants/s28/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/sett.png)|

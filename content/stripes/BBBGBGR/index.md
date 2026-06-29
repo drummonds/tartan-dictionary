@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boroughmuir](/setts/s7/db6b47db22g47dp4g4o4/)|
-|![Boroughmuir example sett](/setts/s7/db6b47db22g47dp4g4o4/sett.png)|
+| [Boroughmuir](/variants/s7/db6b47db22g47dp4g4o4/)|
+|![Boroughmuir example sett](/variants/s7/db6b47db22g47dp4g4o4/sett.png)|

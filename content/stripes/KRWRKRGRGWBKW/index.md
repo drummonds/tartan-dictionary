@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peacock (Personal)](/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/)|
-|![Peacock (Personal) example sett](/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/sett.png)|
+| [Peacock (Personal)](/variants/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/)|
+|![Peacock (Personal) example sett](/variants/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/sett.png)|

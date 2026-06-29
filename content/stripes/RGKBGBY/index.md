@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Junior Chamber International](/setts/s7/r4g16k16db4g3db12ly2~x2/)|
-|![Junior Chamber International example sett](/setts/s7/r4g16k16db4g3db12ly2~x2/sett.png)|
-| [Junior Chamber International (Corp)](/setts/s7/r4dg16k16db4dg3db12lo2~x2/)|
-|![Junior Chamber International (Corp) example sett](/setts/s7/r4dg16k16db4dg3db12lo2~x2/sett.png)|
+| [Junior Chamber International](/variants/s7/r4g16k16db4g3db12ly2~x2/)|
+|![Junior Chamber International example sett](/variants/s7/r4g16k16db4g3db12ly2~x2/sett.png)|
+| [Junior Chamber International (Corp)](/variants/s7/r4dg16k16db4dg3db12lo2~x2/)|
+|![Junior Chamber International (Corp) example sett](/variants/s7/r4dg16k16db4dg3db12lo2~x2/sett.png)|

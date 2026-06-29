@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leiato of American Samoa (Personal)](/setts/s7/dy45k5dy28k5r5w2do6~x2/)|
-|![Leiato of American Samoa (Personal) example sett](/setts/s7/dy45k5dy28k5r5w2do6~x2/sett.png)|
+| [Leiato of American Samoa (Personal)](/variants/s7/dy45k5dy28k5r5w2do6~x2/)|
+|![Leiato of American Samoa (Personal) example sett](/variants/s7/dy45k5dy28k5r5w2do6~x2/sett.png)|

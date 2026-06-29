@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Annapolis Valley](/setts/s6/g30b8g5lb4g5r1~x4/)|
-|![Annapolis Valley example sett](/setts/s6/g30b8g5lb4g5r1~x4/sett.png)|
-| [Annapolis Valley](/setts/s6/g30t8g5lb4g5r2~x4/)|
-|![Annapolis Valley example sett](/setts/s6/g30t8g5lb4g5r2~x4/sett.png)|
+| [Annapolis Valley](/variants/s6/g30b8g5lb4g5r1~x4/)|
+|![Annapolis Valley example sett](/variants/s6/g30b8g5lb4g5r1~x4/sett.png)|
+| [Annapolis Valley](/variants/s6/g30t8g5lb4g5r2~x4/)|
+|![Annapolis Valley example sett](/variants/s6/g30t8g5lb4g5r2~x4/sett.png)|

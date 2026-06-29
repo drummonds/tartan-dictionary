@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harley Davidson](/setts/s10/k49o8k4n6oi4n6k4o8k49oi2/)|
-|![Harley Davidson example sett](/setts/s10/k49o8k4n6oi4n6k4o8k49oi2/sett.png)|
+| [Harley Davidson](/variants/s10/k49o8k4n6oi4n6k4o8k49oi2/)|
+|![Harley Davidson example sett](/variants/s10/k49o8k4n6oi4n6k4o8k49oi2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramsay (Angus & Mearns)](/setts/s10/r64db4r1k4r12w4r1w4k4r1~x2/)|
-|![Ramsay (Angus & Mearns) example sett](/setts/s10/r64db4r1k4r12w4r1w4k4r1~x2/sett.png)|
+| [Ramsay (Angus & Mearns)](/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/)|
+|![Ramsay (Angus & Mearns) example sett](/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/sett.png)|

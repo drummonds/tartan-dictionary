@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Nevis #3](/setts/s8/g14r2g2r3g7db12g2dr2~x2/)|
-|![Glen Nevis #3 example sett](/setts/s8/g14r2g2r3g7db12g2dr2~x2/sett.png)|
+| [Glen Nevis #3](/variants/s8/g14r2g2r3g7db12g2dr2~x2/)|
+|![Glen Nevis #3 example sett](/variants/s8/g14r2g2r3g7db12g2dr2~x2/sett.png)|

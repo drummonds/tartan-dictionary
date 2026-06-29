@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carrick (Strathmore) District Tartan Tartan Number: 3216. Earliest known date: c.1999 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r28db12r3dg20t2dg2r7~x2/)|
-|![Carrick (Strathmore) District Tartan Tartan Number: 3216. Earliest known date: c.1999 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r28db12r3dg20t2dg2r7~x2/sett.png)|
+| [Carrick (Strathmore) District Tartan](/variants/s7/r28db12r3dg20t2dg2r7~x2/)|
+|![Carrick (Strathmore) District Tartan example sett](/variants/s7/r28db12r3dg20t2dg2r7~x2/sett.png)|

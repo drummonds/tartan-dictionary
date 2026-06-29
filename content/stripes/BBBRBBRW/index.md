@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greer (Name?)](/setts/s8/t16db3t3o3t3db10r12w4~x2/)|
-|![Greer (Name?) example sett](/setts/s8/t16db3t3o3t3db10r12w4~x2/sett.png)|
+| [Greer (Name?)](/variants/s8/t16db3t3o3t3db10r12w4~x2/)|
+|![Greer (Name?) example sett](/variants/s8/t16db3t3o3t3db10r12w4~x2/sett.png)|

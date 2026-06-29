@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swankie](/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/)|
-|![Swankie example sett](/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/sett.png)|
+| [Swankie](/variants/s7/dg3dt22dr10o5dg21r6dt3~x2/)|
+|![Swankie example sett](/variants/s7/dg3dt22dr10o5dg21r6dt3~x2/sett.png)|

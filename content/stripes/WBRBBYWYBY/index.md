@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gray, Sir John Hamilton (Commem)](/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/)|
-|![Gray, Sir John Hamilton (Commem) example sett](/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/sett.png)|
+| [Gray, Sir John Hamilton (Commem)](/variants/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/)|
+|![Gray, Sir John Hamilton (Commem) example sett](/variants/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/sett.png)|

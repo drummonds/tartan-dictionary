@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lumsden of Clova](/setts/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/)|
-|![Lumsden of Clova example sett](/setts/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/sett.png)|
+| [Lumsden of Clova](/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/)|
+|![Lumsden of Clova example sett](/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/sett.png)|

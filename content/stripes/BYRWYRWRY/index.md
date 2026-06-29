@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hybelius, J-A (Personal)](/setts/s9/dt58ly2r1lb4ly2r2lb7r8ly6~x2/)|
-|![Hybelius, J-A (Personal) example sett](/setts/s9/dt58ly2r1lb4ly2r2lb7r8ly6~x2/sett.png)|
+| [Hybelius, J-A (Personal)](/variants/s9/dt58ly2r1lb4ly2r2lb7r8ly6~x2/)|
+|![Hybelius, J-A (Personal) example sett](/variants/s9/dt58ly2r1lb4ly2r2lb7r8ly6~x2/sett.png)|

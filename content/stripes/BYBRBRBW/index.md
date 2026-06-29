@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brigadoon](/setts/s8/w4db19r4dp2r4dp23ly4dp2~x2/)|
-|![Brigadoon example sett](/setts/s8/w4db19r4dp2r4dp23ly4dp2~x2/sett.png)|
+| [Brigadoon](/variants/s8/w4db19r4dp2r4dp23ly4dp2~x2/)|
+|![Brigadoon example sett](/variants/s8/w4db19r4dp2r4dp23ly4dp2~x2/sett.png)|

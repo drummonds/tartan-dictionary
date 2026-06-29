@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.214](/setts/s8/g4r3t1k1t3~x4/)|
-|![Wilson's No.214 example sett](/setts/s8/g4r3t1k1t3~x4/sett.png)|
+| [Wilson's No.214](/variants/s8/g4r3t1k1t3~x4/)|
+|![Wilson's No.214 example sett](/variants/s8/g4r3t1k1t3~x4/sett.png)|

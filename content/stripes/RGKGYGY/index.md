@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Paton](/setts/s7/r3g24k28g19ly3g3ly3~x2/)|
-|![Paton example sett](/setts/s7/r3g24k28g19ly3g3ly3~x2/sett.png)|
-| [Paton (Personal)](/setts/s7/r3g20k20g20lo2g2lo2~x2/)|
-|![Paton (Personal) example sett](/setts/s7/r3g20k20g20lo2g2lo2~x2/sett.png)|
+| [Paton](/variants/s7/r3g24k28g19ly3g3ly3~x2/)|
+|![Paton example sett](/variants/s7/r3g24k28g19ly3g3ly3~x2/sett.png)|
+| [Paton (Personal)](/variants/s7/r3g20k20g20lo2g2lo2~x2/)|
+|![Paton (Personal) example sett](/variants/s7/r3g20k20g20lo2g2lo2~x2/sett.png)|

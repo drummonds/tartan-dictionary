@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [De Maynard (Personal)](/setts/s8/dp2o9g8o4ly1o4db10w2~x4/)|
-|![De Maynard (Personal) example sett](/setts/s8/dp2o9g8o4ly1o4db10w2~x4/sett.png)|
+| [De Maynard (Personal)](/variants/s8/dp2o9g8o4ly1o4db10w2~x4/)|
+|![De Maynard (Personal) example sett](/variants/s8/dp2o9g8o4ly1o4db10w2~x4/sett.png)|

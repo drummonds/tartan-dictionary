@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland Forever Antique (Fashion)](/setts/s11/oi6k3n19k6n4k3o12lr4o12w2oi5~x2/)|
-|![Scotland Forever Antique (Fashion) example sett](/setts/s11/oi6k3n19k6n4k3o12lr4o12w2oi5~x2/sett.png)|
+| [Scotland Forever Antique (Fashion)](/variants/s11/oi6k3n19k6n4k3o12lr4o12w2oi5~x2/)|
+|![Scotland Forever Antique (Fashion) example sett](/variants/s11/oi6k3n19k6n4k3o12lr4o12w2oi5~x2/sett.png)|

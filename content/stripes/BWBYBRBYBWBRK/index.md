@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal National Lifeboat Inst. (Corp)](/setts/s13/db15w2db15ly2db15r2db15ly2db15w2db15r4k2~x2/)|
-|![Royal National Lifeboat Inst. (Corp) example sett](/setts/s13/db15w2db15ly2db15r2db15ly2db15w2db15r4k2~x2/sett.png)|
+| [Royal National Lifeboat Inst. (Corp)](/variants/s13/db15w2db15ly2db15r2db15ly2db15w2db15r4k2~x2/)|
+|![Royal National Lifeboat Inst. (Corp) example sett](/variants/s13/db15w2db15ly2db15r2db15ly2db15w2db15r4k2~x2/sett.png)|

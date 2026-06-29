@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLeod (Snuffbox)](/setts/s9/k1ly12r1ly2k4r1k4ly2k1~x4/)|
-|![MacLeod (Snuffbox) example sett](/setts/s9/k1ly12r1ly2k4r1k4ly2k1~x4/sett.png)|
+| [MacLeod (Snuffbox)](/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/)|
+|![MacLeod (Snuffbox) example sett](/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/sett.png)|

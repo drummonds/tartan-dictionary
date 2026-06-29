@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Sween](/setts/s12/w3ly3r2ly13k3ly4k22ly4k3ly16dp2w3~x2/)|
-|![Loch Sween example sett](/setts/s12/w3ly3r2ly13k3ly4k22ly4k3ly16dp2w3~x2/sett.png)|
-| [Loch Sween](/setts/s12/w3ly3r2ly13k3ly4k22ly4k3ly16p2w3~x2/)|
-|![Loch Sween example sett](/setts/s12/w3ly3r2ly13k3ly4k22ly4k3ly16p2w3~x2/sett.png)|
+| [Loch Sween](/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16dp2w3~x2/)|
+|![Loch Sween example sett](/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16dp2w3~x2/sett.png)|
+| [Loch Sween](/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16p2w3~x2/)|
+|![Loch Sween example sett](/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16p2w3~x2/sett.png)|

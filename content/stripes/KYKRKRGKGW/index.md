@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carlow County Crest (Fashion)](/setts/s10/w15g8k12g14r64k12r16k10ly8k14/)|
-|![Carlow County Crest (Fashion) example sett](/setts/s10/w15g8k12g14r64k12r16k10ly8k14/sett.png)|
+| [Carlow County Crest (Fashion)](/variants/s10/w15g8k12g14r64k12r16k10ly8k14/)|
+|![Carlow County Crest (Fashion) example sett](/variants/s10/w15g8k12g14r64k12r16k10ly8k14/sett.png)|

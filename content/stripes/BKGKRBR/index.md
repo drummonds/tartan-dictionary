@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isaia](/setts/s7/o80dr8o4k4y4k45do8/)|
-|![Isaia example sett](/setts/s7/o80dr8o4k4y4k45do8/sett.png)|
+| [Isaia](/variants/s7/o80dr8o4k4y4k45do8/)|
+|![Isaia example sett](/variants/s7/o80dr8o4k4y4k45do8/sett.png)|

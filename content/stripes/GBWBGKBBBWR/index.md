@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Millennium](/setts/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/)|
-|![New Millennium example sett](/setts/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/sett.png)|
+| [New Millennium](/variants/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/)|
+|![New Millennium example sett](/variants/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/sett.png)|

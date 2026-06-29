@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Celtic Combat](/setts/s6/k2o20k8dg18o3w2~x2/)|
-|![Celtic Combat example sett](/setts/s6/k2o20k8dg18o3w2~x2/sett.png)|
+| [Celtic Combat](/variants/s6/k2o20k8dg18o3w2~x2/)|
+|![Celtic Combat example sett](/variants/s6/k2o20k8dg18o3w2~x2/sett.png)|

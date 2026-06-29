@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Batson (Personal)](/setts/s3/k69r14ly5~x2/)|
-|![Batson (Personal) example sett](/setts/s3/k69r14ly5~x2/sett.png)|
-| [Quenouille (2011)](/setts/s3/ly49r16k11~x2/)|
-|![Quenouille (2011) example sett](/setts/s3/ly49r16k11~x2/sett.png)|
+| [Batson (Personal)](/variants/s3/k69r14ly5~x2/)|
+|![Batson (Personal) example sett](/variants/s3/k69r14ly5~x2/sett.png)|
+| [Quenouille (2011)](/variants/s3/ly49r16k11~x2/)|
+|![Quenouille (2011) example sett](/variants/s3/ly49r16k11~x2/sett.png)|

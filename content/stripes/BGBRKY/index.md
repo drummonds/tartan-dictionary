@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Miller, Reverend Ian (Personal](/setts/s6/dp2g18dp15r24k1ly2~x2/)|
-|![Miller, Reverend Ian (Personal example sett](/setts/s6/dp2g18dp15r24k1ly2~x2/sett.png)|
+| [Miller, Reverend Ian (Personal](/variants/s6/dp2g18dp15r24k1ly2~x2/)|
+|![Miller, Reverend Ian (Personal example sett](/variants/s6/dp2g18dp15r24k1ly2~x2/sett.png)|

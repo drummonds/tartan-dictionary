@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rooney (Personal)](/setts/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/)|
-|![Rooney (Personal) example sett](/setts/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/sett.png)|
+| [Rooney (Personal)](/variants/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/)|
+|![Rooney (Personal) example sett](/variants/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/sett.png)|

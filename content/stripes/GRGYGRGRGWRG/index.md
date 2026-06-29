@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glendronach](/setts/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/)|
-|![Glendronach example sett](/setts/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/sett.png)|
+| [Glendronach](/variants/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/)|
+|![Glendronach example sett](/variants/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/sett.png)|

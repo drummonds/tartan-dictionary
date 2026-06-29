@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Torridon, Saphire (Dance)](/setts/s7/w3dbi2w30db30k2db2ly3~x2/)|
-|![Torridon, Saphire (Dance) example sett](/setts/s7/w3dbi2w30db30k2db2ly3~x2/sett.png)|
+| [Torridon, Saphire (Dance)](/variants/s7/w3dbi2w30db30k2db2ly3~x2/)|
+|![Torridon, Saphire (Dance) example sett](/variants/s7/w3dbi2w30db30k2db2ly3~x2/sett.png)|

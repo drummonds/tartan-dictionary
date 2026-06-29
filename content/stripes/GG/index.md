@@ -24,7 +24,7 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.219](/setts/s2/dg7y6~x2/)|
-|![Wilson's No.219 example sett](/setts/s2/dg7y6~x2/sett.png)|
-| [Wilson's, No 219](/setts/s2/dg1g1~x18/)|
-|![Wilson's, No 219 example sett](/setts/s2/dg1g1~x18/sett.png)|
+| [Wilson's No.219](/variants/s2/dg7y6~x2/)|
+|![Wilson's No.219 example sett](/variants/s2/dg7y6~x2/sett.png)|
+| [Wilson's, No 219](/variants/s2/dg1g1~x18/)|
+|![Wilson's, No 219 example sett](/variants/s2/dg1g1~x18/sett.png)|

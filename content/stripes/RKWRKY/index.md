@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bradley University](/setts/s6/r97k18w5ri26k18lr14/)|
-|![Bradley University example sett](/setts/s6/r97k18w5ri26k18lr14/sett.png)|
+| [Bradley University](/variants/s6/r97k18w5ri26k18lr14/)|
+|![Bradley University example sett](/variants/s6/r97k18w5ri26k18lr14/sett.png)|

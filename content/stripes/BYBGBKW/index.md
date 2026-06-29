@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cullen (Christian Hill) (Personal)](/setts/s7/t8lo2t8dg7t57k3lb1~x2/)|
-|![Cullen (Christian Hill) (Personal) example sett](/setts/s7/t8lo2t8dg7t57k3lb1~x2/sett.png)|
+| [Cullen (Christian Hill) (Personal)](/variants/s7/t8lo2t8dg7t57k3lb1~x2/)|
+|![Cullen (Christian Hill) (Personal) example sett](/variants/s7/t8lo2t8dg7t57k3lb1~x2/sett.png)|

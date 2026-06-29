@@ -1,0 +1,73 @@
+---
+title: "Unidentified Scarlett #7"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp22r3k22g22ly2g22k22r3dp22w3/)
+(the same proportion at any scale), whose colour order is pattern [BRKGYGKRBW](/stripes/brkgygkrbw/).
+
+Part of the [Unidentified Scarlett](/tartans/unidentified-scarlett/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4380
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified Scarlett #1
+- Unidentified Scarlett #10
+- Unidentified Scarlett #11
+- Unidentified Scarlett #12
+- Unidentified Scarlett #13
+- Unidentified Scarlett #14
+- Unidentified Scarlett #15
+- Unidentified Scarlett #16
+- Unidentified Scarlett #17
+- Unidentified Scarlett #2
+- Unidentified Scarlett #3
+- Unidentified Scarlett #4
+- Unidentified Scarlett #5
+- Unidentified Scarlett #6
+- Unidentified Scarlett #7
+- Unidentified Scarlett #8
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4380](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4380)
+- Scottish Tartans Authority (ITI): 6329
+
+## Thread count
+P/44 R6 K44 G44 Y4 G44 K44 R6 P44 W/6
+
+One full sett is **522 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>P/</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> <small style="color:#888">#408060</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(54.8% 0.084 160.1)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> <small style="color:#888">#408060</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(54.8% 0.084 160.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr></tbody></table>
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/b5r30g26r5w1r5b32r30lb1b3lb1b31r5w1r5g26r32b5w1/"><img src="/variants/s19/b5r30g26r5w1r5b32r30lb1b3lb1b31r5w1r5g26r32b5w1~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/b5r30g26r5w1r5b32r30lb1b3lb1b31r5w1r5g26r32b5w1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dp22r3k22g22ly2g22k22r3dp22w3~x2">Unidentified Scarlett #7</a> <a class="nn-out" href="/variants/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">McCrann, Julian David (Personal)</a> <a class="nn-out" href="/variants/s13/db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.96</div><div class="nn-name"><a href="/ttd/edit/#slug=r3db16m2db2m12k8g12k12w3~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Celtic Women International</a> <a class="nn-out" href="/variants/s9/r3db16m2db2m12k8g12k12w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r3db16m2db2m12k8g12k12w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Commonwealth Games 1998</a> <a class="nn-out" href="/variants/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=o10t5db15k3db15k5r25k3w4~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Galway County Crest (Fashion)</a> <a class="nn-out" href="/variants/s9/o10t5db15k3db15k5r25k3w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/o10t5db15k3db15k5r25k3w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=r12db22dg5db3ly3db3dg17b9dr7r2~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Royal Dornoch Golf Club, The</a> <a class="nn-out" href="/variants/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.02</div><div class="nn-name"><a href="/ttd/edit/#slug=k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Shandon (Personal)</a> <a class="nn-out" href="/variants/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=db12w1dg12r12dg2r12dg12w1db12g3~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Patterson (Red) Clan Tartan</a> <a class="nn-out" href="/variants/s10/db12w1dg12r12dg2r12dg12w1db12g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db12w1dg12r12dg2r12dg12w1db12g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=k2o10k5dg8k12r20t16r4t5w2~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Manderson #2</a> <a class="nn-out" href="/variants/s10/k2o10k5dg8k12r20t16r4t5w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k2o10k5dg8k12r20t16r4t5w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=r6db3dp24w2k23y23k2y6~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Culloden Grey</a> <a class="nn-out" href="/variants/s8/r6db3dp24w2k23y23k2y6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r6db3dp24w2k23y23k2y6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=k10lb5dp10g20k6g6db10r2db2r4~x2&amp;base=dp22r3k22g22ly2g22k22r3dp22w3~x2">Brotherston (Personal)</a> <a class="nn-out" href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8r2db2r4db8y2k10y10k4y2ly2y4w1~x2/"><circle cx="97.4" cy="162.1" r="4" fill="#3465a4"><title>McCrann, Julian David (Personal)</title></circle></a><a href="/variants/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.1" cy="181.6" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/"><circle cx="125.9" cy="155.9" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/variants/s9/o10t5db15k3db15k5r25k3w4~x2/"><circle cx="124.2" cy="174.0" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/"><circle cx="97.3" cy="151.2" r="4" fill="#3465a4"><title>Royal Dornoch Golf Club, The</title></circle></a><a href="/variants/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/"><circle cx="132.5" cy="147.0" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s10/db12w1dg12r12dg2r12dg12w1db12g3~x2/"><circle cx="154.3" cy="186.2" r="4" fill="#3465a4"><title>Patterson (Red) Clan Tartan</title></circle></a><a href="/variants/s10/k2o10k5dg8k12r20t16r4t5w2~x2/"><circle cx="74.0" cy="157.8" r="4" fill="#3465a4"><title>Manderson #2</title></circle></a><a href="/variants/s8/r6db3dp24w2k23y23k2y6~x2/"><circle cx="138.1" cy="152.9" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="99.9" cy="172.7" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><circle cx="112.9" cy="166.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacThomas](/setts/s9/dg1dg1r2dg21k11db21r2db1db1~x2/)|
-|![MacThomas example sett](/setts/s9/dg1dg1r2dg21k11db21r2db1db1~x2/sett.png)|
+| [MacThomas](/variants/s9/dg1dg1r2dg21k11db21r2db1db1~x2/)|
+|![MacThomas example sett](/variants/s9/dg1dg1r2dg21k11db21r2db1db1~x2/sett.png)|

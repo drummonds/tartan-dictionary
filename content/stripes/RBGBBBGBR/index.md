@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Amazing Union (Personal)](/setts/s9/r2do15dg12do2dt12do2dg12do15o2~x4/)|
-|![Amazing Union (Personal) example sett](/setts/s9/r2do15dg12do2dt12do2dg12do15o2~x4/sett.png)|
+| [Amazing Union (Personal)](/variants/s9/r2do15dg12do2dt12do2dg12do15o2~x4/)|
+|![Amazing Union (Personal) example sett](/variants/s9/r2do15dg12do2dt12do2dg12do15o2~x4/sett.png)|

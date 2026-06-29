@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arbutus](/setts/s14/w40dg3lo6dg2lo2w2lo2dg10do2dg2lo2do2dg3w2~x2/)|
-|![Arbutus example sett](/setts/s14/w40dg3lo6dg2lo2w2lo2dg10do2dg2lo2do2dg3w2~x2/sett.png)|
+| [Arbutus](/variants/s14/w40dg3lo6dg2lo2w2lo2dg10do2dg2lo2do2dg3w2~x2/)|
+|![Arbutus example sett](/variants/s14/w40dg3lo6dg2lo2w2lo2dg10do2dg2lo2do2dg3w2~x2/sett.png)|

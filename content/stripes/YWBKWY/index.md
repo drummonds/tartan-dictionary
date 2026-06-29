@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wolverine (Corporate)](/setts/s6/ly8w3b40k12w3ly3~x2/)|
-|![Wolverine (Corporate) example sett](/setts/s6/ly8w3b40k12w3ly3~x2/sett.png)|
-| [Wolverines (Corporate)](/setts/s6/lo8w3db40k12w3lo3~x2/)|
-|![Wolverines (Corporate) example sett](/setts/s6/lo8w3db40k12w3lo3~x2/sett.png)|
+| [Wolverine (Corporate)](/variants/s6/ly8w3b40k12w3ly3~x2/)|
+|![Wolverine (Corporate) example sett](/variants/s6/ly8w3b40k12w3ly3~x2/sett.png)|
+| [Wolverines (Corporate)](/variants/s6/lo8w3db40k12w3lo3~x2/)|
+|![Wolverines (Corporate) example sett](/variants/s6/lo8w3db40k12w3lo3~x2/sett.png)|

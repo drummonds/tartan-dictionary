@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kirkcaldy Tartan Army](/setts/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/)|
-|![Kirkcaldy Tartan Army example sett](/setts/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/sett.png)|
+| [Kirkcaldy Tartan Army](/variants/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/)|
+|![Kirkcaldy Tartan Army example sett](/variants/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/sett.png)|

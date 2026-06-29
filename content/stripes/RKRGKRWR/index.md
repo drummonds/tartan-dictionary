@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gudbrandsdalen, Rondastakken #2](/setts/s8/r65w1r6k8g8r6k3r11~x2/)|
-|![Gudbrandsdalen, Rondastakken #2 example sett](/setts/s8/r65w1r6k8g8r6k3r11~x2/sett.png)|
+| [Gudbrandsdalen, Rondastakken #2](/variants/s8/r65w1r6k8g8r6k3r11~x2/)|
+|![Gudbrandsdalen, Rondastakken #2 example sett](/variants/s8/r65w1r6k8g8r6k3r11~x2/sett.png)|

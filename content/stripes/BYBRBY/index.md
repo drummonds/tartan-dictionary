@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25~x2/)|
-|![South Australian Pipes & Drums (Corp example sett](/setts/s6/db60ly6db11r25~x2/sett.png)|
+| [South Australian Pipes & Drums (Corp](/variants/s6/db60ly6db11r25~x2/)|
+|![South Australian Pipes & Drums (Corp example sett](/variants/s6/db60ly6db11r25~x2/sett.png)|

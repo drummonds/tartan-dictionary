@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gonzaga University’s True Blue and White](/setts/s7/w6db2w3db2g2db20r1~x2/)|
-|![Gonzaga University’s True Blue and White example sett](/setts/s7/w6db2w3db2g2db20r1~x2/sett.png)|
-| [Ikelman #4 (Personal)](/setts/s7/r10db15g2db2w1db1w1~x4/)|
-|![Ikelman #4 (Personal) example sett](/setts/s7/r10db15g2db2w1db1w1~x4/sett.png)|
+| [Gonzaga University’s True Blue and White](/variants/s7/w6db2w3db2g2db20r1~x2/)|
+|![Gonzaga University’s True Blue and White example sett](/variants/s7/w6db2w3db2g2db20r1~x2/sett.png)|
+| [Ikelman #4 (Personal)](/variants/s7/r10db15g2db2w1db1w1~x4/)|
+|![Ikelman #4 (Personal) example sett](/variants/s7/r10db15g2db2w1db1w1~x4/sett.png)|

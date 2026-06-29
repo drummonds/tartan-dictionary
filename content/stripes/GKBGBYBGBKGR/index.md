@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Junior Chamber International](/setts/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16r4~x2/)|
-|![Junior Chamber International example sett](/setts/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16r4~x2/sett.png)|
+| [Junior Chamber International](/variants/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16r4~x2/)|
+|![Junior Chamber International example sett](/variants/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16r4~x2/sett.png)|

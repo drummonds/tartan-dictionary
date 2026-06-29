@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grelloch](/setts/s10/r2k1r12ri12t1m2~x4/)|
-|![Grelloch example sett](/setts/s10/r2k1r12ri12t1m2~x4/sett.png)|
+| [Grelloch](/variants/s10/r2k1r12ri12t1m2~x4/)|
+|![Grelloch example sett](/variants/s10/r2k1r12ri12t1m2~x4/sett.png)|

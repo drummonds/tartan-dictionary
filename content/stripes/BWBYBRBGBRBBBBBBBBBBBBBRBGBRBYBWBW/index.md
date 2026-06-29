@@ -24,5 +24,5 @@ It is a 34 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New York Tartan Day Parade (Corp.)](/setts/s34/db2w1db28lo1db4r4db1g2db1r8db1n2db1n2db1n2db1n2db1n2db1n2db1r8db1g2db1r4db4lo1db56w1db2w2~x2/)|
-|![New York Tartan Day Parade (Corp.) example sett](/setts/s34/db2w1db28lo1db4r4db1g2db1r8db1n2db1n2db1n2db1n2db1n2db1n2db1r8db1g2db1r4db4lo1db56w1db2w2~x2/sett.png)|
+| [New York Tartan Day Parade (Corp.)](/variants/s34/db2w1db28lo1db4r4db1g2db1r8db1n2db1n2db1n2db1n2db1n2db1n2db1r8db1g2db1r4db4lo1db56w1db2w2~x2/)|
+|![New York Tartan Day Parade (Corp.) example sett](/variants/s34/db2w1db28lo1db4r4db1g2db1r8db1n2db1n2db1n2db1n2db1n2db1n2db1r8db1g2db1r4db4lo1db56w1db2w2~x2/sett.png)|

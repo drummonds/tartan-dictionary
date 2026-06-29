@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rannoch Red](/setts/s7/r10y3r24lb3r16k3r8~x2/)|
-|![Rannoch Red example sett](/setts/s7/r10y3r24lb3r16k3r8~x2/sett.png)|
+| [Rannoch Red](/variants/s7/r10y3r24lb3r16k3r8~x2/)|
+|![Rannoch Red example sett](/variants/s7/r10y3r24lb3r16k3r8~x2/sett.png)|

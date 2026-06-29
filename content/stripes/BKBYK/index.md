@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jahore](/setts/s5/db20k5db18ly26k6~x2/)|
-|![Jahore example sett](/setts/s5/db20k5db18ly26k6~x2/sett.png)|
-| [Johore Regiment (Military)](/setts/s5/db20k5db18lo26k6~x2/)|
-|![Johore Regiment (Military) example sett](/setts/s5/db20k5db18lo26k6~x2/sett.png)|
+| [Jahore](/variants/s5/db20k5db18ly26k6~x2/)|
+|![Jahore example sett](/variants/s5/db20k5db18ly26k6~x2/sett.png)|
+| [Johore Regiment (Military)](/variants/s5/db20k5db18lo26k6~x2/)|
+|![Johore Regiment (Military) example sett](/variants/s5/db20k5db18lo26k6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Council of Scottish Clans & Ass. (Co](/setts/s7/w2r2db16k14g15r2ly2~x2/)|
-|![Council of Scottish Clans & Ass. (Co example sett](/setts/s7/w2r2db16k14g15r2ly2~x2/sett.png)|
+| [Council of Scottish Clans & Ass. (Co](/variants/s7/w2r2db16k14g15r2ly2~x2/)|
+|![Council of Scottish Clans & Ass. (Co example sett](/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png)|

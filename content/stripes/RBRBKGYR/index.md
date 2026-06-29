@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Borrodale (Clan)](/setts/s8/r6db3r3db32k30g30ly3r3~x2/)|
-|![MacDonald of Borrodale (Clan) example sett](/setts/s8/r6db3r3db32k30g30ly3r3~x2/sett.png)|
+| [MacDonald of Borrodale (Clan)](/variants/s8/r6db3r3db32k30g30ly3r3~x2/)|
+|![MacDonald of Borrodale (Clan) example sett](/variants/s8/r6db3r3db32k30g30ly3r3~x2/sett.png)|

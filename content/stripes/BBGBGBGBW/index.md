@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tamer of Wolves](/setts/s9/w9db2dy8n6dy9n15dy13n3db4~x2/)|
-|![Tamer of Wolves example sett](/setts/s9/w9db2dy8n6dy9n15dy13n3db4~x2/sett.png)|
+| [Tamer of Wolves](/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/)|
+|![Tamer of Wolves example sett](/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/sett.png)|

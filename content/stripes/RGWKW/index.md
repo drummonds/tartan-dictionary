@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [SAL Cubiska Stenen](/setts/s5/r15g3w2k10w5~x2/)|
-|![SAL Cubiska Stenen example sett](/setts/s5/r15g3w2k10w5~x2/sett.png)|
+| [SAL Cubiska Stenen](/variants/s5/r15g3w2k10w5~x2/)|
+|![SAL Cubiska Stenen example sett](/variants/s5/r15g3w2k10w5~x2/sett.png)|

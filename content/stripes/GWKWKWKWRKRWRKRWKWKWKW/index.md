@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waverley Check](/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/)|
-|![Waverley Check example sett](/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/sett.png)|
+| [Waverley Check](/variants/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/)|
+|![Waverley Check example sett](/variants/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/sett.png)|

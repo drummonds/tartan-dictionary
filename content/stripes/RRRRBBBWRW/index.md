@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Outpost Club](/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/)|
-|![Outpost Club example sett](/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/sett.png)|
+| [Outpost Club](/variants/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/)|
+|![Outpost Club example sett](/variants/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/sett.png)|

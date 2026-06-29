@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Zorra Caledonian Society (Corporate](/setts/s10/dg3w2dg39k3t3k3dg3k20g10r2~x2/)|
-|![Zorra Caledonian Society (Corporate example sett](/setts/s10/dg3w2dg39k3t3k3dg3k20g10r2~x2/sett.png)|
+| [Zorra Caledonian Society (Corporate](/variants/s10/dg3w2dg39k3t3k3dg3k20g10r2~x2/)|
+|![Zorra Caledonian Society (Corporate example sett](/variants/s10/dg3w2dg39k3t3k3dg3k20g10r2~x2/sett.png)|

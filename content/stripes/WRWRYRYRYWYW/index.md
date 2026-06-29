@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bob the Builder (Corporate?)](/setts/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/)|
-|![Bob the Builder (Corporate?) example sett](/setts/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/sett.png)|
+| [Bob the Builder (Corporate?)](/variants/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/)|
+|![Bob the Builder (Corporate?) example sett](/variants/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [American Bi-Centennial](/setts/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/)|
-|![American Bi-Centennial example sett](/setts/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/sett.png)|
+| [American Bi-Centennial](/variants/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/)|
+|![American Bi-Centennial example sett](/variants/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/sett.png)|

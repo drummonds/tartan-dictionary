@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Arran (Personal)](/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/)|
-|![Isle of Arran (Personal) example sett](/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/sett.png)|
+| [Isle of Arran (Personal)](/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/)|
+|![Isle of Arran (Personal) example sett](/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/sett.png)|

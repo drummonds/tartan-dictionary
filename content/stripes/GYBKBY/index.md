@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cala Homes (Corporate)](/setts/s6/ly5db24k8dbi18ly6dy3/)|
-|![Cala Homes (Corporate) example sett](/setts/s6/ly5db24k8dbi18ly6dy3/sett.png)|
+| [Cala Homes (Corporate)](/variants/s6/ly5db24k8dbi18ly6dy3/)|
+|![Cala Homes (Corporate) example sett](/variants/s6/ly5db24k8dbi18ly6dy3/sett.png)|

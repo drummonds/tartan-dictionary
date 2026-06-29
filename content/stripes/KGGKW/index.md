@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Raeside](/setts/s5/k6g4gi44k41w4~x2/)|
-|![Raeside example sett](/setts/s5/k6g4gi44k41w4~x2/sett.png)|
+| [Raeside](/variants/s5/k6g4gi44k41w4~x2/)|
+|![Raeside example sett](/variants/s5/k6g4gi44k41w4~x2/sett.png)|

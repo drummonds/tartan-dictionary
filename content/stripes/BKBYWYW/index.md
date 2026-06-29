@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tilburg Hunting (District)](/setts/s7/b6k3b37ly41w3ly6w3~x2/)|
-|![Tilburg Hunting (District) example sett](/setts/s7/b6k3b37ly41w3ly6w3~x2/sett.png)|
+| [Tilburg Hunting (District)](/variants/s7/b6k3b37ly41w3ly6w3~x2/)|
+|![Tilburg Hunting (District) example sett](/variants/s7/b6k3b37ly41w3ly6w3~x2/sett.png)|

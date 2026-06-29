@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gaudet-Hillan (Personal)](/setts/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2t3r1~x2/)|
-|![Gaudet-Hillan (Personal) example sett](/setts/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2t3r1~x2/sett.png)|
+| [Gaudet-Hillan (Personal)](/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2t3r1~x2/)|
+|![Gaudet-Hillan (Personal) example sett](/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2t3r1~x2/sett.png)|

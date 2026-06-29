@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rikaco Holiday](/setts/s10/k5ki5k2r47k18w2k5dg9ki7w3~x2/)|
-|![Rikaco Holiday example sett](/setts/s10/k5ki5k2r47k18w2k5dg9ki7w3~x2/sett.png)|
+| [Rikaco Holiday](/variants/s10/k5ki5k2r47k18w2k5dg9ki7w3~x2/)|
+|![Rikaco Holiday example sett](/variants/s10/k5ki5k2r47k18w2k5dg9ki7w3~x2/sett.png)|

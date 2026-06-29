@@ -8,17 +8,21 @@ A family of [Clan Cameron](/clan/cameron/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><img src="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil" width="240"><br>Cameron of Locheil</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a> ★</td><td><code>R/24 G12 R24 DB4 W4 DB4 R8 DB32 R/16</code></td><td>5</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r6g3r6db1w1db1r2db8r4/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db4r1db1r18db10r1dg1r6dg10r6w1r4db1/">Cameron of Locheil</a></td><td><code>DB/8 R2 DB2 R36 DB20 R2 DG2 R12 DG20 R12 W2 R8 DB/2</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db4r1db1r18db10r1dg1r6dg10r6w1r4db1/"><img src="/variants/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k3r4db2r20db20r2dg2r6dg10r6w2r3k2/">(Bonner collection)</a></td><td><code>K/6 R8 DB4 R40 DB40 R4 DG4 R12 DG20 R12 W4 R6 K/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k3r4db2r20db20r2dg2r6dg10r6w2r3k2/"><img src="/variants/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/sett.png" alt="(Bonner collection) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k3r4db2r20db20r2g2r6g10r6w2r3k2/">Cameron of Locheil</a></td><td><code>K/6 R8 DB4 R40 DB40 R4 G4 R12 G20 R12 W4 R6 K/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k3r4db2r20db20r2g2r6g10r6w2r3k2/"><img src="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r24db8r23k4w4k4r10k32r8/">#3</a></td><td><code>R/24 DB8 R23 K4 W4 K4 R10 K32 R/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r24db8r23k4w4k4r10k32r8/"><img src="/variants/s9/r24db8r23k4w4k4r10k32r8/sett.png" alt="#3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><img src="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/sett.png" alt="Cameron of Locheil" width="140"><br>Cameron of Locheil</a></li>
-<li><a class="tartan" href="/setts/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><img src="/setts/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/sett.png" alt="Cameron of Locheil" width="140"><br>Cameron of Locheil</a></li>
-<li><a class="tartan" href="/setts/s9/r6dg3r6db1lb1db1r2db8r4/"><img src="/setts/s9/r6dg3r6db1lb1db1r2db8r4/sett.png" alt="Cameron of Locheil" width="140"><br>Cameron of Locheil</a></li>
-<li><a class="tartan" href="/setts/s9/r6dg3r6db1lr1db1r2db8r4/"><img src="/setts/s9/r6dg3r6db1lr1db1r2db8r4/sett.png" alt="Cameron of Locheil" width="140"><br>Cameron of Locheil</a></li>
-<li><a class="tartan" href="/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/"><img src="/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/sett.png" alt="Cameron of Locheil" width="140"><br>Cameron of Locheil</a></li>
-<li><a class="tartan" href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><img src="/setts/s9/r24db8r23k4w4k4r10k32r8/sett.png" alt="Cameron of Locheil #3" width="140"><br>Cameron of Locheil #3</a></li>
-<li><a class="tartan" href="/setts/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/"><img src="/setts/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/sett.png" alt="Cameron of Locheil (Bonner collection)" width="140"><br>Cameron of Locheil (Bonner collection)</a></li>
-</ul>
+[See the Cameron of Locheil tartan and all its setts →](/tartans/cameron-of-locheil/)
 

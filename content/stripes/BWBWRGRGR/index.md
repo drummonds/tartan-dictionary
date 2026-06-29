@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince of Denmark (Corporate)](/setts/s9/r52dg2r2dg2r3w3db2w2db2~x4/)|
-|![Prince of Denmark (Corporate) example sett](/setts/s9/r52dg2r2dg2r3w3db2w2db2~x4/sett.png)|
+| [Prince of Denmark (Corporate)](/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/)|
+|![Prince of Denmark (Corporate) example sett](/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/sett.png)|

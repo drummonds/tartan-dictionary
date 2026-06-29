@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Linden](/setts/s8/dt4k9g20dp2dg20k5dt6lb2~x2/)|
-|![Linden example sett](/setts/s8/dt4k9g20dp2dg20k5dt6lb2~x2/sett.png)|
+| [Linden](/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/)|
+|![Linden example sett](/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/sett.png)|

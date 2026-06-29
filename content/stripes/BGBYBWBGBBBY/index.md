@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Clova #2 (Fashion)](/setts/s12/dri39dy4dr6lo2dr2w2dr2dy12dri6dr2dri6lo2~x2/)|
-|![Glen Clova #2 (Fashion) example sett](/setts/s12/dri39dy4dr6lo2dr2w2dr2dy12dri6dr2dri6lo2~x2/sett.png)|
+| [Glen Clova #2 (Fashion)](/variants/s12/dri39dy4dr6lo2dr2w2dr2dy12dri6dr2dri6lo2~x2/)|
+|![Glen Clova #2 (Fashion) example sett](/variants/s12/dri39dy4dr6lo2dr2w2dr2dy12dri6dr2dri6lo2~x2/sett.png)|

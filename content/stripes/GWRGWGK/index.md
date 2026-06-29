@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Michigan State University](/setts/s7/g18w55o19g20w2g20k5/)|
-|![Michigan State University example sett](/setts/s7/g18w55o19g20w2g20k5/sett.png)|
+| [Michigan State University](/variants/s7/g18w55o19g20w2g20k5/)|
+|![Michigan State University example sett](/variants/s7/g18w55o19g20w2g20k5/sett.png)|

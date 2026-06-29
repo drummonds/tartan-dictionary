@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gallacher, (Name)](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31ri31k10g4~x2/)|
-|![Gallacher, (Name) example sett](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31ri31k10g4~x2/sett.png)|
+| [Gallacher, (Name)](/variants/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31ri31k10g4~x2/)|
+|![Gallacher, (Name) example sett](/variants/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31ri31k10g4~x2/sett.png)|

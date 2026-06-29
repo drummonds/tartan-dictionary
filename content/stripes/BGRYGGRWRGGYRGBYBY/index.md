@@ -24,7 +24,7 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beguinot, (Personal)](/setts/s18/b12gi4r2ly3g4gi4r20w4r14gi4g4ly3r2gi4b12ly2b8ly2~x2/)|
-|![Beguinot, (Personal) example sett](/setts/s18/b12gi4r2ly3g4gi4r20w4r14gi4g4ly3r2gi4b12ly2b8ly2~x2/sett.png)|
-| [Béguinot, Stéphane (Personal)](/setts/s18/db12dg4r2lo3g4dg4r20w4r14dg4g4lo3r2dg4db12lo2db8lo2~x2/)|
-|![Béguinot, Stéphane (Personal) example sett](/setts/s18/db12dg4r2lo3g4dg4r20w4r14dg4g4lo3r2dg4db12lo2db8lo2~x2/sett.png)|
+| [Beguinot, (Personal)](/variants/s18/b12gi4r2ly3g4gi4r20w4r14gi4g4ly3r2gi4b12ly2b8ly2~x2/)|
+|![Beguinot, (Personal) example sett](/variants/s18/b12gi4r2ly3g4gi4r20w4r14gi4g4ly3r2gi4b12ly2b8ly2~x2/sett.png)|
+| [Béguinot, Stéphane (Personal)](/variants/s18/db12dg4r2lo3g4dg4r20w4r14dg4g4lo3r2dg4db12lo2db8lo2~x2/)|
+|![Béguinot, Stéphane (Personal) example sett](/variants/s18/db12dg4r2lo3g4dg4r20w4r14dg4g4lo3r2dg4db12lo2db8lo2~x2/sett.png)|

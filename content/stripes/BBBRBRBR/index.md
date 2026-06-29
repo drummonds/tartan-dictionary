@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chindecella Ruadh (Personal)](/setts/s8/r10db4r4db4r23n19db19n4~x2/)|
-|![Chindecella Ruadh (Personal) example sett](/setts/s8/r10db4r4db4r23n19db19n4~x2/sett.png)|
+| [Chindecella Ruadh (Personal)](/variants/s8/r10db4r4db4r23n19db19n4~x2/)|
+|![Chindecella Ruadh (Personal) example sett](/variants/s8/r10db4r4db4r23n19db19n4~x2/sett.png)|

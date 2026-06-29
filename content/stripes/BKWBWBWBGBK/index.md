@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lorne Dress (Dance) Fashion Tartan Tartan Number: 6560. Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/)|
-|![Lorne Dress (Dance) Fashion Tartan Tartan Number: 6560. Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/sett.png)|
+| [Lorne Dress (Dance) Fashion Tartan](/variants/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/)|
+|![Lorne Dress (Dance) Fashion Tartan example sett](/variants/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/sett.png)|

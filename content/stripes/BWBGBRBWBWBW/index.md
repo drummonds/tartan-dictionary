@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cara O Cruz](/setts/s12/db21lb49db44dg5db3r5db40lb34db5lb16db5lb13/)|
-|![Cara O Cruz example sett](/setts/s12/db21lb49db44dg5db3r5db40lb34db5lb16db5lb13/sett.png)|
+| [Cara O Cruz](/variants/s12/db21lb49db44dg5db3r5db40lb34db5lb16db5lb13/)|
+|![Cara O Cruz example sett](/variants/s12/db21lb49db44dg5db3r5db40lb34db5lb16db5lb13/sett.png)|

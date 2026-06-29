@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McMurchie Family, John and Jessie (Personal)](/setts/s11/ly1r13db6n7g2n7g2n7db6r13lb1~x2/)|
-|![McMurchie Family, John and Jessie (Personal) example sett](/setts/s11/ly1r13db6n7g2n7g2n7db6r13lb1~x2/sett.png)|
+| [McMurchie Family, John and Jessie (Personal)](/variants/s11/ly1r13db6n7g2n7g2n7db6r13lb1~x2/)|
+|![McMurchie Family, John and Jessie (Personal) example sett](/variants/s11/ly1r13db6n7g2n7g2n7db6r13lb1~x2/sett.png)|

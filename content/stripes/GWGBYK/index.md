@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Centeno-Oxford (Personal)](/setts/s6/k10ly9db11g12w3g9~x2/)|
-|![Centeno-Oxford (Personal) example sett](/setts/s6/k10ly9db11g12w3g9~x2/sett.png)|
+| [Centeno-Oxford (Personal)](/variants/s6/k10ly9db11g12w3g9~x2/)|
+|![Centeno-Oxford (Personal) example sett](/variants/s6/k10ly9db11g12w3g9~x2/sett.png)|

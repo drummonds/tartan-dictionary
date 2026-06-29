@@ -1,9 +1,5 @@
 ---
 title: "Clan MacNiel"
-date: 2023-03-18
+redirect: "/families/macniel-of-barra/"
 ---
-## Families
-
-- [MacNiel of Barra](/families/macniel-of-barra/)
-- [MacNiel of Colonsay](/families/macniel-of-colonsay/)
-
+Clan MacNiel is recorded as the single family [MacNiel of Barra](/families/macniel-of-barra/) — redirecting there.

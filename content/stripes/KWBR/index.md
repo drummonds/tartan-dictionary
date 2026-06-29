@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae - 2000 (Dress, Purple)](/setts/s4/k4w35dp35m4~x2/)|
-|![MacRae - 2000 (Dress, Purple) example sett](/setts/s4/k4w35dp35m4~x2/sett.png)|
-| [MacRae Dress Purple](/setts/s4/k1w8db8r1~x8/)|
-|![MacRae Dress Purple example sett](/setts/s4/k1w8db8r1~x8/sett.png)|
+| [MacRae - 2000 (Dress, Purple)](/variants/s4/k4w35dp35m4~x2/)|
+|![MacRae - 2000 (Dress, Purple) example sett](/variants/s4/k4w35dp35m4~x2/sett.png)|
+| [MacRae Dress Purple](/variants/s4/k1w8db8r1~x8/)|
+|![MacRae Dress Purple example sett](/variants/s4/k1w8db8r1~x8/sett.png)|

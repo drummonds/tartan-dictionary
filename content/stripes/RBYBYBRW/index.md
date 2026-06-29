@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Schöbitz (2016)](/setts/s8/r1dt23lo3b16lo3dt22r1w1~x2/)|
-|![Schöbitz (2016) example sett](/setts/s8/r1dt23lo3b16lo3dt22r1w1~x2/sett.png)|
+| [Schöbitz (2016)](/variants/s8/r1dt23lo3b16lo3dt22r1w1~x2/)|
+|![Schöbitz (2016) example sett](/variants/s8/r1dt23lo3b16lo3dt22r1w1~x2/sett.png)|

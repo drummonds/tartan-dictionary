@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gretna Football Club (Corporate)](/setts/s7/w36k8w36k95w4k4r6/)|
-|![Gretna Football Club (Corporate) example sett](/setts/s7/w36k8w36k95w4k4r6/sett.png)|
+| [Gretna Football Club (Corporate)](/variants/s7/w36k8w36k95w4k4r6/)|
+|![Gretna Football Club (Corporate) example sett](/variants/s7/w36k8w36k95w4k4r6/sett.png)|

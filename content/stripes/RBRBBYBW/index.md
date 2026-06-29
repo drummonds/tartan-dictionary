@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gretna Gold (Fashion)](/setts/s8/w3dp2lo2dp38db28m2db2r2~x2/)|
-|![Gretna Gold (Fashion) example sett](/setts/s8/w3dp2lo2dp38db28m2db2r2~x2/sett.png)|
+| [Gretna Gold (Fashion)](/variants/s8/w3dp2lo2dp38db28m2db2r2~x2/)|
+|![Gretna Gold (Fashion) example sett](/variants/s8/w3dp2lo2dp38db28m2db2r2~x2/sett.png)|

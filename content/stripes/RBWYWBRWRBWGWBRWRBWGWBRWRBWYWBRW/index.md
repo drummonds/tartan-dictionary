@@ -24,5 +24,5 @@ It is a 32 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jacobite (1712)](/setts/s32/r2db2w1ly8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1ly8w1db2r2w1~x4/)|
-|![Jacobite (1712) example sett](/setts/s32/r2db2w1ly8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1ly8w1db2r2w1~x4/sett.png)|
+| [Jacobite (1712)](/variants/s32/r2db2w1ly8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1ly8w1db2r2w1~x4/)|
+|![Jacobite (1712) example sett](/variants/s32/r2db2w1ly8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1ly8w1db2r2w1~x4/sett.png)|

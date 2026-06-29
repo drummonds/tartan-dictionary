@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greater Victoria Police PB (Corp)](/setts/s7/r7dt1r26dt31w1dt1w2~x2/)|
-|![Greater Victoria Police PB (Corp) example sett](/setts/s7/r7dt1r26dt31w1dt1w2~x2/sett.png)|
+| [Greater Victoria Police PB (Corp)](/variants/s7/r7dt1r26dt31w1dt1w2~x2/)|
+|![Greater Victoria Police PB (Corp) example sett](/variants/s7/r7dt1r26dt31w1dt1w2~x2/sett.png)|

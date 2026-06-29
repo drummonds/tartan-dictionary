@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Crofting Foundation](/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/)|
-|![Scottish Crofting Foundation example sett](/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/sett.png)|
+| [Scottish Crofting Foundation](/variants/s9/do6lg3do18dy2do2dy10y28r2y4~x2/)|
+|![Scottish Crofting Foundation example sett](/variants/s9/do6lg3do18dy2do2dy10y28r2y4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lopez-Gasparotto](/setts/s7/r1o5k5db1k1db6ly1~x8/)|
-|![Lopez-Gasparotto example sett](/setts/s7/r1o5k5db1k1db6ly1~x8/sett.png)|
+| [Lopez-Gasparotto](/variants/s7/r1o5k5db1k1db6ly1~x8/)|
+|![Lopez-Gasparotto example sett](/variants/s7/r1o5k5db1k1db6ly1~x8/sett.png)|

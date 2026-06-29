@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [77th Regiment](/setts/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/)|
-|![77th Regiment example sett](/setts/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/sett.png)|
+| [77th Regiment](/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/)|
+|![77th Regiment example sett](/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/sett.png)|

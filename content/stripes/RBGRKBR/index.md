@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart /Stuart- Fragment Cf 1452 & 1445](/setts/s7/r3t4k11r11g11do3r3~x4/)|
-|![Stewart /Stuart- Fragment Cf 1452 & 1445 example sett](/setts/s7/r3t4k11r11g11do3r3~x4/sett.png)|
+| [Stewart /Stuart- Fragment Cf 1452 & 1445](/variants/s7/r3t4k11r11g11do3r3~x4/)|
+|![Stewart /Stuart- Fragment Cf 1452 & 1445 example sett](/variants/s7/r3t4k11r11g11do3r3~x4/sett.png)|

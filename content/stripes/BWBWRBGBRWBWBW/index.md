@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden Red Dress (Dance)](/setts/s14/g16dp8r45w6dp45w44dp6w12/)|
-|![Culloden Red Dress (Dance) example sett](/setts/s14/g16dp8r45w6dp45w44dp6w12/sett.png)|
+| [Culloden Red Dress (Dance)](/variants/s14/g16dp8r45w6dp45w44dp6w12/)|
+|![Culloden Red Dress (Dance) example sett](/variants/s14/g16dp8r45w6dp45w44dp6w12/sett.png)|

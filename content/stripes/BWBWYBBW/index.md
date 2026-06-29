@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ancient Gathering](/setts/s8/db1lb12p6w1ly3db14b18w1~x2/)|
-|![Ancient Gathering example sett](/setts/s8/db1lb12p6w1ly3db14b18w1~x2/sett.png)|
+| [Ancient Gathering](/variants/s8/db1lb12p6w1ly3db14b18w1~x2/)|
+|![Ancient Gathering example sett](/variants/s8/db1lb12p6w1ly3db14b18w1~x2/sett.png)|

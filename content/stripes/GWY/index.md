@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hibernian S3](/setts/s3/g49w4lo11~x2/)|
-|![Hibernian S3 example sett](/setts/s3/g49w4lo11~x2/sett.png)|
+| [Hibernian S3](/variants/s3/g49w4lo11~x2/)|
+|![Hibernian S3 example sett](/variants/s3/g49w4lo11~x2/sett.png)|

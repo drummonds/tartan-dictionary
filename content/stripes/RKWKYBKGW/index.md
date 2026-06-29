@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dean/Dundas (Personal)](/setts/s9/r17k5w4k6ly5db31k5g6w3~x2/)|
-|![Dean/Dundas (Personal) example sett](/setts/s9/r17k5w4k6ly5db31k5g6w3~x2/sett.png)|
+| [Dean/Dundas (Personal)](/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/)|
+|![Dean/Dundas (Personal) example sett](/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/sett.png)|

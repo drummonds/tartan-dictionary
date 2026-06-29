@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kansas State University](/setts/s9/dp60k10dp6lr6dp6w4dp4k15dp15/)|
-|![Kansas State University example sett](/setts/s9/dp60k10dp6lr6dp6w4dp4k15dp15/sett.png)|
+| [Kansas State University](/variants/s9/dp60k10dp6lr6dp6w4dp4k15dp15/)|
+|![Kansas State University example sett](/variants/s9/dp60k10dp6lr6dp6w4dp4k15dp15/sett.png)|

@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gleneckley](/setts/s4/db3w25k25r3~x2/)|
-|![Gleneckley example sett](/setts/s4/db3w25k25r3~x2/sett.png)|
-| [Hamby Sport (Personal)](/setts/s4/r25k13w8db5~x2/)|
-|![Hamby Sport (Personal) example sett](/setts/s4/r25k13w8db5~x2/sett.png)|
+| [Gleneckley](/variants/s4/db3w25k25r3~x2/)|
+|![Gleneckley example sett](/variants/s4/db3w25k25r3~x2/sett.png)|
+| [Hamby Sport (Personal)](/variants/s4/r25k13w8db5~x2/)|
+|![Hamby Sport (Personal) example sett](/variants/s4/r25k13w8db5~x2/sett.png)|

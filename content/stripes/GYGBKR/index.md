@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waterford Irish County Tartan Tartan Number: 2255. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dg42ly2g16dt7k16r5~x2/)|
-|![Waterford Irish County Tartan Tartan Number: 2255. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/dg42ly2g16dt7k16r5~x2/sett.png)|
+| [Waterford Irish County Tartan](/variants/s6/dg42ly2g16dt7k16r5~x2/)|
+|![Waterford Irish County Tartan example sett](/variants/s6/dg42ly2g16dt7k16r5~x2/sett.png)|

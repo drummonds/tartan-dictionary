@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barry (Name)](/setts/s15/g4db2k10db2k2db14r2db2k10dbi2g2dbi2g4k1w2~x2/)|
-|![Barry (Name) example sett](/setts/s15/g4db2k10db2k2db14r2db2k10dbi2g2dbi2g4k1w2~x2/sett.png)|
+| [Barry (Name)](/variants/s15/g4db2k10db2k2db14r2db2k10dbi2g2dbi2g4k1w2~x2/)|
+|![Barry (Name) example sett](/variants/s15/g4db2k10db2k2db14r2db2k10dbi2g2dbi2g4k1w2~x2/sett.png)|

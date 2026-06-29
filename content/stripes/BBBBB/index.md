@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asahi (Corporate)](/setts/s5/db45b2db4b15db7~x2/)|
-|![Asahi (Corporate) example sett](/setts/s5/db45b2db4b15db7~x2/sett.png)|
+| [Asahi (Corporate)](/variants/s5/db45b2db4b15db7~x2/)|
+|![Asahi (Corporate) example sett](/variants/s5/db45b2db4b15db7~x2/sett.png)|

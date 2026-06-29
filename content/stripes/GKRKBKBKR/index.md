@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Borthwick Hunting](/setts/s9/dg12k2r12k3n12k16n12k3r6~x2/)|
-|![Borthwick Hunting example sett](/setts/s9/dg12k2r12k3n12k16n12k3r6~x2/sett.png)|
+| [Borthwick Hunting](/variants/s9/dg12k2r12k3n12k16n12k3r6~x2/)|
+|![Borthwick Hunting example sett](/variants/s9/dg12k2r12k3n12k16n12k3r6~x2/sett.png)|

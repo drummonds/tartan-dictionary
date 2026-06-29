@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCaskill](/setts/s7/k2r1g15k15db15ly1k2~x2/)|
-|![MacCaskill example sett](/setts/s7/k2r1g15k15db15ly1k2~x2/sett.png)|
-| [MacCaskill (Personal)](/setts/s7/k2r1dg15k15db15ly1k2~x2/)|
-|![MacCaskill (Personal) example sett](/setts/s7/k2r1dg15k15db15ly1k2~x2/sett.png)|
+| [MacCaskill](/variants/s7/k2r1g15k15db15ly1k2~x2/)|
+|![MacCaskill example sett](/variants/s7/k2r1g15k15db15ly1k2~x2/sett.png)|
+| [MacCaskill (Personal)](/variants/s7/k2r1dg15k15db15ly1k2~x2/)|
+|![MacCaskill (Personal) example sett](/variants/s7/k2r1dg15k15db15ly1k2~x2/sett.png)|

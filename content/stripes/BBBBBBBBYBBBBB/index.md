@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified #1](/setts/s14/t4db3b4db3t2db3b4db2ly2b4db2b52db2b4/)|
-|![Unidentified #1 example sett](/setts/s14/t4db3b4db3t2db3b4db2ly2b4db2b52db2b4/sett.png)|
+| [Unidentified #1](/variants/s14/t4db3b4db3t2db3b4db2ly2b4db2b52db2b4/)|
+|![Unidentified #1 example sett](/variants/s14/t4db3b4db3t2db3b4db2ly2b4db2b52db2b4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Harris](/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/)|
-|![Isle of Harris example sett](/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/sett.png)|
+| [Isle of Harris](/variants/s10/db10k1g2k2t3k2g2k1db10w1~x8/)|
+|![Isle of Harris example sett](/variants/s10/db10k1g2k2t3k2g2k1db10w1~x8/sett.png)|

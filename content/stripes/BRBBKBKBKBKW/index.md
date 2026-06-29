@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Spirit](/setts/s12/ni9m3ni32n12k5n2k4n2k17p4k2lb2~x2/)|
-|![Scottish Spirit example sett](/setts/s12/ni9m3ni32n12k5n2k4n2k17p4k2lb2~x2/sett.png)|
+| [Scottish Spirit](/variants/s12/ni9m3ni32n12k5n2k4n2k17p4k2lb2~x2/)|
+|![Scottish Spirit example sett](/variants/s12/ni9m3ni32n12k5n2k4n2k17p4k2lb2~x2/sett.png)|

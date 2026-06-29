@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Outlander #4](/setts/s3/do27n3do17~x4/)|
-|![Outlander #4 example sett](/setts/s3/do27n3do17~x4/sett.png)|
-| [Outlander #5](/setts/s3/n13do15n2~x4/)|
-|![Outlander #5 example sett](/setts/s3/n13do15n2~x4/sett.png)|
+| [Outlander #4](/variants/s3/do27n3do17~x4/)|
+|![Outlander #4 example sett](/variants/s3/do27n3do17~x4/sett.png)|
+| [Outlander #5](/variants/s3/n13do15n2~x4/)|
+|![Outlander #5 example sett](/variants/s3/n13do15n2~x4/sett.png)|

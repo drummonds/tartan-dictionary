@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Griffiths (Welsh Name)](/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/)|
-|![Griffiths (Welsh Name) example sett](/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/sett.png)|
+| [Griffiths (Welsh Name)](/variants/s11/lo4r37db17r4db8r6do2r5db2r3lo4/)|
+|![Griffiths (Welsh Name) example sett](/variants/s11/lo4r37db17r4db8r6do2r5db2r3lo4/sett.png)|

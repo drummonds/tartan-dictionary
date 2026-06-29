@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen of Daviot (Dalgleish)](/setts/s5/g50k6db11g25ly4~x2/)|
-|![Glen of Daviot (Dalgleish) example sett](/setts/s5/g50k6db11g25ly4~x2/sett.png)|
+| [Glen of Daviot (Dalgleish)](/variants/s5/g50k6db11g25ly4~x2/)|
+|![Glen of Daviot (Dalgleish) example sett](/variants/s5/g50k6db11g25ly4~x2/sett.png)|

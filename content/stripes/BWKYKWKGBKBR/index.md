@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Shaughnessy Memorial](/setts/s12/n57lb3k9ly2k2w3k2g10n6k2n2r3~x2/)|
-|![O'Shaughnessy Memorial example sett](/setts/s12/n57lb3k9ly2k2w3k2g10n6k2n2r3~x2/sett.png)|
+| [O'Shaughnessy Memorial](/variants/s12/n57lb3k9ly2k2w3k2g10n6k2n2r3~x2/)|
+|![O'Shaughnessy Memorial example sett](/variants/s12/n57lb3k9ly2k2w3k2g10n6k2n2r3~x2/sett.png)|

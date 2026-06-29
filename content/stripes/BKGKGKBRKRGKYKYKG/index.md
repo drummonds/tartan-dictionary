@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNicol Hunting](/setts/s17/dg10k1lr1k1ly1k1dg10r3k10r3db10k1dg1k1dg1k1db10~x2/)|
-|![MacNicol Hunting example sett](/setts/s17/dg10k1lr1k1ly1k1dg10r3k10r3db10k1dg1k1dg1k1db10~x2/sett.png)|
+| [MacNicol Hunting](/variants/s17/dg10k1lr1k1ly1k1dg10r3k10r3db10k1dg1k1dg1k1db10~x2/)|
+|![MacNicol Hunting example sett](/variants/s17/dg10k1lr1k1ly1k1dg10r3k10r3db10k1dg1k1dg1k1db10~x2/sett.png)|

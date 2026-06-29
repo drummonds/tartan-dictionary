@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mulholland (Personal)](/setts/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/)|
-|![Mulholland (Personal) example sett](/setts/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/sett.png)|
+| [Mulholland (Personal)](/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/)|
+|![Mulholland (Personal) example sett](/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/sett.png)|

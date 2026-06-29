@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Herbage](/setts/s5/g25k8y10r1y3~x4/)|
-|![Herbage example sett](/setts/s5/g25k8y10r1y3~x4/sett.png)|
+| [Herbage](/variants/s5/g25k8y10r1y3~x4/)|
+|![Herbage example sett](/variants/s5/g25k8y10r1y3~x4/sett.png)|

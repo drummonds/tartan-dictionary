@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dorcas, Check](/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/)|
-|![Dorcas, Check example sett](/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/sett.png)|
+| [Dorcas, Check](/variants/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/)|
+|![Dorcas, Check example sett](/variants/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gotts (Personal)](/setts/s14/w2m19k2m2k3m2k8db8dg2db3dg2db2dg19lo2~x2/)|
-|![Gotts (Personal) example sett](/setts/s14/w2m19k2m2k3m2k8db8dg2db3dg2db2dg19lo2~x2/sett.png)|
+| [Gotts (Personal)](/variants/s14/w2m19k2m2k3m2k8db8dg2db3dg2db2dg19lo2~x2/)|
+|![Gotts (Personal) example sett](/variants/s14/w2m19k2m2k3m2k8db8dg2db3dg2db2dg19lo2~x2/sett.png)|

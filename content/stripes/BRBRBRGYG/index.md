@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dewar, Christian (Personal)](/setts/s9/db16r2db2r2db2r6dg13lo2dg3~x2/)|
-|![Dewar, Christian (Personal) example sett](/setts/s9/db16r2db2r2db2r6dg13lo2dg3~x2/sett.png)|
-| [Durie (Clan)](/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/)|
-|![Durie (Clan) example sett](/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/sett.png)|
+| [Dewar, Christian (Personal)](/variants/s9/db16r2db2r2db2r6dg13lo2dg3~x2/)|
+|![Dewar, Christian (Personal) example sett](/variants/s9/db16r2db2r2db2r6dg13lo2dg3~x2/sett.png)|
+| [Durie (Clan)](/variants/s9/db12r1db1r1db1r4g12ly1g2~x4/)|
+|![Durie (Clan) example sett](/variants/s9/db12r1db1r1db1r4g12ly1g2~x4/sett.png)|

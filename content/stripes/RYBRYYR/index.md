@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cercle de Fermières de Saint-Élie d'Orford](/setts/s7/r2ly1b8r1lg7ly1r2~x6/)|
-|![Cercle de Fermières de Saint-Élie d'Orford example sett](/setts/s7/r2ly1b8r1lg7ly1r2~x6/sett.png)|
+| [Cercle de Fermières de Saint-Élie d'Orford](/variants/s7/r2ly1b8r1lg7ly1r2~x6/)|
+|![Cercle de Fermières de Saint-Élie d'Orford example sett](/variants/s7/r2ly1b8r1lg7ly1r2~x6/sett.png)|

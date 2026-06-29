@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenshields (Personal)](/setts/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/)|
-|![Greenshields (Personal) example sett](/setts/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/sett.png)|
+| [Greenshields (Personal)](/variants/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/)|
+|![Greenshields (Personal) example sett](/variants/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Virginia International Tattoo Hixon](/setts/s8/lb8db10dt69w6dt6r8b19lb3/)|
-|![Virginia International Tattoo Hixon example sett](/setts/s8/lb8db10dt69w6dt6r8b19lb3/sett.png)|
+| [Virginia International Tattoo Hixon](/variants/s8/lb8db10dt69w6dt6r8b19lb3/)|
+|![Virginia International Tattoo Hixon example sett](/variants/s8/lb8db10dt69w6dt6r8b19lb3/sett.png)|

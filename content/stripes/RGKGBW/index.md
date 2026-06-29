@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irving of Bonshaw Tower](/setts/s6/r1g1k1g9db9w1~x6/)|
-|![Irving of Bonshaw Tower example sett](/setts/s6/r1g1k1g9db9w1~x6/sett.png)|
+| [Irving of Bonshaw Tower](/variants/s6/r1g1k1g9db9w1~x6/)|
+|![Irving of Bonshaw Tower example sett](/variants/s6/r1g1k1g9db9w1~x6/sett.png)|

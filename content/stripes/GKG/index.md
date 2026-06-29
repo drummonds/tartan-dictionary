@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch Tape (Corporate)](/setts/s3/g30k20g3~x2/)|
-|![Scotch Tape (Corporate) example sett](/setts/s3/g30k20g3~x2/sett.png)|
+| [Scotch Tape (Corporate)](/variants/s3/g30k20g3~x2/)|
+|![Scotch Tape (Corporate) example sett](/variants/s3/g30k20g3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Big Rory (Corporate)](/setts/s10/n10w5n48k35g5k5g35r5g5dp5/)|
-|![Big Rory (Corporate) example sett](/setts/s10/n10w5n48k35g5k5g35r5g5dp5/sett.png)|
+| [Big Rory (Corporate)](/variants/s10/n10w5n48k35g5k5g35r5g5dp5/)|
+|![Big Rory (Corporate) example sett](/variants/s10/n10w5n48k35g5k5g35r5g5dp5/sett.png)|

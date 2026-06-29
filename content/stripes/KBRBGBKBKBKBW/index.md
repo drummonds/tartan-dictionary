@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Bannockburn (Fashion)](/setts/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/)|
-|![Spirit of Bannockburn (Fashion) example sett](/setts/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/sett.png)|
+| [Spirit of Bannockburn (Fashion)](/variants/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/)|
+|![Spirit of Bannockburn (Fashion) example sett](/variants/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/sett.png)|

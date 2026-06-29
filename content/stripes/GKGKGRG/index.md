@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Korner-Macpherson (Personal)](/setts/s7/y5r3y35k28y4k11y2~x2/)|
-|![Korner-Macpherson (Personal) example sett](/setts/s7/y5r3y35k28y4k11y2~x2/sett.png)|
+| [Korner-Macpherson (Personal)](/variants/s7/y5r3y35k28y4k11y2~x2/)|
+|![Korner-Macpherson (Personal) example sett](/variants/s7/y5r3y35k28y4k11y2~x2/sett.png)|

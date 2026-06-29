@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Outlander #1](/setts/s6/y52ly2n24r3lo26n4~x2/)|
-|![Outlander #1 example sett](/setts/s6/y52ly2n24r3lo26n4~x2/sett.png)|
+| [Outlander #1](/variants/s6/y52ly2n24r3lo26n4~x2/)|
+|![Outlander #1 example sett](/variants/s6/y52ly2n24r3lo26n4~x2/sett.png)|

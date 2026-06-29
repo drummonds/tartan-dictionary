@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watson](/setts/s18/db24k2db2r2db2k20g16ly2g2ly3~x2/)|
-|![Watson example sett](/setts/s18/db24k2db2r2db2k20g16ly2g2ly3~x2/sett.png)|
+| [Watson](/variants/s18/db24k2db2r2db2k20g16ly2g2ly3~x2/)|
+|![Watson example sett](/variants/s18/db24k2db2r2db2k20g16ly2g2ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Finlaggan](/setts/s6/dg7w1dg18db6r18dg2~x2/)|
-|![Finlaggan example sett](/setts/s6/dg7w1dg18db6r18dg2~x2/sett.png)|
+| [Finlaggan](/variants/s6/dg7w1dg18db6r18dg2~x2/)|
+|![Finlaggan example sett](/variants/s6/dg7w1dg18db6r18dg2~x2/sett.png)|

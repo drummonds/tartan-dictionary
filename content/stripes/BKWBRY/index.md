@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Venters (Edinburgh)](/setts/s6/n15k55w1dp5r2ly1~x2/)|
-|![Venters (Edinburgh) example sett](/setts/s6/n15k55w1dp5r2ly1~x2/sett.png)|
+| [Venters (Edinburgh)](/variants/s6/n15k55w1dp5r2ly1~x2/)|
+|![Venters (Edinburgh) example sett](/variants/s6/n15k55w1dp5r2ly1~x2/sett.png)|

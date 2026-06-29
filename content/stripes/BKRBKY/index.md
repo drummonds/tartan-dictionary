@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Old Brigade](/setts/s6/db9k9r3db9k9ly1~x4/)|
-|![Old Brigade example sett](/setts/s6/db9k9r3db9k9ly1~x4/sett.png)|
+| [Old Brigade](/variants/s6/db9k9r3db9k9ly1~x4/)|
+|![Old Brigade example sett](/variants/s6/db9k9r3db9k9ly1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Rona (District)](/setts/s6/r4n19g10o10y15ly2~x2/)|
-|![Isle of Rona (District) example sett](/setts/s6/r4n19g10o10y15ly2~x2/sett.png)|
+| [Isle of Rona (District)](/variants/s6/r4n19g10o10y15ly2~x2/)|
+|![Isle of Rona (District) example sett](/variants/s6/r4n19g10o10y15ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montgomerie, Colin](/setts/s9/lr2k1r5n3o12n4lr1k40b1~x2/)|
-|![Montgomerie, Colin example sett](/setts/s9/lr2k1r5n3o12n4lr1k40b1~x2/sett.png)|
+| [Montgomerie, Colin](/variants/s9/lr2k1r5n3o12n4lr1k40b1~x2/)|
+|![Montgomerie, Colin example sett](/variants/s9/lr2k1r5n3o12n4lr1k40b1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seletar](/setts/s18/db6lo2db7g4db3g6db2g4db39ly2~x2/)|
-|![Seletar example sett](/setts/s18/db6lo2db7g4db3g6db2g4db39ly2~x2/sett.png)|
+| [Seletar](/variants/s18/db6lo2db7g4db3g6db2g4db39ly2~x2/)|
+|![Seletar example sett](/variants/s18/db6lo2db7g4db3g6db2g4db39ly2~x2/sett.png)|

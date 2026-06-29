@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Williams, Edmund (Personal)](/setts/s6/db15dp15g15dg15k8w5~x2/)|
-|![Williams, Edmund (Personal) example sett](/setts/s6/db15dp15g15dg15k8w5~x2/sett.png)|
-| [Williams, Edmund (Personal)](/setts/s6/dp15dpi15g15dg15k8w5~x2/)|
-|![Williams, Edmund (Personal) example sett](/setts/s6/dp15dpi15g15dg15k8w5~x2/sett.png)|
+| [Williams, Edmund (Personal)](/variants/s6/db15dp15g15dg15k8w5~x2/)|
+|![Williams, Edmund (Personal) example sett](/variants/s6/db15dp15g15dg15k8w5~x2/sett.png)|
+| [Williams, Edmund (Personal)](/variants/s6/dp15dpi15g15dg15k8w5~x2/)|
+|![Williams, Edmund (Personal) example sett](/variants/s6/dp15dpi15g15dg15k8w5~x2/sett.png)|

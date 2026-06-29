@@ -24,9 +24,9 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified No 1](/setts/s12/r8t7k8ly2k1w2k1dg19k1r8t3r8~x2/)|
-|![Unidentified No 1 example sett](/setts/s12/r8t7k8ly2k1w2k1dg19k1r8t3r8~x2/sett.png)|
-| [Unnamed No 1 Tartan Tartan Number: 1340. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/)|
-|![Unnamed No 1 Tartan Tartan Number: 1340. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/sett.png)|
-| [Wilson's, No 90](/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/)|
-|![Wilson's, No 90 example sett](/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/sett.png)|
+| [Unidentified No 1](/variants/s12/r8t7k8ly2k1w2k1dg19k1r8t3r8~x2/)|
+|![Unidentified No 1 example sett](/variants/s12/r8t7k8ly2k1w2k1dg19k1r8t3r8~x2/sett.png)|
+| [Unnamed No 1 Tartan](/variants/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/)|
+|![Unnamed No 1 Tartan example sett](/variants/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/sett.png)|
+| [Wilson's, No 90](/variants/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/)|
+|![Wilson's, No 90 example sett](/variants/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/sett.png)|

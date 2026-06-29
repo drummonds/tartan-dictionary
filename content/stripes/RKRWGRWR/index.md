@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacByrd (Personal)](/setts/s8/o50k1r12lb1y12r14lb1r2~x4/)|
-|![MacByrd (Personal) example sett](/setts/s8/o50k1r12lb1y12r14lb1r2~x4/sett.png)|
-| [McBrayer Htg (Personal)](/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/)|
-|![McBrayer Htg (Personal) example sett](/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/sett.png)|
+| [MacByrd (Personal)](/variants/s8/o50k1r12lb1y12r14lb1r2~x4/)|
+|![MacByrd (Personal) example sett](/variants/s8/o50k1r12lb1y12r14lb1r2~x4/sett.png)|
+| [McBrayer Htg (Personal)](/variants/s8/o50k1r14lb1dg14r14lb1r2~x4/)|
+|![McBrayer Htg (Personal) example sett](/variants/s8/o50k1r14lb1dg14r14lb1r2~x4/sett.png)|

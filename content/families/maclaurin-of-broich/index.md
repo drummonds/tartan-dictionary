@@ -8,5 +8,11 @@ A family of [Clan MacLaurin](/clan/maclaurin/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/db36k8g3r3g6k1lo2~x2/"><img src="/setts/s7/db36k8g3r3g6k1lo2~x2/sett.png" alt="MacLaurin of Broich (Clan)" width="240"><br>MacLaurin of Broich (Clan)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db36k8g3r3g6k1lo2/">MacLaurin of Broich</a> ★</td><td><code>DB/72 K16 G6 R6 G12 K2 LO/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db36k8g3r3g6k1lo2/"><img src="/variants/s7/db36k8g3r3g6k1lo2~x2/sett.png" alt="MacLaurin of Broich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

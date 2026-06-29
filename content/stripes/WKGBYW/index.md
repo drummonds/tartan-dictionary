@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mellor (Name)](/setts/s6/w8k16g32dt3lo5w5~x2/)|
-|![Mellor (Name) example sett](/setts/s6/w8k16g32dt3lo5w5~x2/sett.png)|
+| [Mellor (Name)](/variants/s6/w8k16g32dt3lo5w5~x2/)|
+|![Mellor (Name) example sett](/variants/s6/w8k16g32dt3lo5w5~x2/sett.png)|

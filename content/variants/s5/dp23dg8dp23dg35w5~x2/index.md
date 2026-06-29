@@ -1,0 +1,64 @@
+---
+title: "Baru"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp23dg8dp23dg35w5/)
+(the same proportion at any scale), whose colour order is pattern [BGBGW](/stripes/bgbgw/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226
+
+## Provenance
+
+Earliest known date: pre 2003 Count from woven sample. What appears to be black is a very dark green.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Baru Weavers
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Baru (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226">record</a>)</li>
+<li>pre 2003 — Baru (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6005/">record</a>)</li>
+<li>undated — Baru Weavers Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6005">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226)
+- Scottish Tartans Authority (ITI): 6005
+
+## Thread count
+P/46 DG16 P46 DG70 LN/10
+
+One full sett is **320 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(4 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>P/</td><td style="text-align:right;font-variant-numeric:tabular-nums">46</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">46</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">70</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="P/46 DG16 P46 DG70 LN/10 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dp23dg8dp23dg35w5~x2">Baru</a> <a class="nn-out" href="/variants/s5/dp23dg8dp23dg35w5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dp23dg8dp23dg35w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=dp27k10dp27k35ly6&amp;base=dp23dg8dp23dg35w5~x2">Moorlands (Corporate)</a> <a class="nn-out" href="/variants/s5/dp27k10dp27k35ly6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dp27k10dp27k35ly6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=db6r1db6r9lr1~x2&amp;base=dp23dg8dp23dg35w5~x2">Hamilton</a> <a class="nn-out" href="/variants/s5/db6r1db6r9lr1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db6r1db6r9lr1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=db1r3db1r3db6g1~x8&amp;base=dp23dg8dp23dg35w5~x2">Robbins</a> <a class="nn-out" href="/variants/s6/db1r3db1r3db6g1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1r3db1r3db6g1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=db6r1db6r9w1~x2&amp;base=dp23dg8dp23dg35w5~x2">Hamilton, (Red)</a> <a class="nn-out" href="/variants/s5/db6r1db6r9w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db6r1db6r9w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=db6r1db6r9w1~x4&amp;base=dp23dg8dp23dg35w5~x2">Hamilton Red Clan Tartan</a> <a class="nn-out" href="/variants/s5/db6r1db6r9w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db6r1db6r9w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.45</div><div class="nn-name"><a href="/ttd/edit/#slug=db6r1db6r9lb1~x2&amp;base=dp23dg8dp23dg35w5~x2">Hamilton</a> <a class="nn-out" href="/variants/s5/db6r1db6r9lb1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db6r1db6r9lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.47</div><div class="nn-name"><a href="/ttd/edit/#slug=db6r39db10r10db21ly5~x2&amp;base=dp23dg8dp23dg35w5~x2">Rajput</a> <a class="nn-out" href="/variants/s6/db6r39db10r10db21ly5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db6r39db10r10db21ly5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.51</div><div class="nn-name"><a href="/ttd/edit/#slug=g5dp2db5dp10ly2~x2&amp;base=dp23dg8dp23dg35w5~x2">Bryson (2000)</a> <a class="nn-out" href="/variants/s5/g5dp2db5dp10ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g5dp2db5dp10ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.54</div><div class="nn-name"><a href="/ttd/edit/#slug=db8r2db8r15w2~x4&amp;base=dp23dg8dp23dg35w5~x2">Hamilton (Clan)</a> <a class="nn-out" href="/variants/s5/db8r2db8r15w2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db8r2db8r15w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.54</div><div class="nn-name"><a href="/ttd/edit/#slug=db3lo9db3lo9db20r3~x2&amp;base=dp23dg8dp23dg35w5~x2">Latin</a> <a class="nn-out" href="/variants/s6/db3lo9db3lo9db20r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3lo9db3lo9db20r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp27k10dp27k35ly6/"><circle cx="285.8" cy="287.6" r="4" fill="#3465a4"><title>Moorlands (Corporate)</title></circle></a><a href="/variants/s5/db6r1db6r9lr1~x2/"><circle cx="312.5" cy="251.2" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x8/"><circle cx="332.0" cy="274.0" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="331.8" cy="251.8" r="4" fill="#3465a4"><title>Hamilton, (Red)</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x4/"><circle cx="320.0" cy="245.1" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan</title></circle></a><a href="/variants/s5/db6r1db6r9lb1~x2/"><circle cx="298.6" cy="241.2" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s6/db6r39db10r10db21ly5~x2/"><circle cx="348.3" cy="248.4" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/variants/s5/g5dp2db5dp10ly2~x2/"><circle cx="217.9" cy="263.0" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="294.6" cy="246.3" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s6/db3lo9db3lo9db20r3~x2/"><circle cx="305.0" cy="240.8" r="4" fill="#3465a4"><title>Latin</title></circle></a><circle cx="292.8" cy="279.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/dp23dg8dp23dg35w5~x2/

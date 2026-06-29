@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Rannoch #2](/setts/s8/dy24g2dy5o14g2o5lo17dy2~x2/)|
-|![Loch Rannoch #2 example sett](/setts/s8/dy24g2dy5o14g2o5lo17dy2~x2/sett.png)|
+| [Loch Rannoch #2](/variants/s8/dy24g2dy5o14g2o5lo17dy2~x2/)|
+|![Loch Rannoch #2 example sett](/variants/s8/dy24g2dy5o14g2o5lo17dy2~x2/sett.png)|

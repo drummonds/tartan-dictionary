@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silver Mist](/setts/s5/n2k13n31k1n1~x4/)|
-|![Silver Mist example sett](/setts/s5/n2k13n31k1n1~x4/sett.png)|
+| [Silver Mist](/variants/s5/n2k13n31k1n1~x4/)|
+|![Silver Mist example sett](/variants/s5/n2k13n31k1n1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dy24r24w3g21ly2r1ly2dy6r2~x2/)|
-|![Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/dy24r24w3g21ly2r1ly2dy6r2~x2/sett.png)|
+| [Henry W.A. Canadian Tartan](/variants/s9/dy24r24w3g21ly2r1ly2dy6r2~x2/)|
+|![Henry W.A. Canadian Tartan example sett](/variants/s9/dy24r24w3g21ly2r1ly2dy6r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walkers Shortbread (Corporate)](/setts/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/)|
-|![Walkers Shortbread (Corporate) example sett](/setts/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/sett.png)|
+| [Walkers Shortbread (Corporate)](/variants/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/)|
+|![Walkers Shortbread (Corporate) example sett](/variants/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/sett.png)|

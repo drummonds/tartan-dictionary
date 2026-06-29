@@ -24,9 +24,9 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzgerald Dress](/setts/s25/w2k1r3db3r3ri3r19ri3r3db3r3db29ly3g29r3db3r3ri3r19ri3r3db3r3k1w2~x4/)|
-|![Fitzgerald Dress example sett](/setts/s25/w2k1r3db3r3ri3r19ri3r3db3r3db29ly3g29r3db3r3ri3r19ri3r3db3r3k1w2~x4/sett.png)|
-| [Fitzgerald Family Tartan Tartan Number: 1818. Earliest known date: 1985 One of four Fitzgerald tartans all apparently designed by Robert P. Fitzgerald of Philadelphia. Starting with this variation of Robertson (for no discernible reason) he then designed the blue and hunting as color variations and a further "fancy dress" version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/)|
-|![Fitzgerald Family Tartan Tartan Number: 1818. Earliest known date: 1985 One of four Fitzgerald tartans all apparently designed by Robert P. Fitzgerald of Philadelphia. Starting with this variation of Robertson (for no discernible reason) he then designed the blue and hunting as color variations and a further "fancy dress" version. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/sett.png)|
-| [Fitzgerald dress](/setts/s25/w2k1r3t3r3ri3r12ri3r3db3r3db19ly3g19r3db3r3ri3r12ri3r3t3r3k1w2~x2/)|
-|![Fitzgerald dress example sett](/setts/s25/w2k1r3t3r3ri3r12ri3r3db3r3db19ly3g19r3db3r3ri3r12ri3r3t3r3k1w2~x2/sett.png)|
+| [Fitzgerald Dress](/variants/s25/w2k1r3db3r3ri3r19ri3r3db3r3db29ly3g29r3db3r3ri3r19ri3r3db3r3k1w2~x4/)|
+|![Fitzgerald Dress example sett](/variants/s25/w2k1r3db3r3ri3r19ri3r3db3r3db29ly3g29r3db3r3ri3r19ri3r3db3r3k1w2~x4/sett.png)|
+| [Fitzgerald Family Tartan](/variants/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/)|
+|![Fitzgerald Family Tartan example sett](/variants/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/sett.png)|
+| [Fitzgerald dress](/variants/s25/w2k1r3t3r3ri3r12ri3r3db3r3db19ly3g19r3db3r3ri3r12ri3r3t3r3k1w2~x2/)|
+|![Fitzgerald dress example sett](/variants/s25/w2k1r3t3r3ri3r12ri3r3db3r3db19ly3g19r3db3r3ri3r12ri3r3t3r3k1w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Collister (Personal)](/setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/)|
-|![Collister (Personal) example sett](/setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/sett.png)|
+| [Collister (Personal)](/variants/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/)|
+|![Collister (Personal) example sett](/variants/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/sett.png)|

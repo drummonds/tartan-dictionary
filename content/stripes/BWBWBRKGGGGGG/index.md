@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roach (2015)](/setts/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/)|
-|![Roach (2015) example sett](/setts/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/sett.png)|
+| [Roach (2015)](/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/)|
+|![Roach (2015) example sett](/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/sett.png)|

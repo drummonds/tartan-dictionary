@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donegal](/setts/s10/y3g17db3g3db3dr5db18r2db8r2~x2/)|
-|![Donegal example sett](/setts/s10/y3g17db3g3db3dr5db18r2db8r2~x2/sett.png)|
+| [Donegal](/variants/s10/y3g17db3g3db3dr5db18r2db8r2~x2/)|
+|![Donegal example sett](/variants/s10/y3g17db3g3db3dr5db18r2db8r2~x2/sett.png)|

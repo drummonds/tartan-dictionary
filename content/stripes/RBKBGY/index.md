@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cowie](/setts/s6/r3dt24k7db11g11ly2~x2/)|
-|![Cowie example sett](/setts/s6/r3dt24k7db11g11ly2~x2/sett.png)|
+| [Cowie](/variants/s6/r3dt24k7db11g11ly2~x2/)|
+|![Cowie example sett](/variants/s6/r3dt24k7db11g11ly2~x2/sett.png)|

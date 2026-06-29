@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lamont](/setts/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/)|
-|![Lamont example sett](/setts/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/sett.png)|
+| [Lamont](/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/)|
+|![Lamont example sett](/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/sett.png)|

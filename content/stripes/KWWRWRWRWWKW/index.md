@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Scarlett #1](/setts/s12/k13lb13lbi13r4lbi13r4lbi13r4lbi13lb13k13w3~x2/)|
-|![Unidentified Scarlett #1 example sett](/setts/s12/k13lb13lbi13r4lbi13r4lbi13r4lbi13lb13k13w3~x2/sett.png)|
+| [Unidentified Scarlett #1](/variants/s12/k13lb13lbi13r4lbi13r4lbi13r4lbi13lb13k13w3~x2/)|
+|![Unidentified Scarlett #1 example sett](/variants/s12/k13lb13lbi13r4lbi13r4lbi13r4lbi13lb13k13w3~x2/sett.png)|

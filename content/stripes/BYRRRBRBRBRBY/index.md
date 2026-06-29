@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sandbaggers (Corporate)](/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/)|
-|![Sandbaggers (Corporate) example sett](/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/sett.png)|
+| [Sandbaggers (Corporate)](/variants/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/)|
+|![Sandbaggers (Corporate) example sett](/variants/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leighton](/setts/s8/dr20ly3dr20dg36dr20o16dr28r8/)|
-|![Leighton example sett](/setts/s8/dr20ly3dr20dg36dr20o16dr28r8/sett.png)|
+| [Leighton](/variants/s8/dr20ly3dr20dg36dr20o16dr28r8/)|
+|![Leighton example sett](/variants/s8/dr20ly3dr20dg36dr20o16dr28r8/sett.png)|

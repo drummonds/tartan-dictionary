@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aisteach](/setts/s7/dp32dg16o14k4o6dp7k2~x2/)|
-|![Aisteach example sett](/setts/s7/dp32dg16o14k4o6dp7k2~x2/sett.png)|
+| [Aisteach](/variants/s7/dp32dg16o14k4o6dp7k2~x2/)|
+|![Aisteach example sett](/variants/s7/dp32dg16o14k4o6dp7k2~x2/sett.png)|

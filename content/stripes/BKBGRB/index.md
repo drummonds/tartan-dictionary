@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacTavish / Thom(p)son, hunting](/setts/s6/t3o26g4t13k13t2~x2/)|
-|![MacTavish / Thom(p)son, hunting example sett](/setts/s6/t3o26g4t13k13t2~x2/sett.png)|
-| [MacTavish / Thom(p)son, hunting](/setts/s6/t4o28g6t12k12t3~x2/)|
-|![MacTavish / Thom(p)son, hunting example sett](/setts/s6/t4o28g6t12k12t3~x2/sett.png)|
+| [MacTavish / Thom(p)son, hunting](/variants/s6/t4o28g6t12k12t3~x2/)|
+|![MacTavish / Thom(p)son, hunting example sett](/variants/s6/t4o28g6t12k12t3~x2/sett.png)|
+| [MacTavish / Thom(p)son, hunting](/variants/s6/t3o26g4t13k13t2~x2/)|
+|![MacTavish / Thom(p)son, hunting example sett](/variants/s6/t3o26g4t13k13t2~x2/sett.png)|

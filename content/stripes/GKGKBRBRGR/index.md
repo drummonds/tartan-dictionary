@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Law Society of Scotland (Corporate)](/setts/s10/r6g3r24t7r4t7k18g4k7g3/)|
-|![Law Society of Scotland (Corporate) example sett](/setts/s10/r6g3r24t7r4t7k18g4k7g3/sett.png)|
+| [Law Society of Scotland (Corporate)](/variants/s10/r6g3r24t7r4t7k18g4k7g3/)|
+|![Law Society of Scotland (Corporate) example sett](/variants/s10/r6g3r24t7r4t7k18g4k7g3/sett.png)|

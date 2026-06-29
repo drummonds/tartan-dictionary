@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loughheed (Personal)](/setts/s8/dr3lo3dr4dr2lo18dr1lo2dr2~x4/)|
-|![Loughheed (Personal) example sett](/setts/s8/dr3lo3dr4dr2lo18dr1lo2dr2~x4/sett.png)|
+| [Loughheed (Personal)](/variants/s8/dr3lo3dr4dr2lo18dr1lo2dr2~x4/)|
+|![Loughheed (Personal) example sett](/variants/s8/dr3lo3dr4dr2lo18dr1lo2dr2~x4/sett.png)|

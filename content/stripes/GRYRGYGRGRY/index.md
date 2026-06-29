@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathearn (Royal)](/setts/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/)|
-|![Strathearn (Royal) example sett](/setts/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/sett.png)|
+| [Strathearn (Royal)](/variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/)|
+|![Strathearn (Royal) example sett](/variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/sett.png)|

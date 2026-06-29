@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McComb](/setts/s7/db3r2db18k6dg18ly2g3~x2/)|
-|![McComb example sett](/setts/s7/db3r2db18k6dg18ly2g3~x2/sett.png)|
-| [McComb (Personal)](/setts/s7/db3r2db18k6gi18ly2g3~x2/)|
-|![McComb (Personal) example sett](/setts/s7/db3r2db18k6gi18ly2g3~x2/sett.png)|
+| [McComb](/variants/s7/db3r2db18k6dg18ly2g3~x2/)|
+|![McComb example sett](/variants/s7/db3r2db18k6dg18ly2g3~x2/sett.png)|
+| [McComb (Personal)](/variants/s7/db3r2db18k6gi18ly2g3~x2/)|
+|![McComb (Personal) example sett](/variants/s7/db3r2db18k6gi18ly2g3~x2/sett.png)|

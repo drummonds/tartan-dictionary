@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber Old](/setts/s7/db3r1db35r1db16t1db2~x4/)|
-|![Lochaber Old example sett](/setts/s7/db3r1db35r1db16t1db2~x4/sett.png)|
+| [Lochaber Old](/variants/s7/db3r1db35r1db16t1db2~x4/)|
+|![Lochaber Old example sett](/variants/s7/db3r1db35r1db16t1db2~x4/sett.png)|

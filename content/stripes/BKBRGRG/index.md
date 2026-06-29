@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bailies of Bennachie (Corporate)](/setts/s7/g27ri2g4r15db26k2db6~x2/)|
-|![Bailies of Bennachie (Corporate) example sett](/setts/s7/g27ri2g4r15db26k2db6~x2/sett.png)|
+| [Bailies of Bennachie (Corporate)](/variants/s7/g27ri2g4r15db26k2db6~x2/)|
+|![Bailies of Bennachie (Corporate) example sett](/variants/s7/g27ri2g4r15db26k2db6~x2/sett.png)|

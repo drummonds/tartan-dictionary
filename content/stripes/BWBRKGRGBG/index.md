@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland the Brave (Fashion)](/setts/s10/db6w1db40m1k12dg12m6dg2dp2dg4~x2/)|
-|![Scotland the Brave (Fashion) example sett](/setts/s10/db6w1db40m1k12dg12m6dg2dp2dg4~x2/sett.png)|
+| [Scotland the Brave (Fashion)](/variants/s10/db6w1db40m1k12dg12m6dg2dp2dg4~x2/)|
+|![Scotland the Brave (Fashion) example sett](/variants/s10/db6w1db40m1k12dg12m6dg2dp2dg4~x2/sett.png)|

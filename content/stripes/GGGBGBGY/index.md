@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eastern Western Motor Group, Dalbraith](/setts/s8/dy28g2dy4db18g23db2g3lo4~x2/)|
-|![Eastern Western Motor Group, Dalbraith example sett](/setts/s8/dy28g2dy4db18g23db2g3lo4~x2/sett.png)|
+| [Eastern Western Motor Group, Dalbraith](/variants/s8/dy28g2dy4db18g23db2g3lo4~x2/)|
+|![Eastern Western Motor Group, Dalbraith example sett](/variants/s8/dy28g2dy4db18g23db2g3lo4~x2/sett.png)|

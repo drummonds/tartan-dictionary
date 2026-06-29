@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bagpipe Shop, The (Corporate)](/setts/s5/n10lr3o3r1g1~x10/)|
-|![Bagpipe Shop, The (Corporate) example sett](/setts/s5/n10lr3o3r1g1~x10/sett.png)|
+| [Bagpipe Shop, The (Corporate)](/variants/s5/n10lr3o3r1g1~x10/)|
+|![Bagpipe Shop, The (Corporate) example sett](/variants/s5/n10lr3o3r1g1~x10/sett.png)|

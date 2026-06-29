@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ralston (UK)](/setts/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/)|
-|![Ralston (UK) example sett](/setts/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/sett.png)|
+| [Ralston (UK)](/variants/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/)|
+|![Ralston (UK) example sett](/variants/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/sett.png)|

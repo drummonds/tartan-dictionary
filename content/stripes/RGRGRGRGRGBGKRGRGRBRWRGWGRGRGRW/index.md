@@ -24,5 +24,5 @@ It is a 31 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Staffa (Smith's)](/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/)|
-|![MacDonald of Staffa (Smith's) example sett](/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/sett.png)|
+| [MacDonald of Staffa (Smith's)](/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/)|
+|![MacDonald of Staffa (Smith's) example sett](/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/sett.png)|

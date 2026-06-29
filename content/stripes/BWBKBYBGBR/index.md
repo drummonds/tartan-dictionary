@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of the Highlands (Fashion)](/setts/s10/dp7lb2dp28k7dp3lo2dp2g2dp13r2~x2/)|
-|![Pride of the Highlands (Fashion) example sett](/setts/s10/dp7lb2dp28k7dp3lo2dp2g2dp13r2~x2/sett.png)|
+| [Pride of the Highlands (Fashion)](/variants/s10/dp7lb2dp28k7dp3lo2dp2g2dp13r2~x2/)|
+|![Pride of the Highlands (Fashion) example sett](/variants/s10/dp7lb2dp28k7dp3lo2dp2g2dp13r2~x2/sett.png)|

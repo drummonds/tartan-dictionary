@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bannockbane Hunting (MacBean and Bishop)](/setts/s8/dg3o2dg14o1w10y14o2y3~x2/)|
-|![Bannockbane Hunting (MacBean and Bishop) example sett](/setts/s8/dg3o2dg14o1w10y14o2y3~x2/sett.png)|
-| [Bannockbane, hunting](/setts/s8/g2o2g15o1w1g15o2g2~x2/)|
-|![Bannockbane, hunting example sett](/setts/s8/g2o2g15o1w1g15o2g2~x2/sett.png)|
+| [Bannockbane Hunting (MacBean and Bishop)](/variants/s8/dg3o2dg14o1w10y14o2y3~x2/)|
+|![Bannockbane Hunting (MacBean and Bishop) example sett](/variants/s8/dg3o2dg14o1w10y14o2y3~x2/sett.png)|
+| [Bannockbane, hunting](/variants/s8/g2o2g15o1w1g15o2g2~x2/)|
+|![Bannockbane, hunting example sett](/variants/s8/g2o2g15o1w1g15o2g2~x2/sett.png)|

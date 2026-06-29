@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne Blue](/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/)|
-|![Auld Lang Syne Blue example sett](/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/sett.png)|
+| [Auld Lang Syne Blue](/variants/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/)|
+|![Auld Lang Syne Blue example sett](/variants/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/sett.png)|

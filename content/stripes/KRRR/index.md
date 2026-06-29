@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maryville College](/setts/s4/k13r40o13oi8~x2/)|
-|![Maryville College example sett](/setts/s4/k13r40o13oi8~x2/sett.png)|
+| [Maryville College](/variants/s4/k13r40o13oi8~x2/)|
+|![Maryville College example sett](/variants/s4/k13r40o13oi8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Currie](/setts/s11/db16w3db1ly4g24r1g3r4g3r1t8~x2/)|
-|![Currie example sett](/setts/s11/db16w3db1ly4g24r1g3r4g3r1t8~x2/sett.png)|
+| [Currie](/variants/s11/db16w3db1ly4g24r1g3r4g3r1t8~x2/)|
+|![Currie example sett](/variants/s11/db16w3db1ly4g24r1g3r4g3r1t8~x2/sett.png)|

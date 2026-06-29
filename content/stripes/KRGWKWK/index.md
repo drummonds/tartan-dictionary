@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wild Highlanders (Corporate)](/setts/s7/k36w3k10w3g28r6k18~x2/)|
-|![Wild Highlanders (Corporate) example sett](/setts/s7/k36w3k10w3g28r6k18~x2/sett.png)|
+| [Wild Highlanders (Corporate)](/variants/s7/k36w3k10w3g28r6k18~x2/)|
+|![Wild Highlanders (Corporate) example sett](/variants/s7/k36w3k10w3g28r6k18~x2/sett.png)|

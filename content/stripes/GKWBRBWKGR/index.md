@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sinclair](/setts/s10/r30g12k5w2db6r30db12w2k5g12~x2/)|
-|![Sinclair example sett](/setts/s10/r30g12k5w2db6r30db12w2k5g12~x2/sett.png)|
+| [Sinclair](/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/)|
+|![Sinclair example sett](/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/sett.png)|

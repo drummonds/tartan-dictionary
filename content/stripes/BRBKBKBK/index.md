@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelvingrove (Fashion)](/setts/s8/k16db1k1db1k1db9o18db1~x4/)|
-|![Kelvingrove (Fashion) example sett](/setts/s8/k16db1k1db1k1db9o18db1~x4/sett.png)|
+| [Kelvingrove (Fashion)](/variants/s8/k16db1k1db1k1db9o18db1~x4/)|
+|![Kelvingrove (Fashion) example sett](/variants/s8/k16db1k1db1k1db9o18db1~x4/sett.png)|

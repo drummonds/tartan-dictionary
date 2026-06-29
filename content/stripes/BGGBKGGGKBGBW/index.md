@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clack (Personal)](/setts/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2/)|
-|![Clack (Personal) example sett](/setts/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2/sett.png)|
+| [Clack (Personal)](/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2/)|
+|![Clack (Personal) example sett](/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2/sett.png)|

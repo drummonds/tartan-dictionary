@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hand, Edinburgh](/setts/s12/dg1k8n5k23n5db3n5dp3n5dg5n3w1~x2/)|
-|![Hand, Edinburgh example sett](/setts/s12/dg1k8n5k23n5db3n5dp3n5dg5n3w1~x2/sett.png)|
+| [Hand, Edinburgh](/variants/s12/dg1k8n5k23n5db3n5dp3n5dg5n3w1~x2/)|
+|![Hand, Edinburgh example sett](/variants/s12/dg1k8n5k23n5db3n5dp3n5dg5n3w1~x2/sett.png)|

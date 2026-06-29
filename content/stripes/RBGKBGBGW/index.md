@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colgan (Personal)](/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/)|
-|![Colgan (Personal) example sett](/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/sett.png)|
+| [Colgan (Personal)](/variants/s9/r7db2g5k24db2g10db28g10lb3~x2/)|
+|![Colgan (Personal) example sett](/variants/s9/r7db2g5k24db2g10db28g10lb3~x2/sett.png)|

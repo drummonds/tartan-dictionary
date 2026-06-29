@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Indiana (Fashion)](/setts/s11/db49dy19g5dg6g5dg6g35dg1lo4dg1g4~x2/)|
-|![State Seal of Indiana (Fashion) example sett](/setts/s11/db49dy19g5dg6g5dg6g35dg1lo4dg1g4~x2/sett.png)|
+| [State Seal of Indiana (Fashion)](/variants/s11/db49dy19g5dg6g5dg6g35dg1lo4dg1g4~x2/)|
+|![State Seal of Indiana (Fashion) example sett](/variants/s11/db49dy19g5dg6g5dg6g35dg1lo4dg1g4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wandering Shepherd (Personal)](/setts/s5/db2k2g2db1k1~x20/)|
-|![Wandering Shepherd (Personal) example sett](/setts/s5/db2k2g2db1k1~x20/sett.png)|
+| [Wandering Shepherd (Personal)](/variants/s5/db2k2g2db1k1~x20/)|
+|![Wandering Shepherd (Personal) example sett](/variants/s5/db2k2g2db1k1~x20/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Granger](/setts/s6/dg40k4dg12k21dg17w4~x2/)|
-|![Granger example sett](/setts/s6/dg40k4dg12k21dg17w4~x2/sett.png)|
+| [Granger](/variants/s6/dg40k4dg12k21dg17w4~x2/)|
+|![Granger example sett](/variants/s6/dg40k4dg12k21dg17w4~x2/sett.png)|

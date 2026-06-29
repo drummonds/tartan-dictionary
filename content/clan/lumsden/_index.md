@@ -1,9 +1,5 @@
 ---
 title: "Clan Lumsden"
-date: 2023-03-18
+redirect: "/families/lumsden-of-clova/"
 ---
-## Families
-
-- [Lumsden of Clova](/families/lumsden-of-clova/)
-- [Lumsden of Kintore](/families/lumsden-of-kintore/)
-
+Clan Lumsden is recorded as the single family [Lumsden of Clova](/families/lumsden-of-clova/) — redirecting there.

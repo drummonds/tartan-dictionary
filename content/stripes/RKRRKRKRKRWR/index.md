@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sweetheart (Fashion)](/setts/s12/r6k7r45rii14k10ri4k3riii6k20rii23lb5rii6/)|
-|![Sweetheart (Fashion) example sett](/setts/s12/r6k7r45rii14k10ri4k3riii6k20rii23lb5rii6/sett.png)|
+| [Sweetheart (Fashion)](/variants/s12/r6k7r45rii14k10ri4k3riii6k20rii23lb5rii6/)|
+|![Sweetheart (Fashion) example sett](/variants/s12/r6k7r45rii14k10ri4k3riii6k20rii23lb5rii6/sett.png)|

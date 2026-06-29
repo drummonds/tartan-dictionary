@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Linn (Personal)](/setts/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/)|
-|![Linn (Personal) example sett](/setts/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/sett.png)|
+| [Linn (Personal)](/variants/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/)|
+|![Linn (Personal) example sett](/variants/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/sett.png)|

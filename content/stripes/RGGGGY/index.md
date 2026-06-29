@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galloway](/setts/s6/r3dg1g32dg32g1ly3~x2/)|
-|![Galloway example sett](/setts/s6/r3dg1g32dg32g1ly3~x2/sett.png)|
-| [Galloway Green (yellow line)](/setts/s6/r3gi2g32gi32g2ly3~x2/)|
-|![Galloway Green (yellow line) example sett](/setts/s6/r3gi2g32gi32g2ly3~x2/sett.png)|
+| [Galloway](/variants/s6/r3dg1g32dg32g1ly3~x2/)|
+|![Galloway example sett](/variants/s6/r3dg1g32dg32g1ly3~x2/sett.png)|
+| [Galloway Green (yellow line)](/variants/s6/r3gi2g32gi32g2ly3~x2/)|
+|![Galloway Green (yellow line) example sett](/variants/s6/r3gi2g32gi32g2ly3~x2/sett.png)|

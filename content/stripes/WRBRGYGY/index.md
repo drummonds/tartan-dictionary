@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hall (P.I.E.) (Personal)](/setts/s8/ly5g3ly3g53r7db5r13w4~x2/)|
-|![Hall (P.I.E.) (Personal) example sett](/setts/s8/ly5g3ly3g53r7db5r13w4~x2/sett.png)|
+| [Hall (P.I.E.) (Personal)](/variants/s8/ly5g3ly3g53r7db5r13w4~x2/)|
+|![Hall (P.I.E.) (Personal) example sett](/variants/s8/ly5g3ly3g53r7db5r13w4~x2/sett.png)|

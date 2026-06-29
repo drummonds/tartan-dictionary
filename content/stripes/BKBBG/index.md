@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crinnion (Personal)](/setts/s5/db3k1n3dp4g3~x4/)|
-|![Crinnion (Personal) example sett](/setts/s5/db3k1n3dp4g3~x4/sett.png)|
+| [Crinnion (Personal)](/variants/s5/db3k1n3dp4g3~x4/)|
+|![Crinnion (Personal) example sett](/variants/s5/db3k1n3dp4g3~x4/sett.png)|

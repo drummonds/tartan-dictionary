@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lauder Primary School (Corporate)](/setts/s6/r2t21r2db6ly1r1~x4/)|
-|![Lauder Primary School (Corporate) example sett](/setts/s6/r2t21r2db6ly1r1~x4/sett.png)|
+| [Lauder Primary School (Corporate)](/variants/s6/r2t21r2db6ly1r1~x4/)|
+|![Lauder Primary School (Corporate) example sett](/variants/s6/r2t21r2db6ly1r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hudson Valley Reg. Police P & D (Cor](/setts/s6/ly5g16k16db16k2db2~x2/)|
-|![Hudson Valley Reg. Police P & D (Cor example sett](/setts/s6/ly5g16k16db16k2db2~x2/sett.png)|
+| [Hudson Valley Reg. Police P & D (Cor](/variants/s6/ly5g16k16db16k2db2~x2/)|
+|![Hudson Valley Reg. Police P & D (Cor example sett](/variants/s6/ly5g16k16db16k2db2~x2/sett.png)|

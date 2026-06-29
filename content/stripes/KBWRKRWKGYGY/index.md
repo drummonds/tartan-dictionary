@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ogg of Tarragann](/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/)|
-|![Ogg of Tarragann example sett](/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/sett.png)|
-| [Ogg of Tarragann (Personal)](/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/)|
-|![Ogg of Tarragann (Personal) example sett](/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/sett.png)|
+| [Ogg of Tarragann](/variants/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/)|
+|![Ogg of Tarragann example sett](/variants/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/sett.png)|
+| [Ogg of Tarragann (Personal)](/variants/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/)|
+|![Ogg of Tarragann (Personal) example sett](/variants/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/sett.png)|

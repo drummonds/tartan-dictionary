@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh International Conference Centre, The](/setts/s6/dy4dt20dy3k20o24dt3~x2/)|
-|![Edinburgh International Conference Centre, The example sett](/setts/s6/dy4dt20dy3k20o24dt3~x2/sett.png)|
+| [Edinburgh International Conference Centre, The](/variants/s6/dy4dt20dy3k20o24dt3~x2/)|
+|![Edinburgh International Conference Centre, The example sett](/variants/s6/dy4dt20dy3k20o24dt3~x2/sett.png)|

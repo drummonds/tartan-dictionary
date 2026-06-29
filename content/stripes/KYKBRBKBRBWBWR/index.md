@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Wildcat](/setts/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/)|
-|![Scottish Wildcat example sett](/setts/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/sett.png)|
+| [Scottish Wildcat](/variants/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/)|
+|![Scottish Wildcat example sett](/variants/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hsu (Personal)](/setts/s4/db60g16w8ly3~x2/)|
-|![Hsu (Personal) example sett](/setts/s4/db60g16w8ly3~x2/sett.png)|
-| [MaleHsuHK (Hong Kong) (Personal)](/setts/s4/db60dg16w8lo3~x2/)|
-|![MaleHsuHK (Hong Kong) (Personal) example sett](/setts/s4/db60dg16w8lo3~x2/sett.png)|
+| [Hsu (Personal)](/variants/s4/db60g16w8ly3~x2/)|
+|![Hsu (Personal) example sett](/variants/s4/db60g16w8ly3~x2/sett.png)|
+| [MaleHsuHK (Hong Kong) (Personal)](/variants/s4/db60dg16w8lo3~x2/)|
+|![MaleHsuHK (Hong Kong) (Personal) example sett](/variants/s4/db60dg16w8lo3~x2/sett.png)|

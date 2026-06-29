@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longniddry](/setts/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/)|
-|![Longniddry example sett](/setts/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/sett.png)|
+| [Longniddry](/variants/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/)|
+|![Longniddry example sett](/variants/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/sett.png)|

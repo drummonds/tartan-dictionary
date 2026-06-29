@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Teylu Coleman (Cornwall)](/setts/s5/w3k25do9dp17ly3~x2/)|
-|![Teylu Coleman (Cornwall) example sett](/setts/s5/w3k25do9dp17ly3~x2/sett.png)|
-| [Teylu Coleman (Name)](/setts/s5/ly3dt17n9k25lb3~x2/)|
-|![Teylu Coleman (Name) example sett](/setts/s5/ly3dt17n9k25lb3~x2/sett.png)|
+| [Teylu Coleman (Cornwall)](/variants/s5/w3k25do9dp17ly3~x2/)|
+|![Teylu Coleman (Cornwall) example sett](/variants/s5/w3k25do9dp17ly3~x2/sett.png)|
+| [Teylu Coleman (Name)](/variants/s5/ly3dt17n9k25lb3~x2/)|
+|![Teylu Coleman (Name) example sett](/variants/s5/ly3dt17n9k25lb3~x2/sett.png)|

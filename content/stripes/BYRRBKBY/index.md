@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hyland Evening (Personal)](/setts/s8/dp3lo2r19ri4dpi6k36dpi2lo3~x2/)|
-|![Hyland Evening (Personal) example sett](/setts/s8/dp3lo2r19ri4dpi6k36dpi2lo3~x2/sett.png)|
+| [Hyland Evening (Personal)](/variants/s8/dp3lo2r19ri4dpi6k36dpi2lo3~x2/)|
+|![Hyland Evening (Personal) example sett](/variants/s8/dp3lo2r19ri4dpi6k36dpi2lo3~x2/sett.png)|

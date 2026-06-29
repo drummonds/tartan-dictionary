@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Canadian Mounted Police](/setts/s9/db152b2k4w2g28ri10k26r1ly2/)|
-|![Royal Canadian Mounted Police example sett](/setts/s9/db152b2k4w2g28ri10k26r1ly2/sett.png)|
+| [Royal Canadian Mounted Police](/variants/s9/db152b2k4w2g28ri10k26r1ly2/)|
+|![Royal Canadian Mounted Police example sett](/variants/s9/db152b2k4w2g28ri10k26r1ly2/sett.png)|

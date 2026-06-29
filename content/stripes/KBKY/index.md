@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wallace (Personal)](/setts/s4/k1db7k7ly1~x10/)|
-|![Wallace (Personal) example sett](/setts/s4/k1db7k7ly1~x10/sett.png)|
-| [Wallace Blue](/setts/s4/k1db8k8ly1/)|
-|![Wallace Blue example sett](/setts/s4/k1db8k8ly1/sett.png)|
+| [Wallace (Personal)](/variants/s4/k1db7k7ly1~x10/)|
+|![Wallace (Personal) example sett](/variants/s4/k1db7k7ly1~x10/sett.png)|
+| [Wallace Blue](/variants/s4/k1db8k8ly1/)|
+|![Wallace Blue example sett](/variants/s4/k1db8k8ly1/sett.png)|

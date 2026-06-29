@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [AIton - 1979 (Clan)](/setts/s8/db6k1g3k1db3k1g10r3~x2/)|
-|![AIton - 1979 (Clan) example sett](/setts/s8/db6k1g3k1db3k1g10r3~x2/sett.png)|
-| [Ayrton 1979 No. 2 (Personal)](/setts/s8/b5k1g3k1b3k1g10r3~x2/)|
-|![Ayrton 1979 No. 2 (Personal) example sett](/setts/s8/b5k1g3k1b3k1g10r3~x2/sett.png)|
+| [AIton - 1979 (Clan)](/variants/s8/db6k1g3k1db3k1g10r3~x2/)|
+|![AIton - 1979 (Clan) example sett](/variants/s8/db6k1g3k1db3k1g10r3~x2/sett.png)|
+| [Ayrton 1979 No. 2 (Personal)](/variants/s8/b5k1g3k1b3k1g10r3~x2/)|
+|![Ayrton 1979 No. 2 (Personal) example sett](/variants/s8/b5k1g3k1b3k1g10r3~x2/sett.png)|

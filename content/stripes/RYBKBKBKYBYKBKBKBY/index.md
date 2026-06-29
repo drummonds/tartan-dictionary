@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [KPMG](/setts/s18/r12lo2db3k3db30k20dr6k10lo2dr4~x2/)|
-|![KPMG example sett](/setts/s18/r12lo2db3k3db30k20dr6k10lo2dr4~x2/sett.png)|
+| [KPMG](/variants/s18/r12lo2db3k3db30k20dr6k10lo2dr4~x2/)|
+|![KPMG example sett](/variants/s18/r12lo2db3k3db30k20dr6k10lo2dr4~x2/sett.png)|

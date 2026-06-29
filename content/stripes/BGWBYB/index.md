@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Swedish Para Whisky Club (Corporate](/setts/s6/dr2dg14lb3dr13ly1dr2~x4/)|
-|![Swedish Para Whisky Club (Corporate example sett](/setts/s6/dr2dg14lb3dr13ly1dr2~x4/sett.png)|
+| [Swedish Para Whisky Club (Corporate](/variants/s6/dr2dg14lb3dr13ly1dr2~x4/)|
+|![Swedish Para Whisky Club (Corporate example sett](/variants/s6/dr2dg14lb3dr13ly1dr2~x4/sett.png)|

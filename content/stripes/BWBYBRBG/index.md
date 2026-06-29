@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Agricultural Winter Fair](/setts/s8/db32lb1db1lo2db1r1db4dg16~x4/)|
-|![Royal Agricultural Winter Fair example sett](/setts/s8/db32lb1db1lo2db1r1db4dg16~x4/sett.png)|
+| [Royal Agricultural Winter Fair](/variants/s8/db32lb1db1lo2db1r1db4dg16~x4/)|
+|![Royal Agricultural Winter Fair example sett](/variants/s8/db32lb1db1lo2db1r1db4dg16~x4/sett.png)|

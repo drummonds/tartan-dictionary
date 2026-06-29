@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunbartonshire](/setts/s9/g11k2g1r4db1r4db13t2db1~x4/)|
-|![Dunbartonshire example sett](/setts/s9/g11k2g1r4db1r4db13t2db1~x4/sett.png)|
+| [Dunbartonshire](/variants/s9/g11k2g1r4db1r4db13t2db1~x4/)|
+|![Dunbartonshire example sett](/variants/s9/g11k2g1r4db1r4db13t2db1~x4/sett.png)|

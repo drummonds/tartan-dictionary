@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hatfield & Mize (Personal)](/setts/s6/dg10w2dt10lo5db35r6~x2/)|
-|![Hatfield & Mize (Personal) example sett](/setts/s6/dg10w2dt10lo5db35r6~x2/sett.png)|
+| [Hatfield & Mize (Personal)](/variants/s6/dg10w2dt10lo5db35r6~x2/)|
+|![Hatfield & Mize (Personal) example sett](/variants/s6/dg10w2dt10lo5db35r6~x2/sett.png)|

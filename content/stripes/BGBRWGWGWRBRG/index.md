@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saint John New Brunswick](/setts/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/)|
-|![Saint John New Brunswick example sett](/setts/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/sett.png)|
+| [Saint John New Brunswick](/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/)|
+|![Saint John New Brunswick example sett](/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/sett.png)|

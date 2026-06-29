@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Battle of Bannockburn, The](/setts/s8/r1do1r9g6t2b3r2lo1~x4/)|
-|![Battle of Bannockburn, The example sett](/setts/s8/r1do1r9g6t2b3r2lo1~x4/sett.png)|
+| [Battle of Bannockburn, The](/variants/s8/r1do1r9g6t2b3r2lo1~x4/)|
+|![Battle of Bannockburn, The example sett](/variants/s8/r1do1r9g6t2b3r2lo1~x4/sett.png)|

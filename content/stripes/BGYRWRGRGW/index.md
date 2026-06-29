@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Caledonian](/tartans/db3g16ly1r1w1r6g3r1g3w1/)|
-|![Canadian Caledonian example sett](/setts/s10/db3g16ly1r1w1r6g3r1g3w1~x2/sett.png)|
+| [Canadian Caledonian](/setts/db3g16ly1r1w1r6g3r1g3w1/)|
+|![Canadian Caledonian example sett](/variants/s10/db3g16ly1r1w1r6g3r1g3w1~x2/sett.png)|

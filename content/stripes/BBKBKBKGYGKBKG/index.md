@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Angove, the Black Swan (Name)](/setts/s14/b18dt2k2dt2k1b2k8g1ly1g6k8b14k2g2~x2/)|
-|![Angove, the Black Swan (Name) example sett](/setts/s14/b18dt2k2dt2k1b2k8g1ly1g6k8b14k2g2~x2/sett.png)|
+| [Angove, the Black Swan (Name)](/variants/s14/b18dt2k2dt2k1b2k8g1ly1g6k8b14k2g2~x2/)|
+|![Angove, the Black Swan (Name) example sett](/variants/s14/b18dt2k2dt2k1b2k8g1ly1g6k8b14k2g2~x2/sett.png)|

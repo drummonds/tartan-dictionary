@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mangles, Peter and Annette (Personal)](/setts/s7/r20k5g5r5w5n3g3~x4/)|
-|![Mangles, Peter and Annette (Personal) example sett](/setts/s7/r20k5g5r5w5n3g3~x4/sett.png)|
+| [Mangles, Peter and Annette (Personal)](/variants/s7/r20k5g5r5w5n3g3~x4/)|
+|![Mangles, Peter and Annette (Personal) example sett](/variants/s7/r20k5g5r5w5n3g3~x4/sett.png)|

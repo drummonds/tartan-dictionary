@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Madras College (Corporate)](/setts/s7/r3dt25k6lb20ly2lb2w3~x2/)|
-|![Madras College (Corporate) example sett](/setts/s7/r3dt25k6lb20ly2lb2w3~x2/sett.png)|
+| [Madras College (Corporate)](/variants/s7/r3dt25k6lb20ly2lb2w3~x2/)|
+|![Madras College (Corporate) example sett](/variants/s7/r3dt25k6lb20ly2lb2w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Lawrence #2](/setts/s14/g2lo21do1k5g11do13g2do13g11k5do1lo21g2dy1~x2/)|
-|![St. Lawrence #2 example sett](/setts/s14/g2lo21do1k5g11do13g2do13g11k5do1lo21g2dy1~x2/sett.png)|
+| [St. Lawrence #2](/variants/s14/g2lo21do1k5g11do13g2do13g11k5do1lo21g2dy1~x2/)|
+|![St. Lawrence #2 example sett](/variants/s14/g2lo21do1k5g11do13g2do13g11k5do1lo21g2dy1~x2/sett.png)|

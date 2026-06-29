@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Army (Military)](/setts/s6/db6k17y4gi51ly3g4~x2/)|
-|![U.S. Army (Military) example sett](/setts/s6/db6k17y4gi51ly3g4~x2/sett.png)|
-| [US Army Regimental Tartan Tartan Number: 6307. Earliest known date: 2004 The Army was the only arm of the U.S. Forces not to have its own tartan. The colours were chosen to represent the uniforms - black for the beret, khaki for the summer uniform, light green for the original sniper and now part of the summer uniform, dark blue for the original dress uniform, olive for the combat uniform and gold for the cavalry. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dt12k17y4dg51ly3g4~x2/)|
-|![US Army Regimental Tartan Tartan Number: 6307. Earliest known date: 2004 The Army was the only arm of the U.S. Forces not to have its own tartan. The colours were chosen to represent the uniforms - black for the beret, khaki for the summer uniform, light green for the original sniper and now part of the summer uniform, dark blue for the original dress uniform, olive for the combat uniform and gold for the cavalry. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/dt12k17y4dg51ly3g4~x2/sett.png)|
+| [U.S. Army (Military)](/variants/s6/db6k17y4gi51ly3g4~x2/)|
+|![U.S. Army (Military) example sett](/variants/s6/db6k17y4gi51ly3g4~x2/sett.png)|
+| [US Army Regimental Tartan](/variants/s6/dt12k17y4dg51ly3g4~x2/)|
+|![US Army Regimental Tartan example sett](/variants/s6/dt12k17y4dg51ly3g4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dyer](/setts/s13/w2k1dg4g4dg4k1dg1k1db4t5db4k1w1~x4/)|
-|![Dyer example sett](/setts/s13/w2k1dg4g4dg4k1dg1k1db4t5db4k1w1~x4/sett.png)|
+| [Dyer](/variants/s13/w2k1dg4g4dg4k1dg1k1db4t5db4k1w1~x4/)|
+|![Dyer example sett](/variants/s13/w2k1dg4g4dg4k1dg1k1db4t5db4k1w1~x4/sett.png)|

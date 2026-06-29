@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of New Mexico (Fashion)](/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/)|
-|![State Seal of New Mexico (Fashion) example sett](/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/sett.png)|
+| [State Seal of New Mexico (Fashion)](/variants/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/)|
+|![State Seal of New Mexico (Fashion) example sett](/variants/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/sett.png)|

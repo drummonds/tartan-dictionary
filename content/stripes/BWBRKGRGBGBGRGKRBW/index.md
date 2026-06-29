@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland the Brave](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/)|
-|![Scotland the Brave example sett](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/sett.png)|
+| [Scotland the Brave](/variants/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/)|
+|![Scotland the Brave example sett](/variants/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drymen](/setts/s19/dg8o3lb3o3w28lb4w8o12dg3o3dg3o3dg8k3dg3k3dg3k12r4/)|
-|![Drymen example sett](/setts/s19/dg8o3lb3o3w28lb4w8o12dg3o3dg3o3dg8k3dg3k3dg3k12r4/sett.png)|
+| [Drymen](/variants/s19/dg8o3lb3o3w28lb4w8o12dg3o3dg3o3dg8k3dg3k3dg3k12r4/)|
+|![Drymen example sett](/variants/s19/dg8o3lb3o3w28lb4w8o12dg3o3dg3o3dg8k3dg3k3dg3k12r4/sett.png)|

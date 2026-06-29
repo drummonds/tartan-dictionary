@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ballindalloch Check](/setts/s5/dr1o1dr1o1dg1~x8/)|
-|![Ballindalloch Check example sett](/setts/s5/dr1o1dr1o1dg1~x8/sett.png)|
+| [Ballindalloch Check](/variants/s5/dr1o1dr1o1dg1~x8/)|
+|![Ballindalloch Check example sett](/variants/s5/dr1o1dr1o1dg1~x8/sett.png)|

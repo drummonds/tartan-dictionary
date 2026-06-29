@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAlister of Skye (Clan?)](/setts/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/)|
-|![MacAlister of Skye (Clan?) example sett](/setts/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/sett.png)|
+| [MacAlister of Skye (Clan?)](/variants/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/)|
+|![MacAlister of Skye (Clan?) example sett](/variants/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/sett.png)|

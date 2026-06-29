@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Superfast Ferries](/setts/s10/r16db6ly4db6w1db6ly4db6r16db1~x4/)|
-|![Superfast Ferries example sett](/setts/s10/r16db6ly4db6w1db6ly4db6r16db1~x4/sett.png)|
+| [Superfast Ferries](/variants/s10/r16db6ly4db6w1db6ly4db6r16db1~x4/)|
+|![Superfast Ferries example sett](/variants/s10/r16db6ly4db6w1db6ly4db6r16db1~x4/sett.png)|

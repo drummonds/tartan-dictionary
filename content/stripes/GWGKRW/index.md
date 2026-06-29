@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Entre Rios Province (Provisional](/setts/s6/g36lb4g8k29r24w7~x2/)|
-|![Entre Rios Province (Provisional example sett](/setts/s6/g36lb4g8k29r24w7~x2/sett.png)|
+| [Entre Rios Province (Provisional](/variants/s6/g36lb4g8k29r24w7~x2/)|
+|![Entre Rios Province (Provisional example sett](/variants/s6/g36lb4g8k29r24w7~x2/sett.png)|

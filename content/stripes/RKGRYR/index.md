@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sturrock](/setts/s6/r52k32dg22r16ly3r16/)|
-|![Sturrock example sett](/setts/s6/r52k32dg22r16ly3r16/sett.png)|
-| [Sturrock](/setts/s6/r52k32g22r16ly3r16/)|
-|![Sturrock example sett](/setts/s6/r52k32g22r16ly3r16/sett.png)|
+| [Sturrock](/variants/s6/r52k32dg22r16ly3r16/)|
+|![Sturrock example sett](/variants/s6/r52k32dg22r16ly3r16/sett.png)|
+| [Sturrock](/variants/s6/r52k32g22r16ly3r16/)|
+|![Sturrock example sett](/variants/s6/r52k32g22r16ly3r16/sett.png)|

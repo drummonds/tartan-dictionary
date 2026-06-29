@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [DunBroch](/setts/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/)|
-|![DunBroch example sett](/setts/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/sett.png)|
+| [DunBroch](/variants/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/)|
+|![DunBroch example sett](/variants/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/sett.png)|

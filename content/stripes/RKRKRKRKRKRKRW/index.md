@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chicago, University of](/setts/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30lb3~x2/)|
-|![Chicago, University of example sett](/setts/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30lb3~x2/sett.png)|
+| [Chicago, University of](/variants/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30lb3~x2/)|
+|![Chicago, University of example sett](/variants/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30lb3~x2/sett.png)|

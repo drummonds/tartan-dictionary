@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wrigglesworth (Name)](/setts/s7/db30b10lb10db5m3ly3g3~x2/)|
-|![Wrigglesworth (Name) example sett](/setts/s7/db30b10lb10db5m3ly3g3~x2/sett.png)|
+| [Wrigglesworth (Name)](/variants/s7/db30b10lb10db5m3ly3g3~x2/)|
+|![Wrigglesworth (Name) example sett](/variants/s7/db30b10lb10db5m3ly3g3~x2/sett.png)|

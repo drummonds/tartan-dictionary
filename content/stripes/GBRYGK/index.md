@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asheville Firefighters, The](/setts/s6/k17g48ly4r10db12g4/)|
-|![Asheville Firefighters, The example sett](/setts/s6/k17g48ly4r10db12g4/sett.png)|
+| [Asheville Firefighters, The](/variants/s6/k17g48ly4r10db12g4/)|
+|![Asheville Firefighters, The example sett](/variants/s6/k17g48ly4r10db12g4/sett.png)|

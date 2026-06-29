@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vienna Highlander (Fashion)](/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/)|
-|![Vienna Highlander (Fashion) example sett](/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/sett.png)|
+| [Vienna Highlander (Fashion)](/variants/s8/lo3k2o15k10dt23r2dt1w2~x2/)|
+|![Vienna Highlander (Fashion) example sett](/variants/s8/lo3k2o15k10dt23r2dt1w2~x2/sett.png)|

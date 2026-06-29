@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manchester Reds](/setts/s12/r36ly4r1ly4r4k8r4k2r4w2r1w4~x2/)|
-|![Manchester Reds example sett](/setts/s12/r36ly4r1ly4r4k8r4k2r4w2r1w4~x2/sett.png)|
+| [Manchester Reds](/variants/s12/r36ly4r1ly4r4k8r4k2r4w2r1w4~x2/)|
+|![Manchester Reds example sett](/variants/s12/r36ly4r1ly4r4k8r4k2r4w2r1w4~x2/sett.png)|

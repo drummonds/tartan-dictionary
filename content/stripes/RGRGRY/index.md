@@ -24,15 +24,15 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cameron](/setts/s6/r1g3r1g3r8ly1~x8/)|
-|![Cameron example sett](/setts/s6/r1g3r1g3r8ly1~x8/sett.png)|
-| [Cameron](/tartans/r2g6r2g6r16ly1/)|
-|![Cameron example sett](/setts/s6/r2g6r2g6r16ly1~x2/sett.png)|
-| [Cameron](/setts/s6/r2dg6r2dg6r16ly1~x2/)|
-|![Cameron example sett](/setts/s6/r2dg6r2dg6r16ly1~x2/sett.png)|
-| [Cameron Clan D](/setts/s6/r1dg6r1dg6r15ly1~x2/)|
-|![Cameron Clan D example sett](/setts/s6/r1dg6r1dg6r15ly1~x2/sett.png)|
-| [Maguire, Black](/setts/s6/r29g2r2g2r6ly21~x4/)|
-|![Maguire, Black example sett](/setts/s6/r29g2r2g2r6ly21~x4/sett.png)|
-| [Maguire, Black (Name)](/setts/s6/r29g2r2g2r6lo21~x4/)|
-|![Maguire, Black (Name) example sett](/setts/s6/r29g2r2g2r6lo21~x4/sett.png)|
+| [Cameron](/setts/r2g6r2g6r16ly1/)|
+|![Cameron example sett](/variants/s6/r2g6r2g6r16ly1~x2/sett.png)|
+| [Cameron](/variants/s6/r2dg6r2dg6r16ly1~x2/)|
+|![Cameron example sett](/variants/s6/r2dg6r2dg6r16ly1~x2/sett.png)|
+| [Cameron](/variants/s6/r1g3r1g3r8ly1~x8/)|
+|![Cameron example sett](/variants/s6/r1g3r1g3r8ly1~x8/sett.png)|
+| [Cameron Clan D](/variants/s6/r1dg6r1dg6r15ly1~x2/)|
+|![Cameron Clan D example sett](/variants/s6/r1dg6r1dg6r15ly1~x2/sett.png)|
+| [Maguire, Black](/variants/s6/r29g2r2g2r6ly21~x4/)|
+|![Maguire, Black example sett](/variants/s6/r29g2r2g2r6ly21~x4/sett.png)|
+| [Maguire, Black (Name)](/variants/s6/r29g2r2g2r6lo21~x4/)|
+|![Maguire, Black (Name) example sett](/variants/s6/r29g2r2g2r6lo21~x4/sett.png)|

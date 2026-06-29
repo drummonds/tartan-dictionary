@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tyneside Scottish (Khaki)](/setts/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/)|
-|![Tyneside Scottish (Khaki) example sett](/setts/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/sett.png)|
+| [Tyneside Scottish (Khaki)](/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/)|
+|![Tyneside Scottish (Khaki) example sett](/variants/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/sett.png)|

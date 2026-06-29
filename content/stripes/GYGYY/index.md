@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lagrande](/setts/s5/dg100loi4dg2lo3ly6~x2/)|
-|![Lagrande example sett](/setts/s5/dg100loi4dg2lo3ly6~x2/sett.png)|
+| [Lagrande](/variants/s5/dg100loi4dg2lo3ly6~x2/)|
+|![Lagrande example sett](/variants/s5/dg100loi4dg2lo3ly6~x2/sett.png)|

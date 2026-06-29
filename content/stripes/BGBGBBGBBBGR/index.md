@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Richard of Wales](/setts/s12/db5dg2db2dg2db2dt5dg2dt1t1dt1dg10r3~x4/)|
-|![Richard of Wales example sett](/setts/s12/db5dg2db2dg2db2dt5dg2dt1t1dt1dg10r3~x4/sett.png)|
+| [Richard of Wales](/variants/s12/db5dg2db2dg2db2dt5dg2dt1t1dt1dg10r3~x4/)|
+|![Richard of Wales example sett](/variants/s12/db5dg2db2dg2db2dt5dg2dt1t1dt1dg10r3~x4/sett.png)|

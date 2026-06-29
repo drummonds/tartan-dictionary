@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drummond of Perth Dress #3](/setts/s9/r67ly3n6lb3w25r10n6lb7w3~x2/)|
-|![Drummond of Perth Dress #3 example sett](/setts/s9/r67ly3n6lb3w25r10n6lb7w3~x2/sett.png)|
+| [Drummond of Perth Dress #3](/variants/s9/r67ly3n6lb3w25r10n6lb7w3~x2/)|
+|![Drummond of Perth Dress #3 example sett](/variants/s9/r67ly3n6lb3w25r10n6lb7w3~x2/sett.png)|

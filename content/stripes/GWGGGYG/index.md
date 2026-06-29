@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Freedom of Derry](/setts/s7/g14ly7g14dg50g64w6g7/)|
-|![Freedom of Derry example sett](/setts/s7/g14ly7g14dg50g64w6g7/sett.png)|
+| [Freedom of Derry](/variants/s7/g14ly7g14dg50g64w6g7/)|
+|![Freedom of Derry example sett](/variants/s7/g14ly7g14dg50g64w6g7/sett.png)|

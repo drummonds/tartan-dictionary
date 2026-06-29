@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tribal](/setts/s10/ly2dp16k1r5k1ri8k1r5k16lg2~x4/)|
-|![Tribal example sett](/setts/s10/ly2dp16k1r5k1ri8k1r5k16lg2~x4/sett.png)|
+| [Tribal](/variants/s10/ly2dp16k1r5k1ri8k1r5k16lg2~x4/)|
+|![Tribal example sett](/variants/s10/ly2dp16k1r5k1ri8k1r5k16lg2~x4/sett.png)|

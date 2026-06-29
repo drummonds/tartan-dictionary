@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPhail](/setts/s6/r25db7r3g13t1k2~x4/)|
-|![MacPhail example sett](/setts/s6/r25db7r3g13t1k2~x4/sett.png)|
-| [MacPhail (Blue Bands)](/setts/s6/r40b8r6g24t1k4~x2/)|
-|![MacPhail (Blue Bands) example sett](/setts/s6/r40b8r6g24t1k4~x2/sett.png)|
+| [MacPhail](/variants/s6/r25db7r3g13t1k2~x4/)|
+|![MacPhail example sett](/variants/s6/r25db7r3g13t1k2~x4/sett.png)|
+| [MacPhail (Blue Bands)](/variants/s6/r40b8r6g24t1k4~x2/)|
+|![MacPhail (Blue Bands) example sett](/variants/s6/r40b8r6g24t1k4~x2/sett.png)|

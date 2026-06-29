@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lambert Dress (Personal)](/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/)|
-|![Lambert Dress (Personal) example sett](/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/sett.png)|
+| [Lambert Dress (Personal)](/variants/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/)|
+|![Lambert Dress (Personal) example sett](/variants/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/sett.png)|

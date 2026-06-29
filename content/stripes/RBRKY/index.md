@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New York State Police Pipe Band](/setts/s5/o5dp3o18k16ly3~x4/)|
-|![New York State Police Pipe Band example sett](/setts/s5/o5dp3o18k16ly3~x4/sett.png)|
+| [New York State Police Pipe Band](/variants/s5/o5dp3o18k16ly3~x4/)|
+|![New York State Police Pipe Band example sett](/variants/s5/o5dp3o18k16ly3~x4/sett.png)|

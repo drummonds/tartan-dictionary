@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Coe (District)](/setts/s13/r5ri2k3r4g43r6k7t2r47g2r3ri2g4~x2/)|
-|![Glen Coe (District) example sett](/setts/s13/r5ri2k3r4g43r6k7t2r47g2r3ri2g4~x2/sett.png)|
+| [Glen Coe (District)](/variants/s13/r5ri2k3r4g43r6k7t2r47g2r3ri2g4~x2/)|
+|![Glen Coe (District) example sett](/variants/s13/r5ri2k3r4g43r6k7t2r47g2r3ri2g4~x2/sett.png)|

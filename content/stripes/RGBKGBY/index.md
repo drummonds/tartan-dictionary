@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Christian Hunting (Personal)](/setts/s7/r3g2db27k19g27dp2ly3~x2/)|
-|![Christian Hunting (Personal) example sett](/setts/s7/r3g2db27k19g27dp2ly3~x2/sett.png)|
+| [Christian Hunting (Personal)](/variants/s7/r3g2db27k19g27dp2ly3~x2/)|
+|![Christian Hunting (Personal) example sett](/variants/s7/r3g2db27k19g27dp2ly3~x2/sett.png)|

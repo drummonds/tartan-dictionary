@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride (Wales)](/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/)|
-|![Pride (Wales) example sett](/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/sett.png)|
+| [Pride (Wales)](/variants/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/)|
+|![Pride (Wales) example sett](/variants/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/sett.png)|

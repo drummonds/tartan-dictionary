@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan, John & Isabella](/setts/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/)|
-|![Buchanan, John & Isabella example sett](/setts/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/sett.png)|
+| [Buchanan, John & Isabella](/variants/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/)|
+|![Buchanan, John & Isabella example sett](/variants/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/sett.png)|

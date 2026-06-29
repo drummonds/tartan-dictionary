@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Winnipeg Embroiderers' Guild](/setts/s6/m6n1ly1w1n2w3~x4/)|
-|![Winnipeg Embroiderers' Guild example sett](/setts/s6/m6n1ly1w1n2w3~x4/sett.png)|
-| [Winnipeg Embroiders' Guild (Corp.)](/setts/s6/r12dt2ly2lb2dt4lb3~x2/)|
-|![Winnipeg Embroiders' Guild (Corp.) example sett](/setts/s6/r12dt2ly2lb2dt4lb3~x2/sett.png)|
+| [Winnipeg Embroiderers' Guild](/variants/s6/m6n1ly1w1n2w3~x4/)|
+|![Winnipeg Embroiderers' Guild example sett](/variants/s6/m6n1ly1w1n2w3~x4/sett.png)|
+| [Winnipeg Embroiders' Guild (Corp.)](/variants/s6/r12dt2ly2lb2dt4lb3~x2/)|
+|![Winnipeg Embroiders' Guild (Corp.) example sett](/variants/s6/r12dt2ly2lb2dt4lb3~x2/sett.png)|

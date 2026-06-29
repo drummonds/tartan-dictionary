@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Hoxa (District)](/setts/s9/dg2dp19dg2dp46t2dp10dg3lp2r2~x2/)|
-|![Spirit of Hoxa (District) example sett](/setts/s9/dg2dp19dg2dp46t2dp10dg3lp2r2~x2/sett.png)|
+| [Spirit of Hoxa (District)](/variants/s9/dg2dp19dg2dp46t2dp10dg3lp2r2~x2/)|
+|![Spirit of Hoxa (District) example sett](/variants/s9/dg2dp19dg2dp46t2dp10dg3lp2r2~x2/sett.png)|

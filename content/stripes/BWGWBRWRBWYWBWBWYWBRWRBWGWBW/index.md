@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Womble](/setts/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/)|
-|![Womble example sett](/setts/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png)|
+| [Womble](/variants/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/)|
+|![Womble example sett](/variants/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png)|

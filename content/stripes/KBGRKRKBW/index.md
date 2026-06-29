@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh](/setts/s9/w8db50k4r8k6r12g17p7k4/)|
-|![Edinburgh example sett](/setts/s9/w8db50k4r8k6r12g17p7k4/sett.png)|
+| [Edinburgh](/variants/s9/w8db50k4r8k6r12g17p7k4/)|
+|![Edinburgh example sett](/variants/s9/w8db50k4r8k6r12g17p7k4/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Ballet of Canada](/setts/s5/do40n19k2n2lb2~x4/)|
-|![National Ballet of Canada example sett](/setts/s5/do40n19k2n2lb2~x4/sett.png)|
+| [National Ballet of Canada](/variants/s5/do40n19k2n2lb2~x4/)|
+|![National Ballet of Canada example sett](/variants/s5/do40n19k2n2lb2~x4/sett.png)|

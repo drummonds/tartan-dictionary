@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [de Franck, Matt (Personal)](/setts/s9/n12k2n2k2n2k12lp12t3w1~x2/)|
-|![de Franck, Matt (Personal) example sett](/setts/s9/n12k2n2k2n2k12lp12t3w1~x2/sett.png)|
+| [de Franck, Matt (Personal)](/variants/s9/n12k2n2k2n2k12lp12t3w1~x2/)|
+|![de Franck, Matt (Personal) example sett](/variants/s9/n12k2n2k2n2k12lp12t3w1~x2/sett.png)|

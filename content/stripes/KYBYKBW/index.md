@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grahame Laurie Band (Corporate)](/setts/s7/k8ly2dp6ly2k36db84w7/)|
-|![Grahame Laurie Band (Corporate) example sett](/setts/s7/k8ly2dp6ly2k36db84w7/sett.png)|
+| [Grahame Laurie Band (Corporate)](/variants/s7/k8ly2dp6ly2k36db84w7/)|
+|![Grahame Laurie Band (Corporate) example sett](/variants/s7/k8ly2dp6ly2k36db84w7/sett.png)|

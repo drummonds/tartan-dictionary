@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Celtic Norse Heritage Society](/setts/s5/o10k1db3g3ly1~x6/)|
-|![Celtic Norse Heritage Society example sett](/setts/s5/o10k1db3g3ly1~x6/sett.png)|
+| [Celtic Norse Heritage Society](/variants/s5/o10k1db3g3ly1~x6/)|
+|![Celtic Norse Heritage Society example sett](/variants/s5/o10k1db3g3ly1~x6/sett.png)|

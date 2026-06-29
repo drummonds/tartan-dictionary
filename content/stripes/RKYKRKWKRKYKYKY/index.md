@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKenzie Hunting (Brown)](/setts/s15/lo12k2lo2k2lo2k12o12k1w2k1o12k12lo12k1r2~x2/)|
-|![MacKenzie Hunting (Brown) example sett](/setts/s15/lo12k2lo2k2lo2k12o12k1w2k1o12k12lo12k1r2~x2/sett.png)|
+| [MacKenzie Hunting (Brown)](/variants/s15/lo12k2lo2k2lo2k12o12k1w2k1o12k12lo12k1r2~x2/)|
+|![MacKenzie Hunting (Brown) example sett](/variants/s15/lo12k2lo2k2lo2k12o12k1w2k1o12k12lo12k1r2~x2/sett.png)|

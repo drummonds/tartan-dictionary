@@ -1,0 +1,5 @@
+# #69a — variant/sett URL namespace migration. Old bookmarks redirect to the new tiers.
+# Variants moved /setts/s<n>/… → /variants/s<n>/… (the s<n> form is unambiguously a variant).
+/setts/s*    /variants/s:splat    301
+# Structures moved /tartans/<bare-sett>/ → /setts/<bare-sett>/ (/tartans/ is now free for #69b).
+/tartans/*   /setts/:splat        301

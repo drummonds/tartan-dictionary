@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCartney (Day)](/setts/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/)|
-|![McCartney (Day) example sett](/setts/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/sett.png)|
+| [McCartney (Day)](/variants/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/)|
+|![McCartney (Day) example sett](/variants/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/sett.png)|

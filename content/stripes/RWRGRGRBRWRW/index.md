@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [1745 Trading (Corporate)](/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/)|
-|![1745 Trading (Corporate) example sett](/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/sett.png)|
+| [1745 Trading (Corporate)](/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/)|
+|![1745 Trading (Corporate) example sett](/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/sett.png)|

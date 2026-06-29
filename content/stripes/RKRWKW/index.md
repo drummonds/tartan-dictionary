@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brice (Artefact)](/setts/s6/r6k9r12w2k2w4~x2/)|
-|![Brice (Artefact) example sett](/setts/s6/r6k9r12w2k2w4~x2/sett.png)|
+| [Brice (Artefact)](/variants/s6/r6k9r12w2k2w4~x2/)|
+|![Brice (Artefact) example sett](/variants/s6/r6k9r12w2k2w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haughfoot (Commemorative)](/setts/s6/r4k15t4dt15dg24y4~x2/)|
-|![Haughfoot (Commemorative) example sett](/setts/s6/r4k15t4dt15dg24y4~x2/sett.png)|
+| [Haughfoot (Commemorative)](/variants/s6/r4k15t4dt15dg24y4~x2/)|
+|![Haughfoot (Commemorative) example sett](/variants/s6/r4k15t4dt15dg24y4~x2/sett.png)|

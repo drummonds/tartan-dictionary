@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Benreay Medical Centre (Corporate)](/setts/s6/dp4r1b5dp4k6lb1~x4/)|
-|![Benreay Medical Centre (Corporate) example sett](/setts/s6/dp4r1b5dp4k6lb1~x4/sett.png)|
+| [Benreay Medical Centre (Corporate)](/variants/s6/dp4r1b5dp4k6lb1~x4/)|
+|![Benreay Medical Centre (Corporate) example sett](/variants/s6/dp4r1b5dp4k6lb1~x4/sett.png)|

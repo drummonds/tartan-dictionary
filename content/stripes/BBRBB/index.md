@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hillsdale (Corporate?)](/setts/s5/db13n6r51db51n5~x2/)|
-|![Hillsdale (Corporate?) example sett](/setts/s5/db13n6r51db51n5~x2/sett.png)|
+| [Hillsdale (Corporate?)](/variants/s5/db13n6r51db51n5~x2/)|
+|![Hillsdale (Corporate?) example sett](/variants/s5/db13n6r51db51n5~x2/sett.png)|

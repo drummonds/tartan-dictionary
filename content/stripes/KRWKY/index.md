@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perry / Pirrie (Personal)](/setts/s5/k75r26w2k4ly5~x2/)|
-|![Perry / Pirrie (Personal) example sett](/setts/s5/k75r26w2k4ly5~x2/sett.png)|
-| [Perry Dress (Personal)](/setts/s5/k65r27w2k4ly5~x2/)|
-|![Perry Dress (Personal) example sett](/setts/s5/k65r27w2k4ly5~x2/sett.png)|
+| [Perry / Pirrie (Personal)](/variants/s5/k75r26w2k4ly5~x2/)|
+|![Perry / Pirrie (Personal) example sett](/variants/s5/k75r26w2k4ly5~x2/sett.png)|
+| [Perry Dress (Personal)](/variants/s5/k65r27w2k4ly5~x2/)|
+|![Perry Dress (Personal) example sett](/variants/s5/k65r27w2k4ly5~x2/sett.png)|

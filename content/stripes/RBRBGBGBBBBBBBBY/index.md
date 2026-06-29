@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Margaret's School for Girls, Aberdeen](/setts/s16/r6db3r3db54g6db3g6db4t24dbi4t4dbi50db6dbi4db12lo4/)|
-|![St Margaret's School for Girls, Aberdeen example sett](/setts/s16/r6db3r3db54g6db3g6db4t24dbi4t4dbi50db6dbi4db12lo4/sett.png)|
+| [St Margaret's School for Girls, Aberdeen](/variants/s16/r6db3r3db54g6db3g6db4t24dbi4t4dbi50db6dbi4db12lo4/)|
+|![St Margaret's School for Girls, Aberdeen example sett](/variants/s16/r6db3r3db54g6db3g6db4t24dbi4t4dbi50db6dbi4db12lo4/sett.png)|

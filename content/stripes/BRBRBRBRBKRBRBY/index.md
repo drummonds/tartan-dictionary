@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cochrane Azure](/setts/s15/t27r4t3r2t4r2t3r4t14k14r2db14r4db4ly3~x2/)|
-|![Cochrane Azure example sett](/setts/s15/t27r4t3r2t4r2t3r4t14k14r2db14r4db4ly3~x2/sett.png)|
+| [Cochrane Azure](/variants/s15/t27r4t3r2t4r2t3r4t14k14r2db14r4db4ly3~x2/)|
+|![Cochrane Azure example sett](/variants/s15/t27r4t3r2t4r2t3r4t14k14r2db14r4db4ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Otago](/setts/s10/y16k2y6k2r2k2db15g1db1w2~x2/)|
-|![Otago example sett](/setts/s10/y16k2y6k2r2k2db15g1db1w2~x2/sett.png)|
+| [Otago](/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/)|
+|![Otago example sett](/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/sett.png)|

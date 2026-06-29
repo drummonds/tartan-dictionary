@@ -24,13 +24,13 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Austin (Wilson's No 173)](/setts/s5/dp3k3dp3dg6ly2~x2/)|
-|![Austin (Wilson's No 173) example sett](/setts/s5/dp3k3dp3dg6ly2~x2/sett.png)|
-| [Austin / Wilson's No 173](/setts/s5/p3k3p3g6ly2~x2/)|
-|![Austin / Wilson's No 173 example sett](/setts/s5/p3k3p3g6ly2~x2/sett.png)|
-| [Marshall of Keith (Personal)](/setts/s5/b10k10b10dg26ly5~x2/)|
-|![Marshall of Keith (Personal) example sett](/setts/s5/b10k10b10dg26ly5~x2/sett.png)|
-| [Phoenix Police Honor Guard](/setts/s5/db10k3t65dg56ly6/)|
-|![Phoenix Police Honor Guard example sett](/setts/s5/db10k3t65dg56ly6/sett.png)|
-| [Phoenix Police Honor Guard (Corp.)](/setts/s5/db10k3t65g56ly6/)|
-|![Phoenix Police Honor Guard (Corp.) example sett](/setts/s5/db10k3t65g56ly6/sett.png)|
+| [Austin (Wilson's No 173)](/variants/s5/dp3k3dp3dg6ly2~x2/)|
+|![Austin (Wilson's No 173) example sett](/variants/s5/dp3k3dp3dg6ly2~x2/sett.png)|
+| [Austin / Wilson's No 173](/variants/s5/p3k3p3g6ly2~x2/)|
+|![Austin / Wilson's No 173 example sett](/variants/s5/p3k3p3g6ly2~x2/sett.png)|
+| [Marshall of Keith (Personal)](/variants/s5/b10k10b10dg26ly5~x2/)|
+|![Marshall of Keith (Personal) example sett](/variants/s5/b10k10b10dg26ly5~x2/sett.png)|
+| [Phoenix Police Honor Guard](/variants/s5/db10k3t65dg56ly6/)|
+|![Phoenix Police Honor Guard example sett](/variants/s5/db10k3t65dg56ly6/sett.png)|
+| [Phoenix Police Honor Guard (Corp.)](/variants/s5/db10k3t65g56ly6/)|
+|![Phoenix Police Honor Guard (Corp.) example sett](/variants/s5/db10k3t65g56ly6/sett.png)|

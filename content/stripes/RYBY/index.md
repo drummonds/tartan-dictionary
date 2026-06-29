@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rabbie's Dram (Fashion)](/setts/s4/lo60do3lo4r3~x2/)|
-|![Rabbie's Dram (Fashion) example sett](/setts/s4/lo60do3lo4r3~x2/sett.png)|
+| [Rabbie's Dram (Fashion)](/variants/s4/lo60do3lo4r3~x2/)|
+|![Rabbie's Dram (Fashion) example sett](/variants/s4/lo60do3lo4r3~x2/sett.png)|

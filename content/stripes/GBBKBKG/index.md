@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blaylock Annandale (Name)](/setts/s7/g24db6t3k6db12k15g4~x2/)|
-|![Blaylock Annandale (Name) example sett](/setts/s7/g24db6t3k6db12k15g4~x2/sett.png)|
+| [Blaylock Annandale (Name)](/variants/s7/g24db6t3k6db12k15g4~x2/)|
+|![Blaylock Annandale (Name) example sett](/variants/s7/g24db6t3k6db12k15g4~x2/sett.png)|

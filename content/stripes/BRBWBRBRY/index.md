@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Newton Primary School](/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/)|
-|![Newton Primary School example sett](/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/sett.png)|
+| [Newton Primary School](/variants/s9/db26r3db3w2db3r3db6r6ly2~x4/)|
+|![Newton Primary School example sett](/variants/s9/db26r3db3w2db3r3db6r6ly2~x4/sett.png)|

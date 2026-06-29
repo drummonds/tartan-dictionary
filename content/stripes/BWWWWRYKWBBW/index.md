@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antarctic](/setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/)|
-|![Antarctic example sett](/setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/sett.png)|
+| [Antarctic](/variants/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/)|
+|![Antarctic example sett](/variants/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/sett.png)|

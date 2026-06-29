@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dogwood](/setts/s8/g3r12g12o5r1w25g2r1~x2/)|
-|![Dogwood example sett](/setts/s8/g3r12g12o5r1w25g2r1~x2/sett.png)|
+| [Dogwood](/variants/s8/g3r12g12o5r1w25g2r1~x2/)|
+|![Dogwood example sett](/variants/s8/g3r12g12o5r1w25g2r1~x2/sett.png)|

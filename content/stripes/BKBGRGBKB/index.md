@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Klappert (Name)](/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/)|
-|![Klappert (Name) example sett](/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/sett.png)|
-| [Klappert, Denmark (Personal)](/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/)|
-|![Klappert, Denmark (Personal) example sett](/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/sett.png)|
+| [Klappert (Name)](/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/)|
+|![Klappert (Name) example sett](/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/sett.png)|
+| [Klappert, Denmark (Personal)](/variants/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/)|
+|![Klappert, Denmark (Personal) example sett](/variants/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/sett.png)|

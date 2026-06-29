@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bennett, J P. (Personal)](/setts/s7/r2y18k2y3k20dy30w2~x2/)|
-|![Bennett, J P. (Personal) example sett](/setts/s7/r2y18k2y3k20dy30w2~x2/sett.png)|
+| [Bennett, J P. (Personal)](/variants/s7/r2y18k2y3k20dy30w2~x2/)|
+|![Bennett, J P. (Personal) example sett](/variants/s7/r2y18k2y3k20dy30w2~x2/sett.png)|

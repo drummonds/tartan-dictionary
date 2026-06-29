@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donegal, County](/setts/s10/lo3dg17b3dg3b3do5b18r2b8r2~x2/)|
-|![Donegal, County example sett](/setts/s10/lo3dg17b3dg3b3do5b18r2b8r2~x2/sett.png)|
+| [Donegal, County](/variants/s10/lo3dg17b3dg3b3do5b18r2b8r2~x2/)|
+|![Donegal, County example sett](/variants/s10/lo3dg17b3dg3b3do5b18r2b8r2~x2/sett.png)|

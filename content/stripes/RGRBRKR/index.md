@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buccleuch](/setts/s7/r107k9r5dp41r5g51r14/)|
-|![Buccleuch example sett](/setts/s7/r107k9r5dp41r5g51r14/sett.png)|
-| [Buccleuch](/setts/s7/r107k9r5db41r5g51r14/)|
-|![Buccleuch example sett](/setts/s7/r107k9r5db41r5g51r14/sett.png)|
+| [Buccleuch](/variants/s7/r107k9r5dp41r5g51r14/)|
+|![Buccleuch example sett](/variants/s7/r107k9r5dp41r5g51r14/sett.png)|
+| [Buccleuch](/variants/s7/r107k9r5db41r5g51r14/)|
+|![Buccleuch example sett](/variants/s7/r107k9r5db41r5g51r14/sett.png)|

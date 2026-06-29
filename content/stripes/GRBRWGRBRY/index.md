@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Linnhe](/setts/s10/g3r6db12r5lt2g10r31db2r4ly3~x2/)|
-|![Loch Linnhe example sett](/setts/s10/g3r6db12r5lt2g10r31db2r4ly3~x2/sett.png)|
+| [Loch Linnhe](/variants/s10/g3r6db12r5lt2g10r31db2r4ly3~x2/)|
+|![Loch Linnhe example sett](/variants/s10/g3r6db12r5lt2g10r31db2r4ly3~x2/sett.png)|

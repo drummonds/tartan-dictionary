@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hakkarain (Personal)](/setts/s10/ki37w18k37r2k2r2~x2/)|
-|![Hakkarain (Personal) example sett](/setts/s10/ki37w18k37r2k2r2~x2/sett.png)|
+| [Hakkarain (Personal)](/variants/s10/ki37w18k37r2k2r2~x2/)|
+|![Hakkarain (Personal) example sett](/variants/s10/ki37w18k37r2k2r2~x2/sett.png)|

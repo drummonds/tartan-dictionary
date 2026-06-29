@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Menzies](/setts/s5/r22g17w2t6r13~x2/)|
-|![Menzies example sett](/setts/s5/r22g17w2t6r13~x2/sett.png)|
+| [Menzies](/variants/s5/r22g17w2t6r13~x2/)|
+|![Menzies example sett](/variants/s5/r22g17w2t6r13~x2/sett.png)|

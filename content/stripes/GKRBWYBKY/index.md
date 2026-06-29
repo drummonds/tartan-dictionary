@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Schreier. Christopher (Personal)](/setts/s9/g22k2r22db2w1lo12dp1k1ly4~x2/)|
-|![Schreier. Christopher (Personal) example sett](/setts/s9/g22k2r22db2w1lo12dp1k1ly4~x2/sett.png)|
+| [Schreier. Christopher (Personal)](/variants/s9/g22k2r22db2w1lo12dp1k1ly4~x2/)|
+|![Schreier. Christopher (Personal) example sett](/variants/s9/g22k2r22db2w1lo12dp1k1ly4~x2/sett.png)|

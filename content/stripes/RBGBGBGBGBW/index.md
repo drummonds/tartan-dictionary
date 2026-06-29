@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Solway Spirit (District)](/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/)|
-|![Solway Spirit (District) example sett](/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/sett.png)|
+| [Solway Spirit (District)](/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/)|
+|![Solway Spirit (District) example sett](/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/sett.png)|

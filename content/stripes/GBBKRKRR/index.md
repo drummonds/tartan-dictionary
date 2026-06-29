@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anne Arundel County](/setts/s8/r4oi10k9o2k9db33dt7g4~x2/)|
-|![Anne Arundel County example sett](/setts/s8/r4oi10k9o2k9db33dt7g4~x2/sett.png)|
+| [Anne Arundel County](/variants/s8/r4oi10k9o2k9db33dt7g4~x2/)|
+|![Anne Arundel County example sett](/variants/s8/r4oi10k9o2k9db33dt7g4~x2/sett.png)|

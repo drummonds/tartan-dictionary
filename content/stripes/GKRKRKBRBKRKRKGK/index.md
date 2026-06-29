@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guthrie](/setts/s16/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1~x4/)|
-|![Guthrie example sett](/setts/s16/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1~x4/sett.png)|
+| [Guthrie](/variants/s16/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1~x4/)|
+|![Guthrie example sett](/variants/s16/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1~x4/sett.png)|

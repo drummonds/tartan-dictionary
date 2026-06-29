@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Gold](/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/)|
-|![Black Gold example sett](/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/sett.png)|
-| [Black Gold (Corporate)](/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/)|
-|![Black Gold (Corporate) example sett](/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/sett.png)|
+| [Black Gold](/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2/)|
+|![Black Gold example sett](/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2/sett.png)|
+| [Black Gold (Corporate)](/variants/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/)|
+|![Black Gold (Corporate) example sett](/variants/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/sett.png)|

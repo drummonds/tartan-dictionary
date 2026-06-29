@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holden Brown (Corporate)](/setts/s8/lb13k3lb3k3lb3k15dy18r3~x2/)|
-|![Holden Brown (Corporate) example sett](/setts/s8/lb13k3lb3k3lb3k15dy18r3~x2/sett.png)|
+| [Holden Brown (Corporate)](/variants/s8/lb13k3lb3k3lb3k15dy18r3~x2/)|
+|![Holden Brown (Corporate) example sett](/variants/s8/lb13k3lb3k3lb3k15dy18r3~x2/sett.png)|

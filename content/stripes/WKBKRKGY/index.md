@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ayre (Personal)](/setts/s8/ly3y14k9r2k9db18k3w1~x2/)|
-|![Ayre (Personal) example sett](/setts/s8/ly3y14k9r2k9db18k3w1~x2/sett.png)|
+| [Ayre (Personal)](/variants/s8/ly3y14k9r2k9db18k3w1~x2/)|
+|![Ayre (Personal) example sett](/variants/s8/ly3y14k9r2k9db18k3w1~x2/sett.png)|

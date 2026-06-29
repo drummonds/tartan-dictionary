@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray-Hetherington (Personal)](/setts/s10/g1k1g14k2r3db3k6w1k1w1~x4/)|
-|![Murray-Hetherington (Personal) example sett](/setts/s10/g1k1g14k2r3db3k6w1k1w1~x4/sett.png)|
+| [Murray-Hetherington (Personal)](/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/)|
+|![Murray-Hetherington (Personal) example sett](/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/sett.png)|

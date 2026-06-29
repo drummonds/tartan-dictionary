@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Massie/Massey](/setts/s15/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/)|
-|![Massie/Massey example sett](/setts/s15/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/sett.png)|
+| [Massie/Massey](/variants/s15/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/)|
+|![Massie/Massey example sett](/variants/s15/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/sett.png)|

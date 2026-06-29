@@ -15,7 +15,10 @@
 {{ if and .Site.Params.lazyImage (not .IsHome) -}}
 <script src="{{ .Site.Params.staticPrefix }}{{ "js/lazyload.min.js" | relURL }}"></script>
 <script>
-  var lazyImage = new LazyLoad({container: document.getElementById('article')});
+  // Guard the container: pages without an #article (e.g. the TTD editor) would otherwise construct
+  // LazyLoad with container:null and throw in its update() (n.container.querySelectorAll).
+  var lazyArticle = document.getElementById('article');
+  if (lazyArticle) { var lazyImage = new LazyLoad({container: lazyArticle}); }
 </script>
 {{ end }}
 

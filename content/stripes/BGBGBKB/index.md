@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lawrie](/setts/s7/dp6y2dp1g25db16k2db4~x2/)|
-|![Lawrie example sett](/setts/s7/dp6y2dp1g25db16k2db4~x2/sett.png)|
+| [Lawrie](/variants/s7/dp6y2dp1g25db16k2db4~x2/)|
+|![Lawrie example sett](/variants/s7/dp6y2dp1g25db16k2db4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peeper (check)](/setts/s19/g4k1y4lo4y4lo4y4r5y4lo4y4lo4y4lo4y4lo4y4lo4k1~x2/)|
-|![Peeper (check) example sett](/setts/s19/g4k1y4lo4y4lo4y4r5y4lo4y4lo4y4lo4y4lo4y4lo4k1~x2/sett.png)|
+| [Peeper (check)](/variants/s19/g4k1y4lo4y4lo4y4r5y4lo4y4lo4y4lo4y4lo4y4lo4k1~x2/)|
+|![Peeper (check) example sett](/variants/s19/g4k1y4lo4y4lo4y4r5y4lo4y4lo4y4lo4y4lo4y4lo4k1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Children 1st (Corporate)](/setts/s9/ly7db32dp4db4dp8db4dp8g32ly3~x2/)|
-|![Children 1st (Corporate) example sett](/setts/s9/ly7db32dp4db4dp8db4dp8g32ly3~x2/sett.png)|
+| [Children 1st (Corporate)](/variants/s9/ly7db32dp4db4dp8db4dp8g32ly3~x2/)|
+|![Children 1st (Corporate) example sett](/variants/s9/ly7db32dp4db4dp8db4dp8g32ly3~x2/sett.png)|

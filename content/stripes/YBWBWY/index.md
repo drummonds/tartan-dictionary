@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Legary](/setts/s6/ly5db15lb5db5lb40ly3~x2/)|
-|![Legary example sett](/setts/s6/ly5db15lb5db5lb40ly3~x2/sett.png)|
+| [Legary](/variants/s6/ly5db15lb5db5lb40ly3~x2/)|
+|![Legary example sett](/variants/s6/ly5db15lb5db5lb40ly3~x2/sett.png)|

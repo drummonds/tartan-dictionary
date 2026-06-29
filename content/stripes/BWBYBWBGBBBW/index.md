@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaughnessy](/setts/s12/dt68lb4do10ly2do3w3do3g11dt8do3dt3w3~x2/)|
-|![Shaughnessy example sett](/setts/s12/dt68lb4do10ly2do3w3do3g11dt8do3dt3w3~x2/sett.png)|
+| [Shaughnessy](/variants/s12/dt68lb4do10ly2do3w3do3g11dt8do3dt3w3~x2/)|
+|![Shaughnessy example sett](/variants/s12/dt68lb4do10ly2do3w3do3g11dt8do3dt3w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Goldwire (2015)](/setts/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/)|
-|![Goldwire (2015) example sett](/setts/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/sett.png)|
+| [Goldwire (2015)](/variants/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/)|
+|![Goldwire (2015) example sett](/variants/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/sett.png)|

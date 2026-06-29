@@ -1,0 +1,5 @@
+---
+title: "Hunter Portrait/Artefact Tartan"
+redirect: "/variants/s66/r30ri4y6lo4ri4r16lr2ri4lr2lo4db18y6ly3lr2lo4lr2ly3y6db18lo4lr2ri4r12y2r12ri3lr2g10lr2g2ly4g2lr2y8lr4y8lr2g2ly4g2lr2g10lr2ri4r12y2r12ri4lr2g10lo4lr4lo4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Hunter Portrait/Artefact Tartan](/variants/s66/r30ri4y6lo4ri4r16lr2ri4lr2lo4db18y6ly3lr2lo4lr2ly3y6db18lo4lr2ri4r12y2r12ri3lr2g10lr2g2ly4g2lr2y8lr4y8lr2g2ly4g2lr2g10lr2ri4r12y2r12ri4lr2g10lo4lr4lo4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2/).

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inches, of Perth](/setts/s9/o44ly2k4p2o15r6k3t3ly2~x2/)|
-|![Inches, of Perth example sett](/setts/s9/o44ly2k4p2o15r6k3t3ly2~x2/sett.png)|
+| [Inches, of Perth](/variants/s9/o44ly2k4p2o15r6k3t3ly2~x2/)|
+|![Inches, of Perth example sett](/variants/s9/o44ly2k4p2o15r6k3t3ly2~x2/sett.png)|

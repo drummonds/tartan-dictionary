@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [(1) Stewart, modern](/setts/s9/g44db2g4db2g6k16m40db2ly11/)|
-|![(1) Stewart, modern example sett](/setts/s9/g44db2g4db2g6k16m40db2ly11/sett.png)|
+| [(1) Stewart, modern](/variants/s9/g44db2g4db2g6k16m40db2ly11/)|
+|![(1) Stewart, modern example sett](/variants/s9/g44db2g4db2g6k16m40db2ly11/sett.png)|

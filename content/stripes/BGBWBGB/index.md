@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Dennis & Cranley School](/setts/s7/db1g12db4lb1db4g4db1~x4/)|
-|![St. Dennis & Cranley School example sett](/setts/s7/db1g12db4lb1db4g4db1~x4/sett.png)|
+| [St. Dennis & Cranley School](/variants/s7/db1g12db4lb1db4g4db1~x4/)|
+|![St. Dennis & Cranley School example sett](/variants/s7/db1g12db4lb1db4g4db1~x4/sett.png)|

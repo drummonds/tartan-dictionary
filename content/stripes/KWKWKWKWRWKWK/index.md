@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blackcraig (Personal)](/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/)|
-|![Blackcraig (Personal) example sett](/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/sett.png)|
+| [Blackcraig (Personal)](/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/)|
+|![Blackcraig (Personal) example sett](/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/sett.png)|

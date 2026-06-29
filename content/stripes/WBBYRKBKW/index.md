@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wiegratz Alba (Personal)](/setts/s9/w3k2t30k5r5ly5t5db12w1~x2/)|
-|![Wiegratz Alba (Personal) example sett](/setts/s9/w3k2t30k5r5ly5t5db12w1~x2/sett.png)|
+| [Wiegratz Alba (Personal)](/variants/s9/w3k2t30k5r5ly5t5db12w1~x2/)|
+|![Wiegratz Alba (Personal) example sett](/variants/s9/w3k2t30k5r5ly5t5db12w1~x2/sett.png)|

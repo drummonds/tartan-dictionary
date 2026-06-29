@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yarmouth NS (District)](/setts/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/)|
-|![Yarmouth NS (District) example sett](/setts/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/sett.png)|
+| [Yarmouth NS (District)](/variants/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/)|
+|![Yarmouth NS (District) example sett](/variants/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/sett.png)|

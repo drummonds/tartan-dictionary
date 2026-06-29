@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Lindley #2](/setts/s18/r18db2r2db2r3db14dg29ly1dg2ly4~x2/)|
-|![Unidentified Lindley #2 example sett](/setts/s18/r18db2r2db2r3db14dg29ly1dg2ly4~x2/sett.png)|
+| [Unidentified Lindley #2](/variants/s18/r18db2r2db2r3db14dg29ly1dg2ly4~x2/)|
+|![Unidentified Lindley #2 example sett](/variants/s18/r18db2r2db2r3db14dg29ly1dg2ly4~x2/sett.png)|

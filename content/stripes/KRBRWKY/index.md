@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hoffman Texas German](/setts/s7/k23r27db3r5w3k14ly6~x2/)|
-|![Hoffman Texas German example sett](/setts/s7/k23r27db3r5w3k14ly6~x2/sett.png)|
+| [Hoffman Texas German](/variants/s7/k23r27db3r5w3k14ly6~x2/)|
+|![Hoffman Texas German example sett](/variants/s7/k23r27db3r5w3k14ly6~x2/sett.png)|

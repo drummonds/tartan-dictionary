@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hannah (Personal)](/setts/s6/w2b35k9w3k9ly2~x2/)|
-|![Hannah (Personal) example sett](/setts/s6/w2b35k9w3k9ly2~x2/sett.png)|
-| [Hannah (Personal)](/setts/s6/w2db35k9w3k9ly2~x2/)|
-|![Hannah (Personal) example sett](/setts/s6/w2db35k9w3k9ly2~x2/sett.png)|
+| [Hannah (Personal)](/variants/s6/w2b35k9w3k9ly2~x2/)|
+|![Hannah (Personal) example sett](/variants/s6/w2b35k9w3k9ly2~x2/sett.png)|
+| [Hannah (Personal)](/variants/s6/w2db35k9w3k9ly2~x2/)|
+|![Hannah (Personal) example sett](/variants/s6/w2db35k9w3k9ly2~x2/sett.png)|

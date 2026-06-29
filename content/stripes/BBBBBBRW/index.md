@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Queen of the South F.C. (Sports)](/setts/s8/lb6r16dt20db18t5db18n6db4/)|
-|![Queen of the South F.C. (Sports) example sett](/setts/s8/lb6r16dt20db18t5db18n6db4/sett.png)|
+| [Queen of the South F.C. (Sports)](/variants/s8/lb6r16dt20db18t5db18n6db4/)|
+|![Queen of the South F.C. (Sports) example sett](/variants/s8/lb6r16dt20db18t5db18n6db4/sett.png)|

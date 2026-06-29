@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McClafferty](/setts/s10/r3g10k12db3k2db2k2db30r4w1~x2/)|
-|![McClafferty example sett](/setts/s10/r3g10k12db3k2db2k2db30r4w1~x2/sett.png)|
+| [McClafferty](/variants/s10/r3g10k12db3k2db2k2db30r4w1~x2/)|
+|![McClafferty example sett](/variants/s10/r3g10k12db3k2db2k2db30r4w1~x2/sett.png)|

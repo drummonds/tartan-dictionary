@@ -1,0 +1,50 @@
+---
+title: "Other tartans — R"
+date: 2023-03-18
+---
+42 Other tartans beginning with R. [Back to all Other tartans](/type/other/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/variants/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/"><img src="/variants/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/sett.png" alt="Ralston (UK)" width="140"><br>Ralston (UK)</a></li>
+<li><a class="tartan" href="/variants/s11/dg12oi4o4n4o4oi4dg18g5dg5g5n4~x2/"><img src="/variants/s11/dg12oi4o4n4o4oi4dg18g5dg5g5n4~x2/sett.png" alt="Ralston Personal Tartan" width="140"><br>Ralston Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><img src="/variants/s7/k4dy9k13g6dy3g9w4~x2/sett.png" alt="Ramsay Hunting Family Tartan" width="140"><br>Ramsay Hunting Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s6/r5m2r30k28w2k4~x2/"><img src="/variants/s6/r5m2r30k28w2k4~x2/sett.png" alt="Ramsay Red Clan Tartan" width="140"><br>Ramsay Red Clan Tartan</a></li>
+<li><a class="tartan" href="/variants/s11/r3db12k12dbi32k12db2k2db2k2db4r3/"><img src="/variants/s11/r3db12k12dbi32k12db2k2db2k2db4r3/sett.png" alt="Rangers F. C. Corporate Tartan" width="140"><br>Rangers F. C. Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s20/db14r3db14k12dbi40k12db2k2db2k2db7r3db7k2db2k2db2k12dbi40k12~x2/"><img src="/variants/s20/db14r3db14k12dbi40k12db2k2db2k2db7r3db7k2db2k2db2k12dbi40k12~x2/sett.png" alt="Rangers F. C. Corporate Tartan" width="140"><br>Rangers F. C. Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2/"><img src="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2/sett.png" alt="Rangers F. C. Dress Corporate Tartan" width="140"><br>Rangers F. C. Dress Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s20/dt36k5r2k5g15r2g10w2g10r2g15k5r2k5dt10r2dt2r2dt4w2~x2/"><img src="/variants/s20/dt36k5r2k5g15r2g10w2g10r2g15k5r2k5dt10r2dt2r2dt4w2~x2/sett.png" alt="Ranking Corporate Tartan" width="140"><br>Ranking Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s12/r26t2r6o2r2o2lo2o9w5ri2w4lo2~x2/"><img src="/variants/s12/r26t2r6o2r2o2lo2o9w5ri2w4lo2~x2/sett.png" alt="Rathmore Family Tartan" width="140"><br>Rathmore Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s7/k2ly30g4w2g14r13ly2~x2/"><img src="/variants/s7/k2ly30g4w2g14r13ly2~x2/sett.png" alt="Red Rum Commemorative Tartan" width="140"><br>Red Rum Commemorative Tartan</a></li>
+<li><a class="tartan" href="/variants/s6/y40r8y4w2y4ly5~x2/"><img src="/variants/s6/y40r8y4w2y4ly5~x2/sett.png" alt="Reid (1939)" width="140"><br>Reid (1939)</a></li>
+<li><a class="tartan" href="/variants/s7/k2g10k9db9r1k1db2~x2/"><img src="/variants/s7/k2g10k9db9r1k1db2~x2/sett.png" alt="Reid and Taylor" width="140"><br>Reid and Taylor</a></li>
+<li><a class="tartan" href="/variants/s17/r3g3r18g6r4db3lb3db18r6g18lb3g3r3db4r18g3r3~x2/"><img src="/variants/s17/r3g3r18g6r4db3lb3db18r6g18lb3g3r3db4r18g3r3~x2/sett.png" alt="Reid Red Clan/Family Tartan" width="140"><br>Reid Red Clan/Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s7/m4db2t7db20k7g10ly4~x2/"><img src="/variants/s7/m4db2t7db20k7g10ly4~x2/sett.png" alt="Renfrewshire District Tartan" width="140"><br>Renfrewshire District Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/w6k1g29k23dp27g3dp3g3dp3g4~x2/"><img src="/variants/s10/w6k1g29k23dp27g3dp3g3dp3g4~x2/sett.png" alt="Rennie Family Tartan" width="140"><br>Rennie Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/db6lo3db3lo15dbi7db7dbi5db17dbi46w4/"><img src="/variants/s10/db6lo3db3lo15dbi7db7dbi5db17dbi46w4/sett.png" alt="Rhys Welsh Name Tartan" width="140"><br>Rhys Welsh Name Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/lo4r21lo1r21y8db4y5db4y4lo4/"><img src="/variants/s10/lo4r21lo1r21y8db4y5db4y4lo4/sett.png" alt="Rice Welsh Name Tartan" width="140"><br>Rice Welsh Name Tartan</a></li>
+<li><a class="tartan" href="/variants/s4/ly2k3r31w1~x4/"><img src="/variants/s4/ly2k3r31w1~x4/sett.png" alt="Riddick Furya" width="140"><br>Riddick Furya</a></li>
+<li><a class="tartan" href="/variants/s14/g28r2k15db2k2db2k2db18~x2/"><img src="/variants/s14/g28r2k15db2k2db2k2db18~x2/sett.png" alt="Riddoch Personal Tartan" width="140"><br>Riddoch Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s62/r6w2r3w2r20w2t6w2dp10w2dp10w2t6w2gi10g4w2g4gi10lr2r14w2r14lr2gi3w2gi2ly2gi2w2t4w2t4w2gi2ly2gi2w2gi3w2r14w2r14w2dp10t2w2ly4w2g4w2ly4w2t2dp10w2r20w2t6w2r14w1~x2/"><img src="/variants/s62/r6w2r3w2r20w2t6w2dp10w2dp10w2t6w2gi10g4w2g4gi10lr2r14w2r14lr2gi3w2gi2ly2gi2w2t4w2t4w2gi2ly2gi2w2gi3w2r14w2r14w2dp10t2w2ly4w2g4w2ly4w2t2dp10w2r20w2t6w2r14w1~x2/sett.png" alt="Ritch Family Tartan" width="140"><br>Ritch Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s13/r3dg2r19db2r3dg20r3db20r3db2r19dg2r3~x4/"><img src="/variants/s13/r3dg2r19db2r3dg20r3db20r3db2r19dg2r3~x4/sett.png" alt="Robertson Curtain" width="140"><br>Robertson Curtain</a></li>
+<li><a class="tartan" href="/variants/s2/g9k8~x2/"><img src="/variants/s2/g9k8~x2/sett.png" alt="Robin Hood Fancy Tartan" width="140"><br>Robin Hood Fancy Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/g55r4lb3dp11w4db11lb3r4g55k4~x2/"><img src="/variants/s10/g55r4lb3dp11w4db11lb3r4g55k4~x2/sett.png" alt="Rollings Personal Tartan" width="140"><br>Rollings Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s12/k15g15ly3g15k15g15r3g15k15db15k2db15~x2/"><img src="/variants/s12/k15g15ly3g15k15g15r3g15k15db15k2db15~x2/sett.png" alt="Rollo Family Tartan" width="140"><br>Rollo Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/"><img src="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/sett.png" alt="Roscommon Irish County Tartan" width="140"><br>Roscommon Irish County Tartan</a></li>
+<li><a class="tartan" href="/variants/s14/gi2g4gi2g2gi1g2gi3k2gi2k2gi12r1gi2r1~x2/"><img src="/variants/s14/gi2g4gi2g2gi1g2gi3k2gi2k2gi12r1gi2r1~x2/sett.png" alt="Ross Hunting Clan Tartan" width="140"><br>Ross Hunting Clan Tartan</a></li>
+<li><a class="tartan" href="/variants/s12/gi6g3gi3g4gi4k5gi3k5gi28r2gi4r2~x2/"><img src="/variants/s12/gi6g3gi3g4gi4k5gi3k5gi28r2gi4r2~x2/sett.png" alt="Ross Hunting Clan Tartan" width="140"><br>Ross Hunting Clan Tartan</a></li>
+<li><a class="tartan" href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><img src="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/sett.png" alt="Ross Purple Dress Tartan" width="140"><br>Ross Purple Dress Tartan</a></li>
+<li><a class="tartan" href="/variants/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/"><img src="/variants/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/sett.png" alt="Ross Wedding Dress" width="140"><br>Ross Wedding Dress</a></li>
+<li><a class="tartan" href="/variants/s7/y19r3t19r11y19ly2db4~x2/"><img src="/variants/s7/y19r3t19r11y19ly2db4~x2/sett.png" alt="Rotary Corporate Tartan" width="140"><br>Rotary Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/dg4r16dg4r2dg3r2dg32w2dg2w3~x2/"><img src="/variants/s10/dg4r16dg4r2dg3r2dg32w2dg2w3~x2/sett.png" alt="Rothesay Hunting Family Tartan" width="140"><br>Rothesay Hunting Family Tartan</a></li>
+<li><a class="tartan" href="/variants/s26/t11dbi2t11k2dbi2t5w2t5w2t5dbi10t1db2t1dbi10k4t5k2t5k4dbi2t2dbi2t11db2t1~x2/"><img src="/variants/s26/t11dbi2t11k2dbi2t5w2t5w2t5dbi10t1db2t1dbi10k4t5k2t5k4dbi2t2dbi2t11db2t1~x2/sett.png" alt="Round Table" width="140"><br>Round Table</a></li>
+<li><a class="tartan" href="/variants/s11/w4dbi8r3dbi25k13db4t29dbi3t8dbi2r3~x2/"><img src="/variants/s11/w4dbi8r3dbi25k13db4t29dbi3t8dbi2r3~x2/sett.png" alt="Royal Air Force Regimental Tartan" width="140"><br>Royal Air Force Regimental Tartan</a></li>
+<li><a class="tartan" href="/variants/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/"><img src="/variants/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/sett.png" alt="Royal Canadian Air Force Regimental Tartan" width="140"><br>Royal Canadian Air Force Regimental Tartan</a></li>
+<li><a class="tartan" href="/variants/s16/k76b1k2lb1g14r5k13o1lo1~x2/"><img src="/variants/s16/k76b1k2lb1g14r5k13o1lo1~x2/sett.png" alt="Royal Canadian Mounted Police Corporate Tartan" width="140"><br>Royal Canadian Mounted Police Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/g23r3k9r3db18r3k9r3g23ly3~x2/"><img src="/variants/s10/g23r3k9r3db18r3k9r3g23ly3~x2/sett.png" alt="Royal College of Physicians Corporate Tartan" width="140"><br>Royal College of Physicians Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s9/db25w2db25t25r2t25g25ly2g25~x2/"><img src="/variants/s9/db25w2db25t25r2t25g25ly2g25~x2/sett.png" alt="Royal Columbian Canadian Tartan" width="140"><br>Royal Columbian Canadian Tartan</a></li>
+<li><a class="tartan" href="/variants/s8/lr8g33k21db6k6db33r6db6/"><img src="/variants/s8/lr8g33k21db6k6db33r6db6/sett.png" alt="Royal Highland Corporate Tartan" width="140"><br>Royal Highland Corporate Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/do3db2g19db6g2db6lo14w2dp4w2~x2/"><img src="/variants/s10/do3db2g19db6g2db6lo14w2dp4w2~x2/sett.png" alt="Royal Pharmaceutical Society Commemorative Tartan" width="140"><br>Royal Pharmaceutical Society Commemorative Tartan</a></li>
+<li><a class="tartan" href="/variants/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><img src="/variants/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/sett.png" alt="Royal Stuart/Stewart (Variant)" width="140"><br>Royal Stuart/Stewart (Variant)</a></li>
+<li><a class="tartan" href="/variants/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/"><img src="/variants/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/sett.png" alt="Rust Personal Tartan" width="140"><br>Rust Personal Tartan</a></li>
+<li><a class="tartan" href="/variants/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/"><img src="/variants/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/sett.png" alt="Ryukoku University Heian Junior Corporate Tartan" width="140"><br>Ryukoku University Heian Junior Corporate Tartan</a></li>
+</ul>

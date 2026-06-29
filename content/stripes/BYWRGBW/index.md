@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kipp (Personal)](/setts/s7/db2lo10lb1o8g7dr10lb2~x2/)|
-|![Kipp (Personal) example sett](/setts/s7/db2lo10lb1o8g7dr10lb2~x2/sett.png)|
+| [Kipp (Personal)](/variants/s7/db2lo10lb1o8g7dr10lb2~x2/)|
+|![Kipp (Personal) example sett](/variants/s7/db2lo10lb1o8g7dr10lb2~x2/sett.png)|

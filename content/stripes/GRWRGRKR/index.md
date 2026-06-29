@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCall/McCall](/setts/s8/r3k2r3g12r3w1r1g1~x4/)|
-|![MacCall/McCall example sett](/setts/s8/r3k2r3g12r3w1r1g1~x4/sett.png)|
+| [MacCall/McCall](/variants/s8/r3k2r3g12r3w1r1g1~x4/)|
+|![MacCall/McCall example sett](/variants/s8/r3k2r3g12r3w1r1g1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hannigan of Dirleton (Personal)](/setts/s14/dp4g4y2w3g27y30ly1r3~x2/)|
-|![Hannigan of Dirleton (Personal) example sett](/setts/s14/dp4g4y2w3g27y30ly1r3~x2/sett.png)|
+| [Hannigan of Dirleton (Personal)](/variants/s14/dp4g4y2w3g27y30ly1r3~x2/)|
+|![Hannigan of Dirleton (Personal) example sett](/variants/s14/dp4g4y2w3g27y30ly1r3~x2/sett.png)|

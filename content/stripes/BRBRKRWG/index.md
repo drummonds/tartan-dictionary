@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNeil 3](/setts/s8/g45w2r3k15r3db15r3db15~x2/)|
-|![MacNeil 3 example sett](/setts/s8/g45w2r3k15r3db15r3db15~x2/sett.png)|
+| [MacNeil 3](/variants/s8/g45w2r3k15r3db15r3db15~x2/)|
+|![MacNeil 3 example sett](/variants/s8/g45w2r3k15r3db15r3db15~x2/sett.png)|

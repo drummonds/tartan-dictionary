@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Andrews Dress, Earl of.. District Tartan Tartan Number: 45. Earliest known date: pre 2003 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w28t19dbi19w4db2lp2dbi7~x2/)|
-|![St Andrews Dress, Earl of.. District Tartan Tartan Number: 45. Earliest known date: pre 2003 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/w28t19dbi19w4db2lp2dbi7~x2/sett.png)|
-| [St Andrews, Earl of, dress](/setts/s7/w28t19db19w4dbi2lp2db7~x2/)|
-|![St Andrews, Earl of, dress example sett](/setts/s7/w28t19db19w4dbi2lp2db7~x2/sett.png)|
+| [St Andrews Dress, Earl of.. District Tartan](/variants/s7/w28t19dbi19w4db2lp2dbi7~x2/)|
+|![St Andrews Dress, Earl of.. District Tartan example sett](/variants/s7/w28t19dbi19w4db2lp2dbi7~x2/sett.png)|
+| [St Andrews, Earl of, dress](/variants/s7/w28t19db19w4dbi2lp2db7~x2/)|
+|![St Andrews, Earl of, dress example sett](/variants/s7/w28t19db19w4dbi2lp2db7~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Massachusetts](/setts/s6/r1db12k5o3db5w1~x4/)|
-|![Massachusetts example sett](/setts/s6/r1db12k5o3db5w1~x4/sett.png)|
+| [Massachusetts](/variants/s6/r1db12k5o3db5w1~x4/)|
+|![Massachusetts example sett](/variants/s6/r1db12k5o3db5w1~x4/sett.png)|

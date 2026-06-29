@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wombles](/setts/s9/w4dbi8w1db1r6db3ri6db1w4~x2/)|
-|![Wombles example sett](/setts/s9/w4dbi8w1db1r6db3ri6db1w4~x2/sett.png)|
-| [Wombles #3](/setts/s9/w4dbi8w1db1ri6db3r6db1w4~x2/)|
-|![Wombles #3 example sett](/setts/s9/w4dbi8w1db1ri6db3r6db1w4~x2/sett.png)|
+| [Wombles](/variants/s9/w4dbi8w1db1r6db3ri6db1w4~x2/)|
+|![Wombles example sett](/variants/s9/w4dbi8w1db1r6db3ri6db1w4~x2/sett.png)|
+| [Wombles #3](/variants/s9/w4dbi8w1db1ri6db3r6db1w4~x2/)|
+|![Wombles #3 example sett](/variants/s9/w4dbi8w1db1ri6db3r6db1w4~x2/sett.png)|

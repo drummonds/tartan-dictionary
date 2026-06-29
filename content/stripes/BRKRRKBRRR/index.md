@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dobrain (Personal)](/setts/s10/r24o2r4n2k6o2r14k3o4n8~x2/)|
-|![Dobrain (Personal) example sett](/setts/s10/r24o2r4n2k6o2r14k3o4n8~x2/sett.png)|
+| [Dobrain (Personal)](/variants/s10/r24o2r4n2k6o2r14k3o4n8~x2/)|
+|![Dobrain (Personal) example sett](/variants/s10/r24o2r4n2k6o2r14k3o4n8~x2/sett.png)|

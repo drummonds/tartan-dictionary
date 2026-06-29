@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Queen Mary RMS](/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/)|
-|![Queen Mary RMS example sett](/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/sett.png)|
+| [Queen Mary RMS](/variants/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/)|
+|![Queen Mary RMS example sett](/variants/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/sett.png)|

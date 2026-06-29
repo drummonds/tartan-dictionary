@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Selkirk High School](/setts/s18/m18k18ly1r2b2r2ly1m18b2m18ly1r2b2r2ly1k18m18w3~x2/)|
-|![Selkirk High School example sett](/setts/s18/m18k18ly1r2b2r2ly1m18b2m18ly1r2b2r2ly1k18m18w3~x2/sett.png)|
+| [Selkirk High School](/variants/s18/m18k18ly1r2b2r2ly1m18b2m18ly1r2b2r2ly1k18m18w3~x2/)|
+|![Selkirk High School example sett](/variants/s18/m18k18ly1r2b2r2ly1m18b2m18ly1r2b2r2ly1k18m18w3~x2/sett.png)|

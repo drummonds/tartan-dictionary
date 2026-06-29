@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [C-Tec N.I. Ltd](/setts/s4/k62db15w6ly4~x2/)|
-|![C-Tec N.I. Ltd example sett](/setts/s4/k62db15w6ly4~x2/sett.png)|
+| [C-Tec N.I. Ltd](/variants/s4/k62db15w6ly4~x2/)|
+|![C-Tec N.I. Ltd example sett](/variants/s4/k62db15w6ly4~x2/sett.png)|

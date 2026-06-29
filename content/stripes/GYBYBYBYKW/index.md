@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blalack](/setts/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/)|
-|![Blalack example sett](/setts/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/sett.png)|
+| [Blalack](/variants/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/)|
+|![Blalack example sett](/variants/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/sett.png)|

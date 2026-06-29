@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Feshie Check](/setts/s8/r4w4k3w4k4w4k4w4~x2/)|
-|![Glen Feshie Check example sett](/setts/s8/r4w4k3w4k4w4k4w4~x2/sett.png)|
-| [Masai Shuka 14 (Artefact)](/setts/s8/r40w40k5w2k6w2k5w6~x2/)|
-|![Masai Shuka 14 (Artefact) example sett](/setts/s8/r40w40k5w2k6w2k5w6~x2/sett.png)|
+| [Glen Feshie Check](/variants/s8/r4w4k3w4k4w4k4w4~x2/)|
+|![Glen Feshie Check example sett](/variants/s8/r4w4k3w4k4w4k4w4~x2/sett.png)|
+| [Masai Shuka 14 (Artefact)](/variants/s8/r40w40k5w2k6w2k5w6~x2/)|
+|![Masai Shuka 14 (Artefact) example sett](/variants/s8/r40w40k5w2k6w2k5w6~x2/sett.png)|

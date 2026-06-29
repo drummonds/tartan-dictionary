@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [West Point](/setts/s8/k13y1k1y1k4y10ly1y1~x6/)|
-|![West Point example sett](/setts/s8/k13y1k1y1k4y10ly1y1~x6/sett.png)|
+| [West Point](/variants/s8/k13y1k1y1k4y10ly1y1~x6/)|
+|![West Point example sett](/variants/s8/k13y1k1y1k4y10ly1y1~x6/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cats Winter (Fashion)](/setts/s12/r8g2k2lo2k2ly2k2g18db2g2db29k3~x2/)|
-|![Cats Winter (Fashion) example sett](/setts/s12/r8g2k2lo2k2ly2k2g18db2g2db29k3~x2/sett.png)|
+| [Cats Winter (Fashion)](/variants/s12/r8g2k2lo2k2ly2k2g18db2g2db29k3~x2/)|
+|![Cats Winter (Fashion) example sett](/variants/s12/r8g2k2lo2k2ly2k2g18db2g2db29k3~x2/sett.png)|

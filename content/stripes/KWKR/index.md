@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunbar (District)](/setts/s4/r28k4w2k13~x2/)|
-|![Dunbar (District) example sett](/setts/s4/r28k4w2k13~x2/sett.png)|
+| [Dunbar (District)](/variants/s4/r28k4w2k13~x2/)|
+|![Dunbar (District) example sett](/variants/s4/r28k4w2k13~x2/sett.png)|

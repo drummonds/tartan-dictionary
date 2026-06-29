@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rowan (Name)](/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/)|
-|![Rowan (Name) example sett](/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/sett.png)|
+| [Rowan (Name)](/variants/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/)|
+|![Rowan (Name) example sett](/variants/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/sett.png)|

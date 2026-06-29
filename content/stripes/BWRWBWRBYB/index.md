@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gray, Thomas (Personal)](/setts/s10/n1w1o2w1n1w16o6db1ly1t1~x4/)|
-|![Gray, Thomas (Personal) example sett](/setts/s10/n1w1o2w1n1w16o6db1ly1t1~x4/sett.png)|
+| [Gray, Thomas (Personal)](/variants/s10/n1w1o2w1n1w16o6db1ly1t1~x4/)|
+|![Gray, Thomas (Personal) example sett](/variants/s10/n1w1o2w1n1w16o6db1ly1t1~x4/sett.png)|

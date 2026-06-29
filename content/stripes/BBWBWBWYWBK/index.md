@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Xain (Personal)](/setts/s11/t63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/)|
-|![Xain (Personal) example sett](/setts/s11/t63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/sett.png)|
+| [Xain (Personal)](/variants/s11/t63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/)|
+|![Xain (Personal) example sett](/variants/s11/t63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Citylink Gold (Corporate)](/setts/s8/r25n2r3lo2r3n11w13lo1~x2/)|
-|![Citylink Gold (Corporate) example sett](/setts/s8/r25n2r3lo2r3n11w13lo1~x2/sett.png)|
+| [Citylink Gold (Corporate)](/variants/s8/r25n2r3lo2r3n11w13lo1~x2/)|
+|![Citylink Gold (Corporate) example sett](/variants/s8/r25n2r3lo2r3n11w13lo1~x2/sett.png)|

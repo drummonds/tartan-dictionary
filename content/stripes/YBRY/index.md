@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Porcelanosa](/setts/s4/lr24o9n23ly3~x2/)|
-|![Porcelanosa example sett](/setts/s4/lr24o9n23ly3~x2/sett.png)|
+| [Porcelanosa](/variants/s4/lr24o9n23ly3~x2/)|
+|![Porcelanosa example sett](/variants/s4/lr24o9n23ly3~x2/sett.png)|

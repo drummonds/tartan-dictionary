@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Miss Emma Halford-MacLeod](/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/)|
-|![Miss Emma Halford-MacLeod example sett](/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/sett.png)|
+| [Miss Emma Halford-MacLeod](/variants/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/)|
+|![Miss Emma Halford-MacLeod example sett](/variants/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/sett.png)|

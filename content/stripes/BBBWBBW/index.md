@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Earl of St. Andrews Dress](/setts/s7/w20db14dt14w4dbi2b2dt7~x2/)|
-|![Earl of St. Andrews Dress example sett](/setts/s7/w20db14dt14w4dbi2b2dt7~x2/sett.png)|
-| [Earl of St. Andrews Dress (Dance)](/setts/s7/w20db14b14w4dt2t2b7~x2/)|
-|![Earl of St. Andrews Dress (Dance) example sett](/setts/s7/w20db14b14w4dt2t2b7~x2/sett.png)|
-| [St. Andrews Dress, Earl of (Danc](/setts/s7/w28t19dbi19w4db2p2dbi7~x2/)|
-|![St. Andrews Dress, Earl of (Danc example sett](/setts/s7/w28t19dbi19w4db2p2dbi7~x2/sett.png)|
+| [Earl of St. Andrews Dress](/variants/s7/w20db14dt14w4dbi2b2dt7~x2/)|
+|![Earl of St. Andrews Dress example sett](/variants/s7/w20db14dt14w4dbi2b2dt7~x2/sett.png)|
+| [Earl of St. Andrews Dress (Dance)](/variants/s7/w20db14b14w4dt2t2b7~x2/)|
+|![Earl of St. Andrews Dress (Dance) example sett](/variants/s7/w20db14b14w4dt2t2b7~x2/sett.png)|
+| [St. Andrews Dress, Earl of (Danc](/variants/s7/w28t19dbi19w4db2p2dbi7~x2/)|
+|![St. Andrews Dress, Earl of (Danc example sett](/variants/s7/w28t19dbi19w4db2p2dbi7~x2/sett.png)|

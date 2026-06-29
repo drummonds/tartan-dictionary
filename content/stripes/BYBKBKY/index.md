@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grange School](/setts/s7/n27lr3n14k3n13k3ly23~x2/)|
-|![Grange School example sett](/setts/s7/n27lr3n14k3n13k3ly23~x2/sett.png)|
+| [Grange School](/variants/s7/n27lr3n14k3n13k3ly23~x2/)|
+|![Grange School example sett](/variants/s7/n27lr3n14k3n13k3ly23~x2/sett.png)|

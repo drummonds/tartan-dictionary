@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Furman University](/setts/s5/p2w14k15p14w2~x2/)|
-|![Furman University example sett](/setts/s5/p2w14k15p14w2~x2/sett.png)|
+| [Furman University](/variants/s5/p2w14k15p14w2~x2/)|
+|![Furman University example sett](/variants/s5/p2w14k15p14w2~x2/sett.png)|

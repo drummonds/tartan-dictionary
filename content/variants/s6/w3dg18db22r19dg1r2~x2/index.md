@@ -1,0 +1,56 @@
+---
+title: "Nibley (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3dg18db22r19dg1r2/)
+(the same proportion at any scale), whose colour order is pattern [RGRBGW](/stripes/rgrbgw/).
+
+Part of the [Nibley](/tartans/nibley/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Nibley (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134">record</a>)</li>
+<li>1997 Feb — Nibley (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2338/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134)
+- Scottish Tartans Authority (ITI): 2338
+- Scottish Tartans World Register: 2338
+
+## Thread count
+LN/6 DG36 DB44 R38 DG2 R/4
+
+One full sett is **250 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> <small style="color:#888">#202060</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(28.9% 0.111 276.9)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="LN/6 DG36 DB44 R38 DG2 R/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=w3dg18db22r19dg1r2~x2">Nibley (Personal)</a> <a class="nn-out" href="/variants/s6/w3dg18db22r19dg1r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/w3dg18db22r19dg1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=db18r18dp2g12db1~x4&amp;base=w3dg18db22r19dg1r2~x2">Wyeth (Personal)</a> <a class="nn-out" href="/variants/s5/db18r18dp2g12db1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db18r18dp2g12db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=o2dr14o1k14o14ly2~x2&amp;base=w3dg18db22r19dg1r2~x2">United Distillers</a> <a class="nn-out" href="/variants/s6/o2dr14o1k14o14ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o2dr14o1k14o14ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.09</div><div class="nn-name"><a href="/ttd/edit/#slug=r25k2n4k2r8k31db32k8&amp;base=w3dg18db22r19dg1r2~x2">Black and Red</a> <a class="nn-out" href="/variants/s8/r25k2n4k2r8k31db32k8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r25k2n4k2r8k31db32k8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r12b18k1r4k1dg6k2~x2&amp;base=w3dg18db22r19dg1r2~x2">Confederate</a> <a class="nn-out" href="/variants/s7/r12b18k1r4k1dg6k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r12b18k1r4k1dg6k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=k4r37db37r2db37g37r37k4~x2&amp;base=w3dg18db22r19dg1r2~x2">Skene of Cromar - 1950 (Clan)</a> <a class="nn-out" href="/variants/s8/k4r37db37r2db37g37r37k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4r37db37r2db37g37r37k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.12</div><div class="nn-name"><a href="/ttd/edit/#slug=db2r20dg20k21r1~x2&amp;base=w3dg18db22r19dg1r2~x2">Skene of Cromar (1885)</a> <a class="nn-out" href="/variants/s5/db2r20dg20k21r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db2r20dg20k21r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=k4r37db37r2db37g37r37k4&amp;base=w3dg18db22r19dg1r2~x2">Skene, of Cromar</a> <a class="nn-out" href="/variants/s8/k4r37db37r2db37g37r37k4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4r37db37r2db37g37r37k4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=r12b18k1r4k1g6k2~x2&amp;base=w3dg18db22r19dg1r2~x2">Confederate (Military)</a> <a class="nn-out" href="/variants/s7/r12b18k1r4k1g6k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r12b18k1r4k1g6k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=db1r5dg18r4db9r10w1~x4&amp;base=w3dg18db22r19dg1r2~x2">MacKintosh Geddes</a> <a class="nn-out" href="/variants/s7/db1r5dg18r4db9r10w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1r5dg18r4db9r10w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=w3g15db18r15g1r2~x2&amp;base=w3dg18db22r19dg1r2~x2">Nibley</a> <a class="nn-out" href="/variants/s6/w3g15db18r15g1r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w3g15db18r15g1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db18r18dp2g12db1~x4/"><circle cx="241.4" cy="208.1" r="4" fill="#3465a4"><title>Wyeth (Personal)</title></circle></a><a href="/variants/s6/o2dr14o1k14o14ly2~x2/"><circle cx="204.0" cy="194.2" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/variants/s8/r25k2n4k2r8k31db32k8/"><circle cx="240.0" cy="182.0" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><a href="/variants/s7/r12b18k1r4k1dg6k2~x2/"><circle cx="238.0" cy="163.7" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/variants/s8/k4r37db37r2db37g37r37k4~x2/"><circle cx="234.4" cy="191.1" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/variants/s5/db2r20dg20k21r1~x2/"><circle cx="216.2" cy="199.2" r="4" fill="#3465a4"><title>Skene of Cromar (1885)</title></circle></a><a href="/variants/s8/k4r37db37r2db37g37r37k4/"><circle cx="228.2" cy="189.0" r="4" fill="#3465a4"><title>Skene, of Cromar</title></circle></a><a href="/variants/s7/r12b18k1r4k1g6k2~x2/"><circle cx="237.4" cy="163.4" r="4" fill="#3465a4"><title>Confederate (Military)</title></circle></a><a href="/variants/s7/db1r5dg18r4db9r10w1~x4/"><circle cx="249.2" cy="180.7" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s6/w3g15db18r15g1r2~x2/"><circle cx="205.1" cy="188.0" r="4" fill="#3465a4"><title>Nibley</title></circle></a><circle cx="224.2" cy="180.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/w3dg18db22r19dg1r2~x2/

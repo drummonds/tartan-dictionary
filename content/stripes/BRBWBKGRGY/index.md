@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Logan Rogers](/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/)|
-|![Logan Rogers example sett](/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/sett.png)|
+| [Logan Rogers](/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/)|
+|![Logan Rogers example sett](/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/sett.png)|

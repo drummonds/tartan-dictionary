@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alexander-Johnstone (Personal)](/setts/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/)|
-|![Alexander-Johnstone (Personal) example sett](/setts/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/sett.png)|
+| [Alexander-Johnstone (Personal)](/variants/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/)|
+|![Alexander-Johnstone (Personal) example sett](/variants/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/sett.png)|

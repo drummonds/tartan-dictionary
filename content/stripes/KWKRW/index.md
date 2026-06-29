@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Knights Templar Htg (Corporate)](/setts/s5/k22w1k12r43w1~x2/)|
-|![Knights Templar Htg (Corporate) example sett](/setts/s5/k22w1k12r43w1~x2/sett.png)|
+| [Knights Templar Htg (Corporate)](/variants/s5/k22w1k12r43w1~x2/)|
+|![Knights Templar Htg (Corporate) example sett](/variants/s5/k22w1k12r43w1~x2/sett.png)|

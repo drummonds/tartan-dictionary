@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Miyuki, House Check Grey, 1003A](/setts/s18/n12lb14r3y6lb10n28lb10y6r3lb8y10lb8r3y6lb40n6lb6n6/)|
-|![Miyuki, House Check Grey, 1003A example sett](/setts/s18/n12lb14r3y6lb10n28lb10y6r3lb8y10lb8r3y6lb40n6lb6n6/sett.png)|
+| [Miyuki, House Check Grey, 1003A](/variants/s18/n12lb14r3y6lb10n28lb10y6r3lb8y10lb8r3y6lb40n6lb6n6/)|
+|![Miyuki, House Check Grey, 1003A example sett](/variants/s18/n12lb14r3y6lb10n28lb10y6r3lb8y10lb8r3y6lb40n6lb6n6/sett.png)|

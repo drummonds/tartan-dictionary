@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Centennial](/setts/s8/r3w6r2dg32db36k2db4lo2~x2/)|
-|![Canadian Centennial example sett](/setts/s8/r3w6r2dg32db36k2db4lo2~x2/sett.png)|
-| [Canadian Centennial](/setts/s8/r3w6r2g32db36k2db4ly2~x2/)|
-|![Canadian Centennial example sett](/setts/s8/r3w6r2g32db36k2db4ly2~x2/sett.png)|
+| [Canadian Centennial](/variants/s8/r3w6r2dg32db36k2db4lo2~x2/)|
+|![Canadian Centennial example sett](/variants/s8/r3w6r2dg32db36k2db4lo2~x2/sett.png)|
+| [Canadian Centennial](/variants/s8/r3w6r2g32db36k2db4ly2~x2/)|
+|![Canadian Centennial example sett](/variants/s8/r3w6r2g32db36k2db4ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Verdon](/setts/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/)|
-|![Verdon example sett](/setts/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/sett.png)|
+| [Verdon](/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/)|
+|![Verdon example sett](/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/sett.png)|

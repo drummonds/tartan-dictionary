@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thirkill](/setts/s9/w4k2r15k2r5y7dg7k2ly4~x2/)|
-|![Thirkill example sett](/setts/s9/w4k2r15k2r5y7dg7k2ly4~x2/sett.png)|
+| [Thirkill](/variants/s9/w4k2r15k2r5y7dg7k2ly4~x2/)|
+|![Thirkill example sett](/variants/s9/w4k2r15k2r5y7dg7k2ly4~x2/sett.png)|

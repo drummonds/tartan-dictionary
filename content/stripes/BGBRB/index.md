@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lloyd (Welsh Name)](/setts/s5/dt40o2dt20g19db2/)|
-|![Lloyd (Welsh Name) example sett](/setts/s5/dt40o2dt20g19db2/sett.png)|
-| [Wyeth (Personal)](/setts/s5/db18r18dp2g12db1~x4/)|
-|![Wyeth (Personal) example sett](/setts/s5/db18r18dp2g12db1~x4/sett.png)|
+| [Lloyd (Welsh Name)](/variants/s5/dt40o2dt20g19db2/)|
+|![Lloyd (Welsh Name) example sett](/variants/s5/dt40o2dt20g19db2/sett.png)|
+| [Wyeth (Personal)](/variants/s5/db18r18dp2g12db1~x4/)|
+|![Wyeth (Personal) example sett](/variants/s5/db18r18dp2g12db1~x4/sett.png)|

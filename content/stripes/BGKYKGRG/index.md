@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Livingstone Aus. Dress (Personal)](/setts/s8/db24g4k2ly1k2g4r25g15~x2/)|
-|![Livingstone Aus. Dress (Personal) example sett](/setts/s8/db24g4k2ly1k2g4r25g15~x2/sett.png)|
+| [Livingstone Aus. Dress (Personal)](/variants/s8/db24g4k2ly1k2g4r25g15~x2/)|
+|![Livingstone Aus. Dress (Personal) example sett](/variants/s8/db24g4k2ly1k2g4r25g15~x2/sett.png)|

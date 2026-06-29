@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Protheroe of Wales](/setts/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/)|
-|![Protheroe of Wales example sett](/setts/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/sett.png)|
+| [Protheroe of Wales](/variants/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/)|
+|![Protheroe of Wales example sett](/variants/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/sett.png)|

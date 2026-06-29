@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allen hunting](/setts/s25/b22r1lo4b4lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo9o24db2~x4/)|
-|![Allen hunting example sett](/setts/s25/b22r1lo4b4lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo9o24db2~x4/sett.png)|
+| [Allen hunting](/variants/s25/b22r1lo4b4lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo9o24db2~x4/)|
+|![Allen hunting example sett](/variants/s25/b22r1lo4b4lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo1b1lo9o24db2~x4/sett.png)|

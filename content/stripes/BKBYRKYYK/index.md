@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGurk (Personal)](/setts/s9/db8k4db31lo5r26k5ly10lo5k2/)|
-|![McGurk (Personal) example sett](/setts/s9/db8k4db31lo5r26k5ly10lo5k2/sett.png)|
+| [McGurk (Personal)](/variants/s9/db8k4db31lo5r26k5ly10lo5k2/)|
+|![McGurk (Personal) example sett](/variants/s9/db8k4db31lo5r26k5ly10lo5k2/sett.png)|

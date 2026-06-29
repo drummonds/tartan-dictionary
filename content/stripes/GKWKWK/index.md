@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Zealand (2000)](/setts/s6/k21lb2k5lb9k13g2~x4/)|
-|![New Zealand (2000) example sett](/setts/s6/k21lb2k5lb9k13g2~x4/sett.png)|
-| [New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k21w2k5w9k13g2~x4/)|
-|![New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/k21w2k5w9k13g2~x4/sett.png)|
+| [New Zealand (2000)](/variants/s6/k21lb2k5lb9k13g2~x4/)|
+|![New Zealand (2000) example sett](/variants/s6/k21lb2k5lb9k13g2~x4/sett.png)|
+| [New Zealand District Tartan](/variants/s6/k21w2k5w9k13g2~x4/)|
+|![New Zealand District Tartan example sett](/variants/s6/k21w2k5w9k13g2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Fancy](/setts/s6/g4dy25g6t12g12t3~x2/)|
-|![Canadian Fancy example sett](/setts/s6/g4dy25g6t12g12t3~x2/sett.png)|
+| [Canadian Fancy](/variants/s6/g4dy25g6t12g12t3~x2/)|
+|![Canadian Fancy example sett](/variants/s6/g4dy25g6t12g12t3~x2/sett.png)|

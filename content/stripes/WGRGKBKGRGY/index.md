@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Tay (District)](/setts/s11/lo3y3r2y16k2db24k2y16r2y3lb3~x2/)|
-|![Loch Tay (District) example sett](/setts/s11/lo3y3r2y16k2db24k2y16r2y3lb3~x2/sett.png)|
+| [Loch Tay (District)](/variants/s11/lo3y3r2y16k2db24k2y16r2y3lb3~x2/)|
+|![Loch Tay (District) example sett](/variants/s11/lo3y3r2y16k2db24k2y16r2y3lb3~x2/sett.png)|

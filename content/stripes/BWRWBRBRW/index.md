@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snoozzzeee (Corporate)](/setts/s9/lb6r3db36r4db12lb24r72lb8db4/)|
-|![Snoozzzeee (Corporate) example sett](/setts/s9/lb6r3db36r4db12lb24r72lb8db4/sett.png)|
+| [Snoozzzeee (Corporate)](/variants/s9/lb6r3db36r4db12lb24r72lb8db4/)|
+|![Snoozzzeee (Corporate) example sett](/variants/s9/lb6r3db36r4db12lb24r72lb8db4/sett.png)|

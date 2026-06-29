@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ballantyne (Personal) STWR](/setts/s8/db34dy9ly3dy9y30r3y11r5/)|
-|![Ballantyne (Personal) STWR example sett](/setts/s8/db34dy9ly3dy9y30r3y11r5/sett.png)|
+| [Ballantyne (Personal) STWR](/variants/s8/db34dy9ly3dy9y30r3y11r5/)|
+|![Ballantyne (Personal) STWR example sett](/variants/s8/db34dy9ly3dy9y30r3y11r5/sett.png)|

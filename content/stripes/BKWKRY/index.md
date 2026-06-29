@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galicia](/setts/s6/t53k2w53k2r4ly7~x2/)|
-|![Galicia example sett](/setts/s6/t53k2w53k2r4ly7~x2/sett.png)|
+| [Galicia](/variants/s6/t53k2w53k2r4ly7~x2/)|
+|![Galicia example sett](/variants/s6/t53k2w53k2r4ly7~x2/sett.png)|

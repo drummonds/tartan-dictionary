@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baudoux et amis picards](/setts/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/)|
-|![Baudoux et amis picards example sett](/setts/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/sett.png)|
+| [Baudoux et amis picards](/variants/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/)|
+|![Baudoux et amis picards example sett](/variants/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/sett.png)|

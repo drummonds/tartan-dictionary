@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tullis Russell](/setts/s12/db9k16db9r7db4r9w2r2b2r9db4r7~x2/)|
-|![Tullis Russell example sett](/setts/s12/db9k16db9r7db4r9w2r2b2r9db4r7~x2/sett.png)|
+| [Tullis Russell](/variants/s12/db9k16db9r7db4r9w2r2b2r9db4r7~x2/)|
+|![Tullis Russell example sett](/variants/s12/db9k16db9r7db4r9w2r2b2r9db4r7~x2/sett.png)|

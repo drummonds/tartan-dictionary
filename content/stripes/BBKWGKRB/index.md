@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moran (Coilessan) (Personal)](/setts/s8/t26db13k13w2g8k5r3t3~x2/)|
-|![Moran (Coilessan) (Personal) example sett](/setts/s8/t26db13k13w2g8k5r3t3~x2/sett.png)|
+| [Moran (Coilessan) (Personal)](/variants/s8/t26db13k13w2g8k5r3t3~x2/)|
+|![Moran (Coilessan) (Personal) example sett](/variants/s8/t26db13k13w2g8k5r3t3~x2/sett.png)|

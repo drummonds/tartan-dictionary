@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crieff Red Dress (Dance)](/setts/s13/k2g2w2g3w33r2dp10r3g3r26g2r4ri2~x2/)|
-|![Crieff Red Dress (Dance) example sett](/setts/s13/k2g2w2g3w33r2dp10r3g3r26g2r4ri2~x2/sett.png)|
+| [Crieff Red Dress (Dance)](/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4ri2~x2/)|
+|![Crieff Red Dress (Dance) example sett](/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4ri2~x2/sett.png)|

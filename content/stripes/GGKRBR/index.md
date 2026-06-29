@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacWilliam (Clan)](/setts/s6/dy2g12k10r1b16r2~x4/)|
-|![MacWilliam (Clan) example sett](/setts/s6/dy2g12k10r1b16r2~x4/sett.png)|
-| [MacWilliam Clan Tartan Tartan Number: 1417. Earliest known date: pre 1880 Mentioned in the pattern book 'Clans Originaux' produced in Paris in 1880 by J. Claude Fres Et Cie. It is similar in style and colour to the MacKay tartan both from Sutherland in the North of Scotland See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dy2g12k10r1db16r2~x2/)|
-|![MacWilliam Clan Tartan Tartan Number: 1417. Earliest known date: pre 1880 Mentioned in the pattern book 'Clans Originaux' produced in Paris in 1880 by J. Claude Fres Et Cie. It is similar in style and colour to the MacKay tartan both from Sutherland in the North of Scotland See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/dy2g12k10r1db16r2~x2/sett.png)|
-| [MacWilliam Hunting](/setts/s6/dy2dg44k10r1db16r1~x2/)|
-|![MacWilliam Hunting example sett](/setts/s6/dy2dg44k10r1db16r1~x2/sett.png)|
+| [MacWilliam (Clan)](/variants/s6/dy2g12k10r1b16r2~x4/)|
+|![MacWilliam (Clan) example sett](/variants/s6/dy2g12k10r1b16r2~x4/sett.png)|
+| [MacWilliam Clan Tartan](/variants/s6/dy2g12k10r1db16r2~x2/)|
+|![MacWilliam Clan Tartan example sett](/variants/s6/dy2g12k10r1db16r2~x2/sett.png)|
+| [MacWilliam Hunting](/variants/s6/dy2dg44k10r1db16r1~x2/)|
+|![MacWilliam Hunting example sett](/variants/s6/dy2dg44k10r1db16r1~x2/sett.png)|

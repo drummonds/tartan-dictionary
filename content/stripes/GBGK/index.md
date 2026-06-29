@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCurdie (Clan?)](/setts/s4/k5g14db12g4~x4/)|
-|![MacCurdie (Clan?) example sett](/setts/s4/k5g14db12g4~x4/sett.png)|
+| [MacCurdie (Clan?)](/variants/s4/k5g14db12g4~x4/)|
+|![MacCurdie (Clan?) example sett](/variants/s4/k5g14db12g4~x4/sett.png)|

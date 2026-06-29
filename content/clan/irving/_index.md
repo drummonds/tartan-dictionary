@@ -2,6 +2,12 @@
 title: "Clan Irving"
 date: 2023-03-18
 ---
+*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+
+## Tartan
+
+<a class="tartan" href="/variants/s5/g27gi14dt2gi2ly2~x4/"><img src="/variants/s5/g27gi14dt2gi2ly2~x4/sett.png" alt="Irving of Bonshaw" width="240"><br>Irving of Bonshaw</a>
+
 ## Families
 
 - [Irving of Bonshaw](/families/irving-of-bonshaw/)

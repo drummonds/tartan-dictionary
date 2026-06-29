@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Langerman (Anchorage)](/setts/s16/db1y2db1y3dg6db1y6db2r5ri13do23r1do1r1do2r1~x2/)|
-|![Langerman (Anchorage) example sett](/setts/s16/db1y2db1y3dg6db1y6db2r5ri13do23r1do1r1do2r1~x2/sett.png)|
+| [Langerman (Anchorage)](/variants/s16/db1y2db1y3dg6db1y6db2r5ri13do23r1do1r1do2r1~x2/)|
+|![Langerman (Anchorage) example sett](/variants/s16/db1y2db1y3dg6db1y6db2r5ri13do23r1do1r1do2r1~x2/sett.png)|

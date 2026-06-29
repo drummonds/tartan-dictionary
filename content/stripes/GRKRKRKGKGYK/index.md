@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hampson (Name)](/setts/s12/k2ly2g2k2g17k2r2k2r17k2r5g2~x2/)|
-|![Hampson (Name) example sett](/setts/s12/k2ly2g2k2g17k2r2k2r17k2r5g2~x2/sett.png)|
+| [Hampson (Name)](/variants/s12/k2ly2g2k2g17k2r2k2r17k2r5g2~x2/)|
+|![Hampson (Name) example sett](/variants/s12/k2ly2g2k2g17k2r2k2r17k2r5g2~x2/sett.png)|

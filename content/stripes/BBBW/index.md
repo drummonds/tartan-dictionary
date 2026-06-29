@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx Cornaa (Personal)](/setts/s4/t1db5t5w1~x4/)|
-|![Manx Cornaa (Personal) example sett](/setts/s4/t1db5t5w1~x4/sett.png)|
-| [Manx, Cornaa](/setts/s4/b1db5b5w1~x4/)|
-|![Manx, Cornaa example sett](/setts/s4/b1db5b5w1~x4/sett.png)|
+| [Manx Cornaa (Personal)](/variants/s4/t1db5t5w1~x4/)|
+|![Manx Cornaa (Personal) example sett](/variants/s4/t1db5t5w1~x4/sett.png)|
+| [Manx, Cornaa](/variants/s4/b1db5b5w1~x4/)|
+|![Manx, Cornaa example sett](/variants/s4/b1db5b5w1~x4/sett.png)|

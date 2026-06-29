@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNeil](/setts/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/)|
-|![MacNeil example sett](/setts/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/sett.png)|
+| [MacNeil](/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/)|
+|![MacNeil example sett](/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dabney Grey (Personal)](/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/)|
-|![Dabney Grey (Personal) example sett](/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/sett.png)|
+| [Dabney Grey (Personal)](/variants/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/)|
+|![Dabney Grey (Personal) example sett](/variants/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/sett.png)|

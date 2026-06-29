@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-Spirit of Northmen (Corporate)](/setts/s5/r3k1b27k27w3~x2/)|
-|![Bro-Spirit of Northmen (Corporate) example sett](/setts/s5/r3k1b27k27w3~x2/sett.png)|
+| [Bro-Spirit of Northmen (Corporate)](/variants/s5/r3k1b27k27w3~x2/)|
+|![Bro-Spirit of Northmen (Corporate) example sett](/variants/s5/r3k1b27k27w3~x2/sett.png)|

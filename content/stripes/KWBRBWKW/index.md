@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Military Tattoo Dress](/setts/s8/k6w11b11r13db17w10k2w4~x2/)|
-|![Edinburgh Military Tattoo Dress example sett](/setts/s8/k6w11b11r13db17w10k2w4~x2/sett.png)|
-| [Edinburgh Tatttoo Dress (Corporate)](/setts/s8/k6w11t11r13db17w10k2w4~x2/)|
-|![Edinburgh Tatttoo Dress (Corporate) example sett](/setts/s8/k6w11t11r13db17w10k2w4~x2/sett.png)|
+| [Edinburgh Military Tattoo Dress](/variants/s8/k6w11b11r13db17w10k2w4~x2/)|
+|![Edinburgh Military Tattoo Dress example sett](/variants/s8/k6w11b11r13db17w10k2w4~x2/sett.png)|
+| [Edinburgh Tatttoo Dress (Corporate)](/variants/s8/k6w11t11r13db17w10k2w4~x2/)|
+|![Edinburgh Tatttoo Dress (Corporate) example sett](/variants/s8/k6w11t11r13db17w10k2w4~x2/sett.png)|

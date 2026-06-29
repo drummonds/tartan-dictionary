@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Volkswagen Orange Trim (Fashion)](/setts/s6/lo26k10lo3g3lo3k3~x6/)|
-|![Volkswagen Orange Trim (Fashion) example sett](/setts/s6/lo26k10lo3g3lo3k3~x6/sett.png)|
+| [Volkswagen Orange Trim (Fashion)](/variants/s6/lo26k10lo3g3lo3k3~x6/)|
+|![Volkswagen Orange Trim (Fashion) example sett](/variants/s6/lo26k10lo3g3lo3k3~x6/sett.png)|

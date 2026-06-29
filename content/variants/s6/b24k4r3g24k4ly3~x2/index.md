@@ -1,0 +1,56 @@
+---
+title: "(1) Skene"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b24k4r3g24k4ly3/)
+(the same proportion at any scale), whose colour order is pattern [BKRGKY](/stripes/bkrgky/).
+
+Part of the [Skene](/tartans/skene/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Logan, or Skene
+- Skene #2
+
+## Thread count
+B/48 K8 R6 G48 K8 LG/6
+
+One full sett is **194 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Ingles Buchan</strong> <small style="color:#888">(1 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#0004FF;"><span style="color:#0004FF;filter:grayscale(1) invert(1) contrast(100);">#0004FF</span></code> <small style="color:#888">#0004FF</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(45.3% 0.312 264.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#BE414D;"><span style="color:#BE414D;filter:grayscale(1) invert(1) contrast(100);">#BE414D</span></code> <small style="color:#888">#BE414D</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(55.4% 0.160 18.5)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#007D00;"><span style="color:#007D00;filter:grayscale(1) invert(1) contrast(100);">#007D00</span></code> <small style="color:#888">#007D00</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(51.1% 0.174 142.5)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#DFB675;"><span style="color:#DFB675;filter:grayscale(1) invert(1) contrast(100);">#DFB675</span></code> <small style="color:#888">#DFB675</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(79.8% 0.095 78.3)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="B/48 K8 R6 G48 K8 LG/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/db6r3g1r3g12r3g1/"><img src="/variants/s12/db6r3g1r3g12r3g1~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/db6r3g1r3g12r3g1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=b24k4r3g24k4ly3~x2">(1) Skene</a> <a class="nn-out" href="/variants/s6/b24k4r3g24k4ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/b24k4r3g24k4ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=w4k24ly2n24t5k4ly4~x2&amp;base=b24k4r3g24k4ly3~x2">Mina Perhonen</a> <a class="nn-out" href="/variants/s7/w4k24ly2n24t5k4ly4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w4k24ly2n24t5k4ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=k2lt2g8db8w1~x2&amp;base=b24k4r3g24k4ly3~x2">Douglas</a> <a class="nn-out" href="/variants/s5/k2lt2g8db8w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2lt2g8db8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=r2t2r2t21lg11k17lb2~x2&amp;base=b24k4r3g24k4ly3~x2">Loch Ness (Fashion)</a> <a class="nn-out" href="/variants/s7/r2t2r2t21lg11k17lb2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2t2r2t21lg11k17lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=g2db14lg6lr1g1lr6r1~x4&amp;base=b24k4r3g24k4ly3~x2">Loch Ness in Scotland</a> <a class="nn-out" href="/variants/s7/g2db14lg6lr1g1lr6r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g2db14lg6lr1g1lr6r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.37</div><div class="nn-name"><a href="/ttd/edit/#slug=dg12b8db4ly2r1ly1db6~x4&amp;base=b24k4r3g24k4ly3~x2">F.I.A.T.A. Congress of 1990</a> <a class="nn-out" href="/variants/s7/dg12b8db4ly2r1ly1db6~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg12b8db4ly2r1ly1db6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.40</div><div class="nn-name"><a href="/ttd/edit/#slug=db2b9r1db5g5lb2~x4&amp;base=b24k4r3g24k4ly3~x2">American Express</a> <a class="nn-out" href="/variants/s6/db2b9r1db5g5lb2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2b9r1db5g5lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.41</div><div class="nn-name"><a href="/ttd/edit/#slug=g12db3g3db3g3k15lg20b3~x2&amp;base=b24k4r3g24k4ly3~x2">Lemania</a> <a class="nn-out" href="/variants/s8/g12db3g3db3g3k15lg20b3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g12db3g3db3g3k15lg20b3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=k3lo1lb9lo1db9k3t1~x4&amp;base=b24k4r3g24k4ly3~x2">St. Francis Xavier University</a> <a class="nn-out" href="/variants/s7/k3lo1lb9lo1db9k3t1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k3lo1lb9lo1db9k3t1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/ttd/edit/#slug=b15k2w2k2w2k16lr22ly2~x4&amp;base=b24k4r3g24k4ly3~x2">Sneddon, Jonathan Taylor (Personal)</a> <a class="nn-out" href="/variants/s8/b15k2w2k2w2k16lr22ly2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/b15k2w2k2w2k16lr22ly2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.49</div><div class="nn-name"><a href="/variants/s7/k2b16w2ki16w15k2w2~x2/">Strathclyde</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k2b16w2ki16w15k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w4k24ly2n24t5k4ly4~x2/"><circle cx="187.2" cy="169.3" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s5/k2lt2g8db8w1~x2/"><circle cx="135.2" cy="213.2" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.2" cy="171.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/variants/s7/g2db14lg6lr1g1lr6r1~x4/"><circle cx="199.8" cy="157.5" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s7/dg12b8db4ly2r1ly1db6~x4/"><circle cx="148.7" cy="190.0" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s6/db2b9r1db5g5lb2~x4/"><circle cx="129.1" cy="209.7" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s8/g12db3g3db3g3k15lg20b3~x2/"><circle cx="110.3" cy="198.5" r="4" fill="#3465a4"><title>Lemania</title></circle></a><a href="/variants/s7/k3lo1lb9lo1db9k3t1~x4/"><circle cx="110.6" cy="169.7" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s8/b15k2w2k2w2k16lr22ly2~x4/"><circle cx="134.4" cy="148.3" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s7/k2b16w2ki16w15k2w2~x2/"><circle cx="128.7" cy="189.2" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><circle cx="152.3" cy="189.7" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/b24k4r3g24k4ly3~x2/

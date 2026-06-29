@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Newlands, Charlie (Personal)](/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/)|
-|![Newlands, Charlie (Personal) example sett](/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/sett.png)|
+| [Newlands, Charlie (Personal)](/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/)|
+|![Newlands, Charlie (Personal) example sett](/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/sett.png)|

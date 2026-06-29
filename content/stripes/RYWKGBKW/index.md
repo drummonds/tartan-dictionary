@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Iowa Dress (District)](/setts/s8/r4ly3w12k16g5db20k4w2~x2/)|
-|![Iowa Dress (District) example sett](/setts/s8/r4ly3w12k16g5db20k4w2~x2/sett.png)|
+| [Iowa Dress (District)](/variants/s8/r4ly3w12k16g5db20k4w2~x2/)|
+|![Iowa Dress (District) example sett](/variants/s8/r4ly3w12k16g5db20k4w2~x2/sett.png)|

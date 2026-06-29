@@ -1,0 +1,63 @@
+---
+title: "Justus (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1k4r1k1lo1k4db1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKYKB](/stripes/bkrkykb/).
+
+Part of the [Justus](/tartans/justus/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1916
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Justus #1
+- Justus #2
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1990 — Justus (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1916">record</a>)</li>
+<li>1990 — Justus #1 (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2100/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1916](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1916)
+- Scottish Tartans Authority (ITI): 2100
+- Scottish Tartans World Register: 2100
+
+## Thread count
+DB/12 K48 DR12 K12 DY12 K48 DB/12
+
+One full sett is **288 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> <small style="color:#888">#1C0070</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.3% 0.162 277.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> <small style="color:#888">#880000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.4% 0.162 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> <small style="color:#888">#D09800</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(71.4% 0.147 82.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> <small style="color:#888">#1C0070</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.3% 0.162 277.1)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DB/12 K48 DR12 K12 DY12 K48 DB/12 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=db1k4r1k1lo1k4db1~x12">Justus (Personal)</a> <a class="nn-out" href="/variants/s7/db1k4r1k1lo1k4db1~x12/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/db1k4r1k1lo1k4db1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=db1k4r1k1ly1k4db1~x6&amp;base=db1k4r1k1lo1k4db1~x12">Justus Family Tartan</a> <a class="nn-out" href="/variants/s7/db1k4r1k1ly1k4db1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1k4r1k1ly1k4db1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.69</div><div class="nn-name"><a href="/ttd/edit/#slug=k16b2k8r3lr3r3k8~x2&amp;base=db1k4r1k1lo1k4db1~x12">Benson (New England)</a> <a class="nn-out" href="/variants/s7/k16b2k8r3lr3r3k8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k16b2k8r3lr3r3k8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.81</div><div class="nn-name"><a href="/ttd/edit/#slug=k25ly5k5g25k25b3k10~x2&amp;base=db1k4r1k1lo1k4db1~x12">London Community Gospel Choir</a> <a class="nn-out" href="/variants/s7/k25ly5k5g25k25b3k10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k25ly5k5g25k25b3k10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.83</div><div class="nn-name"><a href="/ttd/edit/#slug=k17r6k2lb6k17lo2~x2&amp;base=db1k4r1k1lo1k4db1~x12">Black (symmetrical)</a> <a class="nn-out" href="/variants/s6/k17r6k2lb6k17lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k17r6k2lb6k17lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.92</div><div class="nn-name"><a href="/ttd/edit/#slug=r4k11n8dg2n8k13dg2k13r5k2~x2&amp;base=db1k4r1k1lo1k4db1~x12">Process Safety Solutions Ltd</a> <a class="nn-out" href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.99</div><div class="nn-name"><a href="/ttd/edit/#slug=gi10k3gi3k20dp3k5g3k20gi3k3gi10~x2&amp;base=db1k4r1k1lo1k4db1~x12">Pike (Personal)</a> <a class="nn-out" href="/variants/s11/gi10k3gi3k20dp3k5g3k20gi3k3gi10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/gi10k3gi3k20dp3k5g3k20gi3k3gi10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">2.00</div><div class="nn-name"><a href="/ttd/edit/#slug=db24w4db24lo4r5k4~x2&amp;base=db1k4r1k1lo1k4db1~x12">de Grussa (Personal)</a> <a class="nn-out" href="/variants/s6/db24w4db24lo4r5k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db24w4db24lo4r5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.01</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=db6r15dg41r15db20dg41dbi6&amp;base=db1k4r1k1lo1k4db1~x12">Bean Hunting Clan Tartan</a> <a class="nn-out" href="/variants/s7/db6r15dg41r15db20dg41dbi6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db6r15dg41r15db20dg41dbi6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.01</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=t3k16dg16k16db3t3~x2&amp;base=db1k4r1k1lo1k4db1~x12">Murray</a> <a class="nn-out" href="/variants/s6/t3k16dg16k16db3t3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t3k16dg16k16db3t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.03</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=k25lo5k5dg25k25db3k10~x2&amp;base=db1k4r1k1lo1k4db1~x12">London Community Gospel Choir, The</a> <a class="nn-out" href="/variants/s7/k25lo5k5dg25k25db3k10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k25lo5k5dg25k25db3k10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db1k4r1k1ly1k4db1~x6/"><circle cx="335.4" cy="257.0" r="4" fill="#3465a4"><title>Justus Family Tartan</title></circle></a><a href="/variants/s7/k16b2k8r3lr3r3k8~x2/"><circle cx="402.8" cy="229.1" r="4" fill="#3465a4"><title>Benson (New England)</title></circle></a><a href="/variants/s7/k25ly5k5g25k25b3k10~x2/"><circle cx="350.0" cy="242.7" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><a href="/variants/s6/k17r6k2lb6k17lo2~x2/"><circle cx="380.7" cy="228.4" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="293.9" cy="250.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s11/gi10k3gi3k20dp3k5g3k20gi3k3gi10~x2/"><circle cx="338.8" cy="227.2" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/variants/s6/db24w4db24lo4r5k4~x2/"><circle cx="376.5" cy="221.6" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/variants/s7/db6r15dg41r15db20dg41dbi6/"><circle cx="306.2" cy="259.4" r="4" fill="#3465a4"><title>Bean Hunting Clan Tartan</title></circle></a><a href="/variants/s6/t3k16dg16k16db3t3~x2/"><circle cx="300.9" cy="282.5" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s7/k25lo5k5dg25k25db3k10~x2/"><circle cx="408.3" cy="274.2" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><circle cx="361.1" cy="272.0" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/db1k4r1k1lo1k4db1~x12/

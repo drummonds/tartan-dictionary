@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shandon (Personal)](/setts/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/)|
-|![Shandon (Personal) example sett](/setts/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/sett.png)|
+| [Shandon (Personal)](/variants/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/)|
+|![Shandon (Personal) example sett](/variants/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/sett.png)|

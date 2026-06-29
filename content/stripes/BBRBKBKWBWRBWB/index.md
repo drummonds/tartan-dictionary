@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orkney Heather](/setts/s14/db4lp2db2m4lp2db8lp2k2n43k2n43m2db8n2/)|
-|![Orkney Heather example sett](/setts/s14/db4lp2db2m4lp2db8lp2k2n43k2n43m2db8n2/sett.png)|
+| [Orkney Heather](/variants/s14/db4lp2db2m4lp2db8lp2k2n43k2n43m2db8n2/)|
+|![Orkney Heather example sett](/variants/s14/db4lp2db2m4lp2db8lp2k2n43k2n43m2db8n2/sett.png)|

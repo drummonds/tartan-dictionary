@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s4/r36g2r5g16~x2/"><img src="/setts/s4/r36g2r5g16~x2/sett.png" alt="MacDonald of Sleat" width="240"><br>MacDonald of Sleat</a>
+<a class="tartan" href="/variants/s4/r36g2r5g16~x2/"><img src="/variants/s4/r36g2r5g16~x2/sett.png" alt="MacDonald of Sleat" width="240"><br>MacDonald of Sleat</a>
 

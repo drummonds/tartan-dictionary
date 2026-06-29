@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kansai2](/setts/s16/t2r1t8g7ri1b6o1r1w1~x4/)|
-|![Kansai2 example sett](/setts/s16/t2r1t8g7ri1b6o1r1w1~x4/sett.png)|
+| [Kansai2](/variants/s16/t2r1t8g7ri1b6o1r1w1~x4/)|
+|![Kansai2 example sett](/variants/s16/t2r1t8g7ri1b6o1r1w1~x4/sett.png)|

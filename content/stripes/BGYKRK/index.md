@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Swamp Youth Campers](/setts/s6/k8r2k13lo2dg48b6~x2/)|
-|![Green Swamp Youth Campers example sett](/setts/s6/k8r2k13lo2dg48b6~x2/sett.png)|
-| [Green Swamp Youth Campers](/setts/s6/k8r2k13ly2dg48db6~x2/)|
-|![Green Swamp Youth Campers example sett](/setts/s6/k8r2k13ly2dg48db6~x2/sett.png)|
+| [Green Swamp Youth Campers](/variants/s6/k8r2k13lo2dg48b6~x2/)|
+|![Green Swamp Youth Campers example sett](/variants/s6/k8r2k13lo2dg48b6~x2/sett.png)|
+| [Green Swamp Youth Campers](/variants/s6/k8r2k13ly2dg48db6~x2/)|
+|![Green Swamp Youth Campers example sett](/variants/s6/k8r2k13ly2dg48db6~x2/sett.png)|

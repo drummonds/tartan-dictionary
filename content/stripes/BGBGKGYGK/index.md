@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oliver Hunting - 1973 (Clan)](/setts/s9/t62g5t3g22k3g3ly3g3k6~x2/)|
-|![Oliver Hunting - 1973 (Clan) example sett](/setts/s9/t62g5t3g22k3g3ly3g3k6~x2/sett.png)|
-| [Oliver, hunting](/setts/s9/db40g3db2g12k2g2ly2g2k3~x2/)|
-|![Oliver, hunting example sett](/setts/s9/db40g3db2g12k2g2ly2g2k3~x2/sett.png)|
+| [Oliver Hunting - 1973 (Clan)](/variants/s9/t62g5t3g22k3g3ly3g3k6~x2/)|
+|![Oliver Hunting - 1973 (Clan) example sett](/variants/s9/t62g5t3g22k3g3ly3g3k6~x2/sett.png)|
+| [Oliver, hunting](/variants/s9/db40g3db2g12k2g2ly2g2k3~x2/)|
+|![Oliver, hunting example sett](/variants/s9/db40g3db2g12k2g2ly2g2k3~x2/sett.png)|

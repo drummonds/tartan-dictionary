@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Urbino](/setts/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/)|
-|![Urbino example sett](/setts/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/sett.png)|
+| [Urbino](/variants/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/)|
+|![Urbino example sett](/variants/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/sett.png)|

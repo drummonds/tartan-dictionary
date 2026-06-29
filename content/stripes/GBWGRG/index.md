@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Patterson, John (Personal)](/setts/s6/dgi3db12w1dg12r12dg2~x2/)|
-|![Patterson, John (Personal) example sett](/setts/s6/dgi3db12w1dg12r12dg2~x2/sett.png)|
-| [Patterson, John (Personal)](/setts/s6/g3db12w1dg12r12dg2~x2/)|
-|![Patterson, John (Personal) example sett](/setts/s6/g3db12w1dg12r12dg2~x2/sett.png)|
+| [Patterson, John (Personal)](/variants/s6/dgi3db12w1dg12r12dg2~x2/)|
+|![Patterson, John (Personal) example sett](/variants/s6/dgi3db12w1dg12r12dg2~x2/sett.png)|
+| [Patterson, John (Personal)](/variants/s6/g3db12w1dg12r12dg2~x2/)|
+|![Patterson, John (Personal) example sett](/variants/s6/g3db12w1dg12r12dg2~x2/sett.png)|

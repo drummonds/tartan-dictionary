@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Princess Marina #2](/setts/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/)|
-|![Princess Marina #2 example sett](/setts/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/sett.png)|
-| [Princess Marina (Fashion)](/setts/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/)|
-|![Princess Marina (Fashion) example sett](/setts/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/sett.png)|
+| [Princess Marina #2](/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/)|
+|![Princess Marina #2 example sett](/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/sett.png)|
+| [Princess Marina (Fashion)](/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/)|
+|![Princess Marina (Fashion) example sett](/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/sett.png)|

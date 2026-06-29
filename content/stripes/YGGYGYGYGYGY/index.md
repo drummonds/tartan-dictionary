@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelso (Fashion)](/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/)|
-|![Kelso (Fashion) example sett](/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/sett.png)|
+| [Kelso (Fashion)](/variants/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/)|
+|![Kelso (Fashion) example sett](/variants/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/sett.png)|

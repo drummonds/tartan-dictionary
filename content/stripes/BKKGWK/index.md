@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Givens (Arizona)](/setts/s6/k42w5dg16k5k5db21~x2/)|
-|![Givens (Arizona) example sett](/setts/s6/k42w5dg16k5k5db21~x2/sett.png)|
+| [Givens (Arizona)](/variants/s6/k42w5dg16k5k5db21~x2/)|
+|![Givens (Arizona) example sett](/variants/s6/k42w5dg16k5k5db21~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ulster](/setts/s10/o28k2o28k2o2k2dr29k2r2k2~x2/)|
-|![Ulster example sett](/setts/s10/o28k2o28k2o2k2dr29k2r2k2~x2/sett.png)|
+| [Ulster](/variants/s10/o28k2o28k2o2k2dr29k2r2k2~x2/)|
+|![Ulster example sett](/variants/s10/o28k2o28k2o2k2dr29k2r2k2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lady Boys of Bangkok (Corporate)](/setts/s6/loi23r22m52r8w6lo18/)|
-|![Lady Boys of Bangkok (Corporate) example sett](/setts/s6/loi23r22m52r8w6lo18/sett.png)|
+| [Lady Boys of Bangkok (Corporate)](/variants/s6/loi23r22m52r8w6lo18/)|
+|![Lady Boys of Bangkok (Corporate) example sett](/variants/s6/loi23r22m52r8w6lo18/sett.png)|

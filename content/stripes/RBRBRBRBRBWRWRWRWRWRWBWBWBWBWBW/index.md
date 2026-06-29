@@ -24,5 +24,5 @@ It is a 31 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wcwm 1131](/setts/s31/o10do1o1do1o1do1o1do1o1do1lb1o1lb1o1lb1o1lb1o1lb1o1lb1do1lb1do1lb1do1lb1do1lb1do1lb10~x4/)|
-|![Wcwm 1131 example sett](/setts/s31/o10do1o1do1o1do1o1do1o1do1lb1o1lb1o1lb1o1lb1o1lb1o1lb1do1lb1do1lb1do1lb1do1lb1do1lb10~x4/sett.png)|
+| [Wcwm 1131](/variants/s31/o10do1o1do1o1do1o1do1o1do1lb1o1lb1o1lb1o1lb1o1lb1o1lb1do1lb1do1lb1do1lb1do1lb1do1lb10~x4/)|
+|![Wcwm 1131 example sett](/variants/s31/o10do1o1do1o1do1o1do1o1do1lb1o1lb1o1lb1o1lb1o1lb1o1lb1do1lb1do1lb1do1lb1do1lb1do1lb10~x4/sett.png)|

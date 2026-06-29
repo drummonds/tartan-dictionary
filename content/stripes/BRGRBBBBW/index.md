@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Japan-Scotland Society (Corporate)](/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/)|
-|![Japan-Scotland Society (Corporate) example sett](/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/sett.png)|
+| [Japan-Scotland Society (Corporate)](/variants/s9/dp12r1g4r2dp10t20db3t9w1~x2/)|
+|![Japan-Scotland Society (Corporate) example sett](/variants/s9/dp12r1g4r2dp10t20db3t9w1~x2/sett.png)|

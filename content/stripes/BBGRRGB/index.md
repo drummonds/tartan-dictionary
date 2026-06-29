@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dempster, Ross (Personal)](/setts/s7/db4dg2r17ri9dg10db30n2~x2/)|
-|![Dempster, Ross (Personal) example sett](/setts/s7/db4dg2r17ri9dg10db30n2~x2/sett.png)|
-| [Ross Dempster (Personal)](/setts/s7/db4dg2r18ri10dg10db29b4~x2/)|
-|![Ross Dempster (Personal) example sett](/setts/s7/db4dg2r18ri10dg10db29b4~x2/sett.png)|
+| [Dempster, Ross (Personal)](/variants/s7/db4dg2r17ri9dg10db30n2~x2/)|
+|![Dempster, Ross (Personal) example sett](/variants/s7/db4dg2r17ri9dg10db30n2~x2/sett.png)|
+| [Ross Dempster (Personal)](/variants/s7/db4dg2r18ri10dg10db29b4~x2/)|
+|![Ross Dempster (Personal) example sett](/variants/s7/db4dg2r18ri10dg10db29b4~x2/sett.png)|

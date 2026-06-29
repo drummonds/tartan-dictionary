@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Singer Sewing Machine Company](/setts/s8/db3w2k2r62db2k2ly2w2~x2/)|
-|![Singer Sewing Machine Company example sett](/setts/s8/db3w2k2r62db2k2ly2w2~x2/sett.png)|
+| [Singer Sewing Machine Company](/variants/s8/db3w2k2r62db2k2ly2w2~x2/)|
+|![Singer Sewing Machine Company example sett](/variants/s8/db3w2k2r62db2k2ly2w2~x2/sett.png)|

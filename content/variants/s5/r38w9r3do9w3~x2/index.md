@@ -1,0 +1,53 @@
+---
+title: "Loch Morar Trade Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r38w9r3do9w3/)
+(the same proportion at any scale), whose colour order is pattern [RWRBW](/stripes/rwrbw/).
+
+Part of the [Loch Morar](/tartans/loch-morar/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1701
+
+## Provenance
+
+Earliest known date: pre 2003 Nothing
+
+## Thread count
+R/76 LN18 R6 DR18 LN/6
+
+One full sett is **166 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">76</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> <small style="color:#888">#441800</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(27.3% 0.076 46.3)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/76 LN18 R6 DR18 LN/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r38w9r3k9w3/"><img src="/variants/s5/r38w9r3k9w3~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r38w9r3k9w3/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r38w9r3do9w3~x2">Loch Morar Trade Tartan</a> <a class="nn-out" href="/variants/s5/r38w9r3do9w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r38w9r3do9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.15</div><div class="nn-name"><a href="/ttd/edit/#slug=r38w9r3dr9w3~x2&amp;base=r38w9r3do9w3~x2">Loch Morar</a> <a class="nn-out" href="/variants/s5/r38w9r3dr9w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r38w9r3dr9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.13</div><div class="nn-name"><a href="/ttd/edit/#slug=ly3k2r10k1~x4&amp;base=r38w9r3do9w3~x2">Masai Shuka 26 (Artefact)</a> <a class="nn-out" href="/variants/s4/ly3k2r10k1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly3k2r10k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=r13lb3r1dg3lb1~x6&amp;base=r38w9r3do9w3~x2">Glen Shiel (Fashion)</a> <a class="nn-out" href="/variants/s5/r13lb3r1dg3lb1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r13lb3r1dg3lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=r125k26lb20lo16&amp;base=r38w9r3do9w3~x2">McPeek (Fashion)</a> <a class="nn-out" href="/variants/s4/r125k26lb20lo16/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r125k26lb20lo16/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=r48k12o7k5w3~x2&amp;base=r38w9r3do9w3~x2">Turner (Personal)</a> <a class="nn-out" href="/variants/s5/r48k12o7k5w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r48k12o7k5w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/ttd/edit/#slug=r4dg5r2k6r18k2r4~x2&amp;base=r38w9r3do9w3~x2">MacQuarrie #7</a> <a class="nn-out" href="/variants/s7/r4dg5r2k6r18k2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4dg5r2k6r18k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.38</div><div class="nn-name"><a href="/ttd/edit/#slug=r8w4r50k12r4k15g5~x2&amp;base=r38w9r3do9w3~x2">Instakilt, Red (Fashion)</a> <a class="nn-out" href="/variants/s7/r8w4r50k12r4k15g5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8w4r50k12r4k15g5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.42</div><div class="nn-name"><a href="/ttd/edit/#slug=r38w9r3k9w3~x2&amp;base=r38w9r3do9w3~x2">Loch Morar</a> <a class="nn-out" href="/variants/s5/r38w9r3k9w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r38w9r3k9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.45</div><div class="nn-name"><a href="/ttd/edit/#slug=ly8k3ly4k2r30ly6~x2&amp;base=r38w9r3do9w3~x2">Masai Shuka 16 (Artefact)</a> <a class="nn-out" href="/variants/s6/ly8k3ly4k2r30ly6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/ly8k3ly4k2r30ly6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.51</div><div class="nn-name"><a href="/ttd/edit/#slug=k2r1k2r14w1r1w1~x8&amp;base=r38w9r3do9w3~x2">White Stripes Dress, (Corporate)</a> <a class="nn-out" href="/variants/s7/k2r1k2r14w1r1w1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k2r1k2r14w1r1w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r38w9r3dr9w3~x2/"><circle cx="411.1" cy="183.0" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s4/ly3k2r10k1~x4/"><circle cx="365.8" cy="212.9" r="4" fill="#3465a4"><title>Masai Shuka 26 (Artefact)</title></circle></a><a href="/variants/s5/r13lb3r1dg3lb1~x6/"><circle cx="417.0" cy="193.1" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="375.1" cy="201.5" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s5/r48k12o7k5w3~x2/"><circle cx="393.7" cy="161.5" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s7/r4dg5r2k6r18k2r4~x2/"><circle cx="406.7" cy="204.2" r="4" fill="#3465a4"><title>MacQuarrie #7</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15g5~x2/"><circle cx="364.9" cy="150.8" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/variants/s5/r38w9r3k9w3~x2/"><circle cx="389.1" cy="183.5" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s6/ly8k3ly4k2r30ly6~x2/"><circle cx="360.4" cy="163.2" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="474.2" cy="146.4" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><circle cx="412.9" cy="182.7" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/r38w9r3do9w3~x2/

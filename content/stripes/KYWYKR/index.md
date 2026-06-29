@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canyon County Idaho Sheriff](/setts/s6/k5lo5w1lo5k5r1~x10/)|
-|![Canyon County Idaho Sheriff example sett](/setts/s6/k5lo5w1lo5k5r1~x10/sett.png)|
+| [Canyon County Idaho Sheriff](/variants/s6/k5lo5w1lo5k5r1~x10/)|
+|![Canyon County Idaho Sheriff example sett](/variants/s6/k5lo5w1lo5k5r1~x10/sett.png)|

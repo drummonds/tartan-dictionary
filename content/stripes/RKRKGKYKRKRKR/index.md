@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Firefighters' Memorial](/setts/s13/r4k2r3k35g7k2lo2k35ri6k8ri65k4ri4/)|
-|![Firefighters' Memorial example sett](/setts/s13/r4k2r3k35g7k2lo2k35ri6k8ri65k4ri4/sett.png)|
+| [Firefighters' Memorial](/variants/s13/r4k2r3k35g7k2lo2k35ri6k8ri65k4ri4/)|
+|![Firefighters' Memorial example sett](/variants/s13/r4k2r3k35g7k2lo2k35ri6k8ri65k4ri4/sett.png)|

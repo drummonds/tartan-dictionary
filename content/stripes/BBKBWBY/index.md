@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Icelandair](/setts/s7/db3t24k11db20w2db5lo3~x2/)|
-|![Icelandair example sett](/setts/s7/db3t24k11db20w2db5lo3~x2/sett.png)|
+| [Icelandair](/variants/s7/db3t24k11db20w2db5lo3~x2/)|
+|![Icelandair example sett](/variants/s7/db3t24k11db20w2db5lo3~x2/sett.png)|

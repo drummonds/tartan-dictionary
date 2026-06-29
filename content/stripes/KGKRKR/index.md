@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCormick (Dress)](/setts/s6/k3g13k10r13k2r3~x2/)|
-|![MacCormick (Dress) example sett](/setts/s6/k3g13k10r13k2r3~x2/sett.png)|
-| [Tartan TV](/setts/s6/r19k3r19k32g3k8~x2/)|
-|![Tartan TV example sett](/setts/s6/r19k3r19k32g3k8~x2/sett.png)|
+| [MacCormick (Dress)](/variants/s6/k3g13k10r13k2r3~x2/)|
+|![MacCormick (Dress) example sett](/variants/s6/k3g13k10r13k2r3~x2/sett.png)|
+| [Tartan TV](/variants/s6/r19k3r19k32g3k8~x2/)|
+|![Tartan TV example sett](/variants/s6/r19k3r19k32g3k8~x2/sett.png)|

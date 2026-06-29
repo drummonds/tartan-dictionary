@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Botherston (Name)](/setts/s8/r2lo24r2lo3r2g24k8ly2~x2/)|
-|![Botherston (Name) example sett](/setts/s8/r2lo24r2lo3r2g24k8ly2~x2/sett.png)|
+| [Botherston (Name)](/variants/s8/r2lo24r2lo3r2g24k8ly2~x2/)|
+|![Botherston (Name) example sett](/variants/s8/r2lo24r2lo3r2g24k8ly2~x2/sett.png)|

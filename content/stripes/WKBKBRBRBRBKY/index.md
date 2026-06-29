@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdale (Fashion)](/setts/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/)|
-|![Aberdale (Fashion) example sett](/setts/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/sett.png)|
+| [Aberdale (Fashion)](/variants/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/)|
+|![Aberdale (Fashion) example sett](/variants/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/sett.png)|

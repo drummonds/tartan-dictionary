@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pearl of the Orient](/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/)|
-|![Pearl of the Orient example sett](/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/sett.png)|
+| [Pearl of the Orient](/variants/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/)|
+|![Pearl of the Orient example sett](/variants/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/sett.png)|

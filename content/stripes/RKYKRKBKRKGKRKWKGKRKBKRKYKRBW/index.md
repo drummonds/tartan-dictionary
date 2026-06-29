@@ -24,5 +24,5 @@ It is a 29 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Women's Wear Daily 'Clan' (Fashion)](/setts/s29/r1k1ly2k1r1k1b2k1r1k1g2k1r2k1w12k1g2k1r1k1b2k1r1k1ly2k1r1dt28w1~x2/)|
-|![Women's Wear Daily 'Clan' (Fashion) example sett](/setts/s29/r1k1ly2k1r1k1b2k1r1k1g2k1r2k1w12k1g2k1r1k1b2k1r1k1ly2k1r1dt28w1~x2/sett.png)|
+| [Women's Wear Daily 'Clan' (Fashion)](/variants/s29/r1k1ly2k1r1k1b2k1r1k1g2k1r2k1w12k1g2k1r1k1b2k1r1k1ly2k1r1dt28w1~x2/)|
+|![Women's Wear Daily 'Clan' (Fashion) example sett](/variants/s29/r1k1ly2k1r1k1b2k1r1k1g2k1r2k1w12k1g2k1r1k1b2k1r1k1ly2k1r1dt28w1~x2/sett.png)|

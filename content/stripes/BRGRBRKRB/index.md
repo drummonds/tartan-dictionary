@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson Hunting](/tartans/db1r1k8r1db1r1y8r1db1/)|
-|![MacPherson Hunting example sett](/setts/s9/db1r1k8r1db1r1y8r1db1~x2/sett.png)|
+| [MacPherson Hunting](/setts/db1r1k8r1db1r1y8r1db1/)|
+|![MacPherson Hunting example sett](/variants/s9/db1r1k8r1db1r1y8r1db1~x2/sett.png)|

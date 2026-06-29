@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling of Keir](/setts/s4/g1k10k10g1~x6/)|
-|![Stirling of Keir example sett](/setts/s4/g1k10k10g1~x6/sett.png)|
+| [Stirling of Keir](/variants/s4/g1k10k10g1~x6/)|
+|![Stirling of Keir example sett](/variants/s4/g1k10k10g1~x6/sett.png)|

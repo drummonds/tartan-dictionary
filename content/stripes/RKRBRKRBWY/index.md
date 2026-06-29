@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kyle, Pink (Dance)](/setts/s10/r17k1r2dpi2r2k1r3dp8w17ly2~x4/)|
-|![Kyle, Pink (Dance) example sett](/setts/s10/r17k1r2dpi2r2k1r3dp8w17ly2~x4/sett.png)|
+| [Kyle, Pink (Dance)](/variants/s10/r17k1r2dpi2r2k1r3dp8w17ly2~x4/)|
+|![Kyle, Pink (Dance) example sett](/variants/s10/r17k1r2dpi2r2k1r3dp8w17ly2~x4/sett.png)|

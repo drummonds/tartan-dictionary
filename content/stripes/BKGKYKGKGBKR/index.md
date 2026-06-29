@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Castlefield (Personal)](/setts/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/)|
-|![Castlefield (Personal) example sett](/setts/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/sett.png)|
+| [Castlefield (Personal)](/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/)|
+|![Castlefield (Personal) example sett](/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/sett.png)|

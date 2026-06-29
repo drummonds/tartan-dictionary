@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shaw of Tordarroch, Mrs (Personal)](/setts/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/)|
-|![Shaw of Tordarroch, Mrs (Personal) example sett](/setts/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/sett.png)|
+| [Shaw of Tordarroch, Mrs (Personal)](/variants/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/)|
+|![Shaw of Tordarroch, Mrs (Personal) example sett](/variants/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/sett.png)|

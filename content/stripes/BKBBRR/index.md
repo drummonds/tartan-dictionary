@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thom(p)son's, Fancy](/setts/s6/r2o8db2t4k4t1~x6/)|
-|![Thom(p)son's, Fancy example sett](/setts/s6/r2o8db2t4k4t1~x6/sett.png)|
+| [Thom(p)son's, Fancy](/variants/s6/r2o8db2t4k4t1~x6/)|
+|![Thom(p)son's, Fancy example sett](/variants/s6/r2o8db2t4k4t1~x6/sett.png)|

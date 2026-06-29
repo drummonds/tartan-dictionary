@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yale College of Wrexham (Corporate)](/setts/s8/r9w5t57k5t9r29k18w9/)|
-|![Yale College of Wrexham (Corporate) example sett](/setts/s8/r9w5t57k5t9r29k18w9/sett.png)|
+| [Yale College of Wrexham (Corporate)](/variants/s8/r9w5t57k5t9r29k18w9/)|
+|![Yale College of Wrexham (Corporate) example sett](/variants/s8/r9w5t57k5t9r29k18w9/sett.png)|

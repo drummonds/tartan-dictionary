@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKay - 1800 (Reay Coat) (Artefact)](/setts/s7/dy9g9ly2g9dy9b9dy3~x2/)|
-|![MacKay - 1800 (Reay Coat) (Artefact) example sett](/setts/s7/dy9g9ly2g9dy9b9dy3~x2/sett.png)|
+| [MacKay - 1800 (Reay Coat) (Artefact)](/variants/s7/dy9g9ly2g9dy9b9dy3~x2/)|
+|![MacKay - 1800 (Reay Coat) (Artefact) example sett](/variants/s7/dy9g9ly2g9dy9b9dy3~x2/sett.png)|

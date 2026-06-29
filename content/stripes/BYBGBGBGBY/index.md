@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seletar Shipping (Corporate)](/setts/s10/db6lo2db7g4db3g6db2g4db39ly2~x2/)|
-|![Seletar Shipping (Corporate) example sett](/setts/s10/db6lo2db7g4db3g6db2g4db39ly2~x2/sett.png)|
+| [Seletar Shipping (Corporate)](/variants/s10/db6lo2db7g4db3g6db2g4db39ly2~x2/)|
+|![Seletar Shipping (Corporate) example sett](/variants/s10/db6lo2db7g4db3g6db2g4db39ly2~x2/sett.png)|

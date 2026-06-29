@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4g14r5k6r24g2r4~x2/)|
-|![Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r4g14r5k6r24g2r4~x2/sett.png)|
-| [Maxwell](/setts/s7/r3g16r4k6r28g1r3~x2/)|
-|![Maxwell example sett](/setts/s7/r3g16r4k6r28g1r3~x2/sett.png)|
-| [Maxwell Ancient](/setts/s7/r3dg16r4k6r28dg1r3~x2/)|
-|![Maxwell Ancient example sett](/setts/s7/r3dg16r4k6r28dg1r3~x2/sett.png)|
+| [Auld Lang Syne (red) Tartan](/variants/s7/r4g14r5k6r24g2r4~x2/)|
+|![Auld Lang Syne (red) Tartan example sett](/variants/s7/r4g14r5k6r24g2r4~x2/sett.png)|
+| [Maxwell](/variants/s7/r3g16r4k6r28g1r3~x2/)|
+|![Maxwell example sett](/variants/s7/r3g16r4k6r28g1r3~x2/sett.png)|
+| [Maxwell Ancient](/variants/s7/r3dg16r4k6r28dg1r3~x2/)|
+|![Maxwell Ancient example sett](/variants/s7/r3dg16r4k6r28dg1r3~x2/sett.png)|

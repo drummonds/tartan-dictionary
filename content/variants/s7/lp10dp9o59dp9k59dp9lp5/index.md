@@ -1,0 +1,59 @@
+---
+title: "Central Newcastle School"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lp10dp9o59dp9k59dp9lp5/)
+(the same proportion at any scale), whose colour order is pattern [WBKBRBW](/stripes/wbkbrbw/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=610
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Central Newcastle School
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Central Newcastle School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=610">record</a>)</li>
+<li>pre 2007 — Central Newcastle High (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7210/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [610](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=610)
+- Scottish Tartans Authority (ITI): 7210
+
+## Thread count
+LP/10 P9 N59 P9 K59 P9 LP/5
+
+One full sett is **305 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LP/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#C49CD8;"><span style="color:#C49CD8;filter:grayscale(1) invert(1) contrast(100);">#C49CD8</span></code> <small style="color:#888">#C49CD8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(75.0% 0.095 314.2)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">9</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">59</td><td><code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> <small style="color:#888">#888888</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.7% 0.000 89.9)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">9</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">59</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">9</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>LP/</td><td style="text-align:right;font-variant-numeric:tabular-nums">5</td><td><code style="background-color:#C49CD8;"><span style="color:#C49CD8;filter:grayscale(1) invert(1) contrast(100);">#C49CD8</span></code> <small style="color:#888">#C49CD8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(75.0% 0.095 314.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="LP/10 P9 N59 P9 K59 P9 LP/5 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=lp10dp9o59dp9k59dp9lp5">Central Newcastle School</a> <a class="nn-out" href="/variants/s7/lp10dp9o59dp9k59dp9lp5/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lp10dp9o59dp9k59dp9lp5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.92</div><div class="nn-name"><a href="/ttd/edit/#slug=r12b18k1r4k1dg6k2~x2&amp;base=lp10dp9o59dp9k59dp9lp5">Confederate</a> <a class="nn-out" href="/variants/s7/r12b18k1r4k1dg6k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r12b18k1r4k1dg6k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=r12b18k1r4k1g6k2~x2&amp;base=lp10dp9o59dp9k59dp9lp5">Confederate (Military)</a> <a class="nn-out" href="/variants/s7/r12b18k1r4k1g6k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r12b18k1r4k1g6k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.04</div><div class="nn-name"><a href="/ttd/edit/#slug=db1r1k8r1db1r1o8r1db1~x4&amp;base=lp10dp9o59dp9k59dp9lp5">MacPherson Hunting Clan Tartan</a> <a class="nn-out" href="/variants/s9/db1r1k8r1db1r1o8r1db1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db1r1k8r1db1r1o8r1db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=b1r1k8r1b1r1o8r1b1~x4&amp;base=lp10dp9o59dp9k59dp9lp5">MacPherson Htg</a> <a class="nn-out" href="/variants/s9/b1r1k8r1b1r1o8r1b1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/b1r1k8r1b1r1o8r1b1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=ly7db32dp4db4dp8db4dp8g32ly3~x2&amp;base=lp10dp9o59dp9k59dp9lp5">Children 1st (Corporate)</a> <a class="nn-out" href="/variants/s9/ly7db32dp4db4dp8db4dp8g32ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/ly7db32dp4db4dp8db4dp8g32ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.07</div><div class="nn-name"><a href="/ttd/edit/#slug=k2lr6r3lr6r3k20y30r2~x2&amp;base=lp10dp9o59dp9k59dp9lp5">Hermitage Academy (Corporate)</a> <a class="nn-out" href="/variants/s8/k2lr6r3lr6r3k20y30r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k2lr6r3lr6r3k20y30r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=b11r1k8r1b1r1o8r1b1~x4&amp;base=lp10dp9o59dp9k59dp9lp5">MacPherson Hunting</a> <a class="nn-out" href="/variants/s9/b11r1k8r1b1r1o8r1b1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/b11r1k8r1b1r1o8r1b1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r2b1db8b8o8b1o1~x2&amp;base=lp10dp9o59dp9k59dp9lp5">Over Mountain</a> <a class="nn-out" href="/variants/s7/r2b1db8b8o8b1o1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2b1db8b8o8b1o1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=w4db30g10r25w2~x2&amp;base=lp10dp9o59dp9k59dp9lp5">Highland Spring Dress (2004) (Corp)</a> <a class="nn-out" href="/variants/s5/w4db30g10r25w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/w4db30g10r25w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=db3dr2db18dr1w10o18dr2o3~x2&amp;base=lp10dp9o59dp9k59dp9lp5">Bannockbane Silver</a> <a class="nn-out" href="/variants/s8/db3dr2db18dr1w10o18dr2o3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db3dr2db18dr1w10o18dr2o3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r12b18k1r4k1dg6k2~x2/"><circle cx="238.0" cy="163.7" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/variants/s7/r12b18k1r4k1g6k2~x2/"><circle cx="237.4" cy="163.4" r="4" fill="#3465a4"><title>Confederate (Military)</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1o8r1db1~x4/"><circle cx="186.5" cy="171.4" r="4" fill="#3465a4"><title>MacPherson Hunting Clan Tartan</title></circle></a><a href="/variants/s9/b1r1k8r1b1r1o8r1b1~x4/"><circle cx="184.8" cy="171.1" r="4" fill="#3465a4"><title>MacPherson Htg</title></circle></a><a href="/variants/s9/ly7db32dp4db4dp8db4dp8g32ly3~x2/"><circle cx="207.7" cy="181.2" r="4" fill="#3465a4"><title>Children 1st (Corporate)</title></circle></a><a href="/variants/s8/k2lr6r3lr6r3k20y30r2~x2/"><circle cx="236.5" cy="158.9" r="4" fill="#3465a4"><title>Hermitage Academy (Corporate)</title></circle></a><a href="/variants/s9/b11r1k8r1b1r1o8r1b1~x4/"><circle cx="213.8" cy="175.2" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/variants/s7/r2b1db8b8o8b1o1~x2/"><circle cx="170.9" cy="207.6" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s5/w4db30g10r25w2~x2/"><circle cx="227.2" cy="195.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10o18dr2o3~x2/"><circle cx="201.4" cy="153.2" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><circle cx="204.0" cy="175.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/lp10dp9o59dp9k59dp9lp5/

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milton](/tartans/g8r3g4k6g9dp2/)|
-|![Milton example sett](/setts/s6/g8r3g4k6g9dp2~x2/sett.png)|
+| [Milton](/setts/g8r3g4k6g9dp2/)|
+|![Milton example sett](/variants/s6/g8r3g4k6g9dp2~x2/sett.png)|

@@ -14,4 +14,4 @@ weight: 93
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Ogilvie](/setts/s93/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly4ly2g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2-h3d9eef3a4460a5ef/) | logan-1831 |
+| 0.07 | [Ogilvie](/variants/s93/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly4ly2g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2-h3d9eef3a4460a5ef/) | logan-1831 |

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacMillan Hunting #2](/setts/s18/db3ly1db12k4ly2k4dg8r2dg8r1~x4/)|
-|![MacMillan Hunting #2 example sett](/setts/s18/db3ly1db12k4ly2k4dg8r2dg8r1~x4/sett.png)|
+| [MacMillan Hunting #2](/variants/s18/db3ly1db12k4ly2k4dg8r2dg8r1~x4/)|
+|![MacMillan Hunting #2 example sett](/variants/s18/db3ly1db12k4ly2k4dg8r2dg8r1~x4/sett.png)|

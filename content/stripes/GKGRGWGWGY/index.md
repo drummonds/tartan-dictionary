@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Taylor, dress](/setts/s10/g9k2g15r4g14w3y3w23g5ly3~x2/)|
-|![Taylor, dress example sett](/setts/s10/g9k2g15r4g14w3y3w23g5ly3~x2/sett.png)|
+| [Taylor, dress](/variants/s10/g9k2g15r4g14w3y3w23g5ly3~x2/)|
+|![Taylor, dress example sett](/variants/s10/g9k2g15r4g14w3y3w23g5ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [ChuMac (Personal)](/setts/s5/g15ly3r3dp8w2~x6/)|
-|![ChuMac (Personal) example sett](/setts/s5/g15ly3r3dp8w2~x6/sett.png)|
+| [ChuMac (Personal)](/variants/s5/g15ly3r3dp8w2~x6/)|
+|![ChuMac (Personal) example sett](/variants/s5/g15ly3r3dp8w2~x6/sett.png)|

@@ -24,5 +24,5 @@ It is a 30 stripe tartan.
 
 | Tartans |
 |---------------|
-| [13, Confederation](/setts/s30/k8r8db16r24w4r24k4g6db26g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1~x2/)|
-|![13, Confederation example sett](/setts/s30/k8r8db16r24w4r24k4g6db26g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1~x2/sett.png)|
+| [13, Confederation](/variants/s30/k8r8db16r24w4r24k4g6db26g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1~x2/)|
+|![13, Confederation example sett](/variants/s30/k8r8db16r24w4r24k4g6db26g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1~x2/sett.png)|

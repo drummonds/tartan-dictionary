@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald Hunting](/setts/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/)|
-|![MacDonald Hunting example sett](/setts/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/sett.png)|
+| [MacDonald Hunting](/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/)|
+|![MacDonald Hunting example sett](/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bamcroft (Corporate)](/setts/s15/dbi11ly2dbi2r2dbi2k11db11k2db3k2db11k11dbi11k2r3~x2/)|
-|![Bamcroft (Corporate) example sett](/setts/s15/dbi11ly2dbi2r2dbi2k11db11k2db3k2db11k11dbi11k2r3~x2/sett.png)|
+| [Bamcroft (Corporate)](/variants/s15/dbi11ly2dbi2r2dbi2k11db11k2db3k2db11k11dbi11k2r3~x2/)|
+|![Bamcroft (Corporate) example sett](/variants/s15/dbi11ly2dbi2r2dbi2k11db11k2db3k2db11k11dbi11k2r3~x2/sett.png)|

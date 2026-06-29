@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henschke, Felix (Personal)](/setts/s7/dg42lo1k23r7w1db4lo3~x2/)|
-|![Henschke, Felix (Personal) example sett](/setts/s7/dg42lo1k23r7w1db4lo3~x2/sett.png)|
+| [Henschke, Felix (Personal)](/variants/s7/dg42lo1k23r7w1db4lo3~x2/)|
+|![Henschke, Felix (Personal) example sett](/variants/s7/dg42lo1k23r7w1db4lo3~x2/sett.png)|

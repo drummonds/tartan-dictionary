@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chisholm](/setts/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/)|
-|![Chisholm example sett](/setts/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/sett.png)|
+| [Chisholm](/variants/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/)|
+|![Chisholm example sett](/variants/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/sett.png)|

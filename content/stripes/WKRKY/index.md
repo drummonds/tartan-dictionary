@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [George Heriots](/setts/s5/w3k35o24k1ly3~x2/)|
-|![George Heriots example sett](/setts/s5/w3k35o24k1ly3~x2/sett.png)|
+| [George Heriots](/variants/s5/w3k35o24k1ly3~x2/)|
+|![George Heriots example sett](/variants/s5/w3k35o24k1ly3~x2/sett.png)|

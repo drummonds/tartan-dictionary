@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [SYHA Hostelling Scotland](/setts/s12/lb13dg16r5w5r5dg34lb21y13r3w2r1y9~x2/)|
-|![SYHA Hostelling Scotland example sett](/setts/s12/lb13dg16r5w5r5dg34lb21y13r3w2r1y9~x2/sett.png)|
+| [SYHA Hostelling Scotland](/variants/s12/lb13dg16r5w5r5dg34lb21y13r3w2r1y9~x2/)|
+|![SYHA Hostelling Scotland example sett](/variants/s12/lb13dg16r5w5r5dg34lb21y13r3w2r1y9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Golf Club](/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/)|
-|![New Golf Club example sett](/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/sett.png)|
+| [New Golf Club](/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/)|
+|![New Golf Club example sett](/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/sett.png)|

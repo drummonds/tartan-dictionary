@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reekie (Edmonton)](/setts/s6/k8r12w8dg15n30ly5~x2/)|
-|![Reekie (Edmonton) example sett](/setts/s6/k8r12w8dg15n30ly5~x2/sett.png)|
-| [Reekie (Name)](/setts/s6/k8r12w8g15db30ly5~x2/)|
-|![Reekie (Name) example sett](/setts/s6/k8r12w8g15db30ly5~x2/sett.png)|
+| [Reekie (Edmonton)](/variants/s6/k8r12w8dg15n30ly5~x2/)|
+|![Reekie (Edmonton) example sett](/variants/s6/k8r12w8dg15n30ly5~x2/sett.png)|
+| [Reekie (Name)](/variants/s6/k8r12w8g15db30ly5~x2/)|
+|![Reekie (Name) example sett](/variants/s6/k8r12w8g15db30ly5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clemson University](/setts/s13/db11k2db2k2db2k8dp8lo2dp8k8db8k2db2~x4/)|
-|![Clemson University example sett](/setts/s13/db11k2db2k2db2k8dp8lo2dp8k8db8k2db2~x4/sett.png)|
+| [Clemson University](/variants/s13/db11k2db2k2db2k8dp8lo2dp8k8db8k2db2~x4/)|
+|![Clemson University example sett](/variants/s13/db11k2db2k2db2k8dp8lo2dp8k8db8k2db2~x4/sett.png)|

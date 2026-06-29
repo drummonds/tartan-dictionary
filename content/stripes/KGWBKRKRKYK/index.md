@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hines Snr, Raymond Lee (Personal)](/setts/s11/k4dg2w2dp22k16r8k3r4k3ly4k3~x2/)|
-|![Hines Snr, Raymond Lee (Personal) example sett](/setts/s11/k4dg2w2dp22k16r8k3r4k3ly4k3~x2/sett.png)|
+| [Hines Snr, Raymond Lee (Personal)](/variants/s11/k4dg2w2dp22k16r8k3r4k3ly4k3~x2/)|
+|![Hines Snr, Raymond Lee (Personal) example sett](/variants/s11/k4dg2w2dp22k16r8k3r4k3ly4k3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clackson Arisaid (Name?)](/setts/s7/w24g2w8db5ly4db5ly4~x2/)|
-|![Clackson Arisaid (Name?) example sett](/setts/s7/w24g2w8db5ly4db5ly4~x2/sett.png)|
+| [Clackson Arisaid (Name?)](/variants/s7/w24g2w8db5ly4db5ly4~x2/)|
+|![Clackson Arisaid (Name?) example sett](/variants/s7/w24g2w8db5ly4db5ly4~x2/sett.png)|

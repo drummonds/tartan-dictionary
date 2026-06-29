@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forbes Dress (Clans Originaux)](/setts/s7/w6b3w20k2w3k25w3~x2/)|
-|![Forbes Dress (Clans Originaux) example sett](/setts/s7/w6b3w20k2w3k25w3~x2/sett.png)|
+| [Forbes Dress (Clans Originaux)](/variants/s7/w6b3w20k2w3k25w3~x2/)|
+|![Forbes Dress (Clans Originaux) example sett](/variants/s7/w6b3w20k2w3k25w3~x2/sett.png)|

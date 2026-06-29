@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cozumel](/setts/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/)|
-|![Cozumel example sett](/setts/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/sett.png)|
+| [Cozumel](/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/)|
+|![Cozumel example sett](/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/sett.png)|

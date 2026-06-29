@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sheffield High (School)](/setts/s4/t5dt12g8t4/)|
-|![Sheffield High (School) example sett](/setts/s4/t5dt12g8t4/sett.png)|
+| [Sheffield High (School)](/variants/s4/t5dt12g8t4/)|
+|![Sheffield High (School) example sett](/variants/s4/t5dt12g8t4/sett.png)|

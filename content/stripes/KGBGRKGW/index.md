@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lambert Kai (Personal)](/setts/s8/k3g34b10g5r2k8dy2w3~x2/)|
-|![Lambert Kai (Personal) example sett](/setts/s8/k3g34b10g5r2k8dy2w3~x2/sett.png)|
+| [Lambert Kai (Personal)](/variants/s8/k3g34b10g5r2k8dy2w3~x2/)|
+|![Lambert Kai (Personal) example sett](/variants/s8/k3g34b10g5r2k8dy2w3~x2/sett.png)|

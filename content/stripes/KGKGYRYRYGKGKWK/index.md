@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Confessore (Personal)](/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/)|
-|![Confessore (Personal) example sett](/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/sett.png)|
+| [Confessore (Personal)](/variants/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/)|
+|![Confessore (Personal) example sett](/variants/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/sett.png)|

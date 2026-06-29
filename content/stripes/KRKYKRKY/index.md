@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Bernensis](/setts/s8/k62r3k3lo3k3r3k9lr5~x2/)|
-|![Auld Bernensis example sett](/setts/s8/k62r3k3lo3k3r3k9lr5~x2/sett.png)|
+| [Auld Bernensis](/variants/s8/k62r3k3lo3k3r3k9lr5~x2/)|
+|![Auld Bernensis example sett](/variants/s8/k62r3k3lo3k3r3k9lr5~x2/sett.png)|

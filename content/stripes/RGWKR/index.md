@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathblane](/setts/s5/o12k4w2y6r3~x2/)|
-|![Strathblane example sett](/setts/s5/o12k4w2y6r3~x2/sett.png)|
+| [Strathblane](/variants/s5/o12k4w2y6r3~x2/)|
+|![Strathblane example sett](/variants/s5/o12k4w2y6r3~x2/sett.png)|

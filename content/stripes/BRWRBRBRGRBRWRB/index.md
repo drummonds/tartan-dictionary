@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzgerald](/setts/s15/db3r4w3r15db4r4db13r4g13r4db4r15w3r4db3~x2/)|
-|![Fitzgerald example sett](/setts/s15/db3r4w3r15db4r4db13r4g13r4db4r15w3r4db3~x2/sett.png)|
+| [Fitzgerald](/variants/s15/db3r4w3r15db4r4db13r4g13r4db4r15w3r4db3~x2/)|
+|![Fitzgerald example sett](/variants/s15/db3r4w3r15db4r4db13r4g13r4db4r15w3r4db3~x2/sett.png)|

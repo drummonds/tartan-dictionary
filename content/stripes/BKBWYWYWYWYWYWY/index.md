@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bush (Artefact)](/setts/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/)|
-|![Bush (Artefact) example sett](/setts/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/sett.png)|
+| [Bush (Artefact)](/variants/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/)|
+|![Bush (Artefact) example sett](/variants/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/sett.png)|

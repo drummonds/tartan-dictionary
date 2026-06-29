@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie](/setts/s8/r48lb4db4k4r12db4r1ly4/)|
-|![Brodie example sett](/setts/s8/r48lb4db4k4r12db4r1ly4/sett.png)|
-| [Brodie (W & A Smith)](/setts/s8/r48w4db4k4r12db4r1ly4~x2/)|
-|![Brodie (W & A Smith) example sett](/setts/s8/r48w4db4k4r12db4r1ly4~x2/sett.png)|
+| [Brodie](/variants/s8/r48lb4db4k4r12db4r1ly4/)|
+|![Brodie example sett](/variants/s8/r48lb4db4k4r12db4r1ly4/sett.png)|
+| [Brodie (W & A Smith)](/variants/s8/r48w4db4k4r12db4r1ly4~x2/)|
+|![Brodie (W & A Smith) example sett](/variants/s8/r48w4db4k4r12db4r1ly4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tiger of Sweden](/setts/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/)|
-|![Tiger of Sweden example sett](/setts/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png)|
+| [Tiger of Sweden](/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/)|
+|![Tiger of Sweden example sett](/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png)|

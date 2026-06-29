@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milne Dress Fancy Tartan Tartan Number: 6550. Earliest known date: pre 2004 Colour change for #634. Thought to be a Dancers' Fancy. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/w5t2w12r17w12t2w12t2w12r17w12t2w5dp2~x4/)|
-|![Milne Dress Fancy Tartan Tartan Number: 6550. Earliest known date: pre 2004 Colour change for #634. Thought to be a Dancers' Fancy. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/w5t2w12r17w12t2w12t2w12r17w12t2w5dp2~x4/sett.png)|
+| [Milne Dress Fancy Tartan](/variants/s14/w5t2w12r17w12t2w12t2w12r17w12t2w5dp2~x4/)|
+|![Milne Dress Fancy Tartan example sett](/variants/s14/w5t2w12r17w12t2w12t2w12r17w12t2w5dp2~x4/sett.png)|

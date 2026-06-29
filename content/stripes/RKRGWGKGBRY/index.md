@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwell](/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/)|
-|![Norwell example sett](/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/sett.png)|
+| [Norwell](/variants/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/)|
+|![Norwell example sett](/variants/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/sett.png)|

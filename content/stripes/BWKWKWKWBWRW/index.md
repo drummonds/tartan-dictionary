@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Humanitarian Mission (Dress)](/setts/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/)|
-|![Humanitarian Mission (Dress) example sett](/setts/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/sett.png)|
+| [Humanitarian Mission (Dress)](/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/)|
+|![Humanitarian Mission (Dress) example sett](/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/sett.png)|

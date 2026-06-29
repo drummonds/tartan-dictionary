@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glengoyne, Distillery](/setts/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/)|
-|![Glengoyne, Distillery example sett](/setts/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/sett.png)|
+| [Glengoyne, Distillery](/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/)|
+|![Glengoyne, Distillery example sett](/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/sett.png)|

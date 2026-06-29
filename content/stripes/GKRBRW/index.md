@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinnaird (Name)](/setts/s6/g15k10r30dp2r20w1~x2/)|
-|![Kinnaird (Name) example sett](/setts/s6/g15k10r30dp2r20w1~x2/sett.png)|
+| [Kinnaird (Name)](/variants/s6/g15k10r30dp2r20w1~x2/)|
+|![Kinnaird (Name) example sett](/variants/s6/g15k10r30dp2r20w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donegal County, Crest Range](/setts/s13/k4dg10lo4dg10k4g20dg5k2dy6k2r10k2w4~x2/)|
-|![Donegal County, Crest Range example sett](/setts/s13/k4dg10lo4dg10k4g20dg5k2dy6k2r10k2w4~x2/sett.png)|
+| [Donegal County, Crest Range](/variants/s13/k4dg10lo4dg10k4g20dg5k2dy6k2r10k2w4~x2/)|
+|![Donegal County, Crest Range example sett](/variants/s13/k4dg10lo4dg10k4g20dg5k2dy6k2r10k2w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dalgliesh, Ewen (Personal)](/setts/s10/db45dp6o6dp30dg6dp6dg30k4r4k3/)|
-|![Dalgliesh, Ewen (Personal) example sett](/setts/s10/db45dp6o6dp30dg6dp6dg30k4r4k3/sett.png)|
+| [Dalgliesh, Ewen (Personal)](/variants/s10/db45dp6o6dp30dg6dp6dg30k4r4k3/)|
+|![Dalgliesh, Ewen (Personal) example sett](/variants/s10/db45dp6o6dp30dg6dp6dg30k4r4k3/sett.png)|

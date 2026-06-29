@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maine, Original State of (Fashion)](/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/)|
-|![Maine, Original State of (Fashion) example sett](/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/sett.png)|
+| [Maine, Original State of (Fashion)](/variants/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/)|
+|![Maine, Original State of (Fashion) example sett](/variants/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/sett.png)|

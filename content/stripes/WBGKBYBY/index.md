@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lambert, Patrice (Personal)](/setts/s8/w1p3g6k1db12ly1db2ly1~x4/)|
-|![Lambert, Patrice (Personal) example sett](/setts/s8/w1p3g6k1db12ly1db2ly1~x4/sett.png)|
-| [Lambert, Patrice (Personal)](/setts/s8/w1dp3g6k1db12ly1db2ly1~x4/)|
-|![Lambert, Patrice (Personal) example sett](/setts/s8/w1dp3g6k1db12ly1db2ly1~x4/sett.png)|
+| [Lambert, Patrice (Personal)](/variants/s8/w1p3g6k1db12ly1db2ly1~x4/)|
+|![Lambert, Patrice (Personal) example sett](/variants/s8/w1p3g6k1db12ly1db2ly1~x4/sett.png)|
+| [Lambert, Patrice (Personal)](/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/)|
+|![Lambert, Patrice (Personal) example sett](/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/sett.png)|

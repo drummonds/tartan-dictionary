@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Palmer, General W.J.](/setts/s16/r4o2lb2o23lb2o2r4o2lb2o2lb12dt6ly2k4n2lb2~x2/)|
-|![Palmer, General W.J. example sett](/setts/s16/r4o2lb2o23lb2o2r4o2lb2o2lb12dt6ly2k4n2lb2~x2/sett.png)|
+| [Palmer, General W.J.](/variants/s16/r4o2lb2o23lb2o2r4o2lb2o2lb12dt6ly2k4n2lb2~x2/)|
+|![Palmer, General W.J. example sett](/variants/s16/r4o2lb2o23lb2o2r4o2lb2o2lb12dt6ly2k4n2lb2~x2/sett.png)|

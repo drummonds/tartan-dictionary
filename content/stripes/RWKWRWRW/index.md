@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clayton Dress (Dance)](/setts/s8/r14w35k4w35r14w8r14w8~x2/)|
-|![Clayton Dress (Dance) example sett](/setts/s8/r14w35k4w35r14w8r14w8~x2/sett.png)|
+| [Clayton Dress (Dance)](/variants/s8/r14w35k4w35r14w8r14w8~x2/)|
+|![Clayton Dress (Dance) example sett](/variants/s8/r14w35k4w35r14w8r14w8~x2/sett.png)|

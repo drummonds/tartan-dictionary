@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braveheart (Corporate)](/setts/s23/k20k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1o20g2~x2/)|
-|![Braveheart (Corporate) example sett](/setts/s23/k20k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1o20g2~x2/sett.png)|
+| [Braveheart (Corporate)](/variants/s23/k20k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1o20g2~x2/)|
+|![Braveheart (Corporate) example sett](/variants/s23/k20k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1o20g2~x2/sett.png)|

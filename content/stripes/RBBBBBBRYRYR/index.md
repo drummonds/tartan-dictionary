@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Callum](/setts/s12/r3n16db2n2db2n3db6o20lr3o2lr2o3~x2/)|
-|![Callum example sett](/setts/s12/r3n16db2n2db2n3db6o20lr3o2lr2o3~x2/sett.png)|
+| [Callum](/variants/s12/r3n16db2n2db2n3db6o20lr3o2lr2o3~x2/)|
+|![Callum example sett](/variants/s12/r3n16db2n2db2n3db6o20lr3o2lr2o3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2~x2/)|
-|![Sinclair Dress (Dance) example sett](/setts/s12/db4r2db31k10g4w21g2~x2/sett.png)|
+| [Sinclair Dress (Dance)](/variants/s12/db4r2db31k10g4w21g2~x2/)|
+|![Sinclair Dress (Dance) example sett](/variants/s12/db4r2db31k10g4w21g2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Southdown Grey](/setts/s10/do3o2r1do2n6do6n4do6o22r3~x4/)|
-|![Southdown Grey example sett](/setts/s10/do3o2r1do2n6do6n4do6o22r3~x4/sett.png)|
+| [Southdown Grey](/variants/s10/do3o2r1do2n6do6n4do6o22r3~x4/)|
+|![Southdown Grey example sett](/variants/s10/do3o2r1do2n6do6n4do6o22r3~x4/sett.png)|

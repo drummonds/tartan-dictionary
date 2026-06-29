@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacColl](/setts/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/)|
-|![MacColl example sett](/setts/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/sett.png)|
+| [MacColl](/variants/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/)|
+|![MacColl example sett](/variants/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/sett.png)|

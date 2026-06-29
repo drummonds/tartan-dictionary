@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ontario Provincial Police (Corporate](/setts/s13/db9r1db1w1db2k10db8dg2db8k10db10ly1t2~x4/)|
-|![Ontario Provincial Police (Corporate example sett](/setts/s13/db9r1db1w1db2k10db8dg2db8k10db10ly1t2~x4/sett.png)|
+| [Ontario Provincial Police (Corporate](/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10ly1t2~x4/)|
+|![Ontario Provincial Police (Corporate example sett](/variants/s13/db9r1db1w1db2k10db8dg2db8k10db10ly1t2~x4/sett.png)|

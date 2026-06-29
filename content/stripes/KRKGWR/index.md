@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dutch Dress](/setts/s6/r2w12y1k12o12k1~x2/)|
-|![Dutch Dress example sett](/setts/s6/r2w12y1k12o12k1~x2/sett.png)|
+| [Dutch Dress](/variants/s6/r2w12y1k12o12k1~x2/)|
+|![Dutch Dress example sett](/variants/s6/r2w12y1k12o12k1~x2/sett.png)|

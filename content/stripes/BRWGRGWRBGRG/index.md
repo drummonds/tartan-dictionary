@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGirr, David (Letterkenny)](/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/)|
-|![McGirr, David (Letterkenny) example sett](/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/sett.png)|
+| [McGirr, David (Letterkenny)](/variants/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/)|
+|![McGirr, David (Letterkenny) example sett](/variants/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/sett.png)|

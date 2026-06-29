@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rangers 1989 (Sports)](/setts/s4/db21k10dt8r3~x2/)|
-|![Rangers 1989 (Sports) example sett](/setts/s4/db21k10dt8r3~x2/sett.png)|
+| [Rangers 1989 (Sports)](/variants/s4/db21k10dt8r3~x2/)|
+|![Rangers 1989 (Sports) example sett](/variants/s4/db21k10dt8r3~x2/sett.png)|

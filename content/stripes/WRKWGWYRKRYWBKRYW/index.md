@@ -24,7 +24,7 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chattan, Chief](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/)|
-|![Chattan, Chief example sett](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/sett.png)|
-| [Chattan, Chief of Clan](/tartans/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/)|
-|![Chattan, Chief of Clan example sett](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/sett.png)|
+| [Chattan, Chief](/variants/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/)|
+|![Chattan, Chief example sett](/variants/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/sett.png)|
+| [Chattan, Chief of Clan](/setts/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/)|
+|![Chattan, Chief of Clan example sett](/variants/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/sett.png)|

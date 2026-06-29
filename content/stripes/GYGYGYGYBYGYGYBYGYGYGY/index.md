@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Houston (Personal)](/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/)|
-|![Houston (Personal) example sett](/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/sett.png)|
+| [Houston (Personal)](/variants/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/)|
+|![Houston (Personal) example sett](/variants/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blairmore](/setts/s8/db34w5db5r5db5dr26g33o6~x2/)|
-|![Blairmore example sett](/setts/s8/db34w5db5r5db5dr26g33o6~x2/sett.png)|
+| [Blairmore](/variants/s8/db34w5db5r5db5dr26g33o6~x2/)|
+|![Blairmore example sett](/variants/s8/db34w5db5r5db5dr26g33o6~x2/sett.png)|

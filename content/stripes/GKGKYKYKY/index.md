@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jamaican National](/setts/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/)|
-|![Jamaican National example sett](/setts/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/sett.png)|
-| [Jamaican National (District)](/setts/s9/ly24k2ly3k2ly3k8g24k2g5~x2/)|
-|![Jamaican National (District) example sett](/setts/s9/ly24k2ly3k2ly3k8g24k2g5~x2/sett.png)|
+| [Jamaican National](/variants/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/)|
+|![Jamaican National example sett](/variants/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/sett.png)|
+| [Jamaican National (District)](/variants/s9/ly24k2ly3k2ly3k8g24k2g5~x2/)|
+|![Jamaican National (District) example sett](/variants/s9/ly24k2ly3k2ly3k8g24k2g5~x2/sett.png)|

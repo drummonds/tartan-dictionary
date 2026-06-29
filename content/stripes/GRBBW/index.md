@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bryson (1988)](/setts/s5/y16r8b57db56lb8/)|
-|![Bryson (1988) example sett](/setts/s5/y16r8b57db56lb8/sett.png)|
+| [Bryson (1988)](/variants/s5/y16r8b57db56lb8/)|
+|![Bryson (1988) example sett](/variants/s5/y16r8b57db56lb8/sett.png)|

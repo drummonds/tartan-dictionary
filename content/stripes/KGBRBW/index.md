@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Friends of Nordegg](/setts/s6/k50g6db6r6n6w3~x2/)|
-|![Friends of Nordegg example sett](/setts/s6/k50g6db6r6n6w3~x2/sett.png)|
+| [Friends of Nordegg](/variants/s6/k50g6db6r6n6w3~x2/)|
+|![Friends of Nordegg example sett](/variants/s6/k50g6db6r6n6w3~x2/sett.png)|

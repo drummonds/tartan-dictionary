@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shanahan (Corporate)](/setts/s9/k2r2k4lo3g24k2g16b17r2~x2/)|
-|![Shanahan (Corporate) example sett](/setts/s9/k2r2k4lo3g24k2g16b17r2~x2/sett.png)|
+| [Shanahan (Corporate)](/variants/s9/k2r2k4lo3g24k2g16b17r2~x2/)|
+|![Shanahan (Corporate) example sett](/variants/s9/k2r2k4lo3g24k2g16b17r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Joe Strummer Commemorative](/setts/s7/k3dy3yi6k12y1dyi2dy2~x4/)|
-|![Joe Strummer Commemorative example sett](/setts/s7/k3dy3yi6k12y1dyi2dy2~x4/sett.png)|
+| [Joe Strummer Commemorative](/variants/s7/k3dy3yi6k12y1dyi2dy2~x4/)|
+|![Joe Strummer Commemorative example sett](/variants/s7/k3dy3yi6k12y1dyi2dy2~x4/sett.png)|

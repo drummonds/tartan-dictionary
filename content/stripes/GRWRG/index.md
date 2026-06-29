@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Connor Dress](/setts/s5/dy5r5lb11r1dy1~x4/)|
-|![O'Connor Dress example sett](/setts/s5/dy5r5lb11r1dy1~x4/sett.png)|
+| [O'Connor Dress](/variants/s5/dy5r5lb11r1dy1~x4/)|
+|![O'Connor Dress example sett](/variants/s5/dy5r5lb11r1dy1~x4/sett.png)|

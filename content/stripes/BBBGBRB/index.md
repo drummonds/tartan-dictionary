@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bermuda Plaid (1947) (District)](/setts/s7/t33r8db12g12t8db2t8~x2/)|
-|![Bermuda Plaid (1947) (District) example sett](/setts/s7/t33r8db12g12t8db2t8~x2/sett.png)|
+| [Bermuda Plaid (1947) (District)](/variants/s7/t33r8db12g12t8db2t8~x2/)|
+|![Bermuda Plaid (1947) (District) example sett](/variants/s7/t33r8db12g12t8db2t8~x2/sett.png)|

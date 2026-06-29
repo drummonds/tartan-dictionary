@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rikaco Morning Dew #2](/setts/s8/lri3lb3lri1y25lri15lr5lb4ly2~x2/)|
-|![Rikaco Morning Dew #2 example sett](/setts/s8/lri3lb3lri1y25lri15lr5lb4ly2~x2/sett.png)|
+| [Rikaco Morning Dew #2](/variants/s8/lri3lb3lri1y25lri15lr5lb4ly2~x2/)|
+|![Rikaco Morning Dew #2 example sett](/variants/s8/lri3lb3lri1y25lri15lr5lb4ly2~x2/sett.png)|

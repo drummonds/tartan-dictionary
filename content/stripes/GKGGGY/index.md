@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon Cumming (Artefact)](/setts/s6/ly10g30gi25g30k2g3~x2/)|
-|![Gordon Cumming (Artefact) example sett](/setts/s6/ly10g30gi25g30k2g3~x2/sett.png)|
+| [Gordon Cumming (Artefact)](/variants/s6/ly10g30gi25g30k2g3~x2/)|
+|![Gordon Cumming (Artefact) example sett](/variants/s6/ly10g30gi25g30k2g3~x2/sett.png)|

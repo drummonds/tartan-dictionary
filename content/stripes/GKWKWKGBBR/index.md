@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mitsukoshi](/setts/s10/y12k3w3k3w3k3y13n6db17r3~x2/)|
-|![Mitsukoshi example sett](/setts/s10/y12k3w3k3w3k3y13n6db17r3~x2/sett.png)|
+| [Mitsukoshi](/variants/s10/y12k3w3k3w3k3y13n6db17r3~x2/)|
+|![Mitsukoshi example sett](/variants/s10/y12k3w3k3w3k3y13n6db17r3~x2/sett.png)|

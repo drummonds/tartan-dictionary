@@ -1,0 +1,61 @@
+---
+title: "Clyde Family (Hurleford) (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r64k30g30db18w4db2w3/)
+(the same proportion at any scale), whose colour order is pattern [RKGBWBW](/stripes/rkgbwbw/).
+
+Part of the [Clyde](/tartans/clyde/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10532
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Clyde Family
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10532)
+
+## Thread count
+R/64 K30 LG30 DB18 W4 DB2 W/3
+
+One full sett is **235 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#CA2625;"><span style="color:#CA2625;filter:grayscale(1) invert(1) contrast(100);">#CA2625</span></code> <small style="color:#888">#CA2625</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(54.4% 0.199 27.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">30</td><td><code style="background-color:#1C1714;"><span style="color:#1C1714;filter:grayscale(1) invert(1) contrast(100);">#1C1714</span></code> <small style="color:#888">#1C1714</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(20.9% 0.010 52.9)</small></td></tr><tr><td>LG</td><td style="text-align:right;font-variant-numeric:tabular-nums">30</td><td><code style="background-color:#649848;"><span style="color:#649848;filter:grayscale(1) invert(1) contrast(100);">#649848</span></code> <small style="color:#888">#649848</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(62.4% 0.125 135.7)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#271B86;"><span style="color:#271B86;filter:grayscale(1) invert(1) contrast(100);">#271B86</span></code> <small style="color:#888">#271B86</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(32.6% 0.166 276.9)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#F7F1E8;"><span style="color:#F7F1E8;filter:grayscale(1) invert(1) contrast(100);">#F7F1E8</span></code> <small style="color:#888">#F7F1E8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.0% 0.014 78.3)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#271B86;"><span style="color:#271B86;filter:grayscale(1) invert(1) contrast(100);">#271B86</span></code> <small style="color:#888">#271B86</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(32.6% 0.166 276.9)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">3</td><td><code style="background-color:#F7F1E8;"><span style="color:#F7F1E8;filter:grayscale(1) invert(1) contrast(100);">#F7F1E8</span></code> <small style="color:#888">#F7F1E8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.0% 0.014 78.3)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/64 K30 LG30 DB18 W4 DB2 W/3 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/o5n3o22r3n6ni17r2ni4r2ni4/"><img src="/variants/s10/o5n3o22r3n6ni17r2ni4r2ni4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/o5n3o22r3n6ni17r2ni4r2ni4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r64k30g30db18w4db2w3">Clyde Family (Hurleford) (Personal)</a> <a class="nn-out" href="/variants/s7/r64k30g30db18w4db2w3/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r64k30g30db18w4db2w3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.25</div><div class="nn-name"><a href="/ttd/edit/#slug=r64k30g30b18w4b2w3&amp;base=r64k30g30db18w4db2w3">Clyde (Personal)</a> <a class="nn-out" href="/variants/s7/r64k30g30b18w4b2w3/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r64k30g30b18w4b2w3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.60</div><div class="nn-name"><a href="/ttd/edit/#slug=lo1dg14r1y14r28db14lo1~x2&amp;base=r64k30g30db18w4db2w3">Abernethy (Colerain, USA)</a> <a class="nn-out" href="/variants/s7/lo1dg14r1y14r28db14lo1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lo1dg14r1y14r28db14lo1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=lb5k1r30dp15r8dg30r8dp2&amp;base=r64k30g30db18w4db2w3">Shaw</a> <a class="nn-out" href="/variants/s8/lb5k1r30dp15r8dg30r8dp2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb5k1r30dp15r8dg30r8dp2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=ly3g9db9k1ly2k15r37g2~x2&amp;base=r64k30g30db18w4db2w3">Mensah</a> <a class="nn-out" href="/variants/s8/ly3g9db9k1ly2k15r37g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/ly3g9db9k1ly2k15r37g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=db26g11r8k2r2w2r4w1r15~x2&amp;base=r64k30g30db18w4db2w3">Royal Scottish Assurance (Corporate)</a> <a class="nn-out" href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=db26dg11r8k2r2w2r4w1r15~x2&amp;base=r64k30g30db18w4db2w3">Royal Scottish Assurance</a> <a class="nn-out" href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=o4dt36r35g2r2g8w4~x2&amp;base=r64k30g30db18w4db2w3">Cherry, John S. (Personal)</a> <a class="nn-out" href="/variants/s7/o4dt36r35g2r2g8w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/o4dt36r35g2r2g8w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=w3dt4w1dt15r24dg15ly1dg4ly3~x4&amp;base=r64k30g30db18w4db2w3">Forrester (Clan)</a> <a class="nn-out" href="/variants/s9/w3dt4w1dt15r24dg15ly1dg4ly3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w3dt4w1dt15r24dg15ly1dg4ly3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=r8lo44k32w2o52k7o7w3&amp;base=r64k30g30db18w4db2w3">Golden Wedding (Fashion)</a> <a class="nn-out" href="/variants/s8/r8lo44k32w2o52k7o7w3/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r8lo44k32w2o52k7o7w3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=k2ly1k2ly8r29o9db24w2db2~x2&amp;base=r64k30g30db18w4db2w3">Lermontov</a> <a class="nn-out" href="/variants/s9/k2ly1k2ly8r29o9db24w2db2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k2ly1k2ly8r29o9db24w2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r64k30g30b18w4b2w3/"><circle cx="229.1" cy="120.1" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s7/lo1dg14r1y14r28db14lo1~x2/"><circle cx="220.6" cy="134.2" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8dg30r8dp2/"><circle cx="274.6" cy="130.4" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/variants/s8/ly3g9db9k1ly2k15r37g2~x2/"><circle cx="279.4" cy="97.6" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="242.2" cy="120.3" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="251.6" cy="126.3" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s7/o4dt36r35g2r2g8w4~x2/"><circle cx="246.2" cy="138.1" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/variants/s9/w3dt4w1dt15r24dg15ly1dg4ly3~x4/"><circle cx="199.4" cy="124.8" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/variants/s8/r8lo44k32w2o52k7o7w3/"><circle cx="207.6" cy="124.2" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><a href="/variants/s9/k2ly1k2ly8r29o9db24w2db2~x2/"><circle cx="193.9" cy="82.0" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><circle cx="229.9" cy="118.0" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/r64k30g30db18w4db2w3/

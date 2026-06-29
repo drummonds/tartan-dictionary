@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Garth](/setts/s4/oi12o6oi2ly1~x4/)|
-|![Loch Garth example sett](/setts/s4/oi12o6oi2ly1~x4/sett.png)|
+| [Loch Garth](/variants/s4/oi12o6oi2ly1~x4/)|
+|![Loch Garth example sett](/variants/s4/oi12o6oi2ly1~x4/sett.png)|

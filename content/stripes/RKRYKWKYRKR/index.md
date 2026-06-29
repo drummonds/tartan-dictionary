@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wells Red, Greg (Personal)](/setts/s11/o12k2o12ly2k12w1k12ly2m12k2m12~x2/)|
-|![Wells Red, Greg (Personal) example sett](/setts/s11/o12k2o12ly2k12w1k12ly2m12k2m12~x2/sett.png)|
+| [Wells Red, Greg (Personal)](/variants/s11/o12k2o12ly2k12w1k12ly2m12k2m12~x2/)|
+|![Wells Red, Greg (Personal) example sett](/variants/s11/o12k2o12ly2k12w1k12ly2m12k2m12~x2/sett.png)|

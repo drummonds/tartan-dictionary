@@ -1,0 +1,53 @@
+---
+title: "MacCormick Hunting (Name)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3dg20k20g20k3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGK](/stripes/kgkgk/).
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7419/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2008 — MacCormick Hunting (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7419/">record</a>)</li>
+<li>undated — MacCormick Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5493">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5493](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5493)
+- Scottish Tartans Authority (ITI): 7419
+
+## Thread count
+K/6 DG40 K40 G40 K/6
+
+One full sett is **252 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/6 DG40 K40 G40 K/6 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k3dg20k20g20k3~x2">MacCormick Hunting (Name)</a> <a class="nn-out" href="/variants/s5/k3dg20k20g20k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k3dg20k20g20k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=g7dy6dt7dy1dt2~x6&amp;base=k3dg20k20g20k3~x2">Bright of Garth (Personal)</a> <a class="nn-out" href="/variants/s5/g7dy6dt7dy1dt2~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g7dy6dt7dy1dt2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=k3g14k14g2dt14g3~x2&amp;base=k3dg20k20g20k3~x2">MacKay Clan Tartan</a> <a class="nn-out" href="/variants/s6/k3g14k14g2dt14g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g14k14g2dt14g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=dp4n18k17n3g18n4~x2&amp;base=k3dg20k20g20k3~x2">Scottish Airports (Corporate)</a> <a class="nn-out" href="/variants/s6/dp4n18k17n3g18n4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dp4n18k17n3g18n4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.55</div><div class="nn-name"><a href="/ttd/edit/#slug=k5dg14k16db12dg4~x2&amp;base=k3dg20k20g20k3~x2">Unidentified #29</a> <a class="nn-out" href="/variants/s5/k5dg14k16db12dg4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k5dg14k16db12dg4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.64</div><div class="nn-name"><a href="/ttd/edit/#slug=k6t1dg7k1~x2&amp;base=k3dg20k20g20k3~x2">Innes (Miniature)</a> <a class="nn-out" href="/variants/s4/k6t1dg7k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k6t1dg7k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.67</div><div class="nn-name"><a href="/ttd/edit/#slug=k3dg4k1dg4k3db4k1~x2&amp;base=k3dg20k20g20k3~x2">Unidentified No 63</a> <a class="nn-out" href="/variants/s7/k3dg4k1dg4k3db4k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k3dg4k1dg4k3db4k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.70</div><div class="nn-name"><a href="/ttd/edit/#slug=g4dy25g6t12g12t3~x2&amp;base=k3dg20k20g20k3~x2">Canadian Fancy</a> <a class="nn-out" href="/variants/s6/g4dy25g6t12g12t3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g4dy25g6t12g12t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.74</div><div class="nn-name"><a href="/ttd/edit/#slug=k6dg6r1dg6k6db6k1~x2&amp;base=k3dg20k20g20k3~x2">MacCallum #2</a> <a class="nn-out" href="/variants/s7/k6dg6r1dg6k6db6k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k6dg6r1dg6k6db6k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.76</div><div class="nn-name"><a href="/ttd/edit/#slug=n4g18n3k17n18p4~x2&amp;base=k3dg20k20g20k3~x2">Scottish Airports</a> <a class="nn-out" href="/variants/s6/n4g18n3k17n18p4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/n4g18n3k17n18p4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.78</div><div class="nn-name"><a href="/ttd/edit/#slug=k12dg12k2dg12k12db12t3~x2&amp;base=k3dg20k20g20k3~x2">MacIntyre</a> <a class="nn-out" href="/variants/s7/k12dg12k2dg12k12db12t3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k12dg12k2dg12k12db12t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><circle cx="292.6" cy="333.0" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/variants/s6/k3g14k14g2dt14g3~x2/"><circle cx="250.8" cy="292.7" r="4" fill="#3465a4"><title>MacKay Clan Tartan</title></circle></a><a href="/variants/s6/dp4n18k17n3g18n4~x2/"><circle cx="223.0" cy="281.8" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/variants/s5/k5dg14k16db12dg4~x2/"><circle cx="265.0" cy="365.6" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/variants/s4/k6t1dg7k1~x2/"><circle cx="336.5" cy="309.1" r="4" fill="#3465a4"><title>Innes (Miniature)</title></circle></a><a href="/variants/s7/k3dg4k1dg4k3db4k1~x2/"><circle cx="235.9" cy="345.5" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s6/g4dy25g6t12g12t3~x2/"><circle cx="302.4" cy="289.8" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s7/k6dg6r1dg6k6db6k1~x2/"><circle cx="221.0" cy="297.6" r="4" fill="#3465a4"><title>MacCallum #2</title></circle></a><a href="/variants/s6/n4g18n3k17n18p4~x2/"><circle cx="211.5" cy="276.1" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s7/k12dg12k2dg12k12db12t3~x2/"><circle cx="212.8" cy="303.8" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><circle cx="276.8" cy="321.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/k3dg20k20g20k3~x2/

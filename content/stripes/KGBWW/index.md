@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacTeddy](/setts/s5/lt3w10db10g10k2~x4/)|
-|![MacTeddy example sett](/setts/s5/lt3w10db10g10k2~x4/sett.png)|
+| [MacTeddy](/variants/s5/lt3w10db10g10k2~x4/)|
+|![MacTeddy example sett](/variants/s5/lt3w10db10g10k2~x4/sett.png)|

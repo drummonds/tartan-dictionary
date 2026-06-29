@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ailsa, Royal Blue (Dance)](/setts/s6/db8t3db28w32dt3w4~x2/)|
-|![Ailsa, Royal Blue (Dance) example sett](/setts/s6/db8t3db28w32dt3w4~x2/sett.png)|
+| [Ailsa, Royal Blue (Dance)](/variants/s6/db8t3db28w32dt3w4~x2/)|
+|![Ailsa, Royal Blue (Dance) example sett](/variants/s6/db8t3db28w32dt3w4~x2/sett.png)|

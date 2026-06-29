@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Detroit Lions](/setts/s8/db30lb2k9w3db6w4k3lb6~x2/)|
-|![Detroit Lions example sett](/setts/s8/db30lb2k9w3db6w4k3lb6~x2/sett.png)|
+| [Detroit Lions](/variants/s8/db30lb2k9w3db6w4k3lb6~x2/)|
+|![Detroit Lions example sett](/variants/s8/db30lb2k9w3db6w4k3lb6~x2/sett.png)|

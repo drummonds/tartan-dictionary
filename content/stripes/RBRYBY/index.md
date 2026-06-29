@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Torana](/setts/s6/r13dt13o5lo2dt13lo13~x2/)|
-|![Torana example sett](/setts/s6/r13dt13o5lo2dt13lo13~x2/sett.png)|
+| [Torana](/variants/s6/r13dt13o5lo2dt13lo13~x2/)|
+|![Torana example sett](/variants/s6/r13dt13o5lo2dt13lo13~x2/sett.png)|

@@ -8,12 +8,11 @@ A family of [Clan MacDonell](/clan/macdonell/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/"><img src="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/sett.png" alt="MacDonell of Glengarry D" width="240"><br>MacDonell of Glengarry D</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/"><img src="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/sett.png" alt="MacDonell of Glengarry D" width="140"><br>MacDonell of Glengarry D</a></li>
-<li><a class="tartan" href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/"><img src="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/sett.png" alt="MacDonell of Glengarry D" width="140"><br>MacDonell of Glengarry D</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/">MacDonell of Glengarry D</a> ★</td><td><code>DB/16 R2 DB4 R6 DB24 R2 K24 DG24 R6 DG4 R2 DG8 LR/2</code></td><td>4</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/"><img src="/variants/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/sett.png" alt="MacDonell of Glengarry D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

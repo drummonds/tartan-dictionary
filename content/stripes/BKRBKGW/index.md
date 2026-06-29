@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Deloughery, Paul](/setts/s7/db20k6o4db3k16g20w2~x2/)|
-|![Deloughery, Paul example sett](/setts/s7/db20k6o4db3k16g20w2~x2/sett.png)|
+| [Deloughery, Paul](/variants/s7/db20k6o4db3k16g20w2~x2/)|
+|![Deloughery, Paul example sett](/variants/s7/db20k6o4db3k16g20w2~x2/sett.png)|

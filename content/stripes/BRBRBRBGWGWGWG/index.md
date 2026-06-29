@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber (Scrapbook)](/setts/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/)|
-|![Lochaber (Scrapbook) example sett](/setts/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/sett.png)|
+| [Lochaber (Scrapbook)](/variants/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/)|
+|![Lochaber (Scrapbook) example sett](/variants/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/sett.png)|

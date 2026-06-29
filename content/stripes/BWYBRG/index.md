@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montessori School of Denver](/setts/s6/g25r9b3ly7w3dp11/)|
-|![Montessori School of Denver example sett](/setts/s6/g25r9b3ly7w3dp11/sett.png)|
-| [Montessori School of Denver (School)](/setts/s6/g25r9t3ly7w3n11~x3/)|
-|![Montessori School of Denver (School) example sett](/setts/s6/g25r9t3ly7w3n11~x3/sett.png)|
+| [Montessori School of Denver](/variants/s6/g25r9b3ly7w3dp11/)|
+|![Montessori School of Denver example sett](/variants/s6/g25r9b3ly7w3dp11/sett.png)|
+| [Montessori School of Denver (School)](/variants/s6/g25r9t3ly7w3n11~x3/)|
+|![Montessori School of Denver (School) example sett](/variants/s6/g25r9t3ly7w3n11~x3/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lashbrooke of Barrowfield](/setts/s12/db3w3r3w24ly4dy6db3r2db16b12ly2db3~x2/)|
-|![Lashbrooke of Barrowfield example sett](/setts/s12/db3w3r3w24ly4dy6db3r2db16b12ly2db3~x2/sett.png)|
+| [Lashbrooke of Barrowfield](/variants/s12/db3w3r3w24ly4dy6db3r2db16b12ly2db3~x2/)|
+|![Lashbrooke of Barrowfield example sett](/variants/s12/db3w3r3w24ly4dy6db3r2db16b12ly2db3~x2/sett.png)|

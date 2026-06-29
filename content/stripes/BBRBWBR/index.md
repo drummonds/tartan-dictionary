@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [British American School (Corporate)](/setts/s7/db2b2r1b16w1db20r2~x2/)|
-|![British American School (Corporate) example sett](/setts/s7/db2b2r1b16w1db20r2~x2/sett.png)|
+| [British American School (Corporate)](/variants/s7/db2b2r1b16w1db20r2~x2/)|
+|![British American School (Corporate) example sett](/variants/s7/db2b2r1b16w1db20r2~x2/sett.png)|

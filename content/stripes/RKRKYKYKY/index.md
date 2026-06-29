@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aubigny](/setts/s9/ly20k2ly3k2ly4k9r18k2r5~x2/)|
-|![Aubigny example sett](/setts/s9/ly20k2ly3k2ly4k9r18k2r5~x2/sett.png)|
+| [Aubigny](/variants/s9/ly20k2ly3k2ly4k9r18k2r5~x2/)|
+|![Aubigny example sett](/variants/s9/ly20k2ly3k2ly4k9r18k2r5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lambert (Front Royal) Kai](/setts/s8/k3dg34t10dg5r2k8o2w3~x2/)|
-|![Lambert (Front Royal) Kai example sett](/setts/s8/k3dg34t10dg5r2k8o2w3~x2/sett.png)|
+| [Lambert (Front Royal) Kai](/variants/s8/k3dg34t10dg5r2k8o2w3~x2/)|
+|![Lambert (Front Royal) Kai example sett](/variants/s8/k3dg34t10dg5r2k8o2w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Summer Spirit (Fashion)](/setts/s8/r2w2k2w28k8w9k1ly2~x2/)|
-|![Summer Spirit (Fashion) example sett](/setts/s8/r2w2k2w28k8w9k1ly2~x2/sett.png)|
+| [Summer Spirit (Fashion)](/variants/s8/r2w2k2w28k8w9k1ly2~x2/)|
+|![Summer Spirit (Fashion) example sett](/variants/s8/r2w2k2w28k8w9k1ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray of Tullibardine - Artefact](/setts/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/)|
-|![Murray of Tullibardine - Artefact example sett](/setts/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/sett.png)|
+| [Murray of Tullibardine - Artefact](/variants/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/)|
+|![Murray of Tullibardine - Artefact example sett](/variants/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/sett.png)|

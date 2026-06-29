@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Toon (Fashion)](/setts/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/)|
-|![Blue Toon (Fashion) example sett](/setts/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/sett.png)|
+| [Blue Toon (Fashion)](/variants/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/)|
+|![Blue Toon (Fashion) example sett](/variants/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/sett.png)|

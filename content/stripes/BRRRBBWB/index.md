@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Highlander Dress (Fashion)](/setts/s8/p26w2p3db15o26r2o3db4~x2/)|
-|![Scottish Highlander Dress (Fashion) example sett](/setts/s8/p26w2p3db15o26r2o3db4~x2/sett.png)|
+| [Scottish Highlander Dress (Fashion)](/variants/s8/p26w2p3db15o26r2o3db4~x2/)|
+|![Scottish Highlander Dress (Fashion) example sett](/variants/s8/p26w2p3db15o26r2o3db4~x2/sett.png)|

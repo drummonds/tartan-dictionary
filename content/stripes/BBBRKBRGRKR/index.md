@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber Cameron](/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/)|
-|![Lochaber Cameron example sett](/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/sett.png)|
+| [Lochaber Cameron](/variants/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/)|
+|![Lochaber Cameron example sett](/variants/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/sett.png)|

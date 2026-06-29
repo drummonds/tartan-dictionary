@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elwyn Glen (Scottish Borders)](/setts/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/)|
-|![Elwyn Glen (Scottish Borders) example sett](/setts/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/sett.png)|
+| [Elwyn Glen (Scottish Borders)](/variants/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/)|
+|![Elwyn Glen (Scottish Borders) example sett](/variants/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/sett.png)|

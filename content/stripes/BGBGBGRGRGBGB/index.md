@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montmorency](/setts/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/)|
-|![Montmorency example sett](/setts/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/sett.png)|
+| [Montmorency](/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/)|
+|![Montmorency example sett](/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/sett.png)|

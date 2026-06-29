@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greyhound Grenadiers (Corporate)](/setts/s7/db9k7o5r1o5k1o2~x4/)|
-|![Greyhound Grenadiers (Corporate) example sett](/setts/s7/db9k7o5r1o5k1o2~x4/sett.png)|
+| [Greyhound Grenadiers (Corporate)](/variants/s7/db9k7o5r1o5k1o2~x4/)|
+|![Greyhound Grenadiers (Corporate) example sett](/variants/s7/db9k7o5r1o5k1o2~x4/sett.png)|

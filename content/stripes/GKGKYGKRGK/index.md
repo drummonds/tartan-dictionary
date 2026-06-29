@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manitoba Cue Sports](/setts/s10/k8y4r1k2y16lo1k8y2k2y4~x4/)|
-|![Manitoba Cue Sports example sett](/setts/s10/k8y4r1k2y16lo1k8y2k2y4~x4/sett.png)|
+| [Manitoba Cue Sports](/variants/s10/k8y4r1k2y16lo1k8y2k2y4~x4/)|
+|![Manitoba Cue Sports example sett](/variants/s10/k8y4r1k2y16lo1k8y2k2y4~x4/sett.png)|

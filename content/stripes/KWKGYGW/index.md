@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Johnstone F.C.](/setts/s7/k19w8k19g16ly4g16w2~x2/)|
-|![St Johnstone F.C. example sett](/setts/s7/k19w8k19g16ly4g16w2~x2/sett.png)|
+| [St Johnstone F.C.](/variants/s7/k19w8k19g16ly4g16w2~x2/)|
+|![St Johnstone F.C. example sett](/variants/s7/k19w8k19g16ly4g16w2~x2/sett.png)|

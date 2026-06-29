@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bressuire](/setts/s7/dr1dg4y1dg3dr4dt15w1~x4/)|
-|![Bressuire example sett](/setts/s7/dr1dg4y1dg3dr4dt15w1~x4/sett.png)|
+| [Bressuire](/variants/s7/dr1dg4y1dg3dr4dt15w1~x4/)|
+|![Bressuire example sett](/variants/s7/dr1dg4y1dg3dr4dt15w1~x4/sett.png)|

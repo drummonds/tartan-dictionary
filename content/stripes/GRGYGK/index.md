@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cates Armigers (Personal)](/setts/s6/dg20r8dg20ly8g20k5~x2/)|
-|![Cates Armigers (Personal) example sett](/setts/s6/dg20r8dg20ly8g20k5~x2/sett.png)|
+| [Cates Armigers (Personal)](/variants/s6/dg20r8dg20ly8g20k5~x2/)|
+|![Cates Armigers (Personal) example sett](/variants/s6/dg20r8dg20ly8g20k5~x2/sett.png)|

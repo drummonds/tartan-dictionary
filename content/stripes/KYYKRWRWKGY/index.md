@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLellan Dress (Personal)](/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/)|
-|![MacLellan Dress (Personal) example sett](/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/sett.png)|
+| [MacLellan Dress (Personal)](/variants/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/)|
+|![MacLellan Dress (Personal) example sett](/variants/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/sett.png)|

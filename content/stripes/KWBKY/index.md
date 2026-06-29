@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelley Oliphint (Commemorative)](/setts/s5/k3w2n27k31lr3~x2/)|
-|![Kelley Oliphint (Commemorative) example sett](/setts/s5/k3w2n27k31lr3~x2/sett.png)|
+| [Kelley Oliphint (Commemorative)](/variants/s5/k3w2n27k31lr3~x2/)|
+|![Kelley Oliphint (Commemorative) example sett](/variants/s5/k3w2n27k31lr3~x2/sett.png)|

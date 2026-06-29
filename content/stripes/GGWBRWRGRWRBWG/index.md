@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Southwell (Personal)](/setts/s14/gi39r2w1r2db14w14gi2g10~x2/)|
-|![Southwell (Personal) example sett](/setts/s14/gi39r2w1r2db14w14gi2g10~x2/sett.png)|
+| [Southwell (Personal)](/variants/s14/gi39r2w1r2db14w14gi2g10~x2/)|
+|![Southwell (Personal) example sett](/variants/s14/gi39r2w1r2db14w14gi2g10~x2/sett.png)|

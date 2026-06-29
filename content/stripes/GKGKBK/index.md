@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duchess of Fife](/setts/s6/g70k26g12k14b3k16~x2/)|
-|![Duchess of Fife example sett](/setts/s6/g70k26g12k14b3k16~x2/sett.png)|
-| [Duchess of Fife #2](/setts/s6/g70k26g12k14db3k16~x2/)|
-|![Duchess of Fife #2 example sett](/setts/s6/g70k26g12k14db3k16~x2/sett.png)|
-| [Fife, Duchess of..](/setts/s6/g30k12g6k6db2k5~x2/)|
-|![Fife, Duchess of.. example sett](/setts/s6/g30k12g6k6db2k5~x2/sett.png)|
+| [Duchess of Fife](/variants/s6/g70k26g12k14b3k16~x2/)|
+|![Duchess of Fife example sett](/variants/s6/g70k26g12k14b3k16~x2/sett.png)|
+| [Duchess of Fife #2](/variants/s6/g70k26g12k14db3k16~x2/)|
+|![Duchess of Fife #2 example sett](/variants/s6/g70k26g12k14db3k16~x2/sett.png)|
+| [Fife, Duchess of..](/variants/s6/g30k12g6k6db2k5~x2/)|
+|![Fife, Duchess of.. example sett](/variants/s6/g30k12g6k6db2k5~x2/sett.png)|

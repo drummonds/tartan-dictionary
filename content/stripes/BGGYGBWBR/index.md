@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connor (Personal)](/setts/s9/db1dy4g8ly1g8db12w1db2r1~x4/)|
-|![Connor (Personal) example sett](/setts/s9/db1dy4g8ly1g8db12w1db2r1~x4/sett.png)|
+| [Connor (Personal)](/variants/s9/db1dy4g8ly1g8db12w1db2r1~x4/)|
+|![Connor (Personal) example sett](/variants/s9/db1dy4g8ly1g8db12w1db2r1~x4/sett.png)|

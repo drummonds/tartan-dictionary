@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Caledonian University](/setts/s17/k5r2k30t8w1k9w2k9w1t8k30r3k30t8w1k9w2~x2/)|
-|![Glasgow Caledonian University example sett](/setts/s17/k5r2k30t8w1k9w2k9w1t8k30r3k30t8w1k9w2~x2/sett.png)|
+| [Glasgow Caledonian University](/variants/s17/k5r2k30t8w1k9w2k9w1t8k30r3k30t8w1k9w2~x2/)|
+|![Glasgow Caledonian University example sett](/variants/s17/k5r2k30t8w1k9w2k9w1t8k30r3k30t8w1k9w2~x2/sett.png)|

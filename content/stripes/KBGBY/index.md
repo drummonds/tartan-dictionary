@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Douglas](/tartans/k2b2dg8db8lr1/)|
-|![Douglas example sett](/setts/s5/k2b2dg8db8lr1/sett.png)|
-| [Dougles Green](/tartans/k4b2dg8db8lr1/)|
-|![Dougles Green example sett](/setts/s5/k4b2dg8db8lr1/sett.png)|
-| [Wilson's, No 176](/setts/s5/k4t3g12p13ly2~x2/)|
-|![Wilson's, No 176 example sett](/setts/s5/k4t3g12p13ly2~x2/sett.png)|
+| [Douglas](/setts/k2b2dg8db8lr1/)|
+|![Douglas example sett](/variants/s5/k2b2dg8db8lr1/sett.png)|
+| [Dougles Green](/setts/k4b2dg8db8lr1/)|
+|![Dougles Green example sett](/variants/s5/k4b2dg8db8lr1/sett.png)|
+| [Wilson's, No 176](/variants/s5/k4t3g12p13ly2~x2/)|
+|![Wilson's, No 176 example sett](/variants/s5/k4t3g12p13ly2~x2/sett.png)|

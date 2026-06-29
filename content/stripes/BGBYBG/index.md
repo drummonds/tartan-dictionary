@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oxford University](/setts/s6/g16db59ly4db59g16dbi9~x2/)|
-|![Oxford University example sett](/setts/s6/g16db59ly4db59g16dbi9~x2/sett.png)|
+| [Oxford University](/variants/s6/g16db59ly4db59g16dbi9~x2/)|
+|![Oxford University example sett](/variants/s6/g16db59ly4db59g16dbi9~x2/sett.png)|

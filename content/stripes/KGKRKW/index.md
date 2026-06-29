@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henkel (Corporate)](/setts/s6/k3y28k3r22k8w3~x2/)|
-|![Henkel (Corporate) example sett](/setts/s6/k3y28k3r22k8w3~x2/sett.png)|
+| [Henkel (Corporate)](/variants/s6/k3y28k3r22k8w3~x2/)|
+|![Henkel (Corporate) example sett](/variants/s6/k3y28k3r22k8w3~x2/sett.png)|

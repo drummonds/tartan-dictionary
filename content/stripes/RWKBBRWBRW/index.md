@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Voluntary Service Aberdeen](/setts/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/)|
-|![Voluntary Service Aberdeen example sett](/setts/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/sett.png)|
+| [Voluntary Service Aberdeen](/variants/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/)|
+|![Voluntary Service Aberdeen example sett](/variants/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/sett.png)|

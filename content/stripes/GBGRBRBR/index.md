@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chindecella Gorse (Kemete Heil)](/setts/s8/o9do4o4do4o24dy19do19dy4~x2/)|
-|![Chindecella Gorse (Kemete Heil) example sett](/setts/s8/o9do4o4do4o24dy19do19dy4~x2/sett.png)|
+| [Chindecella Gorse (Kemete Heil)](/variants/s8/o9do4o4do4o24dy19do19dy4~x2/)|
+|![Chindecella Gorse (Kemete Heil) example sett](/variants/s8/o9do4o4do4o24dy19do19dy4~x2/sett.png)|

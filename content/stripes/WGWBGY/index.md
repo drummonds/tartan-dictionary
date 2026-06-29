@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nynashamn Whisky Society (Corporate)](/setts/s6/ly21g26db62w2dg2w2/)|
-|![Nynashamn Whisky Society (Corporate) example sett](/setts/s6/ly21g26db62w2dg2w2/sett.png)|
+| [Nynashamn Whisky Society (Corporate)](/variants/s6/ly21g26db62w2dg2w2/)|
+|![Nynashamn Whisky Society (Corporate) example sett](/variants/s6/ly21g26db62w2dg2w2/sett.png)|

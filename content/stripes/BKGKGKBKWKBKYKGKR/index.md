@@ -24,7 +24,7 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cockburn](/setts/s17/db15k1g1k1g1k1db5k1w1k1db5k1ly1k1g5k1r1~x2/)|
-|![Cockburn example sett](/setts/s17/db15k1g1k1g1k1db5k1w1k1db5k1ly1k1g5k1r1~x2/sett.png)|
-| [Cockburn Blue](/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/)|
-|![Cockburn Blue example sett](/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/sett.png)|
+| [Cockburn](/variants/s17/db15k1g1k1g1k1db5k1w1k1db5k1ly1k1g5k1r1~x2/)|
+|![Cockburn example sett](/variants/s17/db15k1g1k1g1k1db5k1w1k1db5k1ly1k1g5k1r1~x2/sett.png)|
+| [Cockburn Blue](/variants/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/)|
+|![Cockburn Blue example sett](/variants/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/sett.png)|

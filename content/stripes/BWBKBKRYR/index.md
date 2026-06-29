@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledon (Corporate)](/setts/s9/n8w3n25k3n4k8r31ly2r5~x2/)|
-|![Caledon (Corporate) example sett](/setts/s9/n8w3n25k3n4k8r31ly2r5~x2/sett.png)|
+| [Caledon (Corporate)](/variants/s9/n8w3n25k3n4k8r31ly2r5~x2/)|
+|![Caledon (Corporate) example sett](/variants/s9/n8w3n25k3n4k8r31ly2r5~x2/sett.png)|

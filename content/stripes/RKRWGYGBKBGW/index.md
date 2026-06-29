@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathclyde Fire Services (Corporate](/setts/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/)|
-|![Strathclyde Fire Services (Corporate example sett](/setts/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/sett.png)|
+| [Strathclyde Fire Services (Corporate](/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/)|
+|![Strathclyde Fire Services (Corporate example sett](/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.230](/setts/s12/r4k2db16k17dg16k2y4~x2/)|
-|![Wilson's No.230 example sett](/setts/s12/r4k2db16k17dg16k2y4~x2/sett.png)|
+| [Wilson's No.230](/variants/s12/r4k2db16k17dg16k2y4~x2/)|
+|![Wilson's No.230 example sett](/variants/s12/r4k2db16k17dg16k2y4~x2/sett.png)|

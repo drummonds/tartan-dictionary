@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kintyre](/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/)|
-|![Kintyre example sett](/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/sett.png)|
+| [Kintyre](/variants/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/)|
+|![Kintyre example sett](/variants/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/sett.png)|

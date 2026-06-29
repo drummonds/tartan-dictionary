@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New York Caledonian Club Dress](/setts/s11/ri9db1ri2db3ri28k12lb1ri6lb1db6r1~x2/)|
-|![New York Caledonian Club Dress example sett](/setts/s11/ri9db1ri2db3ri28k12lb1ri6lb1db6r1~x2/sett.png)|
+| [New York Caledonian Club Dress](/variants/s11/ri9db1ri2db3ri28k12lb1ri6lb1db6r1~x2/)|
+|![New York Caledonian Club Dress example sett](/variants/s11/ri9db1ri2db3ri28k12lb1ri6lb1db6r1~x2/sett.png)|

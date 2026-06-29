@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Johns County Sheriff Office (Cor)](/setts/s5/r17db7lo8g58k6~x2/)|
-|![St Johns County Sheriff Office (Cor) example sett](/setts/s5/r17db7lo8g58k6~x2/sett.png)|
-| [St Johns County's Sheriff's Office](/setts/s5/r17db7lo8dg58k6~x2/)|
-|![St Johns County's Sheriff's Office example sett](/setts/s5/r17db7lo8dg58k6~x2/sett.png)|
+| [St Johns County Sheriff Office (Cor)](/variants/s5/r17db7lo8g58k6~x2/)|
+|![St Johns County Sheriff Office (Cor) example sett](/variants/s5/r17db7lo8g58k6~x2/sett.png)|
+| [St Johns County's Sheriff's Office](/variants/s5/r17db7lo8dg58k6~x2/)|
+|![St Johns County's Sheriff's Office example sett](/variants/s5/r17db7lo8dg58k6~x2/sett.png)|

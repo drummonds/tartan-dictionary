@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connaught Ancestry](/setts/s11/db4do21db8k4db4lo4db9do9db38k1w3~x2/)|
-|![Connaught Ancestry example sett](/setts/s11/db4do21db8k4db4lo4db9do9db38k1w3~x2/sett.png)|
-| [Connaught Ancestry (Fashion)](/setts/s11/db4n21db8k4db4ly4db9n9db38k1lb3~x2/)|
-|![Connaught Ancestry (Fashion) example sett](/setts/s11/db4n21db8k4db4ly4db9n9db38k1lb3~x2/sett.png)|
+| [Connaught Ancestry](/variants/s11/db4do21db8k4db4lo4db9do9db38k1w3~x2/)|
+|![Connaught Ancestry example sett](/variants/s11/db4do21db8k4db4lo4db9do9db38k1w3~x2/sett.png)|
+| [Connaught Ancestry (Fashion)](/variants/s11/db4n21db8k4db4ly4db9n9db38k1lb3~x2/)|
+|![Connaught Ancestry (Fashion) example sett](/variants/s11/db4n21db8k4db4ly4db9n9db38k1lb3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cunningham / Wilson's No 120](/setts/s7/k11g12w2g12k12dp12r3~x2/)|
-|![Cunningham / Wilson's No 120 example sett](/setts/s7/k11g12w2g12k12dp12r3~x2/sett.png)|
-| [Wilson's, No 120](/setts/s7/k12g12w2g12k12p12r3~x2/)|
-|![Wilson's, No 120 example sett](/setts/s7/k12g12w2g12k12p12r3~x2/sett.png)|
+| [Cunningham / Wilson's No 120](/variants/s7/k11g12w2g12k12dp12r3~x2/)|
+|![Cunningham / Wilson's No 120 example sett](/variants/s7/k11g12w2g12k12dp12r3~x2/sett.png)|
+| [Wilson's, No 120](/variants/s7/k12g12w2g12k12p12r3~x2/)|
+|![Wilson's, No 120 example sett](/variants/s7/k12g12w2g12k12p12r3~x2/sett.png)|

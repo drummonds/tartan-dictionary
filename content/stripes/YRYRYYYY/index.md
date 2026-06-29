@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [PeachyKeen](/setts/s8/ly5lg2ly2lg35r20ly2r20ly2/)|
-|![PeachyKeen example sett](/setts/s8/ly5lg2ly2lg35r20ly2r20ly2/sett.png)|
+| [PeachyKeen](/variants/s8/ly5lg2ly2lg35r20ly2r20ly2/)|
+|![PeachyKeen example sett](/variants/s8/ly5lg2ly2lg35r20ly2r20ly2/sett.png)|

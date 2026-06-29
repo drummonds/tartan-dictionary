@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kildare](/setts/s8/g8dr2g13r4g12t22g5y3~x2/)|
-|![Kildare example sett](/setts/s8/g8dr2g13r4g12t22g5y3~x2/sett.png)|
+| [Kildare](/variants/s8/g8dr2g13r4g12t22g5y3~x2/)|
+|![Kildare example sett](/variants/s8/g8dr2g13r4g12t22g5y3~x2/sett.png)|

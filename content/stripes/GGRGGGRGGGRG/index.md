@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Houston](/setts/s12/y2o2y12dy2y32o2y1g2y1o2y1g2~x2/)|
-|![Houston example sett](/setts/s12/y2o2y12dy2y32o2y1g2y1o2y1g2~x2/sett.png)|
+| [Houston](/variants/s12/y2o2y12dy2y32o2y1g2y1o2y1g2~x2/)|
+|![Houston example sett](/variants/s12/y2o2y12dy2y32o2y1g2y1o2y1g2~x2/sett.png)|

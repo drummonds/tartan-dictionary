@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Delta Lambda Phi](/setts/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/)|
-|![Delta Lambda Phi example sett](/setts/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/sett.png)|
-| [Delta Lambda Phi (Corporate)](/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/)|
-|![Delta Lambda Phi (Corporate) example sett](/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/sett.png)|
+| [Delta Lambda Phi](/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/)|
+|![Delta Lambda Phi example sett](/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/sett.png)|
+| [Delta Lambda Phi (Corporate)](/variants/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/)|
+|![Delta Lambda Phi (Corporate) example sett](/variants/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/sett.png)|

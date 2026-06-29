@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cowal Highland Gathering](/setts/s9/dg2y8dt1y1dt1y1dt8dti9n1~x4/)|
-|![Cowal Highland Gathering example sett](/setts/s9/dg2y8dt1y1dt1y1dt8dti9n1~x4/sett.png)|
+| [Cowal Highland Gathering](/variants/s9/dg2y8dt1y1dt1y1dt8dti9n1~x4/)|
+|![Cowal Highland Gathering example sett](/variants/s9/dg2y8dt1y1dt1y1dt8dti9n1~x4/sett.png)|

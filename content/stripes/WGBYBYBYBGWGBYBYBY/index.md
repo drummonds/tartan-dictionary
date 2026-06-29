@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lamont Heather](/setts/s18/lo18do3lo3do3lo3do16y16w3y16do16lo17do3lo3do3lo17do16y16w3~x2/)|
-|![Lamont Heather example sett](/setts/s18/lo18do3lo3do3lo3do16y16w3y16do16lo17do3lo3do3lo17do16y16w3~x2/sett.png)|
+| [Lamont Heather](/variants/s18/lo18do3lo3do3lo3do16y16w3y16do16lo17do3lo3do3lo17do16y16w3~x2/)|
+|![Lamont Heather example sett](/variants/s18/lo18do3lo3do3lo3do16y16w3y16do16lo17do3lo3do3lo17do16y16w3~x2/sett.png)|

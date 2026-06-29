@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heartlands](/setts/s20/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/)|
-|![Heartlands example sett](/setts/s20/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/sett.png)|
+| [Heartlands](/variants/s20/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/)|
+|![Heartlands example sett](/variants/s20/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/sett.png)|

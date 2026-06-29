@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Bakers](/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/)|
-|![Scottish Bakers example sett](/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/sett.png)|
+| [Scottish Bakers](/variants/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/)|
+|![Scottish Bakers example sett](/variants/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hutchens (Personal)](/setts/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/)|
-|![Hutchens (Personal) example sett](/setts/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/sett.png)|
+| [Hutchens (Personal)](/variants/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/)|
+|![Hutchens (Personal) example sett](/variants/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/sett.png)|

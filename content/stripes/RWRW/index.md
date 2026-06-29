@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lewis, Red (Dance)](/setts/s4/r4w35r31w4~x2/)|
-|![Lewis, Red (Dance) example sett](/setts/s4/r4w35r31w4~x2/sett.png)|
+| [Lewis, Red (Dance)](/variants/s4/r4w35r31w4~x2/)|
+|![Lewis, Red (Dance) example sett](/variants/s4/r4w35r31w4~x2/sett.png)|

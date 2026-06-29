@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald (Flora.. )](/setts/s7/dg17ly2k14r2db9r2db10~x2/)|
-|![MacDonald (Flora.. ) example sett](/setts/s7/dg17ly2k14r2db9r2db10~x2/sett.png)|
-| [MacDonald, (Flora.. )](/setts/s7/g17ly2k14r2db9r2db10~x2/)|
-|![MacDonald, (Flora.. ) example sett](/setts/s7/g17ly2k14r2db9r2db10~x2/sett.png)|
+| [MacDonald (Flora.. )](/variants/s7/dg17ly2k14r2db9r2db10~x2/)|
+|![MacDonald (Flora.. ) example sett](/variants/s7/dg17ly2k14r2db9r2db10~x2/sett.png)|
+| [MacDonald, (Flora.. )](/variants/s7/g17ly2k14r2db9r2db10~x2/)|
+|![MacDonald, (Flora.. ) example sett](/variants/s7/g17ly2k14r2db9r2db10~x2/sett.png)|

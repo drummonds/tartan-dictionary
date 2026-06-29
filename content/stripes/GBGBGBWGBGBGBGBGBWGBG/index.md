@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Matheson Hunting (Crowe 1974) (Personal)](/setts/s21/g8b4g1b1g1b24w8g4b1g1b1g4b8g1b1g1b1w8g8b2g2~x4/)|
-|![Matheson Hunting (Crowe 1974) (Personal) example sett](/setts/s21/g8b4g1b1g1b24w8g4b1g1b1g4b8g1b1g1b1w8g8b2g2~x4/sett.png)|
+| [Matheson Hunting (Crowe 1974) (Personal)](/variants/s21/g8b4g1b1g1b24w8g4b1g1b1g4b8g1b1g1b1w8g8b2g2~x4/)|
+|![Matheson Hunting (Crowe 1974) (Personal) example sett](/variants/s21/g8b4g1b1g1b24w8g4b1g1b1g4b8g1b1g1b1w8g8b2g2~x4/sett.png)|

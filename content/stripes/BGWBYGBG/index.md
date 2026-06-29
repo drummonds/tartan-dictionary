@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Trust](/setts/s8/g2do8g8lo3do1w12g2do1~x2/)|
-|![National Trust example sett](/setts/s8/g2do8g8lo3do1w12g2do1~x2/sett.png)|
+| [National Trust](/variants/s8/g2do8g8lo3do1w12g2do1~x2/)|
+|![National Trust example sett](/variants/s8/g2do8g8lo3do1w12g2do1~x2/sett.png)|

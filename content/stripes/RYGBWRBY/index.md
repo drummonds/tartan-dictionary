@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Round Table Sweden](/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/)|
-|![Round Table Sweden example sett](/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/sett.png)|
-| [Round Table Sweden](/setts/s8/r3lo15g4t6w2r30t6ly3~x2/)|
-|![Round Table Sweden example sett](/setts/s8/r3lo15g4t6w2r30t6ly3~x2/sett.png)|
+| [Round Table Sweden](/variants/s8/r3lo15g4t6w2r30t6ly3~x2/)|
+|![Round Table Sweden example sett](/variants/s8/r3lo15g4t6w2r30t6ly3~x2/sett.png)|
+| [Round Table Sweden](/variants/s8/r3lo15g4dt6w2r30dt6ly3~x2/)|
+|![Round Table Sweden example sett](/variants/s8/r3lo15g4dt6w2r30dt6ly3~x2/sett.png)|

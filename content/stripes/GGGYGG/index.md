@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spring Morning](/setts/s6/y9g9lo1g9y9g1~x4/)|
-|![Spring Morning example sett](/setts/s6/y9g9lo1g9y9g1~x4/sett.png)|
+| [Spring Morning](/variants/s6/y9g9lo1g9y9g1~x4/)|
+|![Spring Morning example sett](/variants/s6/y9g9lo1g9y9g1~x4/sett.png)|

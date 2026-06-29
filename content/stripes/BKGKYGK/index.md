@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Affara (Personal)](/setts/s7/db80k5g12k2ly2g2k10~x2/)|
-|![Affara (Personal) example sett](/setts/s7/db80k5g12k2ly2g2k10~x2/sett.png)|
+| [Affara (Personal)](/variants/s7/db80k5g12k2ly2g2k10~x2/)|
+|![Affara (Personal) example sett](/variants/s7/db80k5g12k2ly2g2k10~x2/sett.png)|

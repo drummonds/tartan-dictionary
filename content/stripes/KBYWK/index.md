@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gingles (Personal)](/setts/s5/k60w8lo15dp74k14/)|
-|![Gingles (Personal) example sett](/setts/s5/k60w8lo15dp74k14/sett.png)|
+| [Gingles (Personal)](/variants/s5/k60w8lo15dp74k14/)|
+|![Gingles (Personal) example sett](/variants/s5/k60w8lo15dp74k14/sett.png)|

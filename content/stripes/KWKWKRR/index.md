@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunfermline Athletic (2008) (Corp)](/setts/s7/k11w1k1w1k4o8r1~x8/)|
-|![Dunfermline Athletic (2008) (Corp) example sett](/setts/s7/k11w1k1w1k4o8r1~x8/sett.png)|
+| [Dunfermline Athletic (2008) (Corp)](/variants/s7/k11w1k1w1k4o8r1~x8/)|
+|![Dunfermline Athletic (2008) (Corp) example sett](/variants/s7/k11w1k1w1k4o8r1~x8/sett.png)|

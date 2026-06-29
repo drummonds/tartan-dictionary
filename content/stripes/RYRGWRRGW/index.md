@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx Laxey (Red)](/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/)|
-|![Manx Laxey (Red) example sett](/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/sett.png)|
+| [Manx Laxey (Red)](/variants/s9/r24ly2o3dy2w10r4o3dy3w2~x2/)|
+|![Manx Laxey (Red) example sett](/variants/s9/r24ly2o3dy2w10r4o3dy3w2~x2/sett.png)|

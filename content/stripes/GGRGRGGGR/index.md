@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCall, F.W. (Personal)](/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/)|
-|![McCall, F.W. (Personal) example sett](/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/sett.png)|
+| [McCall, F.W. (Personal)](/variants/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/)|
+|![McCall, F.W. (Personal) example sett](/variants/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/sett.png)|

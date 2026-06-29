@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [United Colours of Scotland (Corporat](/setts/s7/dg7db3dg7dt22db22w3db5~x2/)|
-|![United Colours of Scotland (Corporat example sett](/setts/s7/dg7db3dg7dt22db22w3db5~x2/sett.png)|
+| [United Colours of Scotland (Corporat](/variants/s7/dg7db3dg7dt22db22w3db5~x2/)|
+|![United Colours of Scotland (Corporat example sett](/variants/s7/dg7db3dg7dt22db22w3db5~x2/sett.png)|

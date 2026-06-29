@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon (Clan)](/setts/s13/db23k3db3k3db3k17ly22k4ly22k17db22k3db3~x2/)|
-|![Gordon (Clan) example sett](/setts/s13/db23k3db3k3db3k17ly22k4ly22k17db22k3db3~x2/sett.png)|
+| [Gordon (Clan)](/variants/s13/db23k3db3k3db3k17ly22k4ly22k17db22k3db3~x2/)|
+|![Gordon (Clan) example sett](/variants/s13/db23k3db3k3db3k17ly22k4ly22k17db22k3db3~x2/sett.png)|

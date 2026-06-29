@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [GYL family (Personal)](/setts/s10/db28r3w3r3w3r3db28k12b38wi8/)|
-|![GYL family (Personal) example sett](/setts/s10/db28r3w3r3w3r3db28k12b38wi8/sett.png)|
+| [GYL family (Personal)](/variants/s10/db28r3w3r3w3r3db28k12b38wi8/)|
+|![GYL family (Personal) example sett](/variants/s10/db28r3w3r3w3r3db28k12b38wi8/sett.png)|

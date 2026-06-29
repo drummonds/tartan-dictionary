@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sanix Muted](/setts/s4/dg3dy30dg40r3~x2/)|
-|![Sanix Muted example sett](/setts/s4/dg3dy30dg40r3~x2/sett.png)|
+| [Sanix Muted](/variants/s4/dg3dy30dg40r3~x2/)|
+|![Sanix Muted example sett](/variants/s4/dg3dy30dg40r3~x2/sett.png)|

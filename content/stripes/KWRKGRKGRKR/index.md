@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Valdres, Kvam & Vang #2](/setts/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/)|
-|![Valdres, Kvam & Vang #2 example sett](/setts/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/sett.png)|
+| [Valdres, Kvam & Vang #2](/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/)|
+|![Valdres, Kvam & Vang #2 example sett](/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Punky Princess](/setts/s7/k14m2k4lr3k12m8k1~x2/)|
-|![Punky Princess example sett](/setts/s7/k14m2k4lr3k12m8k1~x2/sett.png)|
+| [Punky Princess](/variants/s7/k14m2k4lr3k12m8k1~x2/)|
+|![Punky Princess example sett](/variants/s7/k14m2k4lr3k12m8k1~x2/sett.png)|

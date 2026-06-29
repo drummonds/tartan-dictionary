@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jahore](/setts/s5/y57w5g20y5ly10/)|
-|![Jahore example sett](/setts/s5/y57w5g20y5ly10/sett.png)|
+| [Jahore](/variants/s5/y57w5g20y5ly10/)|
+|![Jahore example sett](/variants/s5/y57w5g20y5ly10/sett.png)|

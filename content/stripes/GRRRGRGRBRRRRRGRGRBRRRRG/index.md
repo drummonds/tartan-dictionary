@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDougall - 1819 (Clan)](/setts/s24/yi1ri4rii2r2y27r4y2r4dp10ri3rii2r2rii2ri3y10r10y10r2dp2r26ri3rii2r3yi1~x2/)|
-|![MacDougall - 1819 (Clan) example sett](/setts/s24/yi1ri4rii2r2y27r4y2r4dp10ri3rii2r2rii2ri3y10r10y10r2dp2r26ri3rii2r3yi1~x2/sett.png)|
+| [MacDougall - 1819 (Clan)](/variants/s24/yi1ri4rii2r2y27r4y2r4dp10ri3rii2r2rii2ri3y10r10y10r2dp2r26ri3rii2r3yi1~x2/)|
+|![MacDougall - 1819 (Clan) example sett](/variants/s24/yi1ri4rii2r2y27r4y2r4dp10ri3rii2r2rii2ri3y10r10y10r2dp2r26ri3rii2r3yi1~x2/sett.png)|

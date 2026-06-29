@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meh Dundee](/setts/s6/db13ly2r4g2t8w2~x6/)|
-|![Meh Dundee example sett](/setts/s6/db13ly2r4g2t8w2~x6/sett.png)|
+| [Meh Dundee](/variants/s6/db13ly2r4g2t8w2~x6/)|
+|![Meh Dundee example sett](/variants/s6/db13ly2r4g2t8w2~x6/sett.png)|

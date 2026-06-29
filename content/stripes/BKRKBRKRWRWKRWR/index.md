@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anderson Blue](/setts/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/)|
-|![Anderson Blue example sett](/setts/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/sett.png)|
+| [Anderson Blue](/variants/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/)|
+|![Anderson Blue example sett](/variants/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/sett.png)|

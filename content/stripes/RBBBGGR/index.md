@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Uitwaaien Papi (Personal)](/setts/s7/r5do8dp13dt21dg34dgi55r3/)|
-|![Uitwaaien Papi (Personal) example sett](/setts/s7/r5do8dp13dt21dg34dgi55r3/sett.png)|
+| [Uitwaaien Papi (Personal)](/variants/s7/r5do8dp13dt21dg34dgi55r3/)|
+|![Uitwaaien Papi (Personal) example sett](/variants/s7/r5do8dp13dt21dg34dgi55r3/sett.png)|

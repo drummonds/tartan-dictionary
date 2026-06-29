@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Jersey](/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/)|
-|![New Jersey example sett](/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/sett.png)|
+| [New Jersey](/variants/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/)|
+|![New Jersey example sett](/variants/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKintosh Dress (Dance)](/setts/s6/r3w33dp8dg18r9g3~x2/)|
-|![MacKintosh Dress (Dance) example sett](/setts/s6/r3w33dp8dg18r9g3~x2/sett.png)|
+| [MacKintosh Dress (Dance)](/variants/s6/r3w33dp8dg18r9g3~x2/)|
+|![MacKintosh Dress (Dance) example sett](/variants/s6/r3w33dp8dg18r9g3~x2/sett.png)|

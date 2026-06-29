@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doten (2013)](/setts/s5/r14w6db38k3g2~x2/)|
-|![Doten (2013) example sett](/setts/s5/r14w6db38k3g2~x2/sett.png)|
+| [Doten (2013)](/variants/s5/r14w6db38k3g2~x2/)|
+|![Doten (2013) example sett](/variants/s5/r14w6db38k3g2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ledford](/setts/s3/dg9y4lo1~x8/)|
-|![Ledford example sett](/setts/s3/dg9y4lo1~x8/sett.png)|
+| [Ledford](/variants/s3/dg9y4lo1~x8/)|
+|![Ledford example sett](/variants/s3/dg9y4lo1~x8/sett.png)|

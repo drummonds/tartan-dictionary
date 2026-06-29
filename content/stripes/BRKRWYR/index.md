@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Java Saint Andrew Society Dress](/setts/s7/dt50r26k9r4w2lo2r10~x2/)|
-|![Java Saint Andrew Society Dress example sett](/setts/s7/dt50r26k9r4w2lo2r10~x2/sett.png)|
+| [Java Saint Andrew Society Dress](/variants/s7/dt50r26k9r4w2lo2r10~x2/)|
+|![Java Saint Andrew Society Dress example sett](/variants/s7/dt50r26k9r4w2lo2r10~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inches of Perth (District or Clan)](/setts/s9/dy44ly2k4dp2dy15m6k3t3ly2~x2/)|
-|![Inches of Perth (District or Clan) example sett](/setts/s9/dy44ly2k4dp2dy15m6k3t3ly2~x2/sett.png)|
+| [Inches of Perth (District or Clan)](/variants/s9/dy44ly2k4dp2dy15m6k3t3ly2~x2/)|
+|![Inches of Perth (District or Clan) example sett](/variants/s9/dy44ly2k4dp2dy15m6k3t3ly2~x2/sett.png)|

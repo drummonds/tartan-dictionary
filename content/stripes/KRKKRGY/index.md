@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Marines Condor](/setts/s7/k5r3k27ki37r5g2ly2~x2/)|
-|![Royal Marines Condor example sett](/setts/s7/k5r3k27ki37r5g2ly2~x2/sett.png)|
+| [Royal Marines Condor](/variants/s7/k5r3k27ki37r5g2ly2~x2/)|
+|![Royal Marines Condor example sett](/variants/s7/k5r3k27ki37r5g2ly2~x2/sett.png)|

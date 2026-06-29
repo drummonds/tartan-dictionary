@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brithwe Dewi Sant (Welsh)](/setts/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/)|
-|![Brithwe Dewi Sant (Welsh) example sett](/setts/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/sett.png)|
+| [Brithwe Dewi Sant (Welsh)](/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/)|
+|![Brithwe Dewi Sant (Welsh) example sett](/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/sett.png)|

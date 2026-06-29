@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [South Africa](/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/)|
-|![South Africa example sett](/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/sett.png)|
+| [South Africa](/variants/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/)|
+|![South Africa example sett](/variants/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/sett.png)|

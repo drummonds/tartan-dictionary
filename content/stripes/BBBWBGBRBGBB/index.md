@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lyon (Personal)](/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/)|
-|![Lyon (Personal) example sett](/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/sett.png)|
+| [Lyon (Personal)](/variants/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/)|
+|![Lyon (Personal) example sett](/variants/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/sett.png)|

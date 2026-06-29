@@ -8,12 +8,15 @@ A family of [Clan Gordon (Duke of Gordon)](/clan/gordon/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/"><img src="/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont" width="240"><br>Gordon of Esslemont</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/ly6dg3ly3dg22k23dp23k4/">Gordon of Esslemont</a> ★</td><td><code>LY/12 DG6 LY6 DG44 K46 DP46 K/8</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/ly6dg3ly3dg22k23dp23k4/"><img src="/variants/s7/ly6dg3ly3dg22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/ly6g3ly3g22k23p23k4/">Gordon of Esslemont</a></td><td><code>LY/12 G6 LY6 G44 K46 P46 K/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/ly6g3ly3g22k23p23k4/"><img src="/variants/s7/ly6g3ly3g22k23p23k4~x2/sett.png" alt="Gordon of Esslemont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s7/ly6g3ly3g22k23p23k4~x2/"><img src="/setts/s7/ly6g3ly3g22k23p23k4~x2/sett.png" alt="Gordon of Esslemont" width="140"><br>Gordon of Esslemont</a></li>
-<li><a class="tartan" href="/setts/s7/ly6g3ly3g22k23dp23k4~x2/"><img src="/setts/s7/ly6g3ly3g22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont Family Tartan Tartan Number: 1064. Earliest known date: c.1830 This sett is called 'Gordon of Esslemont' according to Captain Wolrige-Gordon of Esslemont in recent research. It was previously listed as 'Ancient Gordon' before the story of its origin came to light. Apparently the Duke of Gordon was offered tartans with one, two, and three stripes when he applied to Forsythe of Huntly to provide kilts for his troops. He chose the single stripe and called in the Heads of the families to choose from the others. Esslemont took the three stripe version. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Gordon of Esslemont Family Tartan Tartan Number: 1064. Earliest known date: c.1830 This sett is called 'Gordon of Esslemont' according to Captain Wolrige-Gordon of Esslemont in recent research. It was previously listed as 'Ancient Gordon' before the story of its origin came to light. Apparently the Duke of Gordon was offered tartans with one, two, and three stripes when he applied to Forsythe of Huntly to provide kilts for his troops. He chose the single stripe and called in the Heads of the families to choose from the others. Esslemont took the three stripe version. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+[See the Gordon of Esslemont tartan and all its setts →](/tartans/gordon-of-esslemont/)
 

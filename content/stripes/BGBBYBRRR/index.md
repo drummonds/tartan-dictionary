@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hogeboom (Personal)](/setts/s9/t4g3t9dt14ly8dt2r35ri2r3~x2/)|
-|![Hogeboom (Personal) example sett](/setts/s9/t4g3t9dt14ly8dt2r35ri2r3~x2/sett.png)|
+| [Hogeboom (Personal)](/variants/s9/t4g3t9dt14ly8dt2r35ri2r3~x2/)|
+|![Hogeboom (Personal) example sett](/variants/s9/t4g3t9dt14ly8dt2r35ri2r3~x2/sett.png)|

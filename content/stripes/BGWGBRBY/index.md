@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [United Services Planning Assoc Corporate Tartan Tartan Number: 2097. Earliest known date: 1991 The company for which the tartan is being made serves the U. S. Military Community and as such the tartan uses the colours of the Services. Navy blue for the Navy, red for the Marines, green for Army, and light blue for the Air Force and USPA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dbi4dg2w2dg4db10r2db12ly3~x2/)|
-|![United Services Planning Assoc Corporate Tartan Tartan Number: 2097. Earliest known date: 1991 The company for which the tartan is being made serves the U. S. Military Community and as such the tartan uses the colours of the Services. Navy blue for the Navy, red for the Marines, green for Army, and light blue for the Air Force and USPA. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/dbi4dg2w2dg4db10r2db12ly3~x2/sett.png)|
-| [United Services, Planning Association](/setts/s8/db4dg2w2dg4dbi10r2dbi12ly3~x2/)|
-|![United Services, Planning Association example sett](/setts/s8/db4dg2w2dg4dbi10r2dbi12ly3~x2/sett.png)|
+| [United Services Planning Assoc Corporate Tartan](/variants/s8/dbi4dg2w2dg4db10r2db12ly3~x2/)|
+|![United Services Planning Assoc Corporate Tartan example sett](/variants/s8/dbi4dg2w2dg4db10r2db12ly3~x2/sett.png)|
+| [United Services, Planning Association](/variants/s8/db4dg2w2dg4dbi10r2dbi12ly3~x2/)|
+|![United Services, Planning Association example sett](/variants/s8/db4dg2w2dg4dbi10r2dbi12ly3~x2/sett.png)|

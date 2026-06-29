@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Herriot (Personal)](/setts/s16/m2db1m1db12k1db1k1db1k5g1k1g1k1g5k2ly1~x4/)|
-|![Herriot (Personal) example sett](/setts/s16/m2db1m1db12k1db1k1db1k5g1k1g1k1g5k2ly1~x4/sett.png)|
+| [Herriot (Personal)](/variants/s16/m2db1m1db12k1db1k1db1k5g1k1g1k1g5k2ly1~x4/)|
+|![Herriot (Personal) example sett](/variants/s16/m2db1m1db12k1db1k1db1k5g1k1g1k1g5k2ly1~x4/sett.png)|

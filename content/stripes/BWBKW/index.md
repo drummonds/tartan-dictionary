@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Lomond #2](/setts/s5/b13w3b1k3w1~x6/)|
-|![Loch Lomond #2 example sett](/setts/s5/b13w3b1k3w1~x6/sett.png)|
+| [Loch Lomond #2](/variants/s5/b13w3b1k3w1~x6/)|
+|![Loch Lomond #2 example sett](/variants/s5/b13w3b1k3w1~x6/sett.png)|

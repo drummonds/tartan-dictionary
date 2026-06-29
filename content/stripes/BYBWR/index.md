@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sildesalaten](/setts/s5/r32w4dt7ly2t2~x5/)|
-|![Sildesalaten example sett](/setts/s5/r32w4dt7ly2t2~x5/sett.png)|
-| [Sildesalaten](/setts/s5/r32lb4dt7ly2t2~x5/)|
-|![Sildesalaten example sett](/setts/s5/r32lb4dt7ly2t2~x5/sett.png)|
+| [Sildesalaten](/variants/s5/r32w4dt7ly2t2~x5/)|
+|![Sildesalaten example sett](/variants/s5/r32w4dt7ly2t2~x5/sett.png)|
+| [Sildesalaten](/variants/s5/r32lb4dt7ly2t2~x5/)|
+|![Sildesalaten example sett](/variants/s5/r32lb4dt7ly2t2~x5/sett.png)|

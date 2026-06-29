@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Afternoon Tea / Apple Tea](/setts/s6/w15do8m25do72r98ly15/)|
-|![Afternoon Tea / Apple Tea example sett](/setts/s6/w15do8m25do72r98ly15/sett.png)|
+| [Afternoon Tea / Apple Tea](/variants/s6/w15do8m25do72r98ly15/)|
+|![Afternoon Tea / Apple Tea example sett](/variants/s6/w15do8m25do72r98ly15/sett.png)|

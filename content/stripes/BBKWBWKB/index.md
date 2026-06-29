@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auto Docs](/setts/s8/db30dbi2k9w3db6w4k3dbi6~x2/)|
-|![Auto Docs example sett](/setts/s8/db30dbi2k9w3db6w4k3dbi6~x2/sett.png)|
+| [Auto Docs](/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2/)|
+|![Auto Docs example sett](/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2/sett.png)|

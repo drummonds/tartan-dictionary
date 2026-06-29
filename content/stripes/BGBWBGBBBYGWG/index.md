@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Riyadh Caledonian (Corporate)](/setts/s13/db23g4db1w1db3g5db1dp4db3ly1g3w1g4~x4/)|
-|![Riyadh Caledonian (Corporate) example sett](/setts/s13/db23g4db1w1db3g5db1dp4db3ly1g3w1g4~x4/sett.png)|
+| [Riyadh Caledonian (Corporate)](/variants/s13/db23g4db1w1db3g5db1dp4db3ly1g3w1g4~x4/)|
+|![Riyadh Caledonian (Corporate) example sett](/variants/s13/db23g4db1w1db3g5db1dp4db3ly1g3w1g4~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 34 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Johnston Dress (Dalgleish)](/setts/s34/k3db3k3db18g20k3g3ly3g3k3g20lb3db3lb3db3lb12db3lb3~x2/)|
-|![Johnston Dress (Dalgleish) example sett](/setts/s34/k3db3k3db18g20k3g3ly3g3k3g20lb3db3lb3db3lb12db3lb3~x2/sett.png)|
+| [Johnston Dress (Dalgleish)](/variants/s34/k3db3k3db18g20k3g3ly3g3k3g20lb3db3lb3db3lb12db3lb3~x2/)|
+|![Johnston Dress (Dalgleish) example sett](/variants/s34/k3db3k3db18g20k3g3ly3g3k3g20lb3db3lb3db3lb12db3lb3~x2/sett.png)|

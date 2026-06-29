@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGiboney Dress](/tartans/g5lb5t1lb1ly1lb1t1lb5g5w1/)|
-|![MacGiboney Dress example sett](/setts/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x4/sett.png)|
+| [MacGiboney Dress](/setts/g5lb5t1lb1ly1lb1t1lb5g5w1/)|
+|![MacGiboney Dress example sett](/variants/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lake Ainslie Heritage](/setts/s7/lb8w16g18r2ly4r1lb4~x2/)|
-|![Lake Ainslie Heritage example sett](/setts/s7/lb8w16g18r2ly4r1lb4~x2/sett.png)|
+| [Lake Ainslie Heritage](/variants/s7/lb8w16g18r2ly4r1lb4~x2/)|
+|![Lake Ainslie Heritage example sett](/variants/s7/lb8w16g18r2ly4r1lb4~x2/sett.png)|

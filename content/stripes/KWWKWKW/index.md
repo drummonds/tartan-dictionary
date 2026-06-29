@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Warriors](/setts/s7/k16w30lb36k10lb10k83lb6/)|
-|![Glasgow Warriors example sett](/setts/s7/k16w30lb36k10lb10k83lb6/sett.png)|
+| [Glasgow Warriors](/variants/s7/k16w30lb36k10lb10k83lb6/)|
+|![Glasgow Warriors example sett](/variants/s7/k16w30lb36k10lb10k83lb6/sett.png)|

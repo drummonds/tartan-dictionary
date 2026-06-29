@@ -24,9 +24,9 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Esk](/setts/s8/dg10r1dg1r2dg8db10dg1ly1~x4/)|
-|![Glen Esk example sett](/setts/s8/dg10r1dg1r2dg8db10dg1ly1~x4/sett.png)|
-| [Glen Nevis #1](/setts/s8/dg8r2dg2r3dg8db12dg2lo2~x2/)|
-|![Glen Nevis #1 example sett](/setts/s8/dg8r2dg2r3dg8db12dg2lo2~x2/sett.png)|
-| [Glen Nevis #1 (Fashion)](/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/)|
-|![Glen Nevis #1 (Fashion) example sett](/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/sett.png)|
+| [Glen Esk](/variants/s8/dg10r1dg1r2dg8db10dg1ly1~x4/)|
+|![Glen Esk example sett](/variants/s8/dg10r1dg1r2dg8db10dg1ly1~x4/sett.png)|
+| [Glen Nevis #1](/variants/s8/dg8r2dg2r3dg8db12dg2lo2~x2/)|
+|![Glen Nevis #1 example sett](/variants/s8/dg8r2dg2r3dg8db12dg2lo2~x2/sett.png)|
+| [Glen Nevis #1 (Fashion)](/variants/s8/dg8r2dg2r3dg8db12dg2ly2~x2/)|
+|![Glen Nevis #1 (Fashion) example sett](/variants/s8/dg8r2dg2r3dg8db12dg2ly2~x2/sett.png)|

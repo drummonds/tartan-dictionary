@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Langara College](/setts/s16/w120lr5lo4lr5w40lr30w1y1w2y4lo8y10w20y30w40lr60~x2/)|
-|![Langara College example sett](/setts/s16/w120lr5lo4lr5w40lr30w1y1w2y4lo8y10w20y30w40lr60~x2/sett.png)|
+| [Langara College](/variants/s16/w120lr5lo4lr5w40lr30w1y1w2y4lo8y10w20y30w40lr60~x2/)|
+|![Langara College example sett](/variants/s16/w120lr5lo4lr5w40lr30w1y1w2y4lo8y10w20y30w40lr60~x2/sett.png)|

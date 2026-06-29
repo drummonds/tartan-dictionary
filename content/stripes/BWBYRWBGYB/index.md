@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MDF (Personal)](/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/)|
-|![MDF (Personal) example sett](/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/sett.png)|
+| [MDF (Personal)](/variants/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/)|
+|![MDF (Personal) example sett](/variants/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/sett.png)|

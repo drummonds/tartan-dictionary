@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [WestJet](/setts/s9/lyi3lb6lg20dt5g3dt15ly3dt3lg3~x2/)|
-|![WestJet example sett](/setts/s9/lyi3lb6lg20dt5g3dt15ly3dt3lg3~x2/sett.png)|
+| [WestJet](/variants/s9/lyi3lb6lg20dt5g3dt15ly3dt3lg3~x2/)|
+|![WestJet example sett](/variants/s9/lyi3lb6lg20dt5g3dt15ly3dt3lg3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Knights Templar - Grand Priory (Corp](/setts/s8/db1r2w1db30r30k1r2w1~x2/)|
-|![Knights Templar - Grand Priory (Corp example sett](/setts/s8/db1r2w1db30r30k1r2w1~x2/sett.png)|
+| [Knights Templar - Grand Priory (Corp](/variants/s8/db1r2w1db30r30k1r2w1~x2/)|
+|![Knights Templar - Grand Priory (Corp example sett](/variants/s8/db1r2w1db30r30k1r2w1~x2/sett.png)|

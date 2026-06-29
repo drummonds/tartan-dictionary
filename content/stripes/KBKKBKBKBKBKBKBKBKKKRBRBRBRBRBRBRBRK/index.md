@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Quebec (Commemorative)](/setts/s36/k50db16k8ki8db1ki1db1ki1db1ki1db1ki1db1ki1db1ki1db20ki40k12ki24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6ki4/)|
-|![Quebec (Commemorative) example sett](/setts/s36/k50db16k8ki8db1ki1db1ki1db1ki1db1ki1db1ki1db1ki1db20ki40k12ki24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6ki4/sett.png)|
+| [Quebec (Commemorative)](/variants/s36/k50db16k8ki8db1ki1db1ki1db1ki1db1ki1db1ki1db1ki1db20ki40k12ki24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6ki4/)|
+|![Quebec (Commemorative) example sett](/variants/s36/k50db16k8ki8db1ki1db1ki1db1ki1db1ki1db1ki1db1ki1db20ki40k12ki24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6ki4/sett.png)|

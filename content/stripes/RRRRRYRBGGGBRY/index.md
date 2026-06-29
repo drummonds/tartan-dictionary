@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burrell (Personal)](/setts/s14/r29o1r2o1r60lo2r2db10gi2g1gi2db10r2lo2~x2/)|
-|![Burrell (Personal) example sett](/setts/s14/r29o1r2o1r60lo2r2db10gi2g1gi2db10r2lo2~x2/sett.png)|
+| [Burrell (Personal)](/variants/s14/r29o1r2o1r60lo2r2db10gi2g1gi2db10r2lo2~x2/)|
+|![Burrell (Personal) example sett](/variants/s14/r29o1r2o1r60lo2r2db10gi2g1gi2db10r2lo2~x2/sett.png)|

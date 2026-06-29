@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling & Bannockburn Dress](/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/)|
-|![Stirling & Bannockburn Dress example sett](/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/sett.png)|
+| [Stirling & Bannockburn Dress](/variants/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/)|
+|![Stirling & Bannockburn Dress example sett](/variants/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/sett.png)|

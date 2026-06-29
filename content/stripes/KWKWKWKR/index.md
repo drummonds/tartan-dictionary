@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Piran Cornish Flag](/setts/s8/w5k20w10k1r2~x2/)|
-|![St. Piran Cornish Flag example sett](/setts/s8/w5k20w10k1r2~x2/sett.png)|
+| [St. Piran Cornish Flag](/variants/s8/w5k20w10k1r2~x2/)|
+|![St. Piran Cornish Flag example sett](/variants/s8/w5k20w10k1r2~x2/sett.png)|

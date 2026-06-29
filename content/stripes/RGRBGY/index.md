@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ruthven](/setts/s6/lr3dg15db18r30dg1r2~x2/)|
-|![Ruthven example sett](/setts/s6/lr3dg15db18r30dg1r2~x2/sett.png)|
+| [Ruthven](/variants/s6/lr3dg15db18r30dg1r2~x2/)|
+|![Ruthven example sett](/variants/s6/lr3dg15db18r30dg1r2~x2/sett.png)|

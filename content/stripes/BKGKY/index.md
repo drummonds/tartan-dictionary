@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rothesay & Caithness Fencibles (Mil)](/setts/s5/b32k10g15k2ly4~x2/)|
-|![Rothesay & Caithness Fencibles (Mil) example sett](/setts/s5/b32k10g15k2ly4~x2/sett.png)|
+| [Rothesay & Caithness Fencibles (Mil)](/variants/s5/b32k10g15k2ly4~x2/)|
+|![Rothesay & Caithness Fencibles (Mil) example sett](/variants/s5/b32k10g15k2ly4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tyrone County Crest (Fashion)](/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/)|
-|![Tyrone County Crest (Fashion) example sett](/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/sett.png)|
+| [Tyrone County Crest (Fashion)](/variants/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/)|
+|![Tyrone County Crest (Fashion) example sett](/variants/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/sett.png)|

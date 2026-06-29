@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Conservatoire of Scotland](/setts/s8/dp11t90dy3t11dp7dy11dp13t11/)|
-|![Royal Conservatoire of Scotland example sett](/setts/s8/dp11t90dy3t11dp7dy11dp13t11/sett.png)|
+| [Royal Conservatoire of Scotland](/variants/s8/dp11t90dy3t11dp7dy11dp13t11/)|
+|![Royal Conservatoire of Scotland example sett](/variants/s8/dp11t90dy3t11dp7dy11dp13t11/sett.png)|

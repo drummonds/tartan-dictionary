@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wrens (WRNS)](/setts/s16/lb16ly3lb9b14lb1b8k32r1w4~x2/)|
-|![Wrens (WRNS) example sett](/setts/s16/lb16ly3lb9b14lb1b8k32r1w4~x2/sett.png)|
+| [Wrens (WRNS)](/variants/s16/lb16ly3lb9b14lb1b8k32r1w4~x2/)|
+|![Wrens (WRNS) example sett](/variants/s16/lb16ly3lb9b14lb1b8k32r1w4~x2/sett.png)|

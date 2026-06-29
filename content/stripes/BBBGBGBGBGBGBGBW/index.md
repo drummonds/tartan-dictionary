@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bell-McTier Thistle (Personal)](/setts/s16/b8db6dp40g16db1g7b2g5b4g4b4g2b5g1b36w6/)|
-|![Bell-McTier Thistle (Personal) example sett](/setts/s16/b8db6dp40g16db1g7b2g5b4g4b4g2b5g1b36w6/sett.png)|
+| [Bell-McTier Thistle (Personal)](/variants/s16/b8db6dp40g16db1g7b2g5b4g4b4g2b5g1b36w6/)|
+|![Bell-McTier Thistle (Personal) example sett](/variants/s16/b8db6dp40g16db1g7b2g5b4g4b4g2b5g1b36w6/sett.png)|

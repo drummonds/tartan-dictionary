@@ -24,9 +24,9 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNaughton](/setts/s9/t2k2r27dg27k12t12r27k2t2~x2/)|
-|![MacNaughton example sett](/setts/s9/t2k2r27dg27k12t12r27k2t2~x2/sett.png)|
-| [Montrose](/tartans/db1k1r12g12k6db5r12k1db1/)|
-|![Montrose example sett](/setts/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png)|
-| [Montrose](/tartans/b2k2r14dg15k8b7r14k2b2/)|
-|![Montrose example sett](/setts/s9/b2k2r14dg15k8b7r14k2b2/sett.png)|
+| [MacNaughton](/variants/s9/t2k2r27dg27k12t12r27k2t2~x2/)|
+|![MacNaughton example sett](/variants/s9/t2k2r27dg27k12t12r27k2t2~x2/sett.png)|
+| [Montrose](/setts/b2k2r14dg15k8b7r14k2b2/)|
+|![Montrose example sett](/variants/s9/b2k2r14dg15k8b7r14k2b2/sett.png)|
+| [Montrose](/setts/db1k1r12g12k6db5r12k1db1/)|
+|![Montrose example sett](/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png)|

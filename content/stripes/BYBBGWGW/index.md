@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Business Air](/setts/s8/b4ly2b16db15g16w3g3w4~x2/)|
-|![Business Air example sett](/setts/s8/b4ly2b16db15g16w3g3w4~x2/sett.png)|
+| [Business Air](/variants/s8/b4ly2b16db15g16w3g3w4~x2/)|
+|![Business Air example sett](/variants/s8/b4ly2b16db15g16w3g3w4~x2/sett.png)|

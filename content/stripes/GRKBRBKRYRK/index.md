@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Faulkner (Personal)](/setts/s11/g10o1k3dp22o1dp8k2r26lo1r6k3~x2/)|
-|![Faulkner (Personal) example sett](/setts/s11/g10o1k3dp22o1dp8k2r26lo1r6k3~x2/sett.png)|
+| [Faulkner (Personal)](/variants/s11/g10o1k3dp22o1dp8k2r26lo1r6k3~x2/)|
+|![Faulkner (Personal) example sett](/variants/s11/g10o1k3dp22o1dp8k2r26lo1r6k3~x2/sett.png)|

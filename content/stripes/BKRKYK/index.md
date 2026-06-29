@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Justus](/setts/s6/k8ly1k1r1k4db1~x12/)|
-|![Justus example sett](/setts/s6/k8ly1k1r1k4db1~x12/sett.png)|
+| [Justus](/variants/s6/k8ly1k1r1k4db1~x12/)|
+|![Justus example sett](/variants/s6/k8ly1k1r1k4db1~x12/sett.png)|

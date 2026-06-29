@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leatherneck, U.S.Marine Corps](/setts/s8/g28r2g2r2g8db24y3r2~x2/)|
-|![Leatherneck, U.S.Marine Corps example sett](/setts/s8/g28r2g2r2g8db24y3r2~x2/sett.png)|
+| [Leatherneck, U.S.Marine Corps](/variants/s8/g28r2g2r2g8db24y3r2~x2/)|
+|![Leatherneck, U.S.Marine Corps example sett](/variants/s8/g28r2g2r2g8db24y3r2~x2/sett.png)|

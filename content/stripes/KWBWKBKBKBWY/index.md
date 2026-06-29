@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Goodwin, Robert Richard (Personal)](/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/)|
-|![Goodwin, Robert Richard (Personal) example sett](/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/sett.png)|
+| [Goodwin, Robert Richard (Personal)](/variants/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/)|
+|![Goodwin, Robert Richard (Personal) example sett](/variants/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/sett.png)|

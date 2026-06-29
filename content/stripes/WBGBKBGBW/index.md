@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Douglas](/setts/s9/w2db16g16t4k4t4g16db16w1~x2/)|
-|![Douglas example sett](/setts/s9/w2db16g16t4k4t4g16db16w1~x2/sett.png)|
+| [Douglas](/variants/s9/w2db16g16t4k4t4g16db16w1~x2/)|
+|![Douglas example sett](/variants/s9/w2db16g16t4k4t4g16db16w1~x2/sett.png)|

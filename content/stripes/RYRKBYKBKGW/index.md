@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Kentucky (Fashion)](/setts/s11/lb6g13k12b3k3lo3b30k3o11lo3o5~x2/)|
-|![State Seal of Kentucky (Fashion) example sett](/setts/s11/lb6g13k12b3k3lo3b30k3o11lo3o5~x2/sett.png)|
+| [State Seal of Kentucky (Fashion)](/variants/s11/lb6g13k12b3k3lo3b30k3o11lo3o5~x2/)|
+|![State Seal of Kentucky (Fashion) example sett](/variants/s11/lb6g13k12b3k3lo3b30k3o11lo3o5~x2/sett.png)|

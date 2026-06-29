@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Caledonian Curling Club](/setts/s15/dt72ri2dt2ri5dt4lo2dt4ri5dt2dti2dt2dti15lb2dti3r2~x2/)|
-|![Royal Caledonian Curling Club example sett](/setts/s15/dt72ri2dt2ri5dt4lo2dt4ri5dt2dti2dt2dti15lb2dti3r2~x2/sett.png)|
+| [Royal Caledonian Curling Club](/variants/s15/dt72ri2dt2ri5dt4lo2dt4ri5dt2dti2dt2dti15lb2dti3r2~x2/)|
+|![Royal Caledonian Curling Club example sett](/variants/s15/dt72ri2dt2ri5dt4lo2dt4ri5dt2dti2dt2dti15lb2dti3r2~x2/sett.png)|

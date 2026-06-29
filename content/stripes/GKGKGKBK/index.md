@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keith McCormick (Personal)](/setts/s8/k1db5k4g3k1g3k6g1~x4/)|
-|![Keith McCormick (Personal) example sett](/setts/s8/k1db5k4g3k1g3k6g1~x4/sett.png)|
+| [Keith McCormick (Personal)](/variants/s8/k1db5k4g3k1g3k6g1~x4/)|
+|![Keith McCormick (Personal) example sett](/variants/s8/k1db5k4g3k1g3k6g1~x4/sett.png)|

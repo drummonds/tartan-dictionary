@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Protheroe (Welsh Name)](/setts/s12/dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/)|
-|![Protheroe (Welsh Name) example sett](/setts/s12/dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/sett.png)|
+| [Protheroe (Welsh Name)](/variants/s12/dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/)|
+|![Protheroe (Welsh Name) example sett](/variants/s12/dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/sett.png)|

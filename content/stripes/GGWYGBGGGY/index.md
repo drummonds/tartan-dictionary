@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hayden (Dublin) (Personal)](/setts/s10/dgi60dg5w5lo5dg9dp4dg5dgi5dg1lo5~x2/)|
-|![Hayden (Dublin) (Personal) example sett](/setts/s10/dgi60dg5w5lo5dg9dp4dg5dgi5dg1lo5~x2/sett.png)|
-| [Hayden, Thomas (Personal)](/setts/s10/g60gi5w5ly5gi5p4gi5g5gi1ly5~x2/)|
-|![Hayden, Thomas (Personal) example sett](/setts/s10/g60gi5w5ly5gi5p4gi5g5gi1ly5~x2/sett.png)|
+| [Hayden (Dublin) (Personal)](/variants/s10/dgi60dg5w5lo5dg9dp4dg5dgi5dg1lo5~x2/)|
+|![Hayden (Dublin) (Personal) example sett](/variants/s10/dgi60dg5w5lo5dg9dp4dg5dgi5dg1lo5~x2/sett.png)|
+| [Hayden, Thomas (Personal)](/variants/s10/g60gi5w5ly5gi5p4gi5g5gi1ly5~x2/)|
+|![Hayden, Thomas (Personal) example sett](/variants/s10/g60gi5w5ly5gi5p4gi5g5gi1ly5~x2/sett.png)|

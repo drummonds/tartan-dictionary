@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manchester City Football Club "Blue](/setts/s11/db4b13r2db2k2db2w5db2ly2db2b2~x2/)|
-|![Manchester City Football Club "Blue example sett](/setts/s11/db4b13r2db2k2db2w5db2ly2db2b2~x2/sett.png)|
+| [Manchester City Football Club "Blue](/variants/s11/db4b13r2db2k2db2w5db2ly2db2b2~x2/)|
+|![Manchester City Football Club "Blue example sett](/variants/s11/db4b13r2db2k2db2w5db2ly2db2b2~x2/sett.png)|

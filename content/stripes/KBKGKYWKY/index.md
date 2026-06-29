@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [160th SOAR(A) Night Stalkers (Mil.)](/setts/s9/k2b8k6g35k8lo2w2k2lo2~x2/)|
-|![160th SOAR(A) Night Stalkers (Mil.) example sett](/setts/s9/k2b8k6g35k8lo2w2k2lo2~x2/sett.png)|
+| [160th SOAR(A) Night Stalkers (Mil.)](/variants/s9/k2b8k6g35k8lo2w2k2lo2~x2/)|
+|![160th SOAR(A) Night Stalkers (Mil.) example sett](/variants/s9/k2b8k6g35k8lo2w2k2lo2~x2/sett.png)|

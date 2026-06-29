@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Becker (Name)](/setts/s6/lb3lbi2db3r3k3ly1~x8/)|
-|![Becker (Name) example sett](/setts/s6/lb3lbi2db3r3k3ly1~x8/sett.png)|
+| [Becker (Name)](/variants/s6/lb3lbi2db3r3k3ly1~x8/)|
+|![Becker (Name) example sett](/variants/s6/lb3lbi2db3r3k3ly1~x8/sett.png)|

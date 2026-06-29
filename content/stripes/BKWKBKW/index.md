@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Believe - Colette](/setts/s7/n3k31w6k7n3k12w2~x2/)|
-|![Believe - Colette example sett](/setts/s7/n3k31w6k7n3k12w2~x2/sett.png)|
-| [Believe - Colette](/setts/s7/n3k31w6k8n3k12w2~x2/)|
-|![Believe - Colette example sett](/setts/s7/n3k31w6k8n3k12w2~x2/sett.png)|
+| [Believe - Colette](/variants/s7/n3k31w6k7n3k12w2~x2/)|
+|![Believe - Colette example sett](/variants/s7/n3k31w6k7n3k12w2~x2/sett.png)|
+| [Believe - Colette](/variants/s7/n3k31w6k8n3k12w2~x2/)|
+|![Believe - Colette example sett](/variants/s7/n3k31w6k8n3k12w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barrington Municipality](/setts/s7/ly5lr3db6o8w5r17k2/)|
-|![Barrington Municipality example sett](/setts/s7/ly5lr3db6o8w5r17k2/sett.png)|
+| [Barrington Municipality](/variants/s7/ly5lr3db6o8w5r17k2/)|
+|![Barrington Municipality example sett](/variants/s7/ly5lr3db6o8w5r17k2/sett.png)|

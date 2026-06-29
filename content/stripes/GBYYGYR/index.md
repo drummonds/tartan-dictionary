@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Ness in Scotland](/setts/s7/g2db14lg6lr1g1lr6r1~x4/)|
-|![Loch Ness in Scotland example sett](/setts/s7/g2db14lg6lr1g1lr6r1~x4/sett.png)|
+| [Loch Ness in Scotland](/variants/s7/g2db14lg6lr1g1lr6r1~x4/)|
+|![Loch Ness in Scotland example sett](/variants/s7/g2db14lg6lr1g1lr6r1~x4/sett.png)|

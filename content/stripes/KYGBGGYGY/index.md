@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corcoran of Sherbrooke (Personal)](/setts/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/)|
-|![Corcoran of Sherbrooke (Personal) example sett](/setts/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/sett.png)|
+| [Corcoran of Sherbrooke (Personal)](/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/)|
+|![Corcoran of Sherbrooke (Personal) example sett](/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/sett.png)|

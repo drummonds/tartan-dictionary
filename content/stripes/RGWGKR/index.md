@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Callaway](/setts/s6/r2k28y5w12y14r2~x2/)|
-|![Callaway example sett](/setts/s6/r2k28y5w12y14r2~x2/sett.png)|
+| [Callaway](/variants/s6/r2k28y5w12y14r2~x2/)|
+|![Callaway example sett](/variants/s6/r2k28y5w12y14r2~x2/sett.png)|

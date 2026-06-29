@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lawson, William 2002](/setts/s7/k4w19k11dg15k3dg16ly3~x2/)|
-|![Lawson, William 2002 example sett](/setts/s7/k4w19k11dg15k3dg16ly3~x2/sett.png)|
-| [Lawsons' Whisky](/setts/s7/k9w38k22g31k5g31ly5/)|
-|![Lawsons' Whisky example sett](/setts/s7/k9w38k22g31k5g31ly5/sett.png)|
+| [Lawson, William 2002](/variants/s7/k4w19k11dg15k3dg16ly3~x2/)|
+|![Lawson, William 2002 example sett](/variants/s7/k4w19k11dg15k3dg16ly3~x2/sett.png)|
+| [Lawsons' Whisky](/variants/s7/k9w38k22g31k5g31ly5/)|
+|![Lawsons' Whisky example sett](/variants/s7/k9w38k22g31k5g31ly5/sett.png)|

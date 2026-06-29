@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lord's Own Highlanders (Corporate)](/setts/s6/w5o20k8r5dp36lo5~x2/)|
-|![Lord's Own Highlanders (Corporate) example sett](/setts/s6/w5o20k8r5dp36lo5~x2/sett.png)|
+| [Lord's Own Highlanders (Corporate)](/variants/s6/w5o20k8r5dp36lo5~x2/)|
+|![Lord's Own Highlanders (Corporate) example sett](/variants/s6/w5o20k8r5dp36lo5~x2/sett.png)|

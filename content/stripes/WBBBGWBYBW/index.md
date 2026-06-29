@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart Dress, Purple (Dance)](/setts/s10/w55dp12lo2dp3w2g10dpi9dp2dpi6w2~x2/)|
-|![Stewart Dress, Purple (Dance) example sett](/setts/s10/w55dp12lo2dp3w2g10dpi9dp2dpi6w2~x2/sett.png)|
+| [Stewart Dress, Purple (Dance)](/variants/s10/w55dp12lo2dp3w2g10dpi9dp2dpi6w2~x2/)|
+|![Stewart Dress, Purple (Dance) example sett](/variants/s10/w55dp12lo2dp3w2g10dpi9dp2dpi6w2~x2/sett.png)|

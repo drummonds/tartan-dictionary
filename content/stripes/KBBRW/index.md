@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fettes (Personal)](/setts/s5/k50db3p2r3w1~x4/)|
-|![Fettes (Personal) example sett](/setts/s5/k50db3p2r3w1~x4/sett.png)|
-| [Kinloch of Loch Awe (Personal)](/setts/s5/w18o29t2dp3k1~x2/)|
-|![Kinloch of Loch Awe (Personal) example sett](/setts/s5/w18o29t2dp3k1~x2/sett.png)|
+| [Fettes (Personal)](/variants/s5/k50db3p2r3w1~x4/)|
+|![Fettes (Personal) example sett](/variants/s5/k50db3p2r3w1~x4/sett.png)|
+| [Kinloch of Loch Awe (Personal)](/variants/s5/w18o29t2dp3k1~x2/)|
+|![Kinloch of Loch Awe (Personal) example sett](/variants/s5/w18o29t2dp3k1~x2/sett.png)|

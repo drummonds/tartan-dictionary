@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auchairne](/setts/s6/b10db6b3db62w4db5~x2/)|
-|![Auchairne example sett](/setts/s6/b10db6b3db62w4db5~x2/sett.png)|
-| [Auchairne (Corporate)](/setts/s6/b11db7b3db70lb4db6~x2/)|
-|![Auchairne (Corporate) example sett](/setts/s6/b11db7b3db70lb4db6~x2/sett.png)|
-| [Erskine Blue (Fashion)](/setts/s6/db3lb1db12dbi12db1dbi3~x4/)|
-|![Erskine Blue (Fashion) example sett](/setts/s6/db3lb1db12dbi12db1dbi3~x4/sett.png)|
+| [Auchairne](/variants/s6/b10db6b3db62w4db5~x2/)|
+|![Auchairne example sett](/variants/s6/b10db6b3db62w4db5~x2/sett.png)|
+| [Auchairne (Corporate)](/variants/s6/b11db7b3db70lb4db6~x2/)|
+|![Auchairne (Corporate) example sett](/variants/s6/b11db7b3db70lb4db6~x2/sett.png)|
+| [Erskine Blue (Fashion)](/variants/s6/db3lb1db12dbi12db1dbi3~x4/)|
+|![Erskine Blue (Fashion) example sett](/variants/s6/db3lb1db12dbi12db1dbi3~x4/sett.png)|

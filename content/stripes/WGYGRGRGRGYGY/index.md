@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buglass](/setts/s13/lo3g1lo1g14o2g2o2g4o11dg25ly2dg3w2~x2/)|
-|![Buglass example sett](/setts/s13/lo3g1lo1g14o2g2o2g4o11dg25ly2dg3w2~x2/sett.png)|
+| [Buglass](/variants/s13/lo3g1lo1g14o2g2o2g4o11dg25ly2dg3w2~x2/)|
+|![Buglass example sett](/variants/s13/lo3g1lo1g14o2g2o2g4o11dg25ly2dg3w2~x2/sett.png)|

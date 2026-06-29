@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Josse (Personal)](/setts/s6/db1lb2k50dg50lo2r1~x2/)|
-|![Josse (Personal) example sett](/setts/s6/db1lb2k50dg50lo2r1~x2/sett.png)|
+| [Josse (Personal)](/variants/s6/db1lb2k50dg50lo2r1~x2/)|
+|![Josse (Personal) example sett](/variants/s6/db1lb2k50dg50lo2r1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Menez Du](/setts/s9/db5k9g7k3g7k3g7k25g3~x2/)|
-|![Menez Du example sett](/setts/s9/db5k9g7k3g7k3g7k25g3~x2/sett.png)|
+| [Menez Du](/variants/s9/db5k9g7k3g7k3g7k25g3~x2/)|
+|![Menez Du example sett](/variants/s9/db5k9g7k3g7k3g7k25g3~x2/sett.png)|

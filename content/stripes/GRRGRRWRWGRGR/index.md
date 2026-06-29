@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Parma](/setts/s13/oi32dy8oi1dy1lb1oi1lb1o1oi1dy1oii1oi4dy1~x4/)|
-|![Parma example sett](/setts/s13/oi32dy8oi1dy1lb1oi1lb1o1oi1dy1oii1oi4dy1~x4/sett.png)|
+| [Parma](/variants/s13/oi32dy8oi1dy1lb1oi1lb1o1oi1dy1oii1oi4dy1~x4/)|
+|![Parma example sett](/variants/s13/oi32dy8oi1dy1lb1oi1lb1o1oi1dy1oii1oi4dy1~x4/sett.png)|

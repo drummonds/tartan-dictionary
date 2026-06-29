@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Wales](/setts/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2/)|
-|![Spirit of Wales example sett](/setts/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2/sett.png)|
+| [Spirit of Wales](/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2/)|
+|![Spirit of Wales example sett](/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2/sett.png)|

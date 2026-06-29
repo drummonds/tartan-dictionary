@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince Edward Island, Dress](/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/)|
-|![Prince Edward Island, Dress example sett](/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/sett.png)|
+| [Prince Edward Island, Dress](/variants/s9/g22r2g4r2g4r18w24r1lo3~x2/)|
+|![Prince Edward Island, Dress example sett](/variants/s9/g22r2g4r2g4r18w24r1lo3~x2/sett.png)|

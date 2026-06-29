@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pictou County](/setts/s8/dp23w1o3w1dp12lo9dg40dp3~x2/)|
-|![Pictou County example sett](/setts/s8/dp23w1o3w1dp12lo9dg40dp3~x2/sett.png)|
+| [Pictou County](/variants/s8/dp23w1o3w1dp12lo9dg40dp3~x2/)|
+|![Pictou County example sett](/variants/s8/dp23w1o3w1dp12lo9dg40dp3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fearns McIntosh Millennium (Personal)](/setts/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/)|
-|![Fearns McIntosh Millennium (Personal) example sett](/setts/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png)|
+| [Fearns McIntosh Millennium (Personal)](/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/)|
+|![Fearns McIntosh Millennium (Personal) example sett](/variants/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/sett.png)|

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Innes Dress, Red (Dance)](/setts/s17/b3k2lr20r2lr3r2lr3r4lo3r2db4r2k2g6k3r2lr3~x2/)|
-|![Innes Dress, Red (Dance) example sett](/setts/s17/b3k2lr20r2lr3r2lr3r4lo3r2db4r2k2g6k3r2lr3~x2/sett.png)|
+| [Innes Dress, Red (Dance)](/variants/s17/b3k2lr20r2lr3r2lr3r4lo3r2db4r2k2g6k3r2lr3~x2/)|
+|![Innes Dress, Red (Dance) example sett](/variants/s17/b3k2lr20r2lr3r2lr3r4lo3r2db4r2k2g6k3r2lr3~x2/sett.png)|

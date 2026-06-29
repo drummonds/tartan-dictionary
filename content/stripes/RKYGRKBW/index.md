@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacIngust](/setts/s8/r70k2ly1dg18r10k4t4w1~x2/)|
-|![MacIngust example sett](/setts/s8/r70k2ly1dg18r10k4t4w1~x2/sett.png)|
+| [MacIngust](/variants/s8/r70k2ly1dg18r10k4t4w1~x2/)|
+|![MacIngust example sett](/variants/s8/r70k2ly1dg18r10k4t4w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redgate (Connecticut) Dress](/setts/s14/w7t4w2t7dr2t7k6w1k6dy5t3dy3dg13dy4~x2/)|
-|![Redgate (Connecticut) Dress example sett](/setts/s14/w7t4w2t7dr2t7k6w1k6dy5t3dy3dg13dy4~x2/sett.png)|
+| [Redgate (Connecticut) Dress](/variants/s14/w7t4w2t7dr2t7k6w1k6dy5t3dy3dg13dy4~x2/)|
+|![Redgate (Connecticut) Dress example sett](/variants/s14/w7t4w2t7dr2t7k6w1k6dy5t3dy3dg13dy4~x2/sett.png)|

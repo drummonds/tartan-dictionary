@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Earthrise](/setts/s12/k4n6k4o4n29o6k64db10k4db6t4w2/)|
-|![Earthrise example sett](/setts/s12/k4n6k4o4n29o6k64db10k4db6t4w2/sett.png)|
+| [Earthrise](/variants/s12/k4n6k4o4n29o6k64db10k4db6t4w2/)|
+|![Earthrise example sett](/variants/s12/k4n6k4o4n29o6k64db10k4db6t4w2/sett.png)|

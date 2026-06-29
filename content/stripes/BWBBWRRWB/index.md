@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cole-Dale (Personal)](/setts/s9/t8w4t8db2lt8r1m1lt8db2/)|
-|![Cole-Dale (Personal) example sett](/setts/s9/t8w4t8db2lt8r1m1lt8db2/sett.png)|
+| [Cole-Dale (Personal)](/variants/s9/t8w4t8db2lt8r1m1lt8db2/)|
+|![Cole-Dale (Personal) example sett](/variants/s9/t8w4t8db2lt8r1m1lt8db2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kozmyk (Corporate)](/setts/s7/ly6dy14db10dy58g3dy8w2/)|
-|![Kozmyk (Corporate) example sett](/setts/s7/ly6dy14db10dy58g3dy8w2/sett.png)|
+| [Kozmyk (Corporate)](/variants/s7/ly6dy14db10dy58g3dy8w2/)|
+|![Kozmyk (Corporate) example sett](/variants/s7/ly6dy14db10dy58g3dy8w2/sett.png)|

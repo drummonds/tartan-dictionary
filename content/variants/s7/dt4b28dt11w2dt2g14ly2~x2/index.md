@@ -1,0 +1,65 @@
+---
+title: "Rhode Island, State of"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt4b28dt11w2dt2g14ly2/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBGY](/stripes/bbbwbgy/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504
+
+## Provenance
+
+Earliest known date: Mar. 2000 Official state tartan for RI. Designed for the St Andrew's Society of the State of Rhode Island by Claire Donaldson of the House of Edgar. Distribution contolled by the St Andrew's Society.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Rhode Island, State of
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2000 — Rhode Island, State of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504">record</a>)</li>
+<li>Mar. 2000 — Rhode Island, State of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2659/">record</a>)</li>
+<li>undated — Rhode Island State American District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2659">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3504](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504)
+- Scottish Tartans Authority (ITI): 2659
+- Scottish Tartans World Register: 2659
+
+## Thread count
+DN/8 B56 DN22 LN4 DN4 G28 Y/4
+
+One full sett is **240 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> <small style="color:#888">#14283C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(27.1% 0.046 249.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>DN</td><td style="text-align:right;font-variant-numeric:tabular-nums">22</td><td><code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> <small style="color:#888">#14283C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(27.1% 0.046 249.9)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>DN</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> <small style="color:#888">#14283C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(27.1% 0.046 249.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">28</td><td><code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> <small style="color:#888">#408060</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(54.8% 0.084 160.1)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DN/8 B56 DN22 LN4 DN4 G28 Y/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dt4b28dt11w2dt2g14ly2~x2">Rhode Island, State of</a> <a class="nn-out" href="/variants/s7/dt4b28dt11w2dt2g14ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dt4b28dt11w2dt2g14ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.74</div><div class="nn-name"><a href="/ttd/edit/#slug=g5mi3g32k16b32m3b5~x2&amp;base=dt4b28dt11w2dt2g14ly2~x2">MacThomas</a> <a class="nn-out" href="/variants/s7/g5mi3g32k16b32m3b5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g5mi3g32k16b32m3b5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.81</div><div class="nn-name"><a href="/ttd/edit/#slug=g5db15t11w2t1w1dg4~x4&amp;base=dt4b28dt11w2dt2g14ly2~x2">Highlands Country Club</a> <a class="nn-out" href="/variants/s7/g5db15t11w2t1w1dg4~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g5db15t11w2t1w1dg4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.96</div><div class="nn-name"><a href="/ttd/edit/#slug=b11k4g4m1g4k1r1~x4&amp;base=dt4b28dt11w2dt2g14ly2~x2">Ednie (Personal)</a> <a class="nn-out" href="/variants/s7/b11k4g4m1g4k1r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/b11k4g4m1g4k1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.03</div><div class="nn-name"><a href="/ttd/edit/#slug=db6b47db22g47dp4g4o4&amp;base=dt4b28dt11w2dt2g14ly2~x2">Boroughmuir</a> <a class="nn-out" href="/variants/s7/db6b47db22g47dp4g4o4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db6b47db22g47dp4g4o4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=r15t98dt72ly25dt8w15&amp;base=dt4b28dt11w2dt2g14ly2~x2">Afternoon Tea / Earl Grey</a> <a class="nn-out" href="/variants/s6/r15t98dt72ly25dt8w15/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r15t98dt72ly25dt8w15/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=dy2g12k10r1b16r2b16r1~x4&amp;base=dt4b28dt11w2dt2g14ly2~x2">MacWilliam</a> <a class="nn-out" href="/variants/s8/dy2g12k10r1b16r2b16r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy2g12k10r1b16r2b16r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=lb6lo6b21dt32r3~x2&amp;base=dt4b28dt11w2dt2g14ly2~x2">Jamieson, Robert (Personal)</a> <a class="nn-out" href="/variants/s5/lb6lo6b21dt32r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lb6lo6b21dt32r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=w2dbi19k4dbi4k4g9db2k1~x4&amp;base=dt4b28dt11w2dt2g14ly2~x2">Dollar Academy (1999) (Corporate)</a> <a class="nn-out" href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=dg6r2db1r3db16g20w2~x2&amp;base=dt4b28dt11w2dt2g14ly2~x2">MacCord / McCord (Personal)</a> <a class="nn-out" href="/variants/s7/dg6r2db1r3db16g20w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg6r2db1r3db16g20w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=dg5lp3dg32k16b32m3b5~x2&amp;base=dt4b28dt11w2dt2g14ly2~x2">MacThomas (Clan)</a> <a class="nn-out" href="/variants/s7/dg5lp3dg32k16b32m3b5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg5lp3dg32k16b32m3b5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g5mi3g32k16b32m3b5~x2/"><circle cx="212.0" cy="199.5" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/g5db15t11w2t1w1dg4~x4/"><circle cx="198.6" cy="178.9" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s7/b11k4g4m1g4k1r1~x4/"><circle cx="212.9" cy="195.3" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/variants/s7/db6b47db22g47dp4g4o4/"><circle cx="236.0" cy="203.0" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s6/r15t98dt72ly25dt8w15/"><circle cx="207.9" cy="186.9" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s8/dy2g12k10r1b16r2b16r1~x4/"><circle cx="274.1" cy="181.4" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s5/lb6lo6b21dt32r3~x2/"><circle cx="240.9" cy="214.8" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4/"><circle cx="284.1" cy="170.4" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="226.2" cy="158.2" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><a href="/variants/s7/dg5lp3dg32k16b32m3b5~x2/"><circle cx="213.8" cy="201.7" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><circle cx="246.4" cy="182.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/dt4b28dt11w2dt2g14ly2~x2/

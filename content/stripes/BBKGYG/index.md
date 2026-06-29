@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lanark](/setts/s6/dg31ly4dg6k19db18t9~x2/)|
-|![Lanark example sett](/setts/s6/dg31ly4dg6k19db18t9~x2/sett.png)|
-| [Lanarkshire](/setts/s6/g31ly4g6k19db18t9~x2/)|
-|![Lanarkshire example sett](/setts/s6/g31ly4g6k19db18t9~x2/sett.png)|
+| [Lanark](/variants/s6/dg31ly4dg6k19db18t9~x2/)|
+|![Lanark example sett](/variants/s6/dg31ly4dg6k19db18t9~x2/sett.png)|
+| [Lanarkshire](/variants/s6/g31ly4g6k19db18t9~x2/)|
+|![Lanarkshire example sett](/variants/s6/g31ly4g6k19db18t9~x2/sett.png)|

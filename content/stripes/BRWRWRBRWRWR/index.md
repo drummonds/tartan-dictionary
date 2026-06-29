@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Giles Check](/setts/s12/db3o1w1o25w1o1dp3~x4/)|
-|![St. Giles Check example sett](/setts/s12/db3o1w1o25w1o1dp3~x4/sett.png)|
+| [St. Giles Check](/variants/s12/db3o1w1o25w1o1dp3~x4/)|
+|![St. Giles Check example sett](/variants/s12/db3o1w1o25w1o1dp3~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathclyde, University of (Corporat](/setts/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/)|
-|![Strathclyde, University of (Corporat example sett](/setts/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/sett.png)|
+| [Strathclyde, University of (Corporat](/variants/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/)|
+|![Strathclyde, University of (Corporat example sett](/variants/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/sett.png)|

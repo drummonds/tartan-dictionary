@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Platinum Golf Scotland](/setts/s12/o2k3dp1k45o1k2o2k2dg4r1dg1w1~x2/)|
-|![Platinum Golf Scotland example sett](/setts/s12/o2k3dp1k45o1k2o2k2dg4r1dg1w1~x2/sett.png)|
+| [Platinum Golf Scotland](/variants/s12/o2k3dp1k45o1k2o2k2dg4r1dg1w1~x2/)|
+|![Platinum Golf Scotland example sett](/variants/s12/o2k3dp1k45o1k2o2k2dg4r1dg1w1~x2/sett.png)|

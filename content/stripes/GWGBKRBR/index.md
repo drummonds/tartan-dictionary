@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sawyer](/setts/s8/r2t1r8k4db1g10w1g2~x4/)|
-|![Sawyer example sett](/setts/s8/r2t1r8k4db1g10w1g2~x4/sett.png)|
+| [Sawyer](/variants/s8/r2t1r8k4db1g10w1g2~x4/)|
+|![Sawyer example sett](/variants/s8/r2t1r8k4db1g10w1g2~x4/sett.png)|

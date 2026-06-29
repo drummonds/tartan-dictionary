@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~x2/)|
-|![MacAulay of Lewis example sett](/setts/s8/g6k16r3k16g28k4g12w3~x2/sett.png)|
+| [MacAulay of Lewis](/variants/s8/g6k16r3k16g28k4g12w3~x2/)|
+|![MacAulay of Lewis example sett](/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png)|

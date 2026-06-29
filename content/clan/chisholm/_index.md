@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><img src="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/sett.png" alt="Chisholm" width="240"><br>Chisholm</a>
+<a class="tartan" href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><img src="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/sett.png" alt="Chisholm" width="240"><br>Chisholm</a>
 
 ## Families
 

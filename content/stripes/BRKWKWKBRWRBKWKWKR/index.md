@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Knights Templar Militi Templi Scotia](/setts/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2/)|
-|![Scottish Knights Templar Militi Templi Scotia example sett](/setts/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2/sett.png)|
+| [Scottish Knights Templar Militi Templi Scotia](/variants/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2/)|
+|![Scottish Knights Templar Militi Templi Scotia example sett](/variants/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2/sett.png)|

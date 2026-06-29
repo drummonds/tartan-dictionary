@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canna, Saphire (Dance)](/setts/s9/b4w30r4b3r1b1r1b22w2~x2/)|
-|![Canna, Saphire (Dance) example sett](/setts/s9/b4w30r4b3r1b1r1b22w2~x2/sett.png)|
+| [Canna, Saphire (Dance)](/variants/s9/b4w30r4b3r1b1r1b22w2~x2/)|
+|![Canna, Saphire (Dance) example sett](/variants/s9/b4w30r4b3r1b1r1b22w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan Army](/setts/s21/db22k2db4k2db4k8w2k2w2k10r5ly2r5k10w2k2w2k8db18k2db4~x2/)|
-|![Tartan Army example sett](/setts/s21/db22k2db4k2db4k8w2k2w2k10r5ly2r5k10w2k2w2k8db18k2db4~x2/sett.png)|
+| [Tartan Army](/variants/s21/db22k2db4k2db4k8w2k2w2k10r5ly2r5k10w2k2w2k8db18k2db4~x2/)|
+|![Tartan Army example sett](/variants/s21/db22k2db4k2db4k8w2k2w2k10r5ly2r5k10w2k2w2k8db18k2db4~x2/sett.png)|

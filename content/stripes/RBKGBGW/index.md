@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Game Fair](/setts/s7/r3db12k12dg12b2dg12w3~x2/)|
-|![Game Fair example sett](/setts/s7/r3db12k12dg12b2dg12w3~x2/sett.png)|
+| [Game Fair](/variants/s7/r3db12k12dg12b2dg12w3~x2/)|
+|![Game Fair example sett](/variants/s7/r3db12k12dg12b2dg12w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bishop](/setts/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/)|
-|![Bishop example sett](/setts/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/sett.png)|
+| [Bishop](/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/)|
+|![Bishop example sett](/variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/sett.png)|

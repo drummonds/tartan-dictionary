@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Orchy (Fashion)](/setts/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2/)|
-|![Glen Orchy (Fashion) example sett](/setts/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2/sett.png)|
+| [Glen Orchy (Fashion)](/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2/)|
+|![Glen Orchy (Fashion) example sett](/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2/sett.png)|

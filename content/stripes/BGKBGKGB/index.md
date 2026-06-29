@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orkney Slate](/setts/s8/dt8y74k8dt42y11k2y16dt4/)|
-|![Orkney Slate example sett](/setts/s8/dt8y74k8dt42y11k2y16dt4/sett.png)|
+| [Orkney Slate](/variants/s8/dt8y74k8dt42y11k2y16dt4/)|
+|![Orkney Slate example sett](/variants/s8/dt8y74k8dt42y11k2y16dt4/sett.png)|

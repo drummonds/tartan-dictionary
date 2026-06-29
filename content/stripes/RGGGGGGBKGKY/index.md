@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McHeadley Society (Corporate)](/setts/s12/r2dg18g2dg2g2dg2g12db3k13dg10k2ly2~x2/)|
-|![McHeadley Society (Corporate) example sett](/setts/s12/r2dg18g2dg2g2dg2g12db3k13dg10k2ly2~x2/sett.png)|
+| [McHeadley Society (Corporate)](/variants/s12/r2dg18g2dg2g2dg2g12db3k13dg10k2ly2~x2/)|
+|![McHeadley Society (Corporate) example sett](/variants/s12/r2dg18g2dg2g2dg2g12db3k13dg10k2ly2~x2/sett.png)|

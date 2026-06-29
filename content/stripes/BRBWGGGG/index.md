@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ayrshire](/setts/s8/db2r1db10w1y4g8g1g2~x4/)|
-|![Ayrshire example sett](/setts/s8/db2r1db10w1y4g8g1g2~x4/sett.png)|
+| [Ayrshire](/variants/s8/db2r1db10w1y4g8g1g2~x4/)|
+|![Ayrshire example sett](/variants/s8/db2r1db10w1y4g8g1g2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balfour](/setts/s6/db30ly3o11ly3y33r6~x2/)|
-|![Balfour example sett](/setts/s6/db30ly3o11ly3y33r6~x2/sett.png)|
+| [Balfour](/variants/s6/db30ly3o11ly3y33r6~x2/)|
+|![Balfour example sett](/variants/s6/db30ly3o11ly3y33r6~x2/sett.png)|

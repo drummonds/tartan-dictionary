@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hall, from Springbrook and Newtown (Personal)](/setts/s8/w3m11db4m6dg48o2dg3o2~x2/)|
-|![Hall, from Springbrook and Newtown (Personal) example sett](/setts/s8/w3m11db4m6dg48o2dg3o2~x2/sett.png)|
+| [Hall, from Springbrook and Newtown (Personal)](/variants/s8/w3m11db4m6dg48o2dg3o2~x2/)|
+|![Hall, from Springbrook and Newtown (Personal) example sett](/variants/s8/w3m11db4m6dg48o2dg3o2~x2/sett.png)|

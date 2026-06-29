@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Broons, The (DC Thomson)](/setts/s9/r3k1yi8ly1dy7ly1yi19y25k1~x2/)|
-|![Broons, The (DC Thomson) example sett](/setts/s9/r3k1yi8ly1dy7ly1yi19y25k1~x2/sett.png)|
-| [The Broons (Corporate)](/setts/s9/r3k1y8lo1dyi7lo1y19dy25k1~x2/)|
-|![The Broons (Corporate) example sett](/setts/s9/r3k1y8lo1dyi7lo1y19dy25k1~x2/sett.png)|
+| [Broons, The (DC Thomson)](/variants/s9/r3k1yi8ly1dy7ly1yi19y25k1~x2/)|
+|![Broons, The (DC Thomson) example sett](/variants/s9/r3k1yi8ly1dy7ly1yi19y25k1~x2/sett.png)|
+| [The Broons (Corporate)](/variants/s9/r3k1y8lo1dyi7lo1y19dy25k1~x2/)|
+|![The Broons (Corporate) example sett](/variants/s9/r3k1y8lo1dyi7lo1y19dy25k1~x2/sett.png)|

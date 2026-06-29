@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Katsushika (Corporate)](/setts/s8/db22ly2db1ly2db10y2g11y6~x2/)|
-|![Katsushika (Corporate) example sett](/setts/s8/db22ly2db1ly2db10y2g11y6~x2/sett.png)|
+| [Katsushika (Corporate)](/variants/s8/db22ly2db1ly2db10y2g11y6~x2/)|
+|![Katsushika (Corporate) example sett](/variants/s8/db22ly2db1ly2db10y2g11y6~x2/sett.png)|

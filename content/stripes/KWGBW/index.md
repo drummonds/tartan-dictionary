@@ -24,13 +24,13 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bhatti](/setts/s5/k7lt3dg18db18w2~x2/)|
-|![Bhatti example sett](/setts/s5/k7lt3dg18db18w2~x2/sett.png)|
-| [Bhatti (Name)](/setts/s5/k7lb3g18db18w2~x2/)|
-|![Bhatti (Name) example sett](/setts/s5/k7lb3g18db18w2~x2/sett.png)|
-| [Douglas](/setts/s5/k2lt2g8db8w1~x2/)|
-|![Douglas example sett](/setts/s5/k2lt2g8db8w1~x2/sett.png)|
-| [Douglas](/setts/s5/k2lb2dg8db8lb1/)|
-|![Douglas example sett](/setts/s5/k2lb2dg8db8lb1/sett.png)|
-| [Douglas Green](/setts/s5/k4lb2dg8db8lb1/)|
-|![Douglas Green example sett](/setts/s5/k4lb2dg8db8lb1/sett.png)|
+| [Bhatti](/variants/s5/k7lt3dg18db18w2~x2/)|
+|![Bhatti example sett](/variants/s5/k7lt3dg18db18w2~x2/sett.png)|
+| [Bhatti (Name)](/variants/s5/k7lb3g18db18w2~x2/)|
+|![Bhatti (Name) example sett](/variants/s5/k7lb3g18db18w2~x2/sett.png)|
+| [Douglas](/variants/s5/k2lb2dg8db8lb1/)|
+|![Douglas example sett](/variants/s5/k2lb2dg8db8lb1/sett.png)|
+| [Douglas](/variants/s5/k2lt2g8db8w1~x2/)|
+|![Douglas example sett](/variants/s5/k2lt2g8db8w1~x2/sett.png)|
+| [Douglas Green](/variants/s5/k4lb2dg8db8lb1/)|
+|![Douglas Green example sett](/variants/s5/k4lb2dg8db8lb1/sett.png)|

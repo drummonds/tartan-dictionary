@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/)|
-|![National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/sett.png)|
+| [National Trust Corporate Tartan](/variants/s8/dg2do8dg8r3do1w12dg2y1~x2/)|
+|![National Trust Corporate Tartan example sett](/variants/s8/dg2do8dg8r3do1w12dg2y1~x2/sett.png)|

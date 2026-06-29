@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melieres, Michel (Personal)](/setts/s9/k2r1g8r3g3r14ly1r1w2~x2/)|
-|![Melieres, Michel (Personal) example sett](/setts/s9/k2r1g8r3g3r14ly1r1w2~x2/sett.png)|
+| [Melieres, Michel (Personal)](/variants/s9/k2r1g8r3g3r14ly1r1w2~x2/)|
+|![Melieres, Michel (Personal) example sett](/variants/s9/k2r1g8r3g3r14ly1r1w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Skene (Fashion)](/setts/s10/lb48dy15lo2dy3lb2dy3loi12lb8dy2lb6~x2/)|
-|![Loch Skene (Fashion) example sett](/setts/s10/lb48dy15lo2dy3lb2dy3loi12lb8dy2lb6~x2/sett.png)|
+| [Loch Skene (Fashion)](/variants/s10/lb48dy15lo2dy3lb2dy3loi12lb8dy2lb6~x2/)|
+|![Loch Skene (Fashion) example sett](/variants/s10/lb48dy15lo2dy3lb2dy3loi12lb8dy2lb6~x2/sett.png)|

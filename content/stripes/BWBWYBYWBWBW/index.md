@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St John's](/setts/s12/w2db1w15t12w1ly3db1~x6/)|
-|![St John's example sett](/setts/s12/w2db1w15t12w1ly3db1~x6/sett.png)|
+| [St John's](/variants/s12/w2db1w15t12w1ly3db1~x6/)|
+|![St John's example sett](/variants/s12/w2db1w15t12w1ly3db1~x6/sett.png)|

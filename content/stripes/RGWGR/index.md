@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNab - 1800 (Portrait)](/setts/s5/r96g3lb3g6ri95/)|
-|![MacNab - 1800 (Portrait) example sett](/setts/s5/r96g3lb3g6ri95/sett.png)|
+| [MacNab - 1800 (Portrait)](/variants/s5/r96g3lb3g6ri95/)|
+|![MacNab - 1800 (Portrait) example sett](/variants/s5/r96g3lb3g6ri95/sett.png)|

@@ -24,5 +24,5 @@ It is a 62 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Millennium (Texcraft)](/setts/s62/dbi8b1dbi1db37b1dbi14g2dbi2b1dbi1db37dbi1b1w2dbi18b1g3b1dbi18b1g3b1dbi18w2b1dbi1db37dbi1b1dbi3g2dbi13b1db37dbi1b1dbi8g2dbi10b1db1dbi1db1w2b1db33dbi1g2db1dbi1b1dbi18g2dbi18b1dbi1db1g2dbi1db37b1w2~x2/)|
-|![Millennium (Texcraft) example sett](/setts/s62/dbi8b1dbi1db37b1dbi14g2dbi2b1dbi1db37dbi1b1w2dbi18b1g3b1dbi18b1g3b1dbi18w2b1dbi1db37dbi1b1dbi3g2dbi13b1db37dbi1b1dbi8g2dbi10b1db1dbi1db1w2b1db33dbi1g2db1dbi1b1dbi18g2dbi18b1dbi1db1g2dbi1db37b1w2~x2/sett.png)|
+| [Millennium (Texcraft)](/variants/s62/dbi8b1dbi1db37b1dbi14g2dbi2b1dbi1db37dbi1b1w2dbi18b1g3b1dbi18b1g3b1dbi18w2b1dbi1db37dbi1b1dbi3g2dbi13b1db37dbi1b1dbi8g2dbi10b1db1dbi1db1w2b1db33dbi1g2db1dbi1b1dbi18g2dbi18b1dbi1db1g2dbi1db37b1w2~x2/)|
+|![Millennium (Texcraft) example sett](/variants/s62/dbi8b1dbi1db37b1dbi14g2dbi2b1dbi1db37dbi1b1w2dbi18b1g3b1dbi18b1g3b1dbi18w2b1dbi1db37dbi1b1dbi3g2dbi13b1db37dbi1b1dbi8g2dbi10b1db1dbi1db1w2b1db33dbi1g2db1dbi1b1dbi18g2dbi18b1dbi1db1g2dbi1db37b1w2~x2/sett.png)|

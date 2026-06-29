@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ambassador](/setts/s10/k85r6k1w3k3w3k1r6k6lo1~x2/)|
-|![Ambassador example sett](/setts/s10/k85r6k1w3k3w3k1r6k6lo1~x2/sett.png)|
+| [Ambassador](/variants/s10/k85r6k1w3k3w3k1r6k6lo1~x2/)|
+|![Ambassador example sett](/variants/s10/k85r6k1w3k3w3k1r6k6lo1~x2/sett.png)|

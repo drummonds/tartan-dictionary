@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snowbird](/setts/s8/r29b12lg15r8lg15b12r29w4~x2/)|
-|![Snowbird example sett](/setts/s8/r29b12lg15r8lg15b12r29w4~x2/sett.png)|
+| [Snowbird](/variants/s8/r29b12lg15r8lg15b12r29w4~x2/)|
+|![Snowbird example sett](/variants/s8/r29b12lg15r8lg15b12r29w4~x2/sett.png)|

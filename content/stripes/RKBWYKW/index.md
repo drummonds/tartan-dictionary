@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pengelly, The Cornish](/setts/s7/w5k26ly4lb24dp8k3r4~x2/)|
-|![Pengelly, The Cornish example sett](/setts/s7/w5k26ly4lb24dp8k3r4~x2/sett.png)|
-| [Pengelly, The Cornish (Name)](/setts/s7/lb5k26ly4lb24dp8k3r4~x2/)|
-|![Pengelly, The Cornish (Name) example sett](/setts/s7/lb5k26ly4lb24dp8k3r4~x2/sett.png)|
+| [Pengelly, The Cornish](/variants/s7/w5k26ly4lb24dp8k3r4~x2/)|
+|![Pengelly, The Cornish example sett](/variants/s7/w5k26ly4lb24dp8k3r4~x2/sett.png)|
+| [Pengelly, The Cornish (Name)](/variants/s7/lb5k26ly4lb24dp8k3r4~x2/)|
+|![Pengelly, The Cornish (Name) example sett](/variants/s7/lb5k26ly4lb24dp8k3r4~x2/sett.png)|

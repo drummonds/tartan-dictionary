@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highlands School, (North Carolina)](/setts/s8/y12db2y2db30dbi3db2dbi13w4~x2/)|
-|![Highlands School, (North Carolina) example sett](/setts/s8/y12db2y2db30dbi3db2dbi13w4~x2/sett.png)|
+| [Highlands School, (North Carolina)](/variants/s8/y12db2y2db30dbi3db2dbi13w4~x2/)|
+|![Highlands School, (North Carolina) example sett](/variants/s8/y12db2y2db30dbi3db2dbi13w4~x2/sett.png)|

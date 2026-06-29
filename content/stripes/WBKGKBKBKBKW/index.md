@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w4k2b9k3bi3k3bi3k25dg10k2bi6w2~x2/)|
-|![Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/w4k2b9k3bi3k3bi3k25dg10k2bi6w2~x2/sett.png)|
-| [Auld Lang Syne, Blue (Fashion)](/setts/s12/w4k2n9k3dp3k3dp3k23g10k2dp6w2~x2/)|
-|![Auld Lang Syne, Blue (Fashion) example sett](/setts/s12/w4k2n9k3dp3k3dp3k23g10k2dp6w2~x2/sett.png)|
+| [Auld Lang Syne Blue Fashion Tartan](/variants/s12/w4k2b9k3bi3k3bi3k25dg10k2bi6w2~x2/)|
+|![Auld Lang Syne Blue Fashion Tartan example sett](/variants/s12/w4k2b9k3bi3k3bi3k25dg10k2bi6w2~x2/sett.png)|
+| [Auld Lang Syne, Blue (Fashion)](/variants/s12/w4k2n9k3dp3k3dp3k23g10k2dp6w2~x2/)|
+|![Auld Lang Syne, Blue (Fashion) example sett](/variants/s12/w4k2n9k3dp3k3dp3k23g10k2dp6w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bennachie (Whisky)](/setts/s7/dt14k5dp5k5dt14dg32r4~x2/)|
-|![Bennachie (Whisky) example sett](/setts/s7/dt14k5dp5k5dt14dg32r4~x2/sett.png)|
+| [Bennachie (Whisky)](/variants/s7/dt14k5dp5k5dt14dg32r4~x2/)|
+|![Bennachie (Whisky) example sett](/variants/s7/dt14k5dp5k5dt14dg32r4~x2/sett.png)|

@@ -24,9 +24,9 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maitland](/setts/s9/dg3db9dg3k4dg8ly2db2ly2r2/)|
-|![Maitland example sett](/setts/s9/dg3db9dg3k4dg8ly2db2ly2r2/sett.png)|
-| [Maitland](/tartans/dg3db8dg3k4dg9ly2db2ly2r2/)|
-|![Maitland example sett](/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2/sett.png)|
-| [Maitland Chief](/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/)|
-|![Maitland Chief example sett](/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/sett.png)|
+| [Maitland](/variants/s9/dg3db9dg3k4dg8ly2db2ly2r2/)|
+|![Maitland example sett](/variants/s9/dg3db9dg3k4dg8ly2db2ly2r2/sett.png)|
+| [Maitland](/setts/dg3db8dg3k4dg9ly2db2ly2r2/)|
+|![Maitland example sett](/variants/s9/dg3db8dg3k4dg9ly2db2ly2r2/sett.png)|
+| [Maitland Chief](/variants/s9/g5db24g7k10g24ly2db2ly2r2~x2/)|
+|![Maitland Chief example sett](/variants/s9/g5db24g7k10g24ly2db2ly2r2~x2/sett.png)|

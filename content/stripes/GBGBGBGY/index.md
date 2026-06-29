@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crow (Name)](/setts/s8/g2db2g6db4g3db4g18ly2~x4/)|
-|![Crow (Name) example sett](/setts/s8/g2db2g6db4g3db4g18ly2~x4/sett.png)|
-| [Scottish Pup](/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/)|
-|![Scottish Pup example sett](/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png)|
+| [Crow (Name)](/variants/s8/g2db2g6db4g3db4g18ly2~x4/)|
+|![Crow (Name) example sett](/variants/s8/g2db2g6db4g3db4g18ly2~x4/sett.png)|
+| [Scottish Pup](/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/)|
+|![Scottish Pup example sett](/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png)|

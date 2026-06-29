@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cooper, dress](/setts/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/)|
-|![Cooper, dress example sett](/setts/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/sett.png)|
+| [Cooper, dress](/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/)|
+|![Cooper, dress example sett](/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/sett.png)|

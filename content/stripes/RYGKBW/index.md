@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jamestown Parish Church (Corporate)](/setts/s6/r3ly2g12k12db14w3~x2/)|
-|![Jamestown Parish Church (Corporate) example sett](/setts/s6/r3ly2g12k12db14w3~x2/sett.png)|
+| [Jamestown Parish Church (Corporate)](/variants/s6/r3ly2g12k12db14w3~x2/)|
+|![Jamestown Parish Church (Corporate) example sett](/variants/s6/r3ly2g12k12db14w3~x2/sett.png)|

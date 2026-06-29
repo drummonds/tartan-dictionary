@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McHeadley Society](/setts/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12ly2~x2/)|
-|![McHeadley Society example sett](/setts/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12ly2~x2/sett.png)|
+| [McHeadley Society](/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12ly2~x2/)|
+|![McHeadley Society example sett](/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12ly2~x2/sett.png)|

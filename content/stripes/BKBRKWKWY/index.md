@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carbon (Corporate)](/setts/s9/n68k4n18o20k3w3k10lb8lo4/)|
-|![Carbon (Corporate) example sett](/setts/s9/n68k4n18o20k3w3k10lb8lo4/sett.png)|
+| [Carbon (Corporate)](/variants/s9/n68k4n18o20k3w3k10lb8lo4/)|
+|![Carbon (Corporate) example sett](/variants/s9/n68k4n18o20k3w3k10lb8lo4/sett.png)|

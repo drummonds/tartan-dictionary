@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Confederate Rose](/setts/s14/dp24w4m10w4ly4w28o6w4o6w28m18w1db4w3~x2/)|
-|![Confederate Rose example sett](/setts/s14/dp24w4m10w4ly4w28o6w4o6w28m18w1db4w3~x2/sett.png)|
+| [Confederate Rose](/variants/s14/dp24w4m10w4ly4w28o6w4o6w28m18w1db4w3~x2/)|
+|![Confederate Rose example sett](/variants/s14/dp24w4m10w4ly4w28o6w4o6w28m18w1db4w3~x2/sett.png)|

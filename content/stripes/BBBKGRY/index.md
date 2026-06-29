@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nova Scotia Int. Tattoo (Corporate)](/setts/s7/db3t2db21k12dg24r1lo3~x2/)|
-|![Nova Scotia Int. Tattoo (Corporate) example sett](/setts/s7/db3t2db21k12dg24r1lo3~x2/sett.png)|
+| [Nova Scotia Int. Tattoo (Corporate)](/variants/s7/db3t2db21k12dg24r1lo3~x2/)|
+|![Nova Scotia Int. Tattoo (Corporate) example sett](/variants/s7/db3t2db21k12dg24r1lo3~x2/sett.png)|

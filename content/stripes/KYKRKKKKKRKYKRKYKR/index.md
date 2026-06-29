@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of New Bern 300 (District)](/setts/s18/r12ki2ly2ki2r2ki2ly2ki2r12ki1k2k3k2ki1r12ki2ly2ki2~x2/)|
-|![City of New Bern 300 (District) example sett](/setts/s18/r12ki2ly2ki2r2ki2ly2ki2r12ki1k2k3k2ki1r12ki2ly2ki2~x2/sett.png)|
+| [City of New Bern 300 (District)](/variants/s18/r12ki2ly2ki2r2ki2ly2ki2r12ki1k2k3k2ki1r12ki2ly2ki2~x2/)|
+|![City of New Bern 300 (District) example sett](/variants/s18/r12ki2ly2ki2r2ki2ly2ki2r12ki1k2k3k2ki1r12ki2ly2ki2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Devon, Green (District)](/setts/s7/o5y4lr1y4dy4dg4ly1~x4/)|
-|![Devon, Green (District) example sett](/setts/s7/o5y4lr1y4dy4dg4ly1~x4/sett.png)|
+| [Devon, Green (District)](/variants/s7/o5y4lr1y4dy4dg4ly1~x4/)|
+|![Devon, Green (District) example sett](/variants/s7/o5y4lr1y4dy4dg4ly1~x4/sett.png)|

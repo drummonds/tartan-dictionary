@@ -1,0 +1,59 @@
+---
+title: "Christian Hunting (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g2db27k19g27dp2ly3/)
+(the same proportion at any scale), whose colour order is pattern [RGBKGBY](/stripes/rgbkgby/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=647
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Christian Htg
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Christian Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=647">record</a>)</li>
+<li>2005 January — Christian Htg (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6830/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [647](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=647)
+- Scottish Tartans Authority (ITI): 6830
+
+## Thread count
+R/6 G4 DB54 K38 G54 P4 Y/6
+
+One full sett is **320 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">54</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">54</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/6 G4 DB54 K38 G54 P4 Y/6 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r3g2db27k19g27dp2ly3~x2">Christian Hunting (Personal)</a> <a class="nn-out" href="/variants/s7/r3g2db27k19g27dp2ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r3g2db27k19g27dp2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.43</div><div class="nn-name"><a href="/ttd/edit/#slug=w2r3db33k33g33k6ly2~x2&amp;base=r3g2db27k19g27dp2ly3~x2">MacNeil - 1840 (Chief's sett)</a> <a class="nn-out" href="/variants/s7/w2r3db33k33g33k6ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w2r3db33k33g33k6ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.68</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k6ly1dg12ly1db6lr2~x4&amp;base=r3g2db27k19g27dp2ly3~x2">James (Personal)</a> <a class="nn-out" href="/variants/s7/r2k6ly1dg12ly1db6lr2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2k6ly1dg12ly1db6lr2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.69</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k8ly1k8g13db13lo1r2~x2&amp;base=r3g2db27k19g27dp2ly3~x2">Sey (Name)</a> <a class="nn-out" href="/variants/s8/r2k8ly1k8g13db13lo1r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r2k8ly1k8g13db13lo1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.83</div><div class="nn-name"><a href="/ttd/edit/#slug=w1r2b16k14g15k3ly1~x2&amp;base=r3g2db27k19g27dp2ly3~x2">Macneil of Barra - Chief (Personal)</a> <a class="nn-out" href="/variants/s7/w1r2b16k14g15k3ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w1r2b16k14g15k3ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.84</div><div class="nn-name"><a href="/ttd/edit/#slug=r3dg20k2n11k2db20lr2~x2&amp;base=r3g2db27k19g27dp2ly3~x2">Grandfather Mountain Games (District</a> <a class="nn-out" href="/variants/s7/r3dg20k2n11k2db20lr2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3dg20k2n11k2db20lr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.85</div><div class="nn-name"><a href="/ttd/edit/#slug=db3r2db18k6gi18ly2g3~x2&amp;base=r3g2db27k19g27dp2ly3~x2">McComb (Personal)</a> <a class="nn-out" href="/variants/s7/db3r2db18k6gi18ly2g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db3r2db18k6gi18ly2g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.86</div><div class="nn-name"><a href="/ttd/edit/#slug=db3r2db18k6dg18ly2g3~x2&amp;base=r3g2db27k19g27dp2ly3~x2">McComb</a> <a class="nn-out" href="/variants/s7/db3r2db18k6dg18ly2g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db3r2db18k6dg18ly2g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.88</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g3db4g17k13dt26w3~x2&amp;base=r3g2db27k19g27dp2ly3~x2">Royal Burgh of Peebles (District)</a> <a class="nn-out" href="/variants/s7/r3g3db4g17k13dt26w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3g3db4g17k13dt26w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=w1db12k9g1k1g5lb1g3lo1~x4&amp;base=r3g2db27k19g27dp2ly3~x2">St. Andrews Golf Club (Corporate)</a> <a class="nn-out" href="/variants/s9/w1db12k9g1k1g5lb1g3lo1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w1db12k9g1k1g5lb1g3lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=ly3k2r3db20k24g20r3k2lb3~x2&amp;base=r3g2db27k19g27dp2ly3~x2">Loch Awe</a> <a class="nn-out" href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2r3db33k33g33k6ly2~x2/"><circle cx="182.3" cy="161.3" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/variants/s7/r2k6ly1dg12ly1db6lr2~x4/"><circle cx="163.3" cy="170.6" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s8/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="147.9" cy="170.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/variants/s7/w1r2b16k14g15k3ly1~x2/"><circle cx="152.1" cy="156.6" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="155.3" cy="184.5" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/variants/s7/db3r2db18k6gi18ly2g3~x2/"><circle cx="184.9" cy="185.1" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18ly2g3~x2/"><circle cx="177.1" cy="182.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="155.6" cy="191.2" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s9/w1db12k9g1k1g5lb1g3lo1~x4/"><circle cx="164.4" cy="150.6" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="145.0" cy="145.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><circle cx="174.9" cy="167.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/r3g2db27k19g27dp2ly3~x2/

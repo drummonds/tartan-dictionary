@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Encyclopaedia Britannica](/setts/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/)|
-|![Encyclopaedia Britannica example sett](/setts/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/sett.png)|
+| [Encyclopaedia Britannica](/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/)|
+|![Encyclopaedia Britannica example sett](/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pars, Dress (Sports)](/setts/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/)|
-|![Pars, Dress (Sports) example sett](/setts/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/sett.png)|
+| [Pars, Dress (Sports)](/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/)|
+|![Pars, Dress (Sports) example sett](/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/sett.png)|

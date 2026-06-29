@@ -24,11 +24,11 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baird](/setts/s8/db3k2db8k8dg8dp1dg1dp3~x2/)|
-|![Baird example sett](/setts/s8/db3k2db8k8dg8dp1dg1dp3~x2/sett.png)|
-| [Baird](/setts/s8/db3k2db8k8g8p1g1p3~x2/)|
-|![Baird example sett](/setts/s8/db3k2db8k8g8p1g1p3~x2/sett.png)|
-| [Baird](/setts/s8/db3k2db8k8dg8n1dg1n3~x2/)|
-|![Baird example sett](/setts/s8/db3k2db8k8dg8n1dg1n3~x2/sett.png)|
-| [Baird (Modern)](/tartans/db3k2db8k8g8dp1g1dp3/)|
-|![Baird (Modern) example sett](/setts/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png)|
+| [Baird](/variants/s8/db3k2db8k8dg8dp1dg1dp3~x2/)|
+|![Baird example sett](/variants/s8/db3k2db8k8dg8dp1dg1dp3~x2/sett.png)|
+| [Baird](/variants/s8/db3k2db8k8g8p1g1p3~x2/)|
+|![Baird example sett](/variants/s8/db3k2db8k8g8p1g1p3~x2/sett.png)|
+| [Baird](/variants/s8/db3k2db8k8dg8n1dg1n3~x2/)|
+|![Baird example sett](/variants/s8/db3k2db8k8dg8n1dg1n3~x2/sett.png)|
+| [Baird (Modern)](/setts/db3k2db8k8g8dp1g1dp3/)|
+|![Baird (Modern) example sett](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westfalia Dress (Corporate)](/setts/s6/w44dg18w6dg11dt1o4~x2/)|
-|![Westfalia Dress (Corporate) example sett](/setts/s6/w44dg18w6dg11dt1o4~x2/sett.png)|
+| [Westfalia Dress (Corporate)](/variants/s6/w44dg18w6dg11dt1o4~x2/)|
+|![Westfalia Dress (Corporate) example sett](/variants/s6/w44dg18w6dg11dt1o4~x2/sett.png)|

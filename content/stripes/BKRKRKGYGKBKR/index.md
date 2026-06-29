@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Watch Plaid of Pipers](/setts/s13/db12k2r2k2r2k12g11ly2g11k12db11k2r2~x2/)|
-|![Black Watch Plaid of Pipers example sett](/setts/s13/db12k2r2k2r2k12g11ly2g11k12db11k2r2~x2/sett.png)|
+| [Black Watch Plaid of Pipers](/variants/s13/db12k2r2k2r2k12g11ly2g11k12db11k2r2~x2/)|
+|![Black Watch Plaid of Pipers example sett](/variants/s13/db12k2r2k2r2k12g11ly2g11k12db11k2r2~x2/sett.png)|

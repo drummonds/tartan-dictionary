@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [San Diego, The](/setts/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/)|
-|![San Diego, The example sett](/setts/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/sett.png)|
+| [San Diego, The](/variants/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/)|
+|![San Diego, The example sett](/variants/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/sett.png)|

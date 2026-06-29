@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meeson Hunting](/setts/s6/k26n10dt19r6ly2db9~x2/)|
-|![Meeson Hunting example sett](/setts/s6/k26n10dt19r6ly2db9~x2/sett.png)|
+| [Meeson Hunting](/variants/s6/k26n10dt19r6ly2db9~x2/)|
+|![Meeson Hunting example sett](/variants/s6/k26n10dt19r6ly2db9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heriot Bay (District)](/setts/s6/b5dy2dg4o3w1b5~x8/)|
-|![Heriot Bay (District) example sett](/setts/s6/b5dy2dg4o3w1b5~x8/sett.png)|
+| [Heriot Bay (District)](/variants/s6/b5dy2dg4o3w1b5~x8/)|
+|![Heriot Bay (District) example sett](/variants/s6/b5dy2dg4o3w1b5~x8/sett.png)|

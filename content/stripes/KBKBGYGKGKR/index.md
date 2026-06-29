@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dama Weekend](/setts/s11/ki42n2ki2n4y4ly2y6k9y2k2r2~x2/)|
-|![Dama Weekend example sett](/setts/s11/ki42n2ki2n4y4ly2y6k9y2k2r2~x2/sett.png)|
+| [Dama Weekend](/variants/s11/ki42n2ki2n4y4ly2y6k9y2k2r2~x2/)|
+|![Dama Weekend example sett](/variants/s11/ki42n2ki2n4y4ly2y6k9y2k2r2~x2/sett.png)|

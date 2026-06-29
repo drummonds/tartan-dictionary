@@ -1,0 +1,64 @@
+---
+title: "Auckland (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3k3db2k16db2k2db24lb2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBKBW](/stripes/gkbkbkbw/).
+
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3043/
+
+## Provenance
+
+Earliest known date: 1999 Designed by the House of Tartan for Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. This company appears to have gone out of business without ever promoting the tartan. Copyright remains with the designers.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Auckland New Zealand
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1999 — Auckland (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3043/">record</a>)</li>
+<li>01/01/2000 — Auckland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5087">record</a>)</li>
+<li>undated — Auckland New Zealand District Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3043">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5087)
+- Scottish Tartans Authority (ITI): 3043
+
+## Thread count
+DG/6 K6 DB4 K32 DB4 K4 DB48 N/4
+
+One full sett is **206 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> <small style="color:#888">#003820</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(30.0% 0.070 158.3)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> <small style="color:#888">#C0C0C0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(80.8% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DG/6 K6 DB4 K32 DB4 K4 DB48 N/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dg3k3db2k16db2k2db24lb2~x2">Auckland (Fashion)</a> <a class="nn-out" href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.63</div><div class="nn-name"><a href="/ttd/edit/#slug=k4db36k4db4k34b3k3w4~x2&amp;base=dg3k3db2k16db2k2db24lb2~x2">Slanj Dress (Corporate)</a> <a class="nn-out" href="/variants/s8/k4db36k4db4k34b3k3w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4db36k4db4k34b3k3w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=dt23k2dt2k2dt2k28r2k4n2~x2&amp;base=dg3k3db2k16db2k2db24lb2~x2">Trotter (Personal)</a> <a class="nn-out" href="/variants/s9/dt23k2dt2k2dt2k28r2k4n2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dt23k2dt2k2dt2k28r2k4n2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=k1r1k1db7k1g1k1~x8&amp;base=dg3k3db2k16db2k2db24lb2~x2">Eglinton</a> <a class="nn-out" href="/variants/s7/k1r1k1db7k1g1k1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k1r1k1db7k1g1k1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=k3r2k12db8k2db4k2db4k12db22ly3~x2&amp;base=dg3k3db2k16db2k2db24lb2~x2">Caledonian Dragon (Corporate)</a> <a class="nn-out" href="/variants/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=db32k3db4k3db4k11dt4k2w3k2dt11~x2&amp;base=dg3k3db2k16db2k2db24lb2~x2">Dawson-Nunes (Personal)</a> <a class="nn-out" href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=db8r2db33dt15g12lo2g2r2~x2&amp;base=dg3k3db2k16db2k2db24lb2~x2">Moray Council</a> <a class="nn-out" href="/variants/s8/db8r2db33dt15g12lo2g2r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db8r2db33dt15g12lo2g2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=k4ly1k18db18lb1db4~x4&amp;base=dg3k3db2k16db2k2db24lb2~x2">Lyndon Prep (School)</a> <a class="nn-out" href="/variants/s6/k4ly1k18db18lb1db4~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4ly1k18db18lb1db4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=k4r1k4r1dg14n1dg1~x4&amp;base=dg3k3db2k16db2k2db24lb2~x2">Pinehurst Resort</a> <a class="nn-out" href="/variants/s7/k4r1k4r1dg14n1dg1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4r1k4r1dg14n1dg1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=k21db8r4db2r2db23k4w2~x2&amp;base=dg3k3db2k16db2k2db24lb2~x2">Murdoch Clebration (Personal)</a> <a class="nn-out" href="/variants/s8/k21db8r4db2r2db23k4w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k21db8r4db2r2db23k4w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=db30r2db2r4db9k26w2k4~x2&amp;base=dg3k3db2k16db2k2db24lb2~x2">Murdoch Celebration (Personal)</a> <a class="nn-out" href="/variants/s8/db30r2db2r4db9k26w2k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db30r2db2r4db9k26w2k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="348.3" cy="203.3" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s9/dt23k2dt2k2dt2k28r2k4n2~x2/"><circle cx="404.6" cy="199.5" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s7/k1r1k1db7k1g1k1~x8/"><circle cx="333.9" cy="228.3" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/"><circle cx="339.5" cy="215.3" r="4" fill="#3465a4"><title>Caledonian Dragon (Corporate)</title></circle></a><a href="/variants/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/"><circle cx="345.4" cy="184.5" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/variants/s8/db8r2db33dt15g12lo2g2r2~x2/"><circle cx="326.8" cy="181.4" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/variants/s6/k4ly1k18db18lb1db4~x4/"><circle cx="368.2" cy="220.1" r="4" fill="#3465a4"><title>Lyndon Prep (School)</title></circle></a><a href="/variants/s7/k4r1k4r1dg14n1dg1~x4/"><circle cx="393.1" cy="207.8" r="4" fill="#3465a4"><title>Pinehurst Resort</title></circle></a><a href="/variants/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.6" cy="199.4" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="334.1" cy="183.0" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><circle cx="362.0" cy="205.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/dg3k3db2k16db2k2db24lb2~x2/

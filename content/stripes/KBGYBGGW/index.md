@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Teviotdale](/setts/s8/k5b3dy4ly1db13dy13g29w2~x2/)|
-|![Teviotdale example sett](/setts/s8/k5b3dy4ly1db13dy13g29w2~x2/sett.png)|
+| [Teviotdale](/variants/s8/k5b3dy4ly1db13dy13g29w2~x2/)|
+|![Teviotdale example sett](/variants/s8/k5b3dy4ly1db13dy13g29w2~x2/sett.png)|

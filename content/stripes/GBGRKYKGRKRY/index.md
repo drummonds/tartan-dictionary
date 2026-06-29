@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carroll O'Reed](/setts/s12/dg28b1dg4r1k1lr1k1g4r4k2r4lr2~x2/)|
-|![Carroll O'Reed example sett](/setts/s12/dg28b1dg4r1k1lr1k1g4r4k2r4lr2~x2/sett.png)|
+| [Carroll O'Reed](/variants/s12/dg28b1dg4r1k1lr1k1g4r4k2r4lr2~x2/)|
+|![Carroll O'Reed example sett](/variants/s12/dg28b1dg4r1k1lr1k1g4r4k2r4lr2~x2/sett.png)|

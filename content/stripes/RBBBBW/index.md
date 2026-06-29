@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacArthur-Fox Blue (Personal)](/setts/s6/r2b13dr3b3dr16lb2~x4/)|
-|![MacArthur-Fox Blue (Personal) example sett](/setts/s6/r2b13dr3b3dr16lb2~x4/sett.png)|
+| [MacArthur-Fox Blue (Personal)](/variants/s6/r2b13dr3b3dr16lb2~x4/)|
+|![MacArthur-Fox Blue (Personal) example sett](/variants/s6/r2b13dr3b3dr16lb2~x4/sett.png)|

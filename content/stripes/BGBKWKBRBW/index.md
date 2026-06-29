@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Al-Fadhli (Personal)](/setts/s10/db3dg3db24k34w1k34db24r3db3w3~x2/)|
-|![Al-Fadhli (Personal) example sett](/setts/s10/db3dg3db24k34w1k34db24r3db3w3~x2/sett.png)|
+| [Al-Fadhli (Personal)](/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/)|
+|![Al-Fadhli (Personal) example sett](/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/sett.png)|

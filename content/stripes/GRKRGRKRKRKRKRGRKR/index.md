@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebrides South Uist #3](/setts/s18/g8r1k1r8g1r8k1r1k8r1~x6/)|
-|![Hebrides South Uist #3 example sett](/setts/s18/g8r1k1r8g1r8k1r1k8r1~x6/sett.png)|
+| [Hebrides South Uist #3](/variants/s18/g8r1k1r8g1r8k1r1k8r1~x6/)|
+|![Hebrides South Uist #3 example sett](/variants/s18/g8r1k1r8g1r8k1r1k8r1~x6/sett.png)|

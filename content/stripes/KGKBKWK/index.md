@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Frame (Edinburgh) (Personal)](/setts/s7/k16g15k4t12k22w2k6~x2/)|
-|![Frame (Edinburgh) (Personal) example sett](/setts/s7/k16g15k4t12k22w2k6~x2/sett.png)|
+| [Frame (Edinburgh) (Personal)](/variants/s7/k16g15k4t12k22w2k6~x2/)|
+|![Frame (Edinburgh) (Personal) example sett](/variants/s7/k16g15k4t12k22w2k6~x2/sett.png)|

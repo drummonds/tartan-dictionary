@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harmony 1](/setts/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/)|
-|![Harmony 1 example sett](/setts/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/sett.png)|
+| [Harmony 1](/variants/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/)|
+|![Harmony 1 example sett](/variants/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/sett.png)|

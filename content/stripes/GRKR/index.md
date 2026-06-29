@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Guard of Oman 4th Band Squadron](/setts/s4/g38r24k9r9~x2/)|
-|![Royal Guard of Oman 4th Band Squadron example sett](/setts/s4/g38r24k9r9~x2/sett.png)|
+| [Royal Guard of Oman 4th Band Squadron](/variants/s4/g38r24k9r9~x2/)|
+|![Royal Guard of Oman 4th Band Squadron example sett](/variants/s4/g38r24k9r9~x2/sett.png)|

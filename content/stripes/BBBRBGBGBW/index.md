@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Visit Scotland](/setts/s10/db51b4db7m2db2g2db2dg10db13w2~x2/)|
-|![Visit Scotland example sett](/setts/s10/db51b4db7m2db2g2db2dg10db13w2~x2/sett.png)|
+| [Visit Scotland](/variants/s10/db51b4db7m2db2g2db2dg10db13w2~x2/)|
+|![Visit Scotland example sett](/variants/s10/db51b4db7m2db2g2db2dg10db13w2~x2/sett.png)|

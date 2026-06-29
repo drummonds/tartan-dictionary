@@ -1,0 +1,64 @@
+---
+title: "Graham of Montrose"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dg19k16w2db15dg4/)
+(the same proportion at any scale), whose colour order is pattern [GBWKGK](/stripes/gbwkgk/).
+
+Part of the [Graham of Montrose](/tartans/graham-of-montrose/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1484
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Graham of Montrose #2
+- Graham of Montrose #3
+- Graham of Montrose Red
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1484](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1484)
+- Scottish Tartans World Register: 746
+
+## Thread count
+K/8 G38 K32 LN4 B30 G/8
+
+One full sett is **224 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> <small style="color:#888">#005020</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(37.7% 0.105 149.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">30</td><td><code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> <small style="color:#888">#2C4084</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.4% 0.117 268.3)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> <small style="color:#888">#005020</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(37.7% 0.105 149.6)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/8 G38 K32 LN4 B30 G/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/db9k9g9w2g9k9g9w2g9k9db9k3/"><img src="/variants/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/db9k9g9w2g9k9g9w2g9k9db9k3/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k4dg19k16w2db15dg4~x2">Graham of Montrose</a> <a class="nn-out" href="/variants/s6/k4dg19k16w2db15dg4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k4dg19k16w2db15dg4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.56</div><div class="nn-name"><a href="/ttd/edit/#slug=k4g25k24r3db24g4~x2&amp;base=k4dg19k16w2db15dg4~x2">Ferguson of Balquhidder #2</a> <a class="nn-out" href="/variants/s6/k4g25k24r3db24g4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4g25k24r3db24g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.56</div><div class="nn-name"><a href="/ttd/edit/#slug=g8t1g1k6db6k1~x4&amp;base=k4dg19k16w2db15dg4~x2">Graham of Menteith (Clan)</a> <a class="nn-out" href="/variants/s6/g8t1g1k6db6k1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g8t1g1k6db6k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.57</div><div class="nn-name"><a href="/ttd/edit/#slug=db12k17dg19w2k5~x2&amp;base=k4dg19k16w2db15dg4~x2">Wilson's Folio 131</a> <a class="nn-out" href="/variants/s5/db12k17dg19w2k5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db12k17dg19w2k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.59</div><div class="nn-name"><a href="/ttd/edit/#slug=g24db6t3k6db12k15g4~x2&amp;base=k4dg19k16w2db15dg4~x2">Blaylock Annandale (Name)</a> <a class="nn-out" href="/variants/s7/g24db6t3k6db12k15g4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g24db6t3k6db12k15g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.61</div><div class="nn-name"><a href="/ttd/edit/#slug=g8b1g1k6db6k1~x4&amp;base=k4dg19k16w2db15dg4~x2">Graham of Menteith</a> <a class="nn-out" href="/variants/s6/g8b1g1k6db6k1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g8b1g1k6db6k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.67</div><div class="nn-name"><a href="/ttd/edit/#slug=k3db14r2k14g14k3~x2&amp;base=k4dg19k16w2db15dg4~x2">Gallamore</a> <a class="nn-out" href="/variants/s6/k3db14r2k14g14k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3db14r2k14g14k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.74</div><div class="nn-name"><a href="/ttd/edit/#slug=g18t2g4k14dp12k3~x2&amp;base=k4dg19k16w2db15dg4~x2">Coburg</a> <a class="nn-out" href="/variants/s6/g18t2g4k14dp12k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g18t2g4k14dp12k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.74</div><div class="nn-name"><a href="/ttd/edit/#slug=db6k2db18k18g18k3r2~x2&amp;base=k4dg19k16w2db15dg4~x2">Renfrew</a> <a class="nn-out" href="/variants/s7/db6k2db18k18g18k3r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db6k2db18k18g18k3r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.74</div><div class="nn-name"><a href="/ttd/edit/#slug=k2g10k9db9r1k1db2~x2&amp;base=k4dg19k16w2db15dg4~x2">Reid and Taylor</a> <a class="nn-out" href="/variants/s7/k2g10k9db9r1k1db2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k2g10k9db9r1k1db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.77</div><div class="nn-name"><a href="/ttd/edit/#slug=r2g12k12g1db12g2~x2&amp;base=k4dg19k16w2db15dg4~x2">Gunn</a> <a class="nn-out" href="/variants/s6/r2g12k12g1db12g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2g12k12g1db12g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="204.5" cy="249.5" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/variants/s6/g8t1g1k6db6k1~x4/"><circle cx="218.0" cy="249.8" r="4" fill="#3465a4"><title>Graham of Menteith (Clan)</title></circle></a><a href="/variants/s5/db12k17dg19w2k5~x2/"><circle cx="222.7" cy="269.4" r="4" fill="#3465a4"><title>Wilson's Folio 131</title></circle></a><a href="/variants/s7/g24db6t3k6db12k15g4~x2/"><circle cx="212.9" cy="249.2" r="4" fill="#3465a4"><title>Blaylock Annandale (Name)</title></circle></a><a href="/variants/s6/g8b1g1k6db6k1~x4/"><circle cx="220.5" cy="251.3" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="214.3" cy="261.9" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/g18t2g4k14dp12k3~x2/"><circle cx="229.4" cy="249.4" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="219.4" cy="240.0" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="221.4" cy="232.8" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2~x2/"><circle cx="216.6" cy="231.7" r="4" fill="#3465a4"><title>Gunn</title></circle></a><circle cx="223.0" cy="255.2" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/k4dg19k16w2db15dg4~x2/

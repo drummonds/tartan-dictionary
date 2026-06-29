@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leckie (Personal)](/setts/s7/r3db1r12o3dg12lb1dg2~x4/)|
-|![Leckie (Personal) example sett](/setts/s7/r3db1r12o3dg12lb1dg2~x4/sett.png)|
+| [Leckie (Personal)](/variants/s7/r3db1r12o3dg12lb1dg2~x4/)|
+|![Leckie (Personal) example sett](/variants/s7/r3db1r12o3dg12lb1dg2~x4/sett.png)|

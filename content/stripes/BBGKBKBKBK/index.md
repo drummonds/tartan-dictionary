@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Racing Stewart (Stealth)](/setts/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/)|
-|![Racing Stewart (Stealth) example sett](/setts/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/sett.png)|
-| [Racing Stewart, Stealth (Corporate)](/setts/s10/k86n5k5n3k3n3k3dy11dr11n4~x2/)|
-|![Racing Stewart, Stealth (Corporate) example sett](/setts/s10/k86n5k5n3k3n3k3dy11dr11n4~x2/sett.png)|
+| [Racing Stewart (Stealth)](/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/)|
+|![Racing Stewart (Stealth) example sett](/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/sett.png)|
+| [Racing Stewart, Stealth (Corporate)](/variants/s10/k86n5k5n3k3n3k3dy11dr11n4~x2/)|
+|![Racing Stewart, Stealth (Corporate) example sett](/variants/s10/k86n5k5n3k3n3k3dy11dr11n4~x2/sett.png)|

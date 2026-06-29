@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Raznotravie](/setts/s18/k10ly1y2k1dt2k1y2ly1k1dt2k3dt1k17y18ly1y2k1dg2~x2/)|
-|![Raznotravie example sett](/setts/s18/k10ly1y2k1dt2k1y2ly1k1dt2k3dt1k17y18ly1y2k1dg2~x2/sett.png)|
+| [Raznotravie](/variants/s18/k10ly1y2k1dt2k1y2ly1k1dt2k3dt1k17y18ly1y2k1dg2~x2/)|
+|![Raznotravie example sett](/variants/s18/k10ly1y2k1dt2k1y2ly1k1dt2k3dt1k17y18ly1y2k1dg2~x2/sett.png)|

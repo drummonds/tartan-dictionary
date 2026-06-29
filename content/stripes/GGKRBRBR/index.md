@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacWilliam](/setts/s8/dy2g12k10r1b16r2b16r1~x4/)|
-|![MacWilliam example sett](/setts/s8/dy2g12k10r1b16r2b16r1~x4/sett.png)|
+| [MacWilliam](/variants/s8/dy2g12k10r1b16r2b16r1~x4/)|
+|![MacWilliam example sett](/variants/s8/dy2g12k10r1b16r2b16r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mounth, The](/setts/s9/dg2y13db12w3db10w3db12g13dp2~x2/)|
-|![Mounth, The example sett](/setts/s9/dg2y13db12w3db10w3db12g13dp2~x2/sett.png)|
+| [Mounth, The](/variants/s9/dg2y13db12w3db10w3db12g13dp2~x2/)|
+|![Mounth, The example sett](/variants/s9/dg2y13db12w3db10w3db12g13dp2~x2/sett.png)|

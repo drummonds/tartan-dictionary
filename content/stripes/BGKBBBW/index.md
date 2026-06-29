@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fettes College](/setts/s7/dr4dg23k22p3db22dr1w2~x2/)|
-|![Fettes College example sett](/setts/s7/dr4dg23k22p3db22dr1w2~x2/sett.png)|
+| [Fettes College](/variants/s7/dr4dg23k22p3db22dr1w2~x2/)|
+|![Fettes College example sett](/variants/s7/dr4dg23k22p3db22dr1w2~x2/sett.png)|

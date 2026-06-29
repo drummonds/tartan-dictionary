@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robinson, dress](/tartans/k1r7k1r7db16g1/)|
-|![Robinson, dress example sett](/setts/s6/k1r7k1r7db16g1~x2/sett.png)|
+| [Robinson, dress](/setts/k1r7k1r7db16g1/)|
+|![Robinson, dress example sett](/variants/s6/k1r7k1r7db16g1~x2/sett.png)|

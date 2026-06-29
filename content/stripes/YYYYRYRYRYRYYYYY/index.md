@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Compaq](/setts/s16/lo1ly1lo1ly1r1ly1r1ly1r1ly1r1ly1lo1ly1lo1ly1~x6/)|
-|![Compaq example sett](/setts/s16/lo1ly1lo1ly1r1ly1r1ly1r1ly1r1ly1lo1ly1lo1ly1~x6/sett.png)|
+| [Compaq](/variants/s16/lo1ly1lo1ly1r1ly1r1ly1r1ly1r1ly1lo1ly1lo1ly1~x6/)|
+|![Compaq example sett](/variants/s16/lo1ly1lo1ly1r1ly1r1ly1r1ly1r1ly1lo1ly1lo1ly1~x6/sett.png)|

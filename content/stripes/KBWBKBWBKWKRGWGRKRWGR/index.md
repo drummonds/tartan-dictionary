@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdeen (Johnston and Smith)](/setts/s21/k1dp4w13dp1k5dpi4w1dpi4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/)|
-|![Aberdeen (Johnston and Smith) example sett](/setts/s21/k1dp4w13dp1k5dpi4w1dpi4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/sett.png)|
+| [Aberdeen (Johnston and Smith)](/variants/s21/k1dp4w13dp1k5dpi4w1dpi4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/)|
+|![Aberdeen (Johnston and Smith) example sett](/variants/s21/k1dp4w13dp1k5dpi4w1dpi4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/sett.png)|

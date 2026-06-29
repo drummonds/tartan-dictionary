@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland's National](/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/)|
-|![Scotland's National example sett](/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/sett.png)|
+| [Scotland's National](/variants/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/)|
+|![Scotland's National example sett](/variants/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/sett.png)|

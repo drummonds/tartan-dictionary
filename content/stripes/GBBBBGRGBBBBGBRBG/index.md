@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Frangord](/setts/s17/dg14dbi2r2dbi2dg22t2dbi16t2db20dg5r2dg5db20t2dbi16t2dg8~x2/)|
-|![Frangord example sett](/setts/s17/dg14dbi2r2dbi2dg22t2dbi16t2db20dg5r2dg5db20t2dbi16t2dg8~x2/sett.png)|
+| [Frangord](/variants/s17/dg14dbi2r2dbi2dg22t2dbi16t2db20dg5r2dg5db20t2dbi16t2dg8~x2/)|
+|![Frangord example sett](/variants/s17/dg14dbi2r2dbi2dg22t2dbi16t2db20dg5r2dg5db20t2dbi16t2dg8~x2/sett.png)|

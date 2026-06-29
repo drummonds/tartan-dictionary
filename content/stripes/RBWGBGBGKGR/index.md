@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Adams](/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/)|
-|![Adams example sett](/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/sett.png)|
-| [Adams (Name)](/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/)|
-|![Adams (Name) example sett](/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/sett.png)|
+| [Adams](/variants/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/)|
+|![Adams example sett](/variants/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/sett.png)|
+| [Adams (Name)](/variants/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/)|
+|![Adams (Name) example sett](/variants/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bartlett (Personal)](/setts/s13/r4lo40n12o2n12lo30k2lo4k2lo4o2lo3k3~x2/)|
-|![Bartlett (Personal) example sett](/setts/s13/r4lo40n12o2n12lo30k2lo4k2lo4o2lo3k3~x2/sett.png)|
+| [Bartlett (Personal)](/variants/s13/r4lo40n12o2n12lo30k2lo4k2lo4o2lo3k3~x2/)|
+|![Bartlett (Personal) example sett](/variants/s13/r4lo40n12o2n12lo30k2lo4k2lo4o2lo3k3~x2/sett.png)|

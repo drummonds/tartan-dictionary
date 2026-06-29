@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baillie of Polkemmet](/tartans/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1/)|
-|![Baillie of Polkemmet example sett](/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/sett.png)|
+| [Baillie of Polkemmet](/setts/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1/)|
+|![Baillie of Polkemmet example sett](/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/sett.png)|

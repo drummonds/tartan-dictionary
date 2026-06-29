@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Flesk Fashion Restricted Tartan Tartan Number: 2369. Earliest known date: 1997 Designed in May 1997 by Lochcarron for The Check Trading Co, Tokyo, Japan. Based on the Burns Check. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/)|
-|![Glen Flesk Fashion Restricted Tartan Tartan Number: 2369. Earliest known date: 1997 Designed in May 1997 by Lochcarron for The Check Trading Co, Tokyo, Japan. Based on the Burns Check. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/sett.png)|
+| [Glen Flesk Fashion Restricted Tartan](/variants/s24/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/)|
+|![Glen Flesk Fashion Restricted Tartan example sett](/variants/s24/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/sett.png)|

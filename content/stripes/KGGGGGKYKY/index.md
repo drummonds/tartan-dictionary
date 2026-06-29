@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sin-Cos](/setts/s10/k60g64gi5g8gi5g64k60ly8k8ly8/)|
-|![Sin-Cos example sett](/setts/s10/k60g64gi5g8gi5g64k60ly8k8ly8/sett.png)|
-| [Sin-Cos (Corporate)](/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/)|
-|![Sin-Cos (Corporate) example sett](/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/sett.png)|
+| [Sin-Cos](/variants/s10/k60g64gi5g8gi5g64k60ly8k8ly8/)|
+|![Sin-Cos example sett](/variants/s10/k60g64gi5g8gi5g64k60ly8k8ly8/sett.png)|
+| [Sin-Cos (Corporate)](/variants/s10/k60g64dg5g8dg5g64k60ly8k8ly8/)|
+|![Sin-Cos (Corporate) example sett](/variants/s10/k60g64dg5g8dg5g64k60ly8k8ly8/sett.png)|

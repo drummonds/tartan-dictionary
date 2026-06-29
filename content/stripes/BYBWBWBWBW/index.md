@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yorkshire, The Spirit of](/setts/s10/db19ly2db3w7db3w7db9w3db2w19~x2/)|
-|![Yorkshire, The Spirit of example sett](/setts/s10/db19ly2db3w7db3w7db9w3db2w19~x2/sett.png)|
+| [Yorkshire, The Spirit of](/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/)|
+|![Yorkshire, The Spirit of example sett](/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/sett.png)|

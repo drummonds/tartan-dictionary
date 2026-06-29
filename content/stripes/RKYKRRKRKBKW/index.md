@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [German American](/setts/s12/ri4k4lo3k4ri54r5k54ri4k3db9k2w4/)|
-|![German American example sett](/setts/s12/ri4k4lo3k4ri54r5k54ri4k3db9k2w4/sett.png)|
+| [German American](/variants/s12/ri4k4lo3k4ri54r5k54ri4k3db9k2w4/)|
+|![German American example sett](/variants/s12/ri4k4lo3k4ri54r5k54ri4k3db9k2w4/sett.png)|

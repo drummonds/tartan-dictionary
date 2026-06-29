@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Owen (Welsh Name)](/setts/s10/g3r1g2db1g3r3g2r2g18r2~x2/)|
-|![Owen (Welsh Name) example sett](/setts/s10/g3r1g2db1g3r3g2r2g18r2~x2/sett.png)|
+| [Owen (Welsh Name)](/variants/s10/g3r1g2db1g3r3g2r2g18r2~x2/)|
+|![Owen (Welsh Name) example sett](/variants/s10/g3r1g2db1g3r3g2r2g18r2~x2/sett.png)|

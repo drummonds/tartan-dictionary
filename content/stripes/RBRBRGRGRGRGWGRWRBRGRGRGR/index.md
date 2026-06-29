@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Staffa (Silk)](/setts/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/)|
-|![Staffa (Silk) example sett](/setts/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/sett.png)|
+| [Staffa (Silk)](/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/)|
+|![Staffa (Silk) example sett](/variants/s25/r17dg14r4dg4r17dg4r4db12r13w5r13dg14w3dg14r4dg4r17dg4r4dg8r4db4r4db4r14~x2/sett.png)|

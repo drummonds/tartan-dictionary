@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loretto School](/setts/s8/db4r14dp6r5db12dg8db70m4/)|
-|![Loretto School example sett](/setts/s8/db4r14dp6r5db12dg8db70m4/sett.png)|
+| [Loretto School](/variants/s8/db4r14dp6r5db12dg8db70m4/)|
+|![Loretto School example sett](/variants/s8/db4r14dp6r5db12dg8db70m4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed Green (Teddy Bear)](/setts/s11/r1dy3dg2dy3r1dg24r1dy3dg2dy3r1~x2/)|
-|![Unnamed Green (Teddy Bear) example sett](/setts/s11/r1dy3dg2dy3r1dg24r1dy3dg2dy3r1~x2/sett.png)|
+| [Unnamed Green (Teddy Bear)](/variants/s11/r1dy3dg2dy3r1dg24r1dy3dg2dy3r1~x2/)|
+|![Unnamed Green (Teddy Bear) example sett](/variants/s11/r1dy3dg2dy3r1dg24r1dy3dg2dy3r1~x2/sett.png)|

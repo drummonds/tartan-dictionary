@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [British Caledonian Airways #4](/setts/s12/r68o5k9y3k3lb3k3dg20r9k3r5lb4/)|
-|![British Caledonian Airways #4 example sett](/setts/s12/r68o5k9y3k3lb3k3dg20r9k3r5lb4/sett.png)|
+| [British Caledonian Airways #4](/variants/s12/r68o5k9y3k3lb3k3dg20r9k3r5lb4/)|
+|![British Caledonian Airways #4 example sett](/variants/s12/r68o5k9y3k3lb3k3dg20r9k3r5lb4/sett.png)|

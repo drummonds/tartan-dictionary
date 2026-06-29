@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart / Stewart, Plaid](/setts/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/)|
-|![Stuart / Stewart, Plaid example sett](/setts/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/sett.png)|
+| [Stuart / Stewart, Plaid](/variants/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/)|
+|![Stuart / Stewart, Plaid example sett](/variants/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/sett.png)|

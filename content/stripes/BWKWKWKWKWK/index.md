@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buccleuch Check (9 squares)](/setts/s11/b5w4k4w4k4w4k4w4k4w4k4~x2/)|
-|![Buccleuch Check (9 squares) example sett](/setts/s11/b5w4k4w4k4w4k4w4k4w4k4~x2/sett.png)|
+| [Buccleuch Check (9 squares)](/variants/s11/b5w4k4w4k4w4k4w4k4w4k4~x2/)|
+|![Buccleuch Check (9 squares) example sett](/variants/s11/b5w4k4w4k4w4k4w4k4w4k4~x2/sett.png)|

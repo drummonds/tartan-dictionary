@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunlop Dress](/setts/s8/w3db1w30db1dp28w1dp1w3~x2/)|
-|![Dunlop Dress example sett](/setts/s8/w3db1w30db1dp28w1dp1w3~x2/sett.png)|
-| [Dunlop, dress](/setts/s8/w3db1w30db1p28w1p1w3~x2/)|
-|![Dunlop, dress example sett](/setts/s8/w3db1w30db1p28w1p1w3~x2/sett.png)|
+| [Dunlop Dress](/variants/s8/w3db1w30db1dp28w1dp1w3~x2/)|
+|![Dunlop Dress example sett](/variants/s8/w3db1w30db1dp28w1dp1w3~x2/sett.png)|
+| [Dunlop, dress](/variants/s8/w3db1w30db1p28w1p1w3~x2/)|
+|![Dunlop, dress example sett](/variants/s8/w3db1w30db1p28w1p1w3~x2/sett.png)|

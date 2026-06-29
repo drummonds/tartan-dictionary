@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eastern Shore Police Emerald Society](/setts/s15/g4dg40g4k8n4k8g5k2ly4k2dg1g2dg2k1w1~x2/)|
-|![Eastern Shore Police Emerald Society example sett](/setts/s15/g4dg40g4k8n4k8g5k2ly4k2dg1g2dg2k1w1~x2/sett.png)|
+| [Eastern Shore Police Emerald Society](/variants/s15/g4dg40g4k8n4k8g5k2ly4k2dg1g2dg2k1w1~x2/)|
+|![Eastern Shore Police Emerald Society example sett](/variants/s15/g4dg40g4k8n4k8g5k2ly4k2dg1g2dg2k1w1~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pople](/setts/s5/k10r9n8y8w1/)|
-|![Pople example sett](/setts/s5/k10r9n8y8w1/sett.png)|
-| [Pople (Name)](/setts/s5/k1r9n8y8w1~x2/)|
-|![Pople (Name) example sett](/setts/s5/k1r9n8y8w1~x2/sett.png)|
+| [Pople](/variants/s5/k10r9n8y8w1/)|
+|![Pople example sett](/variants/s5/k10r9n8y8w1/sett.png)|
+| [Pople (Name)](/variants/s5/k1r9n8y8w1~x2/)|
+|![Pople (Name) example sett](/variants/s5/k1r9n8y8w1~x2/sett.png)|

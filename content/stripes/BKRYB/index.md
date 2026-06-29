@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ikelman #2 (Personal)](/setts/s5/n11k4r4lo4n1~x4/)|
-|![Ikelman #2 (Personal) example sett](/setts/s5/n11k4r4lo4n1~x4/sett.png)|
-| [Ikelman #3a (Personal)](/setts/s5/n11k4r4lo4n11~x4/)|
-|![Ikelman #3a (Personal) example sett](/setts/s5/n11k4r4lo4n11~x4/sett.png)|
-| [Prince of Orange](/setts/s5/db6lo25o16k2db3~x2/)|
-|![Prince of Orange example sett](/setts/s5/db6lo25o16k2db3~x2/sett.png)|
+| [Ikelman #2 (Personal)](/variants/s5/n11k4r4lo4n1~x4/)|
+|![Ikelman #2 (Personal) example sett](/variants/s5/n11k4r4lo4n1~x4/sett.png)|
+| [Ikelman #3a (Personal)](/variants/s5/n11k4r4lo4n11~x4/)|
+|![Ikelman #3a (Personal) example sett](/variants/s5/n11k4r4lo4n11~x4/sett.png)|
+| [Prince of Orange](/variants/s5/db6lo25o16k2db3~x2/)|
+|![Prince of Orange example sett](/variants/s5/db6lo25o16k2db3~x2/sett.png)|

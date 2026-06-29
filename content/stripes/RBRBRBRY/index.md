@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Talladale](/setts/s8/o18dt2o2dt2o2dt14r14ly3~x2/)|
-|![Talladale example sett](/setts/s8/o18dt2o2dt2o2dt14r14ly3~x2/sett.png)|
+| [Talladale](/variants/s8/o18dt2o2dt2o2dt14r14ly3~x2/)|
+|![Talladale example sett](/variants/s8/o18dt2o2dt2o2dt14r14ly3~x2/sett.png)|

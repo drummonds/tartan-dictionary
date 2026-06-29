@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laurel Cadre, The](/setts/s5/dp12r8k64dp75r8/)|
-|![Laurel Cadre, The example sett](/setts/s5/dp12r8k64dp75r8/sett.png)|
+| [Laurel Cadre, The](/variants/s5/dp12r8k64dp75r8/)|
+|![Laurel Cadre, The example sett](/variants/s5/dp12r8k64dp75r8/sett.png)|

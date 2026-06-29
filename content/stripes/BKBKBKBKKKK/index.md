@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lunar (Fashion)](/setts/s11/k10k1k3ki7n1ki1n1ki1n1ki1n7~x4/)|
-|![Lunar (Fashion) example sett](/setts/s11/k10k1k3ki7n1ki1n1ki1n1ki1n7~x4/sett.png)|
+| [Lunar (Fashion)](/variants/s11/k10k1k3ki7n1ki1n1ki1n1ki1n7~x4/)|
+|![Lunar (Fashion) example sett](/variants/s11/k10k1k3ki7n1ki1n1ki1n1ki1n7~x4/sett.png)|

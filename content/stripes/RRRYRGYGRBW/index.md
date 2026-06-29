@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Porcupine](/setts/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/)|
-|![Porcupine example sett](/setts/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/sett.png)|
+| [Porcupine](/variants/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/)|
+|![Porcupine example sett](/variants/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/sett.png)|

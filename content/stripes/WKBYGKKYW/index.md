@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Millennium (Commemorative)](/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/)|
-|![National Millennium (Commemorative) example sett](/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/sett.png)|
+| [National Millennium (Commemorative)](/variants/s9/w2k4db16lo12g36k1k6lo2w2~x2/)|
+|![National Millennium (Commemorative) example sett](/variants/s9/w2k4db16lo12g36k1k6lo2w2~x2/sett.png)|

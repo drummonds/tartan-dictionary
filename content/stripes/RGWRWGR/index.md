@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Cleveland Fall](/setts/s7/r17dy5w1r5w7dy47r7~x2/)|
-|![Pride of Cleveland Fall example sett](/setts/s7/r17dy5w1r5w7dy47r7~x2/sett.png)|
+| [Pride of Cleveland Fall](/variants/s7/r17dy5w1r5w7dy47r7~x2/)|
+|![Pride of Cleveland Fall example sett](/variants/s7/r17dy5w1r5w7dy47r7~x2/sett.png)|

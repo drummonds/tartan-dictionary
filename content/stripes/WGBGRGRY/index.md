@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Muskoka](/setts/s8/w4g10t24g42r3y4ri4ly2/)|
-|![Muskoka example sett](/setts/s8/w4g10t24g42r3y4ri4ly2/sett.png)|
+| [Muskoka](/variants/s8/w4g10t24g42r3y4ri4ly2/)|
+|![Muskoka example sett](/variants/s8/w4g10t24g42r3y4ri4ly2/sett.png)|

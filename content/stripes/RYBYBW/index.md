@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brock University Alumni Association](/setts/s6/r52lo2db16lo2db3w5~x2/)|
-|![Brock University Alumni Association example sett](/setts/s6/r52lo2db16lo2db3w5~x2/sett.png)|
+| [Brock University Alumni Association](/variants/s6/r52lo2db16lo2db3w5~x2/)|
+|![Brock University Alumni Association example sett](/variants/s6/r52lo2db16lo2db3w5~x2/sett.png)|

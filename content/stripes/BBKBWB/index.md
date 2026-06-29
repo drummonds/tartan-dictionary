@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFarland-Collins (Name)](/setts/s6/db40b16k5bi16w2dp6~x2/)|
-|![MacFarland-Collins (Name) example sett](/setts/s6/db40b16k5bi16w2dp6~x2/sett.png)|
-| [McFarland-Collins](/setts/s6/db40n16k5dt16w2dp6~x2/)|
-|![McFarland-Collins example sett](/setts/s6/db40n16k5dt16w2dp6~x2/sett.png)|
+| [MacFarland-Collins (Name)](/variants/s6/db40b16k5bi16w2dp6~x2/)|
+|![MacFarland-Collins (Name) example sett](/variants/s6/db40b16k5bi16w2dp6~x2/sett.png)|
+| [McFarland-Collins](/variants/s6/db40n16k5dt16w2dp6~x2/)|
+|![McFarland-Collins example sett](/variants/s6/db40n16k5dt16w2dp6~x2/sett.png)|

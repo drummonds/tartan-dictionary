@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Intergen (Corporate)](/setts/s6/k4lg3k30lg33r1lg4~x2/)|
-|![Intergen (Corporate) example sett](/setts/s6/k4lg3k30lg33r1lg4~x2/sett.png)|
-| [MacLeod #3](/setts/s6/k6ly1k6ly9r1ly2~x2/)|
-|![MacLeod #3 example sett](/setts/s6/k6ly1k6ly9r1ly2~x2/sett.png)|
+| [Intergen (Corporate)](/variants/s6/k4lg3k30lg33r1lg4~x2/)|
+|![Intergen (Corporate) example sett](/variants/s6/k4lg3k30lg33r1lg4~x2/sett.png)|
+| [MacLeod #3](/variants/s6/k6ly1k6ly9r1ly2~x2/)|
+|![MacLeod #3 example sett](/variants/s6/k6ly1k6ly9r1ly2~x2/sett.png)|

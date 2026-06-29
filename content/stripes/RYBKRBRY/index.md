@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie](/tartans/r48lr4db4k4r12db4r1ly4/)|
-|![Brodie example sett](/setts/s8/r48lr4db4k4r12db4r1ly4/sett.png)|
+| [Brodie](/setts/r48lr4db4k4r12db4r1ly4/)|
+|![Brodie example sett](/variants/s8/r48lr4db4k4r12db4r1ly4/sett.png)|

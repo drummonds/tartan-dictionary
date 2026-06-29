@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unamed, Riding cloak 1745](/setts/s5/r1o8r2db8t1~x2/)|
-|![Unamed, Riding cloak 1745 example sett](/setts/s5/r1o8r2db8t1~x2/sett.png)|
+| [Unamed, Riding cloak 1745](/variants/s5/r1o8r2db8t1~x2/)|
+|![Unamed, Riding cloak 1745 example sett](/variants/s5/r1o8r2db8t1~x2/sett.png)|

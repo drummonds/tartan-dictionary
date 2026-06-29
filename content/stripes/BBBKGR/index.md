@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mackison](/setts/s6/dt18dp1dt12k14g14r2~x2/)|
-|![Mackison example sett](/setts/s6/dt18dp1dt12k14g14r2~x2/sett.png)|
+| [Mackison](/variants/s6/dt18dp1dt12k14g14r2~x2/)|
+|![Mackison example sett](/variants/s6/dt18dp1dt12k14g14r2~x2/sett.png)|

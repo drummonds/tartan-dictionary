@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New England (Fashion)](/setts/s6/k2w1k12g5db11r1~x2/)|
-|![New England (Fashion) example sett](/setts/s6/k2w1k12g5db11r1~x2/sett.png)|
+| [New England (Fashion)](/variants/s6/k2w1k12g5db11r1~x2/)|
+|![New England (Fashion) example sett](/variants/s6/k2w1k12g5db11r1~x2/sett.png)|

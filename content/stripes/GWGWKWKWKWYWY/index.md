@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Flesk](/setts/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/)|
-|![Glen Flesk example sett](/setts/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/sett.png)|
+| [Glen Flesk](/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/)|
+|![Glen Flesk example sett](/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2lo1lb1lo1~x4/sett.png)|

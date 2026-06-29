@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Belwade](/setts/s11/dbi4g4dbi4w1db1w1m4lo4w1g4m4~x4/)|
-|![Belwade example sett](/setts/s11/dbi4g4dbi4w1db1w1m4lo4w1g4m4~x4/sett.png)|
+| [Belwade](/variants/s11/dbi4g4dbi4w1db1w1m4lo4w1g4m4~x4/)|
+|![Belwade example sett](/variants/s11/dbi4g4dbi4w1db1w1m4lo4w1g4m4~x4/sett.png)|

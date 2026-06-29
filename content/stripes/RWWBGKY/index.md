@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pincock (Name)](/setts/s7/r2w1lb50t24g12k1ly1~x2/)|
-|![Pincock (Name) example sett](/setts/s7/r2w1lb50t24g12k1ly1~x2/sett.png)|
-| [Pincock (Plockton), Dougie](/setts/s7/r2w1lt50db24g12k1ly1~x2/)|
-|![Pincock (Plockton), Dougie example sett](/setts/s7/r2w1lt50db24g12k1ly1~x2/sett.png)|
+| [Pincock (Name)](/variants/s7/r2w1lb50t24g12k1ly1~x2/)|
+|![Pincock (Name) example sett](/variants/s7/r2w1lb50t24g12k1ly1~x2/sett.png)|
+| [Pincock (Plockton), Dougie](/variants/s7/r2w1lt50db24g12k1ly1~x2/)|
+|![Pincock (Plockton), Dougie example sett](/variants/s7/r2w1lt50db24g12k1ly1~x2/sett.png)|

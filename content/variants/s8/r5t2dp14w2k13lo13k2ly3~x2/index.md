@@ -1,0 +1,73 @@
+---
+title: "Culloden"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5t2dp14w2k13lo13k2ly3/)
+(the same proportion at any scale), whose colour order is pattern [RBBWKYKY](/stripes/rbbwkyky/).
+
+Part of the [Culloden](/tartans/culloden/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Culloden Blue, Stirling
+- Culloden Grey
+- Culloden, Grey
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1746 — Culloden (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820">record</a>)</li>
+<li>1893 — Culloden - 1893 (O&R) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1328/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [820](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820)
+- Scottish Tartans Authority (ITI): 1328
+- Scottish Tartans World Register: 1328
+
+## Thread count
+R/10 B4 P28 W4 K26 DY26 K4 Y/6
+
+One full sett is **200 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> <small style="color:#888">#5C8CA8</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(61.7% 0.067 235.0)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">28</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> <small style="color:#888">#BC8C00</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(66.8% 0.137 84.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/10 B4 P28 W4 K26 DY26 K4 Y/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r4dy2b15ly2k14w14k2w4/"><img src="/variants/s8/r4dy2b15ly2k14w14k2w4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r4dy2b15ly2k14w14k2w4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r5t2dp14w2k13lo13k2ly3~x2">Culloden</a> <a class="nn-out" href="/variants/s8/r5t2dp14w2k13lo13k2ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r5t2dp14w2k13lo13k2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.69</div><div class="nn-name"><a href="/ttd/edit/#slug=r5t2dp14w2k13y13k2ly3~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Culloden, Gold</a> <a class="nn-out" href="/variants/s8/r5t2dp14w2k13y13k2ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r5t2dp14w2k13y13k2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.92</div><div class="nn-name"><a href="/ttd/edit/#slug=r24w3ly4dg18dp18y3t4~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Walter (Personal)</a> <a class="nn-out" href="/variants/s7/r24w3ly4dg18dp18y3t4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r24w3ly4dg18dp18y3t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=r24w3ly4dg18p18dy3t4~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Walter</a> <a class="nn-out" href="/variants/s7/r24w3ly4dg18p18dy3t4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r24w3ly4dg18p18dy3t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.94</div><div class="nn-name"><a href="/ttd/edit/#slug=r5t2m14w2k13ly13k2ly3~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Culloden (Old and Rare) District Tartan</a> <a class="nn-out" href="/variants/s8/r5t2m14w2k13ly13k2ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r5t2m14w2k13ly13k2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/variants/s12/r24w3ly4dg18dp18y3t4~x2/">Walter (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r24w3ly4dg18dp18y3t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=dt8t1db1t1m12ly6k12w2~x4&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Maryland</a> <a class="nn-out" href="/variants/s8/dt8t1db1t1m12ly6k12w2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dt8t1db1t1m12ly6k12w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=k14ly3g18r15w2r3w2p14~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Wilson's, No 83</a> <a class="nn-out" href="/variants/s8/k14ly3g18r15w2r3w2p14~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k14ly3g18r15w2r3w2p14~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=t3p10w3k3g19r14t3k2ly3~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Wilson's, No 110</a> <a class="nn-out" href="/variants/s9/t3p10w3k3g19r14t3k2ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/t3p10w3k3g19r14t3k2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=db3w2g14r14k2db7k9ly2k2~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Black Hills</a> <a class="nn-out" href="/variants/s9/db3w2g14r14k2db7k9ly2k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db3w2g14r14k2db7k9ly2k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=m4dt10mi18ly3mi3ly5r8dt9w4~x2&amp;base=r5t2dp14w2k13lo13k2ly3~x2">Khosla, Sarah and Jatin (Personal)</a> <a class="nn-out" href="/variants/s9/m4dt10mi18ly3mi3ly5r8dt9w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/m4dt10mi18ly3mi3ly5r8dt9w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5t2dp14w2k13y13k2ly3~x2/"><circle cx="35.0" cy="145.7" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/variants/s7/r24w3ly4dg18dp18y3t4~x2/"><circle cx="93.4" cy="150.9" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s7/r24w3ly4dg18p18dy3t4~x2/"><circle cx="94.7" cy="152.0" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/variants/s8/r5t2m14w2k13ly13k2ly3~x2/"><circle cx="30.7" cy="138.0" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan</title></circle></a><a href="/variants/s12/r24w3ly4dg18dp18y3t4~x2/"><circle cx="66.8" cy="129.2" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.2" cy="126.4" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2p14~x2/"><circle cx="48.0" cy="155.2" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s9/t3p10w3k3g19r14t3k2ly3~x2/"><circle cx="66.0" cy="124.1" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.3" cy="163.8" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/variants/s9/m4dt10mi18ly3mi3ly5r8dt9w4~x2/"><circle cx="61.5" cy="167.1" r="4" fill="#3465a4"><title>Khosla, Sarah and Jatin (Personal)</title></circle></a><circle cx="43.0" cy="145.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/r5t2dp14w2k13lo13k2ly3~x2/

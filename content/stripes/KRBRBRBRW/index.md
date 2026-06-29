@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rose VS](/setts/s9/k4r32db9ri6db2ri3db2ri12lb3/)|
-|![Rose VS example sett](/setts/s9/k4r32db9ri6db2ri3db2ri12lb3/sett.png)|
-| [Rose of Kilravock (Personal)](/setts/s9/k2r35db6r5db2r2db2r14w2~x2/)|
-|![Rose of Kilravock (Personal) example sett](/setts/s9/k2r35db6r5db2r2db2r14w2~x2/sett.png)|
+| [Rose VS](/variants/s9/k4r32db9ri6db2ri3db2ri12lb3/)|
+|![Rose VS example sett](/variants/s9/k4r32db9ri6db2ri3db2ri12lb3/sett.png)|
+| [Rose of Kilravock (Personal)](/variants/s9/k2r35db6r5db2r2db2r14w2~x2/)|
+|![Rose of Kilravock (Personal) example sett](/variants/s9/k2r35db6r5db2r2db2r14w2~x2/sett.png)|

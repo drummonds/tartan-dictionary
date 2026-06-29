@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Puccini (Fashion)](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25ri5k1r5k1lb5k1ri5~x2/)|
-|![Puccini (Fashion) example sett](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25ri5k1r5k1lb5k1ri5~x2/sett.png)|
+| [Puccini (Fashion)](/variants/s16/r6lb1r1k15r1lb2k1lo5lb25ri5k1r5k1lb5k1ri5~x2/)|
+|![Puccini (Fashion) example sett](/variants/s16/r6lb1r1k15r1lb2k1lo5lb25ri5k1r5k1lb5k1ri5~x2/sett.png)|

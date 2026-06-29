@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish H & I Film Com (Corporate)](/setts/s11/n16db8o2n2db2n2r1y4dg4n4w2~x4/)|
-|![Scottish H & I Film Com (Corporate) example sett](/setts/s11/n16db8o2n2db2n2r1y4dg4n4w2~x4/sett.png)|
+| [Scottish H & I Film Com (Corporate)](/variants/s11/n16db8o2n2db2n2r1y4dg4n4w2~x4/)|
+|![Scottish H & I Film Com (Corporate) example sett](/variants/s11/n16db8o2n2db2n2r1y4dg4n4w2~x4/sett.png)|

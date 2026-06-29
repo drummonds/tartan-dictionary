@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [The Poulain League](/setts/s5/ly6b38k3b38ly6~x2/)|
-|![The Poulain League example sett](/setts/s5/ly6b38k3b38ly6~x2/sett.png)|
+| [The Poulain League](/variants/s5/ly6b38k3b38ly6~x2/)|
+|![The Poulain League example sett](/variants/s5/ly6b38k3b38ly6~x2/sett.png)|

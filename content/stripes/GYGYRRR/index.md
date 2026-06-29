@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fernandes (Personal)](/setts/s7/g5ly5g5ly35ri44r3ri3~x2/)|
-|![Fernandes (Personal) example sett](/setts/s7/g5ly5g5ly35ri44r3ri3~x2/sett.png)|
+| [Fernandes (Personal)](/variants/s7/g5ly5g5ly35ri44r3ri3~x2/)|
+|![Fernandes (Personal) example sett](/variants/s7/g5ly5g5ly35ri44r3ri3~x2/sett.png)|

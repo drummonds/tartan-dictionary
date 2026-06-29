@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Victoria State (Australia)](/setts/s10/g24w2k4w2k8r2n51k2t8w1~x2/)|
-|![Victoria State (Australia) example sett](/setts/s10/g24w2k4w2k8r2n51k2t8w1~x2/sett.png)|
+| [Victoria State (Australia)](/variants/s10/g24w2k4w2k8r2n51k2t8w1~x2/)|
+|![Victoria State (Australia) example sett](/variants/s10/g24w2k4w2k8r2n51k2t8w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brittany National (District)](/setts/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/)|
-|![Brittany National (District) example sett](/setts/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/sett.png)|
+| [Brittany National (District)](/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/)|
+|![Brittany National (District) example sett](/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/sett.png)|

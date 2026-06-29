@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Islay Whisky Club](/setts/s18/dg4t3dp3dr30g4t3dp3g4dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/)|
-|![Islay Whisky Club example sett](/setts/s18/dg4t3dp3dr30g4t3dp3g4dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/sett.png)|
+| [Islay Whisky Club](/variants/s18/dg4t3dp3dr30g4t3dp3g4dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/)|
+|![Islay Whisky Club example sett](/variants/s18/dg4t3dp3dr30g4t3dp3g4dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rutlin (Personal)](/setts/s9/y6db2y1w17y1db2y16lo27dg2~x2/)|
-|![Rutlin (Personal) example sett](/setts/s9/y6db2y1w17y1db2y16lo27dg2~x2/sett.png)|
+| [Rutlin (Personal)](/variants/s9/y6db2y1w17y1db2y16lo27dg2~x2/)|
+|![Rutlin (Personal) example sett](/variants/s9/y6db2y1w17y1db2y16lo27dg2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Teddy Bear 111th Anniversary](/setts/s11/n26k6dy32y14dy11k19w2o16y11n19k2/)|
-|![Teddy Bear 111th Anniversary example sett](/setts/s11/n26k6dy32y14dy11k19w2o16y11n19k2/sett.png)|
+| [Teddy Bear 111th Anniversary](/variants/s11/n26k6dy32y14dy11k19w2o16y11n19k2/)|
+|![Teddy Bear 111th Anniversary example sett](/variants/s11/n26k6dy32y14dy11k19w2o16y11n19k2/sett.png)|

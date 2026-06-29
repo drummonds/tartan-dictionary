@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cumming Hunting](/setts/s23/k1r1g8r1k6t1r6g6r1k8r1t1k1r1k8r1g6r6t1k6r1g8r1~x4/)|
-|![Cumming Hunting example sett](/setts/s23/k1r1g8r1k6t1r6g6r1k8r1t1k1r1k8r1g6r6t1k6r1g8r1~x4/sett.png)|
+| [Cumming Hunting](/variants/s23/k1r1g8r1k6t1r6g6r1k8r1t1k1r1k8r1g6r6t1k6r1g8r1~x4/)|
+|![Cumming Hunting example sett](/variants/s23/k1r1g8r1k6t1r6g6r1k8r1t1k1r1k8r1g6r6t1k6r1g8r1~x4/sett.png)|

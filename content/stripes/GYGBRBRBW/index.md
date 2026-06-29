@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Blas Alba](/setts/s9/y4ly2y39dt10o4dt4r4dt25w3~x2/)|
-|![Blue Blas Alba example sett](/setts/s9/y4ly2y39dt10o4dt4r4dt25w3~x2/sett.png)|
+| [Blue Blas Alba](/variants/s9/y4ly2y39dt10o4dt4r4dt25w3~x2/)|
+|![Blue Blas Alba example sett](/variants/s9/y4ly2y39dt10o4dt4r4dt25w3~x2/sett.png)|

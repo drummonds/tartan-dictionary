@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nova Scotia, dress](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/)|
-|![Nova Scotia, dress example sett](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/sett.png)|
+| [Nova Scotia, dress](/variants/s9/g3w29g3db3g3db6g13ly3r2~x2/)|
+|![Nova Scotia, dress example sett](/variants/s9/g3w29g3db3g3db6g13ly3r2~x2/sett.png)|

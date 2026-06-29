@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince Edward Island (Commemorative)](/setts/s36/k50lo16k8ki8lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo20ki40k12ki24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6ki4/)|
-|![Prince Edward Island (Commemorative) example sett](/setts/s36/k50lo16k8ki8lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo20ki40k12ki24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6ki4/sett.png)|
+| [Prince Edward Island (Commemorative)](/variants/s36/k50lo16k8ki8lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo20ki40k12ki24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6ki4/)|
+|![Prince Edward Island (Commemorative) example sett](/variants/s36/k50lo16k8ki8lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo1ki1lo20ki40k12ki24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6ki4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Border Bell](/tartans/k1r1w1k1w1k1db1/)|
-|![Border Bell example sett](/setts/s7/k1r1w1k1w1k1db1~x8/sett.png)|
+| [Border Bell](/setts/k1r1w1k1w1k1db1/)|
+|![Border Bell example sett](/variants/s7/k1r1w1k1w1k1db1~x8/sett.png)|

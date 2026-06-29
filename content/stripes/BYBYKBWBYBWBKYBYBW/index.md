@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [SPA Association](/setts/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/)|
-|![SPA Association example sett](/setts/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/sett.png)|
+| [SPA Association](/variants/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/)|
+|![SPA Association example sett](/variants/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/sett.png)|

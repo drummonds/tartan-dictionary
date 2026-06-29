@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewmann (Personal)](/setts/s9/dg24t4dg3db11dp8db37k3db2r4~x2/)|
-|![Stewmann (Personal) example sett](/setts/s9/dg24t4dg3db11dp8db37k3db2r4~x2/sett.png)|
+| [Stewmann (Personal)](/variants/s9/dg24t4dg3db11dp8db37k3db2r4~x2/)|
+|![Stewmann (Personal) example sett](/variants/s9/dg24t4dg3db11dp8db37k3db2r4~x2/sett.png)|

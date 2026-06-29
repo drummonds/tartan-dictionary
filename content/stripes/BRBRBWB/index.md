@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nike ACG Lunarstorm (Fashion)](/setts/s7/db8r2db18r1db2w10db4~x2/)|
-|![Nike ACG Lunarstorm (Fashion) example sett](/setts/s7/db8r2db18r1db2w10db4~x2/sett.png)|
+| [Nike ACG Lunarstorm (Fashion)](/variants/s7/db8r2db18r1db2w10db4~x2/)|
+|![Nike ACG Lunarstorm (Fashion) example sett](/variants/s7/db8r2db18r1db2w10db4~x2/sett.png)|

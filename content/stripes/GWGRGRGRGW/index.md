@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundee, Green](/setts/s10/g3w2g3r1g6r3g3r1g2w3~x2/)|
-|![Dundee, Green example sett](/setts/s10/g3w2g3r1g6r3g3r1g2w3~x2/sett.png)|
+| [Dundee, Green](/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/)|
+|![Dundee, Green example sett](/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/sett.png)|

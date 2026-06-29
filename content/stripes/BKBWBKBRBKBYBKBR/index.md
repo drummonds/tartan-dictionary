@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Titles (Corporate)](/setts/s16/r40dt25k20db15ly6db15k20dt25r40dt25k20db15w4db15k20dt25/)|
-|![Highland Titles (Corporate) example sett](/setts/s16/r40dt25k20db15ly6db15k20dt25r40dt25k20db15w4db15k20dt25/sett.png)|
+| [Highland Titles (Corporate)](/variants/s16/r40dt25k20db15ly6db15k20dt25r40dt25k20db15w4db15k20dt25/)|
+|![Highland Titles (Corporate) example sett](/variants/s16/r40dt25k20db15ly6db15k20dt25r40dt25k20db15w4db15k20dt25/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundee United Football Club](/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/)|
-|![Dundee United Football Club example sett](/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/sett.png)|
+| [Dundee United Football Club](/variants/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/)|
+|![Dundee United Football Club example sett](/variants/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/sett.png)|

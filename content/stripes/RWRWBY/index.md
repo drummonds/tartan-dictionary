@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duminiak (Personal)](/setts/s6/o47w6r24w3dt5lo3~x2/)|
-|![Duminiak (Personal) example sett](/setts/s6/o47w6r24w3dt5lo3~x2/sett.png)|
+| [Duminiak (Personal)](/variants/s6/o47w6r24w3dt5lo3~x2/)|
+|![Duminiak (Personal) example sett](/variants/s6/o47w6r24w3dt5lo3~x2/sett.png)|

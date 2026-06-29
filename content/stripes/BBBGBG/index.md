@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [House of Bruar (Corporate)](/setts/s6/dr6do26dt28g26dt8y3~x2/)|
-|![House of Bruar (Corporate) example sett](/setts/s6/dr6do26dt28g26dt8y3~x2/sett.png)|
+| [House of Bruar (Corporate)](/variants/s6/dr6do26dt28g26dt8y3~x2/)|
+|![House of Bruar (Corporate) example sett](/variants/s6/dr6do26dt28g26dt8y3~x2/sett.png)|

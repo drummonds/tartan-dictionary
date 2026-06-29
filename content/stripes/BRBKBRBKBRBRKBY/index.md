@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornwall](/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/)|
-|![Cornwall example sett](/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/sett.png)|
+| [Cornwall](/variants/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/)|
+|![Cornwall example sett](/variants/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/sett.png)|

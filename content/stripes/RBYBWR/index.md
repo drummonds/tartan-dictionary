@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ploysongsang, Edward Thiravej (Pers](/setts/s6/r34w4t7ly10t7r18~x2/)|
-|![Ploysongsang, Edward Thiravej (Pers example sett](/setts/s6/r34w4t7ly10t7r18~x2/sett.png)|
-| [Ploysongsang, Edward Thiravej (Personal)](/setts/s6/r34w4t7lo10t7r18~x2/)|
-|![Ploysongsang, Edward Thiravej (Personal) example sett](/setts/s6/r34w4t7lo10t7r18~x2/sett.png)|
+| [Ploysongsang, Edward Thiravej (Pers](/variants/s6/r34w4t7ly10t7r18~x2/)|
+|![Ploysongsang, Edward Thiravej (Pers example sett](/variants/s6/r34w4t7ly10t7r18~x2/sett.png)|
+| [Ploysongsang, Edward Thiravej (Personal)](/variants/s6/r34w4t7lo10t7r18~x2/)|
+|![Ploysongsang, Edward Thiravej (Personal) example sett](/variants/s6/r34w4t7lo10t7r18~x2/sett.png)|

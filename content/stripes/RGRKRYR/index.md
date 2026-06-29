@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kirk (Name)](/setts/s7/r4g21r4k7r34lo3r4~x2/)|
-|![Kirk (Name) example sett](/setts/s7/r4g21r4k7r34lo3r4~x2/sett.png)|
+| [Kirk (Name)](/variants/s7/r4g21r4k7r34lo3r4~x2/)|
+|![Kirk (Name) example sett](/variants/s7/r4g21r4k7r34lo3r4~x2/sett.png)|

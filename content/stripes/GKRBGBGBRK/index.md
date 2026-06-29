@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson Britt](/setts/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6/)|
-|![Ferguson Britt example sett](/setts/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6/sett.png)|
+| [Ferguson Britt](/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6/)|
+|![Ferguson Britt example sett](/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Madewell](/setts/s9/r2k2w2k14dg13g6ly2k2w2~x2/)|
-|![Madewell example sett](/setts/s9/r2k2w2k14dg13g6ly2k2w2~x2/sett.png)|
+| [Madewell](/variants/s9/r2k2w2k14dg13g6ly2k2w2~x2/)|
+|![Madewell example sett](/variants/s9/r2k2w2k14dg13g6ly2k2w2~x2/sett.png)|

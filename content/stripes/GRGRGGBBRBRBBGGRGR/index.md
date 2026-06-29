@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart of Appin Hunting](/setts/s18/g8r3g3r5g26dy7t3db28r3db6~x2/)|
-|![Stewart of Appin Hunting example sett](/setts/s18/g8r3g3r5g26dy7t3db28r3db6~x2/sett.png)|
+| [Stewart of Appin Hunting](/variants/s18/g8r3g3r5g26dy7t3db28r3db6~x2/)|
+|![Stewart of Appin Hunting example sett](/variants/s18/g8r3g3r5g26dy7t3db28r3db6~x2/sett.png)|

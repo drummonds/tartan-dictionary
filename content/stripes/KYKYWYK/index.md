@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gleneagles Gold (Dalgleish)](/setts/s7/k4lo4lb32lo1k32lo4k2~x4/)|
-|![Gleneagles Gold (Dalgleish) example sett](/setts/s7/k4lo4lb32lo1k32lo4k2~x4/sett.png)|
+| [Gleneagles Gold (Dalgleish)](/variants/s7/k4lo4lb32lo1k32lo4k2~x4/)|
+|![Gleneagles Gold (Dalgleish) example sett](/variants/s7/k4lo4lb32lo1k32lo4k2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vipont](/setts/s7/r3g14k2lp2g14k36ly3~x2/)|
-|![Vipont example sett](/setts/s7/r3g14k2lp2g14k36ly3~x2/sett.png)|
+| [Vipont](/variants/s7/r3g14k2lp2g14k36ly3~x2/)|
+|![Vipont example sett](/variants/s7/r3g14k2lp2g14k36ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [YPO Dress](/setts/s8/k3y16k2dp12dg12k2o16lb3~x2/)|
-|![YPO Dress example sett](/setts/s8/k3y16k2dp12dg12k2o16lb3~x2/sett.png)|
+| [YPO Dress](/variants/s8/k3y16k2dp12dg12k2o16lb3~x2/)|
+|![YPO Dress example sett](/variants/s8/k3y16k2dp12dg12k2o16lb3~x2/sett.png)|

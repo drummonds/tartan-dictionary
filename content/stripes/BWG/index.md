@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aquascutum](/setts/s3/dy1w2db1~x12/)|
-|![Aquascutum example sett](/setts/s3/dy1w2db1~x12/sett.png)|
+| [Aquascutum](/variants/s3/dy1w2db1~x12/)|
+|![Aquascutum example sett](/variants/s3/dy1w2db1~x12/sett.png)|

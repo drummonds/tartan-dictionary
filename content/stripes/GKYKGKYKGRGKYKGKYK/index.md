@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harbor Club](/setts/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/)|
-|![Harbor Club example sett](/setts/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/sett.png)|
+| [Harbor Club](/variants/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/)|
+|![Harbor Club example sett](/variants/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/sett.png)|

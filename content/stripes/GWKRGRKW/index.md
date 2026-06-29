@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New York Jets](/setts/s8/dg60w3k12o5dg9o6k4w10/)|
-|![New York Jets example sett](/setts/s8/dg60w3k12o5dg9o6k4w10/sett.png)|
+| [New York Jets](/variants/s8/dg60w3k12o5dg9o6k4w10/)|
+|![New York Jets example sett](/variants/s8/dg60w3k12o5dg9o6k4w10/sett.png)|

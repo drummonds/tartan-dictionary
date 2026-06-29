@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cuthill Clan/Family Tartan Tartan Number: 6954. Earliest known date: 2006 July Mr Cuthill based his design on Lindsay tartan which his family have worn since c1800 following the wedding between James Cuthill and Margaret Lindsay. (Unconfirmed and awaiting further research: a daughter of the Earl of Crawford) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/g4r2g3r3g16dt16ri16db3ri3db2ri4ly3ri4db2ri3db3ri16dt16g16r3g3r2g4db3~x2/)|
-|![Cuthill Clan/Family Tartan Tartan Number: 6954. Earliest known date: 2006 July Mr Cuthill based his design on Lindsay tartan which his family have worn since c1800 following the wedding between James Cuthill and Margaret Lindsay. (Unconfirmed and awaiting further research: a daughter of the Earl of Crawford) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/g4r2g3r3g16dt16ri16db3ri3db2ri4ly3ri4db2ri3db3ri16dt16g16r3g3r2g4db3~x2/sett.png)|
+| [Cuthill Clan/Family Tartan](/variants/s24/g4r2g3r3g16dt16ri16db3ri3db2ri4ly3ri4db2ri3db3ri16dt16g16r3g3r2g4db3~x2/)|
+|![Cuthill Clan/Family Tartan example sett](/variants/s24/g4r2g3r3g16dt16ri16db3ri3db2ri4ly3ri4db2ri3db3ri16dt16g16r3g3r2g4db3~x2/sett.png)|

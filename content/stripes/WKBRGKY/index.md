@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caskie](/setts/s7/w3k1t25r7g12k1ly3~x2/)|
-|![Caskie example sett](/setts/s7/w3k1t25r7g12k1ly3~x2/sett.png)|
+| [Caskie](/variants/s7/w3k1t25r7g12k1ly3~x2/)|
+|![Caskie example sett](/variants/s7/w3k1t25r7g12k1ly3~x2/sett.png)|

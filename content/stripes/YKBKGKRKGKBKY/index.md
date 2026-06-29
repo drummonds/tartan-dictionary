@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLeod](/setts/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/)|
-|![MacLeod example sett](/setts/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/sett.png)|
+| [MacLeod](/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/)|
+|![MacLeod example sett](/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/sett.png)|

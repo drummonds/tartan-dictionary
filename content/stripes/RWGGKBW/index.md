@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jones (Name)](/setts/s7/r4lb1y6g25k8db15lb2~x2/)|
-|![Jones (Name) example sett](/setts/s7/r4lb1y6g25k8db15lb2~x2/sett.png)|
-| [Jones, The](/setts/s7/r3w2dy10dg37k12db21w2~x2/)|
-|![Jones, The example sett](/setts/s7/r3w2dy10dg37k12db21w2~x2/sett.png)|
+| [Jones (Name)](/variants/s7/r4lb1y6g25k8db15lb2~x2/)|
+|![Jones (Name) example sett](/variants/s7/r4lb1y6g25k8db15lb2~x2/sett.png)|
+| [Jones, The](/variants/s7/r3w2dy10dg37k12db21w2~x2/)|
+|![Jones, The example sett](/variants/s7/r3w2dy10dg37k12db21w2~x2/sett.png)|

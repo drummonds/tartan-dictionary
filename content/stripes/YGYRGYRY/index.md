@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glufree](/setts/s8/ly8r2ly8g1r6ly3g4ly2~x4/)|
-|![Glufree example sett](/setts/s8/ly8r2ly8g1r6ly3g4ly2~x4/sett.png)|
+| [Glufree](/variants/s8/ly8r2ly8g1r6ly3g4ly2~x4/)|
+|![Glufree example sett](/variants/s8/ly8r2ly8g1r6ly3g4ly2~x4/sett.png)|

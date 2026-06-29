@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Liberton](/setts/s13/k5lr5ly2lr5k5dt25k5lr3dg5r2dg5lr3k5~x2/)|
-|![Liberton example sett](/setts/s13/k5lr5ly2lr5k5dt25k5lr3dg5r2dg5lr3k5~x2/sett.png)|
+| [Liberton](/variants/s13/k5lr5ly2lr5k5dt25k5lr3dg5r2dg5lr3k5~x2/)|
+|![Liberton example sett](/variants/s13/k5lr5ly2lr5k5dt25k5lr3dg5r2dg5lr3k5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Emergency Medical Services Memorial Tartan](/setts/s21/k14t4k4t4k4t4r14t38g8t3w3t3ly8t38r14t4k4t4k4t4k14/)|
-|![Emergency Medical Services Memorial Tartan example sett](/setts/s21/k14t4k4t4k4t4r14t38g8t3w3t3ly8t38r14t4k4t4k4t4k14/sett.png)|
+| [Emergency Medical Services Memorial Tartan](/variants/s21/k14t4k4t4k4t4r14t38g8t3w3t3ly8t38r14t4k4t4k4t4k14/)|
+|![Emergency Medical Services Memorial Tartan example sett](/variants/s21/k14t4k4t4k4t4r14t38g8t3w3t3ly8t38r14t4k4t4k4t4k14/sett.png)|

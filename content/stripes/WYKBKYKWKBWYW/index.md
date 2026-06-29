@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Freger](/setts/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/)|
-|![Freger example sett](/setts/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/sett.png)|
+| [Freger](/variants/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/)|
+|![Freger example sett](/variants/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/sett.png)|

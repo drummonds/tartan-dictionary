@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Russell, Ralph T. (Personal)](/setts/s7/w2k1w2r10k4r2w1~x8/)|
-|![Russell, Ralph T. (Personal) example sett](/setts/s7/w2k1w2r10k4r2w1~x8/sett.png)|
+| [Russell, Ralph T. (Personal)](/variants/s7/w2k1w2r10k4r2w1~x8/)|
+|![Russell, Ralph T. (Personal) example sett](/variants/s7/w2k1w2r10k4r2w1~x8/sett.png)|

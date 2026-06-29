@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray of Atholl, Red Dress](/setts/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/)|
-|![Murray of Atholl, Red Dress example sett](/setts/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/sett.png)|
-| [Unidentified Sample #2](/setts/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/)|
-|![Unidentified Sample #2 example sett](/setts/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png)|
+| [Murray of Atholl, Red Dress](/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/)|
+|![Murray of Atholl, Red Dress example sett](/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/sett.png)|
+| [Unidentified Sample #2](/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/)|
+|![Unidentified Sample #2 example sett](/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png)|

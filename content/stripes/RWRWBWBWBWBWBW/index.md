@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Polish](/setts/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/)|
-|![Polish example sett](/setts/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/sett.png)|
+| [Polish](/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/)|
+|![Polish example sett](/variants/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/sett.png)|

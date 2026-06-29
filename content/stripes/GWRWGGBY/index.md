@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reuben J Jolley Family (Personal)](/setts/s8/lg4n2g24dy10w12r1w12g2~x2/)|
-|![Reuben J Jolley Family (Personal) example sett](/setts/s8/lg4n2g24dy10w12r1w12g2~x2/sett.png)|
+| [Reuben J Jolley Family (Personal)](/variants/s8/lg4n2g24dy10w12r1w12g2~x2/)|
+|![Reuben J Jolley Family (Personal) example sett](/variants/s8/lg4n2g24dy10w12r1w12g2~x2/sett.png)|

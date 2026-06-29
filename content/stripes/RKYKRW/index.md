@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connel](/setts/s6/r8k8ly1k8r8w1~x4/)|
-|![Connel example sett](/setts/s6/r8k8ly1k8r8w1~x4/sett.png)|
+| [Connel](/variants/s6/r8k8ly1k8r8w1~x4/)|
+|![Connel example sett](/variants/s6/r8k8ly1k8r8w1~x4/sett.png)|

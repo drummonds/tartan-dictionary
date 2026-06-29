@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laurentian University](/setts/s8/dy2db4ly3dg28db28w2db4n2~x2/)|
-|![Laurentian University example sett](/setts/s8/dy2db4ly3dg28db28w2db4n2~x2/sett.png)|
+| [Laurentian University](/variants/s8/dy2db4ly3dg28db28w2db4n2~x2/)|
+|![Laurentian University example sett](/variants/s8/dy2db4ly3dg28db28w2db4n2~x2/sett.png)|

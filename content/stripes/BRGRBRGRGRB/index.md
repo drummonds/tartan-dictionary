@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow (Error)](/setts/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/)|
-|![Glasgow (Error) example sett](/setts/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/sett.png)|
+| [Glasgow (Error)](/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/)|
+|![Glasgow (Error) example sett](/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Merchant Marine Academy (Corpo](/setts/s7/o37lo2r6lo2o8db49o3~x2/)|
-|![U.S. Merchant Marine Academy (Corpo example sett](/setts/s7/o37lo2r6lo2o8db49o3~x2/sett.png)|
+| [U.S. Merchant Marine Academy (Corpo](/variants/s7/o37lo2r6lo2o8db49o3~x2/)|
+|![U.S. Merchant Marine Academy (Corpo example sett](/variants/s7/o37lo2r6lo2o8db49o3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wupper](/setts/s26/db2ly1db2ly1db3k6db18g1db18k4w1k4r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/)|
-|![Wupper example sett](/setts/s26/db2ly1db2ly1db3k6db18g1db18k4w1k4r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/sett.png)|
+| [Wupper](/variants/s26/db2ly1db2ly1db3k6db18g1db18k4w1k4r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/)|
+|![Wupper example sett](/variants/s26/db2ly1db2ly1db3k6db18g1db18k4w1k4r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/sett.png)|

@@ -24,11 +24,11 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brown](/setts/s8/db6r1db2r1db2k18r8dg2~x4/)|
-|![Brown example sett](/setts/s8/db6r1db2r1db2k18r8dg2~x4/sett.png)|
-| [Brown](/tartans/db6r1db2r1db2k18r8g2/)|
-|![Brown example sett](/setts/s8/db6r1db2r1db2k18r8g2~x2/sett.png)|
-| [Carson Red (Personal)](/setts/s8/n19r2n3r2n3k43r22g3~x2/)|
-|![Carson Red (Personal) example sett](/setts/s8/n19r2n3r2n3k43r22g3~x2/sett.png)|
-| [Scotch House 2000, antique](/setts/s8/db22r3db2r3db2k17o18dg4~x2/)|
-|![Scotch House 2000, antique example sett](/setts/s8/db22r3db2r3db2k17o18dg4~x2/sett.png)|
+| [Brown](/variants/s8/db6r1db2r1db2k18r8dg2~x4/)|
+|![Brown example sett](/variants/s8/db6r1db2r1db2k18r8dg2~x4/sett.png)|
+| [Brown](/setts/db6r1db2r1db2k18r8g2/)|
+|![Brown example sett](/variants/s8/db6r1db2r1db2k18r8g2~x2/sett.png)|
+| [Carson Red (Personal)](/variants/s8/n19r2n3r2n3k43r22g3~x2/)|
+|![Carson Red (Personal) example sett](/variants/s8/n19r2n3r2n3k43r22g3~x2/sett.png)|
+| [Scotch House 2000, antique](/variants/s8/db22r3db2r3db2k17o18dg4~x2/)|
+|![Scotch House 2000, antique example sett](/variants/s8/db22r3db2r3db2k17o18dg4~x2/sett.png)|

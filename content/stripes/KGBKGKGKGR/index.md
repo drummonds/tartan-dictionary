@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAndreis](/setts/s10/k3dg4dt25k16dg3k3dg3k3dg6o3~x2/)|
-|![MacAndreis example sett](/setts/s10/k3dg4dt25k16dg3k3dg3k3dg6o3~x2/sett.png)|
-| [MacAndreis (Personal)](/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/)|
-|![MacAndreis (Personal) example sett](/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/sett.png)|
+| [MacAndreis](/variants/s10/k3dg4dt25k16dg3k3dg3k3dg6o3~x2/)|
+|![MacAndreis example sett](/variants/s10/k3dg4dt25k16dg3k3dg3k3dg6o3~x2/sett.png)|
+| [MacAndreis (Personal)](/variants/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/)|
+|![MacAndreis (Personal) example sett](/variants/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/sett.png)|

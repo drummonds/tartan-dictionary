@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dalmeny #2](/setts/s6/db11w2db11k4dg8r1~x2/)|
-|![Dalmeny #2 example sett](/setts/s6/db11w2db11k4dg8r1~x2/sett.png)|
+| [Dalmeny #2](/variants/s6/db11w2db11k4dg8r1~x2/)|
+|![Dalmeny #2 example sett](/variants/s6/db11w2db11k4dg8r1~x2/sett.png)|

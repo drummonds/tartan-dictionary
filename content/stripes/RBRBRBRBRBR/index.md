@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bennet](/setts/s11/m64db18m2db3m2db3m14t8m2t4m2~x2/)|
-|![Bennet example sett](/setts/s11/m64db18m2db3m2db3m14t8m2t4m2~x2/sett.png)|
+| [Bennet](/variants/s11/m64db18m2db3m2db3m14t8m2t4m2~x2/)|
+|![Bennet example sett](/variants/s11/m64db18m2db3m2db3m14t8m2t4m2~x2/sett.png)|

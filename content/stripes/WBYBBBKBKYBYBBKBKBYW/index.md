@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McDill (2015)](/setts/s20/w1dr2ly2dr20b1dr1k6dr6k6ly2dr1ly2b6dr3k1dr3k20dr1ly2w1~x2/)|
-|![McDill (2015) example sett](/setts/s20/w1dr2ly2dr20b1dr1k6dr6k6ly2dr1ly2b6dr3k1dr3k20dr1ly2w1~x2/sett.png)|
+| [McDill (2015)](/variants/s20/w1dr2ly2dr20b1dr1k6dr6k6ly2dr1ly2b6dr3k1dr3k20dr1ly2w1~x2/)|
+|![McDill (2015) example sett](/variants/s20/w1dr2ly2dr20b1dr1k6dr6k6ly2dr1ly2b6dr3k1dr3k20dr1ly2w1~x2/sett.png)|

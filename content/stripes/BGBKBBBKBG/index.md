@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Notre Dame Marching Guard](/setts/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/)|
-|![Notre Dame Marching Guard example sett](/setts/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/sett.png)|
+| [Notre Dame Marching Guard](/variants/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/)|
+|![Notre Dame Marching Guard example sett](/variants/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glencross, (Solway) (Personal)](/setts/s6/r31g19lg27b1w1lo1~x2/)|
-|![Glencross, (Solway) (Personal) example sett](/setts/s6/r31g19lg27b1w1lo1~x2/sett.png)|
+| [Glencross, (Solway) (Personal)](/variants/s6/r31g19lg27b1w1lo1~x2/)|
+|![Glencross, (Solway) (Personal) example sett](/variants/s6/r31g19lg27b1w1lo1~x2/sett.png)|

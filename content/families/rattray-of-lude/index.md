@@ -8,5 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><img src="/setts/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray of Lude" width="240"><br>Rattray of Lude</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k1g8k4r1db8r1db1r8g1w1/">Rattray of Lude</a> ★</td><td><code>K/4 G32 K16 R4 DB32 R4 DB4 R32 G4 W/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k1g8k4r1db8r1db1r8g1w1/"><img src="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/sett.png" alt="Rattray of Lude sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

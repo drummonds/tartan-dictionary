@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [First Command Fin. Planning (Corp)](/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/)|
-|![First Command Fin. Planning (Corp) example sett](/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/sett.png)|
+| [First Command Fin. Planning (Corp)](/variants/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/)|
+|![First Command Fin. Planning (Corp) example sett](/variants/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/sett.png)|

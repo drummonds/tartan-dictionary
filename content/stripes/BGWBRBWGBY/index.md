@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highlands of Durham](/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/)|
-|![Highlands of Durham example sett](/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/sett.png)|
+| [Highlands of Durham](/variants/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/)|
+|![Highlands of Durham example sett](/variants/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manitoba (CIDD 28104)](/setts/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6k4/)|
-|![Manitoba (CIDD 28104) example sett](/setts/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6k4/sett.png)|
+| [Manitoba (CIDD 28104)](/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6k4/)|
+|![Manitoba (CIDD 28104) example sett](/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6k4/sett.png)|

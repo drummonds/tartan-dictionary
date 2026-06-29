@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lévesque, Pascal (Personal)](/setts/s10/dg8r2lb3ly2dg4lbi4dg14db2lbi2db2~x2/)|
-|![Lévesque, Pascal (Personal) example sett](/setts/s10/dg8r2lb3ly2dg4lbi4dg14db2lbi2db2~x2/sett.png)|
+| [Lévesque, Pascal (Personal)](/variants/s10/dg8r2lb3ly2dg4lbi4dg14db2lbi2db2~x2/)|
+|![Lévesque, Pascal (Personal) example sett](/variants/s10/dg8r2lb3ly2dg4lbi4dg14db2lbi2db2~x2/sett.png)|

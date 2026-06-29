@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Order of Saint Lazarus](/setts/s10/g9w9k2w2k2ly2dg28g2db12g4~x2/)|
-|![Order of Saint Lazarus example sett](/setts/s10/g9w9k2w2k2ly2dg28g2db12g4~x2/sett.png)|
+| [Order of Saint Lazarus](/variants/s10/g9w9k2w2k2ly2dg28g2db12g4~x2/)|
+|![Order of Saint Lazarus example sett](/variants/s10/g9w9k2w2k2ly2dg28g2db12g4~x2/sett.png)|

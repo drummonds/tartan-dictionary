@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redpath, The Ronald](/setts/s7/p26m15r7lb2lr7db17r4~x2/)|
-|![Redpath, The Ronald example sett](/setts/s7/p26m15r7lb2lr7db17r4~x2/sett.png)|
+| [Redpath, The Ronald](/variants/s7/p26m15r7lb2lr7db17r4~x2/)|
+|![Redpath, The Ronald example sett](/variants/s7/p26m15r7lb2lr7db17r4~x2/sett.png)|

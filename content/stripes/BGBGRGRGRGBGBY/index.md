@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hyland Day (Personal)](/setts/s14/r3dy2r26dy4do6dy29do2lo3~x2/)|
-|![Hyland Day (Personal) example sett](/setts/s14/r3dy2r26dy4do6dy29do2lo3~x2/sett.png)|
+| [Hyland Day (Personal)](/variants/s14/r3dy2r26dy4do6dy29do2lo3~x2/)|
+|![Hyland Day (Personal) example sett](/variants/s14/r3dy2r26dy4do6dy29do2lo3~x2/sett.png)|

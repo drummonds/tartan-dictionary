@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Spring (1988)](/setts/s6/dp3g1dp9r3~x4/)|
-|![Highland Spring (1988) example sett](/setts/s6/dp3g1dp9r3~x4/sett.png)|
+| [Highland Spring (1988)](/variants/s6/dp3g1dp9r3~x4/)|
+|![Highland Spring (1988) example sett](/variants/s6/dp3g1dp9r3~x4/sett.png)|

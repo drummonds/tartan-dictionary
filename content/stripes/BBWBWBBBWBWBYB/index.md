@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Worsoff (Personal)](/setts/s14/b32db1w2b1w2db1b32db1w2db1w2db1ly5db1~x2/)|
-|![Worsoff (Personal) example sett](/setts/s14/b32db1w2b1w2db1b32db1w2db1w2db1ly5db1~x2/sett.png)|
+| [Worsoff (Personal)](/variants/s14/b32db1w2b1w2db1b32db1w2db1w2db1ly5db1~x2/)|
+|![Worsoff (Personal) example sett](/variants/s14/b32db1w2b1w2db1b32db1w2db1w2db1ly5db1~x2/sett.png)|

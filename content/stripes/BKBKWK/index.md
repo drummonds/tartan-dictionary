@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramsay](/setts/s6/k4w2k28db30k1db3~x2/)|
-|![Ramsay example sett](/setts/s6/k4w2k28db30k1db3~x2/sett.png)|
-| [Ramsay Blue Hunting](/setts/s6/k4lb2k28b30k1b3~x2/)|
-|![Ramsay Blue Hunting example sett](/setts/s6/k4lb2k28b30k1b3~x2/sett.png)|
-| [Swan](/setts/s6/k3lb2k18db18k2db3~x4/)|
-|![Swan example sett](/setts/s6/k3lb2k18db18k2db3~x4/sett.png)|
+| [Ramsay](/variants/s6/k4w2k28db30k1db3~x2/)|
+|![Ramsay example sett](/variants/s6/k4w2k28db30k1db3~x2/sett.png)|
+| [Ramsay Blue Hunting](/variants/s6/k4lb2k28b30k1b3~x2/)|
+|![Ramsay Blue Hunting example sett](/variants/s6/k4lb2k28b30k1b3~x2/sett.png)|
+| [Swan](/variants/s6/k3lb2k18db18k2db3~x4/)|
+|![Swan example sett](/variants/s6/k3lb2k18db18k2db3~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Farrell (Name)](/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/)|
-|![O'Farrell (Name) example sett](/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/sett.png)|
+| [O'Farrell (Name)](/variants/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/)|
+|![O'Farrell (Name) example sett](/variants/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/sett.png)|

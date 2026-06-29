@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lanark Highlands](/setts/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/)|
-|![Lanark Highlands example sett](/setts/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/sett.png)|
+| [Lanark Highlands](/variants/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/)|
+|![Lanark Highlands example sett](/variants/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/sett.png)|

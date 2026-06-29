@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Tennessee (Fashion)](/setts/s10/db70lb6db5db16g10b27g4b4g1r4~x2/)|
-|![State Seal of Tennessee (Fashion) example sett](/setts/s10/db70lb6db5db16g10b27g4b4g1r4~x2/sett.png)|
+| [State Seal of Tennessee (Fashion)](/variants/s10/db70lb6db5db16g10b27g4b4g1r4~x2/)|
+|![State Seal of Tennessee (Fashion) example sett](/variants/s10/db70lb6db5db16g10b27g4b4g1r4~x2/sett.png)|

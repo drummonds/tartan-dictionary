@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacOrrell](/setts/s9/db10ly4db36g28w3g3w3g8ly6/)|
-|![MacOrrell example sett](/setts/s9/db10ly4db36g28w3g3w3g8ly6/sett.png)|
-| [MacOrrell](/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/)|
-|![MacOrrell example sett](/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/sett.png)|
+| [MacOrrell](/variants/s9/db10ly4db36g28w3g3w3g8ly6/)|
+|![MacOrrell example sett](/variants/s9/db10ly4db36g28w3g3w3g8ly6/sett.png)|
+| [MacOrrell](/variants/s9/db5ly2db17g14w1g1w1g4ly2~x2/)|
+|![MacOrrell example sett](/variants/s9/db5ly2db17g14w1g1w1g4ly2~x2/sett.png)|

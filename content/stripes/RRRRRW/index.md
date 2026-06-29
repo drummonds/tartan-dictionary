@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Monica](/setts/s6/r3o10r3o4r20lb1~x4/)|
-|![Monica example sett](/setts/s6/r3o10r3o4r20lb1~x4/sett.png)|
+| [Monica](/variants/s6/r3o10r3o4r20lb1~x4/)|
+|![Monica example sett](/variants/s6/r3o10r3o4r20lb1~x4/sett.png)|

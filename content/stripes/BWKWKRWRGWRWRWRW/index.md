@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manhattan Financial](/setts/s16/wi24r1w3o9wi10o4w3g1o3w3o2k10w4k7wi12db2~x2/)|
-|![Manhattan Financial example sett](/setts/s16/wi24r1w3o9wi10o4w3g1o3w3o2k10w4k7wi12db2~x2/sett.png)|
+| [Manhattan Financial](/variants/s16/wi24r1w3o9wi10o4w3g1o3w3o2k10w4k7wi12db2~x2/)|
+|![Manhattan Financial example sett](/variants/s16/wi24r1w3o9wi10o4w3g1o3w3o2k10w4k7wi12db2~x2/sett.png)|

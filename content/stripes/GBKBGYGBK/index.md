@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dewar, Robert Alexander](/setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/)|
-|![Dewar, Robert Alexander example sett](/setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/sett.png)|
-| [Dewar, Robert Alexander (Personal)](/setts/s9/g15dt8k5dt8g15ly3g15dt8k5~x2/)|
-|![Dewar, Robert Alexander (Personal) example sett](/setts/s9/g15dt8k5dt8g15ly3g15dt8k5~x2/sett.png)|
+| [Dewar, Robert Alexander](/variants/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/)|
+|![Dewar, Robert Alexander example sett](/variants/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/sett.png)|
+| [Dewar, Robert Alexander (Personal)](/variants/s9/g15dt8k5dt8g15ly3g15dt8k5~x2/)|
+|![Dewar, Robert Alexander (Personal) example sett](/variants/s9/g15dt8k5dt8g15ly3g15dt8k5~x2/sett.png)|

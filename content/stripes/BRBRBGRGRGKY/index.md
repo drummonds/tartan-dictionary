@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Law of Heather Athol (Personal)](/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/)|
-|![Law of Heather Athol (Personal) example sett](/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/sett.png)|
+| [Law of Heather Athol (Personal)](/variants/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/)|
+|![Law of Heather Athol (Personal) example sett](/variants/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/sett.png)|

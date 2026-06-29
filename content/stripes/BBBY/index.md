@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peacock](/setts/s4/t20p3db7ly1~x4/)|
-|![Peacock example sett](/setts/s4/t20p3db7ly1~x4/sett.png)|
-| [Peacock (Samantha)](/setts/s4/t20dp3db7ly1~x4/)|
-|![Peacock (Samantha) example sett](/setts/s4/t20dp3db7ly1~x4/sett.png)|
+| [Peacock](/variants/s4/t20p3db7ly1~x4/)|
+|![Peacock example sett](/variants/s4/t20p3db7ly1~x4/sett.png)|
+| [Peacock (Samantha)](/variants/s4/t20dp3db7ly1~x4/)|
+|![Peacock (Samantha) example sett](/variants/s4/t20dp3db7ly1~x4/sett.png)|

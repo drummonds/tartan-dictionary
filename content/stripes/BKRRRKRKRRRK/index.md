@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greyhound Grenadiers #2](/setts/s12/db9k7o5r1o5k1o2~x4/)|
-|![Greyhound Grenadiers #2 example sett](/setts/s12/db9k7o5r1o5k1o2~x4/sett.png)|
+| [Greyhound Grenadiers #2](/variants/s12/db9k7o5r1o5k1o2~x4/)|
+|![Greyhound Grenadiers #2 example sett](/variants/s12/db9k7o5r1o5k1o2~x4/sett.png)|

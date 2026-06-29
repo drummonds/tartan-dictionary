@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hans, Jaswinder (Personal)](/setts/s13/g2ri1g30r1g3r1g10o9g2r5db3w1r1~x2/)|
-|![Hans, Jaswinder (Personal) example sett](/setts/s13/g2ri1g30r1g3r1g10o9g2r5db3w1r1~x2/sett.png)|
+| [Hans, Jaswinder (Personal)](/variants/s13/g2ri1g30r1g3r1g10o9g2r5db3w1r1~x2/)|
+|![Hans, Jaswinder (Personal) example sett](/variants/s13/g2ri1g30r1g3r1g10o9g2r5db3w1r1~x2/sett.png)|

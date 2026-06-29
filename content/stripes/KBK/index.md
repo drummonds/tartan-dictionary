@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ben Dubh (Fashion)](/setts/s3/k4dt1k3~x10/)|
-|![Ben Dubh (Fashion) example sett](/setts/s3/k4dt1k3~x10/sett.png)|
+| [Ben Dubh (Fashion)](/variants/s3/k4dt1k3~x10/)|
+|![Ben Dubh (Fashion) example sett](/variants/s3/k4dt1k3~x10/sett.png)|

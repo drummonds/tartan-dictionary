@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lisbon](/setts/s6/r2do22g22do3db12y2~x2/)|
-|![Lisbon example sett](/setts/s6/r2do22g22do3db12y2~x2/sett.png)|
+| [Lisbon](/variants/s6/r2do22g22do3db12y2~x2/)|
+|![Lisbon example sett](/variants/s6/r2do22g22do3db12y2~x2/sett.png)|

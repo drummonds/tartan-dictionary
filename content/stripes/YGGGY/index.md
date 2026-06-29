@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pearson Family Tartan Tartan Number: 1734. Earliest known date: 1951 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/lo3g14dy1g14lo3~x4/)|
-|![Pearson Family Tartan Tartan Number: 1734. Earliest known date: 1951 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/lo3g14dy1g14lo3~x4/sett.png)|
+| [Pearson Family Tartan](/variants/s5/lo3g14dy1g14lo3~x4/)|
+|![Pearson Family Tartan example sett](/variants/s5/lo3g14dy1g14lo3~x4/sett.png)|

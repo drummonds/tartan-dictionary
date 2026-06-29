@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie Dress](/setts/s5/k6r33k18w20db6~x2/)|
-|![Brodie Dress example sett](/setts/s5/k6r33k18w20db6~x2/sett.png)|
-| [Wallace Dress, Red (Dance)](/setts/s5/k3r28k10w28t3~x2/)|
-|![Wallace Dress, Red (Dance) example sett](/setts/s5/k3r28k10w28t3~x2/sett.png)|
+| [Brodie Dress](/variants/s5/k6r33k18w20db6~x2/)|
+|![Brodie Dress example sett](/variants/s5/k6r33k18w20db6~x2/sett.png)|
+| [Wallace Dress, Red (Dance)](/variants/s5/k3r28k10w28t3~x2/)|
+|![Wallace Dress, Red (Dance) example sett](/variants/s5/k3r28k10w28t3~x2/sett.png)|

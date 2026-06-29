@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/)|
-|![Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/sett.png)|
+| [Scottish Spirit Fashion Tartan](/variants/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/)|
+|![Scottish Spirit Fashion Tartan example sett](/variants/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/sett.png)|

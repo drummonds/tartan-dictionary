@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rose Hunting](/tartans/k4w1g10k10db10r2/)|
-|![Rose Hunting example sett](/setts/s6/k4w1g10k10db10r2~x2/sett.png)|
-| [Rose White Dress](/setts/s6/r24n4k4g4w13k2~x4/)|
-|![Rose White Dress example sett](/setts/s6/r24n4k4g4w13k2~x4/sett.png)|
-| [Rose, White dress](/setts/s6/r32db6k6g6w18k3/)|
-|![Rose, White dress example sett](/setts/s6/r32db6k6g6w18k3/sett.png)|
+| [Rose Hunting](/setts/k4w1g10k10db10r2/)|
+|![Rose Hunting example sett](/variants/s6/k4w1g10k10db10r2~x2/sett.png)|
+| [Rose White Dress](/variants/s6/r24n4k4g4w13k2~x4/)|
+|![Rose White Dress example sett](/variants/s6/r24n4k4g4w13k2~x4/sett.png)|
+| [Rose, White dress](/variants/s6/r32db6k6g6w18k3/)|
+|![Rose, White dress example sett](/variants/s6/r32db6k6g6w18k3/sett.png)|

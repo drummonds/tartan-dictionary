@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oxford University dress](/setts/s10/ly4g44dg5w2dg2g2dg2r2g3ly3~x2/)|
-|![Oxford University dress example sett](/setts/s10/ly4g44dg5w2dg2g2dg2r2g3ly3~x2/sett.png)|
+| [Oxford University dress](/variants/s10/ly4g44dg5w2dg2g2dg2r2g3ly3~x2/)|
+|![Oxford University dress example sett](/variants/s10/ly4g44dg5w2dg2g2dg2r2g3ly3~x2/sett.png)|

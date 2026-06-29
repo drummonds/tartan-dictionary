@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie](/tartans/k2r16k8ly1k8r2/)|
-|![Brodie example sett](/setts/s6/k2r16k8ly1k8r2/sett.png)|
-| [Brodie (Clan)](/setts/s6/k3r15k11ly2k4r3~x2/)|
-|![Brodie (Clan) example sett](/setts/s6/k3r15k11ly2k4r3~x2/sett.png)|
+| [Brodie](/setts/k2r16k8ly1k8r2/)|
+|![Brodie example sett](/variants/s6/k2r16k8ly1k8r2/sett.png)|
+| [Brodie (Clan)](/variants/s6/k3r15k11ly2k4r3~x2/)|
+|![Brodie (Clan) example sett](/variants/s6/k3r15k11ly2k4r3~x2/sett.png)|

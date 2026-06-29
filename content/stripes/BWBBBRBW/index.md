@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of the Clyde](/setts/s8/db8w4dt6db2dt6o10dt63w3/)|
-|![Pride of the Clyde example sett](/setts/s8/db8w4dt6db2dt6o10dt63w3/sett.png)|
+| [Pride of the Clyde](/variants/s8/db8w4dt6db2dt6o10dt63w3/)|
+|![Pride of the Clyde example sett](/variants/s8/db8w4dt6db2dt6o10dt63w3/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drumfintley (Fashion)](/setts/s5/m30k7o20ly4k4~x2/)|
-|![Drumfintley (Fashion) example sett](/setts/s5/m30k7o20ly4k4~x2/sett.png)|
+| [Drumfintley (Fashion)](/variants/s5/m30k7o20ly4k4~x2/)|
+|![Drumfintley (Fashion) example sett](/variants/s5/m30k7o20ly4k4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Celtic Football Club (2005)](/setts/s13/dg6dgi3dg22k2dg4k14dgi5k3ly5k3dgi20k4lo4~x2/)|
-|![Celtic Football Club (2005) example sett](/setts/s13/dg6dgi3dg22k2dg4k14dgi5k3ly5k3dgi20k4lo4~x2/sett.png)|
+| [Celtic Football Club (2005)](/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3ly5k3dgi20k4lo4~x2/)|
+|![Celtic Football Club (2005) example sett](/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3ly5k3dgi20k4lo4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Colorado (Fashion)](/setts/s13/lb4k1dy4k1lo3k1dy4db48lb3r25db4r3lb3~x2/)|
-|![State Seal of Colorado (Fashion) example sett](/setts/s13/lb4k1dy4k1lo3k1dy4db48lb3r25db4r3lb3~x2/sett.png)|
+| [State Seal of Colorado (Fashion)](/variants/s13/lb4k1dy4k1lo3k1dy4db48lb3r25db4r3lb3~x2/)|
+|![State Seal of Colorado (Fashion) example sett](/variants/s13/lb4k1dy4k1lo3k1dy4db48lb3r25db4r3lb3~x2/sett.png)|

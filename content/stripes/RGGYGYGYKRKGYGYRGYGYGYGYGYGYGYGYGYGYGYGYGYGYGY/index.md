@@ -24,5 +24,5 @@ It is a 46 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peeper](/setts/s46/r4g9y1lo1y1lo1y1lo1k1r8k1y1lo1y1lo1r6y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1~x2/)|
-|![Peeper example sett](/setts/s46/r4g9y1lo1y1lo1y1lo1k1r8k1y1lo1y1lo1r6y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1~x2/sett.png)|
+| [Peeper](/variants/s46/r4g9y1lo1y1lo1y1lo1k1r8k1y1lo1y1lo1r6y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1~x2/)|
+|![Peeper example sett](/variants/s46/r4g9y1lo1y1lo1y1lo1k1r8k1y1lo1y1lo1r6y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1y1lo1~x2/sett.png)|

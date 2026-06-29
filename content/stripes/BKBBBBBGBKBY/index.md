@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bavidge](/setts/s12/dbi92k14dbi18db5dbi5db5dbi5dg32dp16k5dp7ly8/)|
-|![Bavidge example sett](/setts/s12/dbi92k14dbi18db5dbi5db5dbi5dg32dp16k5dp7ly8/sett.png)|
-| [Bavidge (Personal)](/setts/s12/db92k14db18b5db5b5db5dg32dp16k5dp7ly8/)|
-|![Bavidge (Personal) example sett](/setts/s12/db92k14db18b5db5b5db5dg32dp16k5dp7ly8/sett.png)|
+| [Bavidge](/variants/s12/dbi92k14dbi18db5dbi5db5dbi5dg32dp16k5dp7ly8/)|
+|![Bavidge example sett](/variants/s12/dbi92k14dbi18db5dbi5db5dbi5dg32dp16k5dp7ly8/sett.png)|
+| [Bavidge (Personal)](/variants/s12/db92k14db18b5db5b5db5dg32dp16k5dp7ly8/)|
+|![Bavidge (Personal) example sett](/variants/s12/db92k14db18b5db5b5db5dg32dp16k5dp7ly8/sett.png)|

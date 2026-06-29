@@ -24,5 +24,5 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roddy "Rowdy" Piper (Personal)](/setts/s2/r9lr1~x20/)|
-|![Roddy "Rowdy" Piper (Personal) example sett](/setts/s2/r9lr1~x20/sett.png)|
+| [Roddy "Rowdy" Piper (Personal)](/variants/s2/r9lr1~x20/)|
+|![Roddy "Rowdy" Piper (Personal) example sett](/variants/s2/r9lr1~x20/sett.png)|

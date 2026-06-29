@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae, Dress Purple (Dance)](/setts/s11/t1dp3k2w1dp8w1k2w9k1w3t1~x6/)|
-|![MacRae, Dress Purple (Dance) example sett](/setts/s11/t1dp3k2w1dp8w1k2w9k1w3t1~x6/sett.png)|
+| [MacRae, Dress Purple (Dance)](/variants/s11/t1dp3k2w1dp8w1k2w9k1w3t1~x6/)|
+|![MacRae, Dress Purple (Dance) example sett](/variants/s11/t1dp3k2w1dp8w1k2w9k1w3t1~x6/sett.png)|

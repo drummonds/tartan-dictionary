@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (NZ)](/setts/s13/lo16k2lo2k2lo2k16r16k3r16k16lo16k2lo2~x2/)|
-|![Unidentified (NZ) example sett](/setts/s13/lo16k2lo2k2lo2k16r16k3r16k16lo16k2lo2~x2/sett.png)|
+| [Unidentified (NZ)](/variants/s13/lo16k2lo2k2lo2k16r16k3r16k16lo16k2lo2~x2/)|
+|![Unidentified (NZ) example sett](/variants/s13/lo16k2lo2k2lo2k16r16k3r16k16lo16k2lo2~x2/sett.png)|

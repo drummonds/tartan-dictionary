@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black and White, Colourway](/setts/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/)|
-|![Black and White, Colourway example sett](/setts/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/sett.png)|
+| [Black and White, Colourway](/variants/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/)|
+|![Black and White, Colourway example sett](/variants/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/sett.png)|

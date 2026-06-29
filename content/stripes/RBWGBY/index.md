@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highlands of Durham (Corporate)](/setts/s6/r6dt4w2g27dt37ly2~x2/)|
-|![Highlands of Durham (Corporate) example sett](/setts/s6/r6dt4w2g27dt37ly2~x2/sett.png)|
+| [Highlands of Durham (Corporate)](/variants/s6/r6dt4w2g27dt37ly2~x2/)|
+|![Highlands of Durham (Corporate) example sett](/variants/s6/r6dt4w2g27dt37ly2~x2/sett.png)|

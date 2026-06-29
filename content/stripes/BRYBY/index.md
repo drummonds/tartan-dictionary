@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lytley alias Parsons Hunting (Personal)](/setts/s5/dbi10r1ly1db3ly2~x5/)|
-|![Lytley alias Parsons Hunting (Personal) example sett](/setts/s5/dbi10r1ly1db3ly2~x5/sett.png)|
+| [Lytley alias Parsons Hunting (Personal)](/variants/s5/dbi10r1ly1db3ly2~x5/)|
+|![Lytley alias Parsons Hunting (Personal) example sett](/variants/s5/dbi10r1ly1db3ly2~x5/sett.png)|

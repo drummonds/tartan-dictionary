@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Borders Tourist Board (Corp](/setts/s9/db3y4db24y6lb3y4r3y8lo3~x2/)|
-|![Scottish Borders Tourist Board (Corp example sett](/setts/s9/db3y4db24y6lb3y4r3y8lo3~x2/sett.png)|
+| [Scottish Borders Tourist Board (Corp](/variants/s9/db3y4db24y6lb3y4r3y8lo3~x2/)|
+|![Scottish Borders Tourist Board (Corp example sett](/variants/s9/db3y4db24y6lb3y4r3y8lo3~x2/sett.png)|

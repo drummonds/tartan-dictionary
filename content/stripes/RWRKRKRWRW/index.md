@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGregor Dress Burgundy Fancy Tartan Tartan Number: 6533. Earliest known date: 1975 A dancers tartan based on MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52ri22w6ri8k1r3~x2/)|
-|![MacGregor Dress Burgundy Fancy Tartan Tartan Number: 6533. Earliest known date: 1975 A dancers tartan based on MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/w52ri22w6ri8k1r3~x2/sett.png)|
+| [MacGregor Dress Burgundy Fancy Tartan](/variants/s10/w52ri22w6ri8k1r3~x2/)|
+|![MacGregor Dress Burgundy Fancy Tartan example sett](/variants/s10/w52ri22w6ri8k1r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [British Columbia](/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/)|
-|![British Columbia example sett](/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/sett.png)|
+| [British Columbia](/variants/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/)|
+|![British Columbia example sett](/variants/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/sett.png)|

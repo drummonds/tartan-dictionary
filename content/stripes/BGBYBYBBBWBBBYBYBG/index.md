@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Blue](/setts/s18/g13db5ly3t6ly3db5n6db28w2db28n6db5ly3t6ly3db5g13dp4~x2/)|
-|![Highland Blue example sett](/setts/s18/g13db5ly3t6ly3db5n6db28w2db28n6db5ly3t6ly3db5g13dp4~x2/sett.png)|
+| [Highland Blue](/variants/s18/g13db5ly3t6ly3db5n6db28w2db28n6db5ly3t6ly3db5g13dp4~x2/)|
+|![Highland Blue example sett](/variants/s18/g13db5ly3t6ly3db5n6db28w2db28n6db5ly3t6ly3db5g13dp4~x2/sett.png)|

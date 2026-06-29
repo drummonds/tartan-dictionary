@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Turblin, Jean Pierre (Personal)](/setts/s12/ly2w2k3ly1r8w6ly8r2w1r1w22k1~x2/)|
-|![Turblin, Jean Pierre (Personal) example sett](/setts/s12/ly2w2k3ly1r8w6ly8r2w1r1w22k1~x2/sett.png)|
+| [Turblin, Jean Pierre (Personal)](/variants/s12/ly2w2k3ly1r8w6ly8r2w1r1w22k1~x2/)|
+|![Turblin, Jean Pierre (Personal) example sett](/variants/s12/ly2w2k3ly1r8w6ly8r2w1r1w22k1~x2/sett.png)|

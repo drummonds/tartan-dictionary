@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Craigmoor (Fashion)](/setts/s8/k1r7k2r1k2do1g3ly1~x4/)|
-|![Craigmoor (Fashion) example sett](/setts/s8/k1r7k2r1k2do1g3ly1~x4/sett.png)|
+| [Craigmoor (Fashion)](/variants/s8/k1r7k2r1k2do1g3ly1~x4/)|
+|![Craigmoor (Fashion) example sett](/variants/s8/k1r7k2r1k2do1g3ly1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Methodist Church](/setts/s12/r6dg2r2dg3k2r2db16k3dg4r34lo2r2~x2/)|
-|![Methodist Church example sett](/setts/s12/r6dg2r2dg3k2r2db16k3dg4r34lo2r2~x2/sett.png)|
+| [Methodist Church](/variants/s12/r6dg2r2dg3k2r2db16k3dg4r34lo2r2~x2/)|
+|![Methodist Church example sett](/variants/s12/r6dg2r2dg3k2r2db16k3dg4r34lo2r2~x2/sett.png)|

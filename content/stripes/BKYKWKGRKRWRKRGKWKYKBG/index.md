@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King George VI (Green Stewart)](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/)|
-|![King George VI (Green Stewart) example sett](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/sett.png)|
+| [King George VI (Green Stewart)](/variants/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/)|
+|![King George VI (Green Stewart) example sett](/variants/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/sett.png)|

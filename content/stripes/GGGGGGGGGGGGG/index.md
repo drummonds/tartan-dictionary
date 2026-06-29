@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keogh Hunting (Name)](/setts/s13/gi11dg1gi1dg1gi1dg8g8dgi1g8dg8gi8g1gi1~x4/)|
-|![Keogh Hunting (Name) example sett](/setts/s13/gi11dg1gi1dg1gi1dg8g8dgi1g8dg8gi8g1gi1~x4/sett.png)|
-| [Tyneside Scottish (Green)](/setts/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/)|
-|![Tyneside Scottish (Green) example sett](/setts/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/sett.png)|
+| [Keogh Hunting (Name)](/variants/s13/gi11dg1gi1dg1gi1dg8g8dgi1g8dg8gi8g1gi1~x4/)|
+|![Keogh Hunting (Name) example sett](/variants/s13/gi11dg1gi1dg1gi1dg8g8dgi1g8dg8gi8g1gi1~x4/sett.png)|
+| [Tyneside Scottish (Green)](/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/)|
+|![Tyneside Scottish (Green) example sett](/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/sett.png)|

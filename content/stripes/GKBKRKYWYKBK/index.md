@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auchinachie](/setts/s12/k2db12k8lg10w1lg10k4r1k4db12k2g2~x2/)|
-|![Auchinachie example sett](/setts/s12/k2db12k8lg10w1lg10k4r1k4db12k2g2~x2/sett.png)|
+| [Auchinachie](/variants/s12/k2db12k8lg10w1lg10k4r1k4db12k2g2~x2/)|
+|![Auchinachie example sett](/variants/s12/k2db12k8lg10w1lg10k4r1k4db12k2g2~x2/sett.png)|

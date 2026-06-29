@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinnaird (1984)](/setts/s13/do17doi3do2doi1do1doi1do1doi1ri3lo2do1lo2r1~x4/)|
-|![Kinnaird (1984) example sett](/setts/s13/do17doi3do2doi1do1doi1do1doi1ri3lo2do1lo2r1~x4/sett.png)|
+| [Kinnaird (1984)](/variants/s13/do17doi3do2doi1do1doi1do1doi1ri3lo2do1lo2r1~x4/)|
+|![Kinnaird (1984) example sett](/variants/s13/do17doi3do2doi1do1doi1do1doi1ri3lo2do1lo2r1~x4/sett.png)|

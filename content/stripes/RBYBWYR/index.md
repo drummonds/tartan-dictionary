@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yusra (Malay) (Personal)](/setts/s7/r12ly3w14dt10ly2dt24r2~x2/)|
-|![Yusra (Malay) (Personal) example sett](/setts/s7/r12ly3w14dt10ly2dt24r2~x2/sett.png)|
+| [Yusra (Malay) (Personal)](/variants/s7/r12ly3w14dt10ly2dt24r2~x2/)|
+|![Yusra (Malay) (Personal) example sett](/variants/s7/r12ly3w14dt10ly2dt24r2~x2/sett.png)|

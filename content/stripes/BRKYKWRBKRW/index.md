@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Suffolk County Police (Corporate)](/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/)|
-|![Suffolk County Police (Corporate) example sett](/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/sett.png)|
+| [Suffolk County Police (Corporate)](/variants/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/)|
+|![Suffolk County Police (Corporate) example sett](/variants/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/sett.png)|

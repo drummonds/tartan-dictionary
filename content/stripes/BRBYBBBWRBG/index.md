@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alzheimer Scotland Action on Dementia](/setts/s11/dp55m3dp6lo1dp2b2dp2lb12m1dp8g2~x2/)|
-|![Alzheimer Scotland Action on Dementia example sett](/setts/s11/dp55m3dp6lo1dp2b2dp2lb12m1dp8g2~x2/sett.png)|
+| [Alzheimer Scotland Action on Dementia](/variants/s11/dp55m3dp6lo1dp2b2dp2lb12m1dp8g2~x2/)|
+|![Alzheimer Scotland Action on Dementia example sett](/variants/s11/dp55m3dp6lo1dp2b2dp2lb12m1dp8g2~x2/sett.png)|

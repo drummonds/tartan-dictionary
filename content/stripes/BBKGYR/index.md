@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Josse (Bro Sant Malo), Gilbert (Personal)](/setts/s6/db1t2k50g50ly2r1~x2/)|
-|![Josse (Bro Sant Malo), Gilbert (Personal) example sett](/setts/s6/db1t2k50g50ly2r1~x2/sett.png)|
+| [Josse (Bro Sant Malo), Gilbert (Personal)](/variants/s6/db1t2k50g50ly2r1~x2/)|
+|![Josse (Bro Sant Malo), Gilbert (Personal) example sett](/variants/s6/db1t2k50g50ly2r1~x2/sett.png)|

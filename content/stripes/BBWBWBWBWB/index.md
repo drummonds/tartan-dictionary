@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews, Earl of](/setts/s10/b52db28w5db3w2db10~x2/)|
-|![St. Andrews, Earl of example sett](/setts/s10/b52db28w5db3w2db10~x2/sett.png)|
+| [St. Andrews, Earl of](/variants/s10/b52db28w5db3w2db10~x2/)|
+|![St. Andrews, Earl of example sett](/variants/s10/b52db28w5db3w2db10~x2/sett.png)|

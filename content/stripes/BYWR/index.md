@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Willis, H Graham](/setts/s4/r60w28ly2t3~x2/)|
-|![Willis, H Graham example sett](/setts/s4/r60w28ly2t3~x2/sett.png)|
+| [Willis, H Graham](/variants/s4/r60w28ly2t3~x2/)|
+|![Willis, H Graham example sett](/variants/s4/r60w28ly2t3~x2/sett.png)|

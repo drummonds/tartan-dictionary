@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malmo Skyblue](/setts/s8/dt28w36wi28w36wi85r3wi3r3/)|
-|![Malmo Skyblue example sett](/setts/s8/dt28w36wi28w36wi85r3wi3r3/sett.png)|
+| [Malmo Skyblue](/variants/s8/dt28w36wi28w36wi85r3wi3r3/)|
+|![Malmo Skyblue example sett](/variants/s8/dt28w36wi28w36wi85r3wi3r3/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brown Watch Dress](/setts/s13/lo20do3lo3do3lo3do9w10do3w1do9lo10do3lo3~x2/)|
-|![Brown Watch Dress example sett](/setts/s13/lo20do3lo3do3lo3do9w10do3w1do9lo10do3lo3~x2/sett.png)|
+| [Brown Watch Dress](/variants/s13/lo20do3lo3do3lo3do9w10do3w1do9lo10do3lo3~x2/)|
+|![Brown Watch Dress example sett](/variants/s13/lo20do3lo3do3lo3do9w10do3w1do9lo10do3lo3~x2/sett.png)|

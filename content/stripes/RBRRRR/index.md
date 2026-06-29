@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auchairne Grey](/setts/s6/r13o3r4o56n4o4~x2/)|
-|![Auchairne Grey example sett](/setts/s6/r13o3r4o56n4o4~x2/sett.png)|
+| [Auchairne Grey](/variants/s6/r13o3r4o56n4o4~x2/)|
+|![Auchairne Grey example sett](/variants/s6/r13o3r4o56n4o4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Nova Scotia (Corporate)](/setts/s7/k3lo2k36dt16k5dt2w3~x2/)|
-|![Pride of Nova Scotia (Corporate) example sett](/setts/s7/k3lo2k36dt16k5dt2w3~x2/sett.png)|
+| [Pride of Nova Scotia (Corporate)](/variants/s7/k3lo2k36dt16k5dt2w3~x2/)|
+|![Pride of Nova Scotia (Corporate) example sett](/variants/s7/k3lo2k36dt16k5dt2w3~x2/sett.png)|

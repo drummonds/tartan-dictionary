@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Suzugamine (Corporate)](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/)|
-|![Suzugamine (Corporate) example sett](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/sett.png)|
+| [Suzugamine (Corporate)](/variants/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/)|
+|![Suzugamine (Corporate) example sett](/variants/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/sett.png)|

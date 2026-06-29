@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melieres, Carolyn (Personal)](/setts/s10/ly4w2ly2w8r16g3r3g8r6k2~x2/)|
-|![Melieres, Carolyn (Personal) example sett](/setts/s10/ly4w2ly2w8r16g3r3g8r6k2~x2/sett.png)|
+| [Melieres, Carolyn (Personal)](/variants/s10/ly4w2ly2w8r16g3r3g8r6k2~x2/)|
+|![Melieres, Carolyn (Personal) example sett](/variants/s10/ly4w2ly2w8r16g3r3g8r6k2~x2/sett.png)|

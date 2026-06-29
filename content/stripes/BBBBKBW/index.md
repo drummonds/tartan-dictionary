@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allianz Deutschland 2012](/setts/s7/n6db3n6db20k20db8w4~x2/)|
-|![Allianz Deutschland 2012 example sett](/setts/s7/n6db3n6db20k20db8w4~x2/sett.png)|
-| [Allianz Deutschland 2012 (Corporate)](/setts/s7/dbi6db3dbi6db20k20db8w4~x2/)|
-|![Allianz Deutschland 2012 (Corporate) example sett](/setts/s7/dbi6db3dbi6db20k20db8w4~x2/sett.png)|
+| [Allianz Deutschland 2012](/variants/s7/n6db3n6db20k20db8w4~x2/)|
+|![Allianz Deutschland 2012 example sett](/variants/s7/n6db3n6db20k20db8w4~x2/sett.png)|
+| [Allianz Deutschland 2012 (Corporate)](/variants/s7/dbi6db3dbi6db20k20db8w4~x2/)|
+|![Allianz Deutschland 2012 (Corporate) example sett](/variants/s7/dbi6db3dbi6db20k20db8w4~x2/sett.png)|

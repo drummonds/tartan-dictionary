@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oakland Centre](/setts/s5/w3r2w1dt2r2~x4/)|
-|![Oakland Centre example sett](/setts/s5/w3r2w1dt2r2~x4/sett.png)|
+| [Oakland Centre](/variants/s5/w3r2w1dt2r2~x4/)|
+|![Oakland Centre example sett](/variants/s5/w3r2w1dt2r2~x4/sett.png)|

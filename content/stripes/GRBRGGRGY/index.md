@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moncton, City of](/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/)|
-|![Moncton, City of example sett](/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/sett.png)|
+| [Moncton, City of](/variants/s9/g4r1db2r1g10y5r3y10ly1~x4/)|
+|![Moncton, City of example sett](/variants/s9/g4r1db2r1g10y5r3y10ly1~x4/sett.png)|

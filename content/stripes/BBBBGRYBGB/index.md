@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lyon, Jeffrey M (Hunting) (Personal)](/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/)|
-|![Lyon, Jeffrey M (Hunting) (Personal) example sett](/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/sett.png)|
-| [Lyon, Jeffrey M (Hunting) (Personal)](/setts/s10/t30b1t1b16g5r5ly2b2dy15b1~x2/)|
-|![Lyon, Jeffrey M (Hunting) (Personal) example sett](/setts/s10/t30b1t1b16g5r5ly2b2dy15b1~x2/sett.png)|
+| [Lyon, Jeffrey M (Hunting) (Personal)](/variants/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/)|
+|![Lyon, Jeffrey M (Hunting) (Personal) example sett](/variants/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/sett.png)|
+| [Lyon, Jeffrey M (Hunting) (Personal)](/variants/s10/t30b1t1b16g5r5ly2b2dy15b1~x2/)|
+|![Lyon, Jeffrey M (Hunting) (Personal) example sett](/variants/s10/t30b1t1b16g5r5ly2b2dy15b1~x2/sett.png)|

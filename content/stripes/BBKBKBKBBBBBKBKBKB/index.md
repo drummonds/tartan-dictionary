@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [LS Curling (Corporate)](/setts/s18/dbi2dbi4k2db25k4db2k4db10dbi4db2dbi4db11k2db2k24dbi4k2dbi2~x2/)|
-|![LS Curling (Corporate) example sett](/setts/s18/dbi2dbi4k2db25k4db2k4db10dbi4db2dbi4db11k2db2k24dbi4k2dbi2~x2/sett.png)|
+| [LS Curling (Corporate)](/variants/s18/dbi2dbi4k2db25k4db2k4db10dbi4db2dbi4db11k2db2k24dbi4k2dbi2~x2/)|
+|![LS Curling (Corporate) example sett](/variants/s18/dbi2dbi4k2db25k4db2k4db10dbi4db2dbi4db11k2db2k24dbi4k2dbi2~x2/sett.png)|

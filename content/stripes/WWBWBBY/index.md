@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seaside (Fashion)](/setts/s7/w3lb2p4lb14n2t14lo2~x4/)|
-|![Seaside (Fashion) example sett](/setts/s7/w3lb2p4lb14n2t14lo2~x4/sett.png)|
+| [Seaside (Fashion)](/variants/s7/w3lb2p4lb14n2t14lo2~x4/)|
+|![Seaside (Fashion) example sett](/variants/s7/w3lb2p4lb14n2t14lo2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irving of Glentulchan](/setts/s6/r1g9db9k1db1w1~x6/)|
-|![Irving of Glentulchan example sett](/setts/s6/r1g9db9k1db1w1~x6/sett.png)|
+| [Irving of Glentulchan](/variants/s6/r1g9db9k1db1w1~x6/)|
+|![Irving of Glentulchan example sett](/variants/s6/r1g9db9k1db1w1~x6/sett.png)|

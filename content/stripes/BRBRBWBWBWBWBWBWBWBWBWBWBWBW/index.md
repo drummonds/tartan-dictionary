@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilnsey (Fashion)](/setts/s28/db1o2db2o1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/)|
-|![Kilnsey (Fashion) example sett](/setts/s28/db1o2db2o1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/sett.png)|
+| [Kilnsey (Fashion)](/variants/s28/db1o2db2o1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/)|
+|![Kilnsey (Fashion) example sett](/variants/s28/db1o2db2o1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1~x2/sett.png)|

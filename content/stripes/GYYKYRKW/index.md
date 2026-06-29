@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish Christophers (Personal)](/setts/s8/g5lg5ly26k4ly6r5k15w4~x2/)|
-|![Cornish Christophers (Personal) example sett](/setts/s8/g5lg5ly26k4ly6r5k15w4~x2/sett.png)|
+| [Cornish Christophers (Personal)](/variants/s8/g5lg5ly26k4ly6r5k15w4~x2/)|
+|![Cornish Christophers (Personal) example sett](/variants/s8/g5lg5ly26k4ly6r5k15w4~x2/sett.png)|

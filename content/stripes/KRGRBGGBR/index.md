@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mann](/setts/s9/k3r2dy4r1db25g12dy14db3r1~x2/)|
-|![Mann example sett](/setts/s9/k3r2dy4r1db25g12dy14db3r1~x2/sett.png)|
+| [Mann](/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/)|
+|![Mann example sett](/variants/s9/k3r2dy4r1db25g12dy14db3r1~x2/sett.png)|

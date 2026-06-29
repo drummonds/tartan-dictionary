@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hannay Blue (Fashion?)](/setts/s10/k9t4k2t4k2t30k9t4db14ly2~x2/)|
-|![Hannay Blue (Fashion?) example sett](/setts/s10/k9t4k2t4k2t30k9t4db14ly2~x2/sett.png)|
+| [Hannay Blue (Fashion?)](/variants/s10/k9t4k2t4k2t30k9t4db14ly2~x2/)|
+|![Hannay Blue (Fashion?) example sett](/variants/s10/k9t4k2t4k2t30k9t4db14ly2~x2/sett.png)|

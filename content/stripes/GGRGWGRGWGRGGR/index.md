@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott Hunting](/setts/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/)|
-|![Scott Hunting example sett](/setts/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/sett.png)|
+| [Scott Hunting](/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/)|
+|![Scott Hunting example sett](/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barbie's Plaid](/setts/s6/n2ly4b22ly20g19ly2~x2/)|
-|![Barbie's Plaid example sett](/setts/s6/n2ly4b22ly20g19ly2~x2/sett.png)|
+| [Barbie's Plaid](/variants/s6/n2ly4b22ly20g19ly2~x2/)|
+|![Barbie's Plaid example sett](/variants/s6/n2ly4b22ly20g19ly2~x2/sett.png)|

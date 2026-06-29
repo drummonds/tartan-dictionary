@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mount Vernon Primary School](/setts/s5/lt25db11r5w1k1~x4/)|
-|![Mount Vernon Primary School example sett](/setts/s5/lt25db11r5w1k1~x4/sett.png)|
-| [Mount Vernon Primary School (Corp)](/setts/s5/lb25db11r5w1k1~x4/)|
-|![Mount Vernon Primary School (Corp) example sett](/setts/s5/lb25db11r5w1k1~x4/sett.png)|
+| [Mount Vernon Primary School](/variants/s5/lt25db11r5w1k1~x4/)|
+|![Mount Vernon Primary School example sett](/variants/s5/lt25db11r5w1k1~x4/sett.png)|
+| [Mount Vernon Primary School (Corp)](/variants/s5/lb25db11r5w1k1~x4/)|
+|![Mount Vernon Primary School (Corp) example sett](/variants/s5/lb25db11r5w1k1~x4/sett.png)|

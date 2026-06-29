@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Welsh National #2](/setts/s12/k4dy2r2dy2k2dy15lo2~x4/)|
-|![Welsh National #2 example sett](/setts/s12/k4dy2r2dy2k2dy15lo2~x4/sett.png)|
+| [Welsh National #2](/variants/s12/k4dy2r2dy2k2dy15lo2~x4/)|
+|![Welsh National #2 example sett](/variants/s12/k4dy2r2dy2k2dy15lo2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan Lassie (Fashion)](/setts/s6/w3b23lr44b26g4ly2~x2/)|
-|![Tartan Lassie (Fashion) example sett](/setts/s6/w3b23lr44b26g4ly2~x2/sett.png)|
+| [Tartan Lassie (Fashion)](/variants/s6/w3b23lr44b26g4ly2~x2/)|
+|![Tartan Lassie (Fashion) example sett](/variants/s6/w3b23lr44b26g4ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Burgh of Peebles (District)](/setts/s7/r3g3db4g17k13dt26w3~x2/)|
-|![Royal Burgh of Peebles (District) example sett](/setts/s7/r3g3db4g17k13dt26w3~x2/sett.png)|
+| [Royal Burgh of Peebles (District)](/variants/s7/r3g3db4g17k13dt26w3~x2/)|
+|![Royal Burgh of Peebles (District) example sett](/variants/s7/r3g3db4g17k13dt26w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fennell Grandmothers (Personal)](/setts/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/)|
-|![Fennell Grandmothers (Personal) example sett](/setts/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/sett.png)|
+| [Fennell Grandmothers (Personal)](/variants/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/)|
+|![Fennell Grandmothers (Personal) example sett](/variants/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/sett.png)|

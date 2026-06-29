@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Central Washington University Wildcat](/setts/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/)|
-|![Central Washington University Wildcat example sett](/setts/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/sett.png)|
+| [Central Washington University Wildcat](/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/)|
+|![Central Washington University Wildcat example sett](/variants/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/sett.png)|

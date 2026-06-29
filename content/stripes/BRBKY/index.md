@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLaine of Lochbuie Hunting](/tartans/db32r3db4k1ly3/)|
-|![MacLaine of Lochbuie Hunting example sett](/setts/s5/db32r3db4k1ly3/sett.png)|
-| [MacLaine of Lochbuie Hunting](/setts/s5/dt32r3dt4k2lo3~x2/)|
-|![MacLaine of Lochbuie Hunting example sett](/setts/s5/dt32r3dt4k2lo3~x2/sett.png)|
+| [MacLaine of Lochbuie Hunting](/variants/s5/dt32r3dt4k2lo3~x2/)|
+|![MacLaine of Lochbuie Hunting example sett](/variants/s5/dt32r3dt4k2lo3~x2/sett.png)|
+| [MacLaine of Lochbuie Hunting](/setts/db32r3db4k1ly3/)|
+|![MacLaine of Lochbuie Hunting example sett](/variants/s5/db32r3db4k1ly3/sett.png)|

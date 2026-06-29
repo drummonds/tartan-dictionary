@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Gigha](/setts/s12/dg4m1dg4k4db4lo1db4k4dg4m1dg4db2~x8/)|
-|![Isle of Gigha example sett](/setts/s12/dg4m1dg4k4db4lo1db4k4dg4m1dg4db2~x8/sett.png)|
+| [Isle of Gigha](/variants/s12/dg4m1dg4k4db4lo1db4k4dg4m1dg4db2~x8/)|
+|![Isle of Gigha example sett](/variants/s12/dg4m1dg4k4db4lo1db4k4dg4m1dg4db2~x8/sett.png)|

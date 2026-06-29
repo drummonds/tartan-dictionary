@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ailsa Craig (District)](/setts/s8/r5w2t20ly2k16w18k2w5~x2/)|
-|![Ailsa Craig (District) example sett](/setts/s8/r5w2t20ly2k16w18k2w5~x2/sett.png)|
-| [Ailsa, Craig](/setts/s8/r5w2db20ly2k16w18k2w5~x2/)|
-|![Ailsa, Craig example sett](/setts/s8/r5w2db20ly2k16w18k2w5~x2/sett.png)|
+| [Ailsa Craig (District)](/variants/s8/r5w2t20ly2k16w18k2w5~x2/)|
+|![Ailsa Craig (District) example sett](/variants/s8/r5w2t20ly2k16w18k2w5~x2/sett.png)|
+| [Ailsa, Craig](/variants/s8/r5w2db20ly2k16w18k2w5~x2/)|
+|![Ailsa, Craig example sett](/variants/s8/r5w2db20ly2k16w18k2w5~x2/sett.png)|

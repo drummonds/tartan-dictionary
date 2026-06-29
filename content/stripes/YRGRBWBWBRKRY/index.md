@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maynard](/setts/s13/ly3r25k8r4db8w2db3w2db8r4g8r25ly3~x2/)|
-|![Maynard example sett](/setts/s13/ly3r25k8r4db8w2db3w2db8r4g8r25ly3~x2/sett.png)|
+| [Maynard](/variants/s13/ly3r25k8r4db8w2db3w2db8r4g8r25ly3~x2/)|
+|![Maynard example sett](/variants/s13/ly3r25k8r4db8w2db3w2db8r4g8r25ly3~x2/sett.png)|

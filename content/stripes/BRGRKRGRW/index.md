@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duchess of York](/setts/s9/db1o9g5o1k5o1g5o9w1~x2/)|
-|![Duchess of York example sett](/setts/s9/db1o9g5o1k5o1g5o9w1~x2/sett.png)|
+| [Duchess of York](/variants/s9/db1o9g5o1k5o1g5o9w1~x2/)|
+|![Duchess of York example sett](/variants/s9/db1o9g5o1k5o1g5o9w1~x2/sett.png)|

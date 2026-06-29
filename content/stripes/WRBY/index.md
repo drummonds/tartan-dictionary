@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McKerrell of Hillhouse Dress (Clan)](/setts/s4/w4o28t48ly3~x2/)|
-|![McKerrell of Hillhouse Dress (Clan) example sett](/setts/s4/w4o28t48ly3~x2/sett.png)|
+| [McKerrell of Hillhouse Dress (Clan)](/variants/s4/w4o28t48ly3~x2/)|
+|![McKerrell of Hillhouse Dress (Clan) example sett](/variants/s4/w4o28t48ly3~x2/sett.png)|

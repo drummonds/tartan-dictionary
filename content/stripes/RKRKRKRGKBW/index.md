@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malawi](/setts/s11/r16k4r2k4r2k8r8dg8k1db16w4~x2/)|
-|![Malawi example sett](/setts/s11/r16k4r2k4r2k8r8dg8k1db16w4~x2/sett.png)|
+| [Malawi](/variants/s11/r16k4r2k4r2k8r8dg8k1db16w4~x2/)|
+|![Malawi example sett](/variants/s11/r16k4r2k4r2k8r8dg8k1db16w4~x2/sett.png)|

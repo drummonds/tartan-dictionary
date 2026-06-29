@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Watch Ground Colour](/setts/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/)|
-|![Black Watch Ground Colour example sett](/setts/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/sett.png)|
+| [Black Watch Ground Colour](/variants/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/)|
+|![Black Watch Ground Colour example sett](/variants/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/sett.png)|

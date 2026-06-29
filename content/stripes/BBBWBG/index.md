@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rhode Island, The State of](/setts/s6/g15dt2w2dt11n28dt4~x2/)|
-|![Rhode Island, The State of example sett](/setts/s6/g15dt2w2dt11n28dt4~x2/sett.png)|
+| [Rhode Island, The State of](/variants/s6/g15dt2w2dt11n28dt4~x2/)|
+|![Rhode Island, The State of example sett](/variants/s6/g15dt2w2dt11n28dt4~x2/sett.png)|

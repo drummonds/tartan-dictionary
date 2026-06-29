@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Golden Wedding (Fashion)](/setts/s8/r8lo44k32w2o52k7o7w3/)|
-|![Golden Wedding (Fashion) example sett](/setts/s8/r8lo44k32w2o52k7o7w3/sett.png)|
+| [Golden Wedding (Fashion)](/variants/s8/r8lo44k32w2o52k7o7w3/)|
+|![Golden Wedding (Fashion) example sett](/variants/s8/r8lo44k32w2o52k7o7w3/sett.png)|

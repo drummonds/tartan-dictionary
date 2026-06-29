@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [East Kilbride](/setts/s7/y3r10g7db10r15k1w2~x2/)|
-|![East Kilbride example sett](/setts/s7/y3r10g7db10r15k1w2~x2/sett.png)|
+| [East Kilbride](/variants/s7/y3r10g7db10r15k1w2~x2/)|
+|![East Kilbride example sett](/variants/s7/y3r10g7db10r15k1w2~x2/sett.png)|

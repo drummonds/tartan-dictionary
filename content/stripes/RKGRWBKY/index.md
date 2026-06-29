@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [M'Kleod](/setts/s8/o18k3g3r2w3db36k2ly6~x2/)|
-|![M'Kleod example sett](/setts/s8/o18k3g3r2w3db36k2ly6~x2/sett.png)|
+| [M'Kleod](/variants/s8/o18k3g3r2w3db36k2ly6~x2/)|
+|![M'Kleod example sett](/variants/s8/o18k3g3r2w3db36k2ly6~x2/sett.png)|

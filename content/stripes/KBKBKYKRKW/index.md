@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Model T Ford (Corporate)](/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/)|
-|![Model T Ford (Corporate) example sett](/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/sett.png)|
+| [Model T Ford (Corporate)](/variants/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/)|
+|![Model T Ford (Corporate) example sett](/variants/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/sett.png)|

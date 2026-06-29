@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Old Glory (1824)](/setts/s24/db100w3db8w3db8w3db8w3db8w3db16dr7y7dr7y7dr7y7dr7y7dr7y7dr7y7dr7/)|
-|![Old Glory (1824) example sett](/setts/s24/db100w3db8w3db8w3db8w3db8w3db16dr7y7dr7y7dr7y7dr7y7dr7y7dr7y7dr7/sett.png)|
+| [Old Glory (1824)](/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7y7dr7y7dr7y7dr7y7dr7y7dr7y7dr7/)|
+|![Old Glory (1824) example sett](/variants/s24/db100w3db8w3db8w3db8w3db8w3db16dr7y7dr7y7dr7y7dr7y7dr7y7dr7y7dr7/sett.png)|

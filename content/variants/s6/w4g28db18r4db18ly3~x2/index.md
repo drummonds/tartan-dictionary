@@ -1,0 +1,75 @@
+---
+title: "MacIntyre, Inglis"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4g28db18r4db18ly3/)
+(the same proportion at any scale), whose colour order is pattern [WGBRBY](/stripes/wgbrby/).
+
+Part of the [Inglis](/tartans/inglis/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2487
+
+## Provenance
+
+Earliest known date: 1930-50 Inglis, or Ingles, tartan is a variation of the MacIntyre tartan recognised by Lord Lyon. The green stripe of the MacIntyre is replaced by yellow in the Inglis tartan. The pattern comes from the collection of the late James MacKinlay which he called MacIntyre or Inglis. MacKinlay collected samples of tartan between 1930 and 1950 but did not provide details of the origins of the specimens. The original MacIntyre tartan can be seen on a doublet at the Kingussie museum dated 1800. It was registered in the Public Register of All Arms and Bearings in 1955.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacIntyre, Inglis
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — MacIntyre, Inglis (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2487">record</a>)</li>
+<li>undated — Inglis (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Inglis Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1798">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2487](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2487)
+- Scottish Tartans Authority (ITI): 7114
+
+## Thread count
+W/8 G56 DB36 R8 DB36 Y/6
+
+One full sett is **286 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> <small style="color:#888">#F8F8F8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(97.9% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="W/8 G56 DB36 R8 DB36 Y/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/lr4g24db10r3db12lo4/"><img src="/variants/s6/lr4g24db10r3db12lo4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/lr4g24db10r3db12lo4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=w4g28db18r4db18ly3~x2">MacIntyre, Inglis</a> <a class="nn-out" href="/variants/s6/w4g28db18r4db18ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/w4g28db18r4db18ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.72</div><div class="nn-name"><a href="/ttd/edit/#slug=lr4g24db10r3db12lo4~x2&amp;base=w4g28db18r4db18ly3~x2">Inglis (Name)</a> <a class="nn-out" href="/variants/s6/lr4g24db10r3db12lo4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lr4g24db10r3db12lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.89</div><div class="nn-name"><a href="/ttd/edit/#slug=r2ly1g10db10w1~x6&amp;base=w4g28db18r4db18ly3~x2">Turnbull Hunting (Name)</a> <a class="nn-out" href="/variants/s5/r2ly1g10db10w1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2ly1g10db10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.91</div><div class="nn-name"><a href="/ttd/edit/#slug=k2ly1g10db10w1~x6&amp;base=w4g28db18r4db18ly3~x2">Turnbull Hunting (1983) #2</a> <a class="nn-out" href="/variants/s5/k2ly1g10db10w1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2ly1g10db10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=db20k6lo4db3g20w2~x2&amp;base=w4g28db18r4db18ly3~x2">DeLoughery (Personal)</a> <a class="nn-out" href="/variants/s6/db20k6lo4db3g20w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db20k6lo4db3g20w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=w3db28g26r3g26db26lb12db3lb3&amp;base=w4g28db18r4db18ly3~x2">Seaford House</a> <a class="nn-out" href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w3db28g26r3g26db26lb12db3lb3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.97</div><div class="nn-name"><a href="/ttd/edit/#slug=db6ly2db22g7r2w11g11db3~x2&amp;base=w4g28db18r4db18ly3~x2">Bahamas District Tartan</a> <a class="nn-out" href="/variants/s8/db6ly2db22g7r2w11g11db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db6ly2db22g7r2w11g11db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.03</div><div class="nn-name"><a href="/ttd/edit/#slug=r5db25w5db3g25db3~x2&amp;base=w4g28db18r4db18ly3~x2">Thayer USA (Name)</a> <a class="nn-out" href="/variants/s6/r5db25w5db3g25db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5db25w5db3g25db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=r4db24w2g13db2k3~x4&amp;base=w4g28db18r4db18ly3~x2">Vance (Family Association)</a> <a class="nn-out" href="/variants/s6/r4db24w2g13db2k3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4db24w2g13db2k3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.07</div><div class="nn-name"><a href="/ttd/edit/#slug=dg2k1dg12r4dg3db9lb2~x4&amp;base=w4g28db18r4db18ly3~x2">Lee (Personal)</a> <a class="nn-out" href="/variants/s7/dg2k1dg12r4dg3db9lb2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg2k1dg12r4dg3db9lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=k1dbi1g8db8w1~x4&amp;base=w4g28db18r4db18ly3~x2">Douglas, Green (Wilsons)</a> <a class="nn-out" href="/variants/s5/k1dbi1g8db8w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k1dbi1g8db8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="183.1" cy="209.9" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s5/r2ly1g10db10w1~x6/"><circle cx="220.5" cy="203.4" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/k2ly1g10db10w1~x6/"><circle cx="215.3" cy="205.5" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/variants/s6/db20k6lo4db3g20w2~x2/"><circle cx="206.5" cy="204.1" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="196.4" cy="190.2" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/db6ly2db22g7r2w11g11db3~x2/"><circle cx="200.4" cy="175.3" r="4" fill="#3465a4"><title>Bahamas District Tartan</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="251.4" cy="216.9" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s6/r4db24w2g13db2k3~x4/"><circle cx="276.8" cy="179.4" r="4" fill="#3465a4"><title>Vance (Family Association)</title></circle></a><a href="/variants/s7/dg2k1dg12r4dg3db9lb2~x4/"><circle cx="248.2" cy="195.6" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4/"><circle cx="219.0" cy="218.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><circle cx="223.6" cy="207.3" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/w4g28db18r4db18ly3~x2/

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Washington County Sheriff’s Office (Oregon)](/setts/s8/t6k6t6db3w1k39ly3k3~x2/)|
-|![Washington County Sheriff’s Office (Oregon) example sett](/setts/s8/t6k6t6db3w1k39ly3k3~x2/sett.png)|
+| [Washington County Sheriff’s Office (Oregon)](/variants/s8/t6k6t6db3w1k39ly3k3~x2/)|
+|![Washington County Sheriff’s Office (Oregon) example sett](/variants/s8/t6k6t6db3w1k39ly3k3~x2/sett.png)|

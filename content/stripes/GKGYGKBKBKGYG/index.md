@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burns Heritage](/setts/s13/dg25k13dg13lo3dg13k13dr13k3dr13k13dg13lo3dg1~x2/)|
-|![Burns Heritage example sett](/setts/s13/dg25k13dg13lo3dg13k13dr13k3dr13k13dg13lo3dg1~x2/sett.png)|
+| [Burns Heritage](/variants/s13/dg25k13dg13lo3dg13k13dr13k3dr13k13dg13lo3dg1~x2/)|
+|![Burns Heritage example sett](/variants/s13/dg25k13dg13lo3dg13k13dr13k3dr13k13dg13lo3dg1~x2/sett.png)|

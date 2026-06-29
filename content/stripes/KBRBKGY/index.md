@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melrose of Alabama](/setts/s7/k3db3r1db3k3g3lo1~x8/)|
-|![Melrose of Alabama example sett](/setts/s7/k3db3r1db3k3g3lo1~x8/sett.png)|
+| [Melrose of Alabama](/variants/s7/k3db3r1db3k3g3lo1~x8/)|
+|![Melrose of Alabama example sett](/variants/s7/k3db3r1db3k3g3lo1~x8/sett.png)|

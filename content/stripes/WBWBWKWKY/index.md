@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henderson Dress (Dance)](/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/)|
-|![Henderson Dress (Dance) example sett](/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/sett.png)|
+| [Henderson Dress (Dance)](/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/)|
+|![Henderson Dress (Dance) example sett](/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/sett.png)|

@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart Black Clan Tartan Tartan Number: 1061. Earliest known date: c.1930 Count from a silk sample in the STS collection labelled Stewart See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/)|
-|![Stewart Black Clan Tartan Tartan Number: 1061. Earliest known date: c.1930 Count from a silk sample in the STS collection labelled Stewart See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/sett.png)|
-| [Stewart, Black ground](/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/)|
-|![Stewart, Black ground example sett](/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/sett.png)|
+| [Stewart Black Clan Tartan](/variants/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/)|
+|![Stewart Black Clan Tartan example sett](/variants/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/sett.png)|
+| [Stewart, Black ground](/variants/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/)|
+|![Stewart, Black ground example sett](/variants/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/sett.png)|

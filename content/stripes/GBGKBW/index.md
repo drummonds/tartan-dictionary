@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lossiemouth/Hersbruck](/setts/s6/g26db3g12k10dp15w2~x2/)|
-|![Lossiemouth/Hersbruck example sett](/setts/s6/g26db3g12k10dp15w2~x2/sett.png)|
+| [Lossiemouth/Hersbruck](/variants/s6/g26db3g12k10dp15w2~x2/)|
+|![Lossiemouth/Hersbruck example sett](/variants/s6/g26db3g12k10dp15w2~x2/sett.png)|

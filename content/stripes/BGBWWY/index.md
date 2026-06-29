@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenup (2015)](/setts/s6/do8g50t4lb2w5ly2~x2/)|
-|![Greenup (2015) example sett](/setts/s6/do8g50t4lb2w5ly2~x2/sett.png)|
+| [Greenup (2015)](/variants/s6/do8g50t4lb2w5ly2~x2/)|
+|![Greenup (2015) example sett](/variants/s6/do8g50t4lb2w5ly2~x2/sett.png)|

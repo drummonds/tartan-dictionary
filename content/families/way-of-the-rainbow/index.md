@@ -8,11 +8,15 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/k1dbi24r1lo1ly1g1db1dp1~x7/"><img src="/setts/s8/k1dbi24r1lo1ly1g1db1dp1~x7/sett.png" alt="Way of the Rainbow" width="240"><br>Way of the Rainbow</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k1dbi24r1lo1ly1g1db1dp1/">Way of the Rainbow</a> ★</td><td><code>K/7 DBi168 R7 LO7 LY7 G7 DB7 DP/7</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k1dbi24r1lo1ly1g1db1dp1/"><img src="/variants/s8/k1dbi24r1lo1ly1g1db1dp1~x7/sett.png" alt="Way of the Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k1db24r1ly1lyi1g1dbi1lp1/">Way of the Rainbow</a></td><td><code>K/7 DB168 R7 LY7 LYi7 G7 DBi7 LP/7</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k1db24r1ly1lyi1g1dbi1lp1/"><img src="/variants/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/sett.png" alt="Way of the Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/"><img src="/setts/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
-</ul>
+[See the Way of the Rainbow tartan and all its setts →](/tartans/way-of-the-rainbow/)
 

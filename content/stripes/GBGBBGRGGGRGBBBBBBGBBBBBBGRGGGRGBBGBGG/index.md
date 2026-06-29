@@ -24,5 +24,5 @@ It is a 38 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watkins of Wales](/setts/s38/g2gi2db5gi4db10b15gi10r12gi6g4gi6r12gi10b18b2t2db2b18db1g2/)|
-|![Watkins of Wales example sett](/setts/s38/g2gi2db5gi4db10b15gi10r12gi6g4gi6r12gi10b18b2t2db2b18db1g2/sett.png)|
+| [Watkins of Wales](/variants/s38/g2gi2db5gi4db10b15gi10r12gi6g4gi6r12gi10b18b2t2db2b18db1g2/)|
+|![Watkins of Wales example sett](/variants/s38/g2gi2db5gi4db10b15gi10r12gi6g4gi6r12gi10b18b2t2db2b18db1g2/sett.png)|

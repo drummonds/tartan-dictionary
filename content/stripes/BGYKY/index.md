@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eternity (Fashion)](/setts/s5/n88dy3lo2k2lr1~x2/)|
-|![Eternity (Fashion) example sett](/setts/s5/n88dy3lo2k2lr1~x2/sett.png)|
+| [Eternity (Fashion)](/variants/s5/n88dy3lo2k2lr1~x2/)|
+|![Eternity (Fashion) example sett](/variants/s5/n88dy3lo2k2lr1~x2/sett.png)|

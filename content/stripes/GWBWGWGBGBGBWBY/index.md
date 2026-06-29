@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Borderland Dress (Estimated threadcount)](/setts/s15/g2w2db1w30g1w1g5b8g4db1g1db8w1db2ly1~x2/)|
-|![Borderland Dress (Estimated threadcount) example sett](/setts/s15/g2w2db1w30g1w1g5b8g4db1g1db8w1db2ly1~x2/sett.png)|
+| [Borderland Dress (Estimated threadcount)](/variants/s15/g2w2db1w30g1w1g5b8g4db1g1db8w1db2ly1~x2/)|
+|![Borderland Dress (Estimated threadcount) example sett](/variants/s15/g2w2db1w30g1w1g5b8g4db1g1db8w1db2ly1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hueg (Hunting) (Personal)](/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/)|
-|![Hueg (Hunting) (Personal) example sett](/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/sett.png)|
+| [Hueg (Hunting) (Personal)](/variants/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/)|
+|![Hueg (Hunting) (Personal) example sett](/variants/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/sett.png)|

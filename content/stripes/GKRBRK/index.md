@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skene of Cromar (Cant version)](/setts/s6/g21k21r1db20r20k2~x2/)|
-|![Skene of Cromar (Cant version) example sett](/setts/s6/g21k21r1db20r20k2~x2/sett.png)|
+| [Skene of Cromar (Cant version)](/variants/s6/g21k21r1db20r20k2~x2/)|
+|![Skene of Cromar (Cant version) example sett](/variants/s6/g21k21r1db20r20k2~x2/sett.png)|

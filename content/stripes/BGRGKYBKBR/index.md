@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Freuchie](/setts/s10/n3dg3r2dg20k25ly2ni13k2ni3r3~x2/)|
-|![Loch Freuchie example sett](/setts/s10/n3dg3r2dg20k25ly2ni13k2ni3r3~x2/sett.png)|
+| [Loch Freuchie](/variants/s10/n3dg3r2dg20k25ly2ni13k2ni3r3~x2/)|
+|![Loch Freuchie example sett](/variants/s10/n3dg3r2dg20k25ly2ni13k2ni3r3~x2/sett.png)|

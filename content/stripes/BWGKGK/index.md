@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKay Dress](/setts/s6/k4g23k23g2w23b4~x2/)|
-|![MacKay Dress example sett](/setts/s6/k4g23k23g2w23b4~x2/sett.png)|
-| [MacKay, Dress (Corporate)](/setts/s6/k4g14k14g2w14b3~x2/)|
-|![MacKay, Dress (Corporate) example sett](/setts/s6/k4g14k14g2w14b3~x2/sett.png)|
+| [MacKay Dress](/variants/s6/k4g23k23g2w23b4~x2/)|
+|![MacKay Dress example sett](/variants/s6/k4g23k23g2w23b4~x2/sett.png)|
+| [MacKay, Dress (Corporate)](/variants/s6/k4g14k14g2w14b3~x2/)|
+|![MacKay, Dress (Corporate) example sett](/variants/s6/k4g14k14g2w14b3~x2/sett.png)|

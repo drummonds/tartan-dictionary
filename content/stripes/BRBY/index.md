@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gem](/setts/s4/db140r11db14ly11/)|
-|![Gem example sett](/setts/s4/db140r11db14ly11/sett.png)|
-| [MacLaine of Lochbuie](/setts/s4/db32r3db4ly3~x2/)|
-|![MacLaine of Lochbuie example sett](/setts/s4/db32r3db4ly3~x2/sett.png)|
+| [Gem](/variants/s4/db140r11db14ly11/)|
+|![Gem example sett](/variants/s4/db140r11db14ly11/sett.png)|
+| [MacLaine of Lochbuie](/variants/s4/db32r3db4ly3~x2/)|
+|![MacLaine of Lochbuie example sett](/variants/s4/db32r3db4ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rannoch Moor (Fashion)](/setts/s8/r3dg12r12r5dg2db30r2dg2~x2/)|
-|![Rannoch Moor (Fashion) example sett](/setts/s8/r3dg12r12r5dg2db30r2dg2~x2/sett.png)|
+| [Rannoch Moor (Fashion)](/variants/s8/r3dg12r12r5dg2db30r2dg2~x2/)|
+|![Rannoch Moor (Fashion) example sett](/variants/s8/r3dg12r12r5dg2db30r2dg2~x2/sett.png)|

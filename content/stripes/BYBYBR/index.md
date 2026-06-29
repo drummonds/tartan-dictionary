@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Latin](/setts/s6/db3lo9db3lo9db20r3~x2/)|
-|![Latin example sett](/setts/s6/db3lo9db3lo9db20r3~x2/sett.png)|
-| [UEFA (Glasgow)](/setts/s6/b30ly5b4r12~x4/)|
-|![UEFA (Glasgow) example sett](/setts/s6/b30ly5b4r12~x4/sett.png)|
+| [Latin](/variants/s6/db3lo9db3lo9db20r3~x2/)|
+|![Latin example sett](/variants/s6/db3lo9db3lo9db20r3~x2/sett.png)|
+| [UEFA (Glasgow)](/variants/s6/b30ly5b4r12~x4/)|
+|![UEFA (Glasgow) example sett](/variants/s6/b30ly5b4r12~x4/sett.png)|

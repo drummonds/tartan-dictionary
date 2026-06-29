@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Christie Hunting (London) (Personal)](/setts/s6/dg60w11r5b5k1lo4~x2/)|
-|![Christie Hunting (London) (Personal) example sett](/setts/s6/dg60w11r5b5k1lo4~x2/sett.png)|
+| [Christie Hunting (London) (Personal)](/variants/s6/dg60w11r5b5k1lo4~x2/)|
+|![Christie Hunting (London) (Personal) example sett](/variants/s6/dg60w11r5b5k1lo4~x2/sett.png)|

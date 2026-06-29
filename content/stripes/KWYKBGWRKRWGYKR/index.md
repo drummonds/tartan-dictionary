@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elmore (Personal)](/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/)|
-|![Elmore (Personal) example sett](/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/sett.png)|
+| [Elmore (Personal)](/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/)|
+|![Elmore (Personal) example sett](/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/sett.png)|

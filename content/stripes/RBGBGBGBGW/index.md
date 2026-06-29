@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinfauns Castle](/setts/s10/r4db10dg2db2dg24dp2dg2dp16dg2w1~x2/)|
-|![Kinfauns Castle example sett](/setts/s10/r4db10dg2db2dg24dp2dg2dp16dg2w1~x2/sett.png)|
+| [Kinfauns Castle](/variants/s10/r4db10dg2db2dg24dp2dg2dp16dg2w1~x2/)|
+|![Kinfauns Castle example sett](/variants/s10/r4db10dg2db2dg24dp2dg2dp16dg2w1~x2/sett.png)|

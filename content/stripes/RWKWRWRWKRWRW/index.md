@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmoral (Ghillies white variation)](/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/)|
-|![Balmoral (Ghillies white variation) example sett](/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/sett.png)|
+| [Balmoral (Ghillies white variation)](/variants/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/)|
+|![Balmoral (Ghillies white variation) example sett](/variants/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/sett.png)|

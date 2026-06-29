@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crossnor School](/setts/s7/dg4r2dg13lb2r13dg2r4~x2/)|
-|![Crossnor School example sett](/setts/s7/dg4r2dg13lb2r13dg2r4~x2/sett.png)|
+| [Crossnor School](/variants/s7/dg4r2dg13lb2r13dg2r4~x2/)|
+|![Crossnor School example sett](/variants/s7/dg4r2dg13lb2r13dg2r4~x2/sett.png)|

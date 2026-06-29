@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clydesdale Bank](/setts/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1~x2/)|
-|![Clydesdale Bank example sett](/setts/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1~x2/sett.png)|
+| [Clydesdale Bank](/variants/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1~x2/)|
+|![Clydesdale Bank example sett](/variants/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1~x2/sett.png)|

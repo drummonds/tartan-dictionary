@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [South Lanarkshire](/setts/s16/k2w1dp7k1g6k1db7t1k1~x4/)|
-|![South Lanarkshire example sett](/setts/s16/k2w1dp7k1g6k1db7t1k1~x4/sett.png)|
+| [South Lanarkshire](/variants/s16/k2w1dp7k1g6k1db7t1k1~x4/)|
+|![South Lanarkshire example sett](/variants/s16/k2w1dp7k1g6k1db7t1k1~x4/sett.png)|

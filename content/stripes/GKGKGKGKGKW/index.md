@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irish Heritage](/setts/s11/g4k6g4k6g12k75g3k6g14k6w4/)|
-|![Irish Heritage example sett](/setts/s11/g4k6g4k6g12k75g3k6g14k6w4/sett.png)|
+| [Irish Heritage](/variants/s11/g4k6g4k6g12k75g3k6g14k6w4/)|
+|![Irish Heritage example sett](/variants/s11/g4k6g4k6g12k75g3k6g14k6w4/sett.png)|

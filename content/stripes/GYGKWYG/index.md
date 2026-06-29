@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pollock](/setts/s7/g3lo16w4k6g28lo1g3~x4/)|
-|![Pollock example sett](/setts/s7/g3lo16w4k6g28lo1g3~x4/sett.png)|
-| [Pollock (Name)](/setts/s7/g6lo2g32k8w6lo20g5~x2/)|
-|![Pollock (Name) example sett](/setts/s7/g6lo2g32k8w6lo20g5~x2/sett.png)|
+| [Pollock](/variants/s7/g3lo16w4k6g28lo1g3~x4/)|
+|![Pollock example sett](/variants/s7/g3lo16w4k6g28lo1g3~x4/sett.png)|
+| [Pollock (Name)](/variants/s7/g6lo2g32k8w6lo20g5~x2/)|
+|![Pollock (Name) example sett](/variants/s7/g6lo2g32k8w6lo20g5~x2/sett.png)|

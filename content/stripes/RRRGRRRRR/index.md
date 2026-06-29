@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Valdres, Kvam & Vang](/setts/s9/r4ri2r1dg16ri2r11ri1r1ri2~x2/)|
-|![Valdres, Kvam & Vang example sett](/setts/s9/r4ri2r1dg16ri2r11ri1r1ri2~x2/sett.png)|
-| [Valdres, Kvam & Vang (Artefact)](/setts/s9/r5ri2r1g16ri2r11ri1r1ri2~x4/)|
-|![Valdres, Kvam & Vang (Artefact) example sett](/setts/s9/r5ri2r1g16ri2r11ri1r1ri2~x4/sett.png)|
+| [Valdres, Kvam & Vang](/variants/s9/r4ri2r1dg16ri2r11ri1r1ri2~x2/)|
+|![Valdres, Kvam & Vang example sett](/variants/s9/r4ri2r1dg16ri2r11ri1r1ri2~x2/sett.png)|
+| [Valdres, Kvam & Vang (Artefact)](/variants/s9/r5ri2r1g16ri2r11ri1r1ri2~x4/)|
+|![Valdres, Kvam & Vang (Artefact) example sett](/variants/s9/r5ri2r1g16ri2r11ri1r1ri2~x4/sett.png)|

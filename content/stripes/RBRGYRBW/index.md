@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elbrick Dress (Personal)](/setts/s8/r6b22r6g20ly2r45b2w5~x2/)|
-|![Elbrick Dress (Personal) example sett](/setts/s8/r6b22r6g20ly2r45b2w5~x2/sett.png)|
+| [Elbrick Dress (Personal)](/variants/s8/r6b22r6g20ly2r45b2w5~x2/)|
+|![Elbrick Dress (Personal) example sett](/variants/s8/r6b22r6g20ly2r45b2w5~x2/sett.png)|

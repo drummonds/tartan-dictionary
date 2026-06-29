@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber (Hesketh)](/setts/s7/k8ly3k120ly3k40t2k4~x2/)|
-|![Lochaber (Hesketh) example sett](/setts/s7/k8ly3k120ly3k40t2k4~x2/sett.png)|
+| [Lochaber (Hesketh)](/variants/s7/k8ly3k120ly3k40t2k4~x2/)|
+|![Lochaber (Hesketh) example sett](/variants/s7/k8ly3k120ly3k40t2k4~x2/sett.png)|

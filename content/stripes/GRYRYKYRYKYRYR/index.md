@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hackston (Green stripe) or Halkerston](/setts/s14/r11lo3r11lo3k11lr2r51lr2k11lo3r11lo3r11g3~x2/)|
-|![Hackston (Green stripe) or Halkerston example sett](/setts/s14/r11lo3r11lo3k11lr2r51lr2k11lo3r11lo3r11g3~x2/sett.png)|
+| [Hackston (Green stripe) or Halkerston](/variants/s14/r11lo3r11lo3k11lr2r51lr2k11lo3r11lo3r11g3~x2/)|
+|![Hackston (Green stripe) or Halkerston example sett](/variants/s14/r11lo3r11lo3k11lr2r51lr2k11lo3r11lo3r11g3~x2/sett.png)|

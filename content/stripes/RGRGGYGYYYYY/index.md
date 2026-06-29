@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shrek](/setts/s12/o4g3o30y12g5lgi4g3lgi14lg2lgi2lg10ly3~x2/)|
-|![Shrek example sett](/setts/s12/o4g3o30y12g5lgi4g3lgi14lg2lgi2lg10ly3~x2/sett.png)|
+| [Shrek](/variants/s12/o4g3o30y12g5lgi4g3lgi14lg2lgi2lg10ly3~x2/)|
+|![Shrek example sett](/variants/s12/o4g3o30y12g5lgi4g3lgi14lg2lgi2lg10ly3~x2/sett.png)|

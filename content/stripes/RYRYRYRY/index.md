@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Masai Shuka 09 (Artefact)](/setts/s8/o60lo15o4lo2o2lo2o2lo2~x2/)|
-|![Masai Shuka 09 (Artefact) example sett](/setts/s8/o60lo15o4lo2o2lo2o2lo2~x2/sett.png)|
-| [Menzies Dress](/tartans/r36lr4r3lr4r6lr2r1lr12/)|
-|![Menzies Dress example sett](/setts/s8/r36lr4r3lr4r6lr2r1lr12/sett.png)|
+| [Masai Shuka 09 (Artefact)](/variants/s8/o60lo15o4lo2o2lo2o2lo2~x2/)|
+|![Masai Shuka 09 (Artefact) example sett](/variants/s8/o60lo15o4lo2o2lo2o2lo2~x2/sett.png)|
+| [Menzies Dress](/setts/r36lr4r3lr4r6lr2r1lr12/)|
+|![Menzies Dress example sett](/variants/s8/r36lr4r3lr4r6lr2r1lr12/sett.png)|

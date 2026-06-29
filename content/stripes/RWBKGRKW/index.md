@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Prison Service (Corporate)](/setts/s8/w3k1r4g20k3b30w4r2~x2/)|
-|![Scottish Prison Service (Corporate) example sett](/setts/s8/w3k1r4g20k3b30w4r2~x2/sett.png)|
+| [Scottish Prison Service (Corporate)](/variants/s8/w3k1r4g20k3b30w4r2~x2/)|
+|![Scottish Prison Service (Corporate) example sett](/variants/s8/w3k1r4g20k3b30w4r2~x2/sett.png)|

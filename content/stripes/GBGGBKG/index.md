@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Calais (Fashion)](/setts/s7/dg11n4dg6dy11n1k1dy4~x4/)|
-|![Calais (Fashion) example sett](/setts/s7/dg11n4dg6dy11n1k1dy4~x4/sett.png)|
+| [Calais (Fashion)](/variants/s7/dg11n4dg6dy11n1k1dy4~x4/)|
+|![Calais (Fashion) example sett](/variants/s7/dg11n4dg6dy11n1k1dy4~x4/sett.png)|

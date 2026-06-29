@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Afghanistan Memorial](/setts/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/)|
-|![Afghanistan Memorial example sett](/setts/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/sett.png)|
+| [Afghanistan Memorial](/variants/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/)|
+|![Afghanistan Memorial example sett](/variants/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/sett.png)|

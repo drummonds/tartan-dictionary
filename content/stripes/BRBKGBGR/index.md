@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burnfoot Check](/setts/s8/r3dg2n2dg3k6db2o10db2~x2/)|
-|![Burnfoot Check example sett](/setts/s8/r3dg2n2dg3k6db2o10db2~x2/sett.png)|
+| [Burnfoot Check](/variants/s8/r3dg2n2dg3k6db2o10db2~x2/)|
+|![Burnfoot Check example sett](/variants/s8/r3dg2n2dg3k6db2o10db2~x2/sett.png)|

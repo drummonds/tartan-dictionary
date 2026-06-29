@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hubbard Foundation of Scotland (Corp](/setts/s11/db4ly3dt16db14dbi3db14dbi3dt4dbi3dt8w2~x2/)|
-|![Hubbard Foundation of Scotland (Corp example sett](/setts/s11/db4ly3dt16db14dbi3db14dbi3dt4dbi3dt8w2~x2/sett.png)|
+| [Hubbard Foundation of Scotland (Corp](/variants/s11/db4ly3dt16db14dbi3db14dbi3dt4dbi3dt8w2~x2/)|
+|![Hubbard Foundation of Scotland (Corp example sett](/variants/s11/db4ly3dt16db14dbi3db14dbi3dt4dbi3dt8w2~x2/sett.png)|

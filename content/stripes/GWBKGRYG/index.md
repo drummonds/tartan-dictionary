@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tooth](/setts/s8/g5ly1r2g25k14db19w4g2~x2/)|
-|![Tooth example sett](/setts/s8/g5ly1r2g25k14db19w4g2~x2/sett.png)|
-| [Tooth (Personal)](/setts/s8/y5lo1r2y25k14db19w2y4~x2/)|
-|![Tooth (Personal) example sett](/setts/s8/y5lo1r2y25k14db19w2y4~x2/sett.png)|
+| [Tooth](/variants/s8/g5ly1r2g25k14db19w4g2~x2/)|
+|![Tooth example sett](/variants/s8/g5ly1r2g25k14db19w4g2~x2/sett.png)|
+| [Tooth (Personal)](/variants/s8/y5lo1r2y25k14db19w2y4~x2/)|
+|![Tooth (Personal) example sett](/variants/s8/y5lo1r2y25k14db19w2y4~x2/sett.png)|

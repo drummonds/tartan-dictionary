@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wojtek Memorial Trust](/setts/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/)|
-|![Wojtek Memorial Trust example sett](/setts/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/sett.png)|
+| [Wojtek Memorial Trust](/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/)|
+|![Wojtek Memorial Trust example sett](/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/sett.png)|

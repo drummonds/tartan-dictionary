@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salt Lake County](/setts/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/)|
-|![Salt Lake County example sett](/setts/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/sett.png)|
+| [Salt Lake County](/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/)|
+|![Salt Lake County example sett](/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/sett.png)|

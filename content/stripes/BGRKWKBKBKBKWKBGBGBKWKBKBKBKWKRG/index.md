@@ -24,5 +24,5 @@ It is a 32 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Selkirk, New](/setts/s32/db24g2db12k2w2k3dp2k3b4k3dp2k3w2k2r12g2b24~x2/)|
-|![Selkirk, New example sett](/setts/s32/db24g2db12k2w2k3dp2k3b4k3dp2k3w2k2r12g2b24~x2/sett.png)|
+| [Selkirk, New](/variants/s32/db24g2db12k2w2k3dp2k3b4k3dp2k3w2k2r12g2b24~x2/)|
+|![Selkirk, New example sett](/variants/s32/db24g2db12k2w2k3dp2k3b4k3dp2k3w2k2r12g2b24~x2/sett.png)|

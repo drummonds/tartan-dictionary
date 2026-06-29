@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Denholm](/setts/s8/g8k7db8r2db8k7g8k2~x2/)|
-|![Denholm example sett](/setts/s8/g8k7db8r2db8k7g8k2~x2/sett.png)|
+| [Denholm](/variants/s8/g8k7db8r2db8k7g8k2~x2/)|
+|![Denholm example sett](/variants/s8/g8k7db8r2db8k7g8k2~x2/sett.png)|

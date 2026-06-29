@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochcarron Mill (Corporate)](/setts/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/)|
-|![Lochcarron Mill (Corporate) example sett](/setts/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/sett.png)|
+| [Lochcarron Mill (Corporate)](/variants/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/)|
+|![Lochcarron Mill (Corporate) example sett](/variants/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/sett.png)|

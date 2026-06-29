@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [van der Watt Personal)](/setts/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/)|
-|![van der Watt Personal) example sett](/setts/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/sett.png)|
+| [van der Watt Personal)](/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/)|
+|![van der Watt Personal) example sett](/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/sett.png)|

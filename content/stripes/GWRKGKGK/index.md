@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [BlackRock (Symmetrical)](/setts/s8/k10dg3k6dg20ki8r4w4dg10~x2/)|
-|![BlackRock (Symmetrical) example sett](/setts/s8/k10dg3k6dg20ki8r4w4dg10~x2/sett.png)|
+| [BlackRock (Symmetrical)](/variants/s8/k10dg3k6dg20ki8r4w4dg10~x2/)|
+|![BlackRock (Symmetrical) example sett](/variants/s8/k10dg3k6dg20ki8r4w4dg10~x2/sett.png)|

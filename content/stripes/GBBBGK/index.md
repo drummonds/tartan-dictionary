@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Potts (Personal)](/setts/s6/k1y3db3do28db36y1~x2/)|
-|![Potts (Personal) example sett](/setts/s6/k1y3db3do28db36y1~x2/sett.png)|
-| [Scott Green (Sir Walter)](/setts/s6/g3t1db7t1g3k1~x8/)|
-|![Scott Green (Sir Walter) example sett](/setts/s6/g3t1db7t1g3k1~x8/sett.png)|
+| [Potts (Personal)](/variants/s6/k1y3db3do28db36y1~x2/)|
+|![Potts (Personal) example sett](/variants/s6/k1y3db3do28db36y1~x2/sett.png)|
+| [Scott Green (Sir Walter)](/variants/s6/g3t1db7t1g3k1~x8/)|
+|![Scott Green (Sir Walter) example sett](/variants/s6/g3t1db7t1g3k1~x8/sett.png)|

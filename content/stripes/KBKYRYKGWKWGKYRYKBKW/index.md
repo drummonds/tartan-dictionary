@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braddock Family (Personal)](/setts/s20/w5k1db2k5ly2r2ly2k30g3w7k4w7g2k30ly2r2ly2k5db2k1~x2/)|
-|![Braddock Family (Personal) example sett](/setts/s20/w5k1db2k5ly2r2ly2k30g3w7k4w7g2k30ly2r2ly2k5db2k1~x2/sett.png)|
+| [Braddock Family (Personal)](/variants/s20/w5k1db2k5ly2r2ly2k30g3w7k4w7g2k30ly2r2ly2k5db2k1~x2/)|
+|![Braddock Family (Personal) example sett](/variants/s20/w5k1db2k5ly2r2ly2k30g3w7k4w7g2k30ly2r2ly2k5db2k1~x2/sett.png)|

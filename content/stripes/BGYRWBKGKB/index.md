@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotshill](/setts/s10/b13k14g6k14b14w1r1ly1g1b3~x2/)|
-|![Scotshill example sett](/setts/s10/b13k14g6k14b14w1r1ly1g1b3~x2/sett.png)|
-| [Scotshill](/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/)|
-|![Scotshill example sett](/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/sett.png)|
+| [Scotshill](/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/)|
+|![Scotshill example sett](/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/sett.png)|
+| [Scotshill](/variants/s10/b13k14g6k14b14w1r1ly1g1b3~x2/)|
+|![Scotshill example sett](/variants/s10/b13k14g6k14b14w1r1ly1g1b3~x2/sett.png)|

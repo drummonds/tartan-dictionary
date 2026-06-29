@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dean Brae](/setts/s8/k22o4k4g4k16r36y3r6~x2/)|
-|![Dean Brae example sett](/setts/s8/k22o4k4g4k16r36y3r6~x2/sett.png)|
+| [Dean Brae](/variants/s8/k22o4k4g4k16r36y3r6~x2/)|
+|![Dean Brae example sett](/variants/s8/k22o4k4g4k16r36y3r6~x2/sett.png)|

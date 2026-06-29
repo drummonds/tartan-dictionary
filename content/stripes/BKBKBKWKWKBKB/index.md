@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Watch (Fashion)](/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/)|
-|![Blue Watch (Fashion) example sett](/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/sett.png)|
+| [Blue Watch (Fashion)](/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/)|
+|![Blue Watch (Fashion) example sett](/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/sett.png)|

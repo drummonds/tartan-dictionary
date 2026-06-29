@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cockburn - 1830 (Clan)](/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/)|
-|![Cockburn - 1830 (Clan) example sett](/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/sett.png)|
+| [Cockburn - 1830 (Clan)](/variants/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/)|
+|![Cockburn - 1830 (Clan) example sett](/variants/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/sett.png)|

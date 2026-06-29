@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunnotar (School)](/setts/s4/k72w3k11db9/)|
-|![Dunnotar (School) example sett](/setts/s4/k72w3k11db9/sett.png)|
-| [Pride of New Zealand](/setts/s4/n62k30w1k1~x2/)|
-|![Pride of New Zealand example sett](/setts/s4/n62k30w1k1~x2/sett.png)|
-| [Pride of New Zealand, The](/setts/s4/n124k60w1k2~x2/)|
-|![Pride of New Zealand, The example sett](/setts/s4/n124k60w1k2~x2/sett.png)|
+| [Dunnotar (School)](/variants/s4/k72w3k11db9/)|
+|![Dunnotar (School) example sett](/variants/s4/k72w3k11db9/sett.png)|
+| [Pride of New Zealand](/variants/s4/n62k30w1k1~x2/)|
+|![Pride of New Zealand example sett](/variants/s4/n62k30w1k1~x2/sett.png)|
+| [Pride of New Zealand, The](/variants/s4/n124k60w1k2~x2/)|
+|![Pride of New Zealand, The example sett](/variants/s4/n124k60w1k2~x2/sett.png)|

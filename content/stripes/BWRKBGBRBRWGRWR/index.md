@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFarlane Dress](/setts/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/)|
-|![MacFarlane Dress example sett](/setts/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/sett.png)|
+| [MacFarlane Dress](/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/)|
+|![MacFarlane Dress example sett](/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Queen Margaret University](/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/)|
-|![Queen Margaret University example sett](/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/sett.png)|
+| [Queen Margaret University](/variants/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/)|
+|![Queen Margaret University example sett](/variants/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/sett.png)|

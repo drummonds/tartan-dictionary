@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hydesville Tower (Corporate)](/setts/s7/dg30db6r2db2ly2db15w2~x2/)|
-|![Hydesville Tower (Corporate) example sett](/setts/s7/dg30db6r2db2ly2db15w2~x2/sett.png)|
+| [Hydesville Tower (Corporate)](/variants/s7/dg30db6r2db2ly2db15w2~x2/)|
+|![Hydesville Tower (Corporate) example sett](/variants/s7/dg30db6r2db2ly2db15w2~x2/sett.png)|

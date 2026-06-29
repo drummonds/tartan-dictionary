@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duke of Rothesay (Royal)](/setts/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/)|
-|![Duke of Rothesay (Royal) example sett](/setts/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png)|
+| [Duke of Rothesay (Royal)](/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/)|
+|![Duke of Rothesay (Royal) example sett](/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png)|

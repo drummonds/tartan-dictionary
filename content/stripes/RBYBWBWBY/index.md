@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rafferty (Estimated threadcount)](/setts/s9/r15b2lo1b10w1b2w1b2lo1~x4/)|
-|![Rafferty (Estimated threadcount) example sett](/setts/s9/r15b2lo1b10w1b2w1b2lo1~x4/sett.png)|
+| [Rafferty (Estimated threadcount)](/variants/s9/r15b2lo1b10w1b2w1b2lo1~x4/)|
+|![Rafferty (Estimated threadcount) example sett](/variants/s9/r15b2lo1b10w1b2w1b2lo1~x4/sett.png)|

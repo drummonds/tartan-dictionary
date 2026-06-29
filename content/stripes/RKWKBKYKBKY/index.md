@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Williams Dress (Carolinas) (Personal)](/setts/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/)|
-|![Williams Dress (Carolinas) (Personal) example sett](/setts/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/sett.png)|
-| [Williams Dress (Personal)](/setts/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/)|
-|![Williams Dress (Personal) example sett](/setts/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/sett.png)|
+| [Williams Dress (Carolinas) (Personal)](/variants/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/)|
+|![Williams Dress (Carolinas) (Personal) example sett](/variants/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/sett.png)|
+| [Williams Dress (Personal)](/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/)|
+|![Williams Dress (Personal) example sett](/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/sett.png)|

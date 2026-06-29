@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [South Australia](/setts/s10/dt13dg19k2dg7k2dg7k2db18r2dt13~x2/)|
-|![South Australia example sett](/setts/s10/dt13dg19k2dg7k2dg7k2db18r2dt13~x2/sett.png)|
+| [South Australia](/variants/s10/dt13dg19k2dg7k2dg7k2db18r2dt13~x2/)|
+|![South Australia example sett](/variants/s10/dt13dg19k2dg7k2dg7k2db18r2dt13~x2/sett.png)|

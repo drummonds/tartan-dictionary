@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rathmore Family Tartan Tartan Number: 1518. Earliest known date: 1987 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r26t2r6o2r2o2lo2o9w5ri2w4lo2~x2/)|
-|![Rathmore Family Tartan Tartan Number: 1518. Earliest known date: 1987 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r26t2r6o2r2o2lo2o9w5ri2w4lo2~x2/sett.png)|
+| [Rathmore Family Tartan](/variants/s12/r26t2r6o2r2o2lo2o9w5ri2w4lo2~x2/)|
+|![Rathmore Family Tartan example sett](/variants/s12/r26t2r6o2r2o2lo2o9w5ri2w4lo2~x2/sett.png)|

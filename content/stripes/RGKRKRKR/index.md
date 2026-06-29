@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Booth (Fashion)](/setts/s8/r2dy14k26ri3k2ri12k1ri2~x4/)|
-|![Booth (Fashion) example sett](/setts/s8/r2dy14k26ri3k2ri12k1ri2~x4/sett.png)|
+| [Booth (Fashion)](/variants/s8/r2dy14k26ri3k2ri12k1ri2~x4/)|
+|![Booth (Fashion) example sett](/variants/s8/r2dy14k26ri3k2ri12k1ri2~x4/sett.png)|

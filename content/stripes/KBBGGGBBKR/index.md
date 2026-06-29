@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haughfoot](/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/)|
-|![Haughfoot example sett](/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/sett.png)|
+| [Haughfoot](/variants/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/)|
+|![Haughfoot example sett](/variants/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/sett.png)|

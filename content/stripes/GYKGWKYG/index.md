@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Birmingham Irish Pipes & Drums](/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/)|
-|![Birmingham Irish Pipes & Drums example sett](/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/sett.png)|
+| [Birmingham Irish Pipes & Drums](/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2/)|
+|![Birmingham Irish Pipes & Drums example sett](/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2/sett.png)|

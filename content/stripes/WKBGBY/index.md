@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edgar-Feyen](/setts/s6/w18k1db4g4p10lo2~x4/)|
-|![Edgar-Feyen example sett](/setts/s6/w18k1db4g4p10lo2~x4/sett.png)|
-| [Edgar-Feyen (Personal)](/setts/s6/w18k1db4g4dp10lo2~x4/)|
-|![Edgar-Feyen (Personal) example sett](/setts/s6/w18k1db4g4dp10lo2~x4/sett.png)|
+| [Edgar-Feyen](/variants/s6/w18k1db4g4p10lo2~x4/)|
+|![Edgar-Feyen example sett](/variants/s6/w18k1db4g4p10lo2~x4/sett.png)|
+| [Edgar-Feyen (Personal)](/variants/s6/w18k1db4g4dp10lo2~x4/)|
+|![Edgar-Feyen (Personal) example sett](/variants/s6/w18k1db4g4dp10lo2~x4/sett.png)|

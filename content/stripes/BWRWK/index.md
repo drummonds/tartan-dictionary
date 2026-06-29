@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boswell Dress (Personal)](/setts/s5/b8w13r3w2k5~x2/)|
-|![Boswell Dress (Personal) example sett](/setts/s5/b8w13r3w2k5~x2/sett.png)|
+| [Boswell Dress (Personal)](/variants/s5/b8w13r3w2k5~x2/)|
+|![Boswell Dress (Personal) example sett](/variants/s5/b8w13r3w2k5~x2/sett.png)|

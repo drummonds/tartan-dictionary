@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ottawa](/setts/s24/y7t4y1t4y1t4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/)|
-|![Ottawa example sett](/setts/s24/y7t4y1t4y1t4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/sett.png)|
+| [Ottawa](/variants/s24/y7t4y1t4y1t4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/)|
+|![Ottawa example sett](/variants/s24/y7t4y1t4y1t4y7w2y6w1y1w1y1db2y1db3y1db2y1w1y1w1y6r1~x4/sett.png)|

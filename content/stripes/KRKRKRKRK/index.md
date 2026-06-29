@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Llewellyn (Welsh Name)](/setts/s9/k74o4k7o4k9o40k2o4k2/)|
-|![Llewellyn (Welsh Name) example sett](/setts/s9/k74o4k7o4k9o40k2o4k2/sett.png)|
+| [Llewellyn (Welsh Name)](/variants/s9/k74o4k7o4k9o40k2o4k2/)|
+|![Llewellyn (Welsh Name) example sett](/variants/s9/k74o4k7o4k9o40k2o4k2/sett.png)|

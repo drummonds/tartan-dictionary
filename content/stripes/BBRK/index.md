@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alich (Personal)](/setts/s4/k50r1db3dp1~x4/)|
-|![Alich (Personal) example sett](/setts/s4/k50r1db3dp1~x4/sett.png)|
-| [Alich (Personal)](/setts/s4/k50r1dt3dp1~x4/)|
-|![Alich (Personal) example sett](/setts/s4/k50r1dt3dp1~x4/sett.png)|
+| [Alich (Personal)](/variants/s4/k50r1db3dp1~x4/)|
+|![Alich (Personal) example sett](/variants/s4/k50r1db3dp1~x4/sett.png)|
+| [Alich (Personal)](/variants/s4/k50r1dt3dp1~x4/)|
+|![Alich (Personal) example sett](/variants/s4/k50r1dt3dp1~x4/sett.png)|

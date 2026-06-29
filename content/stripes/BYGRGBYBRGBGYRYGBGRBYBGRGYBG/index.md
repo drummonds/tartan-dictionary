@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Platt (Name)](/setts/s28/g16db6ly2g12r2g14db14ly1db12r2g6db24g6ly2r2~x2/)|
-|![Platt (Name) example sett](/setts/s28/g16db6ly2g12r2g14db14ly1db12r2g6db24g6ly2r2~x2/sett.png)|
+| [Platt (Name)](/variants/s28/g16db6ly2g12r2g14db14ly1db12r2g6db24g6ly2r2~x2/)|
+|![Platt (Name) example sett](/variants/s28/g16db6ly2g12r2g14db14ly1db12r2g6db24g6ly2r2~x2/sett.png)|

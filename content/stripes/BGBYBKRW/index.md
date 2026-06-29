@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Côté-Haché (Personal)](/setts/s8/db3dg10db5ly1db10k1r4w1~x4/)|
-|![Côté-Haché (Personal) example sett](/setts/s8/db3dg10db5ly1db10k1r4w1~x4/sett.png)|
+| [Côté-Haché (Personal)](/variants/s8/db3dg10db5ly1db10k1r4w1~x4/)|
+|![Côté-Haché (Personal) example sett](/variants/s8/db3dg10db5ly1db10k1r4w1~x4/sett.png)|

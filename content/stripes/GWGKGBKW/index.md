@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hibernian F. C. (2004) (C orporate)](/setts/s8/g21w2g21k17dg12dp6k2w1~x2/)|
-|![Hibernian F. C. (2004) (C orporate) example sett](/setts/s8/g21w2g21k17dg12dp6k2w1~x2/sett.png)|
-| [Hibernian Football Club](/setts/s8/g22w2g22k18dg12dp6k2w1~x2/)|
-|![Hibernian Football Club example sett](/setts/s8/g22w2g22k18dg12dp6k2w1~x2/sett.png)|
+| [Hibernian F. C. (2004) (C orporate)](/variants/s8/g21w2g21k17dg12dp6k2w1~x2/)|
+|![Hibernian F. C. (2004) (C orporate) example sett](/variants/s8/g21w2g21k17dg12dp6k2w1~x2/sett.png)|
+| [Hibernian Football Club](/variants/s8/g22w2g22k18dg12dp6k2w1~x2/)|
+|![Hibernian Football Club example sett](/variants/s8/g22w2g22k18dg12dp6k2w1~x2/sett.png)|

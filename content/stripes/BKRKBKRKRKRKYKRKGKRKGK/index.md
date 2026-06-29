@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rosalyn (Fashion)](/setts/s22/k16y50k2o16k2g4k2o16k2lo50k16r16k2o4k2r16k16b1k2r4k2b16~x2/)|
-|![Rosalyn (Fashion) example sett](/setts/s22/k16y50k2o16k2g4k2o16k2lo50k16r16k2o4k2r16k16b1k2r4k2b16~x2/sett.png)|
+| [Rosalyn (Fashion)](/variants/s22/k16y50k2o16k2g4k2o16k2lo50k16r16k2o4k2r16k16b1k2r4k2b16~x2/)|
+|![Rosalyn (Fashion) example sett](/variants/s22/k16y50k2o16k2g4k2o16k2lo50k16r16k2o4k2r16k16b1k2r4k2b16~x2/sett.png)|

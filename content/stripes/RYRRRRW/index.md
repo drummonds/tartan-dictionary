@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Banff](/setts/s7/oi6ly3oi20o20oi3o3lb6~x2/)|
-|![Banff example sett](/setts/s7/oi6ly3oi20o20oi3o3lb6~x2/sett.png)|
+| [Banff](/variants/s7/oi6ly3oi20o20oi3o3lb6~x2/)|
+|![Banff example sett](/variants/s7/oi6ly3oi20o20oi3o3lb6~x2/sett.png)|

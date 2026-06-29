@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDuff](/setts/s7/r4k2r24k6db6g16r3~x2/)|
-|![MacDuff example sett](/setts/s7/r4k2r24k6db6g16r3~x2/sett.png)|
-| [MacDuff #4](/setts/s7/r4k2r24k6db6dg16r3~x2/)|
-|![MacDuff #4 example sett](/setts/s7/r4k2r24k6db6dg16r3~x2/sett.png)|
+| [MacDuff](/variants/s7/r4k2r24k6db6g16r3~x2/)|
+|![MacDuff example sett](/variants/s7/r4k2r24k6db6g16r3~x2/sett.png)|
+| [MacDuff #4](/variants/s7/r4k2r24k6db6dg16r3~x2/)|
+|![MacDuff #4 example sett](/variants/s7/r4k2r24k6db6dg16r3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bowlers](/setts/s11/w4db20g5k6g2w3g2k6g13p8g2~x2/)|
-|![Bowlers example sett](/setts/s11/w4db20g5k6g2w3g2k6g13p8g2~x2/sett.png)|
-| [Bowlers (Commemorative)](/setts/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/)|
-|![Bowlers (Commemorative) example sett](/setts/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/sett.png)|
+| [Bowlers](/variants/s11/w4db20g5k6g2w3g2k6g13p8g2~x2/)|
+|![Bowlers example sett](/variants/s11/w4db20g5k6g2w3g2k6g13p8g2~x2/sett.png)|
+| [Bowlers (Commemorative)](/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/)|
+|![Bowlers (Commemorative) example sett](/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/sett.png)|

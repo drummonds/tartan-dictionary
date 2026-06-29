@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [B & Q (Corporate)](/setts/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/)|
-|![B & Q (Corporate) example sett](/setts/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/sett.png)|
+| [B & Q (Corporate)](/variants/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/)|
+|![B & Q (Corporate) example sett](/variants/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/sett.png)|

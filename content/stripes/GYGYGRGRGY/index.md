@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montreal](/setts/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/)|
-|![Montreal example sett](/setts/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/sett.png)|
+| [Montreal](/variants/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/)|
+|![Montreal example sett](/variants/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/sett.png)|

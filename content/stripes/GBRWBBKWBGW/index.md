@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brehat (Personal)](/setts/s11/g30dp4r6w6db6dp3k14w14db50g50w2/)|
-|![Brehat (Personal) example sett](/setts/s11/g30dp4r6w6db6dp3k14w14db50g50w2/sett.png)|
+| [Brehat (Personal)](/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/)|
+|![Brehat (Personal) example sett](/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/sett.png)|

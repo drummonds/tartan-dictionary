@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dyce](/setts/s6/k2ly1g6k6db6w1~x4/)|
-|![Dyce example sett](/setts/s6/k2ly1g6k6db6w1~x4/sett.png)|
-| [Dyce #3](/setts/s6/k2ly1dg6k6db6w1~x4/)|
-|![Dyce #3 example sett](/setts/s6/k2ly1dg6k6db6w1~x4/sett.png)|
+| [Dyce](/variants/s6/k2ly1g6k6db6w1~x4/)|
+|![Dyce example sett](/variants/s6/k2ly1g6k6db6w1~x4/sett.png)|
+| [Dyce #3](/variants/s6/k2ly1dg6k6db6w1~x4/)|
+|![Dyce #3 example sett](/variants/s6/k2ly1dg6k6db6w1~x4/sett.png)|

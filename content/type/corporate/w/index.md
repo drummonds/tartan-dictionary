@@ -1,0 +1,94 @@
+---
+title: "Corporate tartans — W"
+date: 2023-03-18
+---
+86 Corporate tartans beginning with W. [Back to all Corporate tartans](/type/corporate/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2/"><img src="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2/sett.png" alt="Walk the Walk" width="140"><br>Walk the Walk</a></li>
+<li><a class="tartan" href="/variants/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/"><img src="/variants/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/sett.png" alt="Walkers Shortbread (Corporate)" width="140"><br>Walkers Shortbread (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s7/ri1r12g1n9dy1t12lg1~x4/"><img src="/variants/s7/ri1r12g1n9dy1t12lg1~x4/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
+<li><a class="tartan" href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><img src="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
+<li><a class="tartan" href="/variants/s4/k60t3k9g7/"><img src="/variants/s4/k60t3k9g7/sett.png" alt="Wallington (Corporate?)" width="140"><br>Wallington (Corporate?)</a></li>
+<li><a class="tartan" href="/variants/s19/db25ly5db12ly3r1w1db12ly3w1db12ly3w1db12ly5r1w1db12ly4w2~x2/"><img src="/variants/s19/db25ly5db12ly3r1w1db12ly3w1db12ly3w1db12ly5r1w1db12ly4w2~x2/sett.png" alt="Wanless" width="140"><br>Wanless</a></li>
+<li><a class="tartan" href="/variants/s14/g20lr6db20ly3db48r6db4r6~x2/"><img src="/variants/s14/g20lr6db20ly3db48r6db4r6~x2/sett.png" alt="Warren Wilson College" width="140"><br>Warren Wilson College</a></li>
+<li><a class="tartan" href="/variants/s8/t6k6t6db3w1k39ly3k3~x2/"><img src="/variants/s8/t6k6t6db3w1k39ly3k3~x2/sett.png" alt="Washington County Sheriff’s Office (Oregon)" width="140"><br>Washington County Sheriff’s Office (Oregon)</a></li>
+<li><a class="tartan" href="/variants/s7/r6w3n6lb10r38w2n4/"><img src="/variants/s7/r6w3n6lb10r38w2n4/sett.png" alt="Washington State University Cougar" width="140"><br>Washington State University Cougar</a></li>
+<li><a class="tartan" href="/variants/s38/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/"><img src="/variants/s38/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/sett.png" alt="Washington Stockmens" width="140"><br>Washington Stockmens</a></li>
+<li><a class="tartan" href="/variants/s6/db23w8lb2k5w44db4~x2/"><img src="/variants/s6/db23w8lb2k5w44db4~x2/sett.png" alt="WaterAid" width="140"><br>WaterAid</a></li>
+<li><a class="tartan" href="/variants/s6/r2db38k20w1dg20r2/"><img src="/variants/s6/r2db38k20w1dg20r2/sett.png" alt="Waterfront" width="140"><br>Waterfront</a></li>
+<li><a class="tartan" href="/variants/s14/k4y2k27y2k8y31k2y4~x2/"><img src="/variants/s14/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc." width="140"><br>Watertown Library Assoc.</a></li>
+<li><a class="tartan" href="/variants/s10/r8g2r2k1r1g2~x10/"><img src="/variants/s10/r8g2r2k1r1g2~x10/sett.png" alt="Waverley Care Aids Trust" width="140"><br>Waverley Care Aids Trust</a></li>
+<li><a class="tartan" href="/variants/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/"><img src="/variants/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/sett.png" alt="Waverley Check" width="140"><br>Waverley Check</a></li>
+<li><a class="tartan" href="/variants/s8/k1dbi24r1lo1ly1g1db1dp1~x7/"><img src="/variants/s8/k1dbi24r1lo1ly1g1db1dp1~x7/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
+<li><a class="tartan" href="/variants/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/"><img src="/variants/s8/k1db24r1ly1lyi1g1dbi1lp1~x7/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
+<li><a class="tartan" href="/variants/s7/o32w2o9ly2o12lo21r1~x2/"><img src="/variants/s7/o32w2o9ly2o12lo21r1~x2/sett.png" alt="Weathered Cyclist (Corporate)" width="140"><br>Weathered Cyclist (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s11/w3n30dg3db3r3lo3db8n3lo3db3w3~x2/"><img src="/variants/s11/w3n30dg3db3r3lo3db8n3lo3db3w3~x2/sett.png" alt="Wee Course, Blairgowrie Golf Club, The" width="140"><br>Wee Course, Blairgowrie Golf Club, The</a></li>
+<li><a class="tartan" href="/variants/s4/db80w1lo8w3~x2/"><img src="/variants/s4/db80w1lo8w3~x2/sett.png" alt="Weir Minerals" width="140"><br>Weir Minerals</a></li>
+<li><a class="tartan" href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><img src="/variants/s7/dt12w2dt13dg3g2r24g3~x2/sett.png" alt="Wellmont Foundation (Corporate)" width="140"><br>Wellmont Foundation (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/"><img src="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/sett.png" alt="Wellmont Golf Tournament" width="140"><br>Wellmont Golf Tournament</a></li>
+<li><a class="tartan" href="/variants/s22/db9lr1db1r3db14r1k12g15dp3g21r1g8~x2/"><img src="/variants/s22/db9lr1db1r3db14r1k12g15dp3g21r1g8~x2/sett.png" alt="West Highland Way" width="140"><br>West Highland Way</a></li>
+<li><a class="tartan" href="/variants/s12/db7lr1db1r2db9r1k9g13dp2g18r1g6~x2/"><img src="/variants/s12/db7lr1db1r2db9r1k9g13dp2g18r1g6~x2/sett.png" alt="West Highland Way (Corporate)" width="140"><br>West Highland Way (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s22/k34w2k2o27g1o2k3o2ly1o2r2o2ly1o2k3o2g1o27k2w2k34lo2~x2/"><img src="/variants/s22/k34w2k2o27g1o2k3o2ly1o2r2o2ly1o2k3o2g1o27k2w2k34lo2~x2/sett.png" alt="West Lothian Woolen Mill" width="140"><br>West Lothian Woolen Mill</a></li>
+<li><a class="tartan" href="/variants/s8/k2w3dp5lo4w3lo4dp25lo2~x2/"><img src="/variants/s8/k2w3dp5lo4w3lo4dp25lo2~x2/sett.png" alt="Western Illinois University" width="140"><br>Western Illinois University</a></li>
+<li><a class="tartan" href="/variants/s6/dg44w18dg6w11dt1o4~x2/"><img src="/variants/s6/dg44w18dg6w11dt1o4~x2/sett.png" alt="Westfalia" width="140"><br>Westfalia</a></li>
+<li><a class="tartan" href="/variants/s6/w44dg18w6dg11dt1o4~x2/"><img src="/variants/s6/w44dg18w6dg11dt1o4~x2/sett.png" alt="Westfalia Dress" width="140"><br>Westfalia Dress</a></li>
+<li><a class="tartan" href="/variants/s4/dt102lr11dt14w11/"><img src="/variants/s4/dt102lr11dt14w11/sett.png" alt="Westfield (Corporate?)" width="140"><br>Westfield (Corporate?)</a></li>
+<li><a class="tartan" href="/variants/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><img src="/variants/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/sett.png" alt="Westgate (Corporate)" width="140"><br>Westgate (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s8/o2k37r10db3r5lo4r3w2~x2/"><img src="/variants/s8/o2k37r10db3r5lo4r3w2~x2/sett.png" alt="Westin Kierland" width="140"><br>Westin Kierland</a></li>
+<li><a class="tartan" href="/variants/s8/lo2k38r10db3r5ly4r3lb2~x2/"><img src="/variants/s8/lo2k38r10db3r5ly4r3lb2~x2/sett.png" alt="Westin Kierland (Corporate)" width="140"><br>Westin Kierland (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s9/lyi3lb6lg20dt5g3dt15ly3dt3lg3~x2/"><img src="/variants/s9/lyi3lb6lg20dt5g3dt15ly3dt3lg3~x2/sett.png" alt="WestJet" width="140"><br>WestJet</a></li>
+<li><a class="tartan" href="/variants/s16/db2k2db2k21db2r2g21db2k2db2t2db21db21lr1db21t2~x2/"><img src="/variants/s16/db2k2db2k21db2r2g21db2k2db2t2db21db21lr1db21t2~x2/sett.png" alt="Westminster College" width="140"><br>Westminster College</a></li>
+<li><a class="tartan" href="/variants/s16/k2db2k2db21k2db2r21k2db2k2db2k21k21lr1k21db2~x2/"><img src="/variants/s16/k2db2k2db21k2db2r21k2db2k2db2k21k21lr1k21db2~x2/sett.png" alt="Westminster College (Corporate)" width="140"><br>Westminster College (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s20/ri5b6ri2b9ri4r6ri4k5lo2k2lo2k5w5k5r23ri1k2ri1r5ri4~x2/"><img src="/variants/s20/ri5b6ri2b9ri4r6ri4k5lo2k2lo2k5w5k5r23ri1k2ri1r5ri4~x2/sett.png" alt="Westwood Red Anderson" width="140"><br>Westwood Red Anderson</a></li>
+<li><a class="tartan" href="/variants/s32/ly8k2w3k4lo3k2t6k2lo3k4t3db44k4lo4k4dy5lo5dy5lo6dy5lo5dy5k4dy5ly5dy5ly6dy5ly5dy5k4w6/"><img src="/variants/s32/ly8k2w3k4lo3k2t6k2lo3k4t3db44k4lo4k4dy5lo5dy5lo6dy5lo5dy5k4dy5ly5dy5ly6dy5ly5dy5k4w6/sett.png" alt="Whiskey &amp; Bourbon (Corporate)" width="140"><br>Whiskey & Bourbon (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s20/ly10k2w3k6o4k2lb8k2o4k6lb3lr49lo4k42o42ly6o6ly6o6ly8/"><img src="/variants/s20/ly10k2w3k6o4k2lb8k2o4k6lb3lr49lo4k42o42ly6o6ly6o6ly8/sett.png" alt="Whisky" width="140"><br>Whisky</a></li>
+<li><a class="tartan" href="/variants/s7/k2r1k2r14w1r1w1~x8/"><img src="/variants/s7/k2r1k2r14w1r1w1~x8/sett.png" alt="White Stripes Dress, (Corporate)" width="140"><br>White Stripes Dress, (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s7/r2k1r2k14w1k1w1~x8/"><img src="/variants/s7/r2k1r2k14w1k1w1~x8/sett.png" alt="White Stripes Hunting" width="140"><br>White Stripes Hunting</a></li>
+<li><a class="tartan" href="/variants/s7/k7w3k7w45r3w3r3~x2/"><img src="/variants/s7/k7w3k7w45r3w3r3~x2/sett.png" alt="White Stripes, The" width="140"><br>White Stripes, The</a></li>
+<li><a class="tartan" href="/variants/s6/lb9k16dg10k22dp67lo4/"><img src="/variants/s6/lb9k16dg10k22dp67lo4/sett.png" alt="Widows Sons Scotland (MRA)" width="140"><br>Widows Sons Scotland (MRA)</a></li>
+<li><a class="tartan" href="/variants/s6/o9k16dg10k22dp67ly4/"><img src="/variants/s6/o9k16dg10k22dp67ly4/sett.png" alt="Widows Sons Scotland (MRA)" width="140"><br>Widows Sons Scotland (MRA)</a></li>
+<li><a class="tartan" href="/variants/s6/lb12dg16k12dg24dp75lo4/"><img src="/variants/s6/lb12dg16k12dg24dp75lo4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
+<li><a class="tartan" href="/variants/s6/lb12g12k12g24dp75ly4/"><img src="/variants/s6/lb12g12k12g24dp75ly4/sett.png" alt="Widows Sons Scotland Dress" width="140"><br>Widows Sons Scotland Dress</a></li>
+<li><a class="tartan" href="/variants/s8/ly5k9ly2k7lo35r4lo35k4~x2/"><img src="/variants/s8/ly5k9ly2k7lo35r4lo35k4~x2/sett.png" alt="Wilbers" width="140"><br>Wilbers</a></li>
+<li><a class="tartan" href="/variants/s12/k36w3k10w3g28r6k18~x2/"><img src="/variants/s12/k36w3k10w3g28r6k18~x2/sett.png" alt="Wild Highlanders" width="140"><br>Wild Highlanders</a></li>
+<li><a class="tartan" href="/variants/s11/k3b10g25ly2g2ly3g2ly2g25b10w3~x2/"><img src="/variants/s11/k3b10g25ly2g2ly3g2ly2g25b10w3~x2/sett.png" alt="William and Mary GALA, Inc, The" width="140"><br>William and Mary GALA, Inc, The</a></li>
+<li><a class="tartan" href="/variants/s11/r6k3n4k10n5lb2k2n31w1n2w2~x2/"><img src="/variants/s11/r6k3n4k10n5lb2k2n31w1n2w2~x2/sett.png" alt="William Glen &amp; Son (Corporate)" width="140"><br>William Glen & Son (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/"><img src="/variants/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/sett.png" alt="William Glen and Son" width="140"><br>William Glen and Son</a></li>
+<li><a class="tartan" href="/variants/s4/r60w28ly2t3~x2/"><img src="/variants/s4/r60w28ly2t3~x2/sett.png" alt="Willis, H Graham" width="140"><br>Willis, H Graham</a></li>
+<li><a class="tartan" href="/variants/s11/k16db2t2db4g16r2k15db6t2k3t4~x2/"><img src="/variants/s11/k16db2t2db4g16r2k15db6t2k3t4~x2/sett.png" alt="Wilson's No.060" width="140"><br>Wilson's No.060</a></li>
+<li><a class="tartan" href="/variants/s5/t1dg3r1dp3t1~x4/"><img src="/variants/s5/t1dg3r1dp3t1~x4/sett.png" alt="Wilson's No.95" width="140"><br>Wilson's No.95</a></li>
+<li><a class="tartan" href="/variants/s8/db11lb1k3w1lg4r5lo1db5~x4/"><img src="/variants/s8/db11lb1k3w1lg4r5lo1db5~x4/sett.png" alt="Wingtip" width="140"><br>Wingtip</a></li>
+<li><a class="tartan" href="/variants/s6/m6n1ly1w1n2w3~x4/"><img src="/variants/s6/m6n1ly1w1n2w3~x4/sett.png" alt="Winnipeg Embroiderers' Guild" width="140"><br>Winnipeg Embroiderers' Guild</a></li>
+<li><a class="tartan" href="/variants/s15/r2w2db6r2db2r2db1r20ly1r2ly2r2ly6w2ly2~x2/"><img src="/variants/s15/r2w2db6r2db2r2db1r20ly1r2ly2r2ly6w2ly2~x2/sett.png" alt="Winthrop University" width="140"><br>Winthrop University</a></li>
+<li><a class="tartan" href="/variants/s15/r2lb2db6r2db2r2db1r20lo1r2lo2r2lo6lb2lo2~x2/"><img src="/variants/s15/r2lb2db6r2db2r2db1r20lo1r2lo2r2lo6lb2lo2~x2/sett.png" alt="Winthrop University (Corporate)" width="140"><br>Winthrop University (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s28/db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/"><img src="/variants/s28/db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/sett.png" alt="Wisconsin in Scotland" width="140"><br>Wisconsin in Scotland</a></li>
+<li><a class="tartan" href="/variants/s15/w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/"><img src="/variants/s15/w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/sett.png" alt="Wisconsin in Scotland (Corporate)" width="140"><br>Wisconsin in Scotland (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s24/t5w2t2w4k27w2g2w2g6w2g2w22r2~x2/"><img src="/variants/s24/t5w2t2w4k27w2g2w2g6w2g2w22r2~x2/sett.png" alt="Wiseman, Robert" width="140"><br>Wiseman, Robert</a></li>
+<li><a class="tartan" href="/variants/s11/w3db15r6db3r3db4dg11dgi3dg3dgi28lo3~x2/"><img src="/variants/s11/w3db15r6db3r3db4dg11dgi3dg3dgi28lo3~x2/sett.png" alt="Wojtek Memorial Trust" width="140"><br>Wojtek Memorial Trust</a></li>
+<li><a class="tartan" href="/variants/s6/ly8w3b40k12w3ly3~x2/"><img src="/variants/s6/ly8w3b40k12w3ly3~x2/sett.png" alt="Wolverine (Corporate)" width="140"><br>Wolverine (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s6/lo8w3db40k12w3lo3~x2/"><img src="/variants/s6/lo8w3db40k12w3lo3~x2/sett.png" alt="Wolverines (Corporate)" width="140"><br>Wolverines (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s6/o2dg2r9k9g2ly2~x4/"><img src="/variants/s6/o2dg2r9k9g2ly2~x4/sett.png" alt="Wolves Wod Kindred" width="140"><br>Wolves Wod Kindred</a></li>
+<li><a class="tartan" href="/variants/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><img src="/variants/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png" alt="Womble" width="140"><br>Womble</a></li>
+<li><a class="tartan" href="/variants/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/"><img src="/variants/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/sett.png" alt="Wombles #2" width="140"><br>Wombles #2</a></li>
+<li><a class="tartan" href="/variants/s28/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/"><img src="/variants/s28/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/sett.png" alt="Wombles #4" width="140"><br>Wombles #4</a></li>
+<li><a class="tartan" href="/variants/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x4/"><img src="/variants/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x4/sett.png" alt="Wombles 4 (Corporate)" width="140"><br>Wombles 4 (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s9/w4db8w1lo1dbi6lo3r6lo1w4~x4/"><img src="/variants/s9/w4db8w1lo1dbi6lo3r6lo1w4~x4/sett.png" alt="Wombles 6 (Corporate)" width="140"><br>Wombles 6 (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s9/lb3g6lb1db1r5db2o5db1lb3~x4/"><img src="/variants/s9/lb3g6lb1db1r5db2o5db1lb3~x4/sett.png" alt="Wombles 7 (Corporate)" width="140"><br>Wombles 7 (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s8/dg4g24dp4k6dg4r3dg4dp3~x2/"><img src="/variants/s8/dg4g24dp4k6dg4r3dg4dp3~x2/sett.png" alt="Womens Rural Institute" width="140"><br>Womens Rural Institute</a></li>
+<li><a class="tartan" href="/variants/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/"><img src="/variants/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/sett.png" alt="Woodberry Forest School" width="140"><br>Woodberry Forest School</a></li>
+<li><a class="tartan" href="/variants/s10/r6k3w3k3w3k34r6g5r6k5~x2/"><img src="/variants/s10/r6k3w3k3w3k34r6g5r6k5~x2/sett.png" alt="Woodberry Forest School (Corporate)" width="140"><br>Woodberry Forest School (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s11/db30r1db6dt16y16db1y16dt16db16r1db4~x2/"><img src="/variants/s11/db30r1db6dt16y16db1y16dt16db16r1db4~x2/sett.png" alt="Woolmark Plaid, (Corporate)" width="140"><br>Woolmark Plaid, (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s20/dt16db6r1db30r1db6dt16y16db1y16dt16db16r1db4r1db16dt16y16db1y16~x2/"><img src="/variants/s20/dt16db6r1db30r1db6dt16y16db1y16dt16db16r1db4r1db16dt16y16db1y16~x2/sett.png" alt="Woolmark Plaid, The" width="140"><br>Woolmark Plaid, The</a></li>
+<li><a class="tartan" href="/variants/s16/db2lr2db22k6db3k4db3k4db3k6dbi12n4dbi2n6dbi7w2~x2/"><img src="/variants/s16/db2lr2db22k6db3k4db3k4db3k6dbi12n4dbi2n6dbi7w2~x2/sett.png" alt="World Corporate Golf Challenge" width="140"><br>World Corporate Golf Challenge</a></li>
+<li><a class="tartan" href="/variants/s16/db2lb2db22k6db3k4db3k4db3k6dbi12b4dbi2b6dbi7lbi2~x2/"><img src="/variants/s16/db2lb2db22k6db3k4db3k4db3k6dbi12b4dbi2b6dbi7lbi2~x2/sett.png" alt="World Corporate Golf Challenge (Corp" width="140"><br>World Corporate Golf Challenge (Corp</a></li>
+<li><a class="tartan" href="/variants/s5/r2db19n6b44lb2~x2/"><img src="/variants/s5/r2db19n6b44lb2~x2/sett.png" alt="World Fed. of Bldg Contractors (Corp" width="140"><br>World Fed. of Bldg Contractors (Corp</a></li>
+<li><a class="tartan" href="/variants/s5/w4b44db19dbi44r2~x2/"><img src="/variants/s5/w4b44db19dbi44r2~x2/sett.png" alt="World Federation of Building Contractors" width="140"><br>World Federation of Building Contractors</a></li>
+<li><a class="tartan" href="/variants/s18/db8ly1db16w1g12db27w1db1w1db1w1db27g12w1db16ly1db8r2~x2/"><img src="/variants/s18/db8ly1db16w1g12db27w1db1w1db1w1db27g12w1db16ly1db8r2~x2/sett.png" alt="World Youth Congress" width="140"><br>World Youth Congress</a></li>
+<li><a class="tartan" href="/variants/s10/r2db8ly1db16w1g12db27w1db1w1~x2/"><img src="/variants/s10/r2db8ly1db16w1g12db27w1db1w1~x2/sett.png" alt="World Youth Congress (Corporate)" width="140"><br>World Youth Congress (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s7/r9k4r9k25ly3dp18k4~x2/"><img src="/variants/s7/r9k4r9k25ly3dp18k4~x2/sett.png" alt="Wounded Warriors Canada" width="140"><br>Wounded Warriors Canada</a></li>
+<li><a class="tartan" href="/variants/s14/r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/"><img src="/variants/s14/r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/sett.png" alt="Wupper Pipes &amp; Drums (Corporate)" width="140"><br>Wupper Pipes & Drums (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s6/db4ly9w4db9ly18w1~x2/"><img src="/variants/s6/db4ly9w4db9ly18w1~x2/sett.png" alt="WVU Mountaineer Tartan" width="140"><br>WVU Mountaineer Tartan</a></li>
+<li><a class="tartan" href="/variants/s6/n45k3n10o4ki1w2~x4/"><img src="/variants/s6/n45k3n10o4ki1w2~x4/sett.png" alt="Wylie" width="140"><br>Wylie</a></li>
+<li><a class="tartan" href="/variants/s9/w4r13g54dg22k4y20g48r13w4/"><img src="/variants/s9/w4r13g54dg22k4y20g48r13w4/sett.png" alt="Wynberg Boys' High School" width="140"><br>Wynberg Boys' High School</a></li>
+</ul>

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Dornoch Golf Club, The](/setts/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/)|
-|![Royal Dornoch Golf Club, The example sett](/setts/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/sett.png)|
+| [Royal Dornoch Golf Club, The](/variants/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/)|
+|![Royal Dornoch Golf Club, The example sett](/variants/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/sett.png)|

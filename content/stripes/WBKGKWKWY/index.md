@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hoban (Name)](/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/)|
-|![Hoban (Name) example sett](/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/sett.png)|
+| [Hoban (Name)](/variants/s9/ly3lp9k3lp4k9g15k9db11w2~x4/)|
+|![Hoban (Name) example sett](/variants/s9/ly3lp9k3lp4k9g15k9db11w2~x4/sett.png)|

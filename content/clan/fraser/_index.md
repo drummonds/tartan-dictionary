@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/r2db12r2dg12r24w1~x2/"><img src="/setts/s6/r2db12r2dg12r24w1~x2/sett.png" alt="Fraser" width="240"><br>Fraser</a>
+<a class="tartan" href="/variants/s6/r2db12r2dg12r24w1~x2/"><img src="/variants/s6/r2db12r2dg12r24w1~x2/sett.png" alt="Fraser" width="240"><br>Fraser</a>
 
 ## Families
 

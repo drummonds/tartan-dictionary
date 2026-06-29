@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Independence](/setts/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/)|
-|![Independence example sett](/setts/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/sett.png)|
-| [Independence](/setts/s12/k2ly2db15ly2k2ly2w2ly2w14ly1k2ly2~x2/)|
-|![Independence example sett](/setts/s12/k2ly2db15ly2k2ly2w2ly2w14ly1k2ly2~x2/sett.png)|
+| [Independence](/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/)|
+|![Independence example sett](/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/sett.png)|
+| [Independence](/variants/s12/k2ly2db15ly2k2ly2w2ly2w14ly1k2ly2~x2/)|
+|![Independence example sett](/variants/s12/k2ly2db15ly2k2ly2w2ly2w14ly1k2ly2~x2/sett.png)|

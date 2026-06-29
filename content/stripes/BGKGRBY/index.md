@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Parliament Trade Tartan Tartan Number: 2477. Earliest known date: 1998 Created to celebrate the referendum result for the re-establishment of a Scottish Parliament as well as to provide a Parliamentary livery tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db8g11k3g11r12dt10ly2~x2/)|
-|![Parliament Trade Tartan Tartan Number: 2477. Earliest known date: 1998 Created to celebrate the referendum result for the re-establishment of a Scottish Parliament as well as to provide a Parliamentary livery tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/db8g11k3g11r12dt10ly2~x2/sett.png)|
+| [Parliament Trade Tartan](/variants/s7/db8g11k3g11r12dt10ly2~x2/)|
+|![Parliament Trade Tartan example sett](/variants/s7/db8g11k3g11r12dt10ly2~x2/sett.png)|

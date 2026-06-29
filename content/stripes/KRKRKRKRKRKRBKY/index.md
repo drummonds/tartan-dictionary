@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Citymoves (2012) (Corporate)](/setts/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/)|
-|![Citymoves (2012) (Corporate) example sett](/setts/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/sett.png)|
+| [Citymoves (2012) (Corporate)](/variants/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/)|
+|![Citymoves (2012) (Corporate) example sett](/variants/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/sett.png)|

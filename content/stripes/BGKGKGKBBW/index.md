@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart of Bute Hunting](/setts/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/)|
-|![Stewart of Bute Hunting example sett](/setts/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/sett.png)|
+| [Stewart of Bute Hunting](/variants/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/)|
+|![Stewart of Bute Hunting example sett](/variants/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/sett.png)|

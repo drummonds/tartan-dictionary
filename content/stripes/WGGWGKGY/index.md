@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New World Irish (Fashion)](/setts/s8/w9dg2g2w3g18k2dg33lo2~x2/)|
-|![New World Irish (Fashion) example sett](/setts/s8/w9dg2g2w3g18k2dg33lo2~x2/sett.png)|
+| [New World Irish (Fashion)](/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/)|
+|![New World Irish (Fashion) example sett](/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/sett.png)|

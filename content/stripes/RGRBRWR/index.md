@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacQuarrie LO](/setts/s7/r6dg16r4db12r16lb1r2~x2/)|
-|![MacQuarrie LO example sett](/setts/s7/r6dg16r4db12r16lb1r2~x2/sett.png)|
-| [Unnamed C21st (Lady's Jacket) (Fash)](/setts/s7/m3dg8m3db8m20w2m2~x4/)|
-|![Unnamed C21st (Lady's Jacket) (Fash) example sett](/setts/s7/m3dg8m3db8m20w2m2~x4/sett.png)|
+| [MacQuarrie LO](/variants/s7/r6dg16r4db12r16lb1r2~x2/)|
+|![MacQuarrie LO example sett](/variants/s7/r6dg16r4db12r16lb1r2~x2/sett.png)|
+| [Unnamed C21st (Lady's Jacket) (Fash)](/variants/s7/m3dg8m3db8m20w2m2~x4/)|
+|![Unnamed C21st (Lady's Jacket) (Fash) example sett](/variants/s7/m3dg8m3db8m20w2m2~x4/sett.png)|

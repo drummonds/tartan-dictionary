@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barbie's Moss Plaid (Yellow & Green)](/setts/s6/y3lo3y20lo20y20lo3~x2/)|
-|![Barbie's Moss Plaid (Yellow & Green) example sett](/setts/s6/y3lo3y20lo20y20lo3~x2/sett.png)|
+| [Barbie's Moss Plaid (Yellow & Green)](/variants/s6/y3lo3y20lo20y20lo3~x2/)|
+|![Barbie's Moss Plaid (Yellow & Green) example sett](/variants/s6/y3lo3y20lo20y20lo3~x2/sett.png)|

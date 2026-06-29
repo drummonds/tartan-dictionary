@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lachance (Commemorative)](/setts/s7/n50o50ly1db27dg18do9ly4~x2/)|
-|![Lachance (Commemorative) example sett](/setts/s7/n50o50ly1db27dg18do9ly4~x2/sett.png)|
+| [Lachance (Commemorative)](/variants/s7/n50o50ly1db27dg18do9ly4~x2/)|
+|![Lachance (Commemorative) example sett](/variants/s7/n50o50ly1db27dg18do9ly4~x2/sett.png)|

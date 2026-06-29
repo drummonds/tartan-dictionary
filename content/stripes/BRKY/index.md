@@ -24,11 +24,11 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kucher, Gregory](/setts/s4/db8r1k1lr1~x10/)|
-|![Kucher, Gregory example sett](/setts/s4/db8r1k1lr1~x10/sett.png)|
-| [Kucher, Gregory (Personal)](/setts/s4/n2r1k1lr1~x10/)|
-|![Kucher, Gregory (Personal) example sett](/setts/s4/n2r1k1lr1~x10/sett.png)|
-| [Skinner](/setts/s4/db1r16k16ly1~x4/)|
-|![Skinner example sett](/setts/s4/db1r16k16ly1~x4/sett.png)|
-| [Skinner (Name)](/setts/s4/db1r8k8lo1~x4/)|
-|![Skinner (Name) example sett](/setts/s4/db1r8k8lo1~x4/sett.png)|
+| [Kucher, Gregory](/variants/s4/db8r1k1lr1~x10/)|
+|![Kucher, Gregory example sett](/variants/s4/db8r1k1lr1~x10/sett.png)|
+| [Kucher, Gregory (Personal)](/variants/s4/n2r1k1lr1~x10/)|
+|![Kucher, Gregory (Personal) example sett](/variants/s4/n2r1k1lr1~x10/sett.png)|
+| [Skinner](/variants/s4/db1r16k16ly1~x4/)|
+|![Skinner example sett](/variants/s4/db1r16k16ly1~x4/sett.png)|
+| [Skinner (Name)](/variants/s4/db1r8k8lo1~x4/)|
+|![Skinner (Name) example sett](/variants/s4/db1r8k8lo1~x4/sett.png)|

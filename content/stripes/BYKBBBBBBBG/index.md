@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smith Family (Maine) (Personal)](/setts/s11/g2db2t23db2t2db6t2db2k33ly2t2~x2/)|
-|![Smith Family (Maine) (Personal) example sett](/setts/s11/g2db2t23db2t2db6t2db2k33ly2t2~x2/sett.png)|
+| [Smith Family (Maine) (Personal)](/variants/s11/g2db2t23db2t2db6t2db2k33ly2t2~x2/)|
+|![Smith Family (Maine) (Personal) example sett](/variants/s11/g2db2t23db2t2db6t2db2k33ly2t2~x2/sett.png)|

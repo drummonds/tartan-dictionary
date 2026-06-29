@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leblant-Macqueron (Personal)](/setts/s7/lb5dy6w2g7w2b44w2~x2/)|
-|![Leblant-Macqueron (Personal) example sett](/setts/s7/lb5dy6w2g7w2b44w2~x2/sett.png)|
+| [Leblant-Macqueron (Personal)](/variants/s7/lb5dy6w2g7w2b44w2~x2/)|
+|![Leblant-Macqueron (Personal) example sett](/variants/s7/lb5dy6w2g7w2b44w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carsaig](/setts/s12/lr12r3lr3db4lr16o3lr3o3lr3o16db52lr4/)|
-|![Carsaig example sett](/setts/s12/lr12r3lr3db4lr16o3lr3o3lr3o16db52lr4/sett.png)|
+| [Carsaig](/variants/s12/lr12r3lr3db4lr16o3lr3o3lr3o16db52lr4/)|
+|![Carsaig example sett](/variants/s12/lr12r3lr3db4lr16o3lr3o3lr3o16db52lr4/sett.png)|

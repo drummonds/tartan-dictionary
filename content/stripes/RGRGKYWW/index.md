@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alexander of Menstry Hunting](/setts/s8/m5g2m2g26k9lr9lb13w5~x2/)|
-|![Alexander of Menstry Hunting example sett](/setts/s8/m5g2m2g26k9lr9lb13w5~x2/sett.png)|
+| [Alexander of Menstry Hunting](/variants/s8/m5g2m2g26k9lr9lb13w5~x2/)|
+|![Alexander of Menstry Hunting example sett](/variants/s8/m5g2m2g26k9lr9lb13w5~x2/sett.png)|

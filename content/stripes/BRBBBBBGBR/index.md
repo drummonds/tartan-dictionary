@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Calum's Cabin](/setts/s10/db32o4dt12db2dt4db2dt2y16db67o6/)|
-|![Calum's Cabin example sett](/setts/s10/db32o4dt12db2dt4db2dt2y16db67o6/sett.png)|
+| [Calum's Cabin](/variants/s10/db32o4dt12db2dt4db2dt2y16db67o6/)|
+|![Calum's Cabin example sett](/variants/s10/db32o4dt12db2dt4db2dt2y16db67o6/sett.png)|

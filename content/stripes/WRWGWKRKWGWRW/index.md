@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Border Sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/)|
-|![Border Sett example sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png)|
-| [Wilson's Blanket Sett - Border](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/)|
-|![Wilson's Blanket Sett - Border example sett](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png)|
+| [Border Sett](/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/)|
+|![Border Sett example sett](/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png)|
+| [Wilson's Blanket Sett - Border](/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/)|
+|![Wilson's Blanket Sett - Border example sett](/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png)|

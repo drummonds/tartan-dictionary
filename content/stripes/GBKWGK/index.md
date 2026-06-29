@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's, No 76](/setts/s6/k3g17w2k18p17g3~x2/)|
-|![Wilson's, No 76 example sett](/setts/s6/k3g17w2k18p17g3~x2/sett.png)|
+| [Wilson's, No 76](/variants/s6/k3g17w2k18p17g3~x2/)|
+|![Wilson's, No 76 example sett](/variants/s6/k3g17w2k18p17g3~x2/sett.png)|

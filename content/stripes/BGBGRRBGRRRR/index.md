@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathgaela (Corporate)](/setts/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/)|
-|![Strathgaela (Corporate) example sett](/setts/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/sett.png)|
+| [Strathgaela (Corporate)](/variants/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/)|
+|![Strathgaela (Corporate) example sett](/variants/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pendleton dress](/setts/s11/db6ki40dg34r5dg34k6dg34ly5dg34ki40db6/)|
-|![Pendleton dress example sett](/setts/s11/db6ki40dg34r5dg34k6dg34ly5dg34ki40db6/sett.png)|
-| [Pendleton hunting](/setts/s11/db2ki16dg14r3dg14k3dg14lo3dg14ki16db2/)|
-|![Pendleton hunting example sett](/setts/s11/db2ki16dg14r3dg14k3dg14lo3dg14ki16db2/sett.png)|
+| [Pendleton dress](/variants/s11/db6ki40dg34r5dg34k6dg34ly5dg34ki40db6/)|
+|![Pendleton dress example sett](/variants/s11/db6ki40dg34r5dg34k6dg34ly5dg34ki40db6/sett.png)|
+| [Pendleton hunting](/variants/s11/db2ki16dg14r3dg14k3dg14lo3dg14ki16db2/)|
+|![Pendleton hunting example sett](/variants/s11/db2ki16dg14r3dg14k3dg14lo3dg14ki16db2/sett.png)|

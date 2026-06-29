@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cape Breton (yellow stripes)](/setts/s7/ly6k6y30k8lb18k6ly3~x2/)|
-|![Cape Breton (yellow stripes) example sett](/setts/s7/ly6k6y30k8lb18k6ly3~x2/sett.png)|
+| [Cape Breton (yellow stripes)](/variants/s7/ly6k6y30k8lb18k6ly3~x2/)|
+|![Cape Breton (yellow stripes) example sett](/variants/s7/ly6k6y30k8lb18k6ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jubilation](/setts/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/)|
-|![Jubilation example sett](/setts/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png)|
+| [Jubilation](/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/)|
+|![Jubilation example sett](/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png)|

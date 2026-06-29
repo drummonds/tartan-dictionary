@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Wisconsin (Fashion)](/setts/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/)|
-|![State Seal of Wisconsin (Fashion) example sett](/setts/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/sett.png)|
+| [State Seal of Wisconsin (Fashion)](/variants/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/)|
+|![State Seal of Wisconsin (Fashion) example sett](/variants/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/sett.png)|

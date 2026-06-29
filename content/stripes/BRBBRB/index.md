@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hutchesons' Grammar (Corporate)](/setts/s6/t8o4db30dt30r3dt4~x2/)|
-|![Hutchesons' Grammar (Corporate) example sett](/setts/s6/t8o4db30dt30r3dt4~x2/sett.png)|
+| [Hutchesons' Grammar (Corporate)](/variants/s6/t8o4db30dt30r3dt4~x2/)|
+|![Hutchesons' Grammar (Corporate) example sett](/variants/s6/t8o4db30dt30r3dt4~x2/sett.png)|

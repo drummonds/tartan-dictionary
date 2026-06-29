@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Banner, The](/setts/s11/b1k2ly5k2r31b3ly1w1db2k1ly1~x2/)|
-|![Scottish Banner, The example sett](/setts/s11/b1k2ly5k2r31b3ly1w1db2k1ly1~x2/sett.png)|
+| [Scottish Banner, The](/variants/s11/b1k2ly5k2r31b3ly1w1db2k1ly1~x2/)|
+|![Scottish Banner, The example sett](/variants/s11/b1k2ly5k2r31b3ly1w1db2k1ly1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Macallan The](/setts/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74ly8/)|
-|![Macallan The example sett](/setts/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74ly8/sett.png)|
+| [Macallan The](/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74ly8/)|
+|![Macallan The example sett](/variants/s18/lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74ly8/sett.png)|

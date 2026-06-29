@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKellar Dress (Reproduction colours)](/setts/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/)|
-|![MacKellar Dress (Reproduction colours) example sett](/setts/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/sett.png)|
+| [MacKellar Dress (Reproduction colours)](/variants/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/)|
+|![MacKellar Dress (Reproduction colours) example sett](/variants/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crieff High (Corporate)](/setts/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/)|
-|![Crieff High (Corporate) example sett](/setts/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/sett.png)|
+| [Crieff High (Corporate)](/variants/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/)|
+|![Crieff High (Corporate) example sett](/variants/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/sett.png)|

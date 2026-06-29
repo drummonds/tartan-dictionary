@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan Hunting](/setts/s11/db3dy14dg14dy2db14dy2db14dy2dg14dy14r3~x2/)|
-|![Buchanan Hunting example sett](/setts/s11/db3dy14dg14dy2db14dy2db14dy2dg14dy14r3~x2/sett.png)|
+| [Buchanan Hunting](/variants/s11/db3dy14dg14dy2db14dy2db14dy2dg14dy14r3~x2/)|
+|![Buchanan Hunting example sett](/variants/s11/db3dy14dg14dy2db14dy2db14dy2dg14dy14r3~x2/sett.png)|

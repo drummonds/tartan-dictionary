@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hope-Weir / Weir](/setts/s8/k8ly1k1db28k12g2k1t2~x2/)|
-|![Hope-Weir / Weir example sett](/setts/s8/k8ly1k1db28k12g2k1t2~x2/sett.png)|
-| [Hope-Weir/Weir](/setts/s8/k8ly1k1db28k12dg2k1t2~x2/)|
-|![Hope-Weir/Weir example sett](/setts/s8/k8ly1k1db28k12dg2k1t2~x2/sett.png)|
+| [Hope-Weir / Weir](/variants/s8/k8ly1k1db28k12g2k1t2~x2/)|
+|![Hope-Weir / Weir example sett](/variants/s8/k8ly1k1db28k12g2k1t2~x2/sett.png)|
+| [Hope-Weir/Weir](/variants/s8/k8ly1k1db28k12dg2k1t2~x2/)|
+|![Hope-Weir/Weir example sett](/variants/s8/k8ly1k1db28k12dg2k1t2~x2/sett.png)|

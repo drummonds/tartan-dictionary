@@ -24,7 +24,7 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacInroy](/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/)|
-|![MacInroy example sett](/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/sett.png)|
-| [MacInroy #2](/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/)|
-|![MacInroy #2 example sett](/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/sett.png)|
+| [MacInroy](/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/)|
+|![MacInroy example sett](/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/sett.png)|
+| [MacInroy #2](/variants/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/)|
+|![MacInroy #2 example sett](/variants/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/sett.png)|

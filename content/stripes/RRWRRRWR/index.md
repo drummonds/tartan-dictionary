@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longniddry Burgundy (Dance)](/setts/s8/ri42rii2w2rii2ri5r12w32ri4~x2/)|
-|![Longniddry Burgundy (Dance) example sett](/setts/s8/ri42rii2w2rii2ri5r12w32ri4~x2/sett.png)|
-| [Longniddry, dress Burgundy](/setts/s8/rii42r2w2r2rii5ri12w32rii4~x2/)|
-|![Longniddry, dress Burgundy example sett](/setts/s8/rii42r2w2r2rii5ri12w32rii4~x2/sett.png)|
+| [Longniddry Burgundy (Dance)](/variants/s8/ri42rii2w2rii2ri5r12w32ri4~x2/)|
+|![Longniddry Burgundy (Dance) example sett](/variants/s8/ri42rii2w2rii2ri5r12w32ri4~x2/sett.png)|
+| [Longniddry, dress Burgundy](/variants/s8/rii42r2w2r2rii5ri12w32rii4~x2/)|
+|![Longniddry, dress Burgundy example sett](/variants/s8/rii42r2w2r2rii5ri12w32rii4~x2/sett.png)|

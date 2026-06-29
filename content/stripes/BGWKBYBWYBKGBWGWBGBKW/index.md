@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lions Club](/setts/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12/)|
-|![Lions Club example sett](/setts/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12/sett.png)|
+| [Lions Club](/variants/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12/)|
+|![Lions Club example sett](/variants/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12/sett.png)|

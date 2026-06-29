@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBrine (Name)](/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/)|
-|![MacBrine (Name) example sett](/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/sett.png)|
+| [MacBrine (Name)](/variants/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/)|
+|![MacBrine (Name) example sett](/variants/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/sett.png)|

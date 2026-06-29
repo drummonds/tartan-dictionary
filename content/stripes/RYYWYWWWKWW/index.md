@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manchester Blues Dress](/setts/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/)|
-|![Manchester Blues Dress example sett](/setts/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/sett.png)|
-| [Manchester Blues Modern](/setts/s11/lb26w9k2w2lb2w2lr11w8ly2lr2r2~x2/)|
-|![Manchester Blues Modern example sett](/setts/s11/lb26w9k2w2lb2w2lr11w8ly2lr2r2~x2/sett.png)|
+| [Manchester Blues Dress](/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/)|
+|![Manchester Blues Dress example sett](/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/sett.png)|
+| [Manchester Blues Modern](/variants/s11/lb26w9k2w2lb2w2lr11w8ly2lr2r2~x2/)|
+|![Manchester Blues Modern example sett](/variants/s11/lb26w9k2w2lb2w2lr11w8ly2lr2r2~x2/sett.png)|

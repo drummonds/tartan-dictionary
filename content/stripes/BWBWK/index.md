@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Debbie Munro Memorial (Corporate)](/setts/s5/db26lp11db3lp4k2~x4/)|
-|![Debbie Munro Memorial (Corporate) example sett](/setts/s5/db26lp11db3lp4k2~x4/sett.png)|
+| [Debbie Munro Memorial (Corporate)](/variants/s5/db26lp11db3lp4k2~x4/)|
+|![Debbie Munro Memorial (Corporate) example sett](/variants/s5/db26lp11db3lp4k2~x4/sett.png)|

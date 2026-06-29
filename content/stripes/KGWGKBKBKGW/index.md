@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graham of Montrose](/setts/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/)|
-|![Graham of Montrose example sett](/setts/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/sett.png)|
-| [Graham of Montrose #3](/setts/s11/k4dg4w1dg4k4db4k1db4k4dg4w1~x2/)|
-|![Graham of Montrose #3 example sett](/setts/s11/k4dg4w1dg4k4db4k1db4k4dg4w1~x2/sett.png)|
+| [Graham of Montrose](/variants/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/)|
+|![Graham of Montrose example sett](/variants/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/sett.png)|
+| [Graham of Montrose #3](/variants/s11/k4dg4w1dg4k4db4k1db4k4dg4w1~x2/)|
+|![Graham of Montrose #3 example sett](/variants/s11/k4dg4w1dg4k4db4k1db4k4dg4w1~x2/sett.png)|

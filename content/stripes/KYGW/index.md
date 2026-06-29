@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hamworthy Association](/setts/s4/k41lg16dg14w2~x2/)|
-|![Hamworthy Association example sett](/setts/s4/k41lg16dg14w2~x2/sett.png)|
+| [Hamworthy Association](/variants/s4/k41lg16dg14w2~x2/)|
+|![Hamworthy Association example sett](/variants/s4/k41lg16dg14w2~x2/sett.png)|

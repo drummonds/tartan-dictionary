@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King Robert the Bruce Memorial (Com](/setts/s10/r8k79o4k4lb4k6o22k6r16k6/)|
-|![King Robert the Bruce Memorial (Com example sett](/setts/s10/r8k79o4k4lb4k6o22k6r16k6/sett.png)|
+| [King Robert the Bruce Memorial (Com](/variants/s10/r8k79o4k4lb4k6o22k6r16k6/)|
+|![King Robert the Bruce Memorial (Com example sett](/variants/s10/r8k79o4k4lb4k6o22k6r16k6/sett.png)|

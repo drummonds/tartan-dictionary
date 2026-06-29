@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hogg Dress](/setts/s9/t34r3t8dt4t8k24g34k2w6/)|
-|![Hogg Dress example sett](/setts/s9/t34r3t8dt4t8k24g34k2w6/sett.png)|
-| [Hogg Dress (Name)](/setts/s9/t34r3t8db4t8k24g34k2w6/)|
-|![Hogg Dress (Name) example sett](/setts/s9/t34r3t8db4t8k24g34k2w6/sett.png)|
+| [Hogg Dress](/variants/s9/t34r3t8dt4t8k24g34k2w6/)|
+|![Hogg Dress example sett](/variants/s9/t34r3t8dt4t8k24g34k2w6/sett.png)|
+| [Hogg Dress (Name)](/variants/s9/t34r3t8db4t8k24g34k2w6/)|
+|![Hogg Dress (Name) example sett](/variants/s9/t34r3t8db4t8k24g34k2w6/sett.png)|

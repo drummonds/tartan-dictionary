@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Learmonth Family (Herts) (Personal)](/setts/s10/p16lp2p5dp12p8lg2db4p8dp23lg4~x2/)|
-|![Learmonth Family (Herts) (Personal) example sett](/setts/s10/p16lp2p5dp12p8lg2db4p8dp23lg4~x2/sett.png)|
+| [Learmonth Family (Herts) (Personal)](/variants/s10/p16lp2p5dp12p8lg2db4p8dp23lg4~x2/)|
+|![Learmonth Family (Herts) (Personal) example sett](/variants/s10/p16lp2p5dp12p8lg2db4p8dp23lg4~x2/sett.png)|

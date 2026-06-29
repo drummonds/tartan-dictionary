@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sturrock (Blue/Black)](/setts/s12/r52b16k16g22r16lo3r16~x2/)|
-|![Sturrock (Blue/Black) example sett](/setts/s12/r52b16k16g22r16lo3r16~x2/sett.png)|
+| [Sturrock (Blue/Black)](/variants/s12/r52b16k16g22r16lo3r16~x2/)|
+|![Sturrock (Blue/Black) example sett](/variants/s12/r52b16k16g22r16lo3r16~x2/sett.png)|

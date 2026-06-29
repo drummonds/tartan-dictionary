@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Payeur, Francois (Personal)](/setts/s12/w6r2w24dt12db3dt2db2dt2db12lo1db1lo3~x2/)|
-|![Payeur, Francois (Personal) example sett](/setts/s12/w6r2w24dt12db3dt2db2dt2db12lo1db1lo3~x2/sett.png)|
-| [Payeur, François (Personal)](/setts/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2/)|
-|![Payeur, François (Personal) example sett](/setts/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2/sett.png)|
+| [Payeur, Francois (Personal)](/variants/s12/w6r2w24dt12db3dt2db2dt2db12lo1db1lo3~x2/)|
+|![Payeur, Francois (Personal) example sett](/variants/s12/w6r2w24dt12db3dt2db2dt2db12lo1db1lo3~x2/sett.png)|
+| [Payeur, François (Personal)](/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2/)|
+|![Payeur, François (Personal) example sett](/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2/sett.png)|

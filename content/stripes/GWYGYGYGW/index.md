@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [KIltwalk, The (Corporate)](/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/)|
-|![KIltwalk, The (Corporate) example sett](/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/sett.png)|
+| [KIltwalk, The (Corporate)](/variants/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/)|
+|![KIltwalk, The (Corporate) example sett](/variants/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/sett.png)|

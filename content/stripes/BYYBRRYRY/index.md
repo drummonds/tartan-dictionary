@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Titanic](/setts/s9/ly2oi1ly1o3oi3db3ly2lr2db1~x4/)|
-|![Titanic example sett](/setts/s9/ly2oi1ly1o3oi3db3ly2lr2db1~x4/sett.png)|
+| [Titanic](/variants/s9/ly2oi1ly1o3oi3db3ly2lr2db1~x4/)|
+|![Titanic example sett](/variants/s9/ly2oi1ly1o3oi3db3ly2lr2db1~x4/sett.png)|

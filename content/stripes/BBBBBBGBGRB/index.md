@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heartlands (Fashion)](/setts/s11/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/)|
-|![Heartlands (Fashion) example sett](/setts/s11/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/sett.png)|
+| [Heartlands (Fashion)](/variants/s11/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/)|
+|![Heartlands (Fashion) example sett](/variants/s11/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/sett.png)|

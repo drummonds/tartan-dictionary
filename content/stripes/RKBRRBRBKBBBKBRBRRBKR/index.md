@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Graeme Brodie Tartan Tartan Number: 3243. Earliest known date: August 2002 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2/)|
-|![Graeme Brodie Tartan Tartan Number: 3243. Earliest known date: August 2002 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2/sett.png)|
+| [Graeme Brodie Tartan](/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2/)|
+|![Graeme Brodie Tartan example sett](/variants/s21/ri1k19do4ri4r1do3ri2do3k37do2n2do2k37do3ri2do3r1ri4do4k19ri1~x2/sett.png)|

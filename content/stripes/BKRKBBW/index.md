@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colleges Scotland (Corp)](/setts/s7/b1k50r1k2n4db7w1~x2/)|
-|![Colleges Scotland (Corp) example sett](/setts/s7/b1k50r1k2n4db7w1~x2/sett.png)|
+| [Colleges Scotland (Corp)](/variants/s7/b1k50r1k2n4db7w1~x2/)|
+|![Colleges Scotland (Corp) example sett](/variants/s7/b1k50r1k2n4db7w1~x2/sett.png)|

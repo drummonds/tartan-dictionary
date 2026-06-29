@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Avalon](/setts/s7/r5g3ly6w3ly5k55w5~x2/)|
-|![Avalon example sett](/setts/s7/r5g3ly6w3ly5k55w5~x2/sett.png)|
+| [Avalon](/variants/s7/r5g3ly6w3ly5k55w5~x2/)|
+|![Avalon example sett](/variants/s7/r5g3ly6w3ly5k55w5~x2/sett.png)|

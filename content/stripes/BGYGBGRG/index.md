@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenlivet Check (Corporate)](/setts/s8/dg18r6dg75b6dg13lo35dg12b6/)|
-|![Glenlivet Check (Corporate) example sett](/setts/s8/dg18r6dg75b6dg13lo35dg12b6/sett.png)|
+| [Glenlivet Check (Corporate)](/variants/s8/dg18r6dg75b6dg13lo35dg12b6/)|
+|![Glenlivet Check (Corporate) example sett](/variants/s8/dg18r6dg75b6dg13lo35dg12b6/sett.png)|

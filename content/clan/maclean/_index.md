@@ -6,11 +6,10 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><img src="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/sett.png" alt="MacLean" width="240"><br>MacLean</a>
+<a class="tartan" href="/variants/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><img src="/variants/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/sett.png" alt="MacLean" width="240"><br>MacLean</a>
 
 ## Families
 
 - [MacLean of Duart](/families/maclean-of-duart/)
-- [MacLean of Duart Htg](/families/maclean-of-duart-htg/)
 - [MacLean of Kingairloch](/families/maclean-of-kingairloch/)
 

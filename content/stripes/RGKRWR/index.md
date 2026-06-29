@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKintosh #4](/setts/s6/r5w2r28k12dg16r3~x2/)|
-|![MacKintosh #4 example sett](/setts/s6/r5w2r28k12dg16r3~x2/sett.png)|
-| [MacKintosh 6](/setts/s6/r5w2r28k12g16r3~x2/)|
-|![MacKintosh 6 example sett](/setts/s6/r5w2r28k12g16r3~x2/sett.png)|
-| [Nisbet](/setts/s6/r10g24k10r28lb3r6~x2/)|
-|![Nisbet example sett](/setts/s6/r10g24k10r28lb3r6~x2/sett.png)|
+| [MacKintosh #4](/variants/s6/r5w2r28k12dg16r3~x2/)|
+|![MacKintosh #4 example sett](/variants/s6/r5w2r28k12dg16r3~x2/sett.png)|
+| [MacKintosh 6](/variants/s6/r5w2r28k12g16r3~x2/)|
+|![MacKintosh 6 example sett](/variants/s6/r5w2r28k12g16r3~x2/sett.png)|
+| [Nisbet](/variants/s6/r10g24k10r28lb3r6~x2/)|
+|![Nisbet example sett](/variants/s6/r10g24k10r28lb3r6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cercle de Fermieres de St-Elie . . .](/setts/s7/r2ly1b8r1g7ly1r2~x6/)|
-|![Cercle de Fermieres de St-Elie . . . example sett](/setts/s7/r2ly1b8r1g7ly1r2~x6/sett.png)|
+| [Cercle de Fermieres de St-Elie . . .](/variants/s7/r2ly1b8r1g7ly1r2~x6/)|
+|![Cercle de Fermieres de St-Elie . . . example sett](/variants/s7/r2ly1b8r1g7ly1r2~x6/sett.png)|

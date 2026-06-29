@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Think Pink (ICF)](/setts/s5/k4db2lr13m13lb2~x4/)|
-|![Think Pink (ICF) example sett](/setts/s5/k4db2lr13m13lb2~x4/sett.png)|
+| [Think Pink (ICF)](/variants/s5/k4db2lr13m13lb2~x4/)|
+|![Think Pink (ICF) example sett](/variants/s5/k4db2lr13m13lb2~x4/sett.png)|

@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duke of Sussex](/setts/s7/r18g1k5g1k1g1r9~x2/)|
-|![Duke of Sussex example sett](/setts/s7/r18g1k5g1k1g1r9~x2/sett.png)|
-| [Inverness Augustus](/setts/s7/m18dg1k5dg1k1dg1m9~x2/)|
-|![Inverness Augustus example sett](/setts/s7/m18dg1k5dg1k1dg1m9~x2/sett.png)|
-| [Inverness, Augustus](/setts/s7/m18g1k5g1k1g1m9~x2/)|
-|![Inverness, Augustus example sett](/setts/s7/m18g1k5g1k1g1m9~x2/sett.png)|
+| [Duke of Sussex](/variants/s7/r18g1k5g1k1g1r9~x2/)|
+|![Duke of Sussex example sett](/variants/s7/r18g1k5g1k1g1r9~x2/sett.png)|
+| [Inverness Augustus](/variants/s7/m18dg1k5dg1k1dg1m9~x2/)|
+|![Inverness Augustus example sett](/variants/s7/m18dg1k5dg1k1dg1m9~x2/sett.png)|
+| [Inverness, Augustus](/variants/s7/m18g1k5g1k1g1m9~x2/)|
+|![Inverness, Augustus example sett](/variants/s7/m18g1k5g1k1g1m9~x2/sett.png)|

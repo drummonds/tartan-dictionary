@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Derry County Crest (Fashion)](/setts/s11/k14db22k5lo11k5ly24k11lo11r54lo8k10/)|
-|![Derry County Crest (Fashion) example sett](/setts/s11/k14db22k5lo11k5ly24k11lo11r54lo8k10/sett.png)|
+| [Derry County Crest (Fashion)](/variants/s11/k14db22k5lo11k5ly24k11lo11r54lo8k10/)|
+|![Derry County Crest (Fashion) example sett](/variants/s11/k14db22k5lo11k5ly24k11lo11r54lo8k10/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan Day SA (Corporate)](/setts/s8/w2db40g22ly3g2r3g2w2~x2/)|
-|![Tartan Day SA (Corporate) example sett](/setts/s8/w2db40g22ly3g2r3g2w2~x2/sett.png)|
+| [Tartan Day SA (Corporate)](/variants/s8/w2db40g22ly3g2r3g2w2~x2/)|
+|![Tartan Day SA (Corporate) example sett](/variants/s8/w2db40g22ly3g2r3g2w2~x2/sett.png)|

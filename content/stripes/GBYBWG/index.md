@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allanton Dress (Fashion)](/setts/s6/g4w28db14ly2t17g4~x2/)|
-|![Allanton Dress (Fashion) example sett](/setts/s6/g4w28db14ly2t17g4~x2/sett.png)|
-| [Manx Dress](/setts/s6/g4w28dp8ly2db17g4~x2/)|
-|![Manx Dress example sett](/setts/s6/g4w28dp8ly2db17g4~x2/sett.png)|
-| [Manx, dress](/setts/s6/g4w28p8ly2db17g4~x2/)|
-|![Manx, dress example sett](/setts/s6/g4w28p8ly2db17g4~x2/sett.png)|
+| [Allanton Dress (Fashion)](/variants/s6/g4w28db14ly2t17g4~x2/)|
+|![Allanton Dress (Fashion) example sett](/variants/s6/g4w28db14ly2t17g4~x2/sett.png)|
+| [Manx Dress](/variants/s6/g4w28dp8ly2db17g4~x2/)|
+|![Manx Dress example sett](/variants/s6/g4w28dp8ly2db17g4~x2/sett.png)|
+| [Manx, dress](/variants/s6/g4w28p8ly2db17g4~x2/)|
+|![Manx, dress example sett](/variants/s6/g4w28p8ly2db17g4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drovers' Tryst (Corporate)](/setts/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/)|
-|![Drovers' Tryst (Corporate) example sett](/setts/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/sett.png)|
+| [Drovers' Tryst (Corporate)](/variants/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/)|
+|![Drovers' Tryst (Corporate) example sett](/variants/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/sett.png)|

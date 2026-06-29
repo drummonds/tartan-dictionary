@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Hills](/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/)|
-|![Black Hills example sett](/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/sett.png)|
+| [Black Hills](/variants/s9/db3w2g14r14k2db7k9ly2k2~x2/)|
+|![Black Hills example sett](/variants/s9/db3w2g14r14k2db7k9ly2k2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connelly, James (Personal)](/setts/s8/dg12g6r1dg6g4dp8ly2w2~x4/)|
-|![Connelly, James (Personal) example sett](/setts/s8/dg12g6r1dg6g4dp8ly2w2~x4/sett.png)|
+| [Connelly, James (Personal)](/variants/s8/dg12g6r1dg6g4dp8ly2w2~x4/)|
+|![Connelly, James (Personal) example sett](/variants/s8/dg12g6r1dg6g4dp8ly2w2~x4/sett.png)|

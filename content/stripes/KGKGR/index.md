@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacArthur-Fox](/setts/s5/k19g8k10g31r3/)|
-|![MacArthur-Fox example sett](/setts/s5/k19g8k10g31r3/sett.png)|
-| [MacArthur-Fox (Personal)](/setts/s5/k8g3k4g20r4~x2/)|
-|![MacArthur-Fox (Personal) example sett](/setts/s5/k8g3k4g20r4~x2/sett.png)|
+| [MacArthur-Fox](/variants/s5/k19g8k10g31r3/)|
+|![MacArthur-Fox example sett](/variants/s5/k19g8k10g31r3/sett.png)|
+| [MacArthur-Fox (Personal)](/variants/s5/k8g3k4g20r4~x2/)|
+|![MacArthur-Fox (Personal) example sett](/variants/s5/k8g3k4g20r4~x2/sett.png)|

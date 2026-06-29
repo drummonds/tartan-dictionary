@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenisla (Fashion)](/setts/s11/o3dp5r2dp9y8dg2y4dg2n8db28o2~x2/)|
-|![Glenisla (Fashion) example sett](/setts/s11/o3dp5r2dp9y8dg2y4dg2n8db28o2~x2/sett.png)|
+| [Glenisla (Fashion)](/variants/s11/o3dp5r2dp9y8dg2y4dg2n8db28o2~x2/)|
+|![Glenisla (Fashion) example sett](/variants/s11/o3dp5r2dp9y8dg2y4dg2n8db28o2~x2/sett.png)|

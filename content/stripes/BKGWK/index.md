@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's Folio 131](/setts/s5/db12k17dg19w2k5~x2/)|
-|![Wilson's Folio 131 example sett](/setts/s5/db12k17dg19w2k5~x2/sett.png)|
-| [Wilson's, Folio 131](/setts/s5/db12k17g19w2k5~x2/)|
-|![Wilson's, Folio 131 example sett](/setts/s5/db12k17g19w2k5~x2/sett.png)|
+| [Wilson's Folio 131](/variants/s5/db12k17dg19w2k5~x2/)|
+|![Wilson's Folio 131 example sett](/variants/s5/db12k17dg19w2k5~x2/sett.png)|
+| [Wilson's, Folio 131](/variants/s5/db12k17g19w2k5~x2/)|
+|![Wilson's, Folio 131 example sett](/variants/s5/db12k17g19w2k5~x2/sett.png)|

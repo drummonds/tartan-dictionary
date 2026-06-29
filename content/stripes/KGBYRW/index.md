@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Official Glasgow 2014, The](/setts/s6/k3g44db27ly6r10w3~x2/)|
-|![Official Glasgow 2014, The example sett](/setts/s6/k3g44db27ly6r10w3~x2/sett.png)|
+| [Official Glasgow 2014, The](/variants/s6/k3g44db27ly6r10w3~x2/)|
+|![Official Glasgow 2014, The example sett](/variants/s6/k3g44db27ly6r10w3~x2/sett.png)|

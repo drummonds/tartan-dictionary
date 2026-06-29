@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hanna of Stirlingshire (Clan)](/setts/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/)|
-|![Hanna of Stirlingshire (Clan) example sett](/setts/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/sett.png)|
+| [Hanna of Stirlingshire (Clan)](/variants/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/)|
+|![Hanna of Stirlingshire (Clan) example sett](/variants/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/sett.png)|

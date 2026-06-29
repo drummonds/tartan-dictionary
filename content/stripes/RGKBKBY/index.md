@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grandfather Mountain Games (District](/setts/s7/r3dg20k2n11k2db20lr2~x2/)|
-|![Grandfather Mountain Games (District example sett](/setts/s7/r3dg20k2n11k2db20lr2~x2/sett.png)|
+| [Grandfather Mountain Games (District](/variants/s7/r3dg20k2n11k2db20lr2~x2/)|
+|![Grandfather Mountain Games (District example sett](/variants/s7/r3dg20k2n11k2db20lr2~x2/sett.png)|

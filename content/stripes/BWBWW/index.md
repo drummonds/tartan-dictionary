@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louise Beveridge (Personal)](/setts/s5/lb40w25dt16lb8dt4~x2/)|
-|![Louise Beveridge (Personal) example sett](/setts/s5/lb40w25dt16lb8dt4~x2/sett.png)|
+| [Louise Beveridge (Personal)](/variants/s5/lb40w25dt16lb8dt4~x2/)|
+|![Louise Beveridge (Personal) example sett](/variants/s5/lb40w25dt16lb8dt4~x2/sett.png)|

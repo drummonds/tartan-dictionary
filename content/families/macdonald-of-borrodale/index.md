@@ -8,5 +8,11 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/r6db3r3db32k30g30ly3r3~x2/"><img src="/setts/s8/r6db3r3db32k30g30ly3r3~x2/sett.png" alt="MacDonald of Borrodale" width="240"><br>MacDonald of Borrodale</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r6db3r3db32k30g30ly3r3/">MacDonald of Borrodale</a> ★</td><td><code>R/12 DB6 R6 DB64 K60 G60 LY6 R/6</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r6db3r3db32k30g30ly3r3/"><img src="/variants/s8/r6db3r3db32k30g30ly3r3~x2/sett.png" alt="MacDonald of Borrodale sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

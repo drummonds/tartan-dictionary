@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crieff Turquoise (Dance)](/setts/s13/k2db2w2db3w38g2p12g3db4g30db2g6w2~x2/)|
-|![Crieff Turquoise (Dance) example sett](/setts/s13/k2db2w2db3w38g2p12g3db4g30db2g6w2~x2/sett.png)|
+| [Crieff Turquoise (Dance)](/variants/s13/k2db2w2db3w38g2p12g3db4g30db2g6w2~x2/)|
+|![Crieff Turquoise (Dance) example sett](/variants/s13/k2db2w2db3w38g2p12g3db4g30db2g6w2~x2/sett.png)|

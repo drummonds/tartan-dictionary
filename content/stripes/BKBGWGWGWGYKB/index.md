@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling Castle (Corporate)](/setts/s13/db2k6db2g34w1g5w1g5w1g34ly1k13db1~x2/)|
-|![Stirling Castle (Corporate) example sett](/setts/s13/db2k6db2g34w1g5w1g5w1g34ly1k13db1~x2/sett.png)|
+| [Stirling Castle (Corporate)](/variants/s13/db2k6db2g34w1g5w1g5w1g34ly1k13db1~x2/)|
+|![Stirling Castle (Corporate) example sett](/variants/s13/db2k6db2g34w1g5w1g5w1g34ly1k13db1~x2/sett.png)|

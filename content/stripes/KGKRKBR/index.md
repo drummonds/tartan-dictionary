@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Confederate](/setts/s7/r12b18k1r4k1dg6k2~x2/)|
-|![Confederate example sett](/setts/s7/r12b18k1r4k1dg6k2~x2/sett.png)|
-| [Confederate (Military)](/setts/s7/r12b18k1r4k1g6k2~x2/)|
-|![Confederate (Military) example sett](/setts/s7/r12b18k1r4k1g6k2~x2/sett.png)|
+| [Confederate](/variants/s7/r12b18k1r4k1dg6k2~x2/)|
+|![Confederate example sett](/variants/s7/r12b18k1r4k1dg6k2~x2/sett.png)|
+| [Confederate (Military)](/variants/s7/r12b18k1r4k1g6k2~x2/)|
+|![Confederate (Military) example sett](/variants/s7/r12b18k1r4k1g6k2~x2/sett.png)|

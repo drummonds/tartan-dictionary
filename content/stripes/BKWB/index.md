@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thunderlord (Celtic Group, USA)](/setts/s4/dt62w11k4t17~x2/)|
-|![Thunderlord (Celtic Group, USA) example sett](/setts/s4/dt62w11k4t17~x2/sett.png)|
+| [Thunderlord (Celtic Group, USA)](/variants/s4/dt62w11k4t17~x2/)|
+|![Thunderlord (Celtic Group, USA) example sett](/variants/s4/dt62w11k4t17~x2/sett.png)|

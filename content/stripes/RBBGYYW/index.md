@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silversea](/setts/s7/r3dt20dti20g2lr4lri17w3~x2/)|
-|![Silversea example sett](/setts/s7/r3dt20dti20g2lr4lri17w3~x2/sett.png)|
+| [Silversea](/variants/s7/r3dt20dti20g2lr4lri17w3~x2/)|
+|![Silversea example sett](/variants/s7/r3dt20dti20g2lr4lri17w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dickie](/setts/s8/g8r2g12k6g3db6r24k4~x2/)|
-|![Dickie example sett](/setts/s8/g8r2g12k6g3db6r24k4~x2/sett.png)|
+| [Dickie](/variants/s8/g8r2g12k6g3db6r24k4~x2/)|
+|![Dickie example sett](/variants/s8/g8r2g12k6g3db6r24k4~x2/sett.png)|

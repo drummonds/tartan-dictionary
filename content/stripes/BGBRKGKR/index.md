@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Williamson/Smart](/setts/s8/dt10y3dt10r3k21dg20k15r3~x2/)|
-|![Williamson/Smart example sett](/setts/s8/dt10y3dt10r3k21dg20k15r3~x2/sett.png)|
+| [Williamson/Smart](/variants/s8/dt10y3dt10r3k21dg20k15r3~x2/)|
+|![Williamson/Smart example sett](/variants/s8/dt10y3dt10r3k21dg20k15r3~x2/sett.png)|

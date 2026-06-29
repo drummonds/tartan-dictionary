@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wellington No 229](/setts/s5/k4t3dp11dg14w2~x2/)|
-|![Wellington No 229 example sett](/setts/s5/k4t3dp11dg14w2~x2/sett.png)|
-| [Wellington, No 229](/setts/s5/k4t3p11g14w2~x2/)|
-|![Wellington, No 229 example sett](/setts/s5/k4t3p11g14w2~x2/sett.png)|
+| [Wellington No 229](/variants/s5/k4t3dp11dg14w2~x2/)|
+|![Wellington No 229 example sett](/variants/s5/k4t3dp11dg14w2~x2/sett.png)|
+| [Wellington, No 229](/variants/s5/k4t3p11g14w2~x2/)|
+|![Wellington, No 229 example sett](/variants/s5/k4t3p11g14w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Meehan](/setts/s16/ly27k4w4r64w4r4k4r4k12~x2/)|
-|![O'Meehan example sett](/setts/s16/ly27k4w4r64w4r4k4r4k12~x2/sett.png)|
+| [O'Meehan](/variants/s16/ly27k4w4r64w4r4k4r4k12~x2/)|
+|![O'Meehan example sett](/variants/s16/ly27k4w4r64w4r4k4r4k12~x2/sett.png)|

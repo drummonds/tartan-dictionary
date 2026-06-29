@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ironside (Personal)](/setts/s10/k40dp2k6b2k2b2k10dp4w2dp5~x2/)|
-|![Ironside (Personal) example sett](/setts/s10/k40dp2k6b2k2b2k10dp4w2dp5~x2/sett.png)|
+| [Ironside (Personal)](/variants/s10/k40dp2k6b2k2b2k10dp4w2dp5~x2/)|
+|![Ironside (Personal) example sett](/variants/s10/k40dp2k6b2k2b2k10dp4w2dp5~x2/sett.png)|

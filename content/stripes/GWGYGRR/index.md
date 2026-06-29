@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weathered Cyclist](/setts/s7/y32w2y9ly2y12o21r1~x2/)|
-|![Weathered Cyclist example sett](/setts/s7/y32w2y9ly2y12o21r1~x2/sett.png)|
+| [Weathered Cyclist](/variants/s7/y32w2y9ly2y12o21r1~x2/)|
+|![Weathered Cyclist example sett](/variants/s7/y32w2y9ly2y12o21r1~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Juchter (Personal)](/setts/s3/dg20w5r3~x2/)|
-|![Juchter (Personal) example sett](/setts/s3/dg20w5r3~x2/sett.png)|
-| [S3](/setts/s3/y30w2r5~x4/)|
-|![S3 example sett](/setts/s3/y30w2r5~x4/sett.png)|
+| [Juchter (Personal)](/variants/s3/dg20w5r3~x2/)|
+|![Juchter (Personal) example sett](/variants/s3/dg20w5r3~x2/sett.png)|
+| [S3](/variants/s3/y30w2r5~x4/)|
+|![S3 example sett](/variants/s3/y30w2r5~x4/sett.png)|

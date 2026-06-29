@@ -24,5 +24,5 @@ It is a 46 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Virginia (Fashion)](/setts/s46/dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1/)|
-|![Virginia (Fashion) example sett](/setts/s46/dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1/sett.png)|
+| [Virginia (Fashion)](/variants/s46/dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1/)|
+|![Virginia (Fashion) example sett](/variants/s46/dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1/sett.png)|

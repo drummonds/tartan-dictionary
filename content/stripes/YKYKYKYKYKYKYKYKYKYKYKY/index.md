@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Garwhal Rifles (Military)](/setts/s23/ly18k15ly2k2ly2k15ly15k15ly3k15ly18k2ly3k2ly3k15ly3k2ly3k2ly18k15ly2~x2/)|
-|![Garwhal Rifles (Military) example sett](/setts/s23/ly18k15ly2k2ly2k15ly15k15ly3k15ly18k2ly3k2ly3k15ly3k2ly3k2ly18k15ly2~x2/sett.png)|
+| [Garwhal Rifles (Military)](/variants/s23/ly18k15ly2k2ly2k15ly15k15ly3k15ly18k2ly3k2ly3k15ly3k2ly3k2ly18k15ly2~x2/)|
+|![Garwhal Rifles (Military) example sett](/variants/s23/ly18k15ly2k2ly2k15ly15k15ly3k15ly18k2ly3k2ly3k15ly3k2ly3k2ly18k15ly2~x2/sett.png)|

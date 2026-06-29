@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bates-Dayton](/setts/s12/dp3r17k3lo3k3dp3k3r7dp8k3dp1lo3~x4/)|
-|![Bates-Dayton example sett](/setts/s12/dp3r17k3lo3k3dp3k3r7dp8k3dp1lo3~x4/sett.png)|
+| [Bates-Dayton](/variants/s12/dp3r17k3lo3k3dp3k3r7dp8k3dp1lo3~x4/)|
+|![Bates-Dayton example sett](/variants/s12/dp3r17k3lo3k3dp3k3r7dp8k3dp1lo3~x4/sett.png)|

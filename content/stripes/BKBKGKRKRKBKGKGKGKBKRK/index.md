@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ellenee](/setts/s22/k9r3k3n11k3g11k3g3k3g11k3n11k3r3k9r3k3g11k3n11k3n3~x2/)|
-|![Ellenee example sett](/setts/s22/k9r3k3n11k3g11k3g3k3g11k3n11k3r3k9r3k3g11k3n11k3n3~x2/sett.png)|
+| [Ellenee](/variants/s22/k9r3k3n11k3g11k3g3k3g11k3n11k3r3k9r3k3g11k3n11k3n3~x2/)|
+|![Ellenee example sett](/variants/s22/k9r3k3n11k3g11k3g3k3g11k3n11k3r3k9r3k3g11k3n11k3n3~x2/sett.png)|

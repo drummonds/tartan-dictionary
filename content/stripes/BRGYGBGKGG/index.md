@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Missouri (Fashion)](/setts/s10/b6r7dy49lo2dy22b10dy5k5dy8g4~x2/)|
-|![State Seal of Missouri (Fashion) example sett](/setts/s10/b6r7dy49lo2dy22b10dy5k5dy8g4~x2/sett.png)|
+| [State Seal of Missouri (Fashion)](/variants/s10/b6r7dy49lo2dy22b10dy5k5dy8g4~x2/)|
+|![State Seal of Missouri (Fashion) example sett](/variants/s10/b6r7dy49lo2dy22b10dy5k5dy8g4~x2/sett.png)|

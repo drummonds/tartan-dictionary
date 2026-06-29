@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doig (Personal)](/setts/s11/r52ly2r1ly2t8db4g18r11w2db5t8~x2/)|
-|![Doig (Personal) example sett](/setts/s11/r52ly2r1ly2t8db4g18r11w2db5t8~x2/sett.png)|
+| [Doig (Personal)](/variants/s11/r52ly2r1ly2t8db4g18r11w2db5t8~x2/)|
+|![Doig (Personal) example sett](/variants/s11/r52ly2r1ly2t8db4g18r11w2db5t8~x2/sett.png)|

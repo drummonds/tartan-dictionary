@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glendale](/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/)|
-|![Glendale example sett](/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/sett.png)|
+| [Glendale](/variants/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/)|
+|![Glendale example sett](/variants/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/sett.png)|

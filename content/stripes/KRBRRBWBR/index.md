@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salt Lake Scots](/setts/s9/oi17t2w2t2oi20o18db3o6k2~x2/)|
-|![Salt Lake Scots example sett](/setts/s9/oi17t2w2t2oi20o18db3o6k2~x2/sett.png)|
+| [Salt Lake Scots](/variants/s9/oi17t2w2t2oi20o18db3o6k2~x2/)|
+|![Salt Lake Scots example sett](/variants/s9/oi17t2w2t2oi20o18db3o6k2~x2/sett.png)|

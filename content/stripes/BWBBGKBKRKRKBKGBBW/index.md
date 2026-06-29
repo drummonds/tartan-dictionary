@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heart of Scotland (Lochcarron)](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/)|
-|![Heart of Scotland (Lochcarron) example sett](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/sett.png)|
+| [Heart of Scotland (Lochcarron)](/variants/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/)|
+|![Heart of Scotland (Lochcarron) example sett](/variants/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/sett.png)|

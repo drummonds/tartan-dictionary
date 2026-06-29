@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McClurg (Name)](/setts/s8/t4db32ly3ly32g1ly2g1ly4~x2/)|
-|![McClurg (Name) example sett](/setts/s8/t4db32ly3ly32g1ly2g1ly4~x2/sett.png)|
+| [McClurg (Name)](/variants/s8/t4db32ly3ly32g1ly2g1ly4~x2/)|
+|![McClurg (Name) example sett](/variants/s8/t4db32ly3ly32g1ly2g1ly4~x2/sett.png)|

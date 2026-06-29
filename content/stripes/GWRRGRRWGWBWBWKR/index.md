@@ -24,7 +24,7 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBean Dress](/setts/s16/g10w4r4ri4g2ri4r4w4g10w4t4w2t4w23k2r2~x2/)|
-|![MacBean Dress example sett](/setts/s16/g10w4r4ri4g2ri4r4w4g10w4t4w2t4w23k2r2~x2/sett.png)|
-| [MacBean dress](/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/)|
-|![MacBean dress example sett](/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/sett.png)|
+| [MacBean Dress](/variants/s16/g10w4r4ri4g2ri4r4w4g10w4t4w2t4w23k2r2~x2/)|
+|![MacBean Dress example sett](/variants/s16/g10w4r4ri4g2ri4r4w4g10w4t4w2t4w23k2r2~x2/sett.png)|
+| [MacBean dress](/variants/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/)|
+|![MacBean dress example sett](/variants/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Tweed](/setts/s6/dg4db1dg12db12w1db4~x2/)|
-|![Unidentified Tweed example sett](/setts/s6/dg4db1dg12db12w1db4~x2/sett.png)|
-| [Unidentified, Tweed](/setts/s6/db4w1db12g12db1g4~x2/)|
-|![Unidentified, Tweed example sett](/setts/s6/db4w1db12g12db1g4~x2/sett.png)|
+| [Unidentified Tweed](/variants/s6/dg4db1dg12db12w1db4~x2/)|
+|![Unidentified Tweed example sett](/variants/s6/dg4db1dg12db12w1db4~x2/sett.png)|
+| [Unidentified, Tweed](/variants/s6/db4w1db12g12db1g4~x2/)|
+|![Unidentified, Tweed example sett](/variants/s6/db4w1db12g12db1g4~x2/sett.png)|

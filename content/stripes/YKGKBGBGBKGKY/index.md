@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doon Valley Crafters (Corporate)](/setts/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/)|
-|![Doon Valley Crafters (Corporate) example sett](/setts/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/sett.png)|
+| [Doon Valley Crafters (Corporate)](/variants/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/)|
+|![Doon Valley Crafters (Corporate) example sett](/variants/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/sett.png)|

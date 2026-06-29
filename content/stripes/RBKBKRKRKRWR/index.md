@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Urquhart (Fashion)](/setts/s12/o9w2o18k3o3k3o3k12n30k6n6r6/)|
-|![Urquhart (Fashion) example sett](/setts/s12/o9w2o18k3o3k3o3k12n30k6n6r6/sett.png)|
+| [Urquhart (Fashion)](/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6/)|
+|![Urquhart (Fashion) example sett](/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6/sett.png)|

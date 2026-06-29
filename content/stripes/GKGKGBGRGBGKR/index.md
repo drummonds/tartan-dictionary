@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moncrieff of Atholl](/setts/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/)|
-|![Moncrieff of Atholl example sett](/setts/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/sett.png)|
+| [Moncrieff of Atholl](/variants/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/)|
+|![Moncrieff of Atholl example sett](/variants/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/sett.png)|

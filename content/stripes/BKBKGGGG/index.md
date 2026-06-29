@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bedford High School](/setts/s8/db4k3db12k11gi13g1gi1g3~x2/)|
-|![Bedford High School example sett](/setts/s8/db4k3db12k11gi13g1gi1g3~x2/sett.png)|
+| [Bedford High School](/variants/s8/db4k3db12k11gi13g1gi1g3~x2/)|
+|![Bedford High School example sett](/variants/s8/db4k3db12k11gi13g1gi1g3~x2/sett.png)|

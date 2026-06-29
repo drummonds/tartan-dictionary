@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [William & Mary GALA (Corporate)](/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/)|
-|![William & Mary GALA (Corporate) example sett](/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/sett.png)|
-| [William and Mary GALA, Inc, The](/setts/s11/k3b10g25ly2g2ly3g2ly2g25b10w3~x2/)|
-|![William and Mary GALA, Inc, The example sett](/setts/s11/k3b10g25ly2g2ly3g2ly2g25b10w3~x2/sett.png)|
+| [William & Mary GALA (Corporate)](/variants/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/)|
+|![William & Mary GALA (Corporate) example sett](/variants/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/sett.png)|
+| [William and Mary GALA, Inc, The](/variants/s11/k3b10g25ly2g2ly3g2ly2g25b10w3~x2/)|
+|![William and Mary GALA, Inc, The example sett](/variants/s11/k3b10g25ly2g2ly3g2ly2g25b10w3~x2/sett.png)|

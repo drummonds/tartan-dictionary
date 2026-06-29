@@ -8,5 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/"><img src="/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/sett.png" alt="Cawte of Middlebanknock (Personal)" width="240"><br>Cawte of Middlebanknock (Personal)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g13ly16w4ly4r4ly4k20ly8r8/">Cawte of Middlebanknock</a> ★</td><td><code>G/26 LY32 W8 LY8 R8 LY8 K40 LY16 R/16</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g13ly16w4ly4r4ly4k20ly8r8/"><img src="/variants/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

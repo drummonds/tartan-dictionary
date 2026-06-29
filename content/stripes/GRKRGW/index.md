@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chalet](/setts/s6/g4r16k5r50g4w1~x4/)|
-|![Chalet example sett](/setts/s6/g4r16k5r50g4w1~x4/sett.png)|
+| [Chalet](/variants/s6/g4r16k5r50g4w1~x4/)|
+|![Chalet example sett](/variants/s6/g4r16k5r50g4w1~x4/sett.png)|

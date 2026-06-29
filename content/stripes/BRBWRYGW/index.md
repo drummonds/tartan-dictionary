@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thompson, Megan Kate (Personal)](/setts/s8/dp5m8p16w25m4lr4y3lp3~x2/)|
-|![Thompson, Megan Kate (Personal) example sett](/setts/s8/dp5m8p16w25m4lr4y3lp3~x2/sett.png)|
+| [Thompson, Megan Kate (Personal)](/variants/s8/dp5m8p16w25m4lr4y3lp3~x2/)|
+|![Thompson, Megan Kate (Personal) example sett](/variants/s8/dp5m8p16w25m4lr4y3lp3~x2/sett.png)|

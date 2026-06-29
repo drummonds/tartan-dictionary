@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tweedmouth Middle School](/setts/s12/m30ly1k2g10k1r3k1r3k1r3k1w1~x2/)|
-|![Tweedmouth Middle School example sett](/setts/s12/m30ly1k2g10k1r3k1r3k1r3k1w1~x2/sett.png)|
+| [Tweedmouth Middle School](/variants/s12/m30ly1k2g10k1r3k1r3k1r3k1w1~x2/)|
+|![Tweedmouth Middle School example sett](/variants/s12/m30ly1k2g10k1r3k1r3k1r3k1w1~x2/sett.png)|

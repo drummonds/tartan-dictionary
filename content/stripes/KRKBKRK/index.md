@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chafyn House (School)](/setts/s7/k72r3k11t9k11r3k37/)|
-|![Chafyn House (School) example sett](/setts/s7/k72r3k11t9k11r3k37/sett.png)|
+| [Chafyn House (School)](/variants/s7/k72r3k11t9k11r3k37/)|
+|![Chafyn House (School) example sett](/variants/s7/k72r3k11t9k11r3k37/sett.png)|

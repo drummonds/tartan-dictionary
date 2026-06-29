@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDuff](/setts/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/)|
-|![MacDuff example sett](/setts/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/sett.png)|
+| [MacDuff](/variants/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/)|
+|![MacDuff example sett](/variants/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/sett.png)|

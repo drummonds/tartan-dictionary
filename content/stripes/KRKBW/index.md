@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Britannia](/setts/s5/k14r4k25db30w4~x2/)|
-|![Britannia example sett](/setts/s5/k14r4k25db30w4~x2/sett.png)|
+| [Britannia](/variants/s5/k14r4k25db30w4~x2/)|
+|![Britannia example sett](/variants/s5/k14r4k25db30w4~x2/sett.png)|

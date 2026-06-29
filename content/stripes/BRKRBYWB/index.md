@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified, Lady's kilt](/setts/s8/db39o3k14o3t14ly4w2dr2~x2/)|
-|![Unidentified, Lady's kilt example sett](/setts/s8/db39o3k14o3t14ly4w2dr2~x2/sett.png)|
+| [Unidentified, Lady's kilt](/variants/s8/db39o3k14o3t14ly4w2dr2~x2/)|
+|![Unidentified, Lady's kilt example sett](/variants/s8/db39o3k14o3t14ly4w2dr2~x2/sett.png)|

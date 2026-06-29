@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smithsonian (Corporate)](/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/)|
-|![Smithsonian (Corporate) example sett](/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/sett.png)|
+| [Smithsonian (Corporate)](/variants/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/)|
+|![Smithsonian (Corporate) example sett](/variants/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/sett.png)|

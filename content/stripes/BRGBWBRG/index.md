@@ -24,9 +24,9 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacHardy](/setts/s8/db3r3g18db16w2db26r3g3~x2/)|
-|![MacHardy example sett](/setts/s8/db3r3g18db16w2db26r3g3~x2/sett.png)|
-| [MacHardy (Clan)](/setts/s8/dt6r3g26dt26w2dt27r5g5~x2/)|
-|![MacHardy (Clan) example sett](/setts/s8/dt6r3g26dt26w2dt27r5g5~x2/sett.png)|
-| [MacHardy, Blue](/setts/s8/db6r3g26db26w4db26r5g5~x2/)|
-|![MacHardy, Blue example sett](/setts/s8/db6r3g26db26w4db26r5g5~x2/sett.png)|
+| [MacHardy](/variants/s8/db3r3g18db16w2db26r3g3~x2/)|
+|![MacHardy example sett](/variants/s8/db3r3g18db16w2db26r3g3~x2/sett.png)|
+| [MacHardy (Clan)](/variants/s8/dt6r3g26dt26w2dt27r5g5~x2/)|
+|![MacHardy (Clan) example sett](/variants/s8/dt6r3g26dt26w2dt27r5g5~x2/sett.png)|
+| [MacHardy, Blue](/variants/s8/db6r3g26db26w4db26r5g5~x2/)|
+|![MacHardy, Blue example sett](/variants/s8/db6r3g26db26w4db26r5g5~x2/sett.png)|

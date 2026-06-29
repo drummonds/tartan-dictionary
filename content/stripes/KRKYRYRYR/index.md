@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brecheen](/setts/s9/k3r1k14lo14r1lo1r1lo1r2~x4/)|
-|![Brecheen example sett](/setts/s9/k3r1k14lo14r1lo1r1lo1r2~x4/sett.png)|
-| [Brecheen (Name)](/setts/s9/k3r1k14ly14r1ly1r1ly1r2~x4/)|
-|![Brecheen (Name) example sett](/setts/s9/k3r1k14ly14r1ly1r1ly1r2~x4/sett.png)|
+| [Brecheen](/variants/s9/k3r1k14lo14r1lo1r1lo1r2~x4/)|
+|![Brecheen example sett](/variants/s9/k3r1k14lo14r1lo1r1lo1r2~x4/sett.png)|
+| [Brecheen (Name)](/variants/s9/k3r1k14ly14r1ly1r1ly1r2~x4/)|
+|![Brecheen (Name) example sett](/variants/s9/k3r1k14ly14r1ly1r1ly1r2~x4/sett.png)|

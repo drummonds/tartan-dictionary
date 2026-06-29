@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Svanholm (Personal)](/setts/s10/ly4k1m14k1w2k1dp28k4ly2w3~x2/)|
-|![Svanholm (Personal) example sett](/setts/s10/ly4k1m14k1w2k1dp28k4ly2w3~x2/sett.png)|
+| [Svanholm (Personal)](/variants/s10/ly4k1m14k1w2k1dp28k4ly2w3~x2/)|
+|![Svanholm (Personal) example sett](/variants/s10/ly4k1m14k1w2k1dp28k4ly2w3~x2/sett.png)|

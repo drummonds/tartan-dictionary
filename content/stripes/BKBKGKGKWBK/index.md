@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wacker](/setts/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6/)|
-|![Wacker example sett](/setts/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6/sett.png)|
+| [Wacker](/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6/)|
+|![Wacker example sett](/variants/s11/db12k6db6ki25dg25k2dg25ki25w2db6k6/sett.png)|

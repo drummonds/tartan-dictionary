@@ -24,9 +24,9 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Knights Templar MTS (Corp)](/setts/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/)|
-|![Scottish Knights Templar MTS (Corp) example sett](/setts/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/sett.png)|
-| [Scottish Knights Templar, of M.T.S.](/setts/s10/w4r2db20k6w5k4w3k2r2db2~x2/)|
-|![Scottish Knights Templar, of M.T.S. example sett](/setts/s10/w4r2db20k6w5k4w3k2r2db2~x2/sett.png)|
-| [Scottish Knights Templar, of M.T.S. St Andrew](/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/)|
-|![Scottish Knights Templar, of M.T.S. St Andrew example sett](/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/sett.png)|
+| [Scottish Knights Templar MTS (Corp)](/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/)|
+|![Scottish Knights Templar MTS (Corp) example sett](/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/sett.png)|
+| [Scottish Knights Templar, of M.T.S.](/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/)|
+|![Scottish Knights Templar, of M.T.S. example sett](/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/sett.png)|
+| [Scottish Knights Templar, of M.T.S. St Andrew](/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/)|
+|![Scottish Knights Templar, of M.T.S. St Andrew example sett](/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/sett.png)|

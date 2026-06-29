@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Scotland Dress (Dance)](/setts/s11/g9mi2m2k3m18mi1db2g2db19w33db2~x2/)|
-|![Pride of Scotland Dress (Dance) example sett](/setts/s11/g9mi2m2k3m18mi1db2g2db19w33db2~x2/sett.png)|
+| [Pride of Scotland Dress (Dance)](/variants/s11/g9mi2m2k3m18mi1db2g2db19w33db2~x2/)|
+|![Pride of Scotland Dress (Dance) example sett](/variants/s11/g9mi2m2k3m18mi1db2g2db19w33db2~x2/sett.png)|

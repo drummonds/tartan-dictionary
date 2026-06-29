@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baileville (Personal)](/setts/s7/ly1k4ly1k4ly11r1ly1~x4/)|
-|![Baileville (Personal) example sett](/setts/s7/ly1k4ly1k4ly11r1ly1~x4/sett.png)|
-| [Baillieville](/setts/s7/ly1k4ly1k4ly11m1ly1~x4/)|
-|![Baillieville example sett](/setts/s7/ly1k4ly1k4ly11m1ly1~x4/sett.png)|
-| [MacPherson Dress](/tartans/lr3r1lr30k20lr3k9ly1/)|
-|![MacPherson Dress example sett](/setts/s7/lr3r1lr30k20lr3k9ly1/sett.png)|
+| [Baileville (Personal)](/variants/s7/ly1k4ly1k4ly11r1ly1~x4/)|
+|![Baileville (Personal) example sett](/variants/s7/ly1k4ly1k4ly11r1ly1~x4/sett.png)|
+| [Baillieville](/variants/s7/ly1k4ly1k4ly11m1ly1~x4/)|
+|![Baillieville example sett](/variants/s7/ly1k4ly1k4ly11m1ly1~x4/sett.png)|
+| [MacPherson Dress](/setts/lr3r1lr30k20lr3k9ly1/)|
+|![MacPherson Dress example sett](/variants/s7/lr3r1lr30k20lr3k9ly1/sett.png)|

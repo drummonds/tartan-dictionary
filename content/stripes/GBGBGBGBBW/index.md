@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [South Carolina](/setts/s10/y8db1y1db24y2db1y2db5b20w5~x2/)|
-|![South Carolina example sett](/setts/s10/y8db1y1db24y2db1y2db5b20w5~x2/sett.png)|
+| [South Carolina](/variants/s10/y8db1y1db24y2db1y2db5b20w5~x2/)|
+|![South Carolina example sett](/variants/s10/y8db1y1db24y2db1y2db5b20w5~x2/sett.png)|

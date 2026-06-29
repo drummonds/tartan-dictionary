@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Euphoria](/setts/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/)|
-|![Euphoria example sett](/setts/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png)|
+| [Euphoria](/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/)|
+|![Euphoria example sett](/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png)|

@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clinton Wedding](/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/)|
-|![Clinton Wedding example sett](/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/sett.png)|
-| [Clinton Wedding (Personal)](/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/)|
-|![Clinton Wedding (Personal) example sett](/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/sett.png)|
+| [Clinton Wedding](/variants/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/)|
+|![Clinton Wedding example sett](/variants/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/sett.png)|
+| [Clinton Wedding (Personal)](/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/)|
+|![Clinton Wedding (Personal) example sett](/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/sett.png)|

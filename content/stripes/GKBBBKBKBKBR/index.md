@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Wales (Fashion)](/setts/s12/g12k40db4t4db4k28db7k8db7k8db10r4/)|
-|![Pride of Wales (Fashion) example sett](/setts/s12/g12k40db4t4db4k28db7k8db7k8db10r4/sett.png)|
+| [Pride of Wales (Fashion)](/variants/s12/g12k40db4t4db4k28db7k8db7k8db10r4/)|
+|![Pride of Wales (Fashion) example sett](/variants/s12/g12k40db4t4db4k28db7k8db7k8db10r4/sett.png)|

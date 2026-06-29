@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [William Murdoch, (Scottish Gas)](/setts/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/)|
-|![William Murdoch, (Scottish Gas) example sett](/setts/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/sett.png)|
+| [William Murdoch, (Scottish Gas)](/variants/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/)|
+|![William Murdoch, (Scottish Gas) example sett](/variants/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/sett.png)|

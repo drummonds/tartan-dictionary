@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ensemble Pour l'Avenir](/setts/s18/db3y1db2r14y2r1y2db10r10db10w2r2w2r14y6r10db10w2~x2/)|
-|![Ensemble Pour l'Avenir example sett](/setts/s18/db3y1db2r14y2r1y2db10r10db10w2r2w2r14y6r10db10w2~x2/sett.png)|
+| [Ensemble Pour l'Avenir](/variants/s18/db3y1db2r14y2r1y2db10r10db10w2r2w2r14y6r10db10w2~x2/)|
+|![Ensemble Pour l'Avenir example sett](/variants/s18/db3y1db2r14y2r1y2db10r10db10w2r2w2r14y6r10db10w2~x2/sett.png)|

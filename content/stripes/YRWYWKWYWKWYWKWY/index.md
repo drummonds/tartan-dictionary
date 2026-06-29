@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Dorvil (District)](/setts/s16/lg4w1k3w1lo2w1k3w1lo2w1k3w1lg3lb14r1ly2~x2/)|
-|![City of Dorvil (District) example sett](/setts/s16/lg4w1k3w1lo2w1k3w1lo2w1k3w1lg3lb14r1ly2~x2/sett.png)|
+| [City of Dorvil (District)](/variants/s16/lg4w1k3w1lo2w1k3w1lo2w1k3w1lg3lb14r1ly2~x2/)|
+|![City of Dorvil (District) example sett](/variants/s16/lg4w1k3w1lo2w1k3w1lo2w1k3w1lg3lb14r1ly2~x2/sett.png)|

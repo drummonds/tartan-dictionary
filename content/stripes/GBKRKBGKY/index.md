@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manroth (Personal)](/setts/s9/dg15db20k2r4k2db20dg15k2ly2~x2/)|
-|![Manroth (Personal) example sett](/setts/s9/dg15db20k2r4k2db20dg15k2ly2~x2/sett.png)|
+| [Manroth (Personal)](/variants/s9/dg15db20k2r4k2db20dg15k2ly2~x2/)|
+|![Manroth (Personal) example sett](/variants/s9/dg15db20k2r4k2db20dg15k2ly2~x2/sett.png)|

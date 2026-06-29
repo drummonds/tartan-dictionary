@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tweedside](/tartans/k18r2k2r5w2r2w2r2k2/)|
-|![Tweedside example sett](/setts/s9/k18r2k2r5w2r2w2r2k2~x2/sett.png)|
+| [Tweedside](/setts/k18r2k2r5w2r2w2r2k2/)|
+|![Tweedside example sett](/variants/s9/k18r2k2r5w2r2w2r2k2~x2/sett.png)|

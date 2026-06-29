@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grey Spirit](/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/)|
-|![Grey Spirit example sett](/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png)|
+| [Grey Spirit](/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/)|
+|![Grey Spirit example sett](/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png)|

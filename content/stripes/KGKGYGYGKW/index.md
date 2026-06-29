@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University of Alberta (Corporate)](/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/)|
-|![University of Alberta (Corporate) example sett](/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/sett.png)|
+| [University of Alberta (Corporate)](/variants/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/)|
+|![University of Alberta (Corporate) example sett](/variants/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/sett.png)|

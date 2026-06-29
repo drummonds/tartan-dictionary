@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vetoclock](/setts/s10/n110lp3lr14w1dp10w1lr6lp3dp4n2~x2/)|
-|![Vetoclock example sett](/setts/s10/n110lp3lr14w1dp10w1lr6lp3dp4n2~x2/sett.png)|
+| [Vetoclock](/variants/s10/n110lp3lr14w1dp10w1lr6lp3dp4n2~x2/)|
+|![Vetoclock example sett](/variants/s10/n110lp3lr14w1dp10w1lr6lp3dp4n2~x2/sett.png)|

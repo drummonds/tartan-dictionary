@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Presley of Memphis](/setts/s8/r4w4db4w21ri1db42w1ly4~x2/)|
-|![Presley of Memphis example sett](/setts/s8/r4w4db4w21ri1db42w1ly4~x2/sett.png)|
+| [Presley of Memphis](/variants/s8/r4w4db4w21ri1db42w1ly4~x2/)|
+|![Presley of Memphis example sett](/variants/s8/r4w4db4w21ri1db42w1ly4~x2/sett.png)|

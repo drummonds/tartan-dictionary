@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [World Youth Congress (Corporate)](/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/)|
-|![World Youth Congress (Corporate) example sett](/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/sett.png)|
+| [World Youth Congress (Corporate)](/variants/s10/r2db8ly1db16w1g12db27w1db1w1~x2/)|
+|![World Youth Congress (Corporate) example sett](/variants/s10/r2db8ly1db16w1g12db27w1db1w1~x2/sett.png)|

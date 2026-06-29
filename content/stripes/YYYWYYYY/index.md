@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Desert in Bloom](/setts/s8/lo3ly12lo12w3ly2lyi26lo3ly1~x2/)|
-|![Desert in Bloom example sett](/setts/s8/lo3ly12lo12w3ly2lyi26lo3ly1~x2/sett.png)|
+| [Desert in Bloom](/variants/s8/lo3ly12lo12w3ly2lyi26lo3ly1~x2/)|
+|![Desert in Bloom example sett](/variants/s8/lo3ly12lo12w3ly2lyi26lo3ly1~x2/sett.png)|

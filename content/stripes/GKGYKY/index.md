@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hage-West (Personal)](/setts/s6/dg8k8dg8ly6k3ly6~x2/)|
-|![Hage-West (Personal) example sett](/setts/s6/dg8k8dg8ly6k3ly6~x2/sett.png)|
+| [Hage-West (Personal)](/variants/s6/dg8k8dg8ly6k3ly6~x2/)|
+|![Hage-West (Personal) example sett](/variants/s6/dg8k8dg8ly6k3ly6~x2/sett.png)|

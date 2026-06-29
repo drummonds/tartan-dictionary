@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clackson Hunting (Personal)](/setts/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/)|
-|![Clackson Hunting (Personal) example sett](/setts/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/sett.png)|
+| [Clackson Hunting (Personal)](/variants/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/)|
+|![Clackson Hunting (Personal) example sett](/variants/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hudson, Bay Company](/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/)|
-|![Hudson, Bay Company example sett](/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/sett.png)|
+| [Hudson, Bay Company](/variants/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/)|
+|![Hudson, Bay Company example sett](/variants/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson Dress Burgundy (Dance)](/setts/s7/w4k2w25r21w3r8ly3~x2/)|
-|![MacPherson Dress Burgundy (Dance) example sett](/setts/s7/w4k2w25r21w3r8ly3~x2/sett.png)|
+| [MacPherson Dress Burgundy (Dance)](/variants/s7/w4k2w25r21w3r8ly3~x2/)|
+|![MacPherson Dress Burgundy (Dance) example sett](/variants/s7/w4k2w25r21w3r8ly3~x2/sett.png)|

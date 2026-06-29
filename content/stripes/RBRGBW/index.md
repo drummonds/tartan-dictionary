@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilton (Name)](/setts/s6/w2db45g9r1n9ri1~x2/)|
-|![Wilton (Name) example sett](/setts/s6/w2db45g9r1n9ri1~x2/sett.png)|
+| [Wilton (Name)](/variants/s6/w2db45g9r1n9ri1~x2/)|
+|![Wilton (Name) example sett](/variants/s6/w2db45g9r1n9ri1~x2/sett.png)|

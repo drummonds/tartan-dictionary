@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden (Old and Rare) District Tartan Tartan Number: 1328. Earliest known date: 1746 Worn by a member of Prince Charles' staff during the battle but it is not known with which family or district it was first connected. It was first illustrated in Old & Rare in 1893 by D W Stewart whose son D C Stewart was a founder member of the Scottish Tartans Society. Now firmly established as a district tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r5t2m14w2k13ly13k2ly3~x2/)|
-|![Culloden (Old and Rare) District Tartan Tartan Number: 1328. Earliest known date: 1746 Worn by a member of Prince Charles' staff during the battle but it is not known with which family or district it was first connected. It was first illustrated in Old & Rare in 1893 by D W Stewart whose son D C Stewart was a founder member of the Scottish Tartans Society. Now firmly established as a district tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/r5t2m14w2k13ly13k2ly3~x2/sett.png)|
+| [Culloden (Old and Rare) District Tartan](/variants/s8/r5t2m14w2k13ly13k2ly3~x2/)|
+|![Culloden (Old and Rare) District Tartan example sett](/variants/s8/r5t2m14w2k13ly13k2ly3~x2/sett.png)|

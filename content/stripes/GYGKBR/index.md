@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forres](/setts/s6/g2lo1g5k4do5r1~x4/)|
-|![Forres example sett](/setts/s6/g2lo1g5k4do5r1~x4/sett.png)|
+| [Forres](/variants/s6/g2lo1g5k4do5r1~x4/)|
+|![Forres example sett](/variants/s6/g2lo1g5k4do5r1~x4/sett.png)|

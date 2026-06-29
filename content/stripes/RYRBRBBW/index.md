@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/o3lr4o4do4o18do3n36w3~x2/)|
-|![Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/o3lr4o4do4o18do3n36w3~x2/sett.png)|
+| [Hebridean Granite Fashion Tartan](/variants/s8/o3lr4o4do4o18do3n36w3~x2/)|
+|![Hebridean Granite Fashion Tartan example sett](/variants/s8/o3lr4o4do4o18do3n36w3~x2/sett.png)|

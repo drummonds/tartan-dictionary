@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Neill Pipe Band 1983](/setts/s12/g1lg1g8o5g1o1g1o5g8lg1g1lg1~x4/)|
-|![O'Neill Pipe Band 1983 example sett](/setts/s12/g1lg1g8o5g1o1g1o5g8lg1g1lg1~x4/sett.png)|
+| [O'Neill Pipe Band 1983](/variants/s12/g1lg1g8o5g1o1g1o5g8lg1g1lg1~x4/)|
+|![O'Neill Pipe Band 1983 example sett](/variants/s12/g1lg1g8o5g1o1g1o5g8lg1g1lg1~x4/sett.png)|

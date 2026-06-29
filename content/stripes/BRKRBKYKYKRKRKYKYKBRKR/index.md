@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Granton](/setts/s22/o3k2o4n15k2lo2k2lo2k2o6k45o6k2lo2k2lo2k2n15o4k2o3n2~x2/)|
-|![Granton example sett](/setts/s22/o3k2o4n15k2lo2k2lo2k2o6k45o6k2lo2k2lo2k2n15o4k2o3n2~x2/sett.png)|
+| [Granton](/variants/s22/o3k2o4n15k2lo2k2lo2k2o6k45o6k2lo2k2lo2k2n15o4k2o3n2~x2/)|
+|![Granton example sett](/variants/s22/o3k2o4n15k2lo2k2lo2k2o6k45o6k2lo2k2lo2k2n15o4k2o3n2~x2/sett.png)|

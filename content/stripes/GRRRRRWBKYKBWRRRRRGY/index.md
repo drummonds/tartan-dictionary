@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heston](/setts/s20/dg8o12m3o9m3o12lb9db48k8lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/)|
-|![Heston example sett](/setts/s20/dg8o12m3o9m3o12lb9db48k8lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/sett.png)|
+| [Heston](/variants/s20/dg8o12m3o9m3o12lb9db48k8lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/)|
+|![Heston example sett](/variants/s20/dg8o12m3o9m3o12lb9db48k8lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/sett.png)|

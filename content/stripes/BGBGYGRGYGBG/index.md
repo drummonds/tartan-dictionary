@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dt16g4dt3g3lo2g24r2~x2/)|
-|![St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/dt16g4dt3g3lo2g24r2~x2/sett.png)|
+| [St Andrews Links Corporate Tartan](/variants/s12/dt16g4dt3g3lo2g24r2~x2/)|
+|![St Andrews Links Corporate Tartan example sett](/variants/s12/dt16g4dt3g3lo2g24r2~x2/sett.png)|

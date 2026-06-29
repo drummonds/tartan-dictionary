@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser Hunting Dress](/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/)|
-|![Fraser Hunting Dress example sett](/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/sett.png)|
+| [Fraser Hunting Dress](/variants/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/)|
+|![Fraser Hunting Dress example sett](/variants/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/sett.png)|

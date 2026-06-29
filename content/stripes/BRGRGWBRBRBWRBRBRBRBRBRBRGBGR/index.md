@@ -24,5 +24,5 @@ It is a 29 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Summerville Presbyterian Church (Cor](/setts/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/)|
-|![Summerville Presbyterian Church (Cor example sett](/setts/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/sett.png)|
+| [Summerville Presbyterian Church (Cor](/variants/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/)|
+|![Summerville Presbyterian Church (Cor example sett](/variants/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/sett.png)|

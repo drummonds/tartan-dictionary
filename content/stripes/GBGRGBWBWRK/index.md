@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Downie Dress](/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/)|
-|![Downie Dress example sett](/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/sett.png)|
+| [Downie Dress](/variants/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/)|
+|![Downie Dress example sett](/variants/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/sett.png)|

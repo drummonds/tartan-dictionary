@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vilario (Personal)](/setts/s18/t10dt20p2dt20t10w1t10dt20r2dt20t10w1t10dt20ly2dt20t10w1~x2/)|
-|![Vilario (Personal) example sett](/setts/s18/t10dt20p2dt20t10w1t10dt20r2dt20t10w1t10dt20ly2dt20t10w1~x2/sett.png)|
+| [Vilario (Personal)](/variants/s18/t10dt20p2dt20t10w1t10dt20r2dt20t10w1t10dt20ly2dt20t10w1~x2/)|
+|![Vilario (Personal) example sett](/variants/s18/t10dt20p2dt20t10w1t10dt20r2dt20t10w1t10dt20ly2dt20t10w1~x2/sett.png)|

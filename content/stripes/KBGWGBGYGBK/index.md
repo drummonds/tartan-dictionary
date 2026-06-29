@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chapman-Smith, M & L (Personal)](/setts/s11/k2db4g27lo2g1dp4g1lt2g27db4k2~x2/)|
-|![Chapman-Smith, M & L (Personal) example sett](/setts/s11/k2db4g27lo2g1dp4g1lt2g27db4k2~x2/sett.png)|
+| [Chapman-Smith, M & L (Personal)](/variants/s11/k2db4g27lo2g1dp4g1lt2g27db4k2~x2/)|
+|![Chapman-Smith, M & L (Personal) example sett](/variants/s11/k2db4g27lo2g1dp4g1lt2g27db4k2~x2/sett.png)|

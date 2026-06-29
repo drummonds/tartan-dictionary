@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart Mourning](/setts/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/)|
-|![Stewart/Stuart Mourning example sett](/setts/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/sett.png)|
+| [Stewart/Stuart Mourning](/variants/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/)|
+|![Stewart/Stuart Mourning example sett](/variants/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/sett.png)|

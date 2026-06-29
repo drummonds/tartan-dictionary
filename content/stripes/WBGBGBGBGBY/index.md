@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce (Personal)](/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/)|
-|![Bruce (Personal) example sett](/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/sett.png)|
-| [Bute Heather, Glencallum (Fashion)](/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/)|
-|![Bute Heather, Glencallum (Fashion) example sett](/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/sett.png)|
+| [Bruce (Personal)](/variants/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/)|
+|![Bruce (Personal) example sett](/variants/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/sett.png)|
+| [Bute Heather, Glencallum (Fashion)](/variants/s11/ly13db2g38db13g8db8g17db2g17db4w11/)|
+|![Bute Heather, Glencallum (Fashion) example sett](/variants/s11/ly13db2g38db13g8db8g17db2g17db4w11/sett.png)|

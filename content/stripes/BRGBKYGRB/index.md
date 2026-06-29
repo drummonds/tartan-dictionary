@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robb Hunting (Personal)](/setts/s9/db2r1dg26ly1k18db26y1r1db2~x2/)|
-|![Robb Hunting (Personal) example sett](/setts/s9/db2r1dg26ly1k18db26y1r1db2~x2/sett.png)|
+| [Robb Hunting (Personal)](/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/)|
+|![Robb Hunting (Personal) example sett](/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/sett.png)|

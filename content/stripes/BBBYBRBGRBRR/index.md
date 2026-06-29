@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louth, County](/setts/s12/b48dp4b8lr2b4r3b4dg14ri7b2ri4r2~x2/)|
-|![Louth, County example sett](/setts/s12/b48dp4b8lr2b4r3b4dg14ri7b2ri4r2~x2/sett.png)|
+| [Louth, County](/variants/s12/b48dp4b8lr2b4r3b4dg14ri7b2ri4r2~x2/)|
+|![Louth, County example sett](/variants/s12/b48dp4b8lr2b4r3b4dg14ri7b2ri4r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corstorphine Trial A](/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/)|
-|![Corstorphine Trial A example sett](/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/sett.png)|
+| [Corstorphine Trial A](/variants/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/)|
+|![Corstorphine Trial A example sett](/variants/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/sett.png)|

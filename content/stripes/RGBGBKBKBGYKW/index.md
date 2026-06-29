@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Joss](/setts/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/)|
-|![Joss example sett](/setts/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/sett.png)|
-| [Joss (Clan)](/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/)|
-|![Joss (Clan) example sett](/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/sett.png)|
+| [Joss](/variants/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/)|
+|![Joss example sett](/variants/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/sett.png)|
+| [Joss (Clan)](/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/)|
+|![Joss (Clan) example sett](/variants/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/sett.png)|

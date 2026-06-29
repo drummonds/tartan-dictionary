@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kazakhstan Relic](/setts/s4/lo5db5k3~x4/)|
-|![Kazakhstan Relic example sett](/setts/s4/lo5db5k3~x4/sett.png)|
+| [Kazakhstan Relic](/variants/s4/lo5db5k3~x4/)|
+|![Kazakhstan Relic example sett](/variants/s4/lo5db5k3~x4/sett.png)|

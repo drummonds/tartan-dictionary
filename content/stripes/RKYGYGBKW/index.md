@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Federated Women's Institutes of](/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/)|
-|![Federated Women's Institutes of example sett](/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/sett.png)|
+| [Federated Women's Institutes of](/variants/s9/r2k1lo2g3lo4g3db12k1lb2~x4/)|
+|![Federated Women's Institutes of example sett](/variants/s9/r2k1lo2g3lo4g3db12k1lb2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Styrian (Fashion)](/setts/s5/g8n19dg29o16r4~x2/)|
-|![Styrian (Fashion) example sett](/setts/s5/g8n19dg29o16r4~x2/sett.png)|
+| [Styrian (Fashion)](/variants/s5/g8n19dg29o16r4~x2/)|
+|![Styrian (Fashion) example sett](/variants/s5/g8n19dg29o16r4~x2/sett.png)|

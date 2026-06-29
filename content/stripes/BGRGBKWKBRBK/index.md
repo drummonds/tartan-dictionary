@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cascade Summers, (The Resort at the Mountain)](/setts/s12/k3t14r11db3k10w2k10db3dg6r3g14db3~x2/)|
-|![Cascade Summers, (The Resort at the Mountain) example sett](/setts/s12/k3t14r11db3k10w2k10db3dg6r3g14db3~x2/sett.png)|
+| [Cascade Summers, (The Resort at the Mountain)](/variants/s12/k3t14r11db3k10w2k10db3dg6r3g14db3~x2/)|
+|![Cascade Summers, (The Resort at the Mountain) example sett](/variants/s12/k3t14r11db3k10w2k10db3dg6r3g14db3~x2/sett.png)|

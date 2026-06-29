@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Silver](/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/)|
-|![Stuart/Stewart Silver example sett](/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/sett.png)|
+| [Stuart/Stewart Silver](/variants/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/)|
+|![Stuart/Stewart Silver example sett](/variants/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/sett.png)|

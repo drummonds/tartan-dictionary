@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Mahony, The (Commemorative)](/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/)|
-|![O'Mahony, The (Commemorative) example sett](/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/sett.png)|
+| [O'Mahony, The (Commemorative)](/variants/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/)|
+|![O'Mahony, The (Commemorative) example sett](/variants/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/sett.png)|

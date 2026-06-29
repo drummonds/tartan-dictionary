@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Vancouver (Commemorative)](/setts/s6/gi2lo1gi12lb6g12r1~x4/)|
-|![City of Vancouver (Commemorative) example sett](/setts/s6/gi2lo1gi12lb6g12r1~x4/sett.png)|
+| [City of Vancouver (Commemorative)](/variants/s6/gi2lo1gi12lb6g12r1~x4/)|
+|![City of Vancouver (Commemorative) example sett](/variants/s6/gi2lo1gi12lb6g12r1~x4/sett.png)|

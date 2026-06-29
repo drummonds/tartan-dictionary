@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/r30g12k5w2db6r30db12w2k5g12~x2/"><img src="/setts/s10/r30g12k5w2db6r30db12w2k5g12~x2/sett.png" alt="Sinclair" width="240"><br>Sinclair</a>
+<a class="tartan" href="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/"><img src="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/sett.png" alt="Sinclair" width="240"><br>Sinclair</a>
 
 ## Families
 

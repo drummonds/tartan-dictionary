@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/)|
-|![Cameron of Erracht Dress example sett](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/sett.png)|
+| [Cameron of Erracht Dress](/variants/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/)|
+|![Cameron of Erracht Dress example sett](/variants/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/sett.png)|

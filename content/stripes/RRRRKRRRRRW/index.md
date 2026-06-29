@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Frater](/setts/s11/o6ri2r15o15k2o15ri2r6ri2o8w2~x2/)|
-|![Frater example sett](/setts/s11/o6ri2r15o15k2o15ri2r6ri2o8w2~x2/sett.png)|
-| [Frater (Name)](/setts/s11/o6ri2r15o15k2o15ri2r6ri2o8lb2~x2/)|
-|![Frater (Name) example sett](/setts/s11/o6ri2r15o15k2o15ri2r6ri2o8lb2~x2/sett.png)|
+| [Frater](/variants/s11/o6ri2r15o15k2o15ri2r6ri2o8w2~x2/)|
+|![Frater example sett](/variants/s11/o6ri2r15o15k2o15ri2r6ri2o8w2~x2/sett.png)|
+| [Frater (Name)](/variants/s11/o6ri2r15o15k2o15ri2r6ri2o8lb2~x2/)|
+|![Frater (Name) example sett](/variants/s11/o6ri2r15o15k2o15ri2r6ri2o8lb2~x2/sett.png)|

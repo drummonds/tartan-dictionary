@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reiver Check](/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/)|
-|![Reiver Check example sett](/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/sett.png)|
+| [Reiver Check](/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/)|
+|![Reiver Check example sett](/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/sett.png)|

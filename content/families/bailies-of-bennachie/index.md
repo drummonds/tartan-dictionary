@@ -8,11 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/g27ri2g4r15db26k2db6~x2/"><img src="/setts/s7/g27ri2g4r15db26k2db6~x2/sett.png" alt="Bailies of Bennachie" width="240"><br>Bailies of Bennachie</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s7/y27dr2y4o15db26k2db6~x2/"><img src="/setts/s7/y27dr2y4o15db26k2db6~x2/sett.png" alt="Bailies of Bennachie Corporate Tartan Tartan Number: 3628. Earliest known date: 2002 The Bailes of Bennachie were founded in 1973 as caretakers of the mountain in Aberdeenshire, with the aim of 'preserving the amenity of the hill'. The tartan was produced on the occasion of the 25th anniversary to help create funds to continue their task. The colours reflect the autumn shades on the hill. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Bailies of Bennachie Corporate Tartan Tartan Number: 3628. Earliest known date: 2002 The Bailes of Bennachie were founded in 1973 as caretakers of the mountain in Aberdeenshire, with the aim of 'preserving the amenity of the hill'. The tartan was produced on the occasion of the 25th anniversary to help create funds to continue their task. The colours reflect the autumn shades on the hill. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g27ri2g4r15db26k2db6/">Bailies of Bennachie</a> ★</td><td><code>G/54 Ri4 G8 R30 DB52 K4 DB/12</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g27ri2g4r15db26k2db6/"><img src="/variants/s7/g27ri2g4r15db26k2db6~x2/sett.png" alt="Bailies of Bennachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

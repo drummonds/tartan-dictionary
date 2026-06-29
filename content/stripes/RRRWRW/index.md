@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ailsa, Red V2 (Dance)](/setts/s6/r8ri3r28w32ri3w4~x2/)|
-|![Ailsa, Red V2 (Dance) example sett](/setts/s6/r8ri3r28w32ri3w4~x2/sett.png)|
+| [Ailsa, Red V2 (Dance)](/variants/s6/r8ri3r28w32ri3w4~x2/)|
+|![Ailsa, Red V2 (Dance) example sett](/variants/s6/r8ri3r28w32ri3w4~x2/sett.png)|

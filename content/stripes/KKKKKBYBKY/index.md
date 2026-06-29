@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k30ki5k19ki5k2n20ly2n20ki5ly4~x2/)|
-|![Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/k30ki5k19ki5k2n20ly2n20ki5ly4~x2/sett.png)|
+| [Sonsub Corporate Tartan](/variants/s10/k30ki5k19ki5k2n20ly2n20ki5ly4~x2/)|
+|![Sonsub Corporate Tartan example sett](/variants/s10/k30ki5k19ki5k2n20ly2n20ki5ly4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Toronto Fire Services (Corporate)](/setts/s8/k4r2lb2r28db27r2k2lo2~x2/)|
-|![Toronto Fire Services (Corporate) example sett](/setts/s8/k4r2lb2r28db27r2k2lo2~x2/sett.png)|
+| [Toronto Fire Services (Corporate)](/variants/s8/k4r2lb2r28db27r2k2lo2~x2/)|
+|![Toronto Fire Services (Corporate) example sett](/variants/s8/k4r2lb2r28db27r2k2lo2~x2/sett.png)|

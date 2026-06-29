@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clemens and August (Personal)](/setts/s8/wi32db3r4db3r8db32w3db4~x2/)|
-|![Clemens and August (Personal) example sett](/setts/s8/wi32db3r4db3r8db32w3db4~x2/sett.png)|
+| [Clemens and August (Personal)](/variants/s8/wi32db3r4db3r8db32w3db4~x2/)|
+|![Clemens and August (Personal) example sett](/variants/s8/wi32db3r4db3r8db32w3db4~x2/sett.png)|

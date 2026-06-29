@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aggreko Shepherd (Personal)](/setts/s7/lo10w4dg30k22dg27n4lb2~x2/)|
-|![Aggreko Shepherd (Personal) example sett](/setts/s7/lo10w4dg30k22dg27n4lb2~x2/sett.png)|
+| [Aggreko Shepherd (Personal)](/variants/s7/lo10w4dg30k22dg27n4lb2~x2/)|
+|![Aggreko Shepherd (Personal) example sett](/variants/s7/lo10w4dg30k22dg27n4lb2~x2/sett.png)|

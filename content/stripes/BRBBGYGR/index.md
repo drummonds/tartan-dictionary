@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moray Council](/setts/s8/db8r2db33dt15g12lo2g2r2~x2/)|
-|![Moray Council example sett](/setts/s8/db8r2db33dt15g12lo2g2r2~x2/sett.png)|
+| [Moray Council](/variants/s8/db8r2db33dt15g12lo2g2r2~x2/)|
+|![Moray Council example sett](/variants/s8/db8r2db33dt15g12lo2g2r2~x2/sett.png)|

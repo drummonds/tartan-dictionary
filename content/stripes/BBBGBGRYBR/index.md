@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clarks No. 1 (Fashion)](/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/)|
-|![Clarks No. 1 (Fashion) example sett](/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/sett.png)|
+| [Clarks No. 1 (Fashion)](/variants/s10/db5t2db11g2db2g6r17lo9db1r1~x2/)|
+|![Clarks No. 1 (Fashion) example sett](/variants/s10/db5t2db11g2db2g6r17lo9db1r1~x2/sett.png)|

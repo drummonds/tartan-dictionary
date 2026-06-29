@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacMillan Society of Glasgow](/setts/s9/r16k3r16g44k3g8k3ly20k4~x2/)|
-|![MacMillan Society of Glasgow example sett](/setts/s9/r16k3r16g44k3g8k3ly20k4~x2/sett.png)|
+| [MacMillan Society of Glasgow](/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/)|
+|![MacMillan Society of Glasgow example sett](/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/sett.png)|

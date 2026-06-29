@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smeaton (Wedding) #2](/setts/s18/db12w2db7g15k2g4k2g15db2k7~x2/)|
-|![Smeaton (Wedding) #2 example sett](/setts/s18/db12w2db7g15k2g4k2g15db2k7~x2/sett.png)|
+| [Smeaton (Wedding) #2](/variants/s18/db12w2db7g15k2g4k2g15db2k7~x2/)|
+|![Smeaton (Wedding) #2 example sett](/variants/s18/db12w2db7g15k2g4k2g15db2k7~x2/sett.png)|

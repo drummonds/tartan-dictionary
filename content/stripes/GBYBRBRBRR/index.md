@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yarns to Yearn For](/setts/s10/r3m23b2m2p2m3b28ly2b2g3~x2/)|
-|![Yarns to Yearn For example sett](/setts/s10/r3m23b2m2p2m3b28ly2b2g3~x2/sett.png)|
+| [Yarns to Yearn For](/variants/s10/r3m23b2m2p2m3b28ly2b2g3~x2/)|
+|![Yarns to Yearn For example sett](/variants/s10/r3m23b2m2p2m3b28ly2b2g3~x2/sett.png)|

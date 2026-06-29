@@ -8,11 +8,11 @@ A family of [Clan MacLeod](/clan/macleod/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s5/k8ly1k8ly12r1~x2/"><img src="/setts/s5/k8ly1k8ly12r1~x2/sett.png" alt="MacLeod of Lewis" width="240"><br>MacLeod of Lewis</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s5/k8ly1k8ly12r1~x4/"><img src="/setts/s5/k8ly1k8ly12r1~x4/sett.png" alt="MacLeod of Lewis (Vestiarium Scoticum)" width="140"><br>MacLeod of Lewis (Vestiarium Scoticum)</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/k8ly1k8ly12r1/">MacLeod of Lewis</a> ★</td><td><code>K/32 LY4 K32 LY48 R/4</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/k8ly1k8ly12r1/"><img src="/variants/s5/k8ly1k8ly12r1~x4/sett.png" alt="MacLeod of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

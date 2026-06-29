@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Currie, of Balilone](/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/)|
-|![Currie, of Balilone example sett](/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png)|
+| [Currie, of Balilone](/variants/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/)|
+|![Currie, of Balilone example sett](/variants/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/sett.png)|

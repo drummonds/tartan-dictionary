@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tartan Army Children's Charity (Corp](/setts/s7/n34k7n12k39n3k4lg3~x2/)|
-|![Tartan Army Children's Charity (Corp example sett](/setts/s7/n34k7n12k39n3k4lg3~x2/sett.png)|
+| [Tartan Army Children's Charity (Corp](/variants/s7/n34k7n12k39n3k4lg3~x2/)|
+|![Tartan Army Children's Charity (Corp example sett](/variants/s7/n34k7n12k39n3k4lg3~x2/sett.png)|

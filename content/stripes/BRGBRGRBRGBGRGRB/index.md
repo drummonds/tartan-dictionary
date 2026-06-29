@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crieff Hydro Hotel](/setts/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/)|
-|![Crieff Hydro Hotel example sett](/setts/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/sett.png)|
+| [Crieff Hydro Hotel](/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/)|
+|![Crieff Hydro Hotel example sett](/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/sett.png)|

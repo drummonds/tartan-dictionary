@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kenmore (Fashion)](/setts/s10/do22ly11do2ly4do2ly6do16do40do2lr6~x2/)|
-|![Kenmore (Fashion) example sett](/setts/s10/do22ly11do2ly4do2ly6do16do40do2lr6~x2/sett.png)|
+| [Kenmore (Fashion)](/variants/s10/do22ly11do2ly4do2ly6do16do40do2lr6~x2/)|
+|![Kenmore (Fashion) example sett](/variants/s10/do22ly11do2ly4do2ly6do16do40do2lr6~x2/sett.png)|

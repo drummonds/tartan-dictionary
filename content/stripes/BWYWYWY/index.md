@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Argentine Flag](/setts/s7/t26w2ly1w3ly2w3ly4~x2/)|
-|![Argentine Flag example sett](/setts/s7/t26w2ly1w3ly2w3ly4~x2/sett.png)|
+| [Argentine Flag](/variants/s7/t26w2ly1w3ly2w3ly4~x2/)|
+|![Argentine Flag example sett](/variants/s7/t26w2ly1w3ly2w3ly4~x2/sett.png)|

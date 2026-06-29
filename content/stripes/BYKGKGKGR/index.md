@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ogilvie 1](/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/)|
-|![Ogilvie 1 example sett](/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/sett.png)|
-| [Ogilvy Hunting](/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/)|
-|![Ogilvy Hunting example sett](/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/sett.png)|
+| [Ogilvie 1](/variants/s9/db24ly2k8g16k1g3k1g3r4~x2/)|
+|![Ogilvie 1 example sett](/variants/s9/db24ly2k8g16k1g3k1g3r4~x2/sett.png)|
+| [Ogilvy Hunting](/variants/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/)|
+|![Ogilvy Hunting example sett](/variants/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/sett.png)|

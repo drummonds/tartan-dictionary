@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nithsdale](/tartans/db10r2g2r6g16r1g2r1g3r6/)|
-|![Nithsdale example sett](/setts/s10/db10r2g2r6g16r1g2r1g3r6~x2/sett.png)|
+| [Nithsdale](/setts/db10r2g2r6g16r1g2r1g3r6/)|
+|![Nithsdale example sett](/variants/s10/db10r2g2r6g16r1g2r1g3r6~x2/sett.png)|

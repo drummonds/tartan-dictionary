@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davidson of Tulloch Dress](/setts/s12/r2db5k5dg5lb2dg5k5lb2k2lb4k2lb2~x2/)|
-|![Davidson of Tulloch Dress example sett](/setts/s12/r2db5k5dg5lb2dg5k5lb2k2lb4k2lb2~x2/sett.png)|
+| [Davidson of Tulloch Dress](/variants/s12/r2db5k5dg5lb2dg5k5lb2k2lb4k2lb2~x2/)|
+|![Davidson of Tulloch Dress example sett](/variants/s12/r2db5k5dg5lb2dg5k5lb2k2lb4k2lb2~x2/sett.png)|

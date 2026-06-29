@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bute Heather, Grey](/setts/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2/)|
-|![Bute Heather, Grey example sett](/setts/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2/sett.png)|
-| [Bute Heather, Weathered](/setts/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/)|
-|![Bute Heather, Weathered example sett](/setts/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/sett.png)|
+| [Bute Heather, Grey](/variants/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2/)|
+|![Bute Heather, Grey example sett](/variants/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2/sett.png)|
+| [Bute Heather, Weathered](/variants/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/)|
+|![Bute Heather, Weathered example sett](/variants/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/sett.png)|

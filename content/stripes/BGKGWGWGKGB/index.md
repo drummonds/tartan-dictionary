@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hibernian F.C.](/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/)|
-|![Hibernian F.C. example sett](/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/sett.png)|
+| [Hibernian F.C.](/variants/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/)|
+|![Hibernian F.C. example sett](/variants/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/sett.png)|

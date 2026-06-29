@@ -1,0 +1,27 @@
+---
+title: "Scott Dress"
+date: 2023-03-18
+---
+
+The **Scott Dress** tartan groups 3 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dg4r2k1w30r10dg14r4dg5w2dg5r4/">Scott Dress</a> ★</td><td><code>DG/8 R4 K2 W60 R20 DG28 R8 DG10 W4 DG10 R8 DG10 W4 DG10 R8 DG28 R20 W60 K2 R/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg4r2k1w30r10dg14r4dg5w2dg5r4/"><img src="/variants/s20/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/sett.png" alt="Scott Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg7r3k3w54dg24r5dg5w5dg5r5/">#2</a></td><td><code>DG/14 R6 K6 W108 DG48 R10 DG10 W10 DG10 R/10</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg7r3k3w54dg24r5dg5w5dg5r5/"><img src="/variants/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/sett.png" alt="#2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r4g5w2g5r4g14r10w30k1r2g4/">Scott, dress</a></td><td><code>R/8 G10 W4 G10 R8 G28 R20 W60 K2 R4 G/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r4g5w2g5r4g14r10w30k1r2g4/"><img src="r4g5w2g5r4g14r10w30k1r2g4-rev.png" alt="Scott, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Scott Dress #2
+- Scott, dress

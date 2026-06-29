@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilgour](/setts/s6/db14dg21db4r21db14ly2~x2/)|
-|![Kilgour example sett](/setts/s6/db14dg21db4r21db14ly2~x2/sett.png)|
-| [Kilgour](/setts/s6/db14g21db4r21db14ly2~x2/)|
-|![Kilgour example sett](/setts/s6/db14g21db4r21db14ly2~x2/sett.png)|
+| [Kilgour](/variants/s6/db14dg21db4r21db14ly2~x2/)|
+|![Kilgour example sett](/variants/s6/db14dg21db4r21db14ly2~x2/sett.png)|
+| [Kilgour](/variants/s6/db14g21db4r21db14ly2~x2/)|
+|![Kilgour example sett](/variants/s6/db14g21db4r21db14ly2~x2/sett.png)|

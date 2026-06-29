@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish American Military (Fashion)](/setts/s24/dt11k2db2w2r2k16g16k2g16k16dt16db2w2r2dt16k16g16k2g16db2w2r2k2dt11~x2/)|
-|![Scottish American Military (Fashion) example sett](/setts/s24/dt11k2db2w2r2k16g16k2g16k16dt16db2w2r2dt16k16g16k2g16db2w2r2k2dt11~x2/sett.png)|
+| [Scottish American Military (Fashion)](/variants/s24/dt11k2db2w2r2k16g16k2g16k16dt16db2w2r2dt16k16g16k2g16db2w2r2k2dt11~x2/)|
+|![Scottish American Military (Fashion) example sett](/variants/s24/dt11k2db2w2r2k16g16k2g16k16dt16db2w2r2dt16k16g16k2g16db2w2r2k2dt11~x2/sett.png)|

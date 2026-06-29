@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wallenberg, Nicolas Dress (Personal)](/setts/s16/lr28r1lr4dp12lr2db4ly2db4lr2dp12lr4r1lr48r3w3db3~x2/)|
-|![Wallenberg, Nicolas Dress (Personal) example sett](/setts/s16/lr28r1lr4dp12lr2db4ly2db4lr2dp12lr4r1lr48r3w3db3~x2/sett.png)|
+| [Wallenberg, Nicolas Dress (Personal)](/variants/s16/lr28r1lr4dp12lr2db4ly2db4lr2dp12lr4r1lr48r3w3db3~x2/)|
+|![Wallenberg, Nicolas Dress (Personal) example sett](/variants/s16/lr28r1lr4dp12lr2db4ly2db4lr2dp12lr4r1lr48r3w3db3~x2/sett.png)|

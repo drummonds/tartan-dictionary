@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cameron of Locheil](/setts/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/)|
-|![Cameron of Locheil example sett](/setts/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/sett.png)|
-| [Cameron of Locheil (Bonner collection)](/setts/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/)|
-|![Cameron of Locheil (Bonner collection) example sett](/setts/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/sett.png)|
+| [Cameron of Locheil](/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/)|
+|![Cameron of Locheil example sett](/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/sett.png)|
+| [Cameron of Locheil (Bonner collection)](/variants/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/)|
+|![Cameron of Locheil (Bonner collection) example sett](/variants/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/sett.png)|

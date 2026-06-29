@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Virginia (Fashion)](/setts/s11/o49db15k1o18k4r8g7k5g5o19k5~x2/)|
-|![State Seal of Virginia (Fashion) example sett](/setts/s11/o49db15k1o18k4r8g7k5g5o19k5~x2/sett.png)|
+| [State Seal of Virginia (Fashion)](/variants/s11/o49db15k1o18k4r8g7k5g5o19k5~x2/)|
+|![State Seal of Virginia (Fashion) example sett](/variants/s11/o49db15k1o18k4r8g7k5g5o19k5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Raven (Fashion)](/setts/s7/k62db15b15dy20ly5db5k15~x2/)|
-|![Black Raven (Fashion) example sett](/setts/s7/k62db15b15dy20ly5db5k15~x2/sett.png)|
+| [Black Raven (Fashion)](/variants/s7/k62db15b15dy20ly5db5k15~x2/)|
+|![Black Raven (Fashion) example sett](/variants/s7/k62db15b15dy20ly5db5k15~x2/sett.png)|

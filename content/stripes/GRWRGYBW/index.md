@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greeven, Wolfgang H (Personal)](/setts/s8/dg62r5w1r4g5lo4dt4w2~x2/)|
-|![Greeven, Wolfgang H (Personal) example sett](/setts/s8/dg62r5w1r4g5lo4dt4w2~x2/sett.png)|
+| [Greeven, Wolfgang H (Personal)](/variants/s8/dg62r5w1r4g5lo4dt4w2~x2/)|
+|![Greeven, Wolfgang H (Personal) example sett](/variants/s8/dg62r5w1r4g5lo4dt4w2~x2/sett.png)|

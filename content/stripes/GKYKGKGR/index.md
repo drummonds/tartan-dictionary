@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAulay Hunting](/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/)|
-|![MacAulay Hunting example sett](/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/sett.png)|
+| [MacAulay Hunting](/variants/s8/dg6k16lr1k16dg8k4dg12r2~x2/)|
+|![MacAulay Hunting example sett](/variants/s8/dg6k16lr1k16dg8k4dg12r2~x2/sett.png)|

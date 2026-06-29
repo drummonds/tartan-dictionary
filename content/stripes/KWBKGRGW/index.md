@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sarros (Personal) XX](/setts/s8/k2w2db8k4g33r2g16w2~x2/)|
-|![Sarros (Personal) XX example sett](/setts/s8/k2w2db8k4g33r2g16w2~x2/sett.png)|
-| [Sarros, Terrence (USA) (Personal)](/setts/s8/k2w2dt8k4dg33r2dg16w2~x2/)|
-|![Sarros, Terrence (USA) (Personal) example sett](/setts/s8/k2w2dt8k4dg33r2dg16w2~x2/sett.png)|
+| [Sarros (Personal) XX](/variants/s8/k2w2db8k4g33r2g16w2~x2/)|
+|![Sarros (Personal) XX example sett](/variants/s8/k2w2db8k4g33r2g16w2~x2/sett.png)|
+| [Sarros, Terrence (USA) (Personal)](/variants/s8/k2w2dt8k4dg33r2dg16w2~x2/)|
+|![Sarros, Terrence (USA) (Personal) example sett](/variants/s8/k2w2dt8k4dg33r2dg16w2~x2/sett.png)|

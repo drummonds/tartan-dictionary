@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Turnberry](/setts/s9/n14lg3n2o8n5o2k2n25lb2~x2/)|
-|![Turnberry example sett](/setts/s9/n14lg3n2o8n5o2k2n25lb2~x2/sett.png)|
+| [Turnberry](/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2/)|
+|![Turnberry example sett](/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2/sett.png)|

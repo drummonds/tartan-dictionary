@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. John's (Corporate)](/setts/s7/w2db1w15t12w1ly3db1~x6/)|
-|![St. John's (Corporate) example sett](/setts/s7/w2db1w15t12w1ly3db1~x6/sett.png)|
+| [St. John's (Corporate)](/variants/s7/w2db1w15t12w1ly3db1~x6/)|
+|![St. John's (Corporate) example sett](/variants/s7/w2db1w15t12w1ly3db1~x6/sett.png)|

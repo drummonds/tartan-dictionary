@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hamilton](/setts/s8/r15db8r2db8r2db8r15w2~x4/)|
-|![Hamilton example sett](/setts/s8/r15db8r2db8r2db8r15w2~x4/sett.png)|
-| [U.S. Coast Guard](/setts/s8/r5db6r1db6r1db6r5w5~x4/)|
-|![U.S. Coast Guard example sett](/setts/s8/r5db6r1db6r1db6r5w5~x4/sett.png)|
+| [Hamilton](/variants/s8/r15db8r2db8r2db8r15w2~x4/)|
+|![Hamilton example sett](/variants/s8/r15db8r2db8r2db8r15w2~x4/sett.png)|
+| [U.S. Coast Guard](/variants/s8/r5db6r1db6r1db6r5w5~x4/)|
+|![U.S. Coast Guard example sett](/variants/s8/r5db6r1db6r1db6r5w5~x4/sett.png)|

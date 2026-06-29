@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orlando Fire Department](/setts/s16/db12ly1r16db1r1db14r3db14ly1~x4/)|
-|![Orlando Fire Department example sett](/setts/s16/db12ly1r16db1r1db14r3db14ly1~x4/sett.png)|
+| [Orlando Fire Department](/variants/s16/db12ly1r16db1r1db14r3db14ly1~x4/)|
+|![Orlando Fire Department example sett](/variants/s16/db12ly1r16db1r1db14r3db14ly1~x4/sett.png)|

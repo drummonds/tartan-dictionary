@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Hunting](/setts/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/)|
-|![Kinloch Anderson Hunting example sett](/setts/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/sett.png)|
+| [Kinloch Anderson Hunting](/variants/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/)|
+|![Kinloch Anderson Hunting example sett](/variants/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lewis, Green (Dance)](/setts/s4/dg4w35g31w4~x2/)|
-|![Lewis, Green (Dance) example sett](/setts/s4/dg4w35g31w4~x2/sett.png)|
-| [Shepherd (Brown & White)](/setts/s4/dy1lb1~x6/)|
-|![Shepherd (Brown & White) example sett](/setts/s4/dy1lb1~x6/sett.png)|
+| [Lewis, Green (Dance)](/variants/s4/dg4w35g31w4~x2/)|
+|![Lewis, Green (Dance) example sett](/variants/s4/dg4w35g31w4~x2/sett.png)|
+| [Shepherd (Brown & White)](/variants/s4/dy1lb1~x6/)|
+|![Shepherd (Brown & White) example sett](/variants/s4/dy1lb1~x6/sett.png)|

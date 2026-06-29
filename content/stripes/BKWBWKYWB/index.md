@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Louisiana (Fashion)](/setts/s9/b49lb11lo7k16lbi5b20lb10k6t5~x2/)|
-|![State Seal of Louisiana (Fashion) example sett](/setts/s9/b49lb11lo7k16lbi5b20lb10k6t5~x2/sett.png)|
+| [State Seal of Louisiana (Fashion)](/variants/s9/b49lb11lo7k16lbi5b20lb10k6t5~x2/)|
+|![State Seal of Louisiana (Fashion) example sett](/variants/s9/b49lb11lo7k16lbi5b20lb10k6t5~x2/sett.png)|

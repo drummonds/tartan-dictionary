@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Red (Personal)](/setts/s13/lo2ly1r42g2r6w1g1w1lo4t4g1ly1lo1~x2/)|
-|![Kerr of Ardgowan Red (Personal) example sett](/setts/s13/lo2ly1r42g2r6w1g1w1lo4t4g1ly1lo1~x2/sett.png)|
+| [Kerr of Ardgowan Red (Personal)](/variants/s13/lo2ly1r42g2r6w1g1w1lo4t4g1ly1lo1~x2/)|
+|![Kerr of Ardgowan Red (Personal) example sett](/variants/s13/lo2ly1r42g2r6w1g1w1lo4t4g1ly1lo1~x2/sett.png)|

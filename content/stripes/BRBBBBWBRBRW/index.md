@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Plymouth Armada](/setts/s12/dbi40r2dbi7do5dr2db3w2db10o6dbi2o4w2~x2/)|
-|![Plymouth Armada example sett](/setts/s12/dbi40r2dbi7do5dr2db3w2db10o6dbi2o4w2~x2/sett.png)|
-| [Plymouth Armada (Commemorative)](/setts/s12/dbi40r2dbi7db5dr2db3w2db10o6dbi2o4w2~x2/)|
-|![Plymouth Armada (Commemorative) example sett](/setts/s12/dbi40r2dbi7db5dr2db3w2db10o6dbi2o4w2~x2/sett.png)|
+| [Plymouth Armada](/variants/s12/dbi40r2dbi7do5dr2db3w2db10o6dbi2o4w2~x2/)|
+|![Plymouth Armada example sett](/variants/s12/dbi40r2dbi7do5dr2db3w2db10o6dbi2o4w2~x2/sett.png)|
+| [Plymouth Armada (Commemorative)](/variants/s12/dbi40r2dbi7db5dr2db3w2db10o6dbi2o4w2~x2/)|
+|![Plymouth Armada (Commemorative) example sett](/variants/s12/dbi40r2dbi7db5dr2db3w2db10o6dbi2o4w2~x2/sett.png)|

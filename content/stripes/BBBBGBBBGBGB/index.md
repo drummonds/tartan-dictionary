@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Damson (Fashion)](/setts/s12/db48g4db6y2db2db2db2g10db6db2db3db2~x2/)|
-|![Damson (Fashion) example sett](/setts/s12/db48g4db6y2db2db2db2g10db6db2db3db2~x2/sett.png)|
+| [Damson (Fashion)](/variants/s12/db48g4db6y2db2db2db2g10db6db2db3db2~x2/)|
+|![Damson (Fashion) example sett](/variants/s12/db48g4db6y2db2db2db2g10db6db2db3db2~x2/sett.png)|

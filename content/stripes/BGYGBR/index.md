@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wheadon (Name)](/setts/s6/db40g7ly3g7db15r5~x2/)|
-|![Wheadon (Name) example sett](/setts/s6/db40g7ly3g7db15r5~x2/sett.png)|
+| [Wheadon (Name)](/variants/s6/db40g7ly3g7db15r5~x2/)|
+|![Wheadon (Name) example sett](/variants/s6/db40g7ly3g7db15r5~x2/sett.png)|

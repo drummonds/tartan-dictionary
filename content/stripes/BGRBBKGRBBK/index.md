@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coopers & Lybrand](/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/)|
-|![Coopers & Lybrand example sett](/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/sett.png)|
+| [Coopers & Lybrand](/variants/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/)|
+|![Coopers & Lybrand example sett](/variants/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/sett.png)|

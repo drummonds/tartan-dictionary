@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hydesville Tower](/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/)|
-|![Hydesville Tower example sett](/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/sett.png)|
+| [Hydesville Tower](/variants/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/)|
+|![Hydesville Tower example sett](/variants/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/sett.png)|

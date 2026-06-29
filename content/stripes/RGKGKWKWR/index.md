@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ayrton (1978) (Personal)](/setts/s9/r3g2k1g20k9lb20k1lb2r3~x2/)|
-|![Ayrton (1978) (Personal) example sett](/setts/s9/r3g2k1g20k9lb20k1lb2r3~x2/sett.png)|
+| [Ayrton (1978) (Personal)](/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/)|
+|![Ayrton (1978) (Personal) example sett](/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/sett.png)|

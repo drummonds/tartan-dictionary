@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tennant (Yules)](/setts/s7/r1dy7g7db7g7db7r1~x8/)|
-|![Tennant (Yules) example sett](/setts/s7/r1dy7g7db7g7db7r1~x8/sett.png)|
+| [Tennant (Yules)](/variants/s7/r1dy7g7db7g7db7r1~x8/)|
+|![Tennant (Yules) example sett](/variants/s7/r1dy7g7db7g7db7r1~x8/sett.png)|

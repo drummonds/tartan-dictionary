@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGlynn](/setts/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2/)|
-|![MacGlynn example sett](/setts/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2/sett.png)|
+| [MacGlynn](/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2/)|
+|![MacGlynn example sett](/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2/sett.png)|

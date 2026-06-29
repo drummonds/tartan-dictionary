@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lambert (Front Royal) Dark Night](/setts/s14/k34dg10k5r2k8o2w3o2k8r2k5dg10k28t3~x2/)|
-|![Lambert (Front Royal) Dark Night example sett](/setts/s14/k34dg10k5r2k8o2w3o2k8r2k5dg10k28t3~x2/sett.png)|
+| [Lambert (Front Royal) Dark Night](/variants/s14/k34dg10k5r2k8o2w3o2k8r2k5dg10k28t3~x2/)|
+|![Lambert (Front Royal) Dark Night example sett](/variants/s14/k34dg10k5r2k8o2w3o2k8r2k5dg10k28t3~x2/sett.png)|

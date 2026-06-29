@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blair Atholl (Fashion)](/setts/s8/do2lr2k6do3k2o14k1o1~x4/)|
-|![Blair Atholl (Fashion) example sett](/setts/s8/do2lr2k6do3k2o14k1o1~x4/sett.png)|
+| [Blair Atholl (Fashion)](/variants/s8/do2lr2k6do3k2o14k1o1~x4/)|
+|![Blair Atholl (Fashion) example sett](/variants/s8/do2lr2k6do3k2o14k1o1~x4/sett.png)|

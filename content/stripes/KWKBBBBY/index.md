@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Banff and Buchan](/setts/s8/k17lb2k3db16t28db2t3lo2~x2/)|
-|![Banff and Buchan example sett](/setts/s8/k17lb2k3db16t28db2t3lo2~x2/sett.png)|
+| [Banff and Buchan](/variants/s8/k17lb2k3db16t28db2t3lo2~x2/)|
+|![Banff and Buchan example sett](/variants/s8/k17lb2k3db16t28db2t3lo2~x2/sett.png)|

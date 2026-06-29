@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunn (Scotland) (Name)](/setts/s12/b45ly6b3ly6b3w3db5w3db5w20b2w3~x2/)|
-|![Dunn (Scotland) (Name) example sett](/setts/s12/b45ly6b3ly6b3w3db5w3db5w20b2w3~x2/sett.png)|
+| [Dunn (Scotland) (Name)](/variants/s12/b45ly6b3ly6b3w3db5w3db5w20b2w3~x2/)|
+|![Dunn (Scotland) (Name) example sett](/variants/s12/b45ly6b3ly6b3w3db5w3db5w20b2w3~x2/sett.png)|

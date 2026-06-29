@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wallace Blue](/setts/s8/db29t12g29w2g29t12db29t2~x2/)|
-|![Wallace Blue example sett](/setts/s8/db29t12g29w2g29t12db29t2~x2/sett.png)|
+| [Wallace Blue](/variants/s8/db29t12g29w2g29t12db29t2~x2/)|
+|![Wallace Blue example sett](/variants/s8/db29t12g29w2g29t12db29t2~x2/sett.png)|

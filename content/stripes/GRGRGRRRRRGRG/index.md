@@ -24,11 +24,11 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNab](/setts/s13/dg8r1dg1r1dg1r6ri8r1ri8r6dg7r1dg1/)|
-|![MacNab example sett](/setts/s13/dg8r1dg1r1dg1r6ri8r1ri8r6dg7r1dg1/sett.png)|
-| [MacNab (Clan)](/setts/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2/)|
-|![MacNab (Clan) example sett](/setts/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2/sett.png)|
-| [MacNab (Logan)](/tartans/g8m1g1m1g1m6r8m1r8m6g7m1g1/)|
-|![MacNab (Logan) example sett](/setts/s13/g8m1g1m1g1m6r8m1r8m6g7m1g1~x2/sett.png)|
-| [MacNab 3](/setts/s13/g8ri1g1ri1g1ri6r8ri1r8ri6g7ri1g1~x2/)|
-|![MacNab 3 example sett](/setts/s13/g8ri1g1ri1g1ri6r8ri1r8ri6g7ri1g1~x2/sett.png)|
+| [MacNab](/variants/s13/dg8r1dg1r1dg1r6ri8r1ri8r6dg7r1dg1/)|
+|![MacNab example sett](/variants/s13/dg8r1dg1r1dg1r6ri8r1ri8r6dg7r1dg1/sett.png)|
+| [MacNab (Clan)](/variants/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2/)|
+|![MacNab (Clan) example sett](/variants/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2/sett.png)|
+| [MacNab (Logan)](/setts/g8m1g1m1g1m6r8m1r8m6g7m1g1/)|
+|![MacNab (Logan) example sett](/variants/s13/g8m1g1m1g1m6r8m1r8m6g7m1g1~x2/sett.png)|
+| [MacNab 3](/variants/s13/g8ri1g1ri1g1ri6r8ri1r8ri6g7ri1g1~x2/)|
+|![MacNab 3 example sett](/variants/s13/g8ri1g1ri1g1ri6r8ri1r8ri6g7ri1g1~x2/sett.png)|

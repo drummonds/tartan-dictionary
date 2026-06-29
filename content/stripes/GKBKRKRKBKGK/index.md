@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.007 Or Eglinton](/setts/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/)|
-|![Wilson's No.007 Or Eglinton example sett](/setts/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/sett.png)|
+| [Wilson's No.007 Or Eglinton](/variants/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/)|
+|![Wilson's No.007 Or Eglinton example sett](/variants/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/sett.png)|

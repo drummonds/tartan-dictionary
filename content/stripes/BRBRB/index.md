@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mowbray (Personal)](/setts/s5/n16r2n10r14t5~x2/)|
-|![Mowbray (Personal) example sett](/setts/s5/n16r2n10r14t5~x2/sett.png)|
+| [Mowbray (Personal)](/variants/s5/n16r2n10r14t5~x2/)|
+|![Mowbray (Personal) example sett](/variants/s5/n16r2n10r14t5~x2/sett.png)|

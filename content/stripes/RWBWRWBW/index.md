@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milne Purple Dress (Dance)](/setts/s8/w12db2w12m17w12db2w5r2~x4/)|
-|![Milne Purple Dress (Dance) example sett](/setts/s8/w12db2w12m17w12db2w5r2~x4/sett.png)|
+| [Milne Purple Dress (Dance)](/variants/s8/w12db2w12m17w12db2w5r2~x4/)|
+|![Milne Purple Dress (Dance) example sett](/variants/s8/w12db2w12m17w12db2w5r2~x4/sett.png)|

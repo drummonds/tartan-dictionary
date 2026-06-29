@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elsa Dance](/setts/s10/w8g6w44db10gi6k3gi4k3gi34w4/)|
-|![Elsa Dance example sett](/setts/s10/w8g6w44db10gi6k3gi4k3gi34w4/sett.png)|
+| [Elsa Dance](/variants/s10/w8g6w44db10gi6k3gi4k3gi34w4/)|
+|![Elsa Dance example sett](/variants/s10/w8g6w44db10gi6k3gi4k3gi34w4/sett.png)|

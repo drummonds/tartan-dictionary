@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wiregrass (District)](/setts/s19/gi2b1bi2g4bi3g8bi22gi1g4bi2gi7bi2g2bi2gi2bi4gi1g3b2~x2/)|
-|![Wiregrass (District) example sett](/setts/s19/gi2b1bi2g4bi3g8bi22gi1g4bi2gi7bi2g2bi2gi2bi4gi1g3b2~x2/sett.png)|
+| [Wiregrass (District)](/variants/s19/gi2b1bi2g4bi3g8bi22gi1g4bi2gi7bi2g2bi2gi2bi4gi1g3b2~x2/)|
+|![Wiregrass (District) example sett](/variants/s19/gi2b1bi2g4bi3g8bi22gi1g4bi2gi7bi2g2bi2gi2bi4gi1g3b2~x2/sett.png)|

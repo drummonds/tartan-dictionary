@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tupper, John Charles (Personal)](/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/)|
-|![Tupper, John Charles (Personal) example sett](/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/sett.png)|
+| [Tupper, John Charles (Personal)](/variants/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/)|
+|![Tupper, John Charles (Personal) example sett](/variants/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/sett.png)|

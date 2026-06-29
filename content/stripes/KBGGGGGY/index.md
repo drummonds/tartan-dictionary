@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brocliande (Fashion))](/setts/s8/k3t11y15dgi5y10dg14dgi14lo2~x2/)|
-|![Brocliande (Fashion)) example sett](/setts/s8/k3t11y15dgi5y10dg14dgi14lo2~x2/sett.png)|
+| [Brocliande (Fashion))](/variants/s8/k3t11y15dgi5y10dg14dgi14lo2~x2/)|
+|![Brocliande (Fashion)) example sett](/variants/s8/k3t11y15dgi5y10dg14dgi14lo2~x2/sett.png)|

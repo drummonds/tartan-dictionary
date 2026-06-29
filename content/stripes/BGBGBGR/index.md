@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marino](/setts/s7/n29y4db4y4do4y4r4~x4/)|
-|![Marino example sett](/setts/s7/n29y4db4y4do4y4r4~x4/sett.png)|
+| [Marino](/variants/s7/n29y4db4y4do4y4r4~x4/)|
+|![Marino example sett](/variants/s7/n29y4db4y4do4y4r4~x4/sett.png)|

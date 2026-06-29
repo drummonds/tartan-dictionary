@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Fyne](/setts/s6/r1dy3g5lo5dt5t1~x4/)|
-|![Loch Fyne example sett](/setts/s6/r1dy3g5lo5dt5t1~x4/sett.png)|
+| [Loch Fyne](/variants/s6/r1dy3g5lo5dt5t1~x4/)|
+|![Loch Fyne example sett](/variants/s6/r1dy3g5lo5dt5t1~x4/sett.png)|

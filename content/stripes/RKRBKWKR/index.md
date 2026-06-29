@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Distripress (Corporate)](/setts/s8/r6k1w4k4n15r1k35o2~x2/)|
-|![Distripress (Corporate) example sett](/setts/s8/r6k1w4k4n15r1k35o2~x2/sett.png)|
+| [Distripress (Corporate)](/variants/s8/r6k1w4k4n15r1k35o2~x2/)|
+|![Distripress (Corporate) example sett](/variants/s8/r6k1w4k4n15r1k35o2~x2/sett.png)|

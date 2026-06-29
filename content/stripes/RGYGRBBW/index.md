@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart of Fingask - 1745 (Clan?)](/setts/s8/r72g3ly2g26r14db6t6w2/)|
-|![Stewart of Fingask - 1745 (Clan?) example sett](/setts/s8/r72g3ly2g26r14db6t6w2/sett.png)|
-| [Stuart/Stewart of Fingask](/setts/s8/r72dg3ly2dg26r14db6t6w2/)|
-|![Stuart/Stewart of Fingask example sett](/setts/s8/r72dg3ly2dg26r14db6t6w2/sett.png)|
+| [Stewart of Fingask - 1745 (Clan?)](/variants/s8/r72g3ly2g26r14db6t6w2/)|
+|![Stewart of Fingask - 1745 (Clan?) example sett](/variants/s8/r72g3ly2g26r14db6t6w2/sett.png)|
+| [Stuart/Stewart of Fingask](/variants/s8/r72dg3ly2dg26r14db6t6w2/)|
+|![Stuart/Stewart of Fingask example sett](/variants/s8/r72dg3ly2dg26r14db6t6w2/sett.png)|

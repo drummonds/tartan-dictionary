@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chiti, Cristiano (Personal)](/setts/s6/dgi20dg11lb6r2dp3lb1~x2/)|
-|![Chiti, Cristiano (Personal) example sett](/setts/s6/dgi20dg11lb6r2dp3lb1~x2/sett.png)|
+| [Chiti, Cristiano (Personal)](/variants/s6/dgi20dg11lb6r2dp3lb1~x2/)|
+|![Chiti, Cristiano (Personal) example sett](/variants/s6/dgi20dg11lb6r2dp3lb1~x2/sett.png)|

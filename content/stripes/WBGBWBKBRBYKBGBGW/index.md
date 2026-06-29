@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kumikyoku - Tone of Forest](/setts/s17/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/)|
-|![Kumikyoku - Tone of Forest example sett](/setts/s17/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/sett.png)|
+| [Kumikyoku - Tone of Forest](/variants/s17/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/)|
+|![Kumikyoku - Tone of Forest example sett](/variants/s17/w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/sett.png)|

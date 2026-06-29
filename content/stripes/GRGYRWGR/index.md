@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aviemore, Check](/setts/s8/g2o10g11ly4o1w18g2o1~x2/)|
-|![Aviemore, Check example sett](/setts/s8/g2o10g11ly4o1w18g2o1~x2/sett.png)|
-| [Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g3r12g12lo5r1w25g2r1~x2/)|
-|![Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/g3r12g12lo5r1w25g2r1~x2/sett.png)|
+| [Aviemore, Check](/variants/s8/g2o10g11ly4o1w18g2o1~x2/)|
+|![Aviemore, Check example sett](/variants/s8/g2o10g11ly4o1w18g2o1~x2/sett.png)|
+| [Dogwood Trade Tartan](/variants/s8/g3r12g12lo5r1w25g2r1~x2/)|
+|![Dogwood Trade Tartan example sett](/variants/s8/g3r12g12lo5r1w25g2r1~x2/sett.png)|

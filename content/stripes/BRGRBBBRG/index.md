@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean 1](/setts/s9/db2r3g11r3db2t2db11r2g2~x2/)|
-|![Hebridean 1 example sett](/setts/s9/db2r3g11r3db2t2db11r2g2~x2/sett.png)|
+| [Hebridean 1](/variants/s9/db2r3g11r3db2t2db11r2g2~x2/)|
+|![Hebridean 1 example sett](/variants/s9/db2r3g11r3db2t2db11r2g2~x2/sett.png)|

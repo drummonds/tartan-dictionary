@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dupplin Check](/setts/s9/do1lb1k1lb1do1lb1k1lb1r1~x6/)|
-|![Dupplin Check example sett](/setts/s9/do1lb1k1lb1do1lb1k1lb1r1~x6/sett.png)|
+| [Dupplin Check](/variants/s9/do1lb1k1lb1do1lb1k1lb1r1~x6/)|
+|![Dupplin Check example sett](/variants/s9/do1lb1k1lb1do1lb1k1lb1r1~x6/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guszcza, The (Personal)](/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/)|
-|![Guszcza, The (Personal) example sett](/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/sett.png)|
+| [Guszcza, The (Personal)](/variants/s9/n28r2n3w2n17y8lb16lo3lb3~x2/)|
+|![Guszcza, The (Personal) example sett](/variants/s9/n28r2n3w2n17y8lb16lo3lb3~x2/sett.png)|

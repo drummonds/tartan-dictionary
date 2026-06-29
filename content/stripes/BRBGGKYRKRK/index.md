@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blake (Personal)](/setts/s11/k4r1k3r2lo3k12dg10dgi18db3o3db3~x2/)|
-|![Blake (Personal) example sett](/setts/s11/k4r1k3r2lo3k12dg10dgi18db3o3db3~x2/sett.png)|
-| [Blake, William & Agnes (Australia)](/setts/s11/k4r1k3r2ly3k12dg10dgi18db3o3db3~x2/)|
-|![Blake, William & Agnes (Australia) example sett](/setts/s11/k4r1k3r2ly3k12dg10dgi18db3o3db3~x2/sett.png)|
+| [Blake (Personal)](/variants/s11/k4r1k3r2lo3k12dg10dgi18db3o3db3~x2/)|
+|![Blake (Personal) example sett](/variants/s11/k4r1k3r2lo3k12dg10dgi18db3o3db3~x2/sett.png)|
+| [Blake, William & Agnes (Australia)](/variants/s11/k4r1k3r2ly3k12dg10dgi18db3o3db3~x2/)|
+|![Blake, William & Agnes (Australia) example sett](/variants/s11/k4r1k3r2ly3k12dg10dgi18db3o3db3~x2/sett.png)|

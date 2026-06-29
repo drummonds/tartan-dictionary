@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orban-Prentice (Personal)](/setts/s7/dg25db4r24db21dy25db4dg3~x2/)|
-|![Orban-Prentice (Personal) example sett](/setts/s7/dg25db4r24db21dy25db4dg3~x2/sett.png)|
+| [Orban-Prentice (Personal)](/variants/s7/dg25db4r24db21dy25db4dg3~x2/)|
+|![Orban-Prentice (Personal) example sett](/variants/s7/dg25db4r24db21dy25db4dg3~x2/sett.png)|

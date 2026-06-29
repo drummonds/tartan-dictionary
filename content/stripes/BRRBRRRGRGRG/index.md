@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Powys (District)](/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/)|
-|![Powys (District) example sett](/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/sett.png)|
+| [Powys (District)](/variants/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/)|
+|![Powys (District) example sett](/variants/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/sett.png)|

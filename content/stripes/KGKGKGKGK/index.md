@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Carron (Fashion)](/setts/s9/k1y12k2g1k2g3k1y1k1~x4/)|
-|![Glen Carron (Fashion) example sett](/setts/s9/k1y12k2g1k2g3k1y1k1~x4/sett.png)|
+| [Glen Carron (Fashion)](/variants/s9/k1y12k2g1k2g3k1y1k1~x4/)|
+|![Glen Carron (Fashion) example sett](/variants/s9/k1y12k2g1k2g3k1y1k1~x4/sett.png)|

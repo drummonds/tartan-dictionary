@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Thistle](/setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/)|
-|![Kinloch Anderson Thistle example sett](/setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/sett.png)|
+| [Kinloch Anderson Thistle](/variants/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/)|
+|![Kinloch Anderson Thistle example sett](/variants/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/sett.png)|

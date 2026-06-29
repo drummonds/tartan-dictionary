@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Superstition Fire Honor Guard Pipes](/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/)|
-|![Superstition Fire Honor Guard Pipes example sett](/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/sett.png)|
-| [Superstition Fire Honor Guard Pipes & Drums](/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/)|
-|![Superstition Fire Honor Guard Pipes & Drums example sett](/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/sett.png)|
+| [Superstition Fire Honor Guard Pipes](/variants/s9/db12w1db2k3r15k1ly2k39r2~x2/)|
+|![Superstition Fire Honor Guard Pipes example sett](/variants/s9/db12w1db2k3r15k1ly2k39r2~x2/sett.png)|
+| [Superstition Fire Honor Guard Pipes & Drums](/variants/s9/t12w1t2k3r15k1lo2k39r2~x2/)|
+|![Superstition Fire Honor Guard Pipes & Drums example sett](/variants/s9/t12w1t2k3r15k1lo2k39r2~x2/sett.png)|

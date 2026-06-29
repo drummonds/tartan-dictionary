@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morag](/setts/s13/lr64n4lr4lo4lr4n26lb4lo1lb2lo1lb32n2lo4~x2/)|
-|![Morag example sett](/setts/s13/lr64n4lr4lo4lr4n26lb4lo1lb2lo1lb32n2lo4~x2/sett.png)|
+| [Morag](/variants/s13/lr64n4lr4lo4lr4n26lb4lo1lb2lo1lb32n2lo4~x2/)|
+|![Morag example sett](/variants/s13/lr64n4lr4lo4lr4n26lb4lo1lb2lo1lb32n2lo4~x2/sett.png)|

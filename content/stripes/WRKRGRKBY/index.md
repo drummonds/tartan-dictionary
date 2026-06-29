@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [George Brown](/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/)|
-|![George Brown example sett](/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/sett.png)|
+| [George Brown](/variants/s9/ly3db29k15r4g25r8k4r3w2~x2/)|
+|![George Brown example sett](/variants/s9/ly3db29k15r4g25r8k4r3w2~x2/sett.png)|

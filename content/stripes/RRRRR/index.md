@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hamilton, Red (Fashion?)](/setts/s5/r23o4r23o32r4~x2/)|
-|![Hamilton, Red (Fashion?) example sett](/setts/s5/r23o4r23o32r4~x2/sett.png)|
-| [Unnamed Brown (Teddy Bear)](/setts/s5/r1oi7o25oi7r1~x2/)|
-|![Unnamed Brown (Teddy Bear) example sett](/setts/s5/r1oi7o25oi7r1~x2/sett.png)|
+| [Hamilton, Red (Fashion?)](/variants/s5/r23o4r23o32r4~x2/)|
+|![Hamilton, Red (Fashion?) example sett](/variants/s5/r23o4r23o32r4~x2/sett.png)|
+| [Unnamed Brown (Teddy Bear)](/variants/s5/r1oi7o25oi7r1~x2/)|
+|![Unnamed Brown (Teddy Bear) example sett](/variants/s5/r1oi7o25oi7r1~x2/sett.png)|

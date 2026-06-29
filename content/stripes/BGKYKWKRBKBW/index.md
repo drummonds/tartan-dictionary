@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Broager (Name)](/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/)|
-|![Broager (Name) example sett](/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/sett.png)|
+| [Broager (Name)](/variants/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/)|
+|![Broager (Name) example sett](/variants/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/sett.png)|

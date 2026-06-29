@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brandon (Manitoba) (District)](/setts/s6/o84k35lr3g35k3ly10/)|
-|![Brandon (Manitoba) (District) example sett](/setts/s6/o84k35lr3g35k3ly10/sett.png)|
+| [Brandon (Manitoba) (District)](/variants/s6/o84k35lr3g35k3ly10/)|
+|![Brandon (Manitoba) (District) example sett](/variants/s6/o84k35lr3g35k3ly10/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Patrick](/setts/s18/w13dg3w4dg3w3dg40w3dg2ly4dg2w3dg40w3dg3w4dg3w13dg4~x2/)|
-|![St. Patrick example sett](/setts/s18/w13dg3w4dg3w3dg40w3dg2ly4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png)|
+| [St. Patrick](/variants/s18/w13dg3w4dg3w3dg40w3dg2ly4dg2w3dg40w3dg3w4dg3w13dg4~x2/)|
+|![St. Patrick example sett](/variants/s18/w13dg3w4dg3w3dg40w3dg2ly4dg2w3dg40w3dg3w4dg3w13dg4~x2/sett.png)|

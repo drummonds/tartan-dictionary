@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKellar Dress Red](/setts/s11/r27w2r3p4r3w2r5k13ri2w26dg3~x2/)|
-|![MacKellar Dress Red example sett](/setts/s11/r27w2r3p4r3w2r5k13ri2w26dg3~x2/sett.png)|
+| [MacKellar Dress Red](/variants/s11/r27w2r3p4r3w2r5k13ri2w26dg3~x2/)|
+|![MacKellar Dress Red example sett](/variants/s11/r27w2r3p4r3w2r5k13ri2w26dg3~x2/sett.png)|

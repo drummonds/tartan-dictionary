@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dobson (Palm Bay) (Personal)](/setts/s6/g15ly1dy2db5k4dg5~x6/)|
-|![Dobson (Palm Bay) (Personal) example sett](/setts/s6/g15ly1dy2db5k4dg5~x6/sett.png)|
+| [Dobson (Palm Bay) (Personal)](/variants/s6/g15ly1dy2db5k4dg5~x6/)|
+|![Dobson (Palm Bay) (Personal) example sett](/variants/s6/g15ly1dy2db5k4dg5~x6/sett.png)|

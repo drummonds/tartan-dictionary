@@ -24,13 +24,13 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Shadow (Fashion)](/setts/s2/k20n1~x6/)|
-|![Black Shadow (Fashion) example sett](/setts/s2/k20n1~x6/sett.png)|
-| [Buffalo Plaid](/setts/s2/k1db1~x100/)|
-|![Buffalo Plaid example sett](/setts/s2/k1db1~x100/sett.png)|
-| [Staines](/setts/s2/db12k1~x10/)|
-|![Staines example sett](/setts/s2/db12k1~x10/sett.png)|
-| [Tartan Army](/setts/s2/db2k1~x4/)|
-|![Tartan Army example sett](/setts/s2/db2k1~x4/sett.png)|
-| [Wilson's No.172](/setts/s2/k9t8~x2/)|
-|![Wilson's No.172 example sett](/setts/s2/k9t8~x2/sett.png)|
+| [Black Shadow (Fashion)](/variants/s2/k20n1~x6/)|
+|![Black Shadow (Fashion) example sett](/variants/s2/k20n1~x6/sett.png)|
+| [Buffalo Plaid](/variants/s2/k1db1~x100/)|
+|![Buffalo Plaid example sett](/variants/s2/k1db1~x100/sett.png)|
+| [Staines](/variants/s2/db12k1~x10/)|
+|![Staines example sett](/variants/s2/db12k1~x10/sett.png)|
+| [Tartan Army](/variants/s2/db2k1~x4/)|
+|![Tartan Army example sett](/variants/s2/db2k1~x4/sett.png)|
+| [Wilson's No.172](/variants/s2/k9t8~x2/)|
+|![Wilson's No.172 example sett](/variants/s2/k9t8~x2/sett.png)|

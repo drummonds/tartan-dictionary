@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elvan](/setts/s11/lr42dy10db2dy2lb2dy2lr10lb6dy2lb3lr2~x2/)|
-|![Elvan example sett](/setts/s11/lr42dy10db2dy2lb2dy2lr10lb6dy2lb3lr2~x2/sett.png)|
+| [Elvan](/variants/s11/lr42dy10db2dy2lb2dy2lr10lb6dy2lb3lr2~x2/)|
+|![Elvan example sett](/variants/s11/lr42dy10db2dy2lb2dy2lr10lb6dy2lb3lr2~x2/sett.png)|

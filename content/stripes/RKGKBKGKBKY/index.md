@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ayrton (1979) (Personal)](/setts/s11/r4k2g25k2t10k2g4k2db25k2ly4~x2/)|
-|![Ayrton (1979) (Personal) example sett](/setts/s11/r4k2g25k2t10k2g4k2db25k2ly4~x2/sett.png)|
-| [Ayrton (amended)](/setts/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/)|
-|![Ayrton (amended) example sett](/setts/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/sett.png)|
+| [Ayrton (1979) (Personal)](/variants/s11/r4k2g25k2t10k2g4k2db25k2ly4~x2/)|
+|![Ayrton (1979) (Personal) example sett](/variants/s11/r4k2g25k2t10k2g4k2db25k2ly4~x2/sett.png)|
+| [Ayrton (amended)](/variants/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/)|
+|![Ayrton (amended) example sett](/variants/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walters (Personal)](/setts/s6/g2dp2g20g2g2dp1~x4/)|
-|![Walters (Personal) example sett](/setts/s6/g2dp2g20g2g2dp1~x4/sett.png)|
+| [Walters (Personal)](/variants/s6/g2dp2g20g2g2dp1~x4/)|
+|![Walters (Personal) example sett](/variants/s6/g2dp2g20g2g2dp1~x4/sett.png)|

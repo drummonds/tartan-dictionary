@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ballater](/setts/s10/db3t1db6r2b6k1r1k1b6r3~x4/)|
-|![Ballater example sett](/setts/s10/db3t1db6r2b6k1r1k1b6r3~x4/sett.png)|
+| [Ballater](/variants/s10/db3t1db6r2b6k1r1k1b6r3~x4/)|
+|![Ballater example sett](/variants/s10/db3t1db6r2b6k1r1k1b6r3~x4/sett.png)|

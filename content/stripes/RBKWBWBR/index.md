@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irn Bru](/setts/s8/r49b16k2w3b2w2b3r2~x2/)|
-|![Irn Bru example sett](/setts/s8/r49b16k2w3b2w2b3r2~x2/sett.png)|
-| [Irn Bru (Corporate)](/setts/s8/o49db16k2w3db2w2db3o2~x2/)|
-|![Irn Bru (Corporate) example sett](/setts/s8/o49db16k2w3db2w2db3o2~x2/sett.png)|
+| [Irn Bru](/variants/s8/r49b16k2w3b2w2b3r2~x2/)|
+|![Irn Bru example sett](/variants/s8/r49b16k2w3b2w2b3r2~x2/sett.png)|
+| [Irn Bru (Corporate)](/variants/s8/o49db16k2w3db2w2db3o2~x2/)|
+|![Irn Bru (Corporate) example sett](/variants/s8/o49db16k2w3db2w2db3o2~x2/sett.png)|

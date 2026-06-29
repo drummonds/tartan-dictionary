@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rob Roy (Film) (Corporate)](/setts/s6/t3dg1t10dg4dy10t2~x4/)|
-|![Rob Roy (Film) (Corporate) example sett](/setts/s6/t3dg1t10dg4dy10t2~x4/sett.png)|
+| [Rob Roy (Film) (Corporate)](/variants/s6/t3dg1t10dg4dy10t2~x4/)|
+|![Rob Roy (Film) (Corporate) example sett](/variants/s6/t3dg1t10dg4dy10t2~x4/sett.png)|

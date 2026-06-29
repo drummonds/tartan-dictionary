@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne (Fashion)](/setts/s8/lb1y1lb1y7t7lb1t1lb1~x6/)|
-|![Auld Lang Syne (Fashion) example sett](/setts/s8/lb1y1lb1y7t7lb1t1lb1~x6/sett.png)|
+| [Auld Lang Syne (Fashion)](/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6/)|
+|![Auld Lang Syne (Fashion) example sett](/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6/sett.png)|

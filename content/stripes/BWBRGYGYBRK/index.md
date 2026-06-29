@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdeen Asset Management (Corp)](/setts/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/)|
-|![Aberdeen Asset Management (Corp) example sett](/setts/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/sett.png)|
+| [Aberdeen Asset Management (Corp)](/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/)|
+|![Aberdeen Asset Management (Corp) example sett](/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ikelman #5 (Personal)](/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/)|
-|![Ikelman #5 (Personal) example sett](/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/sett.png)|
+| [Ikelman #5 (Personal)](/variants/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/)|
+|![Ikelman #5 (Personal) example sett](/variants/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/sett.png)|

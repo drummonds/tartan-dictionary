@@ -103,6 +103,6 @@ function renderPage(url) {
  * can carry the ~xN scale and other slug characters, so take it whole; a hashed-leaf sett's opaque
  * name simply won't decode (parseSlug rejects it) and falls back to ?s=. */
 function slugFromPath(p) {
-  var m = /\/setts\/s\d+\/([^/]+)\/(?:sett|tartan)\.png$/.exec(p);
+  var m = /\/variants\/s\d+\/([^/]+)\/(?:sett|tartan)\.png$/.exec(p);
   return m ? decodeURIComponent(m[1]) : null;
 }

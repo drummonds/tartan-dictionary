@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Argentina](/setts/s7/db5w3db33k3db3k36db3~x2/)|
-|![Argentina example sett](/setts/s7/db5w3db33k3db3k36db3~x2/sett.png)|
-| [Heritage of Scotland](/setts/s7/db6w3db21k16dp6k3dp6~x2/)|
-|![Heritage of Scotland example sett](/setts/s7/db6w3db21k16dp6k3dp6~x2/sett.png)|
+| [Argentina](/variants/s7/db5w3db33k3db3k36db3~x2/)|
+|![Argentina example sett](/variants/s7/db5w3db33k3db3k36db3~x2/sett.png)|
+| [Heritage of Scotland](/variants/s7/db6w3db21k16dp6k3dp6~x2/)|
+|![Heritage of Scotland example sett](/variants/s7/db6w3db21k16dp6k3dp6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lopatinsky](/setts/s8/b4r1w1r1b4k2t6ly1~x6/)|
-|![Lopatinsky example sett](/setts/s8/b4r1w1r1b4k2t6ly1~x6/sett.png)|
+| [Lopatinsky](/variants/s8/b4r1w1r1b4k2t6ly1~x6/)|
+|![Lopatinsky example sett](/variants/s8/b4r1w1r1b4k2t6ly1~x6/sett.png)|

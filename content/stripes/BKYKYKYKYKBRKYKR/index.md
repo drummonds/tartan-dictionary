@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oneness](/setts/s16/db12k2loi28k2lr2k2lo2k2loi28k2db12r12k3lo2k3r12~x2/)|
-|![Oneness example sett](/setts/s16/db12k2loi28k2lr2k2lo2k2loi28k2db12r12k3lo2k3r12~x2/sett.png)|
+| [Oneness](/variants/s16/db12k2loi28k2lr2k2lo2k2loi28k2db12r12k3lo2k3r12~x2/)|
+|![Oneness example sett](/variants/s16/db12k2loi28k2lr2k2lo2k2loi28k2db12r12k3lo2k3r12~x2/sett.png)|

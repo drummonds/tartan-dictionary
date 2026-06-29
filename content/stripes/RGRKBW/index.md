@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reese (Personal)](/setts/s6/r4g2r2k5dt22w2~x4/)|
-|![Reese (Personal) example sett](/setts/s6/r4g2r2k5dt22w2~x4/sett.png)|
+| [Reese (Personal)](/variants/s6/r4g2r2k5dt22w2~x4/)|
+|![Reese (Personal) example sett](/variants/s6/r4g2r2k5dt22w2~x4/sett.png)|

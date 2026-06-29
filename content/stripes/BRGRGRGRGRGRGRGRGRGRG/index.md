@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae of Inverinate (Clan)](/setts/s21/dg5r5dg2r3dg2r3dg2r23dg23r5dg15r5dg23r23dg2r3dg2r3dg2r5dp5~x2/)|
-|![MacRae of Inverinate (Clan) example sett](/setts/s21/dg5r5dg2r3dg2r3dg2r23dg23r5dg15r5dg23r23dg2r3dg2r3dg2r5dp5~x2/sett.png)|
+| [MacRae of Inverinate (Clan)](/variants/s21/dg5r5dg2r3dg2r3dg2r23dg23r5dg15r5dg23r23dg2r3dg2r3dg2r5dp5~x2/)|
+|![MacRae of Inverinate (Clan) example sett](/variants/s21/dg5r5dg2r3dg2r3dg2r23dg23r5dg15r5dg23r23dg2r3dg2r3dg2r5dp5~x2/sett.png)|

@@ -24,11 +24,11 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish National #2](/setts/s6/w2k11ly11db3k1r1~x2/)|
-|![Cornish National #2 example sett](/setts/s6/w2k11ly11db3k1r1~x2/sett.png)|
-| [Cornish National (District)](/setts/s6/w5k26lo26t7k3r3~x2/)|
-|![Cornish National (District) example sett](/setts/s6/w5k26lo26t7k3r3~x2/sett.png)|
-| [Cornish National Small Set Tartan Tartan Number: 7651. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w2k11ly11t3k1r1~x2/)|
-|![Cornish National Small Set Tartan Tartan Number: 7651. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/w2k11ly11t3k1r1~x2/sett.png)|
-| [Cornish, National](/setts/s6/w5k26ly26t7k3r3~x2/)|
-|![Cornish, National example sett](/setts/s6/w5k26ly26t7k3r3~x2/sett.png)|
+| [Cornish National #2](/variants/s6/w2k11ly11db3k1r1~x2/)|
+|![Cornish National #2 example sett](/variants/s6/w2k11ly11db3k1r1~x2/sett.png)|
+| [Cornish National (District)](/variants/s6/w5k26lo26t7k3r3~x2/)|
+|![Cornish National (District) example sett](/variants/s6/w5k26lo26t7k3r3~x2/sett.png)|
+| [Cornish National Small Set Tartan](/variants/s6/w2k11ly11t3k1r1~x2/)|
+|![Cornish National Small Set Tartan example sett](/variants/s6/w2k11ly11t3k1r1~x2/sett.png)|
+| [Cornish, National](/variants/s6/w5k26ly26t7k3r3~x2/)|
+|![Cornish, National example sett](/variants/s6/w5k26ly26t7k3r3~x2/sett.png)|

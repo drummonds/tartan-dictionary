@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Derick Wardrope (Portobello) (Personal)](/setts/s9/dr3dg32k4dg4k11db3k7dr4w3/)|
-|![Derick Wardrope (Portobello) (Personal) example sett](/setts/s9/dr3dg32k4dg4k11db3k7dr4w3/sett.png)|
+| [Derick Wardrope (Portobello) (Personal)](/variants/s9/dr3dg32k4dg4k11db3k7dr4w3/)|
+|![Derick Wardrope (Portobello) (Personal) example sett](/variants/s9/dr3dg32k4dg4k11db3k7dr4w3/sett.png)|

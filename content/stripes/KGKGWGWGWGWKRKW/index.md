@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black and White](/setts/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/)|
-|![Black and White example sett](/setts/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/sett.png)|
+| [Black and White](/variants/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/)|
+|![Black and White example sett](/variants/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/sett.png)|

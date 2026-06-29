@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bukowski-Jackson (Personal)](/setts/s10/dt30t5dt5lp5dt10w4r4dt10g5dt10~x2/)|
-|![Bukowski-Jackson (Personal) example sett](/setts/s10/dt30t5dt5lp5dt10w4r4dt10g5dt10~x2/sett.png)|
+| [Bukowski-Jackson (Personal)](/variants/s10/dt30t5dt5lp5dt10w4r4dt10g5dt10~x2/)|
+|![Bukowski-Jackson (Personal) example sett](/variants/s10/dt30t5dt5lp5dt10w4r4dt10g5dt10~x2/sett.png)|

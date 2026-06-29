@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish Hunting](/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/)|
-|![Cornish Hunting example sett](/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/sett.png)|
+| [Cornish Hunting](/variants/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/)|
+|![Cornish Hunting example sett](/variants/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/sett.png)|

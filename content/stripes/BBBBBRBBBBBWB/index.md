@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Dusk (Fashion)](/setts/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/)|
-|![Highland Dusk (Fashion) example sett](/setts/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/sett.png)|
+| [Highland Dusk (Fashion)](/variants/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/)|
+|![Highland Dusk (Fashion) example sett](/variants/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/sett.png)|

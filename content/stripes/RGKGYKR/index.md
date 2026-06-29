@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inman (2016)](/setts/s7/r2dg24k2dg12lo6k1r2~x2/)|
-|![Inman (2016) example sett](/setts/s7/r2dg24k2dg12lo6k1r2~x2/sett.png)|
+| [Inman (2016)](/variants/s7/r2dg24k2dg12lo6k1r2~x2/)|
+|![Inman (2016) example sett](/variants/s7/r2dg24k2dg12lo6k1r2~x2/sett.png)|

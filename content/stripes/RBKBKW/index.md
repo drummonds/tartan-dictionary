@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sorbie (Name)](/setts/s6/r1b1k17b17k1w1~x4/)|
-|![Sorbie (Name) example sett](/setts/s6/r1b1k17b17k1w1~x4/sett.png)|
+| [Sorbie (Name)](/variants/s6/r1b1k17b17k1w1~x4/)|
+|![Sorbie (Name) example sett](/variants/s6/r1b1k17b17k1w1~x4/sett.png)|

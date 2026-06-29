@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [J & B Whisky (Original)](/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/)|
-|![J & B Whisky (Original) example sett](/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/sett.png)|
+| [J & B Whisky (Original)](/variants/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/)|
+|![J & B Whisky (Original) example sett](/variants/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/sett.png)|

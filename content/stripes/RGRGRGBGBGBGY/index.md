@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Johansson (Aneby, Sweden), Christian (Personal)](/setts/s13/o8y1o1y1o1y25dt1y1dt1y1dt25yi7lo6~x2/)|
-|![Johansson (Aneby, Sweden), Christian (Personal) example sett](/setts/s13/o8y1o1y1o1y25dt1y1dt1y1dt25yi7lo6~x2/sett.png)|
+| [Johansson (Aneby, Sweden), Christian (Personal)](/variants/s13/o8y1o1y1o1y25dt1y1dt1y1dt25yi7lo6~x2/)|
+|![Johansson (Aneby, Sweden), Christian (Personal) example sett](/variants/s13/o8y1o1y1o1y25dt1y1dt1y1dt25yi7lo6~x2/sett.png)|

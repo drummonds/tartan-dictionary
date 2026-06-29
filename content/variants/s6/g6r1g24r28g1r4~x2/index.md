@@ -1,0 +1,83 @@
+---
+title: "Erskine (Vestiarium Scoticum)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6r1g24r28g1r4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGR](/stripes/grgrgr/).
+
+Part of the [Erskine](/tartans/erskine/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1119
+
+## Provenance
+
+Earliest known date: 1842 The Erskine clan or family originated in Renfrewshire. The first published version of the tartan appeared in the Vestiarium Scoticum, a romantic history of Scottish dress produced in 1842 by the Sobieski brothers. Cunningham tartan, published in the same work, differs only in the addition of a white stripe between the narrow green lines. Cunningham was one of the names adopted by the MacGregors, and this provides a tenuous connection which might explain the origin of the design.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Erskine Blue
+- Erskine Green
+- Erskine Hunting
+- Erskine Purple
+- Erskine Red Dress
+- Erskine Royal Blue Dress
+- Erskine,
+- Erskine, Black & Red
+- Erskine, Blue
+- Erskine, Burgundy
+- Erskine, Green
+- Erskine, Grey
+- Erskine, Purple
+- Erskine, dress
+- Erskine, hunting
+- Royal Scots Fusiliers
+
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Erskine (Vestiarium Scoticum) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1119">record</a>)</li>
+<li>1842 — Erskine (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/891/">record</a>)</li>
+<li>undated — Erskine (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Erskine (Green & Red) Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=891">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1119](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1119)
+- Scottish Tartans Authority (ITI): 891
+- Scottish Tartans World Register: 891
+
+## Thread count
+G/12 R2 G48 R56 G2 R/8
+
+One full sett is **236 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> <small style="color:#888">#00643C</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(44.3% 0.104 157.7)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> <small style="color:#888">#00643C</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(44.3% 0.104 157.7)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> <small style="color:#888">#00643C</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(44.3% 0.104 157.7)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="G/12 R2 G48 R56 G2 R/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=g6r1g24r28g1r4~x2">Erskine (Vestiarium Scoticum)</a> <a class="nn-out" href="/variants/s6/g6r1g24r28g1r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g6r1g24r28g1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.65</div><div class="nn-name"><a href="/ttd/edit/#slug=dg6r1dg24r28dg1r4~x2&amp;base=g6r1g24r28g1r4~x2">Erskine</a> <a class="nn-out" href="/variants/s6/dg6r1dg24r28dg1r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg6r1dg24r28dg1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=r16g1r1g1r4g12~x4&amp;base=g6r1g24r28g1r4~x2">MacQuarrie #5</a> <a class="nn-out" href="/variants/s6/r16g1r1g1r4g12~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16g1r1g1r4g12~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.33</div><div class="nn-name"><a href="/ttd/edit/#slug=r16dg1r1dg1r4dg12&amp;base=g6r1g24r28g1r4~x2">MacQuarrie</a> <a class="nn-out" href="/variants/s6/r16dg1r1dg1r4dg12/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16dg1r1dg1r4dg12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.35</div><div class="nn-name"><a href="/ttd/edit/#slug=r16dg1r1dg1r4dg12~x2&amp;base=g6r1g24r28g1r4~x2">MacQuarrie 7</a> <a class="nn-out" href="/variants/s6/r16dg1r1dg1r4dg12~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16dg1r1dg1r4dg12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/variants/s8/r44db2g26r3db2/">Unidentified Cant #09</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r44db2g26r3db2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.39</div><div class="nn-name"><a href="/ttd/edit/#slug=r1g10r1db4r18g1~x4&amp;base=g6r1g24r28g1r4~x2">Robertson 6</a> <a class="nn-out" href="/variants/s6/r1g10r1db4r18g1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1g10r1db4r18g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.41</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g4lo4g12r22lo1g4~x4&amp;base=g6r1g24r28g1r4~x2">Spice Apple</a> <a class="nn-out" href="/variants/s7/r4g4lo4g12r22lo1g4~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4g4lo4g12r22lo1g4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.42</div><div class="nn-name"><a href="/ttd/edit/#slug=r22db5r2g11r3db1~x2&amp;base=g6r1g24r28g1r4~x2">MacKintosh 1</a> <a class="nn-out" href="/variants/s6/r22db5r2g11r3db1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r22db5r2g11r3db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=r68db18r9g34r9db3~x2&amp;base=g6r1g24r28g1r4~x2">MacKintosh 3</a> <a class="nn-out" href="/variants/s6/r68db18r9g34r9db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r68db18r9g34r9db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=dy48lo9dy6lo9dy12lo4dy2lo16~x2&amp;base=g6r1g24r28g1r4~x2">Yellow Pencil (Corporate)</a> <a class="nn-out" href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg6r1dg24r28dg1r4~x2/"><circle cx="433.2" cy="195.6" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="455.5" cy="215.6" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/variants/s6/r16dg1r1dg1r4dg12/"><circle cx="450.8" cy="213.4" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="453.9" cy="216.0" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/variants/s8/r44db2g26r3db2/"><circle cx="375.7" cy="170.7" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="396.6" cy="186.7" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s7/r4g4lo4g12r22lo1g4~x4/"><circle cx="367.6" cy="184.7" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="423.8" cy="185.6" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="417.9" cy="188.3" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><circle cx="475.3" cy="189.2" r="4" fill="#3465a4"><title>Yellow Pencil (Corporate)</title></circle></a><circle cx="443.6" cy="200.0" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/g6r1g24r28g1r4~x2/

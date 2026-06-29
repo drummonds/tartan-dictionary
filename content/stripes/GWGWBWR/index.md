@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Over Mountain](/setts/s7/r2lb1db8lb8y8lb1y1~x2/)|
-|![Over Mountain example sett](/setts/s7/r2lb1db8lb8y8lb1y1~x2/sett.png)|
+| [Over Mountain](/variants/s7/r2lb1db8lb8y8lb1y1~x2/)|
+|![Over Mountain example sett](/variants/s7/r2lb1db8lb8y8lb1y1~x2/sett.png)|

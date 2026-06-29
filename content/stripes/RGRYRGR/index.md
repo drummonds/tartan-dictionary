@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified #59](/setts/s7/r1dg4r1lr1r4dg1r1~x4/)|
-|![Unidentified #59 example sett](/setts/s7/r1dg4r1lr1r4dg1r1~x4/sett.png)|
+| [Unidentified #59](/variants/s7/r1dg4r1lr1r4dg1r1~x4/)|
+|![Unidentified #59 example sett](/variants/s7/r1dg4r1lr1r4dg1r1~x4/sett.png)|

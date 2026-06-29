@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Netball Association (1987)](/setts/s8/dp20db9dp20r2dp20db9dp20g2~x2/)|
-|![Scottish Netball Association (1987) example sett](/setts/s8/dp20db9dp20r2dp20db9dp20g2~x2/sett.png)|
+| [Scottish Netball Association (1987)](/variants/s8/dp20db9dp20r2dp20db9dp20g2~x2/)|
+|![Scottish Netball Association (1987) example sett](/variants/s8/dp20db9dp20r2dp20db9dp20g2~x2/sett.png)|

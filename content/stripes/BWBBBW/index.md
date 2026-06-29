@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Ness Water](/setts/s6/lb3t11db8t10lb6dp1~x2/)|
-|![Loch Ness Water example sett](/setts/s6/lb3t11db8t10lb6dp1~x2/sett.png)|
+| [Loch Ness Water](/variants/s6/lb3t11db8t10lb6dp1~x2/)|
+|![Loch Ness Water example sett](/variants/s6/lb3t11db8t10lb6dp1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meath, County](/setts/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/)|
-|![Meath, County example sett](/setts/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/sett.png)|
+| [Meath, County](/variants/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/)|
+|![Meath, County example sett](/variants/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/sett.png)|

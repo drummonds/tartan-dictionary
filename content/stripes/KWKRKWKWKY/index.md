@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Little, Arisaid](/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/)|
-|![Little, Arisaid example sett](/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/sett.png)|
+| [Little, Arisaid](/variants/s10/k5w4k4r4k4w7k2w7k8ly1~x4/)|
+|![Little, Arisaid example sett](/variants/s10/k5w4k4r4k4w7k2w7k8ly1~x4/sett.png)|

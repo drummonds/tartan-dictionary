@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Young Enterprise Scotland](/setts/s7/ly3k8o3g4gi4dt22lyi2~x2/)|
-|![Young Enterprise Scotland example sett](/setts/s7/ly3k8o3g4gi4dt22lyi2~x2/sett.png)|
+| [Young Enterprise Scotland](/variants/s7/ly3k8o3g4gi4dt22lyi2~x2/)|
+|![Young Enterprise Scotland example sett](/variants/s7/ly3k8o3g4gi4dt22lyi2~x2/sett.png)|

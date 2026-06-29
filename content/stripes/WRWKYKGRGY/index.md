@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spanish shirt](/setts/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/)|
-|![Spanish shirt example sett](/setts/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/sett.png)|
+| [Spanish shirt](/variants/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/)|
+|![Spanish shirt example sett](/variants/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/sett.png)|

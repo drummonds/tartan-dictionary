@@ -1,0 +1,5 @@
+---
+title: "Unidentified Cant #03"
+redirect: "/variants/s66/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5y5w1dbi4db3w1y4w1db3dbi4w1y5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Unidentified Cant #03](/variants/s66/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5y5w1dbi4db3w1y4w1db3dbi4w1y5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1~x2/).

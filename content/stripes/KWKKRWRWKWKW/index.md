@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne, Grey (Fashion)](/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/)|
-|![Auld Lang Syne, Grey (Fashion) example sett](/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/sett.png)|
+| [Auld Lang Syne, Grey (Fashion)](/variants/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/)|
+|![Auld Lang Syne, Grey (Fashion) example sett](/variants/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/sett.png)|

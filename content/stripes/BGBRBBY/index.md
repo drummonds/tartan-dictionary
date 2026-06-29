@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heckenberg Htg (Personal)](/setts/s7/db3g13t1r3t1db10ly1~x2/)|
-|![Heckenberg Htg (Personal) example sett](/setts/s7/db3g13t1r3t1db10ly1~x2/sett.png)|
+| [Heckenberg Htg (Personal)](/variants/s7/db3g13t1r3t1db10ly1~x2/)|
+|![Heckenberg Htg (Personal) example sett](/variants/s7/db3g13t1r3t1db10ly1~x2/sett.png)|

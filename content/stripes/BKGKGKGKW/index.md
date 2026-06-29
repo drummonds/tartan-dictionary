@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coffield-Limesand (Personal)](/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/)|
-|![Coffield-Limesand (Personal) example sett](/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/sett.png)|
+| [Coffield-Limesand (Personal)](/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/)|
+|![Coffield-Limesand (Personal) example sett](/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/sett.png)|

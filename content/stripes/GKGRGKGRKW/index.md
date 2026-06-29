@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCarthy (Fashion?)](/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/)|
-|![MacCarthy (Fashion?) example sett](/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/sett.png)|
+| [MacCarthy (Fashion?)](/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/)|
+|![MacCarthy (Fashion?) example sett](/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/sett.png)|

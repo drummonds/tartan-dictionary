@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McNee (Name)](/setts/s7/k9w2r50g42r16g17k4/)|
-|![McNee (Name) example sett](/setts/s7/k9w2r50g42r16g17k4/sett.png)|
+| [McNee (Name)](/variants/s7/k9w2r50g42r16g17k4/)|
+|![McNee (Name) example sett](/variants/s7/k9w2r50g42r16g17k4/sett.png)|

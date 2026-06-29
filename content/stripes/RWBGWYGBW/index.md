@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mary, Queen of Scots](/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/)|
-|![Mary, Queen of Scots example sett](/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/sett.png)|
+| [Mary, Queen of Scots](/variants/s9/r5w1db10g10w1ly1g2t2w1~x2/)|
+|![Mary, Queen of Scots example sett](/variants/s9/r5w1db10g10w1ly1g2t2w1~x2/sett.png)|

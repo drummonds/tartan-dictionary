@@ -1,0 +1,33 @@
+---
+title: "MacDonald of Sleat"
+date: 2023-03-18
+---
+A tartan of the [MacDonald of Sleat](/families/macdonald-of-sleat/) family.
+
+Devised from an old MacDonald tartan in an Armadale Castle painting; the reconstruction (first published 1908) differs from the original. Also recorded as MacDonald, Lord of the Isles, with an extra black overcheck.
+
+The **MacDonald of Sleat** tartan groups 3 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g16r5g2r18k2/">MacDonald of Sleat</a> ★</td><td><code>G/32 R10 G4 R36 K/4</code></td><td>3</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/g16r5g2r18k2/"><img src="/variants/s5/g16r5g2r18k2~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg7r3dg1r9k1/">MacDonald of Sleat</a></td><td><code>DG/14 R6 DG2 R18 K/2</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg7r3dg1r9k1/"><img src="/variants/s5/dg7r3dg1r9k1~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r36g2r5g16/">MacDonald of Sleat</a></td><td><code>R/72 G4 R10 G/32</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r36g2r5g16/"><img src="/variants/s4/r36g2r5g16~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacCullough
+- MacDonald Lord of the Isles #2
+- MacDonald of the Isles Portrait
+- MacDonald, Lord of The Isles
+- MacDonald, Lord of the Isles

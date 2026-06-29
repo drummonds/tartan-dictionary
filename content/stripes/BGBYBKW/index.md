@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-sant-Brieg](/setts/s7/dt3g6dt2ly3dt42k6w3~x2/)|
-|![Bro-sant-Brieg example sett](/setts/s7/dt3g6dt2ly3dt42k6w3~x2/sett.png)|
+| [Bro-sant-Brieg](/variants/s7/dt3g6dt2ly3dt42k6w3~x2/)|
+|![Bro-sant-Brieg example sett](/variants/s7/dt3g6dt2ly3dt42k6w3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irvine](/setts/s5/g18db9k1db1w1~x4/)|
-|![Irvine example sett](/setts/s5/g18db9k1db1w1~x4/sett.png)|
-| [Irvine of Drum (Clan)](/setts/s5/g49t21k3t3w3~x2/)|
-|![Irvine of Drum (Clan) example sett](/setts/s5/g49t21k3t3w3~x2/sett.png)|
+| [Irvine](/variants/s5/g18db9k1db1w1~x4/)|
+|![Irvine example sett](/variants/s5/g18db9k1db1w1~x4/sett.png)|
+| [Irvine of Drum (Clan)](/variants/s5/g49t21k3t3w3~x2/)|
+|![Irvine of Drum (Clan) example sett](/variants/s5/g49t21k3t3w3~x2/sett.png)|

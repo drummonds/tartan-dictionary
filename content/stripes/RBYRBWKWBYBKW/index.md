@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stratford Police Pipe Band (Ontario)](/setts/s13/r5b2ly1r45b4w1k4lt9b2ly2b2k10w2~x2/)|
-|![Stratford Police Pipe Band (Ontario) example sett](/setts/s13/r5b2ly1r45b4w1k4lt9b2ly2b2k10w2~x2/sett.png)|
+| [Stratford Police Pipe Band (Ontario)](/variants/s13/r5b2ly1r45b4w1k4lt9b2ly2b2k10w2~x2/)|
+|![Stratford Police Pipe Band (Ontario) example sett](/variants/s13/r5b2ly1r45b4w1k4lt9b2ly2b2k10w2~x2/sett.png)|

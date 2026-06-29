@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buckleigh Dress (Fashion)](/setts/s10/k3r1k1w20k10r2k2w2k2r2~x4/)|
-|![Buckleigh Dress (Fashion) example sett](/setts/s10/k3r1k1w20k10r2k2w2k2r2~x4/sett.png)|
+| [Buckleigh Dress (Fashion)](/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/)|
+|![Buckleigh Dress (Fashion) example sett](/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/sett.png)|

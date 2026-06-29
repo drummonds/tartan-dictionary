@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [John.W.Mackay, Restricted](/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/)|
-|![John.W.Mackay, Restricted example sett](/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/sett.png)|
-| [Mackay, John W. (Personal)](/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/)|
-|![Mackay, John W. (Personal) example sett](/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/sett.png)|
+| [John.W.Mackay, Restricted](/variants/s9/k4g34ly1k18g3db18r3g3r3~x2/)|
+|![John.W.Mackay, Restricted example sett](/variants/s9/k4g34ly1k18g3db18r3g3r3~x2/sett.png)|
+| [Mackay, John W. (Personal)](/variants/s9/k4g35lo1k18g3db18r3g3r3~x2/)|
+|![Mackay, John W. (Personal) example sett](/variants/s9/k4g35lo1k18g3db18r3g3r3~x2/sett.png)|

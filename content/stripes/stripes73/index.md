@@ -14,4 +14,4 @@ weight: 73
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Unidentified (2013)](/setts/s73/r5dg10lo1loi1lo1loi1lo1loi1lo1r9lo1lo1loi1lo1r7lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi-he05c3499df3d94e1/) | tartans-authority |
+| 0.12 | [Unidentified (2013)](/variants/s73/r5dg10lo1loi1lo1loi1lo1loi1lo1r9lo1lo1loi1lo1r7lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi1lo1loi-he05c3499df3d94e1/) | tartans-authority |

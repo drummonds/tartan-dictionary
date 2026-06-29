@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie Countryfare (Corporate)](/setts/s7/dbi3k13dbi13db13w2db13w3~x2/)|
-|![Brodie Countryfare (Corporate) example sett](/setts/s7/dbi3k13dbi13db13w2db13w3~x2/sett.png)|
+| [Brodie Countryfare (Corporate)](/variants/s7/dbi3k13dbi13db13w2db13w3~x2/)|
+|![Brodie Countryfare (Corporate) example sett](/variants/s7/dbi3k13dbi13db13w2db13w3~x2/sett.png)|

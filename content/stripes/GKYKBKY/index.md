@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alberta](/setts/s7/g18k2lr2k2t3k2ly6~x4/)|
-|![Alberta example sett](/setts/s7/g18k2lr2k2t3k2ly6~x4/sett.png)|
+| [Alberta](/variants/s7/g18k2lr2k2t3k2ly6~x4/)|
+|![Alberta example sett](/variants/s7/g18k2lr2k2t3k2ly6~x4/sett.png)|

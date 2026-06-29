@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guardian of Scotland, Wthd (Fashion)](/setts/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/)|
-|![Guardian of Scotland, Wthd (Fashion) example sett](/setts/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/sett.png)|
+| [Guardian of Scotland, Wthd (Fashion)](/variants/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/)|
+|![Guardian of Scotland, Wthd (Fashion) example sett](/variants/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/sett.png)|

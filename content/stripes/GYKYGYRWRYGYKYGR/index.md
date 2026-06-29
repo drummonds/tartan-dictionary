@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Prince Charles Edward #4](/setts/s16/r12g3ly4k2ly4g12ly2r3w1~x4/)|
-|![Unnamed C18th - Prince Charles Edward #4 example sett](/setts/s16/r12g3ly4k2ly4g12ly2r3w1~x4/sett.png)|
+| [Unnamed C18th - Prince Charles Edward #4](/variants/s16/r12g3ly4k2ly4g12ly2r3w1~x4/)|
+|![Unnamed C18th - Prince Charles Edward #4 example sett](/variants/s16/r12g3ly4k2ly4g12ly2r3w1~x4/sett.png)|

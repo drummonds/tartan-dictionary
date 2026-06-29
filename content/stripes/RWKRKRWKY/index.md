@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norton (Corporate)](/setts/s9/ly75k6w3o2k6o2k6w3o2/)|
-|![Norton (Corporate) example sett](/setts/s9/ly75k6w3o2k6o2k6w3o2/sett.png)|
+| [Norton (Corporate)](/variants/s9/ly75k6w3o2k6o2k6w3o2/)|
+|![Norton (Corporate) example sett](/variants/s9/ly75k6w3o2k6o2k6w3o2/sett.png)|

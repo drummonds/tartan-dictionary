@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks - Chino Check - B.11155](/setts/s12/o22oi3k7ly2k2n2k2db10dy6k2dy3o2~x2/)|
-|![Daks - Chino Check - B.11155 example sett](/setts/s12/o22oi3k7ly2k2n2k2db10dy6k2dy3o2~x2/sett.png)|
+| [Daks - Chino Check - B.11155](/variants/s12/o22oi3k7ly2k2n2k2db10dy6k2dy3o2~x2/)|
+|![Daks - Chino Check - B.11155 example sett](/variants/s12/o22oi3k7ly2k2n2k2db10dy6k2dy3o2~x2/sett.png)|

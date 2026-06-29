@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saltire](/setts/s18/db10b6lb6w4lb3b6db20b46db2lb2~x2/)|
-|![Saltire example sett](/setts/s18/db10b6lb6w4lb3b6db20b46db2lb2~x2/sett.png)|
+| [Saltire](/variants/s18/db10b6lb6w4lb3b6db20b46db2lb2~x2/)|
+|![Saltire example sett](/variants/s18/db10b6lb6w4lb3b6db20b46db2lb2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anthony Plaid Red](/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/)|
-|![Anthony Plaid Red example sett](/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/sett.png)|
+| [Anthony Plaid Red](/variants/s9/r18k1ly3k1lr1r3k2r2lr2~x4/)|
+|![Anthony Plaid Red example sett](/variants/s9/r18k1ly3k1lr1r3k2r2lr2~x4/sett.png)|

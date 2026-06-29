@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Merchiston Castle School](/tartans/k18lr8k8lr8r5lr18k5lr5k12db36r5/)|
-|![Merchiston Castle School example sett](/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/sett.png)|
+| [Merchiston Castle School](/setts/k18lr8k8lr8r5lr18k5lr5k12db36r5/)|
+|![Merchiston Castle School example sett](/variants/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/sett.png)|

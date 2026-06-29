@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Nuclear](/setts/s6/db9k4lb1k4db9r1~x4/)|
-|![Scottish Nuclear example sett](/setts/s6/db9k4lb1k4db9r1~x4/sett.png)|
+| [Scottish Nuclear](/variants/s6/db9k4lb1k4db9r1~x4/)|
+|![Scottish Nuclear example sett](/variants/s6/db9k4lb1k4db9r1~x4/sett.png)|

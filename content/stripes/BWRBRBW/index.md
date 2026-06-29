@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coronation](/setts/s7/db7w1r7db4r2db4w2~x2/)|
-|![Coronation example sett](/setts/s7/db7w1r7db4r2db4w2~x2/sett.png)|
-| [Coronation](/tartans/db11w1r12db6r1db6w1/)|
-|![Coronation example sett](/setts/s7/db11w1r12db6r1db6w1~x2/sett.png)|
+| [Coronation](/variants/s7/db7w1r7db4r2db4w2~x2/)|
+|![Coronation example sett](/variants/s7/db7w1r7db4r2db4w2~x2/sett.png)|
+| [Coronation](/setts/db11w1r12db6r1db6w1/)|
+|![Coronation example sett](/variants/s7/db11w1r12db6r1db6w1~x2/sett.png)|

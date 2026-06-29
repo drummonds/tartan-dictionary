@@ -1,0 +1,62 @@
+---
+title: "Dutch Dress"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2w12y1k12o12k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKGWR](/stripes/krkgwr/).
+
+Part of the [Dutch Dress](/tartans/dutch-dress/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1055
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Dutch, dress
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1965 — Dutch Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1055">record</a>)</li>
+<li>1965 — Dutch Dress (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1133/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1055](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1055)
+- Scottish Tartans Authority (ITI): 1133
+- Scottish Tartans World Register: 1133
+
+## Thread count
+R/4 LN24 LG2 K24 T24 K/2
+
+One full sett is **154 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>LG</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> <small style="color:#888">#789484</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(64.0% 0.040 160.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#98481C;"><span style="color:#98481C;filter:grayscale(1) invert(1) contrast(100);">#98481C</span></code> <small style="color:#888">#98481C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(49.6% 0.121 46.1)</small></td></tr><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/4 LN24 LG2 K24 T24 K/2 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r2w12y1k12o12k1~x2">Dutch Dress</a> <a class="nn-out" href="/variants/s6/r2w12y1k12o12k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r2w12y1k12o12k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.56</div><div class="nn-name"><a href="/ttd/edit/#slug=r2w12t1k12lo12k1~x2&amp;base=r2w12y1k12o12k1~x2">Dutch, dress</a> <a class="nn-out" href="/variants/s6/r2w12t1k12lo12k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2w12t1k12lo12k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.57</div><div class="nn-name"><a href="/ttd/edit/#slug=dg20r3y3r15w19dg3t2~x2&amp;base=r2w12y1k12o12k1~x2">Glasgow</a> <a class="nn-out" href="/variants/s7/dg20r3y3r15w19dg3t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg20r3y3r15w19dg3t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/ttd/edit/#slug=dg2do8dg8r3do1w12dg2y1~x2&amp;base=r2w12y1k12o12k1~x2">National Trust Corporate Tartan</a> <a class="nn-out" href="/variants/s8/dg2do8dg8r3do1w12dg2y1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg2do8dg8r3do1w12dg2y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.04</div><div class="nn-name"><a href="/ttd/edit/#slug=r36w3lo4g24w24k3lo6~x2&amp;base=r2w12y1k12o12k1~x2">MacLachlan Dress</a> <a class="nn-out" href="/variants/s7/r36w3lo4g24w24k3lo6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r36w3lo4g24w24k3lo6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.07</div><div class="nn-name"><a href="/ttd/edit/#slug=lb5k26ly4lb24dp8k3r4~x2&amp;base=r2w12y1k12o12k1~x2">Pengelly, The Cornish (Name)</a> <a class="nn-out" href="/variants/s7/lb5k26ly4lb24dp8k3r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb5k26ly4lb24dp8k3r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=g4ly7o9ly9db20w2db2~x2&amp;base=r2w12y1k12o12k1~x2">Tombow 140th Anniversary, The</a> <a class="nn-out" href="/variants/s7/g4ly7o9ly9db20w2db2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g4ly7o9ly9db20w2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=r5db1r5g13db8t5r5w1db3~x2&amp;base=r2w12y1k12o12k1~x2">Unidentified #27</a> <a class="nn-out" href="/variants/s9/r5db1r5g13db8t5r5w1db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r5db1r5g13db8t5r5w1db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=r4o25k6w12k11ly3~x2&amp;base=r2w12y1k12o12k1~x2">Thomson Dress (Grey) (Fashion)</a> <a class="nn-out" href="/variants/s6/r4o25k6w12k11ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4o25k6w12k11ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=r24w2ly3dg16k16w2ly3~x2&amp;base=r2w12y1k12o12k1~x2">MacLachlan #4</a> <a class="nn-out" href="/variants/s7/r24w2ly3dg16k16w2ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r24w2ly3dg16k16w2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/variants/s7/k3r3lo2r20ki16lb24w2~x2/">Oor Wullie Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k3r3lo2r20ki16lb24w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2w12t1k12lo12k1~x2/"><circle cx="120.1" cy="155.0" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/dg20r3y3r15w19dg3t2~x2/"><circle cx="133.9" cy="158.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s8/dg2do8dg8r3do1w12dg2y1~x2/"><circle cx="122.4" cy="152.8" r="4" fill="#3465a4"><title>National Trust Corporate Tartan</title></circle></a><a href="/variants/s7/r36w3lo4g24w24k3lo6~x2/"><circle cx="139.4" cy="147.3" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s7/lb5k26ly4lb24dp8k3r4~x2/"><circle cx="151.8" cy="163.3" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/variants/s7/g4ly7o9ly9db20w2db2~x2/"><circle cx="155.4" cy="171.6" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="119.4" cy="163.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/variants/s6/r4o25k6w12k11ly3~x2/"><circle cx="140.5" cy="186.0" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/r24w2ly3dg16k16w2ly3~x2/"><circle cx="153.5" cy="153.4" r="4" fill="#3465a4"><title>MacLachlan #4</title></circle></a><a href="/variants/s7/k3r3lo2r20ki16lb24w2~x2/"><circle cx="127.2" cy="129.6" r="4" fill="#3465a4"><title>Oor Wullie Corporate Tartan</title></circle></a><circle cx="131.6" cy="163.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/r2w12y1k12o12k1~x2/

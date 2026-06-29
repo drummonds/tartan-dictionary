@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doune (District)](/setts/s9/o10t11k2t3k2t2k8o40w4~x2/)|
-|![Doune (District) example sett](/setts/s9/o10t11k2t3k2t2k8o40w4~x2/sett.png)|
+| [Doune (District)](/variants/s9/o10t11k2t3k2t2k8o40w4~x2/)|
+|![Doune (District) example sett](/variants/s9/o10t11k2t3k2t2k8o40w4~x2/sett.png)|

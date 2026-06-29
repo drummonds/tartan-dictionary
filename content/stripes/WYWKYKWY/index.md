@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tennessee Volunteer](/setts/s8/w12lo12w12k5lo45k5lb5lo10~x2/)|
-|![Tennessee Volunteer example sett](/setts/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png)|
+| [Tennessee Volunteer](/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/)|
+|![Tennessee Volunteer example sett](/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/sett.png)|

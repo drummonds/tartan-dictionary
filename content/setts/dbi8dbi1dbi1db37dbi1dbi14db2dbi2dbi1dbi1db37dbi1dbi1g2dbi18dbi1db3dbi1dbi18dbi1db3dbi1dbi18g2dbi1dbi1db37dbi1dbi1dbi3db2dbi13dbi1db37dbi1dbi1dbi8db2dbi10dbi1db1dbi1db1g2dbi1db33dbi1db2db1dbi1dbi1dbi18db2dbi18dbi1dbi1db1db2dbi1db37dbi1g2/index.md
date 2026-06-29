@@ -1,0 +1,5 @@
+---
+title: "Millennium (Texcraft) (Fashion)"
+redirect: "/variants/s62/dbi8dbi1dbi1db37dbi1dbi14db2dbi2dbi1dbi1db37dbi1dbi1g2dbi18dbi1db3dbi1dbi18dbi1db3dbi1dbi18g2dbi1dbi1db37dbi1dbi1dbi3db2dbi13dbi1db37dbi1dbi1dbi8db2dbi10dbi1db1dbi1db1g2dbi1db33dbi1db2db1dbi1dbi1dbi18-h7dd13ead7221f6e7/"
+---
+This sett is recorded as a single cloth — redirecting to [Millennium (Texcraft) (Fashion)](/variants/s62/dbi8dbi1dbi1db37dbi1dbi14db2dbi2dbi1dbi1db37dbi1dbi1g2dbi18dbi1db3dbi1dbi18dbi1db3dbi1dbi18g2dbi1dbi1db37dbi1dbi1dbi3db2dbi13dbi1db37dbi1dbi1dbi8db2dbi10dbi1db1dbi1db1g2dbi1db33dbi1db2db1dbi1dbi1dbi18-h7dd13ead7221f6e7/).

@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Metcalf (Clan)](/setts/s19/r44g18lb5dt2lb2dt3lb9k7lb5k7lb9dt3lb2dt2lb5r16g3r5dt2~x2/)|
-|![Metcalf (Clan) example sett](/setts/s19/r44g18lb5dt2lb2dt3lb9k7lb5k7lb9dt3lb2dt2lb5r16g3r5dt2~x2/sett.png)|
+| [Metcalf (Clan)](/variants/s19/r44g18lb5dt2lb2dt3lb9k7lb5k7lb9dt3lb2dt2lb5r16g3r5dt2~x2/)|
+|![Metcalf (Clan) example sett](/variants/s19/r44g18lb5dt2lb2dt3lb9k7lb5k7lb9dt3lb2dt2lb5r16g3r5dt2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thistle and Kudzu Scottish Society](/setts/s4/p6lg15g15w2~x2/)|
-|![Thistle and Kudzu Scottish Society example sett](/setts/s4/p6lg15g15w2~x2/sett.png)|
+| [Thistle and Kudzu Scottish Society](/variants/s4/p6lg15g15w2~x2/)|
+|![Thistle and Kudzu Scottish Society example sett](/variants/s4/p6lg15g15w2~x2/sett.png)|

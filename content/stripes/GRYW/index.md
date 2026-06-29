@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sugell (Name?)](/setts/s4/g72r25ly8w5/)|
-|![Sugell (Name?) example sett](/setts/s4/g72r25ly8w5/sett.png)|
+| [Sugell (Name?)](/variants/s4/g72r25ly8w5/)|
+|![Sugell (Name?) example sett](/variants/s4/g72r25ly8w5/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Zambia](/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/)|
-|![Zambia example sett](/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/sett.png)|
+| [Zambia](/variants/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/)|
+|![Zambia example sett](/variants/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/sett.png)|

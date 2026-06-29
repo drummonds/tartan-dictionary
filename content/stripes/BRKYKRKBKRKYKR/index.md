@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salvation Army Dress](/setts/s14/r16k2ly4k2r15k2db74k2r15k2ly4k2r16db10~x2/)|
-|![Salvation Army Dress example sett](/setts/s14/r16k2ly4k2r15k2db74k2r15k2ly4k2r16db10~x2/sett.png)|
+| [Salvation Army Dress](/variants/s14/r16k2ly4k2r15k2db74k2r15k2ly4k2r16db10~x2/)|
+|![Salvation Army Dress example sett](/variants/s14/r16k2ly4k2r15k2db74k2r15k2ly4k2r16db10~x2/sett.png)|

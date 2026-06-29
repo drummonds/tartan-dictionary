@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Bahrain (Royal)](/setts/s18/dt16r1dt2r3dt1r9dt1r3dt2r1dt6dg3lb3dg5r28w3r3w3~x2/)|
-|![Royal Bahrain (Royal) example sett](/setts/s18/dt16r1dt2r3dt1r9dt1r3dt2r1dt6dg3lb3dg5r28w3r3w3~x2/sett.png)|
+| [Royal Bahrain (Royal)](/variants/s18/dt16r1dt2r3dt1r9dt1r3dt2r1dt6dg3lb3dg5r28w3r3w3~x2/)|
+|![Royal Bahrain (Royal) example sett](/variants/s18/dt16r1dt2r3dt1r9dt1r3dt2r1dt6dg3lb3dg5r28w3r3w3~x2/sett.png)|

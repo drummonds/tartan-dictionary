@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cox](/setts/s22/lb3dg12lo3lp3lo3lp4dg12y3dg3y3dg28w3dg3y3dg12lp4lo3lp3lo3dg12lo4dg2~x2/)|
-|![Cox example sett](/setts/s22/lb3dg12lo3lp3lo3lp4dg12y3dg3y3dg28w3dg3y3dg12lp4lo3lp3lo3dg12lo4dg2~x2/sett.png)|
+| [Cox](/variants/s22/lb3dg12lo3lp3lo3lp4dg12y3dg3y3dg28w3dg3y3dg12lp4lo3lp3lo3dg12lo4dg2~x2/)|
+|![Cox example sett](/variants/s22/lb3dg12lo3lp3lo3lp4dg12y3dg3y3dg28w3dg3y3dg12lp4lo3lp3lo3dg12lo4dg2~x2/sett.png)|

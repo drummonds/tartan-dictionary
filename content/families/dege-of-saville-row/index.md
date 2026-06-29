@@ -8,11 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/dy11db1dy3dbi1db9r1~x4/"><img src="/setts/s6/dy11db1dy3dbi1db9r1~x4/sett.png" alt="Dege of Saville Row" width="240"><br>Dege of Saville Row</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s6/o11dbi1o3db1dbi9r1~x4/"><img src="/setts/s6/o11dbi1o3db1dbi9r1~x4/sett.png" alt="Dege, of Saville Row" width="140"><br>Dege, of Saville Row</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dy11db1dy3dbi1db9r1/">Dege of Saville Row</a> ★</td><td><code>DY/44 DB4 DY12 DBi4 DB36 R/4</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dy11db1dy3dbi1db9r1/"><img src="/variants/s6/dy11db1dy3dbi1db9r1~x4/sett.png" alt="Dege of Saville Row sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

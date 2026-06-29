@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Menzies Black Dress](/setts/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/)|
-|![Menzies Black Dress example sett](/setts/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/sett.png)|
+| [Menzies Black Dress](/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/)|
+|![Menzies Black Dress example sett](/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/sett.png)|

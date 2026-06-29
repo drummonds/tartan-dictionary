@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [DeCloud-McMasters (Personal)](/setts/s8/r3db2w2db26k22w3db3w3~x2/)|
-|![DeCloud-McMasters (Personal) example sett](/setts/s8/r3db2w2db26k22w3db3w3~x2/sett.png)|
+| [DeCloud-McMasters (Personal)](/variants/s8/r3db2w2db26k22w3db3w3~x2/)|
+|![DeCloud-McMasters (Personal) example sett](/variants/s8/r3db2w2db26k22w3db3w3~x2/sett.png)|

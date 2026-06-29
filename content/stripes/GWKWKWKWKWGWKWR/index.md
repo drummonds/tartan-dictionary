@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Halliday](/setts/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8/)|
-|![Halliday example sett](/setts/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8/sett.png)|
+| [Halliday](/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8/)|
+|![Halliday example sett](/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ogilvy](/setts/s14/lb10r3lb10ly5k2r6lb2r6lb2r6db2ly2lb5lr2/)|
-|![Ogilvy example sett](/setts/s14/lb10r3lb10ly5k2r6lb2r6lb2r6db2ly2lb5lr2/sett.png)|
+| [Ogilvy](/variants/s14/lb10r3lb10ly5k2r6lb2r6lb2r6db2ly2lb5lr2/)|
+|![Ogilvy example sett](/variants/s14/lb10r3lb10ly5k2r6lb2r6lb2r6db2ly2lb5lr2/sett.png)|

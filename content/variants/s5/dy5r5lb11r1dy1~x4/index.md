@@ -1,0 +1,53 @@
+---
+title: "O'Connor Dress"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5r5lb11r1dy1/)
+(the same proportion at any scale), whose colour order is pattern [GRWRG](/stripes/grwrg/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3218
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — O'Connor Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3218">record</a>)</li>
+<li>pre 2004 — O'Connor Dress (Fashion?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6398/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3218](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3218)
+- Scottish Tartans Authority (ITI): 6398
+
+## Thread count
+T/20 LR20 LB44 LR4 T/4
+
+One full sett is **160 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(5 of 7 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>T/</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> <small style="color:#888">#604000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.8% 0.083 76.8)</small></td></tr><tr><td>LR</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> <small style="color:#888">#E87878</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(70.0% 0.139 21.2)</small></td></tr><tr><td>LB</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> <small style="color:#888">#98C8E8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(81.0% 0.068 237.9)</small></td></tr><tr><td>LR</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> <small style="color:#888">#E87878</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(70.0% 0.139 21.2)</small></td></tr><tr><td>T/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> <small style="color:#888">#604000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.8% 0.083 76.8)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="T/20 LR20 LB44 LR4 T/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dy5r5lb11r1dy1~x4">O'Connor Dress</a> <a class="nn-out" href="/variants/s5/dy5r5lb11r1dy1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dy5r5lb11r1dy1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=o56w30o8r10o3r20&amp;base=dy5r5lb11r1dy1~x4">Walsh, Michael Edward (Personal)</a> <a class="nn-out" href="/variants/s6/o56w30o8r10o3r20/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o56w30o8r10o3r20/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=lr56w30lr8r10lr3r20&amp;base=dy5r5lb11r1dy1~x4">Walsh, Michael Edward (Personal)</a> <a class="nn-out" href="/variants/s6/lr56w30lr8r10lr3r20/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lr56w30lr8r10lr3r20/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=r4lbi30y14lb11y4~x2&amp;base=dy5r5lb11r1dy1~x4">Trinity Bicycles (Corporate)</a> <a class="nn-out" href="/variants/s5/r4lbi30y14lb11y4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r4lbi30y14lb11y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=k4t28r6w12r12w3~x2&amp;base=dy5r5lb11r1dy1~x4">Thompson, D.C. (Personal)</a> <a class="nn-out" href="/variants/s6/k4t28r6w12r12w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4t28r6w12r12w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=g4lb31g7r14g11r3~x2&amp;base=dy5r5lb11r1dy1~x4">Gleneagles USA (Dalgleish)</a> <a class="nn-out" href="/variants/s6/g4lb31g7r14g11r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g4lb31g7r14g11r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.42</div><div class="nn-name"><a href="/ttd/edit/#slug=t15w2r20w3~x4&amp;base=dy5r5lb11r1dy1~x4">Masai Shuka 24 (Artefact)</a> <a class="nn-out" href="/variants/s4/t15w2r20w3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/t15w2r20w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.47</div><div class="nn-name"><a href="/ttd/edit/#slug=dy8lr29dy8lo3dy8lr8lo3~x2&amp;base=dy5r5lb11r1dy1~x4">Lister (Misty Mountain)</a> <a class="nn-out" href="/variants/s7/dy8lr29dy8lo3dy8lr8lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy8lr29dy8lo3dy8lr8lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=k3w29m9lb19k3~x2&amp;base=dy5r5lb11r1dy1~x4">Islander Dress</a> <a class="nn-out" href="/variants/s5/k3w29m9lb19k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k3w29m9lb19k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.56</div><div class="nn-name"><a href="/ttd/edit/#slug=o22ly10w3db8~x2&amp;base=dy5r5lb11r1dy1~x4">Louisburg</a> <a class="nn-out" href="/variants/s4/o22ly10w3db8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/o22ly10w3db8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.63</div><div class="nn-name"><a href="/ttd/edit/#slug=r12dt2ly2lb2dt4lb3~x2&amp;base=dy5r5lb11r1dy1~x4">Winnipeg Embroiders' Guild (Corp.)</a> <a class="nn-out" href="/variants/s6/r12dt2ly2lb2dt4lb3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r12dt2ly2lb2dt4lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o56w30o8r10o3r20/"><circle cx="317.6" cy="183.5" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/variants/s6/lr56w30lr8r10lr3r20/"><circle cx="319.6" cy="182.6" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/variants/s5/r4lbi30y14lb11y4~x2/"><circle cx="233.7" cy="221.6" r="4" fill="#3465a4"><title>Trinity Bicycles (Corporate)</title></circle></a><a href="/variants/s6/k4t28r6w12r12w3~x2/"><circle cx="203.0" cy="196.3" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/variants/s6/g4lb31g7r14g11r3~x2/"><circle cx="239.4" cy="211.1" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/variants/s4/t15w2r20w3~x4/"><circle cx="299.9" cy="231.3" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/variants/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="311.1" cy="200.8" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s5/k3w29m9lb19k3~x2/"><circle cx="215.1" cy="200.8" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s4/o22ly10w3db8~x2/"><circle cx="218.7" cy="236.7" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/r12dt2ly2lb2dt4lb3~x2/"><circle cx="220.6" cy="202.6" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><circle cx="272.2" cy="218.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/dy5r5lb11r1dy1~x4/

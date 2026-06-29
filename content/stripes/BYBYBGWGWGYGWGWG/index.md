@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacOrrell](/setts/s16/db36ly4db10ly4db36g28w3g3w3g8ly6g8w3g3w3g28/)|
-|![MacOrrell example sett](/setts/s16/db36ly4db10ly4db36g28w3g3w3g8ly6g8w3g3w3g28/sett.png)|
+| [MacOrrell](/variants/s16/db36ly4db10ly4db36g28w3g3w3g8ly6g8w3g3w3g28/)|
+|![MacOrrell example sett](/variants/s16/db36ly4db10ly4db36g28w3g3w3g8ly6g8w3g3w3g28/sett.png)|

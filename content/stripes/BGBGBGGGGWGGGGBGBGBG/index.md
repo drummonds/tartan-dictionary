@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Skye](/setts/s20/dy20dp2dy2dp2dy3dp8dg9g8y8dg1lb2~x2/)|
-|![Isle of Skye example sett](/setts/s20/dy20dp2dy2dp2dy3dp8dg9g8y8dg1lb2~x2/sett.png)|
+| [Isle of Skye](/variants/s20/dy20dp2dy2dp2dy3dp8dg9g8y8dg1lb2~x2/)|
+|![Isle of Skye example sett](/variants/s20/dy20dp2dy2dp2dy3dp8dg9g8y8dg1lb2~x2/sett.png)|

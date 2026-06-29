@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gleneagles, Hotel](/setts/s7/k4y4w35y1k36y4k2~x2/)|
-|![Gleneagles, Hotel example sett](/setts/s7/k4y4w35y1k36y4k2~x2/sett.png)|
+| [Gleneagles, Hotel](/variants/s7/k4y4w35y1k36y4k2~x2/)|
+|![Gleneagles, Hotel example sett](/variants/s7/k4y4w35y1k36y4k2~x2/sett.png)|

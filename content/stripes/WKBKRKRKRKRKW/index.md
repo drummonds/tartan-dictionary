@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Danish](/setts/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/)|
-|![Danish example sett](/setts/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/sett.png)|
+| [Danish](/variants/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/)|
+|![Danish example sett](/variants/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/sett.png)|

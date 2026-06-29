@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tasmanian](/setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/)|
-|![Tasmanian example sett](/setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/sett.png)|
+| [Tasmanian](/variants/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/)|
+|![Tasmanian example sett](/variants/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/sett.png)|

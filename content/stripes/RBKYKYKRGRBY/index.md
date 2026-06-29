@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hepburn](/tartans/r21db4k5ly2k2ly2k2r7g4r2db3ly2/)|
-|![Hepburn example sett](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/sett.png)|
+| [Hepburn](/setts/r21db4k5ly2k2ly2k2r7g4r2db3ly2/)|
+|![Hepburn example sett](/variants/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/sett.png)|

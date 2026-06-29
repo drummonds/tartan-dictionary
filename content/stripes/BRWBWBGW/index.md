@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kruenaegel and Schropp](/setts/s8/b20m1w3dt1w2dt8g3w1~x4/)|
-|![Kruenaegel and Schropp example sett](/setts/s8/b20m1w3dt1w2dt8g3w1~x4/sett.png)|
-| [Kruenaegel and Schropp (Name)](/setts/s8/b20r1w3db1w2db8g3w1~x4/)|
-|![Kruenaegel and Schropp (Name) example sett](/setts/s8/b20r1w3db1w2db8g3w1~x4/sett.png)|
+| [Kruenaegel and Schropp](/variants/s8/b20m1w3dt1w2dt8g3w1~x4/)|
+|![Kruenaegel and Schropp example sett](/variants/s8/b20m1w3dt1w2dt8g3w1~x4/sett.png)|
+| [Kruenaegel and Schropp (Name)](/variants/s8/b20r1w3db1w2db8g3w1~x4/)|
+|![Kruenaegel and Schropp (Name) example sett](/variants/s8/b20r1w3db1w2db8g3w1~x4/sett.png)|

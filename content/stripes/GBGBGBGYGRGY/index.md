@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenways Marketing Intl](/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/)|
-|![Greenways Marketing Intl example sett](/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/sett.png)|
+| [Greenways Marketing Intl](/variants/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/)|
+|![Greenways Marketing Intl example sett](/variants/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/sett.png)|

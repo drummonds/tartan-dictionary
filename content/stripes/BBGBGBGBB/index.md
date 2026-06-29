@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sound of Mull](/setts/s9/db30dt4dy6ni4dy6n6dy12n13dr4~x2/)|
-|![Sound of Mull example sett](/setts/s9/db30dt4dy6ni4dy6n6dy12n13dr4~x2/sett.png)|
+| [Sound of Mull](/variants/s9/db30dt4dy6ni4dy6n6dy12n13dr4~x2/)|
+|![Sound of Mull example sett](/variants/s9/db30dt4dy6ni4dy6n6dy12n13dr4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drummond](/setts/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/)|
-|![Drummond example sett](/setts/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/sett.png)|
+| [Drummond](/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/)|
+|![Drummond example sett](/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/sett.png)|

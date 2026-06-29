@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grampian](/setts/s8/g26r2g3db15dbi26ri2dbi3db4~x2/)|
-|![Grampian example sett](/setts/s8/g26r2g3db15dbi26ri2dbi3db4~x2/sett.png)|
-| [Grampian (District)](/setts/s8/y24r2y3db14dt24r2dt3db3~x2/)|
-|![Grampian (District) example sett](/setts/s8/y24r2y3db14dt24r2dt3db3~x2/sett.png)|
+| [Grampian](/variants/s8/g26r2g3db15dbi26ri2dbi3db4~x2/)|
+|![Grampian example sett](/variants/s8/g26r2g3db15dbi26ri2dbi3db4~x2/sett.png)|
+| [Grampian (District)](/variants/s8/y24r2y3db14dt24r2dt3db3~x2/)|
+|![Grampian (District) example sett](/variants/s8/y24r2y3db14dt24r2dt3db3~x2/sett.png)|

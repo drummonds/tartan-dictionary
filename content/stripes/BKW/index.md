@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shirra (2013)](/setts/s3/db40k32w1~x2/)|
-|![Shirra (2013) example sett](/setts/s3/db40k32w1~x2/sett.png)|
+| [Shirra (2013)](/variants/s3/db40k32w1~x2/)|
+|![Shirra (2013) example sett](/variants/s3/db40k32w1~x2/sett.png)|

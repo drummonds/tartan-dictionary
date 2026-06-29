@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kiltwalk](/setts/s14/w8lb2db52r2db3r2db3r3db2r3db2r8lb8ly8/)|
-|![Kiltwalk example sett](/setts/s14/w8lb2db52r2db3r2db3r3db2r3db2r8lb8ly8/sett.png)|
+| [Kiltwalk](/variants/s14/w8lb2db52r2db3r2db3r3db2r3db2r8lb8ly8/)|
+|![Kiltwalk example sett](/variants/s14/w8lb2db52r2db3r2db3r3db2r3db2r8lb8ly8/sett.png)|

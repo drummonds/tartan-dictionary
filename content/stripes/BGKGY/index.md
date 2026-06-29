@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks (House)](/setts/s5/db4g7k4g7ly4~x2/)|
-|![Daks (House) example sett](/setts/s5/db4g7k4g7ly4~x2/sett.png)|
-| [Selkirk (Name)](/setts/s5/dp11y2k10g10lo2~x2/)|
-|![Selkirk (Name) example sett](/setts/s5/dp11y2k10g10lo2~x2/sett.png)|
+| [Daks (House)](/variants/s5/db4g7k4g7ly4~x2/)|
+|![Daks (House) example sett](/variants/s5/db4g7k4g7ly4~x2/sett.png)|
+| [Selkirk (Name)](/variants/s5/dp11y2k10g10lo2~x2/)|
+|![Selkirk (Name) example sett](/variants/s5/dp11y2k10g10lo2~x2/sett.png)|

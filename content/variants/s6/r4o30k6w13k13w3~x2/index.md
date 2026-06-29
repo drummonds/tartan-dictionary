@@ -1,0 +1,56 @@
+---
+title: "Thom(p)son camel"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4o30k6w13k13w3/)
+(the same proportion at any scale), whose colour order is pattern [RRKWKW](/stripes/rrkwkw/).
+
+Part of the [Thomson Camel](/tartans/thomson-camel/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Thomson camel
+- Thomson, Camel
+
+## Thread count
+R/8 LT60 K12 LN26 K26 LN/6
+
+One full sett is **262 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#806050;"><span style="color:#806050;filter:grayscale(1) invert(1) contrast(100);">#806050</span></code> <small style="color:#888">#806050</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(51.7% 0.049 47.8)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/8 LT60 K12 LN26 K26 LN/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r4lo30k6w13k13w3/"><img src="/variants/s6/r4lo30k6w13k13w3~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r4lo30k6w13k13w3/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r4o30k6w13k13w3~x2">Thom(p)son camel</a> <a class="nn-out" href="/variants/s6/r4o30k6w13k13w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r4o30k6w13k13w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.45</div><div class="nn-name"><a href="/ttd/edit/#slug=r2y20k5w10k10r2~x2&amp;base=r4o30k6w13k13w3~x2">Thom(p)son, Grey</a> <a class="nn-out" href="/variants/s6/r2y20k5w10k10r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2y20k5w10k10r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.58</div><div class="nn-name"><a href="/ttd/edit/#slug=lb5o34k24o4r24o4~x2&amp;base=r4o30k6w13k13w3~x2">Wcwm 759-3</a> <a class="nn-out" href="/variants/s6/lb5o34k24o4r24o4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb5o34k24o4r24o4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.75</div><div class="nn-name"><a href="/ttd/edit/#slug=w23db6w6r5k35r10~x2&amp;base=r4o30k6w13k13w3~x2">Meg, Merrilees</a> <a class="nn-out" href="/variants/s6/w23db6w6r5k35r10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w23db6w6r5k35r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.77</div><div class="nn-name"><a href="/ttd/edit/#slug=lo9k32g6lb20lo3lb9k5~x2&amp;base=r4o30k6w13k13w3~x2">Black &amp; White Golf (Corporate)</a> <a class="nn-out" href="/variants/s7/lo9k32g6lb20lo3lb9k5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lo9k32g6lb20lo3lb9k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.83</div><div class="nn-name"><a href="/ttd/edit/#slug=r2o20k5w10k10r2~x2&amp;base=r4o30k6w13k13w3~x2">Thompson Grey Family Tartan</a> <a class="nn-out" href="/variants/s6/r2o20k5w10k10r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2o20k5w10k10r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.89</div><div class="nn-name"><a href="/ttd/edit/#slug=w23t6w6r5k35r10~x2&amp;base=r4o30k6w13k13w3~x2">Merrilees</a> <a class="nn-out" href="/variants/s6/w23t6w6r5k35r10~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w23t6w6r5k35r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=r2w8k14o25w2k2w2~x2&amp;base=r4o30k6w13k13w3~x2">Merric, Dark Camel..</a> <a class="nn-out" href="/variants/s7/r2w8k14o25w2k2w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2w8k14o25w2k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/ttd/edit/#slug=r2lo20k5w10k10w2~x2&amp;base=r4o30k6w13k13w3~x2">Thompson Camel Clan Tartan</a> <a class="nn-out" href="/variants/s6/r2lo20k5w10k10w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2lo20k5w10k10w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=r2k28y5w12y14r2~x2&amp;base=r4o30k6w13k13w3~x2">Callaway</a> <a class="nn-out" href="/variants/s6/r2k28y5w12y14r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2k28y5w12y14r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.01</div><div class="nn-name"><a href="/ttd/edit/#slug=r4lo30k6w13k13w3~x2&amp;base=r4o30k6w13k13w3~x2">Thomson Camel</a> <a class="nn-out" href="/variants/s6/r4lo30k6w13k13w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4lo30k6w13k13w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2y20k5w10k10r2~x2/"><circle cx="164.2" cy="191.7" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s6/lb5o34k24o4r24o4~x2/"><circle cx="190.3" cy="203.2" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="158.2" cy="200.5" r="4" fill="#3465a4"><title>Meg, Merrilees</title></circle></a><a href="/variants/s7/lo9k32g6lb20lo3lb9k5~x2/"><circle cx="189.5" cy="180.7" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s6/r2o20k5w10k10r2~x2/"><circle cx="173.9" cy="193.4" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan</title></circle></a><a href="/variants/s6/w23t6w6r5k35r10~x2/"><circle cx="156.5" cy="194.7" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s7/r2w8k14o25w2k2w2~x2/"><circle cx="220.8" cy="157.3" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/variants/s6/r2lo20k5w10k10w2~x2/"><circle cx="175.6" cy="191.0" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan</title></circle></a><a href="/variants/s6/r2k28y5w12y14r2~x2/"><circle cx="204.7" cy="176.4" r="4" fill="#3465a4"><title>Callaway</title></circle></a><a href="/variants/s6/r4lo30k6w13k13w3~x2/"><circle cx="189.7" cy="187.9" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><circle cx="184.3" cy="188.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/r4o30k6w13k13w3~x2/

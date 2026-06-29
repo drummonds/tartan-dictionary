@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [CoVASS (Corporate)](/setts/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/)|
-|![CoVASS (Corporate) example sett](/setts/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/sett.png)|
+| [CoVASS (Corporate)](/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/)|
+|![CoVASS (Corporate) example sett](/variants/s11/k90dp1k2r2w1k1r4k2g1k2db2~x2/sett.png)|

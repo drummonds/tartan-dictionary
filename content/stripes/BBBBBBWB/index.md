@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grey Watch Dress (Fashion)](/setts/s8/n12dt2n2dt2n2dt10w12dt3~x2/)|
-|![Grey Watch Dress (Fashion) example sett](/setts/s8/n12dt2n2dt2n2dt10w12dt3~x2/sett.png)|
+| [Grey Watch Dress (Fashion)](/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2/)|
+|![Grey Watch Dress (Fashion) example sett](/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2/sett.png)|

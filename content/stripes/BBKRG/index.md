@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCurdy-Stribbling (Personal)](/setts/s5/db15t20k12o34y3~x2/)|
-|![McCurdy-Stribbling (Personal) example sett](/setts/s5/db15t20k12o34y3~x2/sett.png)|
+| [McCurdy-Stribbling (Personal)](/variants/s5/db15t20k12o34y3~x2/)|
+|![McCurdy-Stribbling (Personal) example sett](/variants/s5/db15t20k12o34y3~x2/sett.png)|

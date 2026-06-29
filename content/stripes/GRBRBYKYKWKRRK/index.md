@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ross Anderson (Fashion) #2](/setts/s14/dg4r2db3r1db3lo1k2lo1k2lb2k2o11r1k1~x4/)|
-|![Ross Anderson (Fashion) #2 example sett](/setts/s14/dg4r2db3r1db3lo1k2lo1k2lb2k2o11r1k1~x4/sett.png)|
+| [Ross Anderson (Fashion) #2](/variants/s14/dg4r2db3r1db3lo1k2lo1k2lb2k2o11r1k1~x4/)|
+|![Ross Anderson (Fashion) #2 example sett](/variants/s14/dg4r2db3r1db3lo1k2lo1k2lb2k2o11r1k1~x4/sett.png)|

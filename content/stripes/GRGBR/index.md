@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Boig](/setts/s5/g37o9g3dr9o3~x2/)|
-|![Glen Boig example sett](/setts/s5/g37o9g3dr9o3~x2/sett.png)|
+| [Glen Boig](/variants/s5/g37o9g3dr9o3~x2/)|
+|![Glen Boig example sett](/variants/s5/g37o9g3dr9o3~x2/sett.png)|

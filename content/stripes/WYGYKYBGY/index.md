@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Kansas (Fashion)](/setts/s9/lo5g23b21loi30k10loi4g4loi16lb3~x2/)|
-|![State Seal of Kansas (Fashion) example sett](/setts/s9/lo5g23b21loi30k10loi4g4loi16lb3~x2/sett.png)|
+| [State Seal of Kansas (Fashion)](/variants/s9/lo5g23b21loi30k10loi4g4loi16lb3~x2/)|
+|![State Seal of Kansas (Fashion) example sett](/variants/s9/lo5g23b21loi30k10loi4g4loi16lb3~x2/sett.png)|

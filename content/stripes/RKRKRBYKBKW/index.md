@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cork County Crest (Fashion)](/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/)|
-|![Cork County Crest (Fashion) example sett](/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/sett.png)|
+| [Cork County Crest (Fashion)](/variants/s11/r7k6r62k15r20n15lo10k16db10k3w6/)|
+|![Cork County Crest (Fashion) example sett](/variants/s11/r7k6r62k15r20n15lo10k16db10k3w6/sett.png)|

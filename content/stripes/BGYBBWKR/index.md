@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fremsaeter, Jenny (Personal)](/setts/s8/b32g5lr8db4dr5w5k5o8~x2/)|
-|![Fremsaeter, Jenny (Personal) example sett](/setts/s8/b32g5lr8db4dr5w5k5o8~x2/sett.png)|
+| [Fremsaeter, Jenny (Personal)](/variants/s8/b32g5lr8db4dr5w5k5o8~x2/)|
+|![Fremsaeter, Jenny (Personal) example sett](/variants/s8/b32g5lr8db4dr5w5k5o8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shieldhall (Fashion)](/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/)|
-|![Shieldhall (Fashion) example sett](/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/sett.png)|
+| [Shieldhall (Fashion)](/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/)|
+|![Shieldhall (Fashion) example sett](/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/sett.png)|

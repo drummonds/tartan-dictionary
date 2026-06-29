@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Shaughnessy (Estimated threadcount)](/setts/s11/db60w3dp8ly2k2w2k2g14db4dy10w2~x2/)|
-|![O'Shaughnessy (Estimated threadcount) example sett](/setts/s11/db60w3dp8ly2k2w2k2g14db4dy10w2~x2/sett.png)|
+| [O'Shaughnessy (Estimated threadcount)](/variants/s11/db60w3dp8ly2k2w2k2g14db4dy10w2~x2/)|
+|![O'Shaughnessy (Estimated threadcount) example sett](/variants/s11/db60w3dp8ly2k2w2k2g14db4dy10w2~x2/sett.png)|

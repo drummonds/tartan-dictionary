@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Olympicana](/setts/s14/lo2k2r2db2g23r24db2lb2db2r2db27g6db2lo2~x2/)|
-|![Olympicana example sett](/setts/s14/lo2k2r2db2g23r24db2lb2db2r2db27g6db2lo2~x2/sett.png)|
+| [Olympicana](/variants/s14/lo2k2r2db2g23r24db2lb2db2r2db27g6db2lo2~x2/)|
+|![Olympicana example sett](/variants/s14/lo2k2r2db2g23r24db2lb2db2r2db27g6db2lo2~x2/sett.png)|

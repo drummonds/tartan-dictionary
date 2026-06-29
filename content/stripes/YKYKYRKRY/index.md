@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anthony Plaid Ecru](/setts/s9/lr18k1ly3k1lr2r2k2r2lr2~x4/)|
-|![Anthony Plaid Ecru example sett](/setts/s9/lr18k1ly3k1lr2r2k2r2lr2~x4/sett.png)|
+| [Anthony Plaid Ecru](/variants/s9/lr18k1ly3k1lr2r2k2r2lr2~x4/)|
+|![Anthony Plaid Ecru example sett](/variants/s9/lr18k1ly3k1lr2r2k2r2lr2~x4/sett.png)|

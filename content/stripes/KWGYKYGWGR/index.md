@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fiander, Julian (Personal)](/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/)|
-|![Fiander, Julian (Personal) example sett](/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/sett.png)|
+| [Fiander, Julian (Personal)](/variants/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/)|
+|![Fiander, Julian (Personal) example sett](/variants/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/sett.png)|

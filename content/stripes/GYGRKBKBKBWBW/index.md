@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baron of Greencastle (Personal)](/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/)|
-|![Baron of Greencastle (Personal) example sett](/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/sett.png)|
+| [Baron of Greencastle (Personal)](/variants/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/)|
+|![Baron of Greencastle (Personal) example sett](/variants/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/sett.png)|

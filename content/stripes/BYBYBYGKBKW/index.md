@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rwanda](/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/)|
-|![Rwanda example sett](/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/sett.png)|
+| [Rwanda](/variants/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/)|
+|![Rwanda example sett](/variants/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/sett.png)|

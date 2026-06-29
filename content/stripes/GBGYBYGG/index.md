@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Lawrence #2 (Fashion)](/setts/s8/g2do13g11ly5do1lo21g2dy1~x2/)|
-|![St. Lawrence #2 (Fashion) example sett](/setts/s8/g2do13g11ly5do1lo21g2dy1~x2/sett.png)|
+| [St. Lawrence #2 (Fashion)](/variants/s8/g2do13g11ly5do1lo21g2dy1~x2/)|
+|![St. Lawrence #2 (Fashion) example sett](/variants/s8/g2do13g11ly5do1lo21g2dy1~x2/sett.png)|

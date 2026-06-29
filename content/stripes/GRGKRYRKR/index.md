@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Durango](/setts/s9/o32k6r1lr1r1k4dg8o1dg3~x4/)|
-|![Durango example sett](/setts/s9/o32k6r1lr1r1k4dg8o1dg3~x4/sett.png)|
+| [Durango](/variants/s9/o32k6r1lr1r1k4dg8o1dg3~x4/)|
+|![Durango example sett](/variants/s9/o32k6r1lr1r1k4dg8o1dg3~x4/sett.png)|

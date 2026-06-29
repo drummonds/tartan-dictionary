@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFie of Colonsay Dress (Fashion?)](/setts/s9/w2k11w2k2w16k2w2k11lo2~x4/)|
-|![MacFie of Colonsay Dress (Fashion?) example sett](/setts/s9/w2k11w2k2w16k2w2k11lo2~x4/sett.png)|
+| [MacFie of Colonsay Dress (Fashion?)](/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/)|
+|![MacFie of Colonsay Dress (Fashion?) example sett](/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/sett.png)|

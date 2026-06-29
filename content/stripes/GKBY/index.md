@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brun, Pierre Emmanuel (Personal)](/setts/s4/ly40b8k20g11~x2/)|
-|![Brun, Pierre Emmanuel (Personal) example sett](/setts/s4/ly40b8k20g11~x2/sett.png)|
+| [Brun, Pierre Emmanuel (Personal)](/variants/s4/ly40b8k20g11~x2/)|
+|![Brun, Pierre Emmanuel (Personal) example sett](/variants/s4/ly40b8k20g11~x2/sett.png)|

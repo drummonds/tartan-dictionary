@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Driver, RC](/setts/s6/g11w11k3ly3dg36r7~x2/)|
-|![Driver, RC example sett](/setts/s6/g11w11k3ly3dg36r7~x2/sett.png)|
+| [Driver, RC](/variants/s6/g11w11k3ly3dg36r7~x2/)|
+|![Driver, RC example sett](/variants/s6/g11w11k3ly3dg36r7~x2/sett.png)|

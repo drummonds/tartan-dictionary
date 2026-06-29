@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGill of Jura (Clan?)](/setts/s12/lo45t24k15w2lo2k1lo2w2t11k3lo4w8~x2/)|
-|![MacGill of Jura (Clan?) example sett](/setts/s12/lo45t24k15w2lo2k1lo2w2t11k3lo4w8~x2/sett.png)|
+| [MacGill of Jura (Clan?)](/variants/s12/lo45t24k15w2lo2k1lo2w2t11k3lo4w8~x2/)|
+|![MacGill of Jura (Clan?) example sett](/variants/s12/lo45t24k15w2lo2k1lo2w2t11k3lo4w8~x2/sett.png)|

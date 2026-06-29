@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chalk, Robert (Personal)](/setts/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/)|
-|![Chalk, Robert (Personal) example sett](/setts/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/sett.png)|
+| [Chalk, Robert (Personal)](/variants/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/)|
+|![Chalk, Robert (Personal) example sett](/variants/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/sett.png)|

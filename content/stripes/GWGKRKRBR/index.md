@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Chalmadale](/setts/s9/g13w2g10k5r13k3r5dt15o5~x2/)|
-|![Glen Chalmadale example sett](/setts/s9/g13w2g10k5r13k3r5dt15o5~x2/sett.png)|
+| [Glen Chalmadale](/variants/s9/g13w2g10k5r13k3r5dt15o5~x2/)|
+|![Glen Chalmadale example sett](/variants/s9/g13w2g10k5r13k3r5dt15o5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathisla](/setts/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2/)|
-|![Strathisla example sett](/setts/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2/sett.png)|
+| [Strathisla](/variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2/)|
+|![Strathisla example sett](/variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2/sett.png)|

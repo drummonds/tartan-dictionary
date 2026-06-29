@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alberta Dress](/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/)|
-|![Alberta Dress example sett](/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/sett.png)|
+| [Alberta Dress](/variants/s10/w4g3w19g8k1r4k1db18k1lo2~x2/)|
+|![Alberta Dress example sett](/variants/s10/w4g3w19g8k1r4k1db18k1lo2~x2/sett.png)|

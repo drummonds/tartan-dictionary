@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maple Leaf MINI Canadian District Tartan Tartan Number: 20355. Earliest known date: 1964 Generated for Dupion Silk List for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/dg6m1dg1m4g4m4dg1m1dg6dy2g2ly2/)|
-|![Maple Leaf MINI Canadian District Tartan Tartan Number: 20355. Earliest known date: 1964 Generated for Dupion Silk List for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/dg6m1dg1m4g4m4dg1m1dg6dy2g2ly2~x4/sett.png)|
+| [Maple Leaf Canadian District Tartan](/setts/dg6m1dg1m4g4m4dg1m1dg6dy2g2ly2/)|
+|![Maple Leaf Canadian District Tartan example sett](/variants/s12/dg6m1dg1m4g4m4dg1m1dg6dy2g2ly2~x4/sett.png)|

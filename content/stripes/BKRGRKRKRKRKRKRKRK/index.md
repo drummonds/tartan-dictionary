@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean 6](/setts/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/)|
-|![Hebridean 6 example sett](/setts/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/sett.png)|
+| [Hebridean 6](/variants/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/)|
+|![Hebridean 6 example sett](/variants/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/sett.png)|

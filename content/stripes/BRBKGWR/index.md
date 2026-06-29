@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jack Sinclair (Personal)](/setts/s7/b4r2b40k11g2w16r2~x2/)|
-|![Jack Sinclair (Personal) example sett](/setts/s7/b4r2b40k11g2w16r2~x2/sett.png)|
-| [Sinclair, Blue (Personal)](/setts/s7/db4r2db40k11g2w16r2~x2/)|
-|![Sinclair, Blue (Personal) example sett](/setts/s7/db4r2db40k11g2w16r2~x2/sett.png)|
-| [Sinclair, The Jack](/setts/s7/db4r2db39k11g2w16r2~x2/)|
-|![Sinclair, The Jack example sett](/setts/s7/db4r2db39k11g2w16r2~x2/sett.png)|
+| [Jack Sinclair (Personal)](/variants/s7/b4r2b40k11g2w16r2~x2/)|
+|![Jack Sinclair (Personal) example sett](/variants/s7/b4r2b40k11g2w16r2~x2/sett.png)|
+| [Sinclair, Blue (Personal)](/variants/s7/db4r2db40k11g2w16r2~x2/)|
+|![Sinclair, Blue (Personal) example sett](/variants/s7/db4r2db40k11g2w16r2~x2/sett.png)|
+| [Sinclair, The Jack](/variants/s7/db4r2db39k11g2w16r2~x2/)|
+|![Sinclair, The Jack example sett](/variants/s7/db4r2db39k11g2w16r2~x2/sett.png)|

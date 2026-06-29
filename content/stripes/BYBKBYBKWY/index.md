@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kyle, Grape (Dance)](/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/)|
-|![Kyle, Grape (Dance) example sett](/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/sett.png)|
+| [Kyle, Grape (Dance)](/variants/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/)|
+|![Kyle, Grape (Dance) example sett](/variants/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/sett.png)|

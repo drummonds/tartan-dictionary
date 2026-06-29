@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [California Department of Forestry (Corporate)](/setts/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/)|
-|![California Department of Forestry (Corporate) example sett](/setts/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png)|
+| [California Department of Forestry (Corporate)](/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/)|
+|![California Department of Forestry (Corporate) example sett](/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png)|

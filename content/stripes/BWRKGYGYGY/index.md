@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North West Territories](/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/)|
-|![North West Territories example sett](/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/sett.png)|
-| [North West Territories](/setts/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/)|
-|![North West Territories example sett](/setts/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/sett.png)|
+| [North West Territories](/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/)|
+|![North West Territories example sett](/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/sett.png)|
+| [North West Territories](/variants/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/)|
+|![North West Territories example sett](/variants/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/sett.png)|

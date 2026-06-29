@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Decatur Presbyterian Church](/setts/s7/g41r6g12db8k2ly5w8~x2/)|
-|![Decatur Presbyterian Church example sett](/setts/s7/g41r6g12db8k2ly5w8~x2/sett.png)|
+| [Decatur Presbyterian Church](/variants/s7/g41r6g12db8k2ly5w8~x2/)|
+|![Decatur Presbyterian Church example sett](/variants/s7/g41r6g12db8k2ly5w8~x2/sett.png)|

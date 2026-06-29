@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meg, Merrilees](/setts/s6/w23db6w6r5k35r10~x2/)|
-|![Meg, Merrilees example sett](/setts/s6/w23db6w6r5k35r10~x2/sett.png)|
-| [Merrilees](/setts/s6/w23t6w6r5k35r10~x2/)|
-|![Merrilees example sett](/setts/s6/w23t6w6r5k35r10~x2/sett.png)|
+| [Meg, Merrilees](/variants/s6/w23db6w6r5k35r10~x2/)|
+|![Meg, Merrilees example sett](/variants/s6/w23db6w6r5k35r10~x2/sett.png)|
+| [Merrilees](/variants/s6/w23t6w6r5k35r10~x2/)|
+|![Merrilees example sett](/variants/s6/w23t6w6r5k35r10~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart-Houghton Dress (Personal)](/setts/s16/w11db4w4db2w4oi4w11o26oi4w3oi4w2db14dg10w16dg6~x2/)|
-|![Stuart-Houghton Dress (Personal) example sett](/setts/s16/w11db4w4db2w4oi4w11o26oi4w3oi4w2db14dg10w16dg6~x2/sett.png)|
+| [Stuart-Houghton Dress (Personal)](/variants/s16/w11db4w4db2w4oi4w11o26oi4w3oi4w2db14dg10w16dg6~x2/)|
+|![Stuart-Houghton Dress (Personal) example sett](/variants/s16/w11db4w4db2w4oi4w11o26oi4w3oi4w2db14dg10w16dg6~x2/sett.png)|

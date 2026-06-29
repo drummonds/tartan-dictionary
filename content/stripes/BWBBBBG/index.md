@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [JetBlue (Corporate)](/setts/s7/db4w3b6db40b8db12g3~x2/)|
-|![JetBlue (Corporate) example sett](/setts/s7/db4w3b6db40b8db12g3~x2/sett.png)|
+| [JetBlue (Corporate)](/variants/s7/db4w3b6db40b8db12g3~x2/)|
+|![JetBlue (Corporate) example sett](/variants/s7/db4w3b6db40b8db12g3~x2/sett.png)|

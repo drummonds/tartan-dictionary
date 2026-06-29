@@ -24,7 +24,7 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ebronen (Personal)](/setts/s20/dy2r30dy6g2dyi6dy6g2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/)|
-|![Ebronen (Personal) example sett](/setts/s20/dy2r30dy6g2dyi6dy6g2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/sett.png)|
-| [Ebronen (Personal)](/setts/s20/dy2r30dy6g2dyi6dy6gi2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/)|
-|![Ebronen (Personal) example sett](/setts/s20/dy2r30dy6g2dyi6dy6gi2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/sett.png)|
+| [Ebronen (Personal)](/variants/s20/dy2r30dy6g2dyi6dy6g2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/)|
+|![Ebronen (Personal) example sett](/variants/s20/dy2r30dy6g2dyi6dy6g2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/sett.png)|
+| [Ebronen (Personal)](/variants/s20/dy2r30dy6g2dyi6dy6gi2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/)|
+|![Ebronen (Personal) example sett](/variants/s20/dy2r30dy6g2dyi6dy6gi2dy24y2dy4y2dyi24lo2dy6y6dg2dy6dg2y27dy1~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aguilar Gorrondona Family (Personal)](/setts/s11/r30lo30t5w5g5k5g3t3k3w3lo3~x2/)|
-|![Aguilar Gorrondona Family (Personal) example sett](/setts/s11/r30lo30t5w5g5k5g3t3k3w3lo3~x2/sett.png)|
-| [Aguilar Gorrondona Family (Personal)](/setts/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/)|
-|![Aguilar Gorrondona Family (Personal) example sett](/setts/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/sett.png)|
+| [Aguilar Gorrondona Family (Personal)](/variants/s11/r30lo30t5w5g5k5g3t3k3w3lo3~x2/)|
+|![Aguilar Gorrondona Family (Personal) example sett](/variants/s11/r30lo30t5w5g5k5g3t3k3w3lo3~x2/sett.png)|
+| [Aguilar Gorrondona Family (Personal)](/variants/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/)|
+|![Aguilar Gorrondona Family (Personal) example sett](/variants/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundee Carers' Centre](/setts/s11/lp66db2lo14db2ly5p8db12g60gi60lp2db25/)|
-|![Dundee Carers' Centre example sett](/setts/s11/lp66db2lo14db2ly5p8db12g60gi60lp2db25/sett.png)|
+| [Dundee Carers' Centre](/variants/s11/lp66db2lo14db2ly5p8db12g60gi60lp2db25/)|
+|![Dundee Carers' Centre example sett](/variants/s11/lp66db2lo14db2ly5p8db12g60gi60lp2db25/sett.png)|

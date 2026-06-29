@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/)|
-|![MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png)|
+| [MacCulloch Dress Clan/Family Tartan](/variants/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/)|
+|![MacCulloch Dress Clan/Family Tartan example sett](/variants/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png)|

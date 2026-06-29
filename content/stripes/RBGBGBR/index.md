@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tennant](/setts/s7/r1dr7g7db7g7db7r1~x4/)|
-|![Tennant example sett](/setts/s7/r1dr7g7db7g7db7r1~x4/sett.png)|
+| [Tennant](/variants/s7/r1dr7g7db7g7db7r1~x4/)|
+|![Tennant example sett](/variants/s7/r1dr7g7db7g7db7r1~x4/sett.png)|

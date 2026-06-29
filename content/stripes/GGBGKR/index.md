@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gorman, George (Personal)](/setts/s6/dg9g1dp2g1k4r1~x12/)|
-|![Gorman, George (Personal) example sett](/setts/s6/dg9g1dp2g1k4r1~x12/sett.png)|
+| [Gorman, George (Personal)](/variants/s6/dg9g1dp2g1k4r1~x12/)|
+|![Gorman, George (Personal) example sett](/variants/s6/dg9g1dp2g1k4r1~x12/sett.png)|

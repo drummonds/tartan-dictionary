@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tricotisse](/setts/s11/w9k2t9k1lb9w12o2w12lb24w9lb9~x2/)|
-|![Tricotisse example sett](/setts/s11/w9k2t9k1lb9w12o2w12lb24w9lb9~x2/sett.png)|
+| [Tricotisse](/variants/s11/w9k2t9k1lb9w12o2w12lb24w9lb9~x2/)|
+|![Tricotisse example sett](/variants/s11/w9k2t9k1lb9w12o2w12lb24w9lb9~x2/sett.png)|

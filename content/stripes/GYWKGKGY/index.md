@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Celtic Pride](/setts/s8/g10loi3w2k2g8k22g43lo4~x2/)|
-|![Celtic Pride example sett](/setts/s8/g10loi3w2k2g8k22g43lo4~x2/sett.png)|
+| [Celtic Pride](/variants/s8/g10loi3w2k2g8k22g43lo4~x2/)|
+|![Celtic Pride example sett](/variants/s8/g10loi3w2k2g8k22g43lo4~x2/sett.png)|

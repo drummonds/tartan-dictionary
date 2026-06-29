@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burt Family](/setts/s9/dp2g13db8g3db33dy3db8dy13r2~x2/)|
-|![Burt Family example sett](/setts/s9/dp2g13db8g3db33dy3db8dy13r2~x2/sett.png)|
+| [Burt Family](/variants/s9/dp2g13db8g3db33dy3db8dy13r2~x2/)|
+|![Burt Family example sett](/variants/s9/dp2g13db8g3db33dy3db8dy13r2~x2/sett.png)|

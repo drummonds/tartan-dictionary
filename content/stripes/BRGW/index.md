@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Highland Games Fed.](/setts/s4/db13r5g5w3~x8/)|
-|![International Highland Games Fed. example sett](/setts/s4/db13r5g5w3~x8/sett.png)|
-| [Unidentified Locket](/setts/s4/db4r50dg25w2~x2/)|
-|![Unidentified Locket example sett](/setts/s4/db4r50dg25w2~x2/sett.png)|
-| [Unidentified, Locket](/setts/s4/db4r50g25w2~x2/)|
-|![Unidentified, Locket example sett](/setts/s4/db4r50g25w2~x2/sett.png)|
+| [International Highland Games Fed.](/variants/s4/db13r5g5w3~x8/)|
+|![International Highland Games Fed. example sett](/variants/s4/db13r5g5w3~x8/sett.png)|
+| [Unidentified Locket](/variants/s4/db4r50dg25w2~x2/)|
+|![Unidentified Locket example sett](/variants/s4/db4r50dg25w2~x2/sett.png)|
+| [Unidentified, Locket](/variants/s4/db4r50g25w2~x2/)|
+|![Unidentified, Locket example sett](/variants/s4/db4r50g25w2~x2/sett.png)|

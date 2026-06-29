@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cadden-Phillips (Personal)](/setts/s11/r40dg2r2dp2r2g2r2dr5dg20ly2dp20~x2/)|
-|![Cadden-Phillips (Personal) example sett](/setts/s11/r40dg2r2dp2r2g2r2dr5dg20ly2dp20~x2/sett.png)|
+| [Cadden-Phillips (Personal)](/variants/s11/r40dg2r2dp2r2g2r2dr5dg20ly2dp20~x2/)|
+|![Cadden-Phillips (Personal) example sett](/variants/s11/r40dg2r2dp2r2g2r2dr5dg20ly2dp20~x2/sett.png)|

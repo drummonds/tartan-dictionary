@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBean, MacElvain](/setts/s7/k2r12db6r3g12r4db1~x2/)|
-|![MacBean, MacElvain example sett](/setts/s7/k2r12db6r3g12r4db1~x2/sett.png)|
-| [MacBean/MacElvain](/setts/s7/k2r12db6r3dg12r4db1~x2/)|
-|![MacBean/MacElvain example sett](/setts/s7/k2r12db6r3dg12r4db1~x2/sett.png)|
+| [MacBean, MacElvain](/variants/s7/k2r12db6r3g12r4db1~x2/)|
+|![MacBean, MacElvain example sett](/variants/s7/k2r12db6r3g12r4db1~x2/sett.png)|
+| [MacBean/MacElvain](/variants/s7/k2r12db6r3dg12r4db1~x2/)|
+|![MacBean/MacElvain example sett](/variants/s7/k2r12db6r3dg12r4db1~x2/sett.png)|

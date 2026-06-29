@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mull Rugby Club (Old)](/setts/s8/g44lb2g10t3k6lb1r2k18~x2/)|
-|![Mull Rugby Club (Old) example sett](/setts/s8/g44lb2g10t3k6lb1r2k18~x2/sett.png)|
+| [Mull Rugby Club (Old)](/variants/s8/g44lb2g10t3k6lb1r2k18~x2/)|
+|![Mull Rugby Club (Old) example sett](/variants/s8/g44lb2g10t3k6lb1r2k18~x2/sett.png)|

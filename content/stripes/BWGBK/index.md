@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's, No 111](/setts/s5/p19w2g12t3k4~x2/)|
-|![Wilson's, No 111 example sett](/setts/s5/p19w2g12t3k4~x2/sett.png)|
+| [Wilson's, No 111](/variants/s5/p19w2g12t3k4~x2/)|
+|![Wilson's, No 111 example sett](/variants/s5/p19w2g12t3k4~x2/sett.png)|

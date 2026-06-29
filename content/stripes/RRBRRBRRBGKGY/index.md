@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacEochaidh (Personal)](/setts/s13/r5ri1db1ri3r1db2r5ri4db4g3k3g3ly3~x4/)|
-|![MacEochaidh (Personal) example sett](/setts/s13/r5ri1db1ri3r1db2r5ri4db4g3k3g3ly3~x4/sett.png)|
-| [MacEochaidh (Personal)](/setts/s13/ri5r1db1r3ri1db2ri5r4db4g3k3g3ly3~x4/)|
-|![MacEochaidh (Personal) example sett](/setts/s13/ri5r1db1r3ri1db2ri5r4db4g3k3g3ly3~x4/sett.png)|
+| [MacEochaidh (Personal)](/variants/s13/r5ri1db1ri3r1db2r5ri4db4g3k3g3ly3~x4/)|
+|![MacEochaidh (Personal) example sett](/variants/s13/r5ri1db1ri3r1db2r5ri4db4g3k3g3ly3~x4/sett.png)|
+| [MacEochaidh (Personal)](/variants/s13/ri5r1db1r3ri1db2ri5r4db4g3k3g3ly3~x4/)|
+|![MacEochaidh (Personal) example sett](/variants/s13/ri5r1db1r3ri1db2ri5r4db4g3k3g3ly3~x4/sett.png)|

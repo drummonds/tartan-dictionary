@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prehospital EMS Tartan (USA)](/setts/s5/k1w7r7db16ly1~x4/)|
-|![Prehospital EMS Tartan (USA) example sett](/setts/s5/k1w7r7db16ly1~x4/sett.png)|
+| [Prehospital EMS Tartan (USA)](/variants/s5/k1w7r7db16ly1~x4/)|
+|![Prehospital EMS Tartan (USA) example sett](/variants/s5/k1w7r7db16ly1~x4/sett.png)|

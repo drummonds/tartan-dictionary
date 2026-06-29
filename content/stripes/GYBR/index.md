@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dohmen (Personal)](/setts/s4/g30ly3db8r25~x2/)|
-|![Dohmen (Personal) example sett](/setts/s4/g30ly3db8r25~x2/sett.png)|
-| [Dohmen Family (Zuid-Nederland)](/setts/s4/g30lo3t8o25~x2/)|
-|![Dohmen Family (Zuid-Nederland) example sett](/setts/s4/g30lo3t8o25~x2/sett.png)|
+| [Dohmen (Personal)](/variants/s4/g30ly3db8r25~x2/)|
+|![Dohmen (Personal) example sett](/variants/s4/g30ly3db8r25~x2/sett.png)|
+| [Dohmen Family (Zuid-Nederland)](/variants/s4/g30lo3t8o25~x2/)|
+|![Dohmen Family (Zuid-Nederland) example sett](/variants/s4/g30lo3t8o25~x2/sett.png)|

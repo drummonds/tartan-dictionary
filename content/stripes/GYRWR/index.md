@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highlands at Wyomissing, The](/setts/s5/r35w3r8ly2g11~x2/)|
-|![Highlands at Wyomissing, The example sett](/setts/s5/r35w3r8ly2g11~x2/sett.png)|
+| [Highlands at Wyomissing, The](/variants/s5/r35w3r8ly2g11~x2/)|
+|![Highlands at Wyomissing, The example sett](/variants/s5/r35w3r8ly2g11~x2/sett.png)|

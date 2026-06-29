@@ -8,5 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/r21g3r21g16lo3w2lo3~x2/"><img src="/setts/s7/r21g3r21g16lo3w2lo3~x2/sett.png" alt="Claus of the North Pole (Restricted)" width="240"><br>Claus of the North Pole (Restricted)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r21g3r21g16lo3w2lo3/">Claus of the North Pole</a> ★</td><td><code>R/42 G6 R42 G32 LO6 W4 LO/6</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r21g3r21g16lo3w2lo3/"><img src="/variants/s7/r21g3r21g16lo3w2lo3~x2/sett.png" alt="Claus of the North Pole sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

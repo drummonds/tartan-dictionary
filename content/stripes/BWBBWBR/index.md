@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loughborough Sport](/setts/s7/r15n3w10n7dp40w3dp6~x2/)|
-|![Loughborough Sport example sett](/setts/s7/r15n3w10n7dp40w3dp6~x2/sett.png)|
+| [Loughborough Sport](/variants/s7/r15n3w10n7dp40w3dp6~x2/)|
+|![Loughborough Sport example sett](/variants/s7/r15n3w10n7dp40w3dp6~x2/sett.png)|

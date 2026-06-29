@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Williams Lake, City of](/setts/s18/ly6k1ly3g3w3r3k2r3db3w3~x2/)|
-|![Williams Lake, City of example sett](/setts/s18/ly6k1ly3g3w3r3k2r3db3w3~x2/sett.png)|
+| [Williams Lake, City of](/variants/s18/ly6k1ly3g3w3r3k2r3db3w3~x2/)|
+|![Williams Lake, City of example sett](/variants/s18/ly6k1ly3g3w3r3k2r3db3w3~x2/sett.png)|

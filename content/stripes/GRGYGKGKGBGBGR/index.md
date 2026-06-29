@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eildon (1996)](/setts/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/)|
-|![Eildon (1996) example sett](/setts/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/sett.png)|
+| [Eildon (1996)](/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/)|
+|![Eildon (1996) example sett](/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/sett.png)|

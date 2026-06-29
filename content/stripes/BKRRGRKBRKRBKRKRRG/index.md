@@ -24,7 +24,7 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart of Ardshiel](/setts/s18/g14ri6r2k3ri65k2t2ri6k34ri6t2k2ri4g66ri12r2k2t4/)|
-|![Stewart of Ardshiel example sett](/setts/s18/g14ri6r2k3ri65k2t2ri6k34ri6t2k2ri4g66ri12r2k2t4/sett.png)|
-| [Stewart of Ardshiel - 1816 (Clan)](/setts/s18/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/)|
-|![Stewart of Ardshiel - 1816 (Clan) example sett](/setts/s18/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/sett.png)|
+| [Stewart of Ardshiel](/variants/s18/g14ri6r2k3ri65k2t2ri6k34ri6t2k2ri4g66ri12r2k2t4/)|
+|![Stewart of Ardshiel example sett](/variants/s18/g14ri6r2k3ri65k2t2ri6k34ri6t2k2ri4g66ri12r2k2t4/sett.png)|
+| [Stewart of Ardshiel - 1816 (Clan)](/variants/s18/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/)|
+|![Stewart of Ardshiel - 1816 (Clan) example sett](/variants/s18/dg14r6ri2k3r65k2t2r6k34r6t2k2r4dg66r12ri2k2t4/sett.png)|

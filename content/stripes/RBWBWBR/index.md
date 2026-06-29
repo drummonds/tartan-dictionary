@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews School (Delaware) (Corp)](/setts/s7/r52dr26w5dr3w2dr6r2~x2/)|
-|![St. Andrews School (Delaware) (Corp) example sett](/setts/s7/r52dr26w5dr3w2dr6r2~x2/sett.png)|
+| [St. Andrews School (Delaware) (Corp)](/variants/s7/r52dr26w5dr3w2dr6r2~x2/)|
+|![St. Andrews School (Delaware) (Corp) example sett](/variants/s7/r52dr26w5dr3w2dr6r2~x2/sett.png)|

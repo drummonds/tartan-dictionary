@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kennedy](/setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/)|
-|![Kennedy example sett](/setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/sett.png)|
+| [Kennedy](/variants/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/)|
+|![Kennedy example sett](/variants/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/sett.png)|

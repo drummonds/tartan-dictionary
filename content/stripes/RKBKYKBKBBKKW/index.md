@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McFly School](/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/)|
-|![McFly School example sett](/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/sett.png)|
+| [McFly School](/variants/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/)|
+|![McFly School example sett](/variants/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/sett.png)|

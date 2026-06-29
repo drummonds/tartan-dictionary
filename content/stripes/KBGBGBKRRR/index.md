@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murdoch (Dalgliesh)](/setts/s10/k5do1g3do1g3do1k5r1ri5r1~x4/)|
-|![Murdoch (Dalgliesh) example sett](/setts/s10/k5do1g3do1g3do1k5r1ri5r1~x4/sett.png)|
+| [Murdoch (Dalgliesh)](/variants/s10/k5do1g3do1g3do1k5r1ri5r1~x4/)|
+|![Murdoch (Dalgliesh) example sett](/variants/s10/k5do1g3do1g3do1k5r1ri5r1~x4/sett.png)|

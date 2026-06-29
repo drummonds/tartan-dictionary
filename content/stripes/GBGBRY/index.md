@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lyle and Scott](/setts/s6/dg5b2dg9dt19r9ly2~x2/)|
-|![Lyle and Scott example sett](/setts/s6/dg5b2dg9dt19r9ly2~x2/sett.png)|
+| [Lyle and Scott](/variants/s6/dg5b2dg9dt19r9ly2~x2/)|
+|![Lyle and Scott example sett](/variants/s6/dg5b2dg9dt19r9ly2~x2/sett.png)|

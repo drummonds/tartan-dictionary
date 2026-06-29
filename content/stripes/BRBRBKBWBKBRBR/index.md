@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tokyo Bluebells (Dance)](/setts/s14/b18r1b1r1b1k7b13w2~x4/)|
-|![Tokyo Bluebells (Dance) example sett](/setts/s14/b18r1b1r1b1k7b13w2~x4/sett.png)|
+| [Tokyo Bluebells (Dance)](/variants/s14/b18r1b1r1b1k7b13w2~x4/)|
+|![Tokyo Bluebells (Dance) example sett](/variants/s14/b18r1b1r1b1k7b13w2~x4/sett.png)|

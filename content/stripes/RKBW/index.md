@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCallie](/setts/s4/r2k6db33w2~x4/)|
-|![McCallie example sett](/setts/s4/r2k6db33w2~x4/sett.png)|
+| [McCallie](/variants/s4/r2k6db33w2~x4/)|
+|![McCallie example sett](/variants/s4/r2k6db33w2~x4/sett.png)|

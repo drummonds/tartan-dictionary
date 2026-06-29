@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marine Harvest (Scotland)](/setts/s8/db10t2k2db1k6t1k45lo2~x2/)|
-|![Marine Harvest (Scotland) example sett](/setts/s8/db10t2k2db1k6t1k45lo2~x2/sett.png)|
+| [Marine Harvest (Scotland)](/variants/s8/db10t2k2db1k6t1k45lo2~x2/)|
+|![Marine Harvest (Scotland) example sett](/variants/s8/db10t2k2db1k6t1k45lo2~x2/sett.png)|

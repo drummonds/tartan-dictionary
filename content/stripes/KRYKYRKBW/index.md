@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Muylle, Jelle (Personal)](/setts/s9/k5r1ly1k1ly1r1k8b1w1~x6/)|
-|![Muylle, Jelle (Personal) example sett](/setts/s9/k5r1ly1k1ly1r1k8b1w1~x6/sett.png)|
+| [Muylle, Jelle (Personal)](/variants/s9/k5r1ly1k1ly1r1k8b1w1~x6/)|
+|![Muylle, Jelle (Personal) example sett](/variants/s9/k5r1ly1k1ly1r1k8b1w1~x6/sett.png)|

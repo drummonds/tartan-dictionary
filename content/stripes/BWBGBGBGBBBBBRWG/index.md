@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Missouri Dress (Proposed) (District)](/setts/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/)|
-|![Missouri Dress (Proposed) (District) example sett](/setts/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/sett.png)|
+| [Missouri Dress (Proposed) (District)](/variants/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/)|
+|![Missouri Dress (Proposed) (District) example sett](/variants/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/sett.png)|

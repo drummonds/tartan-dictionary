@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Spirit Fashion Tartan Tartan Number: 10119. Earliest known date: ACS Tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k17ki4k13ki4k3ki45k3~x2/)|
-|![Black Spirit Fashion Tartan Tartan Number: 10119. Earliest known date: ACS Tartan See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/k17ki4k13ki4k3ki45k3~x2/sett.png)|
+| [Black Spirit Fashion Tartan](/variants/s7/k17ki4k13ki4k3ki45k3~x2/)|
+|![Black Spirit Fashion Tartan example sett](/variants/s7/k17ki4k13ki4k3ki45k3~x2/sett.png)|

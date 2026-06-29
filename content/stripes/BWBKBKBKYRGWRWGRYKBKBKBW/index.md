@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salich-Plaja of St. Genis (Personal)](/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/)|
-|![Salich-Plaja of St. Genis (Personal) example sett](/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/sett.png)|
+| [Salich-Plaja of St. Genis (Personal)](/variants/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/)|
+|![Salich-Plaja of St. Genis (Personal) example sett](/variants/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/sett.png)|

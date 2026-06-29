@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Parliament (Official)](/setts/s12/yi45y3dt7dr2dt7y3yi4w2do36w2yi11dt4/)|
-|![Scottish Parliament (Official) example sett](/setts/s12/yi45y3dt7dr2dt7y3yi4w2do36w2yi11dt4/sett.png)|
+| [Scottish Parliament (Official)](/variants/s12/yi45y3dt7dr2dt7y3yi4w2do36w2yi11dt4/)|
+|![Scottish Parliament (Official) example sett](/variants/s12/yi45y3dt7dr2dt7y3yi4w2do36w2yi11dt4/sett.png)|

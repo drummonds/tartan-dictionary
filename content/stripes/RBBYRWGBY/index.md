@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified No 14](/setts/s9/r22t6db10ly4r4w4dg22db8ly3/)|
-|![Unidentified No 14 example sett](/setts/s9/r22t6db10ly4r4w4dg22db8ly3/sett.png)|
-| [Unnamed No 14](/setts/s9/r22t6db10ly4r4w4g22db8ly3/)|
-|![Unnamed No 14 example sett](/setts/s9/r22t6db10ly4r4w4g22db8ly3/sett.png)|
+| [Unidentified No 14](/variants/s9/r22t6db10ly4r4w4dg22db8ly3/)|
+|![Unidentified No 14 example sett](/variants/s9/r22t6db10ly4r4w4dg22db8ly3/sett.png)|
+| [Unnamed No 14](/variants/s9/r22t6db10ly4r4w4g22db8ly3/)|
+|![Unnamed No 14 example sett](/variants/s9/r22t6db10ly4r4w4g22db8ly3/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [London Fog Blue 2 (Fashion)](/setts/s10/t18lr9t18lb2t2lb2t18k9t18lb2/)|
-|![London Fog Blue 2 (Fashion) example sett](/setts/s10/t18lr9t18lb2t2lb2t18k9t18lb2/sett.png)|
+| [London Fog Blue 2 (Fashion)](/variants/s10/t18lr9t18lb2t2lb2t18k9t18lb2/)|
+|![London Fog Blue 2 (Fashion) example sett](/variants/s10/t18lr9t18lb2t2lb2t18k9t18lb2/sett.png)|

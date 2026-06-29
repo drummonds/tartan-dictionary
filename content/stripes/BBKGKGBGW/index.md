@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Faskin Family (Aberdeenshire)](/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/)|
-|![Faskin Family (Aberdeenshire) example sett](/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/sett.png)|
+| [Faskin Family (Aberdeenshire)](/variants/s9/t1dp10k10g12k1g12t2g16w1~x2/)|
+|![Faskin Family (Aberdeenshire) example sett](/variants/s9/t1dp10k10g12k1g12t2g16w1~x2/sett.png)|

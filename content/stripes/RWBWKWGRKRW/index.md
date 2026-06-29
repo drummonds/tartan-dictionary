@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rothesay, Duke of](/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/)|
-|![Rothesay, Duke of example sett](/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/sett.png)|
+| [Rothesay, Duke of](/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/)|
+|![Rothesay, Duke of example sett](/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/sett.png)|

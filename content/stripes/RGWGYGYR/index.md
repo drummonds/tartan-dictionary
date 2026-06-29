@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duke of Sussex (Earl of Inverness)](/setts/s8/r114g10w3g16ly3g3ly3r28~x2/)|
-|![Duke of Sussex (Earl of Inverness) example sett](/setts/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png)|
+| [Duke of Sussex (Earl of Inverness)](/variants/s8/r114g10w3g16ly3g3ly3r28~x2/)|
+|![Duke of Sussex (Earl of Inverness) example sett](/variants/s8/r114g10w3g16ly3g3ly3r28~x2/sett.png)|

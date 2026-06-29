@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornell (Corporate)](/setts/s8/r74w27r13lr7r13w13r74k7/)|
-|![Cornell (Corporate) example sett](/setts/s8/r74w27r13lr7r13w13r74k7/sett.png)|
+| [Cornell (Corporate)](/variants/s8/r74w27r13lr7r13w13r74k7/)|
+|![Cornell (Corporate) example sett](/variants/s8/r74w27r13lr7r13w13r74k7/sett.png)|

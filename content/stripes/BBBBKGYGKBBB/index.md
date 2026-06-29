@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [East Lothian (Fashion) Fashion Tartan Tartan Number: 2561. Earliest known date: 1999 David McGill's company has designed quite a wide range of fashion tartans and in many cases, has given them names suggesting that they are tartans for cities, counties, states and even countries. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db17dp4db2k11g33ly4g33k11db2dp4db17t6~x2/)|
-|![East Lothian (Fashion) Fashion Tartan Tartan Number: 2561. Earliest known date: 1999 David McGill's company has designed quite a wide range of fashion tartans and in many cases, has given them names suggesting that they are tartans for cities, counties, states and even countries. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/db17dp4db2k11g33ly4g33k11db2dp4db17t6~x2/sett.png)|
+| [East Lothian (Fashion) Fashion Tartan](/variants/s12/db17dp4db2k11g33ly4g33k11db2dp4db17t6~x2/)|
+|![East Lothian (Fashion) Fashion Tartan example sett](/variants/s12/db17dp4db2k11g33ly4g33k11db2dp4db17t6~x2/sett.png)|

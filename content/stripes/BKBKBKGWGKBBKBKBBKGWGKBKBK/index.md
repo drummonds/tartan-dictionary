@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Heritage Preservation](/setts/s26/dp22k2dp2k2dp2k18g8lb2g8k16dp15dp1k2dp2~x2/)|
-|![Scottish Heritage Preservation example sett](/setts/s26/dp22k2dp2k2dp2k18g8lb2g8k16dp15dp1k2dp2~x2/sett.png)|
+| [Scottish Heritage Preservation](/variants/s26/dp22k2dp2k2dp2k18g8lb2g8k16dp15dp1k2dp2~x2/)|
+|![Scottish Heritage Preservation example sett](/variants/s26/dp22k2dp2k2dp2k18g8lb2g8k16dp15dp1k2dp2~x2/sett.png)|

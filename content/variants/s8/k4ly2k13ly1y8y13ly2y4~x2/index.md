@@ -1,0 +1,74 @@
+---
+title: "Bannockbane Grey #3"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4ly2k13ly1y8y13ly2y4/)
+(the same proportion at any scale), whose colour order is pattern [GYGGYKYK](/stripes/gyggykyk/).
+
+Part of the [Bannockbane](/tartans/bannockbane/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5295
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bannockbane Blue
+- Bannockbane Blue #1
+- Bannockbane Blue #2
+- Bannockbane Blue #3
+- Bannockbane Brown #2
+- Bannockbane Green
+- Bannockbane Grey #1
+- Bannockbane Grey #2
+- Bannockbane Grey #3
+- Bannockbane, Blue
+- Bannockbane, Green
+- Bannockbane, Grey
+- Bannockbane, Light Tan
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5295](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5295)
+- Scottish Tartans Authority (ITI): 3576
+
+## Thread count
+K/8 Y4 K26 Y2 N16 N26 Y4 N/8
+
+One full sett is **172 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> <small style="color:#888">#808080</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.0% 0.000 89.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> <small style="color:#888">#808080</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.0% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> <small style="color:#888">#808080</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.0% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/8 Y4 K26 Y2 N16 N26 Y4 N/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/o2dy2o15dy2w10lo15dy2lo2/"><img src="/variants/s8/o2dy2o15dy2w10lo15dy2lo2~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/o2dy2o15dy2w10lo15dy2lo2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k4ly2k13ly1y8y13ly2y4~x2">Bannockbane Grey #3</a> <a class="nn-out" href="/variants/s8/k4ly2k13ly1y8y13ly2y4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k4ly2k13ly1y8y13ly2y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=o58k22o8k17r5k14~x2&amp;base=k4ly2k13ly1y8y13ly2y4~x2">Flynn</a> <a class="nn-out" href="/variants/s6/o58k22o8k17r5k14~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o58k22o8k17r5k14~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.04</div><div class="nn-name"><a href="/ttd/edit/#slug=k10o1k2o1k4o10ly1o2~x4&amp;base=k4ly2k13ly1y8y13ly2y4~x2">West Point Military Academy (Mil.)</a> <a class="nn-out" href="/variants/s8/k10o1k2o1k4o10ly1o2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k10o1k2o1k4o10ly1o2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=lr3k24lr6k8w4k8lr35k2~x2&amp;base=k4ly2k13ly1y8y13ly2y4~x2">Nowell/Noel 1951 (Name)</a> <a class="nn-out" href="/variants/s8/lr3k24lr6k8w4k8lr35k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lr3k24lr6k8w4k8lr35k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.09</div><div class="nn-name"><a href="/ttd/edit/#slug=k12lr1k2lr6k4lr3k4lr21r4~x2&amp;base=k4ly2k13ly1y8y13ly2y4~x2">MacKnight (Name)</a> <a class="nn-out" href="/variants/s9/k12lr1k2lr6k4lr3k4lr21r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k12lr1k2lr6k4lr3k4lr21r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=y5r3y35k28y4k11y2~x2&amp;base=k4ly2k13ly1y8y13ly2y4~x2">Korner-Macpherson (Personal)</a> <a class="nn-out" href="/variants/s7/y5r3y35k28y4k11y2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y5r3y35k28y4k11y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=k2o6k2o6k12r1~x4&amp;base=k4ly2k13ly1y8y13ly2y4~x2">MacSween, Black (Personal)</a> <a class="nn-out" href="/variants/s6/k2o6k2o6k12r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2o6k2o6k12r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=r8ly6k11ly6k11ly30r3~x2&amp;base=k4ly2k13ly1y8y13ly2y4~x2">Blackberry (Fashion)</a> <a class="nn-out" href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8ly6k11ly6k11ly30r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=w6k1w2k4w4k2w4k15r1~x2&amp;base=k4ly2k13ly1y8y13ly2y4~x2">Menzies Dress Tartan</a> <a class="nn-out" href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=w2k13lo13r2lo13k13w2k6lo6r1~x2&amp;base=k4ly2k13ly1y8y13ly2y4~x2">Westwood MacStone (Fashion)</a> <a class="nn-out" href="/variants/s10/w2k13lo13r2lo13k13w2k6lo6r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w2k13lo13r2lo13k13w2k6lo6r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/variants/s8/k37w9k3g9w3~x2/">Glen Coe #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k37w9k3g9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o58k22o8k17r5k14~x2/"><circle cx="320.6" cy="215.7" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s8/k10o1k2o1k4o10ly1o2~x4/"><circle cx="309.0" cy="203.1" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s8/lr3k24lr6k8w4k8lr35k2~x2/"><circle cx="304.2" cy="170.0" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s9/k12lr1k2lr6k4lr3k4lr21r4~x2/"><circle cx="325.1" cy="160.1" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/variants/s7/y5r3y35k28y4k11y2~x2/"><circle cx="346.9" cy="188.6" r="4" fill="#3465a4"><title>Korner-Macpherson (Personal)</title></circle></a><a href="/variants/s6/k2o6k2o6k12r1~x4/"><circle cx="327.4" cy="224.9" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="276.4" cy="198.9" r="4" fill="#3465a4"><title>Blackberry (Fashion)</title></circle></a><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="315.1" cy="167.1" r="4" fill="#3465a4"><title>Menzies Dress Tartan</title></circle></a><a href="/variants/s10/w2k13lo13r2lo13k13w2k6lo6r1~x2/"><circle cx="230.4" cy="179.9" r="4" fill="#3465a4"><title>Westwood MacStone (Fashion)</title></circle></a><a href="/variants/s8/k37w9k3g9w3~x2/"><circle cx="265.9" cy="175.9" r="4" fill="#3465a4"><title>Glen Coe #2</title></circle></a><circle cx="290.1" cy="200.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/k4ly2k13ly1y8y13ly2y4~x2/

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Thistle](/setts/s11/ki38k4ki2dp6dpi11dp3dpi2dg2ki11k1w2~x2/)|
-|![Highland Thistle example sett](/setts/s11/ki38k4ki2dp6dpi11dp3dpi2dg2ki11k1w2~x2/sett.png)|
+| [Highland Thistle](/variants/s11/ki38k4ki2dp6dpi11dp3dpi2dg2ki11k1w2~x2/)|
+|![Highland Thistle example sett](/variants/s11/ki38k4ki2dp6dpi11dp3dpi2dg2ki11k1w2~x2/sett.png)|

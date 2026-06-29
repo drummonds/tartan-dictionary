@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Queensferry High (School)](/setts/s9/lr5lbi3lb7lr5lb27b8dt43w3lb3/)|
-|![Queensferry High (School) example sett](/setts/s9/lr5lbi3lb7lr5lb27b8dt43w3lb3/sett.png)|
+| [Queensferry High (School)](/variants/s9/lr5lbi3lb7lr5lb27b8dt43w3lb3/)|
+|![Queensferry High (School) example sett](/variants/s9/lr5lbi3lb7lr5lb27b8dt43w3lb3/sett.png)|

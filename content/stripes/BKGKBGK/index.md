@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Outdoorsmen (Fashion)](/setts/s7/b3k1g4k1b4g9k2~x4/)|
-|![Outdoorsmen (Fashion) example sett](/setts/s7/b3k1g4k1b4g9k2~x4/sett.png)|
+| [Outdoorsmen (Fashion)](/variants/s7/b3k1g4k1b4g9k2~x4/)|
+|![Outdoorsmen (Fashion) example sett](/variants/s7/b3k1g4k1b4g9k2~x4/sett.png)|

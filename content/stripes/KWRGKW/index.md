@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tahrir - Liberation (Fashion)](/setts/s6/k5w4r15g70k4w5~x2/)|
-|![Tahrir - Liberation (Fashion) example sett](/setts/s6/k5w4r15g70k4w5~x2/sett.png)|
+| [Tahrir - Liberation (Fashion)](/variants/s6/k5w4r15g70k4w5~x2/)|
+|![Tahrir - Liberation (Fashion) example sett](/variants/s6/k5w4r15g70k4w5~x2/sett.png)|

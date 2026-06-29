@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hodgkinson](/tartans/t5ly5db12g1db1r1db1w2/)|
-|![Hodgkinson example sett](/setts/s8/t5ly5db12g1db1r1db1w2~x2/sett.png)|
+| [Hodgkinson](/setts/t5ly5db12g1db1r1db1w2/)|
+|![Hodgkinson example sett](/variants/s8/t5ly5db12g1db1r1db1w2~x2/sett.png)|

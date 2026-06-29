@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of London](/setts/s4/k5w24n24ki5~x2/)|
-|![City of London example sett](/setts/s4/k5w24n24ki5~x2/sett.png)|
+| [City of London](/variants/s4/k5w24n24ki5~x2/)|
+|![City of London example sett](/variants/s4/k5w24n24ki5~x2/sett.png)|

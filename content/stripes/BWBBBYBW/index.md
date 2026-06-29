@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fife Flyers (Corporate)](/setts/s8/dt2w2dt43b5db4ly8db2w2~x2/)|
-|![Fife Flyers (Corporate) example sett](/setts/s8/dt2w2dt43b5db4ly8db2w2~x2/sett.png)|
+| [Fife Flyers (Corporate)](/variants/s8/dt2w2dt43b5db4ly8db2w2~x2/)|
+|![Fife Flyers (Corporate) example sett](/variants/s8/dt2w2dt43b5db4ly8db2w2~x2/sett.png)|

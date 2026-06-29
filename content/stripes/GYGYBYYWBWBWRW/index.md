@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Werris Creek Catholic Parish](/setts/s14/g4lr1g5ly4p3ly5lg6w3db5w2b3w4r3w1~x2/)|
-|![Werris Creek Catholic Parish example sett](/setts/s14/g4lr1g5ly4p3ly5lg6w3db5w2b3w4r3w1~x2/sett.png)|
+| [Werris Creek Catholic Parish](/variants/s14/g4lr1g5ly4p3ly5lg6w3db5w2b3w4r3w1~x2/)|
+|![Werris Creek Catholic Parish example sett](/variants/s14/g4lr1g5ly4p3ly5lg6w3db5w2b3w4r3w1~x2/sett.png)|

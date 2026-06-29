@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAlpine](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/)|
-|![MacAlpine example sett](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/sett.png)|
+| [MacAlpine](/variants/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/)|
+|![MacAlpine example sett](/variants/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/sett.png)|

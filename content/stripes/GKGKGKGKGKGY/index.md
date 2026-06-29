@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwich No.039 (Mackinlay)](/setts/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/)|
-|![Norwich No.039 (Mackinlay) example sett](/setts/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/sett.png)|
+| [Norwich No.039 (Mackinlay)](/variants/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/)|
+|![Norwich No.039 (Mackinlay) example sett](/variants/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/sett.png)|

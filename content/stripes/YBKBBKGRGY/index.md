@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [RAF Leuchars](/setts/s10/lr2y11r2y11k2db6b13k2b3ly2~x4/)|
-|![RAF Leuchars example sett](/setts/s10/lr2y11r2y11k2db6b13k2b3ly2~x4/sett.png)|
+| [RAF Leuchars](/variants/s10/lr2y11r2y11k2db6b13k2b3ly2~x4/)|
+|![RAF Leuchars example sett](/variants/s10/lr2y11r2y11k2db6b13k2b3ly2~x4/sett.png)|

@@ -1,0 +1,5 @@
+---
+title: "Stirling & Bannockburn (District)"
+redirect: "/variants/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Stirling & Bannockburn (District)](/variants/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/).

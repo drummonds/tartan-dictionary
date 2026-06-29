@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connolly Dress (Name)](/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/)|
-|![Connolly Dress (Name) example sett](/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/sett.png)|
+| [Connolly Dress (Name)](/variants/s10/g6k2g3k2g6db8r20ly2r3g2~x2/)|
+|![Connolly Dress (Name) example sett](/variants/s10/g6k2g3k2g6db8r20ly2r3g2~x2/sett.png)|

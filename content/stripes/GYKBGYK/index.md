@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Verble (Personal)](/setts/s7/g4ly1k1t4g1ly1k1~x12/)|
-|![Verble (Personal) example sett](/setts/s7/g4ly1k1t4g1ly1k1~x12/sett.png)|
+| [Verble (Personal)](/variants/s7/g4ly1k1t4g1ly1k1~x12/)|
+|![Verble (Personal) example sett](/variants/s7/g4ly1k1t4g1ly1k1~x12/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacShimsi Personal Tartan Tartan Number: 7318. Earliest known date: 2007 Designed for the MacShimsi Clan in Dundee See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/m11dr5dg5k40ly3~x2/)|
-|![MacShimsi Personal Tartan Tartan Number: 7318. Earliest known date: 2007 Designed for the MacShimsi Clan in Dundee See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/m11dr5dg5k40ly3~x2/sett.png)|
+| [MacShimsi Personal Tartan](/variants/s5/m11dr5dg5k40ly3~x2/)|
+|![MacShimsi Personal Tartan example sett](/variants/s5/m11dr5dg5k40ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 60 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Takla Makan (Artefact)](/setts/s60/w12db1w2db1w12k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1w1k2w3k1w3k2w1db1w1db1k2w6db2w7dr4w7db2w6k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1k2~x2/)|
-|![Takla Makan (Artefact) example sett](/setts/s60/w12db1w2db1w12k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1w1k2w3k1w3k2w1db1w1db1k2w6db2w7dr4w7db2w6k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1k2~x2/sett.png)|
+| [Takla Makan (Artefact)](/variants/s60/w12db1w2db1w12k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1w1k2w3k1w3k2w1db1w1db1k2w6db2w7dr4w7db2w6k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1k2~x2/)|
+|![Takla Makan (Artefact) example sett](/variants/s60/w12db1w2db1w12k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1w1k2w3k1w3k2w1db1w1db1k2w6db2w7dr4w7db2w6k1db1w1db1db1db1w1db1k1w12db1w2db1w12k2db1w1db1k2~x2/sett.png)|

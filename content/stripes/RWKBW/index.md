@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Volunteer Lifesaving Corps (Corp.)](/setts/s5/r5w4k4db80w4~x2/)|
-|![Volunteer Lifesaving Corps (Corp.) example sett](/setts/s5/r5w4k4db80w4~x2/sett.png)|
+| [Volunteer Lifesaving Corps (Corp.)](/variants/s5/r5w4k4db80w4~x2/)|
+|![Volunteer Lifesaving Corps (Corp.) example sett](/variants/s5/r5w4k4db80w4~x2/sett.png)|

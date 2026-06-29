@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochaber](/setts/s8/g3r1g18k20r1db18t1g2~x4/)|
-|![Lochaber example sett](/setts/s8/g3r1g18k20r1db18t1g2~x4/sett.png)|
-| [Lochaber #2](/setts/s8/dg3r1dg18k20r1db18t1dg2~x4/)|
-|![Lochaber #2 example sett](/setts/s8/dg3r1dg18k20r1db18t1dg2~x4/sett.png)|
+| [Lochaber](/variants/s8/g3r1g18k20r1db18t1g2~x4/)|
+|![Lochaber example sett](/variants/s8/g3r1g18k20r1db18t1g2~x4/sett.png)|
+| [Lochaber #2](/variants/s8/dg3r1dg18k20r1db18t1dg2~x4/)|
+|![Lochaber #2 example sett](/variants/s8/dg3r1dg18k20r1db18t1dg2~x4/sett.png)|

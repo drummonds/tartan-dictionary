@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westwood MacBrick (Fashion)](/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/)|
-|![Westwood MacBrick (Fashion) example sett](/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/sett.png)|
-| [Westwood MacRock (Fashion)](/setts/s13/k11o2k11o20w2o20k7o1k7o1k7o11w1~x2/)|
-|![Westwood MacRock (Fashion) example sett](/setts/s13/k11o2k11o20w2o20k7o1k7o1k7o11w1~x2/sett.png)|
+| [Westwood MacBrick (Fashion)](/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/)|
+|![Westwood MacBrick (Fashion) example sett](/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/sett.png)|
+| [Westwood MacRock (Fashion)](/variants/s13/k11o2k11o20w2o20k7o1k7o1k7o11w1~x2/)|
+|![Westwood MacRock (Fashion) example sett](/variants/s13/k11o2k11o20w2o20k7o1k7o1k7o11w1~x2/sett.png)|

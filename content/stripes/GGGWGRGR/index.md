@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Welsh Assembly](/setts/s8/g5y9g4w5g30r2g4r2~x2/)|
-|![Welsh Assembly example sett](/setts/s8/g5y9g4w5g30r2g4r2~x2/sett.png)|
+| [Welsh Assembly](/variants/s8/g5y9g4w5g30r2g4r2~x2/)|
+|![Welsh Assembly example sett](/variants/s8/g5y9g4w5g30r2g4r2~x2/sett.png)|

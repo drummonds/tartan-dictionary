@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canmore Highland Games Dress](/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3o2~x2/)|
-|![Canmore Highland Games Dress example sett](/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3o2~x2/sett.png)|
+| [Canmore Highland Games Dress](/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3o2~x2/)|
+|![Canmore Highland Games Dress example sett](/variants/s12/w52db2k7w3k2dp2k1db9g8k2g3o2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nova Scotia Dress](/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/)|
-|![Nova Scotia Dress example sett](/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/sett.png)|
-| [Nova Scotia Dress (District)](/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/)|
-|![Nova Scotia Dress (District) example sett](/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/sett.png)|
+| [Nova Scotia Dress](/variants/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/)|
+|![Nova Scotia Dress example sett](/variants/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/sett.png)|
+| [Nova Scotia Dress (District)](/variants/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/)|
+|![Nova Scotia Dress (District) example sett](/variants/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [West Point](/setts/s8/k13o1k1o1k4o10ly1o1~x6/)|
-|![West Point example sett](/setts/s8/k13o1k1o1k4o10ly1o1~x6/sett.png)|
-| [West Point Military Academy (Mil.)](/setts/s8/k10o1k2o1k4o10ly1o2~x4/)|
-|![West Point Military Academy (Mil.) example sett](/setts/s8/k10o1k2o1k4o10ly1o2~x4/sett.png)|
+| [West Point](/variants/s8/k13o1k1o1k4o10ly1o1~x6/)|
+|![West Point example sett](/variants/s8/k13o1k1o1k4o10ly1o1~x6/sett.png)|
+| [West Point Military Academy (Mil.)](/variants/s8/k10o1k2o1k4o10ly1o2~x4/)|
+|![West Point Military Academy (Mil.) example sett](/variants/s8/k10o1k2o1k4o10ly1o2~x4/sett.png)|

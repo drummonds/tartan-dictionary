@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Port Moresby City Pipes & Drums](/setts/s5/r2ly36k12w3g2~x2/)|
-|![Port Moresby City Pipes & Drums example sett](/setts/s5/r2ly36k12w3g2~x2/sett.png)|
-| [Port Moresby City Pipes and Drums](/setts/s5/r2ly33k5w3g2~x2/)|
-|![Port Moresby City Pipes and Drums example sett](/setts/s5/r2ly33k5w3g2~x2/sett.png)|
+| [Port Moresby City Pipes & Drums](/variants/s5/r2ly36k12w3g2~x2/)|
+|![Port Moresby City Pipes & Drums example sett](/variants/s5/r2ly36k12w3g2~x2/sett.png)|
+| [Port Moresby City Pipes and Drums](/variants/s5/r2ly33k5w3g2~x2/)|
+|![Port Moresby City Pipes and Drums example sett](/variants/s5/r2ly33k5w3g2~x2/sett.png)|

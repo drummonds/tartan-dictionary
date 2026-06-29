@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Akins Red Dress](/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/)|
-|![Akins Red Dress example sett](/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/sett.png)|
+| [Akins Red Dress](/variants/s9/g6r4g5r13k13w5k13r13ly6~x2/)|
+|![Akins Red Dress example sett](/variants/s9/g6r4g5r13k13w5k13r13ly6~x2/sett.png)|

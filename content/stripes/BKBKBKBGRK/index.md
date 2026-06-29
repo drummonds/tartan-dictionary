@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bell, Siobhan (Personal)](/setts/s10/k1r1g1db1k1db1k1db1k1dp1~x10/)|
-|![Bell, Siobhan (Personal) example sett](/setts/s10/k1r1g1db1k1db1k1db1k1dp1~x10/sett.png)|
+| [Bell, Siobhan (Personal)](/variants/s10/k1r1g1db1k1db1k1db1k1dp1~x10/)|
+|![Bell, Siobhan (Personal) example sett](/variants/s10/k1r1g1db1k1db1k1db1k1dp1~x10/sett.png)|

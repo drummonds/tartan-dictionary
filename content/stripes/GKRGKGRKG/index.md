@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montrose (Graham)](/setts/s9/y1k1r8dg8k6y4r8k1y1~x8/)|
-|![Montrose (Graham) example sett](/setts/s9/y1k1r8dg8k6y4r8k1y1~x8/sett.png)|
+| [Montrose (Graham)](/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/)|
+|![Montrose (Graham) example sett](/variants/s9/y1k1r8dg8k6y4r8k1y1~x8/sett.png)|

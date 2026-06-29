@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince of Orange](/setts/s4/t6lo28o20t3~x2/)|
-|![Prince of Orange example sett](/setts/s4/t6lo28o20t3~x2/sett.png)|
+| [Prince of Orange](/variants/s4/t6lo28o20t3~x2/)|
+|![Prince of Orange example sett](/variants/s4/t6lo28o20t3~x2/sett.png)|

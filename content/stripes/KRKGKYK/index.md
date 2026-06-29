@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Callaghan](/setts/s7/k5o1k41dg8k8ly1k5~x2/)|
-|![Callaghan example sett](/setts/s7/k5o1k41dg8k8ly1k5~x2/sett.png)|
+| [Callaghan](/variants/s7/k5o1k41dg8k8ly1k5~x2/)|
+|![Callaghan example sett](/variants/s7/k5o1k41dg8k8ly1k5~x2/sett.png)|

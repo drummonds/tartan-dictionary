@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brooke](/setts/s9/db1t1db1k8g10k8r1w1ly1~x2/)|
-|![Brooke example sett](/setts/s9/db1t1db1k8g10k8r1w1ly1~x2/sett.png)|
-| [Brooke (D.C.Dalgliesh version)](/setts/s9/db1t1db1k8dg10k8r1w1ly1~x2/)|
-|![Brooke (D.C.Dalgliesh version) example sett](/setts/s9/db1t1db1k8dg10k8r1w1ly1~x2/sett.png)|
+| [Brooke](/variants/s9/db1t1db1k8g10k8r1w1ly1~x2/)|
+|![Brooke example sett](/variants/s9/db1t1db1k8g10k8r1w1ly1~x2/sett.png)|
+| [Brooke (D.C.Dalgliesh version)](/variants/s9/db1t1db1k8dg10k8r1w1ly1~x2/)|
+|![Brooke (D.C.Dalgliesh version) example sett](/variants/s9/db1t1db1k8dg10k8r1w1ly1~x2/sett.png)|

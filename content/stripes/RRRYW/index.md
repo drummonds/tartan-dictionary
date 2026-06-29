@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Love (Fashion)](/setts/s5/rii1ri4r10lo2w1~x4/)|
-|![Love (Fashion) example sett](/setts/s5/rii1ri4r10lo2w1~x4/sett.png)|
+| [Love (Fashion)](/variants/s5/rii1ri4r10lo2w1~x4/)|
+|![Love (Fashion) example sett](/variants/s5/rii1ri4r10lo2w1~x4/sett.png)|

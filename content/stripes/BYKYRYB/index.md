@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carlisle](/setts/s7/t11ly5k1ly2r1ly2t11~x12/)|
-|![Carlisle example sett](/setts/s7/t11ly5k1ly2r1ly2t11~x12/sett.png)|
-| [Carlisle Family (Name)](/setts/s7/b33lo6r3lo6k3lo15b32~x4/)|
-|![Carlisle Family (Name) example sett](/setts/s7/b33lo6r3lo6k3lo15b32~x4/sett.png)|
+| [Carlisle](/variants/s7/t11ly5k1ly2r1ly2t11~x12/)|
+|![Carlisle example sett](/variants/s7/t11ly5k1ly2r1ly2t11~x12/sett.png)|
+| [Carlisle Family (Name)](/variants/s7/b33lo6r3lo6k3lo15b32~x4/)|
+|![Carlisle Family (Name) example sett](/variants/s7/b33lo6r3lo6k3lo15b32~x4/sett.png)|

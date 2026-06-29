@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Johnstone / Johnston](/setts/s8/k3db3k3db22g26k2db1ly3~x2/)|
-|![Johnstone / Johnston example sett](/setts/s8/k3db3k3db22g26k2db1ly3~x2/sett.png)|
-| [Johnstone/Johnston](/setts/s8/k3db3k3db22dg26k2db1ly3~x2/)|
-|![Johnstone/Johnston example sett](/setts/s8/k3db3k3db22dg26k2db1ly3~x2/sett.png)|
+| [Johnstone / Johnston](/variants/s8/k3db3k3db22g26k2db1ly3~x2/)|
+|![Johnstone / Johnston example sett](/variants/s8/k3db3k3db22g26k2db1ly3~x2/sett.png)|
+| [Johnstone/Johnston](/variants/s8/k3db3k3db22dg26k2db1ly3~x2/)|
+|![Johnstone/Johnston example sett](/variants/s8/k3db3k3db22dg26k2db1ly3~x2/sett.png)|

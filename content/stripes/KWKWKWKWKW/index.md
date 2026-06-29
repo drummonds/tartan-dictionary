@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Black and White](/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/)|
-|![Kinloch Anderson Black and White example sett](/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/sett.png)|
+| [Kinloch Anderson Black and White](/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/)|
+|![Kinloch Anderson Black and White example sett](/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/sett.png)|

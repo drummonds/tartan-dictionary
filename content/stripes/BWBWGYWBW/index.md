@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milne dress green](/setts/s9/w14t3w14ly1g20w15t3w7dp3~x2/)|
-|![Milne dress green example sett](/setts/s9/w14t3w14ly1g20w15t3w7dp3~x2/sett.png)|
+| [Milne dress green](/variants/s9/w14t3w14ly1g20w15t3w7dp3~x2/)|
+|![Milne dress green example sett](/variants/s9/w14t3w14ly1g20w15t3w7dp3~x2/sett.png)|

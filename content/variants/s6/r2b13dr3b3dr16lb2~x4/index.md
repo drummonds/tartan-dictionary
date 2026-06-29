@@ -1,0 +1,65 @@
+---
+title: "MacArthur-Fox Blue (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2b13dr3b3dr16lb2/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBW](/stripes/rbbbbw/).
+
+Part of the [MacArthur-Fox](/tartans/macarthur-fox/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacArthur-Fox Blue
+- MacArthur-Fox Dress Personal
+- MacArthur-Fox Green
+- MacArthur-Fox, dress
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — MacArthur-Fox Blue (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283">record</a>)</li>
+<li>1997 — MacArthur-Fox Blue (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/459/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2283](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283)
+- Scottish Tartans Authority (ITI): 459
+- Scottish Tartans World Register: 459
+
+## Thread count
+LP/8 DR64 B12 DR12 B52 DRa/8
+
+One full sett is **296 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LP/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> <small style="color:#888">#A8ACE8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(76.3% 0.086 281.2)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> <small style="color:#888">#4C0000</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.2% 0.107 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> <small style="color:#888">#4C0000</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.2% 0.107 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">52</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>DRa/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> <small style="color:#888">#A00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(44.3% 0.182 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="LP/8 DR64 B12 DR12 B52 DRa/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r2b13dr3b3dr16lb2~x4">MacArthur-Fox Blue (Personal)</a> <a class="nn-out" href="/variants/s6/r2b13dr3b3dr16lb2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r2b13dr3b3dr16lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.85</div><div class="nn-name"><a href="/ttd/edit/#slug=o11dbi1o3db1dbi9r1~x4&amp;base=r2b13dr3b3dr16lb2~x4">Dege, of Saville Row</a> <a class="nn-out" href="/variants/s6/o11dbi1o3db1dbi9r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o11dbi1o3db1dbi9r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.02</div><div class="nn-name"><a href="/ttd/edit/#slug=db18ly2dy6ly2dy19r3~x2&amp;base=r2b13dr3b3dr16lb2~x4">Balfour #2</a> <a class="nn-out" href="/variants/s6/db18ly2dy6ly2dy19r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db18ly2dy6ly2dy19r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.02</div><div class="nn-name"><a href="/ttd/edit/#slug=db18ly2dy6ly2dy19r3~x4&amp;base=r2b13dr3b3dr16lb2~x4">Balfour (Clan)</a> <a class="nn-out" href="/variants/s6/db18ly2dy6ly2dy19r3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db18ly2dy6ly2dy19r3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.03</div><div class="nn-name"><a href="/ttd/edit/#slug=db3g21db3o21db35w3~x2&amp;base=r2b13dr3b3dr16lb2~x4">Donnolly</a> <a class="nn-out" href="/variants/s6/db3g21db3o21db35w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3g21db3o21db35w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.09</div><div class="nn-name"><a href="/ttd/edit/#slug=r5db35k25db8ly10r5~x2&amp;base=r2b13dr3b3dr16lb2~x4">University of Notre Dame</a> <a class="nn-out" href="/variants/s6/r5db35k25db8ly10r5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5db35k25db8ly10r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=r5db25w5db3dg25db3~x2&amp;base=r2b13dr3b3dr16lb2~x4">Thayer USA</a> <a class="nn-out" href="/variants/s6/r5db25w5db3dg25db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5db25w5db3dg25db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.13</div><div class="nn-name"><a href="/ttd/edit/#slug=r12db3g5db16ly2g2~x2&amp;base=r2b13dr3b3dr16lb2~x4">Dunbog Primary (School)</a> <a class="nn-out" href="/variants/s6/r12db3g5db16ly2g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r12db3g5db16ly2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=db9r1db2r1r4w1~x12&amp;base=r2b13dr3b3dr16lb2~x4">McIntosh, Georgina (Personal)</a> <a class="nn-out" href="/variants/s6/db9r1db2r1r4w1~x12/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db9r1db2r1r4w1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=g22dp22g3dp11w3dp4w3~x2&amp;base=r2b13dr3b3dr16lb2~x4">O'Long (Personal)</a> <a class="nn-out" href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=r5db25w5db3g25db3~x2&amp;base=r2b13dr3b3dr16lb2~x4">Thayer USA (Name)</a> <a class="nn-out" href="/variants/s6/r5db25w5db3g25db3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5db25w5db3g25db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o11dbi1o3db1dbi9r1~x4/"><circle cx="328.7" cy="209.2" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s6/db18ly2dy6ly2dy19r3~x2/"><circle cx="297.0" cy="219.3" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18ly2dy6ly2dy19r3~x4/"><circle cx="297.0" cy="219.3" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s6/db3g21db3o21db35w3~x2/"><circle cx="264.6" cy="208.1" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="220.4" cy="222.4" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s6/r5db25w5db3dg25db3~x2/"><circle cx="250.0" cy="216.6" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.3" cy="210.7" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/variants/s6/db9r1db2r1r4w1~x12/"><circle cx="285.0" cy="202.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="304.6" cy="223.9" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="251.4" cy="216.9" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><circle cx="278.6" cy="217.5" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/r2b13dr3b3dr16lb2~x4/

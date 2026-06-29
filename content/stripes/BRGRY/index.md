@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunoon Burgh Hall Trust](/setts/s5/db2m3g3o6ly2~x2/)|
-|![Dunoon Burgh Hall Trust example sett](/setts/s5/db2m3g3o6ly2~x2/sett.png)|
+| [Dunoon Burgh Hall Trust](/variants/s5/db2m3g3o6ly2~x2/)|
+|![Dunoon Burgh Hall Trust example sett](/variants/s5/db2m3g3o6ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aviemore Check](/setts/s8/g2dy10g11ly4dy1w18g2dy1~x2/)|
-|![Aviemore Check example sett](/setts/s8/g2dy10g11ly4dy1w18g2dy1~x2/sett.png)|
+| [Aviemore Check](/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/)|
+|![Aviemore Check example sett](/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/sett.png)|

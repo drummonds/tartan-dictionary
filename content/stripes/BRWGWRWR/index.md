@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chaudhri (Name)](/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/)|
-|![Chaudhri (Name) example sett](/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/sett.png)|
+| [Chaudhri (Name)](/variants/s8/dp13r8lb5dg24lb5r10lb5r10~x2/)|
+|![Chaudhri (Name) example sett](/variants/s8/dp13r8lb5dg24lb5r10lb5r10~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Schiehallion (Corporate)](/setts/s11/b14db4g2db2gi3db2b17db31b1db1w2~x2/)|
-|![Schiehallion (Corporate) example sett](/setts/s11/b14db4g2db2gi3db2b17db31b1db1w2~x2/sett.png)|
+| [Schiehallion (Corporate)](/variants/s11/b14db4g2db2gi3db2b17db31b1db1w2~x2/)|
+|![Schiehallion (Corporate) example sett](/variants/s11/b14db4g2db2gi3db2b17db31b1db1w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Soutar/Souter](/setts/s16/k20w3t20k3r3dg20r10w3k20~x2/)|
-|![Soutar/Souter example sett](/setts/s16/k20w3t20k3r3dg20r10w3k20~x2/sett.png)|
+| [Soutar/Souter](/variants/s16/k20w3t20k3r3dg20r10w3k20~x2/)|
+|![Soutar/Souter example sett](/variants/s16/k20w3t20k3r3dg20r10w3k20~x2/sett.png)|

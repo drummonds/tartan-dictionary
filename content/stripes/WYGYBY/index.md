@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser Yellow #2](/setts/s6/w1ly8dg3ly1db3ly1~x4/)|
-|![Fraser Yellow #2 example sett](/setts/s6/w1ly8dg3ly1db3ly1~x4/sett.png)|
-| [Fraser, Yellow](/setts/s6/w1ly8g3ly1db3ly1~x4/)|
-|![Fraser, Yellow example sett](/setts/s6/w1ly8g3ly1db3ly1~x4/sett.png)|
+| [Fraser Yellow #2](/variants/s6/w1ly8dg3ly1db3ly1~x4/)|
+|![Fraser Yellow #2 example sett](/variants/s6/w1ly8dg3ly1db3ly1~x4/sett.png)|
+| [Fraser, Yellow](/variants/s6/w1ly8g3ly1db3ly1~x4/)|
+|![Fraser, Yellow example sett](/variants/s6/w1ly8g3ly1db3ly1~x4/sett.png)|

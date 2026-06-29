@@ -8,11 +8,15 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/dpi10k2dg10dp30dg30dgi55k4r8/"><img src="/setts/s8/dpi10k2dg10dp30dg30dgi55k4r8/sett.png" alt="Batten of Argyll (Baddenach)" width="240"><br>Batten of Argyll (Baddenach)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dpi10k2dg10dp30dg30dgi55k4r8/">Batten of Argyll</a> ★</td><td><code>DPi/10 K2 DG10 DP30 DG30 DGi55 K4 R/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dpi10k2dg10dp30dg30dgi55k4r8/"><img src="/variants/s8/dpi10k2dg10dp30dg30dgi55k4r8/sett.png" alt="Batten of Argyll sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dpi5k1y5dp15dg15g28k2r4/">Clan Tartan</a></td><td><code>DPi/10 K2 Y10 DP30 DG30 G56 K4 R/8</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/dpi5k1y5dp15dg15g28k2r4/"><img src="/variants/s8/dpi5k1y5dp15dg15g28k2r4~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s8/dpi5k1y5dp15dg15g28k2r4~x2/"><img src="/setts/s8/dpi5k1y5dp15dg15g28k2r4~x2/sett.png" alt="Batten of Argyll Clan Tartan Tartan Number: 5768. Earliest known date: 2003 The Baddenach family originally emigrated from Argyll, Scotland to Jamestown, Virginia. This can be worn by all of the name or its anglicised variants (Batten, Batton, Battin, Badden etc). IT is also to serve as the official tartan for the St Andrews Legion/St Andrews Legion Pipes &amp; Drums headquartered in Richmond Virginia, whose founder is the designer of this tartan. It may also serve as a tartan for anyone having Scottish ancestors who settled in the Virginia Colony. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Batten of Argyll Clan Tartan Tartan Number: 5768. Earliest known date: 2003 The Baddenach family originally emigrated from Argyll, Scotland to Jamestown, Virginia. This can be worn by all of the name or its anglicised variants (Batten, Batton, Battin, Badden etc). IT is also to serve as the official tartan for the St Andrews Legion/St Andrews Legion Pipes & Drums headquartered in Richmond Virginia, whose founder is the designer of this tartan. It may also serve as a tartan for anyone having Scottish ancestors who settled in the Virginia Colony. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+[See the Batten of Argyll tartan and all its setts →](/tartans/batten-of-argyll/)
 

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boucherville (Tartan de..), dress](/setts/s9/w40ly4y10w8b4y4b4y4g1~x2/)|
-|![Boucherville (Tartan de..), dress example sett](/setts/s9/w40ly4y10w8b4y4b4y4g1~x2/sett.png)|
+| [Boucherville (Tartan de..), dress](/variants/s9/w40ly4y10w8b4y4b4y4g1~x2/)|
+|![Boucherville (Tartan de..), dress example sett](/variants/s9/w40ly4y10w8b4y4b4y4g1~x2/sett.png)|

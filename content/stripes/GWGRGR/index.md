@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gleneagles USA (Dalgleish)](/setts/s6/g4lb31g7r14g11r3~x2/)|
-|![Gleneagles USA (Dalgleish) example sett](/setts/s6/g4lb31g7r14g11r3~x2/sett.png)|
+| [Gleneagles USA (Dalgleish)](/variants/s6/g4lb31g7r14g11r3~x2/)|
+|![Gleneagles USA (Dalgleish) example sett](/variants/s6/g4lb31g7r14g11r3~x2/sett.png)|

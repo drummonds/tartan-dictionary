@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson's Promise](/setts/s7/m38k12ri15r4ri15k2w4~x2/)|
-|![Ferguson's Promise example sett](/setts/s7/m38k12ri15r4ri15k2w4~x2/sett.png)|
-| [Ferguson's Promise (Commemorative)](/setts/s7/ri38k12rii15r4rii15k2w4~x2/)|
-|![Ferguson's Promise (Commemorative) example sett](/setts/s7/ri38k12rii15r4rii15k2w4~x2/sett.png)|
+| [Ferguson's Promise](/variants/s7/m38k12ri15r4ri15k2w4~x2/)|
+|![Ferguson's Promise example sett](/variants/s7/m38k12ri15r4ri15k2w4~x2/sett.png)|
+| [Ferguson's Promise (Commemorative)](/variants/s7/ri38k12rii15r4rii15k2w4~x2/)|
+|![Ferguson's Promise (Commemorative) example sett](/variants/s7/ri38k12rii15r4rii15k2w4~x2/sett.png)|

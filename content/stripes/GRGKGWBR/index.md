@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [CSCA (Corporate)](/setts/s8/g5r4g19k10g8w4db18r4~x2/)|
-|![CSCA (Corporate) example sett](/setts/s8/g5r4g19k10g8w4db18r4~x2/sett.png)|
+| [CSCA (Corporate)](/variants/s8/g5r4g19k10g8w4db18r4~x2/)|
+|![CSCA (Corporate) example sett](/variants/s8/g5r4g19k10g8w4db18r4~x2/sett.png)|

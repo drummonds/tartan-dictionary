@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barclay Dress](/tartans/w1ly6k6ly1/)|
-|![Barclay Dress example sett](/setts/s4/w1ly6k6ly1~x2/sett.png)|
-| [Silvicola](/setts/s4/ly20k15ly20w3~x2/)|
-|![Silvicola example sett](/setts/s4/ly20k15ly20w3~x2/sett.png)|
+| [Barclay Dress](/setts/w1ly6k6ly1/)|
+|![Barclay Dress example sett](/variants/s4/w1ly6k6ly1~x2/sett.png)|
+| [Silvicola](/variants/s4/ly20k15ly20w3~x2/)|
+|![Silvicola example sett](/variants/s4/ly20k15ly20w3~x2/sett.png)|

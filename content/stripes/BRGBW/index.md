@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Battle of Prestonpans (1745) Herit](/setts/s5/db9r12dg9db5w2~x4/)|
-|![Battle of Prestonpans (1745) Herit example sett](/setts/s5/db9r12dg9db5w2~x4/sett.png)|
-| [Battle of Prestonpans (1745) Heritage Trust, The](/setts/s5/db9r12g9db5w2~x4/)|
-|![Battle of Prestonpans (1745) Heritage Trust, The example sett](/setts/s5/db9r12g9db5w2~x4/sett.png)|
+| [Battle of Prestonpans (1745) Herit](/variants/s5/db9r12dg9db5w2~x4/)|
+|![Battle of Prestonpans (1745) Herit example sett](/variants/s5/db9r12dg9db5w2~x4/sett.png)|
+| [Battle of Prestonpans (1745) Heritage Trust, The](/variants/s5/db9r12g9db5w2~x4/)|
+|![Battle of Prestonpans (1745) Heritage Trust, The example sett](/variants/s5/db9r12g9db5w2~x4/sett.png)|

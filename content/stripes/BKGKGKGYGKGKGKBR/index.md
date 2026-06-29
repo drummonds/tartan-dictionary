@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sarafilovic](/setts/s16/db15k18g3k2g2k2g44ly4g44k2g2k2g3k18db15r4~x2/)|
-|![Sarafilovic example sett](/setts/s16/db15k18g3k2g2k2g44ly4g44k2g2k2g3k18db15r4~x2/sett.png)|
+| [Sarafilovic](/variants/s16/db15k18g3k2g2k2g44ly4g44k2g2k2g3k18db15r4~x2/)|
+|![Sarafilovic example sett](/variants/s16/db15k18g3k2g2k2g44ly4g44k2g2k2g3k18db15r4~x2/sett.png)|

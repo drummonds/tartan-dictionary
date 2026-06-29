@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buncle (Duns)](/setts/s5/n9do2dg12o31lo9~x2/)|
-|![Buncle (Duns) example sett](/setts/s5/n9do2dg12o31lo9~x2/sett.png)|
+| [Buncle (Duns)](/variants/s5/n9do2dg12o31lo9~x2/)|
+|![Buncle (Duns) example sett](/variants/s5/n9do2dg12o31lo9~x2/sett.png)|

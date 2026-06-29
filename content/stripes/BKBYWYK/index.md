@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Francis Xavier University](/setts/s7/k3lo1lb9lo1db9k3t1~x4/)|
-|![St. Francis Xavier University example sett](/setts/s7/k3lo1lb9lo1db9k3t1~x4/sett.png)|
+| [St. Francis Xavier University](/variants/s7/k3lo1lb9lo1db9k3t1~x4/)|
+|![St. Francis Xavier University example sett](/variants/s7/k3lo1lb9lo1db9k3t1~x4/sett.png)|

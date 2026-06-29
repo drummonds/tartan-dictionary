@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Hampshire](/setts/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/)|
-|![New Hampshire example sett](/setts/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/sett.png)|
+| [New Hampshire](/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/)|
+|![New Hampshire example sett](/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/sett.png)|

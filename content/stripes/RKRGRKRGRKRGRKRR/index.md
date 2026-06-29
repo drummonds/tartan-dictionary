@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seaforth Estate Check](/setts/s16/r1o1k1o1y1o1k1o1y1~x12/)|
-|![Seaforth Estate Check example sett](/setts/s16/r1o1k1o1y1o1k1o1y1~x12/sett.png)|
+| [Seaforth Estate Check](/variants/s16/r1o1k1o1y1o1k1o1y1~x12/)|
+|![Seaforth Estate Check example sett](/variants/s16/r1o1k1o1y1o1k1o1y1~x12/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edwards](/setts/s9/o37db4o7db4o9db40t2db4o2/)|
-|![Edwards example sett](/setts/s9/o37db4o7db4o9db40t2db4o2/sett.png)|
+| [Edwards](/variants/s9/o37db4o7db4o9db40t2db4o2/)|
+|![Edwards example sett](/variants/s9/o37db4o7db4o9db40t2db4o2/sett.png)|

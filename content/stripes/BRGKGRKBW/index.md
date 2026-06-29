@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bush Pilot](/setts/s9/db1r20g6k6g6r1k6db20w1~x2/)|
-|![Bush Pilot example sett](/setts/s9/db1r20g6k6g6r1k6db20w1~x2/sett.png)|
+| [Bush Pilot](/variants/s9/db1r20g6k6g6r1k6db20w1~x2/)|
+|![Bush Pilot example sett](/variants/s9/db1r20g6k6g6r1k6db20w1~x2/sett.png)|

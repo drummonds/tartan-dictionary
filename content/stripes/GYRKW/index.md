@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Papua New Guinea](/setts/s5/g3ly5r14k36w3~x2/)|
-|![Papua New Guinea example sett](/setts/s5/g3ly5r14k36w3~x2/sett.png)|
-| [Papua New Guinea Pipes and Drums](/setts/s5/g3ly5r13k33w2~x2/)|
-|![Papua New Guinea Pipes and Drums example sett](/setts/s5/g3ly5r13k33w2~x2/sett.png)|
+| [Papua New Guinea](/variants/s5/g3ly5r14k36w3~x2/)|
+|![Papua New Guinea example sett](/variants/s5/g3ly5r14k36w3~x2/sett.png)|
+| [Papua New Guinea Pipes and Drums](/variants/s5/g3ly5r13k33w2~x2/)|
+|![Papua New Guinea Pipes and Drums example sett](/variants/s5/g3ly5r13k33w2~x2/sett.png)|

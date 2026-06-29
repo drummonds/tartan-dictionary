@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ingenico](/setts/s6/lg50r4lg12ly23r4g4~x2/)|
-|![Ingenico example sett](/setts/s6/lg50r4lg12ly23r4g4~x2/sett.png)|
+| [Ingenico](/variants/s6/lg50r4lg12ly23r4g4~x2/)|
+|![Ingenico example sett](/variants/s6/lg50r4lg12ly23r4g4~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cherry, John S (Personal)](/setts/s7/r4db36ri35g2ri2g8w4~x2/)|
-|![Cherry, John S (Personal) example sett](/setts/s7/r4db36ri35g2ri2g8w4~x2/sett.png)|
-| [Cherry, John S. (Personal)](/setts/s7/o4dt36r35g2r2g8w4~x2/)|
-|![Cherry, John S. (Personal) example sett](/setts/s7/o4dt36r35g2r2g8w4~x2/sett.png)|
+| [Cherry, John S (Personal)](/variants/s7/r4db36ri35g2ri2g8w4~x2/)|
+|![Cherry, John S (Personal) example sett](/variants/s7/r4db36ri35g2ri2g8w4~x2/sett.png)|
+| [Cherry, John S. (Personal)](/variants/s7/o4dt36r35g2r2g8w4~x2/)|
+|![Cherry, John S. (Personal) example sett](/variants/s7/o4dt36r35g2r2g8w4~x2/sett.png)|

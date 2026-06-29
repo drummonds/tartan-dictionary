@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebrides #11](/setts/s14/k3r2k17r3k17r3g3r3k17b3k4r1k17r2~x2/)|
-|![Hebrides #11 example sett](/setts/s14/k3r2k17r3k17r3g3r3k17b3k4r1k17r2~x2/sett.png)|
+| [Hebrides #11](/variants/s14/k3r2k17r3k17r3g3r3k17b3k4r1k17r2~x2/)|
+|![Hebrides #11 example sett](/variants/s14/k3r2k17r3k17r3g3r3k17b3k4r1k17r2~x2/sett.png)|

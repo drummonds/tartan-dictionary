@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Livingston](/setts/s9/dg20k2r3k2r6dg20r29dg3r10~x2/)|
-|![Livingston example sett](/setts/s9/dg20k2r3k2r6dg20r29dg3r10~x2/sett.png)|
-| [Livingston](/setts/s9/g20k2r3k2r6g20r29g3r10~x2/)|
-|![Livingston example sett](/setts/s9/g20k2r3k2r6g20r29g3r10~x2/sett.png)|
+| [Livingston](/variants/s9/g20k2r3k2r6g20r29g3r10~x2/)|
+|![Livingston example sett](/variants/s9/g20k2r3k2r6g20r29g3r10~x2/sett.png)|
+| [Livingston](/variants/s9/dg20k2r3k2r6dg20r29dg3r10~x2/)|
+|![Livingston example sett](/variants/s9/dg20k2r3k2r6dg20r29dg3r10~x2/sett.png)|

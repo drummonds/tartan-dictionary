@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ireland's National](/setts/s15/g5gi22g13k5w4k7g5k2lo7k2gi2g6gi1k2w2~x2/)|
-|![Ireland's National example sett](/setts/s15/g5gi22g13k5w4k7g5k2lo7k2gi2g6gi1k2w2~x2/sett.png)|
+| [Ireland's National](/variants/s15/g5gi22g13k5w4k7g5k2lo7k2gi2g6gi1k2w2~x2/)|
+|![Ireland's National example sett](/variants/s15/g5gi22g13k5w4k7g5k2lo7k2gi2g6gi1k2w2~x2/sett.png)|

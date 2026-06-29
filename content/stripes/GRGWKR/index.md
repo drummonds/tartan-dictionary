@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greig (Personal)](/setts/s6/r60k2w3dg20r10dg20~x2/)|
-|![Greig (Personal) example sett](/setts/s6/r60k2w3dg20r10dg20~x2/sett.png)|
+| [Greig (Personal)](/variants/s6/r60k2w3dg20r10dg20~x2/)|
+|![Greig (Personal) example sett](/variants/s6/r60k2w3dg20r10dg20~x2/sett.png)|

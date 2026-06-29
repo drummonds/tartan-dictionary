@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Deer Park (Loton) (Personal)](/setts/s7/lg60r7w10dg16lg15w3lg15~x2/)|
-|![Deer Park (Loton) (Personal) example sett](/setts/s7/lg60r7w10dg16lg15w3lg15~x2/sett.png)|
+| [Deer Park (Loton) (Personal)](/variants/s7/lg60r7w10dg16lg15w3lg15~x2/)|
+|![Deer Park (Loton) (Personal) example sett](/variants/s7/lg60r7w10dg16lg15w3lg15~x2/sett.png)|

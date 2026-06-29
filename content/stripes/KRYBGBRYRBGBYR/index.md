@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snodgrass](/setts/s14/k3r1ly1t11g13t5r1ly1~x4/)|
-|![Snodgrass example sett](/setts/s14/k3r1ly1t11g13t5r1ly1~x4/sett.png)|
+| [Snodgrass](/variants/s14/k3r1ly1t11g13t5r1ly1~x4/)|
+|![Snodgrass example sett](/variants/s14/k3r1ly1t11g13t5r1ly1~x4/sett.png)|

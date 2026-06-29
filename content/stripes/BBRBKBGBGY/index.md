@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Boyle (Personal)](/setts/s10/dbi4db3r2db26k3dbi3g3dbi3g17lo3~x2/)|
-|![Boyle (Personal) example sett](/setts/s10/dbi4db3r2db26k3dbi3g3dbi3g17lo3~x2/sett.png)|
+| [Boyle (Personal)](/variants/s10/dbi4db3r2db26k3dbi3g3dbi3g17lo3~x2/)|
+|![Boyle (Personal) example sett](/variants/s10/dbi4db3r2db26k3dbi3g3dbi3g17lo3~x2/sett.png)|

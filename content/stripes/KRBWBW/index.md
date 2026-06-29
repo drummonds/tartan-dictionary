@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Suntan (Masai Shuka) (District?)](/setts/s6/k3r11db3w1db3w1~x4/)|
-|![Suntan (Masai Shuka) (District?) example sett](/setts/s6/k3r11db3w1db3w1~x4/sett.png)|
+| [Suntan (Masai Shuka) (District?)](/variants/s6/k3r11db3w1db3w1~x4/)|
+|![Suntan (Masai Shuka) (District?) example sett](/variants/s6/k3r11db3w1db3w1~x4/sett.png)|

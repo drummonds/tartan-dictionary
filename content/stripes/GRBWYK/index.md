@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Atlantic Police Academy](/setts/s6/k33ly4w3db33r2dg2~x2/)|
-|![Atlantic Police Academy example sett](/setts/s6/k33ly4w3db33r2dg2~x2/sett.png)|
-| [Atlantic Police Academy (Corporate)](/setts/s6/k33ly4w3db33r2g2~x2/)|
-|![Atlantic Police Academy (Corporate) example sett](/setts/s6/k33ly4w3db33r2g2~x2/sett.png)|
+| [Atlantic Police Academy](/variants/s6/k33ly4w3db33r2dg2~x2/)|
+|![Atlantic Police Academy example sett](/variants/s6/k33ly4w3db33r2dg2~x2/sett.png)|
+| [Atlantic Police Academy (Corporate)](/variants/s6/k33ly4w3db33r2g2~x2/)|
+|![Atlantic Police Academy (Corporate) example sett](/variants/s6/k33ly4w3db33r2g2~x2/sett.png)|

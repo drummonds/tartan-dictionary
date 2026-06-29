@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKellar Dress, Maroon (Dance)](/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/)|
-|![MacKellar Dress, Maroon (Dance) example sett](/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/sett.png)|
+| [MacKellar Dress, Maroon (Dance)](/variants/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/)|
+|![MacKellar Dress, Maroon (Dance) example sett](/variants/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/sett.png)|

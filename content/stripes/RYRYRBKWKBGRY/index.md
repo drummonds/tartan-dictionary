@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sri Lanka](/setts/s13/lo18r3g30b4k2w2k2b4r37ly1r3ly1r3~x2/)|
-|![Sri Lanka example sett](/setts/s13/lo18r3g30b4k2w2k2b4r37ly1r3ly1r3~x2/sett.png)|
+| [Sri Lanka](/variants/s13/lo18r3g30b4k2w2k2b4r37ly1r3ly1r3~x2/)|
+|![Sri Lanka example sett](/variants/s13/lo18r3g30b4k2w2k2b4r37ly1r3ly1r3~x2/sett.png)|

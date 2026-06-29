@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [SCH '67 Class](/setts/s6/db3r2lr15w10k2lo3~x2/)|
-|![SCH '67 Class example sett](/setts/s6/db3r2lr15w10k2lo3~x2/sett.png)|
+| [SCH '67 Class](/variants/s6/db3r2lr15w10k2lo3~x2/)|
+|![SCH '67 Class example sett](/variants/s6/db3r2lr15w10k2lo3~x2/sett.png)|

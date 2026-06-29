@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jethart](/setts/s9/k22db16r3db16k3db16g3db3b5~x2/)|
-|![Jethart example sett](/setts/s9/k22db16r3db16k3db16g3db3b5~x2/sett.png)|
+| [Jethart](/variants/s9/k22db16r3db16k3db16g3db3b5~x2/)|
+|![Jethart example sett](/variants/s9/k22db16r3db16k3db16g3db3b5~x2/sett.png)|

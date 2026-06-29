@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crombie, Harry (Personal)](/setts/s14/dp5g1db30lg2db4lg3db3lg4db2lg5db2b9db1w2~x2/)|
-|![Crombie, Harry (Personal) example sett](/setts/s14/dp5g1db30lg2db4lg3db3lg4db2lg5db2b9db1w2~x2/sett.png)|
+| [Crombie, Harry (Personal)](/variants/s14/dp5g1db30lg2db4lg3db3lg4db2lg5db2b9db1w2~x2/)|
+|![Crombie, Harry (Personal) example sett](/variants/s14/dp5g1db30lg2db4lg3db3lg4db2lg5db2b9db1w2~x2/sett.png)|

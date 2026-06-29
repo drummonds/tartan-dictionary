@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Piping Soc. of London (Corp](/setts/s7/r30y3db5y21r3y21db2~x2/)|
-|![Scottish Piping Soc. of London (Corp example sett](/setts/s7/r30y3db5y21r3y21db2~x2/sett.png)|
+| [Scottish Piping Soc. of London (Corp](/variants/s7/r30y3db5y21r3y21db2~x2/)|
+|![Scottish Piping Soc. of London (Corp example sett](/variants/s7/r30y3db5y21r3y21db2~x2/sett.png)|

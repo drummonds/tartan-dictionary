@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grey Spencer Plaid](/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/)|
-|![Grey Spencer Plaid example sett](/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/sett.png)|
+| [Grey Spencer Plaid](/variants/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/)|
+|![Grey Spencer Plaid example sett](/variants/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/sett.png)|

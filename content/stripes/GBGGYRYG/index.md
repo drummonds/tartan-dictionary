@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jolley (Personal)](/setts/s8/g4n2gi24dy10ly12r1ly12gi2~x2/)|
-|![Jolley (Personal) example sett](/setts/s8/g4n2gi24dy10ly12r1ly12gi2~x2/sett.png)|
+| [Jolley (Personal)](/variants/s8/g4n2gi24dy10ly12r1ly12gi2~x2/)|
+|![Jolley (Personal) example sett](/variants/s8/g4n2gi24dy10ly12r1ly12gi2~x2/sett.png)|

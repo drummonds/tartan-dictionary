@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bannockbane Grey #1](/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/)|
-|![Bannockbane Grey #1 example sett](/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/sett.png)|
+| [Bannockbane Grey #1](/variants/s8/k4ly2k13ly1w8o13ly2o4~x2/)|
+|![Bannockbane Grey #1 example sett](/variants/s8/k4ly2k13ly1w8o13ly2o4~x2/sett.png)|

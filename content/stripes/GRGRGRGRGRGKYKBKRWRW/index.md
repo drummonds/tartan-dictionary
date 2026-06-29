@@ -24,7 +24,7 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moray Plaid](/setts/s20/dg28r1dg2r3dg1r16dg1r3dg2r1dg14k3ly3k3db3k3r48w3r3w3~x2/)|
-|![Moray Plaid example sett](/setts/s20/dg28r1dg2r3dg1r16dg1r3dg2r1dg14k3ly3k3db3k3r48w3r3w3~x2/sett.png)|
-| [Moray Plaid Artifact Tartan Tartan Number: 991. Earliest known date: 1820 Early 19thC. MacGregor-Hastie's list of unknowns. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/g28r1g2r3g1r16g1r3g2r1g14k3ly3k3db3k3r48w3r3w3~x2/)|
-|![Moray Plaid Artifact Tartan Tartan Number: 991. Earliest known date: 1820 Early 19thC. MacGregor-Hastie's list of unknowns. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s20/g28r1g2r3g1r16g1r3g2r1g14k3ly3k3db3k3r48w3r3w3~x2/sett.png)|
+| [Moray Plaid](/variants/s20/dg28r1dg2r3dg1r16dg1r3dg2r1dg14k3ly3k3db3k3r48w3r3w3~x2/)|
+|![Moray Plaid example sett](/variants/s20/dg28r1dg2r3dg1r16dg1r3dg2r1dg14k3ly3k3db3k3r48w3r3w3~x2/sett.png)|
+| [Moray Plaid Artifact Tartan](/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3ly3k3db3k3r48w3r3w3~x2/)|
+|![Moray Plaid Artifact Tartan example sett](/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3ly3k3db3k3r48w3r3w3~x2/sett.png)|

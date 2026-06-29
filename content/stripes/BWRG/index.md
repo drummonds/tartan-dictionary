@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Algarve](/setts/s4/dg1r1w1db1~x20/)|
-|![Algarve example sett](/setts/s4/dg1r1w1db1~x20/sett.png)|
+| [Algarve](/variants/s4/dg1r1w1db1~x20/)|
+|![Algarve example sett](/variants/s4/dg1r1w1db1~x20/sett.png)|

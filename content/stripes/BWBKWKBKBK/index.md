@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Claymores](/setts/s10/dt9w2dt24k8w5k8db15k3db15k2~x2/)|
-|![Scottish Claymores example sett](/setts/s10/dt9w2dt24k8w5k8db15k3db15k2~x2/sett.png)|
+| [Scottish Claymores](/variants/s10/dt9w2dt24k8w5k8db15k3db15k2~x2/)|
+|![Scottish Claymores example sett](/variants/s10/dt9w2dt24k8w5k8db15k3db15k2~x2/sett.png)|

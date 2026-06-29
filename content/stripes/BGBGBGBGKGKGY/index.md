@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Princess Beatrice Hunting](/setts/s13/dbi10g5dbi5g60dbi13g10db67g5k5g5k5g13ly10/)|
-|![Princess Beatrice Hunting example sett](/setts/s13/dbi10g5dbi5g60dbi13g10db67g5k5g5k5g13ly10/sett.png)|
+| [Princess Beatrice Hunting](/variants/s13/dbi10g5dbi5g60dbi13g10db67g5k5g5k5g13ly10/)|
+|![Princess Beatrice Hunting example sett](/variants/s13/dbi10g5dbi5g60dbi13g10db67g5k5g5k5g13ly10/sett.png)|

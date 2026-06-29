@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milne of Corstorphine #1 (Personal)](/setts/s12/k20dg1k2dg1k20ly1dg16r2dg16ly1k30dg1~x2/)|
-|![Milne of Corstorphine #1 (Personal) example sett](/setts/s12/k20dg1k2dg1k20ly1dg16r2dg16ly1k30dg1~x2/sett.png)|
+| [Milne of Corstorphine #1 (Personal)](/variants/s12/k20dg1k2dg1k20ly1dg16r2dg16ly1k30dg1~x2/)|
+|![Milne of Corstorphine #1 (Personal) example sett](/variants/s12/k20dg1k2dg1k20ly1dg16r2dg16ly1k30dg1~x2/sett.png)|

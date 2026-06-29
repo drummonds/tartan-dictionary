@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sarasota - Dunfermline (Commemorat)](/setts/s10/r2g6ly2g3b4g14b36k2b3w2~x2/)|
-|![Sarasota - Dunfermline (Commemorat) example sett](/setts/s10/r2g6ly2g3b4g14b36k2b3w2~x2/sett.png)|
+| [Sarasota - Dunfermline (Commemorat)](/variants/s10/r2g6ly2g3b4g14b36k2b3w2~x2/)|
+|![Sarasota - Dunfermline (Commemorat) example sett](/variants/s10/r2g6ly2g3b4g14b36k2b3w2~x2/sett.png)|

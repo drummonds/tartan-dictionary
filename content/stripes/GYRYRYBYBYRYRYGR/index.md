@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stevenson (Personal)](/setts/s16/g6ly1r2ly1r2ly1db6ly1db6ly1r2ly1r2ly1g6r1~x8/)|
-|![Stevenson (Personal) example sett](/setts/s16/g6ly1r2ly1r2ly1db6ly1db6ly1r2ly1r2ly1g6r1~x8/sett.png)|
+| [Stevenson (Personal)](/variants/s16/g6ly1r2ly1r2ly1db6ly1db6ly1r2ly1r2ly1g6r1~x8/)|
+|![Stevenson (Personal) example sett](/variants/s16/g6ly1r2ly1r2ly1db6ly1db6ly1r2ly1r2ly1g6r1~x8/sett.png)|

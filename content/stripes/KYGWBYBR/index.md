@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Yacht Britannia](/setts/s8/k43ly3dg1w1db1ly3db25r2~x2/)|
-|![Royal Yacht Britannia example sett](/setts/s8/k43ly3dg1w1db1ly3db25r2~x2/sett.png)|
+| [Royal Yacht Britannia](/variants/s8/k43ly3dg1w1db1ly3db25r2~x2/)|
+|![Royal Yacht Britannia example sett](/variants/s8/k43ly3dg1w1db1ly3db25r2~x2/sett.png)|

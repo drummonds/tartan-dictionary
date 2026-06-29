@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [West of Wells](/setts/s9/g28k2db3k11db3k2db17dbi4w2~x2/)|
-|![West of Wells example sett](/setts/s9/g28k2db3k11db3k2db17dbi4w2~x2/sett.png)|
+| [West of Wells](/variants/s9/g28k2db3k11db3k2db17dbi4w2~x2/)|
+|![West of Wells example sett](/variants/s9/g28k2db3k11db3k2db17dbi4w2~x2/sett.png)|

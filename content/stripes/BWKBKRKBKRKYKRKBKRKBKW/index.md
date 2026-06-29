@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saltcoats](/setts/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/)|
-|![Saltcoats example sett](/setts/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/sett.png)|
+| [Saltcoats](/variants/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/)|
+|![Saltcoats example sett](/variants/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 30 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Huntly #2](/setts/s30/b16lr2r7lr2k14lb6lr2b15lr2dg17lb6dg6ri8k6ri8k2~x2/)|
-|![Huntly #2 example sett](/setts/s30/b16lr2r7lr2k14lb6lr2b15lr2dg17lb6dg6ri8k6ri8k2~x2/sett.png)|
+| [Huntly #2](/variants/s30/b16lr2r7lr2k14lb6lr2b15lr2dg17lb6dg6ri8k6ri8k2~x2/)|
+|![Huntly #2 example sett](/variants/s30/b16lr2r7lr2k14lb6lr2b15lr2dg17lb6dg6ri8k6ri8k2~x2/sett.png)|

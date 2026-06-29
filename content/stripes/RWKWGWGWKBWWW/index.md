@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diana Pink (Commemorative)](/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/)|
-|![Diana Pink (Commemorative) example sett](/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|
-| [Diana Princess of Wales Mem. (Commem](/setts/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/)|
-|![Diana Princess of Wales Mem. (Commem example sett](/setts/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|
+| [Diana Pink (Commemorative)](/variants/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/)|
+|![Diana Pink (Commemorative) example sett](/variants/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|
+| [Diana Princess of Wales Mem. (Commem](/variants/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/)|
+|![Diana Princess of Wales Mem. (Commem example sett](/variants/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Qatar Airways](/setts/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/)|
-|![Qatar Airways example sett](/setts/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/sett.png)|
+| [Qatar Airways](/variants/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/)|
+|![Qatar Airways example sett](/variants/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/sett.png)|

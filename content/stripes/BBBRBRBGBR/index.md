@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rikaco Red](/setts/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/)|
-|![Rikaco Red example sett](/setts/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/sett.png)|
+| [Rikaco Red](/variants/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/)|
+|![Rikaco Red example sett](/variants/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/sett.png)|

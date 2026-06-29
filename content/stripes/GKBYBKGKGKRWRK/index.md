@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scandinavian](/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/)|
-|![Scandinavian example sett](/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/sett.png)|
+| [Scandinavian](/variants/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/)|
+|![Scandinavian example sett](/variants/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/sett.png)|

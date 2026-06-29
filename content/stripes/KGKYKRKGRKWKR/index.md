@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Quebec, Plaid du (District)](/setts/s13/k25dg5k2ly2ki2r2k2dg20r20ki2w2ki2r2~x2/)|
-|![Quebec, Plaid du (District) example sett](/setts/s13/k25dg5k2ly2ki2r2k2dg20r20ki2w2ki2r2~x2/sett.png)|
+| [Quebec, Plaid du (District)](/variants/s13/k25dg5k2ly2ki2r2k2dg20r20ki2w2ki2r2~x2/)|
+|![Quebec, Plaid du (District) example sett](/variants/s13/k25dg5k2ly2ki2r2k2dg20r20ki2w2ki2r2~x2/sett.png)|

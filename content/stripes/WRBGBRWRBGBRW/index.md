@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yamaue](/setts/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/)|
-|![Yamaue example sett](/setts/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/sett.png)|
+| [Yamaue](/variants/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/)|
+|![Yamaue example sett](/variants/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/sett.png)|

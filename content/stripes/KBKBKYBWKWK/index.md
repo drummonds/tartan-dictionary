@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Springbank](/setts/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/)|
-|![Springbank example sett](/setts/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/sett.png)|
+| [Springbank](/variants/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/)|
+|![Springbank example sett](/variants/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson of Cluny](/setts/s11/r5ly2r2g42r5ly36r70ly2ly2r7g2/)|
-|![MacPherson of Cluny example sett](/setts/s11/r5ly2r2g42r5ly36r70ly2ly2r7g2/sett.png)|
+| [MacPherson of Cluny](/variants/s11/r5ly2r2g42r5ly36r70ly2ly2r7g2/)|
+|![MacPherson of Cluny example sett](/variants/s11/r5ly2r2g42r5ly36r70ly2ly2r7g2/sett.png)|

@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bannockbane Tan](/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/)|
-|![Bannockbane Tan example sett](/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/sett.png)|
-| [Bannockbane, Dark Tan](/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/)|
-|![Bannockbane, Dark Tan example sett](/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/sett.png)|
+| [Bannockbane Tan](/variants/s8/do4ly2do13ly1w13t13ly2t4~x2/)|
+|![Bannockbane Tan example sett](/variants/s8/do4ly2do13ly1w13t13ly2t4~x2/sett.png)|
+| [Bannockbane, Dark Tan](/variants/s8/dr4ly2dr13ly1w8t13ly2t4~x2/)|
+|![Bannockbane, Dark Tan example sett](/variants/s8/dr4ly2dr13ly1w8t13ly2t4~x2/sett.png)|

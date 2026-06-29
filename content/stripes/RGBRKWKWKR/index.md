@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mitsukoshi Sendai](/setts/s10/o4k1w1k1w1k1o4n2dg6r1~x6/)|
-|![Mitsukoshi Sendai example sett](/setts/s10/o4k1w1k1w1k1o4n2dg6r1~x6/sett.png)|
+| [Mitsukoshi Sendai](/variants/s10/o4k1w1k1w1k1o4n2dg6r1~x6/)|
+|![Mitsukoshi Sendai example sett](/variants/s10/o4k1w1k1w1k1o4n2dg6r1~x6/sett.png)|

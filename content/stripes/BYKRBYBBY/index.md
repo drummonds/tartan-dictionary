@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [US Air Force Reserve Pipe Band](/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/)|
-|![US Air Force Reserve Pipe Band example sett](/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/sett.png)|
+| [US Air Force Reserve Pipe Band](/variants/s9/db44lo3k20r3db8lg34db3db2lg15~x2/)|
+|![US Air Force Reserve Pipe Band example sett](/variants/s9/db44lo3k20r3db8lg34db3db2lg15~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathtummel (District?)](/setts/s14/db37dp2db2dp3k13dp10w2dp10y1dp2y2dp2y9dp13~x2/)|
-|![Strathtummel (District?) example sett](/setts/s14/db37dp2db2dp3k13dp10w2dp10y1dp2y2dp2y9dp13~x2/sett.png)|
+| [Strathtummel (District?)](/variants/s14/db37dp2db2dp3k13dp10w2dp10y1dp2y2dp2y9dp13~x2/)|
+|![Strathtummel (District?) example sett](/variants/s14/db37dp2db2dp3k13dp10w2dp10y1dp2y2dp2y9dp13~x2/sett.png)|

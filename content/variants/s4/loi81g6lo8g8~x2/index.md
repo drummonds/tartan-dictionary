@@ -1,0 +1,56 @@
+---
+title: "Young in Australia (Name)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/loi81g6lo8g8/)
+(the same proportion at any scale), whose colour order is pattern [GYGY](/stripes/gygy/).
+
+Part of the [Young in Australia](/tartans/young-in-australia/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10241/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10241](https://www.tartanregister.gov.uk/tartanDetails?ref=10241)
+- Scottish Tartans Authority (ITI): 10241
+
+## Thread count
+LT/162 G12 DY16 G/16
+
+One full sett is **234 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LT/</td><td style="text-align:right;font-variant-numeric:tabular-nums">162</td><td><code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> <small style="color:#888">#A08858</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(63.7% 0.071 84.0)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#00884C;"><span style="color:#00884C;filter:grayscale(1) invert(1) contrast(100);">#00884C</span></code> <small style="color:#888">#00884C</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(55.0% 0.137 154.8)</small></td></tr><tr><td>DY</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> <small style="color:#888">#BC8C00</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(66.8% 0.137 84.1)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#00884C;"><span style="color:#00884C;filter:grayscale(1) invert(1) contrast(100);">#00884C</span></code> <small style="color:#888">#00884C</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(55.0% 0.137 154.8)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="LT/162 G12 DY16 G/16 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/w81dg6lo8dg8/"><img src="/variants/s4/w81dg6lo8dg8~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/w81dg6lo8dg8/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=loi81g6lo8g8~x2">Young in Australia (Name)</a> <a class="nn-out" href="/variants/s4/loi81g6lo8g8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/loi81g6lo8g8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.82</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=n2o3n3o3n10o2n18o1~x4&amp;base=loi81g6lo8g8~x2">Hebridean Cairn (Fashion)</a> <a class="nn-out" href="/variants/s8/n2o3n3o3n10o2n18o1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n2o3n3o3n10o2n18o1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.92</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=n2y3n3y3n10y2n18y1~x4&amp;base=loi81g6lo8g8~x2">Hebridean Cairn Fashion Tartan</a> <a class="nn-out" href="/variants/s8/n2y3n3y3n10y2n18y1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n2y3n3y3n10y2n18y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">3.00</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=y9yi52dy15ly4~x2&amp;base=loi81g6lo8g8~x2">McGuigan, Julia (St Monans, Fife) (Personal)</a> <a class="nn-out" href="/variants/s4/y9yi52dy15ly4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y9yi52dy15ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.03</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=y2o2y12dy2y32o2y1g2y1o2y1g2~x2&amp;base=loi81g6lo8g8~x2">Houston</a> <a class="nn-out" href="/variants/s12/y2o2y12dy2y32o2y1g2y1o2y1g2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/y2o2y12dy2y32o2y1g2y1o2y1g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.14</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=y37dy9y3do9dy3~x2&amp;base=loi81g6lo8g8~x2">Glen Boig Trade Tartan</a> <a class="nn-out" href="/variants/s5/y37dy9y3do9dy3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/y37dy9y3do9dy3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.19</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=g13dy3g1do3dy1~x6&amp;base=loi81g6lo8g8~x2">Glen Boig</a> <a class="nn-out" href="/variants/s5/g13dy3g1do3dy1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g13dy3g1do3dy1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.19</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=o60lo15o4lo2o2lo2o2lo2~x2&amp;base=loi81g6lo8g8~x2">Masai Shuka 09 (Artefact)</a> <a class="nn-out" href="/variants/s8/o60lo15o4lo2o2lo2o2lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/o60lo15o4lo2o2lo2o2lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.21</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=y100o26dg3dr2&amp;base=loi81g6lo8g8~x2">13, Irish Regiment</a> <a class="nn-out" href="/variants/s4/y100o26dg3dr2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y100o26dg3dr2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.23</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=oi12o6oi2ly1~x4&amp;base=loi81g6lo8g8~x2">Loch Garth</a> <a class="nn-out" href="/variants/s4/oi12o6oi2ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/oi12o6oi2ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.32</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=t4lo15t4lo15t4w2~x2&amp;base=loi81g6lo8g8~x2">Takla Makan #2</a> <a class="nn-out" href="/variants/s6/t4lo15t4lo15t4w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t4lo15t4lo15t4w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n2o3n3o3n10o2n18o1~x4/"><circle cx="626.0" cy="297.6" r="4" fill="#3465a4"><title>Hebridean Cairn (Fashion)</title></circle></a><a href="/variants/s8/n2y3n3y3n10y2n18y1~x4/"><circle cx="626.0" cy="322.2" r="4" fill="#3465a4"><title>Hebridean Cairn Fashion Tartan</title></circle></a><a href="/variants/s4/y9yi52dy15ly4~x2/"><circle cx="537.9" cy="304.1" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s12/y2o2y12dy2y32o2y1g2y1o2y1g2~x2/"><circle cx="626.0" cy="203.5" r="4" fill="#3465a4"><title>Houston</title></circle></a><a href="/variants/s5/y37dy9y3do9dy3~x2/"><circle cx="554.6" cy="298.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="568.6" cy="306.9" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s8/o60lo15o4lo2o2lo2o2lo2~x2/"><circle cx="626.0" cy="269.9" r="4" fill="#3465a4"><title>Masai Shuka 09 (Artefact)</title></circle></a><a href="/variants/s4/y100o26dg3dr2/"><circle cx="626.0" cy="222.4" r="4" fill="#3465a4"><title>13, Irish Regiment</title></circle></a><a href="/variants/s4/oi12o6oi2ly1~x4/"><circle cx="620.0" cy="354.7" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/variants/s6/t4lo15t4lo15t4w2~x2/"><circle cx="521.0" cy="315.2" r="4" fill="#3465a4"><title>Takla Makan #2</title></circle></a><circle cx="626.0" cy="313.4" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s4/loi81g6lo8g8~x2/

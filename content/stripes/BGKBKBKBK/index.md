@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aitchison (Personal)](/setts/s9/k2dt3k2dt18k11dt2k11g25dp2~x2/)|
-|![Aitchison (Personal) example sett](/setts/s9/k2dt3k2dt18k11dt2k11g25dp2~x2/sett.png)|
-| [Aitchison Family (Kinghorn) (Personal)](/setts/s9/k2db3k2db18k11db2k11g25p2~x2/)|
-|![Aitchison Family (Kinghorn) (Personal) example sett](/setts/s9/k2db3k2db18k11db2k11g25p2~x2/sett.png)|
+| [Aitchison (Personal)](/variants/s9/k2dt3k2dt18k11dt2k11g25dp2~x2/)|
+|![Aitchison (Personal) example sett](/variants/s9/k2dt3k2dt18k11dt2k11g25dp2~x2/sett.png)|
+| [Aitchison Family (Kinghorn) (Personal)](/variants/s9/k2db3k2db18k11db2k11g25p2~x2/)|
+|![Aitchison Family (Kinghorn) (Personal) example sett](/variants/s9/k2db3k2db18k11db2k11g25p2~x2/sett.png)|

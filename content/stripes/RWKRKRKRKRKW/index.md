@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duchess of Kent](/setts/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/)|
-|![Duchess of Kent example sett](/setts/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/sett.png)|
+| [Duchess of Kent](/variants/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/)|
+|![Duchess of Kent example sett](/variants/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/sett.png)|

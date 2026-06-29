@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tailor Ishida, Kobe](/setts/s5/lg25r1ly1n9w4~x2/)|
-|![Tailor Ishida, Kobe example sett](/setts/s5/lg25r1ly1n9w4~x2/sett.png)|
+| [Tailor Ishida, Kobe](/variants/s5/lg25r1ly1n9w4~x2/)|
+|![Tailor Ishida, Kobe example sett](/variants/s5/lg25r1ly1n9w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North American Sheep Breeders Association](/setts/s7/o2w1lo17o14w15o2w2~x2/)|
-|![North American Sheep Breeders Association example sett](/setts/s7/o2w1lo17o14w15o2w2~x2/sett.png)|
+| [North American Sheep Breeders Association](/variants/s7/o2w1lo17o14w15o2w2~x2/)|
+|![North American Sheep Breeders Association example sett](/variants/s7/o2w1lo17o14w15o2w2~x2/sett.png)|

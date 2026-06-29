@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Glenaladale (symmetrical)](/setts/s6/g5w2r27g27r5w2~x2/)|
-|![MacDonald of Glenaladale (symmetrical) example sett](/setts/s6/g5w2r27g27r5w2~x2/sett.png)|
+| [MacDonald of Glenaladale (symmetrical)](/variants/s6/g5w2r27g27r5w2~x2/)|
+|![MacDonald of Glenaladale (symmetrical) example sett](/variants/s6/g5w2r27g27r5w2~x2/sett.png)|

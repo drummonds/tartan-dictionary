@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leeds, University of (Dance) #1](/setts/s14/g34m4g4m4g4m12g20w5~x2/)|
-|![Leeds, University of (Dance) #1 example sett](/setts/s14/g34m4g4m4g4m12g20w5~x2/sett.png)|
+| [Leeds, University of (Dance) #1](/variants/s14/g34m4g4m4g4m12g20w5~x2/)|
+|![Leeds, University of (Dance) #1 example sett](/variants/s14/g34m4g4m4g4m12g20w5~x2/sett.png)|

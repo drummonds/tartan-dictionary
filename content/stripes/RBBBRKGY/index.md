@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian Labrador Retrievers](/setts/s8/m21db4dr5db4m5k21g21ly5~x2/)|
-|![Caledonian Labrador Retrievers example sett](/setts/s8/m21db4dr5db4m5k21g21ly5~x2/sett.png)|
+| [Caledonian Labrador Retrievers](/variants/s8/m21db4dr5db4m5k21g21ly5~x2/)|
+|![Caledonian Labrador Retrievers example sett](/variants/s8/m21db4dr5db4m5k21g21ly5~x2/sett.png)|

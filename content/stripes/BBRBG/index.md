@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Currens (2016)](/setts/s5/dg27n20r9db16b20~x2/)|
-|![Currens (2016) example sett](/setts/s5/dg27n20r9db16b20~x2/sett.png)|
+| [Currens (2016)](/variants/s5/dg27n20r9db16b20~x2/)|
+|![Currens (2016) example sett](/variants/s5/dg27n20r9db16b20~x2/sett.png)|

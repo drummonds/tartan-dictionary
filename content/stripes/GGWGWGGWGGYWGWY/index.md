@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Skye (Fashion)](/setts/s15/dy8g1lb6dy8lb3dy4g1lb8g1dy6lo20lb29dy3lb7lo7~x2/)|
-|![Isle of Skye (Fashion) example sett](/setts/s15/dy8g1lb6dy8lb3dy4g1lb8g1dy6lo20lb29dy3lb7lo7~x2/sett.png)|
+| [Isle of Skye (Fashion)](/variants/s15/dy8g1lb6dy8lb3dy4g1lb8g1dy6lo20lb29dy3lb7lo7~x2/)|
+|![Isle of Skye (Fashion) example sett](/variants/s15/dy8g1lb6dy8lb3dy4g1lb8g1dy6lo20lb29dy3lb7lo7~x2/sett.png)|

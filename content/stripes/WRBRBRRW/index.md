@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tenmaya Check](/setts/s8/lb1o12r1dt1r1dt2r5lb1~x4/)|
-|![Tenmaya Check example sett](/setts/s8/lb1o12r1dt1r1dt2r5lb1~x4/sett.png)|
+| [Tenmaya Check](/variants/s8/lb1o12r1dt1r1dt2r5lb1~x4/)|
+|![Tenmaya Check example sett](/variants/s8/lb1o12r1dt1r1dt2r5lb1~x4/sett.png)|

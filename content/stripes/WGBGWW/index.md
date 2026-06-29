@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwich No.078](/setts/s6/lt7g7db2g7lt7w1~x2/)|
-|![Norwich No.078 example sett](/setts/s6/lt7g7db2g7lt7w1~x2/sett.png)|
+| [Norwich No.078](/variants/s6/lt7g7db2g7lt7w1~x2/)|
+|![Norwich No.078 example sett](/variants/s6/lt7g7db2g7lt7w1~x2/sett.png)|

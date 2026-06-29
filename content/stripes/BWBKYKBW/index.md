@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilmarnock Football Club (Old)](/setts/s8/db3w3db5k6ly1~x4/)|
-|![Kilmarnock Football Club (Old) example sett](/setts/s8/db3w3db5k6ly1~x4/sett.png)|
+| [Kilmarnock Football Club (Old)](/variants/s8/db3w3db5k6ly1~x4/)|
+|![Kilmarnock Football Club (Old) example sett](/variants/s8/db3w3db5k6ly1~x4/sett.png)|

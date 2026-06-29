@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Madras 1 (Fashion)](/setts/s8/t45w4db4w2ly14db2w2db2~x4/)|
-|![Madras 1 (Fashion) example sett](/setts/s8/t45w4db4w2ly14db2w2db2~x4/sett.png)|
+| [Madras 1 (Fashion)](/variants/s8/t45w4db4w2ly14db2w2db2~x4/)|
+|![Madras 1 (Fashion) example sett](/variants/s8/t45w4db4w2ly14db2w2db2~x4/sett.png)|

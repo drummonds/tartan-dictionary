@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Martin Family, Robert N (Personal)](/setts/s5/dr27w3dr6w2g3~x4/)|
-|![Martin Family, Robert N (Personal) example sett](/setts/s5/dr27w3dr6w2g3~x4/sett.png)|
+| [Martin Family, Robert N (Personal)](/variants/s5/dr27w3dr6w2g3~x4/)|
+|![Martin Family, Robert N (Personal) example sett](/variants/s5/dr27w3dr6w2g3~x4/sett.png)|

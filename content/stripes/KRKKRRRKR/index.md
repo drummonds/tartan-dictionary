@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henry, W. A. (Commemorative)](/setts/s9/k16r16ki3ki16r2r1r2k6r2~x4/)|
-|![Henry, W. A. (Commemorative) example sett](/setts/s9/k16r16ki3ki16r2r1r2k6r2~x4/sett.png)|
+| [Henry, W. A. (Commemorative)](/variants/s9/k16r16ki3ki16r2r1r2k6r2~x4/)|
+|![Henry, W. A. (Commemorative) example sett](/variants/s9/k16r16ki3ki16r2r1r2k6r2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Staines (2013)](/setts/s3/db1k12db1~x10/)|
-|![Staines (2013) example sett](/setts/s3/db1k12db1~x10/sett.png)|
+| [Staines (2013)](/variants/s3/db1k12db1~x10/)|
+|![Staines (2013) example sett](/variants/s3/db1k12db1~x10/sett.png)|

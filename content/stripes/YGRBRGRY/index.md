@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Invertere](/setts/s8/ly5dg14o4db4o27dg3o4ly5~x2/)|
-|![Invertere example sett](/setts/s8/ly5dg14o4db4o27dg3o4ly5~x2/sett.png)|
+| [Invertere](/variants/s8/ly5dg14o4db4o27dg3o4ly5~x2/)|
+|![Invertere example sett](/variants/s8/ly5dg14o4db4o27dg3o4ly5~x2/sett.png)|

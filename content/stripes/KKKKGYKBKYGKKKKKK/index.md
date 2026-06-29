@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Polaris (Military)](/setts/s17/k6ki1k1ki1k1ki7g6lo1ki1db1ki1lo1g6ki7k7ki1k1~x4/)|
-|![Polaris (Military) example sett](/setts/s17/k6ki1k1ki1k1ki7g6lo1ki1db1ki1lo1g6ki7k7ki1k1~x4/sett.png)|
+| [Polaris (Military)](/variants/s17/k6ki1k1ki1k1ki7g6lo1ki1db1ki1lo1g6ki7k7ki1k1~x4/)|
+|![Polaris (Military) example sett](/variants/s17/k6ki1k1ki1k1ki7g6lo1ki1db1ki1lo1g6ki7k7ki1k1~x4/sett.png)|

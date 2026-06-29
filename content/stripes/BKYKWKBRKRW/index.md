@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lanyard Blue (Fashion)](/setts/s11/db90k10ly2k4w2k4b14r12k2r5w4/)|
-|![Lanyard Blue (Fashion) example sett](/setts/s11/db90k10ly2k4w2k4b14r12k2r5w4/sett.png)|
+| [Lanyard Blue (Fashion)](/variants/s11/db90k10ly2k4w2k4b14r12k2r5w4/)|
+|![Lanyard Blue (Fashion) example sett](/variants/s11/db90k10ly2k4w2k4b14r12k2r5w4/sett.png)|

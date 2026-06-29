@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Baronage](/setts/s9/dg3r9t1dg9r1dg1r8db9r1~x4/)|
-|![Baronage example sett](/setts/s9/dg3r9t1dg9r1dg1r8db9r1~x4/sett.png)|
-| [Convention of the Baronage (Corp)](/setts/s9/g3r9t1g9r1g1r9db9r1~x4/)|
-|![Convention of the Baronage (Corp) example sett](/setts/s9/g3r9t1g9r1g1r9db9r1~x4/sett.png)|
+| [Baronage](/variants/s9/dg3r9t1dg9r1dg1r8db9r1~x4/)|
+|![Baronage example sett](/variants/s9/dg3r9t1dg9r1dg1r8db9r1~x4/sett.png)|
+| [Convention of the Baronage (Corp)](/variants/s9/g3r9t1g9r1g1r9db9r1~x4/)|
+|![Convention of the Baronage (Corp) example sett](/variants/s9/g3r9t1g9r1g1r9db9r1~x4/sett.png)|

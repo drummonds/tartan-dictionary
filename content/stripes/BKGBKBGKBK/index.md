@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.167](/setts/s10/k20t2k6g16dp4k9~x2/)|
-|![Wilson's No.167 example sett](/setts/s10/k20t2k6g16dp4k9~x2/sett.png)|
+| [Wilson's No.167](/variants/s10/k20t2k6g16dp4k9~x2/)|
+|![Wilson's No.167 example sett](/variants/s10/k20t2k6g16dp4k9~x2/sett.png)|

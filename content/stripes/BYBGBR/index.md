@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Abertay University (Estimated threadcount)](/setts/s6/r5db15g3db15ly3db3~x2/)|
-|![Abertay University (Estimated threadcount) example sett](/setts/s6/r5db15g3db15ly3db3~x2/sett.png)|
+| [Abertay University (Estimated threadcount)](/variants/s6/r5db15g3db15ly3db3~x2/)|
+|![Abertay University (Estimated threadcount) example sett](/variants/s6/r5db15g3db15ly3db3~x2/sett.png)|

@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacMillan - 2002 (Black - Unofficial](/setts/s6/k3lo18dg6r17k31dg3~x2/)|
-|![MacMillan - 2002 (Black - Unofficial example sett](/setts/s6/k3lo18dg6r17k31dg3~x2/sett.png)|
-| [MacMillan Variant (Unidentified)](/setts/s6/k3ly18g6r17k31g3~x2/)|
-|![MacMillan Variant (Unidentified) example sett](/setts/s6/k3ly18g6r17k31g3~x2/sett.png)|
-| [MacMillan Varient (Unidentified)](/setts/s6/k3ly18dg6r17k31dg3~x2/)|
-|![MacMillan Varient (Unidentified) example sett](/setts/s6/k3ly18dg6r17k31dg3~x2/sett.png)|
+| [MacMillan - 2002 (Black - Unofficial](/variants/s6/k3lo18dg6r17k31dg3~x2/)|
+|![MacMillan - 2002 (Black - Unofficial example sett](/variants/s6/k3lo18dg6r17k31dg3~x2/sett.png)|
+| [MacMillan Variant (Unidentified)](/variants/s6/k3ly18g6r17k31g3~x2/)|
+|![MacMillan Variant (Unidentified) example sett](/variants/s6/k3ly18g6r17k31g3~x2/sett.png)|
+| [MacMillan Varient (Unidentified)](/variants/s6/k3ly18dg6r17k31dg3~x2/)|
+|![MacMillan Varient (Unidentified) example sett](/variants/s6/k3ly18dg6r17k31dg3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dodd of Branford](/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/)|
-|![Dodd of Branford example sett](/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/sett.png)|
+| [Dodd of Branford](/variants/s9/g4r2g20db8k8db4lb1lo2k1~x2/)|
+|![Dodd of Branford example sett](/variants/s9/g4r2g20db8k8db4lb1lo2k1~x2/sett.png)|

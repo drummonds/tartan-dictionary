@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dewar (WCWM)](/setts/s6/dt1dy1dt7dy5y7lr1~x4/)|
-|![Dewar (WCWM) example sett](/setts/s6/dt1dy1dt7dy5y7lr1~x4/sett.png)|
+| [Dewar (WCWM)](/variants/s6/dt1dy1dt7dy5y7lr1~x4/)|
+|![Dewar (WCWM) example sett](/variants/s6/dt1dy1dt7dy5y7lr1~x4/sett.png)|

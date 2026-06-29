@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Ashburn Golf Club](/setts/s6/g2b22r2k21g23ly2~x2/)|
-|![Royal Ashburn Golf Club example sett](/setts/s6/g2b22r2k21g23ly2~x2/sett.png)|
+| [Royal Ashburn Golf Club](/variants/s6/g2b22r2k21g23ly2~x2/)|
+|![Royal Ashburn Golf Club example sett](/variants/s6/g2b22r2k21g23ly2~x2/sett.png)|

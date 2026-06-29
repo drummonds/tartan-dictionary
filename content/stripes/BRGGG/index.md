@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGovern (2016)](/setts/s5/dt62o4dy10dyi3dg21~x2/)|
-|![McGovern (2016) example sett](/setts/s5/dt62o4dy10dyi3dg21~x2/sett.png)|
+| [McGovern (2016)](/variants/s5/dt62o4dy10dyi3dg21~x2/)|
+|![McGovern (2016) example sett](/variants/s5/dt62o4dy10dyi3dg21~x2/sett.png)|

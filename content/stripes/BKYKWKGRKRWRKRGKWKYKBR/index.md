@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No.073](/setts/s22/r32t10k16ly2k3w3k3g23r13k3r3w2~x2/)|
-|![Wilson's No.073 example sett](/setts/s22/r32t10k16ly2k3w3k3g23r13k3r3w2~x2/sett.png)|
+| [Wilson's No.073](/variants/s22/r32t10k16ly2k3w3k3g23r13k3r3w2~x2/)|
+|![Wilson's No.073 example sett](/variants/s22/r32t10k16ly2k3w3k3g23r13k3r3w2~x2/sett.png)|

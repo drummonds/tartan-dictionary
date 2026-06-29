@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louisville Spaulding (Personal)](/setts/s5/k20db50g50r3k3~x2/)|
-|![Louisville Spaulding (Personal) example sett](/setts/s5/k20db50g50r3k3~x2/sett.png)|
+| [Louisville Spaulding (Personal)](/variants/s5/k20db50g50r3k3~x2/)|
+|![Louisville Spaulding (Personal) example sett](/variants/s5/k20db50g50r3k3~x2/sett.png)|

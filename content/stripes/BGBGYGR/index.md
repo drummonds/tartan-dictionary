@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenways Marketing Intl (Corporate)](/setts/s7/db24g3db3g3lo2g18r2~x2/)|
-|![Greenways Marketing Intl (Corporate) example sett](/setts/s7/db24g3db3g3lo2g18r2~x2/sett.png)|
-| [St Andrews Links](/setts/s7/db26g4db3g3ly2g24r2~x2/)|
-|![St Andrews Links example sett](/setts/s7/db26g4db3g3ly2g24r2~x2/sett.png)|
-| [St Andrews Links](/setts/s7/dt16g4dt3g3lo2g24r2~x2/)|
-|![St Andrews Links example sett](/setts/s7/dt16g4dt3g3lo2g24r2~x2/sett.png)|
+| [Greenways Marketing Intl (Corporate)](/variants/s7/db24g3db3g3lo2g18r2~x2/)|
+|![Greenways Marketing Intl (Corporate) example sett](/variants/s7/db24g3db3g3lo2g18r2~x2/sett.png)|
+| [St Andrews Links](/variants/s7/dt16g4dt3g3lo2g24r2~x2/)|
+|![St Andrews Links example sett](/variants/s7/dt16g4dt3g3lo2g24r2~x2/sett.png)|
+| [St Andrews Links](/variants/s7/db26g4db3g3ly2g24r2~x2/)|
+|![St Andrews Links example sett](/variants/s7/db26g4db3g3ly2g24r2~x2/sett.png)|

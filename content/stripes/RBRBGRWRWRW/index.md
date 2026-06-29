@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ben Ledi (Fashion)](/setts/s11/w60o3w3o8w3o3y24dt12o3dt16o4/)|
-|![Ben Ledi (Fashion) example sett](/setts/s11/w60o3w3o8w3o3y24dt12o3dt16o4/sett.png)|
+| [Ben Ledi (Fashion)](/variants/s11/w60o3w3o8w3o3y24dt12o3dt16o4/)|
+|![Ben Ledi (Fashion) example sett](/variants/s11/w60o3w3o8w3o3y24dt12o3dt16o4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smeaton 1985 (Name)](/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/)|
-|![Smeaton 1985 (Name) example sett](/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/sett.png)|
+| [Smeaton 1985 (Name)](/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/)|
+|![Smeaton 1985 (Name) example sett](/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/sett.png)|

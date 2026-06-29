@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gwynn](/setts/s8/k45ly4k4ly9k4ly4k45r4~x2/)|
-|![Gwynn example sett](/setts/s8/k45ly4k4ly9k4ly4k45r4~x2/sett.png)|
+| [Gwynn](/variants/s8/k45ly4k4ly9k4ly4k45r4~x2/)|
+|![Gwynn example sett](/variants/s8/k45ly4k4ly9k4ly4k45r4~x2/sett.png)|

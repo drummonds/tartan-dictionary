@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jones-MacGregor (Name)](/setts/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/)|
-|![Jones-MacGregor (Name) example sett](/setts/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/sett.png)|
+| [Jones-MacGregor (Name)](/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/)|
+|![Jones-MacGregor (Name) example sett](/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/sett.png)|

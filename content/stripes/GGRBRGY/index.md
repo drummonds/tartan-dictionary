@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tulloch Homes](/setts/s7/g6gi14r9dt7r9gi54ly6/)|
-|![Tulloch Homes example sett](/setts/s7/g6gi14r9dt7r9gi54ly6/sett.png)|
-| [Tulloch Homes](/setts/s7/g6dg14r9dt7r9dg54ly6/)|
-|![Tulloch Homes example sett](/setts/s7/g6dg14r9dt7r9dg54ly6/sett.png)|
+| [Tulloch Homes](/variants/s7/g6gi14r9dt7r9gi54ly6/)|
+|![Tulloch Homes example sett](/variants/s7/g6gi14r9dt7r9gi54ly6/sett.png)|
+| [Tulloch Homes](/variants/s7/g6dg14r9dt7r9dg54ly6/)|
+|![Tulloch Homes example sett](/variants/s7/g6dg14r9dt7r9dg54ly6/sett.png)|

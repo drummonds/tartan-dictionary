@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Autumn](/setts/s6/g4r28db6g10k10g3~x2/)|
-|![Canadian Autumn example sett](/setts/s6/g4r28db6g10k10g3~x2/sett.png)|
-| [Strathspey (Fashion)](/setts/s6/g3r22t5g10k10g2~x2/)|
-|![Strathspey (Fashion) example sett](/setts/s6/g3r22t5g10k10g2~x2/sett.png)|
+| [Canadian Autumn](/variants/s6/g4r28db6g10k10g3~x2/)|
+|![Canadian Autumn example sett](/variants/s6/g4r28db6g10k10g3~x2/sett.png)|
+| [Strathspey (Fashion)](/variants/s6/g3r22t5g10k10g2~x2/)|
+|![Strathspey (Fashion) example sett](/variants/s6/g3r22t5g10k10g2~x2/sett.png)|

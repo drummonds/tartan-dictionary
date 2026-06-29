@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Boyle (Name)](/setts/s7/g12k1r1k12m9k45g9~x2/)|
-|![O'Boyle (Name) example sett](/setts/s7/g12k1r1k12m9k45g9~x2/sett.png)|
+| [O'Boyle (Name)](/variants/s7/g12k1r1k12m9k45g9~x2/)|
+|![O'Boyle (Name) example sett](/variants/s7/g12k1r1k12m9k45g9~x2/sett.png)|

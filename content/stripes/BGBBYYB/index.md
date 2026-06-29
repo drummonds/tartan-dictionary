@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pisniak (Personal)](/setts/s7/dt40dg3dp4dt28lo2lr2dt7~x2/)|
-|![Pisniak (Personal) example sett](/setts/s7/dt40dg3dp4dt28lo2lr2dt7~x2/sett.png)|
+| [Pisniak (Personal)](/variants/s7/dt40dg3dp4dt28lo2lr2dt7~x2/)|
+|![Pisniak (Personal) example sett](/variants/s7/dt40dg3dp4dt28lo2lr2dt7~x2/sett.png)|

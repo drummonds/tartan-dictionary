@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chang-Miller (Personal)](/setts/s10/r23db2r1o2r1db2r4db10k2lo2~x2/)|
-|![Chang-Miller (Personal) example sett](/setts/s10/r23db2r1o2r1db2r4db10k2lo2~x2/sett.png)|
+| [Chang-Miller (Personal)](/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/)|
+|![Chang-Miller (Personal) example sett](/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/sett.png)|

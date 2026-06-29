@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Snowy Owl (Fashion)](/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/)|
-|![Snowy Owl (Fashion) example sett](/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/sett.png)|
+| [Snowy Owl (Fashion)](/variants/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/)|
+|![Snowy Owl (Fashion) example sett](/variants/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland's International - Away (Fas](/setts/s10/r24ri24k2w6k2ly2k16lb5db6w2~x2/)|
-|![Scotland's International - Away (Fas example sett](/setts/s10/r24ri24k2w6k2ly2k16lb5db6w2~x2/sett.png)|
+| [Scotland's International - Away (Fas](/variants/s10/r24ri24k2w6k2ly2k16lb5db6w2~x2/)|
+|![Scotland's International - Away (Fas example sett](/variants/s10/r24ri24k2w6k2ly2k16lb5db6w2~x2/sett.png)|

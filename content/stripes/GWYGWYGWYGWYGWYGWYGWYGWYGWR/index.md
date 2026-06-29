@@ -24,5 +24,5 @@ It is a 27 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenmoidart](/setts/s27/dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3r2~x2/)|
-|![Glenmoidart example sett](/setts/s27/dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3r2~x2/sett.png)|
+| [Glenmoidart](/variants/s27/dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3r2~x2/)|
+|![Glenmoidart example sett](/variants/s27/dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3lo2dy2w3r2~x2/sett.png)|

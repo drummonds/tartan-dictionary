@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blarney Castle](/setts/s9/g16lo3db9r3db9g6db3g3k3~x4/)|
-|![Blarney Castle example sett](/setts/s9/g16lo3db9r3db9g6db3g3k3~x4/sett.png)|
+| [Blarney Castle](/variants/s9/g16lo3db9r3db9g6db3g3k3~x4/)|
+|![Blarney Castle example sett](/variants/s9/g16lo3db9r3db9g6db3g3k3~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cunningham Dress](/setts/s7/w5r2w34r34k2r2db4~x2/)|
-|![Cunningham Dress example sett](/setts/s7/w5r2w34r34k2r2db4~x2/sett.png)|
+| [Cunningham Dress](/variants/s7/w5r2w34r34k2r2db4~x2/)|
+|![Cunningham Dress example sett](/variants/s7/w5r2w34r34k2r2db4~x2/sett.png)|

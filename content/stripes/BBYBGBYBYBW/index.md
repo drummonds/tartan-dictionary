@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Toyokawa Check](/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/)|
-|![Toyokawa Check example sett](/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/sett.png)|
+| [Toyokawa Check](/variants/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/)|
+|![Toyokawa Check example sett](/variants/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/sett.png)|

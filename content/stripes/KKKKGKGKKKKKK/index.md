@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Regiment of Scotland (Mltry)](/setts/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4/)|
-|![Royal Regiment of Scotland (Mltry) example sett](/setts/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4/sett.png)|
+| [Royal Regiment of Scotland (Mltry)](/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4/)|
+|![Royal Regiment of Scotland (Mltry) example sett](/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4/sett.png)|

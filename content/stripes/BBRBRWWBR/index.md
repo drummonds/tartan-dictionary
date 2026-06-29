@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wild Rose (Commemorative)](/setts/s9/dp12n3r13dp4r10w2lb18n22r4~x2/)|
-|![Wild Rose (Commemorative) example sett](/setts/s9/dp12n3r13dp4r10w2lb18n22r4~x2/sett.png)|
+| [Wild Rose (Commemorative)](/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/)|
+|![Wild Rose (Commemorative) example sett](/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/sett.png)|

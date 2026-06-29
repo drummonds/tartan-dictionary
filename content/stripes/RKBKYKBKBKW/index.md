@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGuffey (School)](/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/)|
-|![McGuffey (School) example sett](/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/sett.png)|
+| [McGuffey (School)](/variants/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/)|
+|![McGuffey (School) example sett](/variants/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ball](/setts/s6/lo13b8r5k3w2g1~x4/)|
-|![Ball example sett](/setts/s6/lo13b8r5k3w2g1~x4/sett.png)|
+| [Ball](/variants/s6/lo13b8r5k3w2g1~x4/)|
+|![Ball example sett](/variants/s6/lo13b8r5k3w2g1~x4/sett.png)|

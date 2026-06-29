@@ -1,0 +1,53 @@
+---
+title: "Unamed Riding cloak 1745"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dy8r2db8t1/)
+(the same proportion at any scale), whose colour order is pattern [BBRGR](/stripes/bbrgr/).
+
+Part of the [Unamed Riding cloak 1745](/tartans/unamed-riding-cloak-1745/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4198
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unamed, Riding cloak 1745
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4198](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4198)
+- Scottish Tartans World Register: 78
+
+## Thread count
+R/2 T16 R4 Ba16 B/2
+
+One full sett is **76 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> <small style="color:#888">#DC0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.2% 0.230 29.2)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#503C14;"><span style="color:#503C14;filter:grayscale(1) invert(1) contrast(100);">#503C14</span></code> <small style="color:#888">#503C14</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(37.0% 0.062 81.8)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> <small style="color:#888">#DC0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.2% 0.230 29.2)</small></td></tr><tr><td>Ba</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> <small style="color:#888">#2C4084</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.4% 0.117 268.3)</small></td></tr><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#3C82AF;"><span style="color:#3C82AF;filter:grayscale(1) invert(1) contrast(100);">#3C82AF</span></code> <small style="color:#888">#3C82AF</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(58.1% 0.099 239.8)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/2 T16 R4 Ba16 B/2 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r1dy8r2db8t1~x2">Unamed Riding cloak 1745</a> <a class="nn-out" href="/variants/s5/r1dy8r2db8t1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r1dy8r2db8t1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r1o8r2db8t1~x2&amp;base=r1dy8r2db8t1~x2">Unamed, Riding cloak 1745</a> <a class="nn-out" href="/variants/s5/r1o8r2db8t1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r1o8r2db8t1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=db7r26db7dg24ly2~x2&amp;base=r1dy8r2db8t1~x2">McCarthy, Old</a> <a class="nn-out" href="/variants/s5/db7r26db7dg24ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db7r26db7dg24ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=db1n8w1db4m8w1~x6&amp;base=r1dy8r2db8t1~x2">Little's Chauffeur Drive</a> <a class="nn-out" href="/variants/s6/db1n8w1db4m8w1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1n8w1db4m8w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=db18ly2o6ly2o19r3~x2&amp;base=r1dy8r2db8t1~x2">Balfour blue &amp; brown</a> <a class="nn-out" href="/variants/s6/db18ly2o6ly2o19r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db18ly2o6ly2o19r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/variants/s6/r4ni3n12db8ni2r4/">Bristol Gramar School Check (School)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4ni3n12db8ni2r4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.37</div><div class="nn-name"><a href="/ttd/edit/#slug=t4dy28dg6t12k12t3~x2&amp;base=r1dy8r2db8t1~x2">Thompson/Thomson/MacTavish Hunting</a> <a class="nn-out" href="/variants/s6/t4dy28dg6t12k12t3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t4dy28dg6t12k12t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.41</div><div class="nn-name"><a href="/ttd/edit/#slug=dy4dt20dy3k20o24dt3~x2&amp;base=r1dy8r2db8t1~x2">Edinburgh International Conference Centre, The</a> <a class="nn-out" href="/variants/s6/dy4dt20dy3k20o24dt3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dy4dt20dy3k20o24dt3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=k7t3dy30db30w3~x2&amp;base=r1dy8r2db8t1~x2">Douglas, (Brown)</a> <a class="nn-out" href="/variants/s5/k7t3dy30db30w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7t3dy30db30w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.43</div><div class="nn-name"><a href="/ttd/edit/#slug=dp2g10o15dp10g2~x4&amp;base=r1dy8r2db8t1~x2">Harmony, 6</a> <a class="nn-out" href="/variants/s5/dp2g10o15dp10g2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dp2g10o15dp10g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=dt3g11dt3dr11dt18lo3~x2&amp;base=r1dy8r2db8t1~x2">Harbour Town Hilton Head, The</a> <a class="nn-out" href="/variants/s6/dt3g11dt3dr11dt18lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dt3g11dt3dr11dt18lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1o8r2db8t1~x2/"><circle cx="299.4" cy="264.4" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s5/db7r26db7dg24ly2~x2/"><circle cx="274.0" cy="241.6" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s6/db1n8w1db4m8w1~x6/"><circle cx="208.2" cy="229.9" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s6/db18ly2o6ly2o19r3~x2/"><circle cx="316.8" cy="227.3" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/variants/s6/r4ni3n12db8ni2r4/"><circle cx="197.3" cy="266.6" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/variants/s6/t4dy28dg6t12k12t3~x2/"><circle cx="249.8" cy="242.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish Hunting</title></circle></a><a href="/variants/s6/dy4dt20dy3k20o24dt3~x2/"><circle cx="217.8" cy="256.8" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre, The</title></circle></a><a href="/variants/s5/k7t3dy30db30w3~x2/"><circle cx="259.5" cy="229.8" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s5/dp2g10o15dp10g2~x4/"><circle cx="253.5" cy="278.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s6/dt3g11dt3dr11dt18lo3~x2/"><circle cx="278.0" cy="278.7" r="4" fill="#3465a4"><title>Harbour Town Hilton Head, The</title></circle></a><circle cx="273.8" cy="253.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/r1dy8r2db8t1~x2/

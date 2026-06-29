@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longmuir (2014)](/setts/s6/k43dg8k8dt21dg10w2~x2/)|
-|![Longmuir (2014) example sett](/setts/s6/k43dg8k8dt21dg10w2~x2/sett.png)|
+| [Longmuir (2014)](/variants/s6/k43dg8k8dt21dg10w2~x2/)|
+|![Longmuir (2014) example sett](/variants/s6/k43dg8k8dt21dg10w2~x2/sett.png)|

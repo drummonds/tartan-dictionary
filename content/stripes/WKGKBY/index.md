@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Widows Sons Scotland (MRA)](/setts/s6/lb9k16dg10k22dp67lo4/)|
-|![Widows Sons Scotland (MRA) example sett](/setts/s6/lb9k16dg10k22dp67lo4/sett.png)|
+| [Widows Sons Scotland (MRA)](/variants/s6/lb9k16dg10k22dp67lo4/)|
+|![Widows Sons Scotland (MRA) example sett](/variants/s6/lb9k16dg10k22dp67lo4/sett.png)|

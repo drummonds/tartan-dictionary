@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Western Illinois University](/setts/s8/k2w3dp5lo4w3lo4dp25lo2~x2/)|
-|![Western Illinois University example sett](/setts/s8/k2w3dp5lo4w3lo4dp25lo2~x2/sett.png)|
+| [Western Illinois University](/variants/s8/k2w3dp5lo4w3lo4dp25lo2~x2/)|
+|![Western Illinois University example sett](/variants/s8/k2w3dp5lo4w3lo4dp25lo2~x2/sett.png)|

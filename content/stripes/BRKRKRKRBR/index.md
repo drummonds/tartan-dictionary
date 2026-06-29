@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1~x2/)|
-|![Masai Shuka 27 (Artefact) example sett](/setts/s10/r30db8r2k1r2k1~x2/sett.png)|
+| [Masai Shuka 27 (Artefact)](/variants/s10/r30db8r2k1r2k1~x2/)|
+|![Masai Shuka 27 (Artefact) example sett](/variants/s10/r30db8r2k1r2k1~x2/sett.png)|

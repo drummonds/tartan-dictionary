@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAn of Lurgyvallan (Hose)](/setts/s6/r9k1r5g6r4k2~x4/)|
-|![MacAn of Lurgyvallan (Hose) example sett](/setts/s6/r9k1r5g6r4k2~x4/sett.png)|
-| [Macan, of Lurgyvallan (Hose)](/setts/s6/r10k1r4g6~x2/)|
-|![Macan, of Lurgyvallan (Hose) example sett](/setts/s6/r10k1r4g6~x2/sett.png)|
+| [MacAn of Lurgyvallan (Hose)](/variants/s6/r9k1r5g6r4k2~x4/)|
+|![MacAn of Lurgyvallan (Hose) example sett](/variants/s6/r9k1r5g6r4k2~x4/sett.png)|
+| [Macan, of Lurgyvallan (Hose)](/variants/s6/r10k1r4g6~x2/)|
+|![Macan, of Lurgyvallan (Hose) example sett](/variants/s6/r10k1r4g6~x2/sett.png)|

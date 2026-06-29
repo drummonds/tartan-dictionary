@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Scotland, Dark (Fashion)](/setts/s11/do8k2o2do2k13do2k2ly1do14k26ly2~x2/)|
-|![Pride of Scotland, Dark (Fashion) example sett](/setts/s11/do8k2o2do2k13do2k2ly1do14k26ly2~x2/sett.png)|
+| [Pride of Scotland, Dark (Fashion)](/variants/s11/do8k2o2do2k13do2k2ly1do14k26ly2~x2/)|
+|![Pride of Scotland, Dark (Fashion) example sett](/variants/s11/do8k2o2do2k13do2k2ly1do14k26ly2~x2/sett.png)|

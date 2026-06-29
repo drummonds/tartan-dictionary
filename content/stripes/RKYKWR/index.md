@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie (WCWM)](/setts/s6/r2w30k15lo2k15r2~x2/)|
-|![Brodie (WCWM) example sett](/setts/s6/r2w30k15lo2k15r2~x2/sett.png)|
+| [Brodie (WCWM)](/variants/s6/r2w30k15lo2k15r2~x2/)|
+|![Brodie (WCWM) example sett](/variants/s6/r2w30k15lo2k15r2~x2/sett.png)|

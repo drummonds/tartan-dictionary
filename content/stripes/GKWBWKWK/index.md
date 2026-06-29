@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anzac (Fashion)](/setts/s8/k21lb2k4lb4do2lb4k13g2~x4/)|
-|![Anzac (Fashion) example sett](/setts/s8/k21lb2k4lb4do2lb4k13g2~x4/sett.png)|
+| [Anzac (Fashion)](/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/)|
+|![Anzac (Fashion) example sett](/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/sett.png)|

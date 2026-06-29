@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rose, Danny and Hanna (Personal)](/setts/s5/lg11db19dt38r7k7~x2/)|
-|![Rose, Danny and Hanna (Personal) example sett](/setts/s5/lg11db19dt38r7k7~x2/sett.png)|
-| [Trinity College, Toronto Uni. (Corp](/setts/s5/k1r2t1db5lo1~x16/)|
-|![Trinity College, Toronto Uni. (Corp example sett](/setts/s5/k1r2t1db5lo1~x16/sett.png)|
+| [Rose, Danny and Hanna (Personal)](/variants/s5/lg11db19dt38r7k7~x2/)|
+|![Rose, Danny and Hanna (Personal) example sett](/variants/s5/lg11db19dt38r7k7~x2/sett.png)|
+| [Trinity College, Toronto Uni. (Corp](/variants/s5/k1r2t1db5lo1~x16/)|
+|![Trinity College, Toronto Uni. (Corp example sett](/variants/s5/k1r2t1db5lo1~x16/sett.png)|

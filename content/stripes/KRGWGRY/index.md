@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Rum](/setts/s7/k2o30g4w2g14m13ly2~x2/)|
-|![Red Rum example sett](/setts/s7/k2o30g4w2g14m13ly2~x2/sett.png)|
+| [Red Rum](/variants/s7/k2o30g4w2g14m13ly2~x2/)|
+|![Red Rum example sett](/variants/s7/k2o30g4w2g14m13ly2~x2/sett.png)|

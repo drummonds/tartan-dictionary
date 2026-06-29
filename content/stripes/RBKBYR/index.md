@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University of Notre Dame](/setts/s6/r5db35k25db8ly10r5~x2/)|
-|![University of Notre Dame example sett](/setts/s6/r5db35k25db8ly10r5~x2/sett.png)|
+| [University of Notre Dame](/variants/s6/r5db35k25db8ly10r5~x2/)|
+|![University of Notre Dame example sett](/variants/s6/r5db35k25db8ly10r5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wallace Hunting](/setts/s6/g8k8ly1k8g8k1~x4/)|
-|![Wallace Hunting example sett](/setts/s6/g8k8ly1k8g8k1~x4/sett.png)|
+| [Wallace Hunting](/variants/s6/g8k8ly1k8g8k1~x4/)|
+|![Wallace Hunting example sett](/variants/s6/g8k8ly1k8g8k1~x4/sett.png)|

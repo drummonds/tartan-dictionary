@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Naval Association](/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/)|
-|![Royal Naval Association example sett](/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/sett.png)|
+| [Royal Naval Association](/variants/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/)|
+|![Royal Naval Association example sett](/variants/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/sett.png)|

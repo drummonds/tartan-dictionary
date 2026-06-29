@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid 3](/setts/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dr130n10/)|
-|![Unidentified Plaid 3 example sett](/setts/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dr130n10/sett.png)|
+| [Unidentified Plaid 3](/variants/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dr130n10/)|
+|![Unidentified Plaid 3 example sett](/variants/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dr130n10/sett.png)|

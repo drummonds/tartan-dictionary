@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinnon Black (Personal)](/setts/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/)|
-|![MacKinnon Black (Personal) example sett](/setts/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/sett.png)|
+| [MacKinnon Black (Personal)](/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/)|
+|![MacKinnon Black (Personal) example sett](/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/sett.png)|

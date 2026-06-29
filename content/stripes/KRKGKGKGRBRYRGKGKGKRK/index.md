@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10dg3k10dg30k8dg3r4t2r4lo2r4dg3k8dg30k10dg3k10r2k4~x2/)|
-|![Pilette of Kinnear (Personal) example sett](/setts/s21/k4r2k10dg3k10dg30k8dg3r4t2r4lo2r4dg3k8dg30k10dg3k10r2k4~x2/sett.png)|
+| [Pilette of Kinnear (Personal)](/variants/s21/k4r2k10dg3k10dg30k8dg3r4t2r4lo2r4dg3k8dg30k10dg3k10r2k4~x2/)|
+|![Pilette of Kinnear (Personal) example sett](/variants/s21/k4r2k10dg3k10dg30k8dg3r4t2r4lo2r4dg3k8dg30k10dg3k10r2k4~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacIver](/setts/s9/lr1r12k2r2k16r2k2r12ly1~x2/)|
-|![MacIver example sett](/setts/s9/lr1r12k2r2k16r2k2r12ly1~x2/sett.png)|
-| [MacIver](/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/)|
-|![MacIver example sett](/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/sett.png)|
+| [MacIver](/variants/s9/lr1r6k1r1k16r1k1r6ly1~x2/)|
+|![MacIver example sett](/variants/s9/lr1r6k1r1k16r1k1r6ly1~x2/sett.png)|
+| [MacIver](/variants/s9/lr1r12k2r2k16r2k2r12ly1~x2/)|
+|![MacIver example sett](/variants/s9/lr1r12k2r2k16r2k2r12ly1~x2/sett.png)|

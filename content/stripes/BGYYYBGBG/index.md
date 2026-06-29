@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Organic](/setts/s9/y25p3y8p13lyi8lr2ly11y2p3~x2/)|
-|![Organic example sett](/setts/s9/y25p3y8p13lyi8lr2ly11y2p3~x2/sett.png)|
+| [Organic](/variants/s9/y25p3y8p13lyi8lr2ly11y2p3~x2/)|
+|![Organic example sett](/variants/s9/y25p3y8p13lyi8lr2ly11y2p3~x2/sett.png)|

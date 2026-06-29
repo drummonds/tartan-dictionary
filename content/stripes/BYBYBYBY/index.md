@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLachlan (Chief's Dress) Blue](/setts/s8/b6ly2b21ly2b6ly24b2ly6~x2/)|
-|![MacLachlan (Chief's Dress) Blue example sett](/setts/s8/b6ly2b21ly2b6ly24b2ly6~x2/sett.png)|
+| [MacLachlan (Chief's Dress) Blue](/variants/s8/b6ly2b21ly2b6ly24b2ly6~x2/)|
+|![MacLachlan (Chief's Dress) Blue example sett](/variants/s8/b6ly2b21ly2b6ly24b2ly6~x2/sett.png)|

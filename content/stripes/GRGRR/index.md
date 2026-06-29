@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Trool](/setts/s5/dg37o9dg3r9o3~x2/)|
-|![Glen Trool example sett](/setts/s5/dg37o9dg3r9o3~x2/sett.png)|
-| [Glen Trool (Fashion)](/setts/s5/dg42o10dg3r10o3~x2/)|
-|![Glen Trool (Fashion) example sett](/setts/s5/dg42o10dg3r10o3~x2/sett.png)|
+| [Glen Trool](/variants/s5/dg37o9dg3r9o3~x2/)|
+|![Glen Trool example sett](/variants/s5/dg37o9dg3r9o3~x2/sett.png)|
+| [Glen Trool (Fashion)](/variants/s5/dg42o10dg3r10o3~x2/)|
+|![Glen Trool (Fashion) example sett](/variants/s5/dg42o10dg3r10o3~x2/sett.png)|

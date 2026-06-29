@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nesbit, Rose](/setts/s6/r6lb3r37k16lb16g4~x2/)|
-|![Nesbit, Rose example sett](/setts/s6/r6lb3r37k16lb16g4~x2/sett.png)|
-| [Nisbet Dress Rose (Dance)](/setts/s6/m3w1m20k8w8g2~x4/)|
-|![Nisbet Dress Rose (Dance) example sett](/setts/s6/m3w1m20k8w8g2~x4/sett.png)|
+| [Nesbit, Rose](/variants/s6/r6lb3r37k16lb16g4~x2/)|
+|![Nesbit, Rose example sett](/variants/s6/r6lb3r37k16lb16g4~x2/sett.png)|
+| [Nisbet Dress Rose (Dance)](/variants/s6/m3w1m20k8w8g2~x4/)|
+|![Nisbet Dress Rose (Dance) example sett](/variants/s6/m3w1m20k8w8g2~x4/sett.png)|

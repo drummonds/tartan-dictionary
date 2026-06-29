@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Logan and MacLennan](/setts/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/)|
-|![Logan and MacLennan example sett](/setts/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/sett.png)|
+| [Logan and MacLennan](/variants/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/)|
+|![Logan and MacLennan example sett](/variants/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/sett.png)|

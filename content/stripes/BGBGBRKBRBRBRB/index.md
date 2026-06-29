@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Applestone](/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/)|
-|![Applestone example sett](/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/sett.png)|
+| [Applestone](/variants/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/)|
+|![Applestone example sett](/variants/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/sett.png)|

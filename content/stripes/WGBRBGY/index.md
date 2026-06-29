@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nimah, Carissa & Bassem (Personal)](/setts/s7/w50gi15db10r2db10g8ly3~x2/)|
-|![Nimah, Carissa & Bassem (Personal) example sett](/setts/s7/w50gi15db10r2db10g8ly3~x2/sett.png)|
+| [Nimah, Carissa & Bassem (Personal)](/variants/s7/w50gi15db10r2db10g8ly3~x2/)|
+|![Nimah, Carissa & Bassem (Personal) example sett](/variants/s7/w50gi15db10r2db10g8ly3~x2/sett.png)|

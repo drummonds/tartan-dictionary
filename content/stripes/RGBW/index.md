@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Salt Spring Island](/setts/s4/r1dg6db6w1~x4/)|
-|![Salt Spring Island example sett](/setts/s4/r1dg6db6w1~x4/sett.png)|
-| [Wilson's, No 113](/setts/s4/r1g3p3w1~x4/)|
-|![Wilson's, No 113 example sett](/setts/s4/r1g3p3w1~x4/sett.png)|
+| [Salt Spring Island](/variants/s4/r1dg6db6w1~x4/)|
+|![Salt Spring Island example sett](/variants/s4/r1dg6db6w1~x4/sett.png)|
+| [Wilson's, No 113](/variants/s4/r1g3p3w1~x4/)|
+|![Wilson's, No 113 example sett](/variants/s4/r1g3p3w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heslop Lurdenlaw by Kelso](/setts/s4/dt44dg12g1o6~x2/)|
-|![Heslop Lurdenlaw by Kelso example sett](/setts/s4/dt44dg12g1o6~x2/sett.png)|
+| [Heslop Lurdenlaw by Kelso](/variants/s4/dt44dg12g1o6~x2/)|
+|![Heslop Lurdenlaw by Kelso example sett](/variants/s4/dt44dg12g1o6~x2/sett.png)|

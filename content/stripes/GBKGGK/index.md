@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lennie](/setts/s6/k2dg10y2k9dp8dg2~x2/)|
-|![Lennie example sett](/setts/s6/k2dg10y2k9dp8dg2~x2/sett.png)|
+| [Lennie](/variants/s6/k2dg10y2k9dp8dg2~x2/)|
+|![Lennie example sett](/variants/s6/k2dg10y2k9dp8dg2~x2/sett.png)|

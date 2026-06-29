@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart of Appin, Ancient hunting](/setts/s10/g11r4g4r7g41o11t4db41r4db8/)|
-|![Stewart of Appin, Ancient hunting example sett](/setts/s10/g11r4g4r7g41o11t4db41r4db8/sett.png)|
+| [Stewart of Appin, Ancient hunting](/variants/s10/g11r4g4r7g41o11t4db41r4db8/)|
+|![Stewart of Appin, Ancient hunting example sett](/variants/s10/g11r4g4r7g41o11t4db41r4db8/sett.png)|

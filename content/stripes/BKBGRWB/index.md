@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacTavish of Dunardry Dress](/setts/s7/n8w28o3g3n8k9n4~x2/)|
-|![MacTavish of Dunardry Dress example sett](/setts/s7/n8w28o3g3n8k9n4~x2/sett.png)|
+| [MacTavish of Dunardry Dress](/variants/s7/n8w28o3g3n8k9n4~x2/)|
+|![MacTavish of Dunardry Dress example sett](/variants/s7/n8w28o3g3n8k9n4~x2/sett.png)|

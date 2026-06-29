@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carter (Savannah) (Personal)](/setts/s10/dy4gi26lb1gi2lb2dy4lg26dy4g3ly3~x2/)|
-|![Carter (Savannah) (Personal) example sett](/setts/s10/dy4gi26lb1gi2lb2dy4lg26dy4g3ly3~x2/sett.png)|
+| [Carter (Savannah) (Personal)](/variants/s10/dy4gi26lb1gi2lb2dy4lg26dy4g3ly3~x2/)|
+|![Carter (Savannah) (Personal) example sett](/variants/s10/dy4gi26lb1gi2lb2dy4lg26dy4g3ly3~x2/sett.png)|

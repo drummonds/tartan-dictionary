@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wanstall](/setts/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/)|
-|![Wanstall example sett](/setts/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/sett.png)|
+| [Wanstall](/variants/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/)|
+|![Wanstall example sett](/variants/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/sett.png)|

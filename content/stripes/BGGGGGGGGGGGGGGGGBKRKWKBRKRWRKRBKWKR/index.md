@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Cotton sample](/setts/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8ri1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1ri1~x2/)|
-|![Unidentified Cotton sample example sett](/setts/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8ri1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1ri1~x2/sett.png)|
+| [Unidentified Cotton sample](/variants/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8ri1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1ri1~x2/)|
+|![Unidentified Cotton sample example sett](/variants/s36/db4g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6dg7dy1g6db4k8ri1k1w1k1db8r6k1r4w1r4k1r6db8k1w1k1ri1~x2/sett.png)|

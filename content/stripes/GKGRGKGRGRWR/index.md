@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelly of Sleat Hunting (Name)](/setts/s12/dg8k8dg56o8dg8k20dg8o8dg8o16w3r6/)|
-|![Kelly of Sleat Hunting (Name) example sett](/setts/s12/dg8k8dg56o8dg8k20dg8o8dg8o16w3r6/sett.png)|
+| [Kelly of Sleat Hunting (Name)](/variants/s12/dg8k8dg56o8dg8k20dg8o8dg8o16w3r6/)|
+|![Kelly of Sleat Hunting (Name) example sett](/variants/s12/dg8k8dg56o8dg8k20dg8o8dg8o16w3r6/sett.png)|

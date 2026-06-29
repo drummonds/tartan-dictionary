@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mayer, Chris (Personal)](/setts/s4/db1n6k6r1~x10/)|
-|![Mayer, Chris (Personal) example sett](/setts/s4/db1n6k6r1~x10/sett.png)|
+| [Mayer, Chris (Personal)](/variants/s4/db1n6k6r1~x10/)|
+|![Mayer, Chris (Personal) example sett](/variants/s4/db1n6k6r1~x10/sett.png)|

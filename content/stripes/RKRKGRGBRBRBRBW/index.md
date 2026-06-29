@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Joseph Linn Family (Monohon 2012) (Personal)](/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/)|
-|![Joseph Linn Family (Monohon 2012) (Personal) example sett](/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/sett.png)|
+| [Joseph Linn Family (Monohon 2012) (Personal)](/variants/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/)|
+|![Joseph Linn Family (Monohon 2012) (Personal) example sett](/variants/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/sett.png)|

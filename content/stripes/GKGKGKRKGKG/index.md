@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLoughlin of Ardmarnoch (Personal)](/setts/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/)|
-|![MacLoughlin of Ardmarnoch (Personal) example sett](/setts/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/sett.png)|
+| [MacLoughlin of Ardmarnoch (Personal)](/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/)|
+|![MacLoughlin of Ardmarnoch (Personal) example sett](/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/sett.png)|

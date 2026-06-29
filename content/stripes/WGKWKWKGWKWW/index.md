@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Moy](/setts/s12/lb98y12k16w5k5w5k5y28lb16k5lb16w6/)|
-|![Glen Moy example sett](/setts/s12/lb98y12k16w5k5w5k5y28lb16k5lb16w6/sett.png)|
+| [Glen Moy](/variants/s12/lb98y12k16w5k5w5k5y28lb16k5lb16w6/)|
+|![Glen Moy example sett](/variants/s12/lb98y12k16w5k5w5k5y28lb16k5lb16w6/sett.png)|

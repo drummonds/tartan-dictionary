@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hasegawa (Akasaka) (Personal)](/setts/s8/dg3w5dg3t6dg5t1dg12r1~x2/)|
-|![Hasegawa (Akasaka) (Personal) example sett](/setts/s8/dg3w5dg3t6dg5t1dg12r1~x2/sett.png)|
-| [Hasegawa (Akasaka) (Personal)](/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/)|
-|![Hasegawa (Akasaka) (Personal) example sett](/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/sett.png)|
+| [Hasegawa (Akasaka) (Personal)](/variants/s8/dg3w5dg3t6dg5t1dg12r1~x2/)|
+|![Hasegawa (Akasaka) (Personal) example sett](/variants/s8/dg3w5dg3t6dg5t1dg12r1~x2/sett.png)|
+| [Hasegawa (Akasaka) (Personal)](/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/)|
+|![Hasegawa (Akasaka) (Personal) example sett](/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/sett.png)|

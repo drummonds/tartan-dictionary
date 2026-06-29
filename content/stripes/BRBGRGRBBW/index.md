@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Accenture](/setts/s10/dp3o1db4g2r2g21o3dp21db25w3~x2/)|
-|![Accenture example sett](/setts/s10/dp3o1db4g2r2g21o3dp21db25w3~x2/sett.png)|
+| [Accenture](/variants/s10/dp3o1db4g2r2g21o3dp21db25w3~x2/)|
+|![Accenture example sett](/variants/s10/dp3o1db4g2r2g21o3dp21db25w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Van Ingelgem (Personal)](/setts/s18/ly3k18ki3k3ki3k3ki18n3k3n3k3n12w2n12k9n12k2w2~x2/)|
-|![Van Ingelgem (Personal) example sett](/setts/s18/ly3k18ki3k3ki3k3ki18n3k3n3k3n12w2n12k9n12k2w2~x2/sett.png)|
+| [Van Ingelgem (Personal)](/variants/s18/ly3k18ki3k3ki3k3ki18n3k3n3k3n12w2n12k9n12k2w2~x2/)|
+|![Van Ingelgem (Personal) example sett](/variants/s18/ly3k18ki3k3ki3k3ki18n3k3n3k3n12w2n12k9n12k2w2~x2/sett.png)|

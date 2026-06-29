@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Myles, Lee (Name)](/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/)|
-|![Myles, Lee (Name) example sett](/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/sett.png)|
+| [Myles, Lee (Name)](/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/)|
+|![Myles, Lee (Name) example sett](/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/sett.png)|

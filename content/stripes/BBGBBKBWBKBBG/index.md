@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heart of Scotland (Fashion)](/setts/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/)|
-|![Heart of Scotland (Fashion) example sett](/setts/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/sett.png)|
+| [Heart of Scotland (Fashion)](/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/)|
+|![Heart of Scotland (Fashion) example sett](/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/sett.png)|

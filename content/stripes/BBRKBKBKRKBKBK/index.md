@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grassi (2009)](/setts/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2/)|
-|![Grassi (2009) example sett](/setts/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2/sett.png)|
+| [Grassi (2009)](/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2/)|
+|![Grassi (2009) example sett](/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Watch (Pendleton)](/setts/s6/b3k2b8db8g8db2~x2/)|
-|![Black Watch (Pendleton) example sett](/setts/s6/b3k2b8db8g8db2~x2/sett.png)|
+| [Black Watch (Pendleton)](/variants/s6/b3k2b8db8g8db2~x2/)|
+|![Black Watch (Pendleton) example sett](/variants/s6/b3k2b8db8g8db2~x2/sett.png)|

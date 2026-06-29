@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barber Family 2011 (Personal)](/setts/s4/ly30dy30r1y16~x2/)|
-|![Barber Family 2011 (Personal) example sett](/setts/s4/ly30dy30r1y16~x2/sett.png)|
-| [O'Neill, Red (Corporate?)](/setts/s4/g9o20g46lg5~x2/)|
-|![O'Neill, Red (Corporate?) example sett](/setts/s4/g9o20g46lg5~x2/sett.png)|
+| [Barber Family 2011 (Personal)](/variants/s4/ly30dy30r1y16~x2/)|
+|![Barber Family 2011 (Personal) example sett](/variants/s4/ly30dy30r1y16~x2/sett.png)|
+| [O'Neill, Red (Corporate?)](/variants/s4/g9o20g46lg5~x2/)|
+|![O'Neill, Red (Corporate?) example sett](/variants/s4/g9o20g46lg5~x2/sett.png)|

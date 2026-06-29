@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Innes Hunting](/setts/s4/k30lb7g36k5~x2/)|
-|![Innes Hunting example sett](/setts/s4/k30lb7g36k5~x2/sett.png)|
+| [Innes Hunting](/variants/s4/k30lb7g36k5~x2/)|
+|![Innes Hunting example sett](/variants/s4/k30lb7g36k5~x2/sett.png)|

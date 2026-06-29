@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Legion of Frontiersmen (Corporate)](/setts/s8/k45lo10g7r3w4db13w9r6~x2/)|
-|![Legion of Frontiersmen (Corporate) example sett](/setts/s8/k45lo10g7r3w4db13w9r6~x2/sett.png)|
+| [Legion of Frontiersmen (Corporate)](/variants/s8/k45lo10g7r3w4db13w9r6~x2/)|
+|![Legion of Frontiersmen (Corporate) example sett](/variants/s8/k45lo10g7r3w4db13w9r6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gaines Center for the Humanities](/setts/s6/r1k1g6k6db6lb1~x4/)|
-|![Gaines Center for the Humanities example sett](/setts/s6/r1k1g6k6db6lb1~x4/sett.png)|
+| [Gaines Center for the Humanities](/variants/s6/r1k1g6k6db6lb1~x4/)|
+|![Gaines Center for the Humanities example sett](/variants/s6/r1k1g6k6db6lb1~x4/sett.png)|

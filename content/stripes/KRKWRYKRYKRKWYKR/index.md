@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Northern Guard Supporters](/setts/s16/k8m3k1w2o1lo1k25o2lo2k3m5k1w3lo7k1o1~x2/)|
-|![Northern Guard Supporters example sett](/setts/s16/k8m3k1w2o1lo1k25o2lo2k3m5k1w3lo7k1o1~x2/sett.png)|
+| [Northern Guard Supporters](/variants/s16/k8m3k1w2o1lo1k25o2lo2k3m5k1w3lo7k1o1~x2/)|
+|![Northern Guard Supporters example sett](/variants/s16/k8m3k1w2o1lo1k25o2lo2k3m5k1w3lo7k1o1~x2/sett.png)|

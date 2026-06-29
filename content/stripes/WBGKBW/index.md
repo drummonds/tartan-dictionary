@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified No 26](/setts/s6/w4db4dg22k20db20w3/)|
-|![Unidentified No 26 example sett](/setts/s6/w4db4dg22k20db20w3/sett.png)|
-| [Unnamed, No 26](/setts/s6/w4db4g22k20db20w3/)|
-|![Unnamed, No 26 example sett](/setts/s6/w4db4g22k20db20w3/sett.png)|
+| [Unidentified No 26](/variants/s6/w4db4dg22k20db20w3/)|
+|![Unidentified No 26 example sett](/variants/s6/w4db4dg22k20db20w3/sett.png)|
+| [Unnamed, No 26](/variants/s6/w4db4g22k20db20w3/)|
+|![Unnamed, No 26 example sett](/variants/s6/w4db4g22k20db20w3/sett.png)|

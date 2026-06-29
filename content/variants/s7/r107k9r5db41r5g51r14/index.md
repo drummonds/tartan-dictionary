@@ -1,0 +1,61 @@
+---
+title: "Buccleuch"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r107k9r5db41r5g51r14/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRKR](/stripes/rgrbrkr/).
+
+Part of the [Buccleuch](/tartans/buccleuch/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Provenance
+
+Earliest known date: c.1840 Reduced 50% proportionally. Described by Wilson as a 'Fancy' pattern, taking inspiration from the works of Sir Walter Scott.
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Buccleuch (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Buccleuch Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1505">record</a>)</li>
+</ul>
+</details>
+
+## Thread count
+R/107 K9 R5 B41 R5 G51 R/14
+
+One full sett is **343 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Ingles Buchan</strong> <small style="color:#888">(1 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">107</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">9</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">5</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">41</td><td><code style="background-color:#304080;"><span style="color:#304080;filter:grayscale(1) invert(1) contrast(100);">#304080</span></code> <small style="color:#888">#304080</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.4% 0.109 270.2)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">5</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">51</td><td><code style="background-color:#008000;"><span style="color:#008000;filter:grayscale(1) invert(1) contrast(100);">#008000</span></code> <small style="color:#888">#008000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(52.0% 0.177 142.5)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">14</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/107 K9 R5 B41 R5 G51 R/14 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r107k9r5dp41r5g51r14/"><img src="/variants/s7/r107k9r5dp41r5g51r14/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r107k9r5dp41r5g51r14/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r107k9r5db41r5g51r14">Buccleuch</a> <a class="nn-out" href="/variants/s7/r107k9r5db41r5g51r14/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r107k9r5db41r5g51r14/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.40</div><div class="nn-name"><a href="/ttd/edit/#slug=r100k15g48db5r7db16~x2&amp;base=r107k9r5db41r5g51r14">Plummer (Personal)</a> <a class="nn-out" href="/variants/s6/r100k15g48db5r7db16~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r100k15g48db5r7db16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.60</div><div class="nn-name"><a href="/ttd/edit/#slug=r25k7r3g13y1k2~x4&amp;base=r107k9r5db41r5g51r14">MacPhail</a> <a class="nn-out" href="/variants/s6/r25k7r3g13y1k2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r25k7r3g13y1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.71</div><div class="nn-name"><a href="/ttd/edit/#slug=r2db12r2g12r24w1~x2&amp;base=r107k9r5db41r5g51r14">Fraser (1745)</a> <a class="nn-out" href="/variants/s6/r2db12r2g12r24w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db12r2g12r24w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.82</div><div class="nn-name"><a href="/ttd/edit/#slug=r107k9r5dp41r5g51r14&amp;base=r107k9r5db41r5g51r14">Buccleuch</a> <a class="nn-out" href="/variants/s7/r107k9r5dp41r5g51r14/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r107k9r5dp41r5g51r14/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.87</div><div class="nn-name"><a href="/ttd/edit/#slug=r56w2db6w2g32r11db6w5&amp;base=r107k9r5db41r5g51r14">Spens</a> <a class="nn-out" href="/variants/s8/r56w2db6w2g32r11db6w5/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r56w2db6w2g32r11db6w5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.89</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g16r4k6r28g2lo3~x2&amp;base=r107k9r5db41r5g51r14">McInally (Name)</a> <a class="nn-out" href="/variants/s7/r3g16r4k6r28g2lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3g16r4k6r28g2lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.90</div><div class="nn-name"><a href="/variants/s8/r24t3w1g9r12~x8/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r24t3w1g9r12~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.91</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g15db8g4r48g4db8g4ly3~x2&amp;base=r107k9r5db41r5g51r14">Cruikshank (Name)</a> <a class="nn-out" href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=r28db12r3g20dp1g2dp1g2r7~x2&amp;base=r107k9r5db41r5g51r14">Carrick (Clan)</a> <a class="nn-out" href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=r6w1r24db6g2db1g2db1g12r1~x2&amp;base=r107k9r5db41r5g51r14">Chisholm</a> <a class="nn-out" href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="355.2" cy="163.9" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="350.5" cy="158.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="332.4" cy="163.8" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="362.8" cy="153.5" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="359.1" cy="124.2" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="344.4" cy="171.9" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s8/r24t3w1g9r12~x8/"><circle cx="372.9" cy="155.2" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="333.2" cy="141.2" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="334.9" cy="136.2" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="363.6" cy="123.3" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><circle cx="351.1" cy="153.9" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/r107k9r5db41r5g51r14/

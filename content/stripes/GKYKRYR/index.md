@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alister Grant 'Mohr', the Laird's Champion](/setts/s7/y30k4ly10k4o5ly5o15~x2/)|
-|![Alister Grant 'Mohr', the Laird's Champion example sett](/setts/s7/y30k4ly10k4o5ly5o15~x2/sett.png)|
+| [Alister Grant 'Mohr', the Laird's Champion](/variants/s7/y30k4ly10k4o5ly5o15~x2/)|
+|![Alister Grant 'Mohr', the Laird's Champion example sett](/variants/s7/y30k4ly10k4o5ly5o15~x2/sett.png)|

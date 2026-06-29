@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tricor (Corporate)](/setts/s7/y23o4dy6g6y4lb1y4~x4/)|
-|![Tricor (Corporate) example sett](/setts/s7/y23o4dy6g6y4lb1y4~x4/sett.png)|
+| [Tricor (Corporate)](/variants/s7/y23o4dy6g6y4lb1y4~x4/)|
+|![Tricor (Corporate) example sett](/variants/s7/y23o4dy6g6y4lb1y4~x4/sett.png)|

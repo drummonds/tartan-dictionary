@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holman (Personal)](/setts/s6/r3k9g20k16g7b3~x2/)|
-|![Holman (Personal) example sett](/setts/s6/r3k9g20k16g7b3~x2/sett.png)|
+| [Holman (Personal)](/variants/s6/r3k9g20k16g7b3~x2/)|
+|![Holman (Personal) example sett](/variants/s6/r3k9g20k16g7b3~x2/sett.png)|

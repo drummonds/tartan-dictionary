@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNeill, Royce (Personal)](/setts/s8/k40dg21w3r1ly2k12dt12k10~x2/)|
-|![MacNeill, Royce (Personal) example sett](/setts/s8/k40dg21w3r1ly2k12dt12k10~x2/sett.png)|
+| [MacNeill, Royce (Personal)](/variants/s8/k40dg21w3r1ly2k12dt12k10~x2/)|
+|![MacNeill, Royce (Personal) example sett](/variants/s8/k40dg21w3r1ly2k12dt12k10~x2/sett.png)|

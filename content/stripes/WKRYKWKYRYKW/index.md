@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Normandy (Fashion)](/setts/s12/w8k9ly9r21ly6k6w4k6ly6r49k22w4/)|
-|![Normandy (Fashion) example sett](/setts/s12/w8k9ly9r21ly6k6w4k6ly6r49k22w4/sett.png)|
+| [Normandy (Fashion)](/variants/s12/w8k9ly9r21ly6k6w4k6ly6r49k22w4/)|
+|![Normandy (Fashion) example sett](/variants/s12/w8k9ly9r21ly6k6w4k6ly6r49k22w4/sett.png)|

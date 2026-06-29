@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Menzies](/setts/s8/r24t3w1g9r12~x8/)|
-|![Menzies example sett](/setts/s8/r24t3w1g9r12~x8/sett.png)|
+| [Menzies](/variants/s8/r24t3w1g9r12~x8/)|
+|![Menzies example sett](/variants/s8/r24t3w1g9r12~x8/sett.png)|

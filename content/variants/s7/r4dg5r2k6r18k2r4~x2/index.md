@@ -1,0 +1,65 @@
+---
+title: "MacQuarrie #7"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4dg5r2k6r18k2r4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRKR](/stripes/rgrkrkr/).
+
+Part of the [MacQuarrie](/tartans/macquarrie/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2734
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacQuarrie #4
+- MacQuarrie #7
+- MacQuarrie Ancient
+- MacQuarrie, Ancient
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2734)
+- Scottish Tartans World Register: 1511
+
+## Thread count
+R/8 G10 R4 K12 R36 K4 R/8
+
+One full sett is **148 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> <small style="color:#888">#DC0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.2% 0.230 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> <small style="color:#888">#005020</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(37.7% 0.105 149.6)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> <small style="color:#888">#DC0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.2% 0.230 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> <small style="color:#888">#DC0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.2% 0.230 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> <small style="color:#888">#DC0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.2% 0.230 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/8 G10 R4 K12 R36 K4 R/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/k1r1dg1r21dg1r1k10r1dg14r1dg1r1dg1/"><img src="/variants/s13/k1r1dg1r21dg1r1k10r1dg14r1dg1r1dg1~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/k1r1dg1r21dg1r1k10r1dg14r1dg1r1dg1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r4dg5r2k6r18k2r4~x2">MacQuarrie #7</a> <a class="nn-out" href="/variants/s7/r4dg5r2k6r18k2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r4dg5r2k6r18k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.87</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g5r2k6r18k2r4~x2&amp;base=r4dg5r2k6r18k2r4~x2">MacQuarrie 5</a> <a class="nn-out" href="/variants/s7/r4g5r2k6r18k2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4g5r2k6r18k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.04</div><div class="nn-name"><a href="/variants/s6/r10k1r4g6~x2/">Macan, of Lurgyvallan (Hose)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r10k1r4g6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=r9dg4r6k2r4k2r8dg14r24k2r4~x2&amp;base=r4dg5r2k6r18k2r4~x2">MacDonell of Keppach</a> <a class="nn-out" href="/variants/s11/r9dg4r6k2r4k2r8dg14r24k2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r9dg4r6k2r4k2r8dg14r24k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=r4k8r12k1ly1~x2&amp;base=r4dg5r2k6r18k2r4~x2">MacKeane</a> <a class="nn-out" href="/variants/s5/r4k8r12k1ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r4k8r12k1ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=db4r3db3r22dg8r2~x2&amp;base=r4dg5r2k6r18k2r4~x2">Auld Reekie</a> <a class="nn-out" href="/variants/s6/db4r3db3r22dg8r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db4r3db3r22dg8r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.27</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g14r5k6r24g2r4~x2&amp;base=r4dg5r2k6r18k2r4~x2">Auld Lang Syne (red) Tartan</a> <a class="nn-out" href="/variants/s7/r4g14r5k6r24g2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4g14r5k6r24g2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=r9g4r6k2r4k2r8g14r24k2r4~x2&amp;base=r4dg5r2k6r18k2r4~x2">MacDonell of Keppach</a> <a class="nn-out" href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=r38w9r3dr9w3~x2&amp;base=r4dg5r2k6r18k2r4~x2">Loch Morar</a> <a class="nn-out" href="/variants/s5/r38w9r3dr9w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r38w9r3dr9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.34</div><div class="nn-name"><a href="/ttd/edit/#slug=db4r3db3r22g8r2~x2&amp;base=r4dg5r2k6r18k2r4~x2">Auld Reekie</a> <a class="nn-out" href="/variants/s6/db4r3db3r22g8r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db4r3db3r22g8r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/ttd/edit/#slug=r38w9r3do9w3~x2&amp;base=r4dg5r2k6r18k2r4~x2">Loch Morar Trade Tartan</a> <a class="nn-out" href="/variants/s5/r38w9r3do9w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r38w9r3do9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4g5r2k6r18k2r4~x2/"><circle cx="388.8" cy="201.6" r="4" fill="#3465a4"><title>MacQuarrie 5</title></circle></a><a href="/variants/s6/r10k1r4g6~x2/"><circle cx="406.6" cy="225.7" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s11/r9dg4r6k2r4k2r8dg14r24k2r4~x2/"><circle cx="432.0" cy="180.0" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/variants/s5/r4k8r12k1ly1~x2/"><circle cx="383.5" cy="213.8" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/variants/s6/db4r3db3r22dg8r2~x2/"><circle cx="398.9" cy="202.7" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="393.5" cy="206.4" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan</title></circle></a><a href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><circle cx="419.0" cy="179.0" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/variants/s5/r38w9r3dr9w3~x2/"><circle cx="411.1" cy="183.0" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s6/db4r3db3r22g8r2~x2/"><circle cx="416.2" cy="207.8" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/variants/s5/r38w9r3do9w3~x2/"><circle cx="412.9" cy="182.7" r="4" fill="#3465a4"><title>Loch Morar Trade Tartan</title></circle></a><circle cx="406.7" cy="204.2" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/r4dg5r2k6r18k2r4~x2/

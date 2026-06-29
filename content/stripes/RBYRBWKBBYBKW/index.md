@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stratford City Police PB (Corp)](/setts/s13/r5db2ly1r46db4w1k5t9db2ly2db2k10w2~x2/)|
-|![Stratford City Police PB (Corp) example sett](/setts/s13/r5db2ly1r46db4w1k5t9db2ly2db2k10w2~x2/sett.png)|
-| [Stratford Police PB (Corporate)](/setts/s13/r5t2lo1r45t4w1k4ti9t2lo2t2k10w2~x2/)|
-|![Stratford Police PB (Corporate) example sett](/setts/s13/r5t2lo1r45t4w1k4ti9t2lo2t2k10w2~x2/sett.png)|
+| [Stratford City Police PB (Corp)](/variants/s13/r5db2ly1r46db4w1k5t9db2ly2db2k10w2~x2/)|
+|![Stratford City Police PB (Corp) example sett](/variants/s13/r5db2ly1r46db4w1k5t9db2ly2db2k10w2~x2/sett.png)|
+| [Stratford Police PB (Corporate)](/variants/s13/r5t2lo1r45t4w1k4ti9t2lo2t2k10w2~x2/)|
+|![Stratford Police PB (Corporate) example sett](/variants/s13/r5t2lo1r45t4w1k4ti9t2lo2t2k10w2~x2/sett.png)|

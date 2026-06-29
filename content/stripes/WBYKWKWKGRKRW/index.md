@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clodagh, Cork](/setts/s13/w3db20ly4k9w3k3w3k3g14o9k3o4w3~x2/)|
-|![Clodagh, Cork example sett](/setts/s13/w3db20ly4k9w3k3w3k3g14o9k3o4w3~x2/sett.png)|
+| [Clodagh, Cork](/variants/s13/w3db20ly4k9w3k3w3k3g14o9k3o4w3~x2/)|
+|![Clodagh, Cork example sett](/variants/s13/w3db20ly4k9w3k3w3k3g14o9k3o4w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Borders Tourist Board](/setts/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/)|
-|![Scottish Borders Tourist Board example sett](/setts/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/sett.png)|
+| [Scottish Borders Tourist Board](/variants/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/)|
+|![Scottish Borders Tourist Board example sett](/variants/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/sett.png)|

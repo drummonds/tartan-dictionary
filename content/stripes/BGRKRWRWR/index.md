@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Scottish Assurance](/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/)|
-|![Royal Scottish Assurance example sett](/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/sett.png)|
-| [Royal Scottish Assurance (Corporate)](/setts/s9/db26g11r8k2r2w2r4w1r15~x2/)|
-|![Royal Scottish Assurance (Corporate) example sett](/setts/s9/db26g11r8k2r2w2r4w1r15~x2/sett.png)|
+| [Royal Scottish Assurance](/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/)|
+|![Royal Scottish Assurance example sett](/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/sett.png)|
+| [Royal Scottish Assurance (Corporate)](/variants/s9/db26g11r8k2r2w2r4w1r15~x2/)|
+|![Royal Scottish Assurance (Corporate) example sett](/variants/s9/db26g11r8k2r2w2r4w1r15~x2/sett.png)|

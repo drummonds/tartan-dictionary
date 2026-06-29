@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blairgowrie Golf Club, The](/setts/s7/w3r5g5dp4dg7db38lo3~x2/)|
-|![Blairgowrie Golf Club, The example sett](/setts/s7/w3r5g5dp4dg7db38lo3~x2/sett.png)|
+| [Blairgowrie Golf Club, The](/variants/s7/w3r5g5dp4dg7db38lo3~x2/)|
+|![Blairgowrie Golf Club, The example sett](/variants/s7/w3r5g5dp4dg7db38lo3~x2/sett.png)|

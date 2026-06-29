@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Park](/setts/s9/lo2k3db6r4k48r4db6k3lb2~x2/)|
-|![Highland Park example sett](/setts/s9/lo2k3db6r4k48r4db6k3lb2~x2/sett.png)|
+| [Highland Park](/variants/s9/lo2k3db6r4k48r4db6k3lb2~x2/)|
+|![Highland Park example sett](/variants/s9/lo2k3db6r4k48r4db6k3lb2~x2/sett.png)|

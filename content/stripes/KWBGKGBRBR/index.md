@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brotherston (Personal)](/setts/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/)|
-|![Brotherston (Personal) example sett](/setts/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/sett.png)|
+| [Brotherston (Personal)](/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/)|
+|![Brotherston (Personal) example sett](/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/sett.png)|

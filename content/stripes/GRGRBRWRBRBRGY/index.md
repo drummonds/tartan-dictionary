@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Recycled Lamb, The](/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/)|
-|![Recycled Lamb, The example sett](/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/sett.png)|
-| [Recycled Lamb, The](/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/)|
-|![Recycled Lamb, The example sett](/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/sett.png)|
+| [Recycled Lamb, The](/variants/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/)|
+|![Recycled Lamb, The example sett](/variants/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/sett.png)|
+| [Recycled Lamb, The](/variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/)|
+|![Recycled Lamb, The example sett](/variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/sett.png)|

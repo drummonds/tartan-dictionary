@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ebdon-Muir (Personal)](/setts/s9/dp4db40k15g10dp2g10dp2g10w4~x2/)|
-|![Ebdon-Muir (Personal) example sett](/setts/s9/dp4db40k15g10dp2g10dp2g10w4~x2/sett.png)|
+| [Ebdon-Muir (Personal)](/variants/s9/dp4db40k15g10dp2g10dp2g10w4~x2/)|
+|![Ebdon-Muir (Personal) example sett](/variants/s9/dp4db40k15g10dp2g10dp2g10w4~x2/sett.png)|

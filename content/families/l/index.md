@@ -3,106 +3,76 @@ title: "Families & clans — L"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-83 clans and families beginning with L. [Back to the A–Z](/families/).
+69 clans and families beginning with L. [Back to the A–Z](/families/).
 
-## La
-
-- [Laing](/clan/laing/) — clan
-- [Laing of Archiestown](/families/laing-of-archiestown/)
-- [Laing of Archiestown Clan/Family](/families/laing-of-archiestown-clan-family/)
-- [Laird](/setts/s9/k75g2k4dp10db1dp4db1dp4k4~x2/)
-- [Lambert Dark Night](/setts/s14/k34dg10k5r2k8o2w3o2k8r2k5dg10k28t3~x2/)
-- [Lambert Dress](/setts/s14/t34dg10t5r2k8o2w3o2k8r2t5dg10t28k3~x2/)
-- [Lambert Greer](/setts/s8/k3r34dg10r5t2k8o2w3~x2/)
-- [Lambert Hunting](/setts/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/)
-- [Lambert Kai](/setts/s8/k3dg34t10dg5r2k8o2w3~x2/)
-- [Lamont](/setts/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/)
-- [Lamquet](/setts/s22/dt16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly8k2dt2k2ly8k16dt16k2r5k2~x2/)
-- [Lander](/setts/s15/k18dy3k3dy3k3dy16dg16r1ly1r1dg16dy16k17dy3k3~x2/)
-- [Lang](/clan/lang/) — clan
-- [Lang of Sherbrooke](/families/lang-of-sherbrooke/)
-- [Langerman](/setts/s16/db1y2db1y3dg6db1y6db2r5ri13do23r1do1r1do2r1~x2/)
-- [Langermann](/setts/s16/dt1y2dt1y3g6dt1y6dt2lo5r13dy23lo1dy1lo1dy2lo1~x2/)
-- [Lapsley, The Tom](/setts/s8/db35g10t10k10db23ly1db3r2~x2/)
-- [Lashbrooke](/clan/lashbrooke/) — clan
-- [Lashbrooke of Barrowfield](/families/lashbrooke-of-barrowfield/)
-- [Law](/clan/law/) — clan
-- [Law of Atholl](/families/law-of-atholl/)
-- [Law of Heather Athol](/families/law-of-heather-athol/)
-- [Lawrence](/clan/lawrence/) — clan
-- [Lawrence of Broughty Ferry](/families/lawrence-of-broughty-ferry/)
-- [Lawrence of Broughty Ferry (Corporat](/families/lawrence-of-broughty-ferry-corporat/)
-- [Layton](/setts/s8/gi4r3gi24k1w7k1g24ly3~x2/)
-
-## Le
-
-- [Leach](/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/)
-- [Leach Htg](/setts/s6/k3lb1g21k2dr3lb2~x2/)
-- [Leach Htg #2](/setts/s9/y32w1k3w1g14y7k3dp3w1~x2/)
-- [Leahy, Thomas Francis & Mary](/setts/s6/db2k6g2k6dg12ly1~x4/)
-- [Ledford](/setts/s3/g9o4ly1~x16/)
-- [Legary](/setts/s6/ly5db15lb5db5lb40ly3~x2/)
-- [Leiato](/clan/leiato/) — clan
-- [Leiato of American Samoa](/families/leiato-of-american-samoa/)
-- [Lendrum](/setts/s4/k7w6k1~x4/)
-- [Leonard](/setts/s8/b36db6b5r3k2r3b5db18~x2/)
-- [Leonard Hunting](/setts/s4/k30dp5k10dp9~x4/)
-- [Letham](/setts/s8/g40k20t10k4t7g13k4t4~x2/)
-- [Letham Hunting](/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/)
-- [Letter Dress](/setts/s9/o29k23lo1g9lo2r4k14w2k4~x2/)
-- [Leutz](/setts/s4/t53g20w18db14~x2/)
-- [Lewis](/clan/lewis/) — clan
-- [Lewis of Wales](/families/lewis-of-wales/)
-
-## Li
-
-- [Liddell](/setts/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/)
-- [Lieuwen](/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/)
-- [Lindley-Highfield](/setts/s7/dg7dp3w1g2dg1r2dp1~x8/)
-- [Lindley-Highfield of Ballumbie Castle](/setts/s7/g7p3w1lg2g1lp2p1~x8/)
-- [Lindsay Dress](/setts/s9/w29db2w2db2w2db14m31db2m3~x2/)
-- [Lister](/setts/s7/dy8o29dy8ly3dy8o8ly3~x2/)
-- [Little](/clan/little/) — clan
-- [Little of Morton Rig](/families/little-of-morton-rig/)
-- [Little of Morton Rig Family/Clan](/families/little-of-morton-rig-family-clan/)
-- [Little of Morton Rigg](/families/little-of-morton-rigg/)
-- [Little of Morton Rigg Red (Personal](/families/little-of-morton-rigg-red-personal/)
-- [Little-Dowse Wedding](/setts/s8/do31lo6lr3db36do8dg60lo7t7~x2/)
-- [Livingstone Dress](/setts/s11/dg15r25dg4k2ly1dt1ly1k2dg4dt12w1~x2/)
-- [Livingstone NSW](/setts/s12/dg12o4k1ly1o2k1ly1o4dg16o20dg2o8~x2/)
-- [Livingstone Official](/setts/s15/dg10r3k2r3dg10r8k2ly1n1ly1k2r20dg4r8w1~x2/)
-
-## Ll
-
-- [Llewellen](/clan/llewellen/) — clan
-- [Llewellen of Wales](/families/llewellen-of-wales/)
-- [LLoyd](/clan/lloyd/) — clan
-- [LLoyd of Astargus](/families/lloyd-of-astargus/)
-- [Lloyd of Dolobran](/families/lloyd-of-dolobran/)
-
-## Lo
-
-- [Lochcarron](/clan/lochcarron/) — clan
-- [Lochcarron of Scotland](/families/lochcarron-of-scotland/)
-- [Lochcarron of Scotland Diamond Jubilee](/families/lochcarron-of-scotland-diamond-jubilee/)
-- [Lock in Northumberland](/setts/s8/ri90lr1k2lb10k5r2lr2lb2~x2/)
-- [Locky](/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/)
-- [Logan](/setts/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/)
-- [Logan Rogers](/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/)
-- [Logan Rogers Hunting](/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/)
-- [Longmore](/setts/s9/g15ly3g27r2g2r33b2w1b4~x2/)
-- [Longmuir](/setts/s6/k43dg8k8dt21dg10w2~x2/)
-- [Lopatinsky](/setts/s8/b4r1w1r1b4k2t6ly1~x6/)
-- [Lopez-Gasparotto](/setts/s7/r1o5k5db1k1db6ly1~x8/)
-- [Louise](/clan/louise/) — clan
-- [Louise of Lorne](/families/louise-of-lorne/)
-- [Lovell](/setts/s8/ly2k2dbi14db4k5r2ly5r1~x4/)
-
-## Lu
-
-- [Lugo](/setts/s4/r10dg4lo1~x8/)
-- [Lumsden](/clan/lumsden/) — clan
-- [Lumsden of Clova](/families/lumsden-of-clova/)
-- [Lumsden of Kintore](/families/lumsden-of-kintore/)
-- [Lundie](/setts/s21/r4b2dt5y2dt2y2dt2y13dt2y2dt2y2dt5lo2dt3w2y6r5b3dt4w2~x2/)
-
+<ul class="clan-grid">
+<li><a class="tartan" href="/clan/laing/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing" width="140"><br><strong>Laing</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/laing-of-archiestown/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown" width="140"><br><strong>Laing of Archiestown</strong></a></li>
+<li><a class="tartan" href="/families/laing-of-archiestown-clan-family/"><img src="/variants/s8/b8r1k1r1ki1~x8/sett.png" alt="Laing of Archiestown Clan/Family" width="140"><br><strong>Laing of Archiestown Clan/Family</strong></a></li>
+<li><a class="tartan" href="/variants/s9/k75g2k4dp10db1dp4db1dp4k4~x2/"><strong>Laird</strong></a></li>
+<li><a class="tartan" href="/variants/s14/k34dg10k5r2k8o2w3o2k8r2k5dg10k28t3~x2/"><strong>Lambert Dark Night</strong></a></li>
+<li><a class="tartan" href="/variants/s14/t34dg10t5r2k8o2w3o2k8r2t5dg10t28k3~x2/"><strong>Lambert Dress</strong></a></li>
+<li><a class="tartan" href="/variants/s8/k3r34dg10r5t2k8o2w3~x2/"><strong>Lambert Greer</strong></a></li>
+<li><a class="tartan" href="/variants/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/"><strong>Lambert Hunting</strong></a></li>
+<li><a class="tartan" href="/variants/s8/k3dg34t10dg5r2k8o2w3~x2/"><strong>Lambert Kai</strong></a></li>
+<li><a class="tartan" href="/variants/s22/dt16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly8k2dt2k2ly8k16dt16k2r5k2~x2/"><strong>Lamquet</strong></a></li>
+<li><a class="tartan" href="/variants/s15/lo18do3lo3do3lo3do16y16r2ly2r2y16do16lo17do3lo3~x2/"><strong>Lander</strong></a></li>
+<li><a class="tartan" href="/clan/lang/"><img src="/variants/s11/g10ly2k2g2k13g2k2g1dp13db24w2~x2/sett.png" alt="Lang" width="140"><br><strong>Lang</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/lang-of-sherbrooke/"><img src="/variants/s11/g10ly2k2g2k13g2k2g1dp13db24w2~x2/sett.png" alt="Lang of Sherbrooke" width="140"><br><strong>Lang of Sherbrooke</strong></a></li>
+<li><a class="tartan" href="/variants/s16/db1y2db1y3dg6db1y6db2r5ri13do23r1do1r1do2r1~x2/"><strong>Langerman</strong></a></li>
+<li><a class="tartan" href="/variants/s16/dt1y2dt1y3g6dt1y6dt2lo5r13dy23lo1dy1lo1dy2lo1~x2/"><strong>Langermann</strong></a></li>
+<li><a class="tartan" href="/variants/s8/db35g10t10k10db23ly1db3r2~x2/"><strong>Lapsley, The Tom</strong></a></li>
+<li><a class="tartan" href="/clan/lashbrooke/"><img src="/variants/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/sett.png" alt="Lashbrooke" width="140"><br><strong>Lashbrooke</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/lashbrooke-of-barrowfield/"><img src="/variants/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/sett.png" alt="Lashbrooke of Barrowfield" width="140"><br><strong>Lashbrooke of Barrowfield</strong></a></li>
+<li><a class="tartan" href="/clan/law/"><img src="/variants/s11/db10r3db3r6db26g12r6g2r3g6lo2~x2/sett.png" alt="Law" width="140"><br><strong>Law</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/law-of-atholl/"><img src="/variants/s11/db10r3db3r6db26g12r6g2r3g6lo2~x2/sett.png" alt="Law of Atholl" width="140"><br><strong>Law of Atholl</strong></a></li>
+<li><a class="tartan" href="/families/law-of-heather-athol/"><img src="/variants/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/sett.png" alt="Law of Heather Athol" width="140"><br><strong>Law of Heather Athol</strong></a></li>
+<li><a class="tartan" href="/clan/lawrence/"><img src="/variants/s6/dg20k2dg20dp25w2n3~x2/sett.png" alt="Lawrence" width="140"><br><strong>Lawrence</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/lawrence-of-broughty-ferry/"><img src="/variants/s6/dg20k2dg20dp25w2n3~x2/sett.png" alt="Lawrence of Broughty Ferry" width="140"><br><strong>Lawrence of Broughty Ferry</strong></a></li>
+<li><a class="tartan" href="/families/lawrence-of-broughty-ferry-corporat/"><img src="/variants/s6/g20k2g20dp25w2t3~x2/sett.png" alt="Lawrence of Broughty Ferry (Corporat" width="140"><br><strong>Lawrence of Broughty Ferry (Corporat</strong></a></li>
+<li><a class="tartan" href="/variants/s8/gi4r3gi24k1w7k1g24ly3~x2/"><strong>Layton</strong></a></li>
+<li><a class="tartan" href="/variants/s6/db2k6g2k6dg12ly1~x4/"><strong>Leahy, Thomas Francis & Mary</strong></a></li>
+<li><a class="tartan" href="/variants/s3/g9o4ly1~x16/"><strong>Ledford</strong></a></li>
+<li><a class="tartan" href="/variants/s6/ly5db15lb5db5lb40ly3~x2/"><strong>Legary</strong></a></li>
+<li><a class="tartan" href="/clan/leiato/"><img src="/variants/s7/o45k5o28k5r5w2do6~x2/sett.png" alt="Leiato" width="140"><br><strong>Leiato</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/leiato-of-american-samoa/"><img src="/variants/s7/o45k5o28k5r5w2do6~x2/sett.png" alt="Leiato of American Samoa" width="140"><br><strong>Leiato of American Samoa</strong></a></li>
+<li><a class="tartan" href="/variants/s4/k7w6k1~x4/"><strong>Lendrum</strong></a></li>
+<li><a class="tartan" href="/variants/s8/b36db6b5r3k2r3b5db18~x2/"><strong>Leonard</strong></a></li>
+<li><a class="tartan" href="/variants/s8/g40k20t10k4t7g13k4t4~x2/"><strong>Letham</strong></a></li>
+<li><a class="tartan" href="/variants/s15/dp2ki1dg6k4ki1k5ki2dg30ki2db4ki1k4dg6ki1dp2~x2/"><strong>Letham Hunting</strong></a></li>
+<li><a class="tartan" href="/variants/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/"><strong>Letter Dress</strong></a></li>
+<li><a class="tartan" href="/variants/s4/t53g20w18db14~x2/"><strong>Leutz</strong></a></li>
+<li><a class="tartan" href="/clan/lewis/"><img src="/variants/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png" alt="Lewis" width="140"><br><strong>Lewis</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/lewis-of-wales/"><img src="/variants/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png" alt="Lewis of Wales" width="140"><br><strong>Lewis of Wales</strong></a></li>
+<li><a class="tartan" href="/variants/s11/y2db3y2db22b8r1b3r1b22k1w2~x2/"><strong>Liddell</strong></a></li>
+<li><a class="tartan" href="/variants/s7/dg7dp3w1g2dg1r2dp1~x8/"><strong>Lindley-Highfield</strong></a></li>
+<li><a class="tartan" href="/variants/s7/g7p3w1lg2g1lp2p1~x8/"><strong>Lindley-Highfield of Ballumbie Castle</strong></a></li>
+<li><a class="tartan" href="/variants/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><strong>Lister</strong></a></li>
+<li><a class="tartan" href="/clan/little/"><img src="/variants/s10/k10w7k8w7k8dr14k4dr14k16ly2/sett.png" alt="Little" width="140"><br><strong>Little</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/variants/s8/dbi5db3dbi4db3dbi4k28dbi8r1~x2/"><strong>Little Hunting</strong></a></li>
+<li><a class="tartan" href="/families/little-of-morton-rig/"><img src="/variants/s10/k10w7k8w7k8dr14k4dr14k16ly2/sett.png" alt="Little of Morton Rig" width="140"><br><strong>Little of Morton Rig</strong></a></li>
+<li><a class="tartan" href="/families/little-of-morton-rigg/"><img src="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rigg" width="140"><br><strong>Little of Morton Rigg</strong></a></li>
+<li><a class="tartan" href="/variants/s8/do31lo6lr3db36do8dg60lo7t7~x2/"><strong>Little-Dowse Wedding</strong></a></li>
+<li><a class="tartan" href="/variants/s15/dg10r3k2r3dg10r8k2ly1n1ly1k2r20dg4r8w1~x2/"><strong>Livingstone Official</strong></a></li>
+<li><a class="tartan" href="/clan/llewellen/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4o2/sett.png" alt="Llewellen" width="140"><br><strong>Llewellen</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/llewellen-of-wales/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4o2/sett.png" alt="Llewellen of Wales" width="140"><br><strong>Llewellen of Wales</strong></a></li>
+<li><a class="tartan" href="/clan/lloyd/"><img src="/variants/s6/r2db61k13w2o20lo2~x2/sett.png" alt="Lloyd" width="140"><br><strong>Lloyd</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/lloyd-of-astargus/"><img src="/variants/s6/r2db61k13w2o20lo2~x2/sett.png" alt="Lloyd of Astargus" width="140"><br><strong>Lloyd of Astargus</strong></a></li>
+<li><a class="tartan" href="/families/lloyd-of-dolobran/"><img src="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/sett.png" alt="Lloyd of Dolobran" width="140"><br><strong>Lloyd of Dolobran</strong></a></li>
+<li><a class="tartan" href="/clan/lochcarron/"><img src="/variants/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/sett.png" alt="Lochcarron" width="140"><br><strong>Lochcarron</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/lochcarron-of-scotland/"><img src="/variants/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/sett.png" alt="Lochcarron of Scotland" width="140"><br><strong>Lochcarron of Scotland</strong></a></li>
+<li><a class="tartan" href="/variants/s8/dr90k1ki2t10ki5r2k2t2~x2/"><strong>Lock in Northumberland</strong></a></li>
+<li><a class="tartan" href="/variants/s10/r3w2r2db2r2db24k28r2k3ly1~x2/"><strong>Locky</strong></a></li>
+<li><a class="tartan" href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><strong>Logan Rogers</strong></a></li>
+<li><a class="tartan" href="/variants/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/"><strong>Logan Rogers Hunting</strong></a></li>
+<li><a class="tartan" href="/variants/s9/g15ly3g27r2g2r33b2w1b4~x2/"><strong>Longmore</strong></a></li>
+<li><a class="tartan" href="/variants/s6/dti43dg8dti8dt21dg10w2~x2/"><strong>Longmuir</strong></a></li>
+<li><a class="tartan" href="/variants/s8/b4r1w1r1b4k2t6ly1~x6/"><strong>Lopatinsky</strong></a></li>
+<li><a class="tartan" href="/variants/s7/r1o5k5db1k1db6ly1~x8/"><strong>Lopez-Gasparotto</strong></a></li>
+<li><a class="tartan" href="/clan/louise/"><img src="/variants/s11/k1r1dg6k1dg1k1dg1k6db9k1db1~x2/sett.png" alt="Louise" width="140"><br><strong>Louise</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/louise-of-lorne/"><img src="/variants/s11/k1r1dg6k1dg1k1dg1k6db9k1db1~x2/sett.png" alt="Louise of Lorne" width="140"><br><strong>Louise of Lorne</strong></a></li>
+<li><a class="tartan" href="/variants/s8/lo2k2dbi14db4k5r2lo5r1~x4/"><strong>Lovell</strong></a></li>
+<li><a class="tartan" href="/variants/s4/r10dg4lo1~x8/"><strong>Lugo</strong></a></li>
+<li><a class="tartan" href="/clan/lumsden/"><img src="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/sett.png" alt="Lumsden" width="140"><br><strong>Lumsden</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/lumsden-of-clova/"><img src="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/sett.png" alt="Lumsden of Clova" width="140"><br><strong>Lumsden of Clova</strong></a></li>
+</ul>

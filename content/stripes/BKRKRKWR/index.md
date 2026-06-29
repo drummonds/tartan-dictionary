@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacEvil (Corporate)](/setts/s8/r35w8k85o6k4o14k2dp4/)|
-|![MacEvil (Corporate) example sett](/setts/s8/r35w8k85o6k4o14k2dp4/sett.png)|
+| [MacEvil (Corporate)](/variants/s8/r35w8k85o6k4o14k2dp4/)|
+|![MacEvil (Corporate) example sett](/variants/s8/r35w8k85o6k4o14k2dp4/sett.png)|

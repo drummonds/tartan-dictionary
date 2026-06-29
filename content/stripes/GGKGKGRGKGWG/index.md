@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilcox, Yu, Cruikshank Reunion](/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/)|
-|![Wilcox, Yu, Cruikshank Reunion example sett](/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/sett.png)|
+| [Wilcox, Yu, Cruikshank Reunion](/variants/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/)|
+|![Wilcox, Yu, Cruikshank Reunion example sett](/variants/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/sett.png)|

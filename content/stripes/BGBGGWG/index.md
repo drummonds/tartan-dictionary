@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doral](/setts/s7/db26dg6db2dg17dy4w1dy4~x4/)|
-|![Doral example sett](/setts/s7/db26dg6db2dg17dy4w1dy4~x4/sett.png)|
+| [Doral](/variants/s7/db26dg6db2dg17dy4w1dy4~x4/)|
+|![Doral example sett](/variants/s7/db26dg6db2dg17dy4w1dy4~x4/sett.png)|

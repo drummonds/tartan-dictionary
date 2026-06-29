@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bacon, Green (Fashion)](/setts/s4/g14k3r3lr2~x2/)|
-|![Bacon, Green (Fashion) example sett](/setts/s4/g14k3r3lr2~x2/sett.png)|
+| [Bacon, Green (Fashion)](/variants/s4/g14k3r3lr2~x2/)|
+|![Bacon, Green (Fashion) example sett](/variants/s4/g14k3r3lr2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cumming VS](/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/)|
-|![Cumming VS example sett](/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/sett.png)|
+| [Cumming VS](/variants/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/)|
+|![Cumming VS example sett](/variants/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/sett.png)|

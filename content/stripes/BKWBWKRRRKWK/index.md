@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Quebec Centennial #2](/setts/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/)|
-|![Quebec Centennial #2 example sett](/setts/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/sett.png)|
+| [Quebec Centennial #2](/variants/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/)|
+|![Quebec Centennial #2 example sett](/variants/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/sett.png)|

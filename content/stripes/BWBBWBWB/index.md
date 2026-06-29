@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laval (Tartan de..), dress](/setts/s8/db2w2db8dr8w10db2w1db1~x2/)|
-|![Laval (Tartan de..), dress example sett](/setts/s8/db2w2db8dr8w10db2w1db1~x2/sett.png)|
-| [Laval Dress, Tartan de](/setts/s8/db2lb2db7dr8lb10db2lb2db2~x2/)|
-|![Laval Dress, Tartan de example sett](/setts/s8/db2lb2db7dr8lb10db2lb2db2~x2/sett.png)|
+| [Laval (Tartan de..), dress](/variants/s8/db2w2db8dr8w10db2w1db1~x2/)|
+|![Laval (Tartan de..), dress example sett](/variants/s8/db2w2db8dr8w10db2w1db1~x2/sett.png)|
+| [Laval Dress, Tartan de](/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/)|
+|![Laval Dress, Tartan de example sett](/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/sett.png)|

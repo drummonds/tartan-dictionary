@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montreal Granate](/setts/s9/lo78r10r1g2r6lo2r3lo2r43~x2/)|
-|![Montreal Granate example sett](/setts/s9/lo78r10r1g2r6lo2r3lo2r43~x2/sett.png)|
+| [Montreal Granate](/variants/s9/lo78r10r1g2r6lo2r3lo2r43~x2/)|
+|![Montreal Granate example sett](/variants/s9/lo78r10r1g2r6lo2r3lo2r43~x2/sett.png)|

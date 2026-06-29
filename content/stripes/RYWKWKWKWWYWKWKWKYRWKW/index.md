@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Normandy Bay Myth](/setts/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lt8w4k48w3k2w2k1w1ly1r1~x2/)|
-|![Normandy Bay Myth example sett](/setts/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lt8w4k48w3k2w2k1w1ly1r1~x2/sett.png)|
+| [Normandy Bay Myth](/variants/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lt8w4k48w3k2w2k1w1ly1r1~x2/)|
+|![Normandy Bay Myth example sett](/variants/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lt8w4k48w3k2w2k1w1ly1r1~x2/sett.png)|

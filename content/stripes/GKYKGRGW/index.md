@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Neill (Name)](/setts/s8/w6g5r5g45k4lo24k4g5~x2/)|
-|![O'Neill (Name) example sett](/setts/s8/w6g5r5g45k4lo24k4g5~x2/sett.png)|
+| [O'Neill (Name)](/variants/s8/w6g5r5g45k4lo24k4g5~x2/)|
+|![O'Neill (Name) example sett](/variants/s8/w6g5r5g45k4lo24k4g5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pinewoods Jubilee](/setts/s10/w3b38t2k4dp4k4g30ly1g1ly2~x2/)|
-|![Pinewoods Jubilee example sett](/setts/s10/w3b38t2k4dp4k4g30ly1g1ly2~x2/sett.png)|
+| [Pinewoods Jubilee](/variants/s10/w3b38t2k4dp4k4g30ly1g1ly2~x2/)|
+|![Pinewoods Jubilee example sett](/variants/s10/w3b38t2k4dp4k4g30ly1g1ly2~x2/sett.png)|

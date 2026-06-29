@@ -14,4 +14,4 @@ weight: 56
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.04 | [Hebrides South Uist #4](/setts/s56/r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2db2~x2/) | register-of-tartans |
+| 0.04 | [Hebrides South Uist #4](/variants/s56/r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2db2~x2/) | register-of-tartans |

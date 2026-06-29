@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hose](/setts/s3/w37k2r36~x2/)|
-|![Hose example sett](/setts/s3/w37k2r36~x2/sett.png)|
-| [Hose (Dunmore)](/setts/s3/r13k1lb13~x4/)|
-|![Hose (Dunmore) example sett](/setts/s3/r13k1lb13~x4/sett.png)|
+| [Hose](/variants/s3/w37k2r36~x2/)|
+|![Hose example sett](/variants/s3/w37k2r36~x2/sett.png)|
+| [Hose (Dunmore)](/variants/s3/r13k1lb13~x4/)|
+|![Hose (Dunmore) example sett](/variants/s3/r13k1lb13~x4/sett.png)|

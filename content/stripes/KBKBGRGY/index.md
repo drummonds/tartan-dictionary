@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chartered Accountants of Scotland](/setts/s8/ly4g3r2g36b30k3b3k3~x2/)|
-|![Chartered Accountants of Scotland example sett](/setts/s8/ly4g3r2g36b30k3b3k3~x2/sett.png)|
+| [Chartered Accountants of Scotland](/variants/s8/ly4g3r2g36b30k3b3k3~x2/)|
+|![Chartered Accountants of Scotland example sett](/variants/s8/ly4g3r2g36b30k3b3k3~x2/sett.png)|

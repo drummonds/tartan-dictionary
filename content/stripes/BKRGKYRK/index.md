@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lagavista (Personal)](/setts/s8/k12r8lo4k8dy6r8k22db1~x2/)|
-|![Lagavista (Personal) example sett](/setts/s8/k12r8lo4k8dy6r8k22db1~x2/sett.png)|
+| [Lagavista (Personal)](/variants/s8/k12r8lo4k8dy6r8k22db1~x2/)|
+|![Lagavista (Personal) example sett](/variants/s8/k12r8lo4k8dy6r8k22db1~x2/sett.png)|

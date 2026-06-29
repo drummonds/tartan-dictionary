@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rogers (Personal)](/setts/s15/db8k1db2k1db2k6dg8k1t2k1dg8k6db8k1db2~x4/)|
-|![Rogers (Personal) example sett](/setts/s15/db8k1db2k1db2k6dg8k1t2k1dg8k6db8k1db2~x4/sett.png)|
+| [Rogers (Personal)](/variants/s15/db8k1db2k1db2k6dg8k1t2k1dg8k6db8k1db2~x4/)|
+|![Rogers (Personal) example sett](/variants/s15/db8k1db2k1db2k6dg8k1t2k1dg8k6db8k1db2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch House (Corporate)](/setts/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/)|
-|![Scotch House (Corporate) example sett](/setts/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/sett.png)|
+| [Scotch House (Corporate)](/variants/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/)|
+|![Scotch House (Corporate) example sett](/variants/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/sett.png)|

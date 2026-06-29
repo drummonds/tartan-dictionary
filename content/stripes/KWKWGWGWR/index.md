@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Puffin](/setts/s9/k3w1k1w6g1w1g1w1o3~x4/)|
-|![Puffin example sett](/setts/s9/k3w1k1w6g1w1g1w1o3~x4/sett.png)|
-| [Puffin (Personal)](/setts/s9/k4w1k1w9g1w1g1w1o4~x4/)|
-|![Puffin (Personal) example sett](/setts/s9/k4w1k1w9g1w1g1w1o4~x4/sett.png)|
+| [Puffin](/variants/s9/k3w1k1w6g1w1g1w1o3~x4/)|
+|![Puffin example sett](/variants/s9/k3w1k1w6g1w1g1w1o3~x4/sett.png)|
+| [Puffin (Personal)](/variants/s9/k4w1k1w9g1w1g1w1o4~x4/)|
+|![Puffin (Personal) example sett](/variants/s9/k4w1k1w9g1w1g1w1o4~x4/sett.png)|

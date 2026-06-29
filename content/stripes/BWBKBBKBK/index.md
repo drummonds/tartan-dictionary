@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cahonas Scotland](/setts/s9/k5b3k3b23n4k25n23lb3n5~x2/)|
-|![Cahonas Scotland example sett](/setts/s9/k5b3k3b23n4k25n23lb3n5~x2/sett.png)|
+| [Cahonas Scotland](/variants/s9/k5b3k3b23n4k25n23lb3n5~x2/)|
+|![Cahonas Scotland example sett](/variants/s9/k5b3k3b23n4k25n23lb3n5~x2/sett.png)|

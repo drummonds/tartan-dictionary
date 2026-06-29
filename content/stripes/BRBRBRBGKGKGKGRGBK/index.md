@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow, Celtic Society](/setts/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/)|
-|![Glasgow, Celtic Society example sett](/setts/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/sett.png)|
+| [Glasgow, Celtic Society](/variants/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/)|
+|![Glasgow, Celtic Society example sett](/variants/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/sett.png)|

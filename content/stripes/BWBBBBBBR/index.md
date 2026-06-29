@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dauphinee, Andrew Hunter (Personal)](/setts/s9/r3dt32db2dt3db4dt2db16w1db1~x2/)|
-|![Dauphinee, Andrew Hunter (Personal) example sett](/setts/s9/r3dt32db2dt3db4dt2db16w1db1~x2/sett.png)|
+| [Dauphinee, Andrew Hunter (Personal)](/variants/s9/r3dt32db2dt3db4dt2db16w1db1~x2/)|
+|![Dauphinee, Andrew Hunter (Personal) example sett](/variants/s9/r3dt32db2dt3db4dt2db16w1db1~x2/sett.png)|

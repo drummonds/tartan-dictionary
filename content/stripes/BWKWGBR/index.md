@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Puxty-Dunne](/setts/s7/dt18w2k1w4dg13dt40r2~x2/)|
-|![Puxty-Dunne example sett](/setts/s7/dt18w2k1w4dg13dt40r2~x2/sett.png)|
-| [Puxty-Dunne (Personal)](/setts/s7/n18w2k1w4g13n40r2~x2/)|
-|![Puxty-Dunne (Personal) example sett](/setts/s7/n18w2k1w4g13n40r2~x2/sett.png)|
+| [Puxty-Dunne](/variants/s7/dt18w2k1w4dg13dt40r2~x2/)|
+|![Puxty-Dunne example sett](/variants/s7/dt18w2k1w4dg13dt40r2~x2/sett.png)|
+| [Puxty-Dunne (Personal)](/variants/s7/n18w2k1w4g13n40r2~x2/)|
+|![Puxty-Dunne (Personal) example sett](/variants/s7/n18w2k1w4g13n40r2~x2/sett.png)|

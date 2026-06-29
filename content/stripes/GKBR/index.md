@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews International Golf Club](/setts/s4/dg43k14dt14r2~x2/)|
-|![St. Andrews International Golf Club example sett](/setts/s4/dg43k14dt14r2~x2/sett.png)|
+| [St. Andrews International Golf Club](/variants/s4/dg43k14dt14r2~x2/)|
+|![St. Andrews International Golf Club example sett](/variants/s4/dg43k14dt14r2~x2/sett.png)|

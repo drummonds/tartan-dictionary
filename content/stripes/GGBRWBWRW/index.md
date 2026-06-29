@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNiven](/setts/s9/gi18g2db5r45lbi3db18lbi3r8lb2~x2/)|
-|![MacNiven example sett](/setts/s9/gi18g2db5r45lbi3db18lbi3r8lb2~x2/sett.png)|
+| [MacNiven](/variants/s9/gi18g2db5r45lbi3db18lbi3r8lb2~x2/)|
+|![MacNiven example sett](/variants/s9/gi18g2db5r45lbi3db18lbi3r8lb2~x2/sett.png)|

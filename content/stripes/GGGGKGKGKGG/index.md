@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blackwater (Fashion)](/setts/s11/g2gi16g2gi4k4g2k7gi2k4g17gi2~x2/)|
-|![Blackwater (Fashion) example sett](/setts/s11/g2gi16g2gi4k4g2k7gi2k4g17gi2~x2/sett.png)|
+| [Blackwater (Fashion)](/variants/s11/g2gi16g2gi4k4g2k7gi2k4g17gi2~x2/)|
+|![Blackwater (Fashion) example sett](/variants/s11/g2gi16g2gi4k4g2k7gi2k4g17gi2~x2/sett.png)|

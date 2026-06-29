@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kentucky, State of (District)](/setts/s7/ly3r3lb4w2db11g13k2~x2/)|
-|![Kentucky, State of (District) example sett](/setts/s7/ly3r3lb4w2db11g13k2~x2/sett.png)|
+| [Kentucky, State of (District)](/variants/s7/ly3r3lb4w2db11g13k2~x2/)|
+|![Kentucky, State of (District) example sett](/variants/s7/ly3r3lb4w2db11g13k2~x2/sett.png)|

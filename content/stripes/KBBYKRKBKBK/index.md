@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moggach (Strathspey)](/setts/s11/k4n4k4n18k9r2k9lg1n18t2k3~x2/)|
-|![Moggach (Strathspey) example sett](/setts/s11/k4n4k4n18k9r2k9lg1n18t2k3~x2/sett.png)|
+| [Moggach (Strathspey)](/variants/s11/k4n4k4n18k9r2k9lg1n18t2k3~x2/)|
+|![Moggach (Strathspey) example sett](/variants/s11/k4n4k4n18k9r2k9lg1n18t2k3~x2/sett.png)|

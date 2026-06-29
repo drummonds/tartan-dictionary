@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hard Rock Café](/setts/s10/ri4do4ri4do12k32dy15r1dy7ly1r1~x2/)|
-|![Hard Rock Café example sett](/setts/s10/ri4do4ri4do12k32dy15r1dy7ly1r1~x2/sett.png)|
+| [Hard Rock Café](/variants/s10/ri4do4ri4do12k32dy15r1dy7ly1r1~x2/)|
+|![Hard Rock Café example sett](/variants/s10/ri4do4ri4do12k32dy15r1dy7ly1r1~x2/sett.png)|

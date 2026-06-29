@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwich No.029](/setts/s10/g11t2db11t6g3t6db11t2g11db3~x2/)|
-|![Norwich No.029 example sett](/setts/s10/g11t2db11t6g3t6db11t2g11db3~x2/sett.png)|
+| [Norwich No.029](/variants/s10/g11t2db11t6g3t6db11t2g11db3~x2/)|
+|![Norwich No.029 example sett](/variants/s10/g11t2db11t6g3t6db11t2g11db3~x2/sett.png)|

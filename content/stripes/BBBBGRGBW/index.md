@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seaford House](/setts/s9/t3dt3t12dt26dg26r3dg26dt28w3/)|
-|![Seaford House example sett](/setts/s9/t3dt3t12dt26dg26r3dg26dt28w3/sett.png)|
+| [Seaford House](/variants/s9/t3dt3t12dt26dg26r3dg26dt28w3/)|
+|![Seaford House example sett](/variants/s9/t3dt3t12dt26dg26r3dg26dt28w3/sett.png)|

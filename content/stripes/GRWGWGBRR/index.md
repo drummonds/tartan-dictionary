@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Mississippi (Fashion)](/setts/s9/y48o26lbi5dy7lb10y3b7o10r3~x2/)|
-|![State Seal of Mississippi (Fashion) example sett](/setts/s9/y48o26lbi5dy7lb10y3b7o10r3~x2/sett.png)|
+| [State Seal of Mississippi (Fashion)](/variants/s9/y48o26lbi5dy7lb10y3b7o10r3~x2/)|
+|![State Seal of Mississippi (Fashion) example sett](/variants/s9/y48o26lbi5dy7lb10y3b7o10r3~x2/sett.png)|

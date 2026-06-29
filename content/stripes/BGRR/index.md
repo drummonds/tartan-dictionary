@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McWilliams Hunting (2014)](/setts/s4/o22m1y22dr4~x4/)|
-|![McWilliams Hunting (2014) example sett](/setts/s4/o22m1y22dr4~x4/sett.png)|
+| [McWilliams Hunting (2014)](/variants/s4/o22m1y22dr4~x4/)|
+|![McWilliams Hunting (2014) example sett](/variants/s4/o22m1y22dr4~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colonial Marine (Corporate)](/setts/s4/g56dy13lo13lo5~x2/)|
-|![Colonial Marine (Corporate) example sett](/setts/s4/g56dy13lo13lo5~x2/sett.png)|
+| [Colonial Marine (Corporate)](/variants/s4/g56dy13lo13lo5~x2/)|
+|![Colonial Marine (Corporate) example sett](/variants/s4/g56dy13lo13lo5~x2/sett.png)|

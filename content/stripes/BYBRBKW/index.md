@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mensa](/setts/s7/lb3k19db24r2db2ly2db2~x2/)|
-|![Mensa example sett](/setts/s7/lb3k19db24r2db2ly2db2~x2/sett.png)|
+| [Mensa](/variants/s7/lb3k19db24r2db2ly2db2~x2/)|
+|![Mensa example sett](/variants/s7/lb3k19db24r2db2ly2db2~x2/sett.png)|

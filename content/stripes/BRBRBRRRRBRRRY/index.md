@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Rowanberry](/setts/s14/ly7r30r4r8dr4ri12r6ri12m28dr4m8dr8m8dr4/)|
-|![Kinloch Anderson Rowanberry example sett](/setts/s14/ly7r30r4r8dr4ri12r6ri12m28dr4m8dr8m8dr4/sett.png)|
+| [Kinloch Anderson Rowanberry](/variants/s14/ly7r30r4r8dr4ri12r6ri12m28dr4m8dr8m8dr4/)|
+|![Kinloch Anderson Rowanberry example sett](/variants/s14/ly7r30r4r8dr4ri12r6ri12m28dr4m8dr8m8dr4/sett.png)|

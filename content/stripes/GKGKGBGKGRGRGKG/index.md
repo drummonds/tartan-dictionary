@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hickey (Name)](/setts/s15/g3k1g1r12g1r1g1k4g1t2g15k1g1k1g3~x4/)|
-|![Hickey (Name) example sett](/setts/s15/g3k1g1r12g1r1g1k4g1t2g15k1g1k1g3~x4/sett.png)|
+| [Hickey (Name)](/variants/s15/g3k1g1r12g1r1g1k4g1t2g15k1g1k1g3~x4/)|
+|![Hickey (Name) example sett](/variants/s15/g3k1g1r12g1r1g1k4g1t2g15k1g1k1g3~x4/sett.png)|

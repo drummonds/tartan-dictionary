@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Largs Dress (1972)](/setts/s14/k54lb2k2lo9k2lo9k1lb2k9r8k2r8k4lo2~x2/)|
-|![Largs Dress (1972) example sett](/setts/s14/k54lb2k2lo9k2lo9k1lb2k9r8k2r8k4lo2~x2/sett.png)|
+| [Largs Dress (1972)](/variants/s14/k54lb2k2lo9k2lo9k1lb2k9r8k2r8k4lo2~x2/)|
+|![Largs Dress (1972) example sett](/variants/s14/k54lb2k2lo9k2lo9k1lb2k9r8k2r8k4lo2~x2/sett.png)|

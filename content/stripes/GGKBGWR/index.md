@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allman-Jones (Personal)](/setts/s7/r3w2y7n25k8y15dg2~x2/)|
-|![Allman-Jones (Personal) example sett](/setts/s7/r3w2y7n25k8y15dg2~x2/sett.png)|
+| [Allman-Jones (Personal)](/variants/s7/r3w2y7n25k8y15dg2~x2/)|
+|![Allman-Jones (Personal) example sett](/variants/s7/r3w2y7n25k8y15dg2~x2/sett.png)|

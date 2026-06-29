@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seller, Reproduction Dress](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/)|
-|![Seller, Reproduction Dress example sett](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/sett.png)|
+| [Seller, Reproduction Dress](/variants/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/)|
+|![Seller, Reproduction Dress example sett](/variants/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/sett.png)|

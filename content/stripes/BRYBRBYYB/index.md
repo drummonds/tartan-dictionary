@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Toorak Chapler](/setts/s9/do3o1lr1do1o3do3lr3ly6n1~x6/)|
-|![Toorak Chapler example sett](/setts/s9/do3o1lr1do1o3do3lr3ly6n1~x6/sett.png)|
+| [Toorak Chapler](/variants/s9/do3o1lr1do1o3do3lr3ly6n1~x6/)|
+|![Toorak Chapler example sett](/variants/s9/do3o1lr1do1o3do3lr3ly6n1~x6/sett.png)|

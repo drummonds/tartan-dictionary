@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hay](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lr6~x2/)|
-|![Hay example sett](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lr6~x2/sett.png)|
+| [Hay](/variants/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lr6~x2/)|
+|![Hay example sett](/variants/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lr6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ardee (Corporate)](/setts/s5/db4r1db18n18lr1~x4/)|
-|![Ardee (Corporate) example sett](/setts/s5/db4r1db18n18lr1~x4/sett.png)|
+| [Ardee (Corporate)](/variants/s5/db4r1db18n18lr1~x4/)|
+|![Ardee (Corporate) example sett](/variants/s5/db4r1db18n18lr1~x4/sett.png)|

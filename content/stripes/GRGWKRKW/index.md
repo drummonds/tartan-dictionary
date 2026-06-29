@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed (Hip Flask)](/setts/s8/dg14o5dg14w5k2o5k2w9~x4/)|
-|![Unnamed (Hip Flask) example sett](/setts/s8/dg14o5dg14w5k2o5k2w9~x4/sett.png)|
+| [Unnamed (Hip Flask)](/variants/s8/dg14o5dg14w5k2o5k2w9~x4/)|
+|![Unnamed (Hip Flask) example sett](/variants/s8/dg14o5dg14w5k2o5k2w9~x4/sett.png)|

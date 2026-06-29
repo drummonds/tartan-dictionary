@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Goldstraw (Name)](/setts/s16/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/)|
-|![Goldstraw (Name) example sett](/setts/s16/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/sett.png)|
+| [Goldstraw (Name)](/variants/s16/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/)|
+|![Goldstraw (Name) example sett](/variants/s16/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/sett.png)|

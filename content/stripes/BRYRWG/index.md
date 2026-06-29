@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Windy Meadows (Fashion)](/setts/s6/dy45lb2r4ly1o2n2~x4/)|
-|![Windy Meadows (Fashion) example sett](/setts/s6/dy45lb2r4ly1o2n2~x4/sett.png)|
+| [Windy Meadows (Fashion)](/variants/s6/dy45lb2r4ly1o2n2~x4/)|
+|![Windy Meadows (Fashion) example sett](/variants/s6/dy45lb2r4ly1o2n2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bank of Scotland (2000)](/setts/s10/b64db3dt4r5dt8dti12b3dti4b2lo1~x2/)|
-|![Bank of Scotland (2000) example sett](/setts/s10/b64db3dt4r5dt8dti12b3dti4b2lo1~x2/sett.png)|
+| [Bank of Scotland (2000)](/variants/s10/b64db3dt4r5dt8dti12b3dti4b2lo1~x2/)|
+|![Bank of Scotland (2000) example sett](/variants/s10/b64db3dt4r5dt8dti12b3dti4b2lo1~x2/sett.png)|

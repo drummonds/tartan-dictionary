@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dama Classic (Fashion)](/setts/s8/lr30w3lr3w3lr12n30o3n5~x2/)|
-|![Dama Classic (Fashion) example sett](/setts/s8/lr30w3lr3w3lr12n30o3n5~x2/sett.png)|
+| [Dama Classic (Fashion)](/variants/s8/lr30w3lr3w3lr12n30o3n5~x2/)|
+|![Dama Classic (Fashion) example sett](/variants/s8/lr30w3lr3w3lr12n30o3n5~x2/sett.png)|

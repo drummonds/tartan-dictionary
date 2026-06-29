@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drambuie](/setts/s6/w6r36k48o4k5ly6/)|
-|![Drambuie example sett](/setts/s6/w6r36k48o4k5ly6/sett.png)|
-| [Drambuie dress](/setts/s6/w6o36k48r4k5ly6/)|
-|![Drambuie dress example sett](/setts/s6/w6o36k48r4k5ly6/sett.png)|
+| [Drambuie](/variants/s6/w6r36k48o4k5ly6/)|
+|![Drambuie example sett](/variants/s6/w6r36k48o4k5ly6/sett.png)|
+| [Drambuie dress](/variants/s6/w6o36k48r4k5ly6/)|
+|![Drambuie dress example sett](/variants/s6/w6o36k48r4k5ly6/sett.png)|

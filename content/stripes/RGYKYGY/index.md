@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harmer](/setts/s7/ly9dg4ly22k9ly9dg36r4~x2/)|
-|![Harmer example sett](/setts/s7/ly9dg4ly22k9ly9dg36r4~x2/sett.png)|
-| [Harmer (Corporate)](/setts/s7/lo12dg4lo24k9lo8dg36r4/)|
-|![Harmer (Corporate) example sett](/setts/s7/lo12dg4lo24k9lo8dg36r4/sett.png)|
+| [Harmer](/variants/s7/ly9dg4ly22k9ly9dg36r4~x2/)|
+|![Harmer example sett](/variants/s7/ly9dg4ly22k9ly9dg36r4~x2/sett.png)|
+| [Harmer (Corporate)](/variants/s7/lo12dg4lo24k9lo8dg36r4/)|
+|![Harmer (Corporate) example sett](/variants/s7/lo12dg4lo24k9lo8dg36r4/sett.png)|

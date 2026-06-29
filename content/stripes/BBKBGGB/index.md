@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Odyssey](/setts/s7/b7dbi11k3dbi11dy11g22db3~x2/)|
-|![Scottish Odyssey example sett](/setts/s7/b7dbi11k3dbi11dy11g22db3~x2/sett.png)|
-| [Scottish Odyssey (Fashion)](/setts/s7/db7b12k3b12dy12g25dt3~x2/)|
-|![Scottish Odyssey (Fashion) example sett](/setts/s7/db7b12k3b12dy12g25dt3~x2/sett.png)|
+| [Scottish Odyssey](/variants/s7/b7dbi11k3dbi11dy11g22db3~x2/)|
+|![Scottish Odyssey example sett](/variants/s7/b7dbi11k3dbi11dy11g22db3~x2/sett.png)|
+| [Scottish Odyssey (Fashion)](/variants/s7/db7b12k3b12dy12g25dt3~x2/)|
+|![Scottish Odyssey (Fashion) example sett](/variants/s7/db7b12k3b12dy12g25dt3~x2/sett.png)|

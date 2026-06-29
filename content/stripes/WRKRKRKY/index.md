@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mens Bigi](/setts/s8/lo4k17r1k4r2k4r33w3~x2/)|
-|![Mens Bigi example sett](/setts/s8/lo4k17r1k4r2k4r33w3~x2/sett.png)|
+| [Mens Bigi](/variants/s8/lo4k17r1k4r2k4r33w3~x2/)|
+|![Mens Bigi example sett](/variants/s8/lo4k17r1k4r2k4r33w3~x2/sett.png)|

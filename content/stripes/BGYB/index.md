@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/t6lo28dy20t3~x2/)|
-|![Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/t6lo28dy20t3~x2/sett.png)|
+| [Prince of Orange Tartan](/variants/s4/t6lo28dy20t3~x2/)|
+|![Prince of Orange Tartan example sett](/variants/s4/t6lo28dy20t3~x2/sett.png)|

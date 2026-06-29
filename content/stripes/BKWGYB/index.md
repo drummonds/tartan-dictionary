@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Woodward, R Glenn](/setts/s6/db25k84w5g32ly5dp8~x2/)|
-|![Woodward, R Glenn example sett](/setts/s6/db25k84w5g32ly5dp8~x2/sett.png)|
-| [Woodward, R Glenn (Personal)](/setts/s6/dt25k84w5dg23lo5dp8~x2/)|
-|![Woodward, R Glenn (Personal) example sett](/setts/s6/dt25k84w5dg23lo5dp8~x2/sett.png)|
+| [Woodward, R Glenn](/variants/s6/db25k84w5g32ly5dp8~x2/)|
+|![Woodward, R Glenn example sett](/variants/s6/db25k84w5g32ly5dp8~x2/sett.png)|
+| [Woodward, R Glenn (Personal)](/variants/s6/dt25k84w5dg23lo5dp8~x2/)|
+|![Woodward, R Glenn (Personal) example sett](/variants/s6/dt25k84w5dg23lo5dp8~x2/sett.png)|

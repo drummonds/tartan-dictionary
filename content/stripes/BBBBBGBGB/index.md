@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Begg (Personal)](/setts/s9/p4gi30dbi12g3db2t3db26dp4db2/)|
-|![Begg (Personal) example sett](/setts/s9/p4gi30dbi12g3db2t3db26dp4db2/sett.png)|
+| [Begg (Personal)](/variants/s9/p4gi30dbi12g3db2t3db26dp4db2/)|
+|![Begg (Personal) example sett](/variants/s9/p4gi30dbi12g3db2t3db26dp4db2/sett.png)|

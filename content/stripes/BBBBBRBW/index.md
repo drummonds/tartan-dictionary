@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Browne (Personal)](/setts/s8/n20db2n2db2n2o47db24w2/)|
-|![Browne (Personal) example sett](/setts/s8/n20db2n2db2n2o47db24w2/sett.png)|
+| [Browne (Personal)](/variants/s8/n20db2n2db2n2o47db24w2/)|
+|![Browne (Personal) example sett](/variants/s8/n20db2n2db2n2o47db24w2/sett.png)|

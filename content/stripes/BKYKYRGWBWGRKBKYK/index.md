@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coulter (Personal)](/setts/s17/t7k9ly2k2ly2r14g14w2t3w2g14r14k2t7k9ly2k2~x2/)|
-|![Coulter (Personal) example sett](/setts/s17/t7k9ly2k2ly2r14g14w2t3w2g14r14k2t7k9ly2k2~x2/sett.png)|
+| [Coulter (Personal)](/variants/s17/t7k9ly2k2ly2r14g14w2t3w2g14r14k2t7k9ly2k2~x2/)|
+|![Coulter (Personal) example sett](/variants/s17/t7k9ly2k2ly2r14g14w2t3w2g14r14k2t7k9ly2k2~x2/sett.png)|

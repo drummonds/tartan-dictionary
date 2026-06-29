@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGirr (Letterkenny) David, (Pers.)](/setts/s8/g4r1g15t5r1w5g4r1~x4/)|
-|![McGirr (Letterkenny) David, (Pers.) example sett](/setts/s8/g4r1g15t5r1w5g4r1~x4/sett.png)|
+| [McGirr (Letterkenny) David, (Pers.)](/variants/s8/g4r1g15t5r1w5g4r1~x4/)|
+|![McGirr (Letterkenny) David, (Pers.) example sett](/variants/s8/g4r1g15t5r1w5g4r1~x4/sett.png)|

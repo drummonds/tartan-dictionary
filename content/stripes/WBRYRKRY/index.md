@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dalmagarry (Corporate)](/setts/s8/ly3r4k1r27lyi14r4db15w2~x2/)|
-|![Dalmagarry (Corporate) example sett](/setts/s8/ly3r4k1r27lyi14r4db15w2~x2/sett.png)|
+| [Dalmagarry (Corporate)](/variants/s8/ly3r4k1r27lyi14r4db15w2~x2/)|
+|![Dalmagarry (Corporate) example sett](/variants/s8/ly3r4k1r27lyi14r4db15w2~x2/sett.png)|

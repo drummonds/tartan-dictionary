@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Motherwell Football Club. Modern](/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/)|
-|![Motherwell Football Club. Modern example sett](/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/sett.png)|
+| [Motherwell Football Club. Modern](/variants/s9/lr60k6lr8k2lr8w2r12k49lo4/)|
+|![Motherwell Football Club. Modern example sett](/variants/s9/lr60k6lr8k2lr8w2r12k49lo4/sett.png)|

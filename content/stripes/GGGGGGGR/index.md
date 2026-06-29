@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tomass](/setts/s8/r2dy1dg9y1dy2y6g2y1~x4/)|
-|![Tomass example sett](/setts/s8/r2dy1dg9y1dy2y6g2y1~x4/sett.png)|
+| [Tomass](/variants/s8/r2dy1dg9y1dy2y6g2y1~x4/)|
+|![Tomass example sett](/variants/s8/r2dy1dg9y1dy2y6g2y1~x4/sett.png)|

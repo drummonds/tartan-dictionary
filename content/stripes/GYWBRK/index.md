@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-sant-Malou](/setts/s6/k3r24dt16w11ly1g3~x2/)|
-|![Bro-sant-Malou example sett](/setts/s6/k3r24dt16w11ly1g3~x2/sett.png)|
+| [Bro-sant-Malou](/variants/s6/k3r24dt16w11ly1g3~x2/)|
+|![Bro-sant-Malou example sett](/variants/s6/k3r24dt16w11ly1g3~x2/sett.png)|

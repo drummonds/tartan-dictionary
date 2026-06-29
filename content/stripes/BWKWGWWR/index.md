@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Desang (Corporate)](/setts/s8/db4w2k3lb8g2lb8w2r4~x4/)|
-|![Desang (Corporate) example sett](/setts/s8/db4w2k3lb8g2lb8w2r4~x4/sett.png)|
+| [Desang (Corporate)](/variants/s8/db4w2k3lb8g2lb8w2r4~x4/)|
+|![Desang (Corporate) example sett](/variants/s8/db4w2k3lb8g2lb8w2r4~x4/sett.png)|

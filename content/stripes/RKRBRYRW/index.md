@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westin Kierland](/setts/s8/o2k37r10db3r5ly4r3w2~x2/)|
-|![Westin Kierland example sett](/setts/s8/o2k37r10db3r5ly4r3w2~x2/sett.png)|
-| [Westin Kierland](/setts/s8/o2k37r10db3r5lo4r3w2~x2/)|
-|![Westin Kierland example sett](/setts/s8/o2k37r10db3r5lo4r3w2~x2/sett.png)|
+| [Westin Kierland](/variants/s8/o2k37r10db3r5lo4r3w2~x2/)|
+|![Westin Kierland example sett](/variants/s8/o2k37r10db3r5lo4r3w2~x2/sett.png)|
+| [Westin Kierland](/variants/s8/o2k37r10db3r5ly4r3w2~x2/)|
+|![Westin Kierland example sett](/variants/s8/o2k37r10db3r5ly4r3w2~x2/sett.png)|

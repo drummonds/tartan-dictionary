@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murdoch, Ellis (Personal)](/setts/s4/p20db25w3k2~x2/)|
-|![Murdoch, Ellis (Personal) example sett](/setts/s4/p20db25w3k2~x2/sett.png)|
-| [Murdoch, Ellis (Personal)](/setts/s4/dp20db25w3k2~x2/)|
-|![Murdoch, Ellis (Personal) example sett](/setts/s4/dp20db25w3k2~x2/sett.png)|
+| [Murdoch, Ellis (Personal)](/variants/s4/p20db25w3k2~x2/)|
+|![Murdoch, Ellis (Personal) example sett](/variants/s4/p20db25w3k2~x2/sett.png)|
+| [Murdoch, Ellis (Personal)](/variants/s4/dp20db25w3k2~x2/)|
+|![Murdoch, Ellis (Personal) example sett](/variants/s4/dp20db25w3k2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/)|
-|![Hek Family (Sunningdale, Berwick on Tweed) example sett](/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/sett.png)|
+| [Hek Family (Sunningdale, Berwick on Tweed)](/variants/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/)|
+|![Hek Family (Sunningdale, Berwick on Tweed) example sett](/variants/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/sett.png)|

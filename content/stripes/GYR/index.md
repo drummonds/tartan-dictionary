@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenmorangie Check (Corporate)](/setts/s3/dy1lo2r1~x10/)|
-|![Glenmorangie Check (Corporate) example sett](/setts/s3/dy1lo2r1~x10/sett.png)|
+| [Glenmorangie Check (Corporate)](/variants/s3/dy1lo2r1~x10/)|
+|![Glenmorangie Check (Corporate) example sett](/variants/s3/dy1lo2r1~x10/sett.png)|

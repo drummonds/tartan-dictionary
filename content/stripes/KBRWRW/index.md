@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thompson, D.C. (Personal)](/setts/s6/k4t28r6w12r12w3~x2/)|
-|![Thompson, D.C. (Personal) example sett](/setts/s6/k4t28r6w12r12w3~x2/sett.png)|
+| [Thompson, D.C. (Personal)](/variants/s6/k4t28r6w12r12w3~x2/)|
+|![Thompson, D.C. (Personal) example sett](/variants/s6/k4t28r6w12r12w3~x2/sett.png)|

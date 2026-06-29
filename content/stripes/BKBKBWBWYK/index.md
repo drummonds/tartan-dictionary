@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [California Riverside, University of (Corporate)](/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/)|
-|![California Riverside, University of (Corporate) example sett](/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/sett.png)|
+| [California Riverside, University of (Corporate)](/variants/s10/db42k6db3k3db3w5db17w7lo10k3~x2/)|
+|![California Riverside, University of (Corporate) example sett](/variants/s10/db42k6db3k3db3w5db17w7lo10k3~x2/sett.png)|

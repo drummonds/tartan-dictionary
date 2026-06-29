@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scruffy Wallace](/setts/s10/w6k3g24lg16k6lg6k6lg6k60lg6/)|
-|![Scruffy Wallace example sett](/setts/s10/w6k3g24lg16k6lg6k6lg6k60lg6/sett.png)|
+| [Scruffy Wallace](/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/)|
+|![Scruffy Wallace example sett](/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/sett.png)|

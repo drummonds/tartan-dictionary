@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watson (Name)](/setts/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/)|
-|![Watson (Name) example sett](/setts/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/sett.png)|
+| [Watson (Name)](/variants/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/)|
+|![Watson (Name) example sett](/variants/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/sett.png)|

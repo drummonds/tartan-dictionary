@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bonnie Brae](/setts/s11/r6db3y3ri26db20dg26o3dg4o3dg4o6/)|
-|![Bonnie Brae example sett](/setts/s11/r6db3y3ri26db20dg26o3dg4o3dg4o6/sett.png)|
+| [Bonnie Brae](/variants/s11/r6db3y3ri26db20dg26o3dg4o3dg4o6/)|
+|![Bonnie Brae example sett](/variants/s11/r6db3y3ri26db20dg26o3dg4o3dg4o6/sett.png)|

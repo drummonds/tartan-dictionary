@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thomas McGurran](/setts/s15/db4w8lo3db1dg1w1dg32lo2w1dg1n8r1dg2n2w2~x2/)|
-|![Thomas McGurran example sett](/setts/s15/db4w8lo3db1dg1w1dg32lo2w1dg1n8r1dg2n2w2~x2/sett.png)|
+| [Thomas McGurran](/variants/s15/db4w8lo3db1dg1w1dg32lo2w1dg1n8r1dg2n2w2~x2/)|
+|![Thomas McGurran example sett](/variants/s15/db4w8lo3db1dg1w1dg32lo2w1dg1n8r1dg2n2w2~x2/sett.png)|

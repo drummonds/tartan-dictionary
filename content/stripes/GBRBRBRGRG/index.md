@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Connaught (Lochcarron)](/setts/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/)|
-|![Connaught (Lochcarron) example sett](/setts/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/sett.png)|
+| [Connaught (Lochcarron)](/variants/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/)|
+|![Connaught (Lochcarron) example sett](/variants/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/)|
-|![Aelfleda Arisaid (Personal) example sett](/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/sett.png)|
-| [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5lb8dg2lb24r2lb8db5ly4db5ly4~x2/)|
-|![Aelfleda Arisaid (Personal) example sett](/setts/s13/ly4db5ly4db5lb8dg2lb24r2lb8db5ly4db5ly4~x2/sett.png)|
+| [Aelfleda Arisaid (Personal)](/variants/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/)|
+|![Aelfleda Arisaid (Personal) example sett](/variants/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/sett.png)|
+| [Aelfleda Arisaid (Personal)](/variants/s13/ly4db5ly4db5lb8dg2lb24r2lb8db5ly4db5ly4~x2/)|
+|![Aelfleda Arisaid (Personal) example sett](/variants/s13/ly4db5ly4db5lb8dg2lb24r2lb8db5ly4db5ly4~x2/sett.png)|

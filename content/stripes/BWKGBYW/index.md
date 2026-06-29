@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mellor, Phillip (Oldham)](/setts/s7/do8w8k16dg32dp3lo5w5~x2/)|
-|![Mellor, Phillip (Oldham) example sett](/setts/s7/do8w8k16dg32dp3lo5w5~x2/sett.png)|
+| [Mellor, Phillip (Oldham)](/variants/s7/do8w8k16dg32dp3lo5w5~x2/)|
+|![Mellor, Phillip (Oldham) example sett](/variants/s7/do8w8k16dg32dp3lo5w5~x2/sett.png)|

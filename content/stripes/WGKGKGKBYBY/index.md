@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clark of Ulva (Clan)](/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/)|
-|![Clark of Ulva (Clan) example sett](/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/sett.png)|
+| [Clark of Ulva (Clan)](/variants/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/)|
+|![Clark of Ulva (Clan) example sett](/variants/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oban (District?)](/setts/s13/k2r1db9r2k7db2r6g6r2k12lb1n1k1~x4/)|
-|![Oban (District?) example sett](/setts/s13/k2r1db9r2k7db2r6g6r2k12lb1n1k1~x4/sett.png)|
+| [Oban (District?)](/variants/s13/k2r1db9r2k7db2r6g6r2k12lb1n1k1~x4/)|
+|![Oban (District?) example sett](/variants/s13/k2r1db9r2k7db2r6g6r2k12lb1n1k1~x4/sett.png)|

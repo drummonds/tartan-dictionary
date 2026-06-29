@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Parker Dress (USA)](/setts/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/)|
-|![Parker Dress (USA) example sett](/setts/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/sett.png)|
+| [Parker Dress (USA)](/variants/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/)|
+|![Parker Dress (USA) example sett](/variants/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/sett.png)|

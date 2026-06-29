@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ontex](/setts/s7/db4w1n12lr12m4t1w2~x4/)|
-|![Ontex example sett](/setts/s7/db4w1n12lr12m4t1w2~x4/sett.png)|
+| [Ontex](/variants/s7/db4w1n12lr12m4t1w2~x4/)|
+|![Ontex example sett](/variants/s7/db4w1n12lr12m4t1w2~x4/sett.png)|

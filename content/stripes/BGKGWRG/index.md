@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Java Saint Andrew Society Hunting](/setts/s7/dt50g26k9g4lb2r2g10~x2/)|
-|![Java Saint Andrew Society Hunting example sett](/setts/s7/dt50g26k9g4lb2r2g10~x2/sett.png)|
-| [Java St Andrew Society hunting](/setts/s7/db50dg26k9dg4w2r2dg10~x2/)|
-|![Java St Andrew Society hunting example sett](/setts/s7/db50dg26k9dg4w2r2dg10~x2/sett.png)|
+| [Java Saint Andrew Society Hunting](/variants/s7/dt50g26k9g4lb2r2g10~x2/)|
+|![Java Saint Andrew Society Hunting example sett](/variants/s7/dt50g26k9g4lb2r2g10~x2/sett.png)|
+| [Java St Andrew Society hunting](/variants/s7/db50dg26k9dg4w2r2dg10~x2/)|
+|![Java St Andrew Society hunting example sett](/variants/s7/db50dg26k9dg4w2r2dg10~x2/sett.png)|

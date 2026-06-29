@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenurquhart Estate Check](/setts/s21/lb1k2lb1k2lb1k2lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1~x4/)|
-|![Glenurquhart Estate Check example sett](/setts/s21/lb1k2lb1k2lb1k2lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1~x4/sett.png)|
+| [Glenurquhart Estate Check](/variants/s21/lb1k2lb1k2lb1k2lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1~x4/)|
+|![Glenurquhart Estate Check example sett](/variants/s21/lb1k2lb1k2lb1k2lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1~x4/sett.png)|

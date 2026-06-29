@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holmes (Clan?)](/setts/s8/g30k3g3k3g6b32g3b3~x2/)|
-|![Holmes (Clan?) example sett](/setts/s8/g30k3g3k3g6b32g3b3~x2/sett.png)|
+| [Holmes (Clan?)](/variants/s8/g30k3g3k3g6b32g3b3~x2/)|
+|![Holmes (Clan?) example sett](/variants/s8/g30k3g3k3g6b32g3b3~x2/sett.png)|

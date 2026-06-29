@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott Dress #2](/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/)|
-|![Scott Dress #2 example sett](/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/sett.png)|
+| [Scott Dress #2](/variants/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/)|
+|![Scott Dress #2 example sett](/variants/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/sett.png)|

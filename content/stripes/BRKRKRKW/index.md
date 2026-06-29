@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nakayama (Fashion)](/setts/s8/b1r1k2r7k7r1k2w1~x6/)|
-|![Nakayama (Fashion) example sett](/setts/s8/b1r1k2r7k7r1k2w1~x6/sett.png)|
-| [Nakayama (Personal)](/setts/s8/db1r1k2r7k7r1k2w1~x6/)|
-|![Nakayama (Personal) example sett](/setts/s8/db1r1k2r7k7r1k2w1~x6/sett.png)|
+| [Nakayama (Fashion)](/variants/s8/b1r1k2r7k7r1k2w1~x6/)|
+|![Nakayama (Fashion) example sett](/variants/s8/b1r1k2r7k7r1k2w1~x6/sett.png)|
+| [Nakayama (Personal)](/variants/s8/db1r1k2r7k7r1k2w1~x6/)|
+|![Nakayama (Personal) example sett](/variants/s8/db1r1k2r7k7r1k2w1~x6/sett.png)|

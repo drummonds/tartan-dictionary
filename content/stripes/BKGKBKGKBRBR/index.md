@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Trinity Presbyterian Church](/setts/s12/r3t3r3t12k6g3k4db16k4g3k6t3~x2/)|
-|![Trinity Presbyterian Church example sett](/setts/s12/r3t3r3t12k6g3k4db16k4g3k6t3~x2/sett.png)|
+| [Trinity Presbyterian Church](/variants/s12/r3t3r3t12k6g3k4db16k4g3k6t3~x2/)|
+|![Trinity Presbyterian Church example sett](/variants/s12/r3t3r3t12k6g3k4db16k4g3k6t3~x2/sett.png)|

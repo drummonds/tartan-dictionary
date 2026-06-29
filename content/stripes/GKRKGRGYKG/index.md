@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mead Hunting (Personal)](/setts/s10/dy36k3o6k3dy10o5dy3lo4k1dy2~x2/)|
-|![Mead Hunting (Personal) example sett](/setts/s10/dy36k3o6k3dy10o5dy3lo4k1dy2~x2/sett.png)|
+| [Mead Hunting (Personal)](/variants/s10/dy36k3o6k3dy10o5dy3lo4k1dy2~x2/)|
+|![Mead Hunting (Personal) example sett](/variants/s10/dy36k3o6k3dy10o5dy3lo4k1dy2~x2/sett.png)|

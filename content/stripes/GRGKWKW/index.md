@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cleghorn (Personal)](/setts/s7/g8r3g30k8w3k36w8~x2/)|
-|![Cleghorn (Personal) example sett](/setts/s7/g8r3g30k8w3k36w8~x2/sett.png)|
+| [Cleghorn (Personal)](/variants/s7/g8r3g30k8w3k36w8~x2/)|
+|![Cleghorn (Personal) example sett](/variants/s7/g8r3g30k8w3k36w8~x2/sett.png)|

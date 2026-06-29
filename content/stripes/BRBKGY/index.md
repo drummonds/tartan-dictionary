@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Highland](/setts/s6/lr4g17k17db17r3db3~x2/)|
-|![Royal Highland example sett](/setts/s6/lr4g17k17db17r3db3~x2/sett.png)|
+| [Royal Highland](/variants/s6/lr4g17k17db17r3db3~x2/)|
+|![Royal Highland example sett](/variants/s6/lr4g17k17db17r3db3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Etihad Airways](/setts/s13/o6k28o4k4o12dr32k4dr3k4dr3k4dr14ly4/)|
-|![Etihad Airways example sett](/setts/s13/o6k28o4k4o12dr32k4dr3k4dr3k4dr14ly4/sett.png)|
+| [Etihad Airways](/variants/s13/o6k28o4k4o12dr32k4dr3k4dr3k4dr14ly4/)|
+|![Etihad Airways example sett](/variants/s13/o6k28o4k4o12dr32k4dr3k4dr3k4dr14ly4/sett.png)|

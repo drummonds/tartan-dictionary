@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrew's Soc. of Singapore (Corp](/setts/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/)|
-|![St. Andrew's Soc. of Singapore (Corp example sett](/setts/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/sett.png)|
+| [St. Andrew's Soc. of Singapore (Corp](/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/)|
+|![St. Andrew's Soc. of Singapore (Corp example sett](/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/sett.png)|

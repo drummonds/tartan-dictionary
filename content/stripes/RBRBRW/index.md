@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Plaid Wine](/setts/s6/r24n5o9n2o9lb9~x4/)|
-|![Plaid Wine example sett](/setts/s6/r24n5o9n2o9lb9~x4/sett.png)|
+| [Plaid Wine](/variants/s6/r24n5o9n2o9lb9~x4/)|
+|![Plaid Wine example sett](/variants/s6/r24n5o9n2o9lb9~x4/sett.png)|

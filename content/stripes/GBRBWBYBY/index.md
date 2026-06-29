@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heart of Strathearn](/setts/s9/g16b6r6b4w2b80lo3b10ly2/)|
-|![Heart of Strathearn example sett](/setts/s9/g16b6r6b4w2b80lo3b10ly2/sett.png)|
+| [Heart of Strathearn](/variants/s9/g16b6r6b4w2b80lo3b10ly2/)|
+|![Heart of Strathearn example sett](/variants/s9/g16b6r6b4w2b80lo3b10ly2/sett.png)|

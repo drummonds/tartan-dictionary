@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crane of Cluny (Personal)](/setts/s8/g82k6g3k9r2k5g2ly2~x2/)|
-|![Crane of Cluny (Personal) example sett](/setts/s8/g82k6g3k9r2k5g2ly2~x2/sett.png)|
-| [Stewart from Cairnie](/setts/s8/dg83k6dg3k9r2k5dg2ly2~x2/)|
-|![Stewart from Cairnie example sett](/setts/s8/dg83k6dg3k9r2k5dg2ly2~x2/sett.png)|
+| [Crane of Cluny (Personal)](/variants/s8/g82k6g3k9r2k5g2ly2~x2/)|
+|![Crane of Cluny (Personal) example sett](/variants/s8/g82k6g3k9r2k5g2ly2~x2/sett.png)|
+| [Stewart from Cairnie](/variants/s8/dg83k6dg3k9r2k5dg2ly2~x2/)|
+|![Stewart from Cairnie example sett](/variants/s8/dg83k6dg3k9r2k5dg2ly2~x2/sett.png)|

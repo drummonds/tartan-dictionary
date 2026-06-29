@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drummond, Ancient](/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/)|
-|![Drummond, Ancient example sett](/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/sett.png)|
+| [Drummond, Ancient](/variants/s9/r38ly1db3w1g13r6db3t3w1~x2/)|
+|![Drummond, Ancient example sett](/variants/s9/r38ly1db3w1g13r6db3t3w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchanan Dress Clan Tartan Tartan Number: 608. Earliest known date: 1977 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/)|
-|![Buchanan Dress Clan Tartan Tartan Number: 608. Earliest known date: 1977 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/sett.png)|
+| [Buchanan Dress Clan Tartan](/variants/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/)|
+|![Buchanan Dress Clan Tartan example sett](/variants/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/sett.png)|

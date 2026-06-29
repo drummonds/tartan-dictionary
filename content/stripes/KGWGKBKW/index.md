@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louisiana](/setts/s8/k3g3lb2g11k12db18k2lb3~x2/)|
-|![Louisiana example sett](/setts/s8/k3g3lb2g11k12db18k2lb3~x2/sett.png)|
+| [Louisiana](/variants/s8/k3g3lb2g11k12db18k2lb3~x2/)|
+|![Louisiana example sett](/variants/s8/k3g3lb2g11k12db18k2lb3~x2/sett.png)|

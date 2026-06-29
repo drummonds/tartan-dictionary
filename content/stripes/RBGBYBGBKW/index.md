@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fogarty (Tipperary)](/setts/s10/r4b60g35b4ly4b4y12b18k3w2/)|
-|![Fogarty (Tipperary) example sett](/setts/s10/r4b60g35b4ly4b4y12b18k3w2/sett.png)|
+| [Fogarty (Tipperary)](/variants/s10/r4b60g35b4ly4b4y12b18k3w2/)|
+|![Fogarty (Tipperary) example sett](/variants/s10/r4b60g35b4ly4b4y12b18k3w2/sett.png)|

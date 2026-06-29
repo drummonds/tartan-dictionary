@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Iowa (Fashion)](/setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/)|
-|![State Seal of Iowa (Fashion) example sett](/setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/sett.png)|
+| [State Seal of Iowa (Fashion)](/variants/s8/dt5b43dt18lb4b6r5dy25lo5~x2/)|
+|![State Seal of Iowa (Fashion) example sett](/variants/s8/dt5b43dt18lb4b6r5dy25lo5~x2/sett.png)|

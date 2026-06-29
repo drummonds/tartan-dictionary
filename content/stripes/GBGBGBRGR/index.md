@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lindsay](/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/)|
-|![Lindsay example sett](/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/sett.png)|
-| [Lindsay (Chisholm Red)](/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/)|
-|![Lindsay (Chisholm Red) example sett](/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/sett.png)|
+| [Lindsay](/variants/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/)|
+|![Lindsay example sett](/variants/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/sett.png)|
+| [Lindsay (Chisholm Red)](/variants/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/)|
+|![Lindsay (Chisholm Red) example sett](/variants/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ochiltree](/tartans/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12/)|
-|![Ochiltree example sett](/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/sett.png)|
+| [Ochiltree](/setts/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12/)|
+|![Ochiltree example sett](/variants/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/sett.png)|

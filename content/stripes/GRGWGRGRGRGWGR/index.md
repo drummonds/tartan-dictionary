@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Welsh Assembly](/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/)|
-|![Welsh Assembly example sett](/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/sett.png)|
+| [Welsh Assembly](/variants/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/)|
+|![Welsh Assembly example sett](/variants/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/sett.png)|

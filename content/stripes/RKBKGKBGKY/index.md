@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sullivan (Estimated threadcount)](/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/)|
-|![Sullivan (Estimated threadcount) example sett](/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/sett.png)|
+| [Sullivan (Estimated threadcount)](/variants/s10/r3k1t10k1g2k1db8g12k1ly3~x2/)|
+|![Sullivan (Estimated threadcount) example sett](/variants/s10/r3k1t10k1g2k1db8g12k1ly3~x2/sett.png)|

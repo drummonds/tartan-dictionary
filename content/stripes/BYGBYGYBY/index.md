@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Land's End Camel](/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/)|
-|![Land's End Camel example sett](/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/sett.png)|
+| [Land's End Camel](/variants/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/)|
+|![Land's End Camel example sett](/variants/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/sett.png)|

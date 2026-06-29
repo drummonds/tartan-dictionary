@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McPeek (Fictitious clan)](/setts/s4/r63ki8k8ly5~x2/)|
-|![McPeek (Fictitious clan) example sett](/setts/s4/r63ki8k8ly5~x2/sett.png)|
+| [McPeek (Fictitious clan)](/variants/s4/r63ki8k8ly5~x2/)|
+|![McPeek (Fictitious clan) example sett](/variants/s4/r63ki8k8ly5~x2/sett.png)|

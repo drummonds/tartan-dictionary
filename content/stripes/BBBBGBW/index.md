@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hesco](/setts/s7/dp3n24ni10n2g11n8w3~x2/)|
-|![Hesco example sett](/setts/s7/dp3n24ni10n2g11n8w3~x2/sett.png)|
+| [Hesco](/variants/s7/dp3n24ni10n2g11n8w3~x2/)|
+|![Hesco example sett](/variants/s7/dp3n24ni10n2g11n8w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lennox Primary School](/setts/s7/dp2lp1dp10db1y10k1y2~x4/)|
-|![Lennox Primary School example sett](/setts/s7/dp2lp1dp10db1y10k1y2~x4/sett.png)|
+| [Lennox Primary School](/variants/s7/dp2lp1dp10db1y10k1y2~x4/)|
+|![Lennox Primary School example sett](/variants/s7/dp2lp1dp10db1y10k1y2~x4/sett.png)|

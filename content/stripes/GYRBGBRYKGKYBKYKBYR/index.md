@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBain](/tartans/r60lr2b5k2lr2k2b5lr2k2dg12k2lr2r5dr5dg2dr5r5lr2dg10/)|
-|![MacBain example sett](/setts/s19/r60lr2b5k2lr2k2b5lr2k2dg12k2lr2r5dr5dg2dr5r5lr2dg10/sett.png)|
+| [MacBain](/setts/r60lr2b5k2lr2k2b5lr2k2dg12k2lr2r5dr5dg2dr5r5lr2dg10/)|
+|![MacBain example sett](/variants/s19/r60lr2b5k2lr2k2b5lr2k2dg12k2lr2r5dr5dg2dr5r5lr2dg10/sett.png)|

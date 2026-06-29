@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hawick Rugby Club (Corporate)](/setts/s6/db2ly1db7w1k7w2~x6/)|
-|![Hawick Rugby Club (Corporate) example sett](/setts/s6/db2ly1db7w1k7w2~x6/sett.png)|
+| [Hawick Rugby Club (Corporate)](/variants/s6/db2ly1db7w1k7w2~x6/)|
+|![Hawick Rugby Club (Corporate) example sett](/variants/s6/db2ly1db7w1k7w2~x6/sett.png)|

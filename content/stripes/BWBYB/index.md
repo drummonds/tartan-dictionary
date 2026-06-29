@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenock Morton F. C. (Corporate)](/setts/s5/db19w6db105ly4db5/)|
-|![Greenock Morton F. C. (Corporate) example sett](/setts/s5/db19w6db105ly4db5/sett.png)|
+| [Greenock Morton F. C. (Corporate)](/variants/s5/db19w6db105ly4db5/)|
+|![Greenock Morton F. C. (Corporate) example sett](/variants/s5/db19w6db105ly4db5/sett.png)|

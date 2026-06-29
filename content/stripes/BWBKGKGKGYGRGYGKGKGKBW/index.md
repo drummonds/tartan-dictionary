@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerby (Personal)](/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/)|
-|![Kerby (Personal) example sett](/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/sett.png)|
+| [Kerby (Personal)](/variants/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/)|
+|![Kerby (Personal) example sett](/variants/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/sett.png)|

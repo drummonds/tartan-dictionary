@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Hunting (Personal)](/setts/s13/g2lo1dg42r2dg6g1db1g1dg4t4dg1r1w1~x2/)|
-|![Kerr of Ardgowan Hunting (Personal) example sett](/setts/s13/g2lo1dg42r2dg6g1db1g1dg4t4dg1r1w1~x2/sett.png)|
+| [Kerr of Ardgowan Hunting (Personal)](/variants/s13/g2lo1dg42r2dg6g1db1g1dg4t4dg1r1w1~x2/)|
+|![Kerr of Ardgowan Hunting (Personal) example sett](/variants/s13/g2lo1dg42r2dg6g1db1g1dg4t4dg1r1w1~x2/sett.png)|

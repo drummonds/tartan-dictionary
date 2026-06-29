@@ -24,13 +24,13 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks, Black (Fashion)](/setts/s5/r3k6dy4k6ly3~x2/)|
-|![Daks, Black (Fashion) example sett](/setts/s5/r3k6dy4k6ly3~x2/sett.png)|
-| [Mar Tribe](/setts/s5/r2k3g45k3ly2/)|
-|![Mar Tribe example sett](/setts/s5/r2k3g45k3ly2/sett.png)|
-| [Mar, (Tribe of..)](/tartans/r2k4g45k3ly2/)|
-|![Mar, (Tribe of..) example sett](/setts/s5/r2k4g45k3ly2/sett.png)|
-| [Skene or Tribe of Mar](/setts/s5/r1k2dg16k2ly1~x2/)|
-|![Skene or Tribe of Mar example sett](/setts/s5/r1k2dg16k2ly1~x2/sett.png)|
-| [Skene, or Tribe of Mar](/setts/s5/r1k2g16k2ly1~x2/)|
-|![Skene, or Tribe of Mar example sett](/setts/s5/r1k2g16k2ly1~x2/sett.png)|
+| [Daks, Black (Fashion)](/variants/s5/r3k6dy4k6ly3~x2/)|
+|![Daks, Black (Fashion) example sett](/variants/s5/r3k6dy4k6ly3~x2/sett.png)|
+| [Mar Tribe](/variants/s5/r2k3g45k3ly2/)|
+|![Mar Tribe example sett](/variants/s5/r2k3g45k3ly2/sett.png)|
+| [Mar, (Tribe of..)](/setts/r2k4g45k3ly2/)|
+|![Mar, (Tribe of..) example sett](/variants/s5/r2k4g45k3ly2/sett.png)|
+| [Skene or Tribe of Mar](/variants/s5/r1k2dg16k2ly1~x2/)|
+|![Skene or Tribe of Mar example sett](/variants/s5/r1k2dg16k2ly1~x2/sett.png)|
+| [Skene, or Tribe of Mar](/variants/s5/r1k2g16k2ly1~x2/)|
+|![Skene, or Tribe of Mar example sett](/variants/s5/r1k2g16k2ly1~x2/sett.png)|

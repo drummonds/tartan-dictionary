@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carleton College Rugby](/setts/s6/o5dt30w3dg15ly8r4~x2/)|
-|![Carleton College Rugby example sett](/setts/s6/o5dt30w3dg15ly8r4~x2/sett.png)|
+| [Carleton College Rugby](/variants/s6/o5dt30w3dg15ly8r4~x2/)|
+|![Carleton College Rugby example sett](/variants/s6/o5dt30w3dg15ly8r4~x2/sett.png)|

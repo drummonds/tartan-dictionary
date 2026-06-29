@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antonelli (Oklahoma), John (Personal)](/setts/s6/k1lt1r1db1g1db1~x25/)|
-|![Antonelli (Oklahoma), John (Personal) example sett](/setts/s6/k1lt1r1db1g1db1~x25/sett.png)|
+| [Antonelli (Oklahoma), John (Personal)](/variants/s6/k1lt1r1db1g1db1~x25/)|
+|![Antonelli (Oklahoma), John (Personal) example sett](/variants/s6/k1lt1r1db1g1db1~x25/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Billy Apple® Yellow](/setts/s4/r1ly13k8g1~x6/)|
-|![Billy Apple® Yellow example sett](/setts/s4/r1ly13k8g1~x6/sett.png)|
+| [Billy Apple® Yellow](/variants/s4/r1ly13k8g1~x6/)|
+|![Billy Apple® Yellow example sett](/variants/s4/r1ly13k8g1~x6/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [BC Corps of Commissionaires](/setts/s7/db12w1r3w1r3w1db6~x4/)|
-|![BC Corps of Commissionaires example sett](/setts/s7/db12w1r3w1r3w1db6~x4/sett.png)|
-| [BC Corps of Commissionaires, The](/setts/s7/db12lb1r3lb1r3lb1db6~x4/)|
-|![BC Corps of Commissionaires, The example sett](/setts/s7/db12lb1r3lb1r3lb1db6~x4/sett.png)|
+| [BC Corps of Commissionaires](/variants/s7/db12w1r3w1r3w1db6~x4/)|
+|![BC Corps of Commissionaires example sett](/variants/s7/db12w1r3w1r3w1db6~x4/sett.png)|
+| [BC Corps of Commissionaires, The](/variants/s7/db12lb1r3lb1r3lb1db6~x4/)|
+|![BC Corps of Commissionaires, The example sett](/variants/s7/db12lb1r3lb1r3lb1db6~x4/sett.png)|

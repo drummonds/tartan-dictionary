@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gow](/tartans/r4dg4r1db4r4/)|
-|![Gow example sett](/setts/s5/r4dg4r1db4r4/sett.png)|
-| [Gow (Portrait)](/setts/s5/r3dg3r1db3r3~x12/)|
-|![Gow (Portrait) example sett](/setts/s5/r3dg3r1db3r3~x12/sett.png)|
-| [MacGowan](/setts/s5/r4db4r1g4r4~x6/)|
-|![MacGowan example sett](/setts/s5/r4db4r1g4r4~x6/sett.png)|
+| [Gow](/setts/r4dg4r1db4r4/)|
+|![Gow example sett](/variants/s5/r4dg4r1db4r4/sett.png)|
+| [Gow (Portrait)](/variants/s5/r3dg3r1db3r3~x12/)|
+|![Gow (Portrait) example sett](/variants/s5/r3dg3r1db3r3~x12/sett.png)|
+| [MacGowan](/variants/s5/r4db4r1g4r4~x6/)|
+|![MacGowan example sett](/variants/s5/r4db4r1g4r4~x6/sett.png)|

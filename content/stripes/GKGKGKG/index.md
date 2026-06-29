@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott Black and Grey](/setts/s7/y8k3y17k13y6k3y4~x2/)|
-|![Scott Black and Grey example sett](/setts/s7/y8k3y17k13y6k3y4~x2/sett.png)|
+| [Scott Black and Grey](/variants/s7/y8k3y17k13y6k3y4~x2/)|
+|![Scott Black and Grey example sett](/variants/s7/y8k3y17k13y6k3y4~x2/sett.png)|

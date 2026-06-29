@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Andrews Links Dress](/setts/s7/w30b4w3dp2r2dp24wi2~x2/)|
-|![St Andrews Links Dress example sett](/setts/s7/w30b4w3dp2r2dp24wi2~x2/sett.png)|
+| [St Andrews Links Dress](/variants/s7/w30b4w3dp2r2dp24wi2~x2/)|
+|![St Andrews Links Dress example sett](/variants/s7/w30b4w3dp2r2dp24wi2~x2/sett.png)|

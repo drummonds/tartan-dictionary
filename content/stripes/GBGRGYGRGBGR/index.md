@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Scouts #2](/setts/s12/g22db16g14r2g6lo2g6r2g14db16g22r3~x2/)|
-|![Scottish Scouts #2 example sett](/setts/s12/g22db16g14r2g6lo2g6r2g14db16g22r3~x2/sett.png)|
+| [Scottish Scouts #2](/variants/s12/g22db16g14r2g6lo2g6r2g14db16g22r3~x2/)|
+|![Scottish Scouts #2 example sett](/variants/s12/g22db16g14r2g6lo2g6r2g14db16g22r3~x2/sett.png)|

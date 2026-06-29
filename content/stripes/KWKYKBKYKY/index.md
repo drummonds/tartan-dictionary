@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [D.E.B.S. (Fashion)](/setts/s10/lo15k2lo3k2b50k2lo3k2w10k4~x2/)|
-|![D.E.B.S. (Fashion) example sett](/setts/s10/lo15k2lo3k2b50k2lo3k2w10k4~x2/sett.png)|
+| [D.E.B.S. (Fashion)](/variants/s10/lo15k2lo3k2b50k2lo3k2w10k4~x2/)|
+|![D.E.B.S. (Fashion) example sett](/variants/s10/lo15k2lo3k2b50k2lo3k2w10k4~x2/sett.png)|

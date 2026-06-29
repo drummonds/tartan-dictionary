@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Susan G Komen 06](/setts/s7/w6lri27dr6o40lr44w8o4/)|
-|![Susan G Komen 06 example sett](/setts/s7/w6lri27dr6o40lr44w8o4/sett.png)|
+| [Susan G Komen 06](/variants/s7/w6lri27dr6o40lr44w8o4/)|
+|![Susan G Komen 06 example sett](/variants/s7/w6lri27dr6o40lr44w8o4/sett.png)|

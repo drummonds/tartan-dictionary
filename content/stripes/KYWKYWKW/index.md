@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guzzo Dress (Montreal, Canada) (Personal)](/setts/s8/w20k2w20ly5k3w3ly4k2/)|
-|![Guzzo Dress (Montreal, Canada) (Personal) example sett](/setts/s8/w20k2w20ly5k3w3ly4k2/sett.png)|
-| [Guzzo Dress (Personal)](/setts/s8/w20k2w20lo5k3w3lo4k2/)|
-|![Guzzo Dress (Personal) example sett](/setts/s8/w20k2w20lo5k3w3lo4k2/sett.png)|
+| [Guzzo Dress (Montreal, Canada) (Personal)](/variants/s8/w20k2w20ly5k3w3ly4k2/)|
+|![Guzzo Dress (Montreal, Canada) (Personal) example sett](/variants/s8/w20k2w20ly5k3w3ly4k2/sett.png)|
+| [Guzzo Dress (Personal)](/variants/s8/w20k2w20lo5k3w3lo4k2/)|
+|![Guzzo Dress (Personal) example sett](/variants/s8/w20k2w20lo5k3w3lo4k2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grammar School at Leeds (School)](/setts/s6/n32w4n4k24dp29k4/)|
-|![Grammar School at Leeds (School) example sett](/setts/s6/n32w4n4k24dp29k4/sett.png)|
+| [Grammar School at Leeds (School)](/variants/s6/n32w4n4k24dp29k4/)|
+|![Grammar School at Leeds (School) example sett](/variants/s6/n32w4n4k24dp29k4/sett.png)|

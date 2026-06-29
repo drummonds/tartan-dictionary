@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart, Anthony C (Personal)](/setts/s7/r72g16k8ly4db8w3k50~x2/)|
-|![Stewart, Anthony C (Personal) example sett](/setts/s7/r72g16k8ly4db8w3k50~x2/sett.png)|
+| [Stewart, Anthony C (Personal)](/variants/s7/r72g16k8ly4db8w3k50~x2/)|
+|![Stewart, Anthony C (Personal) example sett](/variants/s7/r72g16k8ly4db8w3k50~x2/sett.png)|

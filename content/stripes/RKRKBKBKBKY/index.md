@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brotherhood of Dirk, The](/setts/s11/r9k3r9k2n4k4dp4k3dp2k32lg6~x2/)|
-|![Brotherhood of Dirk, The example sett](/setts/s11/r9k3r9k2n4k4dp4k3dp2k32lg6~x2/sett.png)|
+| [Brotherhood of Dirk, The](/variants/s11/r9k3r9k2n4k4dp4k3dp2k32lg6~x2/)|
+|![Brotherhood of Dirk, The example sett](/variants/s11/r9k3r9k2n4k4dp4k3dp2k32lg6~x2/sett.png)|

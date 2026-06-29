@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reidy Wedding](/setts/s7/g31dg7lo3dg14g8db18dp5~x2/)|
-|![Reidy Wedding example sett](/setts/s7/g31dg7lo3dg14g8db18dp5~x2/sett.png)|
+| [Reidy Wedding](/variants/s7/g31dg7lo3dg14g8db18dp5~x2/)|
+|![Reidy Wedding example sett](/variants/s7/g31dg7lo3dg14g8db18dp5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Apollo 12 (Commemorative)](/setts/s11/db5ly1n19k6n4k4n12lb1n12k2db2~x2/)|
-|![Apollo 12 (Commemorative) example sett](/setts/s11/db5ly1n19k6n4k4n12lb1n12k2db2~x2/sett.png)|
+| [Apollo 12 (Commemorative)](/variants/s11/db5ly1n19k6n4k4n12lb1n12k2db2~x2/)|
+|![Apollo 12 (Commemorative) example sett](/variants/s11/db5ly1n19k6n4k4n12lb1n12k2db2~x2/sett.png)|

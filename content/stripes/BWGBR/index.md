@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alvis of Lee (Personal)](/tartans/db9w4g36t36r4/)|
-|![Alvis of Lee (Personal) example sett](/setts/s5/db9w4g36t36r4/sett.png)|
+| [Alvis of Lee (Personal)](/setts/db9w4g36t36r4/)|
+|![Alvis of Lee (Personal) example sett](/variants/s5/db9w4g36t36r4/sett.png)|

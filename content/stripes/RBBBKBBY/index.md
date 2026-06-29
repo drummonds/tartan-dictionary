@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal British Legion Scotland (Corp)](/setts/s8/lo4dp2db30k3dp8db5dp1r2~x2/)|
-|![Royal British Legion Scotland (Corp) example sett](/setts/s8/lo4dp2db30k3dp8db5dp1r2~x2/sett.png)|
+| [Royal British Legion Scotland (Corp)](/variants/s8/lo4dp2db30k3dp8db5dp1r2~x2/)|
+|![Royal British Legion Scotland (Corp) example sett](/variants/s8/lo4dp2db30k3dp8db5dp1r2~x2/sett.png)|

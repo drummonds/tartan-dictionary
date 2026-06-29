@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCaslan (Artefact)](/setts/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/)|
-|![MacCaslan (Artefact) example sett](/setts/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/sett.png)|
+| [MacCaslan (Artefact)](/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/)|
+|![MacCaslan (Artefact) example sett](/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/sett.png)|

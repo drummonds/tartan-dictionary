@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hutcheson](/setts/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/)|
-|![Hutcheson example sett](/setts/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/sett.png)|
+| [Hutcheson](/variants/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/)|
+|![Hutcheson example sett](/variants/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathdee (Personal)](/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/)|
-|![Strathdee (Personal) example sett](/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/sett.png)|
+| [Strathdee (Personal)](/variants/s10/g25b10w1b5w1b10g25r1g3r2~x2/)|
+|![Strathdee (Personal) example sett](/variants/s10/g25b10w1b5w1b10g25r1g3r2~x2/sett.png)|

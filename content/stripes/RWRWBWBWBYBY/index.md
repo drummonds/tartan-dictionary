@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lysaght Dress](/setts/s12/r6w4r6w11db1w3db3w1db11lo6db4lo6~x4/)|
-|![Lysaght Dress example sett](/setts/s12/r6w4r6w11db1w3db3w1db11lo6db4lo6~x4/sett.png)|
+| [Lysaght Dress](/variants/s12/r6w4r6w11db1w3db3w1db11lo6db4lo6~x4/)|
+|![Lysaght Dress example sett](/variants/s12/r6w4r6w11db1w3db3w1db11lo6db4lo6~x4/sett.png)|

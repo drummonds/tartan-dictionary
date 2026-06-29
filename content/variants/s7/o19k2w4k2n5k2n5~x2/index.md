@@ -1,0 +1,60 @@
+---
+title: "Kyle Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o19k2w4k2n5k2n5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWKR](/stripes/bkbkwkr/).
+
+Part of the [Kyle](/tartans/kyle/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1288
+
+## Provenance
+
+Earliest known date: pre 1984 Seen in Service Station at Gretna Green in 1984 by Angela Nisbett MSTS . Berars no relation to the other two Kyles (3615 & 3616).
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Kyle Blue
+- Kyle Green
+
+## Thread count
+Na/38 K4 LN8 K4 N10 K4 N/10
+
+One full sett is **108 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>Na/</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> <small style="color:#888">#888888</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> <small style="color:#888">#5C5C5C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.5% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> <small style="color:#888">#5C5C5C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.5% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="Na/38 K4 LN8 K4 N10 K4 N/10 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r54g6r5g6r10g3r2g18/"><img src="/variants/s14/r54g6r5g6r10g3r2g18~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r54g6r5g6r10g3r2g18/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=o19k2w4k2n5k2n5~x2">Kyle Tartan</a> <a class="nn-out" href="/variants/s7/o19k2w4k2n5k2n5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/o19k2w4k2n5k2n5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.66</div><div class="nn-name"><a href="/ttd/edit/#slug=y19k2w2k2n5k2n5~x4&amp;base=o19k2w4k2n5k2n5~x2">Kyle</a> <a class="nn-out" href="/variants/s7/y19k2w2k2n5k2n5~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y19k2w2k2n5k2n5~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=k1t1k1t7y7k1y1lb1~x6&amp;base=o19k2w4k2n5k2n5~x2">Auld Lang Syne (Philip King Tailoring)</a> <a class="nn-out" href="/variants/s8/k1t1k1t7y7k1y1lb1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k1t1k1t7y7k1y1lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=lb3k3lb3k3o15r1~x4&amp;base=o19k2w4k2n5k2n5~x2">Tiree Grey</a> <a class="nn-out" href="/variants/s6/lb3k3lb3k3o15r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb3k3lb3k3o15r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=r1o1m1o7dg7m1dg1m1~x6&amp;base=o19k2w4k2n5k2n5~x2">Beck-McSorley</a> <a class="nn-out" href="/variants/s8/r1o1m1o7dg7m1dg1m1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r1o1m1o7dg7m1dg1m1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=r9w5t57k5t9r29k18w9&amp;base=o19k2w4k2n5k2n5~x2">Yale College of Wrexham (Corporate)</a> <a class="nn-out" href="/variants/s8/r9w5t57k5t9r29k18w9/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r9w5t57k5t9r29k18w9/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=t30dp15w4dg12w9t8w3~x2&amp;base=o19k2w4k2n5k2n5~x2">Newall (Dumbarton) (Personal)</a> <a class="nn-out" href="/variants/s7/t30dp15w4dg12w9t8w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/t30dp15w4dg12w9t8w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=n30k5n19k5n2lr20ly2lr20k5ly4~x2&amp;base=o19k2w4k2n5k2n5~x2">Sonsub</a> <a class="nn-out" href="/variants/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=r4o41k5w14k18r4~x2&amp;base=o19k2w4k2n5k2n5~x2">Downside (Corporate)</a> <a class="nn-out" href="/variants/s6/r4o41k5w14k18r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4o41k5w14k18r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=r1dg1lp1lb7dg7lp1dg1lp1~x6&amp;base=o19k2w4k2n5k2n5~x2">Beck-McSorley</a> <a class="nn-out" href="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=db3g21db3o21db35w3~x2&amp;base=o19k2w4k2n5k2n5~x2">Donnolly</a> <a class="nn-out" href="/variants/s6/db3g21db3o21db35w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3g21db3o21db35w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y19k2w2k2n5k2n5~x4/"><circle cx="292.4" cy="193.3" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s8/k1t1k1t7y7k1y1lb1~x6/"><circle cx="234.0" cy="203.4" r="4" fill="#3465a4"><title>Auld Lang Syne (Philip King Tailoring)</title></circle></a><a href="/variants/s6/lb3k3lb3k3o15r1~x4/"><circle cx="290.6" cy="171.5" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s8/r1o1m1o7dg7m1dg1m1~x6/"><circle cx="235.4" cy="204.3" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/variants/s8/r9w5t57k5t9r29k18w9/"><circle cx="225.3" cy="167.9" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/variants/s7/t30dp15w4dg12w9t8w3~x2/"><circle cx="213.7" cy="207.4" r="4" fill="#3465a4"><title>Newall (Dumbarton) (Personal)</title></circle></a><a href="/variants/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/"><circle cx="255.6" cy="174.0" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s6/r4o41k5w14k18r4~x2/"><circle cx="223.5" cy="182.6" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/"><circle cx="223.5" cy="185.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/variants/s6/db3g21db3o21db35w3~x2/"><circle cx="264.6" cy="208.1" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><circle cx="255.1" cy="189.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/o19k2w4k2n5k2n5~x2/

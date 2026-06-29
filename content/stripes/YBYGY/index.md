@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burt's Highlanders (Fashion)](/setts/s5/lo40g13lo6db13lo22~x2/)|
-|![Burt's Highlanders (Fashion) example sett](/setts/s5/lo40g13lo6db13lo22~x2/sett.png)|
+| [Burt's Highlanders (Fashion)](/variants/s5/lo40g13lo6db13lo22~x2/)|
+|![Burt's Highlanders (Fashion) example sett](/variants/s5/lo40g13lo6db13lo22~x2/sett.png)|

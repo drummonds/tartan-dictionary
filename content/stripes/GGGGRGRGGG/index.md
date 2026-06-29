@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dewar](/setts/s10/dy1r7dy4g7dy1g1~x4/)|
-|![Dewar example sett](/setts/s10/dy1r7dy4g7dy1g1~x4/sett.png)|
+| [Dewar](/variants/s10/dy1r7dy4g7dy1g1~x4/)|
+|![Dewar example sett](/variants/s10/dy1r7dy4g7dy1g1~x4/sett.png)|

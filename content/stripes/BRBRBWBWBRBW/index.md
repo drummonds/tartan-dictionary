@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chrysanthemum (Japanese Four Seasons)](/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/)|
-|![Chrysanthemum (Japanese Four Seasons) example sett](/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/sett.png)|
+| [Chrysanthemum (Japanese Four Seasons)](/variants/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/)|
+|![Chrysanthemum (Japanese Four Seasons) example sett](/variants/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/sett.png)|

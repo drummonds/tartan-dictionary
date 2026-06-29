@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [East of Scotland Tartan Army](/setts/s6/dt40ly10dt8r20dt100w5/)|
-|![East of Scotland Tartan Army example sett](/setts/s6/dt40ly10dt8r20dt100w5/sett.png)|
+| [East of Scotland Tartan Army](/variants/s6/dt40ly10dt8r20dt100w5/)|
+|![East of Scotland Tartan Army example sett](/variants/s6/dt40ly10dt8r20dt100w5/sett.png)|

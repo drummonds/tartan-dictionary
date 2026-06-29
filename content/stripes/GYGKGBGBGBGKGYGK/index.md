@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oliver Hunting](/setts/s16/t62g5t3g22k3g3ly3g3k6~x2/)|
-|![Oliver Hunting example sett](/setts/s16/t62g5t3g22k3g3ly3g3k6~x2/sett.png)|
+| [Oliver Hunting](/variants/s16/t62g5t3g22k3g3ly3g3k6~x2/)|
+|![Oliver Hunting example sett](/variants/s16/t62g5t3g22k3g3ly3g3k6~x2/sett.png)|

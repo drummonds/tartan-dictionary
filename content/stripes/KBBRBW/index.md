@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shearer (2016)](/setts/s6/k4n4dt32r4t17w2~x2/)|
-|![Shearer (2016) example sett](/setts/s6/k4n4dt32r4t17w2~x2/sett.png)|
+| [Shearer (2016)](/variants/s6/k4n4dt32r4t17w2~x2/)|
+|![Shearer (2016) example sett](/variants/s6/k4n4dt32r4t17w2~x2/sett.png)|

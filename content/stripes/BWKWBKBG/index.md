@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden - 1977 (Fashion)](/setts/s8/db2lb4k2lb1db4k1db1g1~x4/)|
-|![Culloden - 1977 (Fashion) example sett](/setts/s8/db2lb4k2lb1db4k1db1g1~x4/sett.png)|
+| [Culloden - 1977 (Fashion)](/variants/s8/db2lb4k2lb1db4k1db1g1~x4/)|
+|![Culloden - 1977 (Fashion) example sett](/variants/s8/db2lb4k2lb1db4k1db1g1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mina Perhonen](/setts/s7/w4k24ly2n24t5k4ly4~x2/)|
-|![Mina Perhonen example sett](/setts/s7/w4k24ly2n24t5k4ly4~x2/sett.png)|
+| [Mina Perhonen](/variants/s7/w4k24ly2n24t5k4ly4~x2/)|
+|![Mina Perhonen example sett](/variants/s7/w4k24ly2n24t5k4ly4~x2/sett.png)|

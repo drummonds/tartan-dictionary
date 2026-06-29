@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gray, Hamilton John](/setts/s18/dt6r3dt10n14lo6w18lo6n4lo2n4lo6w18lo6n14dt10r3dt6w4~x2/)|
-|![Gray, Hamilton John example sett](/setts/s18/dt6r3dt10n14lo6w18lo6n4lo2n4lo6w18lo6n14dt10r3dt6w4~x2/sett.png)|
+| [Gray, Hamilton John](/variants/s18/dt6r3dt10n14lo6w18lo6n4lo2n4lo6w18lo6n14dt10r3dt6w4~x2/)|
+|![Gray, Hamilton John example sett](/variants/s18/dt6r3dt10n14lo6w18lo6n4lo2n4lo6w18lo6n14dt10r3dt6w4~x2/sett.png)|

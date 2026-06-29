@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lunting Papi (Personal)](/setts/s7/o5r8dp13dgi21dg34dgii55o3/)|
-|![Lunting Papi (Personal) example sett](/setts/s7/o5r8dp13dgi21dg34dgii55o3/sett.png)|
+| [Lunting Papi (Personal)](/variants/s7/o5r8dp13dgi21dg34dgii55o3/)|
+|![Lunting Papi (Personal) example sett](/variants/s7/o5r8dp13dgi21dg34dgii55o3/sett.png)|

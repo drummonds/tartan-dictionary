@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bloomer-Alexander (Personal)](/setts/s4/o16dr21r32w16~x2/)|
-|![Bloomer-Alexander (Personal) example sett](/setts/s4/o16dr21r32w16~x2/sett.png)|
+| [Bloomer-Alexander (Personal)](/variants/s4/o16dr21r32w16~x2/)|
+|![Bloomer-Alexander (Personal) example sett](/variants/s4/o16dr21r32w16~x2/sett.png)|

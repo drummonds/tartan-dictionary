@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clunie (Name)](/setts/s6/w6db24k7o11k2ly6~x2/)|
-|![Clunie (Name) example sett](/setts/s6/w6db24k7o11k2ly6~x2/sett.png)|
-| [Clunie (Personal)](/setts/s6/w12db48k13o22k3ly6/)|
-|![Clunie (Personal) example sett](/setts/s6/w12db48k13o22k3ly6/sett.png)|
+| [Clunie (Name)](/variants/s6/w6db24k7o11k2ly6~x2/)|
+|![Clunie (Name) example sett](/variants/s6/w6db24k7o11k2ly6~x2/sett.png)|
+| [Clunie (Personal)](/variants/s6/w12db48k13o22k3ly6/)|
+|![Clunie (Personal) example sett](/variants/s6/w12db48k13o22k3ly6/sett.png)|

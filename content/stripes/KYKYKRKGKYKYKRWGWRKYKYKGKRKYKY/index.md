@@ -24,5 +24,5 @@ It is a 30 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Goldstraw (Personal)](/setts/s30/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/)|
-|![Goldstraw (Personal) example sett](/setts/s30/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/sett.png)|
+| [Goldstraw (Personal)](/variants/s30/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/)|
+|![Goldstraw (Personal) example sett](/variants/s30/g5w2r8k2lo4k2ly2k7g40k3r10k6lo7k7ly2k2~x2/sett.png)|

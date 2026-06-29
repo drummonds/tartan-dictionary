@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Rome Pipe Band (Corporate)](/setts/s7/r12lo6k88db45k6db6ly6/)|
-|![City of Rome Pipe Band (Corporate) example sett](/setts/s7/r12lo6k88db45k6db6ly6/sett.png)|
+| [City of Rome Pipe Band (Corporate)](/variants/s7/r12lo6k88db45k6db6ly6/)|
+|![City of Rome Pipe Band (Corporate) example sett](/variants/s7/r12lo6k88db45k6db6ly6/sett.png)|

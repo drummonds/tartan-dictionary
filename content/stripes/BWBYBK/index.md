@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Micron](/setts/s6/k30b40ly3b5w2b6~x2/)|
-|![Micron example sett](/setts/s6/k30b40ly3b5w2b6~x2/sett.png)|
+| [Micron](/variants/s6/k30b40ly3b5w2b6~x2/)|
+|![Micron example sett](/variants/s6/k30b40ly3b5w2b6~x2/sett.png)|

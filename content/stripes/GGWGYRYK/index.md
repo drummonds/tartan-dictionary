@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hackett Hunting (Personal)](/setts/s8/k20lo4r4lo20y20lb5y2g2~x2/)|
-|![Hackett Hunting (Personal) example sett](/setts/s8/k20lo4r4lo20y20lb5y2g2~x2/sett.png)|
+| [Hackett Hunting (Personal)](/variants/s8/k20lo4r4lo20y20lb5y2g2~x2/)|
+|![Hackett Hunting (Personal) example sett](/variants/s8/k20lo4r4lo20y20lb5y2g2~x2/sett.png)|

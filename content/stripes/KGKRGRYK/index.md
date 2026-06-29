@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Island of Innis, The](/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/)|
-|![Island of Innis, The example sett](/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/sett.png)|
+| [Island of Innis, The](/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/)|
+|![Island of Innis, The example sett](/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/sett.png)|

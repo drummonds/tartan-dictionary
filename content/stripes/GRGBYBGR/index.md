@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gracie](/setts/s8/g47r3g6db35lo3~x2/)|
-|![Gracie example sett](/setts/s8/g47r3g6db35lo3~x2/sett.png)|
+| [Gracie](/variants/s8/g47r3g6db35lo3~x2/)|
+|![Gracie example sett](/variants/s8/g47r3g6db35lo3~x2/sett.png)|

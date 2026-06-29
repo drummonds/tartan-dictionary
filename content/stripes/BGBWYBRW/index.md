@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Petersburg City (District)](/setts/s8/db60g10db3lb6ly2db9r2w2~x2/)|
-|![St. Petersburg City (District) example sett](/setts/s8/db60g10db3lb6ly2db9r2w2~x2/sett.png)|
+| [St. Petersburg City (District)](/variants/s8/db60g10db3lb6ly2db9r2w2~x2/)|
+|![St. Petersburg City (District) example sett](/variants/s8/db60g10db3lb6ly2db9r2w2~x2/sett.png)|

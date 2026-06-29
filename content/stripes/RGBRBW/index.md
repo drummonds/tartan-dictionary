@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oren Peterson](/setts/s6/m1g2t10r1db15w1~x4/)|
-|![Oren Peterson example sett](/setts/s6/m1g2t10r1db15w1~x4/sett.png)|
+| [Oren Peterson](/variants/s6/m1g2t10r1db15w1~x4/)|
+|![Oren Peterson example sett](/variants/s6/m1g2t10r1db15w1~x4/sett.png)|

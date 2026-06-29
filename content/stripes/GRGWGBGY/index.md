@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Patrick's Krewe](/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/)|
-|![St Patrick's Krewe example sett](/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/sett.png)|
+| [St Patrick's Krewe](/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/)|
+|![St Patrick's Krewe example sett](/variants/s8/dg50r5dg8w10dg8db8dg8lo21~x2/sett.png)|

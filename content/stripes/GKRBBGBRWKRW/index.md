@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vine (2015)](/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/)|
-|![Vine (2015) example sett](/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/sett.png)|
+| [Vine (2015)](/variants/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/)|
+|![Vine (2015) example sett](/variants/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/sett.png)|

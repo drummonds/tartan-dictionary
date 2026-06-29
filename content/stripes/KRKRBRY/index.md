@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cunningham](/setts/s7/k3r1k30r28db1r1lr3~x2/)|
-|![Cunningham example sett](/setts/s7/k3r1k30r28db1r1lr3~x2/sett.png)|
+| [Cunningham](/variants/s7/k3r1k30r28db1r1lr3~x2/)|
+|![Cunningham example sett](/variants/s7/k3r1k30r28db1r1lr3~x2/sett.png)|

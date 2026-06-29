@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wallace Memorial Centenary](/setts/s7/lg2r20g2dt15k2lg19lb2~x2/)|
-|![Wallace Memorial Centenary example sett](/setts/s7/lg2r20g2dt15k2lg19lb2~x2/sett.png)|
+| [Wallace Memorial Centenary](/variants/s7/lg2r20g2dt15k2lg19lb2~x2/)|
+|![Wallace Memorial Centenary example sett](/variants/s7/lg2r20g2dt15k2lg19lb2~x2/sett.png)|

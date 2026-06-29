@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rikaco Vintage](/setts/s8/dt74m9dt4r5dt4m9dt37db9~x2/)|
-|![Rikaco Vintage example sett](/setts/s8/dt74m9dt4r5dt4m9dt37db9~x2/sett.png)|
+| [Rikaco Vintage](/variants/s8/dt74m9dt4r5dt4m9dt37db9~x2/)|
+|![Rikaco Vintage example sett](/variants/s8/dt74m9dt4r5dt4m9dt37db9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jacobite Dress](/setts/s17/r16dy4w6r6w20dy15dg4dyi15w1dy3w1dyi5r6dg4w3db3w3~x2/)|
-|![Jacobite Dress example sett](/setts/s17/r16dy4w6r6w20dy15dg4dyi15w1dy3w1dyi5r6dg4w3db3w3~x2/sett.png)|
+| [Jacobite Dress](/variants/s17/r16dy4w6r6w20dy15dg4dyi15w1dy3w1dyi5r6dg4w3db3w3~x2/)|
+|![Jacobite Dress example sett](/variants/s17/r16dy4w6r6w20dy15dg4dyi15w1dy3w1dyi5r6dg4w3db3w3~x2/sett.png)|

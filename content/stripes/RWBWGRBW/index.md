@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spens](/setts/s8/r56w2db6w2g32r11db6w5/)|
-|![Spens example sett](/setts/s8/r56w2db6w2g32r11db6w5/sett.png)|
+| [Spens](/variants/s8/r56w2db6w2g32r11db6w5/)|
+|![Spens example sett](/variants/s8/r56w2db6w2g32r11db6w5/sett.png)|

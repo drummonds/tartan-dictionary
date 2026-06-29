@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Akashi](/setts/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/)|
-|![Akashi example sett](/setts/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/sett.png)|
+| [Akashi](/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/)|
+|![Akashi example sett](/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/sett.png)|

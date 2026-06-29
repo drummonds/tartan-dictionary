@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Intelligent Finance](/setts/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/)|
-|![Intelligent Finance example sett](/setts/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/sett.png)|
+| [Intelligent Finance](/variants/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/)|
+|![Intelligent Finance example sett](/variants/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/sett.png)|

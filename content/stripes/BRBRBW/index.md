@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Matthews (Personal)](/setts/s6/db3r24db3r3db25w3~x2/)|
-|![Matthews (Personal) example sett](/setts/s6/db3r24db3r3db25w3~x2/sett.png)|
-| [Tokharian](/setts/s6/db1o5db1o5db2w1~x4/)|
-|![Tokharian example sett](/setts/s6/db1o5db1o5db2w1~x4/sett.png)|
+| [Matthews (Personal)](/variants/s6/db3r24db3r3db25w3~x2/)|
+|![Matthews (Personal) example sett](/variants/s6/db3r24db3r3db25w3~x2/sett.png)|
+| [Tokharian](/variants/s6/db1o5db1o5db2w1~x4/)|
+|![Tokharian example sett](/variants/s6/db1o5db1o5db2w1~x4/sett.png)|

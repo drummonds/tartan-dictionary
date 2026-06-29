@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scozia](/setts/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2/)|
-|![Scozia example sett](/setts/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2/sett.png)|
+| [Scozia](/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2/)|
+|![Scozia example sett](/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2/sett.png)|

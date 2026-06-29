@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McAlbourne (Corporate)](/setts/s9/gi4y52dg4g8dg6dgi12gi17y7lo4/)|
-|![McAlbourne (Corporate) example sett](/setts/s9/gi4y52dg4g8dg6dgi12gi17y7lo4/sett.png)|
+| [McAlbourne (Corporate)](/variants/s9/gi4y52dg4g8dg6dgi12gi17y7lo4/)|
+|![McAlbourne (Corporate) example sett](/variants/s9/gi4y52dg4g8dg6dgi12gi17y7lo4/sett.png)|

@@ -1,0 +1,5 @@
+---
+title: "Delaware Fine Spirits Guild"
+redirect: "/variants/s6/k10g25k10lg15w1lg5~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Delaware Fine Spirits Guild](/variants/s6/k10g25k10lg15w1lg5~x2/).

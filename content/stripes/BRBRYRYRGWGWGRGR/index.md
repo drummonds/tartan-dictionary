@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Riley-Utter Union (Personal)](/setts/s16/db12r3db9r4ly1r4ly2r5dy3w5dy6w2dg7r2dg13r7~x2/)|
-|![Riley-Utter Union (Personal) example sett](/setts/s16/db12r3db9r4ly1r4ly2r5dy3w5dy6w2dg7r2dg13r7~x2/sett.png)|
+| [Riley-Utter Union (Personal)](/variants/s16/db12r3db9r4ly1r4ly2r5dy3w5dy6w2dg7r2dg13r7~x2/)|
+|![Riley-Utter Union (Personal) example sett](/variants/s16/db12r3db9r4ly1r4ly2r5dy3w5dy6w2dg7r2dg13r7~x2/sett.png)|

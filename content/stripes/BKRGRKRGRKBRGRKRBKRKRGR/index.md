@@ -24,7 +24,7 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Comyn / Cumming, Buchan](/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/)|
-|![Comyn / Cumming, Buchan example sett](/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/sett.png)|
-| [Cumming/Comyn/Buchan](/setts/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/)|
-|![Cumming/Comyn/Buchan example sett](/setts/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/sett.png)|
+| [Comyn / Cumming, Buchan](/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/)|
+|![Comyn / Cumming, Buchan example sett](/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/sett.png)|
+| [Cumming/Comyn/Buchan](/variants/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/)|
+|![Cumming/Comyn/Buchan example sett](/variants/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/sett.png)|

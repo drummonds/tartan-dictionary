@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saltcoats (Saskatchewan) (District?)](/setts/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/)|
-|![Saltcoats (Saskatchewan) (District?) example sett](/setts/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/sett.png)|
+| [Saltcoats (Saskatchewan) (District?)](/variants/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/)|
+|![Saltcoats (Saskatchewan) (District?) example sett](/variants/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/sett.png)|

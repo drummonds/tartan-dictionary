@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mary Stuart (Fashion?](/setts/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/)|
-|![Mary Stuart (Fashion? example sett](/setts/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/sett.png)|
+| [Mary Stuart (Fashion?](/variants/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/)|
+|![Mary Stuart (Fashion? example sett](/variants/s17/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4~x4/sett.png)|

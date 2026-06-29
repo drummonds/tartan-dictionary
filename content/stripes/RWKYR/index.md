@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burberry Counterfeit](/setts/s5/o3w3k3lo10r1~x6/)|
-|![Burberry Counterfeit example sett](/setts/s5/o3w3k3lo10r1~x6/sett.png)|
+| [Burberry Counterfeit](/variants/s5/o3w3k3lo10r1~x6/)|
+|![Burberry Counterfeit example sett](/variants/s5/o3w3k3lo10r1~x6/sett.png)|

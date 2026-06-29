@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Doyle](/setts/s7/g24r9g4dg19ly2dg6g7~x2/)|
-|![Doyle example sett](/setts/s7/g24r9g4dg19ly2dg6g7~x2/sett.png)|
+| [Doyle](/variants/s7/g24r9g4dg19ly2dg6g7~x2/)|
+|![Doyle example sett](/variants/s7/g24r9g4dg19ly2dg6g7~x2/sett.png)|

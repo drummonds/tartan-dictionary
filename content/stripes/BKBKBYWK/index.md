@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Southern Lakes](/setts/s8/t32k2t4k2t8lo29w2k2/)|
-|![Southern Lakes example sett](/setts/s8/t32k2t4k2t8lo29w2k2/sett.png)|
+| [Southern Lakes](/variants/s8/t32k2t4k2t8lo29w2k2/)|
+|![Southern Lakes example sett](/variants/s8/t32k2t4k2t8lo29w2k2/sett.png)|

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacIntosh, Ancient](/setts/s20/r5y1r2g4r3g2r2y5r5g1r1g2r1g1r1g4r1g1r1g2~x2/)|
-|![MacIntosh, Ancient example sett](/setts/s20/r5y1r2g4r3g2r2y5r5g1r1g2r1g1r1g4r1g1r1g2~x2/sett.png)|
+| [MacIntosh, Ancient](/variants/s20/r5y1r2g4r3g2r2y5r5g1r1g2r1g1r1g4r1g1r1g2~x2/)|
+|![MacIntosh, Ancient example sett](/variants/s20/r5y1r2g4r3g2r2y5r5g1r1g2r1g1r1g4r1g1r1g2~x2/sett.png)|

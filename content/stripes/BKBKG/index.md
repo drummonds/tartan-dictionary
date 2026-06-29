@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell of Glenlyon](/tartans/g7k6b7k1b2/)|
-|![Campbell of Glenlyon example sett](/setts/s5/g7k6b7k1b2~x2/sett.png)|
-| [Campbell of Glenlyon](/setts/s5/g7k6db7k1db2~x2/)|
-|![Campbell of Glenlyon example sett](/setts/s5/g7k6db7k1db2~x2/sett.png)|
+| [Campbell of Glenlyon](/setts/g7k6b7k1b2/)|
+|![Campbell of Glenlyon example sett](/variants/s5/g7k6b7k1b2~x2/sett.png)|
+| [Campbell of Glenlyon](/variants/s5/g7k6db7k1db2~x2/)|
+|![Campbell of Glenlyon example sett](/variants/s5/g7k6db7k1db2~x2/sett.png)|

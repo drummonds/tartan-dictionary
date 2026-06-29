@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ataç, H.M. & I.C. (Personal)](/setts/s8/db9g5w1g15k2g1k44r1~x2/)|
-|![Ataç, H.M. & I.C. (Personal) example sett](/setts/s8/db9g5w1g15k2g1k44r1~x2/sett.png)|
+| [Ataç, H.M. & I.C. (Personal)](/variants/s8/db9g5w1g15k2g1k44r1~x2/)|
+|![Ataç, H.M. & I.C. (Personal) example sett](/variants/s8/db9g5w1g15k2g1k44r1~x2/sett.png)|

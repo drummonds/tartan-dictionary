@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Quigley of Knockcroghery (Hunting) (Personal)](/setts/s11/t27w2t15lyi1t1lyi1t15k2w2ly16r1~x2/)|
-|![Quigley of Knockcroghery (Hunting) (Personal) example sett](/setts/s11/t27w2t15lyi1t1lyi1t15k2w2ly16r1~x2/sett.png)|
+| [Quigley of Knockcroghery (Hunting) (Personal)](/variants/s11/t27w2t15lyi1t1lyi1t15k2w2ly16r1~x2/)|
+|![Quigley of Knockcroghery (Hunting) (Personal) example sett](/variants/s11/t27w2t15lyi1t1lyi1t15k2w2ly16r1~x2/sett.png)|

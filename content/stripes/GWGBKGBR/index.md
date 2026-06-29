@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFrog (Personal)](/setts/s8/r3db20g3k20db3g20w3g3~x2/)|
-|![MacFrog (Personal) example sett](/setts/s8/r3db20g3k20db3g20w3g3~x2/sett.png)|
+| [MacFrog (Personal)](/variants/s8/r3db20g3k20db3g20w3g3~x2/)|
+|![MacFrog (Personal) example sett](/variants/s8/r3db20g3k20db3g20w3g3~x2/sett.png)|

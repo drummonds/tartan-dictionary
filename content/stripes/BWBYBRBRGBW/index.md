@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sons of Scotland (Corporate)](/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/)|
-|![Sons of Scotland (Corporate) example sett](/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/sett.png)|
+| [Sons of Scotland (Corporate)](/variants/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/)|
+|![Sons of Scotland (Corporate) example sett](/variants/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/sett.png)|

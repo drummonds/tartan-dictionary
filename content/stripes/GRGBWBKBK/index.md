@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cailleach](/setts/s9/k30db20k10db5w2db10g20r2g10/)|
-|![Cailleach example sett](/setts/s9/k30db20k10db5w2db10g20r2g10/sett.png)|
-| [Cailleach (Fashion)](/setts/s9/k30n20k10n5w2n10g20r2g10/)|
-|![Cailleach (Fashion) example sett](/setts/s9/k30n20k10n5w2n10g20r2g10/sett.png)|
+| [Cailleach](/variants/s9/k30db20k10db5w2db10g20r2g10/)|
+|![Cailleach example sett](/variants/s9/k30db20k10db5w2db10g20r2g10/sett.png)|
+| [Cailleach (Fashion)](/variants/s9/k30n20k10n5w2n10g20r2g10/)|
+|![Cailleach (Fashion) example sett](/variants/s9/k30n20k10n5w2n10g20r2g10/sett.png)|

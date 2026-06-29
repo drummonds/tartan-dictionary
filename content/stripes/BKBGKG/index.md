@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Innes](/tartans/g7k1g7t1k6t1/)|
-|![Innes example sett](/setts/s6/g7k1g7t1k6t1~x2/sett.png)|
+| [Innes](/setts/g7k1g7t1k6t1/)|
+|![Innes example sett](/variants/s6/g7k1g7t1k6t1~x2/sett.png)|

@@ -24,11 +24,11 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hogarth of Firhill](/setts/s7/t2g6ly1k6db6k1db1~x2/)|
-|![Hogarth of Firhill example sett](/setts/s7/t2g6ly1k6db6k1db1~x2/sett.png)|
-| [Hogarth of Firhill #2](/setts/s7/b2dg6ly1k6db6k1db1~x2/)|
-|![Hogarth of Firhill #2 example sett](/setts/s7/b2dg6ly1k6db6k1db1~x2/sett.png)|
-| [Hogarth of Firhill (Clan)](/setts/s7/t4g14ly2k14db14k2db3~x2/)|
-|![Hogarth of Firhill (Clan) example sett](/setts/s7/t4g14ly2k14db14k2db3~x2/sett.png)|
-| [Hogarth, of Firhill](/setts/s7/b2g6ly1k6db6k1db1~x2/)|
-|![Hogarth, of Firhill example sett](/setts/s7/b2g6ly1k6db6k1db1~x2/sett.png)|
+| [Hogarth of Firhill](/variants/s7/t2g6ly1k6db6k1db1~x2/)|
+|![Hogarth of Firhill example sett](/variants/s7/t2g6ly1k6db6k1db1~x2/sett.png)|
+| [Hogarth of Firhill #2](/variants/s7/b2dg6ly1k6db6k1db1~x2/)|
+|![Hogarth of Firhill #2 example sett](/variants/s7/b2dg6ly1k6db6k1db1~x2/sett.png)|
+| [Hogarth of Firhill (Clan)](/variants/s7/t4g14ly2k14db14k2db3~x2/)|
+|![Hogarth of Firhill (Clan) example sett](/variants/s7/t4g14ly2k14db14k2db3~x2/sett.png)|
+| [Hogarth, of Firhill](/variants/s7/b2g6ly1k6db6k1db1~x2/)|
+|![Hogarth, of Firhill example sett](/variants/s7/b2g6ly1k6db6k1db1~x2/sett.png)|

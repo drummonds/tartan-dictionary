@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [James of Wales](/setts/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/)|
-|![James of Wales example sett](/setts/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/sett.png)|
+| [James of Wales](/variants/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/)|
+|![James of Wales example sett](/variants/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/sett.png)|

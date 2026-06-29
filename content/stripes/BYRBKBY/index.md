@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Gigha (District)](/setts/s7/lo2db4k1db4m4lo4db1~x8/)|
-|![Isle of Gigha (District) example sett](/setts/s7/lo2db4k1db4m4lo4db1~x8/sett.png)|
+| [Isle of Gigha (District)](/variants/s7/lo2db4k1db4m4lo4db1~x8/)|
+|![Isle of Gigha (District) example sett](/variants/s7/lo2db4k1db4m4lo4db1~x8/sett.png)|

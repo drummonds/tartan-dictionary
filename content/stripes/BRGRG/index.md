@@ -24,11 +24,11 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bethlehem, City of](/setts/s5/dg3r1dg9o10db3~x4/)|
-|![Bethlehem, City of example sett](/setts/s5/dg3r1dg9o10db3~x4/sett.png)|
-| [Bethlehem, City of (District)](/setts/s5/db3o10g9r1g3~x4/)|
-|![Bethlehem, City of (District) example sett](/setts/s5/db3o10g9r1g3~x4/sett.png)|
-| [Jardine #2](/setts/s5/dy9o9y9r1t1~x4/)|
-|![Jardine #2 example sett](/setts/s5/dy9o9y9r1t1~x4/sett.png)|
-| [Mowbray, (Moubray)](/setts/s5/y16r2y10r15t5~x2/)|
-|![Mowbray, (Moubray) example sett](/setts/s5/y16r2y10r15t5~x2/sett.png)|
+| [Bethlehem, City of](/variants/s5/dg3r1dg9o10db3~x4/)|
+|![Bethlehem, City of example sett](/variants/s5/dg3r1dg9o10db3~x4/sett.png)|
+| [Bethlehem, City of (District)](/variants/s5/db3o10g9r1g3~x4/)|
+|![Bethlehem, City of (District) example sett](/variants/s5/db3o10g9r1g3~x4/sett.png)|
+| [Jardine #2](/variants/s5/dy9o9y9r1t1~x4/)|
+|![Jardine #2 example sett](/variants/s5/dy9o9y9r1t1~x4/sett.png)|
+| [Mowbray, (Moubray)](/variants/s5/y16r2y10r15t5~x2/)|
+|![Mowbray, (Moubray) example sett](/variants/s5/y16r2y10r15t5~x2/sett.png)|

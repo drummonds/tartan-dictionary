@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser Green](/setts/s6/lb2dr12g6dr1n6dr1~x4/)|
-|![Fraser Green example sett](/setts/s6/lb2dr12g6dr1n6dr1~x4/sett.png)|
+| [Fraser Green](/variants/s6/lb2dr12g6dr1n6dr1~x4/)|
+|![Fraser Green example sett](/variants/s6/lb2dr12g6dr1n6dr1~x4/sett.png)|

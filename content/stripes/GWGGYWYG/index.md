@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longniddry Green Error (Dance)](/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/)|
-|![Longniddry Green Error (Dance) example sett](/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/sett.png)|
+| [Longniddry Green Error (Dance)](/variants/s8/g42ly1w2ly1g5dg12w32g4~x2/)|
+|![Longniddry Green Error (Dance) example sett](/variants/s8/g42ly1w2ly1g5dg12w32g4~x2/sett.png)|

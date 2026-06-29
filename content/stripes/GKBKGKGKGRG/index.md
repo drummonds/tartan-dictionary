@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louise](/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/)|
-|![Louise example sett](/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/sett.png)|
+| [Louise](/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/)|
+|![Louise example sett](/variants/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/sett.png)|

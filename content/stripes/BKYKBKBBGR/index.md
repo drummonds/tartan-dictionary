@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Six Frigates (US)](/setts/s10/t3k1lo2k1db10k17db2t1dy1r1~x2/)|
-|![Six Frigates (US) example sett](/setts/s10/t3k1lo2k1db10k17db2t1dy1r1~x2/sett.png)|
+| [Six Frigates (US)](/variants/s10/t3k1lo2k1db10k17db2t1dy1r1~x2/)|
+|![Six Frigates (US) example sett](/variants/s10/t3k1lo2k1db10k17db2t1dy1r1~x2/sett.png)|

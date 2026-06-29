@@ -2,11 +2,17 @@
 title: "Lochcarron of Scotland"
 date: 2023-03-18
 ---
-A family of [Clan Lochcarron](/clan/lochcarron/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Scotland”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Scotland&viewmode=grid)
 
 ## Tartan
 
-<a class="tartan" href="/setts/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/"><img src="/setts/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/sett.png" alt="Lochcarron of Scotland" width="240"><br>Lochcarron of Scotland</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1/">Lochcarron of Scotland</a> ★</td><td><code>DB/8 Gi24 DP4 Gi4 DP4 Gi4 DB8 K8 DB4 K8 DB36 G4 DB8 G/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1/"><img src="/variants/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/sett.png" alt="Lochcarron of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

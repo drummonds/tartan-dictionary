@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Langhein Family Tartan Tartan Number: 3235. Earliest known date: April 2002 Based on Black Watch Sett See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k40dg15k10r2k10ly2k10~x2/)|
-|![Langhein Family Tartan Tartan Number: 3235. Earliest known date: April 2002 Based on Black Watch Sett See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/k40dg15k10r2k10ly2k10~x2/sett.png)|
-| [Langhein, Alex (Personal)](/setts/s7/k40dg15k10r2k10lo2k10~x2/)|
-|![Langhein, Alex (Personal) example sett](/setts/s7/k40dg15k10r2k10lo2k10~x2/sett.png)|
+| [Langhein Family Tartan](/variants/s7/k40dg15k10r2k10ly2k10~x2/)|
+|![Langhein Family Tartan example sett](/variants/s7/k40dg15k10r2k10ly2k10~x2/sett.png)|
+| [Langhein, Alex (Personal)](/variants/s7/k40dg15k10r2k10lo2k10~x2/)|
+|![Langhein, Alex (Personal) example sett](/variants/s7/k40dg15k10r2k10lo2k10~x2/sett.png)|

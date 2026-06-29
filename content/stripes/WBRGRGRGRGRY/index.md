@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/)|
-|![Bruce County example sett](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/sett.png)|
-| [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/)|
-|![Bruce County example sett](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/sett.png)|
+| [Bruce County](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/)|
+|![Bruce County example sett](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/sett.png)|
+| [Bruce County](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/)|
+|![Bruce County example sett](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/sett.png)|

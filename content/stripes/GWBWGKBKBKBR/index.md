@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch House (Dalgliesh)](/setts/s12/dg4lb3db3lb3dg12k6db4k3db4k3db12r3~x2/)|
-|![Scotch House (Dalgliesh) example sett](/setts/s12/dg4lb3db3lb3dg12k6db4k3db4k3db12r3~x2/sett.png)|
+| [Scotch House (Dalgliesh)](/variants/s12/dg4lb3db3lb3dg12k6db4k3db4k3db12r3~x2/)|
+|![Scotch House (Dalgliesh) example sett](/variants/s12/dg4lb3db3lb3dg12k6db4k3db4k3db12r3~x2/sett.png)|

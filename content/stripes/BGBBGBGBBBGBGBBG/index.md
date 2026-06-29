@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Alba](/setts/s16/t4dbi19g1db2g2db18dp24g1dbi2~x2/)|
-|![Spirit of Alba example sett](/setts/s16/t4dbi19g1db2g2db18dp24g1dbi2~x2/sett.png)|
+| [Spirit of Alba](/variants/s16/t4dbi19g1db2g2db18dp24g1dbi2~x2/)|
+|![Spirit of Alba example sett](/variants/s16/t4dbi19g1db2g2db18dp24g1dbi2~x2/sett.png)|

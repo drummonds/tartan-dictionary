@@ -1,0 +1,55 @@
+---
+title: "Pople (Name)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1r9n8y8w1/)
+(the same proportion at any scale), whose colour order is pattern [KRBGW](/stripes/krbgw/).
+
+Part of the [Pople](/tartans/pople/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3247/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3247
+
+## Thread count
+K/2 DR18 N16 Na16 LN/2
+
+One full sett is **104 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(4 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> <small style="color:#888">#880000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.4% 0.162 29.2)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> <small style="color:#888">#5C5C5C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.5% 0.000 89.9)</small></td></tr><tr><td>Na</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> <small style="color:#888">#808080</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.0% 0.000 89.9)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/2 DR18 N16 Na16 LN/2 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/k10r9n8y8w1/"><img src="/variants/s5/k10r9n8y8w1/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/k10r9n8y8w1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k1r9n8y8w1~x2">Pople (Name)</a> <a class="nn-out" href="/variants/s5/k1r9n8y8w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k1r9n8y8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=db15n20do12r34lb3~x2&amp;base=k1r9n8y8w1~x2">McCurdy-Stribbling (Personal)</a> <a class="nn-out" href="/variants/s5/db15n20do12r34lb3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db15n20do12r34lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=n7r1dt6r8lr1~x8&amp;base=k1r9n8y8w1~x2">Callum (Buchan) (Name)</a> <a class="nn-out" href="/variants/s5/n7r1dt6r8lr1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n7r1dt6r8lr1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.33</div><div class="nn-name"><a href="/ttd/edit/#slug=dy9o9y9r1t1~x4&amp;base=k1r9n8y8w1~x2">Jardine #2</a> <a class="nn-out" href="/variants/s5/dy9o9y9r1t1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dy9o9y9r1t1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.37</div><div class="nn-name"><a href="/variants/s6/r4ni3n12db8ni2r4/">Bristol Gramar School Check (School)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4ni3n12db8ni2r4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=y15k10n30o11w3y5~x2&amp;base=k1r9n8y8w1~x2">McHale (Personal)</a> <a class="nn-out" href="/variants/s6/y15k10n30o11w3y5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y15k10n30o11w3y5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/ttd/edit/#slug=dg25db4r24db21dy25db4dg3~x2&amp;base=k1r9n8y8w1~x2">Orban-Prentice (Personal)</a> <a class="nn-out" href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg25db4r24db21dy25db4dg3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/ttd/edit/#slug=r1n12k6ly1do10r1~x4&amp;base=k1r9n8y8w1~x2">Andover (Fashion)</a> <a class="nn-out" href="/variants/s6/r1n12k6ly1do10r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1n12k6ly1do10r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.47</div><div class="nn-name"><a href="/ttd/edit/#slug=db15t20k12o34y3~x2&amp;base=k1r9n8y8w1~x2">McCurdy-Stribbling (Personal)</a> <a class="nn-out" href="/variants/s5/db15t20k12o34y3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db15t20k12o34y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/ttd/edit/#slug=db30ly3o11ly3y33r6~x2&amp;base=k1r9n8y8w1~x2">Balfour</a> <a class="nn-out" href="/variants/s6/db30ly3o11ly3y33r6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db30ly3o11ly3y33r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.53</div><div class="nn-name"><a href="/ttd/edit/#slug=t24r27g20lo6g20r2w3~x2&amp;base=k1r9n8y8w1~x2">Buchanhaven Heritage</a> <a class="nn-out" href="/variants/s7/t24r27g20lo6g20r2w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/t24r27g20lo6g20r2w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db15n20do12r34lb3~x2/"><circle cx="206.0" cy="223.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s5/n7r1dt6r8lr1~x8/"><circle cx="258.2" cy="263.9" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s5/dy9o9y9r1t1~x4/"><circle cx="162.3" cy="222.3" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/variants/s6/r4ni3n12db8ni2r4/"><circle cx="197.3" cy="266.6" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/variants/s6/y15k10n30o11w3y5~x2/"><circle cx="200.4" cy="218.8" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/"><circle cx="170.3" cy="245.0" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><circle cx="241.5" cy="208.7" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/variants/s5/db15t20k12o34y3~x2/"><circle cx="231.5" cy="249.0" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s6/db30ly3o11ly3y33r6~x2/"><circle cx="228.9" cy="204.8" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/t24r27g20lo6g20r2w3~x2/"><circle cx="225.2" cy="209.0" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><circle cx="200.7" cy="237.5" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s5/k1r9n8y8w1~x2/

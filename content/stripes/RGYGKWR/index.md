@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson the Astronomer](/setts/s7/r48w3k3g2ly6g2r6~x4/)|
-|![Ferguson the Astronomer example sett](/setts/s7/r48w3k3g2ly6g2r6~x4/sett.png)|
+| [Ferguson the Astronomer](/variants/s7/r48w3k3g2ly6g2r6~x4/)|
+|![Ferguson the Astronomer example sett](/variants/s7/r48w3k3g2ly6g2r6~x4/sett.png)|

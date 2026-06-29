@@ -24,11 +24,11 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kildonan Brown (Fashion)](/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/)|
-|![Kildonan Brown (Fashion) example sett](/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/sett.png)|
-| [Lindsay Dress](/setts/s9/dg33db4dg4db4dg4db12w33db3w6~x2/)|
-|![Lindsay Dress example sett](/setts/s9/dg33db4dg4db4dg4db12w33db3w6~x2/sett.png)|
-| [Lindsay Dress, Green (Dance)](/setts/s9/g33n4g4n4g4n12w33n3w6~x2/)|
-|![Lindsay Dress, Green (Dance) example sett](/setts/s9/g33n4g4n4g4n12w33n3w6~x2/sett.png)|
-| [Lindsay, dress](/setts/s9/g33db4g4db4g4db12w33db3w6~x2/)|
-|![Lindsay, dress example sett](/setts/s9/g33db4g4db4g4db12w33db3w6~x2/sett.png)|
+| [Kildonan Brown (Fashion)](/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/)|
+|![Kildonan Brown (Fashion) example sett](/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/sett.png)|
+| [Lindsay Dress](/variants/s9/dg33db4dg4db4dg4db12w33db3w6~x2/)|
+|![Lindsay Dress example sett](/variants/s9/dg33db4dg4db4dg4db12w33db3w6~x2/sett.png)|
+| [Lindsay Dress, Green (Dance)](/variants/s9/g33n4g4n4g4n12w33n3w6~x2/)|
+|![Lindsay Dress, Green (Dance) example sett](/variants/s9/g33n4g4n4g4n12w33n3w6~x2/sett.png)|
+| [Lindsay, dress](/variants/s9/g33db4g4db4g4db12w33db3w6~x2/)|
+|![Lindsay, dress example sett](/variants/s9/g33db4g4db4g4db12w33db3w6~x2/sett.png)|

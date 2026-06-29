@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Brewing Company](/setts/s8/k42t2r3k5r16k8ly2k3~x2/)|
-|![Highland Brewing Company example sett](/setts/s8/k42t2r3k5r16k8ly2k3~x2/sett.png)|
-| [Highland Brewing Company (USA)](/setts/s8/k42t2r3k5r16k8lo2k3~x2/)|
-|![Highland Brewing Company (USA) example sett](/setts/s8/k42t2r3k5r16k8lo2k3~x2/sett.png)|
+| [Highland Brewing Company](/variants/s8/k42t2r3k5r16k8ly2k3~x2/)|
+|![Highland Brewing Company example sett](/variants/s8/k42t2r3k5r16k8ly2k3~x2/sett.png)|
+| [Highland Brewing Company (USA)](/variants/s8/k42t2r3k5r16k8lo2k3~x2/)|
+|![Highland Brewing Company (USA) example sett](/variants/s8/k42t2r3k5r16k8lo2k3~x2/sett.png)|

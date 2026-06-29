@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hunter Graham](/setts/s9/k10dg9w2dg9k10r1db8dp12k3~x2/)|
-|![Hunter Graham example sett](/setts/s9/k10dg9w2dg9k10r1db8dp12k3~x2/sett.png)|
+| [Hunter Graham](/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/)|
+|![Hunter Graham example sett](/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/sett.png)|

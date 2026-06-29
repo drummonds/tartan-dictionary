@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Menzies Dress Tartan Tartan Number: 12444. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w6k1w2k4w4k2w4k15r1~x2/)|
-|![Menzies Dress Tartan Tartan Number: 12444. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/w6k1w2k4w4k2w4k15r1~x2/sett.png)|
+| [Menzies Dress Tartan](/variants/s9/w6k1w2k4w4k2w4k15r1~x2/)|
+|![Menzies Dress Tartan example sett](/variants/s9/w6k1w2k4w4k2w4k15r1~x2/sett.png)|

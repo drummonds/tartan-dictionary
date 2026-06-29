@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Wedding](/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/)|
-|![National Wedding example sett](/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/sett.png)|
+| [National Wedding](/variants/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/)|
+|![National Wedding example sett](/variants/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/sett.png)|

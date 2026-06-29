@@ -24,11 +24,11 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hamilton](/setts/s5/db6r1db6r9lb1~x2/)|
-|![Hamilton example sett](/setts/s5/db6r1db6r9lb1~x2/sett.png)|
-| [Hamilton (Clan)](/setts/s5/db8r2db8r15w2~x4/)|
-|![Hamilton (Clan) example sett](/setts/s5/db8r2db8r15w2~x4/sett.png)|
-| [Hamilton, (Red)](/tartans/db6r1db6r9w1/)|
-|![Hamilton, (Red) example sett](/setts/s5/db6r1db6r9w1~x2/sett.png)|
-| [U.S. Coast Guard (Corporate)](/setts/s5/db6r1db6r5w5~x4/)|
-|![U.S. Coast Guard (Corporate) example sett](/setts/s5/db6r1db6r5w5~x4/sett.png)|
+| [Hamilton](/variants/s5/db6r1db6r9lb1~x2/)|
+|![Hamilton example sett](/variants/s5/db6r1db6r9lb1~x2/sett.png)|
+| [Hamilton (Clan)](/variants/s5/db8r2db8r15w2~x4/)|
+|![Hamilton (Clan) example sett](/variants/s5/db8r2db8r15w2~x4/sett.png)|
+| [Hamilton, (Red)](/setts/db6r1db6r9w1/)|
+|![Hamilton, (Red) example sett](/variants/s5/db6r1db6r9w1~x2/sett.png)|
+| [U.S. Coast Guard (Corporate)](/variants/s5/db6r1db6r5w5~x4/)|
+|![U.S. Coast Guard (Corporate) example sett](/variants/s5/db6r1db6r5w5~x4/sett.png)|

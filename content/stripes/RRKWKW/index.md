@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thom(p)son camel](/setts/s6/r4o30k6w13k13w3~x2/)|
-|![Thom(p)son camel example sett](/setts/s6/r4o30k6w13k13w3~x2/sett.png)|
-| [Tiree Grey](/setts/s6/lb3k3lb3k3o15r1~x4/)|
-|![Tiree Grey example sett](/setts/s6/lb3k3lb3k3o15r1~x4/sett.png)|
+| [Thom(p)son camel](/variants/s6/r4o30k6w13k13w3~x2/)|
+|![Thom(p)son camel example sett](/variants/s6/r4o30k6w13k13w3~x2/sett.png)|
+| [Tiree Grey](/variants/s6/lb3k3lb3k3o15r1~x4/)|
+|![Tiree Grey example sett](/variants/s6/lb3k3lb3k3o15r1~x4/sett.png)|

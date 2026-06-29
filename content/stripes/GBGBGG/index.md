@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keeper of the Quaich](/setts/s6/dy3db3dy3db27dy40y3/)|
-|![Keeper of the Quaich example sett](/setts/s6/dy3db3dy3db27dy40y3/sett.png)|
+| [Keeper of the Quaich](/variants/s6/dy3db3dy3db27dy40y3/)|
+|![Keeper of the Quaich example sett](/variants/s6/dy3db3dy3db27dy40y3/sett.png)|

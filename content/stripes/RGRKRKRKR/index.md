@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Knockando Woolmill](/setts/s9/oii16k1oi7k1oi7k1oii7dy24o4~x2/)|
-|![Knockando Woolmill example sett](/setts/s9/oii16k1oi7k1oi7k1oii7dy24o4~x2/sett.png)|
+| [Knockando Woolmill](/variants/s9/oii16k1oi7k1oi7k1oii7dy24o4~x2/)|
+|![Knockando Woolmill example sett](/variants/s9/oii16k1oi7k1oi7k1oii7dy24o4~x2/sett.png)|

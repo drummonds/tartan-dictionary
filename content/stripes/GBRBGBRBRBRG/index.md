@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Frame (Ferniegair) (Personal)](/setts/s12/dg4do14r1do1dg1do1r1do14r14do1r1dg1~x4/)|
-|![Frame (Ferniegair) (Personal) example sett](/setts/s12/dg4do14r1do1dg1do1r1do14r14do1r1dg1~x4/sett.png)|
+| [Frame (Ferniegair) (Personal)](/variants/s12/dg4do14r1do1dg1do1r1do14r14do1r1dg1~x4/)|
+|![Frame (Ferniegair) (Personal) example sett](/variants/s12/dg4do14r1do1dg1do1r1do14r14do1r1dg1~x4/sett.png)|

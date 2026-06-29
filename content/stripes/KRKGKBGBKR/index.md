@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Process Safety Solutions Ltd](/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/)|
-|![Process Safety Solutions Ltd example sett](/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/sett.png)|
+| [Process Safety Solutions Ltd](/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/)|
+|![Process Safety Solutions Ltd example sett](/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/sett.png)|

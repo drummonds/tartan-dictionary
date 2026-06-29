@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Army Benevolent Fund (Corporate)](/setts/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2/)|
-|![Army Benevolent Fund (Corporate) example sett](/setts/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2/sett.png)|
+| [Army Benevolent Fund (Corporate)](/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2/)|
+|![Army Benevolent Fund (Corporate) example sett](/variants/s12/dbi25g29db24r2g11r2db24g29dbi25dy4dbi5r4~x2/sett.png)|

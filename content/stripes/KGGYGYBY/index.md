@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [California Highway Patrol (Corporate](/setts/s8/k3y3dy28lo3dy3lo28db3ly2~x2/)|
-|![California Highway Patrol (Corporate example sett](/setts/s8/k3y3dy28lo3dy3lo28db3ly2~x2/sett.png)|
+| [California Highway Patrol (Corporate](/variants/s8/k3y3dy28lo3dy3lo28db3ly2~x2/)|
+|![California Highway Patrol (Corporate example sett](/variants/s8/k3y3dy28lo3dy3lo28db3ly2~x2/sett.png)|

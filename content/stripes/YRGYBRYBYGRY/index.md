@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hallowfield Wood](/setts/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/)|
-|![Hallowfield Wood example sett](/setts/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/sett.png)|
+| [Hallowfield Wood](/variants/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/)|
+|![Hallowfield Wood example sett](/variants/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/sett.png)|

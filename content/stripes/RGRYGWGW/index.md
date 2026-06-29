@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sutherland de Albergaria Dress (Personal)](/setts/s8/w5dg1w1dg33ly3r24dg3r4~x2/)|
-|![Sutherland de Albergaria Dress (Personal) example sett](/setts/s8/w5dg1w1dg33ly3r24dg3r4~x2/sett.png)|
+| [Sutherland de Albergaria Dress (Personal)](/variants/s8/w5dg1w1dg33ly3r24dg3r4~x2/)|
+|![Sutherland de Albergaria Dress (Personal) example sett](/variants/s8/w5dg1w1dg33ly3r24dg3r4~x2/sett.png)|

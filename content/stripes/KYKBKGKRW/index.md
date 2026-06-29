@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCuaig (2010) (Name)](/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/)|
-|![McCuaig (2010) (Name) example sett](/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/sett.png)|
-| [McCuaig (Glenelg and the Western Isles)](/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/)|
-|![McCuaig (Glenelg and the Western Isles) example sett](/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/sett.png)|
+| [McCuaig (2010) (Name)](/variants/s9/k10ly3k2b20k10g15k2r3w3~x2/)|
+|![McCuaig (2010) (Name) example sett](/variants/s9/k10ly3k2b20k10g15k2r3w3~x2/sett.png)|
+| [McCuaig (Glenelg and the Western Isles)](/variants/s9/k10ly3k2db20k10g15k2r3w3~x2/)|
+|![McCuaig (Glenelg and the Western Isles) example sett](/variants/s9/k10ly3k2db20k10g15k2r3w3~x2/sett.png)|

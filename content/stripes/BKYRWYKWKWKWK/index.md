@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Western Australia (Scottish Associations)](/setts/s13/k114lt2k3lt3k5lt5k2lg5w6r5ly3k3db14/)|
-|![Western Australia (Scottish Associations) example sett](/setts/s13/k114lt2k3lt3k5lt5k2lg5w6r5ly3k3db14/sett.png)|
+| [Western Australia (Scottish Associations)](/variants/s13/k114lt2k3lt3k5lt5k2lg5w6r5ly3k3db14/)|
+|![Western Australia (Scottish Associations) example sett](/variants/s13/k114lt2k3lt3k5lt5k2lg5w6r5ly3k3db14/sett.png)|

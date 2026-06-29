@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Air Force](/setts/s11/w4db8m3db25k13g4t29db3t8db2m3~x2/)|
-|![Air Force example sett](/setts/s11/w4db8m3db25k13g4t29db3t8db2m3~x2/sett.png)|
+| [Air Force](/variants/s11/w4db8m3db25k13g4t29db3t8db2m3~x2/)|
+|![Air Force example sett](/variants/s11/w4db8m3db25k13g4t29db3t8db2m3~x2/sett.png)|

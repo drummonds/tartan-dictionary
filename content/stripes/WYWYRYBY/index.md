@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weaving for Life](/setts/s8/lr24n2lr6m3lr6w6lr6w6~x2/)|
-|![Weaving for Life example sett](/setts/s8/lr24n2lr6m3lr6w6lr6w6~x2/sett.png)|
+| [Weaving for Life](/variants/s8/lr24n2lr6m3lr6w6lr6w6~x2/)|
+|![Weaving for Life example sett](/variants/s8/lr24n2lr6m3lr6w6lr6w6~x2/sett.png)|

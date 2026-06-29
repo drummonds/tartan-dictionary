@@ -8,11 +8,15 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/w3db5t2db9dp10k2dp5k2dg8g29w2~x2/"><img src="/setts/s11/w3db5t2db9dp10k2dp5k2dg8g29w2~x2/sett.png" alt="Carnegie of Skibo" width="240"><br>Carnegie of Skibo</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/w3db5t2db9dp10k2dp5k2dg8g29w2/">Carnegie of Skibo</a> ★</td><td><code>W/6 DB10 T4 DB18 DP20 K4 DP10 K4 DG16 G58 W/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/w3db5t2db9dp10k2dp5k2dg8g29w2/"><img src="/variants/s11/w3db5t2db9dp10k2dp5k2dg8g29w2~x2/sett.png" alt="Carnegie of Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/w3db5lt2db9dp10k2dp5k5dg9g31w2/">Corporate Tartan</a></td><td><code>W/6 DB10 LT4 DB18 DP20 K4 DP10 K10 DG18 G62 W/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/w3db5lt2db9dp10k2dp5k5dg9g31w2/"><img src="/variants/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/sett.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/"><img src="/setts/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/sett.png" alt="Carnegie of Skibo Corporate Tartan Tartan Number: 8314. Earliest known date: December 2001 Only available from Robert Mathieson, The Kilt Centre, 1 Campbell Lane, Hamilton. ML3 6DB. Scotland. Tel: +44 (0)1698 200 234. e-mail: kiltcentre@btconnect.com Lochcarron swatch. A corporate tartan for use in kilt hire. The name was chosen to imbue the tartan with some relevant provenance - Andrew Carnegie's retirement residence. See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>Carnegie of Skibo Corporate Tartan Tartan Number: 8314. Earliest known date: December 2001 Only available from Robert Mathieson, The Kilt Centre, 1 Campbell Lane, Hamilton. ML3 6DB. Scotland. Tel: +44 (0)1698 200 234. e-mail: kiltcentre@btconnect.com Lochcarron swatch. A corporate tartan for use in kilt hire. The name was chosen to imbue the tartan with some relevant provenance - Andrew Carnegie's retirement residence. See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+[See the Carnegie of Skibo tartan and all its setts →](/tartans/carnegie-of-skibo/)
 

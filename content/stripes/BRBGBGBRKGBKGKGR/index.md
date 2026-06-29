@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Munster](/setts/s16/t4r2t3g1t1g2t18r1k12gi21t1k3gi1k2gi4r2~x2/)|
-|![Munster example sett](/setts/s16/t4r2t3g1t1g2t18r1k12gi21t1k3gi1k2gi4r2~x2/sett.png)|
+| [Munster](/variants/s16/t4r2t3g1t1g2t18r1k12gi21t1k3gi1k2gi4r2~x2/)|
+|![Munster example sett](/variants/s16/t4r2t3g1t1g2t18r1k12gi21t1k3gi1k2gi4r2~x2/sett.png)|

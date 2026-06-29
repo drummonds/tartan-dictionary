@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramsay (Green Fashion)](/setts/s7/g1r7g7n2r1dg15lb1~x4/)|
-|![Ramsay (Green Fashion) example sett](/setts/s7/g1r7g7n2r1dg15lb1~x4/sett.png)|
+| [Ramsay (Green Fashion)](/variants/s7/g1r7g7n2r1dg15lb1~x4/)|
+|![Ramsay (Green Fashion) example sett](/variants/s7/g1r7g7n2r1dg15lb1~x4/sett.png)|

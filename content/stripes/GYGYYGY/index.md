@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince David #1 (Royal)](/setts/s7/dy3lo2dy18lo21lo2dy3lo2~x2/)|
-|![Prince David #1 (Royal) example sett](/setts/s7/dy3lo2dy18lo21lo2dy3lo2~x2/sett.png)|
+| [Prince David #1 (Royal)](/variants/s7/dy3lo2dy18lo21lo2dy3lo2~x2/)|
+|![Prince David #1 (Royal) example sett](/variants/s7/dy3lo2dy18lo21lo2dy3lo2~x2/sett.png)|

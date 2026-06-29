@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King, Garry (Personal)](/setts/s14/gi2r11k3r4k7gi2k3dp4k3dp11k3dg1g1gi1~x2/)|
-|![King, Garry (Personal) example sett](/setts/s14/gi2r11k3r4k7gi2k3dp4k3dp11k3dg1g1gi1~x2/sett.png)|
+| [King, Garry (Personal)](/variants/s14/gi2r11k3r4k7gi2k3dp4k3dp11k3dg1g1gi1~x2/)|
+|![King, Garry (Personal) example sett](/variants/s14/gi2r11k3r4k7gi2k3dp4k3dp11k3dg1g1gi1~x2/sett.png)|

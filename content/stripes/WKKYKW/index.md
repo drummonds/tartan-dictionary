@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longford County, Crest Range](/setts/s6/w7k6lo15k16k8w3~x2/)|
-|![Longford County, Crest Range example sett](/setts/s6/w7k6lo15k16k8w3~x2/sett.png)|
+| [Longford County, Crest Range](/variants/s6/w7k6lo15k16k8w3~x2/)|
+|![Longford County, Crest Range example sett](/variants/s6/w7k6lo15k16k8w3~x2/sett.png)|

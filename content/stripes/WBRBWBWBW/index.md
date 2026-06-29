@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Winter Games 1987](/setts/s9/lb8dt2lb1dt2lb1dt2r3dt3lb1~x4/)|
-|![Canadian Winter Games 1987 example sett](/setts/s9/lb8dt2lb1dt2lb1dt2r3dt3lb1~x4/sett.png)|
-| [Jeux Canada Games '87 (Corporate)](/setts/s9/w16db3w2db3w2db3r5db6w2~x4/)|
-|![Jeux Canada Games '87 (Corporate) example sett](/setts/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png)|
+| [Canadian Winter Games 1987](/variants/s9/lb8dt2lb1dt2lb1dt2r3dt3lb1~x4/)|
+|![Canadian Winter Games 1987 example sett](/variants/s9/lb8dt2lb1dt2lb1dt2r3dt3lb1~x4/sett.png)|
+| [Jeux Canada Games '87 (Corporate)](/variants/s9/w16db3w2db3w2db3r5db6w2~x4/)|
+|![Jeux Canada Games '87 (Corporate) example sett](/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png)|

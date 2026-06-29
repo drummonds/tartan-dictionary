@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacInnes Ancient Hunting](/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/)|
-|![MacInnes Ancient Hunting example sett](/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/sett.png)|
+| [MacInnes Ancient Hunting](/variants/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/)|
+|![MacInnes Ancient Hunting example sett](/variants/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/sett.png)|

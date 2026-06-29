@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mozambique](/setts/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/)|
-|![Mozambique example sett](/setts/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/sett.png)|
+| [Mozambique](/variants/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/)|
+|![Mozambique example sett](/variants/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/sett.png)|

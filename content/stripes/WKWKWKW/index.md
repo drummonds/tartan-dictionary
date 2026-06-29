@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saks Fifth Avenue (Corp)](/setts/s7/w24k16w1k16w3k8w2~x2/)|
-|![Saks Fifth Avenue (Corp) example sett](/setts/s7/w24k16w1k16w3k8w2~x2/sett.png)|
-| [Scott (Abbreviated)](/setts/s7/w2k1w6k6w2k1w1~x2/)|
-|![Scott (Abbreviated) example sett](/setts/s7/w2k1w6k6w2k1w1~x2/sett.png)|
+| [Saks Fifth Avenue (Corp)](/variants/s7/w24k16w1k16w3k8w2~x2/)|
+|![Saks Fifth Avenue (Corp) example sett](/variants/s7/w24k16w1k16w3k8w2~x2/sett.png)|
+| [Scott (Abbreviated)](/variants/s7/w2k1w6k6w2k1w1~x2/)|
+|![Scott (Abbreviated) example sett](/variants/s7/w2k1w6k6w2k1w1~x2/sett.png)|

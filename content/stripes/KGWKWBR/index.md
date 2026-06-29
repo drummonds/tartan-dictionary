@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caie (2013)](/setts/s7/k1dg8w1k8w1db8r1~x4/)|
-|![Caie (2013) example sett](/setts/s7/k1dg8w1k8w1db8r1~x4/sett.png)|
+| [Caie (2013)](/variants/s7/k1dg8w1k8w1db8r1~x4/)|
+|![Caie (2013) example sett](/variants/s7/k1dg8w1k8w1db8r1~x4/sett.png)|

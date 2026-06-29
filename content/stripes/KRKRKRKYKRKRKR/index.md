@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oilmens](/setts/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/)|
-|![Oilmens example sett](/setts/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/sett.png)|
+| [Oilmens](/variants/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/)|
+|![Oilmens example sett](/variants/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/sett.png)|

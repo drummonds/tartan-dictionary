@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lyon College (Corporate)](/setts/s6/r40b8r1w2~x4/)|
-|![Lyon College (Corporate) example sett](/setts/s6/r40b8r1w2~x4/sett.png)|
+| [Lyon College (Corporate)](/variants/s6/r40b8r1w2~x4/)|
+|![Lyon College (Corporate) example sett](/variants/s6/r40b8r1w2~x4/sett.png)|

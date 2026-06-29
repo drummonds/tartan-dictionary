@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clergy (WCWM)](/setts/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/)|
-|![Clergy (WCWM) example sett](/setts/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/sett.png)|
+| [Clergy (WCWM)](/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/)|
+|![Clergy (WCWM) example sett](/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/sett.png)|

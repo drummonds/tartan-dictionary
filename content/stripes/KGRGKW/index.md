@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perratt (Personal)](/setts/s6/k83g4r4g10k1w3~x2/)|
-|![Perratt (Personal) example sett](/setts/s6/k83g4r4g10k1w3~x2/sett.png)|
+| [Perratt (Personal)](/variants/s6/k83g4r4g10k1w3~x2/)|
+|![Perratt (Personal) example sett](/variants/s6/k83g4r4g10k1w3~x2/sett.png)|

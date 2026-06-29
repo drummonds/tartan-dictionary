@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antonello (Personal)](/setts/s6/k1t1r1db1g1db1~x24/)|
-|![Antonello (Personal) example sett](/setts/s6/k1t1r1db1g1db1~x24/sett.png)|
+| [Antonello (Personal)](/variants/s6/k1t1r1db1g1db1~x24/)|
+|![Antonello (Personal) example sett](/variants/s6/k1t1r1db1g1db1~x24/sett.png)|

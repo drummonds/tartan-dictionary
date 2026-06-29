@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guzzo Check (Personal)](/setts/s8/ly20w2ly20k4w3ly3k3w2/)|
-|![Guzzo Check (Personal) example sett](/setts/s8/ly20w2ly20k4w3ly3k3w2/sett.png)|
+| [Guzzo Check (Personal)](/variants/s8/ly20w2ly20k4w3ly3k3w2/)|
+|![Guzzo Check (Personal) example sett](/variants/s8/ly20w2ly20k4w3ly3k3w2/sett.png)|

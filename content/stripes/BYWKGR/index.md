@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish Countryside](/setts/s6/do19lo3w1k18dg30r2~x2/)|
-|![Cornish Countryside example sett](/setts/s6/do19lo3w1k18dg30r2~x2/sett.png)|
+| [Cornish Countryside](/variants/s6/do19lo3w1k18dg30r2~x2/)|
+|![Cornish Countryside example sett](/variants/s6/do19lo3w1k18dg30r2~x2/sett.png)|

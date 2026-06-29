@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Freger (Corporate)](/setts/s22/w2ly2w15dp10k23w2k2ly2k23dp10k15ly2w2ly2k15dp10k23ly2k23dp10w15ly2~x2/)|
-|![Freger (Corporate) example sett](/setts/s22/w2ly2w15dp10k23w2k2ly2k23dp10k15ly2w2ly2k15dp10k23ly2k23dp10w15ly2~x2/sett.png)|
+| [Freger (Corporate)](/variants/s22/w2ly2w15dp10k23w2k2ly2k23dp10k15ly2w2ly2k15dp10k23ly2k23dp10w15ly2~x2/)|
+|![Freger (Corporate) example sett](/variants/s22/w2ly2w15dp10k23w2k2ly2k23dp10k15ly2w2ly2k15dp10k23ly2k23dp10w15ly2~x2/sett.png)|

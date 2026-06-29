@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Granvert](/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/)|
-|![Granvert example sett](/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/sett.png)|
+| [Granvert](/variants/s9/dg115k15r8k4b8k4ly8k4g8~x2/)|
+|![Granvert example sett](/variants/s9/dg115k15r8k4b8k4ly8k4g8~x2/sett.png)|

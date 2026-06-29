@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reid (1939)](/setts/s6/y40r8y4w2y4ly5~x2/)|
-|![Reid (1939) example sett](/setts/s6/y40r8y4w2y4ly5~x2/sett.png)|
+| [Reid (1939)](/variants/s6/y40r8y4w2y4ly5~x2/)|
+|![Reid (1939) example sett](/variants/s6/y40r8y4w2y4ly5~x2/sett.png)|

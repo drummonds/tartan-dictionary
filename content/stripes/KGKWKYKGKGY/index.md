@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Initial City Link](/setts/s11/k50g7k4w2k2ly2k2g7k2g3ly2~x2/)|
-|![Initial City Link example sett](/setts/s11/k50g7k4w2k2ly2k2g7k2g3ly2~x2/sett.png)|
-| [Initial City Link #2](/setts/s11/k50dg7k4w2k2ly2k2dg7k2dgi3ly2~x2/)|
-|![Initial City Link #2 example sett](/setts/s11/k50dg7k4w2k2ly2k2dg7k2dgi3ly2~x2/sett.png)|
+| [Initial City Link](/variants/s11/k50g7k4w2k2ly2k2g7k2g3ly2~x2/)|
+|![Initial City Link example sett](/variants/s11/k50g7k4w2k2ly2k2g7k2g3ly2~x2/sett.png)|
+| [Initial City Link #2](/variants/s11/k50dg7k4w2k2ly2k2dg7k2dgi3ly2~x2/)|
+|![Initial City Link #2 example sett](/variants/s11/k50dg7k4w2k2ly2k2dg7k2dgi3ly2~x2/sett.png)|

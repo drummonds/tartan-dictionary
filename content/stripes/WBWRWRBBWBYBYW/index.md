@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [De Clercq, Christian Family (Belgium)](/setts/s14/lb3db1lb1r1lb1r1db10b1lb9b35ly2b2ly1lb2~x2/)|
-|![De Clercq, Christian Family (Belgium) example sett](/setts/s14/lb3db1lb1r1lb1r1db10b1lb9b35ly2b2ly1lb2~x2/sett.png)|
+| [De Clercq, Christian Family (Belgium)](/variants/s14/lb3db1lb1r1lb1r1db10b1lb9b35ly2b2ly1lb2~x2/)|
+|![De Clercq, Christian Family (Belgium) example sett](/variants/s14/lb3db1lb1r1lb1r1db10b1lb9b35ly2b2ly1lb2~x2/sett.png)|

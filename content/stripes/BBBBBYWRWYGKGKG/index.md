@@ -24,7 +24,7 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCulloch (Military Colours)](/setts/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/)|
-|![McCulloch (Military Colours) example sett](/setts/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/sett.png)|
-| [McCulloch (Personal)](/setts/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/)|
-|![McCulloch (Personal) example sett](/setts/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/sett.png)|
+| [McCulloch (Military Colours)](/variants/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/)|
+|![McCulloch (Military Colours) example sett](/variants/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/sett.png)|
+| [McCulloch (Personal)](/variants/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/)|
+|![McCulloch (Personal) example sett](/variants/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/sett.png)|

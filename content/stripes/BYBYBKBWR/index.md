@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Association for Neurological Sciences](/setts/s9/db46ly4db4ly4db6k16n66lb11r6/)|
-|![Scottish Association for Neurological Sciences example sett](/setts/s9/db46ly4db4ly4db6k16n66lb11r6/sett.png)|
+| [Scottish Association for Neurological Sciences](/variants/s9/db46ly4db4ly4db6k16n66lb11r6/)|
+|![Scottish Association for Neurological Sciences example sett](/variants/s9/db46ly4db4ly4db6k16n66lb11r6/sett.png)|

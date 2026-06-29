@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loganair](/tartans/r5o32k31w5/)|
-|![Loganair example sett](/setts/s4/r5o32k31w5/sett.png)|
-| [Thompson, Dress (Clan)](/setts/s4/r3o16k16lb3~x4/)|
-|![Thompson, Dress (Clan) example sett](/setts/s4/r3o16k16lb3~x4/sett.png)|
+| [Loganair](/setts/r5o32k31w5/)|
+|![Loganair example sett](/variants/s4/r5o32k31w5/sett.png)|
+| [Thompson, Dress (Clan)](/variants/s4/r3o16k16lb3~x4/)|
+|![Thompson, Dress (Clan) example sett](/variants/s4/r3o16k16lb3~x4/sett.png)|

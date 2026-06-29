@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asile](/setts/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/)|
-|![Asile example sett](/setts/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/sett.png)|
+| [Asile](/variants/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/)|
+|![Asile example sett](/variants/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/sett.png)|

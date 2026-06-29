@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Undiscovered Scotland](/setts/s20/lb3k18lb5k5gi6g1k6dg3gi6dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/)|
-|![Undiscovered Scotland example sett](/setts/s20/lb3k18lb5k5gi6g1k6dg3gi6dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/sett.png)|
+| [Undiscovered Scotland](/variants/s20/lb3k18lb5k5gi6g1k6dg3gi6dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/)|
+|![Undiscovered Scotland example sett](/variants/s20/lb3k18lb5k5gi6g1k6dg3gi6dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/sett.png)|

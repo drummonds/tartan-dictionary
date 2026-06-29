@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed C19th - Portrait by Ansdell](/setts/s11/dg22r3k10r3dg24r2k4r2dg24r2k4~x2/)|
-|![Unnamed C19th - Portrait by Ansdell example sett](/setts/s11/dg22r3k10r3dg24r2k4r2dg24r2k4~x2/sett.png)|
+| [Unnamed C19th - Portrait by Ansdell](/variants/s11/dg22r3k10r3dg24r2k4r2dg24r2k4~x2/)|
+|![Unnamed C19th - Portrait by Ansdell example sett](/variants/s11/dg22r3k10r3dg24r2k4r2dg24r2k4~x2/sett.png)|

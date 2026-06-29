@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University of Trinity College](/setts/s5/k1r2lt1db5ly1~x16/)|
-|![University of Trinity College example sett](/setts/s5/k1r2lt1db5ly1~x16/sett.png)|
+| [University of Trinity College](/variants/s5/k1r2lt1db5ly1~x16/)|
+|![University of Trinity College example sett](/variants/s5/k1r2lt1db5ly1~x16/sett.png)|

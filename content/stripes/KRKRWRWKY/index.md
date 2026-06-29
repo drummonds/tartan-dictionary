@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Meehan (Name)](/setts/s9/ly27k4w4r64w4r4k4r4k12~x2/)|
-|![O'Meehan (Name) example sett](/setts/s9/ly27k4w4r64w4r4k4r4k12~x2/sett.png)|
+| [O'Meehan (Name)](/variants/s9/ly27k4w4r64w4r4k4r4k12~x2/)|
+|![O'Meehan (Name) example sett](/variants/s9/ly27k4w4r64w4r4k4r4k12~x2/sett.png)|

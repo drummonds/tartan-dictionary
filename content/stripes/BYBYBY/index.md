@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auburn University (Alabama)](/setts/s6/db3lo3db24lo30db3lo2~x2/)|
-|![Auburn University (Alabama) example sett](/setts/s6/db3lo3db24lo30db3lo2~x2/sett.png)|
-| [Ochterlonie](/setts/s6/db35lr8db21lr13db6lo4~x2/)|
-|![Ochterlonie example sett](/setts/s6/db35lr8db21lr13db6lo4~x2/sett.png)|
+| [Auburn University (Alabama)](/variants/s6/db3lo3db24lo30db3lo2~x2/)|
+|![Auburn University (Alabama) example sett](/variants/s6/db3lo3db24lo30db3lo2~x2/sett.png)|
+| [Ochterlonie](/variants/s6/db35lr8db21lr13db6lo4~x2/)|
+|![Ochterlonie example sett](/variants/s6/db35lr8db21lr13db6lo4~x2/sett.png)|

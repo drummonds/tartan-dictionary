@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lermontov](/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/)|
-|![Lermontov example sett](/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/sett.png)|
+| [Lermontov](/variants/s9/k2ly1k2ly8r29o9db24w2db2~x2/)|
+|![Lermontov example sett](/variants/s9/k2ly1k2ly8r29o9db24w2db2~x2/sett.png)|

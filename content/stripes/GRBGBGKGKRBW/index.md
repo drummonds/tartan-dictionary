@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Western Isles (Fashion)](/setts/s12/dg9m2dp2dg3dp18dg2k2dg1k19r1db33w2~x2/)|
-|![Western Isles (Fashion) example sett](/setts/s12/dg9m2dp2dg3dp18dg2k2dg1k19r1db33w2~x2/sett.png)|
+| [Western Isles (Fashion)](/variants/s12/dg9m2dp2dg3dp18dg2k2dg1k19r1db33w2~x2/)|
+|![Western Isles (Fashion) example sett](/variants/s12/dg9m2dp2dg3dp18dg2k2dg1k19r1db33w2~x2/sett.png)|

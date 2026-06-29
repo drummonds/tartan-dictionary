@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heritage of Ireland (Fashion)](/setts/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/)|
-|![Heritage of Ireland (Fashion) example sett](/setts/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/sett.png)|
+| [Heritage of Ireland (Fashion)](/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/)|
+|![Heritage of Ireland (Fashion) example sett](/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/sett.png)|

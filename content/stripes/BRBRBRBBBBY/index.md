@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [NHK Asaichi](/setts/s11/dr2r11dp1r1dp1r1dp4b6dr1b1ly1~x4/)|
-|![NHK Asaichi example sett](/setts/s11/dr2r11dp1r1dp1r1dp4b6dr1b1ly1~x4/sett.png)|
+| [NHK Asaichi](/variants/s11/dr2r11dp1r1dp1r1dp4b6dr1b1ly1~x4/)|
+|![NHK Asaichi example sett](/variants/s11/dr2r11dp1r1dp1r1dp4b6dr1b1ly1~x4/sett.png)|

@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sanley-Cantamessa](/setts/s7/k16w15k4db12k22r2k6~x2/)|
-|![Sanley-Cantamessa example sett](/setts/s7/k16w15k4db12k22r2k6~x2/sett.png)|
-| [Sanley-Cantamessa (Personal)](/setts/s7/k16w15k4dt12k22r2k6~x2/)|
-|![Sanley-Cantamessa (Personal) example sett](/setts/s7/k16w15k4dt12k22r2k6~x2/sett.png)|
+| [Sanley-Cantamessa](/variants/s7/k16w15k4db12k22r2k6~x2/)|
+|![Sanley-Cantamessa example sett](/variants/s7/k16w15k4db12k22r2k6~x2/sett.png)|
+| [Sanley-Cantamessa (Personal)](/variants/s7/k16w15k4dt12k22r2k6~x2/)|
+|![Sanley-Cantamessa (Personal) example sett](/variants/s7/k16w15k4dt12k22r2k6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-Kerne](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/)|
-|![Bro-Kerne example sett](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/sett.png)|
+| [Bro-Kerne](/variants/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/)|
+|![Bro-Kerne example sett](/variants/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/sett.png)|

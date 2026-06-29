@@ -24,5 +24,5 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shepherd Brown & White (Fashion?)](/setts/s2/dy1lb1~x6/)|
-|![Shepherd Brown & White (Fashion?) example sett](/setts/s2/dy1lb1~x6/sett.png)|
+| [Shepherd Brown & White (Fashion?)](/variants/s2/dy1lb1~x6/)|
+|![Shepherd Brown & White (Fashion?) example sett](/variants/s2/dy1lb1~x6/sett.png)|

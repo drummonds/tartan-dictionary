@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Castle Grey](/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/)|
-|![Kinloch Anderson Castle Grey example sett](/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/sett.png)|
+| [Kinloch Anderson Castle Grey](/variants/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/)|
+|![Kinloch Anderson Castle Grey example sett](/variants/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/sett.png)|

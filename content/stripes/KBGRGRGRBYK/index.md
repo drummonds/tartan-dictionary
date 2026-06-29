@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Polkemmet (Corporate)](/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/)|
-|![Polkemmet (Corporate) example sett](/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/sett.png)|
+| [Polkemmet (Corporate)](/variants/s11/k7lo3db62o16g5o5g5o5g16db16k4/)|
+|![Polkemmet (Corporate) example sett](/variants/s11/k7lo3db62o16g5o5g5o5g16db16k4/sett.png)|

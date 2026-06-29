@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Matheson Hunting (Highland Society of London)](/setts/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/)|
-|![Matheson Hunting (Highland Society of London) example sett](/setts/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/sett.png)|
+| [Matheson Hunting (Highland Society of London)](/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/)|
+|![Matheson Hunting (Highland Society of London) example sett](/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/sett.png)|

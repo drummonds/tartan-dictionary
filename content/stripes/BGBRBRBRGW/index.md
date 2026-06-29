@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roxburgh Red](/setts/s10/db3g26db3r3db20r3db3r26g5w3~x2/)|
-|![Roxburgh Red example sett](/setts/s10/db3g26db3r3db20r3db3r26g5w3~x2/sett.png)|
-| [Roxburgh, Red](/setts/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/)|
-|![Roxburgh, Red example sett](/setts/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/sett.png)|
+| [Roxburgh Red](/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/)|
+|![Roxburgh Red example sett](/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/sett.png)|
+| [Roxburgh, Red](/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/)|
+|![Roxburgh, Red example sett](/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/sett.png)|

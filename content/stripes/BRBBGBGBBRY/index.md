@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McMurchie (Personal)](/setts/s11/t1r13db6dp7g2dp7g2dp7db6r13ly1~x2/)|
-|![McMurchie (Personal) example sett](/setts/s11/t1r13db6dp7g2dp7g2dp7db6r13ly1~x2/sett.png)|
+| [McMurchie (Personal)](/variants/s11/t1r13db6dp7g2dp7g2dp7db6r13ly1~x2/)|
+|![McMurchie (Personal) example sett](/variants/s11/t1r13db6dp7g2dp7g2dp7db6r13ly1~x2/sett.png)|

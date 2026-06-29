@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Northumberland](/setts/s3/k1w1k1~x10/)|
-|![Northumberland example sett](/setts/s3/k1w1k1~x10/sett.png)|
+| [Northumberland](/variants/s3/k1w1k1~x10/)|
+|![Northumberland example sett](/variants/s3/k1w1k1~x10/sett.png)|

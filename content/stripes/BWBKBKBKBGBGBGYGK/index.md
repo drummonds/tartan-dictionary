@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kennedy Dress, (Pendleton)](/setts/s17/k2g2lo1g2dp1g2dp1g10dt3k2dt2k2dt2k2dt3w9dp2~x2/)|
-|![Kennedy Dress, (Pendleton) example sett](/setts/s17/k2g2lo1g2dp1g2dp1g10dt3k2dt2k2dt2k2dt3w9dp2~x2/sett.png)|
+| [Kennedy Dress, (Pendleton)](/variants/s17/k2g2lo1g2dp1g2dp1g10dt3k2dt2k2dt2k2dt3w9dp2~x2/)|
+|![Kennedy Dress, (Pendleton) example sett](/variants/s17/k2g2lo1g2dp1g2dp1g10dt3k2dt2k2dt2k2dt3w9dp2~x2/sett.png)|

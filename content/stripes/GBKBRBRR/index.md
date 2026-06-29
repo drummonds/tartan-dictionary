@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harrower, John Anthony (Personal)](/setts/s8/dg8db5k1db17r10db2r10o2~x2/)|
-|![Harrower, John Anthony (Personal) example sett](/setts/s8/dg8db5k1db17r10db2r10o2~x2/sett.png)|
+| [Harrower, John Anthony (Personal)](/variants/s8/dg8db5k1db17r10db2r10o2~x2/)|
+|![Harrower, John Anthony (Personal) example sett](/variants/s8/dg8db5k1db17r10db2r10o2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westbrook (2013)](/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/)|
-|![Westbrook (2013) example sett](/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/sett.png)|
+| [Westbrook (2013)](/variants/s9/dg15y3dr2y3dg8b12db20r2db4~x2/)|
+|![Westbrook (2013) example sett](/variants/s9/dg15y3dr2y3dg8b12db20r2db4~x2/sett.png)|

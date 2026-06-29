@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ben Murad (Personal)](/setts/s18/dg18r3dg3r15dy13r14dg3r3dg18dy5dg2k5dg3r2dg3db5dg2lg5~x2/)|
-|![Ben Murad (Personal) example sett](/setts/s18/dg18r3dg3r15dy13r14dg3r3dg18dy5dg2k5dg3r2dg3db5dg2lg5~x2/sett.png)|
+| [Ben Murad (Personal)](/variants/s18/dg18r3dg3r15dy13r14dg3r3dg18dy5dg2k5dg3r2dg3db5dg2lg5~x2/)|
+|![Ben Murad (Personal) example sett](/variants/s18/dg18r3dg3r15dy13r14dg3r3dg18dy5dg2k5dg3r2dg3db5dg2lg5~x2/sett.png)|

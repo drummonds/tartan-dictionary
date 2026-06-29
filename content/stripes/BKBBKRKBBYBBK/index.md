@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Brough from Orkney](/setts/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/)|
-|![Blue Brough from Orkney example sett](/setts/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/sett.png)|
+| [Blue Brough from Orkney](/variants/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/)|
+|![Blue Brough from Orkney example sett](/variants/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/sett.png)|

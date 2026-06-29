@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Georgian Bay, Waters of](/setts/s6/db35w3db8t36dg9o3~x2/)|
-|![Georgian Bay, Waters of example sett](/setts/s6/db35w3db8t36dg9o3~x2/sett.png)|
-| [Waters of Georgian Bay (District)](/setts/s6/db38w3db8dbi36dg9r3~x2/)|
-|![Waters of Georgian Bay (District) example sett](/setts/s6/db38w3db8dbi36dg9r3~x2/sett.png)|
+| [Georgian Bay, Waters of](/variants/s6/db35w3db8t36dg9o3~x2/)|
+|![Georgian Bay, Waters of example sett](/variants/s6/db35w3db8t36dg9o3~x2/sett.png)|
+| [Waters of Georgian Bay (District)](/variants/s6/db38w3db8dbi36dg9r3~x2/)|
+|![Waters of Georgian Bay (District) example sett](/variants/s6/db38w3db8dbi36dg9r3~x2/sett.png)|

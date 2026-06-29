@@ -24,7 +24,7 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Empire Golf Check](/setts/s18/r2dp4dt2dg25dt4dg2dt4k11dp4w2dp4dg11dt2k2dt24dp4dt2r2~x2/)|
-|![Empire Golf Check example sett](/setts/s18/r2dp4dt2dg25dt4dg2dt4k11dp4w2dp4dg11dt2k2dt24dp4dt2r2~x2/sett.png)|
-| [Empire Golf Check (Fashion)](/setts/s18/r2dp4dt2g25dt4g2dt4k11dp4w2dp4g11dt2k2dt24dp4dt2r2~x2/)|
-|![Empire Golf Check (Fashion) example sett](/setts/s18/r2dp4dt2g25dt4g2dt4k11dp4w2dp4g11dt2k2dt24dp4dt2r2~x2/sett.png)|
+| [Empire Golf Check](/variants/s18/r2dp4dt2dg25dt4dg2dt4k11dp4w2dp4dg11dt2k2dt24dp4dt2r2~x2/)|
+|![Empire Golf Check example sett](/variants/s18/r2dp4dt2dg25dt4dg2dt4k11dp4w2dp4dg11dt2k2dt24dp4dt2r2~x2/sett.png)|
+| [Empire Golf Check (Fashion)](/variants/s18/r2dp4dt2g25dt4g2dt4k11dp4w2dp4g11dt2k2dt24dp4dt2r2~x2/)|
+|![Empire Golf Check (Fashion) example sett](/variants/s18/r2dp4dt2g25dt4g2dt4k11dp4w2dp4g11dt2k2dt24dp4dt2r2~x2/sett.png)|

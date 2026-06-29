@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nolan (Personal)](/setts/s5/dr8g19dg42lo3r1~x2/)|
-|![Nolan (Personal) example sett](/setts/s5/dr8g19dg42lo3r1~x2/sett.png)|
-| [Nolan Family, John J (Personal)](/setts/s5/do8g19dg42lo3o1~x2/)|
-|![Nolan Family, John J (Personal) example sett](/setts/s5/do8g19dg42lo3o1~x2/sett.png)|
+| [Nolan (Personal)](/variants/s5/dr8g19dg42lo3r1~x2/)|
+|![Nolan (Personal) example sett](/variants/s5/dr8g19dg42lo3r1~x2/sett.png)|
+| [Nolan Family, John J (Personal)](/variants/s5/do8g19dg42lo3o1~x2/)|
+|![Nolan Family, John J (Personal) example sett](/variants/s5/do8g19dg42lo3o1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Windsor](/setts/s10/r4n12k18n4y22lb1y2lb2y3lb2~x4/)|
-|![Windsor example sett](/setts/s10/r4n12k18n4y22lb1y2lb2y3lb2~x4/sett.png)|
+| [Windsor](/variants/s10/r4n12k18n4y22lb1y2lb2y3lb2~x4/)|
+|![Windsor example sett](/variants/s10/r4n12k18n4y22lb1y2lb2y3lb2~x4/sett.png)|

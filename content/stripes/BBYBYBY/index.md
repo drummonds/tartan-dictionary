@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Creek Indian Nation (District)](/setts/s7/db2db4ly1db1ly2db4ly2~x12/)|
-|![Creek Indian Nation (District) example sett](/setts/s7/db2db4ly1db1ly2db4ly2~x12/sett.png)|
+| [Creek Indian Nation (District)](/variants/s7/db2db4ly1db1ly2db4ly2~x12/)|
+|![Creek Indian Nation (District) example sett](/variants/s7/db2db4ly1db1ly2db4ly2~x12/sett.png)|

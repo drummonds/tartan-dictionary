@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart Dress, Grey #1 (Fashion)](/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/)|
-|![Stewart Dress, Grey #1 (Fashion) example sett](/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/sett.png)|
+| [Stewart Dress, Grey #1 (Fashion)](/variants/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/)|
+|![Stewart Dress, Grey #1 (Fashion) example sett](/variants/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/sett.png)|

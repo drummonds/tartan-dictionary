@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilkenny](/setts/s7/m5dg27o2g25ly7dg3m3~x2/)|
-|![Kilkenny example sett](/setts/s7/m5dg27o2g25ly7dg3m3~x2/sett.png)|
+| [Kilkenny](/variants/s7/m5dg27o2g25ly7dg3m3~x2/)|
+|![Kilkenny example sett](/variants/s7/m5dg27o2g25ly7dg3m3~x2/sett.png)|

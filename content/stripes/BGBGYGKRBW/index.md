@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [EAIE 2015](/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/)|
-|![EAIE 2015 example sett](/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/sett.png)|
+| [EAIE 2015](/variants/s10/b4g1b2g2lr6g2k3r1b8w1~x2/)|
+|![EAIE 2015 example sett](/variants/s10/b4g1b2g2lr6g2k3r1b8w1~x2/sett.png)|

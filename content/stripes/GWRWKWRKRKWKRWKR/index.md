@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sabrettes (Corporate)](/setts/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/)|
-|![Sabrettes (Corporate) example sett](/setts/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/sett.png)|
+| [Sabrettes (Corporate)](/variants/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/)|
+|![Sabrettes (Corporate) example sett](/variants/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International College of Dentists (Canadian Section)](/setts/s22/dgi6lo6dgi1k15dgi2k2y2dgi2y2k2y2dgi2y2k2y2dgi2y2k2dgi2dg15dgi1k2~x2/)|
-|![International College of Dentists (Canadian Section) example sett](/setts/s22/dgi6lo6dgi1k15dgi2k2y2dgi2y2k2y2dgi2y2k2y2dgi2y2k2dgi2dg15dgi1k2~x2/sett.png)|
+| [International College of Dentists (Canadian Section)](/variants/s22/dgi6lo6dgi1k15dgi2k2y2dgi2y2k2y2dgi2y2k2y2dgi2y2k2dgi2dg15dgi1k2~x2/)|
+|![International College of Dentists (Canadian Section) example sett](/variants/s22/dgi6lo6dgi1k15dgi2k2y2dgi2y2k2y2dgi2y2k2y2dgi2y2k2dgi2dg15dgi1k2~x2/sett.png)|

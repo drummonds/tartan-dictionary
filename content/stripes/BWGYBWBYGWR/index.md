@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKessog Wedding (Fashion)](/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/)|
-|![MacKessog Wedding (Fashion) example sett](/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/sett.png)|
+| [MacKessog Wedding (Fashion)](/variants/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/)|
+|![MacKessog Wedding (Fashion) example sett](/variants/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/sett.png)|

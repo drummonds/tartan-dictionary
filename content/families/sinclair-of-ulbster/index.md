@@ -8,11 +8,11 @@ A family of [Clan Sinclair](/clan/sinclair/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s4/b12k4g6ly1~x8/"><img src="/setts/s4/b12k4g6ly1~x8/sett.png" alt="Sinclair of Ulbster (Portrait)" width="240"><br>Sinclair of Ulbster (Portrait)</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s6/b12k4g6ly1~x8/"><img src="/setts/s6/b12k4g6ly1~x8/sett.png" alt="Sinclair of Ulbster" width="140"><br>Sinclair of Ulbster</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/b12k4g6ly1/">Sinclair of Ulbster</a> ★</td><td><code>B/96 K32 G48 LY8 G48 K/32</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/b12k4g6ly1/"><img src="/variants/s6/b12k4g6ly1~x8/sett.png" alt="Sinclair of Ulbster sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

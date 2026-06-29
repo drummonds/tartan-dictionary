@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Newlands](/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/)|
-|![Newlands example sett](/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png)|
-| [Newlands of Lauriston](/setts/s10/b9k9b9r2k20g13r2g4r2g4~x2/)|
-|![Newlands of Lauriston example sett](/setts/s10/b9k9b9r2k20g13r2g4r2g4~x2/sett.png)|
+| [Newlands](/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/)|
+|![Newlands example sett](/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png)|
+| [Newlands of Lauriston](/variants/s10/b9k9b9r2k20g13r2g4r2g4~x2/)|
+|![Newlands of Lauriston example sett](/variants/s10/b9k9b9r2k20g13r2g4r2g4~x2/sett.png)|

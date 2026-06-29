@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Indian Pipe Band (Corporate)](/setts/s6/w4k26t26k2t5w2~x2/)|
-|![Indian Pipe Band (Corporate) example sett](/setts/s6/w4k26t26k2t5w2~x2/sett.png)|
+| [Indian Pipe Band (Corporate)](/variants/s6/w4k26t26k2t5w2~x2/)|
+|![Indian Pipe Band (Corporate) example sett](/variants/s6/w4k26t26k2t5w2~x2/sett.png)|

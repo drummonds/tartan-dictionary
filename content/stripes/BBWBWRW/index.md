@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Torridon, Royal Blue (Dance)](/setts/s7/dt3n2w2n30w30r2w3~x2/)|
-|![Torridon, Royal Blue (Dance) example sett](/setts/s7/dt3n2w2n30w30r2w3~x2/sett.png)|
+| [Torridon, Royal Blue (Dance)](/variants/s7/dt3n2w2n30w30r2w3~x2/)|
+|![Torridon, Royal Blue (Dance) example sett](/variants/s7/dt3n2w2n30w30r2w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wolves Wod Kindred](/setts/s6/o2dg2r9k9g2ly2~x4/)|
-|![Wolves Wod Kindred example sett](/setts/s6/o2dg2r9k9g2ly2~x4/sett.png)|
+| [Wolves Wod Kindred](/variants/s6/o2dg2r9k9g2ly2~x4/)|
+|![Wolves Wod Kindred example sett](/variants/s6/o2dg2r9k9g2ly2~x4/sett.png)|

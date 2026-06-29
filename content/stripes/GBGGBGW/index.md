@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of North Carolina (Fash.)](/setts/s7/lb47g6b13dy20g6b6g28~x2/)|
-|![State Seal of North Carolina (Fash.) example sett](/setts/s7/lb47g6b13dy20g6b6g28~x2/sett.png)|
+| [State Seal of North Carolina (Fash.)](/variants/s7/lb47g6b13dy20g6b6g28~x2/)|
+|![State Seal of North Carolina (Fash.) example sett](/variants/s7/lb47g6b13dy20g6b6g28~x2/sett.png)|

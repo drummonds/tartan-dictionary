@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Big Sur MacLaren (Personal)](/setts/s7/lg31k18dg13r3dg13k1ly3~x2/)|
-|![Big Sur MacLaren (Personal) example sett](/setts/s7/lg31k18dg13r3dg13k1ly3~x2/sett.png)|
+| [Big Sur MacLaren (Personal)](/variants/s7/lg31k18dg13r3dg13k1ly3~x2/)|
+|![Big Sur MacLaren (Personal) example sett](/variants/s7/lg31k18dg13r3dg13k1ly3~x2/sett.png)|

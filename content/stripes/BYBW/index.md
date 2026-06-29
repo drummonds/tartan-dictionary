@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lucard, Stéphane (Personal)](/setts/s4/w11t20lo3t8~x2/)|
-|![Lucard, Stéphane (Personal) example sett](/setts/s4/w11t20lo3t8~x2/sett.png)|
-| [Westfield (Corporate?)](/setts/s4/dt102lr11dt14w11/)|
-|![Westfield (Corporate?) example sett](/setts/s4/dt102lr11dt14w11/sett.png)|
+| [Lucard, Stéphane (Personal)](/variants/s4/w11t20lo3t8~x2/)|
+|![Lucard, Stéphane (Personal) example sett](/variants/s4/w11t20lo3t8~x2/sett.png)|
+| [Westfield (Corporate?)](/variants/s4/dt102lr11dt14w11/)|
+|![Westfield (Corporate?) example sett](/variants/s4/dt102lr11dt14w11/sett.png)|

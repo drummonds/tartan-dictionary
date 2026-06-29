@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wattenhofer (2016)](/setts/s9/do60b8ri16b4lo8do4r2b6w1~x2/)|
-|![Wattenhofer (2016) example sett](/setts/s9/do60b8ri16b4lo8do4r2b6w1~x2/sett.png)|
+| [Wattenhofer (2016)](/variants/s9/do60b8ri16b4lo8do4r2b6w1~x2/)|
+|![Wattenhofer (2016) example sett](/variants/s9/do60b8ri16b4lo8do4r2b6w1~x2/sett.png)|

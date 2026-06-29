@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmer (Personal)](/setts/s6/w2db49r5ly2r5ly2~x2/)|
-|![Balmer (Personal) example sett](/setts/s6/w2db49r5ly2r5ly2~x2/sett.png)|
+| [Balmer (Personal)](/variants/s6/w2db49r5ly2r5ly2~x2/)|
+|![Balmer (Personal) example sett](/variants/s6/w2db49r5ly2r5ly2~x2/sett.png)|

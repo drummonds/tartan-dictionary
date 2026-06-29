@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [City of Armadale](/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/)|
-|![City of Armadale example sett](/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/sett.png)|
+| [City of Armadale](/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2/)|
+|![City of Armadale example sett](/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2/sett.png)|

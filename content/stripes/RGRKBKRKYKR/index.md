@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Malley (Name?)](/setts/s11/r45k3ly4k3r45k1dp2k1r2g8r2~x2/)|
-|![O'Malley (Name?) example sett](/setts/s11/r45k3ly4k3r45k1dp2k1r2g8r2~x2/sett.png)|
+| [O'Malley (Name?)](/variants/s11/r45k3ly4k3r45k1dp2k1r2g8r2~x2/)|
+|![O'Malley (Name?) example sett](/variants/s11/r45k3ly4k3r45k1dp2k1r2g8r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McAvoy (Personal)](/setts/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/)|
-|![McAvoy (Personal) example sett](/setts/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/sett.png)|
+| [McAvoy (Personal)](/variants/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/)|
+|![McAvoy (Personal) example sett](/variants/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/sett.png)|

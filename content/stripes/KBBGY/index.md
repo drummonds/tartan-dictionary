@@ -24,11 +24,11 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gala Water Old](/setts/s5/k19t10dp19dg40ly10/)|
-|![Gala Water Old example sett](/setts/s5/k19t10dp19dg40ly10/sett.png)|
-| [Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k19t10dp19g40ly10/)|
-|![Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/k19t10dp19g40ly10/sett.png)|
-| [Gallowater, Old](/setts/s5/k19t10p19g40ly10/)|
-|![Gallowater, Old example sett](/setts/s5/k19t10p19g40ly10/sett.png)|
-| [Wellington, No 122](/setts/s5/k4t3p11g14ly2~x2/)|
-|![Wellington, No 122 example sett](/setts/s5/k4t3p11g14ly2~x2/sett.png)|
+| [Gala Water Old](/variants/s5/k19t10dp19dg40ly10/)|
+|![Gala Water Old example sett](/variants/s5/k19t10dp19dg40ly10/sett.png)|
+| [Gallowater Old District Tartan](/variants/s5/k19t10dp19g40ly10/)|
+|![Gallowater Old District Tartan example sett](/variants/s5/k19t10dp19g40ly10/sett.png)|
+| [Gallowater, Old](/variants/s5/k19t10p19g40ly10/)|
+|![Gallowater, Old example sett](/variants/s5/k19t10p19g40ly10/sett.png)|
+| [Wellington, No 122](/variants/s5/k4t3p11g14ly2~x2/)|
+|![Wellington, No 122 example sett](/variants/s5/k4t3p11g14ly2~x2/sett.png)|

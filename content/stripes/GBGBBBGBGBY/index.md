@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jenkins (Welsh Name)](/setts/s11/g8db3g2db4dt2db5g7db4g4db37lo6/)|
-|![Jenkins (Welsh Name) example sett](/setts/s11/g8db3g2db4dt2db5g7db4g4db37lo6/sett.png)|
+| [Jenkins (Welsh Name)](/variants/s11/g8db3g2db4dt2db5g7db4g4db37lo6/)|
+|![Jenkins (Welsh Name) example sett](/variants/s11/g8db3g2db4dt2db5g7db4g4db37lo6/sett.png)|

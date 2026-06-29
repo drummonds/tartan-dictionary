@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Slanj](/setts/s10/k28b3k3b25k3b25k3b3k28m4~x2/)|
-|![Slanj example sett](/setts/s10/k28b3k3b25k3b25k3b3k28m4~x2/sett.png)|
-| [Witches' Blood, The](/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/)|
-|![Witches' Blood, The example sett](/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png)|
+| [Slanj](/variants/s10/k28b3k3b25k3b25k3b3k28m4~x2/)|
+|![Slanj example sett](/variants/s10/k28b3k3b25k3b25k3b3k28m4~x2/sett.png)|
+| [Witches' Blood, The](/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/)|
+|![Witches' Blood, The example sett](/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png)|

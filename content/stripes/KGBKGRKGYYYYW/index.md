@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mississippi](/tartans/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4/)|
-|![Mississippi example sett](/setts/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4/sett.png)|
+| [Mississippi](/setts/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4/)|
+|![Mississippi example sett](/variants/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4/sett.png)|

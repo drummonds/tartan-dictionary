@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Muirhead (Clan)](/setts/s11/ly3gi14g9db4g8w2g12r12g2r5w2~x2/)|
-|![Muirhead (Clan) example sett](/setts/s11/ly3gi14g9db4g8w2g12r12g2r5w2~x2/sett.png)|
+| [Muirhead (Clan)](/variants/s11/ly3gi14g9db4g8w2g12r12g2r5w2~x2/)|
+|![Muirhead (Clan) example sett](/variants/s11/ly3gi14g9db4g8w2g12r12g2r5w2~x2/sett.png)|

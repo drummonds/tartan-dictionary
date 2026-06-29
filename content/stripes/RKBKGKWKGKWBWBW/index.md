@@ -24,7 +24,7 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKenzie Dress #2](/setts/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/)|
-|![MacKenzie Dress #2 example sett](/setts/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/sett.png)|
-| [MacKenzie, dress](/setts/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/)|
-|![MacKenzie, dress example sett](/setts/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/sett.png)|
+| [MacKenzie Dress #2](/variants/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/)|
+|![MacKenzie Dress #2 example sett](/variants/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/sett.png)|
+| [MacKenzie, dress](/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/)|
+|![MacKenzie, dress example sett](/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [SheBoom](/setts/s8/k35p2k3dp13g8w4g8dp8~x2/)|
-|![SheBoom example sett](/setts/s8/k35p2k3dp13g8w4g8dp8~x2/sett.png)|
+| [SheBoom](/variants/s8/k35p2k3dp13g8w4g8dp8~x2/)|
+|![SheBoom example sett](/variants/s8/k35p2k3dp13g8w4g8dp8~x2/sett.png)|

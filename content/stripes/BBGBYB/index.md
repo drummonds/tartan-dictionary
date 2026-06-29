@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Riley's Theme](/setts/s6/t20dt4y5n14ly1t2~x2/)|
-|![Riley's Theme example sett](/setts/s6/t20dt4y5n14ly1t2~x2/sett.png)|
+| [Riley's Theme](/variants/s6/t20dt4y5n14ly1t2~x2/)|
+|![Riley's Theme example sett](/variants/s6/t20dt4y5n14ly1t2~x2/sett.png)|

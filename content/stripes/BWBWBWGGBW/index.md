@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Greenshields, Simon (Personal)](/setts/s10/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/)|
-|![Greenshields, Simon (Personal) example sett](/setts/s10/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/sett.png)|
+| [Greenshields, Simon (Personal)](/variants/s10/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/)|
+|![Greenshields, Simon (Personal) example sett](/variants/s10/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/sett.png)|

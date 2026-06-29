@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arduaine, Red (Dance)](/setts/s7/w5k2w30r24w3r8dt3~x2/)|
-|![Arduaine, Red (Dance) example sett](/setts/s7/w5k2w30r24w3r8dt3~x2/sett.png)|
+| [Arduaine, Red (Dance)](/variants/s7/w5k2w30r24w3r8dt3~x2/)|
+|![Arduaine, Red (Dance) example sett](/variants/s7/w5k2w30r24w3r8dt3~x2/sett.png)|

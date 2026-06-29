@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holestone (Corporate)](/setts/s8/k4lo8k26o6g15o6k26w2~x2/)|
-|![Holestone (Corporate) example sett](/setts/s8/k4lo8k26o6g15o6k26w2~x2/sett.png)|
+| [Holestone (Corporate)](/variants/s8/k4lo8k26o6g15o6k26w2~x2/)|
+|![Holestone (Corporate) example sett](/variants/s8/k4lo8k26o6g15o6k26w2~x2/sett.png)|

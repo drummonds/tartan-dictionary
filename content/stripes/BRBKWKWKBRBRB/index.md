@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Commonwealth Variation (Fashion)](/setts/s13/db20r3db3r3db3k10w14k4w14k10db14r3db3~x2/)|
-|![Commonwealth Variation (Fashion) example sett](/setts/s13/db20r3db3r3db3k10w14k4w14k10db14r3db3~x2/sett.png)|
+| [Commonwealth Variation (Fashion)](/variants/s13/db20r3db3r3db3k10w14k4w14k10db14r3db3~x2/)|
+|![Commonwealth Variation (Fashion) example sett](/variants/s13/db20r3db3r3db3k10w14k4w14k10db14r3db3~x2/sett.png)|

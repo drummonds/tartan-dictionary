@@ -24,5 +24,5 @@ It is a 38 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Order of the Holy Sepulchre](/setts/s38/w1r7k7r1k7w1r7w1k7r1k7w1lo2w1k8r1k8r7w1ly1~x4/)|
-|![Order of the Holy Sepulchre example sett](/setts/s38/w1r7k7r1k7w1r7w1k7r1k7w1lo2w1k8r1k8r7w1ly1~x4/sett.png)|
+| [Order of the Holy Sepulchre](/variants/s38/w1r7k7r1k7w1r7w1k7r1k7w1lo2w1k8r1k8r7w1ly1~x4/)|
+|![Order of the Holy Sepulchre example sett](/variants/s38/w1r7k7r1k7w1r7w1k7r1k7w1lo2w1k8r1k8r7w1ly1~x4/sett.png)|

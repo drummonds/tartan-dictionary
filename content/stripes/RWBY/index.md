@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae of Conchra](/setts/s4/r1w8dt8ly1~x4/)|
-|![MacRae of Conchra example sett](/setts/s4/r1w8dt8ly1~x4/sett.png)|
-| [MacRae of Conchra #3](/setts/s4/r7w36db36ly7~x2/)|
-|![MacRae of Conchra #3 example sett](/setts/s4/r7w36db36ly7~x2/sett.png)|
+| [MacRae of Conchra](/variants/s4/r1w8dt8ly1~x4/)|
+|![MacRae of Conchra example sett](/variants/s4/r1w8dt8ly1~x4/sett.png)|
+| [MacRae of Conchra #3](/variants/s4/r7w36db36ly7~x2/)|
+|![MacRae of Conchra #3 example sett](/variants/s4/r7w36db36ly7~x2/sett.png)|

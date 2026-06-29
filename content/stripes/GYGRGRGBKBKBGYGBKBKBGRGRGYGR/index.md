@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holmes](/setts/s28/ly4g39db9k3db5k3db9g32r2g3r2g5ly2g3r3~x2/)|
-|![Holmes example sett](/setts/s28/ly4g39db9k3db5k3db9g32r2g3r2g5ly2g3r3~x2/sett.png)|
+| [Holmes](/variants/s28/ly4g39db9k3db5k3db9g32r2g3r2g5ly2g3r3~x2/)|
+|![Holmes example sett](/variants/s28/ly4g39db9k3db5k3db9g32r2g3r2g5ly2g3r3~x2/sett.png)|

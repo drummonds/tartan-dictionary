@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacInnes (MacGregor Hastie) (Clan)](/setts/s16/w2r2k1dg4k1r1w2r1ly1r6dg1r1dg1r1dg6t1~x4/)|
-|![MacInnes (MacGregor Hastie) (Clan) example sett](/setts/s16/w2r2k1dg4k1r1w2r1ly1r6dg1r1dg1r1dg6t1~x4/sett.png)|
+| [MacInnes (MacGregor Hastie) (Clan)](/variants/s16/w2r2k1dg4k1r1w2r1ly1r6dg1r1dg1r1dg6t1~x4/)|
+|![MacInnes (MacGregor Hastie) (Clan) example sett](/variants/s16/w2r2k1dg4k1r1w2r1ly1r6dg1r1dg1r1dg6t1~x4/sett.png)|

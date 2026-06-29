@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Broz Sanz Elementary School](/setts/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/)|
-|![Broz Sanz Elementary School example sett](/setts/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/sett.png)|
+| [Broz Sanz Elementary School](/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/)|
+|![Broz Sanz Elementary School example sett](/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bute Heather, Ancient Wth'd (Fashion](/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/)|
-|![Bute Heather, Ancient Wth'd (Fashion example sett](/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/sett.png)|
+| [Bute Heather, Ancient Wth'd (Fashion](/variants/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/)|
+|![Bute Heather, Ancient Wth'd (Fashion example sett](/variants/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/sett.png)|

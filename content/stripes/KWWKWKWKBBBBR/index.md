@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anderson-Moffat (Personal)](/setts/s13/k5w10lb10k4lb4k4lb4k30dt21b4dt4b24r4/)|
-|![Anderson-Moffat (Personal) example sett](/setts/s13/k5w10lb10k4lb4k4lb4k30dt21b4dt4b24r4/sett.png)|
+| [Anderson-Moffat (Personal)](/variants/s13/k5w10lb10k4lb4k4lb4k30dt21b4dt4b24r4/)|
+|![Anderson-Moffat (Personal) example sett](/variants/s13/k5w10lb10k4lb4k4lb4k30dt21b4dt4b24r4/sett.png)|

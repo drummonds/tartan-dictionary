@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Wedding (Fashion)](/setts/s8/r9dt8r8g52w2k32dt44b4/)|
-|![Highland Wedding (Fashion) example sett](/setts/s8/r9dt8r8g52w2k32dt44b4/sett.png)|
+| [Highland Wedding (Fashion)](/variants/s8/r9dt8r8g52w2k32dt44b4/)|
+|![Highland Wedding (Fashion) example sett](/variants/s8/r9dt8r8g52w2k32dt44b4/sett.png)|

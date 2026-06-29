@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maver (Buckie)](/setts/s7/g1ly1g1w1g10r20ly1~x4/)|
-|![Maver (Buckie) example sett](/setts/s7/g1ly1g1w1g10r20ly1~x4/sett.png)|
+| [Maver (Buckie)](/variants/s7/g1ly1g1w1g10r20ly1~x4/)|
+|![Maver (Buckie) example sett](/variants/s7/g1ly1g1w1g10r20ly1~x4/sett.png)|

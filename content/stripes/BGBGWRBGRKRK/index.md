@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glengaela (Fashion)](/setts/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/)|
-|![Glengaela (Fashion) example sett](/setts/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/sett.png)|
+| [Glengaela (Fashion)](/variants/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/)|
+|![Glengaela (Fashion) example sett](/variants/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/sett.png)|

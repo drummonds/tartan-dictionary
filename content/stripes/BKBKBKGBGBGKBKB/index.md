@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blanton (Name)](/setts/s15/b12k2b2k2b2k10g5dp3g2dp3g5k10b11k2b2~x2/)|
-|![Blanton (Name) example sett](/setts/s15/b12k2b2k2b2k10g5dp3g2dp3g5k10b11k2b2~x2/sett.png)|
+| [Blanton (Name)](/variants/s15/b12k2b2k2b2k10g5dp3g2dp3g5k10b11k2b2~x2/)|
+|![Blanton (Name) example sett](/variants/s15/b12k2b2k2b2k10g5dp3g2dp3g5k10b11k2b2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bro-Menez Are (Corporate)](/setts/s7/b8k25g13m5lo5r5m8~x2/)|
-|![Bro-Menez Are (Corporate) example sett](/setts/s7/b8k25g13m5lo5r5m8~x2/sett.png)|
+| [Bro-Menez Are (Corporate)](/variants/s7/b8k25g13m5lo5r5m8~x2/)|
+|![Bro-Menez Are (Corporate) example sett](/variants/s7/b8k25g13m5lo5r5m8~x2/sett.png)|

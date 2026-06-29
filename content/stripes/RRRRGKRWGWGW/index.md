@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canfor](/setts/s12/r62ri1r6ri9y2k2ri9w6y1w6y20w2~x2/)|
-|![Canfor example sett](/setts/s12/r62ri1r6ri9y2k2ri9w6y1w6y20w2~x2/sett.png)|
+| [Canfor](/variants/s12/r62ri1r6ri9y2k2ri9w6y1w6y20w2~x2/)|
+|![Canfor example sett](/variants/s12/r62ri1r6ri9y2k2ri9w6y1w6y20w2~x2/sett.png)|

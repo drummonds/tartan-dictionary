@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Conquergood](/setts/s8/k2b2w11b5k5w2k1b2~x2/)|
-|![Conquergood example sett](/setts/s8/k2b2w11b5k5w2k1b2~x2/sett.png)|
+| [Conquergood](/variants/s8/k2b2w11b5k5w2k1b2~x2/)|
+|![Conquergood example sett](/variants/s8/k2b2w11b5k5w2k1b2~x2/sett.png)|

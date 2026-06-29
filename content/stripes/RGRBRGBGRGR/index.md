@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peacock, Grahame (Name)](/setts/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/)|
-|![Peacock, Grahame (Name) example sett](/setts/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/sett.png)|
+| [Peacock, Grahame (Name)](/variants/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/)|
+|![Peacock, Grahame (Name) example sett](/variants/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/sett.png)|

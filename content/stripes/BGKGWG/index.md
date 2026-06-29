@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hibernian Football Club (Corporate)](/setts/s6/g11w1g11k9dg6dp3~x4/)|
-|![Hibernian Football Club (Corporate) example sett](/setts/s6/g11w1g11k9dg6dp3~x4/sett.png)|
+| [Hibernian Football Club (Corporate)](/variants/s6/g11w1g11k9dg6dp3~x4/)|
+|![Hibernian Football Club (Corporate) example sett](/variants/s6/g11w1g11k9dg6dp3~x4/sett.png)|

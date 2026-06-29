@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reid (Mill City)](/setts/s8/dbi11db11dbii11lg11g11gi11w3r5~x2/)|
-|![Reid (Mill City) example sett](/setts/s8/dbi11db11dbii11lg11g11gi11w3r5~x2/sett.png)|
+| [Reid (Mill City)](/variants/s8/dbi11db11dbii11lg11g11gi11w3r5~x2/)|
+|![Reid (Mill City) example sett](/variants/s8/dbi11db11dbii11lg11g11gi11w3r5~x2/sett.png)|

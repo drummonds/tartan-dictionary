@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braemar Castle](/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/)|
-|![Braemar Castle example sett](/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/sett.png)|
+| [Braemar Castle](/variants/s9/r52k5ly5lo5do5k2r6k1ly2~x2/)|
+|![Braemar Castle example sett](/variants/s9/r52k5ly5lo5do5k2r6k1ly2~x2/sett.png)|

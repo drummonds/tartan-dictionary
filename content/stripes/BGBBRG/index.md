@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Round Table (1997)](/setts/s6/db47dg14dp5do2r3dg7~x2/)|
-|![Round Table (1997) example sett](/setts/s6/db47dg14dp5do2r3dg7~x2/sett.png)|
+| [Round Table (1997)](/variants/s6/db47dg14dp5do2r3dg7~x2/)|
+|![Round Table (1997) example sett](/variants/s6/db47dg14dp5do2r3dg7~x2/sett.png)|

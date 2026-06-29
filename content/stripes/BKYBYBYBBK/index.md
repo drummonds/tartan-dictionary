@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ryukoku University Heian Senior High School](/setts/s10/b5k15lr5n9lr2db2lr2db2n9k3~x2/)|
-|![Ryukoku University Heian Senior High School example sett](/setts/s10/b5k15lr5n9lr2db2lr2db2n9k3~x2/sett.png)|
+| [Ryukoku University Heian Senior High School](/variants/s10/b5k15lr5n9lr2db2lr2db2n9k3~x2/)|
+|![Ryukoku University Heian Senior High School example sett](/variants/s10/b5k15lr5n9lr2db2lr2db2n9k3~x2/sett.png)|

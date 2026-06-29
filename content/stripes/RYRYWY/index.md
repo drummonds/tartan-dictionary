@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walsh, Michael Edward (Personal)](/setts/s6/lr56w30lr8r10lr3r20/)|
-|![Walsh, Michael Edward (Personal) example sett](/setts/s6/lr56w30lr8r10lr3r20/sett.png)|
+| [Walsh, Michael Edward (Personal)](/variants/s6/lr56w30lr8r10lr3r20/)|
+|![Walsh, Michael Edward (Personal) example sett](/variants/s6/lr56w30lr8r10lr3r20/sett.png)|

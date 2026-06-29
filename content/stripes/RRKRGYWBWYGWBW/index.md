@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundee #3](/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/)|
-|![Dundee #3 example sett](/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/sett.png)|
+| [Dundee #3](/variants/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/)|
+|![Dundee #3 example sett](/variants/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/sett.png)|

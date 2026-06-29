@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Creek Indian Nation](/setts/s5/db2g4ly1db1r2~x12/)|
-|![Creek Indian Nation example sett](/setts/s5/db2g4ly1db1r2~x12/sett.png)|
+| [Creek Indian Nation](/variants/s5/db2g4ly1db1r2~x12/)|
+|![Creek Indian Nation example sett](/variants/s5/db2g4ly1db1r2~x12/sett.png)|

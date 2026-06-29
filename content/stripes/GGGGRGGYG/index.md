@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Armagh](/setts/s9/g4ly2g17dg2r4dg2g3dg11g2~x2/)|
-|![Armagh example sett](/setts/s9/g4ly2g17dg2r4dg2g3dg11g2~x2/sett.png)|
-| [Armagh, County](/setts/s9/dgi4ly2dgi17dg2r4dg2dgi3dg11dgi2~x2/)|
-|![Armagh, County example sett](/setts/s9/dgi4ly2dgi17dg2r4dg2dgi3dg11dgi2~x2/sett.png)|
+| [Armagh](/variants/s9/g4ly2g17dg2r4dg2g3dg11g2~x2/)|
+|![Armagh example sett](/variants/s9/g4ly2g17dg2r4dg2g3dg11g2~x2/sett.png)|
+| [Armagh, County](/variants/s9/dgi4ly2dgi17dg2r4dg2dgi3dg11dgi2~x2/)|
+|![Armagh, County example sett](/variants/s9/dgi4ly2dgi17dg2r4dg2dgi3dg11dgi2~x2/sett.png)|

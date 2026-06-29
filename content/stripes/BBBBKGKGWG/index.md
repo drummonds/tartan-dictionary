@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Morningside (Fashion)](/setts/s10/dp4db5dp3db50k15g3k5g32w2g3/)|
-|![Spirit of Morningside (Fashion) example sett](/setts/s10/dp4db5dp3db50k15g3k5g32w2g3/sett.png)|
+| [Spirit of Morningside (Fashion)](/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/)|
+|![Spirit of Morningside (Fashion) example sett](/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/sett.png)|

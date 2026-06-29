@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jubilation (Commemorative)](/setts/s8/db8w2db11w13db30w13r11db2~x2/)|
-|![Jubilation (Commemorative) example sett](/setts/s8/db8w2db11w13db30w13r11db2~x2/sett.png)|
+| [Jubilation (Commemorative)](/variants/s8/db8w2db11w13db30w13r11db2~x2/)|
+|![Jubilation (Commemorative) example sett](/variants/s8/db8w2db11w13db30w13r11db2~x2/sett.png)|

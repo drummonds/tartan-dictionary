@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCord (Personal)](/setts/s7/dg6r2db1r3db16n20w2~x2/)|
-|![MacCord (Personal) example sett](/setts/s7/dg6r2db1r3db16n20w2~x2/sett.png)|
+| [MacCord (Personal)](/variants/s7/dg6r2db1r3db16n20w2~x2/)|
+|![MacCord (Personal) example sett](/variants/s7/dg6r2db1r3db16n20w2~x2/sett.png)|

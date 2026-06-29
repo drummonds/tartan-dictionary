@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks](/setts/s8/oi3k7oi2w2o12k2o2oi3~x2/)|
-|![Daks example sett](/setts/s8/oi3k7oi2w2o12k2o2oi3~x2/sett.png)|
+| [Daks](/variants/s8/oi3k7oi2w2o12k2o2oi3~x2/)|
+|![Daks example sett](/variants/s8/oi3k7oi2w2o12k2o2oi3~x2/sett.png)|

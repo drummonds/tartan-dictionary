@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silverton (Name)](/setts/s13/lb4b1w1b1k29lb3ly1k4lb20k2db1k3lb3~x2/)|
-|![Silverton (Name) example sett](/setts/s13/lb4b1w1b1k29lb3ly1k4lb20k2db1k3lb3~x2/sett.png)|
+| [Silverton (Name)](/variants/s13/lb4b1w1b1k29lb3ly1k4lb20k2db1k3lb3~x2/)|
+|![Silverton (Name) example sett](/variants/s13/lb4b1w1b1k29lb3ly1k4lb20k2db1k3lb3~x2/sett.png)|

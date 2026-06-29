@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Capricornica / Capricornia](/setts/s12/r10dg5r10dg5r10db10r10dg5r10dg5r10k3~x2/)|
-|![Capricornica / Capricornia example sett](/setts/s12/r10dg5r10dg5r10db10r10dg5r10dg5r10k3~x2/sett.png)|
+| [Capricornica / Capricornia](/variants/s12/r10dg5r10dg5r10db10r10dg5r10dg5r10k3~x2/)|
+|![Capricornica / Capricornia example sett](/variants/s12/r10dg5r10dg5r10db10r10dg5r10dg5r10k3~x2/sett.png)|

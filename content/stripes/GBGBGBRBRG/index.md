@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGlynn](/setts/s10/g18db3g3db3g2db8m23db2m4g2~x2/)|
-|![McGlynn example sett](/setts/s10/g18db3g3db3g2db8m23db2m4g2~x2/sett.png)|
+| [McGlynn](/variants/s10/g18db3g3db3g2db8m23db2m4g2~x2/)|
+|![McGlynn example sett](/variants/s10/g18db3g3db3g2db8m23db2m4g2~x2/sett.png)|

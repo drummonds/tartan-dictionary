@@ -24,5 +24,5 @@ It is a 29 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dryer](/setts/s29/db15ki1db1ki1db1ki7r8ki1ly3ki1r8ki7db8ki1k3ki1db8ki7r8ki1ly3ki1r8ki7db1ki1db1ki1db9~x4/)|
-|![Dryer example sett](/setts/s29/db15ki1db1ki1db1ki7r8ki1ly3ki1r8ki7db8ki1k3ki1db8ki7r8ki1ly3ki1r8ki7db1ki1db1ki1db9~x4/sett.png)|
+| [Dryer](/variants/s29/db15ki1db1ki1db1ki7r8ki1ly3ki1r8ki7db8ki1k3ki1db8ki7r8ki1ly3ki1r8ki7db1ki1db1ki1db9~x4/)|
+|![Dryer example sett](/variants/s29/db15ki1db1ki1db1ki7r8ki1ly3ki1r8ki7db8ki1k3ki1db8ki7r8ki1ly3ki1r8ki7db1ki1db1ki1db9~x4/sett.png)|

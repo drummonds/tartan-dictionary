@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinnison (Clan?)](/setts/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/)|
-|![Kinnison (Clan?) example sett](/setts/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/sett.png)|
+| [Kinnison (Clan?)](/variants/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/)|
+|![Kinnison (Clan?) example sett](/variants/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/sett.png)|

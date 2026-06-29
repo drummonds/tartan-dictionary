@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [First (Corporate)](/setts/s7/m4dp1m1dp12k6dt16w1~x2/)|
-|![First (Corporate) example sett](/setts/s7/m4dp1m1dp12k6dt16w1~x2/sett.png)|
-| [Heritage of Wales (Fashion)](/setts/s7/r10db4r6db30k10db5w2~x2/)|
-|![Heritage of Wales (Fashion) example sett](/setts/s7/r10db4r6db30k10db5w2~x2/sett.png)|
+| [First (Corporate)](/variants/s7/m4dp1m1dp12k6dt16w1~x2/)|
+|![First (Corporate) example sett](/variants/s7/m4dp1m1dp12k6dt16w1~x2/sett.png)|
+| [Heritage of Wales (Fashion)](/variants/s7/r10db4r6db30k10db5w2~x2/)|
+|![Heritage of Wales (Fashion) example sett](/variants/s7/r10db4r6db30k10db5w2~x2/sett.png)|

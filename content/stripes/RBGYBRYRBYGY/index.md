@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Monroig, Eric (Personal)](/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/)|
-|![Monroig, Eric (Personal) example sett](/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/sett.png)|
+| [Monroig, Eric (Personal)](/variants/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/)|
+|![Monroig, Eric (Personal) example sett](/variants/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/sett.png)|

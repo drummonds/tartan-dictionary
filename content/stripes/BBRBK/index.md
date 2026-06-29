@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O2 (Corporate)](/setts/s5/k15db2r15b6bi1~x2/)|
-|![O2 (Corporate) example sett](/setts/s5/k15db2r15b6bi1~x2/sett.png)|
+| [O2 (Corporate)](/variants/s5/k15db2r15b6bi1~x2/)|
+|![O2 (Corporate) example sett](/variants/s5/k15db2r15b6bi1~x2/sett.png)|

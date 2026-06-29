@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bryce](/setts/s4/r5n35r46o5~x2/)|
-|![Bryce example sett](/setts/s4/r5n35r46o5~x2/sett.png)|
+| [Bryce](/variants/s4/r5n35r46o5~x2/)|
+|![Bryce example sett](/variants/s4/r5n35r46o5~x2/sett.png)|

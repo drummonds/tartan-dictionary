@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moore Caledonian (Personal)](/setts/s6/r1k6g6ly1g6ly1~x6/)|
-|![Moore Caledonian (Personal) example sett](/setts/s6/r1k6g6ly1g6ly1~x6/sett.png)|
+| [Moore Caledonian (Personal)](/variants/s6/r1k6g6ly1g6ly1~x6/)|
+|![Moore Caledonian (Personal) example sett](/variants/s6/r1k6g6ly1g6ly1~x6/sett.png)|

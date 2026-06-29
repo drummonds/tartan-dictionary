@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harry/Parry](/setts/s10/k6o3k3o15r7k7r5k17r46o4/)|
-|![Harry/Parry example sett](/setts/s10/k6o3k3o15r7k7r5k17r46o4/sett.png)|
+| [Harry/Parry](/variants/s10/k6o3k3o15r7k7r5k17r46o4/)|
+|![Harry/Parry example sett](/variants/s10/k6o3k3o15r7k7r5k17r46o4/sett.png)|

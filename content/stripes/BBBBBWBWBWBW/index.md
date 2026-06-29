@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Costa, David (Personal)](/setts/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/)|
-|![Costa, David (Personal) example sett](/setts/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/sett.png)|
+| [Costa, David (Personal)](/variants/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/)|
+|![Costa, David (Personal) example sett](/variants/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/sett.png)|

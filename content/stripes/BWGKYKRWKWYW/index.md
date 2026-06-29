@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [EthosEnergy](/setts/s12/b10w1g10k40lr8k40r10w1k10w1lr10w1~x2/)|
-|![EthosEnergy example sett](/setts/s12/b10w1g10k40lr8k40r10w1k10w1lr10w1~x2/sett.png)|
+| [EthosEnergy](/variants/s12/b10w1g10k40lr8k40r10w1k10w1lr10w1~x2/)|
+|![EthosEnergy example sett](/variants/s12/b10w1g10k40lr8k40r10w1k10w1lr10w1~x2/sett.png)|

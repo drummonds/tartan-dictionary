@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norwegian Centennial](/setts/s12/w24t50k2t8k4t2k4t8k2r40w5t10/)|
-|![Norwegian Centennial example sett](/setts/s12/w24t50k2t8k4t2k4t8k2r40w5t10/sett.png)|
+| [Norwegian Centennial](/variants/s12/w24t50k2t8k4t2k4t8k2r40w5t10/)|
+|![Norwegian Centennial example sett](/variants/s12/w24t50k2t8k4t2k4t8k2r40w5t10/sett.png)|

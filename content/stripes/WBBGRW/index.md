@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Eeraerts, Laurent (Personal)](/setts/s6/w3b12db1g15m3w1~x4/)|
-|![Eeraerts, Laurent (Personal) example sett](/setts/s6/w3b12db1g15m3w1~x4/sett.png)|
+| [Eeraerts, Laurent (Personal)](/variants/s6/w3b12db1g15m3w1~x4/)|
+|![Eeraerts, Laurent (Personal) example sett](/variants/s6/w3b12db1g15m3w1~x4/sett.png)|

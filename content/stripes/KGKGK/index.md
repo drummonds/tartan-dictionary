@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCormick Hunting (Name)](/setts/s5/k3dg20k20g20k3~x2/)|
-|![MacCormick Hunting (Name) example sett](/setts/s5/k3dg20k20g20k3~x2/sett.png)|
+| [MacCormick Hunting (Name)](/variants/s5/k3dg20k20g20k3~x2/)|
+|![MacCormick Hunting (Name) example sett](/variants/s5/k3dg20k20g20k3~x2/sett.png)|

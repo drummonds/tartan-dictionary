@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Letang Family (Neuilly sur Seine, France) (Personal)](/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/)|
-|![Letang Family (Neuilly sur Seine, France) (Personal) example sett](/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/sett.png)|
+| [Letang Family (Neuilly sur Seine, France) (Personal)](/variants/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/)|
+|![Letang Family (Neuilly sur Seine, France) (Personal) example sett](/variants/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/sett.png)|

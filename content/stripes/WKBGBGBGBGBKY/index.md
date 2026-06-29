@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell Brown Personal Tartan Tartan Number: 17. Earliest known date: pre 1992 Specially made for Captain Campbell of the Blythswood family. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w9k1dr31g30db36g3db3g3db36g30dr31k1ly9~x2/)|
-|![Campbell Brown Personal Tartan Tartan Number: 17. Earliest known date: pre 1992 Specially made for Captain Campbell of the Blythswood family. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/w9k1dr31g30db36g3db3g3db36g30dr31k1ly9~x2/sett.png)|
+| [Campbell Brown Personal Tartan](/variants/s13/w9k1dr31g30db36g3db3g3db36g30dr31k1ly9~x2/)|
+|![Campbell Brown Personal Tartan example sett](/variants/s13/w9k1dr31g30db36g3db3g3db36g30dr31k1ly9~x2/sett.png)|

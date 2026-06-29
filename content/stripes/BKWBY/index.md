@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crinnion (Middlesbrough) (Personal)](/setts/s5/b3k1lb3p4lg3~x4/)|
-|![Crinnion (Middlesbrough) (Personal) example sett](/setts/s5/b3k1lb3p4lg3~x4/sett.png)|
+| [Crinnion (Middlesbrough) (Personal)](/variants/s5/b3k1lb3p4lg3~x4/)|
+|![Crinnion (Middlesbrough) (Personal) example sett](/variants/s5/b3k1lb3p4lg3~x4/sett.png)|

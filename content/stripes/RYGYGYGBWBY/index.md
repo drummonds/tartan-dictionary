@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruntsfield Links Golfing Society](/setts/s11/r6lg22g8lg4g12lg2g18db8lt12db35ly4/)|
-|![Bruntsfield Links Golfing Society example sett](/setts/s11/r6lg22g8lg4g12lg2g18db8lt12db35ly4/sett.png)|
+| [Bruntsfield Links Golfing Society](/variants/s11/r6lg22g8lg4g12lg2g18db8lt12db35ly4/)|
+|![Bruntsfield Links Golfing Society example sett](/variants/s11/r6lg22g8lg4g12lg2g18db8lt12db35ly4/sett.png)|

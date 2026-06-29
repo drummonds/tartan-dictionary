@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pavelka Limited](/setts/s8/w3k48lo5w3lo3gi2g5lt3~x2/)|
-|![Pavelka Limited example sett](/setts/s8/w3k48lo5w3lo3gi2g5lt3~x2/sett.png)|
+| [Pavelka Limited](/variants/s8/w3k48lo5w3lo3gi2g5lt3~x2/)|
+|![Pavelka Limited example sett](/variants/s8/w3k48lo5w3lo3gi2g5lt3~x2/sett.png)|

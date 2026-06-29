@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/)|
-|![MacDonell of Glengarry example sett](/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/sett.png)|
+| [MacDonell of Glengarry](/variants/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/)|
+|![MacDonell of Glengarry example sett](/variants/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/sett.png)|

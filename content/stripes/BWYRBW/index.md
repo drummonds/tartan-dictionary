@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cairngorm](/setts/s6/n2w2ly7o14n2w2~x2/)|
-|![Cairngorm example sett](/setts/s6/n2w2ly7o14n2w2~x2/sett.png)|
+| [Cairngorm](/variants/s6/n2w2ly7o14n2w2~x2/)|
+|![Cairngorm example sett](/variants/s6/n2w2ly7o14n2w2~x2/sett.png)|

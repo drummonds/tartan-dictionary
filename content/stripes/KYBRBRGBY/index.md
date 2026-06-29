@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coats (New Zealand)](/setts/s9/k9lo6db9o2do3o2dg17db17lg5~x2/)|
-|![Coats (New Zealand) example sett](/setts/s9/k9lo6db9o2do3o2dg17db17lg5~x2/sett.png)|
+| [Coats (New Zealand)](/variants/s9/k9lo6db9o2do3o2dg17db17lg5~x2/)|
+|![Coats (New Zealand) example sett](/variants/s9/k9lo6db9o2do3o2dg17db17lg5~x2/sett.png)|

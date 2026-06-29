@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spens/Spence](/setts/s14/r56w2t6w2g32r11t6w5~x2/)|
-|![Spens/Spence example sett](/setts/s14/r56w2t6w2g32r11t6w5~x2/sett.png)|
+| [Spens/Spence](/variants/s14/r56w2t6w2g32r11t6w5~x2/)|
+|![Spens/Spence example sett](/variants/s14/r56w2t6w2g32r11t6w5~x2/sett.png)|

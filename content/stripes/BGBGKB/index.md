@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRobart](/setts/s6/db72k21g16t3g17t3~x2/)|
-|![MacRobart example sett](/setts/s6/db72k21g16t3g17t3~x2/sett.png)|
+| [MacRobart](/variants/s6/db72k21g16t3g17t3~x2/)|
+|![MacRobart example sett](/variants/s6/db72k21g16t3g17t3~x2/sett.png)|

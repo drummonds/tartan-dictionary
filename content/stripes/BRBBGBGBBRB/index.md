@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Woolmark Plaid, (Corporate)](/setts/s11/db30r1db6dt16y16db1y16dt16db16r1db4~x2/)|
-|![Woolmark Plaid, (Corporate) example sett](/setts/s11/db30r1db6dt16y16db1y16dt16db16r1db4~x2/sett.png)|
+| [Woolmark Plaid, (Corporate)](/variants/s11/db30r1db6dt16y16db1y16dt16db16r1db4~x2/)|
+|![Woolmark Plaid, (Corporate) example sett](/variants/s11/db30r1db6dt16y16db1y16dt16db16r1db4~x2/sett.png)|

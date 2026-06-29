@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arrol](/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/)|
-|![Arrol example sett](/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/sett.png)|
-| [Arrol](/setts/s9/r5db15k15g15w2g15k15g15w2~x2/)|
-|![Arrol example sett](/setts/s9/r5db15k15g15w2g15k15g15w2~x2/sett.png)|
+| [Arrol](/variants/s9/r2db4k4g4lb1g4k4g4lb1~x4/)|
+|![Arrol example sett](/variants/s9/r2db4k4g4lb1g4k4g4lb1~x4/sett.png)|
+| [Arrol](/variants/s9/r5db15k15g15w2g15k15g15w2~x2/)|
+|![Arrol example sett](/variants/s9/r5db15k15g15w2g15k15g15w2~x2/sett.png)|

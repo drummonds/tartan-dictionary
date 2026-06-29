@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gallowater](/setts/s6/r10k18t10db18g40ly5/)|
-|![Gallowater example sett](/setts/s6/r10k18t10db18g40ly5/sett.png)|
-| [Gallowater, Original](/setts/s6/r10k17t10dp17g40ly10~x2/)|
-|![Gallowater, Original example sett](/setts/s6/r10k17t10dp17g40ly10~x2/sett.png)|
+| [Gallowater](/variants/s6/r10k18t10db18g40ly5/)|
+|![Gallowater example sett](/variants/s6/r10k18t10db18g40ly5/sett.png)|
+| [Gallowater, Original](/variants/s6/r10k17t10dp17g40ly10~x2/)|
+|![Gallowater, Original example sett](/variants/s6/r10k17t10dp17g40ly10~x2/sett.png)|

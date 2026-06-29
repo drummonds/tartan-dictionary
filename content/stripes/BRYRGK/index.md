@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harding (Florida) (Personal)](/setts/s6/dt13r50ly7m6g4k4~x2/)|
-|![Harding (Florida) (Personal) example sett](/setts/s6/dt13r50ly7m6g4k4~x2/sett.png)|
+| [Harding (Florida) (Personal)](/variants/s6/dt13r50ly7m6g4k4~x2/)|
+|![Harding (Florida) (Personal) example sett](/variants/s6/dt13r50ly7m6g4k4~x2/sett.png)|

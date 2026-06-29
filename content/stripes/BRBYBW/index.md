@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Superfast Ferries (Corporate)](/setts/s6/db1r16db6ly4db6w1~x4/)|
-|![Superfast Ferries (Corporate) example sett](/setts/s6/db1r16db6ly4db6w1~x4/sett.png)|
+| [Superfast Ferries (Corporate)](/variants/s6/db1r16db6ly4db6w1~x4/)|
+|![Superfast Ferries (Corporate) example sett](/variants/s6/db1r16db6ly4db6w1~x4/sett.png)|

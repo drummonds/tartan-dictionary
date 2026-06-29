@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Meirhaeghe, Van](/setts/s12/db28k6lo2r2k6db12dbi5db5dbi5db3r8w3~x2/)|
-|![Meirhaeghe, Van example sett](/setts/s12/db28k6lo2r2k6db12dbi5db5dbi5db3r8w3~x2/sett.png)|
-| [Meirhaeghe, Van](/setts/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2/)|
-|![Meirhaeghe, Van example sett](/setts/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2/sett.png)|
+| [Meirhaeghe, Van](/variants/s12/db28k6lo2r2k6db12dbi5db5dbi5db3r8w3~x2/)|
+|![Meirhaeghe, Van example sett](/variants/s12/db28k6lo2r2k6db12dbi5db5dbi5db3r8w3~x2/sett.png)|
+| [Meirhaeghe, Van](/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2/)|
+|![Meirhaeghe, Van example sett](/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2/sett.png)|

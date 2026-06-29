@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glencross (Tynron) (Personal)](/setts/s6/o3dgi13dt13lo2dg34w3~x2/)|
-|![Glencross (Tynron) (Personal) example sett](/setts/s6/o3dgi13dt13lo2dg34w3~x2/sett.png)|
-| [Glencross, Tynron (Name)](/setts/s6/r3y13db13ly2dg34w3~x2/)|
-|![Glencross, Tynron (Name) example sett](/setts/s6/r3y13db13ly2dg34w3~x2/sett.png)|
+| [Glencross (Tynron) (Personal)](/variants/s6/o3dgi13dt13lo2dg34w3~x2/)|
+|![Glencross (Tynron) (Personal) example sett](/variants/s6/o3dgi13dt13lo2dg34w3~x2/sett.png)|
+| [Glencross, Tynron (Name)](/variants/s6/r3y13db13ly2dg34w3~x2/)|
+|![Glencross, Tynron (Name) example sett](/variants/s6/r3y13db13ly2dg34w3~x2/sett.png)|

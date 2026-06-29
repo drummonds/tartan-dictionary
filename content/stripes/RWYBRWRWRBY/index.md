@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kuehle Hunting (Personal)](/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/)|
-|![Kuehle Hunting (Personal) example sett](/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/sett.png)|
+| [Kuehle Hunting (Personal)](/variants/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/)|
+|![Kuehle Hunting (Personal) example sett](/variants/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gray Hunting](/setts/s20/k3w1g29o8m2o2m2o2m8g7k2~x2/)|
-|![Gray Hunting example sett](/setts/s20/k3w1g29o8m2o2m2o2m8g7k2~x2/sett.png)|
+| [Gray Hunting](/variants/s20/k3w1g29o8m2o2m2o2m8g7k2~x2/)|
+|![Gray Hunting example sett](/variants/s20/k3w1g29o8m2o2m2o2m8g7k2~x2/sett.png)|

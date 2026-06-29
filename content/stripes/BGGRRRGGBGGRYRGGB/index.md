@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Indianapolis MPD Emerald Society](/setts/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/)|
-|![Indianapolis MPD Emerald Society example sett](/setts/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/sett.png)|
+| [Indianapolis MPD Emerald Society](/variants/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/)|
+|![Indianapolis MPD Emerald Society example sett](/variants/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/sett.png)|

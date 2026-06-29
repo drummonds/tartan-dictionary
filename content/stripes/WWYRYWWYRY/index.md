@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Banatherton Union](/setts/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/)|
-|![Banatherton Union example sett](/setts/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/sett.png)|
+| [Banatherton Union](/variants/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/)|
+|![Banatherton Union example sett](/variants/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/sett.png)|

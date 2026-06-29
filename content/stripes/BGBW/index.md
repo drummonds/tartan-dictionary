@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Meadow Check (Fashion)](/setts/s4/b4g8b18w3~x2/)|
-|![Blue Meadow Check (Fashion) example sett](/setts/s4/b4g8b18w3~x2/sett.png)|
-| [Unidentified No 78](/setts/s4/db2dg7db7w1~x2/)|
-|![Unidentified No 78 example sett](/setts/s4/db2dg7db7w1~x2/sett.png)|
-| [Unnamed No 78](/setts/s4/db2g7db7w1~x2/)|
-|![Unnamed No 78 example sett](/setts/s4/db2g7db7w1~x2/sett.png)|
+| [Blue Meadow Check (Fashion)](/variants/s4/b4g8b18w3~x2/)|
+|![Blue Meadow Check (Fashion) example sett](/variants/s4/b4g8b18w3~x2/sett.png)|
+| [Unidentified No 78](/variants/s4/db2dg7db7w1~x2/)|
+|![Unidentified No 78 example sett](/variants/s4/db2dg7db7w1~x2/sett.png)|
+| [Unnamed No 78](/variants/s4/db2g7db7w1~x2/)|
+|![Unnamed No 78 example sett](/variants/s4/db2g7db7w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glendronach Corporate Tartan Tartan Number: 2293. Earliest known date: 1989 A copyright design created for the Glendronach Company. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/)|
-|![Glendronach Corporate Tartan Tartan Number: 2293. Earliest known date: 1989 A copyright design created for the Glendronach Company. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/sett.png)|
+| [Glendronach Corporate Tartan](/variants/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/)|
+|![Glendronach Corporate Tartan example sett](/variants/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/sett.png)|

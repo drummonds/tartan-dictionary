@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bartlett of El Paso (Name)](/setts/s11/r3w2dt2lo1dt39lo1dt1y2dt1ly15dt1~x2/)|
-|![Bartlett of El Paso (Name) example sett](/setts/s11/r3w2dt2lo1dt39lo1dt1y2dt1ly15dt1~x2/sett.png)|
+| [Bartlett of El Paso (Name)](/variants/s11/r3w2dt2lo1dt39lo1dt1y2dt1ly15dt1~x2/)|
+|![Bartlett of El Paso (Name) example sett](/variants/s11/r3w2dt2lo1dt39lo1dt1y2dt1ly15dt1~x2/sett.png)|

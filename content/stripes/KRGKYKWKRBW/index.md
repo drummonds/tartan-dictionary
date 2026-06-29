@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilmorie](/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/)|
-|![Kilmorie example sett](/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/sett.png)|
+| [Kilmorie](/variants/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/)|
+|![Kilmorie example sett](/variants/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/sett.png)|

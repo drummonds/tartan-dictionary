@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robertson of Struan 1816](/setts/s7/r3db1r1db11g10r2db2~x4/)|
-|![Robertson of Struan 1816 example sett](/setts/s7/r3db1r1db11g10r2db2~x4/sett.png)|
+| [Robertson of Struan 1816](/variants/s7/r3db1r1db11g10r2db2~x4/)|
+|![Robertson of Struan 1816 example sett](/variants/s7/r3db1r1db11g10r2db2~x4/sett.png)|

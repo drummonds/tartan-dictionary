@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCandlish Dress, Grey (Name)](/setts/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4/)|
-|![McCandlish Dress, Grey (Name) example sett](/setts/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4/sett.png)|
+| [McCandlish Dress, Grey (Name)](/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4/)|
+|![McCandlish Dress, Grey (Name) example sett](/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4/sett.png)|

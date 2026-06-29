@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson of Cluny (Black and White)](/setts/s7/w5r3w35k28w4k11w2~x2/)|
-|![MacPherson of Cluny (Black and White) example sett](/setts/s7/w5r3w35k28w4k11w2~x2/sett.png)|
+| [MacPherson of Cluny (Black and White)](/variants/s7/w5r3w35k28w4k11w2~x2/)|
+|![MacPherson of Cluny (Black and White) example sett](/variants/s7/w5r3w35k28w4k11w2~x2/sett.png)|

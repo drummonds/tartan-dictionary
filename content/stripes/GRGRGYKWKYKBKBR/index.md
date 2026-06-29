@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson's No 181, (Stewart)](/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/)|
-|![Wilson's No 181, (Stewart) example sett](/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/sett.png)|
+| [Wilson's No 181, (Stewart)](/variants/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/)|
+|![Wilson's No 181, (Stewart) example sett](/variants/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/sett.png)|

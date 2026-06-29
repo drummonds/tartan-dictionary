@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fermanagh, County](/setts/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/)|
-|![Fermanagh, County example sett](/setts/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/sett.png)|
+| [Fermanagh, County](/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/)|
+|![Fermanagh, County example sett](/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/sett.png)|

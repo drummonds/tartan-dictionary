@@ -24,5 +24,5 @@ It is a 38 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Cant #07](/setts/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/)|
-|![Unidentified Cant #07 example sett](/setts/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/sett.png)|
+| [Unidentified Cant #07](/variants/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/)|
+|![Unidentified Cant #07 example sett](/variants/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/sett.png)|

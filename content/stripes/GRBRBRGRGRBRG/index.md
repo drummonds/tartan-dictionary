@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser, Wedding dress](/tartans/g2r3db2r48db60r21g2r21g60r48db2r3g2/)|
-|![Fraser, Wedding dress example sett](/setts/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2/sett.png)|
+| [Fraser, Wedding dress](/setts/g2r3db2r48db60r21g2r21g60r48db2r3g2/)|
+|![Fraser, Wedding dress example sett](/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell & Co (Beauly) (Corporate)](/setts/s9/g4r5g31r5g31lo5g4lo27ly3~x2/)|
-|![Campbell & Co (Beauly) (Corporate) example sett](/setts/s9/g4r5g31r5g31lo5g4lo27ly3~x2/sett.png)|
+| [Campbell & Co (Beauly) (Corporate)](/variants/s9/g4r5g31r5g31lo5g4lo27ly3~x2/)|
+|![Campbell & Co (Beauly) (Corporate) example sett](/variants/s9/g4r5g31r5g31lo5g4lo27ly3~x2/sett.png)|

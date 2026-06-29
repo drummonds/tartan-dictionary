@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asher (Personal)](/setts/s8/dg40ly2db3r4db3ly2dg40w3~x2/)|
-|![Asher (Personal) example sett](/setts/s8/dg40ly2db3r4db3ly2dg40w3~x2/sett.png)|
-| [Asher (Personal)](/setts/s8/g40ly2db3r4db3ly2g40w3~x2/)|
-|![Asher (Personal) example sett](/setts/s8/g40ly2db3r4db3ly2g40w3~x2/sett.png)|
+| [Asher (Personal)](/variants/s8/dg40ly2db3r4db3ly2dg40w3~x2/)|
+|![Asher (Personal) example sett](/variants/s8/dg40ly2db3r4db3ly2dg40w3~x2/sett.png)|
+| [Asher (Personal)](/variants/s8/g40ly2db3r4db3ly2g40w3~x2/)|
+|![Asher (Personal) example sett](/variants/s8/g40ly2db3r4db3ly2g40w3~x2/sett.png)|

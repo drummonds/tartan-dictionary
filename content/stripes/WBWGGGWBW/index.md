@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bird Family (Australia) (Personal)](/setts/s9/w3n19w1yii17y11yi10w1n3w1~x2/)|
-|![Bird Family (Australia) (Personal) example sett](/setts/s9/w3n19w1yii17y11yi10w1n3w1~x2/sett.png)|
+| [Bird Family (Australia) (Personal)](/variants/s9/w3n19w1yii17y11yi10w1n3w1~x2/)|
+|![Bird Family (Australia) (Personal) example sett](/variants/s9/w3n19w1yii17y11yi10w1n3w1~x2/sett.png)|

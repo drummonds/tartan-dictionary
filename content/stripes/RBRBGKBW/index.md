@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Margaret Youth Group (Corporate)](/setts/s8/r30db5r3db33g8k3db8w2~x2/)|
-|![St. Margaret Youth Group (Corporate) example sett](/setts/s8/r30db5r3db33g8k3db8w2~x2/sett.png)|
+| [St. Margaret Youth Group (Corporate)](/variants/s8/r30db5r3db33g8k3db8w2~x2/)|
+|![St. Margaret Youth Group (Corporate) example sett](/variants/s8/r30db5r3db33g8k3db8w2~x2/sett.png)|

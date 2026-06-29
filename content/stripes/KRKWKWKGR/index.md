@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Southdown (Fashion)](/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/)|
-|![Southdown (Fashion) example sett](/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/sett.png)|
+| [Southdown (Fashion)](/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/)|
+|![Southdown (Fashion) example sett](/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/sett.png)|

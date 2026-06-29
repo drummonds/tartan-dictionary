@@ -24,9 +24,9 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Womble](/setts/s9/w4db8w1dbi1g6dbi3r6dbi1w4~x2/)|
-|![Womble example sett](/setts/s9/w4db8w1dbi1g6dbi3r6dbi1w4~x2/sett.png)|
-| [Wombles #2](/setts/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/)|
-|![Wombles #2 example sett](/setts/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/sett.png)|
-| [Wombles 3 (Corporate)](/setts/s9/w4dbi8w1db1g6db3r6db1w4~x4/)|
-|![Wombles 3 (Corporate) example sett](/setts/s9/w4dbi8w1db1g6db3r6db1w4~x4/sett.png)|
+| [Womble](/variants/s9/w4db8w1dbi1g6dbi3r6dbi1w4~x2/)|
+|![Womble example sett](/variants/s9/w4db8w1dbi1g6dbi3r6dbi1w4~x2/sett.png)|
+| [Wombles #2](/variants/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/)|
+|![Wombles #2 example sett](/variants/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/sett.png)|
+| [Wombles 3 (Corporate)](/variants/s9/w4dbi8w1db1g6db3r6db1w4~x4/)|
+|![Wombles 3 (Corporate) example sett](/variants/s9/w4dbi8w1db1g6db3r6db1w4~x4/sett.png)|

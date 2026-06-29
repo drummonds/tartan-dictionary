@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roman Family Tribute (Personal)](/setts/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/)|
-|![Roman Family Tribute (Personal) example sett](/setts/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/sett.png)|
+| [Roman Family Tribute (Personal)](/variants/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/)|
+|![Roman Family Tribute (Personal) example sett](/variants/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/sett.png)|

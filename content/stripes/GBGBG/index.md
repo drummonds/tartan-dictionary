@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCallum, High School](/setts/s5/y9db3y1db11y1~x6/)|
-|![MacCallum, High School example sett](/setts/s5/y9db3y1db11y1~x6/sett.png)|
+| [MacCallum, High School](/variants/s5/y9db3y1db11y1~x6/)|
+|![MacCallum, High School example sett](/variants/s5/y9db3y1db11y1~x6/sett.png)|

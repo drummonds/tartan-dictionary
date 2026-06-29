@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McIntosh, Stuart (Personal)](/setts/s6/dp20t8g8db8dp33r3~x2/)|
-|![McIntosh, Stuart (Personal) example sett](/setts/s6/dp20t8g8db8dp33r3~x2/sett.png)|
+| [McIntosh, Stuart (Personal)](/variants/s6/dp20t8g8db8dp33r3~x2/)|
+|![McIntosh, Stuart (Personal) example sett](/variants/s6/dp20t8g8db8dp33r3~x2/sett.png)|

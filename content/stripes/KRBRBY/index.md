@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murdoch](/setts/s6/k2m1db17m17dt1ly2~x4/)|
-|![Murdoch example sett](/setts/s6/k2m1db17m17dt1ly2~x4/sett.png)|
+| [Murdoch](/variants/s6/k2m1db17m17dt1ly2~x4/)|
+|![Murdoch example sett](/variants/s6/k2m1db17m17dt1ly2~x4/sett.png)|

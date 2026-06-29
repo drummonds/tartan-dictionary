@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hickory](/setts/s10/db4yi30do2yi2do14w2do2w1do6y3~x2/)|
-|![Hickory example sett](/setts/s10/db4yi30do2yi2do14w2do2w1do6y3~x2/sett.png)|
+| [Hickory](/variants/s10/db4yi30do2yi2do14w2do2w1do6y3~x2/)|
+|![Hickory example sett](/variants/s10/db4yi30do2yi2do14w2do2w1do6y3~x2/sett.png)|

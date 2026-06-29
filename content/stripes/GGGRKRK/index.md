@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cook (Name)](/setts/s7/dg12g6dg6r15k1r1k2~x2/)|
-|![Cook (Name) example sett](/setts/s7/dg12g6dg6r15k1r1k2~x2/sett.png)|
+| [Cook (Name)](/variants/s7/dg12g6dg6r15k1r1k2~x2/)|
+|![Cook (Name) example sett](/variants/s7/dg12g6dg6r15k1r1k2~x2/sett.png)|

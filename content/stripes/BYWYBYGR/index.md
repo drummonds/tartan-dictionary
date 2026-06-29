@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Curd (2013)](/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/)|
-|![Curd (2013) example sett](/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/sett.png)|
+| [Curd (2013)](/variants/s8/r1g1ly1t9ly3w3lr9t1~x4/)|
+|![Curd (2013) example sett](/variants/s8/r1g1ly1t9ly3w3lr9t1~x4/sett.png)|

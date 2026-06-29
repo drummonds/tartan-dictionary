@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Styrian](/setts/s8/o16dg29n19g8n19dg29o16r4~x2/)|
-|![Styrian example sett](/setts/s8/o16dg29n19g8n19dg29o16r4~x2/sett.png)|
+| [Styrian](/variants/s8/o16dg29n19g8n19dg29o16r4~x2/)|
+|![Styrian example sett](/variants/s8/o16dg29n19g8n19dg29o16r4~x2/sett.png)|

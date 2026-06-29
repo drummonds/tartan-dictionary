@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacFie Dress](/setts/s9/w1r12g2r2w16r2g2r12lo1~x4/)|
-|![MacFie Dress example sett](/setts/s9/w1r12g2r2w16r2g2r12lo1~x4/sett.png)|
+| [MacFie Dress](/variants/s9/w1r12g2r2w16r2g2r12lo1~x4/)|
+|![MacFie Dress example sett](/variants/s9/w1r12g2r2w16r2g2r12lo1~x4/sett.png)|

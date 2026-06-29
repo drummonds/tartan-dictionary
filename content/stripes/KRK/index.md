@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bodog](/setts/s3/k80r1k60~x2/)|
-|![Bodog example sett](/setts/s3/k80r1k60~x2/sett.png)|
-| [Red Watch](/setts/s3/k10r3k1~x4/)|
-|![Red Watch example sett](/setts/s3/k10r3k1~x4/sett.png)|
+| [Bodog](/variants/s3/k80r1k60~x2/)|
+|![Bodog example sett](/variants/s3/k80r1k60~x2/sett.png)|
+| [Red Watch](/variants/s3/k10r3k1~x4/)|
+|![Red Watch example sett](/variants/s3/k10r3k1~x4/sett.png)|

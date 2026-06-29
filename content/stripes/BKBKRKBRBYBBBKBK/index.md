@@ -24,7 +24,7 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pounds](/setts/s16/n21k3n15k4o6k3n2r3n1ly2n1p3n18k2n2k2~x2/)|
-|![Pounds example sett](/setts/s16/n21k3n15k4o6k3n2r3n1ly2n1p3n18k2n2k2~x2/sett.png)|
-| [Pounds (Name)](/setts/s16/n21k3n15k4o6k3n2r3n1lo2n1dp3n18k2n2k2~x2/)|
-|![Pounds (Name) example sett](/setts/s16/n21k3n15k4o6k3n2r3n1lo2n1dp3n18k2n2k2~x2/sett.png)|
+| [Pounds](/variants/s16/n21k3n15k4o6k3n2r3n1ly2n1p3n18k2n2k2~x2/)|
+|![Pounds example sett](/variants/s16/n21k3n15k4o6k3n2r3n1ly2n1p3n18k2n2k2~x2/sett.png)|
+| [Pounds (Name)](/variants/s16/n21k3n15k4o6k3n2r3n1lo2n1dp3n18k2n2k2~x2/)|
+|![Pounds (Name) example sett](/variants/s16/n21k3n15k4o6k3n2r3n1lo2n1dp3n18k2n2k2~x2/sett.png)|

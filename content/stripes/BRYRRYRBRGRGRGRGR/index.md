@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Confrerie de Vouvray](/setts/s17/dt8r4ly18r4ri19ly4ri19dt6ri4g1ri4g1ri4g1ri4g1ri4~x2/)|
-|![Confrerie de Vouvray example sett](/setts/s17/dt8r4ly18r4ri19ly4ri19dt6ri4g1ri4g1ri4g1ri4g1ri4~x2/sett.png)|
+| [Confrerie de Vouvray](/variants/s17/dt8r4ly18r4ri19ly4ri19dt6ri4g1ri4g1ri4g1ri4g1ri4~x2/)|
+|![Confrerie de Vouvray example sett](/variants/s17/dt8r4ly18r4ri19ly4ri19dt6ri4g1ri4g1ri4g1ri4g1ri4~x2/sett.png)|

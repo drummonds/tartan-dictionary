@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dabney Red (Personal)](/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/)|
-|![Dabney Red (Personal) example sett](/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/sett.png)|
+| [Dabney Red (Personal)](/variants/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/)|
+|![Dabney Red (Personal) example sett](/variants/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/sett.png)|

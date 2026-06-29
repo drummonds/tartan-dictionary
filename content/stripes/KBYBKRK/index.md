@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perkins (2015)](/setts/s7/k3t10lo5t29k10r6k2~x2/)|
-|![Perkins (2015) example sett](/setts/s7/k3t10lo5t29k10r6k2~x2/sett.png)|
-| [Perkins 2015](/setts/s7/k3t10ly5t29k10r6k2~x2/)|
-|![Perkins 2015 example sett](/setts/s7/k3t10ly5t29k10r6k2~x2/sett.png)|
+| [Perkins (2015)](/variants/s7/k3t10lo5t29k10r6k2~x2/)|
+|![Perkins (2015) example sett](/variants/s7/k3t10lo5t29k10r6k2~x2/sett.png)|
+| [Perkins 2015](/variants/s7/k3t10ly5t29k10r6k2~x2/)|
+|![Perkins 2015 example sett](/variants/s7/k3t10ly5t29k10r6k2~x2/sett.png)|

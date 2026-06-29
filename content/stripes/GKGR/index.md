@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kincaid of Kincaid](/setts/s4/g16k11g16r2~x4/)|
-|![Kincaid of Kincaid example sett](/setts/s4/g16k11g16r2~x4/sett.png)|
-| [Wilson's No.094](/setts/s4/g4k5g4r2~x2/)|
-|![Wilson's No.094 example sett](/setts/s4/g4k5g4r2~x2/sett.png)|
+| [Kincaid of Kincaid](/variants/s4/g16k11g16r2~x4/)|
+|![Kincaid of Kincaid example sett](/variants/s4/g16k11g16r2~x4/sett.png)|
+| [Wilson's No.094](/variants/s4/g4k5g4r2~x2/)|
+|![Wilson's No.094 example sett](/variants/s4/g4k5g4r2~x2/sett.png)|

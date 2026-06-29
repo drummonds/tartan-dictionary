@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Columba of Iona (School)](/setts/s8/db14m3db14dy6db14w4db14ly3~x2/)|
-|![Columba of Iona (School) example sett](/setts/s8/db14m3db14dy6db14w4db14ly3~x2/sett.png)|
+| [Columba of Iona (School)](/variants/s8/db14m3db14dy6db14w4db14ly3~x2/)|
+|![Columba of Iona (School) example sett](/variants/s8/db14m3db14dy6db14w4db14ly3~x2/sett.png)|

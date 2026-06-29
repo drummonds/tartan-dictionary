@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maresh](/setts/s9/k3ly3g22db6k17g6db22r3db3~x2/)|
-|![Maresh example sett](/setts/s9/k3ly3g22db6k17g6db22r3db3~x2/sett.png)|
+| [Maresh](/variants/s9/k3ly3g22db6k17g6db22r3db3~x2/)|
+|![Maresh example sett](/variants/s9/k3ly3g22db6k17g6db22r3db3~x2/sett.png)|

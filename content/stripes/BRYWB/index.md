@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haughey (2015)](/setts/s5/do5r21lo21w2db1~x2/)|
-|![Haughey (2015) example sett](/setts/s5/do5r21lo21w2db1~x2/sett.png)|
+| [Haughey (2015)](/variants/s5/do5r21lo21w2db1~x2/)|
+|![Haughey (2015) example sett](/variants/s5/do5r21lo21w2db1~x2/sett.png)|

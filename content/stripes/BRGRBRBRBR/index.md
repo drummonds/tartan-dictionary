@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nithsdale (Dalgliesh)](/setts/s10/db16r3g3r10db24r3db3r3db3r10~x2/)|
-|![Nithsdale (Dalgliesh) example sett](/setts/s10/db16r3g3r10db24r3db3r3db3r10~x2/sett.png)|
+| [Nithsdale (Dalgliesh)](/variants/s10/db16r3g3r10db24r3db3r3db3r10~x2/)|
+|![Nithsdale (Dalgliesh) example sett](/variants/s10/db16r3g3r10db24r3db3r3db3r10~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacMillan (1946)](/setts/s16/g22k2g5k2ly10k3ly10k2g5k2g22r8k2r8k2r8~x2/)|
-|![MacMillan (1946) example sett](/setts/s16/g22k2g5k2ly10k3ly10k2g5k2g22r8k2r8k2r8~x2/sett.png)|
+| [MacMillan (1946)](/variants/s16/g22k2g5k2ly10k3ly10k2g5k2g22r8k2r8k2r8~x2/)|
+|![MacMillan (1946) example sett](/variants/s16/g22k2g5k2ly10k3ly10k2g5k2g22r8k2r8k2r8~x2/sett.png)|

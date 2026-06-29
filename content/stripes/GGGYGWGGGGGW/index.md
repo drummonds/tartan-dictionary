@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kelly Dress](/setts/s12/y68dy4g9lr2g3w3g3dy12y6g3y3w3~x2/)|
-|![Kelly Dress example sett](/setts/s12/y68dy4g9lr2g3w3g3dy12y6g3y3w3~x2/sett.png)|
+| [Kelly Dress](/variants/s12/y68dy4g9lr2g3w3g3dy12y6g3y3w3~x2/)|
+|![Kelly Dress example sett](/variants/s12/y68dy4g9lr2g3w3g3dy12y6g3y3w3~x2/sett.png)|

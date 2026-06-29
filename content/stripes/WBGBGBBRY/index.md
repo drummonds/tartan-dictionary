@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McLion (Corporate)](/setts/s9/w1dbi6g1dbi1g1dbi1db4r5lo1~x4/)|
-|![McLion (Corporate) example sett](/setts/s9/w1dbi6g1dbi1g1dbi1db4r5lo1~x4/sett.png)|
+| [McLion (Corporate)](/variants/s9/w1dbi6g1dbi1g1dbi1db4r5lo1~x4/)|
+|![McLion (Corporate) example sett](/variants/s9/w1dbi6g1dbi1g1dbi1db4r5lo1~x4/sett.png)|

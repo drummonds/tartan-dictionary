@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Masai Shuka 29 (Artefact)](/setts/s8/r5db20r3db20k6db3lb2db1~x2/)|
-|![Masai Shuka 29 (Artefact) example sett](/setts/s8/r5db20r3db20k6db3lb2db1~x2/sett.png)|
+| [Masai Shuka 29 (Artefact)](/variants/s8/r5db20r3db20k6db3lb2db1~x2/)|
+|![Masai Shuka 29 (Artefact) example sett](/variants/s8/r5db20r3db20k6db3lb2db1~x2/sett.png)|

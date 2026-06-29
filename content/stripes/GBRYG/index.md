@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cub Scouts of America](/setts/s5/g10db2r8lo2g5~x4/)|
-|![Cub Scouts of America example sett](/setts/s5/g10db2r8lo2g5~x4/sett.png)|
+| [Cub Scouts of America](/variants/s5/g10db2r8lo2g5~x4/)|
+|![Cub Scouts of America example sett](/variants/s5/g10db2r8lo2g5~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Slessor (Personal)](/setts/s14/dg2lo1dg11r50lo12db2lo4db2~x2/)|
-|![Slessor (Personal) example sett](/setts/s14/dg2lo1dg11r50lo12db2lo4db2~x2/sett.png)|
+| [Slessor (Personal)](/variants/s14/dg2lo1dg11r50lo12db2lo4db2~x2/)|
+|![Slessor (Personal) example sett](/variants/s14/dg2lo1dg11r50lo12db2lo4db2~x2/sett.png)|

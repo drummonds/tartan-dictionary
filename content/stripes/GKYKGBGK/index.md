@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harley (Leslie), Robert](/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/)|
-|![Harley (Leslie), Robert example sett](/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/sett.png)|
-| [Harley (Leslie), Robert](/setts/s8/g2k3ly1k3g2db8g16k1~x4/)|
-|![Harley (Leslie), Robert example sett](/setts/s8/g2k3ly1k3g2db8g16k1~x4/sett.png)|
+| [Harley (Leslie), Robert](/variants/s8/dg2k3ly1k3dg2db8dg16k1~x4/)|
+|![Harley (Leslie), Robert example sett](/variants/s8/dg2k3ly1k3dg2db8dg16k1~x4/sett.png)|
+| [Harley (Leslie), Robert](/variants/s8/g2k3ly1k3g2db8g16k1~x4/)|
+|![Harley (Leslie), Robert example sett](/variants/s8/g2k3ly1k3g2db8g16k1~x4/sett.png)|

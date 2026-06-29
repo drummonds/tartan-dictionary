@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lorne Dress (Dance)](/setts/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/)|
-|![Lorne Dress (Dance) example sett](/setts/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/sett.png)|
+| [Lorne Dress (Dance)](/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/)|
+|![Lorne Dress (Dance) example sett](/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fed. of Circles & Solitaries (Corp.)](/setts/s10/db9k30db9t3db5r3db5ly3db5g3~x2/)|
-|![Fed. of Circles & Solitaries (Corp.) example sett](/setts/s10/db9k30db9t3db5r3db5ly3db5g3~x2/sett.png)|
+| [Fed. of Circles & Solitaries (Corp.)](/variants/s10/db9k30db9t3db5r3db5ly3db5g3~x2/)|
+|![Fed. of Circles & Solitaries (Corp.) example sett](/variants/s10/db9k30db9t3db5r3db5ly3db5g3~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cree](/setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/)|
-|![Cree example sett](/setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/sett.png)|
-| [Cree (Fashion)](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/)|
-|![Cree (Fashion) example sett](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/sett.png)|
+| [Cree](/variants/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/)|
+|![Cree example sett](/variants/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/sett.png)|
+| [Cree (Fashion)](/variants/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/)|
+|![Cree (Fashion) example sett](/variants/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/sett.png)|

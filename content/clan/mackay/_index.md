@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/k3dg14k14dg2db14dg3~x2/"><img src="/setts/s6/k3dg14k14dg2db14dg3~x2/sett.png" alt="MacKay" width="240"><br>MacKay</a>
+<a class="tartan" href="/variants/s6/k3dg14k14dg2db14dg3~x2/"><img src="/variants/s6/k3dg14k14dg2db14dg3~x2/sett.png" alt="MacKay" width="240"><br>MacKay</a>
 
 ## Families
 

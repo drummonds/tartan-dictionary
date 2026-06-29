@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Cricket Council](/setts/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/)|
-|![International Cricket Council example sett](/setts/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/sett.png)|
+| [International Cricket Council](/variants/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/)|
+|![International Cricket Council example sett](/variants/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/sett.png)|

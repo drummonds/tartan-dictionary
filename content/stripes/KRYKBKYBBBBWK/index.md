@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Solberg-Bell Hunting](/setts/s13/k2o1lo2k1dbi4k1lo2db8dbi2db4dbi4w1k2~x4/)|
-|![Solberg-Bell Hunting example sett](/setts/s13/k2o1lo2k1dbi4k1lo2db8dbi2db4dbi4w1k2~x4/sett.png)|
+| [Solberg-Bell Hunting](/variants/s13/k2o1lo2k1dbi4k1lo2db8dbi2db4dbi4w1k2~x4/)|
+|![Solberg-Bell Hunting example sett](/variants/s13/k2o1lo2k1dbi4k1lo2db8dbi2db4dbi4w1k2~x4/sett.png)|

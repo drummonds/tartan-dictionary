@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish American Society of Michigan (Official)](/setts/s6/r48t16lo5dg17w8k3~x2/)|
-|![Scottish American Society of Michigan (Official) example sett](/setts/s6/r48t16lo5dg17w8k3~x2/sett.png)|
+| [Scottish American Society of Michigan (Official)](/variants/s6/r48t16lo5dg17w8k3~x2/)|
+|![Scottish American Society of Michigan (Official) example sett](/variants/s6/r48t16lo5dg17w8k3~x2/sett.png)|

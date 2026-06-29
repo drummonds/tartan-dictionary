@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Fire](/setts/s9/lb4ri2lb7n30lb8n7r5k1w2~x2/)|
-|![Hebridean Fire example sett](/setts/s9/lb4ri2lb7n30lb8n7r5k1w2~x2/sett.png)|
+| [Hebridean Fire](/variants/s9/lb4ri2lb7n30lb8n7r5k1w2~x2/)|
+|![Hebridean Fire example sett](/variants/s9/lb4ri2lb7n30lb8n7r5k1w2~x2/sett.png)|

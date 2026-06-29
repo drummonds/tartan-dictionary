@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burt #2 (Name)](/setts/s9/db8w2k8g12r2db3r2db24r2~x2/)|
-|![Burt #2 (Name) example sett](/setts/s9/db8w2k8g12r2db3r2db24r2~x2/sett.png)|
+| [Burt #2 (Name)](/variants/s9/db8w2k8g12r2db3r2db24r2~x2/)|
+|![Burt #2 (Name) example sett](/variants/s9/db8w2k8g12r2db3r2db24r2~x2/sett.png)|

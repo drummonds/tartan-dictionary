@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hanna of Falkirk (Clan?)](/setts/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/)|
-|![Hanna of Falkirk (Clan?) example sett](/setts/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/sett.png)|
-| [Schranz-Gritte](/setts/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/)|
-|![Schranz-Gritte example sett](/setts/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/sett.png)|
+| [Hanna of Falkirk (Clan?)](/variants/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/)|
+|![Hanna of Falkirk (Clan?) example sett](/variants/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/sett.png)|
+| [Schranz-Gritte](/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/)|
+|![Schranz-Gritte example sett](/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/sett.png)|

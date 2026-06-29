@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australian Police](/setts/s8/k5w5k5t11k3y17k30t3~x2/)|
-|![Australian Police example sett](/setts/s8/k5w5k5t11k3y17k30t3~x2/sett.png)|
+| [Australian Police](/variants/s8/k5w5k5t11k3y17k30t3~x2/)|
+|![Australian Police example sett](/variants/s8/k5w5k5t11k3y17k30t3~x2/sett.png)|

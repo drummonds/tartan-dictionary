@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bumbee #1 (Fashion)](/setts/s4/g10k2dp5g1~x8/)|
-|![Bumbee #1 (Fashion) example sett](/setts/s4/g10k2dp5g1~x8/sett.png)|
+| [Bumbee #1 (Fashion)](/variants/s4/g10k2dp5g1~x8/)|
+|![Bumbee #1 (Fashion) example sett](/variants/s4/g10k2dp5g1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Double Elvis Gallery](/setts/s6/r80lr30k3p2lr30k12/)|
-|![Double Elvis Gallery example sett](/setts/s6/r80lr30k3p2lr30k12/sett.png)|
+| [Double Elvis Gallery](/variants/s6/r80lr30k3p2lr30k12/)|
+|![Double Elvis Gallery example sett](/variants/s6/r80lr30k3p2lr30k12/sett.png)|

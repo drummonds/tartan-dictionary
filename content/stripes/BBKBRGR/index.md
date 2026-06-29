@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New York City](/setts/s7/b2db3k1db3o3g4r1~x8/)|
-|![New York City example sett](/setts/s7/b2db3k1db3o3g4r1~x8/sett.png)|
+| [New York City](/variants/s7/b2db3k1db3o3g4r1~x8/)|
+|![New York City example sett](/variants/s7/b2db3k1db3o3g4r1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacTavish of Dunardry (Clan)](/setts/s7/t8w28lo3g3t8k9t4~x2/)|
-|![MacTavish of Dunardry (Clan) example sett](/setts/s7/t8w28lo3g3t8k9t4~x2/sett.png)|
+| [MacTavish of Dunardry (Clan)](/variants/s7/t8w28lo3g3t8k9t4~x2/)|
+|![MacTavish of Dunardry (Clan) example sett](/variants/s7/t8w28lo3g3t8k9t4~x2/sett.png)|

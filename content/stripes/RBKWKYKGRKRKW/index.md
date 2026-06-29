@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mary Stewart, Queen of Scots](/setts/s13/ri25db5k5w4k2ly2k2g8r6k2ri3k1w2~x2/)|
-|![Mary Stewart, Queen of Scots example sett](/setts/s13/ri25db5k5w4k2ly2k2g8r6k2ri3k1w2~x2/sett.png)|
+| [Mary Stewart, Queen of Scots](/variants/s13/ri25db5k5w4k2ly2k2g8r6k2ri3k1w2~x2/)|
+|![Mary Stewart, Queen of Scots example sett](/variants/s13/ri25db5k5w4k2ly2k2g8r6k2ri3k1w2~x2/sett.png)|

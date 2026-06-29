@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Masai Shuka 01 (Artefact)](/setts/s4/w1k10r10w1~x4/)|
-|![Masai Shuka 01 (Artefact) example sett](/setts/s4/w1k10r10w1~x4/sett.png)|
+| [Masai Shuka 01 (Artefact)](/variants/s4/w1k10r10w1~x4/)|
+|![Masai Shuka 01 (Artefact) example sett](/variants/s4/w1k10r10w1~x4/sett.png)|

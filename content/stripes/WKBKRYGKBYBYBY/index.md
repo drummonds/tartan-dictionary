@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ethiopia](/setts/s14/w4k1b24k1r8lo8g8k1b16lo2b1lo2b1lo4~x2/)|
-|![Ethiopia example sett](/setts/s14/w4k1b24k1r8lo8g8k1b16lo2b1lo2b1lo4~x2/sett.png)|
+| [Ethiopia](/variants/s14/w4k1b24k1r8lo8g8k1b16lo2b1lo2b1lo4~x2/)|
+|![Ethiopia example sett](/variants/s14/w4k1b24k1r8lo8g8k1b16lo2b1lo2b1lo4~x2/sett.png)|

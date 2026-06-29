@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orvis Sports Company (Corporate)](/setts/s10/y36dg4k1y2k1dg4k4dg60r4dg4~x2/)|
-|![Orvis Sports Company (Corporate) example sett](/setts/s10/y36dg4k1y2k1dg4k4dg60r4dg4~x2/sett.png)|
+| [Orvis Sports Company (Corporate)](/variants/s10/y36dg4k1y2k1dg4k4dg60r4dg4~x2/)|
+|![Orvis Sports Company (Corporate) example sett](/variants/s10/y36dg4k1y2k1dg4k4dg60r4dg4~x2/sett.png)|

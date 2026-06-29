@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roderick, Dhu](/setts/s9/db4k1r2k32g32ly2k1g3t2~x2/)|
-|![Roderick, Dhu example sett](/setts/s9/db4k1r2k32g32ly2k1g3t2~x2/sett.png)|
+| [Roderick, Dhu](/variants/s9/db4k1r2k32g32ly2k1g3t2~x2/)|
+|![Roderick, Dhu example sett](/variants/s9/db4k1r2k32g32ly2k1g3t2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harmony](/setts/s22/db11ti3db4w3db3lo4db3dbi13t34dg3t4db3~x2/)|
-|![Harmony example sett](/setts/s22/db11ti3db4w3db3lo4db3dbi13t34dg3t4db3~x2/sett.png)|
+| [Harmony](/variants/s22/db11ti3db4w3db3lo4db3dbi13t34dg3t4db3~x2/)|
+|![Harmony example sett](/variants/s22/db11ti3db4w3db3lo4db3dbi13t34dg3t4db3~x2/sett.png)|

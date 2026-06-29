@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kierson](/setts/s8/k22w16g2w14g2w16k22r3~x2/)|
-|![Kierson example sett](/setts/s8/k22w16g2w14g2w16k22r3~x2/sett.png)|
+| [Kierson](/variants/s8/k22w16g2w14g2w16k22r3~x2/)|
+|![Kierson example sett](/variants/s8/k22w16g2w14g2w16k22r3~x2/sett.png)|

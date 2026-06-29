@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Golden Heather, The](/setts/s10/r2ly20o2ly2r3lo3r3loii6loi24ly2~x2/)|
-|![Golden Heather, The example sett](/setts/s10/r2ly20o2ly2r3lo3r3loii6loi24ly2~x2/sett.png)|
+| [Golden Heather, The](/variants/s10/r2ly20o2ly2r3lo3r3loii6loi24ly2~x2/)|
+|![Golden Heather, The example sett](/variants/s10/r2ly20o2ly2r3lo3r3loii6loi24ly2~x2/sett.png)|

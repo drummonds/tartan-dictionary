@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rankin #2](/setts/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/)|
-|![Rankin #2 example sett](/setts/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/sett.png)|
+| [Rankin #2](/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/)|
+|![Rankin #2 example sett](/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/sett.png)|

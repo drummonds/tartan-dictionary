@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mortell (Personal)](/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/)|
-|![Mortell (Personal) example sett](/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/sett.png)|
-| [Mortell (Personal)](/setts/s10/n20t2w5r2n10t5n20t2w5r5~x2/)|
-|![Mortell (Personal) example sett](/setts/s10/n20t2w5r2n10t5n20t2w5r5~x2/sett.png)|
+| [Mortell (Personal)](/variants/s10/db20b2w5r2db10b5db20b2w5r5~x2/)|
+|![Mortell (Personal) example sett](/variants/s10/db20b2w5r2db10b5db20b2w5r5~x2/sett.png)|
+| [Mortell (Personal)](/variants/s10/n20t2w5r2n10t5n20t2w5r5~x2/)|
+|![Mortell (Personal) example sett](/variants/s10/n20t2w5r2n10t5n20t2w5r5~x2/sett.png)|

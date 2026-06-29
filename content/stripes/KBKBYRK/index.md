@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gifford (Personal)](/setts/s7/k15r8ly2db25k5db13k5~x2/)|
-|![Gifford (Personal) example sett](/setts/s7/k15r8ly2db25k5db13k5~x2/sett.png)|
+| [Gifford (Personal)](/variants/s7/k15r8ly2db25k5db13k5~x2/)|
+|![Gifford (Personal) example sett](/variants/s7/k15r8ly2db25k5db13k5~x2/sett.png)|

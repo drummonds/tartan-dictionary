@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ayllu Thuban](/setts/s5/p46k6g9ly9r4/)|
-|![Ayllu Thuban example sett](/setts/s5/p46k6g9ly9r4/sett.png)|
-| [Ayllu Thuban (Corporate)](/setts/s5/dp46k6g9lo9r4/)|
-|![Ayllu Thuban (Corporate) example sett](/setts/s5/dp46k6g9lo9r4/sett.png)|
+| [Ayllu Thuban](/variants/s5/p46k6g9ly9r4/)|
+|![Ayllu Thuban example sett](/variants/s5/p46k6g9ly9r4/sett.png)|
+| [Ayllu Thuban (Corporate)](/variants/s5/dp46k6g9lo9r4/)|
+|![Ayllu Thuban (Corporate) example sett](/variants/s5/dp46k6g9lo9r4/sett.png)|

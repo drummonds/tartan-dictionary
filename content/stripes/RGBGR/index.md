@@ -24,11 +24,11 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hector James](/setts/s5/r2g5db27g11o2~x2/)|
-|![Hector James example sett](/setts/s5/r2g5db27g11o2~x2/sett.png)|
-| [Loton (Personal)](/setts/s5/r6dg2db2dg17r2~x4/)|
-|![Loton (Personal) example sett](/setts/s5/r6dg2db2dg17r2~x4/sett.png)|
-| [MacNab (Smith)](/setts/s5/r24g2t1g1m24~x4/)|
-|![MacNab (Smith) example sett](/setts/s5/r24g2t1g1m24~x4/sett.png)|
-| [MacNab 4](/setts/s5/r24g2t1g1ri24~x2/)|
-|![MacNab 4 example sett](/setts/s5/r24g2t1g1ri24~x2/sett.png)|
+| [Hector James](/variants/s5/r2g5db27g11o2~x2/)|
+|![Hector James example sett](/variants/s5/r2g5db27g11o2~x2/sett.png)|
+| [Loton (Personal)](/variants/s5/r6dg2db2dg17r2~x4/)|
+|![Loton (Personal) example sett](/variants/s5/r6dg2db2dg17r2~x4/sett.png)|
+| [MacNab (Smith)](/variants/s5/r24g2t1g1m24~x4/)|
+|![MacNab (Smith) example sett](/variants/s5/r24g2t1g1m24~x4/sett.png)|
+| [MacNab 4](/variants/s5/r24g2t1g1ri24~x2/)|
+|![MacNab 4 example sett](/variants/s5/r24g2t1g1ri24~x2/sett.png)|

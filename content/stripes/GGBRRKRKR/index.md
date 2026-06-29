@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Somerset](/setts/s9/g8y8t7r5o2k2o2k2o2~x2/)|
-|![Somerset example sett](/setts/s9/g8y8t7r5o2k2o2k2o2~x2/sett.png)|
+| [Somerset](/variants/s9/g8y8t7r5o2k2o2k2o2~x2/)|
+|![Somerset example sett](/variants/s9/g8y8t7r5o2k2o2k2o2~x2/sett.png)|

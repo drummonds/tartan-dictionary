@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MX-5 Owners' Club](/setts/s7/r6db27t2g2t2g30w4~x2/)|
-|![MX-5 Owners' Club example sett](/setts/s7/r6db27t2g2t2g30w4~x2/sett.png)|
+| [MX-5 Owners' Club](/variants/s7/r6db27t2g2t2g30w4~x2/)|
+|![MX-5 Owners' Club example sett](/variants/s7/r6db27t2g2t2g30w4~x2/sett.png)|

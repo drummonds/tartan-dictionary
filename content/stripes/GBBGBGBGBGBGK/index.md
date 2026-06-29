@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Affric (Artefact)](/setts/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/)|
-|![Glen Affric (Artefact) example sett](/setts/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/sett.png)|
+| [Glen Affric (Artefact)](/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/)|
+|![Glen Affric (Artefact) example sett](/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bute Heather, Black](/setts/s10/k6y20k6y4k4y8y2k8y2k5~x2/)|
-|![Bute Heather, Black example sett](/setts/s10/k6y20k6y4k4y8y2k8y2k5~x2/sett.png)|
+| [Bute Heather, Black](/variants/s10/k6y20k6y4k4y8y2k8y2k5~x2/)|
+|![Bute Heather, Black example sett](/variants/s10/k6y20k6y4k4y8y2k8y2k5~x2/sett.png)|

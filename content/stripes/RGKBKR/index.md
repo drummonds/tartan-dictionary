@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Atholl Highlanders (Military)](/setts/s6/r8dg20k20db20k3r8~x2/)|
-|![Atholl Highlanders (Military) example sett](/setts/s6/r8dg20k20db20k3r8~x2/sett.png)|
-| [MacEachain (Clan)](/setts/s6/r2k1db6k2g6m2~x4/)|
-|![MacEachain (Clan) example sett](/setts/s6/r2k1db6k2g6m2~x4/sett.png)|
+| [Atholl Highlanders (Military)](/variants/s6/r8dg20k20db20k3r8~x2/)|
+|![Atholl Highlanders (Military) example sett](/variants/s6/r8dg20k20db20k3r8~x2/sett.png)|
+| [MacEachain (Clan)](/variants/s6/r2k1db6k2g6m2~x4/)|
+|![MacEachain (Clan) example sett](/variants/s6/r2k1db6k2g6m2~x4/sett.png)|

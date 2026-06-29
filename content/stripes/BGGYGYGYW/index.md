@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Macmillan Cancer Support](/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/)|
-|![Macmillan Cancer Support example sett](/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/sett.png)|
+| [Macmillan Cancer Support](/variants/s9/p4g24dg6lg4dg4lg4dg44lo1w4/)|
+|![Macmillan Cancer Support example sett](/variants/s9/p4g24dg6lg4dg4lg4dg44lo1w4/sett.png)|

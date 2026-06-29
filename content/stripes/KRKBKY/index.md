@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robert Gordon University](/setts/s6/k4r2k12db12k1lo2~x2/)|
-|![Robert Gordon University example sett](/setts/s6/k4r2k12db12k1lo2~x2/sett.png)|
+| [Robert Gordon University](/variants/s6/k4r2k12db12k1lo2~x2/)|
+|![Robert Gordon University example sett](/variants/s6/k4r2k12db12k1lo2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guelph, City Of](/setts/s8/g12k1g2r1g2k10db10lo1~x4/)|
-|![Guelph, City Of example sett](/setts/s8/g12k1g2r1g2k10db10lo1~x4/sett.png)|
+| [Guelph, City Of](/variants/s8/g12k1g2r1g2k10db10lo1~x4/)|
+|![Guelph, City Of example sett](/variants/s8/g12k1g2r1g2k10db10lo1~x4/sett.png)|

@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crieff Primary School](/setts/s10/k3g1o1dt6n2dt1n1dt1o10lb1~x4/)|
-|![Crieff Primary School example sett](/setts/s10/k3g1o1dt6n2dt1n1dt1o10lb1~x4/sett.png)|
-| [Crieff Primary School](/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/)|
-|![Crieff Primary School example sett](/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/sett.png)|
+| [Crieff Primary School](/variants/s10/k3g1o1dt6n2dt1n1dt1o10lb1~x4/)|
+|![Crieff Primary School example sett](/variants/s10/k3g1o1dt6n2dt1n1dt1o10lb1~x4/sett.png)|
+| [Crieff Primary School](/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/)|
+|![Crieff Primary School example sett](/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Ulster](/setts/s7/w2db4r2db90w2db4r1~x2/)|
-|![Spirit of Ulster example sett](/setts/s7/w2db4r2db90w2db4r1~x2/sett.png)|
+| [Spirit of Ulster](/variants/s7/w2db4r2db90w2db4r1~x2/)|
+|![Spirit of Ulster example sett](/variants/s7/w2db4r2db90w2db4r1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braveheart Htg (Fashion)](/setts/s10/g3db2g40db1g2db1g9r4g3r2~x4/)|
-|![Braveheart Htg (Fashion) example sett](/setts/s10/g3db2g40db1g2db1g9r4g3r2~x4/sett.png)|
+| [Braveheart Htg (Fashion)](/variants/s10/g3db2g40db1g2db1g9r4g3r2~x4/)|
+|![Braveheart Htg (Fashion) example sett](/variants/s10/g3db2g40db1g2db1g9r4g3r2~x4/sett.png)|

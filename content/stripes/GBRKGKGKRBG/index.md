@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson](/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/)|
-|![Ferguson example sett](/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/sett.png)|
+| [Ferguson](/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/)|
+|![Ferguson example sett](/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/sett.png)|

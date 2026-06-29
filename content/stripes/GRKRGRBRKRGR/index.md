@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNicol](/tartans/r6dg1r6k4r1b1r1dg8r6k1r6dg1/)|
-|![MacNicol example sett](/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1/sett.png)|
-| [Nicolson (McIan)](/tartans/r6g1r6k4r1t1r1g8r6k1r6g1/)|
-|![Nicolson (McIan) example sett](/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/sett.png)|
+| [MacNicol](/setts/r6dg1r6k4r1b1r1dg8r6k1r6dg1/)|
+|![MacNicol example sett](/variants/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1/sett.png)|
+| [Nicolson (McIan)](/setts/r6g1r6k4r1t1r1g8r6k1r6g1/)|
+|![Nicolson (McIan) example sett](/variants/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/sett.png)|

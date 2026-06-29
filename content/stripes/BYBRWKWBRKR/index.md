@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asman Hunting (Name)](/setts/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/)|
-|![Asman Hunting (Name) example sett](/setts/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/sett.png)|
+| [Asman Hunting (Name)](/variants/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/)|
+|![Asman Hunting (Name) example sett](/variants/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/sett.png)|

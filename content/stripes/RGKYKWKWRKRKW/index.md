@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Palmer, Edward](/setts/s13/r4dg20k16ly2k3w3k2w18r6k2r4k1w2~x2/)|
-|![Palmer, Edward example sett](/setts/s13/r4dg20k16ly2k3w3k2w18r6k2r4k1w2~x2/sett.png)|
+| [Palmer, Edward](/variants/s13/r4dg20k16ly2k3w3k2w18r6k2r4k1w2~x2/)|
+|![Palmer, Edward example sett](/variants/s13/r4dg20k16ly2k3w3k2w18r6k2r4k1w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sheffield, City of (District)](/setts/s8/gi62o3gi3o31k4g5t5r3~x2/)|
-|![Sheffield, City of (District) example sett](/setts/s8/gi62o3gi3o31k4g5t5r3~x2/sett.png)|
+| [Sheffield, City of (District)](/variants/s8/gi62o3gi3o31k4g5t5r3~x2/)|
+|![Sheffield, City of (District) example sett](/variants/s8/gi62o3gi3o31k4g5t5r3~x2/sett.png)|

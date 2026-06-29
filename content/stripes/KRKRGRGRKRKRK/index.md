@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [42nd Regiment (Musicians) (Mil.)](/setts/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/)|
-|![42nd Regiment (Musicians) (Mil.) example sett](/setts/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/sett.png)|
+| [42nd Regiment (Musicians) (Mil.)](/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/)|
+|![42nd Regiment (Musicians) (Mil.) example sett](/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/sett.png)|

@@ -1,0 +1,55 @@
+---
+title: "MacNab WI2"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg15r3dp11lb2/)
+(the same proportion at any scale), whose colour order is pattern [GRBW](/stripes/grbw/).
+
+Part of the [MacNab WI2](/tartans/macnab-wi2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacNab WI 2
+
+## Thread count
+G/15 R3 P11 N/2
+
+One full sett is **45 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">15</td><td><code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> <small style="color:#888">#004C00</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(36.1% 0.123 142.5)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">3</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">11</td><td><code style="background-color:#5A3094;"><span style="color:#5A3094;filter:grayscale(1) invert(1) contrast(100);">#5A3094</span></code> <small style="color:#888">#5A3094</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(41.8% 0.156 298.7)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#D0D0D0;"><span style="color:#D0D0D0;filter:grayscale(1) invert(1) contrast(100);">#D0D0D0</span></code> <small style="color:#888">#D0D0D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(85.8% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="G/15 R3 P11 N/2 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dg15r3n11b2/"><img src="/variants/s4/dg15r3n11b2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dg15r3n11b2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dg15r3dp11lb2">MacNab WI2</a> <a class="nn-out" href="/variants/s4/dg15r3dp11lb2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/dg15r3dp11lb2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.71</div><div class="nn-name"><a href="/ttd/edit/#slug=g15r3p11t2~x2&amp;base=dg15r3dp11lb2">MacNab 7</a> <a class="nn-out" href="/variants/s4/g15r3p11t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g15r3p11t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.82</div><div class="nn-name"><a href="/ttd/edit/#slug=dg3r1dg9o10db3~x4&amp;base=dg15r3dp11lb2">Bethlehem, City of</a> <a class="nn-out" href="/variants/s5/dg3r1dg9o10db3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dg3r1dg9o10db3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=k11t38r11g11k5~x2&amp;base=dg15r3dp11lb2">All as One (Corporate)</a> <a class="nn-out" href="/variants/s5/k11t38r11g11k5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k11t38r11g11k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.16</div><div class="nn-name"><a href="/ttd/edit/#slug=r5o32k31w5~x2&amp;base=dg15r3dp11lb2">Loganair</a> <a class="nn-out" href="/variants/s4/r5o32k31w5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r5o32k31w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=o24r11k6db4~x4&amp;base=dg15r3dp11lb2">Nebar (Corporate)</a> <a class="nn-out" href="/variants/s4/o24r11k6db4~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/o24r11k6db4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=o5dp3o18k16ly3~x4&amp;base=dg15r3dp11lb2">New York State Police Pipe Band</a> <a class="nn-out" href="/variants/s5/o5dp3o18k16ly3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/o5dp3o18k16ly3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=r3o16k16lb3~x4&amp;base=dg15r3dp11lb2">Thompson, Dress (Clan)</a> <a class="nn-out" href="/variants/s4/r3o16k16lb3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r3o16k16lb3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=db1n6k6r1~x10&amp;base=dg15r3dp11lb2">Mayer, Chris (Personal)</a> <a class="nn-out" href="/variants/s4/db1n6k6r1~x10/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db1n6k6r1~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/variants/s4/db13r2g13~x2/">Wilson's No.062</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db13r2g13~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=r5o32k31w5&amp;base=dg15r3dp11lb2">Loganair Uniform Skirt Corporate Tartan</a> <a class="nn-out" href="/variants/s4/r5o32k31w5/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r5o32k31w5/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g15r3p11t2~x2/"><circle cx="251.6" cy="249.7" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s5/dg3r1dg9o10db3~x4/"><circle cx="256.1" cy="243.8" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s5/k11t38r11g11k5~x2/"><circle cx="228.1" cy="232.4" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/variants/s4/r5o32k31w5~x2/"><circle cx="209.7" cy="242.3" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/variants/s4/o24r11k6db4~x4/"><circle cx="267.9" cy="259.5" r="4" fill="#3465a4"><title>Nebar (Corporate)</title></circle></a><a href="/variants/s5/o5dp3o18k16ly3~x4/"><circle cx="234.9" cy="235.1" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><a href="/variants/s4/r3o16k16lb3~x4/"><circle cx="192.2" cy="254.4" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="253.6" cy="275.9" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/variants/s4/db13r2g13~x2/"><circle cx="272.9" cy="285.6" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s4/r5o32k31w5/"><circle cx="208.7" cy="240.7" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><circle cx="252.9" cy="255.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s4/dg15r3dp11lb2/

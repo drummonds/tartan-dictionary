@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vass (Personal)](/setts/s8/db6w1y6dy12r2~x4/)|
-|![Vass (Personal) example sett](/setts/s8/db6w1y6dy12r2~x4/sett.png)|
+| [Vass (Personal)](/variants/s8/db6w1y6dy12r2~x4/)|
+|![Vass (Personal) example sett](/variants/s8/db6w1y6dy12r2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drummond (Grey)](/setts/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/)|
-|![Drummond (Grey) example sett](/setts/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/sett.png)|
+| [Drummond (Grey)](/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/)|
+|![Drummond (Grey) example sett](/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/sett.png)|

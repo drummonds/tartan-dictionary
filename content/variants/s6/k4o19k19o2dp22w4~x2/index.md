@@ -1,0 +1,56 @@
+---
+title: "Dutch"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4o19k19o2dp22w4/)
+(the same proportion at any scale), whose colour order is pattern [KRKRBW](/stripes/krkrbw/).
+
+Part of the [Dutch](/tartans/dutch/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1054
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1965 — Dutch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1054">record</a>)</li>
+<li>1965 — Dutch (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1134/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1054](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1054)
+- Scottish Tartans Authority (ITI): 1134
+- Scottish Tartans World Register: 1134
+
+## Thread count
+K/8 O38 K38 O4 DP44 W/8
+
+One full sett is **264 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#C47000;"><span style="color:#C47000;filter:grayscale(1) invert(1) contrast(100);">#C47000</span></code> <small style="color:#888">#C47000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.6% 0.144 61.8)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">38</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C47000;"><span style="color:#C47000;filter:grayscale(1) invert(1) contrast(100);">#C47000</span></code> <small style="color:#888">#C47000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.6% 0.144 61.8)</small></td></tr><tr><td>DP</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> <small style="color:#888">#440044</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(27.1% 0.125 328.4)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="K/8 O38 K38 O4 DP44 W/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k4o19k19o2dp22w4~x2">Dutch</a> <a class="nn-out" href="/variants/s6/k4o19k19o2dp22w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k4o19k19o2dp22w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.84</div><div class="nn-name"><a href="/ttd/edit/#slug=w2db12lo1k12lo12k1~x2&amp;base=k4o19k19o2dp22w4~x2">Dutch</a> <a class="nn-out" href="/variants/s6/w2db12lo1k12lo12k1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w2db12lo1k12lo12k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.13</div><div class="nn-name"><a href="/variants/s5/ki3r29ki11k29t3~x2/">Wallace Red Dress Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/ki3r29ki11k29t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/variants/s6/dg3k20ki20r20k3r3~x2/">Unidentified #65</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg3k20ki20r20k3r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=p3k1p8k6g8k1w2~x2&amp;base=k4o19k19o2dp22w4~x2">Baillie</a> <a class="nn-out" href="/variants/s7/p3k1p8k6g8k1w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/p3k1p8k6g8k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=b2r12db2b6k6b1~x2&amp;base=k4o19k19o2dp22w4~x2">MacTavish</a> <a class="nn-out" href="/variants/s6/b2r12db2b6k6b1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b2r12db2b6k6b1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=b2r12db2b6k6b1&amp;base=k4o19k19o2dp22w4~x2">MacTavish</a> <a class="nn-out" href="/variants/s6/b2r12db2b6k6b1/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b2r12db2b6k6b1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=r26t3r4k16db16k4~x2&amp;base=k4o19k19o2dp22w4~x2">Graham of Menteith, (Red)</a> <a class="nn-out" href="/variants/s6/r26t3r4k16db16k4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r26t3r4k16db16k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.18</div><div class="nn-name"><a href="/ttd/edit/#slug=ly3db22k3db3k11r20ly3~x2&amp;base=k4o19k19o2dp22w4~x2">Biffy Clyro</a> <a class="nn-out" href="/variants/s7/ly3db22k3db3k11r20ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly3db22k3db3k11r20ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=lo5db2k2db12k16r20k2r4~x2&amp;base=k4o19k19o2dp22w4~x2">Aitken</a> <a class="nn-out" href="/variants/s8/lo5db2k2db12k16r20k2r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lo5db2k2db12k16r20k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=k3g17ly2k18p17g3~x2&amp;base=k4o19k19o2dp22w4~x2">Wilson's, No 100</a> <a class="nn-out" href="/variants/s6/k3g17ly2k18p17g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g17ly2k18p17g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w2db12lo1k12lo12k1~x2/"><circle cx="152.1" cy="183.6" r="4" fill="#3465a4"><title>Dutch</title></circle></a><a href="/variants/s5/ki3r29ki11k29t3~x2/"><circle cx="204.0" cy="212.4" r="4" fill="#3465a4"><title>Wallace Red Dress Tartan</title></circle></a><a href="/variants/s6/dg3k20ki20r20k3r3~x2/"><circle cx="164.7" cy="227.9" r="4" fill="#3465a4"><title>Unidentified #65</title></circle></a><a href="/variants/s7/p3k1p8k6g8k1w2~x2/"><circle cx="147.8" cy="208.6" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/variants/s6/b2r12db2b6k6b1~x2/"><circle cx="209.9" cy="196.7" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s6/b2r12db2b6k6b1/"><circle cx="209.9" cy="196.7" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s6/r26t3r4k16db16k4~x2/"><circle cx="205.3" cy="208.7" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="163.4" cy="192.5" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s8/lo5db2k2db12k16r20k2r4~x2/"><circle cx="188.0" cy="190.5" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s6/k3g17ly2k18p17g3~x2/"><circle cx="155.6" cy="214.0" r="4" fill="#3465a4"><title>Wilson's, No 100</title></circle></a><circle cx="152.2" cy="198.5" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/k4o19k19o2dp22w4~x2/

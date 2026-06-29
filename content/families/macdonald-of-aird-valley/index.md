@@ -8,5 +8,11 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/"><img src="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley" width="240"><br>MacDonald of Aird & Valley</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r12db1r1g8r2db1r1db3r1db1r12g1r1g8/">MacDonald of Aird &amp; Valley</a> ★</td><td><code>R/48 DB4 R4 G32 R8 DB4 R4 DB12 R4 DB4 R48 G4 R4 G/32</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r12db1r1g8r2db1r1db3r1db1r12g1r1g8/"><img src="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

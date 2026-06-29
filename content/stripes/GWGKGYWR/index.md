@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McShane (Personal)](/setts/s8/g9lb2g9k2dy14ly4lb2r2~x4/)|
-|![McShane (Personal) example sett](/setts/s8/g9lb2g9k2dy14ly4lb2r2~x4/sett.png)|
+| [McShane (Personal)](/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4/)|
+|![McShane (Personal) example sett](/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4/sett.png)|

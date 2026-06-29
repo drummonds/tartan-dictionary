@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seller Dress (Dance)](/setts/s22/w32dy6g10lo2g4lo2g4gi12r8g2r4w5~x2/)|
-|![Seller Dress (Dance) example sett](/setts/s22/w32dy6g10lo2g4lo2g4gi12r8g2r4w5~x2/sett.png)|
+| [Seller Dress (Dance)](/variants/s22/w32dy6g10lo2g4lo2g4gi12r8g2r4w5~x2/)|
+|![Seller Dress (Dance) example sett](/variants/s22/w32dy6g10lo2g4lo2g4gi12r8g2r4w5~x2/sett.png)|

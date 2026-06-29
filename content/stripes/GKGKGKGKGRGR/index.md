@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ross, Ryan (Personal)](/setts/s12/r3gi4r3gi4k4gi2k50gi2k4g3k4g3~x2/)|
-|![Ross, Ryan (Personal) example sett](/setts/s12/r3gi4r3gi4k4gi2k50gi2k4g3k4g3~x2/sett.png)|
+| [Ross, Ryan (Personal)](/variants/s12/r3gi4r3gi4k4gi2k50gi2k4g3k4g3~x2/)|
+|![Ross, Ryan (Personal) example sett](/variants/s12/r3gi4r3gi4k4gi2k50gi2k4g3k4g3~x2/sett.png)|

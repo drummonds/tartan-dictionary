@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bailey, Leslie A (Personal)](/setts/s9/r3db7w1gi6dbi5lo2g2o2r3~x2/)|
-|![Bailey, Leslie A (Personal) example sett](/setts/s9/r3db7w1gi6dbi5lo2g2o2r3~x2/sett.png)|
+| [Bailey, Leslie A (Personal)](/variants/s9/r3db7w1gi6dbi5lo2g2o2r3~x2/)|
+|![Bailey, Leslie A (Personal) example sett](/variants/s9/r3db7w1gi6dbi5lo2g2o2r3~x2/sett.png)|

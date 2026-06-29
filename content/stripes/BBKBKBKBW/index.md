@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal College of Surgeons of Edinburgh](/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/)|
-|![Royal College of Surgeons of Edinburgh example sett](/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/sett.png)|
+| [Royal College of Surgeons of Edinburgh](/variants/s9/t4dt16k2dt2k2dt2k13n20w4~x2/)|
+|![Royal College of Surgeons of Edinburgh example sett](/variants/s9/t4dt16k2dt2k2dt2k13n20w4~x2/sett.png)|

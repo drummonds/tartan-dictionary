@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ancient Caledonian Society](/setts/s8/r40g16ly2k8y4w1db5w2~x2/)|
-|![Ancient Caledonian Society example sett](/setts/s8/r40g16ly2k8y4w1db5w2~x2/sett.png)|
+| [Ancient Caledonian Society](/variants/s8/r40g16ly2k8y4w1db5w2~x2/)|
+|![Ancient Caledonian Society example sett](/variants/s8/r40g16ly2k8y4w1db5w2~x2/sett.png)|

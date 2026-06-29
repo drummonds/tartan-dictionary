@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [London, Caledonian](/setts/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/)|
-|![London, Caledonian example sett](/setts/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/sett.png)|
+| [London, Caledonian](/variants/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/)|
+|![London, Caledonian example sett](/variants/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Woodberry Forest School](/setts/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/)|
-|![Woodberry Forest School example sett](/setts/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/sett.png)|
+| [Woodberry Forest School](/variants/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/)|
+|![Woodberry Forest School example sett](/variants/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/sett.png)|

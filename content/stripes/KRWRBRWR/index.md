@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laing of Archiestown](/setts/s8/db8r1w1r1k1~x8/)|
-|![Laing of Archiestown example sett](/setts/s8/db8r1w1r1k1~x8/sett.png)|
+| [Laing of Archiestown](/variants/s8/db8r1w1r1k1~x8/)|
+|![Laing of Archiestown example sett](/variants/s8/db8r1w1r1k1~x8/sett.png)|

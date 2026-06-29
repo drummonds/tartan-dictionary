@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reagan (Personal)](/setts/s10/k4g12k3g4k3g3k36g3k2ly3~x2/)|
-|![Reagan (Personal) example sett](/setts/s10/k4g12k3g4k3g3k36g3k2ly3~x2/sett.png)|
+| [Reagan (Personal)](/variants/s10/k4g12k3g4k3g3k36g3k2ly3~x2/)|
+|![Reagan (Personal) example sett](/variants/s10/k4g12k3g4k3g3k36g3k2ly3~x2/sett.png)|

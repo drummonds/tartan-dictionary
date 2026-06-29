@@ -24,7 +24,7 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cordiner (Boddam)](/setts/s18/db42dt13r3dt2ly3dt2r3dt11db8dt8db26dt8db8dt8db4m3db4dt16~x2/)|
-|![Cordiner (Boddam) example sett](/setts/s18/db42dt13r3dt2ly3dt2r3dt11db8dt8db26dt8db8dt8db4m3db4dt16~x2/sett.png)|
-| [Cordiner (Name)](/setts/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/)|
-|![Cordiner (Name) example sett](/setts/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/sett.png)|
+| [Cordiner (Boddam)](/variants/s18/db42dt13r3dt2ly3dt2r3dt11db8dt8db26dt8db8dt8db4m3db4dt16~x2/)|
+|![Cordiner (Boddam) example sett](/variants/s18/db42dt13r3dt2ly3dt2r3dt11db8dt8db26dt8db8dt8db4m3db4dt16~x2/sett.png)|
+| [Cordiner (Name)](/variants/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/)|
+|![Cordiner (Name) example sett](/variants/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/sett.png)|

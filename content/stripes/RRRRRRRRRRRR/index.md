@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson Red, George (Architect)](/setts/s12/r8ri22rii2ri8rii4ri6rii6ri3rii48ri6o48riii8/)|
-|![Ferguson Red, George (Architect) example sett](/setts/s12/r8ri22rii2ri8rii4ri6rii6ri3rii48ri6o48riii8/sett.png)|
+| [Ferguson Red, George (Architect)](/variants/s12/r8ri22rii2ri8rii4ri6rii6ri3rii48ri6o48riii8/)|
+|![Ferguson Red, George (Architect) example sett](/variants/s12/r8ri22rii2ri8rii4ri6rii6ri3rii48ri6o48riii8/sett.png)|

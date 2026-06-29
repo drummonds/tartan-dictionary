@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australian, dress](/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/)|
-|![Australian, dress example sett](/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/sett.png)|
+| [Australian, dress](/variants/s9/w50o4lo2k2lo2o4lo10o15t2~x2/)|
+|![Australian, dress example sett](/variants/s9/w50o4lo2k2lo2o4lo10o15t2~x2/sett.png)|

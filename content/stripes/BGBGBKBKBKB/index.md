@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wcwm 1893-2](/setts/s11/n6k1n2k2n1k4db10dy4dp1dy3b1~x4/)|
-|![Wcwm 1893-2 example sett](/setts/s11/n6k1n2k2n1k4db10dy4dp1dy3b1~x4/sett.png)|
+| [Wcwm 1893-2](/variants/s11/n6k1n2k2n1k4db10dy4dp1dy3b1~x4/)|
+|![Wcwm 1893-2 example sett](/variants/s11/n6k1n2k2n1k4db10dy4dp1dy3b1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/)|
-|![Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/sett.png)|
+| [Stuart Silver Commemorative Tartan](/variants/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/)|
+|![Stuart Silver Commemorative Tartan example sett](/variants/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/)|
-|![Gordon of Abergeldie example sett](/setts/s10/r63w4k4dp18ly4dg50~x2/sett.png)|
+| [Gordon of Abergeldie](/variants/s10/r63w4k4dp18ly4dg50~x2/)|
+|![Gordon of Abergeldie example sett](/variants/s10/r63w4k4dp18ly4dg50~x2/sett.png)|

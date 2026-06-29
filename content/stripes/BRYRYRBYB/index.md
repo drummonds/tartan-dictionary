@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Breckon (Fashion?)](/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/)|
-|![New Breckon (Fashion?) example sett](/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/sett.png)|
+| [New Breckon (Fashion?)](/variants/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/)|
+|![New Breckon (Fashion?) example sett](/variants/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/sett.png)|

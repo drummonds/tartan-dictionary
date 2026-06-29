@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch Mist](/setts/s8/n4o4n4k4n18k3do38w3~x2/)|
-|![Scotch Mist example sett](/setts/s8/n4o4n4k4n18k3do38w3~x2/sett.png)|
+| [Scotch Mist](/variants/s8/n4o4n4k4n18k3do38w3~x2/)|
+|![Scotch Mist example sett](/variants/s8/n4o4n4k4n18k3do38w3~x2/sett.png)|

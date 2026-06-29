@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Victoria](/setts/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/)|
-|![Victoria example sett](/setts/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/sett.png)|
-| [Victoria (Patons)](/setts/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/)|
-|![Victoria (Patons) example sett](/setts/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/sett.png)|
+| [Victoria](/variants/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/)|
+|![Victoria example sett](/variants/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/sett.png)|
+| [Victoria (Patons)](/variants/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/)|
+|![Victoria (Patons) example sett](/variants/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/sett.png)|

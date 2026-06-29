@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hackston or Halkerston Family Tartan Tartan Number: 907. Earliest known date: 1987 Taken from a portrait (c. 1746) Red pivot reduced by half for display. Should read R112. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r28w2k12ly3r12ly3r12g3~x2/)|
-|![Hackston or Halkerston Family Tartan Tartan Number: 907. Earliest known date: 1987 Taken from a portrait (c. 1746) Red pivot reduced by half for display. Should read R112. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/r28w2k12ly3r12ly3r12g3~x2/sett.png)|
-| [Hackston, or Halkerston](/setts/s8/r56w2k12ly3r12ly3r12g3~x2/)|
-|![Hackston, or Halkerston example sett](/setts/s8/r56w2k12ly3r12ly3r12g3~x2/sett.png)|
+| [Hackston or Halkerston Family Tartan](/variants/s8/r28w2k12ly3r12ly3r12g3~x2/)|
+|![Hackston or Halkerston Family Tartan example sett](/variants/s8/r28w2k12ly3r12ly3r12g3~x2/sett.png)|
+| [Hackston, or Halkerston](/variants/s8/r56w2k12ly3r12ly3r12g3~x2/)|
+|![Hackston, or Halkerston example sett](/variants/s8/r56w2k12ly3r12ly3r12g3~x2/sett.png)|

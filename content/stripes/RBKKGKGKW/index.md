@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thistle of Scotland](/setts/s9/m3db24k16ki3g2ki2g2ki28lb3~x2/)|
-|![Thistle of Scotland example sett](/setts/s9/m3db24k16ki3g2ki2g2ki28lb3~x2/sett.png)|
+| [Thistle of Scotland](/variants/s9/m3db24k16ki3g2ki2g2ki28lb3~x2/)|
+|![Thistle of Scotland example sett](/variants/s9/m3db24k16ki3g2ki2g2ki28lb3~x2/sett.png)|

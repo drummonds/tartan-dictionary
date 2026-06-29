@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hayes](/setts/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/)|
-|![Hayes example sett](/setts/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/sett.png)|
+| [Hayes](/variants/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/)|
+|![Hayes example sett](/variants/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cummins Royal Blue, B (Personal)](/setts/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/)|
-|![Cummins Royal Blue, B (Personal) example sett](/setts/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/sett.png)|
+| [Cummins Royal Blue, B (Personal)](/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/)|
+|![Cummins Royal Blue, B (Personal) example sett](/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/sett.png)|

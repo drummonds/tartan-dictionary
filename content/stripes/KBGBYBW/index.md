@@ -24,9 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wishart Htg (Clan)](/setts/s7/k7db4dg31db3ly2db27lb4~x2/)|
-|![Wishart Htg (Clan) example sett](/setts/s7/k7db4dg31db3ly2db27lb4~x2/sett.png)|
-| [Wishart Hunting Family Tartan Tartan Number: 2104. Earliest known date: 1990 The Wisharts of Pittarrow and Logie Wishart were a lowland family dating from around the 12th Century. The family's origins are unknown, but the name Guiscard, Wiscard, Wishart, meaning 'cunning' is Norman-French. We have also sought to associate the Wishart tartan with that of another family by virtue of the marriage of a Sir John Wishart to Jean, daughter of William Douglas, 9th Earl of Angus in the 16th Century. The Wishart tartan combines the Wallace and Douglas tartans, in an original new sett which was designed by Dr David Wishart with the assistance of the Scottish College of Textiles in Galashiels. (D. Wishart, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k2dbi2g16db2ly1db13w2~x2/)|
-|![Wishart Hunting Family Tartan Tartan Number: 2104. Earliest known date: 1990 The Wisharts of Pittarrow and Logie Wishart were a lowland family dating from around the 12th Century. The family's origins are unknown, but the name Guiscard, Wiscard, Wishart, meaning 'cunning' is Norman-French. We have also sought to associate the Wishart tartan with that of another family by virtue of the marriage of a Sir John Wishart to Jean, daughter of William Douglas, 9th Earl of Angus in the 16th Century. The Wishart tartan combines the Wallace and Douglas tartans, in an original new sett which was designed by Dr David Wishart with the assistance of the Scottish College of Textiles in Galashiels. (D. Wishart, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/k2dbi2g16db2ly1db13w2~x2/sett.png)|
-| [Wishart, hunting](/setts/s7/k2db2g16dbi2ly1dbi13w2~x2/)|
-|![Wishart, hunting example sett](/setts/s7/k2db2g16dbi2ly1dbi13w2~x2/sett.png)|
+| [Wishart Htg (Clan)](/variants/s7/k7db4dg31db3ly2db27lb4~x2/)|
+|![Wishart Htg (Clan) example sett](/variants/s7/k7db4dg31db3ly2db27lb4~x2/sett.png)|
+| [Wishart Hunting Family Tartan](/variants/s7/k2dbi2g16db2ly1db13w2~x2/)|
+|![Wishart Hunting Family Tartan example sett](/variants/s7/k2dbi2g16db2ly1db13w2~x2/sett.png)|
+| [Wishart, hunting](/variants/s7/k2db2g16dbi2ly1dbi13w2~x2/)|
+|![Wishart, hunting example sett](/variants/s7/k2db2g16dbi2ly1dbi13w2~x2/sett.png)|

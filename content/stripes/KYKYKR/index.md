@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Porter Drinkers', The](/setts/s6/k2ly6k2ly11k9r1~x2/)|
-|![Porter Drinkers', The example sett](/setts/s6/k2ly6k2ly11k9r1~x2/sett.png)|
+| [Porter Drinkers', The](/variants/s6/k2ly6k2ly11k9r1~x2/)|
+|![Porter Drinkers', The example sett](/variants/s6/k2ly6k2ly11k9r1~x2/sett.png)|

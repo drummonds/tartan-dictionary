@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Flotilla Navy](/setts/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/)|
-|![Flotilla Navy example sett](/setts/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/sett.png)|
+| [Flotilla Navy](/variants/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/)|
+|![Flotilla Navy example sett](/variants/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/sett.png)|

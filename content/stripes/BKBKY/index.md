@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moorlands (Corporate)](/setts/s5/dp27k10dp27k35ly6/)|
-|![Moorlands (Corporate) example sett](/setts/s5/dp27k10dp27k35ly6/sett.png)|
+| [Moorlands (Corporate)](/variants/s5/dp27k10dp27k35ly6/)|
+|![Moorlands (Corporate) example sett](/variants/s5/dp27k10dp27k35ly6/sett.png)|

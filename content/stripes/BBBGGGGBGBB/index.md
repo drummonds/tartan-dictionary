@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fabric of Scotland (Prickly Thistle), The](/setts/s11/dpii23dp8dpi2yi24dgi19dg29y4p5y11p19p23~x2/)|
-|![Fabric of Scotland (Prickly Thistle), The example sett](/setts/s11/dpii23dp8dpi2yi24dgi19dg29y4p5y11p19p23~x2/sett.png)|
+| [Fabric of Scotland (Prickly Thistle), The](/variants/s11/dpii23dp8dpi2yi24dgi19dg29y4p5y11p19p23~x2/)|
+|![Fabric of Scotland (Prickly Thistle), The example sett](/variants/s11/dpii23dp8dpi2yi24dgi19dg29y4p5y11p19p23~x2/sett.png)|

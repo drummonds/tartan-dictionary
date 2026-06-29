@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [FIRES Center of Excelence](/setts/s8/r50ly8k2w2k2ly8k22r3~x2/)|
-|![FIRES Center of Excelence example sett](/setts/s8/r50ly8k2w2k2ly8k22r3~x2/sett.png)|
+| [FIRES Center of Excelence](/variants/s8/r50ly8k2w2k2ly8k22r3~x2/)|
+|![FIRES Center of Excelence example sett](/variants/s8/r50ly8k2w2k2ly8k22r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clergy](/setts/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/)|
-|![Clergy example sett](/setts/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/sett.png)|
+| [Clergy](/variants/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/)|
+|![Clergy example sett](/variants/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/sett.png)|

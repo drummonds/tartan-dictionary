@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Allen, Nicholas (Personal)](/setts/s6/r8k24db10k5db10k5~x2/)|
-|![Allen, Nicholas (Personal) example sett](/setts/s6/r8k24db10k5db10k5~x2/sett.png)|
-| [Slanj (Corporate)](/setts/s6/m4k28b3k3b25k3~x2/)|
-|![Slanj (Corporate) example sett](/setts/s6/m4k28b3k3b25k3~x2/sett.png)|
+| [Allen, Nicholas (Personal)](/variants/s6/r8k24db10k5db10k5~x2/)|
+|![Allen, Nicholas (Personal) example sett](/variants/s6/r8k24db10k5db10k5~x2/sett.png)|
+| [Slanj (Corporate)](/variants/s6/m4k28b3k3b25k3~x2/)|
+|![Slanj (Corporate) example sett](/variants/s6/m4k28b3k3b25k3~x2/sett.png)|

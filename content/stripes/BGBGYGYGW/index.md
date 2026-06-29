@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Titanium](/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/)|
-|![Titanium example sett](/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/sett.png)|
+| [Titanium](/variants/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/)|
+|![Titanium example sett](/variants/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/sett.png)|

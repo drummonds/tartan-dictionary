@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hearts Football Club (Corporate)](/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/)|
-|![Hearts Football Club (Corporate) example sett](/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/sett.png)|
+| [Hearts Football Club (Corporate)](/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/)|
+|![Hearts Football Club (Corporate) example sett](/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/sett.png)|

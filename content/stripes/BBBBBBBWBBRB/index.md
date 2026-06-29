@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian Club](/setts/s12/b24db4b4db4b4db20n32w4n32db35r5db4/)|
-|![Caledonian Club example sett](/setts/s12/b24db4b4db4b4db20n32w4n32db35r5db4/sett.png)|
+| [Caledonian Club](/variants/s12/b24db4b4db4b4db20n32w4n32db35r5db4/)|
+|![Caledonian Club example sett](/variants/s12/b24db4b4db4b4db20n32w4n32db35r5db4/sett.png)|

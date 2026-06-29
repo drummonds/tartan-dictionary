@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilmarnock F.C. (Sports)](/setts/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28ly2~x2/)|
-|![Kilmarnock F.C. (Sports) example sett](/setts/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28ly2~x2/sett.png)|
+| [Kilmarnock F.C. (Sports)](/variants/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28ly2~x2/)|
+|![Kilmarnock F.C. (Sports) example sett](/variants/s11/dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28ly2~x2/sett.png)|

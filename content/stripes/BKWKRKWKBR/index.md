@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hydro-Electric](/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/)|
-|![Hydro-Electric example sett](/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/sett.png)|
+| [Hydro-Electric](/variants/s10/db11k4w5k1r3k1w5k4db11r1~x4/)|
+|![Hydro-Electric example sett](/variants/s10/db11k4w5k1r3k1w5k4db11r1~x4/sett.png)|

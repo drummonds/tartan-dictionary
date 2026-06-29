@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unnamed 18th century plaid (Carlisle Museum)](/setts/s11/r2db2k3ly3r3k3dy10k12m3r16w1~x2/)|
-|![Unnamed 18th century plaid (Carlisle Museum) example sett](/setts/s11/r2db2k3ly3r3k3dy10k12m3r16w1~x2/sett.png)|
+| [Unnamed 18th century plaid (Carlisle Museum)](/variants/s11/r2db2k3ly3r3k3dy10k12m3r16w1~x2/)|
+|![Unnamed 18th century plaid (Carlisle Museum) example sett](/variants/s11/r2db2k3ly3r3k3dy10k12m3r16w1~x2/sett.png)|

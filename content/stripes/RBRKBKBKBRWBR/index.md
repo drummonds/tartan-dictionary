@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Metro Detroit Police & Fire P &](/setts/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/)|
-|![Metro Detroit Police & Fire P & example sett](/setts/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/sett.png)|
+| [Metro Detroit Police & Fire P &](/variants/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/)|
+|![Metro Detroit Police & Fire P & example sett](/variants/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/sett.png)|

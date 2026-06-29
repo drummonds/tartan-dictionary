@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [FC Barcelona (Corporate)](/setts/s10/ri3b3ri18r2ri2r3ri2r4b18ly2~x2/)|
-|![FC Barcelona (Corporate) example sett](/setts/s10/ri3b3ri18r2ri2r3ri2r4b18ly2~x2/sett.png)|
+| [FC Barcelona (Corporate)](/variants/s10/ri3b3ri18r2ri2r3ri2r4b18ly2~x2/)|
+|![FC Barcelona (Corporate) example sett](/variants/s10/ri3b3ri18r2ri2r3ri2r4b18ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lyndon Prep (School)](/setts/s6/k4ly1k18db18lb1db4~x4/)|
-|![Lyndon Prep (School) example sett](/setts/s6/k4ly1k18db18lb1db4~x4/sett.png)|
+| [Lyndon Prep (School)](/variants/s6/k4ly1k18db18lb1db4~x4/)|
+|![Lyndon Prep (School) example sett](/variants/s6/k4ly1k18db18lb1db4~x4/sett.png)|

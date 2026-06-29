@@ -1,0 +1,63 @@
+---
+title: "MacMaster (USA) #1"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb2g6r1g1r14k1lbi1/)
+(the same proportion at any scale), whose colour order is pattern [WGRGRKW](/stripes/wgrgrkw/).
+
+Part of the [MacMaster](/tartans/macmaster/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5185
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacMaster #1
+- MacMaster #2
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5185](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5185)
+- Scottish Tartans Authority (ITI): 3493
+
+## Thread count
+N/8 G24 DR4 G4 DR56 K4 LP/4
+
+One full sett is **196 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> <small style="color:#888">#C0C0C0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(80.8% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> <small style="color:#888">#880000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.4% 0.162 29.2)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> <small style="color:#888">#880000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.4% 0.162 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LP/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> <small style="color:#888">#A8ACE8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(76.3% 0.086 281.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="N/8 G24 DR4 G4 DR56 K4 LP/4 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dg34k1r4w1r4k1dg4k1ly2k1dg7k1r3k1dg3k1r3k1dg3w1db5w1ly4w2/"><img src="/variants/s24/dg34k1r4w1r4k1dg4k1ly2k1dg7k1r3k1dg3k1r3k1dg3w1db5w1ly4w2~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dg34k1r4w1r4k1dg4k1ly2k1dg7k1r3k1dg3k1r3k1dg3w1db5w1ly4w2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=lb2g6r1g1r14k1lbi1~x4">MacMaster (USA) #1</a> <a class="nn-out" href="/variants/s7/lb2g6r1g1r14k1lbi1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lb2g6r1g1r14k1lbi1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.96</div><div class="nn-name"><a href="/ttd/edit/#slug=db4dr2db2w2dr9o27r4~x3&amp;base=lb2g6r1g1r14k1lbi1~x4">Unidentified 35</a> <a class="nn-out" href="/variants/s7/db4dr2db2w2dr9o27r4~x3/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db4dr2db2w2dr9o27r4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.07</div><div class="nn-name"><a href="/ttd/edit/#slug=lo3y40db12lo3k2lb4k2lo3~x2&amp;base=lb2g6r1g1r14k1lbi1~x4">Tunes of Glory (Film)</a> <a class="nn-out" href="/variants/s8/lo3y40db12lo3k2lb4k2lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lo3y40db12lo3k2lb4k2lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=r96db16dg34g48r18k6r9&amp;base=lb2g6r1g1r14k1lbi1~x4">MacDuff</a> <a class="nn-out" href="/variants/s7/r96db16dg34g48r18k6r9/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r96db16dg34g48r18k6r9/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=k2r1g8r3g3r14ly1r1w2~x2&amp;base=lb2g6r1g1r14k1lbi1~x4">Melieres, Michel (Personal)</a> <a class="nn-out" href="/variants/s9/k2r1g8r3g3r14ly1r1w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k2r1g8r3g3r14ly1r1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.19</div><div class="nn-name"><a href="/ttd/edit/#slug=r24lb1k3lb1g14r8k3dp3lb2~x4&amp;base=lb2g6r1g1r14k1lbi1~x4">Leach (1995)</a> <a class="nn-out" href="/variants/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.23</div><div class="nn-name"><a href="/ttd/edit/#slug=r4g15db8g4r48g4db8g4ly3~x2&amp;base=lb2g6r1g1r14k1lbi1~x4">Cruikshank (Name)</a> <a class="nn-out" href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.23</div><div class="nn-name"><a href="/ttd/edit/#slug=r25db7r3g13t1k2~x4&amp;base=lb2g6r1g1r14k1lbi1~x4">MacPhail</a> <a class="nn-out" href="/variants/s6/r25db7r3g13t1k2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r25db7r3g13t1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=r1o1dg6o15dy2o1dy6w1~x4&amp;base=lb2g6r1g1r14k1lbi1~x4">Connacht #2</a> <a class="nn-out" href="/variants/s8/r1o1dg6o15dy2o1dy6w1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r1o1dg6o15dy2o1dy6w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=r6w1r24db6g2k1g2k1g12r1~x2&amp;base=lb2g6r1g1r14k1lbi1~x4">Chisholm</a> <a class="nn-out" href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g16r4k6r28g2lo3~x2&amp;base=lb2g6r1g1r14k1lbi1~x4">McInally (Name)</a> <a class="nn-out" href="/variants/s7/r3g16r4k6r28g2lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3g16r4k6r28g2lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4dr2db2w2dr9o27r4~x3/"><circle cx="323.9" cy="161.1" r="4" fill="#3465a4"><title>Unidentified 35</title></circle></a><a href="/variants/s8/lo3y40db12lo3k2lb4k2lo3~x2/"><circle cx="356.0" cy="126.3" r="4" fill="#3465a4"><title>Tunes of Glory (Film)</title></circle></a><a href="/variants/s7/r96db16dg34g48r18k6r9/"><circle cx="292.7" cy="160.0" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14ly1r1w2~x2/"><circle cx="298.9" cy="135.6" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/"><circle cx="329.8" cy="129.9" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="333.2" cy="141.2" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s6/r25db7r3g13t1k2~x4/"><circle cx="327.3" cy="143.1" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s8/r1o1dg6o15dy2o1dy6w1~x4/"><circle cx="283.6" cy="143.8" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="334.4" cy="104.6" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="344.4" cy="171.9" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><circle cx="342.7" cy="150.1" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/lb2g6r1g1r14k1lbi1~x4/

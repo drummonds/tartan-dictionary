@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fox-Eves Wedding (Personal)](/setts/s6/r9b6dt13b21o18w4~x2/)|
-|![Fox-Eves Wedding (Personal) example sett](/setts/s6/r9b6dt13b21o18w4~x2/sett.png)|
+| [Fox-Eves Wedding (Personal)](/variants/s6/r9b6dt13b21o18w4~x2/)|
+|![Fox-Eves Wedding (Personal) example sett](/variants/s6/r9b6dt13b21o18w4~x2/sett.png)|

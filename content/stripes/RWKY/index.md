@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Broberg (Scania) (Personal)](/setts/s4/r80lb40k5lo6/)|
-|![Broberg (Scania) (Personal) example sett](/setts/s4/r80lb40k5lo6/sett.png)|
+| [Broberg (Scania) (Personal)](/variants/s4/r80lb40k5lo6/)|
+|![Broberg (Scania) (Personal) example sett](/variants/s4/r80lb40k5lo6/sett.png)|

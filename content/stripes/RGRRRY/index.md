@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Killiechassie](/setts/s6/r2dy1r4ri1r12lo1~x2/)|
-|![Killiechassie example sett](/setts/s6/r2dy1r4ri1r12lo1~x2/sett.png)|
+| [Killiechassie](/variants/s6/r2dy1r4ri1r12lo1~x2/)|
+|![Killiechassie example sett](/variants/s6/r2dy1r4ri1r12lo1~x2/sett.png)|

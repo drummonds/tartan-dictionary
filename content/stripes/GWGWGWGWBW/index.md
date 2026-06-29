@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Pakistan, The](/setts/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/)|
-|![Spirit of Pakistan, The example sett](/setts/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/sett.png)|
+| [Spirit of Pakistan, The](/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/)|
+|![Spirit of Pakistan, The example sett](/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/sett.png)|

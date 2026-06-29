@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Raibert Check](/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/)|
-|![Raibert Check example sett](/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/sett.png)|
+| [Raibert Check](/variants/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/)|
+|![Raibert Check example sett](/variants/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/sett.png)|

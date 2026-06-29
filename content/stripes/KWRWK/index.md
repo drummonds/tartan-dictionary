@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Islander Dress](/setts/s5/k3w29m9lb19k3~x2/)|
-|![Islander Dress example sett](/setts/s5/k3w29m9lb19k3~x2/sett.png)|
+| [Islander Dress](/variants/s5/k3w29m9lb19k3~x2/)|
+|![Islander Dress example sett](/variants/s5/k3w29m9lb19k3~x2/sett.png)|

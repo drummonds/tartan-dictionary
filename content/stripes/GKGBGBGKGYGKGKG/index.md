@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Grant Distillery](/setts/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/)|
-|![Glen Grant Distillery example sett](/setts/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/sett.png)|
+| [Glen Grant Distillery](/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/)|
+|![Glen Grant Distillery example sett](/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/sett.png)|

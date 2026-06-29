@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ikelman No 4](/setts/s7/r10k15g2k2w1k1w1~x4/)|
-|![Ikelman No 4 example sett](/setts/s7/r10k15g2k2w1k1w1~x4/sett.png)|
+| [Ikelman No 4](/variants/s7/r10k15g2k2w1k1w1~x4/)|
+|![Ikelman No 4 example sett](/variants/s7/r10k15g2k2w1k1w1~x4/sett.png)|

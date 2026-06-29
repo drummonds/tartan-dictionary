@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dalwhinnie](/setts/s9/dg70ly6y28g56y5g11y5g11lo12/)|
-|![Dalwhinnie example sett](/setts/s9/dg70ly6y28g56y5g11y5g11lo12/sett.png)|
+| [Dalwhinnie](/variants/s9/dg70ly6y28g56y5g11y5g11lo12/)|
+|![Dalwhinnie example sett](/variants/s9/dg70ly6y28g56y5g11y5g11lo12/sett.png)|

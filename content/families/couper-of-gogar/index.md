@@ -8,5 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/"><img src="/setts/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/sett.png" alt="Couper of Gogar (Clan)" width="240"><br>Couper of Gogar (Clan)</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2/">Couper of Gogar</a> ★</td><td><code>R/4 LP8 DB4 G48 DB8 G4 DB8 K20 LP8 DB4 LP8 G16 DB2 K4 DB44 LP8 DB4 R/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2/"><img src="/variants/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/sett.png" alt="Couper of Gogar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

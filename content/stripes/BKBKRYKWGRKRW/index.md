@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dykes, of Perthshire](/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/)|
-|![Dykes, of Perthshire example sett](/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/sett.png)|
+| [Dykes, of Perthshire](/variants/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/)|
+|![Dykes, of Perthshire example sett](/variants/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/sett.png)|

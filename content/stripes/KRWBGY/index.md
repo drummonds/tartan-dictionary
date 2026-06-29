@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [CREATeGlasgow](/setts/s6/k49r1lp4db5dg5ly5~x2/)|
-|![CREATeGlasgow example sett](/setts/s6/k49r1lp4db5dg5ly5~x2/sett.png)|
+| [CREATeGlasgow](/variants/s6/k49r1lp4db5dg5ly5~x2/)|
+|![CREATeGlasgow example sett](/variants/s6/k49r1lp4db5dg5ly5~x2/sett.png)|

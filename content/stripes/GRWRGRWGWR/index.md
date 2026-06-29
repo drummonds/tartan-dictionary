@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenfinnan (Fashion)](/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/)|
-|![Glenfinnan (Fashion) example sett](/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/sett.png)|
+| [Glenfinnan (Fashion)](/variants/s10/r5w2g3w2r10g10r2w1r2dg1~x4/)|
+|![Glenfinnan (Fashion) example sett](/variants/s10/r5w2g3w2r10g10r2w1r2dg1~x4/sett.png)|

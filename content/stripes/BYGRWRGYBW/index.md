@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Pairs (Corporate)](/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/)|
-|![International Pairs (Corporate) example sett](/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/sett.png)|
+| [International Pairs (Corporate)](/variants/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/)|
+|![International Pairs (Corporate) example sett](/variants/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/sett.png)|

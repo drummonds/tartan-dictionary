@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mullikin (2013)](/setts/s8/r5w4lg6db2dg43db2lg4r3~x2/)|
-|![Mullikin (2013) example sett](/setts/s8/r5w4lg6db2dg43db2lg4r3~x2/sett.png)|
+| [Mullikin (2013)](/variants/s8/r5w4lg6db2dg43db2lg4r3~x2/)|
+|![Mullikin (2013) example sett](/variants/s8/r5w4lg6db2dg43db2lg4r3~x2/sett.png)|

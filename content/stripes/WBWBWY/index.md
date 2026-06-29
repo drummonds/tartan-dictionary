@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Shirt)](/setts/s6/w7db16w20db3w3ly3~x2/)|
-|![Unidentified (Shirt) example sett](/setts/s6/w7db16w20db3w3ly3~x2/sett.png)|
+| [Unidentified (Shirt)](/variants/s6/w7db16w20db3w3ly3~x2/)|
+|![Unidentified (Shirt) example sett](/variants/s6/w7db16w20db3w3ly3~x2/sett.png)|

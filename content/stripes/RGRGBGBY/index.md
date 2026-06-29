@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hyland Day (Personal)](/setts/s8/r3dy2r26dy4do6dy29do2lo3~x2/)|
-|![Hyland Day (Personal) example sett](/setts/s8/r3dy2r26dy4do6dy29do2lo3~x2/sett.png)|
+| [Hyland Day (Personal)](/variants/s8/r3dy2r26dy4do6dy29do2lo3~x2/)|
+|![Hyland Day (Personal) example sett](/variants/s8/r3dy2r26dy4do6dy29do2lo3~x2/sett.png)|

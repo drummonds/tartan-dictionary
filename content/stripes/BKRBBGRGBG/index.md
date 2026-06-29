@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Downie (Name)](/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/)|
-|![Downie (Name) example sett](/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/sett.png)|
+| [Downie (Name)](/variants/s10/t24k2r2t2db12g28r4g5t3g3~x2/)|
+|![Downie (Name) example sett](/variants/s10/t24k2r2t2db12g28r4g5t3g3~x2/sett.png)|

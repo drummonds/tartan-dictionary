@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [International Police Association (IPA 2010)](/setts/s7/db14r6db52lt4db4lt51ly8/)|
-|![International Police Association (IPA 2010) example sett](/setts/s7/db14r6db52lt4db4lt51ly8/sett.png)|
+| [International Police Association (IPA 2010)](/variants/s7/db14r6db52lt4db4lt51ly8/)|
+|![International Police Association (IPA 2010) example sett](/variants/s7/db14r6db52lt4db4lt51ly8/sett.png)|

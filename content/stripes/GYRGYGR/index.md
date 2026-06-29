@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spice Apple](/setts/s7/r4g4lo4g12r22lo1g4~x4/)|
-|![Spice Apple example sett](/setts/s7/r4g4lo4g12r22lo1g4~x4/sett.png)|
+| [Spice Apple](/variants/s7/r4g4lo4g12r22lo1g4~x4/)|
+|![Spice Apple example sett](/variants/s7/r4g4lo4g12r22lo1g4~x4/sett.png)|

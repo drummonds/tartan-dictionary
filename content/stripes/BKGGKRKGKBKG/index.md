@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tomatin Distillery](/setts/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/)|
-|![Tomatin Distillery example sett](/setts/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/sett.png)|
+| [Tomatin Distillery](/variants/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/)|
+|![Tomatin Distillery example sett](/variants/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/sett.png)|

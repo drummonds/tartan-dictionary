@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Firenze ~ Florence](/setts/s16/r46w1ly3db1ly3db1ly3db1ly3w1r46dp14r2w2g2dp14~x2/)|
-|![Firenze ~ Florence example sett](/setts/s16/r46w1ly3db1ly3db1ly3db1ly3w1r46dp14r2w2g2dp14~x2/sett.png)|
+| [Firenze ~ Florence](/variants/s16/r46w1ly3db1ly3db1ly3db1ly3w1r46dp14r2w2g2dp14~x2/)|
+|![Firenze ~ Florence example sett](/variants/s16/r46w1ly3db1ly3db1ly3db1ly3w1r46dp14r2w2g2dp14~x2/sett.png)|

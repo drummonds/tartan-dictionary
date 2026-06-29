@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Earle's Flame](/setts/s8/k10y24r3y3r24dg3y6k6~x2/)|
-|![Earle's Flame example sett](/setts/s8/k10y24r3y3r24dg3y6k6~x2/sett.png)|
+| [Earle's Flame](/variants/s8/k10y24r3y3r24dg3y6k6~x2/)|
+|![Earle's Flame example sett](/variants/s8/k10y24r3y3r24dg3y6k6~x2/sett.png)|

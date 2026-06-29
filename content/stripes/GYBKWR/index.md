@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordon of Abergeldie (Portrait)](/setts/s6/r63w4k4dp18ly4dg50~x2/)|
-|![Gordon of Abergeldie (Portrait) example sett](/setts/s6/r63w4k4dp18ly4dg50~x2/sett.png)|
-| [Gordon of Abergeldie, (Red..)](/setts/s6/r20w1k1dp6ly1g18~x2/)|
-|![Gordon of Abergeldie, (Red..) example sett](/setts/s6/r20w1k1dp6ly1g18~x2/sett.png)|
+| [Gordon of Abergeldie (Portrait)](/variants/s6/r63w4k4dp18ly4dg50~x2/)|
+|![Gordon of Abergeldie (Portrait) example sett](/variants/s6/r63w4k4dp18ly4dg50~x2/sett.png)|
+| [Gordon of Abergeldie, (Red..)](/variants/s6/r20w1k1dp6ly1g18~x2/)|
+|![Gordon of Abergeldie, (Red..) example sett](/variants/s6/r20w1k1dp6ly1g18~x2/sett.png)|

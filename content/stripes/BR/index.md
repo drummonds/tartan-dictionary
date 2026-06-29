@@ -24,7 +24,7 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Masai Shuka 02 (Artefact)](/tartans/db1r1/)|
-|![Masai Shuka 02 (Artefact) example sett](/setts/s2/db1r1~x14/sett.png)|
-| [Wilson's No.138](/setts/s2/r3t1~x14/)|
-|![Wilson's No.138 example sett](/setts/s2/r3t1~x14/sett.png)|
+| [Masai Shuka 02 (Artefact)](/setts/db1r1/)|
+|![Masai Shuka 02 (Artefact) example sett](/variants/s2/db1r1~x14/sett.png)|
+| [Wilson's No.138](/variants/s2/r3t1~x14/)|
+|![Wilson's No.138 example sett](/variants/s2/r3t1~x14/sett.png)|

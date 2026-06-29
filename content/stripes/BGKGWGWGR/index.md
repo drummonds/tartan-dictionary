@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Todd](/setts/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/)|
-|![Todd example sett](/setts/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/sett.png)|
+| [Todd](/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/)|
+|![Todd example sett](/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Granite](/setts/s14/lr4o4k4o18k3n36w3n36k3o18k4o4lr4o3~x2/)|
-|![Hebridean Granite example sett](/setts/s14/lr4o4k4o18k3n36w3n36k3o18k4o4lr4o3~x2/sett.png)|
+| [Hebridean Granite](/variants/s14/lr4o4k4o18k3n36w3n36k3o18k4o4lr4o3~x2/)|
+|![Hebridean Granite example sett](/variants/s14/lr4o4k4o18k3n36w3n36k3o18k4o4lr4o3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmoral (Jack Allen)](/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/)|
-|![Balmoral (Jack Allen) example sett](/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/sett.png)|
+| [Balmoral (Jack Allen)](/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/)|
+|![Balmoral (Jack Allen) example sett](/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/sett.png)|

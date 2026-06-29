@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Irving of Bonshaw](/setts/s5/g27db14k2db2ly2~x4/)|
-|![Irving of Bonshaw example sett](/setts/s5/g27db14k2db2ly2~x4/sett.png)|
+| [Irving of Bonshaw](/variants/s5/g27db14k2db2ly2~x4/)|
+|![Irving of Bonshaw example sett](/variants/s5/g27db14k2db2ly2~x4/sett.png)|

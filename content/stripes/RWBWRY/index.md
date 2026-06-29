@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Defense](/setts/s6/r40w2db2w2r1ly20~x2/)|
-|![National Defense example sett](/setts/s6/r40w2db2w2r1ly20~x2/sett.png)|
+| [National Defense](/variants/s6/r40w2db2w2r1ly20~x2/)|
+|![National Defense example sett](/variants/s6/r40w2db2w2r1ly20~x2/sett.png)|

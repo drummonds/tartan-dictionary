@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Albuquerque, City of](/setts/s8/r2g12db2g8db18w3r2w2~x2/)|
-|![Albuquerque, City of example sett](/setts/s8/r2g12db2g8db18w3r2w2~x2/sett.png)|
+| [Albuquerque, City of](/variants/s8/r2g12db2g8db18w3r2w2~x2/)|
+|![Albuquerque, City of example sett](/variants/s8/r2g12db2g8db18w3r2w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Dress](/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/)|
-|![Kinloch Anderson Dress example sett](/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/sett.png)|
+| [Kinloch Anderson Dress](/variants/s12/r8w30y5w8y5k12w6k12db28r4db8r8/)|
+|![Kinloch Anderson Dress example sett](/variants/s12/r8w30y5w8y5k12w6k12db28r4db8r8/sett.png)|

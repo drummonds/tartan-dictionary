@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Old Dobbs County (District)](/setts/s12/g10k1g10db1g1k1g1k1db10k1lo1r1~x4/)|
-|![Old Dobbs County (District) example sett](/setts/s12/g10k1g10db1g1k1g1k1db10k1lo1r1~x4/sett.png)|
+| [Old Dobbs County (District)](/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1r1~x4/)|
+|![Old Dobbs County (District) example sett](/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1r1~x4/sett.png)|

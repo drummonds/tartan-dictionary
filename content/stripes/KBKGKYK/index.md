@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [London Community Gospel Choir](/setts/s7/k25ly5k5g25k25b3k10~x2/)|
-|![London Community Gospel Choir example sett](/setts/s7/k25ly5k5g25k25b3k10~x2/sett.png)|
-| [London Community Gospel Choir, The](/setts/s7/k25lo5k5dg25k25db3k10~x2/)|
-|![London Community Gospel Choir, The example sett](/setts/s7/k25lo5k5dg25k25db3k10~x2/sett.png)|
+| [London Community Gospel Choir](/variants/s7/k25ly5k5g25k25b3k10~x2/)|
+|![London Community Gospel Choir example sett](/variants/s7/k25ly5k5g25k25b3k10~x2/sett.png)|
+| [London Community Gospel Choir, The](/variants/s7/k25lo5k5dg25k25db3k10~x2/)|
+|![London Community Gospel Choir, The example sett](/variants/s7/k25lo5k5dg25k25db3k10~x2/sett.png)|

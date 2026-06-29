@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Entrelacs](/setts/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/)|
-|![Entrelacs example sett](/setts/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/sett.png)|
-| [Entrelacs (District)](/setts/s13/t14g4w4t1w2lo2w2g12t4w2t2w2lo1~x4/)|
-|![Entrelacs (District) example sett](/setts/s13/t14g4w4t1w2lo2w2g12t4w2t2w2lo1~x4/sett.png)|
+| [Entrelacs](/variants/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/)|
+|![Entrelacs example sett](/variants/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/sett.png)|
+| [Entrelacs (District)](/variants/s13/t14g4w4t1w2lo2w2g12t4w2t2w2lo1~x4/)|
+|![Entrelacs (District) example sett](/variants/s13/t14g4w4t1w2lo2w2g12t4w2t2w2lo1~x4/sett.png)|

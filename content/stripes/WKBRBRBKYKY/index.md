@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Liddell (New York) (Name)](/setts/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/)|
-|![Liddell (New York) (Name) example sett](/setts/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/sett.png)|
+| [Liddell (New York) (Name)](/variants/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/)|
+|![Liddell (New York) (Name) example sett](/variants/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/sett.png)|

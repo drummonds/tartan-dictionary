@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Froach's Grian](/setts/s8/lr2m24lo14lr25lo14lr25ly20lr2~x2/)|
-|![Froach's Grian example sett](/setts/s8/lr2m24lo14lr25lo14lr25ly20lr2~x2/sett.png)|
+| [Froach's Grian](/variants/s8/lr2m24lo14lr25lo14lr25ly20lr2~x2/)|
+|![Froach's Grian example sett](/variants/s8/lr2m24lo14lr25lo14lr25ly20lr2~x2/sett.png)|

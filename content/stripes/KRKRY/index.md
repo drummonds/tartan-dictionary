@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Munro VS](/tartans/k18r4k18r32lr3/)|
-|![Munro VS example sett](/setts/s5/k18r4k18r32lr3/sett.png)|
+| [Munro VS](/setts/k18r4k18r32lr3/)|
+|![Munro VS example sett](/variants/s5/k18r4k18r32lr3/sett.png)|

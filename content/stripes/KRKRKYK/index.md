@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [DDB Canada (Fashion)](/setts/s7/k1o2k7o11k18ly2k1~x2/)|
-|![DDB Canada (Fashion) example sett](/setts/s7/k1o2k7o11k18ly2k1~x2/sett.png)|
+| [DDB Canada (Fashion)](/variants/s7/k1o2k7o11k18ly2k1~x2/)|
+|![DDB Canada (Fashion) example sett](/variants/s7/k1o2k7o11k18ly2k1~x2/sett.png)|

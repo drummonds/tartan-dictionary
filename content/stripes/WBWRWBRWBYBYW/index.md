@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [De Clercq, Christian (Belgium)](/setts/s13/lb3db1lb1r1lb1db10r1lb9b35lo2b2lo1lb2~x2/)|
-|![De Clercq, Christian (Belgium) example sett](/setts/s13/lb3db1lb1r1lb1db10r1lb9b35lo2b2lo1lb2~x2/sett.png)|
+| [De Clercq, Christian (Belgium)](/variants/s13/lb3db1lb1r1lb1db10r1lb9b35lo2b2lo1lb2~x2/)|
+|![De Clercq, Christian (Belgium) example sett](/variants/s13/lb3db1lb1r1lb1db10r1lb9b35lo2b2lo1lb2~x2/sett.png)|

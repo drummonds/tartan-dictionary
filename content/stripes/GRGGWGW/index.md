@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Uist, Green (Dance)](/setts/s7/g3r2g27dg3w30dg2w3~x2/)|
-|![Uist, Green (Dance) example sett](/setts/s7/g3r2g27dg3w30dg2w3~x2/sett.png)|
+| [Uist, Green (Dance)](/variants/s7/g3r2g27dg3w30dg2w3~x2/)|
+|![Uist, Green (Dance) example sett](/variants/s7/g3r2g27dg3w30dg2w3~x2/sett.png)|

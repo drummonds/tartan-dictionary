@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nova, Scotia](/setts/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/)|
-|![Nova, Scotia example sett](/setts/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/sett.png)|
+| [Nova, Scotia](/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/)|
+|![Nova, Scotia example sett](/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/sett.png)|

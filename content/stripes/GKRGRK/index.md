@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thompson Black (Fashion)](/setts/s6/g3k15r8g2o8k2~x4/)|
-|![Thompson Black (Fashion) example sett](/setts/s6/g3k15r8g2o8k2~x4/sett.png)|
+| [Thompson Black (Fashion)](/variants/s6/g3k15r8g2o8k2~x4/)|
+|![Thompson Black (Fashion) example sett](/variants/s6/g3k15r8g2o8k2~x4/sett.png)|

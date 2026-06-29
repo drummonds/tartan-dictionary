@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bird Family (Personal)](/setts/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/)|
-|![Bird Family (Personal) example sett](/setts/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/sett.png)|
+| [Bird Family (Personal)](/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/)|
+|![Bird Family (Personal) example sett](/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/sett.png)|

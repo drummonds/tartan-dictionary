@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathclyde](/setts/s7/k2b16w2ki16w15k2w2~x2/)|
-|![Strathclyde example sett](/setts/s7/k2b16w2ki16w15k2w2~x2/sett.png)|
+| [Strathclyde](/variants/s7/k2b16w2ki16w15k2w2~x2/)|
+|![Strathclyde example sett](/variants/s7/k2b16w2ki16w15k2w2~x2/sett.png)|

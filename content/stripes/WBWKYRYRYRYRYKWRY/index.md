@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Espana](/setts/s17/lb34b5lb3k1ly2r2ly2r2ly2r2ly2r2ly2k1lb3r4ly8~x2/)|
-|![Espana example sett](/setts/s17/lb34b5lb3k1ly2r2ly2r2ly2r2ly2r2ly2k1lb3r4ly8~x2/sett.png)|
+| [Espana](/variants/s17/lb34b5lb3k1ly2r2ly2r2ly2r2ly2r2ly2k1lb3r4ly8~x2/)|
+|![Espana example sett](/variants/s17/lb34b5lb3k1ly2r2ly2r2ly2r2ly2r2ly2k1lb3r4ly8~x2/sett.png)|

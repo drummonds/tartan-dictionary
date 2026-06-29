@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oliphant](/setts/s6/db4k4db24dg32lr1dg2~x2/)|
-|![Oliphant example sett](/setts/s6/db4k4db24dg32lr1dg2~x2/sett.png)|
+| [Oliphant](/variants/s6/db4k4db24dg32lr1dg2~x2/)|
+|![Oliphant example sett](/variants/s6/db4k4db24dg32lr1dg2~x2/sett.png)|

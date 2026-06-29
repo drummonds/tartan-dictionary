@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crook](/setts/s9/k4m14b2y16m3k3m3b12y4~x2/)|
-|![Crook example sett](/setts/s9/k4m14b2y16m3k3m3b12y4~x2/sett.png)|
+| [Crook](/variants/s9/k4m14b2y16m3k3m3b12y4~x2/)|
+|![Crook example sett](/variants/s9/k4m14b2y16m3k3m3b12y4~x2/sett.png)|

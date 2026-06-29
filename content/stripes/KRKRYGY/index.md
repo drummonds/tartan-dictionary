@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keeling](/setts/s7/ly17g7ly6r43k5o6k13~x2/)|
-|![Keeling example sett](/setts/s7/ly17g7ly6r43k5o6k13~x2/sett.png)|
+| [Keeling](/variants/s7/ly17g7ly6r43k5o6k13~x2/)|
+|![Keeling example sett](/variants/s7/ly17g7ly6r43k5o6k13~x2/sett.png)|

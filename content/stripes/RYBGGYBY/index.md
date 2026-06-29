@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Goddin mab Gododdin (Personal)](/setts/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/)|
-|![Goddin mab Gododdin (Personal) example sett](/setts/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/sett.png)|
+| [Goddin mab Gododdin (Personal)](/variants/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/)|
+|![Goddin mab Gododdin (Personal) example sett](/variants/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/sett.png)|

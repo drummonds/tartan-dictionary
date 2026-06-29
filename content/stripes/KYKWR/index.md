@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Macleod, Winnifred Mary, Dress](/setts/s5/k23ly3k23w36r4~x2/)|
-|![Macleod, Winnifred Mary, Dress example sett](/setts/s5/k23ly3k23w36r4~x2/sett.png)|
+| [Macleod, Winnifred Mary, Dress](/variants/s5/k23ly3k23w36r4~x2/)|
+|![Macleod, Winnifred Mary, Dress example sett](/variants/s5/k23ly3k23w36r4~x2/sett.png)|

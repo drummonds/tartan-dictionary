@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smeaton Hunting (Name)](/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/)|
-|![Smeaton Hunting (Name) example sett](/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/sett.png)|
+| [Smeaton Hunting (Name)](/variants/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/)|
+|![Smeaton Hunting (Name) example sett](/variants/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/sett.png)|

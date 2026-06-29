@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Tartans Authority](/setts/s11/ki16k2t2k4dg16r2ki15k6t2ki3t4~x2/)|
-|![Scottish Tartans Authority example sett](/setts/s11/ki16k2t2k4dg16r2ki15k6t2ki3t4~x2/sett.png)|
+| [Scottish Tartans Authority](/variants/s11/ki16k2t2k4dg16r2ki15k6t2ki3t4~x2/)|
+|![Scottish Tartans Authority example sett](/variants/s11/ki16k2t2k4dg16r2ki15k6t2ki3t4~x2/sett.png)|

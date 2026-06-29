@@ -24,7 +24,7 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murphy & his Gang (Personal)](/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/)|
-|![Murphy & his Gang (Personal) example sett](/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/sett.png)|
-| [Murphy and his Gang (Phoenix Arizona) (Personal)](/setts/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/)|
-|![Murphy and his Gang (Phoenix Arizona) (Personal) example sett](/setts/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/sett.png)|
+| [Murphy & his Gang (Personal)](/variants/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/)|
+|![Murphy & his Gang (Personal) example sett](/variants/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/sett.png)|
+| [Murphy and his Gang (Phoenix Arizona) (Personal)](/variants/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/)|
+|![Murphy and his Gang (Phoenix Arizona) (Personal) example sett](/variants/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/sett.png)|

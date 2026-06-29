@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nassau County Firefighters (P&D)](/setts/s10/k13w13r26lo13r20dt13r26g22w13k13/)|
-|![Nassau County Firefighters (P&D) example sett](/setts/s10/k13w13r26lo13r20dt13r26g22w13k13/sett.png)|
+| [Nassau County Firefighters (P&D)](/variants/s10/k13w13r26lo13r20dt13r26g22w13k13/)|
+|![Nassau County Firefighters (P&D) example sett](/variants/s10/k13w13r26lo13r20dt13r26g22w13k13/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nocken Blue Modern Tartan (Personal)](/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/)|
-|![Nocken Blue Modern Tartan (Personal) example sett](/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/sett.png)|
+| [Nocken Blue Modern Tartan (Personal)](/variants/s9/lr3k6w2k6dt2k2dt32k2n1~x2/)|
+|![Nocken Blue Modern Tartan (Personal) example sett](/variants/s9/lr3k6w2k6dt2k2dt32k2n1~x2/sett.png)|

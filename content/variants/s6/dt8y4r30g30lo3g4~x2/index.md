@@ -1,0 +1,73 @@
+---
+title: "Hutcheson (Name)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt8y4r30g30lo3g4/)
+(the same proportion at any scale), whose colour order is pattern [BGRGYG](/stripes/bgrgyg/).
+
+Part of the [Hutcheson](/tartans/hutcheson/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3808/
+
+## Provenance
+
+Earliest known date: 2000 After 46 years in the Scottish Textile industry and there being no Hutcheson tartan, Colin Hutcheson decided to produce this design to mark his and four generations of his family's involvement in spinning, weaving, knitting and clothing manufacture in Edinburgh and the Scottish Borders. The design is based on Douglas which is traditionally the closest clan to Hawick where he started his career in 1956. The colours were assembled from some of the most successful shades in the Johnstons of Elgin colour palette. Cloth can be obtained from Johnstons of Elgin. Any related names are welcome to wear the tartan - Hutcheon, Hutchison, Hutchieson, Hutchenson, Hutchinson, Hughson, MacCutcheon, MacCutchin, MacCutchan, MacCuthan, MacCutheon, MacCuthon.
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hutcheson Clan/Family
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2000 — Hutcheson (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3808/">record</a>)</li>
+<li>undated — Hutcheson Clan/Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3808">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3808
+
+## Thread count
+DB/16 LG8 R60 G60 O6 G/8
+
+One full sett is **292 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(4 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> <small style="color:#888">#003C64</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(34.5% 0.089 246.0)</small></td></tr><tr><td>LG</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> <small style="color:#888">#789484</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(64.0% 0.040 160.0)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#CC4438;"><span style="color:#CC4438;filter:grayscale(1) invert(1) contrast(100);">#CC4438</span></code> <small style="color:#888">#CC4438</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(57.7% 0.174 28.7)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> <small style="color:#888">#00643C</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(44.3% 0.104 157.7)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#DC943C;"><span style="color:#DC943C;filter:grayscale(1) invert(1) contrast(100);">#DC943C</span></code> <small style="color:#888">#DC943C</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(72.3% 0.133 67.9)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> <small style="color:#888">#00643C</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(44.3% 0.104 157.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="DB/16 LG8 R60 G60 O6 G/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r30y4dt8y4r30g30lo3g4lo3g30/"><img src="/variants/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r30y4dt8y4r30g30lo3g4lo3g30/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dt8y4r30g30lo3g4~x2">Hutcheson (Name)</a> <a class="nn-out" href="/variants/s6/dt8y4r30g30lo3g4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/dt8y4r30g30lo3g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.91</div><div class="nn-name"><a href="/ttd/edit/#slug=w15lo98do72r25do8lg15&amp;base=dt8y4r30g30lo3g4~x2">Afternoon Tea / Milk Tea</a> <a class="nn-out" href="/variants/s6/w15lo98do72r25do8lg15/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w15lo98do72r25do8lg15/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.91</div><div class="nn-name"><a href="/ttd/edit/#slug=g3dy32g4lb3g18dp18lo3~x2&amp;base=dt8y4r30g30lo3g4~x2">Wcwm 9275-1410</a> <a class="nn-out" href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=r30y4dt8y4r30g30lo3g4lo3g30~x2&amp;base=dt8y4r30g30lo3g4~x2">Hutcheson</a> <a class="nn-out" href="/variants/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.20</div><div class="nn-name"><a href="/ttd/edit/#slug=n2r10n10o3r2lr24w2~x2&amp;base=dt8y4r30g30lo3g4~x2">Un-named Dutch</a> <a class="nn-out" href="/variants/s7/n2r10n10o3r2lr24w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/n2r10n10o3r2lr24w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=g24b2r25ly2k3~x2&amp;base=dt8y4r30g30lo3g4~x2">Bronte</a> <a class="nn-out" href="/variants/s5/g24b2r25ly2k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g24b2r25ly2k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.24</div><div class="nn-name"><a href="/ttd/edit/#slug=k2o30g4w2g14m13ly2~x2&amp;base=dt8y4r30g30lo3g4~x2">Red Rum</a> <a class="nn-out" href="/variants/s7/k2o30g4w2g14m13ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k2o30g4w2g14m13ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=y19r3t19r11y19ly2db4~x2&amp;base=dt8y4r30g30lo3g4~x2">Rotary Corporate Tartan</a> <a class="nn-out" href="/variants/s7/y19r3t19r11y19ly2db4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y19r3t19r11y19ly2db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=r3db1r12o3dg12lb1dg2~x4&amp;base=dt8y4r30g30lo3g4~x2">Leckie (Personal)</a> <a class="nn-out" href="/variants/s7/r3db1r12o3dg12lb1dg2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3db1r12o3dg12lb1dg2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=y15k10n30o11w3y5~x2&amp;base=dt8y4r30g30lo3g4~x2">McHale (Personal)</a> <a class="nn-out" href="/variants/s6/y15k10n30o11w3y5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y15k10n30o11w3y5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.32</div><div class="nn-name"><a href="/ttd/edit/#slug=r3n20ly2n20y20lb20r3~x2&amp;base=dt8y4r30g30lo3g4~x2">Brodie, Silver</a> <a class="nn-out" href="/variants/s7/r3n20ly2n20y20lb20r3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3n20ly2n20y20lb20r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w15lo98do72r25do8lg15/"><circle cx="227.2" cy="182.2" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.4" cy="199.9" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s10/r30y4dt8y4r30g30lo3g4lo3g30~x2/"><circle cx="256.3" cy="183.1" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s7/n2r10n10o3r2lr24w2~x2/"><circle cx="250.7" cy="170.5" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s5/g24b2r25ly2k3~x2/"><circle cx="283.1" cy="183.3" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s7/k2o30g4w2g14m13ly2~x2/"><circle cx="243.9" cy="155.5" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s7/y19r3t19r11y19ly2db4~x2/"><circle cx="265.0" cy="226.0" r="4" fill="#3465a4"><title>Rotary Corporate Tartan</title></circle></a><a href="/variants/s7/r3db1r12o3dg12lb1dg2~x4/"><circle cx="274.4" cy="181.5" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><a href="/variants/s6/y15k10n30o11w3y5~x2/"><circle cx="200.4" cy="218.8" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/variants/s7/r3n20ly2n20y20lb20r3~x2/"><circle cx="221.0" cy="208.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><circle cx="255.5" cy="200.5" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/dt8y4r30g30lo3g4~x2/

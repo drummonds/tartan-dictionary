@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacTavish](/setts/s6/lb2r12db2lb6k6lb1/)|
-|![MacTavish example sett](/setts/s6/lb2r12db2lb6k6lb1/sett.png)|
+| [MacTavish](/variants/s6/lb2r12db2lb6k6lb1/)|
+|![MacTavish example sett](/variants/s6/lb2r12db2lb6k6lb1/sett.png)|

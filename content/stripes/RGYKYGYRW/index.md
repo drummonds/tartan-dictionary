@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince Charles Edward](/setts/s9/r12g3ly4k2ly4g12ly2r3w1~x4/)|
-|![Prince Charles Edward example sett](/setts/s9/r12g3ly4k2ly4g12ly2r3w1~x4/sett.png)|
+| [Prince Charles Edward](/variants/s9/r12g3ly4k2ly4g12ly2r3w1~x4/)|
+|![Prince Charles Edward example sett](/variants/s9/r12g3ly4k2ly4g12ly2r3w1~x4/sett.png)|

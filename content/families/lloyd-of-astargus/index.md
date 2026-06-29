@@ -1,18 +1,22 @@
 ---
-title: "LLoyd of Astargus"
+title: "Lloyd of Astargus"
 date: 2023-03-18
 ---
-A family of [Clan LLoyd](/clan/lloyd/).
+A family of [Clan Lloyd](/clan/lloyd/).
 
 **Trove of Scotland:** [search “Astargus”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Astargus&viewmode=grid)
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/r2db61k13w2o20lo2~x2/"><img src="/setts/s6/r2db61k13w2o20lo2~x2/sett.png" alt="Lloyd of Astargus" width="240"><br>Lloyd of Astargus</a>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r2db61k13w2o20lo2/">Lloyd of Astargus</a> ★</td><td><code>LO/4 O40 W4 K26 DB122 R/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r2db61k13w2o20lo2/"><img src="/variants/s6/r2db61k13w2o20lo2~x2/sett.png" alt="Lloyd of Astargus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r3db38k13w3o20ly2/">LLoyd of Astargus Canadian Family Tartan</a></td><td><code>R/6 DB76 K26 W6 O40 LY/4</code></td><td>1</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/r3db38k13w3o20ly2/"><img src="/variants/s6/r3db38k13w3o20ly2~x2/sett.png" alt="LLoyd of Astargus Canadian Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s6/r3db38k13w3o20ly2~x2/"><img src="/setts/s6/r3db38k13w3o20ly2~x2/sett.png" alt="LLoyd of Astargus Canadian Family Tartan Tartan Number: 5771. Earliest known date: 2001 The designer of this tartan is of Welsh &amp; Scottish blood and sees this tartan as being appropriate for any Lloyds with Scottish blood. The 'Astargus' derives from Gaelic - 'Astar' being said to mean &quot;travelling or making distance&quot; and 'gus' meaning &quot;until I come back&quot; See products available Copyright © Blair Urquhart, Comrie, 2015" width="140"><br>LLoyd of Astargus Canadian Family Tartan Tartan Number: 5771. Earliest known date: 2001 The designer of this tartan is of Welsh & Scottish blood and sees this tartan as being appropriate for any Lloyds with Scottish blood. The 'Astargus' derives from Gaelic - 'Astar' being said to mean "travelling or making distance" and 'gus' meaning "until I come back" See products available Copyright © Blair Urquhart, Comrie, 2015</a></li>
-</ul>
+[See the Lloyd of Astargus tartan and all its setts →](/tartans/lloyd-of-astargus/)
 

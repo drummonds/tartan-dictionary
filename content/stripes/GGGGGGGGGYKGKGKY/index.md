@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hanly](/setts/s16/g2dg2g3dg2g2dg2g2dg3g2lr2k9dg26k5g7k2ly2~x2/)|
-|![Hanly example sett](/setts/s16/g2dg2g3dg2g2dg2g2dg3g2lr2k9dg26k5g7k2ly2~x2/sett.png)|
+| [Hanly](/variants/s16/g2dg2g3dg2g2dg2g2dg3g2lr2k9dg26k5g7k2ly2~x2/)|
+|![Hanly example sett](/variants/s16/g2dg2g3dg2g2dg2g2dg3g2lr2k9dg26k5g7k2ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Franklin (District)](/setts/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/)|
-|![Franklin (District) example sett](/setts/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/sett.png)|
+| [Franklin (District)](/variants/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/)|
+|![Franklin (District) example sett](/variants/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/sett.png)|

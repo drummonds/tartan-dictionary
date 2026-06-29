@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reston (Personal)](/setts/s13/t4g32k2t4k2ly5k3ly5k2t4k2db32w4~x2/)|
-|![Reston (Personal) example sett](/setts/s13/t4g32k2t4k2ly5k3ly5k2t4k2db32w4~x2/sett.png)|
+| [Reston (Personal)](/variants/s13/t4g32k2t4k2ly5k3ly5k2t4k2db32w4~x2/)|
+|![Reston (Personal) example sett](/variants/s13/t4g32k2t4k2ly5k3ly5k2t4k2db32w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ramsay](/setts/s6/k4lr2k28r30n1r3~x2/)|
-|![Ramsay example sett](/setts/s6/k4lr2k28r30n1r3~x2/sett.png)|
+| [Ramsay](/variants/s6/k4lr2k28r30n1r3~x2/)|
+|![Ramsay example sett](/variants/s6/k4lr2k28r30n1r3~x2/sett.png)|

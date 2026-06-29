@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Devon 2000](/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/)|
-|![Devon 2000 example sett](/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/sett.png)|
-| [Devon 2000](/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/)|
-|![Devon 2000 example sett](/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/sett.png)|
+| [Devon 2000](/variants/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/)|
+|![Devon 2000 example sett](/variants/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/sett.png)|
+| [Devon 2000](/variants/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/)|
+|![Devon 2000 example sett](/variants/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/sett.png)|

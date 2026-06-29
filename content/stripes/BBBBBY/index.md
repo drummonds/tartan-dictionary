@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keeper of the Quaich Corporate Tartan Tartan Number: 1731. Earliest known date: 1988 Restricted. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/do3db3do3db27do40ly3/)|
-|![Keeper of the Quaich Corporate Tartan Tartan Number: 1731. Earliest known date: 1988 Restricted. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/do3db3do3db27do40ly3/sett.png)|
-| [Sultan of Qaboo's Air Force](/setts/s6/db24t6db10t6db32ly3~x2/)|
-|![Sultan of Qaboo's Air Force example sett](/setts/s6/db24t6db10t6db32ly3~x2/sett.png)|
+| [Keeper of the Quaich Corporate Tartan](/variants/s6/do3db3do3db27do40ly3/)|
+|![Keeper of the Quaich Corporate Tartan example sett](/variants/s6/do3db3do3db27do40ly3/sett.png)|
+| [Sultan of Qaboo's Air Force](/variants/s6/db24t6db10t6db32ly3~x2/)|
+|![Sultan of Qaboo's Air Force example sett](/variants/s6/db24t6db10t6db32ly3~x2/sett.png)|

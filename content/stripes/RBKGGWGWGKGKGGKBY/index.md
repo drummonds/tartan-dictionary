@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Service, of Drymen](/setts/s17/r2db14k2y5g3w1g3w1g3k1g3k1g3y5k2db14ly2~x2/)|
-|![Service, of Drymen example sett](/setts/s17/r2db14k2y5g3w1g3w1g3k1g3k1g3y5k2db14ly2~x2/sett.png)|
+| [Service, of Drymen](/variants/s17/r2db14k2y5g3w1g3w1g3k1g3k1g3y5k2db14ly2~x2/)|
+|![Service, of Drymen example sett](/variants/s17/r2db14k2y5g3w1g3w1g3k1g3k1g3y5k2db14ly2~x2/sett.png)|

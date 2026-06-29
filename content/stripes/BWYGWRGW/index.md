@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Victorian Highland Pipe Band Association (Australia)](/setts/s8/dt46w1lo3dg13w1r7g3w1~x2/)|
-|![Victorian Highland Pipe Band Association (Australia) example sett](/setts/s8/dt46w1lo3dg13w1r7g3w1~x2/sett.png)|
+| [Victorian Highland Pipe Band Association (Australia)](/variants/s8/dt46w1lo3dg13w1r7g3w1~x2/)|
+|![Victorian Highland Pipe Band Association (Australia) example sett](/variants/s8/dt46w1lo3dg13w1r7g3w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moonlight Glen (Fashion)](/setts/s9/w3lr1k3w10k10w6lr4k40lr3~x2/)|
-|![Moonlight Glen (Fashion) example sett](/setts/s9/w3lr1k3w10k10w6lr4k40lr3~x2/sett.png)|
+| [Moonlight Glen (Fashion)](/variants/s9/w3lr1k3w10k10w6lr4k40lr3~x2/)|
+|![Moonlight Glen (Fashion) example sett](/variants/s9/w3lr1k3w10k10w6lr4k40lr3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heritage Plaid](/setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/)|
-|![Heritage Plaid example sett](/setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/sett.png)|
+| [Heritage Plaid](/variants/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/)|
+|![Heritage Plaid example sett](/variants/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/sett.png)|

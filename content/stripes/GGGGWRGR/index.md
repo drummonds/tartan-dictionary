@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bannock Bane M.406](/setts/s8/dg4dy3dg21dy2w14o22dy3o4~x2/)|
-|![Bannock Bane M.406 example sett](/setts/s8/dg4dy3dg21dy2w14o22dy3o4~x2/sett.png)|
+| [Bannock Bane M.406](/variants/s8/dg4dy3dg21dy2w14o22dy3o4~x2/)|
+|![Bannock Bane M.406 example sett](/variants/s8/dg4dy3dg21dy2w14o22dy3o4~x2/sett.png)|

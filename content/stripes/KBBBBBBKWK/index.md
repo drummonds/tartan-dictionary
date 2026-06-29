@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nunavut (District)](/setts/s10/k6t2n2t3n2t2n30k20w6k4~x2/)|
-|![Nunavut (District) example sett](/setts/s10/k6t2n2t3n2t2n30k20w6k4~x2/sett.png)|
+| [Nunavut (District)](/variants/s10/k6t2n2t3n2t2n30k20w6k4~x2/)|
+|![Nunavut (District) example sett](/variants/s10/k6t2n2t3n2t2n30k20w6k4~x2/sett.png)|

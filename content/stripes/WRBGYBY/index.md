@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caig (Corporate)](/setts/s7/w3r2dp31g30ly2dp2ly1~x2/)|
-|![Caig (Corporate) example sett](/setts/s7/w3r2dp31g30ly2dp2ly1~x2/sett.png)|
+| [Caig (Corporate)](/variants/s7/w3r2dp31g30ly2dp2ly1~x2/)|
+|![Caig (Corporate) example sett](/variants/s7/w3r2dp31g30ly2dp2ly1~x2/sett.png)|

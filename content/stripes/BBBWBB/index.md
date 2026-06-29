@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manx Cornaa (Personal)](/setts/s6/db5t5w1t5db5t1~x4/)|
-|![Manx Cornaa (Personal) example sett](/setts/s6/db5t5w1t5db5t1~x4/sett.png)|
+| [Manx Cornaa (Personal)](/variants/s6/db5t5w1t5db5t1~x4/)|
+|![Manx Cornaa (Personal) example sett](/variants/s6/db5t5w1t5db5t1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [DeWolfe](/setts/s16/w6k7r2ly2r2ly2r2ly2k7ly2r34ly2r2ly2r2ly2~x2/)|
-|![DeWolfe example sett](/setts/s16/w6k7r2ly2r2ly2r2ly2k7ly2r34ly2r2ly2r2ly2~x2/sett.png)|
+| [DeWolfe](/variants/s16/w6k7r2ly2r2ly2r2ly2k7ly2r34ly2r2ly2r2ly2~x2/)|
+|![DeWolfe example sett](/variants/s16/w6k7r2ly2r2ly2r2ly2k7ly2r34ly2r2ly2r2ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kildare, County](/setts/s14/y8do2y13r4y12db22y5o3~x2/)|
-|![Kildare, County example sett](/setts/s14/y8do2y13r4y12db22y5o3~x2/sett.png)|
+| [Kildare, County](/variants/s14/y8do2y13r4y12db22y5o3~x2/)|
+|![Kildare, County example sett](/variants/s14/y8do2y13r4y12db22y5o3~x2/sett.png)|

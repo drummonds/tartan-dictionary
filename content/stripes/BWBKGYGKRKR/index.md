@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hunnisett/Edinchip (Name)](/setts/s11/db38w2db2k10g2ly2g22k3r3k3r3~x2/)|
-|![Hunnisett/Edinchip (Name) example sett](/setts/s11/db38w2db2k10g2ly2g22k3r3k3r3~x2/sett.png)|
+| [Hunnisett/Edinchip (Name)](/variants/s11/db38w2db2k10g2ly2g22k3r3k3r3~x2/)|
+|![Hunnisett/Edinchip (Name) example sett](/variants/s11/db38w2db2k10g2ly2g22k3r3k3r3~x2/sett.png)|

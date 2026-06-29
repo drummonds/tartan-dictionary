@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keith (District)](/setts/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/)|
-|![Keith (District) example sett](/setts/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/sett.png)|
+| [Keith (District)](/variants/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/)|
+|![Keith (District) example sett](/variants/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Maine (Fashion)](/setts/s10/dg49k8loi20lo3dg23r6k5t3dg10loi10~x2/)|
-|![State Seal of Maine (Fashion) example sett](/setts/s10/dg49k8loi20lo3dg23r6k5t3dg10loi10~x2/sett.png)|
+| [State Seal of Maine (Fashion)](/variants/s10/dg49k8loi20lo3dg23r6k5t3dg10loi10~x2/)|
+|![State Seal of Maine (Fashion) example sett](/variants/s10/dg49k8loi20lo3dg23r6k5t3dg10loi10~x2/sett.png)|

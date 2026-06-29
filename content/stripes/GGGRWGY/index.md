@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braemar House](/setts/s7/dg3y2g12o11w1dg1ly3~x2/)|
-|![Braemar House example sett](/setts/s7/dg3y2g12o11w1dg1ly3~x2/sett.png)|
+| [Braemar House](/variants/s7/dg3y2g12o11w1dg1ly3~x2/)|
+|![Braemar House example sett](/variants/s7/dg3y2g12o11w1dg1ly3~x2/sett.png)|

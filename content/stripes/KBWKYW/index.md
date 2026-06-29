@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Herriot New Zealand](/setts/s6/w15ly2k5lb3b40k10/)|
-|![Herriot New Zealand example sett](/setts/s6/w15ly2k5lb3b40k10/sett.png)|
+| [Herriot New Zealand](/variants/s6/w15ly2k5lb3b40k10/)|
+|![Herriot New Zealand example sett](/variants/s6/w15ly2k5lb3b40k10/sett.png)|

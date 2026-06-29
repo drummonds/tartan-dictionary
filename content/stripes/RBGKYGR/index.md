@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie Hunting](/setts/s7/r2dg8ly1k8dg8db8r2/)|
-|![Brodie Hunting example sett](/setts/s7/r2dg8ly1k8dg8db8r2/sett.png)|
+| [Brodie Hunting](/variants/s7/r2dg8ly1k8dg8db8r2/)|
+|![Brodie Hunting example sett](/variants/s7/r2dg8ly1k8dg8db8r2/sett.png)|

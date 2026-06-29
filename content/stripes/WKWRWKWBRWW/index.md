@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hamburg #2 (Corporate)](/setts/s11/lb3k2lb3r2lb3k2lb24dt24r3lb3w2~x2/)|
-|![Hamburg #2 (Corporate) example sett](/setts/s11/lb3k2lb3r2lb3k2lb24dt24r3lb3w2~x2/sett.png)|
+| [Hamburg #2 (Corporate)](/variants/s11/lb3k2lb3r2lb3k2lb24dt24r3lb3w2~x2/)|
+|![Hamburg #2 (Corporate) example sett](/variants/s11/lb3k2lb3r2lb3k2lb24dt24r3lb3w2~x2/sett.png)|

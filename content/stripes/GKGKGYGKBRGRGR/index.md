@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Humble, Gordon (Personal)](/setts/s14/o4dy2o14dy4o4p1k8dg13ly3dg13k8dy10k3dy3~x2/)|
-|![Humble, Gordon (Personal) example sett](/setts/s14/o4dy2o14dy4o4p1k8dg13ly3dg13k8dy10k3dy3~x2/sett.png)|
+| [Humble, Gordon (Personal)](/variants/s14/o4dy2o14dy4o4p1k8dg13ly3dg13k8dy10k3dy3~x2/)|
+|![Humble, Gordon (Personal) example sett](/variants/s14/o4dy2o14dy4o4p1k8dg13ly3dg13k8dy10k3dy3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow, City of Culture](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/)|
-|![Glasgow, City of Culture example sett](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/sett.png)|
+| [Glasgow, City of Culture](/variants/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/)|
+|![Glasgow, City of Culture example sett](/variants/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/sett.png)|

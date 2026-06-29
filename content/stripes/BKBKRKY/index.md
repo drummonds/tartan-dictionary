@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oceanic (Corporate?)](/setts/s7/ly8k4o39k37dt36k6dt7/)|
-|![Oceanic (Corporate?) example sett](/setts/s7/ly8k4o39k37dt36k6dt7/sett.png)|
+| [Oceanic (Corporate?)](/variants/s7/ly8k4o39k37dt36k6dt7/)|
+|![Oceanic (Corporate?) example sett](/variants/s7/ly8k4o39k37dt36k6dt7/sett.png)|

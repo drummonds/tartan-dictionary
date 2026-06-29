@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redgate (Connecticut) Hunting](/setts/s9/t1dr4t12dr1k7dg12k7do21w1~x2/)|
-|![Redgate (Connecticut) Hunting example sett](/setts/s9/t1dr4t12dr1k7dg12k7do21w1~x2/sett.png)|
+| [Redgate (Connecticut) Hunting](/variants/s9/t1dr4t12dr1k7dg12k7do21w1~x2/)|
+|![Redgate (Connecticut) Hunting example sett](/variants/s9/t1dr4t12dr1k7dg12k7do21w1~x2/sett.png)|

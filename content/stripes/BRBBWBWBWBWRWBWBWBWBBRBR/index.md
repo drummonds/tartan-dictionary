@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hogmany Plaid](/setts/s24/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/)|
-|![Hogmany Plaid example sett](/setts/s24/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/sett.png)|
+| [Hogmany Plaid](/variants/s24/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/)|
+|![Hogmany Plaid example sett](/variants/s24/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/sett.png)|

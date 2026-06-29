@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wild Geese](/setts/s13/db8k1w5k1r5dg13k2g4k2g11dg20lo7dg5~x2/)|
-|![Wild Geese example sett](/setts/s13/db8k1w5k1r5dg13k2g4k2g11dg20lo7dg5~x2/sett.png)|
+| [Wild Geese](/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20lo7dg5~x2/)|
+|![Wild Geese example sett](/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20lo7dg5~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scrimgeour of Glassary](/setts/s12/r32k3lo6g10r6k3lo32~x2/)|
-|![Scrimgeour of Glassary example sett](/setts/s12/r32k3lo6g10r6k3lo32~x2/sett.png)|
-| [Scrymgeour](/setts/s12/r15k1lo2g3r2k1lo15~x6/)|
-|![Scrymgeour example sett](/setts/s12/r15k1lo2g3r2k1lo15~x6/sett.png)|
+| [Scrimgeour of Glassary](/variants/s12/r32k3lo6g10r6k3lo32~x2/)|
+|![Scrimgeour of Glassary example sett](/variants/s12/r32k3lo6g10r6k3lo32~x2/sett.png)|
+| [Scrymgeour](/variants/s12/r15k1lo2g3r2k1lo15~x6/)|
+|![Scrymgeour example sett](/variants/s12/r15k1lo2g3r2k1lo15~x6/sett.png)|

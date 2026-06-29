@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holden Beige (Corporate)](/setts/s8/lb13k3lb3k3lb3k15lo18r3~x2/)|
-|![Holden Beige (Corporate) example sett](/setts/s8/lb13k3lb3k3lb3k15lo18r3~x2/sett.png)|
+| [Holden Beige (Corporate)](/variants/s8/lb13k3lb3k3lb3k15lo18r3~x2/)|
+|![Holden Beige (Corporate) example sett](/variants/s8/lb13k3lb3k3lb3k15lo18r3~x2/sett.png)|

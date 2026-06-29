@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/r24g2r2g40r25g2r2g2r2g20~x2/)|
-|![Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/r24g2r2g40r25g2r2g2r2g20~x2/sett.png)|
+| [Donachie Clan Tartan](/variants/s18/r24g2r2g40r25g2r2g2r2g20~x2/)|
+|![Donachie Clan Tartan example sett](/variants/s18/r24g2r2g40r25g2r2g2r2g20~x2/sett.png)|

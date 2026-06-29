@@ -24,9 +24,9 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morrison](/tartans/k3dg14k14dg2db14r3/)|
-|![Morrison example sett](/setts/s6/k3dg14k14dg2db14r3/sett.png)|
-| [Morrison](/setts/s6/k3g14k14g2db14r3~x2/)|
-|![Morrison example sett](/setts/s6/k3g14k14g2db14r3~x2/sett.png)|
-| [Morrison Society](/setts/s6/k3g14k14g2b14r3~x2/)|
-|![Morrison Society example sett](/setts/s6/k3g14k14g2b14r3~x2/sett.png)|
+| [Morrison](/setts/k3dg14k14dg2db14r3/)|
+|![Morrison example sett](/variants/s6/k3dg14k14dg2db14r3/sett.png)|
+| [Morrison](/variants/s6/k3g14k14g2db14r3~x2/)|
+|![Morrison example sett](/variants/s6/k3g14k14g2db14r3~x2/sett.png)|
+| [Morrison Society](/variants/s6/k3g14k14g2b14r3~x2/)|
+|![Morrison Society example sett](/variants/s6/k3g14k14g2b14r3~x2/sett.png)|

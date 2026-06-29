@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinnaird (Australia) (Name)](/setts/s8/o33k4o4k5o4k7db41r4~x2/)|
-|![Kinnaird (Australia) (Name) example sett](/setts/s8/o33k4o4k5o4k7db41r4~x2/sett.png)|
+| [Kinnaird (Australia) (Name)](/variants/s8/o33k4o4k5o4k7db41r4~x2/)|
+|![Kinnaird (Australia) (Name) example sett](/variants/s8/o33k4o4k5o4k7db41r4~x2/sett.png)|

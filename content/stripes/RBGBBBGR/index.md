@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Daks (Navy)](/setts/s8/r3g6db2dbi2db11g9db2r3~x2/)|
-|![Daks (Navy) example sett](/setts/s8/r3g6db2dbi2db11g9db2r3~x2/sett.png)|
-| [Daks, Navy](/setts/s8/r5g12dbi4db4dbi22g18dbi4r5/)|
-|![Daks, Navy example sett](/setts/s8/r5g12dbi4db4dbi22g18dbi4r5/sett.png)|
+| [Daks (Navy)](/variants/s8/r3g6db2dbi2db11g9db2r3~x2/)|
+|![Daks (Navy) example sett](/variants/s8/r3g6db2dbi2db11g9db2r3~x2/sett.png)|
+| [Daks, Navy](/variants/s8/r5g12dbi4db4dbi22g18dbi4r5/)|
+|![Daks, Navy example sett](/variants/s8/r5g12dbi4db4dbi22g18dbi4r5/sett.png)|

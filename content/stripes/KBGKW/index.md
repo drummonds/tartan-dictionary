@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Douglas (Clan)](/setts/s5/k6db4dg44k41w4~x2/)|
-|![Douglas (Clan) example sett](/setts/s5/k6db4dg44k41w4~x2/sett.png)|
-| [Douglas (alternative threadcount)](/setts/s5/k6db4g44k41w4~x2/)|
-|![Douglas (alternative threadcount) example sett](/setts/s5/k6db4g44k41w4~x2/sett.png)|
+| [Douglas (Clan)](/variants/s5/k6db4dg44k41w4~x2/)|
+|![Douglas (Clan) example sett](/variants/s5/k6db4dg44k41w4~x2/sett.png)|
+| [Douglas (alternative threadcount)](/variants/s5/k6db4g44k41w4~x2/)|
+|![Douglas (alternative threadcount) example sett](/variants/s5/k6db4g44k41w4~x2/sett.png)|

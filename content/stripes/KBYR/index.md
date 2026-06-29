@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hungerford RFC (Corporate)](/setts/s4/k50dt3ly3r50~x2/)|
-|![Hungerford RFC (Corporate) example sett](/setts/s4/k50dt3ly3r50~x2/sett.png)|
+| [Hungerford RFC (Corporate)](/variants/s4/k50dt3ly3r50~x2/)|
+|![Hungerford RFC (Corporate) example sett](/variants/s4/k50dt3ly3r50~x2/sett.png)|

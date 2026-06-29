@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Welsh Stanley–Gpa (Personal)](/setts/s9/r2g2r2g4ly3dy45g2dy3g2~x2/)|
-|![Welsh Stanley–Gpa (Personal) example sett](/setts/s9/r2g2r2g4ly3dy45g2dy3g2~x2/sett.png)|
+| [Welsh Stanley–Gpa (Personal)](/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/)|
+|![Welsh Stanley–Gpa (Personal) example sett](/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/sett.png)|

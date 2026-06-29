@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westin Kierland (Corporate)](/setts/s8/lo2k38r10db3r5ly4r3lb2~x2/)|
-|![Westin Kierland (Corporate) example sett](/setts/s8/lo2k38r10db3r5ly4r3lb2~x2/sett.png)|
+| [Westin Kierland (Corporate)](/variants/s8/lo2k38r10db3r5ly4r3lb2~x2/)|
+|![Westin Kierland (Corporate) example sett](/variants/s8/lo2k38r10db3r5ly4r3lb2~x2/sett.png)|

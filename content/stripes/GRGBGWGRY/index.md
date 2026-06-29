@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Teallach (Personal)](/setts/s9/lo4o24dy19w3y23n13dy3oi13dy3~x2/)|
-|![Teallach (Personal) example sett](/setts/s9/lo4o24dy19w3y23n13dy3oi13dy3~x2/sett.png)|
+| [Teallach (Personal)](/variants/s9/lo4o24dy19w3y23n13dy3oi13dy3~x2/)|
+|![Teallach (Personal) example sett](/variants/s9/lo4o24dy19w3y23n13dy3oi13dy3~x2/sett.png)|

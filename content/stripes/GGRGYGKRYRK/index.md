@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chelsea](/setts/s11/k4o30ly3o3k6dg36ly1dg2r2dg2g2~x4/)|
-|![Chelsea example sett](/setts/s11/k4o30ly3o3k6dg36ly1dg2r2dg2g2~x4/sett.png)|
+| [Chelsea](/variants/s11/k4o30ly3o3k6dg36ly1dg2r2dg2g2~x4/)|
+|![Chelsea example sett](/variants/s11/k4o30ly3o3k6dg36ly1dg2r2dg2g2~x4/sett.png)|

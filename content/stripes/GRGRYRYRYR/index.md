@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Queen Alexandra](/tartans/dg4r2dg2r16lr2r3lr2r3lr8r3/)|
-|![Queen Alexandra example sett](/setts/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x2/sett.png)|
+| [Queen Alexandra](/setts/dg4r2dg2r16lr2r3lr2r3lr8r3/)|
+|![Queen Alexandra example sett](/variants/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lundy Reform](/setts/s7/k2lb5k1lb1k10r1k1~x4/)|
-|![Lundy Reform example sett](/setts/s7/k2lb5k1lb1k10r1k1~x4/sett.png)|
+| [Lundy Reform](/variants/s7/k2lb5k1lb1k10r1k1~x4/)|
+|![Lundy Reform example sett](/variants/s7/k2lb5k1lb1k10r1k1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Antigonish Centennial](/setts/s9/k4lb2db5lb7db9g14o4g1o4~x2/)|
-|![Antigonish Centennial example sett](/setts/s9/k4lb2db5lb7db9g14o4g1o4~x2/sett.png)|
+| [Antigonish Centennial](/variants/s9/k4lb2db5lb7db9g14o4g1o4~x2/)|
+|![Antigonish Centennial example sett](/variants/s9/k4lb2db5lb7db9g14o4g1o4~x2/sett.png)|

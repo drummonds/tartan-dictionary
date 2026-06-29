@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MPS Emerald Society](/setts/s6/ly4dg30g15db5b10ly4~x2/)|
-|![MPS Emerald Society example sett](/setts/s6/ly4dg30g15db5b10ly4~x2/sett.png)|
-| [MPS Emerald Society NCLEES 2012](/setts/s6/ly4dg30g15db5t10ly4~x2/)|
-|![MPS Emerald Society NCLEES 2012 example sett](/setts/s6/ly4dg30g15db5t10ly4~x2/sett.png)|
+| [MPS Emerald Society](/variants/s6/ly4dg30g15db5b10ly4~x2/)|
+|![MPS Emerald Society example sett](/variants/s6/ly4dg30g15db5b10ly4~x2/sett.png)|
+| [MPS Emerald Society NCLEES 2012](/variants/s6/ly4dg30g15db5t10ly4~x2/)|
+|![MPS Emerald Society NCLEES 2012 example sett](/variants/s6/ly4dg30g15db5t10ly4~x2/sett.png)|

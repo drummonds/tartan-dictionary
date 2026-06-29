@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hobkirk](/setts/s18/b5w1m9b5r4b5g20ly1g1ly1~x4/)|
-|![Hobkirk example sett](/setts/s18/b5w1m9b5r4b5g20ly1g1ly1~x4/sett.png)|
+| [Hobkirk](/variants/s18/b5w1m9b5r4b5g20ly1g1ly1~x4/)|
+|![Hobkirk example sett](/variants/s18/b5w1m9b5r4b5g20ly1g1ly1~x4/sett.png)|

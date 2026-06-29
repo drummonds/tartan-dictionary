@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pierce](/setts/s12/o6r4o24dg14lo9o3lo3o3lo9dg24o9lo6~x2/)|
-|![Pierce example sett](/setts/s12/o6r4o24dg14lo9o3lo3o3lo9dg24o9lo6~x2/sett.png)|
+| [Pierce](/variants/s12/o6r4o24dg14lo9o3lo3o3lo9dg24o9lo6~x2/)|
+|![Pierce example sett](/variants/s12/o6r4o24dg14lo9o3lo3o3lo9dg24o9lo6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Dirt Girl](/setts/s9/dy21r2g18r2g18r2dg8w6dy10~x2/)|
-|![Red Dirt Girl example sett](/setts/s9/dy21r2g18r2g18r2dg8w6dy10~x2/sett.png)|
+| [Red Dirt Girl](/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/)|
+|![Red Dirt Girl example sett](/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/sett.png)|

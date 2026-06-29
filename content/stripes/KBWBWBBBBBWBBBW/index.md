@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [AIS Group](/setts/s15/k56dt3lt6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lt6/)|
-|![AIS Group example sett](/setts/s15/k56dt3lt6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lt6/sett.png)|
+| [AIS Group](/variants/s15/k56dt3lt6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lt6/)|
+|![AIS Group example sett](/variants/s15/k56dt3lt6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lt6/sett.png)|

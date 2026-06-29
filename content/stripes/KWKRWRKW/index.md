@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Knights Templar Hunting](/setts/s8/k22w1k12r43w1~x2/)|
-|![Knights Templar Hunting example sett](/setts/s8/k22w1k12r43w1~x2/sett.png)|
+| [Knights Templar Hunting](/variants/s8/k22w1k12r43w1~x2/)|
+|![Knights Templar Hunting example sett](/variants/s8/k22w1k12r43w1~x2/sett.png)|

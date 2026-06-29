@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Delaware (Fashion)](/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/)|
-|![State Seal of Delaware (Fashion) example sett](/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/sett.png)|
+| [State Seal of Delaware (Fashion)](/variants/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/)|
+|![State Seal of Delaware (Fashion) example sett](/variants/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/sett.png)|

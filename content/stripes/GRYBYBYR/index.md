@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified from Winnipeg](/setts/s8/oi24lo8dr2lo8dr2lo8o15g2~x2/)|
-|![Unidentified from Winnipeg example sett](/setts/s8/oi24lo8dr2lo8dr2lo8o15g2~x2/sett.png)|
+| [Unidentified from Winnipeg](/variants/s8/oi24lo8dr2lo8dr2lo8o15g2~x2/)|
+|![Unidentified from Winnipeg example sett](/variants/s8/oi24lo8dr2lo8dr2lo8o15g2~x2/sett.png)|

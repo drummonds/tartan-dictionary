@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacMugen](/setts/s6/k3lr16k4lr3k12w2~x3/)|
-|![MacMugen example sett](/setts/s6/k3lr16k4lr3k12w2~x3/sett.png)|
+| [MacMugen](/variants/s6/k3lr16k4lr3k12w2~x3/)|
+|![MacMugen example sett](/variants/s6/k3lr16k4lr3k12w2~x3/sett.png)|

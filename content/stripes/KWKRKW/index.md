@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunbar Ancient](/setts/s6/r28k4w2k13~x2/)|
-|![Dunbar Ancient example sett](/setts/s6/r28k4w2k13~x2/sett.png)|
+| [Dunbar Ancient](/variants/s6/r28k4w2k13~x2/)|
+|![Dunbar Ancient example sett](/variants/s6/r28k4w2k13~x2/sett.png)|

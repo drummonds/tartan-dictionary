@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Schiehallion](/setts/s20/b14db4g2db2gi3db2b17db31b1db1w2~x2/)|
-|![Schiehallion example sett](/setts/s20/b14db4g2db2gi3db2b17db31b1db1w2~x2/sett.png)|
+| [Schiehallion](/variants/s20/b14db4g2db2gi3db2b17db31b1db1w2~x2/)|
+|![Schiehallion example sett](/variants/s20/b14db4g2db2gi3db2b17db31b1db1w2~x2/sett.png)|

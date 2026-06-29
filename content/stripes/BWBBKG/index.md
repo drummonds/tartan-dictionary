@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Barra (District)](/setts/s6/dp2w12b11t12k1g2~x4/)|
-|![Isle of Barra (District) example sett](/setts/s6/dp2w12b11t12k1g2~x4/sett.png)|
+| [Isle of Barra (District)](/variants/s6/dp2w12b11t12k1g2~x4/)|
+|![Isle of Barra (District) example sett](/variants/s6/dp2w12b11t12k1g2~x4/sett.png)|

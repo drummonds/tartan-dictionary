@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Austin (Wilson's No 137)](/setts/s5/dp3k3dp3dg6r2~x2/)|
-|![Austin (Wilson's No 137) example sett](/setts/s5/dp3k3dp3dg6r2~x2/sett.png)|
-| [Austin / Wilson's No 137](/setts/s5/p3k3p3g6r2~x2/)|
-|![Austin / Wilson's No 137 example sett](/setts/s5/p3k3p3g6r2~x2/sett.png)|
+| [Austin (Wilson's No 137)](/variants/s5/dp3k3dp3dg6r2~x2/)|
+|![Austin (Wilson's No 137) example sett](/variants/s5/dp3k3dp3dg6r2~x2/sett.png)|
+| [Austin / Wilson's No 137](/variants/s5/p3k3p3g6r2~x2/)|
+|![Austin / Wilson's No 137 example sett](/variants/s5/p3k3p3g6r2~x2/sett.png)|

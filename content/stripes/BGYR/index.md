@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Delroeux (Personal)](/setts/s4/db3g6ly1r3~x10/)|
-|![Delroeux (Personal) example sett](/setts/s4/db3g6ly1r3~x10/sett.png)|
-| [Delroeux, John Michael (Personal)](/setts/s4/db3dg6ly1r3~x10/)|
-|![Delroeux, John Michael (Personal) example sett](/setts/s4/db3dg6ly1r3~x10/sett.png)|
+| [Delroeux (Personal)](/variants/s4/db3g6ly1r3~x10/)|
+|![Delroeux (Personal) example sett](/variants/s4/db3g6ly1r3~x10/sett.png)|
+| [Delroeux, John Michael (Personal)](/variants/s4/db3dg6ly1r3~x10/)|
+|![Delroeux, John Michael (Personal) example sett](/variants/s4/db3dg6ly1r3~x10/sett.png)|

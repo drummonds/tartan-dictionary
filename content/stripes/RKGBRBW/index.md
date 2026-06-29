@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Genet, Citizen (Commem)](/setts/s7/r2k9g12db8r1db1w1~x4/)|
-|![Genet, Citizen (Commem) example sett](/setts/s7/r2k9g12db8r1db1w1~x4/sett.png)|
+| [Genet, Citizen (Commem)](/variants/s7/r2k9g12db8r1db1w1~x4/)|
+|![Genet, Citizen (Commem) example sett](/variants/s7/r2k9g12db8r1db1w1~x4/sett.png)|

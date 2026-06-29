@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Eloi](/setts/s6/r3lo2k10w1~x6/)|
-|![St. Eloi example sett](/setts/s6/r3lo2k10w1~x6/sett.png)|
+| [St. Eloi](/variants/s6/r3lo2k10w1~x6/)|
+|![St. Eloi example sett](/variants/s6/r3lo2k10w1~x6/sett.png)|

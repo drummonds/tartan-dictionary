@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAlister CC](/setts/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/)|
-|![MacAlister CC example sett](/setts/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/sett.png)|
+| [MacAlister CC](/variants/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/)|
+|![MacAlister CC example sett](/variants/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/sett.png)|

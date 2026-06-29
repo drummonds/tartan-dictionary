@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott, Sir Walter - 1971 (Fashion)](/setts/s8/w4k4w4k4w4db3w2r2~x2/)|
-|![Scott, Sir Walter - 1971 (Fashion) example sett](/setts/s8/w4k4w4k4w4db3w2r2~x2/sett.png)|
+| [Scott, Sir Walter - 1971 (Fashion)](/variants/s8/w4k4w4k4w4db3w2r2~x2/)|
+|![Scott, Sir Walter - 1971 (Fashion) example sett](/variants/s8/w4k4w4k4w4db3w2r2~x2/sett.png)|

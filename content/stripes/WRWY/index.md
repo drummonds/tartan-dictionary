@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lewis, Magenta (Dance)](/setts/s4/w4m31w35lg4~x2/)|
-|![Lewis, Magenta (Dance) example sett](/setts/s4/w4m31w35lg4~x2/sett.png)|
+| [Lewis, Magenta (Dance)](/variants/s4/w4m31w35lg4~x2/)|
+|![Lewis, Magenta (Dance) example sett](/variants/s4/w4m31w35lg4~x2/sett.png)|

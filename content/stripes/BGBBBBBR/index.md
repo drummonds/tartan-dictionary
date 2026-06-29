@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brigid Mhairi](/setts/s8/db2dg4n11dp19db1dp19dpi4o2~x2/)|
-|![Brigid Mhairi example sett](/setts/s8/db2dg4n11dp19db1dp19dpi4o2~x2/sett.png)|
+| [Brigid Mhairi](/variants/s8/db2dg4n11dp19db1dp19dpi4o2~x2/)|
+|![Brigid Mhairi example sett](/variants/s8/db2dg4n11dp19db1dp19dpi4o2~x2/sett.png)|

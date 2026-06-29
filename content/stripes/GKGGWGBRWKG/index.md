@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCulloch (Name)](/setts/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/)|
-|![MacCulloch (Name) example sett](/setts/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/sett.png)|
+| [MacCulloch (Name)](/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/)|
+|![MacCulloch (Name) example sett](/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/sett.png)|

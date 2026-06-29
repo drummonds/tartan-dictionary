@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sinclair of Ulbster](/setts/s6/b12k4g6ly1~x8/)|
-|![Sinclair of Ulbster example sett](/setts/s6/b12k4g6ly1~x8/sett.png)|
+| [Sinclair of Ulbster](/variants/s6/b12k4g6ly1~x8/)|
+|![Sinclair of Ulbster example sett](/variants/s6/b12k4g6ly1~x8/sett.png)|

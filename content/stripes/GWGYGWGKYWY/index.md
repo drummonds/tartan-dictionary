@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKellar Dress, Green (Dance)](/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/)|
-|![MacKellar Dress, Green (Dance) example sett](/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/sett.png)|
+| [MacKellar Dress, Green (Dance)](/variants/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/)|
+|![MacKellar Dress, Green (Dance) example sett](/variants/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canadian Irish Regiment](/setts/s4/lo100dy26g3r2~x2/)|
-|![Canadian Irish Regiment example sett](/setts/s4/lo100dy26g3r2~x2/sett.png)|
+| [Canadian Irish Regiment](/variants/s4/lo100dy26g3r2~x2/)|
+|![Canadian Irish Regiment example sett](/variants/s4/lo100dy26g3r2~x2/sett.png)|

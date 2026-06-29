@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arndt (Personal)](/setts/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/)|
-|![Arndt (Personal) example sett](/setts/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/sett.png)|
+| [Arndt (Personal)](/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/)|
+|![Arndt (Personal) example sett](/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/sett.png)|

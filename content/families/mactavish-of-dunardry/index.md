@@ -8,11 +8,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/n8w28o3g3n8k9n4~x2/"><img src="/setts/s7/n8w28o3g3n8k9n4~x2/sett.png" alt="MacTavish of Dunardry Dress" width="240"><br>MacTavish of Dunardry Dress</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s7/t8w28lo3g3t8k9t4~x2/"><img src="/setts/s7/t8w28lo3g3t8k9t4~x2/sett.png" alt="MacTavish of Dunardry (Clan)" width="140"><br>MacTavish of Dunardry (Clan)</a></li>
-</ul>
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/n8w28o3g3n8k9n4/">MacTavish of Dunardry Dress</a> ★</td><td><code>N/16 W56 O6 G6 N16 K18 N/8</code></td><td>2</td></tr>
+<tr><td colspan="3" class="sett-swatch"><a href="/setts/n8w28o3g3n8k9n4/"><img src="/variants/s7/n8w28o3g3n8k9n4~x2/sett.png" alt="MacTavish of Dunardry Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
 

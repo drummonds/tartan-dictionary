@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ritchie, Stephen James (Personal)](/setts/s7/t4n19lr2k19n2lr25lb2~x2/)|
-|![Ritchie, Stephen James (Personal) example sett](/setts/s7/t4n19lr2k19n2lr25lb2~x2/sett.png)|
+| [Ritchie, Stephen James (Personal)](/variants/s7/t4n19lr2k19n2lr25lb2~x2/)|
+|![Ritchie, Stephen James (Personal) example sett](/variants/s7/t4n19lr2k19n2lr25lb2~x2/sett.png)|

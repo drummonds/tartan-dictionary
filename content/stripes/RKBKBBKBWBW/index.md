@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [William Glen and Son](/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/)|
-|![William Glen and Son example sett](/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/sett.png)|
+| [William Glen and Son](/variants/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/)|
+|![William Glen and Son example sett](/variants/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mothers Pride](/setts/s3/r1db1ly1~x40/)|
-|![Mothers Pride example sett](/setts/s3/r1db1ly1~x40/sett.png)|
+| [Mothers Pride](/variants/s3/r1db1ly1~x40/)|
+|![Mothers Pride example sett](/variants/s3/r1db1ly1~x40/sett.png)|

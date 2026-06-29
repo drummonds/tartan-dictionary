@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Breifne](/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/)|
-|![Breifne example sett](/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/sett.png)|
+| [Breifne](/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/)|
+|![Breifne example sett](/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/sett.png)|

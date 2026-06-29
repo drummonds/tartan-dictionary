@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elgin City Band](/setts/s9/lo1b12k6db1k1db1k1db6lo1~x4/)|
-|![Elgin City Band example sett](/setts/s9/lo1b12k6db1k1db1k1db6lo1~x4/sett.png)|
+| [Elgin City Band](/variants/s9/lo1b12k6db1k1db1k1db6lo1~x4/)|
+|![Elgin City Band example sett](/variants/s9/lo1b12k6db1k1db1k1db6lo1~x4/sett.png)|

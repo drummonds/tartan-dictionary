@@ -24,9 +24,9 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lugo (2013)](/setts/s4/r10dg4lo1~x8/)|
-|![Lugo (2013) example sett](/setts/s4/r10dg4lo1~x8/sett.png)|
-| [Lugo (2013)](/setts/s4/r10dg4ly1~x8/)|
-|![Lugo (2013) example sett](/setts/s4/r10dg4ly1~x8/sett.png)|
-| [Scottish Watch](/setts/s4/r104dg39lo4~x2/)|
-|![Scottish Watch example sett](/setts/s4/r104dg39lo4~x2/sett.png)|
+| [Lugo (2013)](/variants/s4/r10dg4lo1~x8/)|
+|![Lugo (2013) example sett](/variants/s4/r10dg4lo1~x8/sett.png)|
+| [Lugo (2013)](/variants/s4/r10dg4ly1~x8/)|
+|![Lugo (2013) example sett](/variants/s4/r10dg4ly1~x8/sett.png)|
+| [Scottish Watch](/variants/s4/r104dg39lo4~x2/)|
+|![Scottish Watch example sett](/variants/s4/r104dg39lo4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Warren Wilson College (Corporate)](/setts/s8/g20lr6db20ly3db48r6db4r6~x2/)|
-|![Warren Wilson College (Corporate) example sett](/setts/s8/g20lr6db20ly3db48r6db4r6~x2/sett.png)|
+| [Warren Wilson College (Corporate)](/variants/s8/g20lr6db20ly3db48r6db4r6~x2/)|
+|![Warren Wilson College (Corporate) example sett](/variants/s8/g20lr6db20ly3db48r6db4r6~x2/sett.png)|

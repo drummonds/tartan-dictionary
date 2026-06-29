@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Penman Grey (Personal)](/setts/s10/o38k4w4k4n10k4n10k4w2dp3~x2/)|
-|![Penman Grey (Personal) example sett](/setts/s10/o38k4w4k4n10k4n10k4w2dp3~x2/sett.png)|
+| [Penman Grey (Personal)](/variants/s10/o38k4w4k4n10k4n10k4w2dp3~x2/)|
+|![Penman Grey (Personal) example sett](/variants/s10/o38k4w4k4n10k4n10k4w2dp3~x2/sett.png)|

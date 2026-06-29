@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kinnison](/setts/s17/db8k65w38g4w38g4w38k65r8k65w38ly4w38ly4w38k65db8/)|
-|![Kinnison example sett](/setts/s17/db8k65w38g4w38g4w38k65r8k65w38ly4w38ly4w38k65db8/sett.png)|
+| [Kinnison](/variants/s17/db8k65w38g4w38g4w38k65r8k65w38ly4w38ly4w38k65db8/)|
+|![Kinnison example sett](/variants/s17/db8k65w38g4w38g4w38k65r8k65w38ly4w38ly4w38k65db8/sett.png)|

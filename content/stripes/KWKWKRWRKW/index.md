@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lebrun](/setts/s10/w40k11o8w2o8k6w2k16w1k16~x2/)|
-|![Lebrun example sett](/setts/s10/w40k11o8w2o8k6w2k16w1k16~x2/sett.png)|
+| [Lebrun](/variants/s10/w40k11o8w2o8k6w2k16w1k16~x2/)|
+|![Lebrun example sett](/variants/s10/w40k11o8w2o8k6w2k16w1k16~x2/sett.png)|

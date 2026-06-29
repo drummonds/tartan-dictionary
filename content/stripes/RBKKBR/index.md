@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Andover](/setts/s6/r1n12ki6k1do10r1~x4/)|
-|![Andover example sett](/setts/s6/r1n12ki6k1do10r1~x4/sett.png)|
+| [Andover](/variants/s6/r1n12ki6k1do10r1~x4/)|
+|![Andover example sett](/variants/s6/r1n12ki6k1do10r1~x4/sett.png)|

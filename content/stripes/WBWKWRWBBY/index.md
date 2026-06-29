@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leitrim, County](/setts/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/)|
-|![Leitrim, County example sett](/setts/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/sett.png)|
+| [Leitrim, County](/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/)|
+|![Leitrim, County example sett](/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/sett.png)|

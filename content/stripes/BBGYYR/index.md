@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride, The Tartan of](/setts/s6/r8lo4ly3g6t6dp1~x5/)|
-|![Pride, The Tartan of example sett](/setts/s6/r8lo4ly3g6t6dp1~x5/sett.png)|
+| [Pride, The Tartan of](/variants/s6/r8lo4ly3g6t6dp1~x5/)|
+|![Pride, The Tartan of example sett](/variants/s6/r8lo4ly3g6t6dp1~x5/sett.png)|

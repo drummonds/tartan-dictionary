@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moffat](/setts/s7/k39y3k3y3k14y28r3~x2/)|
-|![Moffat example sett](/setts/s7/k39y3k3y3k14y28r3~x2/sett.png)|
+| [Moffat](/variants/s7/k39y3k3y3k14y28r3~x2/)|
+|![Moffat example sett](/variants/s7/k39y3k3y3k14y28r3~x2/sett.png)|

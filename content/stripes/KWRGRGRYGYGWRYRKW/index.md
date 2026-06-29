@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pernel (Personal)](/setts/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/)|
-|![Pernel (Personal) example sett](/setts/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/sett.png)|
+| [Pernel (Personal)](/variants/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/)|
+|![Pernel (Personal) example sett](/variants/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/sett.png)|

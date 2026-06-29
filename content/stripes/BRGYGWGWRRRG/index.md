@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLean of Duart Dress](/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/)|
-|![MacLean of Duart Dress example sett](/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/sett.png)|
+| [MacLean of Duart Dress](/variants/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/)|
+|![MacLean of Duart Dress example sett](/variants/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/sett.png)|

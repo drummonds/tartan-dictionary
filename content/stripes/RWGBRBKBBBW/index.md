@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzgerald, hunting](/setts/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/)|
-|![Fitzgerald, hunting example sett](/setts/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/sett.png)|
+| [Fitzgerald, hunting](/variants/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/)|
+|![Fitzgerald, hunting example sett](/variants/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/sett.png)|

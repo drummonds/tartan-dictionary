@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kimon Andreou Family (Personal)](/setts/s4/w40t40r1k4~x2/)|
-|![Kimon Andreou Family (Personal) example sett](/setts/s4/w40t40r1k4~x2/sett.png)|
-| [Kimon Andreou Family (Personal)](/setts/s4/w40b40r1k4~x2/)|
-|![Kimon Andreou Family (Personal) example sett](/setts/s4/w40b40r1k4~x2/sett.png)|
+| [Kimon Andreou Family (Personal)](/variants/s4/w40t40r1k4~x2/)|
+|![Kimon Andreou Family (Personal) example sett](/variants/s4/w40t40r1k4~x2/sett.png)|
+| [Kimon Andreou Family (Personal)](/variants/s4/w40b40r1k4~x2/)|
+|![Kimon Andreou Family (Personal) example sett](/variants/s4/w40b40r1k4~x2/sett.png)|

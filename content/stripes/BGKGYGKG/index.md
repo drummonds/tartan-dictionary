@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Selkirk (Personal) Original](/setts/s8/dp11y2k10g10lo2~x2/)|
-|![Selkirk (Personal) Original example sett](/setts/s8/dp11y2k10g10lo2~x2/sett.png)|
+| [Selkirk (Personal) Original](/variants/s8/dp11y2k10g10lo2~x2/)|
+|![Selkirk (Personal) Original example sett](/variants/s8/dp11y2k10g10lo2~x2/sett.png)|

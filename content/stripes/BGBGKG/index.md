@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Milligan](/setts/s6/b52g21b6g16k4g16~x2/)|
-|![Milligan example sett](/setts/s6/b52g21b6g16k4g16~x2/sett.png)|
+| [Milligan](/variants/s6/b52g21b6g16k4g16~x2/)|
+|![Milligan example sett](/variants/s6/b52g21b6g16k4g16~x2/sett.png)|

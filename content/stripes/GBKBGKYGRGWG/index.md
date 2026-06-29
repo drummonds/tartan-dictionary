@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forfar Farmington](/setts/s12/dg5w3dg15r3dg15ly3k10dg19db3k3db3dg3~x2/)|
-|![Forfar Farmington example sett](/setts/s12/dg5w3dg15r3dg15ly3k10dg19db3k3db3dg3~x2/sett.png)|
+| [Forfar Farmington](/variants/s12/dg5w3dg15r3dg15ly3k10dg19db3k3db3dg3~x2/)|
+|![Forfar Farmington example sett](/variants/s12/dg5w3dg15r3dg15ly3k10dg19db3k3db3dg3~x2/sett.png)|

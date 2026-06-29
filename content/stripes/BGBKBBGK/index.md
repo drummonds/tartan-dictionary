@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gary/Garry (Name)](/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/)|
-|![Gary/Garry (Name) example sett](/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/sett.png)|
+| [Gary/Garry (Name)](/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/)|
+|![Gary/Garry (Name) example sett](/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/sett.png)|

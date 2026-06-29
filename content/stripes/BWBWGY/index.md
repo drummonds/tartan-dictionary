@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skye, Green (Dance)](/setts/s6/n4w2n1w36g21ly4~x2/)|
-|![Skye, Green (Dance) example sett](/setts/s6/n4w2n1w36g21ly4~x2/sett.png)|
+| [Skye, Green (Dance)](/variants/s6/n4w2n1w36g21ly4~x2/)|
+|![Skye, Green (Dance) example sett](/variants/s6/n4w2n1w36g21ly4~x2/sett.png)|

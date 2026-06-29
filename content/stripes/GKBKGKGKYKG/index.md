@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Choinka Family (Personal)](/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/)|
-|![Choinka Family (Personal) example sett](/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/sett.png)|
+| [Choinka Family (Personal)](/variants/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/)|
+|![Choinka Family (Personal) example sett](/variants/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/sett.png)|

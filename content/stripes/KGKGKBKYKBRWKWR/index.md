@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coigach](/setts/s15/r3lb3k3lb3r3db8k1ly2k1db8k2g30k1g10k2~x2/)|
-|![Coigach example sett](/setts/s15/r3lb3k3lb3r3db8k1ly2k1db8k2g30k1g10k2~x2/sett.png)|
+| [Coigach](/variants/s15/r3lb3k3lb3r3db8k1ly2k1db8k2g30k1g10k2~x2/)|
+|![Coigach example sett](/variants/s15/r3lb3k3lb3r3db8k1ly2k1db8k2g30k1g10k2~x2/sett.png)|

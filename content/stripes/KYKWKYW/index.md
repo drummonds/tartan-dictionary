@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nooten-Boom (Personal)](/setts/s7/k10ly2k10w2k2ly13w3~x2/)|
-|![Nooten-Boom (Personal) example sett](/setts/s7/k10ly2k10w2k2ly13w3~x2/sett.png)|
+| [Nooten-Boom (Personal)](/variants/s7/k10ly2k10w2k2ly13w3~x2/)|
+|![Nooten-Boom (Personal) example sett](/variants/s7/k10ly2k10w2k2ly13w3~x2/sett.png)|

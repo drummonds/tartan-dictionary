@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Celts, Tartan of the](/setts/s12/r2k1r1k1g15r4db4r3db3ly1k1ly2~x6/)|
-|![Celts, Tartan of the example sett](/setts/s12/r2k1r1k1g15r4db4r3db3ly1k1ly2~x6/sett.png)|
+| [Celts, Tartan of the](/variants/s12/r2k1r1k1g15r4db4r3db3ly1k1ly2~x6/)|
+|![Celts, Tartan of the example sett](/variants/s12/r2k1r1k1g15r4db4r3db3ly1k1ly2~x6/sett.png)|

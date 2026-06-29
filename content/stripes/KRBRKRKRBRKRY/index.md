@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brad Majors](/setts/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/)|
-|![Brad Majors example sett](/setts/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/sett.png)|
+| [Brad Majors](/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/)|
+|![Brad Majors example sett](/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/sett.png)|

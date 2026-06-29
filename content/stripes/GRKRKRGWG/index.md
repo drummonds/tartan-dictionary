@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morrison](/setts/s9/g5w2g8r9k3r4k3r17g3~x2/)|
-|![Morrison example sett](/setts/s9/g5w2g8r9k3r4k3r17g3~x2/sett.png)|
-| [Morrison LC](/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/)|
-|![Morrison LC example sett](/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/sett.png)|
+| [Morrison](/variants/s9/g5w2g8r9k3r4k3r17g3~x2/)|
+|![Morrison example sett](/variants/s9/g5w2g8r9k3r4k3r17g3~x2/sett.png)|
+| [Morrison LC](/variants/s9/dg9lb4dg15r17k5r7k5r32dg5/)|
+|![Morrison LC example sett](/variants/s9/dg9lb4dg15r17k5r7k5r32dg5/sett.png)|

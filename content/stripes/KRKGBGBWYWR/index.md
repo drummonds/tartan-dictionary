@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Filipino American](/setts/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/)|
-|![Filipino American example sett](/setts/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/sett.png)|
+| [Filipino American](/variants/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/)|
+|![Filipino American example sett](/variants/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/sett.png)|

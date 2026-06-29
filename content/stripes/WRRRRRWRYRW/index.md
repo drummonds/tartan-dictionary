@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Canna](/setts/s11/w32r9lo1r2w1r2oi7o4r1o2w1~x4/)|
-|![Canna example sett](/setts/s11/w32r9lo1r2w1r2oi7o4r1o2w1~x4/sett.png)|
+| [Canna](/variants/s11/w32r9lo1r2w1r2oi7o4r1o2w1~x4/)|
+|![Canna example sett](/variants/s11/w32r9lo1r2w1r2oi7o4r1o2w1~x4/sett.png)|

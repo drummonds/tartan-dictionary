@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Miyuki](/setts/s10/dt40lo1dt1r9dt1lo1dt6lo1dt1r9~x2/)|
-|![Miyuki example sett](/setts/s10/dt40lo1dt1r9dt1lo1dt6lo1dt1r9~x2/sett.png)|
+| [Miyuki](/variants/s10/dt40lo1dt1r9dt1lo1dt6lo1dt1r9~x2/)|
+|![Miyuki example sett](/variants/s10/dt40lo1dt1r9dt1lo1dt6lo1dt1r9~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Johore Regiment](/setts/s8/db20k5db18lo26k6~x2/)|
-|![Johore Regiment example sett](/setts/s8/db20k5db18lo26k6~x2/sett.png)|
+| [Johore Regiment](/variants/s8/db20k5db18lo26k6~x2/)|
+|![Johore Regiment example sett](/variants/s8/db20k5db18lo26k6~x2/sett.png)|

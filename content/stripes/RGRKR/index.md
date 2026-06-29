@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Gow-like)](/setts/s5/r3k10r10g10r3~x4/)|
-|![Unidentified (Gow-like) example sett](/setts/s5/r3k10r10g10r3~x4/sett.png)|
+| [Unidentified (Gow-like)](/variants/s5/r3k10r10g10r3~x4/)|
+|![Unidentified (Gow-like) example sett](/variants/s5/r3k10r10g10r3~x4/sett.png)|

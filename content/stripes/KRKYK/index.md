@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harvie](/setts/s5/k4r11k32ly1k4~x2/)|
-|![Harvie example sett](/setts/s5/k4r11k32ly1k4~x2/sett.png)|
+| [Harvie](/variants/s5/k4r11k32ly1k4~x2/)|
+|![Harvie example sett](/variants/s5/k4r11k32ly1k4~x2/sett.png)|

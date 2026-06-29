@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bouncing Blackie (Personal)](/setts/s7/dp5db8dt13g21db34dt55o3/)|
-|![Bouncing Blackie (Personal) example sett](/setts/s7/dp5db8dt13g21db34dt55o3/sett.png)|
+| [Bouncing Blackie (Personal)](/variants/s7/dp5db8dt13g21db34dt55o3/)|
+|![Bouncing Blackie (Personal) example sett](/variants/s7/dp5db8dt13g21db34dt55o3/sett.png)|

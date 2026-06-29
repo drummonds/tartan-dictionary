@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rutherford, John (Personal)](/setts/s7/db64r3k3r3dp61dg5dp6~x2/)|
-|![Rutherford, John (Personal) example sett](/setts/s7/db64r3k3r3dp61dg5dp6~x2/sett.png)|
+| [Rutherford, John (Personal)](/variants/s7/db64r3k3r3dp61dg5dp6~x2/)|
+|![Rutherford, John (Personal) example sett](/variants/s7/db64r3k3r3dp61dg5dp6~x2/sett.png)|

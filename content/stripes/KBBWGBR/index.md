@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Faber (2015)](/setts/s7/k10dp4db25w1dg13db13r3~x2/)|
-|![Faber (2015) example sett](/setts/s7/k10dp4db25w1dg13db13r3~x2/sett.png)|
+| [Faber (2015)](/variants/s7/k10dp4db25w1dg13db13r3~x2/)|
+|![Faber (2015) example sett](/variants/s7/k10dp4db25w1dg13db13r3~x2/sett.png)|

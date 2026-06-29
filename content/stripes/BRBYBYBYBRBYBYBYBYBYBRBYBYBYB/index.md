@@ -24,5 +24,5 @@ It is a 29 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Delmarva (District)](/setts/s29/n8m2n2lri1n1lri1n1lri1n2m2n6lr1n12lr1n6lri1n1lo4n1lri1n2m3n3lri1n1lo2n1lri1n8~x2/)|
-|![Delmarva (District) example sett](/setts/s29/n8m2n2lri1n1lri1n1lri1n2m2n6lr1n12lr1n6lri1n1lo4n1lri1n2m3n3lri1n1lo2n1lri1n8~x2/sett.png)|
+| [Delmarva (District)](/variants/s29/n8m2n2lri1n1lri1n1lri1n2m2n6lr1n12lr1n6lri1n1lo4n1lri1n2m3n3lri1n1lo2n1lri1n8~x2/)|
+|![Delmarva (District) example sett](/variants/s29/n8m2n2lri1n1lri1n1lri1n2m2n6lr1n12lr1n6lri1n1lo4n1lri1n2m3n3lri1n1lo2n1lri1n8~x2/sett.png)|

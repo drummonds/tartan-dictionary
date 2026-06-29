@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haileybury](/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/)|
-|![Haileybury example sett](/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/sett.png)|
+| [Haileybury](/variants/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/)|
+|![Haileybury example sett](/variants/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/sett.png)|

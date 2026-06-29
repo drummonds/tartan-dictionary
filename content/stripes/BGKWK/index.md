@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burberry Grey (Original)](/setts/s5/k5w7k5y20db1~x4/)|
-|![Burberry Grey (Original) example sett](/setts/s5/k5w7k5y20db1~x4/sett.png)|
+| [Burberry Grey (Original)](/variants/s5/k5w7k5y20db1~x4/)|
+|![Burberry Grey (Original) example sett](/variants/s5/k5w7k5y20db1~x4/sett.png)|

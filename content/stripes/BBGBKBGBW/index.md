@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duchess of York Family Tartan Tartan Number: 607. Earliest known date: 1941 Found in sample books. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/)|
-|![Duchess of York Family Tartan Tartan Number: 607. Earliest known date: 1941 Found in sample books. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/sett.png)|
+| [Duchess of York Family Tartan](/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/)|
+|![Duchess of York Family Tartan example sett](/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/sett.png)|

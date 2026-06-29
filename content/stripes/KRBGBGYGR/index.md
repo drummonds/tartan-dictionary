@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Junor](/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/)|
-|![Junor example sett](/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/sett.png)|
+| [Junor](/variants/s9/r72g6ly2g11b2g2b2r9k2~x2/)|
+|![Junor example sett](/variants/s9/r72g6ly2g11b2g2b2r9k2~x2/sett.png)|

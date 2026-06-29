@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gorman Blue (Personal)](/setts/s8/w4t1lo2t22b20w2b4w2~x2/)|
-|![Gorman Blue (Personal) example sett](/setts/s8/w4t1lo2t22b20w2b4w2~x2/sett.png)|
-| [Gorman Blue (Personal)](/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/)|
-|![Gorman Blue (Personal) example sett](/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/sett.png)|
+| [Gorman Blue (Personal)](/variants/s8/w4n1ly2n22dt20w2dt4w2~x2/)|
+|![Gorman Blue (Personal) example sett](/variants/s8/w4n1ly2n22dt20w2dt4w2~x2/sett.png)|
+| [Gorman Blue (Personal)](/variants/s8/w4t1lo2t22b20w2b4w2~x2/)|
+|![Gorman Blue (Personal) example sett](/variants/s8/w4t1lo2t22b20w2b4w2~x2/sett.png)|

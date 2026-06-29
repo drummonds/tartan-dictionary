@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alliance of Border Scots (Corporate)](/setts/s15/o1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8/)|
-|![Alliance of Border Scots (Corporate) example sett](/setts/s15/o1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8/sett.png)|
+| [Alliance of Border Scots (Corporate)](/variants/s15/o1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8/)|
+|![Alliance of Border Scots (Corporate) example sett](/variants/s15/o1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Henry, David G (Personal)](/setts/s10/lo2w1db4w1db1lo1dg12lo1dg2lo1~x4/)|
-|![Henry, David G (Personal) example sett](/setts/s10/lo2w1db4w1db1lo1dg12lo1dg2lo1~x4/sett.png)|
+| [Henry, David G (Personal)](/variants/s10/lo2w1db4w1db1lo1dg12lo1dg2lo1~x4/)|
+|![Henry, David G (Personal) example sett](/variants/s10/lo2w1db4w1db1lo1dg12lo1dg2lo1~x4/sett.png)|

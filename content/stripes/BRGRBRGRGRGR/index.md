@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Early 18th Centuary #2](/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/)|
-|![Unidentified Early 18th Centuary #2 example sett](/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/sett.png)|
+| [Unidentified Early 18th Centuary #2](/variants/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/)|
+|![Unidentified Early 18th Centuary #2 example sett](/variants/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/sett.png)|

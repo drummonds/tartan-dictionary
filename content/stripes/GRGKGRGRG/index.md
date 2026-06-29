@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redwoods](/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/)|
-|![Redwoods example sett](/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/sett.png)|
+| [Redwoods](/variants/s9/y4r18dy2r2dy5k2dy15r1y4~x2/)|
+|![Redwoods example sett](/variants/s9/y4r18dy2r2dy5k2dy15r1y4~x2/sett.png)|

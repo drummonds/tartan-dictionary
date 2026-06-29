@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coulter Dress (Personal)](/setts/s8/r6w20g12o3g8t20k2t3~x2/)|
-|![Coulter Dress (Personal) example sett](/setts/s8/r6w20g12o3g8t20k2t3~x2/sett.png)|
+| [Coulter Dress (Personal)](/variants/s8/r6w20g12o3g8t20k2t3~x2/)|
+|![Coulter Dress (Personal) example sett](/variants/s8/r6w20g12o3g8t20k2t3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Awe](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/)|
-|![Loch Awe example sett](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/sett.png)|
+| [Loch Awe](/variants/s9/t3k2r3g20k24db20r3k2ly3~x2/)|
+|![Loch Awe example sett](/variants/s9/t3k2r3g20k24db20r3k2ly3~x2/sett.png)|

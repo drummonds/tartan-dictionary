@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart (Black)](/setts/s12/k24b2k3lo1k1lr1k1g4r2k1r2lr1~x4/)|
-|![Stewart/Stuart (Black) example sett](/setts/s12/k24b2k3lo1k1lr1k1g4r2k1r2lr1~x4/sett.png)|
+| [Stewart/Stuart (Black)](/variants/s12/k24b2k3lo1k1lr1k1g4r2k1r2lr1~x4/)|
+|![Stewart/Stuart (Black) example sett](/variants/s12/k24b2k3lo1k1lr1k1g4r2k1r2lr1~x4/sett.png)|

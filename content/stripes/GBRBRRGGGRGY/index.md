@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Berry Tribute](/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/)|
-|![Berry Tribute example sett](/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/sett.png)|
-| [Berry Tribute](/setts/s12/gi43dp3o3dp2o4r3g2gi13g2o9gi1lo2~x2/)|
-|![Berry Tribute example sett](/setts/s12/gi43dp3o3dp2o4r3g2gi13g2o9gi1lo2~x2/sett.png)|
+| [Berry Tribute](/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/)|
+|![Berry Tribute example sett](/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/sett.png)|
+| [Berry Tribute](/variants/s12/gi43dp3o3dp2o4r3g2gi13g2o9gi1lo2~x2/)|
+|![Berry Tribute example sett](/variants/s12/gi43dp3o3dp2o4r3g2gi13g2o9gi1lo2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gift of Life Michigan](/setts/s7/r2lt1r1lt11lg16g1w1~x2/)|
-|![Gift of Life Michigan example sett](/setts/s7/r2lt1r1lt11lg16g1w1~x2/sett.png)|
+| [Gift of Life Michigan](/variants/s7/r2lt1r1lt11lg16g1w1~x2/)|
+|![Gift of Life Michigan example sett](/variants/s7/r2lt1r1lt11lg16g1w1~x2/sett.png)|

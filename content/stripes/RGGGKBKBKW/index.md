@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McMeeken](/setts/s10/o7dg20y2dg4k5db4k2db20k3w1~x2/)|
-|![McMeeken example sett](/setts/s10/o7dg20y2dg4k5db4k2db20k3w1~x2/sett.png)|
+| [McMeeken](/variants/s10/o7dg20y2dg4k5db4k2db20k3w1~x2/)|
+|![McMeeken example sett](/variants/s10/o7dg20y2dg4k5db4k2db20k3w1~x2/sett.png)|

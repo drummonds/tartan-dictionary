@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tache, Sir Etienne Paschal](/setts/s8/lr2ri1r24ri16dt20db3dt3lo2~x2/)|
-|![Tache, Sir Etienne Paschal example sett](/setts/s8/lr2ri1r24ri16dt20db3dt3lo2~x2/sett.png)|
+| [Tache, Sir Etienne Paschal](/variants/s8/lr2ri1r24ri16dt20db3dt3lo2~x2/)|
+|![Tache, Sir Etienne Paschal example sett](/variants/s8/lr2ri1r24ri16dt20db3dt3lo2~x2/sett.png)|

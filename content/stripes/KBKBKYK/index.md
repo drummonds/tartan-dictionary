@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carrick High School](/setts/s7/k6lo2k16t6k3db18k2~x2/)|
-|![Carrick High School example sett](/setts/s7/k6lo2k16t6k3db18k2~x2/sett.png)|
+| [Carrick High School](/variants/s7/k6lo2k16t6k3db18k2~x2/)|
+|![Carrick High School example sett](/variants/s7/k6lo2k16t6k3db18k2~x2/sett.png)|

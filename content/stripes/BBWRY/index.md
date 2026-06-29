@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunning Primary (School)](/setts/s5/n30do9w1r5ly1~x4/)|
-|![Dunning Primary (School) example sett](/setts/s5/n30do9w1r5ly1~x4/sett.png)|
+| [Dunning Primary (School)](/variants/s5/n30do9w1r5ly1~x4/)|
+|![Dunning Primary (School) example sett](/variants/s5/n30do9w1r5ly1~x4/sett.png)|

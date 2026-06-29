@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [White Stripes (Corporate)](/setts/s7/k7w3k7w45r3w3r3~x2/)|
-|![White Stripes (Corporate) example sett](/setts/s7/k7w3k7w45r3w3r3~x2/sett.png)|
+| [White Stripes (Corporate)](/variants/s7/k7w3k7w45r3w3r3~x2/)|
+|![White Stripes (Corporate) example sett](/variants/s7/k7w3k7w45r3w3r3~x2/sett.png)|

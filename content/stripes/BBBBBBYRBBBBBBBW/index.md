@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Romania](/setts/s16/dp4db1dp2db1b16db1ly16r16db1b4db2b4db2b12db1w4~x2/)|
-|![Spirit of Romania example sett](/setts/s16/dp4db1dp2db1b16db1ly16r16db1b4db2b4db2b12db1w4~x2/sett.png)|
+| [Spirit of Romania](/variants/s16/dp4db1dp2db1b16db1ly16r16db1b4db2b4db2b12db1w4~x2/)|
+|![Spirit of Romania example sett](/variants/s16/dp4db1dp2db1b16db1ly16r16db1b4db2b4db2b12db1w4~x2/sett.png)|

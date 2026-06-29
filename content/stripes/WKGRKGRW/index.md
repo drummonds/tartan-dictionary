@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Al Suwaidi of Abu Dhabi (Personal)](/setts/s8/w2r7dg7k7r2dg2k2w1~x5/)|
-|![Al Suwaidi of Abu Dhabi (Personal) example sett](/setts/s8/w2r7dg7k7r2dg2k2w1~x5/sett.png)|
+| [Al Suwaidi of Abu Dhabi (Personal)](/variants/s8/w2r7dg7k7r2dg2k2w1~x5/)|
+|![Al Suwaidi of Abu Dhabi (Personal) example sett](/variants/s8/w2r7dg7k7r2dg2k2w1~x5/sett.png)|

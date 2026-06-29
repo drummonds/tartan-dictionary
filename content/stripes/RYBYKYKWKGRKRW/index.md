@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Victoria (Yellow)](/setts/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/)|
-|![Victoria (Yellow) example sett](/setts/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/sett.png)|
+| [Victoria (Yellow)](/variants/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/)|
+|![Victoria (Yellow) example sett](/variants/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/sett.png)|

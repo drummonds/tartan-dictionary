@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ailsa Craig](/setts/s8/r5w2o20ly2k16w18k2w5~x2/)|
-|![Ailsa Craig example sett](/setts/s8/r5w2o20ly2k16w18k2w5~x2/sett.png)|
+| [Ailsa Craig](/variants/s8/r5w2o20ly2k16w18k2w5~x2/)|
+|![Ailsa Craig example sett](/variants/s8/r5w2o20ly2k16w18k2w5~x2/sett.png)|

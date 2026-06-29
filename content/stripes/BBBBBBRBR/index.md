@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [POF (Fashion)](/setts/s9/b27db8b14db8b14db26r84db6r12/)|
-|![POF (Fashion) example sett](/setts/s9/b27db8b14db8b14db26r84db6r12/sett.png)|
+| [POF (Fashion)](/variants/s9/b27db8b14db8b14db26r84db6r12/)|
+|![POF (Fashion) example sett](/variants/s9/b27db8b14db8b14db26r84db6r12/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Forster (Personal)](/setts/s14/r1dg20ri1dg1dy2dg1ly1dg1dy4lr1dy1lr1dy1lr1~x4/)|
-|![Forster (Personal) example sett](/setts/s14/r1dg20ri1dg1dy2dg1ly1dg1dy4lr1dy1lr1dy1lr1~x4/sett.png)|
+| [Forster (Personal)](/variants/s14/r1dg20ri1dg1dy2dg1ly1dg1dy4lr1dy1lr1dy1lr1~x4/)|
+|![Forster (Personal) example sett](/variants/s14/r1dg20ri1dg1dy2dg1ly1dg1dy4lr1dy1lr1dy1lr1~x4/sett.png)|

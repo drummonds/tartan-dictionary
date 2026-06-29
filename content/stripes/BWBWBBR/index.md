@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Federal Bureau of Investigation](/setts/s7/db6lb2db2lb3db16b26r2~x2/)|
-|![Federal Bureau of Investigation example sett](/setts/s7/db6lb2db2lb3db16b26r2~x2/sett.png)|
-| [Keela (Corporate)](/setts/s7/dt7w3dt2w6dt16t26r4~x2/)|
-|![Keela (Corporate) example sett](/setts/s7/dt7w3dt2w6dt16t26r4~x2/sett.png)|
+| [Federal Bureau of Investigation](/variants/s7/db6lb2db2lb3db16b26r2~x2/)|
+|![Federal Bureau of Investigation example sett](/variants/s7/db6lb2db2lb3db16b26r2~x2/sett.png)|
+| [Keela (Corporate)](/variants/s7/dt7w3dt2w6dt16t26r4~x2/)|
+|![Keela (Corporate) example sett](/variants/s7/dt7w3dt2w6dt16t26r4~x2/sett.png)|

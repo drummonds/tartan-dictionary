@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malone (2016)](/setts/s11/k8dg1k20dg1k4dg1k3dg4w2dg24lo3~x2/)|
-|![Malone (2016) example sett](/setts/s11/k8dg1k20dg1k4dg1k3dg4w2dg24lo3~x2/sett.png)|
+| [Malone (2016)](/variants/s11/k8dg1k20dg1k4dg1k3dg4w2dg24lo3~x2/)|
+|![Malone (2016) example sett](/variants/s11/k8dg1k20dg1k4dg1k3dg4w2dg24lo3~x2/sett.png)|

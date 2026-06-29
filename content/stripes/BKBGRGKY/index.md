@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gillies](/setts/s8/db32k12db12g6r6g18k2ly3~x2/)|
-|![Gillies example sett](/setts/s8/db32k12db12g6r6g18k2ly3~x2/sett.png)|
-| [Gillies (House of Edgar)](/setts/s8/b32k12b12g6r6g18k2ly3~x2/)|
-|![Gillies (House of Edgar) example sett](/setts/s8/b32k12b12g6r6g18k2ly3~x2/sett.png)|
+| [Gillies](/variants/s8/db32k12db12g6r6g18k2ly3~x2/)|
+|![Gillies example sett](/variants/s8/db32k12db12g6r6g18k2ly3~x2/sett.png)|
+| [Gillies (House of Edgar)](/variants/s8/b32k12b12g6r6g18k2ly3~x2/)|
+|![Gillies (House of Edgar) example sett](/variants/s8/b32k12b12g6r6g18k2ly3~x2/sett.png)|

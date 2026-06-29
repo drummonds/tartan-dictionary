@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pille Family (Personal)](/setts/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/)|
-|![Pille Family (Personal) example sett](/setts/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png)|
+| [Pille Family (Personal)](/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/)|
+|![Pille Family (Personal) example sett](/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png)|

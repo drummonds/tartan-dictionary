@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochcarron of Scotland](/setts/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/)|
-|![Lochcarron of Scotland example sett](/setts/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/sett.png)|
+| [Lochcarron of Scotland](/variants/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/)|
+|![Lochcarron of Scotland example sett](/variants/s14/db2gi6dp1gi1dp1gi1db2k2db1k2db9g1db2g1~x4/sett.png)|

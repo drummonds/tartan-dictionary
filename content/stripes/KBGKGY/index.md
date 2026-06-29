@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Michaluk (Personal)](/setts/s6/k3b4g20k20g3lo3~x4/)|
-|![Michaluk (Personal) example sett](/setts/s6/k3b4g20k20g3lo3~x4/sett.png)|
+| [Michaluk (Personal)](/variants/s6/k3b4g20k20g3lo3~x4/)|
+|![Michaluk (Personal) example sett](/variants/s6/k3b4g20k20g3lo3~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robert, Burns check](/setts/s10/w2k2w2k2w2k2w1o1g1o1~x4/)|
-|![Robert, Burns check example sett](/setts/s10/w2k2w2k2w2k2w1o1g1o1~x4/sett.png)|
+| [Robert, Burns check](/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/)|
+|![Robert, Burns check example sett](/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/sett.png)|

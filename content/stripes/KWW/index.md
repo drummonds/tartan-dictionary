@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fily (Verneuil L'tang) (Personal)](/setts/s3/k20w2lt1~x6/)|
-|![Fily (Verneuil L'tang) (Personal) example sett](/setts/s3/k20w2lt1~x6/sett.png)|
+| [Fily (Verneuil L'tang) (Personal)](/variants/s3/k20w2lt1~x6/)|
+|![Fily (Verneuil L'tang) (Personal) example sett](/variants/s3/k20w2lt1~x6/sett.png)|

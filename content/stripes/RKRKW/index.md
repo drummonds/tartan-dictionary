@@ -24,13 +24,13 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bodog.com](/setts/s5/r3k25r25k10lb3~x2/)|
-|![Bodog.com example sett](/setts/s5/r3k25r25k10lb3~x2/sett.png)|
-| [Hopkins (Name)](/setts/s5/r36k18r4k7w2~x2/)|
-|![Hopkins (Name) example sett](/setts/s5/r36k18r4k7w2~x2/sett.png)|
-| [MacGregor, Black (Personal)](/setts/s5/r41k19r7k9w3~x2/)|
-|![MacGregor, Black (Personal) example sett](/setts/s5/r41k19r7k9w3~x2/sett.png)|
-| [Masai Shuka 15 (Artefact)](/setts/s5/r20k2r2k15w1~x2/)|
-|![Masai Shuka 15 (Artefact) example sett](/setts/s5/r20k2r2k15w1~x2/sett.png)|
-| [Turner (Personal)](/setts/s5/r48k12o7k5w3~x2/)|
-|![Turner (Personal) example sett](/setts/s5/r48k12o7k5w3~x2/sett.png)|
+| [Bodog.com](/variants/s5/r3k25r25k10lb3~x2/)|
+|![Bodog.com example sett](/variants/s5/r3k25r25k10lb3~x2/sett.png)|
+| [Hopkins (Name)](/variants/s5/r36k18r4k7w2~x2/)|
+|![Hopkins (Name) example sett](/variants/s5/r36k18r4k7w2~x2/sett.png)|
+| [MacGregor, Black (Personal)](/variants/s5/r41k19r7k9w3~x2/)|
+|![MacGregor, Black (Personal) example sett](/variants/s5/r41k19r7k9w3~x2/sett.png)|
+| [Masai Shuka 15 (Artefact)](/variants/s5/r20k2r2k15w1~x2/)|
+|![Masai Shuka 15 (Artefact) example sett](/variants/s5/r20k2r2k15w1~x2/sett.png)|
+| [Turner (Personal)](/variants/s5/r48k12o7k5w3~x2/)|
+|![Turner (Personal) example sett](/variants/s5/r48k12o7k5w3~x2/sett.png)|

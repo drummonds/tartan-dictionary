@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bronte](/setts/s5/g24b2r25ly2k3~x2/)|
-|![Bronte example sett](/setts/s5/g24b2r25ly2k3~x2/sett.png)|
+| [Bronte](/variants/s5/g24b2r25ly2k3~x2/)|
+|![Bronte example sett](/variants/s5/g24b2r25ly2k3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Charleston Police Department](/setts/s7/dp22lo10dp6lr18dp50db71k6/)|
-|![Charleston Police Department example sett](/setts/s7/dp22lo10dp6lr18dp50db71k6/sett.png)|
+| [Charleston Police Department](/variants/s7/dp22lo10dp6lr18dp50db71k6/)|
+|![Charleston Police Department example sett](/variants/s7/dp22lo10dp6lr18dp50db71k6/sett.png)|

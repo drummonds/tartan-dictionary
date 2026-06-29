@@ -1,0 +1,63 @@
+---
+title: "Carrick Hunting (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13dp1g1dp1g3b5k4ly2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKY](/stripes/gbgbgbky/).
+
+Part of the [Carrick Hunting](/tartans/carrick-hunting/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=577
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Carrick Htg
+- Carrick, hunting
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1930 — Carrick Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=577">record</a>)</li>
+<li>1930 — Carrick Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/721/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [577](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=577)
+- Scottish Tartans Authority (ITI): 721
+- Scottish Tartans World Register: 721
+
+## Thread count
+G/52 P4 G4 P4 G12 B20 K16 Y/8
+
+One full sett is **180 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">52</td><td><code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> <small style="color:#888">#408060</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(54.8% 0.084 160.1)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> <small style="color:#888">#408060</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(54.8% 0.084 160.1)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> <small style="color:#888">#408060</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(54.8% 0.084 160.1)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> <small style="color:#888">#1474B4</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(54.0% 0.129 245.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="G/52 P4 G4 P4 G12 B20 K16 Y/8 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=g13dp1g1dp1g3b5k4ly2~x4">Carrick Hunting (Personal)</a> <a class="nn-out" href="/variants/s8/g13dp1g1dp1g3b5k4ly2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g13dp1g1dp1g3b5k4ly2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.94</div><div class="nn-name"><a href="/ttd/edit/#slug=n8ly2n22dg6r2lb10dg12n3~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Bahamas</a> <a class="nn-out" href="/variants/s8/n8ly2n22dg6r2lb10dg12n3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n8ly2n22dg6r2lb10dg12n3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=g13dp1g1dp1g3db5k4ly2~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Carrick Hunting District Tartan</a> <a class="nn-out" href="/variants/s8/g13dp1g1dp1g3db5k4ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g13dp1g1dp1g3db5k4ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.02</div><div class="nn-name"><a href="/ttd/edit/#slug=g20ly2o5w4g2o2g2o2db6~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Boucherville (Tartan de..) District Tartan</a> <a class="nn-out" href="/variants/s9/g20ly2o5w4g2o2g2o2db6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g20ly2o5w4g2o2g2o2db6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.06</div><div class="nn-name"><a href="/ttd/edit/#slug=t4g16ly2db7t28w4~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Allanton (Fashion)</a> <a class="nn-out" href="/variants/s6/t4g16ly2db7t28w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t4g16ly2db7t28w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.07</div><div class="nn-name"><a href="/ttd/edit/#slug=w4r13g54dg22k4y20g48r13w4&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Wynberg Boys' High School</a> <a class="nn-out" href="/variants/s9/w4r13g54dg22k4y20g48r13w4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w4r13g54dg22k4y20g48r13w4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.07</div><div class="nn-name"><a href="/ttd/edit/#slug=r2db10w1m1g1r1g6m1g10w1~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Tennessee</a> <a class="nn-out" href="/variants/s10/r2db10w1m1g1r1g6m1g10w1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r2db10w1m1g1r1g6m1g10w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.08</div><div class="nn-name"><a href="/ttd/edit/#slug=db22g6db5t2g22r6g5r4g9w3~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">MacConnell</a> <a class="nn-out" href="/variants/s10/db22g6db5t2g22r6g5r4g9w3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db22g6db5t2g22r6g5r4g9w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=lo2n10k2r5k2n19k2n19g17k2lo2~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Montreat</a> <a class="nn-out" href="/variants/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.12</div><div class="nn-name"><a href="/ttd/edit/#slug=lo3g17n3g3n3k5n18r2n8r2~x2&amp;base=g13dp1g1dp1g3b5k4ly2~x4">Donegal Irish County Tartan</a> <a class="nn-out" href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.12</div><div class="nn-name"><a href="/ttd/edit/#slug=dy2g12k10r1b16r2b16r1~x4&amp;base=g13dp1g1dp1g3b5k4ly2~x4">MacWilliam</a> <a class="nn-out" href="/variants/s8/dy2g12k10r1b16r2b16r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy2g12k10r1b16r2b16r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n8ly2n22dg6r2lb10dg12n3~x2/"><circle cx="248.8" cy="196.4" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4ly2~x2/"><circle cx="288.9" cy="173.7" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan</title></circle></a><a href="/variants/s9/g20ly2o5w4g2o2g2o2db6~x2/"><circle cx="257.8" cy="164.4" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan</title></circle></a><a href="/variants/s6/t4g16ly2db7t28w4~x2/"><circle cx="281.0" cy="190.4" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/variants/s9/w4r13g54dg22k4y20g48r13w4/"><circle cx="266.8" cy="162.5" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/variants/s10/r2db10w1m1g1r1g6m1g10w1~x2/"><circle cx="246.8" cy="163.2" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/variants/s10/db22g6db5t2g22r6g5r4g9w3~x2/"><circle cx="246.2" cy="180.8" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/"><circle cx="285.7" cy="172.0" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><circle cx="248.7" cy="185.1" r="4" fill="#3465a4"><title>Donegal Irish County Tartan</title></circle></a><a href="/variants/s8/dy2g12k10r1b16r2b16r1~x4/"><circle cx="274.1" cy="181.4" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><circle cx="292.8" cy="172.0" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/g13dp1g1dp1g3b5k4ly2~x4/

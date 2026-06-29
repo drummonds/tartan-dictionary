@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Confederate Memorial (Military)](/setts/s10/t12lyi4r4lyi4ly2lyi56r18w1db4w3~x2/)|
-|![Confederate Memorial (Military) example sett](/setts/s10/t12lyi4r4lyi4ly2lyi56r18w1db4w3~x2/sett.png)|
+| [Confederate Memorial (Military)](/variants/s10/t12lyi4r4lyi4ly2lyi56r18w1db4w3~x2/)|
+|![Confederate Memorial (Military) example sett](/variants/s10/t12lyi4r4lyi4ly2lyi56r18w1db4w3~x2/sett.png)|

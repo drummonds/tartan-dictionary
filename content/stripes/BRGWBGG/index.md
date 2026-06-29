@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mounth,The Rejected](/setts/s7/dgi36dg5db17w2dgi14o3dp2~x2/)|
-|![Mounth,The Rejected example sett](/setts/s7/dgi36dg5db17w2dgi14o3dp2~x2/sett.png)|
+| [Mounth,The Rejected](/variants/s7/dgi36dg5db17w2dgi14o3dp2~x2/)|
+|![Mounth,The Rejected example sett](/variants/s7/dgi36dg5db17w2dgi14o3dp2~x2/sett.png)|

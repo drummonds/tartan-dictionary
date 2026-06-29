@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathclyde blue](/setts/s7/ki3db24t3k25t22ki3t3~x2/)|
-|![Strathclyde blue example sett](/setts/s7/ki3db24t3k25t22ki3t3~x2/sett.png)|
-| [Strathclyde blue](/setts/s7/k3db24t3ki25t22k3t3~x2/)|
-|![Strathclyde blue example sett](/setts/s7/k3db24t3ki25t22k3t3~x2/sett.png)|
+| [Strathclyde blue](/variants/s7/k3db24t3ki25t22k3t3~x2/)|
+|![Strathclyde blue example sett](/variants/s7/k3db24t3ki25t22k3t3~x2/sett.png)|
+| [Strathclyde blue](/variants/s7/ki3db24t3k25t22ki3t3~x2/)|
+|![Strathclyde blue example sett](/variants/s7/ki3db24t3k25t22ki3t3~x2/sett.png)|

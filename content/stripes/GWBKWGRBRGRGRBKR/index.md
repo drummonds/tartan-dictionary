@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart of Appin (Dress Hunting Stewart)](/setts/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/)|
-|![Stuart/Stewart of Appin (Dress Hunting Stewart) example sett](/setts/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/sett.png)|
+| [Stuart/Stewart of Appin (Dress Hunting Stewart)](/variants/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/)|
+|![Stuart/Stewart of Appin (Dress Hunting Stewart) example sett](/variants/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/sett.png)|

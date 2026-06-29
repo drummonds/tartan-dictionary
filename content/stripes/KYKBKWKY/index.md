@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Children's Wish Foundation of Canada, The](/setts/s8/ly5k2w16k5t29k2ly5k2~x2/)|
-|![Children's Wish Foundation of Canada, The example sett](/setts/s8/ly5k2w16k5t29k2ly5k2~x2/sett.png)|
+| [Children's Wish Foundation of Canada, The](/variants/s8/ly5k2w16k5t29k2ly5k2~x2/)|
+|![Children's Wish Foundation of Canada, The example sett](/variants/s8/ly5k2w16k5t29k2ly5k2~x2/sett.png)|

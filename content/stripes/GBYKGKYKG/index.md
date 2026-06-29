@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maine Acadia (Fashion)](/setts/s9/dg5k1ly2k1dg19k15ly2dt20dg3~x2/)|
-|![Maine Acadia (Fashion) example sett](/setts/s9/dg5k1ly2k1dg19k15ly2dt20dg3~x2/sett.png)|
+| [Maine Acadia (Fashion)](/variants/s9/dg5k1ly2k1dg19k15ly2dt20dg3~x2/)|
+|![Maine Acadia (Fashion) example sett](/variants/s9/dg5k1ly2k1dg19k15ly2dt20dg3~x2/sett.png)|

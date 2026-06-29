@@ -24,5 +24,5 @@ It is a 32 stripe tartan.
 
 | Tartans |
 |---------------|
-| [King Edward VII](/setts/s32/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/)|
-|![King Edward VII example sett](/setts/s32/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/sett.png)|
+| [King Edward VII](/variants/s32/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/)|
+|![King Edward VII example sett](/variants/s32/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/sett.png)|

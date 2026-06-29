@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean 4](/setts/s5/r1g7r3db7t1~x2/)|
-|![Hebridean 4 example sett](/setts/s5/r1g7r3db7t1~x2/sett.png)|
-| [Unamed Riding cloak 1745](/setts/s5/r1dy8r2db8t1~x2/)|
-|![Unamed Riding cloak 1745 example sett](/setts/s5/r1dy8r2db8t1~x2/sett.png)|
+| [Hebridean 4](/variants/s5/r1g7r3db7t1~x2/)|
+|![Hebridean 4 example sett](/variants/s5/r1g7r3db7t1~x2/sett.png)|
+| [Unamed Riding cloak 1745](/variants/s5/r1dy8r2db8t1~x2/)|
+|![Unamed Riding cloak 1745 example sett](/variants/s5/r1dy8r2db8t1~x2/sett.png)|

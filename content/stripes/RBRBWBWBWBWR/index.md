@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St George](/setts/s12/m38db3m10db88w2db8w4db8w4db8w28r12/)|
-|![St George example sett](/setts/s12/m38db3m10db88w2db8w4db8w4db8w28r12/sett.png)|
+| [St George](/variants/s12/m38db3m10db88w2db8w4db8w4db8w28r12/)|
+|![St George example sett](/variants/s12/m38db3m10db88w2db8w4db8w4db8w28r12/sett.png)|

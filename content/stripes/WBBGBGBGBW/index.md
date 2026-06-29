@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sverker](/setts/s10/w2n4dy3dt3dy3dt20dy3n16dt8lt2~x2/)|
-|![Sverker example sett](/setts/s10/w2n4dy3dt3dy3dt20dy3n16dt8lt2~x2/sett.png)|
+| [Sverker](/variants/s10/w2n4dy3dt3dy3dt20dy3n16dt8lt2~x2/)|
+|![Sverker example sett](/variants/s10/w2n4dy3dt3dy3dt20dy3n16dt8lt2~x2/sett.png)|

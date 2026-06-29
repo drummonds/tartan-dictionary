@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Poulter, Jet Black (Corporate)](/setts/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/)|
-|![Poulter, Jet Black (Corporate) example sett](/setts/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/sett.png)|
+| [Poulter, Jet Black (Corporate)](/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/)|
+|![Poulter, Jet Black (Corporate) example sett](/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/sett.png)|

@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fenston/Morris (Personal)](/setts/s5/k33db8k4db35p3~x2/)|
-|![Fenston/Morris (Personal) example sett](/setts/s5/k33db8k4db35p3~x2/sett.png)|
-| [Williams (New York) (Personal)](/setts/s5/k30dt6k6dt41t2~x2/)|
-|![Williams (New York) (Personal) example sett](/setts/s5/k30dt6k6dt41t2~x2/sett.png)|
+| [Fenston/Morris (Personal)](/variants/s5/k33db8k4db35p3~x2/)|
+|![Fenston/Morris (Personal) example sett](/variants/s5/k33db8k4db35p3~x2/sett.png)|
+| [Williams (New York) (Personal)](/variants/s5/k30dt6k6dt41t2~x2/)|
+|![Williams (New York) (Personal) example sett](/variants/s5/k30dt6k6dt41t2~x2/sett.png)|

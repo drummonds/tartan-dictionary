@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walker James](/setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/)|
-|![Walker James example sett](/setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/sett.png)|
+| [Walker James](/variants/s10/r4k6t1g7k2g7t1k6r4g2~x4/)|
+|![Walker James example sett](/variants/s10/r4k6t1g7k2g7t1k6r4g2~x4/sett.png)|

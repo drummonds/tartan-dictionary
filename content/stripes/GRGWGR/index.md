@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [O'Neill (Australia)](/setts/s6/o20g40w5g40o20g9~x2/)|
-|![O'Neill (Australia) example sett](/setts/s6/o20g40w5g40o20g9~x2/sett.png)|
+| [O'Neill (Australia)](/variants/s6/o20g40w5g40o20g9~x2/)|
+|![O'Neill (Australia) example sett](/variants/s6/o20g40w5g40o20g9~x2/sett.png)|

@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacStumer Htg](/setts/s9/k3g14k8g8r3g4lo3g24w3~x2/)|
-|![MacStumer Htg example sett](/setts/s9/k3g14k8g8r3g4lo3g24w3~x2/sett.png)|
-| [MacStumer Hunting](/setts/s9/k3dg14k8dg8r3dg4lo3dg24w3~x2/)|
-|![MacStumer Hunting example sett](/setts/s9/k3dg14k8dg8r3dg4lo3dg24w3~x2/sett.png)|
+| [MacStumer Htg](/variants/s9/k3g14k8g8r3g4lo3g24w3~x2/)|
+|![MacStumer Htg example sett](/variants/s9/k3g14k8g8r3g4lo3g24w3~x2/sett.png)|
+| [MacStumer Hunting](/variants/s9/k3dg14k8dg8r3dg4lo3dg24w3~x2/)|
+|![MacStumer Hunting example sett](/variants/s9/k3dg14k8dg8r3dg4lo3dg24w3~x2/sett.png)|

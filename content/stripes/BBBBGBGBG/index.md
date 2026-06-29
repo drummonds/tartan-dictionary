@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lindsay](/tartans/dg20db2dg2db2dg2db8dr24db2dr3/)|
-|![Lindsay example sett](/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/sett.png)|
+| [Lindsay](/setts/dg20db2dg2db2dg2db8dr24db2dr3/)|
+|![Lindsay example sett](/variants/s9/dg20db2dg2db2dg2db8dr24db2dr3/sett.png)|

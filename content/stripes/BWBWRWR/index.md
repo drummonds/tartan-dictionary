@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sunderland](/setts/s7/db12w4db1w4r8w2r1~x4/)|
-|![Sunderland example sett](/setts/s7/db12w4db1w4r8w2r1~x4/sett.png)|
+| [Sunderland](/variants/s7/db12w4db1w4r8w2r1~x4/)|
+|![Sunderland example sett](/variants/s7/db12w4db1w4r8w2r1~x4/sett.png)|

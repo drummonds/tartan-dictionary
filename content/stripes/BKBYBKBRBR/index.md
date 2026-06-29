@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [D'Souza (Personal)](/setts/s10/dp24k2dp2lo2dp2k20db16o2db2o3~x2/)|
-|![D'Souza (Personal) example sett](/setts/s10/dp24k2dp2lo2dp2k20db16o2db2o3~x2/sett.png)|
+| [D'Souza (Personal)](/variants/s10/dp24k2dp2lo2dp2k20db16o2db2o3~x2/)|
+|![D'Souza (Personal) example sett](/variants/s10/dp24k2dp2lo2dp2k20db16o2db2o3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scobie (Blackford)](/setts/s12/p1r1p1r6g26mi14r20lt1r1lt1r2m1~x2/)|
-|![Scobie (Blackford) example sett](/setts/s12/p1r1p1r6g26mi14r20lt1r1lt1r2m1~x2/sett.png)|
+| [Scobie (Blackford)](/variants/s12/p1r1p1r6g26mi14r20lt1r1lt1r2m1~x2/)|
+|![Scobie (Blackford) example sett](/variants/s12/p1r1p1r6g26mi14r20lt1r1lt1r2m1~x2/sett.png)|

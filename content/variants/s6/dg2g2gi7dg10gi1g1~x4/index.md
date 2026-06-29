@@ -1,0 +1,59 @@
+---
+title: "Emerald, The"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2g2gi7dg10gi1g1/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGG](/stripes/gggggg/).
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1109
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Emerald, The
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1972 — Emerald, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1109">record</a>)</li>
+<li>pre 1972 — Emerald (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4813/">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1109](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1109)
+- Scottish Tartans Authority (ITI): 4813
+
+## Thread count
+G/8 Gb8 Ga28 G40 Ga4 Gb/4
+
+One full sett is **172 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#005448;"><span style="color:#005448;filter:grayscale(1) invert(1) contrast(100);">#005448</span></code> <small style="color:#888">#005448</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.9% 0.073 178.8)</small></td></tr><tr><td>Gb</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>Ga</td><td style="text-align:right;font-variant-numeric:tabular-nums">28</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#005448;"><span style="color:#005448;filter:grayscale(1) invert(1) contrast(100);">#005448</span></code> <small style="color:#888">#005448</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(39.9% 0.073 178.8)</small></td></tr><tr><td>Ga</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>Gb/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="G/8 Gb8 Ga28 G40 Ga4 Gb/4 tartan" width="880" height="480">
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dg2g2gi7dg10gi1g1~x4">Emerald, The</a> <a class="nn-out" href="/variants/s6/dg2g2gi7dg10gi1g1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/dg2g2gi7dg10gi1g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=gi40dg15g4dg4g4~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Celtic 2009 (Sports)</a> <a class="nn-out" href="/variants/s5/gi40dg15g4dg4g4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/gi40dg15g4dg4g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.70</div><div class="nn-name"><a href="/ttd/edit/#slug=y4dg18dgi6dg6dgi24ly3~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Park (Estate Check)</a> <a class="nn-out" href="/variants/s6/y4dg18dgi6dg6dgi24ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y4dg18dgi6dg6dgi24ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.71</div><div class="nn-name"><a href="/ttd/edit/#slug=dg5g3dg24g24dg3g5~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Erskine Hunting</a> <a class="nn-out" href="/variants/s6/dg5g3dg24g24dg3g5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg5g3dg24g24dg3g5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.76</div><div class="nn-name"><a href="/ttd/edit/#slug=t4gii26gi8t8gi8g3t2~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Valley of the Green</a> <a class="nn-out" href="/variants/s7/t4gii26gi8t8gi8g3t2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/t4gii26gi8t8gi8g3t2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.89</div><div class="nn-name"><a href="/ttd/edit/#slug=g13dy3g1do3dy1~x6&amp;base=dg2g2gi7dg10gi1g1~x4">Glen Boig</a> <a class="nn-out" href="/variants/s5/g13dy3g1do3dy1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g13dy3g1do3dy1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.91</div><div class="nn-name"><a href="/ttd/edit/#slug=dgi4db2dgi17dg2r4dg2dgi3dg11dgi2~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Conlon</a> <a class="nn-out" href="/variants/s9/dgi4db2dgi17dg2r4dg2dgi3dg11dgi2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dgi4db2dgi17dg2r4dg2dgi3dg11dgi2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.96</div><div class="nn-name"><a href="/ttd/edit/#slug=dgi24r2dgi2dg40dgi25dg2dgi2r2dgi2dg20~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Donachie of Brockloch Hunting Clan Tartan</a> <a class="nn-out" href="/variants/s10/dgi24r2dgi2dg40dgi25dg2dgi2r2dgi2dg20~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dgi24r2dgi2dg40dgi25dg2dgi2r2dgi2dg20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">2.00</div><div class="nn-name"><a href="/ttd/edit/#slug=y4dg18dgi6dg6dgi24k3~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Park Estate</a> <a class="nn-out" href="/variants/s6/y4dg18dgi6dg6dgi24k3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y4dg18dgi6dg6dgi24k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.11</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=dg5k2dg28k10dy26db4dg4~x2&amp;base=dg2g2gi7dg10gi1g1~x4">John Telfar Dunbar Hunting</a> <a class="nn-out" href="/variants/s7/dg5k2dg28k10dy26db4dg4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg5k2dg28k10dy26db4dg4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.16</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=gi24g3gi4g12gi8g3gi8g30b3~x2&amp;base=dg2g2gi7dg10gi1g1~x4">Gates, Hunting</a> <a class="nn-out" href="/variants/s9/gi24g3gi4g12gi8g3gi8g30b3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/gi24g3gi4g12gi8g3gi8g30b3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/gi40dg15g4dg4g4~x2/"><circle cx="488.1" cy="307.3" r="4" fill="#3465a4"><title>Celtic 2009 (Sports)</title></circle></a><a href="/variants/s6/y4dg18dgi6dg6dgi24ly3~x2/"><circle cx="377.6" cy="303.8" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s6/dg5g3dg24g24dg3g5~x2/"><circle cx="477.7" cy="340.1" r="4" fill="#3465a4"><title>Erskine Hunting</title></circle></a><a href="/variants/s7/t4gii26gi8t8gi8g3t2~x2/"><circle cx="355.6" cy="266.0" r="4" fill="#3465a4"><title>Valley of the Green</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="568.6" cy="306.9" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s9/dgi4db2dgi17dg2r4dg2dgi3dg11dgi2~x2/"><circle cx="444.6" cy="289.0" r="4" fill="#3465a4"><title>Conlon</title></circle></a><a href="/variants/s10/dgi24r2dgi2dg40dgi25dg2dgi2r2dgi2dg20~x2/"><circle cx="516.3" cy="268.5" r="4" fill="#3465a4"><title>Donachie of Brockloch Hunting Clan Tartan</title></circle></a><a href="/variants/s6/y4dg18dgi6dg6dgi24k3~x2/"><circle cx="370.3" cy="301.5" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><a href="/variants/s7/dg5k2dg28k10dy26db4dg4~x2/"><circle cx="392.5" cy="269.3" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s9/gi24g3gi4g12gi8g3gi8g30b3~x2/"><circle cx="427.2" cy="285.7" r="4" fill="#3465a4"><title>Gates, Hunting</title></circle></a><circle cx="447.4" cy="317.8" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s6/dg2g2gi7dg10gi1g1~x4/

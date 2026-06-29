@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weston (Personal)](/setts/s5/dt4db4dp4k4w1~x10/)|
-|![Weston (Personal) example sett](/setts/s5/dt4db4dp4k4w1~x10/sett.png)|
+| [Weston (Personal)](/variants/s5/dt4db4dp4k4w1~x10/)|
+|![Weston (Personal) example sett](/variants/s5/dt4db4dp4k4w1~x10/sett.png)|

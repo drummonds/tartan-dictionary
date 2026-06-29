@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Christmas](/setts/s5/ly2dg17g4r15dg1~x2/)|
-|![Christmas example sett](/setts/s5/ly2dg17g4r15dg1~x2/sett.png)|
+| [Christmas](/variants/s5/ly2dg17g4r15dg1~x2/)|
+|![Christmas example sett](/variants/s5/ly2dg17g4r15dg1~x2/sett.png)|

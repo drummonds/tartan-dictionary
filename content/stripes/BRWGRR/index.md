@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cercle de Fermières Varennes](/setts/s6/o30r3dg14w10r3b30~x2/)|
-|![Cercle de Fermières Varennes example sett](/setts/s6/o30r3dg14w10r3b30~x2/sett.png)|
+| [Cercle de Fermières Varennes](/variants/s6/o30r3dg14w10r3b30~x2/)|
+|![Cercle de Fermières Varennes example sett](/variants/s6/o30r3dg14w10r3b30~x2/sett.png)|

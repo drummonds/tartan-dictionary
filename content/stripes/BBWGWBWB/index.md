@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chaudhri, Zafar Iqbal](/setts/s8/dp13n8w5dg24w5n10w5n10~x2/)|
-|![Chaudhri, Zafar Iqbal example sett](/setts/s8/dp13n8w5dg24w5n10w5n10~x2/sett.png)|
+| [Chaudhri, Zafar Iqbal](/variants/s8/dp13n8w5dg24w5n10w5n10~x2/)|
+|![Chaudhri, Zafar Iqbal example sett](/variants/s8/dp13n8w5dg24w5n10w5n10~x2/sett.png)|

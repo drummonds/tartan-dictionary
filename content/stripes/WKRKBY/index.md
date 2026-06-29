@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Soroptimist International (Corporate](/setts/s6/w2k1m10k6b12lo2~x2/)|
-|![Soroptimist International (Corporate example sett](/setts/s6/w2k1m10k6b12lo2~x2/sett.png)|
+| [Soroptimist International (Corporate](/variants/s6/w2k1m10k6b12lo2~x2/)|
+|![Soroptimist International (Corporate example sett](/variants/s6/w2k1m10k6b12lo2~x2/sett.png)|

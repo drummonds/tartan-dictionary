@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Yarrow Dress, Purple (Dance)](/setts/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/)|
-|![Yarrow Dress, Purple (Dance) example sett](/setts/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/sett.png)|
+| [Yarrow Dress, Purple (Dance)](/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/)|
+|![Yarrow Dress, Purple (Dance) example sett](/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/sett.png)|

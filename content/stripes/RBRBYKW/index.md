@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/)|
-|![Loch Ness (Fashion) example sett](/setts/s7/r2t2r2t21lg11k17lb2~x2/sett.png)|
+| [Loch Ness (Fashion)](/variants/s7/r2t2r2t21lg11k17lb2~x2/)|
+|![Loch Ness (Fashion) example sett](/variants/s7/r2t2r2t21lg11k17lb2~x2/sett.png)|

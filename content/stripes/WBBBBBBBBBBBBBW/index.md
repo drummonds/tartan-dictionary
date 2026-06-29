@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferring Pharmaceuticals](/setts/s15/lb6b2dbi4db12b48db8bi8t10bi9db8bi24db8b6db4lb4~x2/)|
-|![Ferring Pharmaceuticals example sett](/setts/s15/lb6b2dbi4db12b48db8bi8t10bi9db8bi24db8b6db4lb4~x2/sett.png)|
+| [Ferring Pharmaceuticals](/variants/s15/lb6b2dbi4db12b48db8bi8t10bi9db8bi24db8b6db4lb4~x2/)|
+|![Ferring Pharmaceuticals example sett](/variants/s15/lb6b2dbi4db12b48db8bi8t10bi9db8bi24db8b6db4lb4~x2/sett.png)|

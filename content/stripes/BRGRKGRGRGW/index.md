@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ronald, Clan (Clan)](/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/)|
-|![Ronald, Clan (Clan) example sett](/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/sett.png)|
+| [Ronald, Clan (Clan)](/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/)|
+|![Ronald, Clan (Clan) example sett](/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/sett.png)|

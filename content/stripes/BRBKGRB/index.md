@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNaughton (Logan)](/setts/s7/db5r17dg16k10db10r17db5~x2/)|
-|![MacNaughton (Logan) example sett](/setts/s7/db5r17dg16k10db10r17db5~x2/sett.png)|
+| [MacNaughton (Logan)](/variants/s7/db5r17dg16k10db10r17db5~x2/)|
+|![MacNaughton (Logan) example sett](/variants/s7/db5r17dg16k10db10r17db5~x2/sett.png)|

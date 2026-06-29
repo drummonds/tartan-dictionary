@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Princess Diana](/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/)|
-|![Princess Diana example sett](/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/sett.png)|
+| [Princess Diana](/variants/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/)|
+|![Princess Diana example sett](/variants/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/sett.png)|

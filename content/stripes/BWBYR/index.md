@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLeod of Argentina](/setts/s5/b10w3b12ly14r4~x2/)|
-|![MacLeod of Argentina example sett](/setts/s5/b10w3b12ly14r4~x2/sett.png)|
-| [MacLeod, of Argentina](/setts/s5/db10w3db12ly14r4~x2/)|
-|![MacLeod, of Argentina example sett](/setts/s5/db10w3db12ly14r4~x2/sett.png)|
+| [MacLeod of Argentina](/variants/s5/b10w3b12ly14r4~x2/)|
+|![MacLeod of Argentina example sett](/variants/s5/b10w3b12ly14r4~x2/sett.png)|
+| [MacLeod, of Argentina](/variants/s5/db10w3db12ly14r4~x2/)|
+|![MacLeod, of Argentina example sett](/variants/s5/db10w3db12ly14r4~x2/sett.png)|

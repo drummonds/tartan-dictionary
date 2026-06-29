@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gamba Tuscany Fife](/setts/s5/dg5r3g30db30w3~x2/)|
-|![Gamba Tuscany Fife example sett](/setts/s5/dg5r3g30db30w3~x2/sett.png)|
+| [Gamba Tuscany Fife](/variants/s5/dg5r3g30db30w3~x2/)|
+|![Gamba Tuscany Fife example sett](/variants/s5/dg5r3g30db30w3~x2/sett.png)|

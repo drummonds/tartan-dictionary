@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRea / MacRae](/setts/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/)|
-|![MacRea / MacRae example sett](/setts/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/sett.png)|
-| [MacRea ? MacRae](/setts/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/)|
-|![MacRea ? MacRae example sett](/setts/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/sett.png)|
+| [MacRea / MacRae](/variants/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/)|
+|![MacRea / MacRae example sett](/variants/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/sett.png)|
+| [MacRea ? MacRae](/variants/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/)|
+|![MacRea ? MacRae example sett](/variants/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/sett.png)|

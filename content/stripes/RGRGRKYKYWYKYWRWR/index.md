@@ -24,7 +24,7 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anderson Dress](/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1dg4r2dg4r2~x2/)|
-|![Anderson Dress example sett](/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1dg4r2dg4r2~x2/sett.png)|
-| [Anderson, dress](/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1g4r2g4r2~x2/)|
-|![Anderson, dress example sett](/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1g4r2g4r2~x2/sett.png)|
+| [Anderson Dress](/variants/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1dg4r2dg4r2~x2/)|
+|![Anderson Dress example sett](/variants/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1dg4r2dg4r2~x2/sett.png)|
+| [Anderson, dress](/variants/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1g4r2g4r2~x2/)|
+|![Anderson, dress example sett](/variants/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1g4r2g4r2~x2/sett.png)|

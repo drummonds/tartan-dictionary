@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Princess, The](/setts/s5/b15g15lo11r17m15~x2/)|
-|![Highland Princess, The example sett](/setts/s5/b15g15lo11r17m15~x2/sett.png)|
+| [Highland Princess, The](/variants/s5/b15g15lo11r17m15~x2/)|
+|![Highland Princess, The example sett](/variants/s5/b15g15lo11r17m15~x2/sett.png)|

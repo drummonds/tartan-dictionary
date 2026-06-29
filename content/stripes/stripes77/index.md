@@ -14,4 +14,4 @@ weight: 77
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Kilbarchan Unidentified No. 14](/setts/s77/w3b2w14b3w3k5g12k1w3k1g12k12b2k2b2k2b12k2b2k2b2k12g12k1w3g12k5w3b3w14b2w3b2w14b3w3k5g12k1w3k1g12k12b12k1r3k1b12k12g12k1w3k1g12k5w3b3w14b2w3b2w14b3w3k5g12w3k1g12k12k2b2k2b12k2b2k2~x2/) | register-of-tartans |
+| 0.08 | [Kilbarchan Unidentified No. 14](/variants/s77/w3b2w14b3w3k5g12k1w3k1g12k12b2k2b2k2b12k2b2k2b2k12g12k1w3g12k5w3b3w14b2w3b2w14b3w3k5g12k1w3k1g12k12b12k1r3k1b12k12g12k1w3k1g12k5w3b3w14b2w3b2w14b3w3k5g12w3k1g12k12k2b2k2b12k2b2k2~x2/) | register-of-tartans |

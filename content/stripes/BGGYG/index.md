@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Corey (Name)](/setts/s5/b32dy16g3lo4dg28~x2/)|
-|![Corey (Name) example sett](/setts/s5/b32dy16g3lo4dg28~x2/sett.png)|
+| [Corey (Name)](/variants/s5/b32dy16g3lo4dg28~x2/)|
+|![Corey (Name) example sett](/variants/s5/b32dy16g3lo4dg28~x2/sett.png)|

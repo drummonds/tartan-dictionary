@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dunlop](/setts/s8/k3r1k30w1o28g1o1w3~x2/)|
-|![Dunlop example sett](/setts/s8/k3r1k30w1o28g1o1w3~x2/sett.png)|
+| [Dunlop](/variants/s8/k3r1k30w1o28g1o1w3~x2/)|
+|![Dunlop example sett](/variants/s8/k3r1k30w1o28g1o1w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lodge Isandlwana](/setts/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/)|
-|![Lodge Isandlwana example sett](/setts/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/sett.png)|
+| [Lodge Isandlwana](/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/)|
+|![Lodge Isandlwana example sett](/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lochalsh (Fashion)](/setts/s15/lo4g3w25g4lo4k12b16k2w4k2b16k12g16k2lo4/)|
-|![Lochalsh (Fashion) example sett](/setts/s15/lo4g3w25g4lo4k12b16k2w4k2b16k12g16k2lo4/sett.png)|
+| [Lochalsh (Fashion)](/variants/s15/lo4g3w25g4lo4k12b16k2w4k2b16k12g16k2lo4/)|
+|![Lochalsh (Fashion) example sett](/variants/s15/lo4g3w25g4lo4k12b16k2w4k2b16k12g16k2lo4/sett.png)|

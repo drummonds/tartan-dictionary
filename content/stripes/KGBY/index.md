@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Robert Byers Family - Dooballagh, Ireland](/setts/s4/k5g40db20ly3~x2/)|
-|![Robert Byers Family - Dooballagh, Ireland example sett](/setts/s4/k5g40db20ly3~x2/sett.png)|
+| [Robert Byers Family - Dooballagh, Ireland](/variants/s4/k5g40db20ly3~x2/)|
+|![Robert Byers Family - Dooballagh, Ireland example sett](/variants/s4/k5g40db20ly3~x2/sett.png)|

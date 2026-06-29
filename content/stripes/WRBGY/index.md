@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGill University](/setts/s5/w3r24db12dg8ly3~x2/)|
-|![McGill University example sett](/setts/s5/w3r24db12dg8ly3~x2/sett.png)|
-| [McGill University (Corporate)](/setts/s5/w3r24db12dg8lo3~x2/)|
-|![McGill University (Corporate) example sett](/setts/s5/w3r24db12dg8lo3~x2/sett.png)|
+| [McGill University](/variants/s5/w3r24db12dg8ly3~x2/)|
+|![McGill University example sett](/variants/s5/w3r24db12dg8ly3~x2/sett.png)|
+| [McGill University (Corporate)](/variants/s5/w3r24db12dg8lo3~x2/)|
+|![McGill University (Corporate) example sett](/variants/s5/w3r24db12dg8lo3~x2/sett.png)|

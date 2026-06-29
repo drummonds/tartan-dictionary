@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Montana (Fashion)](/setts/s12/db4lo4db26b5db5b8lo10g8dg5g5dg22o3~x2/)|
-|![State Seal of Montana (Fashion) example sett](/setts/s12/db4lo4db26b5db5b8lo10g8dg5g5dg22o3~x2/sett.png)|
+| [State Seal of Montana (Fashion)](/variants/s12/db4lo4db26b5db5b8lo10g8dg5g5dg22o3~x2/)|
+|![State Seal of Montana (Fashion) example sett](/variants/s12/db4lo4db26b5db5b8lo10g8dg5g5dg22o3~x2/sett.png)|

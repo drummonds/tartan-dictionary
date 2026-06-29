@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Claus of the North Pole (Restricted)](/setts/s7/r21g3r21g16lo3w2lo3~x2/)|
-|![Claus of the North Pole (Restricted) example sett](/setts/s7/r21g3r21g16lo3w2lo3~x2/sett.png)|
+| [Claus of the North Pole (Restricted)](/variants/s7/r21g3r21g16lo3w2lo3~x2/)|
+|![Claus of the North Pole (Restricted) example sett](/variants/s7/r21g3r21g16lo3w2lo3~x2/sett.png)|

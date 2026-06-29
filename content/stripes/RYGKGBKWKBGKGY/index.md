@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Iowa](/setts/s14/r4ly3g12k16dy5db20k4w2~x2/)|
-|![Iowa example sett](/setts/s14/r4ly3g12k16dy5db20k4w2~x2/sett.png)|
+| [Iowa](/variants/s14/r4ly3g12k16dy5db20k4w2~x2/)|
+|![Iowa example sett](/variants/s14/r4ly3g12k16dy5db20k4w2~x2/sett.png)|

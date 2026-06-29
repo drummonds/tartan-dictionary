@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Letter Dress (2014)](/setts/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/)|
-|![Letter Dress (2014) example sett](/setts/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/sett.png)|
+| [Letter Dress (2014)](/variants/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/)|
+|![Letter Dress (2014) example sett](/variants/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/sett.png)|

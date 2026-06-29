@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Country (District)](/setts/s8/k21r1k1ly1k1r1k3w3~x6/)|
-|![Black Country (District) example sett](/setts/s8/k21r1k1ly1k1r1k3w3~x6/sett.png)|
+| [Black Country (District)](/variants/s8/k21r1k1ly1k1r1k3w3~x6/)|
+|![Black Country (District) example sett](/variants/s8/k21r1k1ly1k1r1k3w3~x6/sett.png)|

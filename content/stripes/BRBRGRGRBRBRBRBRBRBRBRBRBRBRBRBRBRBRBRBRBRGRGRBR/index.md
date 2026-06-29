@@ -24,5 +24,5 @@ It is a 48 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Campbell of Loudoun Plaid](/setts/s48/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1~x2/)|
-|![Campbell of Loudoun Plaid example sett](/setts/s48/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1~x2/sett.png)|
+| [Campbell of Loudoun Plaid](/variants/s48/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1~x2/)|
+|![Campbell of Loudoun Plaid example sett](/variants/s48/r4db5r10dg10r14dg4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3dg4r14dg10r10db5r4db1~x2/sett.png)|

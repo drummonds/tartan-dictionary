@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kansai St Andrews Society (Corp)](/setts/s10/n33w2r3w2db14ri3g15n20r2n3~x2/)|
-|![Kansai St Andrews Society (Corp) example sett](/setts/s10/n33w2r3w2db14ri3g15n20r2n3~x2/sett.png)|
+| [Kansai St Andrews Society (Corp)](/variants/s10/n33w2r3w2db14ri3g15n20r2n3~x2/)|
+|![Kansai St Andrews Society (Corp) example sett](/variants/s10/n33w2r3w2db14ri3g15n20r2n3~x2/sett.png)|

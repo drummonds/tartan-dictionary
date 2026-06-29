@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Symonds (2016)](/setts/s6/g18ly1dp5ly1dg18r1~x4/)|
-|![Symonds (2016) example sett](/setts/s6/g18ly1dp5ly1dg18r1~x4/sett.png)|
+| [Symonds (2016)](/variants/s6/g18ly1dp5ly1dg18r1~x4/)|
+|![Symonds (2016) example sett](/variants/s6/g18ly1dp5ly1dg18r1~x4/sett.png)|

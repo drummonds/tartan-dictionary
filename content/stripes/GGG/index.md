@@ -24,5 +24,5 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hallstatt (Artefact)](/setts/s3/dy16y3dy2~x10/)|
-|![Hallstatt (Artefact) example sett](/setts/s3/dy16y3dy2~x10/sett.png)|
+| [Hallstatt (Artefact)](/variants/s3/dy16y3dy2~x10/)|
+|![Hallstatt (Artefact) example sett](/variants/s3/dy16y3dy2~x10/sett.png)|

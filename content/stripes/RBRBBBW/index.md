@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue](/setts/s7/r2db11r3db11t12dbi10w2~x2/)|
-|![Blue example sett](/setts/s7/r2db11r3db11t12dbi10w2~x2/sett.png)|
-| [Blue Family Tartan Tartan Number: 1420. Earliest known date: 1985 Blue is a Sept name of MacMillan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r2dbi11r3dbi11t12db10w2~x2/)|
-|![Blue Family Tartan Tartan Number: 1420. Earliest known date: 1985 Blue is a Sept name of MacMillan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r2dbi11r3dbi11t12db10w2~x2/sett.png)|
+| [Blue](/variants/s7/r2db11r3db11t12dbi10w2~x2/)|
+|![Blue example sett](/variants/s7/r2db11r3db11t12dbi10w2~x2/sett.png)|
+| [Blue Family Tartan](/variants/s7/r2dbi11r3dbi11t12db10w2~x2/)|
+|![Blue Family Tartan example sett](/variants/s7/r2dbi11r3dbi11t12db10w2~x2/sett.png)|

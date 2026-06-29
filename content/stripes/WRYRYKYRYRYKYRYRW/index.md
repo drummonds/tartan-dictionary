@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australia, The](/setts/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/)|
-|![Australia, The example sett](/setts/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/sett.png)|
+| [Australia, The](/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/)|
+|![Australia, The example sett](/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/sett.png)|

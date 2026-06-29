@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mungall Family Tartan Tartan Number: 4070. Earliest known date: 2001 This tartan was first produced in ancient colours. It is a personal tartan to commemorate the signing of the Ragman's Roll by William de Mungall See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/t30y8r2k8ly2k8r2y8db11r2t10r3t2r2db3~x2/)|
-|![Mungall Family Tartan Tartan Number: 4070. Earliest known date: 2001 This tartan was first produced in ancient colours. It is a personal tartan to commemorate the signing of the Ragman's Roll by William de Mungall See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/t30y8r2k8ly2k8r2y8db11r2t10r3t2r2db3~x2/sett.png)|
+| [Mungall Family Tartan](/variants/s15/t30y8r2k8ly2k8r2y8db11r2t10r3t2r2db3~x2/)|
+|![Mungall Family Tartan example sett](/variants/s15/t30y8r2k8ly2k8r2y8db11r2t10r3t2r2db3~x2/sett.png)|

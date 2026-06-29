@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLaren](/setts/s8/w16db4k12g4w6lo4w11ly7~x2/)|
-|![MacLaren example sett](/setts/s8/w16db4k12g4w6lo4w11ly7~x2/sett.png)|
-| [MacLaren Dress (Dance)](/setts/s8/w16db4k12dg4w6lo4w11ly7~x2/)|
-|![MacLaren Dress (Dance) example sett](/setts/s8/w16db4k12dg4w6lo4w11ly7~x2/sett.png)|
+| [MacLaren](/variants/s8/w16db4k12g4w6lo4w11ly7~x2/)|
+|![MacLaren example sett](/variants/s8/w16db4k12g4w6lo4w11ly7~x2/sett.png)|
+| [MacLaren Dress (Dance)](/variants/s8/w16db4k12dg4w6lo4w11ly7~x2/)|
+|![MacLaren Dress (Dance) example sett](/variants/s8/w16db4k12dg4w6lo4w11ly7~x2/sett.png)|

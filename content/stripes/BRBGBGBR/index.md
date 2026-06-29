@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wyeth (Personal)](/setts/s8/db18r18dp2g12db1~x4/)|
-|![Wyeth (Personal) example sett](/setts/s8/db18r18dp2g12db1~x4/sett.png)|
+| [Wyeth (Personal)](/variants/s8/db18r18dp2g12db1~x4/)|
+|![Wyeth (Personal) example sett](/variants/s8/db18r18dp2g12db1~x4/sett.png)|

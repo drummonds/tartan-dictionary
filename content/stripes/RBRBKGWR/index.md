@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Borrodale](/setts/s8/r5db3r3db29k29g29w4r4~x2/)|
-|![Borrodale example sett](/setts/s8/r5db3r3db29k29g29w4r4~x2/sett.png)|
+| [Borrodale](/variants/s8/r5db3r3db29k29g29w4r4~x2/)|
+|![Borrodale example sett](/variants/s8/r5db3r3db29k29g29w4r4~x2/sett.png)|

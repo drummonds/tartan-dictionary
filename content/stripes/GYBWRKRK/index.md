@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fremont Presbyterian Church (P)](/setts/s8/k6r2k6r12w2db36ly1g3~x2/)|
-|![Fremont Presbyterian Church (P) example sett](/setts/s8/k6r2k6r12w2db36ly1g3~x2/sett.png)|
+| [Fremont Presbyterian Church (P)](/variants/s8/k6r2k6r12w2db36ly1g3~x2/)|
+|![Fremont Presbyterian Church (P) example sett](/variants/s8/k6r2k6r12w2db36ly1g3~x2/sett.png)|

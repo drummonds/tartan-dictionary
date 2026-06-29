@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ben Vorlich](/setts/s11/w68lr3w3lr8w3lr3o24dt16oi3dt20lr3~x2/)|
-|![Ben Vorlich example sett](/setts/s11/w68lr3w3lr8w3lr3o24dt16oi3dt20lr3~x2/sett.png)|
+| [Ben Vorlich](/variants/s11/w68lr3w3lr8w3lr3o24dt16oi3dt20lr3~x2/)|
+|![Ben Vorlich example sett](/variants/s11/w68lr3w3lr8w3lr3o24dt16oi3dt20lr3~x2/sett.png)|

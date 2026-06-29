@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Donegal County Crest (Fashion)](/setts/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/)|
-|![Donegal County Crest (Fashion) example sett](/setts/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/sett.png)|
+| [Donegal County Crest (Fashion)](/variants/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/)|
+|![Donegal County Crest (Fashion) example sett](/variants/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/sett.png)|

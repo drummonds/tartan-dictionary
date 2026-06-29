@@ -1,0 +1,5 @@
+---
+title: "Buchanan Dress"
+redirect: "/variants/s13/r3w34k2y4k2ly7k2ly7k2y4k2dy34t3~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Buchanan Dress](/variants/s13/r3w34k2y4k2ly7k2ly7k2y4k2dy34t3~x2/).

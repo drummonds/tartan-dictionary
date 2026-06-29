@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Immanuel Presbyterian Church (Corp)](/setts/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/)|
-|![Immanuel Presbyterian Church (Corp) example sett](/setts/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/sett.png)|
+| [Immanuel Presbyterian Church (Corp)](/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/)|
+|![Immanuel Presbyterian Church (Corp) example sett](/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/sett.png)|

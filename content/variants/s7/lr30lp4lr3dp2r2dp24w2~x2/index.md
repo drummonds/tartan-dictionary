@@ -1,0 +1,62 @@
+---
+title: "St. Andrew's Links Dress (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr30lp4lr3dp2r2dp24w2/)
+(the same proportion at any scale), whose colour order is pattern [WBRBYWY](/stripes/wbrbywy/).
+
+Part of the [St Andrews Links Dress](/tartans/st-andrews-links-dress/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10506/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- St. Andrew's Links Dress
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10506](https://www.tartanregister.gov.uk/tartanDetails?ref=10506)
+- Scottish Tartans Authority (ITI): 10506
+
+## Thread count
+N/60 LP8 N6 P4 LR4 P48 W/4
+
+One full sett is **204 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(4 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> <small style="color:#888">#B8B8B8</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(78.3% 0.000 89.9)</small></td></tr><tr><td>LP</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#C49CD8;"><span style="color:#C49CD8;filter:grayscale(1) invert(1) contrast(100);">#C49CD8</span></code> <small style="color:#888">#C49CD8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(75.0% 0.095 314.2)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> <small style="color:#888">#B8B8B8</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(78.3% 0.000 89.9)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>LR</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> <small style="color:#888">#E87878</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(70.0% 0.139 21.2)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="N/60 LP8 N6 P4 LR4 P48 W/4 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/w30b4w3dp2r2dp24wi2/"><img src="/variants/s7/w30b4w3dp2r2dp24wi2~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/w30b4w3dp2r2dp24wi2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=lr30lp4lr3dp2r2dp24w2~x2">St. Andrew's Links Dress (Corporate)</a> <a class="nn-out" href="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.00</div><div class="nn-name"><a href="/ttd/edit/#slug=m24k4lb10db3m3w2~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Cramer (Personal)</a> <a class="nn-out" href="/variants/s6/m24k4lb10db3m3w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/m24k4lb10db3m3w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.22</div><div class="nn-name"><a href="/ttd/edit/#slug=w3b23lr44b26g4ly2~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Tartan Lassie (Fashion)</a> <a class="nn-out" href="/variants/s6/w3b23lr44b26g4ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w3b23lr44b26g4ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/variants/s7/w30b4w3dp2r2dp24wi2~x2/">St Andrews Links Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w30b4w3dp2r2dp24wi2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.31</div><div class="nn-name"><a href="/ttd/edit/#slug=dp42lb2w2lb2dp5t12w32dp4~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Longniddry Dress (Dance)</a> <a class="nn-out" href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.35</div><div class="nn-name"><a href="/ttd/edit/#slug=t2dp1k1dp20w20dp1w2~x4&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Cunningham Dress Purple (Dance) Fashion Tartan</a> <a class="nn-out" href="/variants/s7/t2dp1k1dp20w20dp1w2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/t2dp1k1dp20w20dp1w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.35</div><div class="nn-name"><a href="/ttd/edit/#slug=p42db2w2db2p5b12w32p4~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Longniddry, dress</a> <a class="nn-out" href="/variants/s8/p42db2w2db2p5b12w32p4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/p42db2w2db2p5b12w32p4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.37</div><div class="nn-name"><a href="/ttd/edit/#slug=dp42db2w2db2dp5t12w32dp4~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Longniddry Dress District Tartan</a> <a class="nn-out" href="/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.45</div><div class="nn-name"><a href="/ttd/edit/#slug=w5dp2w34dp34k2dp2t4~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Cunningham Dress Purple (Dance)</a> <a class="nn-out" href="/variants/s7/w5dp2w34dp34k2dp2t4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w5dp2w34dp34k2dp2t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.51</div><div class="nn-name"><a href="/ttd/edit/#slug=w5k3w31dp26w4dp10t4~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">MacPherson Dress Purple</a> <a class="nn-out" href="/variants/s7/w5k3w31dp26w4dp10t4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w5k3w31dp26w4dp10t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.54</div><div class="nn-name"><a href="/ttd/edit/#slug=dp8db2dp24db5w26k2w8~x2&amp;base=lr30lp4lr3dp2r2dp24w2~x2">Lennox Purple Dress District Tartan</a> <a class="nn-out" href="/variants/s7/dp8db2dp24db5w26k2w8~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp8db2dp24db5w26k2w8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/m24k4lb10db3m3w2~x2/"><circle cx="307.0" cy="159.5" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/variants/s6/w3b23lr44b26g4ly2~x2/"><circle cx="289.6" cy="149.4" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s7/w30b4w3dp2r2dp24wi2~x2/"><circle cx="247.1" cy="115.1" r="4" fill="#3465a4"><title>St Andrews Links Dress</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/"><circle cx="291.8" cy="122.4" r="4" fill="#3465a4"><title>Longniddry Dress (Dance)</title></circle></a><a href="/variants/s7/t2dp1k1dp20w20dp1w2~x4/"><circle cx="299.7" cy="120.4" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance) Fashion Tartan</title></circle></a><a href="/variants/s8/p42db2w2db2p5b12w32p4~x2/"><circle cx="296.5" cy="122.5" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/"><circle cx="291.5" cy="123.1" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s7/w5dp2w34dp34k2dp2t4~x2/"><circle cx="279.0" cy="124.5" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/variants/s7/w5k3w31dp26w4dp10t4~x2/"><circle cx="250.4" cy="165.1" r="4" fill="#3465a4"><title>MacPherson Dress Purple</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="236.7" cy="160.9" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan</title></circle></a><circle cx="282.6" cy="130.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s7/lr30lp4lr3dp2r2dp24w2~x2/

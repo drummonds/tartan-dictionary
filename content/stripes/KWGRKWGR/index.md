@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harazeen](/setts/s8/r2g1w1k1~x20/)|
-|![Harazeen example sett](/setts/s8/r2g1w1k1~x20/sett.png)|
+| [Harazeen](/variants/s8/r2g1w1k1~x20/)|
+|![Harazeen example sett](/variants/s8/r2g1w1k1~x20/sett.png)|

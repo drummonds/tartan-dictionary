@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s4/r5dg5lb3r5/"><img src="/setts/s4/r5dg5lb3r5/sett.png" alt="Menzies" width="240"><br>Menzies</a>
+<a class="tartan" href="/variants/s4/r5dg5lb3r5/"><img src="/variants/s4/r5dg5lb3r5/sett.png" alt="Menzies" width="240"><br>Menzies</a>
 
 ## Families
 

@@ -24,7 +24,7 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Perry (Calgary), Alex (Personal)](/setts/s4/k62dt24lo5w3~x2/)|
-|![Perry (Calgary), Alex (Personal) example sett](/setts/s4/k62dt24lo5w3~x2/sett.png)|
-| [Perry, Alex (Personal)](/setts/s4/k62n24lo5w8~x2/)|
-|![Perry, Alex (Personal) example sett](/setts/s4/k62n24lo5w8~x2/sett.png)|
+| [Perry (Calgary), Alex (Personal)](/variants/s4/k62dt24lo5w3~x2/)|
+|![Perry (Calgary), Alex (Personal) example sett](/variants/s4/k62dt24lo5w3~x2/sett.png)|
+| [Perry, Alex (Personal)](/variants/s4/k62n24lo5w8~x2/)|
+|![Perry, Alex (Personal) example sett](/variants/s4/k62n24lo5w8~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waverley Care Aids Trust (Corporate)](/setts/s6/r8g2r2k1r1g2~x10/)|
-|![Waverley Care Aids Trust (Corporate) example sett](/setts/s6/r8g2r2k1r1g2~x10/sett.png)|
+| [Waverley Care Aids Trust (Corporate)](/variants/s6/r8g2r2k1r1g2~x10/)|
+|![Waverley Care Aids Trust (Corporate) example sett](/variants/s6/r8g2r2k1r1g2~x10/sett.png)|

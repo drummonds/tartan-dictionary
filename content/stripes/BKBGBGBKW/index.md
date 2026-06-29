@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Basel Tattoo (Official)](/setts/s9/db1k8db2dg16dr6dg16db2k8w1~x2/)|
-|![Basel Tattoo (Official) example sett](/setts/s9/db1k8db2dg16dr6dg16db2k8w1~x2/sett.png)|
+| [Basel Tattoo (Official)](/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/)|
+|![Basel Tattoo (Official) example sett](/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/sett.png)|

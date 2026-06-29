@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lennox Dress](/setts/s7/r8dp2r24db5w26dy2w8~x2/)|
-|![Lennox Dress example sett](/setts/s7/r8dp2r24db5w26dy2w8~x2/sett.png)|
-| [MacGiboney (Personal)](/setts/s7/r8dp2r24dp5w25dy2w8~x2/)|
-|![MacGiboney (Personal) example sett](/setts/s7/r8dp2r24dp5w25dy2w8~x2/sett.png)|
+| [Lennox Dress](/variants/s7/r8dp2r24db5w26dy2w8~x2/)|
+|![Lennox Dress example sett](/variants/s7/r8dp2r24db5w26dy2w8~x2/sett.png)|
+| [MacGiboney (Personal)](/variants/s7/r8dp2r24dp5w25dy2w8~x2/)|
+|![MacGiboney (Personal) example sett](/variants/s7/r8dp2r24dp5w25dy2w8~x2/sett.png)|

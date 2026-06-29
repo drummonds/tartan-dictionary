@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hanna of Stirlingshire](/setts/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1r1~x4/)|
-|![Hanna of Stirlingshire example sett](/setts/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1r1~x4/sett.png)|
+| [Hanna of Stirlingshire](/variants/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1r1~x4/)|
+|![Hanna of Stirlingshire example sett](/variants/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1r1~x4/sett.png)|

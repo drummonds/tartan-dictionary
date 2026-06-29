@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [London Caledonian Rugby Club](/setts/s6/r5db40lb1db13dg8k4~x2/)|
-|![London Caledonian Rugby Club example sett](/setts/s6/r5db40lb1db13dg8k4~x2/sett.png)|
-| [London Scottish Rugby Club](/setts/s6/r5dt40w1dt13g8k4~x2/)|
-|![London Scottish Rugby Club example sett](/setts/s6/r5dt40w1dt13g8k4~x2/sett.png)|
+| [London Caledonian Rugby Club](/variants/s6/r5db40lb1db13dg8k4~x2/)|
+|![London Caledonian Rugby Club example sett](/variants/s6/r5db40lb1db13dg8k4~x2/sett.png)|
+| [London Scottish Rugby Club](/variants/s6/r5dt40w1dt13g8k4~x2/)|
+|![London Scottish Rugby Club example sett](/variants/s6/r5dt40w1dt13g8k4~x2/sett.png)|

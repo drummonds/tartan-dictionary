@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mehrtens variant (Personal)](/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6ly4r2~x2/)|
-|![Mehrtens variant (Personal) example sett](/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6ly4r2~x2/sett.png)|
+| [Mehrtens variant (Personal)](/variants/s14/w4dt4r18o4r1o36k1o4k6r2k6r6ly4r2~x2/)|
+|![Mehrtens variant (Personal) example sett](/variants/s14/w4dt4r18o4r1o36k1o4k6r2k6r6ly4r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Christopher Newport University](/setts/s9/db5k1lb2k1w6k1lb2db25lb2~x2/)|
-|![Christopher Newport University example sett](/setts/s9/db5k1lb2k1w6k1lb2db25lb2~x2/sett.png)|
+| [Christopher Newport University](/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/)|
+|![Christopher Newport University example sett](/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/sett.png)|

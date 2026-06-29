@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bryan Wedding (Personal)](/setts/s6/dy30ly5b10k10w2k2~x2/)|
-|![Bryan Wedding (Personal) example sett](/setts/s6/dy30ly5b10k10w2k2~x2/sett.png)|
-| [Bryan Wedding (Personal)](/setts/s6/dy30ly5t10k10w2k2~x2/)|
-|![Bryan Wedding (Personal) example sett](/setts/s6/dy30ly5t10k10w2k2~x2/sett.png)|
+| [Bryan Wedding (Personal)](/variants/s6/dy30ly5b10k10w2k2~x2/)|
+|![Bryan Wedding (Personal) example sett](/variants/s6/dy30ly5b10k10w2k2~x2/sett.png)|
+| [Bryan Wedding (Personal)](/variants/s6/dy30ly5t10k10w2k2~x2/)|
+|![Bryan Wedding (Personal) example sett](/variants/s6/dy30ly5t10k10w2k2~x2/sett.png)|

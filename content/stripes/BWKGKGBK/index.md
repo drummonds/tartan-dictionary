@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow, University of](/setts/s8/k2db22g4k7y2k2w2db2~x2/)|
-|![Glasgow, University of example sett](/setts/s8/k2db22g4k7y2k2w2db2~x2/sett.png)|
+| [Glasgow, University of](/variants/s8/k2db22g4k7y2k2w2db2~x2/)|
+|![Glasgow, University of example sett](/variants/s8/k2db22g4k7y2k2w2db2~x2/sett.png)|

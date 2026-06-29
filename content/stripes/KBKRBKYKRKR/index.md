@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glennie, The Rhythms of Evelyn](/setts/s11/r25k4r2k3ly2k2db3r2k3db2k2~x2/)|
-|![Glennie, The Rhythms of Evelyn example sett](/setts/s11/r25k4r2k3ly2k2db3r2k3db2k2~x2/sett.png)|
+| [Glennie, The Rhythms of Evelyn](/variants/s11/r25k4r2k3ly2k2db3r2k3db2k2~x2/)|
+|![Glennie, The Rhythms of Evelyn example sett](/variants/s11/r25k4r2k3ly2k2db3r2k3db2k2~x2/sett.png)|

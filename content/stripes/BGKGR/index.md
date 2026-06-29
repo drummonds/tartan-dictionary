@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Espy (Fashion?)](/setts/s5/r10g3k1g3b1~x16/)|
-|![Espy (Fashion?) example sett](/setts/s5/r10g3k1g3b1~x16/sett.png)|
-| [Waugh](/setts/s5/db100y10k5y10r8/)|
-|![Waugh example sett](/setts/s5/db100y10k5y10r8/sett.png)|
+| [Espy (Fashion?)](/variants/s5/r10g3k1g3b1~x16/)|
+|![Espy (Fashion?) example sett](/variants/s5/r10g3k1g3b1~x16/sett.png)|
+| [Waugh](/variants/s5/db100y10k5y10r8/)|
+|![Waugh example sett](/variants/s5/db100y10k5y10r8/sett.png)|

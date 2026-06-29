@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Agincourt](/setts/s14/lo4k1lo3dt1lo1dt2k6lo4dt2k6lo7k6dt29lo2~x4/)|
-|![Agincourt example sett](/setts/s14/lo4k1lo3dt1lo1dt2k6lo4dt2k6lo7k6dt29lo2~x4/sett.png)|
+| [Agincourt](/variants/s14/lo4k1lo3dt1lo1dt2k6lo4dt2k6lo7k6dt29lo2~x4/)|
+|![Agincourt example sett](/variants/s14/lo4k1lo3dt1lo1dt2k6lo4dt2k6lo7k6dt29lo2~x4/sett.png)|

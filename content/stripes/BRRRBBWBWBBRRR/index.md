@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Highlander Dress](/setts/s14/p26w2p3db15o26r2o3db4~x2/)|
-|![Scottish Highlander Dress example sett](/setts/s14/p26w2p3db15o26r2o3db4~x2/sett.png)|
+| [Scottish Highlander Dress](/variants/s14/p26w2p3db15o26r2o3db4~x2/)|
+|![Scottish Highlander Dress example sett](/variants/s14/p26w2p3db15o26r2o3db4~x2/sett.png)|

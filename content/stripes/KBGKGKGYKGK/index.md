@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chakraa (Fashion)](/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/)|
-|![Chakraa (Fashion) example sett](/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/sett.png)|
+| [Chakraa (Fashion)](/variants/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/)|
+|![Chakraa (Fashion) example sett](/variants/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/sett.png)|

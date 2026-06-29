@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [De Nardi Hunting (Personal)](/setts/s8/db30r3db3ly3db3g30db36w5~x2/)|
-|![De Nardi Hunting (Personal) example sett](/setts/s8/db30r3db3ly3db3g30db36w5~x2/sett.png)|
+| [De Nardi Hunting (Personal)](/variants/s8/db30r3db3ly3db3g30db36w5~x2/)|
+|![De Nardi Hunting (Personal) example sett](/variants/s8/db30r3db3ly3db3g30db36w5~x2/sett.png)|

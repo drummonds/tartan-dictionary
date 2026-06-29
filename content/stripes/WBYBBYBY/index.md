@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Halesowen #2](/setts/s8/w9db3ly3db24dt24ly2dt2ly2~x2/)|
-|![Halesowen #2 example sett](/setts/s8/w9db3ly3db24dt24ly2dt2ly2~x2/sett.png)|
-| [Halesowen (District)](/setts/s8/w9b3ly3b24db24ly2db2ly2~x2/)|
-|![Halesowen (District) example sett](/setts/s8/w9b3ly3b24db24ly2db2ly2~x2/sett.png)|
+| [Halesowen #2](/variants/s8/w9db3ly3db24dt24ly2dt2ly2~x2/)|
+|![Halesowen #2 example sett](/variants/s8/w9db3ly3db24dt24ly2dt2ly2~x2/sett.png)|
+| [Halesowen (District)](/variants/s8/w9b3ly3b24db24ly2db2ly2~x2/)|
+|![Halesowen (District) example sett](/variants/s8/w9b3ly3b24db24ly2db2ly2~x2/sett.png)|

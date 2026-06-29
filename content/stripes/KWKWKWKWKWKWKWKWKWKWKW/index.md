@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scott (Black and White)](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/)|
-|![Scott (Black and White) example sett](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/sett.png)|
+| [Scott (Black and White)](/variants/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/)|
+|![Scott (Black and White) example sett](/variants/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/sett.png)|

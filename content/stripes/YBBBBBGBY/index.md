@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Peter](/setts/s9/ly3db20db4dt4db4dt20g4dp4ly2~x2/)|
-|![Blue Peter example sett](/setts/s9/ly3db20db4dt4db4dt20g4dp4ly2~x2/sett.png)|
+| [Blue Peter](/variants/s9/ly3db20db4dt4db4dt20g4dp4ly2~x2/)|
+|![Blue Peter example sett](/variants/s9/ly3db20db4dt4db4dt20g4dp4ly2~x2/sett.png)|

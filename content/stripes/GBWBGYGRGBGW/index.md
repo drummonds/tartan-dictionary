@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Tattoo](/setts/s12/dg40t4lb39t4y4ly4y4r4y34dp4y4w4/)|
-|![Glasgow Tattoo example sett](/setts/s12/dg40t4lb39t4y4ly4y4r4y34dp4y4w4/sett.png)|
+| [Glasgow Tattoo](/variants/s12/dg40t4lb39t4y4ly4y4r4y34dp4y4w4/)|
+|![Glasgow Tattoo example sett](/variants/s12/dg40t4lb39t4y4ly4y4r4y34dp4y4w4/sett.png)|

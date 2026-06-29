@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Casey (Personal)](/setts/s7/r5t2p16k13ly13k2w3~x2/)|
-|![Casey (Personal) example sett](/setts/s7/r5t2p16k13ly13k2w3~x2/sett.png)|
+| [Casey (Personal)](/variants/s7/r5t2p16k13ly13k2w3~x2/)|
+|![Casey (Personal) example sett](/variants/s7/r5t2p16k13ly13k2w3~x2/sett.png)|

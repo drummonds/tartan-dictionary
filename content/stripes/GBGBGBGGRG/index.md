@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roddy's Highland Spirit (Fashion)](/setts/s10/y30n3y3n3y3n10g10yi20m2g5~x2/)|
-|![Roddy's Highland Spirit (Fashion) example sett](/setts/s10/y30n3y3n3y3n10g10yi20m2g5~x2/sett.png)|
+| [Roddy's Highland Spirit (Fashion)](/variants/s10/y30n3y3n3y3n10g10yi20m2g5~x2/)|
+|![Roddy's Highland Spirit (Fashion) example sett](/variants/s10/y30n3y3n3y3n10g10yi20m2g5~x2/sett.png)|

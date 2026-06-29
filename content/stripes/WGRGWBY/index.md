@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Atikokan (District)](/setts/s7/lo6t16lb3y3o3g3w2~x4/)|
-|![Atikokan (District) example sett](/setts/s7/lo6t16lb3y3o3g3w2~x4/sett.png)|
+| [Atikokan (District)](/variants/s7/lo6t16lb3y3o3g3w2~x4/)|
+|![Atikokan (District) example sett](/variants/s7/lo6t16lb3y3o3g3w2~x4/sett.png)|

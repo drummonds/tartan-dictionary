@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Logan Rogers Hunting](/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/)|
-|![Logan Rogers Hunting example sett](/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/sett.png)|
+| [Logan Rogers Hunting](/variants/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/)|
+|![Logan Rogers Hunting example sett](/variants/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/sett.png)|

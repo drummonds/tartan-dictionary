@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wormeck (2013) Germany](/setts/s5/db4lo4r33k30w2~x2/)|
-|![Wormeck (2013) Germany example sett](/setts/s5/db4lo4r33k30w2~x2/sett.png)|
+| [Wormeck (2013) Germany](/variants/s5/db4lo4r33k30w2~x2/)|
+|![Wormeck (2013) Germany example sett](/variants/s5/db4lo4r33k30w2~x2/sett.png)|

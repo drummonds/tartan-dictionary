@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Regan](/setts/s10/dp1k1w1dp10ly1db2k1db2w1ly1~x8/)|
-|![Regan example sett](/setts/s10/dp1k1w1dp10ly1db2k1db2w1ly1~x8/sett.png)|
+| [Regan](/variants/s10/dp1k1w1dp10ly1db2k1db2w1ly1~x8/)|
+|![Regan example sett](/variants/s10/dp1k1w1dp10ly1db2k1db2w1ly1~x8/sett.png)|

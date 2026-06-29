@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Italian National](/setts/s6/r3w2g5k35db40ly3~x2/)|
-|![Italian National example sett](/setts/s6/r3w2g5k35db40ly3~x2/sett.png)|
+| [Italian National](/variants/s6/r3w2g5k35db40ly3~x2/)|
+|![Italian National example sett](/variants/s6/r3w2g5k35db40ly3~x2/sett.png)|

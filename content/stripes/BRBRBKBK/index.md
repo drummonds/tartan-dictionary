@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmoral Hotel](/setts/s8/dt17o2dt2o2dt2k17db13k4~x2/)|
-|![Balmoral Hotel example sett](/setts/s8/dt17o2dt2o2dt2k17db13k4~x2/sett.png)|
+| [Balmoral Hotel](/variants/s8/dt17o2dt2o2dt2k17db13k4~x2/)|
+|![Balmoral Hotel example sett](/variants/s8/dt17o2dt2o2dt2k17db13k4~x2/sett.png)|

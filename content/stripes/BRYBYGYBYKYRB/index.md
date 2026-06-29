@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Neumann - GPS German Pipe Smokers](/setts/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/)|
-|![Neumann - GPS German Pipe Smokers example sett](/setts/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/sett.png)|
+| [Neumann - GPS German Pipe Smokers](/variants/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/)|
+|![Neumann - GPS German Pipe Smokers example sett](/variants/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/sett.png)|

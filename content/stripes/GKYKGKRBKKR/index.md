@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marsa Scout Group](/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/)|
-|![Marsa Scout Group example sett](/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/sett.png)|
+| [Marsa Scout Group](/variants/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/)|
+|![Marsa Scout Group example sett](/variants/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/sett.png)|

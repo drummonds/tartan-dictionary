@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skene, of Cromar](/tartans/k4r37db37r2db37g37r37k4/)|
-|![Skene, of Cromar example sett](/setts/s8/k4r37db37r2db37g37r37k4/sett.png)|
+| [Skene, of Cromar](/setts/k4r37db37r2db37g37r37k4/)|
+|![Skene, of Cromar example sett](/variants/s8/k4r37db37r2db37g37r37k4/sett.png)|

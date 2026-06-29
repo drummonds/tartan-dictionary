@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Danzas](/setts/s7/ly4b3ly1b17db40b2db3~x2/)|
-|![Danzas example sett](/setts/s7/ly4b3ly1b17db40b2db3~x2/sett.png)|
-| [Danzas](/setts/s7/ly4dt3ly1dt17db40dt2db3~x2/)|
-|![Danzas example sett](/setts/s7/ly4dt3ly1dt17db40dt2db3~x2/sett.png)|
+| [Danzas](/variants/s7/ly4b3ly1b17db40b2db3~x2/)|
+|![Danzas example sett](/variants/s7/ly4b3ly1b17db40b2db3~x2/sett.png)|
+| [Danzas](/variants/s7/ly4dt3ly1dt17db40dt2db3~x2/)|
+|![Danzas example sett](/variants/s7/ly4dt3ly1dt17db40dt2db3~x2/sett.png)|

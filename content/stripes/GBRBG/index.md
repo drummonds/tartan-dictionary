@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tyrconnell (Personal)](/setts/s5/g44db9r2db9g2~x2/)|
-|![Tyrconnell (Personal) example sett](/setts/s5/g44db9r2db9g2~x2/sett.png)|
+| [Tyrconnell (Personal)](/variants/s5/g44db9r2db9g2~x2/)|
+|![Tyrconnell (Personal) example sett](/variants/s5/g44db9r2db9g2~x2/sett.png)|

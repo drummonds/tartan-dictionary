@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ogilvie (D.C. Stewart) #2](/setts/s26/lb6ly2k2r9w2r6w2r9k2ly2lb6r2lb6r2lb6ly2k2r9w2r6w2r9k2ly2lb6w2~x2/)|
-|![Ogilvie (D.C. Stewart) #2 example sett](/setts/s26/lb6ly2k2r9w2r6w2r9k2ly2lb6r2lb6r2lb6ly2k2r9w2r6w2r9k2ly2lb6w2~x2/sett.png)|
+| [Ogilvie (D.C. Stewart) #2](/variants/s26/lb6ly2k2r9w2r6w2r9k2ly2lb6r2lb6r2lb6ly2k2r9w2r6w2r9k2ly2lb6w2~x2/)|
+|![Ogilvie (D.C. Stewart) #2 example sett](/variants/s26/lb6ly2k2r9w2r6w2r9k2ly2lb6r2lb6r2lb6ly2k2r9w2r6w2r9k2ly2lb6w2~x2/sett.png)|

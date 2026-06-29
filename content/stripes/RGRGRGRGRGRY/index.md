@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wolfe](/setts/s12/o36g4o13g13o4g4o4g13o13g4o36lo4~x2/)|
-|![Wolfe example sett](/setts/s12/o36g4o13g13o4g4o4g13o13g4o36lo4~x2/sett.png)|
+| [Wolfe](/variants/s12/o36g4o13g13o4g4o4g13o13g4o36lo4~x2/)|
+|![Wolfe example sett](/variants/s12/o36g4o13g13o4g4o4g13o13g4o36lo4~x2/sett.png)|

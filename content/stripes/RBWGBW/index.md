@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roseberry](/setts/s6/w8t30g5w3db8r5/)|
-|![Roseberry example sett](/setts/s6/w8t30g5w3db8r5/sett.png)|
+| [Roseberry](/variants/s6/w8t30g5w3db8r5/)|
+|![Roseberry example sett](/variants/s6/w8t30g5w3db8r5/sett.png)|

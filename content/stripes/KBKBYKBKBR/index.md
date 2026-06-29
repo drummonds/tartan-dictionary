@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacArthur Fox Green (Personal)](/setts/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/)|
-|![MacArthur Fox Green (Personal) example sett](/setts/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/sett.png)|
+| [MacArthur Fox Green (Personal)](/variants/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/)|
+|![MacArthur Fox Green (Personal) example sett](/variants/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/sett.png)|

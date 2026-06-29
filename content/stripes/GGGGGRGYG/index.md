@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzgibbon (Name)](/setts/s9/dg2lo6g24r2y2dg1y6dg10g2~x2/)|
-|![Fitzgibbon (Name) example sett](/setts/s9/dg2lo6g24r2y2dg1y6dg10g2~x2/sett.png)|
+| [Fitzgibbon (Name)](/variants/s9/dg2lo6g24r2y2dg1y6dg10g2~x2/)|
+|![Fitzgibbon (Name) example sett](/variants/s9/dg2lo6g24r2y2dg1y6dg10g2~x2/sett.png)|

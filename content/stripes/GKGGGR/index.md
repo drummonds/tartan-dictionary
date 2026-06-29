@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAndrew Hunting (Name)](/setts/s6/y72k8y4dy16y7o2~x2/)|
-|![MacAndrew Hunting (Name) example sett](/setts/s6/y72k8y4dy16y7o2~x2/sett.png)|
+| [MacAndrew Hunting (Name)](/variants/s6/y72k8y4dy16y7o2~x2/)|
+|![MacAndrew Hunting (Name) example sett](/variants/s6/y72k8y4dy16y7o2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Hockey Union (Sports)](/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/)|
-|![Scottish Hockey Union (Sports) example sett](/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/sett.png)|
+| [Scottish Hockey Union (Sports)](/variants/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/)|
+|![Scottish Hockey Union (Sports) example sett](/variants/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/sett.png)|

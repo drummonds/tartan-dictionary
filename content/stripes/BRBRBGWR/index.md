@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Idaho, Centennial](/setts/s8/db12r2db2r2db2g10w12o3~x2/)|
-|![Idaho, Centennial example sett](/setts/s8/db12r2db2r2db2g10w12o3~x2/sett.png)|
+| [Idaho, Centennial](/variants/s8/db12r2db2r2db2g10w12o3~x2/)|
+|![Idaho, Centennial example sett](/variants/s8/db12r2db2r2db2g10w12o3~x2/sett.png)|

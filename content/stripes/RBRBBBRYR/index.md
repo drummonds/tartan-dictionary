@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bedford Academy (Corporate)](/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/)|
-|![Bedford Academy (Corporate) example sett](/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/sett.png)|
+| [Bedford Academy (Corporate)](/variants/s9/o8ly4o35db2t8db2o4db21o4~x2/)|
+|![Bedford Academy (Corporate) example sett](/variants/s9/o8ly4o35db2t8db2o4db21o4~x2/sett.png)|

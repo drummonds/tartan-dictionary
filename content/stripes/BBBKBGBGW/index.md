@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Halcrow Howell](/setts/s9/bi4b3bi6k2db12g2db2g24lb2~x2/)|
-|![Halcrow Howell example sett](/setts/s9/bi4b3bi6k2db12g2db2g24lb2~x2/sett.png)|
-| [Halcrow Howell (Name)](/setts/s9/db4t3db6k2dbi12g2dbi2g24lb2~x2/)|
-|![Halcrow Howell (Name) example sett](/setts/s9/db4t3db6k2dbi12g2dbi2g24lb2~x2/sett.png)|
+| [Halcrow Howell](/variants/s9/bi4b3bi6k2db12g2db2g24lb2~x2/)|
+|![Halcrow Howell example sett](/variants/s9/bi4b3bi6k2db12g2db2g24lb2~x2/sett.png)|
+| [Halcrow Howell (Name)](/variants/s9/db4t3db6k2dbi12g2dbi2g24lb2~x2/)|
+|![Halcrow Howell (Name) example sett](/variants/s9/db4t3db6k2dbi12g2dbi2g24lb2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hackett William (Coatbridge) Hunting (Personal)](/setts/s8/k20ly4r4ly20g20w5g2lg2~x2/)|
-|![Hackett William (Coatbridge) Hunting (Personal) example sett](/setts/s8/k20ly4r4ly20g20w5g2lg2~x2/sett.png)|
+| [Hackett William (Coatbridge) Hunting (Personal)](/variants/s8/k20ly4r4ly20g20w5g2lg2~x2/)|
+|![Hackett William (Coatbridge) Hunting (Personal) example sett](/variants/s8/k20ly4r4ly20g20w5g2lg2~x2/sett.png)|

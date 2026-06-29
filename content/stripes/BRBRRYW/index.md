@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Un-named Dutch](/setts/s7/n2r10n10o3r2lr24w2~x2/)|
-|![Un-named Dutch example sett](/setts/s7/n2r10n10o3r2lr24w2~x2/sett.png)|
+| [Un-named Dutch](/variants/s7/n2r10n10o3r2lr24w2~x2/)|
+|![Un-named Dutch example sett](/variants/s7/n2r10n10o3r2lr24w2~x2/sett.png)|

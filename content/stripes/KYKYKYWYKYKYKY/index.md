@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Johnston Orange/Black](/setts/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4/)|
-|![Johnston Orange/Black example sett](/setts/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4/sett.png)|
+| [Johnston Orange/Black](/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4/)|
+|![Johnston Orange/Black example sett](/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Scotland](/setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/)|
-|![Spirit of Scotland example sett](/setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/sett.png)|
+| [Spirit of Scotland](/variants/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/)|
+|![Spirit of Scotland example sett](/variants/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/sett.png)|

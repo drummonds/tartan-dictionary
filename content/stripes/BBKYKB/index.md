@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Martinez, Clément (Personal)](/setts/s6/dt22k16ly4k11dp2n1~x4/)|
-|![Martinez, Clément (Personal) example sett](/setts/s6/dt22k16ly4k11dp2n1~x4/sett.png)|
+| [Martinez, Clément (Personal)](/variants/s6/dt22k16ly4k11dp2n1~x4/)|
+|![Martinez, Clément (Personal) example sett](/variants/s6/dt22k16ly4k11dp2n1~x4/sett.png)|

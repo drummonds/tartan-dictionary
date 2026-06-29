@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glencross (Kirkbampton) (Personal)](/setts/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/)|
-|![Glencross (Kirkbampton) (Personal) example sett](/setts/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/sett.png)|
+| [Glencross (Kirkbampton) (Personal)](/variants/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/)|
+|![Glencross (Kirkbampton) (Personal) example sett](/variants/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/sett.png)|

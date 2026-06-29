@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Justerini & Brooks](/setts/s9/r48ly14r9gi14k6r11g6r10gi3~x2/)|
-|![Justerini & Brooks example sett](/setts/s9/r48ly14r9gi14k6r11g6r10gi3~x2/sett.png)|
+| [Justerini & Brooks](/variants/s9/r48ly14r9gi14k6r11g6r10gi3~x2/)|
+|![Justerini & Brooks example sett](/variants/s9/r48ly14r9gi14k6r11g6r10gi3~x2/sett.png)|

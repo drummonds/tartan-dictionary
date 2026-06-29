@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jack, John (Fife) (Personal)](/setts/s6/y4dr52k20do9y2lo1~x2/)|
-|![Jack, John (Fife) (Personal) example sett](/setts/s6/y4dr52k20do9y2lo1~x2/sett.png)|
+| [Jack, John (Fife) (Personal)](/variants/s6/y4dr52k20do9y2lo1~x2/)|
+|![Jack, John (Fife) (Personal) example sett](/variants/s6/y4dr52k20do9y2lo1~x2/sett.png)|

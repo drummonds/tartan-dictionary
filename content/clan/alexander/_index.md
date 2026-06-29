@@ -1,9 +1,5 @@
 ---
 title: "Clan Alexander"
-date: 2023-03-18
+redirect: "/families/alexander-of-menstry/"
 ---
-## Families
-
-- [Alexander of Menstry](/families/alexander-of-menstry/)
-- [Alexander of Menstry Htg](/families/alexander-of-menstry-htg/)
-
+Clan Alexander is recorded as the single family [Alexander of Menstry](/families/alexander-of-menstry/) — redirecting there.

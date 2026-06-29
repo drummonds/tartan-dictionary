@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Monar (Fashion)](/setts/s11/db42db10db2db2r2db2db10r6db2r3db2~x2/)|
-|![Loch Monar (Fashion) example sett](/setts/s11/db42db10db2db2r2db2db10r6db2r3db2~x2/sett.png)|
+| [Loch Monar (Fashion)](/variants/s11/db42db10db2db2r2db2db10r6db2r3db2~x2/)|
+|![Loch Monar (Fashion) example sett](/variants/s11/db42db10db2db2r2db2db10r6db2r3db2~x2/sett.png)|

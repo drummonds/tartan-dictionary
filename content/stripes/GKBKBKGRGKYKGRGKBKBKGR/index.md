@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2/)|
-|![Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2/sett.png)|
+| [Paterson Clan/Family Weavers Tartan](/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2/)|
+|![Paterson Clan/Family Weavers Tartan example sett](/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [West Highland Way (Corporate)](/setts/s12/db7lr1db1r2db9r1k9g13dp2g18r1g6~x2/)|
-|![West Highland Way (Corporate) example sett](/setts/s12/db7lr1db1r2db9r1k9g13dp2g18r1g6~x2/sett.png)|
+| [West Highland Way (Corporate)](/variants/s12/db7lr1db1r2db9r1k9g13dp2g18r1g6~x2/)|
+|![West Highland Way (Corporate) example sett](/variants/s12/db7lr1db1r2db9r1k9g13dp2g18r1g6~x2/sett.png)|

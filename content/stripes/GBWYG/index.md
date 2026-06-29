@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fife Ethylene Plant](/setts/s5/dg35t40w11lo3dg7~x2/)|
-|![Fife Ethylene Plant example sett](/setts/s5/dg35t40w11lo3dg7~x2/sett.png)|
+| [Fife Ethylene Plant](/variants/s5/dg35t40w11lo3dg7~x2/)|
+|![Fife Ethylene Plant example sett](/variants/s5/dg35t40w11lo3dg7~x2/sett.png)|

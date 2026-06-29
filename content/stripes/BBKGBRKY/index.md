@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Law Enforcement Officers' Memorial](/setts/s8/db6dbi4k37g6dbi80o4k4lo4/)|
-|![Law Enforcement Officers' Memorial example sett](/setts/s8/db6dbi4k37g6dbi80o4k4lo4/sett.png)|
+| [Law Enforcement Officers' Memorial](/variants/s8/db6dbi4k37g6dbi80o4k4lo4/)|
+|![Law Enforcement Officers' Memorial example sett](/variants/s8/db6dbi4k37g6dbi80o4k4lo4/sett.png)|

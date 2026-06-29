@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davies (Welsh Name)](/setts/s13/g2k3dbi30k2dbi4k2dbi30k3gi30k3db30k2t2/)|
-|![Davies (Welsh Name) example sett](/setts/s13/g2k3dbi30k2dbi4k2dbi30k3gi30k3db30k2t2/sett.png)|
+| [Davies (Welsh Name)](/variants/s13/g2k3dbi30k2dbi4k2dbi30k3gi30k3db30k2t2/)|
+|![Davies (Welsh Name) example sett](/variants/s13/g2k3dbi30k2dbi4k2dbi30k3gi30k3db30k2t2/sett.png)|

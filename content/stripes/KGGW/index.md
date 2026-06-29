@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wesley Owen 2010 (Personal)](/setts/s4/k61gi10g20w4~x2/)|
-|![Wesley Owen 2010 (Personal) example sett](/setts/s4/k61gi10g20w4~x2/sett.png)|
+| [Wesley Owen 2010 (Personal)](/variants/s4/k61gi10g20w4~x2/)|
+|![Wesley Owen 2010 (Personal) example sett](/variants/s4/k61gi10g20w4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wellecomme, Bernard (Personal)](/setts/s10/db4dg8k8db4ly3dg21k3lb4k3lb4~x2/)|
-|![Wellecomme, Bernard (Personal) example sett](/setts/s10/db4dg8k8db4ly3dg21k3lb4k3lb4~x2/sett.png)|
+| [Wellecomme, Bernard (Personal)](/variants/s10/db4dg8k8db4ly3dg21k3lb4k3lb4~x2/)|
+|![Wellecomme, Bernard (Personal) example sett](/variants/s10/db4dg8k8db4ly3dg21k3lb4k3lb4~x2/sett.png)|

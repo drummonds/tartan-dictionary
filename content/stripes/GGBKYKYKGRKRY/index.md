@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Princess Mary #2](/setts/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/)|
-|![Princess Mary #2 example sett](/setts/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/sett.png)|
+| [Princess Mary #2](/variants/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/)|
+|![Princess Mary #2 example sett](/variants/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/sett.png)|

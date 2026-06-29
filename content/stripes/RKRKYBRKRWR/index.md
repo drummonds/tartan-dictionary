@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian (WCWM)](/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/)|
-|![Caledonian (WCWM) example sett](/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/sett.png)|
+| [Caledonian (WCWM)](/variants/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/)|
+|![Caledonian (WCWM) example sett](/variants/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Festival](/setts/s8/b46dp3lr3dp3lr4dp12w3k3~x2/)|
-|![Edinburgh Festival example sett](/setts/s8/b46dp3lr3dp3lr4dp12w3k3~x2/sett.png)|
+| [Edinburgh Festival](/variants/s8/b46dp3lr3dp3lr4dp12w3k3~x2/)|
+|![Edinburgh Festival example sett](/variants/s8/b46dp3lr3dp3lr4dp12w3k3~x2/sett.png)|

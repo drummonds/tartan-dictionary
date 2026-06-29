@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kincardine Tweed](/setts/s4/o30r1o15db4~x2/)|
-|![Kincardine Tweed example sett](/setts/s4/o30r1o15db4~x2/sett.png)|
+| [Kincardine Tweed](/variants/s4/o30r1o15db4~x2/)|
+|![Kincardine Tweed example sett](/variants/s4/o30r1o15db4~x2/sett.png)|

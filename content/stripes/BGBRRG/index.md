@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Round Table of Britain and Ireland, RtbI.](/setts/s6/db47g14dr5o2r3g7~x2/)|
-|![Round Table of Britain and Ireland, RtbI. example sett](/setts/s6/db47g14dr5o2r3g7~x2/sett.png)|
+| [Round Table of Britain and Ireland, RtbI.](/variants/s6/db47g14dr5o2r3g7~x2/)|
+|![Round Table of Britain and Ireland, RtbI. example sett](/variants/s6/db47g14dr5o2r3g7~x2/sett.png)|

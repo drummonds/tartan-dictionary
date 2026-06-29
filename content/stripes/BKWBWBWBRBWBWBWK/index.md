@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orlando Dress, City of](/setts/s16/b12k1w16b1w1b14w3b14r2~x4/)|
-|![Orlando Dress, City of example sett](/setts/s16/b12k1w16b1w1b14w3b14r2~x4/sett.png)|
+| [Orlando Dress, City of](/variants/s16/b12k1w16b1w1b14w3b14r2~x4/)|
+|![Orlando Dress, City of example sett](/variants/s16/b12k1w16b1w1b14w3b14r2~x4/sett.png)|

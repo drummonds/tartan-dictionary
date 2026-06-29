@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Washington County Sheriff's Office](/setts/s8/lb6k6lb6b3w1k39lo3k3~x2/)|
-|![Washington County Sheriff's Office example sett](/setts/s8/lb6k6lb6b3w1k39lo3k3~x2/sett.png)|
+| [Washington County Sheriff's Office](/variants/s8/lb6k6lb6b3w1k39lo3k3~x2/)|
+|![Washington County Sheriff's Office example sett](/variants/s8/lb6k6lb6b3w1k39lo3k3~x2/sett.png)|

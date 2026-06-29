@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Little's (Corporate)](/setts/s6/db1o8w1db4r8w1~x6/)|
-|![Little's (Corporate) example sett](/setts/s6/db1o8w1db4r8w1~x6/sett.png)|
+| [Little's (Corporate)](/variants/s6/db1o8w1db4r8w1~x6/)|
+|![Little's (Corporate) example sett](/variants/s6/db1o8w1db4r8w1~x6/sett.png)|

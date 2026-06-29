@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [National Galleries of Scotland](/setts/s7/k7g22k22db6r2db15r2~x2/)|
-|![National Galleries of Scotland example sett](/setts/s7/k7g22k22db6r2db15r2~x2/sett.png)|
+| [National Galleries of Scotland](/variants/s7/k7g22k22db6r2db15r2~x2/)|
+|![National Galleries of Scotland example sett](/variants/s7/k7g22k22db6r2db15r2~x2/sett.png)|

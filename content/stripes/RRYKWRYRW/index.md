@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Etive, Burgundy (Dance)](/setts/s9/ri15r1lg3k1w11ri3lg3r3w1~x4/)|
-|![Etive, Burgundy (Dance) example sett](/setts/s9/ri15r1lg3k1w11ri3lg3r3w1~x4/sett.png)|
+| [Etive, Burgundy (Dance)](/variants/s9/ri15r1lg3k1w11ri3lg3r3w1~x4/)|
+|![Etive, Burgundy (Dance) example sett](/variants/s9/ri15r1lg3k1w11ri3lg3r3w1~x4/sett.png)|

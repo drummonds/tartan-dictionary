@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maciver of Strathendry Castle Dress (Personal)](/setts/s9/w1k3r3k24r3k3r24k3ly1~x2/)|
-|![Maciver of Strathendry Castle Dress (Personal) example sett](/setts/s9/w1k3r3k24r3k3r24k3ly1~x2/sett.png)|
+| [Maciver of Strathendry Castle Dress (Personal)](/variants/s9/w1k3r3k24r3k3r24k3ly1~x2/)|
+|![Maciver of Strathendry Castle Dress (Personal) example sett](/variants/s9/w1k3r3k24r3k3r24k3ly1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Joss](/setts/s24/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/)|
-|![Joss example sett](/setts/s24/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/sett.png)|
+| [Joss](/variants/s24/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/)|
+|![Joss example sett](/variants/s24/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/sett.png)|

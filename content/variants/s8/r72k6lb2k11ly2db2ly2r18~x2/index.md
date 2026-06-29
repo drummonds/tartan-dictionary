@@ -1,0 +1,72 @@
+---
+title: "Princess Elizabeth (Royal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r72k6lb2k11ly2db2ly2r18/)
+(the same proportion at any scale), whose colour order is pattern [RKWKYBYR](/stripes/rkwkybyr/).
+
+Part of the [Princess Elizabeth](/tartans/princess-elizabeth/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1613/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Princess Elizabeth #2
+- Princess Elizabeth Royal
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Princess Elizabeth (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1613/">record</a>)</li>
+<li>undated — Princess Elizabeth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3402">record</a>)</li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3402](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3402)
+- Scottish Tartans Authority (ITI): 1613
+- Scottish Tartans World Register: 1613
+
+## Thread count
+R/144 K12 N4 K22 Y4 DB4 Y4 R/36
+
+One full sett is **280 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">144</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> <small style="color:#888">#C0C0C0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(80.8% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">22</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> <small style="color:#888">#E8C000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(81.9% 0.168 93.7)</small></td></tr><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png" alt="R/144 K12 N4 K22 Y4 DB4 Y4 R/36 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r60db8w3db10ly3t4ly3r19/"><img src="/variants/s8/r60db8w3db10ly3t4ly3r19~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r60db8w3db10ly3t4ly3r19/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r72k6lb2k11ly2db2ly2r18~x2">Princess Elizabeth (Royal)</a> <a class="nn-out" href="/variants/s8/r72k6lb2k11ly2db2ly2r18~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r72k6lb2k11ly2db2ly2r18~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.66</div><div class="nn-name"><a href="/ttd/edit/#slug=r36db3w1db6g1k1g1r9~x4&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Inverness - 1829 (District)</a> <a class="nn-out" href="/variants/s8/r36db3w1db6g1k1g1r9~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r36db3w1db6g1k1g1r9~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.76</div><div class="nn-name"><a href="/ttd/edit/#slug=r114db10w3db16ly3k3ly3r28~x2&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Inverness #2</a> <a class="nn-out" href="/variants/s8/r114db10w3db16ly3k3ly3r28~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r114db10w3db16ly3k3ly3r28~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.82</div><div class="nn-name"><a href="/ttd/edit/#slug=r36db3w1db6g1k1g1r9~x2&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Inverness</a> <a class="nn-out" href="/variants/s8/r36db3w1db6g1k1g1r9~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r36db3w1db6g1k1g1r9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.92</div><div class="nn-name"><a href="/ttd/edit/#slug=r42k4w1k6ly1db1ly1r12~x2&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Princess Elizabeth</a> <a class="nn-out" href="/variants/s8/r42k4w1k6ly1db1ly1r12~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r42k4w1k6ly1db1ly1r12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.93</div><div class="nn-name"><a href="/ttd/edit/#slug=r51lr2k11lo3r11lo3r11g3~x2&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Hackston (Green stripe) (Portrait)</a> <a class="nn-out" href="/variants/s8/r51lr2k11lo3r11lo3r11g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r51lr2k11lo3r11lo3r11g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.98</div><div class="nn-name"><a href="/ttd/edit/#slug=r48w3k3g2ly6g2r6~x4&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Ferguson the Astronomer</a> <a class="nn-out" href="/variants/s7/r48w3k3g2ly6g2r6~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r48w3k3g2ly6g2r6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.99</div><div class="nn-name"><a href="/ttd/edit/#slug=r72db6ly2db11t2db2t2r9k2~x2&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Junor (Personal)</a> <a class="nn-out" href="/variants/s9/r72db6ly2db11t2db2t2r9k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r72db6ly2db11t2db2t2r9k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.05</div><div class="nn-name"><a href="/ttd/edit/#slug=r56w2k12ly3r12ly3r12g3~x2&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Hackston, or Halkerston</a> <a class="nn-out" href="/variants/s8/r56w2k12ly3r12ly3r12g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r56w2k12ly3r12ly3r12g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=r100dbi10w5dbi14ly4db8ly4r24&amp;base=r72k6lb2k11ly2db2ly2r18~x2">Earl of Inverness (Royal)</a> <a class="nn-out" href="/variants/s8/r100dbi10w5dbi14ly4db8ly4r24/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r100dbi10w5dbi14ly4db8ly4r24/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.10</div><div class="nn-name"><a href="/ttd/edit/#slug=r45k3ly4k3r45k1dp2k1r2g8r2~x2&amp;base=r72k6lb2k11ly2db2ly2r18~x2">O'Malley (Name?)</a> <a class="nn-out" href="/variants/s11/r45k3ly4k3r45k1dp2k1r2g8r2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r45k3ly4k3r45k1dp2k1r2g8r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="555.2" cy="91.7" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/variants/s8/r114db10w3db16ly3k3ly3r28~x2/"><circle cx="569.3" cy="83.2" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="561.3" cy="96.4" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r42k4w1k6ly1db1ly1r12~x2/"><circle cx="542.8" cy="72.1" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s8/r51lr2k11lo3r11lo3r11g3~x2/"><circle cx="521.1" cy="115.2" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s7/r48w3k3g2ly6g2r6~x4/"><circle cx="516.9" cy="98.6" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s9/r72db6ly2db11t2db2t2r9k2~x2/"><circle cx="526.4" cy="70.4" r="4" fill="#3465a4"><title>Junor (Personal)</title></circle></a><a href="/variants/s8/r56w2k12ly3r12ly3r12g3~x2/"><circle cx="497.6" cy="95.8" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r100dbi10w5dbi14ly4db8ly4r24/"><circle cx="483.0" cy="99.6" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><a href="/variants/s11/r45k3ly4k3r45k1dp2k1r2g8r2~x2/"><circle cx="591.5" cy="73.4" r="4" fill="#3465a4"><title>O'Malley (Name?)</title></circle></a><circle cx="549.6" cy="84.6" r="5" fill="#c00000"/></svg>
+
+ID: /variants/s8/r72k6lb2k11ly2db2ly2r18~x2/

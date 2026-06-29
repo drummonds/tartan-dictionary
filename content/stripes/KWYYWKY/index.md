@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Virginia Commonwealth University](/setts/s7/k30w2lr4lo10w9k3lr5~x2/)|
-|![Virginia Commonwealth University example sett](/setts/s7/k30w2lr4lo10w9k3lr5~x2/sett.png)|
+| [Virginia Commonwealth University](/variants/s7/k30w2lr4lo10w9k3lr5~x2/)|
+|![Virginia Commonwealth University example sett](/variants/s7/k30w2lr4lo10w9k3lr5~x2/sett.png)|

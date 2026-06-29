@@ -24,7 +24,7 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart hunting](/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/)|
-|![Stewart hunting example sett](/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/sett.png)|
-| [Stuart/Stewart Hunting #4](/setts/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/)|
-|![Stuart/Stewart Hunting #4 example sett](/setts/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/sett.png)|
+| [Stewart hunting](/variants/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/)|
+|![Stewart hunting example sett](/variants/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/sett.png)|
+| [Stuart/Stewart Hunting #4](/variants/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/)|
+|![Stuart/Stewart Hunting #4 example sett](/variants/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wirth, Iwan (Personal)](/setts/s25/do96o40dg8dy13r1do13w4ri5o10dg39dy15w18ri3ly1w22dg14dy8ri5w4ly1do13dy8dg8dy40dg14/)|
-|![Wirth, Iwan (Personal) example sett](/setts/s25/do96o40dg8dy13r1do13w4ri5o10dg39dy15w18ri3ly1w22dg14dy8ri5w4ly1do13dy8dg8dy40dg14/sett.png)|
+| [Wirth, Iwan (Personal)](/variants/s25/do96o40dg8dy13r1do13w4ri5o10dg39dy15w18ri3ly1w22dg14dy8ri5w4ly1do13dy8dg8dy40dg14/)|
+|![Wirth, Iwan (Personal) example sett](/variants/s25/do96o40dg8dy13r1do13w4ri5o10dg39dy15w18ri3ly1w22dg14dy8ri5w4ly1do13dy8dg8dy40dg14/sett.png)|

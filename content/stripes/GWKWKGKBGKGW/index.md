@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacSheehy](/setts/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/)|
-|![MacSheehy example sett](/setts/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/sett.png)|
+| [MacSheehy](/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/)|
+|![MacSheehy example sett](/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/sett.png)|

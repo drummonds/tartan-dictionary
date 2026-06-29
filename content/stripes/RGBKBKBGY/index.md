@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cambridge (Fashion)](/setts/s9/r4g73db73k4t4k4db73g73ly4/)|
-|![Cambridge (Fashion) example sett](/setts/s9/r4g73db73k4t4k4db73g73ly4/sett.png)|
+| [Cambridge (Fashion)](/variants/s9/r4g73db73k4t4k4db73g73ly4/)|
+|![Cambridge (Fashion) example sett](/variants/s9/r4g73db73k4t4k4db73g73ly4/sett.png)|

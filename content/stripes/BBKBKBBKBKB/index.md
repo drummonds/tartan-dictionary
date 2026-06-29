@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Indigo Blue (Corporate)](/setts/s11/db9k1dbi4k1db18t5k1t1k1t5db4~x2/)|
-|![Indigo Blue (Corporate) example sett](/setts/s11/db9k1dbi4k1db18t5k1t1k1t5db4~x2/sett.png)|
-| [Indigo Blue Works](/setts/s11/dbi9k1db4k1dbi18b5k1b1k1b5dbi4~x2/)|
-|![Indigo Blue Works example sett](/setts/s11/dbi9k1db4k1dbi18b5k1b1k1b5dbi4~x2/sett.png)|
+| [Indigo Blue (Corporate)](/variants/s11/db9k1dbi4k1db18t5k1t1k1t5db4~x2/)|
+|![Indigo Blue (Corporate) example sett](/variants/s11/db9k1dbi4k1db18t5k1t1k1t5db4~x2/sett.png)|
+| [Indigo Blue Works](/variants/s11/dbi9k1db4k1dbi18b5k1b1k1b5dbi4~x2/)|
+|![Indigo Blue Works example sett](/variants/s11/dbi9k1db4k1dbi18b5k1b1k1b5dbi4~x2/sett.png)|

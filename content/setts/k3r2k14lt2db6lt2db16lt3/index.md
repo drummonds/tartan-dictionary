@@ -1,0 +1,5 @@
+---
+title: "Immanuel Presbyterian Church (Milwaukee)"
+redirect: "/variants/s8/k3r2k14lt2db6lt2db16lt3~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Immanuel Presbyterian Church (Milwaukee)](/variants/s8/k3r2k14lt2db6lt2db16lt3~x2/).

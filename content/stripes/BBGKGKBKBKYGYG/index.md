@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Balmaha](/setts/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/)|
-|![Balmaha example sett](/setts/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/sett.png)|
+| [Balmaha](/variants/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/)|
+|![Balmaha example sett](/variants/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/sett.png)|

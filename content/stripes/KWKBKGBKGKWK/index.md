@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chess (Universal)](/setts/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/)|
-|![Chess (Universal) example sett](/setts/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/sett.png)|
+| [Chess (Universal)](/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/)|
+|![Chess (Universal) example sett](/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/sett.png)|

@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brittish Lions Corporate Tartan Tartan Number: 6636. Earliest known date: 2005 March Designed for the British Lions rugby team and unveiled in New York in April at the 2005 Tartan Day celebrations. Originally called Lion's Pride this tartan has a shield and other emblems woven into the red squares./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r70w2r1w4r1k2dt9k1ly2r1g9w3~x2/)|
-|![Brittish Lions Corporate Tartan Tartan Number: 6636. Earliest known date: 2005 March Designed for the British Lions rugby team and unveiled in New York in April at the 2005 Tartan Day celebrations. Originally called Lion's Pride this tartan has a shield and other emblems woven into the red squares./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r70w2r1w4r1k2dt9k1ly2r1g9w3~x2/sett.png)|
-| [Lions' Pride](/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/)|
-|![Lions' Pride example sett](/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/sett.png)|
+| [Brittish Lions Corporate Tartan](/variants/s12/r70w2r1w4r1k2dt9k1ly2r1g9w3~x2/)|
+|![Brittish Lions Corporate Tartan example sett](/variants/s12/r70w2r1w4r1k2dt9k1ly2r1g9w3~x2/sett.png)|
+| [Lions' Pride](/variants/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/)|
+|![Lions' Pride example sett](/variants/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/sett.png)|

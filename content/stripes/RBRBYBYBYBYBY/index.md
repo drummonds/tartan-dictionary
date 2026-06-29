@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Angotta](/setts/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/)|
-|![Angotta example sett](/setts/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/sett.png)|
-| [Angotta (Name)](/setts/s13/lo6db1lo1db1lo1db5lo2db5lo4db2r1db40r1~x2/)|
-|![Angotta (Name) example sett](/setts/s13/lo6db1lo1db1lo1db5lo2db5lo4db2r1db40r1~x2/sett.png)|
+| [Angotta](/variants/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/)|
+|![Angotta example sett](/variants/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/sett.png)|
+| [Angotta (Name)](/variants/s13/lo6db1lo1db1lo1db5lo2db5lo4db2r1db40r1~x2/)|
+|![Angotta (Name) example sett](/variants/s13/lo6db1lo1db1lo1db5lo2db5lo4db2r1db40r1~x2/sett.png)|

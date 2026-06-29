@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brockton](/setts/s8/k2w1k2r6k6r3k28w2~x2/)|
-|![Brockton example sett](/setts/s8/k2w1k2r6k6r3k28w2~x2/sett.png)|
+| [Brockton](/variants/s8/k2w1k2r6k6r3k28w2~x2/)|
+|![Brockton example sett](/variants/s8/k2w1k2r6k6r3k28w2~x2/sett.png)|

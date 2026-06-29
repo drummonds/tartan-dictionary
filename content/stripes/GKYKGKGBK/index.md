@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Madras 3 (Fashion)](/setts/s9/k6db49g10k2g10k2lo26k2g2~x2/)|
-|![Madras 3 (Fashion) example sett](/setts/s9/k6db49g10k2g10k2lo26k2g2~x2/sett.png)|
+| [Madras 3 (Fashion)](/variants/s9/k6db49g10k2g10k2lo26k2g2~x2/)|
+|![Madras 3 (Fashion) example sett](/variants/s9/k6db49g10k2g10k2lo26k2g2~x2/sett.png)|

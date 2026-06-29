@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gordonstoun (Corporate)](/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/)|
-|![Gordonstoun (Corporate) example sett](/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/sett.png)|
+| [Gordonstoun (Corporate)](/variants/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/)|
+|![Gordonstoun (Corporate) example sett](/variants/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/sett.png)|

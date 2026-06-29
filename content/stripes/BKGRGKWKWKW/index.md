@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highfield Dress (Name)](/setts/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/)|
-|![Highfield Dress (Name) example sett](/setts/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/sett.png)|
+| [Highfield Dress (Name)](/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/)|
+|![Highfield Dress (Name) example sett](/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/sett.png)|

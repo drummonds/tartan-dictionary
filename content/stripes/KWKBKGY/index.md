@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Presley of Lonmay](/setts/s7/k2lb25k2b8k2g28ly2~x2/)|
-|![Presley of Lonmay example sett](/setts/s7/k2lb25k2b8k2g28ly2~x2/sett.png)|
+| [Presley of Lonmay](/variants/s7/k2lb25k2b8k2g28ly2~x2/)|
+|![Presley of Lonmay example sett](/variants/s7/k2lb25k2b8k2g28ly2~x2/sett.png)|

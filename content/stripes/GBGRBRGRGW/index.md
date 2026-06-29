@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Island Weavers (Corporate)](/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/)|
-|![Island Weavers (Corporate) example sett](/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/sett.png)|
+| [Island Weavers (Corporate)](/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/)|
+|![Island Weavers (Corporate) example sett](/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/sett.png)|

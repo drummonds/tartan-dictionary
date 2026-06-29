@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Travelling costume](/setts/s9/r8ly1dg20r29k2r29w20r2db7~x2/)|
-|![Unidentified Travelling costume example sett](/setts/s9/r8ly1dg20r29k2r29w20r2db7~x2/sett.png)|
-| [Unidentified, Travelling costume](/setts/s9/r8ly1g20r29k2r29w20r2db7~x2/)|
-|![Unidentified, Travelling costume example sett](/setts/s9/r8ly1g20r29k2r29w20r2db7~x2/sett.png)|
+| [Unidentified Travelling costume](/variants/s9/r8ly1dg20r29k2r29w20r2db7~x2/)|
+|![Unidentified Travelling costume example sett](/variants/s9/r8ly1dg20r29k2r29w20r2db7~x2/sett.png)|
+| [Unidentified, Travelling costume](/variants/s9/r8ly1g20r29k2r29w20r2db7~x2/)|
+|![Unidentified, Travelling costume example sett](/variants/s9/r8ly1g20r29k2r29w20r2db7~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Regimbal, Leonel–Jean (Personal)](/setts/s10/r16t1r1ly1r4k18w1k1w1k1~x4/)|
-|![Regimbal, Leonel–Jean (Personal) example sett](/setts/s10/r16t1r1ly1r4k18w1k1w1k1~x4/sett.png)|
+| [Regimbal, Leonel–Jean (Personal)](/variants/s10/r16t1r1ly1r4k18w1k1w1k1~x4/)|
+|![Regimbal, Leonel–Jean (Personal) example sett](/variants/s10/r16t1r1ly1r4k18w1k1w1k1~x4/sett.png)|

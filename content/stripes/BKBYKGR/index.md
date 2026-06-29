@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4~x2/)|
-|![Colqhoun VS example sett](/setts/s7/db4k2db16lr1k8dg24r4~x2/sett.png)|
+| [Colqhoun VS](/variants/s7/db4k2db16lr1k8dg24r4~x2/)|
+|![Colqhoun VS example sett](/variants/s7/db4k2db16lr1k8dg24r4~x2/sett.png)|

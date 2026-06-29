@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New Glasgow (Canada)](/setts/s8/dg28r4db25w5r22dg27r4db2~x2/)|
-|![New Glasgow (Canada) example sett](/setts/s8/dg28r4db25w5r22dg27r4db2~x2/sett.png)|
-| [New Glasgow (Canada)](/setts/s8/dg28r4dp25w5r22dg27r4dp2~x2/)|
-|![New Glasgow (Canada) example sett](/setts/s8/dg28r4dp25w5r22dg27r4dp2~x2/sett.png)|
+| [New Glasgow (Canada)](/variants/s8/dg28r4db25w5r22dg27r4db2~x2/)|
+|![New Glasgow (Canada) example sett](/variants/s8/dg28r4db25w5r22dg27r4db2~x2/sett.png)|
+| [New Glasgow (Canada)](/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/)|
+|![New Glasgow (Canada) example sett](/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/sett.png)|

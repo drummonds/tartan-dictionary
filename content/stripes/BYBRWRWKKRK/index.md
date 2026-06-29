@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asman, Dress (Name)](/setts/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/)|
-|![Asman, Dress (Name) example sett](/setts/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/sett.png)|
+| [Asman, Dress (Name)](/variants/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/)|
+|![Asman, Dress (Name) example sett](/variants/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/sett.png)|

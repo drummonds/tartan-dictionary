@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cochrane Hunting](/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/)|
-|![Cochrane Hunting example sett](/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/sett.png)|
+| [Cochrane Hunting](/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/)|
+|![Cochrane Hunting example sett](/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/sett.png)|

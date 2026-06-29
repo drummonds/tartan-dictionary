@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy](/setts/s8/lt2r2lt30dg20lt3dg7k2ly1~x2/)|
-|![L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy example sett](/setts/s8/lt2r2lt30dg20lt3dg7k2ly1~x2/sett.png)|
+| [L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy](/variants/s8/lt2r2lt30dg20lt3dg7k2ly1~x2/)|
+|![L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy example sett](/variants/s8/lt2r2lt30dg20lt3dg7k2ly1~x2/sett.png)|

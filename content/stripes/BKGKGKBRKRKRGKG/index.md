@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Earl of Dumfries (Personal)](/setts/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/)|
-|![Earl of Dumfries (Personal) example sett](/setts/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/sett.png)|
+| [Earl of Dumfries (Personal)](/variants/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/)|
+|![Earl of Dumfries (Personal) example sett](/variants/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/sett.png)|

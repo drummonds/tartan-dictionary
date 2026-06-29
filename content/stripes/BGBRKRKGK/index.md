@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hume or Home](/setts/s9/k3dg3k20r2k2r2db20dg3db3~x2/)|
-|![Hume or Home example sett](/setts/s9/k3dg3k20r2k2r2db20dg3db3~x2/sett.png)|
-| [Hume, or Home](/setts/s9/k3g3k20r2k2r2db20g3db3~x2/)|
-|![Hume, or Home example sett](/setts/s9/k3g3k20r2k2r2db20g3db3~x2/sett.png)|
+| [Hume or Home](/variants/s9/k3dg3k20r2k2r2db20dg3db3~x2/)|
+|![Hume or Home example sett](/variants/s9/k3dg3k20r2k2r2db20dg3db3~x2/sett.png)|
+| [Hume, or Home](/variants/s9/k3g3k20r2k2r2db20g3db3~x2/)|
+|![Hume, or Home example sett](/variants/s9/k3g3k20r2k2r2db20g3db3~x2/sett.png)|

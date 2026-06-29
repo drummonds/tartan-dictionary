@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blackdown Hills](/setts/s7/k4dt4dy1dt4r4db4w1~x8/)|
-|![Blackdown Hills example sett](/setts/s7/k4dt4dy1dt4r4db4w1~x8/sett.png)|
+| [Blackdown Hills](/variants/s7/k4dt4dy1dt4r4db4w1~x8/)|
+|![Blackdown Hills example sett](/variants/s7/k4dt4dy1dt4r4db4w1~x8/sett.png)|

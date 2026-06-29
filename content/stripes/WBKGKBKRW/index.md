@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland's Charity Air Ambulance](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/)|
-|![Scotland's Charity Air Ambulance example sett](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/sett.png)|
+| [Scotland's Charity Air Ambulance](/variants/s9/w2b27k1g3k1n10k1r24w2~x2/)|
+|![Scotland's Charity Air Ambulance example sett](/variants/s9/w2b27k1g3k1n10k1r24w2~x2/sett.png)|

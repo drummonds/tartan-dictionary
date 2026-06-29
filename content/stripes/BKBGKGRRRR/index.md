@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Longford](/setts/s10/db8k3db18g6k8g6o12r5o12r3~x2/)|
-|![Longford example sett](/setts/s10/db8k3db18g6k8g6o12r5o12r3~x2/sett.png)|
+| [Longford](/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/)|
+|![Longford example sett](/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moran (Name)](/setts/s6/g55k17r9k11ly2k4~x2/)|
-|![Moran (Name) example sett](/setts/s6/g55k17r9k11ly2k4~x2/sett.png)|
+| [Moran (Name)](/variants/s6/g55k17r9k11ly2k4~x2/)|
+|![Moran (Name) example sett](/variants/s6/g55k17r9k11ly2k4~x2/sett.png)|

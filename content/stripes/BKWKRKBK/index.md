@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Millarkie, Will (Personal)](/setts/s8/k15db10k15r7k15w5k15db10/)|
-|![Millarkie, Will (Personal) example sett](/setts/s8/k15db10k15r7k15w5k15db10/sett.png)|
+| [Millarkie, Will (Personal)](/variants/s8/k15db10k15r7k15w5k15db10/)|
+|![Millarkie, Will (Personal) example sett](/variants/s8/k15db10k15r7k15w5k15db10/sett.png)|

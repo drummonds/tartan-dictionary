@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Smithers](/setts/s20/g5k1g5k6b4lb1b3n1b6dp2b6n1b3lb1b4k6g5k1g5dp2~x4/)|
-|![Smithers example sett](/setts/s20/g5k1g5k6b4lb1b3n1b6dp2b6n1b3lb1b4k6g5k1g5dp2~x4/sett.png)|
+| [Smithers](/variants/s20/g5k1g5k6b4lb1b3n1b6dp2b6n1b3lb1b4k6g5k1g5dp2~x4/)|
+|![Smithers example sett](/variants/s20/g5k1g5k6b4lb1b3n1b6dp2b6n1b3lb1b4k6g5k1g5dp2~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacAart (Personal)](/setts/s11/r3g6k1lo1k1g6r2dy2k2dy9k2~x4/)|
-|![MacAart (Personal) example sett](/setts/s11/r3g6k1lo1k1g6r2dy2k2dy9k2~x4/sett.png)|
+| [MacAart (Personal)](/variants/s11/r3g6k1lo1k1g6r2dy2k2dy9k2~x4/)|
+|![MacAart (Personal) example sett](/variants/s11/r3g6k1lo1k1g6r2dy2k2dy9k2~x4/sett.png)|

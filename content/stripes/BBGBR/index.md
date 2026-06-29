@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wcwm 1255-1](/setts/s5/db4dbi1dg14db14r1~x4/)|
-|![Wcwm 1255-1 example sett](/setts/s5/db4dbi1dg14db14r1~x4/sett.png)|
+| [Wcwm 1255-1](/variants/s5/db4dbi1dg14db14r1~x4/)|
+|![Wcwm 1255-1 example sett](/variants/s5/db4dbi1dg14db14r1~x4/sett.png)|

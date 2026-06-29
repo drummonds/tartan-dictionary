@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sabrettes](/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/)|
-|![Sabrettes example sett](/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/sett.png)|
+| [Sabrettes](/variants/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/)|
+|![Sabrettes example sett](/variants/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/sett.png)|

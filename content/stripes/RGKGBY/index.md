@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bobby Jones (Personal)](/setts/s6/r1dy2k12dy8db16lo1~x2/)|
-|![Bobby Jones (Personal) example sett](/setts/s6/r1dy2k12dy8db16lo1~x2/sett.png)|
-| [Casely (Name)](/setts/s6/r4g11k11g2n11ly3~x4/)|
-|![Casely (Name) example sett](/setts/s6/r4g11k11g2n11ly3~x4/sett.png)|
+| [Bobby Jones (Personal)](/variants/s6/r1dy2k12dy8db16lo1~x2/)|
+|![Bobby Jones (Personal) example sett](/variants/s6/r1dy2k12dy8db16lo1~x2/sett.png)|
+| [Casely (Name)](/variants/s6/r4g11k11g2n11ly3~x4/)|
+|![Casely (Name) example sett](/variants/s6/r4g11k11g2n11ly3~x4/sett.png)|

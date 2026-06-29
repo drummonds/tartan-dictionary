@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Air Force Reserve P. B. (Corpor](/setts/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/)|
-|![U.S. Air Force Reserve P. B. (Corpor example sett](/setts/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/sett.png)|
+| [U.S. Air Force Reserve P. B. (Corpor](/variants/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/)|
+|![U.S. Air Force Reserve P. B. (Corpor example sett](/variants/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/sett.png)|

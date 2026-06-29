@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Harrods](/setts/s14/r2oi3dr9o2dr5o4w1oi1w1oi1w12k2w2oi2~x2/)|
-|![Harrods example sett](/setts/s14/r2oi3dr9o2dr5o4w1oi1w1oi1w12k2w2oi2~x2/sett.png)|
+| [Harrods](/variants/s14/r2oi3dr9o2dr5o4w1oi1w1oi1w12k2w2oi2~x2/)|
+|![Harrods example sett](/variants/s14/r2oi3dr9o2dr5o4w1oi1w1oi1w12k2w2oi2~x2/sett.png)|

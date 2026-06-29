@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McFadden (Personal)](/setts/s8/db18dp2db16k13g3k2g42lo3~x2/)|
-|![McFadden (Personal) example sett](/setts/s8/db18dp2db16k13g3k2g42lo3~x2/sett.png)|
+| [McFadden (Personal)](/variants/s8/db18dp2db16k13g3k2g42lo3~x2/)|
+|![McFadden (Personal) example sett](/variants/s8/db18dp2db16k13g3k2g42lo3~x2/sett.png)|

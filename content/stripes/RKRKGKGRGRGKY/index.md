@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melrose (District)](/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/)|
-|![Melrose (District) example sett](/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/sett.png)|
+| [Melrose (District)](/variants/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/)|
+|![Melrose (District) example sett](/variants/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/sett.png)|

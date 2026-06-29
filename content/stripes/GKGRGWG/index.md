@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arkansas](/setts/s7/g3w1g12r6g3k3g2~x4/)|
-|![Arkansas example sett](/setts/s7/g3w1g12r6g3k3g2~x4/sett.png)|
-| [Arkansas](/setts/s7/dg3w1dg12r6dg3k3g2~x4/)|
-|![Arkansas example sett](/setts/s7/dg3w1dg12r6dg3k3g2~x4/sett.png)|
+| [Arkansas](/variants/s7/g3w1g12r6g3k3g2~x4/)|
+|![Arkansas example sett](/variants/s7/g3w1g12r6g3k3g2~x4/sett.png)|
+| [Arkansas](/variants/s7/dg3w1dg12r6dg3k3g2~x4/)|
+|![Arkansas example sett](/variants/s7/dg3w1dg12r6dg3k3g2~x4/sett.png)|

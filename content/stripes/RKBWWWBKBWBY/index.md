@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Union Club of British Columbia](/setts/s12/o2k1n4lb4w1lb4t4k1t4lb2t4ly1~x4/)|
-|![Union Club of British Columbia example sett](/setts/s12/o2k1n4lb4w1lb4t4k1t4lb2t4ly1~x4/sett.png)|
+| [Union Club of British Columbia](/variants/s12/o2k1n4lb4w1lb4t4k1t4lb2t4ly1~x4/)|
+|![Union Club of British Columbia example sett](/variants/s12/o2k1n4lb4w1lb4t4k1t4lb2t4ly1~x4/sett.png)|

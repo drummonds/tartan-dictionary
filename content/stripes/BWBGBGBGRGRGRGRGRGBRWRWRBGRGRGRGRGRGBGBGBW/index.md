@@ -24,5 +24,5 @@ It is a 42 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wilson (Janet)](/setts/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/)|
-|![Wilson (Janet) example sett](/setts/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/sett.png)|
+| [Wilson (Janet)](/variants/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/)|
+|![Wilson (Janet) example sett](/variants/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/sett.png)|

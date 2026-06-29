@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carolina, States of (District)](/setts/s13/r32yi14k16ly3k4lr4k4r1y28r13k4r4lr2~x2/)|
-|![Carolina, States of (District) example sett](/setts/s13/r32yi14k16ly3k4lr4k4r1y28r13k4r4lr2~x2/sett.png)|
+| [Carolina, States of (District)](/variants/s13/r32yi14k16ly3k4lr4k4r1y28r13k4r4lr2~x2/)|
+|![Carolina, States of (District) example sett](/variants/s13/r32yi14k16ly3k4lr4k4r1y28r13k4r4lr2~x2/sett.png)|

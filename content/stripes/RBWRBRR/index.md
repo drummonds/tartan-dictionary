@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thom(p)son, Navy](/setts/s7/r3db15w13o6db2o2r2~x2/)|
-|![Thom(p)son, Navy example sett](/setts/s7/r3db15w13o6db2o2r2~x2/sett.png)|
+| [Thom(p)son, Navy](/variants/s7/r3db15w13o6db2o2r2~x2/)|
+|![Thom(p)son, Navy example sett](/variants/s7/r3db15w13o6db2o2r2~x2/sett.png)|

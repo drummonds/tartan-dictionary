@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGrath (Personal)](/setts/s9/ly6w1ly5w12ly1db1t1db1t4~x4/)|
-|![MacGrath (Personal) example sett](/setts/s9/ly6w1ly5w12ly1db1t1db1t4~x4/sett.png)|
+| [MacGrath (Personal)](/variants/s9/ly6w1ly5w12ly1db1t1db1t4~x4/)|
+|![MacGrath (Personal) example sett](/variants/s9/ly6w1ly5w12ly1db1t1db1t4~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wallace Blue (Fashion)](/setts/s5/t2db29t12g29w2~x2/)|
-|![Wallace Blue (Fashion) example sett](/setts/s5/t2db29t12g29w2~x2/sett.png)|
+| [Wallace Blue (Fashion)](/variants/s5/t2db29t12g29w2~x2/)|
+|![Wallace Blue (Fashion) example sett](/variants/s5/t2db29t12g29w2~x2/sett.png)|

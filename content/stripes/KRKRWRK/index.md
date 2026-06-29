@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gleneagles](/setts/s7/k4o4w35o1k36o4k2~x2/)|
-|![Gleneagles example sett](/setts/s7/k4o4w35o1k36o4k2~x2/sett.png)|
+| [Gleneagles](/variants/s7/k4o4w35o1k36o4k2~x2/)|
+|![Gleneagles example sett](/variants/s7/k4o4w35o1k36o4k2~x2/sett.png)|

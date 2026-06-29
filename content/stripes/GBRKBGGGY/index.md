@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thistle Stop LLC](/setts/s9/lg16g1gi1g1t24k12m16dp2g2~x2/)|
-|![Thistle Stop LLC example sett](/setts/s9/lg16g1gi1g1t24k12m16dp2g2~x2/sett.png)|
+| [Thistle Stop LLC](/variants/s9/lg16g1gi1g1t24k12m16dp2g2~x2/)|
+|![Thistle Stop LLC example sett](/variants/s9/lg16g1gi1g1t24k12m16dp2g2~x2/sett.png)|

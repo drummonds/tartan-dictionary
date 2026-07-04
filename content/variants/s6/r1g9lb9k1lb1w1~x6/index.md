@@ -1,0 +1,57 @@
+---
+title: "Irving of Glentulchan (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1g9lb9k1lb1w1/)
+(the same proportion at any scale), whose colour order is pattern [RGWKWW](/stripes/rgwkww/).
+
+Part of the [Irving of Glentulchan](/tartans/irving-of-glentulchan/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1460/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1460
+
+## Thread count
+R/6 G54 LB54 K6 LB6 W/6
+
+One full sett is **252 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LG</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 G54 LB54 K6 LB6 W/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **1.96** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r1g9db9k1db1w1/"><img src="/variants/s6/r1g9db9k1db1w1~x6/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r1g9db9k1db1w1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s6/r1g9lb9k1lb1w1~x6/">Irving of Glentulchan (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r1g9lb9k1lb1w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lr4g24db10r3db12lo4~x2&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">1.46</a></div><div class="nn-threads">212</div><div class="nn-name"><a href="/variants/s6/lr4g24db10r3db12lo4~x2/">Inglis (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lr4g24db10r3db12lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3lb2g13w2lb24dr3~x4&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">1.47</a></div><div class="nn-threads">352</div><div class="nn-name"><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/">Vance (Name?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3lb2g13w2lb24dr3~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3t2g13w2t24dr3~x4~t2405244-g2408144&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">1.47</a></div><div class="nn-threads">352</div><div class="nn-name"><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/">Vance</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r7y3g28db28w3~x2&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">1.76</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s5/r7y3g28db28w3~x2/">Turnbull, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2y1g10db10w1~x6&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">1.82</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s5/r2y1g10db10w1~x6/">Turnbull Hunting (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2y1g10db10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2lb2k2lb15g15k2g2w2~x4&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">1.85</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/">Ben Lomond (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5t25w5t3dg25t3~x2&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">1.92</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/r5t25w5t3dg25t3~x2/">Thayer USA</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5t25w5t3dg25t3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3r1g12w4lb15ly1lb3~x4&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">2.03</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/">Postcode Lottery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g3r1g12w4lb15ly1lb3~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3g44db27ly6r10w3~x2&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">360</div><div class="nn-name nn-far"><a href="/variants/s6/k3g44db27ly6r10w3~x2/">Shawlands International (Commem.)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3g44db27ly6r10w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb8w28ly3g3lb8k9lb4~x2&amp;base=r1g9lb9k1lb1w1~x6" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">228</div><div class="nn-name nn-far"><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/">MacTavish of Dunardry Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.6" cy="219.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.7" cy="164.5" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="274.9" cy="172.6" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.6" cy="207.7" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="179.4" cy="180.5" r="4" fill="#3465a4"><title>Ben Lomond (Fashion)</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.7" cy="224.5" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.7" cy="190.5" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.0" cy="148.8" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><circle cx="170.6" cy="176.8" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><circle cx="234.5" cy="187.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/r1g9lb9k1lb1w1~x6/

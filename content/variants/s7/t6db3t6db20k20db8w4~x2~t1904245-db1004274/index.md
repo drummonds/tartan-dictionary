@@ -1,0 +1,58 @@
+---
+title: "Allianz Deutschland 2012"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t6db3t6db20k20db8w4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKBW](/stripes/bbbbkbw/).
+
+Part of the [Allianz Deutschland 2012](/tartans/allianz-deutschland-2012/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684
+
+## Provenance
+
+Earliest known date: 28 August 2012 Designed by Blair Urquhart of House of Tartan Ltd, together with the Creative Team, Allianz Deutschland, for the 2013 Scottish Visit. The tartan incorporates both the colours and the three elements of Allianz Deutschland's Corporate Trademark Device.
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>28/08/2012 — Allianz Deutschland 2012 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#20608C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #20608C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#141C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #141C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8E8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E8E8E8"></span><br><em>Designed by Blair Urquhart of House of Tartan Ltd, together with the Creative Team, Allianz Deutschland, for the 2013 Scottish Visit. The tartan incorporates both the colours and the three elements of Allianz Deutschland's Corporate Trademark Device.</em></li>
+<li>undated — Allianz Deutschland 2012 Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10684">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#20608C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #20608C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#141C50;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #141C50"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8E8E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E8E8E8"></span></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684)
+
+## Thread count
+T/12 DB6 T12 DB40 K40 DB16 W/8
+
+One full sett is **248 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#20608C;"><span style="color:#20608C;filter:grayscale(1) invert(1) contrast(100);">#20608C</span></code> <small style="color:#888">#20608C</small></td><td><small style="color:#888">oklch(47.0% 0.096 243.0)</small></td></tr><tr><td>DB</td><td><code style="background-color:#141C50;"><span style="color:#141C50;filter:grayscale(1) invert(1) contrast(100);">#141C50</span></code> <small style="color:#888">#141C50</small></td><td><small style="color:#888">oklch(25.6% 0.095 271.3)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/12 DB6 T12 DB40 K40 DB16 W/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/">Allianz Deutschland 2012</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.00</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/">Allianz Deutschland 2012 (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275&amp;base=t6db3t6db20k20db8w4~x2~t1904245-db1004274" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">228</div><div class="nn-name nn-far"><a href="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275/">Brodie Countryfare (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r2k14lb2db6lb2db16lb3~x2&amp;base=t6db3t6db20k20db8w4~x2~t1904245-db1004274" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">180</div><div class="nn-name nn-far"><a href="/variants/s8/k3r2k14lb2db6lb2db16lb3~x2/">Immanuel Presbyterian Church (Milwaukee)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k3r2k14lb2db6lb2db16lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4g18db3k17db18dp4~x2&amp;base=t6db3t6db20k20db8w4~x2~t1904245-db1004274" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s6/db4g18db3k17db18dp4~x2/">Scottish Airports (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db4g18db3k17db18dp4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4g18db3k17db18o4~x2&amp;base=t6db3t6db20k20db8w4~x2~t1904245-db1004274" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s6/db4g18db3k17db18o4~x2/">Scottish Airports</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db4g18db3k17db18o4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db31b4db5k19g20y4~x2&amp;base=t6db3t6db20k20db8w4~x2~t1904245-db1004274" title="compare in the TTD">2.95</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s6/db31b4db5k19g20y4~x2/">Midlothian</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db31b4db5k19g20y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db31t4db5k19g20lo4~x2&amp;base=t6db3t6db20k20db8w4~x2~t1904245-db1004274" title="compare in the TTD">2.95</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s6/db31t4db5k19g20lo4~x2/">Midlothian</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db31t4db5k19g20lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g1k9lb4db9lb1~x6&amp;base=t6db3t6db20k20db8w4~x2~t1904245-db1004274" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s5/g1k9lb4db9lb1~x6/">Wallace Blue Dress Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g1k9lb4db9lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/"><circle cx="206.4" cy="221.9" r="4" fill="#3465a4"><title>Allianz Deutschland 2012 (Corporate)</title></circle></a><a href="/variants/s7/dbi3k13dbi13db13w2db13w3~x2~dbi1406275-db1106275/"><circle cx="172.0" cy="233.0" r="4" fill="#3465a4"><title>Brodie Countryfare (Corporate)</title></circle></a><a href="/variants/s8/k3r2k14lb2db6lb2db16lb3~x2/"><circle cx="193.4" cy="179.4" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Milwaukee)</title></circle></a><a href="/variants/s6/db4g18db3k17db18dp4~x2/"><circle cx="157.1" cy="238.9" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.2" cy="237.1" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="204.9" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.0" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s5/g1k9lb4db9lb1~x6/"><circle cx="159.6" cy="210.7" r="4" fill="#3465a4"><title>Wallace Blue Dress Tartan</title></circle></a><circle cx="195.5" cy="219.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/

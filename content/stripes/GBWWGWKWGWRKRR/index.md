@@ -1,0 +1,38 @@
+---
+title: Pattern GBWWGWKWGWRKRR
+date: 2023-03-18
+aliases:
+- /patterns/gbwwgwkwgwrkrr/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GBWWGWKWGWRKRR</span></div>
+
+It is a 14 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GBWWGWKWGWRKRR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "GBWWGWKWGWRKRR" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/">Dundee Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/"><img src="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/sett.png" alt="Dundee Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10/">Dundee, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10/"><img src="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri2008029-r1707016/sett.png" alt="Dundee, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -1,0 +1,45 @@
+---
+title: "Clan An Caigeann (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k44y3k4y3k4db4w2db4dr2w2dg4y2/)
+(the same proportion at any scale), whose colour order is pattern [GGWBBWBKGKGK](/stripes/ggwbbwbkgkgk/).
+
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7991/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [7991](https://www.tartanregister.gov.uk/tartanDetails?ref=7991)
+- Scottish Tartans Authority (ITI): 7991
+
+## Thread count
+K/88 Y6 K8 Y6 K8 DB8 W4 DB8 DR4 W4 DG8 Y/4
+
+One full sett is **220 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/88 Y6 K8 Y6 K8 DB8 W4 DB8 DR4 W4 DG8 Y/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/">Clan An Caigeann (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057&amp;base=k44y3k4y3k4db4w2db4dr2w2dg4y2~x2" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057/">Cumnock District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3db16k3dp2k45r1k2lo3~x2&amp;base=k44y3k4y3k4db4w2db4dr2w2dg4y2~x2" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/">Cumnock</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3db16k3dp2k45r1k2lr3~x2&amp;base=k44y3k4y3k4db4w2db4dr2w2dg4y2~x2" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/">Cumnock (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2dr3k36n2k5n7ly3lb5g2~x2&amp;base=k44y3k4y3k4db4w2db4dr2w2dg4y2~x2" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">252</div><div class="nn-name nn-far"><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/">Victory</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2dr3g5k50g4dr3w2lb3k2ly2~x2&amp;base=k44y3k4y3k4db4w2db4dr2w2dg4y2~x2" title="compare in the TTD">2.72</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/">Hawes (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db10w1g10k40n8k40r10w1k10w1n10w1~x2&amp;base=k44y3k4y3k4db4w2db4dr2w2dg4y2~x2" title="compare in the TTD">2.95</a></div><div class="nn-threads nn-far">546</div><div class="nn-name nn-far"><a href="/variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/">EthosEnergy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y2k2db3w2dy3g4k50g5dy3w2~x2&amp;base=k44y3k4y3k4db4w2db4dr2w2dg4y2~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/">Hawes (2014)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div><div class="nn-dt nn-far">3.00</div><div class="nn-threads nn-far">—</div><div class="nn-name nn-far"><a href="/variants/s9/k65dg9o11k5t2lo2ly5k2lo13~x2~dg1001060/">Down Irish County Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k65dg9o11k5t2lo2ly5k2lo13~x2~dg1001060/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057/"><circle cx="362.0" cy="47.3" r="4" fill="#3465a4"><title>Cumnock District Tartan</title></circle></a><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/"><circle cx="371.3" cy="51.0" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/"><circle cx="371.4" cy="50.9" r="4" fill="#3465a4"><title>Cumnock (District)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.7" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="337.0" cy="44.3" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s12/db10w1g10k40n8k40r10w1k10w1n10w1~x2/"><circle cx="291.3" cy="57.2" r="4" fill="#3465a4"><title>EthosEnergy</title></circle></a><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/"><circle cx="344.2" cy="46.9" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/variants/s9/k65dg9o11k5t2lo2ly5k2lo13~x2~dg1001060/"><circle cx="296.8" cy="50.1" r="4" fill="#3465a4"><title>Down Irish County Tartan</title></circle></a><circle cx="324.0" cy="48.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/

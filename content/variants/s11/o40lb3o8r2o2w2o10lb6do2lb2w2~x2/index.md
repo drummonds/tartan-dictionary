@@ -1,0 +1,33 @@
+---
+title: "Spencer"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o40lb3o8r2o2w2o10lb6do2lb2w2/)
+(the same proportion at any scale), whose colour order is pattern [RWRRRWRWBWW](/stripes/rwrrrwrwbww/).
+
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3857
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3857](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3857)
+- Scottish Tartans Authority (ITI): 5315
+
+## Thread count
+O/80 LB6 O16 R4 O4 W4 O20 LB12 DO4 LB4 W/4
+
+One full sett is **232 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> <small style="color:#888">#412714</small></td><td><small style="color:#888">oklch(30.1% 0.050 55.7)</small></td></tr><tr><td>LT</td><td><code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> <small style="color:#888">#A65C11</small></td><td><small style="color:#888">oklch(55.0% 0.125 58.3)</small></td></tr><tr><td>N</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/80 LB6 O16 R4 O4 W4 O20 LB12 DO4 LB4 W/4 tartan" width="880" height="480">
+
+ID: /variants/s11/o40lb3o8r2o2w2o10lb6do2lb2w2~x2/

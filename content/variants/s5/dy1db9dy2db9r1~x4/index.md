@@ -1,0 +1,45 @@
+---
+title: "Brooks Brothers Tattersall Blue"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy1db9dy2db9r1/)
+(the same proportion at any scale), whose colour order is pattern [GBGBR](/stripes/gbgbr/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=382
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [382](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=382)
+- Scottish Tartans Authority (ITI): 6573
+
+## Thread count
+R/4 DB36 DY8 DB36 DY/4
+
+One full sett is **168 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>LT</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DB36 DY8 DB36 DY/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">168</div><div class="nn-name nn-base"><a href="/variants/s5/dy1db9dy2db9r1~x4/">Brooks Brothers Tattersall Blue</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dy1db9dy2db9r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16dy2db16dy19r4~x3&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">0.31</a></div><div class="nn-threads">282</div><div class="nn-name"><a href="/variants/s5/db16dy2db16dy19r4~x3/">Unidentified #24</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db16dy2db16dy19r4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1dy9db2dy9r1~x4&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">0.59</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s5/db1dy9db2dy9r1~x4/">Brooks Brothers Tattersall Camel</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db1dy9db2dy9r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db44dy12db9dr3~x2&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">0.81</a></div><div class="nn-threads">178</div><div class="nn-name"><a href="/variants/s4/db44dy12db9dr3~x2/">Elliot (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db44dy12db9dr3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db32r3db4y3~x2&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">0.85</a></div><div class="nn-threads">98</div><div class="nn-name"><a href="/variants/s4/db32r3db4y3~x2/">MacLaine of Lochbuie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db32r3db4y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db140r11db14y11&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">0.86</a></div><div class="nn-threads">201</div><div class="nn-name"><a href="/variants/s4/db140r11db14y11/">Gem</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db140r11db14y11/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y6b38k3b38y6~x2&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">0.96</a></div><div class="nn-threads">340</div><div class="nn-name"><a href="/variants/s5/y6b38k3b38y6~x2/">The Poulain League</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/y6b38k3b38y6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16dr4db3r1~x2&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">1.13</a></div><div class="nn-threads">62</div><div class="nn-name"><a href="/variants/s4/db16dr4db3r1~x2/">Elliot</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db16dr4db3r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16dr4db3r1~x6&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">1.13</a></div><div class="nn-threads">186</div><div class="nn-name"><a href="/variants/s4/db16dr4db3r1~x6/">Elliot Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db16dr4db3r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16r4db3dp1~x2&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">1.13</a></div><div class="nn-threads">62</div><div class="nn-name"><a href="/variants/s4/db16r4db3dp1~x2/">Elliott</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db16r4db3dp1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db32r3db4k1y3&amp;base=dy1db9dy2db9r1~x4" title="compare in the TTD">1.15</a></div><div class="nn-threads">51</div><div class="nn-name"><a href="/variants/s5/db32r3db4k1y3/">MacLaine of Lochbuie Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db32r3db4k1y3/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.1" cy="287.7" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.6" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s4/db44dy12db9dr3~x2/"><circle cx="626.0" cy="292.9" r="4" fill="#3465a4"><title>Elliot (Clan)</title></circle></a><a href="/variants/s4/db32r3db4y3~x2/"><circle cx="619.0" cy="225.3" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="216.4" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s5/y6b38k3b38y6~x2/"><circle cx="573.8" cy="225.3" r="4" fill="#3465a4"><title>The Poulain League</title></circle></a><a href="/variants/s4/db16dr4db3r1~x2/"><circle cx="626.0" cy="244.6" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s4/db16dr4db3r1~x6/"><circle cx="626.0" cy="244.6" r="4" fill="#3465a4"><title>Elliot Clan Tartan</title></circle></a><a href="/variants/s4/db16r4db3dp1~x2/"><circle cx="559.0" cy="220.2" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s5/db32r3db4k1y3/"><circle cx="589.6" cy="135.4" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><circle cx="620.6" cy="268.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/dy1db9dy2db9r1~x4/

@@ -1,0 +1,46 @@
+---
+title: "Barbie's Moss Plaid (Blue & White)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w20db20w3db3/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=211
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [211](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=211)
+- Scottish Tartans Authority (ITI): 630
+- Scottish Tartans World Register: 630
+
+## Thread count
+DB/6 W6 DB40 W40 DB40 W/6
+
+One full sett is **264 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> <small style="color:#888">#2888C4</small></td><td><small style="color:#888">oklch(60.1% 0.125 241.5)</small></td></tr><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>N</td><td><code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> <small style="color:#888">#C0C0C0</small></td><td><small style="color:#888">oklch(80.8% 0.000 89.9)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/6 W6 DB40 W40 DB40 W/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s4/w20db20w3db3~x2/">Barbie's Moss Plaid (Blue &amp; White)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/w20db20w3db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w20b20w3b3~x2&amp;base=w20db20w3db3~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">138</div><div class="nn-name"><a href="/variants/s4/w20b20w3b3~x2/">Unidentified, Plaid Barbie's Moss</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/w20b20w3b3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w8db16w2db2w1db1~x4&amp;base=w20db20w3db3~x2" title="compare in the TTD">0.61</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s6/w8db16w2db2w1db1~x4/">Ikelman #1 (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w8db16w2db2w1db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1w1db5w5db1w1~x8&amp;base=w20db20w3db3~x2" title="compare in the TTD">0.75</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/db1w1db5w5db1w1~x8/">Erskine Blanket</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1w1db5w5db1w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db6w2db29w29db2w6~x2&amp;base=w20db20w3db3~x2" title="compare in the TTD">0.81</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s6/db6w2db29w29db2w6~x2/">Erskine Blue (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db6w2db29w29db2w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3w16db4w3db12w2~x3&amp;base=w20db20w3db3~x2" title="compare in the TTD">0.84</a></div><div class="nn-threads">225</div><div class="nn-name"><a href="/variants/s6/db3w16db4w3db12w2~x3/">MacMugen</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3w16db4w3db12w2~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=b13w13b30w13b11w2b8~x2&amp;base=w20db20w3db3~x2" title="compare in the TTD">1.55</a></div><div class="nn-threads">318</div><div class="nn-name"><a href="/variants/s7/b13w13b30w13b11w2b8~x2/">Jubilation Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/b13w13b30w13b11w2b8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1b15w5b1w5b1~x4&amp;base=w20db20w3db3~x2" title="compare in the TTD">1.60</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s6/y1b15w5b1w5b1~x4/">Whitley (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y1b15w5b1w5b1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=b30w7b18w11b6y3~x2&amp;base=w20db20w3db3~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">234</div><div class="nn-name"><a href="/variants/s6/b30w7b18w11b6y3~x2/">Ochterlonie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b30w7b18w11b6y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w5db16w5db16w33dr3~x2&amp;base=w20db20w3db3~x2" title="compare in the TTD">1.81</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s6/w5db16w5db16w33dr3~x2/">Buchanan Dress Blue (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w5db16w5db16w33dr3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db40w8db25w14db8y4~x2&amp;base=w20db20w3db3~x2" title="compare in the TTD">1.85</a></div><div class="nn-threads">308</div><div class="nn-name"><a href="/variants/s6/db40w8db25w14db8y4~x2/">Auchterlonie (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db40w8db25w14db8y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="421.5" cy="296.3" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.8" cy="223.1" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s6/db1w1db5w5db1w1~x8/"><circle cx="333.1" cy="291.0" r="4" fill="#3465a4"><title>Erskine Blanket</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="375.9" cy="239.3" r="4" fill="#3465a4"><title>Erskine Blue (Dance)</title></circle></a><a href="/variants/s6/db3w16db4w3db12w2~x3/"><circle cx="354.8" cy="273.9" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s7/b13w13b30w13b11w2b8~x2/"><circle cx="465.4" cy="269.4" r="4" fill="#3465a4"><title>Jubilation Tartan</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.8" cy="210.3" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="448.5" cy="252.8" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.3" cy="248.0" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.7" cy="235.9" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><circle cx="385.4" cy="283.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s4/w20db20w3db3~x2/

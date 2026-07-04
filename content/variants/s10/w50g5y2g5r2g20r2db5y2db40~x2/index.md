@@ -1,0 +1,53 @@
+---
+title: "Cornell (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w50g5y2g5r2g20r2db5y2db40/)
+(the same proportion at any scale), whose colour order is pattern [BGBRGRGGGW](/stripes/bgbrgrgggw/).
+
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3859/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1997 — Cornell (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3859/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#ECE8CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #ECE8CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>Asymmetric sett. A table napkin labelled 'Cornell' in 1997. Sample in STA's Johnston Collection</em></li>
+<li>undated — Cornell (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4959">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#ECE8CC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BW #ECE8CC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCCC00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FCCC00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>A table napkin labelled 'Cornell' in 1997. Sample in Scottish Tartans Authority's Johnston Collection</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4959](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4959)
+- Scottish Tartans Authority (ITI): 3859
+
+## Thread count
+W/100 G10 Y4 G10 R4 G40 R4 DB10 Y4 DB/80
+
+One full sett is **352 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/100 G10 Y4 G10 R4 G40 R4 DB10 Y4 DB/80 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">352</div><div class="nn-name nn-base"><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/">Cornell (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2&amp;base=w50g5y2g5r2g20r2db5y2db40~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">152</div><div class="nn-name"><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/">Michigan, State of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033&amp;base=w50g5y2g5r2g20r2db5y2db40~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/">Michigan State District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072&amp;base=w50g5y2g5r2g20r2db5y2db40~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/">Michigan, State of (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.0" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.4" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.0" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><circle cx="194.9" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/

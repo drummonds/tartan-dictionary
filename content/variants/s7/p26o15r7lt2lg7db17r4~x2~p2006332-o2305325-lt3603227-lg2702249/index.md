@@ -1,0 +1,44 @@
+---
+title: "Redpath, The Ronald"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/p26o15r7lt2lg7db17r4/)
+(the same proportion at any scale), whose colour order is pattern [BRRWYBR](/stripes/brrwybr/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10351
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10351)
+
+## Thread count
+P/52 O30 R14 LT4 LG14 DB34 R/8
+
+One full sett is **252 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#7D9EC0;"><span style="color:#7D9EC0;filter:grayscale(1) invert(1) contrast(100);">#7D9EC0</span></code> <small style="color:#888">#7D9EC0</small></td><td><small style="color:#888">oklch(68.7% 0.062 249.5)</small></td></tr><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>LB</td><td><code style="background-color:#B0E2FF;"><span style="color:#B0E2FF;filter:grayscale(1) invert(1) contrast(100);">#B0E2FF</span></code> <small style="color:#888">#B0E2FF</small></td><td><small style="color:#888">oklch(88.8% 0.065 233.9)</small></td></tr><tr><td>LP</td><td><code style="background-color:#8E388E;"><span style="color:#8E388E;filter:grayscale(1) invert(1) contrast(100);">#8E388E</span></code> <small style="color:#888">#8E388E</small></td><td><small style="color:#888">oklch(49.3% 0.158 327.7)</small></td></tr><tr><td>LPa</td><td><code style="background-color:#9F5F9F;"><span style="color:#9F5F9F;filter:grayscale(1) invert(1) contrast(100);">#9F5F9F</span></code> <small style="color:#888">#9F5F9F</small></td><td><small style="color:#888">oklch(58.0% 0.120 327.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="P/52 O30 R14 LT4 LG14 DB34 R/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s7/p26o15r7lt2lg7db17r4~x2~p2006332-o2305325-lt3603227-lg2702249/">Redpath, The Ronald</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/p26o15r7lt2lg7db17r4~x2~p2006332-o2305325-lt3603227-lg2702249/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227&amp;base=p26o15r7lt2lg7db17r4~x2~p2006332-o2305325-lt3603227-lg2702249" title="compare in the TTD">0.60</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/">Redpath, Ronald (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009&amp;base=p26o15r7lt2lg7db17r4~x2~p2006332-o2305325-lt3603227-lg2702249" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/">Stevens #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp26dpi15r7t2ti7db17r4~x2~dp1105325-dpi1607327-t2405244-ti2503227/"><circle cx="203.2" cy="201.5" r="4" fill="#3465a4"><title>Redpath, Ronald (Personal)</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.8" cy="202.1" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><circle cx="195.5" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/p26o15r7lt2lg7db17r4~x2~p2006332-o2305325-lt3603227-lg2702249/

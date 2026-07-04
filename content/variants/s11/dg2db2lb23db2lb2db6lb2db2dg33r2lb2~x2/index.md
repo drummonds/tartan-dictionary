@@ -1,0 +1,54 @@
+---
+title: "Maine, Original State of (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2db2lb23db2lb2db6lb2db2dg33r2lb2/)
+(the same proportion at any scale), whose colour order is pattern [GBWBWBWBGRW](/stripes/gbwbwbwbgrw/).
+
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/502/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1964 — Maine, Original State of (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/502/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A confusing situation. The Maine tartan is the oldest of American 'state' tartans. Designed 1964 by Sol Gilis of Yarmouth, Nova Scotia and originally woven by the Maine Spinning Company which has now gone out of business. When the tartan was first introduced it was reported in the Glasgow Herald (30.12.65) that it had been 'duly accredited by the State of Maine'. The State archives, however, are unable to locate the authorization. The tartan dropped out of sight and was then re-discovered in 1987 and then woven in Maine in 1988 by Jane Holmes of Plymouth, ME and items made from the fabric are made and sold by her company, the Maine Tartan and Tweed Co. The Maine State Tartan was copyrighted in 1988 by the MTTCo. It was reported that the later variation of this tartan (Maine Dirigo #3068) from the St. Andrew's Society of Maine had been adopted as the official State of Maine Tartan in January 2001 but subsequent information indicated that it had not been considered until Feb. 13th of that year and the recommendation had been that 'it ought not to pass' . . . . and it didn't. There is thus NO OFFICIAL STATE OF MAINE TARTAN although this version here (502) probably has the best claim to the title of the Official Unofficial Maine Tartan. August 2013: Maine Tartan and Tweed Co. were selling this as the Maine State Tartan but now state that they are discontinuing it - probably in favour of thier own 'Maine Arcadia tartan as registered at 10292.</em></li>
+<li>01/01/1965 — Maine, Original State of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2788">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>A confusing situation. The Maine tartan is the oldest of American 'state' tartans. Designed 1964 by Sol Gilis of Yarmouth, Nova Scotia and originally woven by the Maine Spinning Company which has now gone out of business. When the tartan was first introduced it was reported in the Glasgow Herald (30.12.65) that it had been 'duly accredited by the State of Maine'. The State archives, however, are unable to locate the authorization. The tartan dropped out of sight and was then re-discovered in 1987 and then woven in Maine in 1988 by Jane Holmes of Plymouth, ME and items made from the fabric are made and sold by her company, the Maine Tartan and Tweed Co. The Maine State Tartan was copyrighted in 1988 by the MTTCo. Items made out of the Maine Tartan are also available from the Maine State Museum Gift Shop in Augusta, My Maine Bag in Bangor, and Just Me in Portland. Since this #502 is not the official Maine tartan (that is #3068, original Scottish Tartans Authority references), the foregoing information (taken from the Internet in June 2006) is confusing. The later variation of this (Maine Dirigo #3068, original Scottish Tartans Authority reference) has been adopted as the official State of Maine Tartan in January 2001.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2788](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2788)
+- Scottish Tartans Authority (ITI): 502
+- Scottish Tartans World Register: 502
+
+## Thread count
+DG/4 DB4 LB46 DB4 LB4 DB12 LB4 DB4 DG66 R4 LB/4
+
+One full sett is **304 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/4 DB4 LB46 DB4 LB4 DB12 LB4 DB4 DG66 R4 LB/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">304</div><div class="nn-name nn-base"><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/">Maine, Original State of (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g2r2lb23db2lb2db6lb2db2g33r2lb2~x2&amp;base=dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2" title="compare in the TTD">1.00</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/">Maine State</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g2r2lb21db2lb2db6lb2db2g33r2lb2~x2&amp;base=dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2" title="compare in the TTD">1.08</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/">Maine State District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.4" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="287.9" cy="142.3" r="4" fill="#3465a4"><title>Maine State District Tartan</title></circle></a><circle cx="265.0" cy="130.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/

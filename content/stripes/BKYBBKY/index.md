@@ -1,0 +1,35 @@
+---
+title: Pattern BKYBBKY
+date: 2023-03-18
+aliases:
+- /patterns/bkybbky/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BKYBBKY</span></div>
+
+It is a 7 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BKYBBKY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "BKYBBKY" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/">Scrymgeour (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><img src="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/sett.png" alt="Scrymgeour (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

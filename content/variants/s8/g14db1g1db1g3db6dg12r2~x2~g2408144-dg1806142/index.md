@@ -1,0 +1,42 @@
+---
+title: "Cranstoun Clan Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14db1g1db1g3db6dg12r2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGR](/stripes/gbgbgbgr/).
+
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=706
+
+## Provenance
+
+Earliest known date: 1842 References: The Setts No: 35. W & A K Johnston, 1906. D.C.Stewart (The Setts of the Scottish Tartans, 1950) would have the light green and dark green transposed but this does not correspond to the Vestiarium Scoticum, the only known source for the tartan. The VS version is shown.
+
+## Thread count
+G/28 DB2 G2 DB2 G6 DB12 DG24 R/4
+
+One full sett is **128 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>Ga</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/28 DB2 G2 DB2 G6 DB12 DG24 R/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">128</div><div class="nn-name nn-base"><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/">Cranstoun Clan Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142&amp;base=g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142" title="compare in the TTD">0.97</a></div><div class="nn-threads">326</div><div class="nn-name"><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/">Dalwhinnie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144&amp;base=g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142" title="compare in the TTD">2.52</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/">Valley of the Green (The ) Canadian Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144&amp;base=g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142" title="compare in the TTD">2.52</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/">Valley of the Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g28db9dg18w3dg18db9g28r3~x2&amp;base=g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">402</div><div class="nn-name nn-far"><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/">Simple Technology</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144&amp;base=g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142" title="compare in the TTD">2.93</a></div><div class="nn-threads nn-far">140</div><div class="nn-name nn-far"><a href="/variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/">Cranston</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y2dr6g1dg2g12lb1g1lb2~x4&amp;base=g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/">Manitoba</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.8" cy="181.0" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/"><circle cx="272.1" cy="218.1" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan</title></circle></a><a href="/variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/"><circle cx="332.1" cy="242.0" r="4" fill="#3465a4"><title>Valley of the Green</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.5" cy="226.1" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/"><circle cx="259.5" cy="238.9" r="4" fill="#3465a4"><title>Cranston</title></circle></a><a href="/variants/s8/y2dr6g1dg2g12lb1g1lb2~x4/"><circle cx="305.4" cy="192.0" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><circle cx="287.3" cy="202.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/

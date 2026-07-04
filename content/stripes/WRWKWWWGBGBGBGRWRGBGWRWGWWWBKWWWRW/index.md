@@ -1,0 +1,35 @@
+---
+title: Pattern WRWKWWWGBGBGBGRWRGBGWRWGWWWBKWWWRW
+date: 2023-03-18
+aliases:
+- /patterns/wrwkwwwgbgbgbgrwrgbgwrwgwwwbkwwwrw/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WRWKWWWGBGBGBGRWRGBGWRWGWWWBKWWWRW</span></div>
+
+It is a 34 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern WRWKWWWGBGBGBGRWRGBGWRWGWWWBKWWWRW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "WRWKWWWGBGBGBGRWRGBGWRWGWWWBKWWWRW" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/">Hunter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/"><img src="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/sett.png" alt="Hunter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -1,0 +1,53 @@
+---
+title: "Menzies of Culdares"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dr2k22dr22k3dr4lb2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1860 — Menzies of Culdares (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>Obtained from a Peter MacDonald swatch. Peter extracted the design from the original portrait at Castle Menzies. Peter Eslea MacDonald May 07</em></li>
+<li>1860 — Menzies of Culdares (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3467/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><br><em>From portrait at Castle Menzies ca. 1860. Obtained by the late Bill Johnston in 1993 either from a Pringles or Kinloch Anderson exhibition. No. Obtained from a Peter MacDonald swatch. Peter extrcted the design from the original portrait at Castle Menzies. PEM May 07</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5223](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223)
+- Scottish Tartans Authority (ITI): 3467
+
+## Thread count
+K/8 DR4 K44 DR44 K6 DR8 LB/4
+
+One full sett is **224 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LP</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 DR4 K44 DR44 K6 DR8 LB/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">224</div><div class="nn-name nn-base"><a href="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/">Menzies of Culdares</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr2k4dr2k4dr6k1lo1~x4&amp;base=k4dr2k22dr22k3dr4lb2~x2" title="compare in the TTD">0.94</a></div><div class="nn-threads">148</div><div class="nn-name"><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/">MacIan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2dr1k6dr6k1dr1k1~x4&amp;base=k4dr2k22dr22k3dr4lb2~x2" title="compare in the TTD">1.54</a></div><div class="nn-threads">132</div><div class="nn-name"><a href="/variants/s7/k2dr1k6dr6k1dr1k1~x4/">Campbell of Lochlane</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k2dr1k6dr6k1dr1k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg28r4k25r22dg27r4k2~x2&amp;base=k4dr2k22dr22k3dr4lb2~x2" title="compare in the TTD">2.39</a></div><div class="nn-threads nn-far">388</div><div class="nn-name nn-far"><a href="/variants/s7/dg28r4k25r22dg27r4k2~x2/">Glasgow, City of District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg28r4k25r22dg27r4k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k8dr49k8lb3k20lo3~x2&amp;base=k4dr2k22dr22k3dr4lb2~x2" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">342</div><div class="nn-name nn-far"><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/">Dunbar (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k8dr49k8lb3k20lo3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><circle cx="273.1" cy="245.3" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/variants/s7/k2dr1k6dr6k1dr1k1~x4/"><circle cx="376.3" cy="241.3" r="4" fill="#3465a4"><title>Campbell of Lochlane</title></circle></a><a href="/variants/s7/dg28r4k25r22dg27r4k2~x2/"><circle cx="252.4" cy="199.4" r="4" fill="#3465a4"><title>Glasgow, City of District Tartan</title></circle></a><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><circle cx="325.8" cy="157.7" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><circle cx="330.8" cy="188.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/k4dr2k22dr22k3dr4lb2~x2/

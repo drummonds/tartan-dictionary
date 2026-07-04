@@ -1,0 +1,55 @@
+---
+title: "Glen Erin Canadian Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16dg8dbi8dg8db16r3dy3g3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBRGG](/stripes/bgbgbrgg/).
+
+Part of the [Glen Erin](/tartans/glen-erin/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1909
+
+## Provenance
+
+Earliest known date: pre 2003 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history.
+
+## Thread count
+DB/32 DG16 DBi16 DG16 DB32 R6 DY6 G/6
+
+One full sett is **222 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>DBa</td><td><code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> <small style="color:#888">#202060</small></td><td><small style="color:#888">oklch(28.9% 0.111 276.9)</small></td></tr><tr><td>G</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>Ga</td><td><code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> <small style="color:#888">#289C18</small></td><td><small style="color:#888">oklch(60.6% 0.191 141.6)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>T</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/32 DG16 DBi16 DG16 DB32 R6 DY6 G/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.84** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/db16dg8t8dg8db16r3do3g3/"><img src="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/db16dg8t8dg8db16r3do3g3/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">222</div><div class="nn-name nn-base"><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/">Glen Erin Canadian Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114&amp;base=db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144" title="compare in the TTD">0.30</a></div><div class="nn-threads">222</div><div class="nn-name"><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/">Glen Erin</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.60</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/">Glen Erin</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.09</div><div class="nn-threads nn-far">—</div><div class="nn-name nn-far"><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/">United Services Planning Assoc Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg3lo2o10dg10db20dg12r3db10w2~x2&amp;base=db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/">Patel Name Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.87</div><div class="nn-threads nn-far">—</div><div class="nn-name nn-far"><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/">Remember the Somme 1916</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057&amp;base=db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">400</div><div class="nn-name nn-far"><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/">Unidentified 2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><circle cx="230.4" cy="242.8" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/"><circle cx="176.8" cy="221.2" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/"><circle cx="260.8" cy="212.3" r="4" fill="#3465a4"><title>United Services Planning Assoc Corporate Tartan</title></circle></a><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="196.4" cy="191.6" r="4" fill="#3465a4"><title>Patel Name Tartan</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="210.9" cy="187.8" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="175.6" cy="234.3" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><circle cx="244.6" cy="244.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/

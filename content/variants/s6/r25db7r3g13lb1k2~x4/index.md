@@ -1,0 +1,63 @@
+---
+title: "MacPhail"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r25db7r3g13lb1k2/)
+(the same proportion at any scale), whose colour order is pattern [KWGRBR](/stripes/kwgrbr/).
+
+Part of the [MacPhail](/tartans/macphail-2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Provenance
+
+Earliest known date: pre 1950 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950.
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacPhail (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5480B0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5480B0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span></li>
+<li>undated — MacPhail Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1028">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span></li>
+</ul>
+</details>
+
+## Thread count
+R/100 DB28 R12 G52 LB4 K/8
+
+One full sett is **300 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>Ba</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/100 DB28 R12 G52 LB4 K/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.92** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r40t8r6g24lb1k4/"><img src="/variants/s6/r40t8r6g24lb1k4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r40t8r6g24lb1k4/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s6/r25db7r3g13lb1k2~x4/">MacPhail</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r25db7r3g13lb1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r40t8r6g24lb1k4~x2&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">0.47</a></div><div class="nn-threads">244</div><div class="nn-name"><a href="/variants/s6/r40t8r6g24lb1k4~x2/">MacPhail (Blue Bands)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r40t8r6g24lb1k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r100k15g48db5r7db16~x2&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">0.97</a></div><div class="nn-threads">532</div><div class="nn-name"><a href="/variants/s6/r100k15g48db5r7db16~x2/">Plummer (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r100k15g48db5r7db16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r25k7r3g13lb1k2~x4&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.30</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s6/r25k7r3g13lb1k2~x4/">MacPhail</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r25k7r3g13lb1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r25k7r3g13y1k2~x4&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.30</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s6/r25k7r3g13y1k2~x4/">MacPhail</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r25k7r3g13y1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15k10r30dp2r20w1~x2&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.47</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s6/g15k10r30dp2r20w1~x2/">Kinnaird (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g15k10r30dp2r20w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r40lb11w2k12g36r32~x2&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.61</a></div><div class="nn-threads">388</div><div class="nn-name"><a href="/variants/s6/r40lb11w2k12g36r32~x2/">Caithness (1848) (District?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r40lb11w2k12g36r32~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4k2dg28r38k1ly4~x2&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.67</a></div><div class="nn-threads">292</div><div class="nn-name"><a href="/variants/s6/r4k2dg28r38k1ly4~x2/">Wcwm 9275 5471-1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4k2dg28r38k1ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r60k2w3dg20r10dg20~x2&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.69</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s6/r60k2w3dg20r10dg20~x2/">Greig (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r60k2w3dg20r10dg20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r36t8w1k5g20r18~x4&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.75</a></div><div class="nn-threads">488</div><div class="nn-name"><a href="/variants/s6/r36t8w1k5g20r18~x4/">Sinclair</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r36t8w1k5g20r18~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r35g16r5g5w2k3~x2&amp;base=r25db7r3g13lb1k2~x4" title="compare in the TTD">1.87</a></div><div class="nn-threads">188</div><div class="nn-name"><a href="/variants/s6/r35g16r5g5w2k3~x2/">MacGregor</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r35g16r5g5w2k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r40t8r6g24lb1k4~x2/"><circle cx="323.8" cy="116.2" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="291.8" cy="134.9" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="328.7" cy="130.3" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="247.9" cy="166.0" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.1" cy="131.4" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.0" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r35g16r5g5w2k3~x2/"><circle cx="351.7" cy="150.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="292.4" cy="129.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/r25db7r3g13lb1k2~x4/

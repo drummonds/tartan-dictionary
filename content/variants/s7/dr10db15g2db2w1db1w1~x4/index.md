@@ -1,0 +1,44 @@
+---
+title: "Ikelman #4 (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr10db15g2db2w1db1w1/)
+(the same proportion at any scale), whose colour order is pattern [BBGBWBW](/stripes/bbgbwbw/).
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2224/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2224
+
+## Thread count
+DR/40 DB60 G8 DB8 W4 DB4 W/4
+
+One full sett is **212 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/40 DB60 G8 DB8 W4 DB4 W/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">212</div><div class="nn-name nn-base"><a href="/variants/s7/dr10db15g2db2w1db1w1~x4/">Ikelman #4 (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dr10db15g2db2w1db1w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2y1db18g7r7db1g1~x2&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">142</div><div class="nn-name nn-far"><a href="/variants/s7/db2y1db18g7r7db1g1~x2/">Unnamed C20th - USA</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db2y1db18g7r7db1g1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3lb14db3n16db34r3~x2&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s6/db3lb14db3n16db34r3~x2/">Thorburn (Lochcarron)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3lb14db3n16db34r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2db15r3g3r3db1~x8&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.67</a></div><div class="nn-threads nn-far">408</div><div class="nn-name nn-far"><a href="/variants/s6/w2db15r3g3r3db1~x8/">Lothian Buses (Corporate?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w2db15r3g3r3db1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db22y2db1y2db10r2g11r6~x2&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.74</a></div><div class="nn-threads nn-far">168</div><div class="nn-name nn-far"><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/">Katsushika Scottish Country Dancers</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db22y2db1y2db10r2g11r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.74</a></div><div class="nn-threads nn-far">168</div><div class="nn-name nn-far"><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/">Katsushika (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y3db34dg5w2dg2w10db4lr3~x2&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.82</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/">Royal Troon Golf Club, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db26dr6g16db8g3dr2~x2&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s6/db26dr6g16db8g3dr2~x2/">Perthshire (New) District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db26dr6g16db8g3dr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg4db12r3db12dg32w4~x2&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">252</div><div class="nn-name nn-far"><a href="/variants/s6/dg4db12r3db12dg32w4~x2/">MacIntyre</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg4db12r3db12dg32w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db21n2lr1n2db1dr2db1y6~x4&amp;base=dr10db15g2db2w1db1w1~x4" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">180</div><div class="nn-name nn-far"><a href="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/">Blue Rust (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.5" cy="166.3" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.0" cy="205.7" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="325.3" cy="171.0" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.1" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s8/y3db34dg5w2dg2w10db4lr3~x2/"><circle cx="327.3" cy="142.2" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="378.9" cy="244.0" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan</title></circle></a><a href="/variants/s6/dg4db12r3db12dg32w4~x2/"><circle cx="328.7" cy="216.8" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/"><circle cx="439.5" cy="150.1" r="4" fill="#3465a4"><title>Blue Rust (Corporate)</title></circle></a><circle cx="371.1" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/dr10db15g2db2w1db1w1~x4/

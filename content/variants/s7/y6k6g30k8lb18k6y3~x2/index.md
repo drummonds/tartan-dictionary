@@ -1,0 +1,44 @@
+---
+title: "Cape Breton (yellow stripes) (Dist)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6k6g30k8lb18k6y3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKWKG](/stripes/gkgkwkg/).
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1883/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1883
+
+## Thread count
+Y/12 K12 G60 K16 LB36 K12 Y/6
+
+One full sett is **290 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LG</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>N</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/12 K12 G60 K16 LB36 K12 Y/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">290</div><div class="nn-name nn-base"><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/">Cape Breton (yellow stripes) (Dist)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/y6k6g30k8lb18k6y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.00</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/">Cape Breton (yellow stripes)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ly4k2t20k10g15k2r3~x2&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">0.88</a></div><div class="nn-threads">210</div><div class="nn-name"><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/">MacLeod (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly4k2t20k10g15k2r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y4k2t20k10g15k2r3~x2&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">0.88</a></div><div class="nn-threads">210</div><div class="nn-name"><a href="/variants/s7/y4k2t20k10g15k2r3~x2/">Green MacLeod</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y4k2t20k10g15k2r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y5k5g17k6n24k6y3~x2&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">1.56</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s7/y5k5g17k6n24k6y3~x2/">Cape Breton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y5k5g17k6n24k6y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3k2g20k10t20y2~x2&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">1.66</a></div><div class="nn-threads">218</div><div class="nn-name"><a href="/variants/s6/r3k2g20k10t20y2~x2/">MacLeod of Assynt</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3k2g20k10t20y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2g11y1k8t9r2~x4&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">2.12</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s6/k2g11y1k8t9r2~x4/">Forsyth (1795)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8t9r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5g18y2k14lb5k4~x2&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">2.22</a></div><div class="nn-threads nn-far">174</div><div class="nn-name nn-far"><a href="/variants/s6/r5g18y2k14lb5k4~x2/">Dahlonega (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5g18y2k14lb5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2g9lb1k6b4g2~x2&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">88</div><div class="nn-name nn-far"><a href="/variants/s6/k2g9lb1k6b4g2~x2/">Unnamed 3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g9lb1k6b4g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2g12k11t12w1~x2&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">2.26</a></div><div class="nn-threads nn-far">146</div><div class="nn-name nn-far"><a href="/variants/s5/k2g12k11t12w1~x2/">MacKirdy (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2g12k11t12w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t12k4g6ly1~x8&amp;base=y6k6g30k8lb18k6y3~x2" title="compare in the TTD">2.35</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s4/t12k4g6ly1~x8/">Sinclair of Ulbster</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/t12k4g6ly1~x8/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.1" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="178.5" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="123.9" cy="179.9" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><circle cx="150.3" cy="209.7" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/variants/s6/r3k2g20k10t20y2~x2/"><circle cx="139.2" cy="189.3" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.4" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="118.9" cy="189.3" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.1" cy="212.5" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2/"><circle cx="142.8" cy="215.4" r="4" fill="#3465a4"><title>MacKirdy (Clan)</title></circle></a><a href="/variants/s4/t12k4g6ly1~x8/"><circle cx="155.4" cy="219.9" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><circle cx="142.3" cy="190.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/y6k6g30k8lb18k6y3~x2/

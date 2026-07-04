@@ -1,0 +1,53 @@
+---
+title: "Kang (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db44k3db3k3db3k14y4k3w2k2w2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKW](/stripes/bkbkbkgkwkw/).
+
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7425/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2007 — Kang (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7425/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#38409C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XB #38409C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8DC14;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8DC14"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>My husband and I would like to design our own tartan then order your worsted sample with kilt package. We already have a good idea of our colours and pattern, but we need to check the scale of the pattern is appropriate and confirm actual thread colours that would be used. We would like to visit your shop in Comrie and finalise the design. Thanks, Catriona Duffy</em></li>
+<li>undated — Kang (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5497">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#38409C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XB #38409C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8DC14;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8DC14"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>This and the other Irish county crest range appear to be a partnership between Viking Technology of Glasgow and Marton Mills of Yorkshire. Despite advice sought by Viking Technology, these were named as the County Crest Range although the name causes confusion with the pre-existing and long-established Irish county range produced in 1996 by The House of Edgar. The names of the Viking Technology/Marton Mills range have, for the purposes of this database and to avoid such confusion, been altered to the county name with the suffix of 'Crest.'</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5497](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5497)
+- Scottish Tartans Authority (ITI): 7425
+
+## Thread count
+DB/88 K6 DB6 K6 DB6 K28 Y8 K6 W4 K4 W/4
+
+One full sett is **240 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/88 K6 DB6 K6 DB6 K28 Y8 K6 W4 K4 W/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">240</div><div class="nn-name nn-base"><a href="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/">Kang (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4db4k2db31k10y3db5k11db6k3~x2&amp;base=db44k3db3k3db3k14y4k3w2k2w2~x2" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">302</div><div class="nn-name nn-far"><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/">MacArthur Fox Green (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db68o5k9o3k3lb3k3n20db9k3db5lb4&amp;base=db44k3db3k3db3k14y4k3w2k2w2~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">198</div><div class="nn-name nn-far"><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/">British Caledonian Airways #1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb3k6w2k6db2k2db32k2n1~x2&amp;base=db44k3db3k3db3k14y4k3w2k2w2~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/">Nocken Blue Modern Tartan (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2&amp;base=db44k3db3k3db3k14y4k3w2k2w2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/">Brough from Orkney (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4n8db54y6db23n4k4r14k4n2db2k4db4&amp;base=db44k3db3k3db3k14y4k3w2k2w2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">258</div><div class="nn-name nn-far"><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/">Blue Brough from Orkney</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db42k6db3k3db3w5db17w7dy10k3~x2&amp;base=db44k3db3k3db3k14y4k3w2k2w2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">306</div><div class="nn-name nn-far"><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/">California Riverside, University of (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.5" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.4" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="341.2" cy="79.7" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.1" cy="78.0" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.4" cy="82.7" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.1" cy="133.9" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><circle cx="344.2" cy="93.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/

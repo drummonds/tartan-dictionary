@@ -1,0 +1,45 @@
+---
+title: "Outdoorsmen (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t3k1g4k1t4g9k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBGK](/stripes/bkgkbgk/).
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8037/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8037](https://www.tartanregister.gov.uk/tartanDetails?ref=8037)
+- Scottish Tartans Authority (ITI): 8037
+
+## Thread count
+T/12 K4 G16 K4 T16 G36 K/8
+
+One full sett is **172 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/12 K4 G16 K4 T16 G36 K/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">172</div><div class="nn-name nn-base"><a href="/variants/s7/t3k1g4k1t4g9k2~x4/">Outdoorsmen (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/t3k1g4k1t4g9k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t5k1g3k1t3k1g10r3~x2&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">0.59</a></div><div class="nn-threads">92</div><div class="nn-name"><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/">Ayrton 1979 No. 2 (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/t5k1g3k1t3k1g10r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db6k1g3k1db3k1g10r3~x2&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">0.67</a></div><div class="nn-threads">94</div><div class="nn-name"><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/">AIton - 1979 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db6k1g3k1db3k1g10r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g40k20lb10k4lb7g13k4lb4~x2&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">1.54</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/">Letham (S.Australia)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9t4k4t3k4t4g9k2~x4&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">268</div><div class="nn-name nn-far"><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/">Keith Clan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9lb1g6k7db7k1~x4&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">208</div><div class="nn-name nn-far"><a href="/variants/s6/g9lb1g6k7db7k1~x4/">Menteith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g9lb1g6k7db7k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9w1g6k7db7k1~x2&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">104</div><div class="nn-name nn-far"><a href="/variants/s6/g9w1g6k7db7k1~x2/">Menteith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g9w1g6k7db7k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g24k2db3k2db8r2~x2&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">112</div><div class="nn-name nn-far"><a href="/variants/s6/g24k2db3k2db8r2~x2/">Shaw (Clan 1)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g24k2db3k2db8r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g2k3y1k3g2db8g16k1~x4&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/">Harley (Leslie), Robert</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g2k3y1k3g2db8g16k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g13k3g34k6db16r2db16k3g13~x2&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">372</div><div class="nn-name nn-far"><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/">Lockhart</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g13k2g34k6t16r2t16k2g13~x2&amp;base=t3k1g4k1t4g9k2~x4" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">364</div><div class="nn-name nn-far"><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/">Lockhart</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/"><circle cx="227.1" cy="197.0" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.3" cy="188.5" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="190.9" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/"><circle cx="165.2" cy="267.9" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><circle cx="187.6" cy="225.7" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.1" cy="224.7" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.2" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.0" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="276.9" cy="168.3" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="180.8" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><circle cx="266.2" cy="226.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/t3k1g4k1t4g9k2~x4/

@@ -1,0 +1,45 @@
+---
+title: "Creek Indian Nation"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2g4y1db1r2/)
+(the same proportion at any scale), whose colour order is pattern [BGGBR](/stripes/bggbr/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=802
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [802](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=802)
+- Scottish Tartans Authority (ITI): 4610
+
+## Thread count
+DB/24 G48 Y12 DB12 R/24
+
+One full sett is **192 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/24 G48 Y12 DB12 R/24 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">192</div><div class="nn-name nn-base"><a href="/variants/s5/db2g4y1db1r2~x12/">Creek Indian Nation</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/db2g4y1db1r2~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g7lb2r4~x2~r2109032&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">0.68</a></div><div class="nn-threads">30</div><div class="nn-name"><a href="/variants/s3/g7lb2r4~x2~r2109032/">Wilson's No.208</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g7lb2r4~x2~r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3g6y1r3~x10&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">1.56</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s4/db3g6y1r3~x10/">Delroeux, John Michael (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6y1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3g6ly1r3~x10&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">1.56</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s4/db3g6ly1r3~x10/">Delroeux (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db3g6ly1r3~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb2r4g5y1~x4&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">1.68</a></div><div class="nn-threads">84</div><div class="nn-name"><a href="/variants/s4/lb2r4g5y1~x4/">Wilson's No.203</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/lb2r4g5y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15r3db11lb2~x2&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">1.80</a></div><div class="nn-threads">90</div><div class="nn-name"><a href="/variants/s4/g15r3db11lb2~x2/">MacNab</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g15r3db11lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n25g25k6dp10r6~x2~n2203265-dp1502305&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">1.81</a></div><div class="nn-threads">226</div><div class="nn-name"><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/">Breon (Jersey Shore, Pennsylvania) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g14r3db9lb2~x2&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">1.85</a></div><div class="nn-threads">80</div><div class="nn-name"><a href="/variants/s4/g14r3db9lb2~x2/">Unidentified #4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g14r3db9lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db14g21db4r21db14y2~x2&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">1.89</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s6/db14g21db4r21db14y2~x2/">Kilgour</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db14g21db4r21db14y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g21db34r14w6~x2&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">246</div><div class="nn-name nn-far"><a href="/variants/s4/g21db34r14w6~x2/">Harbison (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g21db34r14w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db21g34r14w6~x2&amp;base=db2g4y1db1r2~x12" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">246</div><div class="nn-name nn-far"><a href="/variants/s4/db21g34r14w6~x2/">Harbison (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db21g34r14w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.5" cy="327.2" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.5" cy="284.3" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.3" cy="282.2" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.5" cy="298.9" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.3" cy="258.6" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.3" cy="262.1" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.0" cy="261.8" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.2" cy="239.4" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.1" cy="277.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="194.9" cy="279.1" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><circle cx="182.9" cy="293.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/db2g4y1db1r2~x12/

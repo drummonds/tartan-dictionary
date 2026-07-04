@@ -1,0 +1,53 @@
+---
+title: "Milligan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t52g21t6g16k4g16/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKG](/stripes/bgbgkg/).
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Milligan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>One of a series of Irish name tartans designed by Scotch Corner of Gateshead, England.</em></li>
+<li>pre 2003 — Milligan (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6035/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1870A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="AB #1870A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Thought to be one of Scotch Corner's unofficial Irish family tartans with no provenance. . Woven by Lochcarron. Lochcarron swatch. A poor graphic on the Scotch Corner website seems to show the black lines as red.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2952](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952)
+- Scottish Tartans Authority (ITI): 6035
+
+## Thread count
+T/104 G42 T12 G32 K8 G/32
+
+One full sett is **324 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/104 G42 T12 G32 K8 G/32 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">324</div><div class="nn-name nn-base"><a href="/variants/s6/t52g21t6g16k4g16~x2/">Milligan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/t52g21t6g16k4g16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g1b8g8r1g8b8w1~x4&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">1.20</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s7/g1b8g8r1g8b8w1~x4/">MacKinnon Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g1b8g8r1g8b8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g1b8g8r1g8b8w1~x2&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">1.20</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s7/g1b8g8r1g8b8w1~x2/">MacKinnon Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g1b8g8r1g8b8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g2b10o15g10b2~x4&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">1.94</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s5/g2b10o15g10b2~x4/">Harmony, 6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6b1g7w1b7r1~x4&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s6/g6b1g7w1b7r1~x4/">Norris (1957) (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g6b1g7w1b7r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6b1g7w1b7r1~x4~w4000000-r2109032&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/">Norris (1957)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y3g2k1g30t24k2t2k2~x2&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/">Johnston (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y3g2k1g30t24k2t2k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10b4g1b4g15r4g1~x4&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">268</div><div class="nn-name nn-far"><a href="/variants/s7/g10b4g1b4g15r4g1~x4/">Logan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g10b4g1b4g15r4g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t62g5t3g22k3g3y3g3k6~x2&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">2.39</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s9/t62g5t3g22k3g3y3g3k6~x2/">Oliver Hunting - 1973 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/t62g5t3g22k3g3y3g3k6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db5dg8k1y2k1dg8db4~x4&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">196</div><div class="nn-name nn-far"><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/">Salvation Army Htg (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db5dg8k1y2k1dg8db4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o20g40w5g40o20g9~x2&amp;base=t52g21t6g16k4g16~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">478</div><div class="nn-name nn-far"><a href="/variants/s6/o20g40w5g40o20g9~x2/">O'Neill (Australia)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o20g40w5g40o20g9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1b8g8r1g8b8w1~x4/"><circle cx="316.9" cy="253.7" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="316.9" cy="253.7" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="302.8" cy="296.0" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4/"><circle cx="333.2" cy="254.8" r="4" fill="#3465a4"><title>Norris (1957) (Name)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/"><circle cx="332.2" cy="254.6" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><circle cx="350.4" cy="143.7" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/variants/s7/g10b4g1b4g15r4g1~x4/"><circle cx="464.9" cy="227.8" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s9/t62g5t3g22k3g3y3g3k6~x2/"><circle cx="385.0" cy="137.0" r="4" fill="#3465a4"><title>Oliver Hunting - 1973 (Clan)</title></circle></a><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/"><circle cx="339.3" cy="247.0" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/variants/s6/o20g40w5g40o20g9~x2/"><circle cx="462.4" cy="294.7" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><circle cx="406.9" cy="253.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/t52g21t6g16k4g16~x2/

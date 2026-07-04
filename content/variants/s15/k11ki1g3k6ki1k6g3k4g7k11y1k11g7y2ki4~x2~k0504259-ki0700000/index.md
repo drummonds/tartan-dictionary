@@ -1,0 +1,58 @@
+---
+title: "Eynon (Welsh Name)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4/)
+(the same proportion at any scale), whose colour order is pattern [KGGKGKGKGKKKGKK](/stripes/kggkgkgkgkkkgkk/).
+
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7860/
+
+## Provenance
+
+Earliest known date: pre 2008 The tartan for this Welsh surname and its variation, Beynon, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales.
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Eynon (Welsh Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7860/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8A400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C8A400"></span><br><em>The tartan for this Welsh surname and its variations, is commercially accepted as a tartan or ?plaid? in Wales, this is one of the tartans actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant ?stripe?, vertically noticeable in the finished Kilt, or ?Cilt? in Wales. Available from Wales Tartan Centres in Swansea, +44 (0)1792 474685.</em></li>
+<li>undated — Eynon of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5811">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8A400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C8A400"></span><br><em>Different warp & weft. Eynon is derived from the Welsh name Einion or Einon meaning 'anvil'. Despite there being no known tradition of tartan in Wales, this is one of a growing series of commercial Welsh 'name' tartans marketed by the Wales Tartan Centre in Cardiff. Their inclusion in this Index does not confer upon them ANY historical or genealogical credibility and the use of the words 'of Wales' is not of conventional territorial significance but is purely to identify the source and thus avoid confusion with surnames which have a genuine tartan connection.. Designed for The Wales Tartan Centre in Cardiff by Sheila Daniel of Cambrian Woollen Mill, Powys, they're unusual in that almost all of them incorporate odd numbered threads and have quite different warp & weft, both in thread numbers and sometimes colours. This places the classification of some of them as tartans in some doubt. Welsh Tartan Centre 01792 301144</em></li>
+<li>undated — Eynon Welsh Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7860">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#00002C;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="VDB #00002C"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8A400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #C8A400"></span></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5811](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5811)
+- Scottish Tartans Authority (ITI): 7860
+
+## Thread count
+K/22 Ki2 G6 K12 Ki2 K12 G6 K8 G14 K22 Y2 K22 G14 Y4 Ki/8
+
+One full sett is **282 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#00002C;"><span style="color:#00002C;filter:grayscale(1) invert(1) contrast(100);">#00002C</span></code> <small style="color:#888">#00002C</small></td><td><small style="color:#888">oklch(13.2% 0.092 264.1)</small></td></tr><tr><td>DY</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/22 Ki2 G6 K12 Ki2 K12 G6 K8 G14 K22 Y2 K22 G14 Y4 Ki/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">282</div><div class="nn-name nn-base"><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/">Eynon (Welsh Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4&amp;base=k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000" title="compare in the TTD">0.00</a></div><div class="nn-threads">141</div><div class="nn-name"><a href="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/">Beynon</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/"><circle cx="299.3" cy="179.7" r="4" fill="#3465a4"><title>Beynon</title></circle></a><circle cx="279.9" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/

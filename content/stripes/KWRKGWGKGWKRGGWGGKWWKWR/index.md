@@ -1,0 +1,35 @@
+---
+title: Pattern KWRKGWGKGWKRGGWGGKWWKWR
+date: 2023-03-18
+aliases:
+- /patterns/kwrkgwgkgwkrggwggkwwkwr/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KWRKGWGKGWKRGGWGGKWWKWR</span></div>
+
+It is a 23 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KWRKGWGKGWKRGGWGGKWWKWR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "KWRKGWGKGWKRGGWGGKWWKWR" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s23/r88w2k4lb8w2k2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/">MacLeod of Gesto #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s23/r88w2k4lb8w2k2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/"><img src="/variants/s23/r88w2k4lb8w2k2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/sett.png" alt="MacLeod of Gesto #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

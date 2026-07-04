@@ -1,0 +1,45 @@
+---
+title: "Highland Greenford (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g50dy25ly2dp6/)
+(the same proportion at any scale), whose colour order is pattern [BYGG](/stripes/bygg/).
+
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10498/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10498](https://www.tartanregister.gov.uk/tartanDetails?ref=10498)
+- Scottish Tartans Authority (ITI): 10498
+
+## Thread count
+G/100 DY50 LY4 DP/12
+
+One full sett is **220 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DP</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LG</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>T</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/100 DY50 LY4 DP/12 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s4/g50dy25ly2dp6~x2/">Highland Greenford (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/g50dy25ly2dp6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb9g52dy15ly4~x2&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">294</div><div class="nn-name"><a href="/variants/s4/lb9g52dy15ly4~x2/">McGuigan, Julia (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/lb9g52dy15ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy22dp1g22r4~x4&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">1.29</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s4/dy22dp1g22r4~x4/">McWilliams Hunting (2014)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dy22dp1g22r4~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db5ly5dy13g41r3~x2&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">1.34</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s5/db5ly5dy13g41r3~x2/">Clare, Richard (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db5ly5dy13g41r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp4g10r1y1~x2&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">1.58</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dp4g10r1y1~x2/">Wilson's, No 192</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp4g10r1y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp4g10r1y1~x2~dp1105325-r2109032&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">1.58</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/">Wilson's No.192</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.64</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/">Clare (Prince George) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg60ly16dp8db2dy3~x2~dg1504144-ly3104101&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">1.83</a></div><div class="nn-threads">230</div><div class="nn-name"><a href="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/">Isle of Raasay</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9dy20g40w5~x2&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads">268</div><div class="nn-name"><a href="/variants/s4/g9dy20g40w5~x2/">O'Neill Irish Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g9dy20g40w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg21y43dg86lb10&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">2.01</a></div><div class="nn-threads nn-far">289</div><div class="nn-name nn-far"><a href="/variants/s4/dg21y43dg86lb10/">Special Saffron Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dg21y43dg86lb10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w1g10dp4lt1~x2&amp;base=g50dy25ly2dp6~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">60</div><div class="nn-name nn-far"><a href="/variants/s4/w1g10dp4lt1~x2/">Wilson's No.205</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/w1g10dp4lt1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.4" cy="241.2" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="340.9" cy="222.1" r="4" fill="#3465a4"><title>McWilliams Hunting (2014)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.1" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.3" cy="232.5" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="371.5" cy="230.5" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><circle cx="359.1" cy="189.2" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/"><circle cx="450.7" cy="161.8" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.3" cy="284.6" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="450.9" cy="285.4" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.1" cy="241.4" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><circle cx="433.9" cy="221.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s4/g50dy25ly2dp6~x2/

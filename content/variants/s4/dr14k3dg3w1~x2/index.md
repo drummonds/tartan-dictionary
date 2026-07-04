@@ -1,0 +1,55 @@
+---
+title: "Bacon, Red (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr14k3dg3w1/)
+(the same proportion at any scale), whose colour order is pattern [BKGW](/stripes/bkgw/).
+
+Part of the [Bacon](/tartans/bacon/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3627/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Bacon, Red (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3627/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No details. Assumed Fashion.</em></li>
+<li>undated — Bacon, Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5148">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>No details.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5148](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5148)
+- Scottish Tartans Authority (ITI): 3627
+
+## Thread count
+DR/28 K6 DG6 W/2
+
+One full sett is **54 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/28 K6 DG6 W/2 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">54</div><div class="nn-name nn-base"><a href="/variants/s4/dr14k3dg3w1~x2/">Bacon, Red (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/dr14k3dg3w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k50db3y3dr50~x2&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.00</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s4/k50db3y3dr50~x2/">Hungerford RFC (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k50db3y3dr50~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g1r8k13ly1~x6&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s4/g1r8k13ly1~x6/">Billy Apple</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g1r8k13ly1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g3y5r13k33w2~x2&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.14</a></div><div class="nn-threads">214</div><div class="nn-name"><a href="/variants/s5/g3y5r13k33w2~x2/">Papua New Guinea Pipes and Drums</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g3y5r13k33w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g3y5r14k36w3~x2&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.17</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s5/g3y5r14k36w3~x2/">Papua New Guinea</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g3y5r14k36w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r17db7y8dg58k6~x2&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.18</a></div><div class="nn-threads">338</div><div class="nn-name"><a href="/variants/s5/r17db7y8dg58k6~x2/">St Johns County's Sheriff's Office</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r17db7y8dg58k6~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr6dg13k5dr20w3~x2&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.48</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s5/dr6dg13k5dr20w3~x2/">Ryutokukan Junior High School (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr6dg13k5dr20w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt30lb2k6db3r3~x4&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.49</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s5/dt30lb2k6db3r3~x4/">Edinburgh Crystal</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dt30lb2k6db3r3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt30w2k6db3r3~x4&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s5/dt30w2k6db3r3~x4/">Edinburgh Crystal (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dt30w2k6db3r3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k65dr27w2k4y5~x2&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.69</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/k65dr27w2k4y5~x2/">Perry Dress (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k65dr27w2k4y5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr80lb40k5dy6&amp;base=dr14k3dg3w1~x2" title="compare in the TTD">1.77</a></div><div class="nn-threads">176</div><div class="nn-name"><a href="/variants/s4/dr80lb40k5dy6/">Broberg (Scania) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dr80lb40k5dy6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k50db3y3dr50~x2/"><circle cx="341.1" cy="200.4" r="4" fill="#3465a4"><title>Hungerford RFC (Corporate)</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="177.6" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.5" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="147.8" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="318.9" cy="183.0" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.2" cy="238.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="395.0" cy="157.1" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s5/dt30w2k6db3r3~x4/"><circle cx="376.9" cy="151.4" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.7" cy="130.3" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="334.7" cy="175.9" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><circle cx="395.2" cy="189.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s4/dr14k3dg3w1~x2/

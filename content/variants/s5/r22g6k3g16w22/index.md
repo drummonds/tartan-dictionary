@@ -1,0 +1,46 @@
+---
+title: "Inverness Basque"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r22g6k3g16w22/)
+(the same proportion at any scale), whose colour order is pattern [RGKGW](/stripes/rgkgw/).
+
+Part of the [Inverness Basque](/tartans/inverness-basque/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10067
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10067](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10067)
+
+## Thread count
+R/22 G6 K3 G16 W/22
+
+One full sett is **94 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/22 G6 K3 G16 W/22 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">94</div><div class="nn-name nn-base"><a href="/variants/s5/r22g6k3g16w22/">Inverness Basque</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r22g6k3g16w22/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r33g9k5g24w33~x2&amp;base=r22g6k3g16w22" title="compare in the TTD">0.13</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s5/r33g9k5g24w33~x2/">Inverness Basque (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r33g9k5g24w33~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5db4g24r21w3~x2&amp;base=r22g6k3g16w22" title="compare in the TTD">1.92</a></div><div class="nn-threads">212</div><div class="nn-name"><a href="/variants/s5/k5db4g24r21w3~x2/">Sachie Hara Scottish Check (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k5db4g24r21w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3r22lb5g10k10g2~x2&amp;base=r22g6k3g16w22" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">198</div><div class="nn-name nn-far"><a href="/variants/s6/g3r22lb5g10k10g2~x2/">Strathspey, Check</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3r22lb5g10k10g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2ly1r5k4g5w1~x4&amp;base=r22g6k3g16w22" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">132</div><div class="nn-name nn-far"><a href="/variants/s6/r2ly1r5k4g5w1~x4/">Aboyne II (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2ly1r5k4g5w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr36w3lo4g24w24k3lo6~x2&amp;base=r22g6k3g16w22" title="compare in the TTD">2.43</a></div><div class="nn-threads nn-far">316</div><div class="nn-name nn-far"><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/">MacLachlan Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dr36w3lo4g24w24k3lo6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg7dr7w7r1~x6&amp;base=r22g6k3g16w22" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s4/dg7dr7w7r1~x6/">MacKinnon Dress Hunting (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dg7dr7w7r1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5g7k2lb1~x4&amp;base=r22g6k3g16w22" title="compare in the TTD">2.63</a></div><div class="nn-threads nn-far">96</div><div class="nn-name nn-far"><a href="/variants/s4/r5g7k2lb1~x4/">Wilson's No.195</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r5g7k2lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9dr7w7r1~x4&amp;base=r22g6k3g16w22" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s4/g9dr7w7r1~x4/">MacKinnon Dress Trade Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g9dr7w7r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n25k4w8r16~x4&amp;base=r22g6k3g16w22" title="compare in the TTD">2.76</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s4/n25k4w8r16~x4/">Buckeye</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/n25k4w8r16~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3k1g1k1w3~x4&amp;base=r22g6k3g16w22" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">48</div><div class="nn-name nn-far"><a href="/variants/s5/r3k1g1k1w3~x4/">Clark</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3k1g1k1w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r33g9k5g24w33~x2/"><circle cx="114.8" cy="243.3" r="4" fill="#3465a4"><title>Inverness Basque (District)</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.0" cy="200.5" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.7" cy="188.9" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="93.9" cy="222.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.3" cy="167.5" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s4/dg7dr7w7r1~x6/"><circle cx="126.5" cy="272.6" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.1" cy="241.0" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/g9dr7w7r1~x4/"><circle cx="160.7" cy="264.5" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="202.9" cy="248.0" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s5/r3k1g1k1w3~x4/"><circle cx="69.5" cy="263.9" r="4" fill="#3465a4"><title>Clark</title></circle></a><circle cx="121.1" cy="238.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/r22g6k3g16w22/

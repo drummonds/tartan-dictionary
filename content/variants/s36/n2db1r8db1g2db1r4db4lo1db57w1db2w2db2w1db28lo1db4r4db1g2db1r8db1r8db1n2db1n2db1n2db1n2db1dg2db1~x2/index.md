@@ -1,0 +1,32 @@
+---
+title: "New York Tartan Day Parade"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1/)
+(the same proportion at any scale), whose colour order is pattern [BBRBGBRBYBWBWBWBYBRBGBRBRBBBBBBBBBGB](/stripes/bbrbgbrbybwbwbwbybrbgbrbrbbbbbbbbbgb/).
+
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10537
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10537](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10537)
+
+## Thread count
+N/4 DB2 R16 DB2 G4 DB2 R8 DB8 LO2 DB114 W2 DB4 W4 DB4 W2 DB56 LO2 DB8 R8 DB2 G4 DB2 R16 DB2 R16 DB2 N4 DB2 N4 DB2 N4 DB2 N4 DB2 DG4 DB/2
+
+One full sett is **646 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>LG</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>N</td><td><code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> <small style="color:#888">#636363</small></td><td><small style="color:#888">oklch(50.0% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/4 DB2 R16 DB2 G4 DB2 R8 DB8 LO2 DB114 W2 DB4 W4 DB4 W2 DB56 LO2 DB8 R8 DB2 G4 DB2 R16 DB2 R16 DB2 N4 DB2 N4 DB2 N4 DB2 N4 DB2 DG4 DB/2 tartan" width="880" height="480">
+
+ID: /variants/s36/n2db1r8db1g2db1r4db4lo1db57w1db2w2db2w1db28lo1db4r4db1g2db1r8db1r8db1n2db1n2db1n2db1n2db1dg2db1~x2/

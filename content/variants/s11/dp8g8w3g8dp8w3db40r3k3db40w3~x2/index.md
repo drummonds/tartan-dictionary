@@ -1,0 +1,46 @@
+---
+title: "World Peace"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp8g8w3g8dp8w3db40r3k3db40w3/)
+(the same proportion at any scale), whose colour order is pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
+
+Part of the [World Peace](/tartans/world-peace/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10424
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10424](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10424)
+
+## Thread count
+DP/16 G16 W6 G16 DP16 W6 DB80 R6 K6 DB80 W/6
+
+One full sett is **486 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>DG</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>DR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LP</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/16 G16 W6 G16 DP16 W6 DB80 R6 K6 DB80 W/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">486</div><div class="nn-name nn-base"><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/">World Peace</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4k9dg9db40r2db2w2~x2&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.38</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/">Genet, Edmond Charles 'Citizen' (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4k9dg9db40r2db2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db20dy1db1dy1dg8k1w3~x2&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">94</div><div class="nn-name nn-far"><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/">Chestico</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db20dy1db1dy1dg8k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy2db25r4g4r4w3db3k3db6w2~x2&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/">University of Edinburgh Business Sch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy2db25r4g4r4w3db3k3db6w2~x2~db1406275&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/">University of Edinburgh Business School, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db42dp4db16dg10k2r6k2dg10k3w4~x2&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/">Mount Dora</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db20k3y1w1g3r3k1r2w1~x2&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">98</div><div class="nn-name nn-far"><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/">Stewart Blue MINI Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3n1db10g3r1k3db5n2lb1~x4&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.97</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/">Lochranza</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db8w2k8g12r2db3r2db24r2~x2&amp;base=dp8g8w3g8dp8w3db40r3k3db40w3~x2" title="compare in the TTD">2.97</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/">Burt #2 (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.4" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.6" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="268.0" cy="113.3" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.3" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.5" cy="78.4" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="267.1" cy="155.8" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.3" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><circle cx="286.8" cy="108.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/

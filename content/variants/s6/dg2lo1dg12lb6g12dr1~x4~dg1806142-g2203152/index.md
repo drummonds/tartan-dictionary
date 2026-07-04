@@ -1,0 +1,44 @@
+---
+title: "City of Vancouver (Commemorative)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2lo1dg12lb6g12dr1/)
+(the same proportion at any scale), whose colour order is pattern [BGWGYG](/stripes/bgwgyg/).
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2083/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2083
+
+## Thread count
+DG/8 LO4 DG48 LB24 G48 DR/4
+
+One full sett is **260 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>DY</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr><tr><td>G</td><td><code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> <small style="color:#888">#408060</small></td><td><small style="color:#888">oklch(54.8% 0.084 160.1)</small></td></tr><tr><td>Ga</td><td><code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> <small style="color:#888">#006818</small></td><td><small style="color:#888">oklch(45.0% 0.142 145.0)</small></td></tr><tr><td>N</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/8 LO4 DG48 LB24 G48 DR/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/">City of Vancouver (Commemorative)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr6do26dt28g26dt8y3~x2&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.34</a></div><div class="nn-threads nn-far">370</div><div class="nn-name nn-far"><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/">House of Bruar (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr6do26dt28g26dt8y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg4t28dg11w2dg2g14y2~x2&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.41</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/">Rhode Island State American District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg4t28dg11w2dg2g14y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dt4t28dt11w2dt2g14y2~x2&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.41</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/">Rhode Island, State of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dt4t28dt11w2dt2g14y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg3dy2g12y11lb1dg1ly3~x2&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">120</div><div class="nn-name nn-far"><a href="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/">Braemar House</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g31dg7y3dg14g8db18dp5~x2&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/">Reidy Wedding</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g31dg7y3dg14g8db18dp5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly4dg30g15db5t10ly4~x2&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/">MPS Emerald Society</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/ly4dg30g15db5t10ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y4dg30g15db5lb10y4~x2&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s6/y4dg30g15db5lb10y4~x2/">MPS Emerald Society NCLEES 2012</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y4dg30g15db5lb10y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g18y1dp5y1dg18r1~x4&amp;base=dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s6/g18y1dp5y1dg18r1~x4/">Symonds (2016)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g18y1dp5y1dg18r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr6do26dt28g26dt8y3~x2/"><circle cx="287.8" cy="275.8" r="4" fill="#3465a4"><title>House of Bruar (Corporate)</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="308.2" cy="212.2" r="4" fill="#3465a4"><title>Rhode Island State American District Tartan</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.8" cy="212.1" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/"><circle cx="257.7" cy="214.6" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.8" cy="237.3" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="232.3" cy="241.4" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.2" cy="238.0" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.1" cy="188.5" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><circle cx="310.2" cy="243.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/

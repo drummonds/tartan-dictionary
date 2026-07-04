@@ -1,0 +1,44 @@
+---
+title: "Hamilton, Red (Fashion?)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o23dr4o23dr32lo4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBY](/stripes/rbrby/).
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/4043/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 4043
+
+## Thread count
+O/46 DR8 O46 DR64 LO/8
+
+One full sett is **290 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DO</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>DR</td><td><code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> <small style="color:#888">#A65C11</small></td><td><small style="color:#888">oklch(55.0% 0.125 58.3)</small></td></tr><tr><td>DRa</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/46 DR8 O46 DR64 LO/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">290</div><div class="nn-name nn-base"><a href="/variants/s5/o23dr4o23dr32lo4~x2/">Hamilton, Red (Fashion?)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/o23dr4o23dr32lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr5o35dr46ly5~x2&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">344</div><div class="nn-name"><a href="/variants/s4/dr5o35dr46ly5~x2/">Bryce</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dr5o35dr46ly5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">1.92</a></div><div class="nn-threads">192</div><div class="nn-name"><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/">Cetoloni Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g20r25w3~x4&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">384</div><div class="nn-name nn-far"><a href="/variants/s4/r3g20r25w3~x4/">MacKinnon #6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r3g20r25w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r17g9r2~x2&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">74</div><div class="nn-name nn-far"><a href="/variants/s3/r17g9r2~x2/">MacGregor of Glenstrae #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/r17g9r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n16r2n10r15lb5~x2&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">150</div><div class="nn-name nn-far"><a href="/variants/s5/n16r2n10r15lb5~x2/">Mowbray, (Moubray)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n16r2n10r15lb5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1g7r9y1~x4&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">136</div><div class="nn-name nn-far"><a href="/variants/s4/r1g7r9y1~x4/">Bryce</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r1g7r9y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg18r2dg7r18~x2~dg1806142-r2109032&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">108</div><div class="nn-name nn-far"><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/">Applecross</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r18g7r2g18~x4&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s4/r18g7r2g18~x4/">Applecross (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r18g7r2g18~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r18g7r2g18~x2&amp;base=o23dr4o23dr32lo4~x2" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">108</div><div class="nn-name nn-far"><a href="/variants/s4/r18g7r2g18~x2/">Applecross, (MacDonald)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r18g7r2g18~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.4" cy="261.6" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.0" cy="217.6" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.2" cy="252.3" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.4" cy="294.6" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.5" cy="290.8" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="408.8" cy="293.2" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/variants/s4/r18g7r2g18~x4/"><circle cx="390.2" cy="288.5" r="4" fill="#3465a4"><title>Applecross (District)</title></circle></a><a href="/variants/s4/r18g7r2g18~x2/"><circle cx="390.2" cy="288.5" r="4" fill="#3465a4"><title>Applecross, (MacDonald)</title></circle></a><circle cx="395.3" cy="276.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/o23dr4o23dr32lo4~x2/

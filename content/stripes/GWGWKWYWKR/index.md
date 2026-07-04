@@ -1,0 +1,37 @@
+---
+title: Pattern GWGWKWYWKR
+date: 2023-03-18
+aliases:
+- /patterns/gwgwkwywkr/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GWGWKWYWKR</span></div>
+
+It is a 10 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GWGWKWYWKR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "GWGWKWYWKR" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/">Gillies Dress Blue #1 (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/"><img src="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/sett.png" alt="Gillies Dress Blue #1 (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/">Gillies Dress, Blue #1 (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/"><img src="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/sett.png" alt="Gillies Dress, Blue #1 (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -1,0 +1,45 @@
+---
+title: "Chambers, Christopher J (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb13dr1g13w1k1w7k3/)
+(the same proportion at any scale), whose colour order is pattern [KWKWGBW](/stripes/kwkwgbw/).
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10570/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10570](https://www.tartanregister.gov.uk/tartanDetails?ref=10570)
+- Scottish Tartans Authority (ITI): 10570
+
+## Thread count
+LB/26 DR2 G26 W2 K2 W14 K/6
+
+One full sett is **124 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/26 DR2 G26 W2 K2 W14 K/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">124</div><div class="nn-name nn-base"><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/">Chambers, Christopher J (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lb13dr1g13w1k1w7k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w13g13lb13k10w7y1r1~x4&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">408</div><div class="nn-name"><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/">Lachine Historic</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w13g13lb13k10w7y1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w4k2w18k11db2g18ly2~x2&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">1.56</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/">Barbour - Ancient</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w4k2w18k11db2g18ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g5y2lb20w2k20w20k2w5~x2&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/">Alexander Brothers - 2007? (Corp.)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g5y2lb20w2k20w20k2w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb17k12w9r2w9g1w2~x4&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">340</div><div class="nn-name nn-far"><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/">Ferguson Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb17k12w9r2w9g1w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2k2w16dg13g6y2k2w2~x2&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">172</div><div class="nn-name nn-far"><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/">Madewell Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r2k2w16dg13g6y2k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5w2lb20dy2k16w18k2w5~x2&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">2.66</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/">Ailsa Craig (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db8w33k15g17lb3g17lb3~x2&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">362</div><div class="nn-name nn-far"><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/">MacRobart, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db8w33k15g17lb3g17lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db8w33k15dg17lb3dg17lb3~x2&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">362</div><div class="nn-name nn-far"><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/">MacRobart Dress (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b16r1g16w1dy1w8dr3~x2&amp;base=lb13dr1g13w1k1w7k3~x2" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">146</div><div class="nn-name nn-far"><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/">Chambers, Christopher J (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/b16r1g16w1dy1w8dr3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/"><circle cx="80.2" cy="180.3" r="4" fill="#3465a4"><title>Lachine Historic</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.2" cy="177.7" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.2" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.7" cy="164.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.3" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="163.9" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/"><circle cx="101.3" cy="184.9" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="180.8" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/"><circle cx="173.3" cy="160.3" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><circle cx="135.4" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/lb13dr1g13w1k1w7k3~x2/

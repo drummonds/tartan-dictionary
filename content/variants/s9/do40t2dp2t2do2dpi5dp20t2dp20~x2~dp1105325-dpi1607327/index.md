@@ -1,0 +1,42 @@
+---
+title: "Phillips Name Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do40t2dp2t2do2dpi5dp20t2dp20/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBB](/stripes/bbbbbbbbb/).
+
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3914
+
+## Provenance
+
+Earliest known date: 2001 Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire for Phillips worldwide.
+
+## Thread count
+DO/80 T4 DP4 T4 DO4 DPi10 DP40 T4 DP/40
+
+One full sett is **260 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>DP</td><td><code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> <small style="color:#888">#440044</small></td><td><small style="color:#888">oklch(27.1% 0.125 328.4)</small></td></tr><tr><td>P</td><td><code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> <small style="color:#888">#780078</small></td><td><small style="color:#888">oklch(40.2% 0.185 328.4)</small></td></tr><tr><td>T</td><td><code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> <small style="color:#888">#412714</small></td><td><small style="color:#888">oklch(30.1% 0.050 55.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/80 T4 DP4 T4 DO4 DPi10 DP40 T4 DP/40 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s9/do40t2dp2t2do2dpi5dp20t2dp20~x2~dp1105325-dpi1607327/">Phillips Name Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/do40t2dp2t2do2dpi5dp20t2dp20~x2~dp1105325-dpi1607327/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327&amp;base=do40t2dp2t2do2dpi5dp20t2dp20~x2~dp1105325-dpi1607327" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327/">Phillips</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr40lb2dp2lb2dr2dpi5dp20lb2dp20~x2~dp1105325-dpi1607327/"><circle cx="455.8" cy="206.7" r="4" fill="#3465a4"><title>Phillips</title></circle></a><circle cx="510.8" cy="228.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/do40t2dp2t2do2dpi5dp20t2dp20~x2~dp1105325-dpi1607327/

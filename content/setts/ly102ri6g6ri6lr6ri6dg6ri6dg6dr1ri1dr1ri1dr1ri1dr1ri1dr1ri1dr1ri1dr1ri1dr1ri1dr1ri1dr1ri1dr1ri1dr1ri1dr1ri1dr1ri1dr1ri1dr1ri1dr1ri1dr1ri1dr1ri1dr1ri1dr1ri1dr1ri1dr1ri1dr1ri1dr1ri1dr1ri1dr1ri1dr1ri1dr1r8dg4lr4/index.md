@@ -1,0 +1,5 @@
+---
+title: "Collinet (Personal)"
+redirect: "/variants/s69/ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r-h18ef43c67468082a/"
+---
+This sett is recorded as a single cloth — redirecting to [Collinet (Personal)](/variants/s69/ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r-h18ef43c67468082a/).

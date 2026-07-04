@@ -1,0 +1,53 @@
+---
+title: "Waverley Care Aids Trust (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr8g2dr2k1dr1g2/)
+(the same proportion at any scale), whose colour order is pattern [BGBKBG](/stripes/bgbkbg/).
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3891/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Waverley Care Aids Trust (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3891/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Waverley Care was given to Phil Smith as a tinty portion of ribbon about 1/2 inch by six inches.</em></li>
+<li>undated — Waverley Care Aids Trust (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5147">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Waverley Care was given to Phil Smith as a tiny portion of ribbon about 1/2 inch by six inches.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5147](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5147)
+- Scottish Tartans Authority (ITI): 3891
+
+## Thread count
+DR/80 G20 DR20 K10 DR10 G/20
+
+One full sett is **220 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/80 G20 DR20 K10 DR10 G/20 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/">Waverley Care Aids Trust (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/dr8g2dr2k1dr1g2~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2g2r1g12r3k1~x4&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">0.98</a></div><div class="nn-threads">156</div><div class="nn-name"><a href="/variants/s6/r2g2r1g12r3k1~x4/">Connell (Personal?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2g2r1g12r3k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr9k1dr5g6dr4k2~x4&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">1.55</a></div><div class="nn-threads">172</div><div class="nn-name"><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/">MacAn of Lurgyvallan (Hose)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr9k1dr5g6dr4k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg32r12dg6r6k2w3~x2&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">1.84</a></div><div class="nn-threads">174</div><div class="nn-name"><a href="/variants/s6/dg32r12dg6r6k2w3~x2/">Princess Margaret Rose</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg32r12dg6r6k2w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g7r3g1r9k1~x2&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">1.85</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s5/g7r3g1r9k1~x2/">MacDonald of Sleat</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g7r3g1r9k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16r5g2r18k2~x2&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">1.94</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s5/g16r5g2r18k2~x2/">MacDonald, Lord of The Isles (Artef)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g16r5g2r18k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16r5g2r18k2&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">1.94</a></div><div class="nn-threads">68</div><div class="nn-name"><a href="/variants/s5/g16r5g2r18k2/">MacDonald of Sleat</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g16r5g2r18k2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2dg1r1dg10w1~x4&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">1.99</a></div><div class="nn-threads">108</div><div class="nn-name"><a href="/variants/s5/r2dg1r1dg10w1~x4/">Welsh National District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2dg1r1dg10w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4r3db3r22g8r2~x2~db1406275-r2109032&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/">Auld Reekie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr6dg13k5dr20w3~x2&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">170</div><div class="nn-name nn-far"><a href="/variants/s5/dr6dg13k5dr20w3~x2/">Ryutokukan Junior High School (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr6dg13k5dr20w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3k16dg2k2dg2~x2&amp;base=dr8g2dr2k1dr1g2~x10" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">90</div><div class="nn-name nn-far"><a href="/variants/s5/r3k16dg2k2dg2~x2/">Gadsden (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3k16dg2k2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2g2r1g12r3k1~x4/"><circle cx="396.4" cy="186.5" r="4" fill="#3465a4"><title>Connell (Personal?)</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.6" cy="242.3" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.4" cy="158.4" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="328.9" cy="221.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="315.8" cy="220.4" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><a href="/variants/s5/g16r5g2r18k2/"><circle cx="315.8" cy="220.4" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.6" cy="201.0" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/"><circle cx="420.0" cy="207.9" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.2" cy="238.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s5/r3k16dg2k2dg2~x2/"><circle cx="409.0" cy="195.2" r="4" fill="#3465a4"><title>Gadsden (Artefact)</title></circle></a><circle cx="414.5" cy="218.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/dr8g2dr2k1dr1g2~x10/

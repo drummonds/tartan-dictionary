@@ -1,0 +1,57 @@
+---
+title: "Cathro (Name)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b9t6w1g4b2/)
+(the same proportion at any scale), whose colour order is pattern [BBWGB](/stripes/bbwgb/).
+
+Part of the [Cathro](/tartans/cathro/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7354/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7354
+
+## Thread count
+B/72 T48 W8 G32 B/16
+
+One full sett is **264 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>P</td><td><code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> <small style="color:#888">#466CC8</small></td><td><small style="color:#888">oklch(55.1% 0.149 265.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/72 T48 W8 G32 B/16 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **2.87** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dp9db6w1dg4dp2/"><img src="/variants/s5/dp9db6w1dg4dp2~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dp9db6w1dg4dp2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s5/b9t6w1g4b2~x8/">Cathro (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/b9t6w1g4b2~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4b1dg14db14dr1~x4~db0906265-b1611266&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">1.58</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/">Wcwm 1255-1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t5dy2dg4n3w1t5~x8&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.13</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s6/t5dy2dg4n3w1t5~x8/">Heriot Bay (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t5dy2dg4n3w1t5~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4w2g17lb17lo2~x4~w4000000-g2405163&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/">Bermuda (1986)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2b22dg11y2dg11db2~x2&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">192</div><div class="nn-name nn-far"><a href="/variants/s6/db2b22dg11y2dg11db2~x2/">Cetoloni</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2b22dg11y2dg11db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g15b2w2b11n28b4~x2~g2003152-n2002277&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">210</div><div class="nn-name nn-far"><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/">Rhode Island, The State of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp3dt15db15r2db15y3~x2&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.41</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s6/dp3dt15db15r2db15y3~x2/">H.M.S. DUNCAN</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dp3dt15db15r2db15y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">306</div><div class="nn-name nn-far"><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/">Baron of Crawfordjohn (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t4g8t18w3~x2&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">118</div><div class="nn-name nn-far"><a href="/variants/s4/t4g8t18w3~x2/">Blue Meadow Check (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/t4g8t18w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2g6db6b5db1b2~x2&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.76</a></div><div class="nn-threads nn-far">80</div><div class="nn-name nn-far"><a href="/variants/s6/db2g6db6b5db1b2~x2/">Unnamed, No 54</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2g6db6b5db1b2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db36t21y4n12dp2~x2~db1404245-t2503227&amp;base=b9t6w1g4b2~x8" title="compare in the TTD">2.81</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/">Emond, Kenneth (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.7" cy="265.9" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="250.9" cy="305.1" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/"><circle cx="389.9" cy="278.9" r="4" fill="#3465a4"><title>Bermuda (1986)</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.8" cy="242.1" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/"><circle cx="457.7" cy="279.9" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.0" cy="268.1" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/"><circle cx="315.6" cy="303.0" r="4" fill="#3465a4"><title>Baron of Crawfordjohn (Personal)</title></circle></a><a href="/variants/s4/t4g8t18w3~x2/"><circle cx="471.5" cy="322.7" r="4" fill="#3465a4"><title>Blue Meadow Check (Fashion)</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.6" cy="309.5" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s5/db36t21y4n12dp2~x2~db1404245-t2503227/"><circle cx="387.4" cy="242.1" r="4" fill="#3465a4"><title>Emond, Kenneth (Personal)</title></circle></a><circle cx="380.8" cy="302.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/b9t6w1g4b2~x8/

@@ -1,0 +1,51 @@
+---
+title: "MacKinnon Hunting"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1r8g8ri1g8r8w1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRW](/stripes/grgrgrw/).
+
+Part of the [MacKinnon, hunting](/tartans/mackinnon-hunting/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Thread count
+W/2 R16 G16 Ri2 G16 R16 G/2
+
+One full sett is **136 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#A52A2A;"><span style="color:#A52A2A;filter:grayscale(1) invert(1) contrast(100);">#A52A2A</span></code> <small style="color:#888">#A52A2A</small></td><td><small style="color:#888">oklch(48.1% 0.160 25.6)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>N</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/2 R16 G16 Ri2 G16 R16 G/2 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **1.94** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/g1o8g8r1g8o8w1/"><img src="/variants/s7/g1o8g8r1g8o8w1~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/g1o8g8r1g8o8w1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">136</div><div class="nn-name nn-base"><a href="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/">MacKinnon Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r30g3db5g21r3g21db2~x2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">1.29</a></div><div class="nn-threads">276</div><div class="nn-name"><a href="/variants/s7/r30g3db5g21r3g21db2~x2/">Scottish Piping Soc. of London (Corp</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r30g3db5g21r3g21db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4g14ly3g14r4g3r29y4~x2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/">Burnett</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r4g14ly3g14r4g3r29y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g19dy3g19r3g3r21lb3~x2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.34</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/">Burnett of Powis (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db9r6g2r6g18r6g2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.62</a></div><div class="nn-threads nn-far">87</div><div class="nn-name nn-far"><a href="/variants/s7/db9r6g2r6g18r6g2/">Skene D</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db9r6g2r6g18r6g2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db9r6g2r6g18r6g2~x2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.62</a></div><div class="nn-threads nn-far">174</div><div class="nn-name nn-far"><a href="/variants/s7/db9r6g2r6g18r6g2~x2/">Skene D</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db9r6g2r6g18r6g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g1dy8g8r1g8dy8w1~x2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">136</div><div class="nn-name nn-far"><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/">MacKinnon Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g1dy8g8r1g8dy8w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g1dy8g8r1g8dy8w1~x4&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s7/g1dy8g8r1g8dy8w1~x4/">MacKinnon Htg (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g1dy8g8r1g8dy8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8w2dr30g12dr3g12dr3~x2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">258</div><div class="nn-name nn-far"><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/">Wasko (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8w2dr30g12dr3g12dr3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6r3g2r3g12r3g2~x2&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">108</div><div class="nn-name nn-far"><a href="/variants/s7/db6r3g2r3g12r3g2~x2/">Skene Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db6r3g2r3g12r3g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1r3g7r3g7r3y1~x4&amp;base=g1r8g8ri1g8r8w1~x2~r1906028-ri2109032" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">192</div><div class="nn-name nn-far"><a href="/variants/s7/y1r3g7r3g7r3y1~x4/">Unidentified #42</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y1r3g7r3g7r3y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.6" cy="207.4" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.7" cy="205.6" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.6" cy="219.7" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.8" cy="237.3" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.8" cy="237.3" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.7" cy="243.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x4/"><circle cx="296.7" cy="243.9" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.6" cy="189.9" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.1" cy="250.1" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="352.6" cy="267.3" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><circle cx="315.1" cy="243.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/

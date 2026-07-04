@@ -1,0 +1,46 @@
+---
+title: "Oliver, Red (Clan)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r15k1r1db5r1g1r1g1lo1/)
+(the same proportion at any scale), whose colour order is pattern [RKRBRGRGY](/stripes/rkrbrgrgy/).
+
+Part of the [Oliver](/tartans/oliver/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1606/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1606
+
+## Thread count
+R/120 K8 R8 DB40 R8 G8 R8 G8 LO/8
+
+One full sett is **304 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DY</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr><tr><td>G</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>Ga</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>T</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/120 K8 R8 DB40 R8 G8 R8 G8 LO/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">304</div><div class="nn-name nn-base"><a href="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/">Oliver, Red (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r15k1r1dt5r1g1r1g1lo1~x8~dt1703208&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">0.00</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/">Oliver Dress (Red)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r40k3r2db12r2g2r2g2y3~x2&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">0.58</a></div><div class="nn-threads">186</div><div class="nn-name"><a href="/variants/s9/r40k3r2db12r2g2r2g2y3~x2/">Oliver, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r40k3r2db12r2g2r2g2y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r68db27r5y3r5g3r13lb3~x2&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">1.49</a></div><div class="nn-threads">366</div><div class="nn-name"><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/">De Nardi #2 (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r68db27r5y3r5g3r13lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">2.17</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/">New York Caledonian Club Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3w1r20db4r4g10r4db4r20k1w3~x2&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">2.22</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/">Hoben (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6w1g12r4db4r2k4r32g1r2~x2&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/">Seton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r155lb16k34db48r18y6r9&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">2.67</a></div><div class="nn-threads nn-far">408</div><div class="nn-name nn-far"><a href="/variants/s7/r155lb16k34db48r18y6r9/">Solberg-Wormald (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r155lb16k34db48r18y6r9/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg2r26db4r2k4r2dg8r4k1r1w2~x2&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/">Stewart/Stuart of Rothesay (Sobieski)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g2r26db4r2k4r2g8r4k1r1w2~x2&amp;base=r15k1r1db5r1g1r1g1lo1~x8" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/">Stewart of Rothesay</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/"><circle cx="388.5" cy="105.6" r="4" fill="#3465a4"><title>Oliver Dress (Red)</title></circle></a><a href="/variants/s9/r40k3r2db12r2g2r2g2y3~x2/"><circle cx="390.7" cy="83.3" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.5" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/"><circle cx="352.8" cy="81.7" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="319.0" cy="105.6" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="328.7" cy="77.6" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s7/r155lb16k34db48r18y6r9/"><circle cx="345.1" cy="101.0" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.5" cy="72.0" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="325.8" cy="73.1" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><circle cx="368.2" cy="97.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/r15k1r1db5r1g1r1g1lo1~x8/

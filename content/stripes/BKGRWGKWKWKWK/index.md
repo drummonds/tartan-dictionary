@@ -1,0 +1,35 @@
+---
+title: Pattern BKGRWGKWKWKWK
+date: 2023-03-18
+aliases:
+- /patterns/bkgrwgkwkwkwk/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BKGRWGKWKWKWK</span></div>
+
+It is a 13 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BKGRWGKWKWKWK" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "BKGRWGKWKWKWK" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/">Western Australia (Scottish Associations)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/"><img src="/variants/s13/k114lb2k3lb3k5lb5k2g5w6r5y3k3db14/sett.png" alt="Western Australia (Scottish Associations) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

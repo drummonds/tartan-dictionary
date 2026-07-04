@@ -1,0 +1,35 @@
+---
+title: Pattern WWYBYWWYBY
+date: 2023-03-18
+aliases:
+- /patterns/wwybywwyby/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">WWYBYWWYBY</span></div>
+
+It is a 10 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern WWYBYWWYBY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "WWYBYWWYBY" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/lg10n8ly1lb5w5lg28n2ly1lb8w5/">Banatherton Union</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/lg10n8ly1lb5w5lg28n2ly1lb8w5/"><img src="/variants/s10/lg10n8ly1lb5w5lg28n2ly1lb8w5~x2~lg2704216-lb3300000/sett.png" alt="Banatherton Union sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

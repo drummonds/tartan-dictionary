@@ -1,0 +1,46 @@
+---
+title: "Leslie Red (VS) (Clan)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k3y1k3r2db8r16k1/)
+(the same proportion at any scale), whose colour order is pattern [KRBRKGKR](/stripes/krbrkgkr/).
+
+Part of the [Leslie](/tartans/leslie/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1142/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1142
+
+## Thread count
+R/8 K12 Y4 K12 R8 DB32 R64 K/4
+
+One full sett is **276 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 K12 Y4 K12 R8 DB32 R64 K/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">276</div><div class="nn-name nn-base"><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/">Leslie Red (VS) (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r2k3y1k3r2db8r16k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4k6y1k6r4db16r32k1~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">0.48</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/">Leslie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r4k6y1k6r4db16r32k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4k6y1k6r4db16r32db1~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">1.52</a></div><div class="nn-threads">270</div><div class="nn-name"><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/">Leslie Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r4k6y1k6r4db16r32db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n3k14r3k14lb3r32k2r6k2~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">306</div><div class="nn-name nn-far"><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/">Gallmore (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy4r2k9r25k3r2k3r4db15w3~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">266</div><div class="nn-name nn-far"><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/">Golfing Stewart (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y4r2k9r25k3r2k3r4db15w3~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">266</div><div class="nn-name nn-far"><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/">Royal &amp; Ancient/Golfing Stewart</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4k12w1k12r4k4r24g1r4~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/">Wemyss</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4k12w1k12r4k4r24g1r4~x4&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">496</div><div class="nn-name nn-far"><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/">Wemyss</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k10lb1k1r10lb1k1lb1r10g6r2~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">148</div><div class="nn-name nn-far"><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/">Scoepaig, fragment</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w4k6r3k15r3k6r27db9w2~x2&amp;base=r2k3y1k3r2db8r16k1~x4" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/">Memery (Reston, USA)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/"><circle cx="316.5" cy="101.4" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="320.0" cy="103.0" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="122.7" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.8" cy="122.3" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.9" cy="122.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/"><circle cx="295.3" cy="114.5" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/"><circle cx="295.3" cy="114.5" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><circle cx="215.0" cy="149.6" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.5" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><circle cx="281.1" cy="130.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/r2k3y1k3r2db8r16k1~x4/

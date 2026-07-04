@@ -1,0 +1,42 @@
+---
+title: "Huntly Gordon Fancy Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t22k12g11y2g11k12t11k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKGGGKBKR](/stripes/bkgggkbkr/).
+
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3215
+
+## Provenance
+
+Earliest known date: 2001 Unknown until House of Edgar published their own Old and Rare.
+
+## Thread count
+T/44 K24 G22 Y4 G22 K24 T22 K4 R/4
+
+One full sett is **292 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/44 K24 G22 Y4 G22 K24 T22 K4 R/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s9/t22k12g11y2g11k12t11k2r2~x2/">Huntly Gordon Fancy Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/t22k12g11y2g11k12t11k2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db33k16g17n3g17k16db15k3w3~x2&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">0.72</a></div><div class="nn-threads">420</div><div class="nn-name"><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/">Dove (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db12k4g12ly1g12k4db8r3~x2&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">1.73</a></div><div class="nn-threads">194</div><div class="nn-name"><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/">Art Pewter Silver</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db12k4g12ly1g12k4db8r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g8w1g1r1g4k4db8k1db1k1~x2&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">102</div><div class="nn-name nn-far"><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/">Scott #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g8w1g1dr1g4k4db8k1db1k1~x4&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">204</div><div class="nn-name nn-far"><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/">Allen (1996)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k6y2g18w3g13k3y4k3db18w3~x2&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">274</div><div class="nn-name nn-far"><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/">Corstorphine Trial A</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t11k4g4o1g4k1r1~x4&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">2.81</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s7/t11k4g4o1g4k1r1~x4/">Ednie (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/t11k4g4o1g4k1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g9lb2g1k6db6r1db1~x2&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">84</div><div class="nn-name nn-far"><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/">MacTaggert</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g9lb2g1k6db6r1db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g16lb3g3k10db12dr2db3~x2&amp;base=t22k12g11y2g11k12t11k2r2~x2" title="compare in the TTD">2.93</a></div><div class="nn-threads nn-far">158</div><div class="nn-name nn-far"><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/">MacLean, Donald (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g16lb3g3k10db12dr2db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="181.6" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="162.6" cy="192.1" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="152.0" cy="165.0" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/variants/s10/g8w1g1dr1g4k4db8k1db1k1~x4/"><circle cx="154.8" cy="166.7" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="130.1" cy="166.9" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.4" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><circle cx="130.1" cy="184.7" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="131.2" cy="197.8" r="4" fill="#3465a4"><title>MacLean, Donald (Personal)</title></circle></a><circle cx="126.1" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/t22k12g11y2g11k12t11k2r2~x2/

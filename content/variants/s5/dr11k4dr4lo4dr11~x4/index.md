@@ -1,0 +1,55 @@
+---
+title: "Ikelman #4 (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr11k4dr4lo4dr11/)
+(the same proportion at any scale), whose colour order is pattern [BKBYB](/stripes/bkbyb/).
+
+Part of the [Ikelman](/tartans/ikelman/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Ikelman #4 (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Colours taken from the Germany flag.</em></li>
+<li>pre 2002 — Ikelman #3 (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5243/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><br><em>Colours taken from the Germany flag.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1814](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814)
+- Scottish Tartans Authority (ITI): 5243
+
+## Thread count
+DR/44 K16 DR16 LO16 DR/44
+
+One full sett is **184 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>DY</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/44 K16 DR16 LO16 DR/44 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">184</div><div class="nn-name nn-base"><a href="/variants/s5/dr11k4dr4lo4dr11~x4/">Ikelman #4 (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6r31k31r6~x2&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">1.80</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s4/k6r31k31r6~x2/">Ettrick</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k6r31k31r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5r26k26r5~x4&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">1.80</a></div><div class="nn-threads">456</div><div class="nn-name"><a href="/variants/s4/k5r26k26r5~x4/">Ettrick (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k5r26k26r5~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr9k1dr5g6dr4k2~x4&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">1.82</a></div><div class="nn-threads">172</div><div class="nn-name"><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/">MacAn of Lurgyvallan (Hose)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr9k1dr5g6dr4k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r10k1r4g6~x2&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">1.82</a></div><div class="nn-threads">52</div><div class="nn-name"><a href="/variants/s4/r10k1r4g6~x2/">Macan, of Lurgyvallan (Hose)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r10k1r4g6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr20k3dr4w2k7~x2&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">1.85</a></div><div class="nn-threads">90</div><div class="nn-name"><a href="/variants/s5/dr20k3dr4w2k7~x2/">Loevenstein Castle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr20k3dr4w2k7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k20dr3k20dr20~x2&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">1.88</a></div><div class="nn-threads">172</div><div class="nn-name"><a href="/variants/s4/k20dr3k20dr20~x2/">Wcwm 9275-1333-2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k20dr3k20dr20~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3dg3r1db3r3~x12&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">2.10</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s5/r3dg3r1db3r3~x12/">Gow (Portrait)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3dg3r1db3r3~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r30g12k5w8r30&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">2.11</a></div><div class="nn-threads nn-far">110</div><div class="nn-name nn-far"><a href="/variants/s5/r30g12k5w8r30/">Sinclair</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r30g12k5w8r30/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr10y3dr24lb3dr16k3dr8~x2&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">2.12</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/">Rannoch Red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r28g16k4w7r28&amp;base=dr11k4dr4lo4dr11~x4" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">110</div><div class="nn-name nn-far"><a href="/variants/s5/r28g16k4w7r28/">Sinclair Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r28g16k4w7r28/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k6r31k31r6~x2/"><circle cx="275.9" cy="255.8" r="4" fill="#3465a4"><title>Ettrick</title></circle></a><a href="/variants/s4/k5r26k26r5~x4/"><circle cx="276.2" cy="255.4" r="4" fill="#3465a4"><title>Ettrick (District)</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.6" cy="242.3" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.7" cy="206.6" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.5" cy="201.2" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s4/k20dr3k20dr20~x2/"><circle cx="406.6" cy="305.7" r="4" fill="#3465a4"><title>Wcwm 9275-1333-2</title></circle></a><a href="/variants/s5/r3dg3r1db3r3~x12/"><circle cx="240.3" cy="333.0" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.5" cy="224.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/dr10y3dr24lb3dr16k3dr8~x2/"><circle cx="546.4" cy="210.1" r="4" fill="#3465a4"><title>Rannoch Red</title></circle></a><a href="/variants/s5/r28g16k4w7r28/"><circle cx="324.6" cy="225.0" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><circle cx="384.0" cy="291.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/dr11k4dr4lo4dr11~x4/

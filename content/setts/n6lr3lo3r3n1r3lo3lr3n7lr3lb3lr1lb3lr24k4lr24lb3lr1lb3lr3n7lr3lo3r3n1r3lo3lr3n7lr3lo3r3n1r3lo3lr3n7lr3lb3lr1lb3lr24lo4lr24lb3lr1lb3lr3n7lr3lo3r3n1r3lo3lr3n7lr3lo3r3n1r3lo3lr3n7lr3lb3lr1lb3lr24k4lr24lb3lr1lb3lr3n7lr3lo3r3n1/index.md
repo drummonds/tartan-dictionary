@@ -1,0 +1,5 @@
+---
+title: "Unidentified Scarlett #13"
+redirect: "/variants/s81/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3-h378a4ed8be4b82af/"
+---
+This sett is recorded as a single cloth — redirecting to [Unidentified Scarlett #13](/variants/s81/n6lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lo3r3n1r3lo3lr3n7lr3lb3lr1lb3lr24k4lr24lb3-h378a4ed8be4b82af/).

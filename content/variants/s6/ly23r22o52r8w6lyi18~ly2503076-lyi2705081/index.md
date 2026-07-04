@@ -1,0 +1,54 @@
+---
+title: "Lady Boys of Bangkok (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly23r22o52r8w6lyi18/)
+(the same proportion at any scale), whose colour order is pattern [YRRRWY](/stripes/yrrrwy/).
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7142/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2005 — Lady Boys of Bangkok (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7142/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A45098;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #A45098"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Despite the dubious name this is a dance troupe that performed in kilts of this tartan at the Edinburgh Fringe in 2005.</em></li>
+<li>undated — Lady Boys of Bangkok (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5075">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A45098;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LP #A45098"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>Despite the dubious name this is a dance troupe that performed in kilts of this tartan at the Edinburgh Fringe in 2005.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5075](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5075)
+- Scottish Tartans Authority (ITI): 7142
+- Scottish Tartans World Register: 3069
+
+## Thread count
+LY/23 R22 O52 R8 W6 LYi/18
+
+One full sett is **217 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DY</td><td><code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> <small style="color:#888">#BC8C00</small></td><td><small style="color:#888">oklch(66.8% 0.137 84.1)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>LT</td><td><code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> <small style="color:#888">#A08858</small></td><td><small style="color:#888">oklch(63.7% 0.071 84.0)</small></td></tr><tr><td>P</td><td><code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> <small style="color:#888">#A65C11</small></td><td><small style="color:#888">oklch(55.0% 0.125 58.3)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/23 R22 O52 R8 W6 LYi/18 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">217</div><div class="nn-name nn-base"><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/">Lady Boys of Bangkok (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1o5r5w1~x4&amp;base=ly23r22o52r8w6lyi18~ly2503076-lyi2705081" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">88</div><div class="nn-name nn-far"><a href="/variants/s4/y1o5r5w1~x4/">Manx, Mannin Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y1o5r5w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090&amp;base=ly23r22o52r8w6lyi18~ly2503076-lyi2705081" title="compare in the TTD">2.67</a></div><div class="nn-threads nn-far">208</div><div class="nn-name nn-far"><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/">Pubcrawlers (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=do9dy9n9r1db1dy9db1r1~x4&amp;base=ly23r22o52r8w6lyi18~ly2503076-lyi2705081" title="compare in the TTD">2.77</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/">Jardine of Castlemilk Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o62n17ly12y8dg8~x2&amp;base=ly23r22o52r8w6lyi18~ly2503076-lyi2705081" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s5/o62n17ly12y8dg8~x2/">Dundhuin Dress (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/o62n17ly12y8dg8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y1o5r5w1~x4/"><circle cx="322.5" cy="296.5" r="4" fill="#3465a4"><title>Manx, Mannin Plaid</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.3" cy="205.2" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/"><circle cx="380.3" cy="258.5" r="4" fill="#3465a4"><title>Jardine of Castlemilk Family Tartan</title></circle></a><a href="/variants/s5/o62n17ly12y8dg8~x2/"><circle cx="411.6" cy="245.1" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><circle cx="325.3" cy="264.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/

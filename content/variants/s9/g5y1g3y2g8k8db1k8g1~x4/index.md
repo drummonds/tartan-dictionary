@@ -1,0 +1,60 @@
+---
+title: "Fitzpatrick Hunting"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5y1g3y2g8k8db1k8g1/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGKBKG](/stripes/gggggkbkg/).
+
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200
+
+## Provenance
+
+Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C.
+
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Fitzpatrick Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>It's not known where this version of Fitzpatrick came from. There is no Sindex card for it but some Sindex notes do say 'If the above is true (referring to the comment in #1813 (original Scottish Tartans Authority reference) regarding the amount of white in that sett) then this might reasonably be expected to be the 'Hunting'. The structure of both setts is very similar to that of Cameron of Erracht.</em></li>
+<li>pre 2002 — Fitzpatrick Htg (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/766/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>It's not known where this version of Fitzpatrick came from. There is no Sindex card for it but some Sindex notes do say "If the above is true (referring to the comment in #1813 regarding the amount of white in that sett) then this might reasonably be expected to be the 'Hunting'. The structure of both setts is very simliar to that of Cameron of Erracht.</em></li>
+<li>undated — Fitzpatrick (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F0C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#304080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #304080"></span></li>
+<li>undated — Fitzpatrick Irish Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=766">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1200](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200)
+- Scottish Tartans Authority (ITI): 766
+- Scottish Tartans World Register: 766
+
+## Thread count
+G/20 Y4 G12 Y8 G32 K32 DB4 K32 G/4
+
+One full sett is **272 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/20 Y4 G12 Y8 G32 K32 DB4 K32 G/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/">Fitzpatrick Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7r3k27g27y3g3y3g3~x2&amp;base=g5y1g3y2g8k8db1k8g1~x4" title="compare in the TTD">1.90</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/">Brunton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k7r3k27g27y3g3y3g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g5k2g17y2k5y2b5k17g2y4~x2&amp;base=g5y1g3y2g8k8db1k8g1~x4" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/">Antrim</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6k16r3k16g28k4g12w3~x2&amp;base=g5y1g3y2g8k8db1k8g1~x4" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">334</div><div class="nn-name nn-far"><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/">MacAulay of Lewis</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t9k9t9r2k20g13r2g4r2g4~x2&amp;base=g5y1g3y2g8k8db1k8g1~x4" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">270</div><div class="nn-name nn-far"><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/">Newlands of Lauriston</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1dr1g7k8w1k8dr1g2dr1g4dr1~x4&amp;base=g5y1g3y2g8k8db1k8g1~x4" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/">Episcopal Clergy (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g24k28g19y3g3y3~x2&amp;base=g5y1g3y2g8k8db1k8g1~x4" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s7/r3g24k28g19y3g3y3~x2/">Paton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3g24k28g19y3g3y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="206.4" cy="164.9" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><circle cx="158.8" cy="175.3" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.2" cy="187.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="136.5" cy="180.2" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/"><circle cx="198.8" cy="169.7" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.6" cy="185.7" r="4" fill="#3465a4"><title>Paton</title></circle></a><circle cx="189.9" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/g5y1g3y2g8k8db1k8g1~x4/

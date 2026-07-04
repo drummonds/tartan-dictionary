@@ -1,0 +1,53 @@
+---
+title: "Susan G Komen 06"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6n27dp6o40lr44w8o4/)
+(the same proportion at any scale), whose colour order is pattern [RWYRBBW](/stripes/rwyrbbw/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Susan G Komen 06 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCF8E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FCF8E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A89480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #A89480"></span><span style="display:inline-block;width:.85em;height:.85em;background:#581C24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #581C24"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C46864;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C46864"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E09CA0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #E09CA0"></span><br><em>From the Pendleton product packaging. 'Weaving for Life. For each pink muffler sold through December 31 2006, Pendleton will donate $4 to the Susan G Komen Breast Cancer Foundation, with a minimum guaranteed donation of $10,000. The mission of the Komen Foundation is to eradicate breast cancer as a life threatening disease through research, education, screening and treatment. Visit www.komen.org.' Woven sample.</em></li>
+<li>2006 — Susan G Komen (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7332/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FCF8E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FCF8E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A89480;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #A89480"></span><span style="display:inline-block;width:.85em;height:.85em;background:#581C24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #581C24"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C46864;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C46864"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E09CA0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LR #E09CA0"></span><br><em>From the Pendleton product packaging. "Weaving for Life. For each pink muffler sold through December 31 2006, Pendleton will donate $4 to the Susan G Komen Breast Cancer Foundation, with a minimum guaranteed donation of $10,000. The mission of the Komen Foundation is to eradicate breast cancer as a life threatening disease through research, education, screening and treatment. Visit www.komen.org." Woven sample.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4039](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039)
+- Scottish Tartans Authority (ITI): 7332
+
+## Thread count
+W/6 N27 DP6 O40 LR44 W8 O/4
+
+One full sett is **260 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>LR</td><td><code style="background-color:#E09CA0;"><span style="color:#E09CA0;filter:grayscale(1) invert(1) contrast(100);">#E09CA0</span></code> <small style="color:#888">#E09CA0</small></td><td><small style="color:#888">oklch(76.0% 0.082 15.3)</small></td></tr><tr><td>LT</td><td><code style="background-color:#C46864;"><span style="color:#C46864;filter:grayscale(1) invert(1) contrast(100);">#C46864</span></code> <small style="color:#888">#C46864</small></td><td><small style="color:#888">oklch(62.3% 0.118 23.6)</small></td></tr><tr><td>LY</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>N</td><td><code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> <small style="color:#888">#636363</small></td><td><small style="color:#888">oklch(50.0% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 N27 DP6 O40 LR44 W8 O/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s7/w6n27dp6o40lr44w8o4~o2505023-lr3003019/">Susan G Komen 06</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/w6n27dp6o40lr44w8o4~o2505023-lr3003019/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n7r1dt6r8lb1~x8&amp;base=w6n27dp6o40lr44w8o4~o2505023-lr3003019" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s5/n7r1dt6r8lb1~x8/">Callum (Buchan) (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n7r1dt6r8lb1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dt7r1n6r8lb1~x8&amp;base=w6n27dp6o40lr44w8o4~o2505023-lr3003019" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s5/dt7r1n6r8lb1~x8/">Callum (Buchan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dt7r1n6r8lb1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.5" cy="259.2" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.5" cy="257.3" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><circle cx="236.3" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/w6n27dp6o40lr44w8o4~o2505023-lr3003019/

@@ -1,0 +1,44 @@
+---
+title: "Caledonian Mist"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt27k5dp2n1dp1w1dp5/)
+(the same proportion at any scale), whose colour order is pattern [BKBBBWB](/stripes/bkbbbwb/).
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11287
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11287](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11287)
+
+## Thread count
+DT/108 K20 DP8 N4 DP4 W4 DP/20
+
+One full sett is **208 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>Ka</td><td><code style="background-color:#1C1C1C;"><span style="color:#1C1C1C;filter:grayscale(1) invert(1) contrast(100);">#1C1C1C</span></code> <small style="color:#888">#1C1C1C</small></td><td><small style="color:#888">oklch(22.6% 0.000 89.9)</small></td></tr><tr><td>N</td><td><code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> <small style="color:#888">#5C5C5C</small></td><td><small style="color:#888">oklch(47.5% 0.000 89.9)</small></td></tr><tr><td>P</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/108 K20 DP8 N4 DP4 W4 DP/20 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">208</div><div class="nn-name nn-base"><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/">Caledonian Mist</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000&amp;base=dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000" title="compare in the TTD">0.00</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/">Caledonian Mist</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.1" cy="107.5" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><circle cx="445.1" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/

@@ -1,0 +1,54 @@
+---
+title: "Donachie of Brockloch"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr24g2dr2g20dr25g2dr2g2dr2g20/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
+
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=948
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2003 — Donachie of Brockloch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=948">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#6C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #6C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #003C24"></span><br><em>For the use of the Laird of Brockloch, his family, all those of the name of Donachie (and variants) and also anybody with an association with the Lairdship of Brockloch, Kirkcubrightshire. This, a modified version of the clan Donnachaidh tartan Scottish Tartrans World Register reference #893. D.C. Stewart wrote, "a fragment of which now belongs to the Clan Donnachaidh Society and is given the name Robertson. The plaid of which it was part is said to have been presented by the Prince to a member of the Robertson clan during the '45." (The Setts of the Scottish Tartans 1950.)</em></li>
+<li>pre 2005 — Donachie of Brockloch (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6702/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#940000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #940000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005834"></span><br><em>This is a modification of the Clan Donnachaidh tartan designed for the use of the Laird of Brockloch, his family and all of the name and its spelling variants. (STWR). www.donachiesociety.co.uk Woven by D C Dalgliesh of Selkirk. Note: It is such a slight modification of the Donachie (6138) that the STA would not have accepted it as a different tartan had it been approached to register it.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [948](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=948)
+- Scottish Tartans Authority (ITI): 6702
+- Scottish Tartans World Register: 2978
+
+## Thread count
+DR/48 G4 DR4 G40 DR50 G4 DR4 G4 DR4 G/40
+
+One full sett is **316 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/48 G4 DR4 G40 DR50 G4 DR4 G4 DR4 G/40 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">316</div><div class="nn-name nn-base"><a href="/variants/s10/dr24g2dr2g20dr25g2dr2g2dr2g20~x2/">Donachie of Brockloch</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dr24g2dr2g20dr25g2dr2g2dr2g20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r24g2r2g40r25g2r2g2r2g20~x2&amp;base=dr24g2dr2g20dr25g2dr2g2dr2g20~x2" title="compare in the TTD">0.35</a></div><div class="nn-threads">396</div><div class="nn-name"><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/">Donachie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g14r4g2r2g2r4g19r30g2r9~x2&amp;base=dr24g2dr2g20dr25g2dr2g2dr2g20~x2" title="compare in the TTD">0.61</a></div><div class="nn-threads">306</div><div class="nn-name"><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/">Livingstone</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g22r4g22r22g2r3g2r3g2r3y2~x2&amp;base=dr24g2dr2g20dr25g2dr2g2dr2g20~x2" title="compare in the TTD">1.15</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/">MacRea / MacRae</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g22r3g4r5g4r5g4r5g2w2~x2&amp;base=dr24g2dr2g20dr25g2dr2g2dr2g20~x2" title="compare in the TTD">1.25</a></div><div class="nn-threads">226</div><div class="nn-name"><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/">Princess Marina</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db10r2g2r6g16r1g2r1g3r6~x4~r1807033&amp;base=dr24g2dr2g20dr25g2dr2g2dr2g20~x2" title="compare in the TTD">1.86</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/">Nithsdale</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.17</div><div class="nn-threads nn-far">—</div><div class="nn-name nn-far"><a href="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/">Skene #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g18r3g2r2db6r2g2r24g2r2g6~x2&amp;base=dr24g2dr2g20dr25g2dr2g2dr2g20~x2" title="compare in the TTD">2.63</a></div><div class="nn-threads nn-far">228</div><div class="nn-name nn-far"><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/">MacDonald of Vallay (Uist) (?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g4r16g4r2g3r2g32w2g2w3~x2&amp;base=dr24g2dr2g20dr25g2dr2g2dr2g20~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">266</div><div class="nn-name nn-far"><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/">Rothesay Hunting Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="421.6" cy="183.1" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="416.5" cy="195.2" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.3" cy="190.6" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="384.8" cy="192.5" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/"><circle cx="304.3" cy="189.5" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/"><circle cx="320.0" cy="194.6" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/"><circle cx="328.0" cy="175.7" r="4" fill="#3465a4"><title>MacDonald of Vallay (Uist) (?)</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="160.9" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><circle cx="422.5" cy="225.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s10/dr24g2dr2g20dr25g2dr2g2dr2g20~x2/

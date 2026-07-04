@@ -1,0 +1,54 @@
+---
+title: "Glengoyne Distillery"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/).
+
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1420
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1993 — Glengoyne Distillery (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1420">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Designed for the Glengoyne Distillery by Lochcarron of Scotland in 1993. Lang Brothers Ltd Glasgow. Registered 1994.</em></li>
+<li>1993 — Glengoyne Distillery (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1144/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="PH #6C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Glengoyne Distillery is in Stirlingshire about seven miles from Loch Lomond at the north west end of the Campsie Hills. The Tartans Society graphic is incorrect in that it uses green instead of 'heather'.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1420](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1420)
+- Scottish Tartans Authority (ITI): 1144
+- Scottish Tartans World Register: 1144
+
+## Thread count
+DB/22 K6 DB6 K6 DB6 K18 DP18 K2 LY6 K2 DP18 K18 DB18 K2 W/6
+
+One full sett is **280 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DY</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>P</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/22 K6 DB6 K6 DB6 K18 DP18 K2 LY6 K2 DP18 K18 DB18 K2 W/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/">Glengoyne Distillery</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2&amp;base=db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/">Glengoyne, Distillery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2&amp;base=db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/">Glengoyne Distillery Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4&amp;base=db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">432</div><div class="nn-name nn-far"><a href="/variants/s15/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4/">Dryer (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265&amp;base=db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2" title="compare in the TTD">2.74</a></div><div class="nn-threads nn-far">458</div><div class="nn-name nn-far"><a href="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/">McCruden, Raymond (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2&amp;base=db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/">MacKenzie - 1780 (Clan) as 78th</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2&amp;base=db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">464</div><div class="nn-name nn-far"><a href="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/">Cumbernauld District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="128.1" cy="163.0" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/"><circle cx="135.5" cy="165.5" r="4" fill="#3465a4"><title>Glengoyne Distillery Corporate Tartan</title></circle></a><a href="/variants/s15/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4/"><circle cx="136.5" cy="163.3" r="4" fill="#3465a4"><title>Dryer (Personal)</title></circle></a><a href="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/"><circle cx="141.5" cy="124.5" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/"><circle cx="162.4" cy="145.6" r="4" fill="#3465a4"><title>MacKenzie - 1780 (Clan) as 78th</title></circle></a><a href="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/"><circle cx="150.5" cy="160.6" r="4" fill="#3465a4"><title>Cumbernauld District Tartan</title></circle></a><circle cx="126.3" cy="159.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/

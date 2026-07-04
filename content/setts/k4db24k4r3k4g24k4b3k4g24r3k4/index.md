@@ -1,0 +1,5 @@
+---
+title: "Skene"
+redirect: "/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Skene](/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/).

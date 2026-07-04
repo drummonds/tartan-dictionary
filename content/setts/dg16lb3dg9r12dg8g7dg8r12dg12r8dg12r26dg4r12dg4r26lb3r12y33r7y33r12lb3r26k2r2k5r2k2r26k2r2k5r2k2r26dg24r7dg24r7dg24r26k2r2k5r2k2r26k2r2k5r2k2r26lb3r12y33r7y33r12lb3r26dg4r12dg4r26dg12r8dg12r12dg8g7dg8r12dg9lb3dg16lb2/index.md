@@ -1,0 +1,5 @@
+---
+title: "Kinnoull"
+redirect: "/variants/s78/dg16lb3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r-hf3075e5a20df78da/"
+---
+This sett is recorded as a single cloth — redirecting to [Kinnoull](/variants/s78/dg16lb3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r-hf3075e5a20df78da/).

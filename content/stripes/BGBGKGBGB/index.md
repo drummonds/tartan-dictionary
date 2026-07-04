@@ -1,0 +1,35 @@
+---
+title: Pattern BGBGKGBGB
+date: 2023-03-18
+aliases:
+- /patterns/bgbgkgbgb/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BGBGKGBGB</span></div>
+
+It is a 9 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BGBGKGBGB" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "BGBGKGBGB" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/">MacMillan, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><img src="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/sett.png" alt="MacMillan, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

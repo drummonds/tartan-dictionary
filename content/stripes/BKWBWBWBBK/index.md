@@ -1,0 +1,35 @@
+---
+title: Pattern BKWBWBWBBK
+date: 2023-03-18
+aliases:
+- /patterns/bkwbwbwbbk/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BKWBWBWBBK</span></div>
+
+It is a 10 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BKWBWBWBBK" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "BKWBWBWBBK" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/">Ryukoku University Heian Senior High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/"><img src="/variants/s10/bi5k15lb5n9lb2b2lb2b2n9k3~x2~bi2011271-b1610274/sett.png" alt="Ryukoku University Heian Senior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

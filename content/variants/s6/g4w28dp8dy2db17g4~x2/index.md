@@ -1,0 +1,48 @@
+---
+title: "Manx Dress"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4w28dp8dy2db17g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBWG](/stripes/gbgbwg/).
+
+Part of the [Manx Dress](/tartans/manx-dress/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2814
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2814](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2814)
+- Scottish Tartans Authority (ITI): 748
+- Scottish Tartans World Register: 748
+
+## Thread count
+G/8 W56 DP16 DY4 DB34 G/8
+
+One full sett is **236 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>P</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>Y</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/8 W56 DP16 DY4 DB34 G/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s6/g4w28dp8dy2db17g4~x2/">Manx Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g4w28dp8dy2db17g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g4w28dp8y2db17g4~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s6/g4w28dp8y2db17g4~x2/">Manx, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g4w28dp8y2db17g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2w14dp4y1g8db2~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">116</div><div class="nn-name nn-far"><a href="/variants/s6/db2w14dp4y1g8db2~x2/">Manx Laxey, dress green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2w14dp4y1g8db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w14dp4dy1g8db2~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">84</div><div class="nn-name nn-far"><a href="/variants/s5/w14dp4dy1g8db2~x2/">Manx Laxey Dress Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/w14dp4dy1g8db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g4w28db14y2lb17g4~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.08</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s6/g4w28db14y2lb17g4~x2/">Allanton Dress (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g4w28db14y2lb17g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8g5lb10dp24w30g2lp2~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.37</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/">Shiel, Purple (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w8g5lb10dp24w30g2lp2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8g5dp10lb24w30g2lp2~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.46</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/">Shiel, Purple V2 (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w8g5dp10lb24w30g2lp2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far">2.55</div><div class="nn-threads nn-far">—</div><div class="nn-name nn-far"><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/">Highlands Country Club (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb52y2n24dr3dy26n4~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.77</a></div><div class="nn-threads nn-far">332</div><div class="nn-name nn-far"><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/">Outlander #1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb52y2n24dr3dy26n4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g2w29lb12db29lb2~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s5/g2w29lb12db29lb2~x2/">Wallace Blue Dress (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g2w29lb12db29lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db9w4dg36lb36r4~x2&amp;base=g4w28dp8dy2db17g4~x2" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">330</div><div class="nn-name nn-far"><a href="/variants/s5/db9w4dg36lb36r4~x2/">Alvis of Lee (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db9w4dg36lb36r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><circle cx="207.3" cy="188.3" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/variants/s6/db2w14dp4y1g8db2~x2/"><circle cx="213.2" cy="191.0" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/variants/s5/w14dp4dy1g8db2~x2/"><circle cx="232.8" cy="203.1" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.7" cy="203.6" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="241.3" cy="185.3" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="263.3" cy="194.0" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.6" cy="203.6" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><circle cx="300.3" cy="172.8" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.3" cy="222.2" r="4" fill="#3465a4"><title>Wallace Blue Dress (Dance)</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.8" cy="210.2" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><circle cx="206.6" cy="188.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/g4w28dp8dy2db17g4~x2/

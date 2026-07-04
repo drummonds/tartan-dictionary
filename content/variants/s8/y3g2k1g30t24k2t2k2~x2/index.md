@@ -1,0 +1,46 @@
+---
+title: "Johnston (Clan)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3g2k1g30t24k2t2k2/)
+(the same proportion at any scale), whose colour order is pattern [GGKGBKBK](/stripes/ggkgbkbk/).
+
+Part of the [Johnston](/tartans/johnston/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1063/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1063
+
+## Thread count
+Y/6 G4 K2 G60 T48 K4 T4 K/4
+
+One full sett is **254 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/6 G4 K2 G60 T48 K4 T4 K/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/">Johnston (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/y3g2k1g30t24k2t2k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y3g2k1g30db24k2db2k2&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">127</div><div class="nn-name"><a href="/variants/s8/y3g2k1g30db24k2db2k2/">Johnston</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y3g2k1g30db24k2db2k2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y3g2k1g30db24k2db2k2~x2&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">254</div><div class="nn-name"><a href="/variants/s8/y3g2k1g30db24k2db2k2~x2/">Johnston / Johnstone</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y3g2k1g30db24k2db2k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.62</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/">Banff Centennial</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy4g3r2g36t30k3t3k3~x2&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">0.73</a></div><div class="nn-threads">322</div><div class="nn-name"><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/">Chartered Accountants of Scotland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy4g3r2g36t30k3t3k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g1k1g12t12k1t1k1~x4&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">0.92</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/">Peter of Lee (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3g1k1g12t12k1t1k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg4w1dg26t26k2t4~x4&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">1.19</a></div><div class="nn-threads">472</div><div class="nn-name"><a href="/variants/s6/dg4w1dg26t26k2t4~x4/">Melville (Two black lines)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg4w1dg26t26k2t4~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2g2k1g30db20r2db2r2~x2&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">1.74</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s8/db2g2k1g30db20r2db2r2~x2/">Gretna Green Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db2g2k1g30db20r2db2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4y1g2y1g35db32lb4~x2&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">1.92</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s7/k4y1g2y1g35db32lb4~x2/">McClurg (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4y1g2y1g35db32lb4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2g2ly1g30db20r2db2r2~x2&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">236</div><div class="nn-name nn-far"><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/">Gretna Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db2g2ly1g30db20r2db2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g50db20k3db2dy2db5~x2&amp;base=y3g2k1g30t24k2t2k2~x2" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">218</div><div class="nn-name nn-far"><a href="/variants/s6/g50db20k3db2dy2db5~x2/">St Andrews Old Course Hotel Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g50db20k3db2dy2db5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3g2k1g30db24k2db2k2/"><circle cx="303.2" cy="121.8" r="4" fill="#3465a4"><title>Johnston</title></circle></a><a href="/variants/s8/y3g2k1g30db24k2db2k2~x2/"><circle cx="303.2" cy="121.8" r="4" fill="#3465a4"><title>Johnston / Johnstone</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.1" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.5" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="170.9" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s6/dg4w1dg26t26k2t4~x4/"><circle cx="345.2" cy="168.4" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/variants/s8/db2g2k1g30db20r2db2r2~x2/"><circle cx="336.4" cy="121.0" r="4" fill="#3465a4"><title>Gretna Green Fashion Tartan</title></circle></a><a href="/variants/s7/k4y1g2y1g35db32lb4~x2/"><circle cx="281.0" cy="111.6" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="360.9" cy="136.8" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/variants/s6/g50db20k3db2dy2db5~x2/"><circle cx="380.3" cy="146.4" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan</title></circle></a><circle cx="350.4" cy="143.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/y3g2k1g30t24k2t2k2~x2/

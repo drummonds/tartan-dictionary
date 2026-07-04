@@ -1,0 +1,53 @@
+---
+title: "Williams (New York) (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k30db6k6db41lb2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBW](/stripes/kbkbw/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10107
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>23/11/2009 — Williams (New York) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10107">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#87CEEB;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #87CEEB"></span><br><em>This tartan was created to unite the designer's Scottish heritage with the selfless, mystical nature of his Zen practice.</em></li>
+<li>23rd Nov. 2009 — Williams (New York) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10107/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C64;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #003C64"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C8CA8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="A #5C8CA8"></span><br><em>Created to unite the designer's Scotish heritage with the "selfless, mystical nature of his Zen practice."</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10107](https://www.tartanregister.gov.uk/tartanDetails?ref=10107)
+- Scottish Tartans Authority (ITI): 10107
+
+## Thread count
+K/60 DB12 K12 DB82 LB/4
+
+One full sett is **276 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LB</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/60 DB12 K12 DB82 LB/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">276</div><div class="nn-name nn-base"><a href="/variants/s5/k30db6k6db41lb2~x2/">Williams (New York) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/k30db6k6db41lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k33db8k4db35dp3~x2&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">0.77</a></div><div class="nn-threads">260</div><div class="nn-name"><a href="/variants/s5/k33db8k4db35dp3~x2/">Fenston/Morris (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k33db8k4db35dp3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k15db4k15db28r2~x2&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">0.84</a></div><div class="nn-threads">222</div><div class="nn-name"><a href="/variants/s5/k15db4k15db28r2~x2/">MacKay (Blue) #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k15db4k15db28r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k9db3k28db25w2~x2&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">246</div><div class="nn-name"><a href="/variants/s5/k9db3k28db25w2~x2/">Press &amp; Journal</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k9db3k28db25w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8k39db8k39db87r6&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.77</a></div><div class="nn-threads">360</div><div class="nn-name"><a href="/variants/s6/db8k39db8k39db87r6/">Largan (?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db8k39db8k39db87r6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2k6db2k6db16r1~x2&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.86</a></div><div class="nn-threads">126</div><div class="nn-name"><a href="/variants/s6/db2k6db2k6db16r1~x2/">MacKay V</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2k6db2k6db16r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1db12k12b1k12db12w1~x4&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">400</div><div class="nn-name"><a href="/variants/s7/k1db12k12b1k12db12w1~x4/">Marchmont</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k1db12k12b1k12db12w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db5k2db14k14db2lp2~x2&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">142</div><div class="nn-name"><a href="/variants/s6/db5k2db14k14db2lp2~x2/">Royal Scotsman Train (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db5k2db14k14db2lp2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3db23k17r2~x2&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.96</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s4/k3db23k17r2~x2/">Wellington Variation</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k3db23k17r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1k3db1k3db8r1~x8&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.99</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s6/db1k3db1k3db8r1~x8/">MacKay -1842 (VS) (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1k3db1k3db8r1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1k3db1k3db8r1~x4&amp;base=k30db6k6db41lb2~x2" title="compare in the TTD">1.99</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s6/db1k3db1k3db8r1~x4/">Morgan (MacKay Blue) Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db1k3db1k3db8r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k33db8k4db35dp3~x2/"><circle cx="360.3" cy="224.2" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.7" cy="220.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.0" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="362.8" cy="197.9" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/variants/s6/db2k6db2k6db16r1~x2/"><circle cx="393.5" cy="194.0" r="4" fill="#3465a4"><title>MacKay V</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="283.9" cy="197.0" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="302.7" cy="225.5" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="327.2" cy="226.4" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x8/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>MacKay -1842 (VS) (Clan)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan</title></circle></a><circle cx="374.8" cy="191.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/k30db6k6db41lb2~x2/

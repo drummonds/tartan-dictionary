@@ -1,0 +1,46 @@
+---
+title: "Wilson's No.212"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2g9r2lb2/)
+(the same proportion at any scale), whose colour order is pattern [RGRW](/stripes/rgrw/).
+
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4743
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4743](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4743)
+- Scottish Tartans Authority (ITI): 506
+- Scottish Tartans World Register: 506
+
+## Thread count
+R/8 G36 R8 LB/8
+
+One full sett is **104 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LG</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr><tr><td>R</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>Ra</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 G36 R8 LB/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">104</div><div class="nn-name nn-base"><a href="/variants/s4/r2g9r2lb2~x4~r2109032/">Wilson's No.212</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/r2g9r2lb2~x4~r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g13r2lb13~x2&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">0.60</a></div><div class="nn-threads">60</div><div class="nn-name"><a href="/variants/s3/g13r2lb13~x2/">Wilson's No.161</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g13r2lb13~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g20r25w3~x4&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.17</a></div><div class="nn-threads">384</div><div class="nn-name"><a href="/variants/s4/r3g20r25w3~x4/">MacKinnon #6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r3g20r25w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g7r9y1~x4&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.18</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s4/r1g7r9y1~x4/">Bryce</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r1g7r9y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g9r2lb2~x4&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.35</a></div><div class="nn-threads">60</div><div class="nn-name"><a href="/variants/s3/g9r2lb2~x4/">Wilson's, No 212</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g9r2lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g7lb2r4~x2&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.43</a></div><div class="nn-threads">30</div><div class="nn-name"><a href="/variants/s3/g7lb2r4~x2/">Wilson's, No 208</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g7lb2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r18g7r2g18~x4&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.73</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s4/r18g7r2g18~x4/">Applecross (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r18g7r2g18~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r18g7r2g18~x2&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.73</a></div><div class="nn-threads">108</div><div class="nn-name"><a href="/variants/s4/r18g7r2g18~x2/">Applecross, (MacDonald)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r18g7r2g18~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg18r2dg7r18~x2~dg1806142-r2109032&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.73</a></div><div class="nn-threads">108</div><div class="nn-name"><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/">Applecross</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g10db2dr8lo2g5~x4&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">1.86</a></div><div class="nn-threads">156</div><div class="nn-name"><a href="/variants/s5/g10db2dr8lo2g5~x4/">Cub Scouts of America</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g10db2dr8lo2g5~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g72r25y8w5&amp;base=r2g9r2lb2~x4~r2109032" title="compare in the TTD">2.00</a></div><div class="nn-threads">143</div><div class="nn-name"><a href="/variants/s4/g72r25y8w5/">Sugell (Name?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g72r25y8w5/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g13r2lb13~x2/"><circle cx="287.9" cy="282.2" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.2" cy="252.3" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.0" cy="305.1" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/variants/s3/g7lb2r4~x2/"><circle cx="289.3" cy="340.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/variants/s4/r18g7r2g18~x4/"><circle cx="390.2" cy="288.5" r="4" fill="#3465a4"><title>Applecross (District)</title></circle></a><a href="/variants/s4/r18g7r2g18~x2/"><circle cx="390.2" cy="288.5" r="4" fill="#3465a4"><title>Applecross, (MacDonald)</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="408.8" cy="293.2" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/variants/s5/g10db2dr8lo2g5~x4/"><circle cx="296.5" cy="291.3" r="4" fill="#3465a4"><title>Cub Scouts of America</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="423.1" cy="219.3" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><circle cx="355.3" cy="285.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s4/r2g9r2lb2~x4~r2109032/

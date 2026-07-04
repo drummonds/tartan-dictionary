@@ -1,0 +1,44 @@
+---
+title: "Lamquet (2015)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGKGKGKGKBKGKBKRK](/stripes/bkgkgkgkgkgkgkbkgkbkrk/).
+
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11217
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11217](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11217)
+
+## Thread count
+DB/32 K32 G4 K4 G4 K4 G32 K4 G4 K4 G4 K32 Y16 K4 DB4 K4 Y16 K32 DB32 K4 R10 K/4
+
+One full sett is **536 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/32 K32 G4 K4 G4 K4 G32 K4 G4 K4 G4 K32 Y16 K4 DB4 K4 Y16 K32 DB32 K4 R10 K/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">536</div><div class="nn-name nn-base"><a href="/variants/s22/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2/">Lamquet (2015)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s22/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2&amp;base=db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2" title="compare in the TTD">0.71</a></div><div class="nn-threads">600</div><div class="nn-name"><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2/">Ferrazza in Guidonia, Rome (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2&amp;base=db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2" title="compare in the TTD">0.71</a></div><div class="nn-threads">600</div><div class="nn-name"><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/">Ferrazza (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2/"><circle cx="91.3" cy="110.3" r="4" fill="#3465a4"><title>Ferrazza in Guidonia, Rome (Personal)</title></circle></a><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="75.9" cy="106.1" r="4" fill="#3465a4"><title>Ferrazza (Personal)</title></circle></a><circle cx="134.2" cy="126.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s22/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2/

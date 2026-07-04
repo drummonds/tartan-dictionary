@@ -1,0 +1,38 @@
+---
+title: "Antrim"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5k2g17y2k5y2b5k17g2y4/)
+(the same proportion at any scale), whose colour order is pattern [GGKBGKGGKG](/stripes/ggkbgkggkg/).
+
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+G/10 K4 G34 Y4 K10 Y4 B10 K34 G4 Y/8
+
+One full sett is **226 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>O</td><td><code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> <small style="color:#888">#466CC8</small></td><td><small style="color:#888">oklch(55.1% 0.149 265.0)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/10 K4 G34 Y4 K10 Y4 B10 K34 G4 Y/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/">Antrim</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g12k1g2dr1g2k10db10lo1~x4&amp;base=g5k2g17y2k5y2b5k17g2y4~x2" title="compare in the TTD">2.45</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/">Guelph, City Of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k7r3k27g27y3g3y3g3~x2&amp;base=g5k2g17y2k5y2b5k17g2y4~x2" title="compare in the TTD">2.46</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/">Brunton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k7r3k27g27y3g3y3g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g5y1g3y2g8k8db1k8g1~x4&amp;base=g5k2g17y2k5y2b5k17g2y4~x2" title="compare in the TTD">2.48</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/">Fitzpatrick Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1dr1g7k8w1k8dr1g2dr1g4dr1~x4&amp;base=g5k2g17y2k5y2b5k17g2y4~x2" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/">Episcopal Clergy (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6k1g3k1db3k1g10r3~x2&amp;base=g5k2g17y2k5y2b5k17g2y4~x2" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">94</div><div class="nn-name nn-far"><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/">AIton - 1979 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db6k1g3k1db3k1g10r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090&amp;base=g5k2g17y2k5y2b5k17g2y4~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">302</div><div class="nn-name nn-far"><a href="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/">Norwich No.079</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="164.8" cy="159.0" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="206.4" cy="164.9" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/"><circle cx="189.9" cy="196.9" r="4" fill="#3465a4"><title>Fitzpatrick Hunting</title></circle></a><a href="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/"><circle cx="198.8" cy="169.7" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.3" cy="188.5" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/"><circle cx="130.1" cy="178.3" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><circle cx="158.8" cy="175.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/

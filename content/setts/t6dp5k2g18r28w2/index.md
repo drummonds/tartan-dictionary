@@ -1,0 +1,5 @@
+---
+title: "Dundhuin Ladies (Personal)"
+redirect: "/variants/s6/t6dp5k2g18r28w2~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Dundhuin Ladies (Personal)](/variants/s6/t6dp5k2g18r28w2~x2/).

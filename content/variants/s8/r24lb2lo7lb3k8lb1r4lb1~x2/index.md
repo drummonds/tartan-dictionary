@@ -1,0 +1,42 @@
+---
+title: "VeMMA Corporate Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24lb2lo7lb3k8lb1r4lb1/)
+(the same proportion at any scale), whose colour order is pattern [RWYWKKKWRW](/stripes/rwywkkkwrw/).
+
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10730
+
+## Provenance
+
+Earliest known date: 5 November 2012 Created for VeMMA International. VeMMA is a nutritional supplement company marketing fruit juice drinks that have been enhanced with vitamins and anti-oxidants (the name VeMMA is an acronym for Vitamins, essential Minerals, Mangosteen and Aloe vera). VeMMA offers an affiliate marketing program to those who wish to recommend its products. Colours: the orange represents enhanced health through supplementation; silver represents liquid and silver also purifies, soothes, inspires, and reflects back positive energy.
+
+## Thread count
+R/48 LB4 LO14 LB6 K4 K8 K4 LB2 R8 LB/2
+
+One full sett is **150 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LR</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr><tr><td>N</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/48 LB4 LO14 LB6 K4 K8 K4 LB2 R8 LB/2 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">150</div><div class="nn-name nn-base"><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/">VeMMA Corporate Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r34g10r5db2k8dy2w3~x2&amp;base=r24lb2lo7lb3k8lb1r4lb1~x2" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s8/k3r34g10r5db2k8dy2w3~x2/">Lambert (Front Royal) Greer</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k3r34g10r5db2k8dy2w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r34g10r5t2k8dy2w3~x2&amp;base=r24lb2lo7lb3k8lb1r4lb1~x2" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s8/k3r34g10r5t2k8dy2w3~x2/">Lambert Greer (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k3r34g10r5t2k8dy2w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2&amp;base=r24lb2lo7lb3k8lb1r4lb1~x2" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/">Strathclyde Fire Services (Corporate</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y4k3w2db7r7k4r5db4r30w2db3~x2&amp;base=r24lb2lo7lb3k8lb1r4lb1~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">270</div><div class="nn-name nn-far"><a href="/variants/s11/y4k3w2db7r7k4r5db4r30w2db3~x2/">Hart (Texas) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/y4k3w2db7r7k4r5db4r30w2db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4k2db3r33g9y3r5db10r6g2k2~x2&amp;base=r24lb2lo7lb3k8lb1r4lb1~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/">MacArthur-Fox Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6y1r24g6db2k1db2k1db12r1~x2&amp;base=r24lb2lo7lb3k8lb1r4lb1~x2" title="compare in the TTD">2.81</a></div><div class="nn-threads nn-far">210</div><div class="nn-name nn-far"><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/">MacEdward</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3r34g10r5db2k8dy2w3~x2/"><circle cx="257.3" cy="93.4" r="4" fill="#3465a4"><title>Lambert (Front Royal) Greer</title></circle></a><a href="/variants/s8/k3r34g10r5t2k8dy2w3~x2/"><circle cx="257.7" cy="93.9" r="4" fill="#3465a4"><title>Lambert Greer (Personal)</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.1" cy="69.5" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s11/y4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="277.4" cy="101.0" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/"><circle cx="305.5" cy="95.5" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><circle cx="267.4" cy="75.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/

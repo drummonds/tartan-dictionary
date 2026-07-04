@@ -1,0 +1,35 @@
+---
+title: Pattern WBWBWGW
+date: 2023-03-18
+aliases:
+- /patterns/wbwbwgw/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WBWBWGW</span></div>
+
+It is a 7 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern WBWBWGW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "WBWBWGW" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/">Ferguson Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/"><img src="/variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/sett.png" alt="Ferguson Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

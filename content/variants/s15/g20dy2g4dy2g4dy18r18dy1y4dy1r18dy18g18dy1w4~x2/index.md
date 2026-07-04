@@ -1,0 +1,56 @@
+---
+title: "Prince Edward Island (District)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGRGGGRGGGW](/stripes/ggggggrgggrgggw/).
+
+Part of the [Prince Edward Island](/tartans/prince-edward-island/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/918/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1959 — Prince Edward Island (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/918/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Close to and once part of Nova Scotia, Prince Edward Island lies just north of its old 'parent' in the huge Gulf of St. Lawrence. Originally called St John's Island, its name was changed in 1798 in honour of Queen Victoria's father, Prince Edward, Duke of Kent who, at the time, was in command of the British Forces in Halifax, Nova Scotia. With its population predominantly of Scottish extraction it's not surprising that an official tartan design competition was held in 1959 which was won by Mrs Elizabeth Jean MacLean Reed of Covehead, York. The colours she chose were described as follows: "Red for the warmth and glow of the fertile soil, green for the field and tree, yellow and brown for Autumn and white for the surf or a summer snow . . . rust, green, yellow and white . . .Yes! That's our Island Tartan. July 2008 - count changed to match original as contained in CIDD. "http://www.pch.gc.ca/progs/cpsc-ccsp/sc-cs/o6_e.cfm</em></li>
+<li>01/01/1960 — Prince Edward Island (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3388">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#604000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #604000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FCFCFC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WW #FCFCFC"></span><br><em>Close to and once part of Nova Scotia, Prince Edward Island lies just north of its old 'parent' in the huge Gulf of St. Lawrence. Originally called St John's Island, its name was changed in 1798 in honour of Queen Victoria's father, Prince Edward, Duke of Kent who, at the time, was in command of the British Forces in Halifax, Nova Scotia. With its population predominantly of Scottish extraction it's not surprising that an official tartan design competition was held in 1960 which was won by Mrs Jean Reid of Covehead, York. The colours she chose were described as follows: 'Red for the warmth and glow of the fertile soil, green for the field and tree, yellow and brown for Autumn and white for the surf or a summer snow.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3388)
+- Scottish Tartans Authority (ITI): 918
+- Scottish Tartans World Register: 918
+
+## Thread count
+G/40 DY4 G8 DY4 G8 DY36 R36 DY2 Y8 DY2 R36 DY36 G36 DY2 W/8
+
+One full sett is **484 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>T</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 DY4 G8 DY4 G8 DY36 R36 DY2 Y8 DY2 R36 DY36 G36 DY2 W/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">484</div><div class="nn-name nn-base"><a href="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/">Prince Edward Island (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2&amp;base=g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2" title="compare in the TTD">0.40</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/">Prince Edward Island District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/"><circle cx="210.1" cy="147.3" r="4" fill="#3465a4"><title>Prince Edward Island District Tartan</title></circle></a><circle cx="203.2" cy="143.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/

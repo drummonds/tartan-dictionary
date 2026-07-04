@@ -1,0 +1,5 @@
+---
+title: "Hororata"
+redirect: "/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Hororata](/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/).

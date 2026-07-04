@@ -1,0 +1,38 @@
+---
+title: Pattern GBGGBGGGG
+date: 2023-03-18
+aliases:
+- /patterns/gbggbgggg/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GBGGBGGGG</span></div>
+
+It is a 9 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GBGGBGGGG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "GBGGBGGGG" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2/">Conlon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2/"><img src="/variants/s9/dgi4db2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171-db1406275/sett.png" alt="Conlon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/y3dg1g3dg16dr32dg1dy1db4g2/">Connemara</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/y3dg1g3dg16dr32dg1dy1db4g2/"><img src="/variants/s9/y3dg1g3dg16dr32dg1dy1db4g2~x2~dg1605139/sett.png" alt="Connemara sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

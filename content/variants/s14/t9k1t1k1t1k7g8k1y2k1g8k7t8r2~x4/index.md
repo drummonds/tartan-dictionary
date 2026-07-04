@@ -1,0 +1,56 @@
+---
+title: "MacLeod of Skye (Johnston)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t9k1t1k1t1k7g8k1y2k1g8k7t8r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKGKBR](/stripes/bkbkbkgkgkgkbr/).
+
+Part of the [MacLeod of Skye](/tartans/macleod-of-skye/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1906 — MacLeod of Skye (Johnston) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Documented in the W & A K Johnston 1906 book where it is given this name. It is essentially the same as M'Bean's MacLeod of Gesto (#280, original Scottish Tartans Authority reference) but the black guards have moved from the red to the yellow stripe. In the 1906 version the two sets of black tramlines on the blue are much nearer the centre of the band. SINDEX notes state: 'Baillie used for the Loyal Inverness Fencibles, commanded in 1795 by Col. Baillie of Dunain who died in 1797. - J. MacKinlay. To confuse the issue there is a further note: 'It appears under this name in Wilson's records of 1819 but with black guard lines to the red.'</em></li>
+<li>1906 — MacLeod of Skye (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/263/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Documented in the W & A K Johnston 1906 book where it is given this name. It is essentially the same as M'Bean's MacLeod of Gesto (#280) but the black guards have moved from the red to the yellow stripe. In the 1906 version the two sets of black tramlines on the blue are much nearer the centre of the band. SINDEX notes state: "Baillie used for the Loyal Inverness Fencibles, commanded in 1795 by Col. Baillie of Dunain who died in 1797. - J. MacKinlay. To confuse the issue there is a further note: "It appears under this name in Wilson's records of 1819 but with black guard lines to the red."</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642)
+- Scottish Tartans Authority (ITI): 263
+- Scottish Tartans World Register: 263
+
+## Thread count
+T/36 K4 T4 K4 T4 K28 G32 K4 Y8 K4 G32 K28 T32 R/8
+
+One full sett is **412 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/36 K4 T4 K4 T4 K28 G32 K4 Y8 K4 G32 K28 T32 R/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">412</div><div class="nn-name nn-base"><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/">MacLeod of Skye (Johnston)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4&amp;base=t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4" title="compare in the TTD">1.71</a></div><div class="nn-threads">416</div><div class="nn-name"><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/">Dyce</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2&amp;base=t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4" title="compare in the TTD">1.71</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/">Dyce</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y4k1g12k12db12k1db4k1db12k12g12k1w4~x2&amp;base=t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">336</div><div class="nn-name nn-far"><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/">Campbell of Loudon</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y2k1g12k12db12k1db2k1db12k12g12k1w2~x2&amp;base=t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/">Campbell Loudon</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y2k1g12k12db12k1db1k1db12k12g12k1w2~x2&amp;base=t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">316</div><div class="nn-name nn-far"><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/">Campbell of Loudoun</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4&amp;base=t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/">Gemmell Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><circle cx="104.7" cy="153.8" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/"><circle cx="113.4" cy="152.9" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.6" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><circle cx="120.9" cy="146.8" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="123.0" cy="144.7" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.4" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><circle cx="99.6" cy="158.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/

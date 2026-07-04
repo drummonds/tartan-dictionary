@@ -1,0 +1,5 @@
+---
+title: "Jensen, Sven (Personal)"
+redirect: "/variants/s9/g12k8n6k22n3k8n3k40g6/"
+---
+This sett is recorded as a single cloth — redirecting to [Jensen, Sven (Personal)](/variants/s9/g12k8n6k22n3k8n3k40g6/).

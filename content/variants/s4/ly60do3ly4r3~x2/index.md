@@ -1,0 +1,53 @@
+---
+title: "Rabbie's Dram (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly60do3ly4r3/)
+(the same proportion at any scale), whose colour order is pattern [RYBY](/stripes/ryby/).
+
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7530/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Rabbie's Dram (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7530/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Lochcarron sample - part of a Burns' Collection. The weft is a lighter brown (fawn) which doesn't show with this software.</em></li>
+<li>undated — Rabbie's Dram (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5566">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#A08858;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #A08858"></span><span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="ZR #A00000"></span><br><em>Lochcarron sample - part of a Burns' Collection. The weft is a lighter brown (fawn) which doesn't show with this software.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5566](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5566)
+- Scottish Tartans Authority (ITI): 7530
+
+## Thread count
+LY/120 DO6 LY8 R/6
+
+One full sett is **154 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> <small style="color:#888">#412714</small></td><td><small style="color:#888">oklch(30.1% 0.050 55.7)</small></td></tr><tr><td>DRa</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>LT</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/120 DO6 LY8 R/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">154</div><div class="nn-name nn-base"><a href="/variants/s4/ly60do3ly4r3~x2/">Rabbie's Dram (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/ly60do3ly4r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ly12w1k2ly1r1~x8&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">1.02</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s5/ly12w1k2ly1r1~x8/">Lochcarron Camel</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/ly12w1k2ly1r1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1ly9db2ly9db1~x4&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">1.12</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s5/dr1ly9db2ly9db1~x4/">Brooks Bros Tattersall Camel (Fashio</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr1ly9db2ly9db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy10w1dy30y3~x4&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">1.13</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s4/dy10w1dy30y3~x4/">Pasteur</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dy10w1dy30y3~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ly100dy26dg3dr2~x2~dy1603076&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">1.54</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/">Canadian Irish Regiment Regimental Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ly24r1w1db1~x11&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">319</div><div class="nn-name"><a href="/variants/s4/ly24r1w1db1~x11/">Dutch Football (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly24r1w1db1~x11/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.98</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/">Young in Australia (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr1g22lo1~x4&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">184</div><div class="nn-name nn-far"><a href="/variants/s3/dr1g22lo1~x4/">Kenmore Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dr1g22lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly100dy26g3r2~x2&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">2.18</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s4/ly100dy26g3r2~x2/">Canadian Irish Regiment (Military)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly100dy26g3r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly100dy26g3r2~x2~r2109032&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">2.18</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s4/ly100dy26g3r2~x2~r2109032/">Canadian Irish Regiment</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/ly100dy26g3r2~x2~r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=do10lr1do30y3~x4&amp;base=ly60do3ly4r3~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">300</div><div class="nn-name nn-far"><a href="/variants/s4/do10lr1do30y3~x4/">Pasteur Fancy Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/do10lr1do30y3~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="419.9" cy="159.5" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><circle cx="529.1" cy="256.8" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Camel (Fashio</title></circle></a><a href="/variants/s4/dy10w1dy30y3~x4/"><circle cx="626.0" cy="212.2" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/"><circle cx="552.9" cy="156.6" r="4" fill="#3465a4"><title>Canadian Irish Regiment Regimental Tartan</title></circle></a><a href="/variants/s4/ly24r1w1db1~x11/"><circle cx="626.0" cy="172.4" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.3" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><a href="/variants/s3/dr1g22lo1~x4/"><circle cx="626.0" cy="250.3" r="4" fill="#3465a4"><title>Kenmore Hunting</title></circle></a><a href="/variants/s4/ly100dy26g3r2~x2/"><circle cx="514.0" cy="137.4" r="4" fill="#3465a4"><title>Canadian Irish Regiment (Military)</title></circle></a><a href="/variants/s4/ly100dy26g3r2~x2~r2109032/"><circle cx="513.9" cy="137.4" r="4" fill="#3465a4"><title>Canadian Irish Regiment</title></circle></a><a href="/variants/s4/do10lr1do30y3~x4/"><circle cx="626.0" cy="224.6" r="4" fill="#3465a4"><title>Pasteur Fancy Tartan</title></circle></a><circle cx="626.0" cy="197.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s4/ly60do3ly4r3~x2/

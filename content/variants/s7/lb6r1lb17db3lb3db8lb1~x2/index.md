@@ -1,0 +1,44 @@
+---
+title: "Dominion (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6r1lb17db3lb3db8lb1/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWRW](/stripes/wbwbwrw/).
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8138/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 8138
+
+## Thread count
+LB/12 R2 LB34 DB6 LB6 DB16 LB/2
+
+One full sett is **142 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/12 R2 LB34 DB6 LB6 DB16 LB/2 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">142</div><div class="nn-name nn-base"><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/">Dominion (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb33r8db12g12lb8db2lb8~x2&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">250</div><div class="nn-name nn-far"><a href="/variants/s7/lb33r8db12g12lb8db2lb8~x2/">Bermuda Plaid (1947) (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb33r8db12g12lb8db2lb8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db13lb1db3lb6y1lb1~x4&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/">Hepburn #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db13lb1db3lb6y1lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb66w2lb10w2lb10w2lb12r3db24~x2&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">344</div><div class="nn-name nn-far"><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/">RAAF #5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db20lb2w5r2db10lb5db20lb2w5r5~x2&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/">Mortell (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db20t2w5r2db10t5db20t2w5r5~x2&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/">Mortell (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y5db15lb5db5lb40y3~x2&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s6/y5db15lb5db5lb40y3~x2/">Legary</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y5db15lb5db5lb40y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db12lb1r3lb1r3lb1db6~x4&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/">BC Corps of Commissionaires, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db12lb1r3lb1r3lb1db6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db13lb3db1r3lb1~x6&amp;base=lb6r1lb17db3lb3db8lb1~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">168</div><div class="nn-name nn-far"><a href="/variants/s5/db13lb3db1r3lb1~x6/">Glen Moy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db13lb3db1r3lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb33r8db12g12lb8db2lb8~x2/"><circle cx="316.7" cy="195.0" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.5" cy="214.3" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/"><circle cx="481.5" cy="119.3" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.6" cy="183.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.5" cy="207.3" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="403.4" cy="200.9" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.8" cy="200.1" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><circle cx="427.4" cy="192.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/lb6r1lb17db3lb3db8lb1~x2/

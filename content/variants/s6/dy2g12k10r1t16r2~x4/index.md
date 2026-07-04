@@ -1,0 +1,57 @@
+---
+title: "MacWilliam (Clan)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy2g12k10r1t16r2/)
+(the same proportion at any scale), whose colour order is pattern [GGKRBR](/stripes/ggkrbr/).
+
+Part of the [MacWilliam](/tartans/macwilliam/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1418/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1418
+
+## Thread count
+R/8 T64 R4 K40 G48 DY/8
+
+One full sett is **328 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>T</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 T64 R4 K40 G48 DY/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **1.15** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dy2g12k10r1db16r2/"><img src="/variants/s6/dy2g12k10r1db16r2~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dy2g12k10r1db16r2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">328</div><div class="nn-name nn-base"><a href="/variants/s6/dy2g12k10r1t16r2~x4/">MacWilliam (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/dy2g12k10r1t16r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy2g12k10r1db16r2~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s6/dy2g12k10r1db16r2~x2/">MacWilliam Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dy2g12k10r1db16r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2db16r1k10g12o2~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">0.30</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s6/r2db16r1k10g12o2~x2/">MacWilliam</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db16r1k10g12o2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g14k14r2db14lb1~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">0.99</a></div><div class="nn-threads">180</div><div class="nn-name"><a href="/variants/s6/r1g14k14r2db14lb1~x2/">Wilson's No.221</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1g14k14r2db14lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3db22k11g32ly3~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">1.11</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/r3db22k11g32ly3~x2/">Cultoquhey (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3db22k11g32ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3db22k11g32y3~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">1.11</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s5/r3db22k11g32y3~x2/">Cultoquhey Hotel</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3db22k11g32y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db18r3k9r3g23y3~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">1.39</a></div><div class="nn-threads">194</div><div class="nn-name"><a href="/variants/s6/db18r3k9r3g23y3~x2/">Royal College of Physicians (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db18r3k9r3g23y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y2g23k21r2t22g2~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">1.45</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s6/y2g23k21r2t22g2~x2/">Royal Ashburn Golf Club</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y2g23k21r2t22g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6r3g30ly10db30w3~x2&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">1.53</a></div><div class="nn-threads">310</div><div class="nn-name"><a href="/variants/s6/k6r3g30ly10db30w3~x2/">Turnbull of Thornton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k6r3g30ly10db30w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g11y1k8t9r2~x4&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">1.74</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/k2g11y1k8t9r2~x4/">Forsyth (1795)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8t9r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g11y1k8db9r2~x4&amp;base=dy2g12k10r1t16r2~x4" title="compare in the TTD">1.74</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/k2g11y1k8db9r2~x4/">Forsyth</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8db9r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.4" cy="169.2" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.0" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.2" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="183.9" cy="194.5" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="195.5" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.2" cy="196.1" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s6/y2g23k21r2t22g2~x2/"><circle cx="135.6" cy="180.7" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.4" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.4" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s6/k2g11y1k8db9r2~x4/"><circle cx="118.8" cy="189.9" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><circle cx="149.0" cy="171.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/dy2g12k10r1t16r2~x4/

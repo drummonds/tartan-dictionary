@@ -1,0 +1,60 @@
+---
+title: "MacLeod Red"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRGRBRBRGRGRBRG](/stripes/brbrbrbrgrbrbrgrgrbrg/).
+
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2643
+
+## Provenance
+
+Earliest known date: 1982 Designed after the tartan worn by Norman MacLeod, 22nd Chief of the clan, painted by Allan Ramsay in 1747, with the costume painted by Van Haecken (see details in entry for MacLeod portrait.) A yellow stripe was added by Ruairidh MacLeod to enhance the family resemblance to other MacLeod tartans, and to differentiate this from Murray of Tullibardine, the name now attached to the sett in the portrait. Approved by the Clan MacLeod Parliament in 1982.
+
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1980 — MacLeod Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2643">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed after the tartan worn by Norman MacLeod, 22nd Chief of the clan, painted by Allan Ramsay in 1747, with the costume painted by Van Haecken (see details in entry for MacLeod 'Portrait'). A yellow stripe was added by Ruairidh MacLeod to enhance the family resemblance to other MacLeod tartans, and to differentiate this from Murray of Tullibardine, the name now attached to the sett in the portrait. It was agreed at a clan Parliament in 1982 chaired by clan chief John MacLeod of MacLeod that this tartan be adopted as an official red MacLeod.</em></li>
+<li>1980 — MacLeod Red (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/496/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><br><em>Designed after the tartan worn by Norman MacLeod, 22nd Chief of the clan, painted by Allan Ramsay in 1747, with the costume painted by Van Haecken (see details in entry for MacLeod 'Portrait'.) A yellow stripe was added by Ruairidh MacLeod to enhance the family resemblance to other MacLeod tartans, and to differentiate this from Murray of Tullibardine, the name now attached to the sett in the portrait. It was agreed at a clan Parliament in 1982 chaired by clan chief John MacLeod of MacLeod that this tartan be adopted as an official red MacLeod.</em></li>
+<li>undated — MacLeod Red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000050;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="J #000050"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C00000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C00000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F0C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #008000"></span></li>
+<li>undated — MacLeod Red Clan Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=496">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2643)
+- Scottish Tartans Authority (ITI): 496
+- Scottish Tartans World Register: 496
+
+## Thread count
+DB/8 R2 DB2 R4 DB22 R4 DB2 R2 Y2 R2 DB2 R32 DB16 R8 G8 R32 G22 R16 DB8 R4 Y/4
+
+One full sett is **392 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 R2 DB2 R4 DB22 R4 DB2 R2 Y2 R2 DB2 R32 DB16 R8 G8 R32 G22 R16 DB8 R4 Y/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s21/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2/">MacLeod Red</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s21/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2/sett.png" alt="sett" loading="lazy" style="width:640px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4&amp;base=db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2" title="compare in the TTD">0.85</a></div><div class="nn-threads">672</div><div class="nn-name"><a href="/variants/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/">MacLeod of Tullibardine</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/sett.png" alt="sett" loading="lazy" style="width:640px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4r1db1r4db12r4db1r1g4r1db1r26db26r4g4r26g21r13db6r5g1~x2&amp;base=db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2" title="compare in the TTD">2.43</a></div><div class="nn-threads nn-far">654</div><div class="nn-name nn-far"><a href="/variants/s21/db4r1db1r4db12r4db1r1g4r1db1r26db26r4g4r26g21r13db6r5g1~x2/">Murray of Tullibardine (plaid)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/db4r1db1r4db12r4db1r1g4r1db1r26db26r4g4r26g21r13db6r5g1~x2/sett.png" alt="sett" loading="lazy" style="width:640px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1&amp;base=db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2" title="compare in the TTD">2.44</a></div><div class="nn-threads nn-far">171</div><div class="nn-name nn-far"><a href="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/">Murray of Tullibardine</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/sett.png" alt="sett" loading="lazy" style="width:640px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4&amp;base=db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">316</div><div class="nn-name nn-far"><a href="/variants/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/">MacRae of Conchra</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/sett.png" alt="sett" loading="lazy" style="width:640px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/"><circle cx="224.7" cy="128.9" r="4" fill="#3465a4"><title>MacLeod of Tullibardine</title></circle></a><a href="/variants/s21/db4r1db1r4db12r4db1r1g4r1db1r26db26r4g4r26g21r13db6r5g1~x2/"><circle cx="321.0" cy="115.0" r="4" fill="#3465a4"><title>Murray of Tullibardine (plaid)</title></circle></a><a href="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/"><circle cx="344.9" cy="104.1" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/variants/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/"><circle cx="236.6" cy="169.9" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><circle cx="289.9" cy="127.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s21/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2/

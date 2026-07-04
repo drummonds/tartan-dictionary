@@ -1,0 +1,35 @@
+---
+title: Pattern KRKRKBKBRKW
+date: 2023-03-18
+aliases:
+- /patterns/krkrkbkbrkw/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">KRKRKBKBRKW</span></div>
+
+It is a 11 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KRKRKBKBRKW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "KRKRKBKBRKW" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/">Auld Lang Syne, Grey Weavers Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/"><img src="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/sett.png" alt="Auld Lang Syne, Grey Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

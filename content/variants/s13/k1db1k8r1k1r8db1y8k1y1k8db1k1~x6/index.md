@@ -1,0 +1,42 @@
+---
+title: "Robieson QAHS"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1db1k8r1k1r8db1y8k1y1k8db1k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKGKGBRKRKBK](/stripes/kbkgkgbrkrkbk/).
+
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5790
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2005 — Robieson QAHS (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5790">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000FF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000FF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFF00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFFF00"></span><br><em>Designed by Graham Robieson (Dunfermline) using the colours of the Queen Anne High School (QAHS), Dunfermline, to commemorate the time that he, his brother and father spent there. Woven by Geoffrey (Tailor) Highland Crafts Limited.</em></li>
+<li>Nov. 2005 — Robieson QAHS (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7838/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Designed by Graham Robieson of Dunfermline using the colours of The Queen Anne High School (QAHS) Dunfermline where he and his brother and father were educated. It can be used by anyone. Woven by Geoffrey (Tailor) Highland Crafts of Edinburgh.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5790](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5790)
+- Scottish Tartans Authority (ITI): 7838
+- Scottish Tartans World Register: 3115
+
+## Thread count
+K/6 DB6 K48 R6 K6 R48 DB6 Y48 K6 Y6 K48 DB6 K/6
+
+One full sett is **480 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 DB6 K48 R6 K6 R48 DB6 Y48 K6 Y6 K48 DB6 K/6 tartan" width="880" height="480">
+
+ID: /variants/s13/k1db1k8r1k1r8db1y8k1y1k8db1k1~x6/

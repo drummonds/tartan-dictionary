@@ -1,0 +1,44 @@
+---
+title: "SCH '67 Class"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3r2n15w10k2y3/)
+(the same proportion at any scale), whose colour order is pattern [BRBWKG](/stripes/brbwkg/).
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11534
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11534](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11534)
+
+## Thread count
+DB/6 R4 N30 W20 K4 Y/6
+
+One full sett is **128 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>N</td><td><code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> <small style="color:#888">#636363</small></td><td><small style="color:#888">oklch(50.0% 0.000 89.9)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/6 R4 N30 W20 K4 Y/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">128</div><div class="nn-name nn-base"><a href="/variants/s6/db3r2n15w10k2y3~x2/">SCH '67 Class</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db3r2n15w10k2y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4n25k6w12k11y3~x2&amp;base=db3r2n15w10k2y3~x2" title="compare in the TTD">1.75</a></div><div class="nn-threads">230</div><div class="nn-name"><a href="/variants/s6/r4n25k6w12k11y3~x2/">Thomson Dress (Grey) (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r4n25k6w12k11y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb4ly2lb21k11w2n21r2~x2&amp;base=db3r2n15w10k2y3~x2" title="compare in the TTD">1.91</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/">Barbour -Modern</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb4ly2lb21k11w2n21r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt">1.94</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/">MacGregor-Ryan (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr24lb4k4g4w13k2~x4&amp;base=db3r2n15w10k2y3~x2" title="compare in the TTD">2.39</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s6/dr24lb4k4g4w13k2~x4/">Rose White Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr24lb4k4g4w13k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3w2o7n25k8o15dg2~x2~o2500000-n1900000&amp;base=db3r2n15w10k2y3~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">238</div><div class="nn-name nn-far"><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/">Allman-Jones (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k6w49db50dp6t8y4~db1404245-t2503227&amp;base=db3r2n15w10k2y3~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">236</div><div class="nn-name nn-far"><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/">Pipers' Trail Dance, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y2r1lb16k5dp2w11dp1~x4&amp;base=db3r2n15w10k2y3~x2" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/">Dignan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y2r1lb16k5dp2w11dp1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k8r12w8g15db30y5~x2&amp;base=db3r2n15w10k2y3~x2" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">286</div><div class="nn-name nn-far"><a href="/variants/s6/k8r12w8g15db30y5~x2/">Reekie (Edmonton)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k8r12w8g15db30y5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.2" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="144.7" cy="158.7" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><circle cx="87.1" cy="207.4" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.8" cy="157.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><circle cx="177.8" cy="157.0" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="153.8" cy="144.0" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="72.9" cy="202.6" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><circle cx="133.3" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/db3r2n15w10k2y3~x2/

@@ -1,0 +1,44 @@
+---
+title: "Wolfe (Name)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4r4dg13r13dg4r36lo4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRY](/stripes/grgrgry/).
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/4096/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 4096
+
+## Thread count
+LO/8 R72 DG8 R26 DG26 R8 DG/8
+
+One full sett is **296 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>G</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>O</td><td><code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> <small style="color:#888">#FF9C34</small></td><td><small style="color:#888">oklch(77.9% 0.161 61.8)</small></td></tr><tr><td>Oa</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LO/8 R72 DG8 R26 DG26 R8 DG/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/">Wolfe (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16dg1r1dg1r4dg12~x2&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">84</div><div class="nn-name"><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/">MacQuarrie 7</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16dg1r1dg1r4dg12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16g1r1g1r4g12~x4&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarrie #5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16g1r1g1r4g12~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16g1r1g1r4g12&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">42</div><div class="nn-name"><a href="/variants/s6/r16g1r1g1r4g12/">MacQuarrie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16g1r1g1r4g12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16g1r1g1r4g12~x2&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">84</div><div class="nn-name"><a href="/variants/s6/r16g1r1g1r4g12~x2/">MacQuarie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16g1r1g1r4g12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w11r40g13r5g12r5~x2&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.79</a></div><div class="nn-threads">312</div><div class="nn-name"><a href="/variants/s6/w11r40g13r5g12r5~x2/">Makhtoum</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w11r40g13r5g12r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r58y3r6g16r12g16r6&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.86</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s7/r58y3r6g16r12g16r6/">Cameron Ancient</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r58y3r6g16r12g16r6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r24g5r3g9r3db1~x4&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.91</a></div><div class="nn-threads">260</div><div class="nn-name"><a href="/variants/s6/r24g5r3g9r3db1~x4/">MacKintosh, Red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r24g5r3g9r3db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6w2r30g12r3g12r3~x2&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.96</a></div><div class="nn-threads">254</div><div class="nn-name"><a href="/variants/s7/r6w2r30g12r3g12r3~x2/">Crawford (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r6w2r30g12r3g12r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6w2r30g12r3g12r3&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.96</a></div><div class="nn-threads">127</div><div class="nn-name"><a href="/variants/s7/r6w2r30g12r3g12r3/">Crawford</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r6w2r30g12r3g12r3/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6lb2r30g12r3g12r3~x2&amp;base=dg4r4dg13r13dg4r36lo4~x2" title="compare in the TTD">1.96</a></div><div class="nn-threads">254</div><div class="nn-name"><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/">Crawford</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r6lb2r30g12r3g12r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="439.8" cy="202.1" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="451.2" cy="210.5" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12/"><circle cx="451.2" cy="210.5" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x2/"><circle cx="451.2" cy="210.5" r="4" fill="#3465a4"><title>MacQuarie</title></circle></a><a href="/variants/s6/w11r40g13r5g12r5~x2/"><circle cx="334.7" cy="226.6" r="4" fill="#3465a4"><title>Makhtoum</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="500.4" cy="179.9" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.5" cy="177.3" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><circle cx="412.7" cy="193.2" r="4" fill="#3465a4"><title>Crawford (Clan)</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3/"><circle cx="412.7" cy="193.2" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><circle cx="421.4" cy="196.0" r="4" fill="#3465a4"><title>Crawford</title></circle></a><circle cx="435.5" cy="204.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/dg4r4dg13r13dg4r36lo4~x2/

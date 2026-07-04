@@ -1,0 +1,46 @@
+---
+title: "Nithsdale"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10r2g2r6g16r1g2r1g3r6/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGRGRGR](/stripes/brgrgrgrgr/).
+
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3142
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3142](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3142)
+- Scottish Tartans Authority (ITI): 533
+- Scottish Tartans World Register: 533
+
+## Thread count
+DB/40 R8 G8 R24 G64 R4 G8 R4 G12 R/24
+
+One full sett is **328 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>DR</td><td><code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> <small style="color:#888">#A00000</small></td><td><small style="color:#888">oklch(44.3% 0.182 29.2)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>Ga</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>R</td><td><code style="background-color:#CC4438;"><span style="color:#CC4438;filter:grayscale(1) invert(1) contrast(100);">#CC4438</span></code> <small style="color:#888">#CC4438</small></td><td><small style="color:#888">oklch(57.7% 0.174 28.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/40 R8 G8 R24 G64 R4 G8 R4 G12 R/24 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">328</div><div class="nn-name nn-base"><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/">Nithsdale</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db10r2g2r6g16r1g2r1g3r6~x4&amp;base=db10r2g2r6g16r1g2r1g3r6~x4~r1807033" title="compare in the TTD">0.00</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4/">Nithsdale (3 colours) (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db10r2g2r6g16r1g2r1g3r6~x2&amp;base=db10r2g2r6g16r1g2r1g3r6~x4~r1807033" title="compare in the TTD">0.00</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x2/">Nithsdale</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4lb3r32db30r4g32r3g32r3g3~x2&amp;base=db10r2g2r6g16r1g2r1g3r6~x4~r1807033" title="compare in the TTD">1.46</a></div><div class="nn-threads">570</div><div class="nn-name"><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/">Unidentified Plaid #15</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g18r3g2r2db6r2g2r24g2r2g6~x2&amp;base=db10r2g2r6g16r1g2r1g3r6~x4~r1807033" title="compare in the TTD">1.82</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/">MacDonald of Vallay (Uist) (?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10r1g1r1g1r4db12r1db2~x2&amp;base=db10r2g2r6g16r1g2r1g3r6~x4~r1807033" title="compare in the TTD">2.49</a></div><div class="nn-threads nn-far">108</div><div class="nn-name nn-far"><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/">Unidentified Portrait</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1r2g12r10db12r2g12r10g12r2db1~x4&amp;base=db10r2g2r6g16r1g2r1g3r6~x4~r1807033" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">600</div><div class="nn-name nn-far"><a href="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/">Glasgow (Error)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.61</div><div class="nn-threads nn-far">—</div><div class="nn-name nn-far"><a href="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/">Skene #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w1r1g1r11db6r1g14r1g1w1~x4&amp;base=db10r2g2r6g16r1g2r1g3r6~x4~r1807033" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/">Unidentified Specimen #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4/"><circle cx="291.7" cy="183.9" r="4" fill="#3465a4"><title>Nithsdale (3 colours) (District)</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x2/"><circle cx="291.7" cy="183.9" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="252.9" cy="184.4" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/"><circle cx="328.0" cy="175.7" r="4" fill="#3465a4"><title>MacDonald of Vallay (Uist) (?)</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="186.8" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="269.9" cy="210.6" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/"><circle cx="320.0" cy="194.6" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="152.7" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><circle cx="304.3" cy="189.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/

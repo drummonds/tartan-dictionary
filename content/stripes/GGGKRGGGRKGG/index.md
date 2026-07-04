@@ -1,0 +1,37 @@
+---
+title: Pattern GGGKRGGGRKGG
+date: 2023-03-18
+aliases:
+- /patterns/gggkrgggrkgg/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GGGKRGGGRKGG</span></div>
+
+It is a 12 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GGGKRGGGRKGG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "GGGKRGGGRKGG" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/">McCamley (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/"><img src="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/sett.png" alt="McCamley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16~dgi1806142-g2003208/">McCamley (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16~dgi1806142-g2003208/"><img src="/variants/s12/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16~dgi1806142-g2003208/sett.png" alt="McCamley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

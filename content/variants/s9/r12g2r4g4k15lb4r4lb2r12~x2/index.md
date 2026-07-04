@@ -1,0 +1,48 @@
+---
+title: "Alexander (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12g2r4g4k15lb4r4lb2r12/)
+(the same proportion at any scale), whose colour order is pattern [RGRGKWRWR](/stripes/rgrgkwrwr/).
+
+Part of the [Alexander](/tartans/alexander-2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=44
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [44](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=44)
+- Scottish Tartans Authority (ITI): 1405
+- Scottish Tartans World Register: 1405
+
+## Thread count
+R/24 G4 R8 G8 K30 LB8 R8 LB4 R/24
+
+One full sett is **188 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 G4 R8 G8 K30 LB8 R8 LB4 R/24 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">188</div><div class="nn-name nn-base"><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/">Alexander (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r12db2r4db4k15g4r4g2r12~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">188</div><div class="nn-name"><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/">Alexander - 1985 (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8db3k4g6r4k1r4~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">96</div><div class="nn-name nn-far"><a href="/variants/s7/r8db3k4g6r4k1r4~x2/">MacDuff</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8db3k4g6r4k1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8db3k4g6r4k1r4~x4&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">192</div><div class="nn-name nn-far"><a href="/variants/s7/r8db3k4g6r4k1r4~x4/">MacDuff Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8db3k4g6r4k1r4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8lb3k4g6r4k1r4~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">96</div><div class="nn-name nn-far"><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/">MacDuff #5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8lb3k4g6r4k1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r36db9k12g17r10k3r10~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.38</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s7/r36db9k12g17r10k3r10~x2/">MacDuff #6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r36db9k12g17r10k3r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r36db9k12dg17r10k3r10~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.38</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s7/r36db9k12dg17r10k3r10~x2/">MacDuff - 1819 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r36db9k12dg17r10k3r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r22lb8k9g14r10lb2r10~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.45</a></div><div class="nn-threads nn-far">236</div><div class="nn-name nn-far"><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/">MacDuff #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r22lb8k9g14r10lb2r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r10g24k10r28lb3r6~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s6/r10g24k10r28lb3r6~x2/">Nisbet</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r10g24k10r28lb3r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5w2r28k12g16r3~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s6/r5w2r28k12g16r3~x2/">MacKintosh #4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5w2r28k12g16r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4k2r24k6db6g16r3~x2&amp;base=r12g2r4g4k15lb4r4lb2r12~x2" title="compare in the TTD">2.76</a></div><div class="nn-threads nn-far">230</div><div class="nn-name nn-far"><a href="/variants/s7/r4k2r24k6db6g16r3~x2/">MacDuff #4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4k2r24k6db6g16r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="217.8" cy="184.8" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/variants/s7/r8db3k4g6r4k1r4~x2/"><circle cx="196.6" cy="221.1" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s7/r8db3k4g6r4k1r4~x4/"><circle cx="196.6" cy="221.1" r="4" fill="#3465a4"><title>MacDuff Clan Tartan</title></circle></a><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/"><circle cx="193.4" cy="220.4" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/variants/s7/r36db9k12g17r10k3r10~x2/"><circle cx="258.1" cy="178.3" r="4" fill="#3465a4"><title>MacDuff #6</title></circle></a><a href="/variants/s7/r36db9k12dg17r10k3r10~x2/"><circle cx="265.0" cy="178.6" r="4" fill="#3465a4"><title>MacDuff - 1819 (Clan)</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="232.9" cy="205.5" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.7" cy="201.9" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.1" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.0" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><circle cx="212.7" cy="183.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/

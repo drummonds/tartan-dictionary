@@ -1,0 +1,45 @@
+---
+title: "Caledonian Railway (Commemorative)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t6k1ly6k1t28w1k2w1t16w1r5/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/).
+
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10590/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10590](https://www.tartanregister.gov.uk/tartanDetails?ref=10590)
+- Scottish Tartans Authority (ITI): 10590
+
+## Thread count
+T/12 K2 LY12 K2 T56 W2 K4 W2 T32 W2 R/10
+
+One full sett is **250 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>DY</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LR</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/12 K2 LY12 K2 T56 W2 K4 W2 T32 W2 R/10 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">250</div><div class="nn-name nn-base"><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/">Caledonian Railway (Commemorative)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly4db44g5w2g2db2g2r2db3ly3~x2&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.07</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s10/ly4db44g5w2g2db2g2r2db3ly3~x2/">Oxford University Dress (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/ly4db44g5w2g2db2g2r2db3ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w4db32k1y2k1db10y18db10k1dr2~x2&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/">European Union (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b32w1k3w1g14b7k3dr3w1~x2&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.62</a></div><div class="nn-threads nn-far">194</div><div class="nn-name nn-far"><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/">Leach, Leech, Leitch, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t106r3t4r6t8k28g8w4g12k8&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/">Parr</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/t106r3t4r6t8k28g8w4g12k8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb7w2dr7w4lb50w2k2r2~x2&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.66</a></div><div class="nn-threads nn-far">286</div><div class="nn-name nn-far"><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/">MacDonald from Rawtenstall (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t18r1t1r1t1k7t13w2~x4&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.72</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/">Tokyo Bluebells (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/t18r1t1r1t1k7t13w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t130k9t21ly8t21w8t35r70&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">404</div><div class="nn-name nn-far"><a href="/variants/s8/t130k9t21ly8t21w8t35r70/">Maud, Mary</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/t130k9t21ly8t21w8t35r70/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t42w5t1w1ly9t1dg2w1t1r1~x4&amp;base=t6k1ly6k1t28w1k2w1t16w1r5~x2" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">340</div><div class="nn-name nn-far"><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/">Stratford, (Oregon) City of (Dist.)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly4db44g5w2g2db2g2r2db3ly3~x2/"><circle cx="415.3" cy="89.9" r="4" fill="#3465a4"><title>Oxford University Dress (Corporate)</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.3" cy="93.9" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s9/b32w1k3w1g14b7k3dr3w1~x2/"><circle cx="327.5" cy="96.3" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><circle cx="340.9" cy="70.9" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="441.6" cy="88.6" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><circle cx="409.1" cy="140.3" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="145.7" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.2" cy="84.4" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><circle cx="415.2" cy="95.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/

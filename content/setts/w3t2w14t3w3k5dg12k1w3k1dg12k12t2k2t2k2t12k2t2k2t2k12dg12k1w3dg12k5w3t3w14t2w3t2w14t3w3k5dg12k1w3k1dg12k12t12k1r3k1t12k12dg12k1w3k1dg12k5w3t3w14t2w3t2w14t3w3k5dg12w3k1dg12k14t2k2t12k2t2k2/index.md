@@ -1,0 +1,5 @@
+---
+title: "Kilbarchan Unidentified No. 14"
+redirect: "/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Kilbarchan Unidentified No. 14](/variants/s76/w3t2w14t3w3k5dg12k1w3k1dg12k12t2k2t2k2t12k2t2k2t2k12dg12k1w3dg12k5w3t3w14t2w3t2w14t3w3k5dg12k1w3k1dg12k12t12k1r3k1t12k12dg12k1w3k1dg12k5w3t3w14t2w3t2w14t3w3k5dg12w3k1dg12k14t2k2t12k2t2k2~x2/).

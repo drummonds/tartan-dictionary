@@ -1,0 +1,5 @@
+---
+title: "Braemar Castle Corporate Tartan"
+redirect: "/variants/s10/r52k5y5k8ly5do5k2r6k1y2~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Braemar Castle Corporate Tartan](/variants/s10/r52k5y5k8ly5do5k2r6k1y2~x2/).

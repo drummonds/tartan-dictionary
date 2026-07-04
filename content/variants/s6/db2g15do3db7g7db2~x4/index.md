@@ -1,0 +1,44 @@
+---
+title: "Green Highland, The (Fashion)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2g15do3db7g7db2/)
+(the same proportion at any scale), whose colour order is pattern [BGBBGB](/stripes/bgbbgb/).
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/5112/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5112
+
+## Thread count
+DB/8 G60 DO12 DB28 G28 DB/8
+
+One full sett is **272 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> <small style="color:#888">#412714</small></td><td><small style="color:#888">oklch(30.1% 0.050 55.7)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 G60 DO12 DB28 G28 DB/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s6/db2g15do3db7g7db2~x4/">Green Highland, The (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db2g15do3db7g7db2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4w1db12g12db1g4~x2&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">1.53</a></div><div class="nn-threads">120</div><div class="nn-name"><a href="/variants/s6/db4w1db12g12db1g4~x2/">Unidentified Tweed</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db4w1db12g12db1g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1g12db4lb1db4g4db1~x4&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">1.71</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s7/db1g12db4lb1db4g4db1~x4/">St. Dennis &amp; Cranley School</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1g12db4lb1db4g4db1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g12db3g1~x2&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">1.81</a></div><div class="nn-threads">38</div><div class="nn-name"><a href="/variants/s3/g12db3g1~x2/">Montgomerie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g12db3g1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g6db2g1~x4&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">1.82</a></div><div class="nn-threads">44</div><div class="nn-name"><a href="/variants/s3/g6db2g1~x4/">Montgomery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g6db2g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6b1g7w1b7r1~x4~w4000000-r2109032&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">2.03</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/">Norris (1957)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6b1g7w1b7r1~x4&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">2.03</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s6/g6b1g7w1b7r1~x4/">Norris (1957) (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g6b1g7w1b7r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6g2db29g29db2g6~x2&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s6/db6g2db29g29db2g6~x2/">Harmony 12</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db6g2db29g29db2g6~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db8g2db8g15lb2~x4&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s5/db8g2db8g15lb2~x4/">Hamilton Green Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db8g2db8g15lb2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db8dr4db24g35lb4g8&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">150</div><div class="nn-name nn-far"><a href="/variants/s6/db8dr4db24g35lb4g8/">Heritage Tartan, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db8dr4db24g35lb4g8/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db5g2db5g8w1~x8&amp;base=db2g15do3db7g7db2~x4" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s5/db5g2db5g8w1~x8/">Hamilton, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db5g2db5g8w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db4w1db12g12db1g4~x2/"><circle cx="348.5" cy="244.7" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><a href="/variants/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="395.2" cy="232.1" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/variants/s3/g12db3g1~x2/"><circle cx="487.0" cy="272.0" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/variants/s3/g6db2g1~x4/"><circle cx="423.1" cy="314.7" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/"><circle cx="332.2" cy="254.6" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4/"><circle cx="333.2" cy="254.8" r="4" fill="#3465a4"><title>Norris (1957) (Name)</title></circle></a><a href="/variants/s6/db6g2db29g29db2g6~x2/"><circle cx="403.2" cy="244.0" r="4" fill="#3465a4"><title>Harmony 12</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="319.9" cy="283.2" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s6/db8dr4db24g35lb4g8/"><circle cx="318.7" cy="243.1" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.2" cy="288.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><circle cx="384.7" cy="273.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/db2g15do3db7g7db2~x4/

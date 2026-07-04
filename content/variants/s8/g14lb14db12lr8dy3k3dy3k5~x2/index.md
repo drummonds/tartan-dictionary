@@ -1,0 +1,45 @@
+---
+title: "Somerset #2"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14lb14db12lr8dy3k3dy3k5/)
+(the same proportion at any scale), whose colour order is pattern [GWBYGKGK](/stripes/gwbygkgk/).
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3834
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3834](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3834)
+- Scottish Tartans World Register: 2760
+
+## Thread count
+G/28 LB28 DB24 LR16 DY6 K6 DY6 K/10
+
+One full sett is **210 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LR</td><td><code style="background-color:#FF9C97;"><span style="color:#FF9C97;filter:grayscale(1) invert(1) contrast(100);">#FF9C97</span></code> <small style="color:#888">#FF9C97</small></td><td><small style="color:#888">oklch(79.3% 0.119 23.2)</small></td></tr><tr><td>N</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>T</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/28 LB28 DB24 LR16 DY6 K6 DY6 K/10 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">210</div><div class="nn-name nn-base"><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/">Somerset #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2db3t12k11g11y2~x2&amp;base=g14lb14db12lr8dy3k3dy3k5~x2" title="compare in the TTD">2.37</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s6/r2db3t12k11g11y2~x2/">Huntly Gordon 2000 (Commem)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db3t12k11g11y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g8n8lb7r5dy2k2dy2k2dy2~x2&amp;base=g14lb14db12lr8dy3k3dy3k5~x2" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">132</div><div class="nn-name nn-far"><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/">Somerset District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k20y4db13w4g30w4r13~x2&amp;base=g14lb14db12lr8dy3k3dy3k5~x2" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">286</div><div class="nn-name nn-far"><a href="/variants/s7/k20y4db13w4g30w4r13~x2/">South Africa 1994 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k20y4db13w4g30w4r13~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090&amp;base=g14lb14db12lr8dy3k3dy3k5~x2" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/">Culloden, Gold</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy6dr8k4w6g16k13lb19k5~x2&amp;base=g14lb14db12lr8dy3k3dy3k5~x2" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">286</div><div class="nn-name nn-far"><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/">Kilkenny County, Crest Range</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly6dr8k4w6g16k13lb19k5~x2&amp;base=g14lb14db12lr8dy3k3dy3k5~x2" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">286</div><div class="nn-name nn-far"><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/">Kilkenny County Crest (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db5dp3w2g3k1ly1~x10&amp;base=g14lb14db12lr8dy3k3dy3k5~x2" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s6/db5dp3w2g3k1ly1~x10/">MacBlain (2016)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db5dp3w2g3k1ly1~x10/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2db3t12k11g11y2~x2/"><circle cx="55.1" cy="209.9" r="4" fill="#3465a4"><title>Huntly Gordon 2000 (Commem)</title></circle></a><a href="/variants/s9/g8n8lb7r5dy2k2dy2k2dy2~x2/"><circle cx="14.0" cy="214.9" r="4" fill="#3465a4"><title>Somerset District Tartan</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.4" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><circle cx="21.8" cy="158.5" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="211.0" r="4" fill="#3465a4"><title>Kilkenny County, Crest Range</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="211.6" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/variants/s6/db5dp3w2g3k1ly1~x10/"><circle cx="40.8" cy="223.2" r="4" fill="#3465a4"><title>MacBlain (2016)</title></circle></a><circle cx="14.0" cy="210.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/

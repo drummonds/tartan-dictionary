@@ -1,0 +1,5 @@
+---
+title: "Virginia (USA)"
+redirect: "/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/"
+---
+This sett is recorded as a single cloth — redirecting to [Virginia (USA)](/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/).

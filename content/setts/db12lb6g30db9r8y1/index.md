@@ -1,0 +1,5 @@
+---
+title: "Wright, Anne (Personal)"
+redirect: "/variants/s6/db12lb6g30db9r8y1~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Wright, Anne (Personal)](/variants/s6/db12lb6g30db9r8y1~x2/).

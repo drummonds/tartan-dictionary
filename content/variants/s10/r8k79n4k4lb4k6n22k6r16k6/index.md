@@ -1,0 +1,53 @@
+---
+title: "King Robert the Bruce Memorial, The"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8k79n4k4lb4k6n22k6r16k6/)
+(the same proportion at any scale), whose colour order is pattern [KRKBKWKBKR](/stripes/krkbkwkbkr/).
+
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10796
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>27/02/2013 — King Robert the Bruce Memorial, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10796">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BE273D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #BE273D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#666666;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #666666"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DEDED5;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #DEDED5"></span><br><em>This tartan has been designed to commemorate King Robert the Bruce, who led the Scots in their battle for independence from England, and remembering particularly the victory of the Scottish army over King Edward and his English army in 1314. Colours: grey for the Scottish weather, black for the English defeat and red for the blood shed in the battle.</em></li>
+<li>27/02/2013 — King Robert the Bruce Memorial (Com (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10796/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C0C0C0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LN #C0C0C0"></span><br><em>This tartan has been designed to commemorate King Robert the Bruce, who led the Scots in their battle for independence from England, and remembering particularly the victory of the Scottish army over King Edward and his English army in 1314. Colours: grey for the Scottish weather, black for the English defeat and red for the blood shed in the battle. Only to be woven by Marton Mills, Pool Mills, Pool in Wharfedale, Otley, West Yorkshire, England LS21 1TA</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10796](https://www.tartanregister.gov.uk/tartanDetails?ref=10796)
+- Scottish Tartans Authority (ITI): 10796
+
+## Thread count
+R/8 K79 N4 K4 LB4 K6 N22 K6 R16 K/6
+
+One full sett is **296 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>N</td><td><code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> <small style="color:#888">#636363</small></td><td><small style="color:#888">oklch(50.0% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 K79 N4 K4 LB4 K6 N22 K6 R16 K/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/">King Robert the Bruce Memorial, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k86n6k4lb3k3dr3k3n22o14k3o6lb4&amp;base=r8k79n4k4lb4k6n22k6r16k6" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/">Langtree</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k86n6k4w3k3r3k3n22o14k3o6w4&amp;base=r8k79n4k4lb4k6n22k6r16k6" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/">Langtree</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k86n6k4w3k3r3k3n22ly14k3ly6w4&amp;base=r8k79n4k4lb4k6n22k6r16k6" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/">Langtree Trade Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2&amp;base=r8k79n4k4lb4k6n22k6r16k6" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/">Longmount</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2&amp;base=r8k79n4k4lb4k6n22k6r16k6" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/">Glen Ross (WCWM - 2)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k22n17k2n4k2n2k37n4k2r3~x2&amp;base=r8k79n4k4lb4k6n22k6r16k6" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">330</div><div class="nn-name nn-far"><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/">Witches' Blood, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly8k7r3k7r3k38w2k3ly6~x2&amp;base=r8k79n4k4lb4k6n22k6r16k6" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/">Bunnahabhain</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.6" cy="51.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.6" cy="48.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.6" cy="46.5" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s12/k48n4k6lb2k2dr2k2n10o6k2o3dr2~x2/"><circle cx="357.0" cy="60.8" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.6" cy="60.4" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.5" cy="128.3" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/"><circle cx="361.2" cy="105.6" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><circle cx="341.3" cy="95.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s10/r8k79n4k4lb4k6n22k6r16k6/

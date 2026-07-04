@@ -1,0 +1,35 @@
+---
+title: Pattern GGRGKGKWRW
+date: 2023-03-18
+aliases:
+- /patterns/ggrgkgkwrw/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GGRGKGKWRW</span></div>
+
+It is a 10 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GGRGKGKWRW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "GGRGKGKWRW" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/">Spanish shirt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><img src="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/sett.png" alt="Spanish shirt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

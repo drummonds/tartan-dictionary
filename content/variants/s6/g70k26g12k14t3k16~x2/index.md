@@ -1,0 +1,67 @@
+---
+title: "Duchess of Fife"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g70k26g12k14t3k16/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBK](/stripes/gkgkbk/).
+
+Part of the [Duchess of Fife](/tartans/duchess-of-fife/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Duchess of Fife (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>Despite the claim, this does not appear in Clans Originaux. Variation of Duke of Fife. Woven in green instead of customary blue-green. It has been accepted as fact for very many years that J Claude's 1880 'Clans Originaux' contained many Irish tartans. In 2003 the Tartans Authority obtained photo copies of the contents pages of the only copy known to exist and they revealed that of the 185 tartans shown, not one of them was Irish. This 'fiction' has been absorbed into tartan history unfortunately and it will take many years to eradicate.. The only copy known to exist is owned by Pendleton Mills of Portland, Oregon</em></li>
+<li>1880 — Duchess of Fife (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/781/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><br><em>From J.R.Dalgety, 1984. From a pattern book of Fraser Ross & Co., Glasgow c.1870-1880. Sample in McGregor Hastie Collection at STS. Duke of Fife #790 is the same but with red on black in place of blue.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1002](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002)
+- Scottish Tartans Authority (ITI): 781
+- Scottish Tartans World Register: 781
+
+## Thread count
+G/140 K52 G24 K28 T6 K/32
+
+One full sett is **392 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/140 K52 G24 K28 T6 K/32 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.07** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/g70k26g12k14db3k16/"><img src="/variants/s6/g70k26g12k14db3k16~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/g70k26g12k14db3k16/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s6/g70k26g12k14t3k16~x2/">Duchess of Fife</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g70k26g12k14t3k16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g70k26g12k14db3k16~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">392</div><div class="nn-name"><a href="/variants/s6/g70k26g12k14db3k16~x2/">Duchess of Fife #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g70k26g12k14db3k16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g30k12g6k6db2k5~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">0.43</a></div><div class="nn-threads">174</div><div class="nn-name"><a href="/variants/s6/g30k12g6k6db2k5~x2/">Fife, Duchess of..</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g30k12g6k6db2k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g32k6g4k8r1k2~x4&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">0.89</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s6/g32k6g4k8r1k2~x4/">Fife, Duke Of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g32k6g4k8r1k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g32k6g4k8r1k2~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">0.89</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s6/g32k6g4k8r1k2~x2/">Fife, Duke of..</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g32k6g4k8r1k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6db1k6g4k10g20r2~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">180</div><div class="nn-name"><a href="/variants/s7/k6db1k6g4k10g20r2~x2/">MacKinross</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k6db1k6g4k10g20r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g46k18g6k13r4k4w4~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">1.13</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s7/g46k18g6k13r4k4w4~x2/">Page</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g46k18g6k13r4k4w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3r1g32k12w1k12r1g3~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">1.55</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/">MacHardy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k3r1g32k12w1k12r1g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g16k8g3k4y1&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">1.64</a></div><div class="nn-threads">64</div><div class="nn-name"><a href="/variants/s6/r1g16k8g3k4y1/">Forbes VS</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1g16k8g3k4y1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g16k8g3k4y1~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">1.64</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s6/r1g16k8g3k4y1~x2/">Forbes VS</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1g16k8g3k4y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g16k8g4k4y1~x2&amp;base=g70k26g12k14t3k16~x2" title="compare in the TTD">1.64</a></div><div class="nn-threads">132</div><div class="nn-name"><a href="/variants/s6/r1g16k8g4k4y1~x2/">Forbes #6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1g16k8g4k4y1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g70k26g12k14db3k16~x2/"><circle cx="327.1" cy="167.2" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="314.3" cy="184.4" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x4/"><circle cx="399.2" cy="135.0" r="4" fill="#3465a4"><title>Fife, Duke Of</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x2/"><circle cx="399.2" cy="135.0" r="4" fill="#3465a4"><title>Fife, Duke of..</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="249.7" cy="157.5" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.1" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="300.5" cy="107.8" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="168.6" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><circle cx="326.8" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/g70k26g12k14t3k16~x2/

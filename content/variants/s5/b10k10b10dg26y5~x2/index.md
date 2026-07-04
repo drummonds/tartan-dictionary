@@ -1,0 +1,45 @@
+---
+title: "Marshall of Keith (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b10k10b10dg26y5/)
+(the same proportion at any scale), whose colour order is pattern [BKBGG](/stripes/bkbgg/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2840
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2840](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2840)
+- Scottish Tartans World Register: 2976
+
+## Thread count
+B/20 K20 B20 DG52 Y/10
+
+One full sett is **214 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> <small style="color:#888">#466CC8</small></td><td><small style="color:#888">oklch(55.1% 0.149 265.0)</small></td></tr><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/20 K20 B20 DG52 Y/10 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">214</div><div class="nn-name nn-base"><a href="/variants/s5/b10k10b10dg26y5~x2/">Marshall of Keith (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/b10k10b10dg26y5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4k4db4g9k2~x2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">80</div><div class="nn-name"><a href="/variants/s5/db4k4db4g9k2~x2/">Austin Clan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db4k4db4g9k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4k4db4g9k2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">40</div><div class="nn-name"><a href="/variants/s5/db4k4db4g9k2/">Austin</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db4k4db4g9k2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2k2db2o5dy1~x12&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s5/db2k2db2o5dy1~x12/">Chivas Regal (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db2k2db2o5dy1~x12/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db6k6db6o14dy3~x2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">122</div><div class="nn-name"><a href="/variants/s5/db6k6db6o14dy3~x2/">Chivas Regal</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db6k6db6o14dy3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr5t35k24t9g9dr5~x2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.54</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s6/dr5t35k24t9g9dr5~x2/">Notre Dame Marching Guard (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr5t35k24t9g9dr5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g7k6db7k1db2~x2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.68</a></div><div class="nn-threads">74</div><div class="nn-name"><a href="/variants/s5/g7k6db7k1db2~x2/">Campbell of Glenlyon</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g7k6db7k1db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g3db1g8db7k3dy1~x2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.81</a></div><div class="nn-threads">84</div><div class="nn-name"><a href="/variants/s6/g3db1g8db7k3dy1~x2/">Trafalgar (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3db1g8db7k3dy1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db20k5db18y26k6~x2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.92</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/db20k5db18y26k6~x2/">Jahore</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db20k5db18y26k6~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7db11k3db11dy11g22db3~x2~db1605267&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.92</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/">Scottish Odyssey Commemorative Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2k2db12k11g12w2~x2&amp;base=b10k10b10dg26y5~x2" title="compare in the TTD">1.94</a></div><div class="nn-threads">156</div><div class="nn-name"><a href="/variants/s6/db2k2db12k11g12w2~x2/">Campbell, The White Stripe</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2k2db12k11g12w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="154.9" cy="284.8" r="4" fill="#3465a4"><title>Austin Clan</title></circle></a><a href="/variants/s5/db4k4db4g9k2/"><circle cx="154.9" cy="284.8" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s5/db2k2db2o5dy1~x12/"><circle cx="170.7" cy="258.7" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="158.3" cy="266.5" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><circle cx="208.6" cy="216.6" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="175.9" cy="261.6" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.7" cy="223.1" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.5" cy="272.8" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="140.9" cy="224.3" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.0" cy="228.1" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><circle cx="180.9" cy="262.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/b10k10b10dg26y5~x2/

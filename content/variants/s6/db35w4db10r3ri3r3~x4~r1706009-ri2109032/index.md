@@ -1,0 +1,45 @@
+---
+title: "Steffen, Morris (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db35w4db10r3ri3r3/)
+(the same proportion at any scale), whose colour order is pattern [BWBRRR](/stripes/bwbrrr/).
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10448/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10448](https://www.tartanregister.gov.uk/tartanDetails?ref=10448)
+- Scottish Tartans Authority (ITI): 10448
+
+## Thread count
+DB/140 W16 DB40 R12 Ri12 R/12
+
+One full sett is **312 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DR</td><td><code style="background-color:#901C38;"><span style="color:#901C38;filter:grayscale(1) invert(1) contrast(100);">#901C38</span></code> <small style="color:#888">#901C38</small></td><td><small style="color:#888">oklch(43.2% 0.150 13.1)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/140 W16 DB40 R12 Ri12 R/12 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">312</div><div class="nn-name nn-base"><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/">Steffen, Morris (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db35w4db10dr3r3dr3~x4&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">0.00</a></div><div class="nn-threads">312</div><div class="nn-name"><a href="/variants/s6/db35w4db10dr3r3dr3~x4/">Steffen, Markus (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db35w4db10dr3r3dr3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db50k12db21w5~x2&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.14</a></div><div class="nn-threads">242</div><div class="nn-name"><a href="/variants/s4/db50k12db21w5~x2/">Coinean Dubh</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db50k12db21w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db102r11db14w11&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.19</a></div><div class="nn-threads">163</div><div class="nn-name"><a href="/variants/s4/db102r11db14w11/">Westfield (Corporate?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db102r11db14w11/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db12lb1k2db1r1~x8&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.20</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s5/db12lb1k2db1r1~x8/">Lochcarron (1985)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db12lb1k2db1r1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db1lb1db8r1~x2&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.34</a></div><div class="nn-threads">40</div><div class="nn-name"><a href="/variants/s4/db1lb1db8r1~x2/">Lochaber #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db1lb1db8r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db16r4db3dp1~x2&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.48</a></div><div class="nn-threads">62</div><div class="nn-name"><a href="/variants/s4/db16r4db3dp1~x2/">Elliott</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db16r4db3dp1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db68lb7db16k16ly4~x2&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.54</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s5/db68lb7db16k16ly4~x2/">Burnetts &amp; Struth</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db68lb7db16k16ly4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db24w4db24y4dr5k4~x2&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.68</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s6/db24w4db24y4dr5k4~x2/">De Grussa</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db24w4db24y4dr5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db24w4db24ly4dr5k4~x2&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.68</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s6/db24w4db24ly4dr5k4~x2/">de Grussa (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db24w4db24ly4dr5k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3db2r1db18g1db2~x4&amp;base=db35w4db10r3ri3r3~x4~r1706009-ri2109032" title="compare in the TTD">1.71</a></div><div class="nn-threads">196</div><div class="nn-name"><a href="/variants/s6/r3db2r1db18g1db2~x4/">Lynch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3db2r1db18g1db2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.8" cy="177.7" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="475.3" cy="230.0" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="535.6" cy="215.7" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.4" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="532.3" cy="229.3" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/variants/s4/db16r4db3dp1~x2/"><circle cx="559.0" cy="220.2" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.6" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><circle cx="363.1" cy="199.5" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/variants/s6/db24w4db24ly4dr5k4~x2/"><circle cx="349.6" cy="195.8" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/variants/s6/r3db2r1db18g1db2~x4/"><circle cx="577.0" cy="173.5" r="4" fill="#3465a4"><title>Lynch</title></circle></a><circle cx="467.1" cy="171.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/

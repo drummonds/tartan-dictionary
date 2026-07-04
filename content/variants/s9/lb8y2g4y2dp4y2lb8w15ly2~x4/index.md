@@ -1,0 +1,53 @@
+---
+title: "Edmonton, City of"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb8y2g4y2dp4y2lb8w15ly2/)
+(the same proportion at any scale), whose colour order is pattern [WGGGBGWWY](/stripes/wgggbgwwy/).
+
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1977 — Edmonton, City of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0F0D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0F0D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>The official tartan of Edmonton was created by the Edmonton Rehabilitation Society and was approved on May 10th 1977. The predominant colour is light blue which symbolizes the city's clear blue skies. The green is for agriculture, the yellow for the sun and prairie wheat. The white represents peace and snow. The city's official colours of purple and gold are also included and the gold also represents the marigold - Edmonton's official flower. The Scottish Tartans Authority was unaware of this tartan until January 2007 - 30 years after it was designed. Threadcount doubled. Woven sample from Scottish Imports Inc. of Edmonton.</em></li>
+<li>May 1977 — City of Edmonton (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7262/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2888C4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #2888C4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F0F0D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F0F0D8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><br><em>This official tartan was created and first woven by the Goodwill Rehabilitation Service of Edmonton with the approval of the City Council (May 10th 1977 or 14th March 1978) and in return Goodwill received the commercial rights to the tartan for 10 years, although the city retained the full use of the tartan during that period. The predominant colour is light blue which symbolizes the city's clear blue skies. The green is for agriculture, the yellow for the sun and prairy wheat. The white represents peace and snow. The city's official colours of purple and gold are also included and the gold also represents the marigold - Edmonton's official flower. The STA was unaware of this tartan until January 2007 - 30 years after it was designed. Threadcount doubled. Woven sample from Scottish Imports Inc. of Edmonton. Canadian researcher John Fitzpatrick of Vancouver Island has has advised (July 2008) that in the proposed design standard of Dec. 1978, blue was to be included to represent the ideas of strength and water, in particular the North Saskatchewan river, Edmonton's first means of access and trading. The idea may have been dropped prior to registration of the tartan or perhaps the blue was reckoned to be formed by the interesction of light blue and purple.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087)
+- Scottish Tartans Authority (ITI): 7262
+
+## Thread count
+LB/32 Y8 G16 Y8 DP16 Y8 LB32 W60 LY/8
+
+One full sett is **336 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DY</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>LY</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>P</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/32 Y8 G16 Y8 DP16 Y8 LB32 W60 LY/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">336</div><div class="nn-name nn-base"><a href="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/">Edmonton, City of</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r19lb5t2w12t2y4g8~x2&amp;base=lb8y2g4y2dp4y2lb8w15ly2~x4" title="compare in the TTD">2.82</a></div><div class="nn-threads nn-far">154</div><div class="nn-name nn-far"><a href="/variants/s7/r19lb5t2w12t2y4g8~x2/">Northern Ontario (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r19lb5t2w12t2y4g8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r19lb5t2w12t2y4g8~x2~g2203152&amp;base=lb8y2g4y2dp4y2lb8w15ly2~x4" title="compare in the TTD">2.82</a></div><div class="nn-threads nn-far">154</div><div class="nn-name nn-far"><a href="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/">Ontario, Northern</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy17n5db2w12db2y4g7~x2&amp;base=lb8y2g4y2dp4y2lb8w15ly2~x4" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">148</div><div class="nn-name nn-far"><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/">Ontario Northern Canadian District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy17n5db2w12db2y4g7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r19lb5t2w12t2y4g8~x2/"><circle cx="141.1" cy="187.7" r="4" fill="#3465a4"><title>Northern Ontario (District)</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/"><circle cx="147.4" cy="188.8" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.6" cy="206.2" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><circle cx="150.9" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s9/lb8y2g4y2dp4y2lb8w15ly2~x4/

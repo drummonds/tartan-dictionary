@@ -1,0 +1,51 @@
+---
+title: "St Johnstone F.C."
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k19w8k19b16y4b16w2/)
+(the same proportion at any scale), whose colour order is pattern [KWKBGBW](/stripes/kwkbgbw/).
+
+Part of the [St. Johnstone F.C.](/tartans/st-johnstone-f-c/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+K/38 W16 K38 B32 Y8 B32 W/4
+
+One full sett is **294 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>G</td><td><code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> <small style="color:#888">#466CC8</small></td><td><small style="color:#888">oklch(55.1% 0.149 265.0)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/38 W16 K38 B32 Y8 B32 W/4 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.82** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/k6lb3k8db7lo2db7lb1/"><img src="/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/k6lb3k8db7lo2db7lb1/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">294</div><div class="nn-name nn-base"><a href="/variants/s7/k19w8k19b16y4b16w2~x2/">St Johnstone F.C.</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/k19w8k19b16y4b16w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6lb3k8db7lo2db7lb1~x4&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">1.25</a></div><div class="nn-threads">244</div><div class="nn-name"><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/">St. Johnstone F.C. (Sports)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k6lb3k8db7lo2db7lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k7r3k24b28y3~x2&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.10</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s5/k7r3k24b28y3~x2/">Robert Gordon University</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7r3k24b28y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2y1db7w1k7w2~x6&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s6/db2y1db7w1k7w2~x6/">Hawick Rugby Club</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db2y1db7w1k7w2~x6/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db44k9w3k24ly15k6w7~x2&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">330</div><div class="nn-name nn-far"><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/">Longford County Crest (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db44k9w3k24ly15k6w7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3g12k13w2db13w3~x2~db1406275&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">172</div><div class="nn-name nn-far"><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/">Herd/Hurd</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3g12k13w2db13w3~x2~db1406275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3g12k13w2db13w3~x2&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">172</div><div class="nn-name nn-far"><a href="/variants/s6/db3g12k13w2db13w3~x2/">Herd/Hurd (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db3g12k13w2db13w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1b8k4g6k4b8y1~x6~g2003152&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.42</a></div><div class="nn-threads nn-far">372</div><div class="nn-name nn-far"><a href="/variants/s7/r1b8k4g6k4b8y1~x6~g2003152/">Quinn</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r1b8k4g6k4b8y1~x6~g2003152/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1k6db6k6g6k1w1~x6&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s7/db1k6db6k6g6k1w1~x6/">Forbes - 1947 (Lyon Court)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1k6db6k6g6k1w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1k6db6k6g6k1w1&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">52</div><div class="nn-name nn-far"><a href="/variants/s7/db1k6db6k6g6k1w1/">Forbes LC</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1k6db6k6g6k1w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1k6db6k6g6k1w1~x2&amp;base=k19w8k19b16y4b16w2~x2" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">104</div><div class="nn-name nn-far"><a href="/variants/s7/db1k6db6k6g6k1w1~x2/">Forbes Ancient</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1k6db6k6g6k1w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="158.0" cy="226.5" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.0" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/db2y1db7w1k7w2~x6/"><circle cx="178.8" cy="193.2" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/variants/s7/db44k9w3k24ly15k6w7~x2/"><circle cx="179.0" cy="168.4" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/"><circle cx="108.4" cy="226.8" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.1" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s7/r1b8k4g6k4b8y1~x6~g2003152/"><circle cx="177.8" cy="206.8" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><circle cx="166.0" cy="213.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/k19w8k19b16y4b16w2~x2/

@@ -1,0 +1,55 @@
+---
+title: "Lennox Dress District Tartan"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri8r2ri24r5w25dy2w8/)
+(the same proportion at any scale), whose colour order is pattern [RRRRWGW](/stripes/rrrrwgw/).
+
+Part of the [Lennox Dress](/tartans/lennox-dress-2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1649
+
+## Provenance
+
+Earliest known date: 1986 Families with the surname 'Lennox' are usually considered related to Clans Stewart or MacFarlane. Some of this surname also choose to wear the distinctive and ancient 'Lennox' tartan. D W Stewart reproduced the sett from a 'lost' portrait of the Countess of Lennox dating from the 16th century.
+
+## Thread count
+W/16 DY4 W50 R10 Ri48 R4 Ri/16
+
+One full sett is **264 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> <small style="color:#888">#A00048</small></td><td><small style="color:#888">oklch(45.4% 0.182 5.3)</small></td></tr><tr><td>Ra</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>T</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/16 DY4 W50 R10 Ri48 R4 Ri/16 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.68** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r2dr1r10dr2w10db1w2/"><img src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r2dr1r10dr2w10db1w2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/">Lennox Dress District Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2dr1r10dr2w10db1w2~x4&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">0.64</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/">Lennox Dress #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2dr1r10dr2w10db1w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr3r2db2r30w30db2w3~x2&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">1.20</a></div><div class="nn-threads">276</div><div class="nn-name"><a href="/variants/s7/dr3r2db2r30w30db2w3~x2/">Torridon, Cherry (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dr3r2db2r30w30db2w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8dr3r28w32dr3w4~x2&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">1.20</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s6/r8dr3r28w32dr3w4~x2/">Ailsa, Red V2 (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r8dr3r28w32dr3w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8dr3r28w32dr3w4~x2~r2108022&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">1.20</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/">Ailsa Red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">2.21</a></div><div class="nn-threads nn-far">250</div><div class="nn-name nn-far"><a href="/variants/s7/w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029/">MacPherson, dress red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w4dr2w25r21w3r8y3~x2&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">2.21</a></div><div class="nn-threads nn-far">250</div><div class="nn-name nn-far"><a href="/variants/s7/w4dr2w25r21w3r8y3~x2/">MacPherson Dress Red</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w4dr2w25r21w3r8y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8dr5dp10r24w30dr2db2~x2&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">2.67</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/">Shiel, Claret (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w8dr5dp10r24w30dr2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">2.95</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032/">Gigha, Cherry (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8dp2r24dp5w25dy2w8~x2&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">2.96</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/">MacGiboney (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8dp2r24dp5w25dy2w8~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8dp2r24db5w26dy2w8~x2&amp;base=ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008" title="compare in the TTD">2.96</a></div><div class="nn-threads nn-far">268</div><div class="nn-name nn-far"><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/">Lennox Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8dp2r24db5w26dy2w8~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2dr1r10dr2w10db1w2~x4/"><circle cx="239.2" cy="185.2" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/variants/s7/dr3r2db2r30w30db2w3~x2/"><circle cx="286.8" cy="153.3" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2/"><circle cx="293.5" cy="204.2" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/"><circle cx="291.3" cy="203.8" r="4" fill="#3465a4"><title>Ailsa Red</title></circle></a><a href="/variants/s7/w4r2w25ri21w3ri8y3~x2~r1506028-ri2008029/"><circle cx="283.0" cy="179.5" r="4" fill="#3465a4"><title>MacPherson, dress red</title></circle></a><a href="/variants/s7/w4dr2w25r21w3r8y3~x2/"><circle cx="287.6" cy="180.3" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="161.6" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032/"><circle cx="189.6" cy="161.9" r="4" fill="#3465a4"><title>Gigha, Cherry (Dance)</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="251.9" cy="184.4" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="236.6" cy="169.0" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><circle cx="249.9" cy="181.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/ri8r2ri24r5w25dy2w8~x2~ri2109032-r1807008/

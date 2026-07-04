@@ -1,0 +1,53 @@
+---
+title: "Allt Dubh (Black Burn)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k99r5k4r3k2g1/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRK](/stripes/gkrkrk/).
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2007 — Allt Dubh (Black Burn) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RR #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>Designed by D Tulloch of Thomas Gordon & Sons of Blairgowrie and designed to convey the impression of a dark, heather-clad Highland stream, 'Black Burn.'</em></li>
+<li>September 2007 — Allt Dubh (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7296/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#901C38;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RR #901C38"></span><span style="display:inline-block;width:.85em;height:.85em;background:#5C6428;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="OG #5C6428"></span><br><em>Designed by D Tulloch of Thomas Gordon & Sons of Blairgowrie and designed to convey the impression of a dark, heather-clad Highland stream 'Black Burn.'</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [61](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61)
+- Scottish Tartans Authority (ITI): 7296
+
+## Thread count
+K/198 R10 K8 R6 K4 G/2
+
+One full sett is **256 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/198 R10 K8 R6 K4 G/2 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s6/k99r5k4r3k2g1~x2/">Allt Dubh (Black Burn)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k99r5k4r3k2g1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k31r2k10db1k1w1~x4&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.16</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s6/k31r2k10db1k1w1~x4/">NewGeneration Alchemy (NGA) Inc</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k31r2k10db1k1w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k160w6k2w3k3~x2&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.19</a></div><div class="nn-threads">370</div><div class="nn-name"><a href="/variants/s5/k160w6k2w3k3~x2/">Black Camel Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k160w6k2w3k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k80dg1k2dr4lb1n5k8ly2dg2~x2&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.49</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/">Crichton (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k120b4k12dt36dg3k6&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s6/k120b4k12dt36dg3k6/">Scottish Football Association (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k120b4k12dt36dg3k6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt4k2dt4k45n2k3n2~x2&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/">STLTH</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dt4k2dt4k45n2k3n2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k36y5k1y1n5k12~x2&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.76</a></div><div class="nn-threads">144</div><div class="nn-name"><a href="/variants/s6/k36y5k1y1n5k12~x2/">Merola (2016)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k36y5k1y1n5k12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5r1k41dg8k8y1k5~x2&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/">Callaghan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k5r1k41dg8k8y1k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k72r3k11lb9k11r3k37&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">1.90</a></div><div class="nn-threads">183</div><div class="nn-name"><a href="/variants/s7/k72r3k11lb9k11r3k37/">Chafyn House (School)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k72r3k11lb9k11r3k37/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k198lr9k17lb13lr9k4lr13k4&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">332</div><div class="nn-name nn-far"><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/">London Fog Black (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k198lr9k17lb13lr9k4lr13k4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k60lb3k9g7&amp;base=k99r5k4r3k2g1~x2" title="compare in the TTD">2.17</a></div><div class="nn-threads nn-far">91</div><div class="nn-name nn-far"><a href="/variants/s4/k60lb3k9g7/">Wallington (Corporate?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k60lb3k9g7/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.7" cy="103.7" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s5/k160w6k2w3k3~x2/"><circle cx="626.0" cy="99.4" r="4" fill="#3465a4"><title>Black Camel Tartan</title></circle></a><a href="/variants/s9/k80dg1k2dr4lb1n5k8ly2dg2~x2/"><circle cx="558.1" cy="25.4" r="4" fill="#3465a4"><title>Crichton (Clan)</title></circle></a><a href="/variants/s6/k120b4k12dt36dg3k6/"><circle cx="539.6" cy="117.9" r="4" fill="#3465a4"><title>Scottish Football Association (Corp)</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.7" cy="133.4" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.7" cy="121.8" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/"><circle cx="608.3" cy="111.2" r="4" fill="#3465a4"><title>Callaghan</title></circle></a><a href="/variants/s7/k72r3k11lb9k11r3k37/"><circle cx="562.0" cy="131.0" r="4" fill="#3465a4"><title>Chafyn House (School)</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.2" cy="59.4" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s4/k60lb3k9g7/"><circle cx="558.2" cy="162.8" r="4" fill="#3465a4"><title>Wallington (Corporate?)</title></circle></a><circle cx="626.0" cy="85.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/k99r5k4r3k2g1~x2/

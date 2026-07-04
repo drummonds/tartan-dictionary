@@ -1,0 +1,38 @@
+---
+title: "MacNab 4"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24g1lb1g2ri24/)
+(the same proportion at any scale), whose colour order is pattern [RGWGR](/stripes/rgwgr/).
+
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+R/48 G2 LB2 G4 Ri/48
+
+One full sett is **112 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DR</td><td><code style="background-color:#900030;"><span style="color:#900030;filter:grayscale(1) invert(1) contrast(100);">#900030</span></code> <small style="color:#888">#900030</small></td><td><small style="color:#888">oklch(41.6% 0.166 13.6)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/48 G2 LB2 G4 Ri/48 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">112</div><div class="nn-name nn-base"><a href="/variants/s5/r24g1lb1g2ri24~x2~r1707016-ri2008029/">MacNab 4</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r24g1lb1g2ri24~x2~r1707016-ri2008029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r24g1lb1g2ri24~x4~r1807008-ri2109032&amp;base=r24g1lb1g2ri24~x2~r1707016-ri2008029" title="compare in the TTD">0.00</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s5/r24g1lb1g2ri24~x4~r1807008-ri2109032/">MacNab (Smith)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r24g1lb1g2ri24~x4~r1807008-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr24g1lb1g2r24~x2~r1908029&amp;base=r24g1lb1g2ri24~x2~r1707016-ri2008029" title="compare in the TTD">0.00</a></div><div class="nn-threads">112</div><div class="nn-name"><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/">MacNab WI 1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr24g1lb1g2r24~x2~r1908029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r96g3lb3g6ri95~r2109032-ri2707016&amp;base=r24g1lb1g2ri24~x2~r1707016-ri2008029" title="compare in the TTD">0.29</a></div><div class="nn-threads">215</div><div class="nn-name"><a href="/variants/s5/r96g3lb3g6ri95~r2109032-ri2707016/">MacNab - 1800 (Portrait)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r96g3lb3g6ri95~r2109032-ri2707016/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr104dg39lo4~x2&amp;base=r24g1lb1g2ri24~x2~r1707016-ri2008029" title="compare in the TTD">2.00</a></div><div class="nn-threads">372</div><div class="nn-name"><a href="/variants/s3/dr104dg39lo4~x2/">Scottish Watch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g3k3ly2dr28dy28r1~x2&amp;base=r24g1lb1g2ri24~x2~r1707016-ri2008029" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">252</div><div class="nn-name nn-far"><a href="/variants/s6/g3k3ly2dr28dy28r1~x2/">Passchendaele (Commemorative)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g3k3ly2dr28dy28r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr2o2dr17dt17m2dt2~x4&amp;base=r24g1lb1g2ri24~x2~r1707016-ri2008029" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/">Eglington</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr2o2dr17dt17m2dt2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n70lo16t3o45&amp;base=r24g1lb1g2ri24~x2~r1707016-ri2008029" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far2">153</div><div class="nn-name nn-far2"><a href="/variants/s4/n70lo16t3o45/">Klymson (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/n70lo16t3o45/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r24g1lb1g2ri24~x4~r1807008-ri2109032/"><circle cx="510.8" cy="217.7" r="4" fill="#3465a4"><title>MacNab (Smith)</title></circle></a><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.5" cy="199.6" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s5/r96g3lb3g6ri95~r2109032-ri2707016/"><circle cx="516.4" cy="199.5" r="4" fill="#3465a4"><title>MacNab - 1800 (Portrait)</title></circle></a><a href="/variants/s3/dr104dg39lo4~x2/"><circle cx="577.4" cy="283.8" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s6/g3k3ly2dr28dy28r1~x2/"><circle cx="365.6" cy="153.0" r="4" fill="#3465a4"><title>Passchendaele (Commemorative)</title></circle></a><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.5" cy="256.8" r="4" fill="#3465a4"><title>Eglington</title></circle></a><a href="/variants/s4/n70lo16t3o45/"><circle cx="476.2" cy="257.0" r="4" fill="#3465a4"><title>Klymson (Personal)</title></circle></a><circle cx="509.1" cy="218.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/r24g1lb1g2ri24~x2~r1707016-ri2008029/

@@ -1,0 +1,47 @@
+---
+title: "Kennedy"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2/)
+(the same proportion at any scale), whose colour order is pattern [KGGGRGRGBKBKBKBGR](/stripes/kgggrgrgbkbkbkbgr/).
+
+Part of the [Kennedy](/tartans/kennedy-2/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1942
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1942](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1942)
+- Scottish Tartans World Register: 1123
+
+## Thread count
+K/4 G4 Y2 G6 R2 G4 R2 G24 DB8 K6 DB6 K6 DB6 K6 DB8 G48 Ri/4
+
+One full sett is **284 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DR</td><td><code style="background-color:#960028;"><span style="color:#960028;filter:grayscale(1) invert(1) contrast(100);">#960028</span></code> <small style="color:#888">#960028</small></td><td><small style="color:#888">oklch(42.7% 0.171 18.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#C80028;"><span style="color:#C80028;filter:grayscale(1) invert(1) contrast(100);">#C80028</span></code> <small style="color:#888">#C80028</small></td><td><small style="color:#888">oklch(52.5% 0.212 23.0)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 G4 Y2 G6 R2 G4 R2 G24 DB8 K6 DB6 K6 DB6 K6 DB8 G48 Ri/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">284</div><div class="nn-name nn-base"><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022/">Kennedy</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022&amp;base=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022" title="compare in the TTD">0.00</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/">Kennedy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022&amp;base=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022" title="compare in the TTD">0.00</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/">Kennedy Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2~x2~r1908029&amp;base=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022" title="compare in the TTD">0.00</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s17/k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2~x2~r1908029/">Kennedy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2~x2~r1908029/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2~x2&amp;base=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022" title="compare in the TTD">1.41</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s17/db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2~x2/">Kennedy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2&amp;base=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022" title="compare in the TTD">1.64</a></div><div class="nn-threads">1100</div><div class="nn-name"><a href="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/">King Edward VII</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/sett.png" alt="sett" loading="lazy" style="width:512px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6&amp;base=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022" title="compare in the TTD">1.64</a></div><div class="nn-threads">550</div><div class="nn-name"><a href="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/">King Edward VII (Royal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/sett.png" alt="sett" loading="lazy" style="width:512px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2&amp;base=k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022" title="compare in the TTD">1.69</a></div><div class="nn-threads">298</div><div class="nn-name"><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/">Kennedy (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/sett.png" alt="sett" loading="lazy" style="width:512px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/"><circle cx="260.2" cy="67.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/"><circle cx="259.7" cy="67.0" r="4" fill="#3465a4"><title>Kennedy Clan Tartan</title></circle></a><a href="/variants/s17/k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2~x2~r1908029/"><circle cx="261.0" cy="67.8" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2~x2/"><circle cx="283.6" cy="88.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/"><circle cx="297.4" cy="80.2" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/"><circle cx="319.2" cy="90.6" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="211.0" cy="97.4" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><circle cx="260.0" cy="67.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022/

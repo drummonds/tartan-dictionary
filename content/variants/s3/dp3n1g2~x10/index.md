@@ -1,0 +1,53 @@
+---
+title: "Coleman, Sarah-Louise (Personal)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3n1g2/)
+(the same proportion at any scale), whose colour order is pattern [BBBG](/stripes/bbbg/).
+
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11027
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>18/03/2014 — Coleman, Sarah-Louise (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11027">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#007800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #007800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>Created for the designer’s wedding using colours which represent Scotland to her: purple for Scottish mountains covered in heather, green for islands dotted in the sea and silver for the wild seas in stormy weather.</em></li>
+<li>2014 — Coleman, Sarah-Louise (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11027/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#006818;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006818"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><br><em>A personal family tartan for the designer to wear at her wedding, using colours that remind her of the Scottish landscape (purple for heather, green for islands and grey for stormy seas).</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11027](https://www.tartanregister.gov.uk/tartanDetails?ref=11027)
+- Scottish Tartans Authority (ITI): 11027
+
+## Thread count
+G/20 N10 DP30 N/10
+
+One full sett is **110 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>N</td><td><code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> <small style="color:#888">#636363</small></td><td><small style="color:#888">oklch(50.0% 0.000 89.9)</small></td></tr><tr><td>P</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/20 N10 DP30 N/10 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">110</div><div class="nn-name nn-base"><a href="/variants/s3/dp3n1g2~x10/">Coleman, Sarah-Louise (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s3/dp3n1g2~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g3db3dp4w1~x4&amp;base=dp3n1g2~x10" title="compare in the TTD">1.36</a></div><div class="nn-threads">72</div><div class="nn-name"><a href="/variants/s4/g3db3dp4w1~x4/">Pride of the Glen</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g3db3dp4w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp5g4lb2~x2&amp;base=dp3n1g2~x10" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">30</div><div class="nn-name nn-far"><a href="/variants/s3/dp5g4lb2~x2/">Wilson's, No 209</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dp5g4lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2dp3g3n6y2~x2&amp;base=dp3n1g2~x10" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">56</div><div class="nn-name nn-far"><a href="/variants/s5/db2dp3g3n6y2~x2/">Dunoon Burgh Hall Trust</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp23dg8dp23dg35w5~x2&amp;base=dp3n1g2~x10" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s5/dp23dg8dp23dg35w5~x2/">Baru</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dp23dg8dp23dg35w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp5g6y1~x4&amp;base=dp3n1g2~x10" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">72</div><div class="nn-name nn-far"><a href="/variants/s3/dp5g6y1~x4/">Wilson's, No 81</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dp5g6y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg6dp5r1~x4~dg1605139-dp1105325-r2109032&amp;base=dp3n1g2~x10" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">68</div><div class="nn-name nn-far"><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/">Wilson's No.084</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6dp5lb1~x4&amp;base=dp3n1g2~x10" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">68</div><div class="nn-name nn-far"><a href="/variants/s3/g6dp5lb1~x4/">Wilson's, No 55</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g6dp5lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6dp5lb1~x4~dp1105325&amp;base=dp3n1g2~x10" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">68</div><div class="nn-name nn-far"><a href="/variants/s3/g6dp5lb1~x4~dp1105325/">Wilson's No.055</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/g6dp5lb1~x4~dp1105325/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2g4y1~x4&amp;base=dp3n1g2~x10" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">44</div><div class="nn-name nn-far"><a href="/variants/s3/dp2g4y1~x4/">Wilson's No.201</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dp2g4y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g4dp5g4lb2~x2&amp;base=dp3n1g2~x10" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">48</div><div class="nn-name nn-far"><a href="/variants/s4/g4dp5g4lb2~x2/">Wilson's No.209</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g4dp5g4lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="158.4" cy="328.8" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s3/dp5g4lb2~x2/"><circle cx="218.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="208.1" cy="338.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.3" cy="298.6" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.6" cy="324.6" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s3/dg6dp5r1~x4~dg1605139-dp1105325-r2109032/"><circle cx="345.5" cy="319.5" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><a href="/variants/s3/g6dp5lb1~x4/"><circle cx="309.2" cy="321.6" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/variants/s3/g6dp5lb1~x4~dp1105325/"><circle cx="303.0" cy="319.3" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/variants/s3/dp2g4y1~x4/"><circle cx="344.0" cy="346.4" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/variants/s4/g4dp5g4lb2~x2/"><circle cx="246.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><circle cx="274.9" cy="359.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s3/dp3n1g2~x10/

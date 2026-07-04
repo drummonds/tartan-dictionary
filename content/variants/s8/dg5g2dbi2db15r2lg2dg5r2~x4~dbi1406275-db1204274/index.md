@@ -1,0 +1,56 @@
+---
+title: "Remember the Somme 1916"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5g2dbi2db15r2lg2dg5r2/)
+(the same proportion at any scale), whose colour order is pattern [GGBBRYGR](/stripes/ggbbrygr/).
+
+Part of the [Remember the Somme 1916](/tartans/remember-the-somme-1916/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/11098/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11098](https://www.tartanregister.gov.uk/tartanDetails?ref=11098)
+- Scottish Tartans Authority (ITI): 11098
+
+## Thread count
+DG/20 G8 DBi8 DB60 R8 LG8 DG20 R/8
+
+One full sett is **252 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#82D67A;"><span style="color:#82D67A;filter:grayscale(1) invert(1) contrast(100);">#82D67A</span></code> <small style="color:#888">#82D67A</small></td><td><small style="color:#888">oklch(80.1% 0.150 142.2)</small></td></tr><tr><td>DB</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>DBa</td><td><code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> <small style="color:#888">#202060</small></td><td><small style="color:#888">oklch(28.9% 0.111 276.9)</small></td></tr><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>DR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/20 G8 DBi8 DB60 R8 LG8 DG20 R/8 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dg5g2t2db15dr2lb2dg5dr2/"><img src="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dg5g2t2db15dr2lb2dg5dr2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/">Remember the Somme 1916</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.30</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/">Remember the Somme 1916</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg5t2dg9db19r9ly2~x2&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">1.60</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/">Lyle and Scott</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg5t2dg9db19r9ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt">1.60</div><div class="nn-threads">—</div><div class="nn-name"><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/">Lyle and Scott</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb8n4db30dt30r3dt4~x2&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">1.91</a></div><div class="nn-threads">292</div><div class="nn-name"><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/">Hutchesons' Grammar (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/lb8n4db30dt30r3dt4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr5dg27o2b25y7dg3dr3~x2&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/">Kilkenny</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr4dg27o2db25ly5dg3o3~x2&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/">Kilkenny, County (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2r1db10w1dy4g8y1g2~x4&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/">Ayrshire District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db2r1db10w1dy4g8y1g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db2r1db10w1o4g8y1g2~x4&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/">Ayrshire</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db2r1db10w1o4g8y1g2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg3b22do10o5dg21r6b3~x2&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">2.77</a></div><div class="nn-threads nn-far">268</div><div class="nn-name nn-far"><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/">Swankie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg3b22do10o5dg21r6b3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2ly2db9dy1dg9r1w1~x2&amp;base=dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">94</div><div class="nn-name nn-far"><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/">Unidentified (ex Tony Murray)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2ly2db9dy1dg9r1w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/"><circle cx="229.6" cy="202.8" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/"><circle cx="219.4" cy="216.9" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/"><circle cx="220.1" cy="214.8" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="214.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.6" cy="192.6" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="278.4" cy="184.1" r="4" fill="#3465a4"><title>Kilkenny, County (District)</title></circle></a><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><circle cx="196.1" cy="180.1" r="4" fill="#3465a4"><title>Ayrshire District Tartan</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.6" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.3" cy="229.8" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="210.9" cy="187.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/

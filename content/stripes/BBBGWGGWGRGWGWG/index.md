@@ -1,0 +1,35 @@
+---
+title: Pattern BBBGWGGWGRGWGWG
+date: 2023-03-18
+aliases:
+- /patterns/bbbgwggwgrgwgwg/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BBBGWGGWGRGWGWG</span></div>
+
+It is a 15 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BBBGWGGWGRGWGWG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "BBBGWGGWGRGWGWG" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/">Druid (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><img src="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/sett.png" alt="Druid (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

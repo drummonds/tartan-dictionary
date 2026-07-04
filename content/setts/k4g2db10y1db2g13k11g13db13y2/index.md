@@ -1,0 +1,5 @@
+---
+title: "Pinney's of Scotland"
+redirect: "/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/"
+---
+This sett is recorded as a single cloth — redirecting to [Pinney's of Scotland](/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/).

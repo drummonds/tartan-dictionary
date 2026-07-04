@@ -1,0 +1,53 @@
+---
+title: "Los Angeles"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4db24lb5g2db3k5lb33r2/)
+(the same proportion at any scale), whose colour order is pattern [GBWGBKWR](/stripes/gbwgbkwr/).
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2223
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Los Angeles (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2223">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6098B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #6098B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><br><em>Based on the Los Angeles coat of arms. Slightly different thread count for the blues in the weft.</em></li>
+<li>pre 2003 — Los Angeles (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6071/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#6098B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #6098B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6098B8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #6098B8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #2C2C80"></span><br><em>Based on the Los Angeles coat of arms. Slightly different thread count for the blues in the weft. This was modelled by Rod Steweart's daughter at the LA Dressed to Kilt show in 2007.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2223](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2223)
+- Scottish Tartans Authority (ITI): 6071
+
+## Thread count
+Y/8 DB48 LB10 G4 DB6 K10 LB66 R/4
+
+One full sett is **300 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/8 DB48 LB10 G4 DB6 K10 LB66 R/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/">Los Angeles</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3n10db3k3w10r4n28k2~x2~db1106275-n2002249&amp;base=y4db24lb5g2db3k5lb33r2~x2" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">242</div><div class="nn-name nn-far"><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/">Moorpark Primary School (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3db25k6lb20y2lb2w3~x2&amp;base=y4db24lb5g2db3k5lb33r2~x2" title="compare in the TTD">2.61</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/">Madras College (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r3db25k6lb20y2lb2w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1w2lb12k2db2k2dp15db2ly1~x2&amp;base=y4db24lb5g2db3k5lb33r2~x2" title="compare in the TTD">2.76</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s9/db1w2lb12k2db2k2dp15db2ly1~x2/">Hek (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db1w2lb12k2db2k2dp15db2ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb5y5db12g1db1r1db1w2~x4&amp;base=y4db24lb5g2db3k5lb33r2~x2" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">196</div><div class="nn-name nn-far"><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/">Hodgkinson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb5y5db12g1db1r1db1w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb5y5db12g1db1r1db1w2~x2&amp;base=y4db24lb5g2db3k5lb33r2~x2" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">98</div><div class="nn-name nn-far"><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/">Yorkshire, C.C.C.</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb5y5db12g1db1r1db1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3k2lb30k5r5y5lb5db12w1~x2&amp;base=y4db24lb5g2db3k5lb33r2~x2" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/">Wiegratz Alba (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.1" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.3" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s9/db1w2lb12k2db2k2dp15db2ly1~x2/"><circle cx="143.3" cy="109.7" r="4" fill="#3465a4"><title>Hek (Name)</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="210.0" cy="82.5" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><circle cx="213.3" cy="115.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/y4db24lb5g2db3k5lb33r2~x2/

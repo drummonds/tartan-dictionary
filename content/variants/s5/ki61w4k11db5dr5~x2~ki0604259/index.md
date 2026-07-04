@@ -1,0 +1,51 @@
+---
+title: "Edinburgh Crystal"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ki61w4k11db5dr5/)
+(the same proportion at any scale), whose colour order is pattern [BBKWK](/stripes/bbkwk/).
+
+Part of the [Edinburgh Crystal](/tartans/edinburgh-crystal/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+Ki/122 W8 K22 DB10 DR/10
+
+One full sett is **212 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DB</td><td><code style="background-color:#000030;"><span style="color:#000030;filter:grayscale(1) invert(1) contrast(100);">#000030</span></code> <small style="color:#888">#000030</small></td><td><small style="color:#888">oklch(14.0% 0.097 264.1)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ki/122 W8 K22 DB10 DR/10 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **1.62** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/dt30lb2k6db3r3/"><img src="/variants/s5/dt30lb2k6db3r3~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dt30lb2k6db3r3/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">212</div><div class="nn-name nn-base"><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/">Edinburgh Crystal</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4db32k15w2~x2&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">0.85</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s4/r4db32k15w2~x2/">Scottish Nuclear</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r4db32k15w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db31k8dp4w2~x4&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.00</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s4/db31k8dp4w2~x4/">Osborne, Luke Alexander (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db31k8dp4w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2k6db33w2~x4&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.01</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s4/r2k6db33w2~x4/">McCallie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r2k6db33w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db14k3dr3w1~x2&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.02</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/db14k3dr3w1~x2/">Bacon, Blue</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db14k3dr3w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5db58lb4t6y4k4~x2~lb3103284-t2503227&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.13</a></div><div class="nn-threads">306</div><div class="nn-name"><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/">Kendle (2013)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5db58lb4n6y4k4~x2~db1406275-n2203265&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.13</a></div><div class="nn-threads">306</div><div class="nn-name"><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/">Kendle (2013)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3db12k50y3~x2&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.18</a></div><div class="nn-threads">260</div><div class="nn-name"><a href="/variants/s4/r3db12k50y3~x2/">Rogues (United States), The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r3db12k50y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db46k6g9dy9r4&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.20</a></div><div class="nn-threads">98</div><div class="nn-name"><a href="/variants/s5/db46k6g9dy9r4/">Ayllu Thuban</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db46k6g9dy9r4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt30w2k6db3r3~x4&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.42</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s5/dt30w2k6db3r3~x4/">Edinburgh Crystal (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dt30w2k6db3r3~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k62db15w6y4~x2&amp;base=ki61w4k11db5dr5~x2~ki0604259" title="compare in the TTD">1.48</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s4/k62db15w6y4~x2/">C-Tec N.I. Ltd</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k62db15w6y4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.3" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s4/db31k8dp4w2~x4/"><circle cx="409.8" cy="185.8" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.6" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.2" cy="192.8" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/"><circle cx="395.1" cy="115.9" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><circle cx="411.7" cy="119.1" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.1" cy="166.2" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="176.9" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s5/dt30w2k6db3r3~x4/"><circle cx="376.9" cy="151.4" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="384.9" cy="164.1" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><circle cx="417.4" cy="150.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/ki61w4k11db5dr5~x2~ki0604259/

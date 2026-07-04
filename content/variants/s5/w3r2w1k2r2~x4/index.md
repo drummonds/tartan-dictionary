@@ -1,0 +1,44 @@
+---
+title: "Oakland Centre"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3r2w1k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKWRW](/stripes/rkwrw/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11587
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11587](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11587)
+
+## Thread count
+W/12 R8 W4 K8 R/8
+
+One full sett is **60 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 R8 W4 K8 R/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">60</div><div class="nn-name nn-base"><a href="/variants/s5/w3r2w1k2r2~x4/">Oakland Centre</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/w3r2w1k2r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r21k21w10k10w21~x2&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">1.39</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s5/r21k21w10k10w21~x2/">Havel</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r21k21w10k10w21~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r15n9w4k12r15k5~x2&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s6/r15n9w4k12r15k5~x2/">Eastern Kentucky University</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r15n9w4k12r15k5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3k1g1k1w3~x4&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.33</a></div><div class="nn-threads nn-far">48</div><div class="nn-name nn-far"><a href="/variants/s5/r3k1g1k1w3~x4/">Clark</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r3k1g1k1w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r33g9k5g24w33~x2&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.53</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s5/r33g9k5g24w33~x2/">Inverness Basque (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r33g9k5g24w33~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k7r5w3db2~x4&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">100</div><div class="nn-name nn-far"><a href="/variants/s4/k7r5w3db2~x4/">Thomas Newcomen's Combustion Engine</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/k7r5w3db2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5g5w3r5&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">26</div><div class="nn-name nn-far"><a href="/variants/s4/r5g5w3r5/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r5g5w3r5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1w1dp4w1r4k1w1~x8&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.76</a></div><div class="nn-threads nn-far">192</div><div class="nn-name nn-far"><a href="/variants/s7/r1w1dp4w1r4k1w1~x8/">Tartan Tangerine</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r1w1dp4w1r4k1w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n25k4w8r16~x4&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.76</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s4/n25k4w8r16~x4/">Buckeye</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/n25k4w8r16~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k6r33k18w20db6~x2&amp;base=w3r2w1k2r2~x4" title="compare in the TTD">2.77</a></div><div class="nn-threads nn-far">308</div><div class="nn-name nn-far"><a href="/variants/s5/k6r33k18w20db6~x2/">Brodie Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k6r33k18w20db6~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far">2.85</div><div class="nn-threads nn-far">—</div><div class="nn-name nn-far"><a href="/variants/s5/k3w6k4w6ly3~x2~ly2503076/">Daks (House Check)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k3w6k4w6ly3~x2~ly2503076/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="78.6" cy="318.9" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s6/r15n9w4k12r15k5~x2/"><circle cx="150.4" cy="254.4" r="4" fill="#3465a4"><title>Eastern Kentucky University</title></circle></a><a href="/variants/s5/r3k1g1k1w3~x4/"><circle cx="69.5" cy="263.9" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r33g9k5g24w33~x2/"><circle cx="114.8" cy="243.3" r="4" fill="#3465a4"><title>Inverness Basque (District)</title></circle></a><a href="/variants/s4/k7r5w3db2~x4/"><circle cx="100.3" cy="274.6" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/variants/s4/r5g5w3r5/"><circle cx="203.9" cy="366.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s7/r1w1dp4w1r4k1w1~x8/"><circle cx="125.2" cy="217.4" r="4" fill="#3465a4"><title>Tartan Tangerine</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="202.9" cy="248.0" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.2" cy="227.8" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s5/k3w6k4w6ly3~x2~ly2503076/"><circle cx="156.6" cy="331.8" r="4" fill="#3465a4"><title>Daks (House Check)</title></circle></a><circle cx="109.3" cy="306.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/w3r2w1k2r2~x4/

@@ -1,0 +1,53 @@
+---
+title: "Kernow Spirit (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14w4k8y45w3k1y2/)
+(the same proportion at any scale), whose colour order is pattern [GKWGKWK](/stripes/gkwgkwk/).
+
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7619/
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Kernow Spirit (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7619/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A new tartan requested by Moss Bros of London and designed by Kirsty Anderson of House of Edgar..</em></li>
+<li>undated — Kernow Spirit (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5639">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>A new tartan requested by Moss Bros of London and designed by Kirsty Anderson of House of Edgar..</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5639](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5639)
+- Scottish Tartans Authority (ITI): 7619
+
+## Thread count
+K/28 W8 K16 Y90 W6 K2 Y/4
+
+One full sett is **276 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/28 W8 K16 Y90 W6 K2 Y/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">276</div><div class="nn-name nn-base"><a href="/variants/s7/k14w4k8y45w3k1y2~x2/">Kernow Spirit (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/k14w4k8y45w3k1y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4y4w35y1k36y4k2~x2&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">1.60</a></div><div class="nn-threads">332</div><div class="nn-name"><a href="/variants/s7/k4y4w35y1k36y4k2~x2/">Gleneagles, Hotel</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4y4w35y1k36y4k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly8n5dr1n15k2ly1k36n1~x2&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">258</div><div class="nn-name nn-far"><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/">Cirse 3D</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">172</div><div class="nn-name nn-far"><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/">Bannockbane Grey #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k62w10y10k4w18k4ly3w4&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">164</div><div class="nn-name nn-far"><a href="/variants/s8/k62w10y10k4w18k4ly3w4/">Colbert Check (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k62w10y10k4w18k4ly3w4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3ly1k3w10k10w6ly4k40ly3~x2&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">308</div><div class="nn-name nn-far"><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/">Moonlight Glen (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y75k6w3n2k6n2k6w3n2&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.43</a></div><div class="nn-threads nn-far">133</div><div class="nn-name nn-far"><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/">Norton (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y75k6w3n2k6n2k6w3n2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4ly4lb32ly1k32ly4k2~x4&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">608</div><div class="nn-name nn-far"><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/">Gleneagles Gold (Dalgleish)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g55k17r9k11y2k4~x2&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">274</div><div class="nn-name nn-far"><a href="/variants/s6/g55k17r9k11y2k4~x2/">Moran (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g55k17r9k11y2k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o72k16w9k4w5k16~x2&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s6/o72k16w9k4w5k16~x2/">Machair (warp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/o72k16w9k4w5k16~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y70k30w3g30k3y10&amp;base=k14w4k8y45w3k1y2~x2" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">212</div><div class="nn-name nn-far"><a href="/variants/s6/y70k30w3g30k3y10/">Jacobite #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y70k30w3g30k3y10/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="112.9" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="306.0" cy="96.5" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="151.7" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.4" cy="110.9" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.6" cy="99.5" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/"><circle cx="435.3" cy="65.9" r="4" fill="#3465a4"><title>Norton (Corporate)</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="120.8" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.1" cy="132.3" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="317.3" cy="145.9" r="4" fill="#3465a4"><title>Machair (warp)</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="153.8" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><circle cx="364.4" cy="103.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/k14w4k8y45w3k1y2~x2/

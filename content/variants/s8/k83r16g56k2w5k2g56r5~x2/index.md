@@ -1,0 +1,46 @@
+---
+title: "MacDiarmid #2"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k83r16g56k2w5k2g56r5/)
+(the same proportion at any scale), whose colour order is pattern [KRGKWKGR](/stripes/krgkwkgr/).
+
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2330
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2330](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2330)
+- Scottish Tartans Authority (ITI): 1181
+- Scottish Tartans World Register: 1181
+
+## Thread count
+K/166 R32 G112 K4 W10 K4 G112 R/10
+
+One full sett is **724 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/166 R32 G112 K4 W10 K4 G112 R/10 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">724</div><div class="nn-name nn-base"><a href="/variants/s8/k83r16g56k2w5k2g56r5~x2/">MacDiarmid #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k83r16g56k2w5k2g56r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3r1g32k12w1k12r1g3~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">1.20</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/">MacHardy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k3r1g32k12w1k12r1g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g4r4k12w2k12g32r4k3~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">1.22</a></div><div class="nn-threads">278</div><div class="nn-name"><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/">MacHardy (Clans Originaux)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g4r4k12w2k12g32r4k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr4g4k1w2k1g18k32r4~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">1.45</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/">Hot Boontjie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dr4g4k1w2k1g18k32r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6db1k6g4k10g20r2~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">1.86</a></div><div class="nn-threads">180</div><div class="nn-name"><a href="/variants/s7/k6db1k6g4k10g20r2~x2/">MacKinross</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/k6db1k6g4k10g20r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k12r2k28g12k1w3k1g12r4~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">1.95</a></div><div class="nn-threads">268</div><div class="nn-name"><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/">MacDiarmid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k19r1g3k7g2k2g20w2~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">182</div><div class="nn-name nn-far"><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/">Scottish Chieftain</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k19r1g3k7g2k2g20w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4dy3k30lg33r1lg4~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">2.26</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s6/k4dy3k30lg33r1lg4~x2/">Intergen (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k4dy3k30lg33r1lg4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g55k17r9k11y2k4~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">274</div><div class="nn-name nn-far"><a href="/variants/s6/g55k17r9k11y2k4~x2/">Moran (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g55k17r9k11y2k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">347</div><div class="nn-name nn-far"><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/">Dropkick Murphys</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g28r3k28db8lb1g8r2k3~x2&amp;base=k83r16g56k2w5k2g56r5~x2" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/">Stansbury (2014)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g28r3k28db8lb1g8r2k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="300.5" cy="107.8" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="144.8" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.7" cy="89.3" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="249.7" cy="157.5" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="272.2" cy="116.4" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.4" cy="134.7" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s6/k4dy3k30lg33r1lg4~x2/"><circle cx="272.3" cy="125.6" r="4" fill="#3465a4"><title>Intergen (Corporate)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.1" cy="132.3" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/"><circle cx="317.2" cy="85.2" r="4" fill="#3465a4"><title>Dropkick Murphys</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.9" cy="112.6" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><circle cx="268.3" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s8/k83r16g56k2w5k2g56r5~x2/

@@ -1,0 +1,51 @@
+---
+title: "Skibo"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2g23db11dbi22r2/)
+(the same proportion at any scale), whose colour order is pattern [RBBGR](/stripes/rbbgr/).
+
+Part of the [Skibo](/tartans/skibo/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+R/4 G46 DB22 DBi44 R/4
+
+One full sett is **232 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#304080;"><span style="color:#304080;filter:grayscale(1) invert(1) contrast(100);">#304080</span></code> <small style="color:#888">#304080</small></td><td><small style="color:#888">oklch(39.4% 0.109 270.2)</small></td></tr><tr><td>DB</td><td><code style="background-color:#000050;"><span style="color:#000050;filter:grayscale(1) invert(1) contrast(100);">#000050</span></code> <small style="color:#888">#000050</small></td><td><small style="color:#888">oklch(19.5% 0.135 264.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 G46 DB22 DBi44 R/4 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.74** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r2dg23db11t22r2/"><img src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r2dg23db11t22r2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">232</div><div class="nn-name nn-base"><a href="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/">Skibo</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2dg23db11t22r2~x2&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">0.00</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s5/r2dg23db11t22r2~x2/">Skibo (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k7dr3g30db28lb3~x2&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">1.26</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s5/k7dr3g30db28lb3~x2/">Highlander Highland Laddie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7dr3g30db28lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15r3db11lb2~x2&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">1.86</a></div><div class="nn-threads">90</div><div class="nn-name"><a href="/variants/s4/g15r3db11lb2~x2/">MacNab</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g15r3db11lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2y1g10db10w1~x6&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">2.02</a></div><div class="nn-threads nn-far">270</div><div class="nn-name nn-far"><a href="/variants/s5/r2y1g10db10w1~x6/">Turnbull Hunting (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2y1g10db10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r7y3g28db28w3~x2&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s5/r7y3g28db28w3~x2/">Turnbull, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r7y3g28db28w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy16r8t57db56lb8&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">266</div><div class="nn-name nn-far"><a href="/variants/s5/dy16r8t57db56lb8/">Bryson (1988)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dy16r8t57db56lb8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db10g10r5w1~x2&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">2.06</a></div><div class="nn-threads nn-far">82</div><div class="nn-name nn-far"><a href="/variants/s4/db10g10r5w1~x2/">Thorntons Law (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db10g10r5w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k7lt3dg18db18w2~x2&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">2.15</a></div><div class="nn-threads nn-far">174</div><div class="nn-name nn-far"><a href="/variants/s5/k7lt3dg18db18w2~x2/">Bhatti</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k7lt3dg18db18w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1g7r3db7lb1~x2&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">72</div><div class="nn-name nn-far"><a href="/variants/s5/r1g7r3db7lb1~x2/">Hebridean 4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r1g7r3db7lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r15t98db72y25db8w15~t2304245-db1404245&amp;base=r2g23db11dbi22r2~x2~db0805267-dbi1604274" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">436</div><div class="nn-name nn-far"><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/">Afternoon Tea / Earl Grey</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.6" cy="241.8" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="197.7" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.3" cy="258.6" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.6" cy="207.7" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.8" cy="240.3" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.3" cy="256.7" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="172.9" cy="217.4" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r1g7r3db7lb1~x2/"><circle cx="194.0" cy="247.7" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.5" cy="207.7" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><circle cx="237.0" cy="233.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/

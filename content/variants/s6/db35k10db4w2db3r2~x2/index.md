@@ -1,0 +1,48 @@
+---
+title: "Laidlaw's Highland Drovers"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db35k10db4w2db3r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBWBR](/stripes/bkbwbr/).
+
+Part of the [Laidlaw's Highland Drovers](/tartans/laidlaw-s-highland-drovers/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2026
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2026](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2026)
+- Scottish Tartans Authority (ITI): 6729
+- Scottish Tartans World Register: 2127
+
+## Thread count
+DB/70 K20 DB8 W4 DB6 R/4
+
+One full sett is **150 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>W</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/70 K20 DB8 W4 DB6 R/4 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">150</div><div class="nn-name nn-base"><a href="/variants/s6/db35k10db4w2db3r2~x2/">Laidlaw's Highland Drovers</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/db35k10db4w2db3r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db35k10db4w2db3r2y2~x2&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">158</div><div class="nn-name"><a href="/variants/s7/db35k10db4w2db3r2y2~x2/">Laidlaw's Highland Drovers (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db35k10db4w2db3r2y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db3g6db2y3db42k6w3~x2&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s7/db3g6db2y3db42k6w3~x2/">Bro-sant-Brieg</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db3g6db2y3db42k6w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db9k9db9k9db42w5~x2&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">1.71</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s6/db9k9db9k9db42w5~x2/">Dollar Academy (1930s) (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db9k9db9k9db42w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db18r1db1r1db1k7db13w2~x4&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">1.95</a></div><div class="nn-threads">272</div><div class="nn-name"><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/">Tokyo Bluebells</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db18r1db1r1db1k7db13w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db9k9db9k9db42lb5~x2&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">2.01</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s6/db9k9db9k9db42lb5~x2/">Dollar Academy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db9k9db9k9db42lb5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1y2k3n12k18w1~x2~k0704259-n1902277&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/">Jon's Theme</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db12lb1k2db1r1~x8&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">2.12</a></div><div class="nn-threads nn-far">168</div><div class="nn-name nn-far"><a href="/variants/s5/db12lb1k2db1r1~x8/">Lochcarron (1985)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db12lb1k2db1r1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5db20r3db20w6db3lb2db1~x2&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">228</div><div class="nn-name nn-far"><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/">Masai Shuka 29 (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r5db20r3db20w6db3lb2db1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db35w4db10r3ri3r3~x4~r1706009-ri2109032&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/">Steffen, Morris (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db35w4db10dr3r3dr3~x4&amp;base=db35k10db4w2db3r2~x2" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s6/db35w4db10dr3r3dr3~x4/">Steffen, Markus (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db35w4db10dr3r3dr3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><circle cx="412.0" cy="121.1" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="409.9" cy="110.7" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s6/db9k9db9k9db42w5~x2/"><circle cx="397.7" cy="205.9" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.7" cy="139.3" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="417.8" cy="212.0" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="359.5" cy="163.7" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.4" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.2" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="467.1" cy="171.5" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.8" cy="177.7" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><circle cx="452.5" cy="145.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/db35k10db4w2db3r2~x2/

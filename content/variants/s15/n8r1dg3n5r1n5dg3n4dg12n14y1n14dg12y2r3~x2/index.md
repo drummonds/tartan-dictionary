@@ -1,0 +1,58 @@
+---
+title: "Howell of Wales"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3/)
+(the same proportion at any scale), whose colour order is pattern [BRGBRBGBGBGBGGR](/stripes/brgbrbgbgbgbggr/).
+
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4994
+
+## Provenance
+
+Earliest known date: 2002 The tartan for this Welsh surname and its variations, Powell, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales.
+
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Howell of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4994">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>Despite there being no known tradition of tartan in Wales, this is one of a growing series of commercial Welsh 'name' tartans marketed by the Wales Tartan Centre in Cardiff. Their inclusion in this Index does not confer upon them ANY historical or genealogical credibility and the use of the words 'of Wales' is not of conventional territorial significance but is purely to identify the source and thus avoid confusion with surnames which have a genuine tartan connection. Designed for The Wales Tartan Centre in Cardiff by Sheila Daniel of Cambrian Woollen Mill, Powys, they're unusual in that almost all of them incorporate odd numbered threads and have quite different warp & weft, both in thread numbers and sometimes colours. This places the classification of some of them as tartans in some doubt. Welsh Tartan Centre Cardiff.</em></li>
+<li>2002 — Howells (Welsh Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5755/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>The tartan for this Welsh surname and its variations, is commercially accepted as a tartan or ?plaid? in Wales, this is one of the tartans actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant ?stripe?, vertically noticeable in the finished Kilt, or ?Cilt? in Wales. Available from Wales Tartan Centres in Swansea, +44 (0)1792 474685.</em></li>
+<li>undated — Howells Welsh Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5755">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4994](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4994)
+- Scottish Tartans Authority (ITI): 5755
+
+## Thread count
+N/16 R2 DG6 N10 R2 N10 DG6 N8 DG24 N28 Y2 N28 DG24 Y4 R/6
+
+One full sett is **330 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>N</td><td><code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> <small style="color:#888">#636363</small></td><td><small style="color:#888">oklch(50.0% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/16 R2 DG6 N10 R2 N10 DG6 N8 DG24 N28 Y2 N28 DG24 Y4 R/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">330</div><div class="nn-name nn-base"><a href="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/">Howell of Wales</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2&amp;base=n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2" title="compare in the TTD">0.19</a></div><div class="nn-threads">352</div><div class="nn-name"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/"><circle cx="460.5" cy="218.4" r="4" fill="#3465a4"><title>Howells</title></circle></a><circle cx="421.2" cy="209.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/

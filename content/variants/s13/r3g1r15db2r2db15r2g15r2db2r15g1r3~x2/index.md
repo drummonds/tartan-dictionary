@@ -1,0 +1,51 @@
+---
+title: "Robertson D"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g1r15db2r2db15r2g15r2db2r15g1r3/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/).
+
+Part of the [Robertson D](/tartans/robertson-d/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Thread count
+R/6 G2 R30 DB4 R4 DB30 R4 G30 R4 DB4 R30 G2 R/6
+
+One full sett is **300 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 G2 R30 DB4 R4 DB30 R4 G30 R4 DB4 R30 G2 R/6 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.23** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><img src="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r5g2r30db3r3db30r3g30r3db3r30g2r5/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/">Robertson D</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5g2r30db3r3db30r3g30r3db3r30g2r5~x2&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">0.08</a></div><div class="nn-threads">576</div><div class="nn-name"><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/">Robertson D</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5g2r30db3r3db30r3g30r3db3r30g2r5&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">0.08</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/">Robertson D</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g3r35db3r3db35r3g35r3db3r35g3r3~x2&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">0.39</a></div><div class="nn-threads">656</div><div class="nn-name"><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/">Robertson 1819</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g2r19db2r3db20r3g20r3db2r19g2r3~x4&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">0.40</a></div><div class="nn-threads">784</div><div class="nn-name"><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/">Robertson Curtain</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4g4r35b4r4g35r4b35r4b4r35g4r4&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">0.49</a></div><div class="nn-threads">344</div><div class="nn-name"><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/">Robertson 1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r28g2r5g2r28db3r3g24r3db24r3db3~x2&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">1.23</a></div><div class="nn-threads">450</div><div class="nn-name"><a href="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/">Robertson #5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g1r9db1r1g9r1db9r1g1r9g1r1~x4&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">1.47</a></div><div class="nn-threads">352</div><div class="nn-name"><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/">Robertson #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g1r9db1r1g9r1db9r1g1r9g1r1&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">1.47</a></div><div class="nn-threads">88</div><div class="nn-name"><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/">Robertson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g1r9db1r1g9r1db9r1g1r9g1r1~x2&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">1.47</a></div><div class="nn-threads">176</div><div class="nn-name"><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x2/">Robertson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db80r56dg3r56dg88r64db3r4dg3r4db3r64&amp;base=r3g1r15db2r2db15r2g15r2db2r15g1r3~x2" title="compare in the TTD">1.72</a></div><div class="nn-threads">712</div><div class="nn-name"><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/">Unidentified Cant #14</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.2" cy="154.6" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.2" cy="154.6" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="303.3" cy="160.3" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><circle cx="299.9" cy="174.9" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/"><circle cx="316.6" cy="186.1" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="328.6" cy="165.5" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/"><circle cx="293.3" cy="175.8" r="4" fill="#3465a4"><title>Robertson #3</title></circle></a><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/"><circle cx="293.3" cy="175.8" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x2/"><circle cx="293.3" cy="175.8" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.1" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><circle cx="319.7" cy="159.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/

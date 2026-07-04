@@ -1,0 +1,51 @@
+---
+title: "Lynch"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r19db6r7db101b6db7/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBR](/stripes/bbbrbr/).
+
+Part of the [Lynch](/tartans/lynch/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+R/38 DB12 R14 DB202 B12 DB/14
+
+One full sett is **532 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> <small style="color:#888">#466CC8</small></td><td><small style="color:#888">oklch(55.1% 0.149 265.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/38 DB12 R14 DB202 B12 DB/14 tartan" width="880" height="480">
+
+## Compared to the master
+
+This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+
+Its **ΔTartan distance** from the master is **0.59** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
+<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
+<figure style="margin:0"><a href="/setts/r3db2r1db18g1db2/"><img src="/variants/s6/r3db2r1db18g1db2~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r3db2r1db18g1db2/">master sett →</a></figcaption></figure>
+</div>
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">532</div><div class="nn-name nn-base"><a href="/variants/s6/r19db6r7db101b6db7~x2/">Lynch</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r19db6r7db101b6db7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r19db6r14db101g7db7&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">0.47</a></div><div class="nn-threads">282</div><div class="nn-name"><a href="/variants/s6/r19db6r14db101g7db7/">Lynch Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r19db6r14db101g7db7/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3db2r1db18g1db2~x4&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">0.57</a></div><div class="nn-threads">196</div><div class="nn-name"><a href="/variants/s6/r3db2r1db18g1db2~x4/">Lynch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3db2r1db18g1db2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db35w4db10dr3r3dr3~x4&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads">312</div><div class="nn-name"><a href="/variants/s6/db35w4db10dr3r3dr3~x4/">Steffen, Markus (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db35w4db10dr3r3dr3~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db35w4db10r3ri3r3~x4~r1706009-ri2109032&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads">312</div><div class="nn-name"><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/">Steffen, Morris (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db60y6db11r25~x2&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">238</div><div class="nn-name nn-far"><a href="/variants/s4/db60y6db11r25~x2/">South Australian Pipes &amp; Drums (Corp</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db60y6db11r25~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db35k10db4w2db3r2~x2&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">150</div><div class="nn-name nn-far"><a href="/variants/s6/db35k10db4w2db3r2~x2/">Laidlaw's Highland Drovers</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db35k10db4w2db3r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db12lb1k2db1r1~x8&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">168</div><div class="nn-name nn-far"><a href="/variants/s5/db12lb1k2db1r1~x8/">Lochcarron (1985)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db12lb1k2db1r1~x8/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y2r5y2r5db49w2~x2&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.72</a></div><div class="nn-threads nn-far">252</div><div class="nn-name nn-far"><a href="/variants/s6/y2r5y2r5db49w2~x2/">Balmer (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y2r5y2r5db49w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1lb1db8r1~x2&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">40</div><div class="nn-name nn-far"><a href="/variants/s4/db1lb1db8r1~x2/">Lochaber #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/db1lb1db8r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db61r6w2r8y2db3y2db15~x2&amp;base=r19db6r7db101b6db7~x2" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">244</div><div class="nn-name nn-far"><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/">Duke of York (Royal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db61r6w2r8y2db3y2db15~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r19db6r14db101g7db7/"><circle cx="504.3" cy="172.9" r="4" fill="#3465a4"><title>Lynch Family Tartan</title></circle></a><a href="/variants/s6/r3db2r1db18g1db2~x4/"><circle cx="577.0" cy="173.5" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.8" cy="177.7" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="467.1" cy="171.5" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.4" cy="216.1" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.5" cy="145.5" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.4" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><a href="/variants/s6/y2r5y2r5db49w2~x2/"><circle cx="497.9" cy="127.9" r="4" fill="#3465a4"><title>Balmer (Personal)</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="532.3" cy="229.3" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="542.8" cy="114.7" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><circle cx="552.9" cy="172.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/r19db6r7db101b6db7~x2/

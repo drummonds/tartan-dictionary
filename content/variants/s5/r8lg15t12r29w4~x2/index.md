@@ -1,0 +1,44 @@
+---
+title: "Snowbird (Corporate)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8lg15t12r29w4/)
+(the same proportion at any scale), whose colour order is pattern [RYBRW](/stripes/rybrw/).
+
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/6428/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 6428
+
+## Thread count
+R/16 LG30 T24 R58 W/8
+
+One full sett is **248 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> <small style="color:#888">#00879F</small></td><td><small style="color:#888">oklch(57.4% 0.102 216.1)</small></td></tr><tr><td>Ba</td><td><code style="background-color:#82D67A;"><span style="color:#82D67A;filter:grayscale(1) invert(1) contrast(100);">#82D67A</span></code> <small style="color:#888">#82D67A</small></td><td><small style="color:#888">oklch(80.1% 0.150 142.2)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 LG30 T24 R58 W/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s5/r8lg15t12r29w4~x2/">Snowbird (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/r8lg15t12r29w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r15g7db7r1~x4&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">0.92</a></div><div class="nn-threads">176</div><div class="nn-name"><a href="/variants/s4/r15g7db7r1~x4/">Hugh Fraser of Boblainy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r15g7db7r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r22g17w2lb6r13~x2&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">170</div><div class="nn-name"><a href="/variants/s5/r22g17w2lb6r13~x2/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r22g17w2lb6r13~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5g5w1lb2r5~x2&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">52</div><div class="nn-name"><a href="/variants/s5/r5g5w1lb2r5~x2/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r5g5w1lb2r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w3r24db12dg8ly3~x2&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.33</a></div><div class="nn-threads">188</div><div class="nn-name"><a href="/variants/s5/w3r24db12dg8ly3~x2/">McGill University (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/w3r24db12dg8ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5g3lb3db5r16y3~x2&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.46</a></div><div class="nn-threads">124</div><div class="nn-name"><a href="/variants/s6/r5g3lb3db5r16y3~x2/">McCartney (2015)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5g3lb3db5r16y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1db6r1g6r12w1&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.60</a></div><div class="nn-threads">52</div><div class="nn-name"><a href="/variants/s6/r1db6r1g6r12w1/">Fraser VS</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1db6r1g6r12w1/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1db6r1g6r12w1~x2&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.60</a></div><div class="nn-threads">104</div><div class="nn-name"><a href="/variants/s6/r1db6r1g6r12w1~x2/">Fraser VS</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1db6r1g6r12w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3g20r25w3~x4&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.62</a></div><div class="nn-threads">384</div><div class="nn-name"><a href="/variants/s4/r3g20r25w3~x4/">MacKinnon #6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r3g20r25w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2db10r2g10r25w2~x2&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.65</a></div><div class="nn-threads">196</div><div class="nn-name"><a href="/variants/s6/r2db10r2g10r25w2~x2/">Grant of Lurg</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2db10r2g10r25w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r9db1g2db5w1~x12&amp;base=r8lg15t12r29w4~x2" title="compare in the TTD">1.72</a></div><div class="nn-threads">312</div><div class="nn-name"><a href="/variants/s5/r9db1g2db5w1~x12/">McIntosh, Georgina (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r9db1g2db5w1~x12/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.6" cy="235.4" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.5" cy="234.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.5" cy="277.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.8" cy="210.6" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s6/r5g3lb3db5r16y3~x2/"><circle cx="299.9" cy="219.9" r="4" fill="#3465a4"><title>McCartney (2015)</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.3" cy="192.6" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.3" cy="192.6" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.2" cy="252.3" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s6/r2db10r2g10r25w2~x2/"><circle cx="321.5" cy="183.9" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.6" cy="213.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><circle cx="281.9" cy="250.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/r8lg15t12r29w4~x2/

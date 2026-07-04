@@ -1,0 +1,45 @@
+---
+title: "Shawn Jones Afghan Memorial, The"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri12g4k8dr3ly62r8/)
+(the same proportion at any scale), whose colour order is pattern [RGKBYR](/stripes/rgkbyr/).
+
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10900/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10900](https://www.tartanregister.gov.uk/tartanDetails?ref=10900)
+- Scottish Tartans Authority (ITI): 10900
+
+## Thread count
+Ri/24 G8 K16 DR6 LY124 R/16
+
+One full sett is **348 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>DRa</td><td><code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> <small style="color:#888">#A00000</small></td><td><small style="color:#888">oklch(44.3% 0.182 29.2)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LG</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>R</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ri/24 G8 K16 DR6 LY124 R/16 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">348</div><div class="nn-name nn-base"><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/">Shawn Jones Afghan Memorial, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2y33k5w3g2~x2&amp;base=ri12g4k8dr3ly62r8~x2~ri2109032-r1807033" title="compare in the TTD">1.15</a></div><div class="nn-threads">172</div><div class="nn-name"><a href="/variants/s5/r2y33k5w3g2~x2/">Port Moresby City Pipes and Drums</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2y33k5w3g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2y36k12w3g2~x2&amp;base=ri12g4k8dr3ly62r8~x2~ri2109032-r1807033" title="compare in the TTD">1.45</a></div><div class="nn-threads">212</div><div class="nn-name"><a href="/variants/s5/r2y36k12w3g2~x2/">Port Moresby City Pipes &amp; Drums</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2y36k12w3g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w43k5r3g5y27o5~x2&amp;base=ri12g4k8dr3ly62r8~x2~ri2109032-r1807033" title="compare in the TTD">2.41</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s6/w43k5r3g5y27o5~x2/">Reekie, Charlene</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w43k5r3g5y27o5~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r12g4k8dy3y62dr8~x2&amp;base=ri12g4k8dr3ly62r8~x2~ri2109032-r1807033" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">348</div><div class="nn-name nn-far"><a href="/variants/s6/r12g4k8dy3y62dr8~x2/">Shawn Jones Afghan Memorial, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r12g4k8dy3y62dr8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r40t8r6g24lb1k4~x2&amp;base=ri12g4k8dr3ly62r8~x2~ri2109032-r1807033" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">244</div><div class="nn-name nn-far"><a href="/variants/s6/r40t8r6g24lb1k4~x2/">MacPhail (Blue Bands)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r40t8r6g24lb1k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r51y2k4w2g21r10k4lb4w2~x2&amp;base=ri12g4k8dr3ly62r8~x2~ri2109032-r1807033" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">294</div><div class="nn-name nn-far"><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/">Drummond of Perth</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r19y1k2lb1g7r2k1lb1w1~x4&amp;base=ri12g4k8dr3ly62r8~x2~ri2109032-r1807033" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/">Drummond Ancient</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="408.1" cy="132.5" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.0" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.2" cy="135.2" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/r12g4k8dy3y62dr8~x2/"><circle cx="360.3" cy="118.9" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s6/r40t8r6g24lb1k4~x2/"><circle cx="323.8" cy="116.2" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="310.1" cy="70.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.1" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><circle cx="307.7" cy="102.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/

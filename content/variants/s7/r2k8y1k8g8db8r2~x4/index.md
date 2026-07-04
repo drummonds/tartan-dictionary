@@ -1,0 +1,48 @@
+---
+title: "Brodie Hunting"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k8y1k8g8db8r2/)
+(the same proportion at any scale), whose colour order is pattern [RBGKGKR](/stripes/rbgkgkr/).
+
+Part of the [Brodie Hunting](/tartans/brodie-hunting/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=372
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [372](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=372)
+- Scottish Tartans Authority (ITI): 1334
+- Scottish Tartans World Register: 1334
+
+## Thread count
+R/8 K32 Y4 K32 G32 DB32 R/8
+
+One full sett is **280 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>DY</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 K32 Y4 K32 G32 DB32 R/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s7/r2k8y1k8g8db8r2~x4/">Brodie Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r2k8y1k8g8db8r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2k8y1k8g8db8r2~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">140</div><div class="nn-name"><a href="/variants/s7/r2k8y1k8g8db8r2~x2/">Brodie hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2k8y1k8g8db8r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2k8lo1k8g8lb8r2~x4&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">0.30</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/">Brodie Hunting (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2k8lo1k8g8lb8r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2k8y1k8g8db8k2w2~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">1.36</a></div><div class="nn-threads">148</div><div class="nn-name"><a href="/variants/s8/r2k8y1k8g8db8k2w2~x2/">Hislop hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r2k8y1k8g8db8k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2db8g8k8y1g8r2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">1.40</a></div><div class="nn-threads">70</div><div class="nn-name"><a href="/variants/s7/r2db8g8k8y1g8r2/">Brodie Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2db8g8k8y1g8r2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=b8k11w3k11dg22dr2~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">1.95</a></div><div class="nn-threads">208</div><div class="nn-name"><a href="/variants/s6/b8k11w3k11dg22dr2~x2/">Loch Katrine</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b8k11w3k11dg22dr2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g17y2k14r2db9r2db10~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">170</div><div class="nn-name nn-far"><a href="/variants/s7/g17y2k14r2db9r2db10~x2/">MacDonald (Flora.. )</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g17y2k14r2db9r2db10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2k1db8k8g8k1y2~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">112</div><div class="nn-name nn-far"><a href="/variants/s7/r2k1db8k8g8k1y2~x2/">Campbell of Cawdor Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r2k1db8k8g8k1y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db25k12y4k9r6k9y4k12g25~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">324</div><div class="nn-name nn-far"><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/">Vosko</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3db12r2k12g12k3~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">164</div><div class="nn-name nn-far"><a href="/variants/s6/k3db12r2k12g12k3~x2/">Ferguson of Balquhidder #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3db12r2k12g12k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3db14r2k14g14k3~x2&amp;base=r2k8y1k8g8db8r2~x4" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s6/k3db14r2k14g14k3~x2/">Gallamore</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3db14r2k14g14k3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2k8y1k8g8db8r2~x2/"><circle cx="126.5" cy="201.3" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.7" cy="196.0" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s8/r2k8y1k8g8db8k2w2~x2/"><circle cx="115.5" cy="176.2" r="4" fill="#3465a4"><title>Hislop hunting</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.1" cy="208.9" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s6/b8k11w3k11dg22dr2~x2/"><circle cx="153.7" cy="192.5" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.2" cy="194.4" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="101.7" cy="190.4" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="197.7" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="142.0" cy="228.3" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #3</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="147.9" cy="218.7" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><circle cx="126.5" cy="201.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/r2k8y1k8g8db8r2~x4/

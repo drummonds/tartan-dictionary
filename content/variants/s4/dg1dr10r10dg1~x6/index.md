@@ -1,0 +1,44 @@
+---
+title: "Stirling of Keir (Clan)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg1dr10r10dg1/)
+(the same proportion at any scale), whose colour order is pattern [GBRG](/stripes/gbrg/).
+
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7817/
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7817
+
+## Thread count
+DG/6 R60 DR60 DG/6
+
+One full sett is **252 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>DRa</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>G</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/6 R60 DR60 DG/6 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s4/dg1dr10r10dg1~x6/">Stirling of Keir (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s4/dg1dr10r10dg1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr24g1lb1g2r24~x2~r1908029&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">0.82</a></div><div class="nn-threads">112</div><div class="nn-name"><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/">MacNab WI 1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr24g1lb1g2r24~x2~r1908029/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ri8r1g4r1g1lb2~x2~ri2209032-r2208029&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">1.57</a></div><div class="nn-threads">48</div><div class="nn-name"><a href="/variants/s6/ri8r1g4r1g1lb2~x2~ri2209032-r2208029/">Moray of Abercairney</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/ri8r1g4r1g1lb2~x2~ri2209032-r2208029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=o1dr4r10y2w1~x4&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">1.71</a></div><div class="nn-threads">136</div><div class="nn-name"><a href="/variants/s5/o1dr4r10y2w1~x4/">Love</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/o1dr4r10y2w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r10dg4dy1~x8&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">1.86</a></div><div class="nn-threads">152</div><div class="nn-name"><a href="/variants/s3/r10dg4dy1~x8/">Lugo (2013)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/r10dg4dy1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r10dg4y1~x8&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">1.86</a></div><div class="nn-threads">152</div><div class="nn-name"><a href="/variants/s3/r10dg4y1~x8/">Lugo (2013)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/r10dg4y1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r24dp16w3~x4&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">2.26</a></div><div class="nn-threads nn-far">236</div><div class="nn-name nn-far"><a href="/variants/s3/r24dp16w3~x4/">National Autistic Society Scotland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/r24dp16w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ri8r1g4r1db4~x2~ri2209032-r2208029&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">2.27</a></div><div class="nn-threads nn-far">48</div><div class="nn-name nn-far"><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/">Moray of Abercairney #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg1r1dg7r4ri7r1~x6~r1807033-ri2109032&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/">Dewar (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/">MacNab #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1ri7r4g7r1g1~x4~r1707016-ri2008029&amp;base=dg1dr10r10dg1~x6" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s6/r1ri7r4g7r1g1~x4~r1707016-ri2008029/">MacNab, Variant</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r1ri7r4g7r1g1~x4~r1707016-ri2008029/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.5" cy="199.6" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s6/ri8r1g4r1g1lb2~x2~ri2209032-r2208029/"><circle cx="289.1" cy="222.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/o1dr4r10y2w1~x4/"><circle cx="339.6" cy="200.4" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.5" cy="255.1" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.2" cy="255.0" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.4" cy="274.5" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="236.6" cy="235.9" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/"><circle cx="300.9" cy="263.1" r="4" fill="#3465a4"><title>Dewar (Name)</title></circle></a><a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/"><circle cx="297.3" cy="263.7" r="4" fill="#3465a4"><title>MacNab #2</title></circle></a><a href="/variants/s6/r1ri7r4g7r1g1~x4~r1707016-ri2008029/"><circle cx="281.0" cy="260.3" r="4" fill="#3465a4"><title>MacNab, Variant</title></circle></a><circle cx="375.1" cy="254.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s4/dg1dr10r10dg1~x6/

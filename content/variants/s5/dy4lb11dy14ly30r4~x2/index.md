@@ -1,0 +1,53 @@
+---
+title: "Trinity Bicycles"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy4lb11dy14ly30r4/)
+(the same proportion at any scale), whose colour order is pattern [GWGYR](/stripes/gwgyr/).
+
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10177
+
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>05/03/2010 — Trinity Bicycles (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10177">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CD0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #CD0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8B7355;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #8B7355"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6B4226;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #6B4226"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6CA6CD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #6CA6CD"></span><br><em>This is a corporate tartan for Trinity Bicycles, ltd, a for-profit company in Fort Worth, TX, USA. Colours: the tan and brown backgound of the tartan represents the cattle industry which made Fort Worth prosper; the twin stripes of blue represent the two forks of the Trinity River (the company namesake) which run to their confluence in Fort Worth; the single red stripe is representative of the company itself, as the corporate colour is red.</em></li>
+<li>5th Mar. 2010 — Trinity Bicycles (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10177/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C8C8BC;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LT #C8C8BC"></span><span style="display:inline-block;width:.85em;height:.85em;background:#704400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #704400"></span><span style="display:inline-block;width:.85em;height:.85em;background:#B4C0C8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LSB #B4C0C8"></span><br><em>This is a corporate tartan for Trinity Bicycles, ltd, a for-profit company in Fort Worth, TX, USA. Colours: the tan and brown backgound of the tartan represents the cattle industry which made Fort Worth prosper; the twin stripes of blue represent the two forks of the Trinity River (the company namesake) which run to their confluence in Fort Worth; the single red stripe is representative of the company itself, as the corporate colour is red.</em></li>
+</ul>
+</details>
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10177](https://www.tartanregister.gov.uk/tartanDetails?ref=10177)
+- Scottish Tartans Authority (ITI): 10177
+
+## Thread count
+R/8 LY60 DY28 LB22 DY/8
+
+One full sett is **236 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> <small style="color:#888">#B5BBDE</small></td><td><small style="color:#888">oklch(79.9% 0.050 277.6)</small></td></tr><tr><td>LT</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>R</td><td><code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> <small style="color:#888">#D60020</small></td><td><small style="color:#888">oklch(55.2% 0.224 25.5)</small></td></tr><tr><td>T</td><td><code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> <small style="color:#888">#3A2B0D</small></td><td><small style="color:#888">oklch(30.0% 0.049 82.0)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 LY60 DY28 LB22 DY/8 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s5/dy4lb11dy14ly30r4~x2/">Trinity Bicycles</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dy4lb11dy14ly30r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w15ly98dy72r25dy8lg15~w3600000-lg2704216&amp;base=dy4lb11dy14ly30r4~x2" title="compare in the TTD">2.21</a></div><div class="nn-threads nn-far">436</div><div class="nn-name nn-far"><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/">Afternoon Tea / Milk Tea</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2g17r8db8y2~x4&amp;base=dy4lb11dy14ly30r4~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s5/r2g17r8db8y2~x4/">British Hills</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b2ly4bi22ly20r19ly2~x2~ly3608101-bi2505279&amp;base=dy4lb11dy14ly30r4~x2" title="compare in the TTD">2.93</a></div><div class="nn-threads nn-far">268</div><div class="nn-name nn-far"><a href="/variants/s6/b2ly4bi22ly20r19ly2~x2~ly3608101-bi2505279/">Barbie's Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/b2ly4bi22ly20r19ly2~x2~ly3608101-bi2505279/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g30ly3db8r25~x2&amp;base=dy4lb11dy14ly30r4~x2" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">154</div><div class="nn-name nn-far"><a href="/variants/s4/g30ly3db8r25~x2/">Dohmen (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g30ly3db8r25~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g30y3db8r25~x2&amp;base=dy4lb11dy14ly30r4~x2" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">154</div><div class="nn-name nn-far"><a href="/variants/s4/g30y3db8r25~x2/">Dohmen Family (Zuid-Nederland)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/g30y3db8r25~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb2r4g5y1~x4&amp;base=dy4lb11dy14ly30r4~x2" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">84</div><div class="nn-name nn-far"><a href="/variants/s4/lb2r4g5y1~x4/">Wilson's No.203</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/lb2r4g5y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r15w1db4y1g15~x4&amp;base=dy4lb11dy14ly30r4~x2" title="compare in the TTD">2.96</a></div><div class="nn-threads nn-far">168</div><div class="nn-name nn-far"><a href="/variants/s5/r15w1db4y1g15~x4/">Eglinton, Duke of (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r15w1db4y1g15~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="204.8" cy="185.8" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="248.5" cy="240.1" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s6/b2ly4bi22ly20r19ly2~x2~ly3608101-bi2505279/"><circle cx="223.7" cy="219.3" r="4" fill="#3465a4"><title>Barbie's Plaid</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.7" cy="247.2" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="272.9" cy="249.2" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.5" cy="298.9" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.2" cy="189.5" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><circle cx="233.0" cy="235.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s5/dy4lb11dy14ly30r4~x2/

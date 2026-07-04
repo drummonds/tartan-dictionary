@@ -1,0 +1,46 @@
+---
+title: "Blackwood (Loch Wood)"
+date: 2023-03-18
+---
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5db1g5dp1dg5b1dg5/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBG](/stripes/gbgbgbg/).
+
+Part of the [Blackwood](/tartans/blackwood/) tartan — the named design grouping this sett with its other cloths.
+
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10201
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10201](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10201)
+
+## Thread count
+DG/20 DB4 G20 DP4 DG20 B4 DG/20
+
+One full sett is **144 threads**.
+
+![Sett](sett.png)
+
+## Palette
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>B</td><td><code style="background-color:#4169E1;"><span style="color:#4169E1;filter:grayscale(1) invert(1) contrast(100);">#4169E1</span></code> <small style="color:#888">#4169E1</small></td><td><small style="color:#888">oklch(56.0% 0.188 266.4)</small></td></tr><tr><td>DB</td><td><code style="background-color:#000080;"><span style="color:#000080;filter:grayscale(1) invert(1) contrast(100);">#000080</span></code> <small style="color:#888">#000080</small></td><td><small style="color:#888">oklch(27.1% 0.188 264.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> <small style="color:#888">#053819</small></td><td><small style="color:#888">oklch(30.0% 0.075 151.3)</small></td></tr><tr><td>Ga</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>P</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr></tbody></table>
+
+# Sample pattern
+
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/20 DB4 G20 DP4 DG20 B4 DG/20 tartan" width="880" height="480">
+
+## Nearest variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">144</div><div class="nn-name nn-base"><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/">Blackwood (Loch Wood)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">0.00</a></div><div class="nn-threads">72</div><div class="nn-name"><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/">Blackwood (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">244</div><div class="nn-name nn-far"><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/">Ralston Personal Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g31dg7y3dg14g8db18dp5~x2&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">2.77</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/">Reidy Wedding</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g31dg7y3dg14g8db18dp5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1dg4dr1dg1lo1dg4db1~x12&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/">Justus Hunting (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1dg4r1dg1ly1dg4db1~x12&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/">Justus Htg (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db1g4r1g1y1g4db1~x12&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s7/db1g4r1g1y1g4db1~x12/">Justus hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db1g4r1g1y1g4db1~x12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy21g28db24g72w16g20&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">2.82</a></div><div class="nn-threads nn-far">321</div><div class="nn-name nn-far"><a href="/variants/s6/dy21g28db24g72w16g20/">Meath County, Crest Range</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dy21g28db24g72w16g20/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029&amp;base=dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266" title="compare in the TTD">2.82</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/">Glen Nevis #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><circle cx="401.9" cy="288.7" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="303.4" cy="269.7" r="4" fill="#3465a4"><title>Ralston Personal Tartan</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.8" cy="237.3" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><circle cx="416.8" cy="283.0" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/"><circle cx="364.2" cy="257.1" r="4" fill="#3465a4"><title>Justus Htg (Personal)</title></circle></a><a href="/variants/s7/db1g4r1g1y1g4db1~x12/"><circle cx="376.1" cy="268.3" r="4" fill="#3465a4"><title>Justus hunting</title></circle></a><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.0" cy="281.8" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/"><circle cx="301.9" cy="224.2" r="4" fill="#3465a4"><title>Glen Nevis #3</title></circle></a><circle cx="378.5" cy="280.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
+ID: /variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/

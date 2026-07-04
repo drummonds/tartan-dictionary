@@ -1,0 +1,35 @@
+---
+title: Pattern BGKGKGBGKGKG
+date: 2023-03-18
+aliases:
+- /patterns/bgkgkgbgkgkg/
+---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGKGKGBGKGKG</span></div>
+
+It is a 12 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BGKGKGBGKGKG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
+
+
+
+## Colour Sequence
+
+{{< pat "BGKGKGBGKGKG" >}}
+
+
+## Tartans with this colour sequence
+
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/">Salvation Army Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/"><img src="/variants/s12/dg8k1y2k1dg8db4dg8k1y2k1dg8db5~x4~dg1605139-db1004274/sett.png" alt="Salvation Army Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

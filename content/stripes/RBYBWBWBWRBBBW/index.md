@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Submariners](/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2/)|
-|![Submariners example sett](/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2/sett.png)|
-| [Submariners (Unofficial)](/variants/s14/w4dt1db12dt1r8w8dt8w2dt1w2dt24ly4dt1r2~x2/)|
-|![Submariners (Unofficial) example sett](/variants/s14/w4dt1db12dt1r8w8dt8w2dt1w2dt24ly4dt1r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db1404245-dbi1406275/">Submariners (Unofficial)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db1404245-dbi1406275/"><img src="/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db1404245-dbi1406275/sett.png" alt="Submariners (Unofficial) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

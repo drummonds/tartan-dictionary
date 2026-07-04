@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [J & B Whisky (Original)](/variants/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/)|
-|![J & B Whisky (Original) example sett](/variants/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/">J &amp; B Whisky (Original)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/"><img src="/variants/s18/k14r3k7g26w6g26k16r3k16r3k16g26w6g26k7r3k14r4/sett.png" alt="J &amp; B Whisky (Original) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

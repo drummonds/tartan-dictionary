@@ -22,11 +22,17 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Blanton](/variants/s13/b24k2b2k2b2k10g5dp3g5k10b11k2b4~x2/)|
-|![Blanton example sett](/variants/s13/b24k2b2k2b2k10g5dp3g5k10b11k2b4~x2/sett.png)|
-| [Cheape](/setts/db6k1db1k1db1k6g6t2g6k6db6k1db2/)|
-|![Cheape example sett](/variants/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x2/sett.png)|
-| [Cheape of Torosay](/variants/s13/db6k1db1k1db1k6dg6t2dg6k6db6k1db2~x2/)|
-|![Cheape of Torosay example sett](/variants/s13/db6k1db1k1db1k6dg6t2dg6k6db6k1db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/">Blanton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/"><img src="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/sett.png" alt="Blanton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/">Metropolitan Atlanta Police (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/"><img src="/variants/s13/dr2k2db21k8dg16db3dg16k8db3k3db21k2dr2~x2~k0700000-db0805267/sett.png" alt="Metropolitan Atlanta Police (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

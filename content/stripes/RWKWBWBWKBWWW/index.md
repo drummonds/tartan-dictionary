@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Diana Princess of Wales Commemorative Tartan](/variants/s13/lb2w1lb12n6k3w1t1w1t4w2k1w1r1~x4/)|
-|![Diana Princess of Wales Commemorative Tartan example sett](/variants/s13/lb2w1lb12n6k3w1t1w1t4w2k1w1r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/lb2w1lb12t6k3w1ti1w1ti4w2k1w1r1~x4~lb3402249-t2003265-ti2404216/">Diana Princess of Wales Commemorative Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/lb2w1lb12t6k3w1ti1w1ti4w2k1w1r1~x4~lb3402249-t2003265-ti2404216/"><img src="/variants/s13/lb2w1lb12t6k3w1ti1w1ti4w2k1w1r1~x4~lb3402249-t2003265-ti2404216/sett.png" alt="Diana Princess of Wales Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified No 26](/variants/s6/w4db4dg22k20db20w3/)|
-|![Unidentified No 26 example sett](/variants/s6/w4db4dg22k20db20w3/sett.png)|
-| [Unnamed, No 26](/variants/s6/w4db4g22k20db20w3/)|
-|![Unnamed, No 26 example sett](/variants/s6/w4db4g22k20db20w3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/w4db4g22k20db20w3/">Unidentified No 26</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w4db4g22k20db20w3/"><img src="/variants/s6/w4db4g22k20db20w3/sett.png" alt="Unidentified No 26 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

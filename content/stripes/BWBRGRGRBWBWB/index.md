@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Watch (Piper)](/variants/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/)|
-|![Black Watch (Piper) example sett](/variants/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db12w2db2w2db2r10g12r3g12r10db12w2db2~x2/">Black Watch (Piper)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db12w2db2w2db2r10g12r3g12r10db12w2db2~x2/"><img src="/variants/s13/db12w2db2w2db2r10g12r3g12r10db12w2db2~x2/sett.png" alt="Black Watch (Piper) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

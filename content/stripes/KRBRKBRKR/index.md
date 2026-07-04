@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rosie O'Grady (P&D) (Corporate)](/variants/s9/k35r6db6r6k16db48r36k6r6/)|
-|![Rosie O'Grady (P&D) (Corporate) example sett](/variants/s9/k35r6db6r6k16db48r36k6r6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/">Rosie O'Grady (P&amp;D) (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><img src="/variants/s9/k35r6db6r6k16db48r36k6r6/sett.png" alt="Rosie O'Grady (P&amp;D) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

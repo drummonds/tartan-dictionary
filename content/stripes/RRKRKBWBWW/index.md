@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bell Rock Lighthouse 200th Aniversar](/variants/s10/w5lb7db4lb2db25k13ri1k2ri4r3~x2/)|
-|![Bell Rock Lighthouse 200th Aniversar example sett](/variants/s10/w5lb7db4lb2db25k13ri1k2ri4r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/">Bell Rock Lighthouse 200th Aniversar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/"><img src="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/sett.png" alt="Bell Rock Lighthouse 200th Aniversar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

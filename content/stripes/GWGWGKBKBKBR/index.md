@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scotch House (Fashion)](/variants/s12/dg2lb1dg1lb1dg8k4db2k1db1k1db8o1~x4/)|
-|![Scotch House (Fashion) example sett](/variants/s12/dg2lb1dg1lb1dg8k4db2k1db1k1db8o1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/">Dorcas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><img src="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/sett.png" alt="Dorcas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

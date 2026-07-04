@@ -22,9 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Highland Spirit (Fashion)](/variants/s5/dp15k5dp15k21w2~x2/)|
-|![Highland Spirit (Fashion) example sett](/variants/s5/dp15k5dp15k21w2~x2/sett.png)|
-| [MacNeil - 1994 (Personal)](/variants/s5/b30k12dt12k2w3~x2/)|
-|![MacNeil - 1994 (Personal) example sett](/variants/s5/b30k12dt12k2w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/dr3k1t27k27w3~x2/">Bro-Spirit of Northmen (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dr3k1t27k27w3~x2/"><img src="/variants/s5/dr3k1t27k27w3~x2/sett.png" alt="Bro-Spirit of Northmen (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/b30k12db12k2w3~x2/">MacNeil - 1994 (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/b30k12db12k2w3~x2/"><img src="/variants/s5/b30k12db12k2w3~x2/sett.png" alt="MacNeil - 1994 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

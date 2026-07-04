@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Orkney Heather](/variants/s14/dp4m2dp2dpi4m2dp8m2n2o43n2o43dpi2dp8o2/)|
-|![Orkney Heather example sett](/variants/s14/dp4m2dp2dpi4m2dp8m2n2o43n2o43dpi2dp8o2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/">Orkney Heather</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><img src="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/sett.png" alt="Orkney Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

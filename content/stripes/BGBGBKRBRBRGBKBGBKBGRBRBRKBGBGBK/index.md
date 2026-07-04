@@ -22,7 +22,14 @@ It is a 32 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lumsden Green Clan Tartan](/variants/s32/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/)|
-|![Lumsden Green Clan Tartan example sett](/variants/s32/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2~dg1605139/">Lumsden Green Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2~dg1605139/"><img src="/variants/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2~dg1605139/sett.png" alt="Lumsden Green Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

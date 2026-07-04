@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Campbell, 42nd Dress (Balhousie)](/variants/s13/w3k2w15b3w3k7g8k2g8k7b8k1b2~x2/)|
-|![Campbell, 42nd Dress (Balhousie) example sett](/variants/s13/w3k2w15b3w3k7g8k2g8k7b8k1b2~x2/sett.png)|
-| [Campbell, 42nd dress](/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/)|
-|![Campbell, 42nd dress example sett](/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/">Campbell, 42nd Dress (Balhousie)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/"><img src="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/sett.png" alt="Campbell, 42nd Dress (Balhousie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/">Campbell, 42nd dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><img src="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/sett.png" alt="Campbell, 42nd dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Chisholm Colonial](/variants/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/)|
-|![Chisholm Colonial example sett](/variants/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db1404245-dt1703208/">Chisholm Colonial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db1404245-dt1703208/"><img src="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db1404245-dt1703208/sett.png" alt="Chisholm Colonial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

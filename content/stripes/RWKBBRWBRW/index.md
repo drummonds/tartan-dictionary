@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Voluntary Service Aberdeen](/variants/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/)|
-|![Voluntary Service Aberdeen example sett](/variants/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/">Voluntary Service Aberdeen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><img src="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/sett.png" alt="Voluntary Service Aberdeen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

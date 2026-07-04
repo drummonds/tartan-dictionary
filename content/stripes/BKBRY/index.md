@@ -22,13 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Chivas Regal](/variants/s5/dt6k6dt6r14ly3~x2/)|
-|![Chivas Regal example sett](/variants/s5/dt6k6dt6r14ly3~x2/sett.png)|
-| [Chivas Regal (Corporate)](/variants/s5/dt2k2dt2r5ly1~x12/)|
-|![Chivas Regal (Corporate) example sett](/variants/s5/dt2k2dt2r5ly1~x12/sett.png)|
-| [Highland Pub Company](/variants/s5/do16k13do13r30lo4~x2/)|
-|![Highland Pub Company example sett](/variants/s5/do16k13do13r30lo4~x2/sett.png)|
-| [Highland Pub Company](/variants/s5/db13k13db13r29ly4~x2/)|
-|![Highland Pub Company example sett](/variants/s5/db13k13db13r29ly4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/do16k13do13r30lo4~x2/">Highland Pub Company</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/do16k13do13r30lo4~x2/"><img src="/variants/s5/do16k13do13r30lo4~x2/sett.png" alt="Highland Pub Company sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

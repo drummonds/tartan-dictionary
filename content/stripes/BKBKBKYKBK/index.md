@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [City Building (Glasgow) LLP](/variants/s10/k3n6k8lr2k8n3k5n36k2n3~x2/)|
-|![City Building (Glasgow) LLP example sett](/variants/s10/k3n6k8lr2k8n3k5n36k2n3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/">Tyndrum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><img src="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/sett.png" alt="Tyndrum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -9,10 +9,10 @@ A family of [Clan Menzies](/clan/menzies/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k4r2k22r22k3r4lb2/">Menzies of Culdares</a> ★</td><td><code>K/8 R4 K44 R44 K6 R8 LB/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/k4r2k22r22k3r4lb2/"><img src="/variants/s7/k4r2k22r22k3r4lb2~x2/sett.png" alt="Menzies of Culdares sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k4dr2k22dr22k3dr4lb2/">Menzies of Culdares</a> ★</td><td><code>K/8 DR4 K44 DR44 K6 DR8 LB/4</code></td><td>224</td><td>1860</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k4dr2k22dr22k3dr4lb2/"><img src="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/sett.png" alt="Menzies of Culdares sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

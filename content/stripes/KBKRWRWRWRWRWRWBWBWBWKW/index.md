@@ -22,7 +22,14 @@ It is a 23 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gullane](/variants/s23/k10n2k3m2w1m3w1m4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4/)|
-|![Gullane example sett](/variants/s23/k10n2k3m2w1m3w1m4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/">Gullane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/"><img src="/variants/s23/k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4~n1900000-o2500000/sett.png" alt="Gullane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

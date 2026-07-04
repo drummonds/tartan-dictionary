@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scotland's National Dress](/variants/s14/dt14lb2dt2r2dt3k12g14k2g4k2g14dt14lb14r2~x2/)|
-|![Scotland's National Dress example sett](/variants/s14/dt14lb2dt2r2dt3k12g14k2g4k2g14dt14lb14r2~x2/sett.png)|
-| [Scottish National Dress](/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/)|
-|![Scottish National Dress example sett](/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db12w2db2r2db3k11g12k2g3k2g12db12w13r2/">Scottish National Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db12w2db2r2db3k11g12k2g3k2g12db12w13r2/"><img src="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2~db1004274/sett.png" alt="Scottish National Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

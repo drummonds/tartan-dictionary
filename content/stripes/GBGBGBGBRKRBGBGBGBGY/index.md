@@ -22,9 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Murphy & his Gang (Personal)](/variants/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/)|
-|![Murphy & his Gang (Personal) example sett](/variants/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/sett.png)|
-| [Murphy and his Gang (Phoenix Arizona) (Personal)](/variants/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/)|
-|![Murphy and his Gang (Phoenix Arizona) (Personal) example sett](/variants/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s20/g29t1g2t2g2t3g2t5r1k1r1t5g2t3g2t2g2t1g14ly3~x2/">Murphy &amp; his Gang (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/g29t1g2t2g2t3g2t5r1k1r1t5g2t3g2t2g2t1g14ly3~x2/"><img src="/variants/s20/g29t1g2t2g2t3g2t5r1k1r1t5g2t3g2t2g2t1g14ly3~x2/sett.png" alt="Murphy &amp; his Gang (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

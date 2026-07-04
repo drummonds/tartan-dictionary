@@ -22,13 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gordon Dress](/variants/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/)|
-|![Gordon Dress example sett](/variants/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/sett.png)|
-| [Gordon Dress (1965)](/variants/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/)|
-|![Gordon Dress (1965) example sett](/variants/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/sett.png)|
-| [Gordon Dress MINI design Tartan](/variants/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/)|
-|![Gordon Dress MINI design Tartan example sett](/variants/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/sett.png)|
-| [Gordon Dress Tartan](/variants/s13/db4k4db10k10g13ly3g13k10w4db4w16db2w3~x2/)|
-|![Gordon Dress Tartan example sett](/variants/s13/db4k4db10k10g13ly3g13k10w4db4w16db2w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/">Gordon Dress (1965)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/"><img src="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/sett.png" alt="Gordon Dress (1965) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

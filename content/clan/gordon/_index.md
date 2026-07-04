@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/"><img src="/variants/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/sett.png" alt="Gordon" width="240"><br>Gordon</a>
+<a class="tartan" href="/variants/s12/db5k1db1k1db1k4g5y1g5k4db6k1~x4/"><img src="/variants/s12/db5k1db1k1db1k4g5y1g5k4db6k1~x4/sett.png" alt="Gordon" width="240"><br>Gordon</a>
 
 ## Families
 

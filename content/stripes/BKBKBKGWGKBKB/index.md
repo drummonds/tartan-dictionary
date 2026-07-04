@@ -22,13 +22,20 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lamont](/variants/s13/db3k1db1k1db1k4dg4lb1dg4k4db4k1db1/)|
-|![Lamont example sett](/variants/s13/db3k1db1k1db1k4dg4lb1dg4k4db4k1db1/sett.png)|
-| [Lamont](/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/)|
-|![Lamont example sett](/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/sett.png)|
-| [Lamont #3](/variants/s13/b23k3b3k3b3k22g22w3g22k22b18k3b3~x2/)|
-|![Lamont #3 example sett](/variants/s13/b23k3b3k3b3k22g22w3g22k22b18k3b3~x2/sett.png)|
-| [Scottish Heritage Preservation (Corp](/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/)|
-|![Scottish Heritage Preservation (Corp example sett](/variants/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/">Cheape of Torosay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db6k1db1k1db1k6g6lb2g6k6db6k1db2/"><img src="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/sett.png" alt="Cheape of Torosay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db3k1db1k1db1k4g4w1g4k4db4k1db1/">Lamont</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db3k1db1k1db1k4g4w1g4k4db4k1db1/"><img src="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/">Lamont #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/"><img src="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/sett.png" alt="Lamont #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/">Lamont (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/"><img src="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/sett.png" alt="Lamont (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

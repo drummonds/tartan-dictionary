@@ -22,9 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ch. Supt. Everett and Mrs Julene Sum](/variants/s7/r9w27k7w45lb60dg4lo5/)|
-|![Ch. Supt. Everett and Mrs Julene Sum example sett](/variants/s7/r9w27k7w45lb60dg4lo5/sett.png)|
-| [Ch. Supt. Everett and Mrs Julene Summerfield Dress](/variants/s7/r9w25k7w45lt60g4ly5/)|
-|![Ch. Supt. Everett and Mrs Julene Summerfield Dress example sett](/variants/s7/r9w25k7w45lt60g4ly5/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r9w27k7w45lb60dg4lo5/">Ch. Supt. Everett and Mrs Julene Sum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><img src="/variants/s7/r9w27k7w45lb60dg4lo5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Sum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r9w25k7w45lb60dg4ly5/">Ch. Supt. Everett and Mrs Julene Summerfield Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><img src="/variants/s7/r9w25k7w45lb60dg4ly5/sett.png" alt="Ch. Supt. Everett and Mrs Julene Summerfield Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

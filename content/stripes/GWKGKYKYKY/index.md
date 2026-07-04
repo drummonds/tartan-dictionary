@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Braemar or Blair Atholl Trade Tartan](/variants/s10/dy1w2k5dy3k1lo5k1lo11k1lo1~x4/)|
-|![Braemar or Blair Atholl Trade Tartan example sett](/variants/s10/dy1w2k5dy3k1lo5k1lo11k1lo1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/">Braemar or Blair Atholl Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/"><img src="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/sett.png" alt="Braemar or Blair Atholl Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

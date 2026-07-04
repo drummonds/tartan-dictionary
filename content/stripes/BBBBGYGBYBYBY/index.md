@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Calgary (Deerskin Trading Post)](/variants/s13/db2b1db4b4g4lo2g4b4lr3b3lr6b2lr2~x2/)|
-|![Calgary (Deerskin Trading Post) example sett](/variants/s13/db2b1db4b4g4lo2g4b4lr3b3lr6b2lr2~x2/sett.png)|
-| [Calgary (Fashion)](/variants/s13/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2~x2/)|
-|![Calgary (Fashion) example sett](/variants/s13/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2~x2/">Calgary (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2~x2/"><img src="/variants/s13/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2~x2/sett.png" alt="Calgary (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

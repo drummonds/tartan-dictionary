@@ -22,9 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified #36](/variants/s8/k16dg16k2dg16k16w2dp16k1~x2/)|
-|![Unidentified #36 example sett](/variants/s8/k16dg16k2dg16k16w2dp16k1~x2/sett.png)|
-| [Unnamed 6](/variants/s8/k16g16k2g16k16w2p16k1~x2/)|
-|![Unnamed 6 example sett](/variants/s8/k16g16k2g16k16w2p16k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/">Unidentified #36</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k16g16k2g16k16w2dp16k1~x2/"><img src="/variants/s8/k16g16k2g16k16w2dp16k1~x2/sett.png" alt="Unidentified #36 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/">Wilson's No 108</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><img src="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/sett.png" alt="Wilson's No 108 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

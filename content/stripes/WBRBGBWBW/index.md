@@ -22,11 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Womble](/variants/s9/w4db8w1dbi1g6dbi3r6dbi1w4~x2/)|
-|![Womble example sett](/variants/s9/w4db8w1dbi1g6dbi3r6dbi1w4~x2/sett.png)|
-| [Wombles #2](/variants/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/)|
-|![Wombles #2 example sett](/variants/s9/w4db8w1dbi1dg6dbi3r6dbi1w4~x2/sett.png)|
-| [Wombles 3 (Corporate)](/variants/s9/w4dbi8w1db1g6db3r6db1w4~x4/)|
-|![Wombles 3 (Corporate) example sett](/variants/s9/w4dbi8w1db1g6db3r6db1w4~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/w4dbi8w1db1g6db3r6db1w4/">Womble</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w4dbi8w1db1g6db3r6db1w4/"><img src="/variants/s9/w4dbi8w1db1g6db3r6db1w4~x2~dbi1605267-db0804274/sett.png" alt="Womble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

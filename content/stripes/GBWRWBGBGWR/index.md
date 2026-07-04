@@ -22,9 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McKirgan (Name)](/variants/s11/dg2n2w1r2w1n3dg1n12dg18w1r2~x2/)|
-|![McKirgan (Name) example sett](/variants/s11/dg2n2w1r2w1n3dg1n12dg18w1r2~x2/sett.png)|
-| [McKirgan/Mackirgan](/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/)|
-|![McKirgan/Mackirgan example sett](/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/">MacKirgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><img src="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/sett.png" alt="MacKirgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/">McKirgan/Mackirgan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/"><img src="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/sett.png" alt="McKirgan/Mackirgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

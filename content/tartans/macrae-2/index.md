@@ -2,26 +2,20 @@
 title: "MacRae"
 date: 2023-03-18
 ---
-
-Paton's "Red MacRae," a red clan tartan associated with the Macraes; the Conchra branch's tartan is blue and white.
+A tartan of [Clan MacRae](/clan/macrae/).
+Its design is pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/) — the page of every tartan sharing this colour sequence.
 
 The **MacRae** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/">MacRae</a> ★</td><td><code>DG/20 R3 DG20 R20 DB3 R3 DB6 R3 DB3 R20 DB3 R3 DB6 R3 DB3 R20 W3 R4 DB20 R/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/"><img src="/variants/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k4w35dp35m4/">2000 (Dress, Purple)</a></td><td><code>K/8 W70 DP70 M/8</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/k4w35dp35m4/"><img src="/variants/s4/k4w35dp35m4~x2/sett.png" alt="2000 (Dress, Purple) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/">MacRae</a> ★</td><td><code>G/16 R4 G16 R16 DB4 R4 DB4 R4 DB4 R16 DB4 R4 DB4 R4 DB4 R16 W4 R4 DB16 R4 DB16 R4 W4 R16 G4 R4 G4 R16 G16 R4 G/16</code></td><td>480</td><td>1850</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/"><img src="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4~x4/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">3 Variants: <a href="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/">MacRae</a> · <a href="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4~x2/">MacRae</a> · <a href="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4~x4/">(Red)</a></td></tr>
+<tr><td><a href="/setts/dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4/">MacRae</a></td><td><code>DG/16 R4 DG16 R16 DG4 R4 DG4 R16 W4 R4 DB16 R4 DB16 R4 W4 R16 DB4 R4 DB4 R4 DB4 R16 DB4 R4 DB4 R4 DB4 R16 DG16 R4 DG/16</code></td><td>480</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4/"><img src="dg4r1dg4r4dg1r1dg1r4w1r1db4r1db4r1w1r4db1r1db1r1db1r4db1r1db1r1db1r4dg4r1dg4-rev.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
-
-## Also known as
-
-This tartan is also recorded under:
-
-- MacRae Red
-- MacRae of Conchra

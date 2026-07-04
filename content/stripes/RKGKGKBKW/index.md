@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKean Dress (Personal)](/variants/s9/r1k2g4k1g1k2db3k1w1~x6/)|
-|![MacKean Dress (Personal) example sett](/variants/s9/r1k2g4k1g1k2db3k1w1~x6/sett.png)|
-| [MacKean dress](/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/)|
-|![MacKean dress example sett](/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/">MacKean Dress (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><img src="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/sett.png" alt="MacKean Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/">MacKean dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><img src="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/sett.png" alt="MacKean dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

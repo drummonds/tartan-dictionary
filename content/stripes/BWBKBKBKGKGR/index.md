@@ -22,9 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Urquhart](/variants/s12/db2lb1db12k1db2k1db4k12dg24k1dg2r1~x2/)|
-|![Urquhart example sett](/variants/s12/db2lb1db12k1db2k1db4k12dg24k1dg2r1~x2/sett.png)|
-| [Urquhart, White Line](/setts/db4w2db24k3db3k3db8k24g48k3g3r2/)|
-|![Urquhart, White Line example sett](/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/">Urquhart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/"><img src="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/sett.png" alt="Urquhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db4w2db24k3db3k3db8k24g48k3g3r2/">Urquhart, White Line</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db4w2db24k3db3k3db8k24g48k3g3r2/"><img src="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/sett.png" alt="Urquhart, White Line sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

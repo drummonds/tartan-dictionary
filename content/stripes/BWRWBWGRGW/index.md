@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Liama, The](/variants/s10/do2lb20r2lb2do3lb3y3r8y26lb2~x2/)|
-|![Liama, The example sett](/variants/s10/do2lb20r2lb2do3lb3y3r8y26lb2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/">Liama, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><img src="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/sett.png" alt="Liama, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,13 +22,23 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bannock Bane M.405](/variants/s8/do4r3do21r2w14o22r3o4~x2/)|
-|![Bannock Bane M.405 example sett](/variants/s8/do4r3do21r2w14o22r3o4~x2/sett.png)|
-| [Bannockbane](/variants/s8/dr2r2dr15r1w10o15r2o2~x2/)|
-|![Bannockbane example sett](/variants/s8/dr2r2dr15r1w10o15r2o2~x2/sett.png)|
-| [Bannockbane Navy](/variants/s8/db3m2db30m1w18o30m2o3~x2/)|
-|![Bannockbane Navy example sett](/variants/s8/db3m2db30m1w18o30m2o3~x2/sett.png)|
-| [Bannockbane Variant](/variants/s8/n3m2n30m1w18o14m2o3~x2/)|
-|![Bannockbane Variant example sett](/variants/s8/n3m2n30m1w18o14m2o3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/">Bannockbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><img src="/variants/s8/do2r2do15r1w10o15r2o2~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/">Bannockbane Navy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/"><img src="/variants/s8/db3r2db30r1w18o30r2o3~x2/sett.png" alt="Bannockbane Navy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/">Bannockbane Variant</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><img src="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/sett.png" alt="Bannockbane Variant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/">Bannockbane, Grey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><img src="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/sett.png" alt="Bannockbane, Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

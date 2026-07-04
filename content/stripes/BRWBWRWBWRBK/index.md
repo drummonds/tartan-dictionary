@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [U.S. Postal Service](/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/)|
-|![U.S. Postal Service example sett](/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/">U.S. Postal Service</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><img src="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/sett.png" alt="U.S. Postal Service sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

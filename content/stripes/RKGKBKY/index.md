@@ -22,15 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Green MacLeod](/variants/s7/ly4k2b20k10g15k2r3~x2/)|
-|![Green MacLeod example sett](/variants/s7/ly4k2b20k10g15k2r3~x2/sett.png)|
-| [MacLeod](/variants/s7/r3k2dg15k10db21k1ly2/)|
-|![MacLeod example sett](/variants/s7/r3k2dg15k10db21k1ly2/sett.png)|
-| [MacLeod](/setts/r3k2dg15k10db20k2ly2/)|
-|![MacLeod example sett](/variants/s7/r3k2dg15k10db20k2ly2/sett.png)|
-| [MacLeod Small Clan Tartan](/variants/s7/r1k1g7k5db10k1ly1~x2/)|
-|![MacLeod Small Clan Tartan example sett](/variants/s7/r1k1g7k5db10k1ly1~x2/sett.png)|
-| [MacLeod, Macleod of Harris](/variants/s7/r3k2g15k10db20k2ly2~x2/)|
-|![MacLeod, Macleod of Harris example sett](/variants/s7/r3k2g15k10db20k2ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/">MacLeod (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><img src="/variants/s7/ly4k2t20k10g15k2r3~x2/sett.png" alt="MacLeod (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

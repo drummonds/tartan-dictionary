@@ -22,7 +22,14 @@ It is a 62 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Millennium (Texcraft)](/variants/s62/dbi8b1dbi1db37b1dbi14g2dbi2b1dbi1db37dbi1b1w2dbi18b1g3b1dbi18b1g3b1dbi18w2b1dbi1db37dbi1b1dbi3g2dbi13b1db37dbi1b1dbi8g2dbi10b1db1dbi1db1w2b1db33dbi1g2db1dbi1b1dbi18g2dbi18b1dbi1db1g2dbi1db37b1w2~x2/)|
-|![Millennium (Texcraft) example sett](/variants/s62/dbi8b1dbi1db37b1dbi14g2dbi2b1dbi1db37dbi1b1w2dbi18b1g3b1dbi18b1g3b1dbi18w2b1dbi1db37dbi1b1dbi3g2dbi13b1db37dbi1b1dbi8g2dbi10b1db1dbi1db1w2b1db33dbi1g2db1dbi1b1dbi18g2dbi18b1dbi1db1g2dbi1db37b1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/">Millennium (Texcraft)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/"><img src="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/sett.png?s=dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~dbi1406275-db1204274" alt="Millennium (Texcraft) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

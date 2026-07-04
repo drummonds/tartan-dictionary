@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Letang (Personal)](/variants/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/)|
-|![Letang (Personal) example sett](/variants/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/">Letang (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><img src="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/sett.png" alt="Letang (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

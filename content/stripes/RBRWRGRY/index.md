@@ -22,11 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burnett of Leys](/variants/s8/r92db10r8w3r8g4r8lo3~x2/)|
-|![Burnett of Leys example sett](/variants/s8/r92db10r8w3r8g4r8lo3~x2/sett.png)|
-| [Burnett of Leys (Clan)](/variants/s8/r75db6r6w2r6g2r6lo2~x2/)|
-|![Burnett of Leys (Clan) example sett](/variants/s8/r75db6r6w2r6g2r6lo2~x2/sett.png)|
-| [Burnett, of Leys](/variants/s8/r60db5r5w2r5g2r5ly2~x2/)|
-|![Burnett, of Leys example sett](/variants/s8/r60db5r5w2r5g2r5ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/">Burnett of Leys</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><img src="/variants/s8/r92db10r8w3r8g4r8lo3~x2/sett.png" alt="Burnett of Leys sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

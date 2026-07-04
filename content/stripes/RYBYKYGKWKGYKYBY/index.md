@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stirling](/variants/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/)|
-|![Stirling example sett](/variants/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/r2lr2t20lr2k13lr2g20k2lb4k2g20lr2k13lr2t20lr2~x2~lr2800000-lb3203246/">Stirling</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/r2lr2t20lr2k13lr2g20k2lb4k2g20lr2k13lr2t20lr2~x2~lr2800000-lb3203246/"><img src="/variants/s16/r2lr2t20lr2k13lr2g20k2lb4k2g20lr2k13lr2t20lr2~x2~lr2800000-lb3203246/sett.png" alt="Stirling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

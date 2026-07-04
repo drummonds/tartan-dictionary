@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Isle of Skye](/variants/s20/dy20dp2dy2dp2dy3dp8dg9g8y8dg1lb2~x2/)|
-|![Isle of Skye example sett](/variants/s20/dy20dp2dy2dp2dy3dp8dg9g8y8dg1lb2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/">Isle of Skye</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/"><img src="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/sett.png" alt="Isle of Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

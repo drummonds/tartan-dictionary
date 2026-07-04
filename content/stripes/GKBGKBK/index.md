@@ -22,11 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacCallum](/variants/s7/g8k2t1g4k6db6k1~x2/)|
-|![MacCallum example sett](/variants/s7/g8k2t1g4k6db6k1~x2/sett.png)|
-| [MacCallum](/variants/s7/dg8k2b1dg4k6db6k1~x2/)|
-|![MacCallum example sett](/variants/s7/dg8k2b1dg4k6db6k1~x2/sett.png)|
-| [MacCallum](/variants/s7/g21k6t3g11k17db17k3~x2/)|
-|![MacCallum example sett](/variants/s7/g21k6t3g11k17db17k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/">de Meuron (Neuchâtel) Dress, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><img src="/variants/s7/k40dp5k6y26n13k9dy3~x2/sett.png" alt="de Meuron (Neuchâtel) Dress, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

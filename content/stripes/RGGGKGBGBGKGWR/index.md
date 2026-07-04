@@ -22,9 +22,17 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Paget (Personal)](/variants/s14/r3g4y2g10k18g2dp18g3dp18g2k18g18w1r3~x2/)|
-|![Paget (Personal) example sett](/variants/s14/r3g4y2g10k18g2dp18g3dp18g2k18g18w1r3~x2/sett.png)|
-| [Paget Family Tartan](/variants/s14/r3gi4g2gi10k18gi2db18gi3db18gi2k18gi16w1r3~x2/)|
-|![Paget Family Tartan example sett](/variants/s14/r3gi4g2gi10k18gi2db18gi3db18gi2k18gi16w1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/">Paget (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/"><img src="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/sett.png" alt="Paget (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/">Paget Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/"><img src="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/sett.png" alt="Paget Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

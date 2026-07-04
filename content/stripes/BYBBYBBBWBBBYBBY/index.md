@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Heirloom Blue Alba](/variants/s16/t4lo2t34db10lr4db4dp4db23w3~x2/)|
-|![Heirloom Blue Alba example sett](/variants/s16/t4lo2t34db10lr4db4dp4db23w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/">Heirloom Blue Alba</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/"><img src="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/sett.png" alt="Heirloom Blue Alba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

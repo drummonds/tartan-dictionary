@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Heart of Scotland (Fashion)](/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/)|
-|![Heart of Scotland (Fashion) example sett](/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2~dpi1607327-dp1507327/">Heart of Scotland (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2~dpi1607327-dp1507327/"><img src="/variants/s13/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2~dpi1607327-dp1507327/sett.png" alt="Heart of Scotland (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

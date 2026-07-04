@@ -22,9 +22,14 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Loch Garth Tartan](/variants/s4/dy12lo6dy2ly1~x4/)|
-|![Loch Garth Tartan example sett](/variants/s4/dy12lo6dy2ly1~x4/sett.png)|
-| [Young in Australia (Name)](/variants/s4/loi81g6lo8g8~x2/)|
-|![Young in Australia (Name) example sett](/variants/s4/loi81g6lo8g8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/">Young in Australia (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><img src="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/sett.png" alt="Young in Australia (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

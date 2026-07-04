@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glover, Thomas Blake (Corporate)](/variants/s12/db4dr16lo6dr16lo6dr16db8dr6db4dr16db2lo1~x2/)|
-|![Glover, Thomas Blake (Corporate) example sett](/variants/s12/db4dr16lo6dr16lo6dr16db8dr6db4dr16db2lo1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/">Glover, Thomas Blake (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/"><img src="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/sett.png" alt="Glover, Thomas Blake (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

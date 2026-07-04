@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Love Htg (Personal)](/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/)|
-|![Love Htg (Personal) example sett](/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/">Love Htg (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/"><img src="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/sett.png" alt="Love Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

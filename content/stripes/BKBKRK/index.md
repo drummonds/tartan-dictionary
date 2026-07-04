@@ -22,9 +22,20 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Casterton (Corporate)](/variants/s6/k7r2k33db33k2db7~x2/)|
-|![Casterton (Corporate) example sett](/variants/s6/k7r2k33db33k2db7~x2/sett.png)|
-| [Earl Blue Marl](/variants/s6/db80k28dp9k3m5k12~x2/)|
-|![Earl Blue Marl example sett](/variants/s6/db80k28dp9k3m5k12~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k7r2k33db33k2db7~x2/">Casterton (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k7r2k33db33k2db7~x2/"><img src="/variants/s6/k7r2k33db33k2db7~x2/sett.png" alt="Casterton (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/db80k28dp9k3o5k12~x2/">Earl Blue Marl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db80k28dp9k3o5k12~x2/"><img src="/variants/s6/db80k28dp9k3o5k12~x2/sett.png" alt="Earl Blue Marl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/n58k22n8k17r5k14~x2/">Flynn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/n58k22n8k17r5k14~x2/"><img src="/variants/s6/n58k22n8k17r5k14~x2/sett.png" alt="Flynn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

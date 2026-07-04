@@ -22,7 +22,20 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Raith Rovers Football Club](/variants/s8/dt3w2db2w3dt24r1dbi36r1~x2/)|
-|![Raith Rovers Football Club example sett](/variants/s8/dt3w2db2w3dt24r1dbi36r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/">Masai Shuka 29 (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><img src="/variants/s8/r5db20r3db20w6db3lb2db1~x2/sett.png" alt="Masai Shuka 29 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/db6w2b2w3db24r1dbi35r2~x2~db0805267-dbi1604274/">Raith Rovers F.C.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db6w2b2w3db24r1dbi35r2~x2~db0805267-dbi1604274/"><img src="/variants/s8/db6w2b2w3db24r1dbi35r2~x2~db0805267-dbi1604274/sett.png" alt="Raith Rovers F.C. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dbi3w2db2w3dbi24r1dbii36r1~x2~dbi1404245-db1106275-dbii1406275/">Raith Rovers Football Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dbi3w2db2w3dbi24r1dbii36r1~x2~dbi1404245-db1106275-dbii1406275/"><img src="/variants/s8/dbi3w2db2w3dbi24r1dbii36r1~x2~dbi1404245-db1106275-dbii1406275/sett.png" alt="Raith Rovers Football Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

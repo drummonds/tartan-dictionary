@@ -22,9 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cumnock](/variants/s8/g3db16k3p2k45r1k2lo3~x2/)|
-|![Cumnock example sett](/variants/s8/g3db16k3p2k45r1k2lo3~x2/sett.png)|
-| [Cumnock (District)](/variants/s8/g3db16k3dp2k45r1k2lo3~x2/)|
-|![Cumnock (District) example sett](/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g3db16k3dp2k45r1k2lo3/">Cumnock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g3db16k3dp2k45r1k2lo3/"><img src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="Cumnock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/">Cumnock (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/"><img src="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/sett.png" alt="Cumnock (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

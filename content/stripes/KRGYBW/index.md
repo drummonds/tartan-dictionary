@@ -22,13 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Charlotte Fire Department](/variants/s6/k78r10dg7ly3t2w5~x2/)|
-|![Charlotte Fire Department example sett](/variants/s6/k78r10dg7ly3t2w5~x2/sett.png)|
-| [Charlotte Fire Department](/variants/s6/k75r10g7ly3db2w5~x2/)|
-|![Charlotte Fire Department example sett](/variants/s6/k75r10g7ly3db2w5~x2/sett.png)|
-| [Kilmaine Saints (Corporate)](/variants/s6/k54o11g13lo1b13w1~x2/)|
-|![Kilmaine Saints (Corporate) example sett](/variants/s6/k54o11g13lo1b13w1~x2/sett.png)|
-| [Turnbull of Thornton (Personal)](/variants/s6/k6r3g30ly10db30w3~x2/)|
-|![Turnbull of Thornton (Personal) example sett](/variants/s6/k6r3g30ly10db30w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k6r3g30ly10db30w3~x2/">Turnbull of Thornton (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><img src="/variants/s6/k6r3g30ly10db30w3~x2/sett.png" alt="Turnbull of Thornton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

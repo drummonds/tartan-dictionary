@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Webster, Colin Wesley (Personal)](/variants/s10/k100dp5k4dp3k2y1k2dp2k4dp5~x2/)|
-|![Webster, Colin Wesley (Personal) example sett](/variants/s10/k100dp5k4dp3k2y1k2dp2k4dp5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/">Webster, Colin Wesley (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><img src="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/sett.png" alt="Webster, Colin Wesley (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

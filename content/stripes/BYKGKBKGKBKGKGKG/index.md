@@ -22,9 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kettles, Ryan & Alan (Personal)](/variants/s16/dg13k2dg2k2dg2k12dp16k1dg2k1dp16k12dg12k1lo2dp1~x2/)|
-|![Kettles, Ryan & Alan (Personal) example sett](/variants/s16/dg13k2dg2k2dg2k12dp16k1dg2k1dp16k12dg12k1lo2dp1~x2/sett.png)|
-| [Kettles, Ryan & Alan (Personal)](/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/)|
-|![Kettles, Ryan & Alan (Personal) example sett](/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/">Kettles, Ryan &amp; Alan (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><img src="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/sett.png" alt="Kettles, Ryan &amp; Alan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

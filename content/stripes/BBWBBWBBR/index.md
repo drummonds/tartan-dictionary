@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Callaway (Name)](/variants/s9/r4b12db36w4db4b16w3db6b3~x2/)|
-|![Callaway (Name) example sett](/variants/s9/r4b12db36w4db4b16w3db6b3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/">Callaway (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><img src="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/sett.png" alt="Callaway (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

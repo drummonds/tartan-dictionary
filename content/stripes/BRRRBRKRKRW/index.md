@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacHatters of the Old Pueblo](/variants/s11/dp7m2r2ri2dp23ri2k2ri1k15r29lp2~x2/)|
-|![MacHatters of the Old Pueblo example sett](/variants/s11/dp7m2r2ri2dp23ri2k2ri1k15r29lp2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/">MacHatters of the Old Pueblo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/"><img src="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/sett.png" alt="MacHatters of the Old Pueblo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [GRM](/variants/s22/ri3dy2ri5dg8dy2r2dy2lo2dy8b3k39b3dy8lo2dy2r2dy2dg8ri5dy2ri3r2~x2/)|
-|![GRM example sett](/variants/s22/ri3dy2ri5dg8dy2r2dy2lo2dy8b3k39b3dy8lo2dy2r2dy2dg8ri5dy2ri3r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2~x2~r1606028-ri2109032/">GRM</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2~x2~r1606028-ri2109032/"><img src="/variants/s22/r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2~x2~r1606028-ri2109032/sett.png" alt="GRM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

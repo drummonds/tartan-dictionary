@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rikaco Heirloom (Fashion)](/variants/s10/dbi3db3dbi1g26dbi10n1dbi3dp5db4lo2~x2/)|
-|![Rikaco Heirloom (Fashion) example sett](/variants/s10/dbi3db3dbi1g26dbi10n1dbi3dp5db4lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/">Rikaco Heirloom (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><img src="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/sett.png" alt="Rikaco Heirloom (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

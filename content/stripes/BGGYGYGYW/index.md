@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Macmillan Cancer Support](/variants/s9/p4g24dg6lg4dg4lg4dg44lo1w4/)|
-|![Macmillan Cancer Support example sett](/variants/s9/p4g24dg6lg4dg4lg4dg44lo1w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/">Macmillan Cancer Support</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/"><img src="/variants/s9/dp4g24dg6lg4dg4lg4dg44lo1w4~g2408144-lg3105139/sett.png" alt="Macmillan Cancer Support sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

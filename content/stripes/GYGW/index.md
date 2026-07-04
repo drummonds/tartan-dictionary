@@ -22,11 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Neill](/variants/s4/g9lo20g40w5~x2/)|
-|![O'Neill example sett](/variants/s4/g9lo20g40w5~x2/sett.png)|
-| [O'Neill Irish Family Tartan](/variants/s4/g9ly20g40w5~x2/)|
-|![O'Neill Irish Family Tartan example sett](/variants/s4/g9ly20g40w5~x2/sett.png)|
-| [Young in Australia](/variants/s4/w81dg6lo8dg8~x2/)|
-|![Young in Australia example sett](/variants/s4/w81dg6lo8dg8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/dg21lo44dg86lb10/">Special Saffron (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dg21lo44dg86lb10/"><img src="/variants/s4/dg21lo44dg86lb10/sett.png" alt="Special Saffron (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/w81dg6lo8dg8~x2/">Young in Australia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/w81dg6lo8dg8~x2/"><img src="/variants/s4/w81dg6lo8dg8~x2/sett.png" alt="Young in Australia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

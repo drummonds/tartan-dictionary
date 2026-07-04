@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [El Dorado Hills Firefighters Pipes and Drums](/variants/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/)|
-|![El Dorado Hills Firefighters Pipes and Drums example sett](/variants/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/sett.png)|
-| [El Dorado Hills P & D (Corporate)](/variants/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/)|
-|![El Dorado Hills P & D (Corporate) example sett](/variants/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/">El Dorado Hills P &amp; D (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><img src="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/sett.png" alt="El Dorado Hills P &amp; D (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

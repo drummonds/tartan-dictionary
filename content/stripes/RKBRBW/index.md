@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Margach, William (Dumbarton)](/variants/s6/m4k3t18r3dp34w3~x2/)|
-|![Margach, William (Dumbarton) example sett](/variants/s6/m4k3t18r3dp34w3~x2/sett.png)|
-| [Margach, William (Personal)](/variants/s6/m4k3b18r3dt34w3~x2/)|
-|![Margach, William (Personal) example sett](/variants/s6/m4k3b18r3dt34w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/">Margach, William (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/"><img src="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/sett.png" alt="Margach, William (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

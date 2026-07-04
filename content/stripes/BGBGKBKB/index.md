@@ -22,13 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Baird](/variants/s8/db3k2db8k8dg8dp1dg1dp3~x2/)|
-|![Baird example sett](/variants/s8/db3k2db8k8dg8dp1dg1dp3~x2/sett.png)|
-| [Baird](/variants/s8/db3k2db8k8g8p1g1p3~x2/)|
-|![Baird example sett](/variants/s8/db3k2db8k8g8p1g1p3~x2/sett.png)|
-| [Baird](/variants/s8/db3k2db8k8dg8n1dg1n3~x2/)|
-|![Baird example sett](/variants/s8/db3k2db8k8dg8n1dg1n3~x2/sett.png)|
-| [Baird (Modern)](/setts/db3k2db8k8g8dp1g1dp3/)|
-|![Baird (Modern) example sett](/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db3k2db8k8g8dp1g1dp3/">Baird</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db3k2db8k8g8dp1g1dp3/"><img src="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/">Baird</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><img src="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/sett.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

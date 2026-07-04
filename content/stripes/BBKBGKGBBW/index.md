@@ -22,9 +22,17 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cowal](/variants/s10/dbi6db22k12dp10g3k1g3dp10dbi2w2~x2/)|
-|![Cowal example sett](/variants/s10/dbi6db22k12dp10g3k1g3dp10dbi2w2~x2/sett.png)|
-| [Cowal (Corporate)](/variants/s10/db6dt22k12dp10g3k1g3dp10db2w2~x2/)|
-|![Cowal (Corporate) example sett](/variants/s10/db6dt22k12dp10g3k1g3dp10db2w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/b6db22k12dp10g3k1g3dp10b2w2~x2~b1511266-db1108266/">Cowal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/b6db22k12dp10g3k1g3dp10b2w2~x2~b1511266-db1108266/"><img src="/variants/s10/b6db22k12dp10g3k1g3dp10b2w2~x2~b1511266-db1108266/sett.png" alt="Cowal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/">Cowal (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/"><img src="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/sett.png" alt="Cowal (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

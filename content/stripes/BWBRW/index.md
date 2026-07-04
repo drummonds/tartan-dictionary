@@ -22,13 +22,20 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fraser Arisaid Red (Dance)](/variants/s5/w32r12db12w2db3~x2/)|
-|![Fraser Arisaid Red (Dance) example sett](/variants/s5/w32r12db12w2db3~x2/sett.png)|
-| [Glen App](/variants/s5/p37w9p3o9w3~x2/)|
-|![Glen App example sett](/variants/s5/p37w9p3o9w3~x2/sett.png)|
-| [Glen Moy](/variants/s5/db37w9db3r9w3~x2/)|
-|![Glen Moy example sett](/variants/s5/db37w9db3r9w3~x2/sett.png)|
-| [Glen Moy](/variants/s5/db13lb3db1r3lb1~x6/)|
-|![Glen Moy example sett](/variants/s5/db13lb3db1r3lb1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/dp37w9dp3o9w3~x2/">Glen App</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dp37w9dp3o9w3~x2/"><img src="/variants/s5/dp37w9dp3o9w3~x2/sett.png" alt="Glen App sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/db37w9db3r9w3~x2/">Glen Moy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db37w9db3r9w3~x2/"><img src="/variants/s5/db37w9db3r9w3~x2/sett.png" alt="Glen Moy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/db13lb3db1r3lb1~x6/">Glen Moy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db13lb3db1r3lb1~x6/"><img src="/variants/s5/db13lb3db1r3lb1~x6/sett.png" alt="Glen Moy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

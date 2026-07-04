@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hackett William (Coatbridge) Hunting (Personal)](/variants/s8/k20ly4r4ly20g20w5g2lg2~x2/)|
-|![Hackett William (Coatbridge) Hunting (Personal) example sett](/variants/s8/k20ly4r4ly20g20w5g2lg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/">Hackett William (Coatbridge) Hunting (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/"><img src="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/sett.png" alt="Hackett William (Coatbridge) Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

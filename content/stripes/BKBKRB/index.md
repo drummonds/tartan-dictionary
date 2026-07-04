@@ -22,11 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Thompson/Thomson/MacTavish #2](/variants/s6/t2r12k2t6k6t1~x2/)|
-|![Thompson/Thomson/MacTavish #2 example sett](/variants/s6/t2r12k2t6k6t1~x2/sett.png)|
-| [Thompson/Thomson/MacTavish (Bonner)](/variants/s6/db4r30k6db13k13db3~x2/)|
-|![Thompson/Thomson/MacTavish (Bonner) example sett](/variants/s6/db4r30k6db13k13db3~x2/sett.png)|
-| [Thomson, Red (Name)](/variants/s6/t4r28k6t12k12t3~x2/)|
-|![Thomson, Red (Name) example sett](/variants/s6/t4r28k6t12k12t3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db4r30k6db13k13db3~x2/">Thompson/Thomson/MacTavish (Bonner)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db4r30k6db13k13db3~x2/"><img src="/variants/s6/db4r30k6db13k13db3~x2/sett.png" alt="Thompson/Thomson/MacTavish (Bonner) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

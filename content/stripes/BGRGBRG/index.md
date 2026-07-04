@@ -22,7 +22,19 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cadence](/variants/s7/db51dg5r15dg37db17r6dg5~x2/)|
-|![Cadence example sett](/variants/s7/db51dg5r15dg37db17r6dg5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db51dg5r15dg37db17r6dg5~x2/">Cadence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db51dg5r15dg37db17r6dg5~x2/"><img src="/variants/s7/db51dg5r15dg37db17r6dg5~x2/sett.png" alt="Cadence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db51g5r15g37db17r6g7~x2/">Cadence Design Systems (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db51g5r15g37db17r6g7~x2/"><img src="/variants/s7/db51g5r15g37db17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/dt51g5r15g37dt17r6g7~x2/">Cadence Design Systems (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dt51g5r15g37dt17r6g7~x2/"><img src="/variants/s7/dt51g5r15g37dt17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

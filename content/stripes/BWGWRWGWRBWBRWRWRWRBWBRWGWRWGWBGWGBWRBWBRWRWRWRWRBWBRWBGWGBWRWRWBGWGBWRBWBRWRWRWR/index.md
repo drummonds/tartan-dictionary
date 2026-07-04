@@ -22,7 +22,14 @@ It is a 81 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified Cant #04](/variants/s81/r14w3r4w3r14w2m4dbi2w2dbi2m4w2db3dg2w2dg2db3w2r10w3r10w2db3dg2w2dg2db3w2m4dbi2w2dbi2m4w2r14w3r4w3r14w2m4dbi2w2dbi2m4w2db11dg4w2dg4db11w2dg4w2m4w2dg4w2m9dbi4w2dbi4m9w2r11w2r11w2m9dbi4w2dbi4m9w2dg4w2m4w-h4107b8469c37d96d/)|
-|![Unidentified Cant #04 example sett](/variants/s81/r14w3r4w3r14w2m4dbi2w2dbi2m4w2db3dg2w2dg2db3w2r10w3r10w2db3dg2w2dg2db3w2m4dbi2w2dbi2m4w2r14w3r4w3r14w2m4dbi2w2dbi2m4w2db11dg4w2dg4db11w2dg4w2m4w2dg4w2m9dbi4w2dbi4m9w2r11w2r11w2m9dbi4w2dbi4m9w2dg4w2m4w-h4107b8469c37d96d/sett.png?s=r14w3r4w3r14w2m4dbi2w2dbi2m4w2db3dg2w2dg2db3w2r10w3r10w2db3dg2w2dg2db3w2m4dbi2w2dbi2m4w2r14w3r4w3r14w2m4dbi2w2dbi2m4w2db11dg4w2dg4db11w2dg4w2m4w2dg4w2m9dbi4w2dbi4m9w2r11w2r11w2m9dbi4w2dbi4m9w2dg4w2m4w2dg4w2db9~x2)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s81/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg-h54630e7daf3d593c/">Unidentified Cant #04</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s81/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg-h54630e7daf3d593c/"><img src="/variants/s81/ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg-h54630e7daf3d593c/sett.png?s=ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi3dg2w2dg2dbi3w2ri10w3ri10w2dbi3dg2w2dg2dbi3w2r4db2w2db2r4w2ri14w3ri4w3ri14w2r4db2w2db2r4w2dbi11dg4w2dg4dbi11w2dg4w2r4w2dg4w2r9db4w2db4r9w2ri11w2ri11w2r9db4w2db4r9w2dg4w2r4w2dg4w2dbi9~x2~ri2109032-r1807008-db1106275-dbi1204274" alt="Unidentified Cant #04 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

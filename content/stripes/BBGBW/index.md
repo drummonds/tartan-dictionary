@@ -22,7 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Open Squash (Corporate)](/variants/s5/db23dp2g11dp24lb3~x2/)|
-|![Scottish Open Squash (Corporate) example sett](/variants/s5/db23dp2g11dp24lb3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/db9dr12g9db5w2~x4/">Battle of Prestonpans (1745) Heritage Trust, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db9dr12g9db5w2~x4/"><img src="/variants/s5/db9dr12g9db5w2~x4/sett.png" alt="Battle of Prestonpans (1745) Heritage Trust, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/db23dp2g11dp24lb3~x2/">Scottish Open Squash (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><img src="/variants/s5/db23dp2g11dp24lb3~x2/sett.png" alt="Scottish Open Squash (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

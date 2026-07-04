@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacMillan - 1847 (Clan)](/variants/s12/g7k3g53k3g8k3dr24g8lo18k3lo18k3~x2/)|
-|![MacMillan - 1847 (Clan) example sett](/variants/s12/g7k3g53k3g8k3dr24g8lo18k3lo18k3~x2/sett.png)|
-| [MacMillan Ancient](/setts/dg2k1dg18k1dg2k1dr12dg4ly6k1ly6k1/)|
-|![MacMillan Ancient example sett](/variants/s12/dg2k1dg18k1dg2k1dr12dg4ly6k1ly6k1/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/">MacMillan - 1847 (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><img src="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/sett.png" alt="MacMillan - 1847 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

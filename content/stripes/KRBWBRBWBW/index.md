@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pompili, Antonio and Alessandro (Personal)](/variants/s10/k80ri1dt25w1dt3r2dt3w1dt25lt1~x2/)|
-|![Pompili, Antonio and Alessandro (Personal) example sett](/variants/s10/k80ri1dt25w1dt3r2dt3w1dt25lt1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/">Pompili, Antonio and Alessandro (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/"><img src="/variants/s10/k80ri1db25w1db3r2db3w1db25lb1~x2~ri2806019-r2510029/sett.png" alt="Pompili, Antonio and Alessandro (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

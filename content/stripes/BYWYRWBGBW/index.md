@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [State Seal of Hawaii (Fashion)](/variants/s10/lb49dt25g16dt4lbi3r8lo4lb18lo1dt9~x2/)|
-|![State Seal of Hawaii (Fashion) example sett](/variants/s10/lb49dt25g16dt4lbi3r8lo4lb18lo1dt9~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/">State Seal of Hawaii (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/"><img src="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/sett.png" alt="State Seal of Hawaii (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

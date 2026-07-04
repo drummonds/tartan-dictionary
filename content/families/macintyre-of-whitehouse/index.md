@@ -9,10 +9,10 @@ A family of [Clan MacIntyre](/clan/macintyre/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t1r2db2r4g16r2db2r4g2r2db16r4g2r2t1/">MacIntyre of Whitehouse</a> ★</td><td><code>T/2 R4 DB4 R8 G32 R4 DB4 R8 G4 R4 DB32 R8 G4 R4 T/2</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/t1r2db2r4g16r2db2r4g2r2db16r4g2r2t1/"><img src="/variants/s15/t1r2db2r4g16r2db2r4g2r2db16r4g2r2t1~x2/sett.png" alt="MacIntyre of Whitehouse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1/">MacIntyre of Whitehouse</a> ★</td><td><code>LB/2 R4 DB4 R8 G32 R4 DB4 R8 G4 R4 DB32 R8 G4 R4 LB/2</code></td><td>244</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1/"><img src="/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/sett.png" alt="MacIntyre of Whitehouse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

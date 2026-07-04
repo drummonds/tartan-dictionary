@@ -22,11 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fiddes](/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/)|
-|![Fiddes example sett](/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/sett.png)|
-| [Fiddes #2](/variants/s11/dg16r12db16r6db4r6db7r20db8dg8db12~x2/)|
-|![Fiddes #2 example sett](/variants/s11/dg16r12db16r6db4r6db7r20db8dg8db12~x2/sett.png)|
-| [Fiddes (Artefact)](/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/)|
-|![Fiddes (Artefact) example sett](/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/">Fiddes #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/"><img src="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/sett.png" alt="Fiddes #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/">Fiddes (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/"><img src="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/sett.png" alt="Fiddes (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lambert Hunting (Personal)](/variants/s14/lo34g10lo5r2k8b2w3b2k8r2lo5g10lo28k3~x2/)|
-|![Lambert Hunting (Personal) example sett](/variants/s14/lo34g10lo5r2k8b2w3b2k8r2lo5g10lo28k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/ly34g10ly5r2k8t2w3t2k8r2ly5g10ly28k3~x2/">Lambert Hunting (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/ly34g10ly5r2k8t2w3t2k8r2ly5g10ly28k3~x2/"><img src="/variants/s14/ly34g10ly5r2k8t2w3t2k8r2ly5g10ly28k3~x2/sett.png" alt="Lambert Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

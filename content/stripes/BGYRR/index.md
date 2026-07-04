@@ -22,7 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Highland Princess, The](/variants/s5/b15g15lo11r17m15~x2/)|
-|![Highland Princess, The example sett](/variants/s5/b15g15lo11r17m15~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/db15g15lo11r17m15~x2~r2109032-m2610337/">Highland Princess, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db15g15lo11r17m15~x2~r2109032-m2610337/"><img src="/variants/s5/db15g15lo11r17m15~x2~r2109032-m2610337/sett.png" alt="Highland Princess, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/t15g15lo11r17m15~x2/">Highland Princess, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/t15g15lo11r17m15~x2/"><img src="/variants/s5/t15g15lo11r17m15~x2/sett.png" alt="Highland Princess, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

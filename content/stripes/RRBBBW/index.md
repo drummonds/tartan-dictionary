@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Afternoon Tea / Assam](/variants/s6/ri15r98dp72t25dp8w15/)|
-|![Afternoon Tea / Assam example sett](/variants/s6/ri15r98dp72t25dp8w15/sett.png)|
-| [Afternoon Tea / Assam](/variants/s6/r15ri98db72t25db8w15/)|
-|![Afternoon Tea / Assam example sett](/variants/s6/r15ri98db72t25db8w15/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/">Afternoon Tea / Assam</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/"><img src="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/sett.png" alt="Afternoon Tea / Assam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

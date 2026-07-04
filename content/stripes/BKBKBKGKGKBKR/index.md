@@ -22,9 +22,22 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Watch/Isetan Men's](/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/)|
-|![Black Watch/Isetan Men's example sett](/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/sett.png)|
-| [Black Watch/Isetan Men's](/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/)|
-|![Black Watch/Isetan Men's example sett](/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/">Black Watch/Isetan Men's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/"><img src="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/sett.png" alt="Black Watch/Isetan Men's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/">Black Watch/Isetan Men's</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/"><img src="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/sett.png" alt="Black Watch/Isetan Men's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/">Red Hackle (Military)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><img src="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/sett.png" alt="Red Hackle (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/">The Red Hackle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/"><img src="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/sett.png" alt="The Red Hackle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

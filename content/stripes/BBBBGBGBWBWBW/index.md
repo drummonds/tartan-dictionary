@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Watch Dress, Brown/Grey (Fash)](/variants/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/)|
-|![Black Watch Dress, Brown/Grey (Fash) example sett](/variants/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/">Black Watch Dress, Brown/Grey (Fash)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/"><img src="/variants/s13/n1dt1n3dt3y4dt1y4dt3w1n1w6n1w1~x4/sett.png" alt="Black Watch Dress, Brown/Grey (Fash) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

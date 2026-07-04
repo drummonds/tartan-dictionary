@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Borders Tourist Board](/variants/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/)|
-|![Scottish Borders Tourist Board example sett](/variants/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/">Scottish Borders Tourist Board</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><img src="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/sett.png" alt="Scottish Borders Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

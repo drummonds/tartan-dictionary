@@ -22,15 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Connecticut State Police PB (Cor.)](/variants/s6/n42db2n2db17lo8db4~x2/)|
-|![Connecticut State Police PB (Cor.) example sett](/variants/s6/n42db2n2db17lo8db4~x2/sett.png)|
-| [Hepburn #2](/variants/s6/db13b1db3b6ly1b1~x4/)|
-|![Hepburn #2 example sett](/variants/s6/db13b1db3b6ly1b1~x4/sett.png)|
-| [Port Authority of NY & NJ](/variants/s6/t9db2t39dt33lo2dt5~x2/)|
-|![Port Authority of NY & NJ example sett](/variants/s6/t9db2t39dt33lo2dt5~x2/sett.png)|
-| [Sligo](/variants/s6/t50dr4t12dr23ly4dr4~x2/)|
-|![Sligo example sett](/variants/s6/t50dr4t12dr23ly4dr4~x2/sett.png)|
-| [Sligo, County](/variants/s6/db50do4db12do23ly4do4~x2/)|
-|![Sligo, County example sett](/variants/s6/db50do4db12do23ly4do4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/">Port Authority of NY &amp; NJ American Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/"><img src="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/sett.png" alt="Port Authority of NY &amp; NJ American Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/db50do4db12do23ly4do4~x2/">Sligo, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db50do4db12do23ly4do4~x2/"><img src="/variants/s6/db50do4db12do23ly4do4~x2/sett.png" alt="Sligo, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

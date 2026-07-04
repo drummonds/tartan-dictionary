@@ -1,5 +1,0 @@
----
-title: "Ramsay"
-redirect: "/variants/s6/k4lb2k28r30db1r3~x2/"
----
-This sett is recorded as a single cloth — redirecting to [Ramsay](/variants/s6/k4lb2k28r30db1r3~x2/).

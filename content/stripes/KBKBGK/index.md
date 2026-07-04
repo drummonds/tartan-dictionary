@@ -22,15 +22,20 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Campbell, Sir Walter Scott](/variants/s6/k2g8db2k9p7k2~x2/)|
-|![Campbell, Sir Walter Scott example sett](/variants/s6/k2g8db2k9p7k2~x2/sett.png)|
-| [Campbell, Sir Walter Scott](/variants/s6/k2dg8db2k9dp7k2~x2/)|
-|![Campbell, Sir Walter Scott example sett](/variants/s6/k2dg8db2k9dp7k2~x2/sett.png)|
-| [Granger Family Tartan](/variants/s6/k40dt4k12dt21g17k4~x2/)|
-|![Granger Family Tartan example sett](/variants/s6/k40dt4k12dt21g17k4~x2/sett.png)|
-| [Scott, Sir Walter](/variants/s6/k3g9t2k11p9k3~x2/)|
-|![Scott, Sir Walter example sett](/variants/s6/k3g9t2k11p9k3~x2/sett.png)|
-| [Scottish Football Association (Corp)](/variants/s6/k120db4k12dt36dg3k6/)|
-|![Scottish Football Association (Corp) example sett](/variants/s6/k120db4k12dt36dg3k6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k2g8db2k9dp7k2~x2/">Campbell, Sir Walter Scott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><img src="/variants/s6/k2g8db2k9dp7k2~x2/sett.png" alt="Campbell, Sir Walter Scott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/">Granger Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/"><img src="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/sett.png" alt="Granger Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/k120b4k12dt36dg3k6/">Scottish Football Association (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k120b4k12dt36dg3k6/"><img src="/variants/s6/k120b4k12dt36dg3k6/sett.png" alt="Scottish Football Association (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

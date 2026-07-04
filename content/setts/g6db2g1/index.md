@@ -1,16 +1,5 @@
 ---
 title: "Montgomery"
-date: 2023-03-18
+redirect: "/variants/s3/g6db2g1~x4/"
 ---
-The **Montgomery** tartan is one sett proportion (`g6db2g1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BGBG](/stripes/bgbg/); each scale below is its own sett page. First attested **1842**
-— its oldest sett (★) anchors the tartan as the parent.
-
-Part of the [Montgomery](/tartans/montgomery/) tartan — the named design grouping this proportion with its other setts.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×8 | [Montgomery - 1842 (VS](/variants/s4/g6db2g1~x8/) ★ | 1842 | ![Montgomery - 1842 (VS sett](/variants/s4/g6db2g1~x8/sett.png) |
-| ×4 | [Montgomery](/variants/s4/g6db2g1~x4/) | 2002 | ![Montgomery sett](/variants/s4/g6db2g1~x4/sett.png) |
+This sett is recorded as a single cloth — redirecting to [Montgomery](/variants/s3/g6db2g1~x4/).

@@ -22,7 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Western Isles (Fashion)](/variants/s12/dg9m2dp2dg3dp18dg2k2dg1k19r1db33w2~x2/)|
-|![Western Isles (Fashion) example sett](/variants/s12/dg9m2dp2dg3dp18dg2k2dg1k19r1db33w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g9r2dp2g3dp18g2k2g1k19ri1db33w2/">Western Isles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g9r2dp2g3dp18g2k2g1k19ri1db33w2/"><img src="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032-db1204274-w3600000/sett.png" alt="Western Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/">Western Isles Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/"><img src="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/sett.png" alt="Western Isles Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

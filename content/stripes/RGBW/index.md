@@ -22,9 +22,19 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Salt Spring Island](/variants/s4/r1dg6db6w1~x4/)|
-|![Salt Spring Island example sett](/variants/s4/r1dg6db6w1~x4/sett.png)|
-| [Wilson's, No 113](/variants/s4/r1g3p3w1~x4/)|
-|![Wilson's, No 113 example sett](/variants/s4/r1g3p3w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/r1g6db6w1~x4/">Salt Spring Island</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r1g6db6w1~x4/"><img src="/variants/s4/r1g6db6w1~x4/sett.png" alt="Salt Spring Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/lb6db6g6r1~x2/">Unidentified No 40</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/lb6db6g6r1~x2/"><img src="/variants/s4/lb6db6g6r1~x2/sett.png" alt="Unidentified No 40 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/r1g3dp3w1~x4/">Wilson's, No 113</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r1g3dp3w1~x4/"><img src="/variants/s4/r1g3dp3w1~x4/sett.png" alt="Wilson's, No 113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

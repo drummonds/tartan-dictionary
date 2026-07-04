@@ -22,11 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Allanton Dress (Fashion)](/variants/s6/g4w28db14ly2t17g4~x2/)|
-|![Allanton Dress (Fashion) example sett](/variants/s6/g4w28db14ly2t17g4~x2/sett.png)|
-| [Manx Dress](/variants/s6/g4w28dp8ly2db17g4~x2/)|
-|![Manx Dress example sett](/variants/s6/g4w28dp8ly2db17g4~x2/sett.png)|
-| [Manx, dress](/variants/s6/g4w28p8ly2db17g4~x2/)|
-|![Manx, dress example sett](/variants/s6/g4w28p8ly2db17g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/g20dr10ly2db100w1y10/">Ravetta (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g20dr10ly2db100w1y10/"><img src="/variants/s6/g20dr10ly2db100w1y10/sett.png" alt="Ravetta (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

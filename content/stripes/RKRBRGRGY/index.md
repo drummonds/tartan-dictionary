@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Oliver Dress (Red)](/variants/s9/r15k1r1n5r1g1r1g1lo1~x8/)|
-|![Oliver Dress (Red) example sett](/variants/s9/r15k1r1n5r1g1r1g1lo1~x8/sett.png)|
-| [Oliver, dress](/variants/s9/r40k3r2db12r2g2r2g2ly3~x2/)|
-|![Oliver, dress example sett](/variants/s9/r40k3r2db12r2g2r2g2ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/">Oliver Dress (Red)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/"><img src="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/sett.png" alt="Oliver Dress (Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/">Oliver, Red (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/"><img src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="Oliver, Red (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

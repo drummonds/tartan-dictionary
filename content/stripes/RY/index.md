@@ -22,7 +22,12 @@ It is a 2 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Roddy "Rowdy" Piper (Personal)](/variants/s2/r9lr1~x20/)|
-|![Roddy "Rowdy" Piper (Personal) example sett](/variants/s2/r9lr1~x20/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+</tbody>
+</table>
+

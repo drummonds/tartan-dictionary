@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Brabender](/variants/s8/k1g4r1k4db1k1db7g1~x6/)|
-|![Brabender example sett](/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/">Brabender</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><img src="/variants/s8/k1g4r1k4db1k1db7g1~x6/sett.png" alt="Brabender sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

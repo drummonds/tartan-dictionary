@@ -37,6 +37,11 @@ The look of the site is carried by its own **TartanDictionary** theme, which is 
 Hugo theme that inspired it. With thanks to Rainer, and to Niklas Buschmann's
 [contrast](https://github.com/niklasbuschmann/contrast-hugo) before it.
 
+## Glossary
+
+The vocabulary used across the site — sett, pattern, variant, ΔTartan, family, seat and the rest —
+is collected in the [glossary of terms](/glossary/).
+
 ## Sources and useful links
 
 - [Scottish Tartan Register][]

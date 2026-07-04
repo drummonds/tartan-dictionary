@@ -22,11 +22,19 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacHardy](/variants/s8/db3r3g18db16w2db26r3g3~x2/)|
-|![MacHardy example sett](/variants/s8/db3r3g18db16w2db26r3g3~x2/sett.png)|
-| [MacHardy (Clan)](/variants/s8/dt6r3g26dt26w2dt27r5g5~x2/)|
-|![MacHardy (Clan) example sett](/variants/s8/dt6r3g26dt26w2dt27r5g5~x2/sett.png)|
-| [MacHardy, Blue](/variants/s8/db6r3g26db26w4db26r5g5~x2/)|
-|![MacHardy, Blue example sett](/variants/s8/db6r3g26db26w4db26r5g5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/">MacHardy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><img src="/variants/s8/db3r3g18db16w2db26r3g3~x2/sett.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/">MacHardy, Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><img src="/variants/s8/db6r3g26db26w4db26r5g5~x2/sett.png" alt="MacHardy, Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/">MacHardy (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/"><img src="/variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/sett.png" alt="MacHardy (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

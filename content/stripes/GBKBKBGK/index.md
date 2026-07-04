@@ -22,9 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Keith Clan](/variants/s8/g9b4k4b3k4b4g9k2~x4/)|
-|![Keith Clan example sett](/variants/s8/g9b4k4b3k4b4g9k2~x4/sett.png)|
-| [Wilson's No.173](/variants/s8/dg6dp3ki3dp3ki3dp3dg6k2~x2/)|
-|![Wilson's No.173 example sett](/variants/s8/dg6dp3ki3dp3ki3dp3dg6k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/">Keith Clan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/"><img src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="Keith Clan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/">Wilson's No.173</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/"><img src="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/sett.png" alt="Wilson's No.173 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

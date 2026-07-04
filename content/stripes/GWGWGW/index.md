@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Erskine Green](/variants/s6/dg6w2dg29w29dg2w6~x2/)|
-|![Erskine Green example sett](/variants/s6/dg6w2dg29w29dg2w6~x2/sett.png)|
-| [Erskine, Green (Dance)](/variants/s6/g6w2g29w29g2w6~x2/)|
-|![Erskine, Green (Dance) example sett](/variants/s6/g6w2g29w29g2w6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/g6w2g29w29g2w6~x2/">Erskine, Green (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g6w2g29w29g2w6~x2/"><img src="/variants/s6/g6w2g29w29g2w6~x2/sett.png" alt="Erskine, Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sutherland Dress (Dance)](/variants/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/)|
-|![Sutherland Dress (Dance) example sett](/variants/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/">Sutherland Dress (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/"><img src="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/sett.png" alt="Sutherland Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

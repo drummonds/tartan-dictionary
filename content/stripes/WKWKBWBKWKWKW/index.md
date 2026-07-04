@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Poulter, Grey (Corporate)](/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/)|
-|![Poulter, Grey (Corporate) example sett](/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/">Poulter, Grey (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/"><img src="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/sett.png" alt="Poulter, Grey (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

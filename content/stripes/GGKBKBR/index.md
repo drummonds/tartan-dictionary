@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bennett, John Paul (Personal)](/variants/s7/r4n38k4n6k41dg62y4/)|
-|![Bennett, John Paul (Personal) example sett](/variants/s7/r4n38k4n6k41dg62y4/sett.png)|
-| [Heritage (Corporate)](/variants/s7/r5db8k5db24k24yi24y5~x2/)|
-|![Heritage (Corporate) example sett](/variants/s7/r5db8k5db24k24yi24y5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/">Heritage (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><img src="/variants/s7/r5db8k5db24k24dg24y5~x2/sett.png" alt="Heritage (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

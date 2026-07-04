@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ronald, Clan (Clan)](/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/)|
-|![Ronald, Clan (Clan) example sett](/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/">Ronald, Clan (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><img src="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/sett.png" alt="Ronald, Clan (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

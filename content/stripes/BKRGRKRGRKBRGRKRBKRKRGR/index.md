@@ -22,9 +22,14 @@ It is a 23 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Comyn / Cumming, Buchan](/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/)|
-|![Comyn / Cumming, Buchan example sett](/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/sett.png)|
-| [Cumming/Comyn/Buchan](/variants/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/)|
-|![Cumming/Comyn/Buchan example sett](/variants/s23/r6dg6r1k8r1k1db1r1k8r1dg6r6db1k6r1dg8r1k1r1dg8r1k6db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/">Cumming/Comyn/Buchan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><img src="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/sett.png" alt="Cumming/Comyn/Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

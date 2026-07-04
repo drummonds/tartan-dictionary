@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Mahony, The](/variants/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/)|
-|![O'Mahony, The example sett](/variants/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/g2r2g18o6db40ly1db1ly4w2ly4db1ly1db40o6g18r2g2w1~x2~g2408144-o2500000-db1204274/">O'Mahony, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/g2r2g18o6db40ly1db1ly4w2ly4db1ly1db40o6g18r2g2w1~x2~g2408144-o2500000-db1204274/"><img src="/variants/s18/g2r2g18o6db40ly1db1ly4w2ly4db1ly1db40o6g18r2g2w1~x2~g2408144-o2500000-db1204274/sett.png" alt="O'Mahony, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

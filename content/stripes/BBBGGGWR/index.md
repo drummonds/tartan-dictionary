@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Reid (Mill City) (Name)](/variants/s8/db11dbii11dbi11g11gi11dg11w3r5~x2/)|
-|![Reid (Mill City) (Name) example sett](/variants/s8/db11dbii11dbi11g11gi11dg11w3r5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dbi11db11dbii11g11dgi11dg11w3r5~x2~dbi1106275-db1004274-dbii1406275-g2408144-dgi1806142/">Reid (Mill City) (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dbi11db11dbii11g11dgi11dg11w3r5~x2~dbi1106275-db1004274-dbii1406275-g2408144-dgi1806142/"><img src="/variants/s8/dbi11db11dbii11g11dgi11dg11w3r5~x2~dbi1106275-db1004274-dbii1406275-g2408144-dgi1806142/sett.png" alt="Reid (Mill City) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

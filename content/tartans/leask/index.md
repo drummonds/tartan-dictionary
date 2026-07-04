@@ -2,6 +2,7 @@
 title: "Leask"
 date: 2023-03-18
 ---
+Its design is pattern [GGRGGGGGRKRWRG](/stripes/ggrgggggrkrwrg/) — the page of every tartan sharing this colour sequence.
 
 Designed in 1981 by Madam Leask and the Scottish Tartans Society for the Leask family.
 
@@ -9,12 +10,12 @@ The **Leask** tartan groups 2 setts — the same named design recorded as differ
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4/">Leask</a> ★</td><td><code>LY/8 G6 R4 G24 LY4 G6 LY4 G24 R48 K2 R4 W2 R4 G/8</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4/"><img src="/variants/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/sett.png" alt="Leask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2/">Leask</a></td><td><code>LY/4 G6 R4 G24 LY4 G6 LY4 G24 R48 K2 R4 W2 R4 G/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2/"><img src="/variants/s14/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2~x2/sett.png" alt="Leask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y4g3r2g12y2g3y2g12r24k1r2w1r2g4/">Leask</a> ★</td><td><code>Y/8 G6 R4 G24 Y4 G6 Y4 G24 R48 K2 R4 W2 R4 G/8</code></td><td>280</td><td>1981</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4g3r2g12y2g3y2g12r24k1r2w1r2g4/"><img src="/variants/s14/y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2/sett.png" alt="Leask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y2g3r2g12y2g3y2g12r24k1r2w1r2g2/">Leask</a></td><td><code>Y/4 G6 R4 G24 Y4 G6 Y4 G24 R48 K2 R4 W2 R4 G/4</code></td><td>272</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/y2g3r2g12y2g3y2g12r24k1r2w1r2g2/"><img src="/variants/s14/y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2/sett.png" alt="Leask sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,9 +22,38 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hebridean Cairn Fashion Tartan](/variants/s8/n2y3n3y3n10y2n18y1~x4/)|
-|![Hebridean Cairn Fashion Tartan example sett](/variants/s8/n2y3n3y3n10y2n18y1~x4/sett.png)|
-| [Lochleven (Dance)](/variants/s8/db48dg6db3dg6db6dg4db2dg10~x2/)|
-|![Lochleven (Dance) example sett](/variants/s8/db48dg6db3dg6db6dg4db2dg10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/">Devarr (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/"><img src="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/sett.png" alt="Devarr (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dt2y3dt3y3dt10y2dt18y1~x4~dt1600000/">Hebridean Cairn Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dt2y3dt3y3dt10y2dt18y1~x4~dt1600000/"><img src="/variants/s8/dt2y3dt3y3dt10y2dt18y1~x4~dt1600000/sett.png" alt="Hebridean Cairn Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/">Hector, James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/"><img src="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/sett.png" alt="Hector, James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/dr100dg4dr8dg18dr3~x2/">KaDeWe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dr100dg4dr8dg18dr3~x2/"><img src="/variants/s5/dr100dg4dr8dg18dr3~x2/sett.png" alt="KaDeWe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/">Land's End Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><img src="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/sett.png" alt="Land's End Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/">Land's End, Blue (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><img src="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/sett.png" alt="Land's End, Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/">Lochleven (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/"><img src="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/sett.png" alt="Lochleven (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/y6p2y24p6y2p21y2p6~x2/">MacLachlan (Chief's Dress) Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/y6p2y24p6y2p21y2p6~x2/"><img src="/variants/s8/y6p2y24p6y2p21y2p6~x2/sett.png" alt="MacLachlan (Chief's Dress) Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/">Marist School, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><img src="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/sett.png" alt="Marist School, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

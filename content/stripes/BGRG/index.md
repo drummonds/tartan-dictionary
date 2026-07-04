@@ -22,13 +22,23 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [13, Irish Regiment](/variants/s4/y100o26dg3dr2/)|
-|![13, Irish Regiment example sett](/variants/s4/y100o26dg3dr2/sett.png)|
-| [Highland Spring (1997) (Corporate)](/variants/s4/dp7g23r3g7~x2/)|
-|![Highland Spring (1997) (Corporate) example sett](/variants/s4/dp7g23r3g7~x2/sett.png)|
-| [Wilson's No.188](/variants/s4/g2r4g2t1~x4/)|
-|![Wilson's No.188 example sett](/variants/s4/g2r4g2t1~x4/sett.png)|
-| [Wilson's No.207](/variants/s4/g2r2g2t1~x4/)|
-|![Wilson's No.207 example sett](/variants/s4/g2r2g2t1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/y100o26dg3b2/">13, Irish Regiment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/y100o26dg3b2/"><img src="/variants/s4/y100o26dg3b2/sett.png" alt="13, Irish Regiment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dp7g23r3g7~x2/">Highland Spring (1997) (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dp7g23r3g7~x2/"><img src="/variants/s4/dp7g23r3g7~x2/sett.png" alt="Highland Spring (1997) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dr7g23r3g7~x2/">Highland Spring (Green)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dr7g23r3g7~x2/"><img src="/variants/s4/dr7g23r3g7~x2/sett.png" alt="Highland Spring (Green) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/dp4g10r1y1/">Wilson's No.192</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dp4g10r1y1/"><img src="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/sett.png" alt="Wilson's No.192 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

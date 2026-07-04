@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Heriot Watt University](/variants/s18/b32db1dg16r2dg2dt18b4lo1dg5lo1b4dt18dg2r2dg16db1b32dt3~x2/)|
-|![Heriot Watt University example sett](/variants/s18/b32db1dg16r2dg2dt18b4lo1dg5lo1b4dt18dg2r2dg16db1b32dt3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/">Heriot Watt University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/"><img src="/variants/s18/t32db1dg16r2dg2dt18t4lo1dg5lo1t4dt18dg2r2dg16db1t32dt3~x2~dg1605139/sett.png" alt="Heriot Watt University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

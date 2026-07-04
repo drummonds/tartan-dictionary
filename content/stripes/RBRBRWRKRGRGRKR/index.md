@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Drummond C](/variants/s15/r3k1r1dg6r1dg1r1k2r1lb1r6db1r1db1r3/)|
-|![Drummond C example sett](/variants/s15/r3k1r1dg6r1dg1r1k2r1lb1r6db1r1db1r3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/">Drummond C</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/"><img src="/variants/s15/r3k1r1g6r1g1r1k2r1w1r6db1r1db1r3/sett.png" alt="Drummond C sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

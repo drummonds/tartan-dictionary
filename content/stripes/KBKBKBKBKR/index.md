@@ -22,9 +22,17 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Slanj](/variants/s10/k28b3k3b25k3b25k3b3k28m4~x2/)|
-|![Slanj example sett](/variants/s10/k28b3k3b25k3b25k3b3k28m4~x2/sett.png)|
-| [Witches' Blood, The](/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/)|
-|![Witches' Blood, The example sett](/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/">Slanj</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/"><img src="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/sett.png" alt="Slanj sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/">Witches' Blood, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><img src="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/sett.png" alt="Witches' Blood, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

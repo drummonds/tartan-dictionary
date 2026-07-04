@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Heart of Oak](/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/)|
-|![Heart of Oak example sett](/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/">Heart of Oak</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><img src="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/sett.png" alt="Heart of Oak sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

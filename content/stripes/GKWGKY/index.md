@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Brandon, Manitoba](/variants/s6/y83k35w3g35k3ly10/)|
-|![Brandon, Manitoba example sett](/variants/s6/y83k35w3g35k3ly10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/">Brandon, Manitoba</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><img src="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/sett.png" alt="Brandon, Manitoba sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

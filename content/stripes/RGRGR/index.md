@@ -22,15 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [KaDeWe (Corporate)](/variants/s5/r100dg4r8dg18r3~x2/)|
-|![KaDeWe (Corporate) example sett](/variants/s5/r100dg4r8dg18r3~x2/sett.png)|
-| [MacNab #4](/variants/s5/ri86dg3r3dg6r85~x2/)|
-|![MacNab #4 example sett](/variants/s5/ri86dg3r3dg6r85~x2/sett.png)|
-| [MacNab 2](/variants/s5/r86g3ri3g6ri85~x2/)|
-|![MacNab 2 example sett](/variants/s5/r86g3ri3g6ri85~x2/sett.png)|
-| [Pearson](/variants/s5/o3g14oi1g14o3~x4/)|
-|![Pearson example sett](/variants/s5/o3g14oi1g14o3~x4/sett.png)|
-| [Unnamed Brown (Teddy Bear)](/variants/s5/r1dy7o25dy7r1~x2/)|
-|![Unnamed Brown (Teddy Bear) example sett](/variants/s5/r1dy7o25dy7r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r86g3ri3g6ri85~x2~r2208029-ri2209032/">MacNab #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r86g3ri3g6ri85~x2~r2208029-ri2209032/"><img src="/variants/s5/r86g3ri3g6ri85~x2~r2208029-ri2209032/sett.png" alt="MacNab #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/">Pearson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/"><img src="/variants/s5/oi3g14o1g14oi3~x4~oi2104058-o2102055/sett.png" alt="Pearson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

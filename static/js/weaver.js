@@ -2,9 +2,11 @@
  * smaller jobs. The editor page boots the Go WASM tartan engine and is where tartans are woven
  * from scratch, varied shade by shade, and explored through their ΔTartan nearest neighbours —
  * arriving with #slug=<slug> opens that variant for editing (/ttd/ itself is the prose landing
- * page; it forwards any old #slug= address here). On the 404 app-shell, any /setts/s<n>/<slug>/
- * URL that has no static page is woven read-only — the slug alone encodes the whole cloth — and
- * the old .../edit/ and /setts/new/ addresses forward to the TTD editor. On static variant pages
+ * page; it forwards any old #slug= address here). On the 404 app-shell, a stale variant URL
+ * first heals to its canonical form and redirects there when that page exists (the client-side
+ * replacement for build-time alias stubs — the site is alpha, URLs move); any /variants/ URL
+ * with no static page is woven read-only — the slug alone encodes the whole cloth — and the
+ * old .../edit/ and /setts/new/ addresses forward to the TTD editor. On static variant pages
  * the script only hydrates the print controls; the pages must read exactly as they do without it.
  * Posts carrying a {{< collection_poster >}} shortcode get "Print collection poster: A4 A3 A2"
  * controls the same way — the poster is woven at print resolution on first click.
@@ -291,8 +293,20 @@
         status(shell, 'This sett address could not be read: ' + info.error);
         return;
       }
-      ed.shell = shell; ed.ttd = false; ed.base = ''; ed.slug = info.slug; ed.palette = {}; ed.name = '';
-      renderEditor();
+      var weave = function () {
+        ed.shell = shell; ed.ttd = false; ed.base = ''; ed.slug = info.slug; ed.palette = {}; ed.name = '';
+        renderEditor();
+      };
+      // A stale address (an old identity migration's URL) heals to its canonical form; when THAT
+      // page exists, go there — the client-side replacement for build-time alias stubs. Only when
+      // no static page answers is the cloth woven read-only in place.
+      if (info.corrected && info.path && info.path !== location.pathname) {
+        fetch(info.path, { method: 'HEAD' }).then(function (r) {
+          if (r.ok) { location.replace(info.path); } else { weave(); }
+        }).catch(weave);
+        return;
+      }
+      weave();
     });
   }
 
@@ -542,6 +556,17 @@
     });
     marks.forEach(function (m) { dot(m.x, m.y, 4, '#3465a4'); });
     dot(sx(nn.x), sy(nn.y), 5, '#c00000');
+
+    // Axis labels: the two principal components read as ground (PC1, x) × complexity (PC2, y).
+    ctx.fillStyle = '#999';
+    ctx.font = '11px sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText('ground', W / 2, H - 4);
+    ctx.save();
+    ctx.translate(11, H / 2);
+    ctx.rotate(-Math.PI / 2);
+    ctx.fillText('complexity', 0, 0);
+    ctx.restore();
 
     function markAt(ev) {
       var r = canvas.getBoundingClientRect();

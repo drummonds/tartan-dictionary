@@ -22,11 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dundee F.C.](/variants/s10/db6w4db3w6db8ly3db52ly3db8r4/)|
-|![Dundee F.C. example sett](/variants/s10/db6w4db3w6db8ly3db52ly3db8r4/sett.png)|
-| [Dundee F.C. Corporate Tartan](/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/)|
-|![Dundee F.C. Corporate Tartan example sett](/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/sett.png)|
-| [Dundee Football Club](/variants/s10/dt3lb2dt2lb3dt6ly2dt26ly2dt6r2~x2/)|
-|![Dundee Football Club example sett](/variants/s10/dt3lb2dt2lb3dt6ly2dt26ly2dt6r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/">Dundee F.C. Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><img src="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/sett.png" alt="Dundee F.C. Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s16/r12g6k6g2k1g1k6r24w2~x2/"><img src="/variants/s16/r12g6k6g2k1g1k6r24w2~x2/sett.png" alt="Hunter of Bute (Personal)" width="240"><br>Hunter of Bute (Personal)</a>
+<a class="tartan" href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><img src="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/sett.png" alt="Hunter of Bute (Personal)" width="240"><br>Hunter of Bute (Personal)</a>
 
 ## Families
 

@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Buccleuch (Fashion)](/variants/s8/lo15k1lo2k1lo2k10y14w2~x2/)|
-|![Buccleuch (Fashion) example sett](/variants/s8/lo15k1lo2k1lo2k10y14w2~x2/sett.png)|
-| [Buccleuch Weavers Tartan](/variants/s8/lo15k1lo2k1lo2k10dy14w2~x2/)|
-|![Buccleuch Weavers Tartan example sett](/variants/s8/lo15k1lo2k1lo2k10dy14w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/">Buccleuch (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/"><img src="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/sett.png" alt="Buccleuch (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

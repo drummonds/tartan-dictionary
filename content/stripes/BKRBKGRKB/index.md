@@ -22,11 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacNaughton](/variants/s9/t2k2r27dg27k12t12r27k2t2~x2/)|
-|![MacNaughton example sett](/variants/s9/t2k2r27dg27k12t12r27k2t2~x2/sett.png)|
-| [Montrose](/setts/b2k2r14dg15k8b7r14k2b2/)|
-|![Montrose example sett](/variants/s9/b2k2r14dg15k8b7r14k2b2/sett.png)|
-| [Montrose](/setts/db1k1r12g12k6db5r12k1db1/)|
-|![Montrose example sett](/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/">Montrose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><img src="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png" alt="Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

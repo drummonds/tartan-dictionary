@@ -22,15 +22,20 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Brotherhood of the Kilt](/variants/s5/k10y4k1t2r1~x10/)|
-|![Brotherhood of the Kilt example sett](/variants/s5/k10y4k1t2r1~x10/sett.png)|
-| [Denholm (Fashion)](/variants/s5/k5g20k18db20r5~x2/)|
-|![Denholm (Fashion) example sett](/variants/s5/k5g20k18db20r5~x2/sett.png)|
-| [Denholme](/variants/s5/k2g8k7db8r2~x2/)|
-|![Denholme example sett](/variants/s5/k2g8k7db8r2~x2/sett.png)|
-| [Durham](/variants/s5/k4g8k7db8r4~x2/)|
-|![Durham example sett](/variants/s5/k4g8k7db8r4~x2/sett.png)|
-| [Durham District Tartan](/variants/s5/k1g3k3db3r1~x4/)|
-|![Durham District Tartan example sett](/variants/s5/k1g3k3db3r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k5g20k18db20r5~x2/">Denholm (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k5g20k18db20r5~x2/"><img src="/variants/s5/k5g20k18db20r5~x2/sett.png" alt="Denholm (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k2g8k7db8r2~x2/">Denholme</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k2g8k7db8r2~x2/"><img src="/variants/s5/k2g8k7db8r2~x2/sett.png" alt="Denholme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k4g8k7db8r4~x2/">Durham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k4g8k7db8r4~x2/"><img src="/variants/s5/k4g8k7db8r4~x2/sett.png" alt="Durham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1g3k3db3r1~x4/">Durham District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k1g3k3db3r1~x4/"><img src="/variants/s5/k1g3k3db3r1~x4/sett.png" alt="Durham District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

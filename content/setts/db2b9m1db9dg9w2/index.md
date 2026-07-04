@@ -1,5 +1,0 @@
----
-title: "American Express"
-redirect: "/variants/s6/db2b9m1db9dg9w2~x4/"
----
-This sett is recorded as a single cloth — redirecting to [American Express](/variants/s6/db2b9m1db9dg9w2~x4/).

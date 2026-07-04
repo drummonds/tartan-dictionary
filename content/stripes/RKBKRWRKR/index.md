@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Heart of the Highlands](/variants/s9/o18k3o4lb3o4k18n20k2m4~x2/)|
-|![Heart of the Highlands example sett](/variants/s9/o18k3o4lb3o4k18n20k2m4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/">Heart of the Highlands</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><img src="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/sett.png" alt="Heart of the Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

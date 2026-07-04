@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [London Scottish Rugby Club Corporate Sport Tartan](/variants/s10/g8dt13w1dt40r5dt40w1dt13g8k4~x2/)|
-|![London Scottish Rugby Club Corporate Sport Tartan example sett](/variants/s10/g8dt13w1dt40r5dt40w1dt13g8k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g8db13w1db40r5db40w1db13g8k4~x2/">London Scottish Rugby Club Corporate Sport Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g8db13w1db40r5db40w1db13g8k4~x2/"><img src="/variants/s10/g8db13w1db40r5db40w1db13g8k4~x2/sett.png" alt="London Scottish Rugby Club Corporate Sport Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

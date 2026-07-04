@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Vorwerk, The](/variants/s9/g40dbi8g8lp8db5lp13k9g40r4/)|
-|![Vorwerk, The example sett](/variants/s9/g40dbi8g8lp8db5lp13k9g40r4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/">Vorwerk, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/"><img src="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/sett.png" alt="Vorwerk, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

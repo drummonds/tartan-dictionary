@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Reilly (Estimated threadcount)](/variants/s9/r4b3lr2k2lr12k2db10t25w2~x2/)|
-|![O'Reilly (Estimated threadcount) example sett](/variants/s9/r4b3lr2k2lr12k2db10t25w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/">O'Reilly (Estimated threadcount)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/"><img src="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/sett.png" alt="O'Reilly (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

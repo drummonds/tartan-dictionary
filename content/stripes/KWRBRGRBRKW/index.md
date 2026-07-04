@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hoben (Personal)](/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/)|
-|![Hoben (Personal) example sett](/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/">Hoben (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><img src="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/sett.png" alt="Hoben (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

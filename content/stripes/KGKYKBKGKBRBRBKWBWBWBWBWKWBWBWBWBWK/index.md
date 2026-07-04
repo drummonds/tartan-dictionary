@@ -22,7 +22,14 @@ It is a 35 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Malcolm Dress (Lochcarron 2005)](/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/)|
-|![Malcolm Dress (Lochcarron 2005) example sett](/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/">Malcolm Dress (Lochcarron 2005)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/"><img src="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/sett.png" alt="Malcolm Dress (Lochcarron 2005) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

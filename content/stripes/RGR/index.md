@@ -22,9 +22,14 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Moncreiffe D](/setts/r1dg1r1/)|
-|![Moncreiffe D example sett](/variants/s3/r1dg1r1/sett.png)|
-| [Outlander #5](/variants/s3/o13dy15o2~x4/)|
-|![Outlander #5 example sett](/variants/s3/o13dy15o2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r1g1r1/">Moncreiffe D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r1g1r1/"><img src="/variants/s3/r1g1r1/sett.png" alt="Moncreiffe D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

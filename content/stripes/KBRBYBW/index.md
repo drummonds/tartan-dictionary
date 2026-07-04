@@ -22,11 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wishart Dress (Clan)](/variants/s7/k7dbi4r31db3ly2db27lb4~x2/)|
-|![Wishart Dress (Clan) example sett](/variants/s7/k7dbi4r31db3ly2db27lb4~x2/sett.png)|
-| [Wishart Dress Family Tartan](/variants/s7/k2dbi2r16db2ly1db13w2~x2/)|
-|![Wishart Dress Family Tartan example sett](/variants/s7/k2dbi2r16db2ly1db13w2~x2/sett.png)|
-| [Wishart, dress](/variants/s7/k2db2r16dbi2ly1dbi13w2~x2/)|
-|![Wishart, dress example sett](/variants/s7/k2db2r16dbi2ly1dbi13w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/">Wishart Dress (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/"><img src="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/sett.png" alt="Wishart Dress (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

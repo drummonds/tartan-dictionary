@@ -22,11 +22,17 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDougal 4](/variants/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/)|
-|![MacDougal 4 example sett](/variants/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/sett.png)|
-| [MacDougall](/setts/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/)|
-|![MacDougall example sett](/variants/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/sett.png)|
-| [MacDougall VS](/setts/n4dg8db6n8r6dg2r2dg2r24dg1r3/)|
-|![MacDougall VS example sett](/variants/s11/n4dg8db6n8r6dg2r2dg2r24dg1r3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/">MacDougall</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><img src="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/sett.png" alt="MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/dr4g8db6dr8r6g2r2g2r24g1r3/">MacDougall VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dr4g8db6dr8r6g2r2g2r24g1r3/"><img src="/variants/s11/dr4g8db6dr8r6g2r2g2r24g1r3/sett.png" alt="MacDougall VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

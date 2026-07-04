@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKillen](/variants/s9/k4lo15dg5k3dg7k3dg30r20dg3~x2/)|
-|![MacKillen example sett](/variants/s9/k4lo15dg5k3dg7k3dg30r20dg3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/">MacKillen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><img src="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/sett.png" alt="MacKillen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

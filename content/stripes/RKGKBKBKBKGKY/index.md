@@ -22,13 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacEwan](/variants/s13/r2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/)|
-|![MacEwan example sett](/variants/s13/r2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/sett.png)|
-| [MacEwan](/variants/s13/r4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/)|
-|![MacEwan example sett](/variants/s13/r4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/sett.png)|
-| [MacEwen / MacEwan](/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/)|
-|![MacEwen / MacEwan example sett](/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/sett.png)|
-| [MacEwen/MacEwan](/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/)|
-|![MacEwen/MacEwan example sett](/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/">MacEwen/MacEwan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><img src="/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/sett.png" alt="MacEwen/MacEwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

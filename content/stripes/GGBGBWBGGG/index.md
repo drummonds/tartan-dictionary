@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacScott Family (America) (Personal)](/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/)|
-|![MacScott Family (America) (Personal) example sett](/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/">MacScott Family (America) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/"><img src="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png" alt="MacScott Family (America) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Quigley of Knockcroghery Htg (Per.)](/variants/s11/b27w2b15ly1b1ly1b15k2w2y16r1~x2/)|
-|![Quigley of Knockcroghery Htg (Per.) example sett](/variants/s11/b27w2b15ly1b1ly1b15k2w2y16r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/">Quigley of Knockcroghery Htg (Per.)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><img src="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/sett.png" alt="Quigley of Knockcroghery Htg (Per.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

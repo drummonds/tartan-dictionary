@@ -22,7 +22,14 @@ It is a 35 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified 'Old tartan'](/variants/s35/db6dg6k3dg3k3dg3k3dg15r9dg6db3k9db3dg6r9dg15k3dg3k3dg3k3dg6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/)|
-|![Unidentified 'Old tartan' example sett](/variants/s35/db6dg6k3dg3k3dg3k3dg15r9dg6db3k9db3dg6r9dg15k3dg3k3dg3k3dg6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/">Unidentified 'Old tartan'</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/"><img src="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3~x2/sett.png" alt="Unidentified 'Old tartan' sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,16 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified Plaid 2](/variants/s14/dp48dg13dp2dg7dp2dg7dp2dg11dp50n11dp2n7dp2n7~x2/)|
-|![Unidentified Plaid 2 example sett](/variants/s14/dp48dg13dp2dg7dp2dg7dp2dg11dp50n11dp2n7dp2n7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/">Unidentified Plaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/sett.png" alt="Unidentified Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/">Unidentified Plaid 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><img src="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/sett.png" alt="Unidentified Plaid 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

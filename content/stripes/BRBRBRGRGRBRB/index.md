@@ -22,9 +22,17 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Watch (Band Plaid)](/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/)|
-|![Black Watch (Band Plaid) example sett](/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/sett.png)|
-| [Tyneside, Scottish](/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/)|
-|![Tyneside, Scottish example sett](/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/">Black Watch (Band Plaid)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><img src="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/sett.png" alt="Black Watch (Band Plaid) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/">Tyneside, Scottish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><img src="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/sett.png" alt="Tyneside, Scottish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

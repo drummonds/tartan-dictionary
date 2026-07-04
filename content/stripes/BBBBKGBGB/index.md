@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Laois](/variants/s9/dr20db2dr5db5k18g5dr5g2dr15~x2/)|
-|![Laois example sett](/variants/s9/dr20db2dr5db5k18g5dr5g2dr15~x2/sett.png)|
-| [Laois, County](/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/)|
-|![Laois, County example sett](/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/">Laois</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><img src="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/sett.png" alt="Laois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/">Laois, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><img src="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/sett.png" alt="Laois, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,13 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cochrane](/variants/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/)|
-|![Cochrane example sett](/variants/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/sett.png)|
-| [Cochrane](/setts/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2/)|
-|![Cochrane example sett](/variants/s15/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2/sett.png)|
-| [Cochrane](/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/)|
-|![Cochrane example sett](/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/sett.png)|
-| [Cochrane (1984) Clan Tartan](/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4ly3~x2/)|
-|![Cochrane (1984) Clan Tartan example sett](/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/">Cochrane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/"><img src="/variants/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/sett.png" alt="Cochrane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

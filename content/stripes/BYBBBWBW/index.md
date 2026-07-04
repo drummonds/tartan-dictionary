@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [PSN Test](/variants/s8/db25lo1db6b1db6lb4t3w1~x4/)|
-|![PSN Test example sett](/variants/s8/db25lo1db6b1db6lb4t3w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/">PSN Test</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/"><img src="/variants/s8/db25lo1db6t1db6lb4ti3w1~x4~db1607278-ti2404245/sett.png" alt="PSN Test sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

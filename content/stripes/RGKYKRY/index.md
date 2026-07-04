@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Duffus Hose, Lord](/variants/s7/lo11m6k10lo10k10dy10m4~x2/)|
-|![Duffus Hose, Lord example sett](/variants/s7/lo11m6k10lo10k10dy10m4~x2/sett.png)|
-| [Duffus Lord... Portrait Tartan](/variants/s7/ly15r7k12ly12k12dy12r7~x2/)|
-|![Duffus Lord... Portrait Tartan example sett](/variants/s7/ly15r7k12ly12k12dy12r7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/">Duffus Hose, Lord</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/"><img src="/variants/s7/ly11r6k10ly10k10dy10r4~x2/sett.png" alt="Duffus Hose, Lord sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

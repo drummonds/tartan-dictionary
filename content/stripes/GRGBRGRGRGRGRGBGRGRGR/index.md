@@ -22,9 +22,14 @@ It is a 21 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Matheson Hunting (STS incomplete sett)](/variants/s21/r8dg3r1dg1r1dg22db8dg3r1dg1r1dg3r6dg1r1dg1r2db6dg5r3dg4~x2/)|
-|![Matheson Hunting (STS incomplete sett) example sett](/variants/s21/r8dg3r1dg1r1dg22db8dg3r1dg1r1dg3r6dg1r1dg1r2db6dg5r3dg4~x2/sett.png)|
-| [Matheson, hunting](/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/)|
-|![Matheson, hunting example sett](/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/">Matheson Hunting (STS incomplete sett)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/"><img src="/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/sett.png" alt="Matheson Hunting (STS incomplete sett) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

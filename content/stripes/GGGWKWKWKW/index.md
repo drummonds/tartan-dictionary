@@ -22,11 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burns Check](/variants/s10/w2k2w2k2w2k2w1y1g1y1~x8/)|
-|![Burns Check example sett](/variants/s10/w2k2w2k2w2k2w1y1g1y1~x8/sett.png)|
-| [Burns Check (District)](/variants/s10/w6k6w6k6w6k6w4y3g2y2~x3/)|
-|![Burns Check (District) example sett](/variants/s10/w6k6w6k6w6k6w4y3g2y2~x3/sett.png)|
-| [Burns Check Trade Tartan](/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/)|
-|![Burns Check Trade Tartan example sett](/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/w2k2w2k2w2k2w1dy1g1dy1/">Burns Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w2k2w2k2w2k2w1dy1g1dy1/"><img src="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/sett.png" alt="Burns Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/">Burns Check (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/"><img src="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/sett.png" alt="Burns Check (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

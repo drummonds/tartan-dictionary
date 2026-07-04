@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish N. A. Business Council (Co](/variants/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/)|
-|![Scottish N. A. Business Council (Co example sett](/variants/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/">Scottish N. A. Business Council (Co</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/"><img src="/variants/s10/r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/sett.png" alt="Scottish N. A. Business Council (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

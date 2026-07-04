@@ -22,19 +22,22 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glen Lyon](/variants/s3/k8g7db8~x2/)|
-|![Glen Lyon example sett](/variants/s3/k8g7db8~x2/sett.png)|
-| [Glen Lyon (District)](/variants/s3/k5g4t3~x2/)|
-|![Glen Lyon (District) example sett](/variants/s3/k5g4t3~x2/sett.png)|
-| [Glen Lyon, or Mull (No.53)](/variants/s3/k5g3t2~x2/)|
-|![Glen Lyon, or Mull (No.53) example sett](/variants/s3/k5g3t2~x2/sett.png)|
-| [Glenlyon](/variants/s3/k8dg7db8~x2/)|
-|![Glenlyon example sett](/variants/s3/k8dg7db8~x2/sett.png)|
-| [Mull](/variants/s3/k5g4t2~x2/)|
-|![Mull example sett](/variants/s3/k5g4t2~x2/sett.png)|
-| [Wilson's No.050](/variants/s3/k5g6t1~x4/)|
-|![Wilson's No.050 example sett](/variants/s3/k5g6t1~x4/sett.png)|
-| [Wilson's No.185](/variants/s3/k11g9dp10~x2/)|
-|![Wilson's No.185 example sett](/variants/s3/k11g9dp10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/k1g22dr1~x4/">Kenmore Hunting (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k1g22dr1~x4/"><img src="/variants/s3/k1g22dr1~x4/sett.png" alt="Kenmore Hunting (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k11g16dr2~x4/">Kincaid of Kincaid (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k11g16dr2~x4/"><img src="/variants/s3/k11g16dr2~x4/sett.png" alt="Kincaid of Kincaid (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s3/k8g7db8~x2/">Glenlyon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k8g7db8~x2/"><img src="/variants/s3/k8g7db8~x2/sett.png" alt="Glenlyon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s3/k11g9dp10~x2~dp1607327/">Wilson's No.185</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k11g9dp10~x2~dp1607327/"><img src="/variants/s3/k11g9dp10~x2~dp1607327/sett.png" alt="Wilson's No.185 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

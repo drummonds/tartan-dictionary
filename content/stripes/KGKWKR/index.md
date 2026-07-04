@@ -22,9 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [London Scottish Rugby Club](/variants/s6/r5ki40w1ki13g8k4~x2/)|
-|![London Scottish Rugby Club example sett](/variants/s6/r5ki40w1ki13g8k4~x2/sett.png)|
-| [Thomson Camel (Jedburgh Mill)](/variants/s6/r4k2lb10k10y28k3~x2/)|
-|![Thomson Camel (Jedburgh Mill) example sett](/variants/s6/r4k2lb10k10y28k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/">London Scottish Rugby Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><img src="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/sett.png" alt="London Scottish Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/r4k2lb10k10y28k3~x2/">Thomson Camel (Jedburgh Mill)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r4k2lb10k10y28k3~x2/"><img src="/variants/s6/r4k2lb10k10y28k3~x2/sett.png" alt="Thomson Camel (Jedburgh Mill) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

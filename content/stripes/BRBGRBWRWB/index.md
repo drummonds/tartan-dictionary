@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kansai St Andrews Society (Corp)](/variants/s10/n33w2r3w2db14ri3g15n20r2n3~x2/)|
-|![Kansai St Andrews Society (Corp) example sett](/variants/s10/n33w2r3w2db14ri3g15n20r2n3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/">Kansai St Andrews Society (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/"><img src="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/sett.png" alt="Kansai St Andrews Society (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 78 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kinnoull](/variants/s78/dg16lb3dg9r12dg8y7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12yi33r7yi33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12yi33r7yi33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8y7-h78fd84859a2305ce/)|
-|![Kinnoull example sett](/variants/s78/dg16lb3dg9r12dg8y7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12yi33r7yi33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12yi33r7yi33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8y7-h78fd84859a2305ce/sett.png?s=dg16lb3dg9r12dg8y7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12yi33r7yi33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12yi33r7yi33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8y7dg8r12dg9lb3dg16lb2~x2)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s78/dg16lb3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r-hf3075e5a20df78da/">Kinnoull</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s78/dg16lb3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r-hf3075e5a20df78da/"><img src="/variants/s78/dg16lb3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r-hf3075e5a20df78da/sett.png?s=dg16lb3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9lb3dg16lb2~x2" alt="Kinnoull sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

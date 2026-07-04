@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sinclair](/variants/s5/r30dg12k5lb8r30/)|
-|![Sinclair example sett](/variants/s5/r30dg12k5lb8r30/sett.png)|
-| [Sinclair Dress](/variants/s5/r28dg16k4lb7r28/)|
-|![Sinclair Dress example sett](/variants/s5/r28dg16k4lb7r28/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r30g12k5w8r30/">Sinclair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r30g12k5w8r30/"><img src="/variants/s5/r30g12k5w8r30/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r28g16k4w7r28/">Sinclair Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r28g16k4w7r28/"><img src="/variants/s5/r28g16k4w7r28/sett.png" alt="Sinclair Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

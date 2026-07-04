@@ -22,7 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dunoon](/variants/s4/w2g13lo13w2~x6/)|
-|![Dunoon example sett](/variants/s4/w2g13lo13w2~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/w2g13lo13w2~x6/">Dunoon Irish Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/w2g13lo13w2~x6/"><img src="/variants/s4/w2g13lo13w2~x6/sett.png" alt="Dunoon Irish Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/lb6lo28dy20lb3~x2/">Prince of Orange Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/lb6lo28dy20lb3~x2/"><img src="/variants/s4/lb6lo28dy20lb3~x2/sett.png" alt="Prince of Orange Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

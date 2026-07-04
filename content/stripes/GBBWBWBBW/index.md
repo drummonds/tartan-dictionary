@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sibbald Blue (2014)](/variants/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/)|
-|![Sibbald Blue (2014) example sett](/variants/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/sett.png)|
-| [Sibbald Blue (2014)](/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2/)|
-|![Sibbald Blue (2014) example sett](/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dg4db22dbi6w10db3w6dp4dbi3w4/">Sibbald Blue (2014)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dg4db22dbi6w10db3w6dp4dbi3w4/"><img src="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/sett.png" alt="Sibbald Blue (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

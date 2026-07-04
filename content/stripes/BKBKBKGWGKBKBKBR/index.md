@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Semple](/variants/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/)|
-|![Semple example sett](/variants/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/">Semple</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/"><img src="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/sett.png" alt="Semple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

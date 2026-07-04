@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Blackstock Red (Dress)](/variants/s7/ly2dg7k6r11k1r1ly2~x4/)|
-|![Blackstock Red (Dress) example sett](/variants/s7/ly2dg7k6r11k1r1ly2~x4/sett.png)|
-| [Blackstock, dress](/variants/s7/ly2g7k6r12k1r1ly2~x4/)|
-|![Blackstock, dress example sett](/variants/s7/ly2g7k6r12k1r1ly2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/lo2dg7k6r11k1r1lo2/">Blackstock Red (Dress)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/lo2dg7k6r11k1r1lo2/"><img src="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/sett.png" alt="Blackstock Red (Dress) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

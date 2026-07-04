@@ -22,13 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cunningham](/variants/s7/k3r1k30r28k1r1w3~x2/)|
-|![Cunningham example sett](/variants/s7/k3r1k30r28k1r1w3~x2/sett.png)|
-| [Cunningham #2](/variants/s7/k3r2k30r28k2r2w3~x2/)|
-|![Cunningham #2 example sett](/variants/s7/k3r2k30r28k2r2w3~x2/sett.png)|
-| [Cunningham D](/variants/s7/k3r1k30r28k1r1lb3~x2/)|
-|![Cunningham D example sett](/variants/s7/k3r1k30r28k1r1lb3~x2/sett.png)|
-| [Menzies of Culdares](/variants/s7/k4r2k22r22k3r4lb2~x2/)|
-|![Menzies of Culdares example sett](/variants/s7/k4r2k22r22k3r4lb2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k3r1k30r28k1r1w3~x2/">Cunningham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k3r1k30r28k1r1w3~x2/"><img src="/variants/s7/k3r1k30r28k1r1w3~x2/sett.png" alt="Cunningham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k3r2k30r28k2r2w3~x2/">Cunningham #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><img src="/variants/s7/k3r2k30r28k2r2w3~x2/sett.png" alt="Cunningham #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

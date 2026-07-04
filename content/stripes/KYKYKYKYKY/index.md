@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hanna of Falkirk (Clan?)](/variants/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/)|
-|![Hanna of Falkirk (Clan?) example sett](/variants/s10/k9lr4k2lr4k2lr30k9lr4k14ly2~x2/sett.png)|
-| [Schranz-Gritte](/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/)|
-|![Schranz-Gritte example sett](/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/">Schranz-Gritte</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/"><img src="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/sett.png" alt="Schranz-Gritte sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

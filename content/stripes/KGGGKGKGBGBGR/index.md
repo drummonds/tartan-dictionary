@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bartlett, Chris (Personal)](/variants/s13/r4y40dt12yi2dt12y30k2y4k2y4yi2y3k3~x2/)|
-|![Bartlett, Chris (Personal) example sett](/variants/s13/r4y40dt12yi2dt12y30k2y4k2y4yi2y3k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/">Bartlett from Winnetka, Illinois</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><img src="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/sett.png" alt="Bartlett from Winnetka, Illinois sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,19 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [First](/variants/s8/dp1m4dp1m1dp12k6dt16w1~x2/)|
-|![First example sett](/variants/s8/dp1m4dp1m1dp12k6dt16w1~x2/sett.png)|
-| [Tokyo Bluebells](/variants/s8/db18r1db1r1db1k7db13w2~x4/)|
-|![Tokyo Bluebells example sett](/variants/s8/db18r1db1r1db1k7db13w2~x4/sett.png)|
-| [Tokyo Bluebells (Corporate)](/variants/s8/b18r1b1r1b1k7b13w2~x4/)|
-|![Tokyo Bluebells (Corporate) example sett](/variants/s8/b18r1b1r1b1k7b13w2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/">Tokyo Bluebells</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><img src="/variants/s8/db18r1db1r1db1k7db13w2~x4/sett.png" alt="Tokyo Bluebells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/">Tokyo Bluebells (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><img src="/variants/s8/t18r1t1r1t1k7t13w2~x4/sett.png" alt="Tokyo Bluebells (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/">First</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/"><img src="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/sett.png" alt="First sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

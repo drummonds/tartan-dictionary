@@ -22,13 +22,23 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cowie, Justine (Personal)](/variants/s3/g9k18r2~x4/)|
-|![Cowie, Justine (Personal) example sett](/variants/s3/g9k18r2~x4/sett.png)|
-| [Wilson's No.200](/variants/s3/r4k7g4~x2/)|
-|![Wilson's No.200 example sett](/variants/s3/r4k7g4~x2/sett.png)|
-| [Wilson's No.202](/variants/s3/g7k4r4~x2/)|
-|![Wilson's No.202 example sett](/variants/s3/g7k4r4~x2/sett.png)|
-| [Wilson's, No 204](/variants/s3/r10k11g9~x2/)|
-|![Wilson's, No 204 example sett](/variants/s3/r10k11g9~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/g9k18r2~x4/">Cowie, Justine (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/g9k18r2~x4/"><img src="/variants/s3/g9k18r2~x4/sett.png" alt="Cowie, Justine (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r4k7g4~x2/">Wilson's No.200</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r4k7g4~x2/"><img src="/variants/s3/r4k7g4~x2/sett.png" alt="Wilson's No.200 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/g7k4r4~x2/">Wilson's No.202</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/g7k4r4~x2/"><img src="/variants/s3/g7k4r4~x2/sett.png" alt="Wilson's No.202 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r10k11g9~x2/">Wilson's, No 204</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r10k11g9~x2/"><img src="/variants/s3/r10k11g9~x2/sett.png" alt="Wilson's, No 204 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s3/r30k10y3~x4/">Masai Shuka 20 (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r30k10y3~x4/"><img src="/variants/s3/r30k10y3~x4/sett.png" alt="Masai Shuka 20 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

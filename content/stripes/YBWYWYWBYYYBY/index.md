@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Morag](/variants/s13/lr64n4lr4lo4lr4n26lb4lo1lb2lo1lb32n2lo4~x2/)|
-|![Morag example sett](/variants/s13/lr64n4lr4lo4lr4n26lb4lo1lb2lo1lb32n2lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/lg64n4lg4ly4lg4n26w4ly1w2ly1w32n2ly4~x2/">Morag</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/lg64n4lg4ly4lg4n26w4ly1w2ly1w32n2ly4~x2/"><img src="/variants/s13/lg64n4lg4ly4lg4n26w4ly1w2ly1w32n2ly4~x2/sett.png" alt="Morag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

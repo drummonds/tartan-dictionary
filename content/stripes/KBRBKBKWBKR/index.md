@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pride of Scotland Platinum](/variants/s11/k10n2o2n2k14n2k2lp1n12k24m2~x2/)|
-|![Pride of Scotland Platinum example sett](/variants/s11/k10n2o2n2k14n2k2lp1n12k24m2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/">Pride of Scotland Platinum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/"><img src="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/sett.png" alt="Pride of Scotland Platinum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

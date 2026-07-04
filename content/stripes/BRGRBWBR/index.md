@@ -22,11 +22,19 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Chisholm](/variants/s8/r12dp2lb1dp2r3dg8r3dp1/)|
-|![Chisholm example sett](/variants/s8/r12dp2lb1dp2r3dg8r3dp1/sett.png)|
-| [Chisholm, The](/variants/s8/r12b2w1b2r3g8r3b1~x4/)|
-|![Chisholm, The example sett](/variants/s8/r12b2w1b2r3g8r3b1~x4/sett.png)|
-| [Chisholm, The](/variants/s8/r12db2w1db2r3g8r3db1~x2/)|
-|![Chisholm, The example sett](/variants/s8/r12db2w1db2r3g8r3db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r12db2w1db2r3g8r3db1/">Chisholm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r12db2w1db2r3g8r3db1/"><img src="/variants/s8/r12db2w1db2r3g8r3db1/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r12t2w1t2r3g8r3t1~x4/">Chisholm, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r12t2w1t2r3g8r3t1~x4/"><img src="/variants/s8/r12t2w1t2r3g8r3t1~x4/sett.png" alt="Chisholm, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/r12dr2w1dr2r3g8r3dr1/">Chisholm</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r12dr2w1dr2r3g8r3dr1/"><img src="/variants/s8/r12dr2w1dr2r3g8r3dr1/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

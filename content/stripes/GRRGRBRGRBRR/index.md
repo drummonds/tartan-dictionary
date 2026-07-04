@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Glenaladale](/variants/s12/ri7r2db2ri2g32ri6db12ri41g2ri5r2g5~x2/)|
-|![MacDonald of Glenaladale example sett](/variants/s12/ri7r2db2ri2g32ri6db12ri41g2ri5r2g5~x2/sett.png)|
-| [MacDougall #5](/variants/s12/ri7r2db2ri2dg32ri6db12ri41dg2ri5r2dg5~x2/)|
-|![MacDougall #5 example sett](/variants/s12/ri7r2db2ri2dg32ri6db12ri41dg2ri5r2dg5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/">MacDougall #5</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><img src="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/sett.png" alt="MacDougall #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

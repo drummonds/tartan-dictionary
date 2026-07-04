@@ -22,9 +22,16 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Campbell, Forty Second](/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/)|
-|![Campbell, Forty Second example sett](/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/sett.png)|
-| [Campbell, The 42nd Dress](/variants/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~x2/)|
-|![Campbell, The 42nd Dress example sett](/variants/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/">Campbell, Forty Second</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><img src="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/sett.png" alt="Campbell, Forty Second sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/">Campbell, The 42nd Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/"><img src="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/sett.png" alt="Campbell, The 42nd Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

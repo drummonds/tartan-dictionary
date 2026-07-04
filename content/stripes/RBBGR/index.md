@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Skibo](/variants/s5/r2g23dbi11db22r2~x2/)|
-|![Skibo example sett](/variants/s5/r2g23dbi11db22r2~x2/sett.png)|
-| [Skibo (Corporate)](/variants/s5/r2y23db11b22r2~x2/)|
-|![Skibo (Corporate) example sett](/variants/s5/r2y23db11b22r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/">Skibo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/"><img src="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2dg23db11t22r2~x2/">Skibo (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2dg23db11t22r2~x2/"><img src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="Skibo (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

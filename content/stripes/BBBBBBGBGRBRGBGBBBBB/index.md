@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Heartlands](/variants/s20/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/)|
-|![Heartlands example sett](/variants/s20/db4b1dt20db2dt2db18dg2db2dg22m2dp4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/">Heartlands</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/"><img src="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/sett.png" alt="Heartlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

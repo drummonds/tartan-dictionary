@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sidey (Dundee) Dress (Personal)](/variants/s10/db4w1k2db25k12dbi1k2r16k2lo1~x2/)|
-|![Sidey (Dundee) Dress (Personal) example sett](/variants/s10/db4w1k2db25k12dbi1k2r16k2lo1~x2/sett.png)|
-| [Sidey Dress Tartan (Name)](/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/)|
-|![Sidey Dress Tartan (Name) example sett](/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/">Sidey (Dundee) Dress (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><img src="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/sett.png" alt="Sidey (Dundee) Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/">Sidey Dress Tartan (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><img src="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/sett.png" alt="Sidey Dress Tartan (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

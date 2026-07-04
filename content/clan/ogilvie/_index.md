@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s14/db28ly1db2k26g24k1g2r3~x2/"><img src="/variants/s14/db28ly1db2k26g24k1g2r3~x2/sett.png" alt="Ogilvie of Inverarity (V.S.)" width="240"><br>Ogilvie of Inverarity (V.S.)</a>
+<a class="tartan" href="/variants/s8/db28y1db2k26g24k1g2r3~x2/"><img src="/variants/s8/db28y1db2k26g24k1g2r3~x2/sett.png" alt="Ogilvie of Inverarity (V.S.)" width="240"><br>Ogilvie of Inverarity (V.S.)</a>
 
 ## Families
 

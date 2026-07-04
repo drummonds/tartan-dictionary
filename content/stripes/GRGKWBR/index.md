@@ -22,11 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rhun (Fashion)](/variants/s7/r12db68w7k39g75r6g6/)|
-|![Rhun (Fashion) example sett](/variants/s7/r12db68w7k39g75r6g6/sett.png)|
-| [Sinclair Hunting](/variants/s7/dg2r1dg30k16lb1db16r2~x2/)|
-|![Sinclair Hunting example sett](/variants/s7/dg2r1dg30k16lb1db16r2~x2/sett.png)|
-| [Sinclair Hunting (VS)](/variants/s7/r2db16w1k16g30r1g2~x2/)|
-|![Sinclair Hunting (VS) example sett](/variants/s7/r2db16w1k16g30r1g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r12db68w7k39g75r6g6/">Rhun (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r12db68w7k39g75r6g6/"><img src="/variants/s7/r12db68w7k39g75r6g6/sett.png" alt="Rhun (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r2db16w1k16g30r1g2~x2/">Sinclair Hunting (VS)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><img src="/variants/s7/r2db16w1k16g30r1g2~x2/sett.png" alt="Sinclair Hunting (VS) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -12,6 +12,6 @@ Part of the [Skene](/tartans/skene/) tartan — the named design grouping this p
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×4 | [Skene #2](/variants/s12/db6r3g1r3g12r3g1~x4/) ★ | 1830 | ![Skene #2 sett](/variants/s12/db6r3g1r3g12r3g1~x4/sett.png) |
+| ×4 | [Skene #2](/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/) ★ | 1830 | ![Skene #2 sett](/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/sett.png) |
 | ×2 | [Skene](/variants/s7/db6r3g1r3g12r3g1~x2/) | ~2016 | ![Skene sett](/variants/s7/db6r3g1r3g12r3g1~x2/sett.png) |
 | ×4 | [Skene - 1831 (Clan)](/variants/s7/db6r3g1r3g12r3g1~x4/) | 1831 | ![Skene - 1831 (Clan) sett](/variants/s7/db6r3g1r3g12r3g1~x4/sett.png) |

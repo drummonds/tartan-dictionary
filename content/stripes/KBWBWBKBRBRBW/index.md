@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Yarrow Dress, Purple (Dance)](/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/)|
-|![Yarrow Dress, Purple (Dance) example sett](/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/">Yarrow Dress, Purple (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/"><img src="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/sett.png" alt="Yarrow Dress, Purple (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

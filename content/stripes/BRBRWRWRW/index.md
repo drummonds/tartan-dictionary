@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Titanium (Fashion)](/variants/s9/n44o8n8o22lb4o4lb11o2lbi2~x2/)|
-|![Titanium (Fashion) example sett](/variants/s9/n44o8n8o22lb4o4lb11o2lbi2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/">Titanium (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/"><img src="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/sett.png" alt="Titanium (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

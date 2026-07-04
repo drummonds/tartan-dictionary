@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Strathyre Dress (Dance)](/variants/s18/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/)|
-|![Strathyre Dress (Dance) example sett](/variants/s18/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/">Strathyre Dress (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><img src="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/sett.png" alt="Strathyre Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

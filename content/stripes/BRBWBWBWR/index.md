@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [31, Tartan (The.. )](/variants/s9/db2r21db1w4db7w2db2w2r2~x2/)|
-|![31, Tartan (The.. ) example sett](/variants/s9/db2r21db1w4db7w2db2w2r2~x2/sett.png)|
-| [American](/variants/s9/db2r21db1lb4db7lb2db2lb2r2~x4/)|
-|![American example sett](/variants/s9/db2r21db1lb4db7lb2db2lb2r2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/">31, Tartan (The.. )</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><img src="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/sett.png" alt="31, Tartan (The.. ) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/">American</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><img src="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/sett.png" alt="American sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

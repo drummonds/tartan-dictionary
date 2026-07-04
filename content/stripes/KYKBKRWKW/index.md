@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Care Leaver](/variants/s9/lb15k50lbi4m18k5db5k15ly10k4~x2/)|
-|![Care Leaver example sett](/variants/s9/lb15k50lbi4m18k5db5k15ly10k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/">Care Leaver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><img src="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/sett.png" alt="Care Leaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

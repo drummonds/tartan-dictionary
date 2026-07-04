@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish North American Business Council](/variants/s18/db2r2dt6db4r2db2dt6db6r2db6dt6db2r2db4dt6r2db2w1~x4/)|
-|![Scottish North American Business Council example sett](/variants/s18/db2r2dt6db4r2db2dt6db6r2db6dt6db2r2db4dt6r2db2w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/">Scottish North American Business Council</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/"><img src="/variants/s18/db2r2dbi6db4r2db2dbi6db6r2db6dbi6db2r2db4dbi6r2db2w1~x4~db1106275-dbi1404245/sett.png" alt="Scottish North American Business Council sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

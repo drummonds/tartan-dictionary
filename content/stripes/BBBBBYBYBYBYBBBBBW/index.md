@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rhys of Wales](/variants/s18/dbi46db17dbi5db7dbi7lo15db3lo3db6lo3db3lo15dbi7db7dbi5db17dbi46w4/)|
-|![Rhys of Wales example sett](/variants/s18/dbi46db17dbi5db7dbi7lo15db3lo3db6lo3db3lo15dbi7db7dbi5db17dbi46w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/">Rhys of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/"><img src="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/sett.png" alt="Rhys of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Covington, Christopher (Personal)](/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/)|
-|![Covington, Christopher (Personal) example sett](/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/">Covington, Christopher (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><img src="/variants/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/sett.png" alt="Covington, Christopher (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

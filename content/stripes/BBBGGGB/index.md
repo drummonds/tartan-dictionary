@@ -22,11 +22,23 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Baron of Crawfordjohn (Personal)](/variants/s7/dt8db10dt22dg7g10dg22dp3~x2/)|
-|![Baron of Crawfordjohn (Personal) example sett](/variants/s7/dt8db10dt22dg7g10dg22dp3~x2/sett.png)|
-| [Gleneagles Group](/variants/s7/dr5g6y2g6dr5db6dr2~x2/)|
-|![Gleneagles Group example sett](/variants/s7/dr5g6y2g6dr5db6dr2~x2/sett.png)|
-| [Gleneagles Group Corporate Tartan](/variants/s7/dr5g6dy1g6dr5db6dr1~x2/)|
-|![Gleneagles Group Corporate Tartan example sett](/variants/s7/dr5g6dy1g6dr5db6dr1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/">Baron of Crawfordjohn (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/"><img src="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/sett.png" alt="Baron of Crawfordjohn (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/do6dg6dy1dg6do5t6do1~x4/">Gleneagles (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/do6dg6dy1dg6do5t6do1~x4/"><img src="/variants/s7/do6dg6dy1dg6do5t6do1~x4/sett.png" alt="Gleneagles (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/">Gleneagles Group</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/"><img src="/variants/s7/dr5g6gi2g6dr5db6dr2~x2~dr1305000-gi2104115/sett.png" alt="Gleneagles Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/">Gleneagles Group Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/"><img src="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/sett.png" alt="Gleneagles Group Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cahaba Memorial (Commemorative)](/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2/)|
-|![Cahaba Memorial (Commemorative) example sett](/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/">Cahaba Memorial (Commemorative)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><img src="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/sett.png" alt="Cahaba Memorial (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

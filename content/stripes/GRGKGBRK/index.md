@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dickie](/variants/s8/g8r2g12k6g3db6r24k4~x2/)|
-|![Dickie example sett](/variants/s8/g8r2g12k6g3db6r24k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/">Dickie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><img src="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/sett.png" alt="Dickie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

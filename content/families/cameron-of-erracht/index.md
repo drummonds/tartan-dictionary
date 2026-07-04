@@ -9,16 +9,11 @@ A family of [Clan Cameron](/clan/cameron/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do10r4do4r4do20k20r3g20r4g4lo4/">Cameron of Erracht</a> ★</td><td><code>DO/20 R8 DO8 R8 DO40 K40 R6 G40 R8 G8 LO/8</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/do10r4do4r4do20k20r3g20r4g4lo4/"><img src="/variants/s11/do10r4do4r4do20k20r3g20r4g4lo4~x2/sett.png" alt="Cameron of Erracht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dg8r1dg1r3dg16k16r1db16r3db8ly2/">Cameron of Erracht</a></td><td><code>DG/8 R1 DG1 R3 DG16 K16 R1 DB16 R3 DB8 LY/2</code></td><td>2</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><img src="/variants/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/sett.png" alt="Cameron of Erracht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/g8r1g1r3g16k16r1db16r3db8ly2/">Cameron of Erracht</a></td><td><code>G/16 R2 G2 R6 G32 K32 R2 DB32 R6 DB16 LY/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/g8r1g1r3g16k16r1db16r3db8ly2/"><img src="/variants/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/sett.png" alt="Cameron of Erracht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g8r1g1r3g16k16r1db16r3db8y2/">Cameron of Erracht</a> ★</td><td><code>G/16 R2 G2 R6 G32 K32 R2 DB32 R6 DB16 Y/4</code></td><td>280</td><td>1793</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g8r1g1r3g16k16r1db16r3db8y2/"><img src="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/sett.png" alt="Cameron of Erracht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/">Cameron of Erracht</a> · <a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/">Cameron of Erracht</a></td></tr>
 </tbody>
 </table>
-
-[See the Cameron of Erracht tartan and all its setts →](/tartans/cameron-of-erracht/)
 

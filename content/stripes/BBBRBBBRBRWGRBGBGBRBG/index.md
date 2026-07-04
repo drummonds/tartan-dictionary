@@ -22,7 +22,14 @@ It is a 21 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Otago Peninsula Corporate Tartan](/variants/s21/g4dt4ri4dt2g12dt2g12dt2ri4g4w1r4db2ri4dt4db4dt4ri4dt2db12dt2~x2/)|
-|![Otago Peninsula Corporate Tartan example sett](/variants/s21/g4dt4ri4dt2g12dt2g12dt2ri4g4w1r4db2ri4dt4db4dt4ri4dt2db12dt2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/">Otago Peninsula Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><img src="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/sett.png" alt="Otago Peninsula Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

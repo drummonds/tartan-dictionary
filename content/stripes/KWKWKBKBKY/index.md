@@ -22,9 +22,17 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Little of Morton Rig](/variants/s10/k10w7k8w7k8dr14k4dr14k16ly2/)|
-|![Little of Morton Rig example sett](/variants/s10/k10w7k8w7k8dr14k4dr14k16ly2/sett.png)|
-| [Little of Morton Rig Family/Clan Tartan](/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/)|
-|![Little of Morton Rig Family/Clan Tartan example sett](/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/">Little of Morton Rig Family/Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><img src="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rig Family/Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/">Little of Morton Rigg</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><img src="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/sett.png" alt="Little of Morton Rigg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

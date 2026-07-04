@@ -6,10 +6,10 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/"><img src="/variants/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/sett.png" alt="Bell of Ardbel (Personal)" width="240"><br>Bell of Ardbel (Personal)</a>
+<a class="tartan" href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><img src="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/sett.png" alt="Bell of Ardbel (Personal)" width="240"><br>Bell of Ardbel (Personal)</a>
 
 ## Families
 
 - [Bell of Ardbel](/families/bell-of-ardbel/)
-- [Bell of the Borders.](/families/bell-of-the-borders/)
+- [Bell of the Borders](/families/bell-of-the-borders/)
 

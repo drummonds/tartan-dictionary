@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Largs Dress District Tartan](/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/)|
-|![Largs Dress District Tartan example sett](/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/">Largs Dress District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><img src="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/sett.png" alt="Largs Dress District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

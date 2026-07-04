@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Letham (S.Australia)](/variants/s8/g40k20t10k4t7g13k4t4~x2/)|
-|![Letham (S.Australia) example sett](/variants/s8/g40k20t10k4t7g13k4t4~x2/sett.png)|
-| [Letham Personal Tartan](/variants/s8/g40k20db10k4db7g13k4db4~x2/)|
-|![Letham Personal Tartan example sett](/variants/s8/g40k20db10k4db7g13k4db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/">Letham Personal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><img src="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/sett.png" alt="Letham Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

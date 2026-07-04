@@ -22,7 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Weston-McCue (Personal)](/variants/s17/w2n2w24lr3w2lr3lb9wi2lb2wi2w8wi4w2wi2w36wi2w2~x2/)|
-|![Weston-McCue (Personal) example sett](/variants/s17/w2n2w24lr3w2lr3lb9wi2lb2wi2w8wi4w2wi2w36wi2w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi4000000-lr2800000-w3600000/">Weston-McCue (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi4000000-lr2800000-w3600000/"><img src="/variants/s17/wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2~x2~wi4000000-lr2800000-w3600000/sett.png" alt="Weston-McCue (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

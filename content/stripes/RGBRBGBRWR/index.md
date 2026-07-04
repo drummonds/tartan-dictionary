@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Chisholm, The](/variants/s10/r12w2r37db6g3db3r4db3g21r4~x2/)|
-|![Chisholm, The example sett](/variants/s10/r12w2r37db6g3db3r4db3g21r4~x2/sett.png)|
-| [Chisholm, The (MacGregor-Hastie)](/variants/s10/r12w2r37b6g3b3r4b3g21r4~x2/)|
-|![Chisholm, The (MacGregor-Hastie) example sett](/variants/s10/r12w2r37b6g3b3r4b3g21r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r12w2r37db6g3db3r4db3g21r4~x2/">Chisholm, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><img src="/variants/s10/r12w2r37db6g3db3r4db3g21r4~x2/sett.png" alt="Chisholm, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/">Chisholm, The (MacGregor-Hastie)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/"><img src="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/sett.png" alt="Chisholm, The (MacGregor-Hastie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

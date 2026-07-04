@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Orlando, City of](/variants/s16/db12k1g16db1g1db14g3db14r2~x4/)|
-|![Orlando, City of example sett](/variants/s16/db12k1g16db1g1db14g3db14r2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/">Orlando, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/"><img src="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/sett.png" alt="Orlando, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

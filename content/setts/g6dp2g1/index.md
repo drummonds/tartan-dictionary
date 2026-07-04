@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×20 | [Elphinstone Check (Clan)](/variants/s4/g6dp2g1~x20/) ★ | 1842 | ![Elphinstone Check (Clan) sett](/variants/s4/g6dp2g1~x20/sett.png) |
-| ×4 | [Elphinstone](/variants/s4/g6dp2g1~x4/) | 1842 | ![Elphinstone sett](/variants/s4/g6dp2g1~x4/sett.png) |
+| ×20 | [Elphinstone Check (Clan)](/variants/s3/g6dp2g1~x20/) ★ | 1842 | ![Elphinstone Check (Clan) sett](/variants/s3/g6dp2g1~x20/sett.png) |
+| ×4 | [Elphinstone](/variants/s3/g6dp2g1~x4/) | 1842 | ![Elphinstone sett](/variants/s3/g6dp2g1~x4/sett.png) |

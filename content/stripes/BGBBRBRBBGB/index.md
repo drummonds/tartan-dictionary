@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gravesend Grammar School (Corp)](/variants/s11/db8g5db72dbi72m5dbi16m5dbi72db72g5db8/)|
-|![Gravesend Grammar School (Corp) example sett](/variants/s11/db8g5db72dbi72m5dbi16m5dbi72db72g5db8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/">Gravesend Grammar School (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/"><img src="/variants/s11/dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8~dbi1406275-db1004274/sett.png" alt="Gravesend Grammar School (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

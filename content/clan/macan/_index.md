@@ -1,5 +1,5 @@
 ---
-title: "Clan MacAn"
+title: "Clan Macan"
 redirect: "/families/macan-of-lurgyvallan/"
 ---
-Clan MacAn is recorded as the single family [MacAn of Lurgyvallan](/families/macan-of-lurgyvallan/) — redirecting there.
+Clan Macan is recorded as the single family [Macan of Lurgyvallan](/families/macan-of-lurgyvallan/) — redirecting there.

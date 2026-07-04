@@ -22,11 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Vallay (Uist) (?)](/variants/s11/g18r3g2r2n6r2g2r24g2r2g6~x2/)|
-|![MacDonald of Vallay (Uist) (?) example sett](/variants/s11/g18r3g2r2n6r2g2r24g2r2g6~x2/sett.png)|
-| [MacDonell of Glengarry](/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/)|
-|![MacDonell of Glengarry example sett](/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/sett.png)|
-| [MacDonell of Glengarry #4](/variants/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/)|
-|![MacDonell of Glengarry #4 example sett](/variants/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/">MacDonald of Vallay (Uist) (?)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/sett.png" alt="MacDonald of Vallay (Uist) (?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/">MacDonell of Glengarry #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><img src="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/sett.png" alt="MacDonell of Glengarry #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

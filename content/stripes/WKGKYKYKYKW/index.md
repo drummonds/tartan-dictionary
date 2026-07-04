@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Vaughan (Welsh Series)](/variants/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/)|
-|![Vaughan (Welsh Series) example sett](/variants/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/">Vaughan (Welsh Series)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><img src="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/sett.png" alt="Vaughan (Welsh Series) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

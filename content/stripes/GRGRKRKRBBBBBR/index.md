@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lochcarron Dress](/variants/s14/r3db10n3db2n2db2r3k5r2k5r22dg2r3dg2~x2/)|
-|![Lochcarron Dress example sett](/variants/s14/r3db10n3db2n2db2r3k5r2k5r22dg2r3dg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/">Lochcarron Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><img src="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/sett.png" alt="Lochcarron Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

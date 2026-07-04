@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s7/db8r11g5dbi3ly3w5k3~x2/"><img src="/variants/s7/db8r11g5dbi3ly3w5k3~x2/sett.png" alt="Nicolson of Assynt &amp; Coigach" width="240"><br>Nicolson of Assynt & Coigach</a>
+<a class="tartan" href="/variants/s7/dbi8r11g5db3y3w5k3~x2~dbi1406275-db1004274/"><img src="/variants/s7/dbi8r11g5db3y3w5k3~x2~dbi1406275-db1004274/sett.png" alt="Nicolson of Assynt &amp; Coigach" width="240"><br>Nicolson of Assynt & Coigach</a>
 
 ## Families
 

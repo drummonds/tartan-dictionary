@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Angotta](/variants/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/)|
-|![Angotta example sett](/variants/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/sett.png)|
-| [Angotta (Name)](/variants/s13/lo6db1lo1db1lo1db5lo2db5lo4db2r1db40r1~x2/)|
-|![Angotta (Name) example sett](/variants/s13/lo6db1lo1db1lo1db5lo2db5lo4db2r1db40r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/">Angotta (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/"><img src="/variants/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/sett.png" alt="Angotta (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

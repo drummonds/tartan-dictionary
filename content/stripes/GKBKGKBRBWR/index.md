@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [HMS Neptune](/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2/)|
-|![HMS Neptune example sett](/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2/sett.png)|
-| [HMS Neptune (Military)](/variants/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/)|
-|![HMS Neptune (Military) example sett](/variants/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g4k1dbi9k1g3k1db27r1db27w1r3/">HMS Neptune</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g4k1dbi9k1g3k1db27r1db27w1r3/"><img src="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1605267-db1004274/sett.png" alt="HMS Neptune sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

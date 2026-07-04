@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [CBS (Corporate)](/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12/)|
-|![CBS (Corporate) example sett](/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/">CBS (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><img src="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/sett.png" alt="CBS (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

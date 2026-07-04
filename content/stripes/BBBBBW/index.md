@@ -22,13 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Aberdeen Academy of Performing Art](/variants/s6/db4dpi2dp3db24t24w3~x2/)|
-|![Aberdeen Academy of Performing Art example sett](/variants/s6/db4dpi2dp3db24t24w3~x2/sett.png)|
-| [Aberdeen Academy of Performing Arts](/variants/s6/db4p2dp3db24b24w3~x2/)|
-|![Aberdeen Academy of Performing Arts example sett](/variants/s6/db4p2dp3db24b24w3~x2/sett.png)|
-| [Murray Taylor](/variants/s6/db3t3db16t16db16w3~x2/)|
-|![Murray Taylor example sett](/variants/s6/db3t3db16t16db16w3~x2/sett.png)|
-| [U.S.S. John Paul Jones #1](/variants/s6/b3db1dbi16db16dbi2lb2~x4/)|
-|![U.S.S. John Paul Jones #1 example sett](/variants/s6/b3db1dbi16db16dbi2lb2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/">Aberdeen Academy of Performing Arts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/"><img src="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/sett.png" alt="Aberdeen Academy of Performing Arts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/bi3db1b16db16b2lb2~x4~bi2706275-b1709272/">U.S.S. John Paul Jones (Military)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/bi3db1b16db16b2lb2~x4~bi2706275-b1709272/"><img src="/variants/s6/bi3db1b16db16b2lb2~x4~bi2706275-b1709272/sett.png" alt="U.S.S. John Paul Jones (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

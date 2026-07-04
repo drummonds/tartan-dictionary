@@ -22,15 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Braveheart - ( Warrior)](/variants/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/)|
-|![Braveheart - ( Warrior) example sett](/variants/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/sett.png)|
-| [Braveheart Commemorative Tartan](/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/)|
-|![Braveheart Commemorative Tartan example sett](/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/sett.png)|
-| [Braveheart Warrior](/variants/s12/k24db2k3dp1k1dp2k1dg5r2k1r2lb1~x4/)|
-|![Braveheart Warrior example sett](/variants/s12/k24db2k3dp1k1dp2k1dg5r2k1r2lb1~x4/sett.png)|
-| [Braveheart Warrior (Universal)](/variants/s12/k24db2k3dp1k1dp2k1dg5r2k1r2w1~x4/)|
-|![Braveheart Warrior (Universal) example sett](/variants/s12/k24db2k3dp1k1dp2k1dg5r2k1r2w1~x4/sett.png)|
-| [Watt (Corporate/Name)](/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/)|
-|![Watt (Corporate/Name) example sett](/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/">Braveheart Commemorative Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/"><img src="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/sett.png" alt="Braveheart Commemorative Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/">Watt (Corporate/Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><img src="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/sett.png" alt="Watt (Corporate/Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

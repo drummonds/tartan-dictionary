@@ -22,17 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Breadalbane Fencibles](/variants/s13/db8k1db1k1db1k8ly1dg13ly1k8db9k1db1/)|
-|![Breadalbane Fencibles example sett](/variants/s13/db8k1db1k1db1k8ly1dg13ly1k8db9k1db1/sett.png)|
-| [Breadalbane Fencibles](/setts/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/)|
-|![Breadalbane Fencibles example sett](/variants/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/sett.png)|
-| [Campbell of Breadalbane](/variants/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/)|
-|![Campbell of Breadalbane example sett](/variants/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/sett.png)|
-| [Campbell of Breadalbane](/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/)|
-|![Campbell of Breadalbane example sett](/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/sett.png)|
-| [Campbell of Breadalbane #2](/variants/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/)|
-|![Campbell of Breadalbane #2 example sett](/variants/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/sett.png)|
-| [Campbell of Breadalbane (Military)](/variants/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/)|
-|![Campbell of Breadalbane (Military) example sett](/variants/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/">Campbell of Breadalbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><img src="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/sett.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

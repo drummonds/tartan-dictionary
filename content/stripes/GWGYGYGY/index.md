@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Baillie Dress](/variants/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/)|
-|![Baillie Dress example sett](/variants/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/">Baillie Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><img src="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/sett.png" alt="Baillie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

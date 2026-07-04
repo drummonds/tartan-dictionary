@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Aviemore Check](/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/)|
-|![Aviemore Check example sett](/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g2dy10g11ly4dy1w18g2dy1/">Aviemore Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g2dy10g11ly4dy1w18g2dy1/"><img src="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/sett.png" alt="Aviemore Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

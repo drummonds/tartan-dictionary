@@ -22,7 +22,19 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stirling of Keir (Clan)](/variants/s4/g1dr10r10g1~x6/)|
-|![Stirling of Keir (Clan) example sett](/variants/s4/g1dr10r10g1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/g53r13db2y22~x2/">Englehart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g53r13db2y22~x2/"><img src="/variants/s4/g53r13db2y22~x2/sett.png" alt="Englehart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/g27r9b2y14~x4/">Englehart, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g27r9b2y14~x4/"><img src="/variants/s4/g27r9b2y14~x4/sett.png" alt="Englehart, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dg1dr10r10dg1~x6/">Stirling of Keir (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dg1dr10r10dg1~x6/"><img src="/variants/s4/dg1dr10r10dg1~x6/sett.png" alt="Stirling of Keir (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

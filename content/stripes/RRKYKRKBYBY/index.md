@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kerry (WCWM)](/variants/s11/lr24b3lr8b5k3o3k3lr3k3m24o4~x2/)|
-|![Kerry (WCWM) example sett](/variants/s11/lr24b3lr8b5k3o3k3lr3k3m24o4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/">Kerry (WCWM)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/"><img src="/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/sett.png" alt="Kerry (WCWM) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×2 | [Oriel #1](/variants/s16/r12db2r3g20k4g20r30k2r1~x2/) ★ | 1992 | ![Oriel #1 sett](/variants/s16/r12db2r3g20k4g20r30k2r1~x2/sett.png) |
-| ×2 | [Oriel #1 (District)](/variants/s9/r12db2r3g20k4g20r30k2r1~x2/) | 1992 | ![Oriel #1 (District) sett](/variants/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png) |
+| ×2 | [Oriel #1 (District)](/variants/s9/r12db2r3g20k4g20r30k2r1~x2/) ★ | 1992 | ![Oriel #1 (District) sett](/variants/s9/r12db2r3g20k4g20r30k2r1~x2/sett.png) |
+| ×2 | [Oriel #1](/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/) | 1992 | ![Oriel #1 sett](/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/sett.png) |

@@ -22,7 +22,14 @@ It is a 23 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [B & Q (Corporate)](/variants/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/)|
-|![B & Q (Corporate) example sett](/variants/s23/r6n2r6w1lo4ly2w1ly2lo4w1r5w1lo3ly2w1ly2lo3w1r40lo5ly3n1w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/">B &amp; Q (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/"><img src="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/sett.png" alt="B &amp; Q (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

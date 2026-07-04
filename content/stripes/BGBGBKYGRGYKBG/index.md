@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Milne of Corstorphine #2 (Personal)](/variants/s14/dt22g1dt2g1dt4k16lo1g16r2g16lo1k16dt16g1~x2/)|
-|![Milne of Corstorphine #2 (Personal) example sett](/variants/s14/dt22g1dt2g1dt4k16lo1g16r2g16lo1k16dt16g1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/">Milne of Corstorphine #2 (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><img src="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/sett.png" alt="Milne of Corstorphine #2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

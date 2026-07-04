@@ -22,7 +22,14 @@ It is a 26 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified Cant #08](/variants/s26/w38db6w5k6w3k2w3k2lb24r24k2r8w2r8k2r24lb24k2w3k2w3k6w5db6w38r4/)|
-|![Unidentified Cant #08 example sett](/variants/s26/w38db6w5k6w3k2w3k2lb24r24k2r8w2r8k2r24lb24k2w3k2w3k6w5db6w38r4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s26/wi38db6wi5k6wi3k2wi3k2w24r24k2r8wi2r8k2r24w24k2wi3k2wi3k6wi5db6wi38r4~wi3600000-w3502055/">Unidentified Cant #08</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s26/wi38db6wi5k6wi3k2wi3k2w24r24k2r8wi2r8k2r24w24k2wi3k2wi3k6wi5db6wi38r4~wi3600000-w3502055/"><img src="/variants/s26/wi38db6wi5k6wi3k2wi3k2w24r24k2r8wi2r8k2r24w24k2wi3k2wi3k6wi5db6wi38r4~wi3600000-w3502055/sett.png" alt="Unidentified Cant #08 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

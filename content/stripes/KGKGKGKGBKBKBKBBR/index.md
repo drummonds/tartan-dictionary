@@ -22,7 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rendell, Charles](/variants/s17/ki2dg2k1dg2k1dg2k1dg12dt4ki3dt3ki3dt3ki3dt4dp24r2~x2/)|
-|![Rendell, Charles example sett](/variants/s17/ki2dg2k1dg2k1dg2k1dg12dt4ki3dt3ki3dt3ki3dt4dp24r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/">Rendell, Charles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/"><img src="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/sett.png" alt="Rendell, Charles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [G8 Summit](/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/)|
-|![G8 Summit example sett](/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/">G8 Summit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/"><img src="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/sett.png" alt="G8 Summit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

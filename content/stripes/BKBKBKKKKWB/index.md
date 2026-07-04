@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dunn (Canada) (Name)](/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2/)|
-|![Dunn (Canada) (Name) example sett](/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/">Dunn (Canada) (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/"><img src="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/sett.png" alt="Dunn (Canada) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

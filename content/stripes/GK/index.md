@@ -22,13 +22,21 @@ It is a 2 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKillen Hunting](/setts/k1g1/)|
-|![MacKillen Hunting example sett](/variants/s2/k1g1~x66/sett.png)|
-| [Rob Roy, Black & Tan (Fashion)](/variants/s2/k1y1~x100/)|
-|![Rob Roy, Black & Tan (Fashion) example sett](/variants/s2/k1y1~x100/sett.png)|
-| [Robin Hood Fancy Tartan](/variants/s2/g9k8~x2/)|
-|![Robin Hood Fancy Tartan example sett](/variants/s2/g9k8~x2/sett.png)|
-| [Robin Hood/Wilson no.224/Rob Roy Hunting](/variants/s2/k1dg1~x100/)|
-|![Robin Hood/Wilson no.224/Rob Roy Hunting example sett](/variants/s2/k1dg1~x100/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k1dg1/">MacKillen Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k1dg1/"><img src="/variants/s2/k1dg1~x100/sett.png" alt="MacKillen Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/k1g1~x66/">Robin Hood / Rob Roy hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/k1g1~x66/"><img src="/variants/s2/k1g1~x66/sett.png" alt="Robin Hood / Rob Roy hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/g9k8~x2/">Robin Hood Fancy Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/g9k8~x2/"><img src="/variants/s2/g9k8~x2/sett.png" alt="Robin Hood Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/k1y1/">Justus Check (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k1y1/"><img src="/variants/s2/k1y1~x40/sett.png" alt="Justus Check (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

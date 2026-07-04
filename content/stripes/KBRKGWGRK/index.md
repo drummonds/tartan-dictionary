@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Abercrombie](/variants/s9/k12r1g14w1g14k14r1db8k2~x2/)|
-|![Abercrombie example sett](/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png)|
-| [Abercrombie (McKinlay)](/variants/s9/k12r1dg14w1dg14k14r1db8k2~x2/)|
-|![Abercrombie (McKinlay) example sett](/variants/s9/k12r1dg14w1dg14k14r1db8k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/">Abercrombie (McKinlay)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/"><img src="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/sett.png" alt="Abercrombie (McKinlay) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

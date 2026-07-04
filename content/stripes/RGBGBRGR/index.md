@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dalbraith-Eastern Western Motor Group](/variants/s8/oi28g2oi4db18g23db2g3o4~x2/)|
-|![Dalbraith-Eastern Western Motor Group example sett](/variants/s8/oi28g2oi4db18g23db2g3o4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/">Dalbraith-Eastern Western Motor Group</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><img src="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/sett.png" alt="Dalbraith-Eastern Western Motor Group sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

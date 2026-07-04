@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Morrison Ancient](/variants/s10/dg6w3dg12r12k4r6k4r24dg4r6/)|
-|![Morrison Ancient example sett](/variants/s10/dg6w3dg12r12k4r6k4r24dg4r6/sett.png)|
-| [Morrison, Ancient](/variants/s10/r6g4r24k4r6k4r12g12w3g6/)|
-|![Morrison, Ancient example sett](/variants/s10/r6g4r24k4r6k4r12g12w3g6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/">Morrison Ancient</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/"><img src="/variants/s10/r6g4r24k4r6k4r12g12w3g6/sett.png" alt="Morrison Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

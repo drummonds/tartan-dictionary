@@ -22,9 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stuart-Houghton (Personal)](/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/)|
-|![Stuart-Houghton (Personal) example sett](/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/sett.png)|
-| [Stuart-Houghton Family Tartan](/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14dg10dt16dg6~x2/)|
-|![Stuart-Houghton Family Tartan example sett](/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14dg10dt16dg6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/">Stuart-Houghton (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/"><img src="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/sett.png" alt="Stuart-Houghton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

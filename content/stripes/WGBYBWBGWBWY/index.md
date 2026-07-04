@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glenclova](/variants/s12/lb100y12n14ly5n5w5n5y28lb16n5lb18ly6/)|
-|![Glenclova example sett](/variants/s12/lb100y12n14ly5n5w5n5y28lb16n5lb18ly6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/lb100y12n14ly5n5w5n5y28lb16n5lb18ly6~y2400000-n1700000/">Glenclova</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/lb100y12n14ly5n5w5n5y28lb16n5lb18ly6~y2400000-n1700000/"><img src="/variants/s12/lb100y12n14ly5n5w5n5y28lb16n5lb18ly6~y2400000-n1700000/sett.png" alt="Glenclova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

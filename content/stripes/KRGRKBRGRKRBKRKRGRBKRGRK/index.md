@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cumming/Buchan Hunting](/variants/s24/k2r2dg27r2k6db2r6dg6r2k24r2k2db2r2k24r2dg6r6db2k6r2dg27r2k2~x2/)|
-|![Cumming/Buchan Hunting example sett](/variants/s24/k2r2dg27r2k6db2r6dg6r2k24r2k2db2r2k24r2dg6r6db2k6r2dg27r2k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/">Cumming/Buchan Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/"><img src="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/sett.png" alt="Cumming/Buchan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

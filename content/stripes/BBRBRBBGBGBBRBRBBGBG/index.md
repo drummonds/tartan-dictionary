@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Woolmark Plaid, The](/variants/s20/dt16db6r1db30r1db6dt16y16db1y16dt16db16r1db4r1db16dt16y16db1y16~x2/)|
-|![Woolmark Plaid, The example sett](/variants/s20/dt16db6r1db30r1db6dt16y16db1y16dt16db16r1db4r1db16dt16y16db1y16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/">Woolmark Plaid, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/"><img src="/variants/s20/dg16db1dg16dt16db16r1db4r1db16dt16dg16db1dg16dt16db6r1db30r1db6dt16~x2/sett.png" alt="Woolmark Plaid, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

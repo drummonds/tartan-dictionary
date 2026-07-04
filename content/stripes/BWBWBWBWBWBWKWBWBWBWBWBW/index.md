@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hanna (Bible) (Personal)](/variants/s24/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/)|
-|![Hanna (Bible) (Personal) example sett](/variants/s24/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2~w3901120/">Hanna (Bible) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2~w3901120/"><img src="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2~w3901120/sett.png" alt="Hanna (Bible) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

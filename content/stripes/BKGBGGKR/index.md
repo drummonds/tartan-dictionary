@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Batten of Argyll (Baddenach)](/variants/s8/dpi10k2dg10dp30dg30dgi55k4r8/)|
-|![Batten of Argyll (Baddenach) example sett](/variants/s8/dpi10k2dg10dp30dg30dgi55k4r8/sett.png)|
-| [Batten of Argyll Clan Tartan](/variants/s8/dpi5k1y5dp15dg15g28k2r4~x2/)|
-|![Batten of Argyll Clan Tartan example sett](/variants/s8/dpi5k1y5dp15dg15g28k2r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dpi5k1g5dp15dg15dgi28k2r4~x2~dpi1607327-g1903114-dp1105325-dgi1806142/">Batten of Argyll Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dpi5k1g5dp15dg15dgi28k2r4~x2~dpi1607327-g1903114-dp1105325-dgi1806142/"><img src="/variants/s8/dpi5k1g5dp15dg15dgi28k2r4~x2~dpi1607327-g1903114-dp1105325-dgi1806142/sett.png" alt="Batten of Argyll Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

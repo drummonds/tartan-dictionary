@@ -22,7 +22,16 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lambert Dark (Personal)](/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28b3~x2/)|
-|![Lambert Dark (Personal) example sett](/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28b3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28db3~x2/">Lambert (Front Royal) Dark Night</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28db3~x2/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28db3~x2/sett.png" alt="Lambert (Front Royal) Dark Night sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/">Lambert Dark (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/"><img src="/variants/s14/k34g10k5r2k8dy2w3dy2k8r2k5g10k28t3~x2/sett.png" alt="Lambert Dark (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

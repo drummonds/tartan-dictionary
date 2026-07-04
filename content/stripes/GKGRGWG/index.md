@@ -22,9 +22,18 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Arkansas](/variants/s7/g3w1g12r6g3k3g2~x4/)|
-|![Arkansas example sett](/variants/s7/g3w1g12r6g3k3g2~x4/sett.png)|
-| [Arkansas](/variants/s7/dg3w1dg12r6dg3k3g2~x4/)|
-|![Arkansas example sett](/variants/s7/dg3w1dg12r6dg3k3g2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/">Arkansas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><img src="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/">Arkansas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><img src="/variants/s7/dg3w1dg12r6dg3k3g2~x4/sett.png" alt="Arkansas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g3w1g12r6g3k3g2~x4/">Arkansas (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g3w1g12r6g3k3g2~x4/"><img src="/variants/s7/g3w1g12r6g3k3g2~x4/sett.png" alt="Arkansas (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

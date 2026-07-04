@@ -22,15 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Murray](/variants/s6/t3k16dg16k16db3t3~x2/)|
-|![Murray example sett](/variants/s6/t3k16dg16k16db3t3~x2/sett.png)|
-| [Murray](/variants/s6/t3k16g16k16db3t3~x2/)|
-|![Murray example sett](/variants/s6/t3k16g16k16db3t3~x2/sett.png)|
-| [Unidentified No 59](/variants/s6/t1db11k11dg11k2t1~x2/)|
-|![Unidentified No 59 example sett](/variants/s6/t1db11k11dg11k2t1~x2/sett.png)|
-| [Unnamed, No 59](/variants/s6/t1db11k11g11k2t1~x2/)|
-|![Unnamed, No 59 example sett](/variants/s6/t1db11k11g11k2t1~x2/sett.png)|
-| [Wilson's No.228 #2](/variants/s6/dp8k11dg9k11dp8t2~x2/)|
-|![Wilson's No.228 #2 example sett](/variants/s6/dp8k11dg9k11dp8t2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db22k16y4k11dp2n1~x4/">Martinez, Clément (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><img src="/variants/s6/db22k16y4k11dp2n1~x4/sett.png" alt="Martinez, Clément (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Canyon County Idaho Sheriff](/variants/s6/k5lo5w1lo5k5r1~x10/)|
-|![Canyon County Idaho Sheriff example sett](/variants/s6/k5lo5w1lo5k5r1~x10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k5ly5w1ly5k5r1/">Canyon County Idaho Sheriff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k5ly5w1ly5k5r1/"><img src="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/sett.png" alt="Canyon County Idaho Sheriff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

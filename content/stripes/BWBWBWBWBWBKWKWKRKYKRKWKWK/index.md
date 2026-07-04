@@ -22,7 +22,14 @@ It is a 26 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Britten-Norman](/variants/s26/dt28w1dt2w1dt3w1dt2w2dt2w2dt25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2/)|
-|![Britten-Norman example sett](/variants/s26/dt28w1dt2w1dt3w1dt2w2dt2w2dt25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/">Britten-Norman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/"><img src="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/sett.png" alt="Britten-Norman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

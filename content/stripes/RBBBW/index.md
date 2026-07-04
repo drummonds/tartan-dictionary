@@ -22,11 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [SABA](/variants/s5/w3dt2db15t15r2~x4/)|
-|![SABA example sett](/variants/s5/w3dt2db15t15r2~x4/sett.png)|
-| [World Fed. of Bldg Contractors (Corp](/variants/s5/r2db19n6b44lb2~x2/)|
-|![World Fed. of Bldg Contractors (Corp example sett](/variants/s5/r2db19n6b44lb2~x2/sett.png)|
-| [World Federation of Building Contractors](/variants/s5/w4b44db19dbi44r2~x2/)|
-|![World Federation of Building Contractors example sett](/variants/s5/w4b44db19dbi44r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/o2db19t6b44w2~x2/">World Fed. of Bldg Contractors (Corp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/o2db19t6b44w2~x2/"><img src="/variants/s5/o2db19t6b44w2~x2/sett.png" alt="World Fed. of Bldg Contractors (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

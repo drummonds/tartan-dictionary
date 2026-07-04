@@ -22,19 +22,26 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Auburn University (Alabama) (Corp)](/variants/s6/db3o3db24o30db3o2~x2/)|
-|![Auburn University (Alabama) (Corp) example sett](/variants/s6/db3o3db24o30db3o2~x2/sett.png)|
-| [Glen Burns (WCWM-2)](/variants/s6/n1o6n6oi6n1oi1~x4/)|
-|![Glen Burns (WCWM-2) example sett](/variants/s6/n1o6n6oi6n1oi1~x4/sett.png)|
-| [Harmony, 11](/variants/s6/o6p2o29p29o2p6~x2/)|
-|![Harmony, 11 example sett](/variants/s6/o6p2o29p29o2p6~x2/sett.png)|
-| [Hebridean 2](/variants/s6/db2r2db15r15db2r2~x2/)|
-|![Hebridean 2 example sett](/variants/s6/db2r2db15r15db2r2~x2/sett.png)|
-| [MacArthur-Fox, dress](/variants/s6/r2db13ri3db3ri16t2~x4/)|
-|![MacArthur-Fox, dress example sett](/variants/s6/r2db13ri3db3ri16t2~x4/sett.png)|
-| [MacGregor of Glengyle](/variants/s6/db1r1db7r7db1r1~x4/)|
-|![MacGregor of Glengyle example sett](/variants/s6/db1r1db7r7db1r1~x4/sett.png)|
-| [Mary Erskine School, The](/variants/s6/dt6r1dt24r28dt1r4~x2/)|
-|![Mary Erskine School, The example sett](/variants/s6/dt6r1dt24r28dt1r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db3o3db24o30db3o2~x2/">Auburn University (Alabama)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db3o3db24o30db3o2~x2/"><img src="/variants/s6/db3o3db24o30db3o2~x2/sett.png" alt="Auburn University (Alabama) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/dp6o2dp29o29dp2o6~x2/">Harmony, 11</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dp6o2dp29o29dp2o6~x2/"><img src="/variants/s6/dp6o2dp29o29dp2o6~x2/sett.png" alt="Harmony, 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/n6o2n29o29n2o6~x2/">Harmony, 12</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/n6o2n29o29n2o6~x2/"><img src="/variants/s6/n6o2n29o29n2o6~x2/sett.png" alt="Harmony, 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/db1r1db7r7db1r1~x4/">MacGregor of Glengyle</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db1r1db7r7db1r1~x4/"><img src="/variants/s6/db1r1db7r7db1r1~x4/sett.png" alt="MacGregor of Glengyle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/dr32r3dr3r2dr3r23~x2/">Samye Sangha #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dr32r3dr3r2dr3r23~x2/"><img src="/variants/s6/dr32r3dr3r2dr3r23~x2/sett.png" alt="Samye Sangha #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

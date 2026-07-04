@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Holland & Sherry (Corporate)](/variants/s9/dt20b3dt4r3dt3k10g21k4r20~x2/)|
-|![Holland & Sherry (Corporate) example sett](/variants/s9/dt20b3dt4r3dt3k10g21k4r20~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/">Holland &amp; Sherry (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><img src="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/sett.png" alt="Holland &amp; Sherry (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Allen, Nicholas (Personal)](/variants/s3/dt1k2r1~x42/)|
-|![Allen, Nicholas (Personal) example sett](/variants/s3/dt1k2r1~x42/sett.png)|
-| [Wilson's No.198](/variants/s3/r4k7t4~x2/)|
-|![Wilson's No.198 example sett](/variants/s3/r4k7t4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/db1k2r1~x42/">Allen, Nicholas (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/db1k2r1~x42/"><img src="/variants/s3/db1k2r1~x42/sett.png" alt="Allen, Nicholas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

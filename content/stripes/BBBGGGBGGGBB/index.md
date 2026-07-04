@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Crawfordjohn Personal Tartan](/variants/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/)|
-|![Crawfordjohn Personal Tartan example sett](/variants/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/">Crawfordjohn Personal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><img src="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/sett.png" alt="Crawfordjohn Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

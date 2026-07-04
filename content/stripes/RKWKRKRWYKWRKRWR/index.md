@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Puccini (Fashion)](/variants/s16/r6lb1r1k15r1lb2k1lo5lb25ri5k1r5k1lb5k1ri5~x2/)|
-|![Puccini (Fashion) example sett](/variants/s16/r6lb1r1k15r1lb2k1lo5lb25ri5k1r5k1lb5k1ri5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/">Puccini (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/"><img src="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/sett.png" alt="Puccini (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

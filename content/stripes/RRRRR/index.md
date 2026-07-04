@@ -22,9 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hamilton, Red (Fashion?)](/variants/s5/r23o4r23o32r4~x2/)|
-|![Hamilton, Red (Fashion?) example sett](/variants/s5/r23o4r23o32r4~x2/sett.png)|
-| [Unnamed Brown (Teddy Bear)](/variants/s5/r1oi7o25oi7r1~x2/)|
-|![Unnamed Brown (Teddy Bear) example sett](/variants/s5/r1oi7o25oi7r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r1o7oi25o7r1~x2~o2102055-oi2104058/">Unnamed Brown (Teddy Bear)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r1o7oi25o7r1~x2~o2102055-oi2104058/"><img src="/variants/s5/r1o7oi25o7r1~x2~o2102055-oi2104058/sett.png" alt="Unnamed Brown (Teddy Bear) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

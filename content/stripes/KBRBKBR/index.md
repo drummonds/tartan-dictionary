@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edinburgh and Lothian Tourist Board](/variants/s7/k40db8o3db6ki3db6r4~x2/)|
-|![Edinburgh and Lothian Tourist Board example sett](/variants/s7/k40db8o3db6ki3db6r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/">Edinburgh and Lothian Tourist Board</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/"><img src="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/sett.png" alt="Edinburgh and Lothian Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

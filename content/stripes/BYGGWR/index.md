@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [College of New Caledonia](/variants/s6/db52lo23g6dg5w1r1~x2/)|
-|![College of New Caledonia example sett](/variants/s6/db52lo23g6dg5w1r1~x2/sett.png)|
-| [College of New Caledonia (Corporate)](/variants/s6/b52ly23g6gi5w1r1~x2/)|
-|![College of New Caledonia (Corporate) example sett](/variants/s6/b52ly23g6gi5w1r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/">College of New Caledonia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/"><img src="/variants/s6/db52lo23y6dg5w1r1~x2~lo3006076-y2505139/sett.png" alt="College of New Caledonia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

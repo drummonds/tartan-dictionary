@@ -22,9 +22,20 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ancient Universal (Fashion?)](/variants/s8/yi12dg2yi2dg2yi2dy8y8dy1~x2/)|
-|![Ancient Universal (Fashion?) example sett](/variants/s8/yi12dg2yi2dg2yi2dy8y8dy1~x2/sett.png)|
-| [Semper](/variants/s8/gi16dg1y4dg41y1dg6g2dg2~x2/)|
-|![Semper example sett](/variants/s8/gi16dg1y4dg41y1dg6g2dg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/">Ancient Universal (Fashion?)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/"><img src="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/sett.png" alt="Ancient Universal (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/">Semper</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><img src="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/sett.png" alt="Semper sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/">Yellow Pencil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/"><img src="/variants/s8/dy48y9dy6y9dy12y4dy2y16~x2/sett.png" alt="Yellow Pencil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

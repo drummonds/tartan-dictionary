@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ellan Vannin](/variants/s6/gi2g8dp4lb2gi13b2~x4/)|
-|![Ellan Vannin example sett](/variants/s6/gi2g8dp4lb2gi13b2~x4/sett.png)|
-| [Manx, Ellan Vannin](/variants/s6/g2gi7db3w2g14b2~x4/)|
-|![Manx, Ellan Vannin example sett](/variants/s6/g2gi7db3w2g14b2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/g2dg7db3w2g14b2~x4/">Manx, Ellan Vannin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><img src="/variants/s6/g2dg7db3w2g14b2~x4/sett.png" alt="Manx, Ellan Vannin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

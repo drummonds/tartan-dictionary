@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unnamed C18th - Hynde Cotton Jacket](/variants/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/)|
-|![Unnamed C18th - Hynde Cotton Jacket example sett](/variants/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/">Unnamed C18th - Hynde Cotton Jacket</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><img src="/variants/s18/r40b5k26r4b10db14b10r5k2r5k2r5k2r5lr2dg26lb6lr2/sett.png" alt="Unnamed C18th - Hynde Cotton Jacket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

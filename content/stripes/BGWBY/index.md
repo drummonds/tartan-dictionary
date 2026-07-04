@@ -22,7 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pownall (2015)](/variants/s5/dp30y7w6db30ly8~x2/)|
-|![Pownall (2015) example sett](/variants/s5/dp30y7w6db30ly8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/">Pownall (2015)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><img src="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/sett.png" alt="Pownall (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/n2dg17w6db5lo1~x4/">Scotstown</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/n2dg17w6db5lo1~x4/"><img src="/variants/s5/n2dg17w6db5lo1~x4/sett.png" alt="Scotstown sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

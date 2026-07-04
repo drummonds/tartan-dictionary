@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bannockbane Silver](/variants/s8/db3dr2db18dr1w10o18dr2o3~x2/)|
-|![Bannockbane Silver example sett](/variants/s8/db3dr2db18dr1w10o18dr2o3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/">Bannockbane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><img src="/variants/s8/do2b2do15b1w10o15b2o2~x2/sett.png" alt="Bannockbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

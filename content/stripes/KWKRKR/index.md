@@ -22,11 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hakkarain (Personal)](/variants/s6/ki37w18k37r2k2r2~x2/)|
-|![Hakkarain (Personal) example sett](/variants/s6/ki37w18k37r2k2r2~x2/sett.png)|
-| [Knights Breton](/variants/s6/r19k8r18k50w14k6/)|
-|![Knights Breton example sett](/variants/s6/r19k8r18k50w14k6/sett.png)|
-| [Ramsay of Dalhousie](/variants/s6/k4w2k28r30k1r3~x2/)|
-|![Ramsay of Dalhousie example sett](/variants/s6/k4w2k28r30k1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r19k8r18k50w14k6/">Knights Breton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r19k8r18k50w14k6/"><img src="/variants/s6/r19k8r18k50w14k6/sett.png" alt="Knights Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28r30k1r3~x2/">Ramsay of Dalhousie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28r30k1r3~x2/"><img src="/variants/s6/k4w2k28r30k1r3~x2/sett.png" alt="Ramsay of Dalhousie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

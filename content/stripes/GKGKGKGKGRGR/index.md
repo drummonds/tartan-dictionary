@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ross, Ryan (Personal)](/variants/s12/r3gi4r3gi4k4gi2k50gi2k4g3k4g3~x2/)|
-|![Ross, Ryan (Personal) example sett](/variants/s12/r3gi4r3gi4k4gi2k50gi2k4g3k4g3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/">Ross, Ryan (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/"><img src="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/sett.png" alt="Ross, Ryan (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Willox](/variants/s13/y6lb12db3w1db6lb4w1lb4db6w1k27y5w2~x2/)|
-|![Willox example sett](/variants/s13/y6lb12db3w1db6lb4w1lb4db6w1k27y5w2~x2/sett.png)|
-| [Willox (Name)](/variants/s13/y6lb12dp3w1dp6lb4w1lb4dp6w1k28y5w1~x2/)|
-|![Willox (Name) example sett](/variants/s13/y6lb12dp3w1dp6lb4w1lb4dp6w1k28y5w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2~x2/">Willox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2~x2/"><img src="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2~x2/sett.png" alt="Willox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/">Willox (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/"><img src="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/sett.png" alt="Willox (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

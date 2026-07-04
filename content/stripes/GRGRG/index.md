@@ -22,9 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacGregor of Glen Strae](/variants/s5/g8r2g9r16g1~x2/)|
-|![MacGregor of Glen Strae example sett](/variants/s5/g8r2g9r16g1~x2/sett.png)|
-| [MacGregor of Glenstrae](/variants/s5/dg8r2dg9r16dg1~x2/)|
-|![MacGregor of Glenstrae example sett](/variants/s5/dg8r2dg9r16dg1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/g8r2g9r16g1~x2/">MacGregor of Glenstrae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g8r2g9r16g1~x2/"><img src="/variants/s5/g8r2g9r16g1~x2/sett.png" alt="MacGregor of Glenstrae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

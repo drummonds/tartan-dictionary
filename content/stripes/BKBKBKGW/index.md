@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lamont](/variants/s8/db10k1db1k1db2k8dg10w1~x4/)|
-|![Lamont example sett](/variants/s8/db10k1db1k1db2k8dg10w1~x4/sett.png)|
-| [Lamont](/variants/s8/db10k1db1k1db2k8g10w1~x2/)|
-|![Lamont example sett](/variants/s8/db10k1db1k1db2k8g10w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db10k1db1k1db2k8g10w1/">Lamont</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db10k1db1k1db2k8g10w1/"><img src="/variants/s8/db10k1db1k1db2k8g10w1~x2/sett.png" alt="Lamont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

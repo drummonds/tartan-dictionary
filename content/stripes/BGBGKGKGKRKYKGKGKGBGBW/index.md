@@ -22,9 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dow - Aerlift](/variants/s22/dp14dg2dp2dg14k2dg14k2dg2k9r2k8lo2k9dg2k2dg14k2dg14dp2dg2dp14w2~x2/)|
-|![Dow - Aerlift example sett](/variants/s22/dp14dg2dp2dg14k2dg14k2dg2k9r2k8lo2k9dg2k2dg14k2dg14dp2dg2dp14w2~x2/sett.png)|
-| [Dow-Aerlift (Name)](/variants/s22/p14dg2p2dg14k2dg14k2dg2k9r2k8lo2k9dg2k2dg14k2dg14p2dg2p14w2~x2/)|
-|![Dow-Aerlift (Name) example sett](/variants/s22/p14dg2p2dg14k2dg14k2dg2k9r2k8lo2k9dg2k2dg14k2dg14p2dg2p14w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/">Dow-Aerlift (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/"><img src="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/sett.png" alt="Dow-Aerlift (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

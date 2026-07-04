@@ -22,13 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bareback (Corporate)](/variants/s6/n6k6n21k16db36ly4/)|
-|![Bareback (Corporate) example sett](/variants/s6/n6k6n21k16db36ly4/sett.png)|
-| [Joker Fancy Tartan](/variants/s6/b11k1b3k5dp9lo1~x2/)|
-|![Joker Fancy Tartan example sett](/variants/s6/b11k1b3k5dp9lo1~x2/sett.png)|
-| [Joker, The](/variants/s6/b18k2b4k6dp12lo1~x2/)|
-|![Joker, The example sett](/variants/s6/b18k2b4k6dp12lo1~x2/sett.png)|
-| [Royal Scotsman Train (Corporate)](/variants/s6/db5k2db14k14db2lr2~x2/)|
-|![Royal Scotsman Train (Corporate) example sett](/variants/s6/db5k2db14k14db2lr2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/t11k1t3k5dp9lo1~x2/">Joker Fancy Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/t11k1t3k5dp9lo1~x2/"><img src="/variants/s6/t11k1t3k5dp9lo1~x2/sett.png" alt="Joker Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t18k2t4k6dp12lo1~x2/">Joker, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/t18k2t4k6dp12lo1~x2/"><img src="/variants/s6/t18k2t4k6dp12lo1~x2/sett.png" alt="Joker, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

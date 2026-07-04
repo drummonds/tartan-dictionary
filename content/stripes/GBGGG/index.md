@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glen Boig](/variants/s5/g13dy3g1do3dy1~x6/)|
-|![Glen Boig example sett](/variants/s5/g13dy3g1do3dy1~x6/sett.png)|
-| [Glen Boig Trade Tartan](/variants/s5/y37dy9y3do9dy3~x2/)|
-|![Glen Boig Trade Tartan example sett](/variants/s5/y37dy9y3do9dy3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/g13dy3g1do3dy1~x6/">Glen Boig</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g13dy3g1do3dy1~x6/"><img src="/variants/s5/g13dy3g1do3dy1~x6/sett.png" alt="Glen Boig sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g37dy9g3do9dy3~x2/">Glen Boig Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g37dy9g3do9dy3~x2/"><img src="/variants/s5/g37dy9g3do9dy3~x2/sett.png" alt="Glen Boig Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Crook](/variants/s9/k4m14b2y16m3k3m3b12y4~x2/)|
-|![Crook example sett](/variants/s9/k4m14b2y16m3k3m3b12y4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/">Crook</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><img src="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/sett.png" alt="Crook sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/">Crook (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><img src="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/sett.png" alt="Crook (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rattray](/variants/s9/g71k4r4dp9r4dp4r36dp4w4/)|
-|![Rattray example sett](/variants/s9/g71k4r4dp9r4dp4r36dp4w4/sett.png)|
-| [Rattray](/variants/s9/dg71k4r4db9r4db4r36db4lb4/)|
-|![Rattray example sett](/variants/s9/dg71k4r4db9r4db4r36db4lb4/sett.png)|
-| [Rattray](/variants/s9/g71k4r4db9r4db4r36db4w4/)|
-|![Rattray example sett](/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g71k4r4db9r4db4r36db4w4/">Rattay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g71k4r4db9r4db4r36db4w4/"><img src="/variants/s9/g71k4r4db9r4db4r36db4w4/sett.png" alt="Rattay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/">Rattray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"><img src="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/sett.png" alt="Rattray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Terre D'Ecosse](/variants/s14/w3y7k3y3k3y3k13dg16lo3dg16k13y16k3w3~x2/)|
-|![Terre D'Ecosse example sett](/variants/s14/w3y7k3y3k3y3k13dg16lo3dg16k13y16k3w3~x2/sett.png)|
-| [Terre De'Ecosse](/variants/s14/w3g7k3g3k3g3k13dg16lo4dg16k13g16k3w3~x2/)|
-|![Terre De'Ecosse example sett](/variants/s14/w3g7k3g3k3g3k13dg16lo4dg16k13g16k3w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/">Terre D'Ecosse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/sett.png" alt="Terre D'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3~x2~dgi1804158/">Terre De'Ecosse</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3~x2~dgi1804158/"><img src="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3~x2~dgi1804158/sett.png" alt="Terre De'Ecosse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

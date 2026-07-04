@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s16/k8o6k12b5y14k8r14k25r14k8y14b5k12o6k8bi2~x2/"><img src="/variants/s16/k8o6k12b5y14k8r14k25r14k8y14b5k12o6k8bi2~x2/sett.png" alt="Johnstons of Elgin Bicentennial" width="240"><br>Johnstons of Elgin Bicentennial</a>
+<a class="tartan" href="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><img src="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial" width="240"><br>Johnstons of Elgin Bicentennial</a>
 
 ## Families
 

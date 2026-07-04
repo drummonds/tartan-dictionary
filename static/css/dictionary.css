@@ -677,7 +677,7 @@ details.attestations ul {
    On a narrow screen each swatch drops onto its own full-width row under the ΔT + name. */
 .nn-table {
   display: grid;
-  grid-template-columns: auto auto minmax(0, 1fr);
+  grid-template-columns: auto auto auto minmax(0, 1fr);
   column-gap: .9rem;
   row-gap: .4rem;
   align-items: center;
@@ -692,6 +692,12 @@ details.attestations ul {
   padding-bottom: .2rem;
 }
 .nn-dt {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: #555;
+}
+.nn-threads {
   text-align: right;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
@@ -729,7 +735,7 @@ details.attestations ul {
 }
 @media screen and (max-width: 600px) {
   .nn-table {
-    grid-template-columns: auto 1fr;
+    grid-template-columns: auto auto 1fr;
     column-gap: .7rem;
   }
   .nn-h {
@@ -741,4 +747,20 @@ details.attestations ul {
   .nn-swatch {
     width: 100% !important;
   }
+}
+
+/* /stripes/<seq>/ — a divider row between clusters of near-identical tartans (issue #11), so the
+   genuinely distinct designs read as separate groups down the list. */
+.sett-table tr.cluster-sep td {
+  border-top: 1px solid #0000001a;
+  padding: 0;
+  height: 1.4rem;
+}
+
+/* /colour/<supplier>/ — the shade row a variant page's Ref column deep-linked to (issue #93):
+   light up the landed code so the eye finds it in the long table. */
+span[id^="s-"]:target code {
+  background: #fff3bf;
+  outline: 2px solid #f0c000;
+  border-radius: 3px;
 }

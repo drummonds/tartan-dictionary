@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Peacock, Grahame (Name)](/variants/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/)|
-|![Peacock, Grahame (Name) example sett](/variants/s11/r10g2r20g16db3g16r3dbi8r20g2r10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/">Peacock, Grahame (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/"><img src="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/sett.png" alt="Peacock, Grahame (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

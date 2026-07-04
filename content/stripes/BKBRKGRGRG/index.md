@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Newlands](/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/)|
-|![Newlands example sett](/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png)|
-| [Newlands of Lauriston](/variants/s10/b9k9b9r2k20g13r2g4r2g4~x2/)|
-|![Newlands of Lauriston example sett](/variants/s10/b9k9b9r2k20g13r2g4r2g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/">Newlands</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><img src="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/sett.png" alt="Newlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/">Newlands of Lauriston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><img src="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/sett.png" alt="Newlands of Lauriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

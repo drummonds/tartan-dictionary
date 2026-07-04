@@ -22,7 +22,16 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fair Trade](/variants/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/)|
-|![Fair Trade example sett](/variants/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/">Fair Trade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/">Fair Trade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/"><img src="/variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/sett.png" alt="Fair Trade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

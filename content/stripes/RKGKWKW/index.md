@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ikelman No 4](/variants/s7/r10k15g2k2w1k1w1~x4/)|
-|![Ikelman No 4 example sett](/variants/s7/r10k15g2k2w1k1w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r10k15g2k2w1k1w1~x4/">Ikelman No 4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><img src="/variants/s7/r10k15g2k2w1k1w1~x4/sett.png" alt="Ikelman No 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

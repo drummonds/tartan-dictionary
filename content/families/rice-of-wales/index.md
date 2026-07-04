@@ -9,10 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r21lo1r21y8db4y5db4y4lo4y4db4y5db4y8r21lo1r21lo4/">Rice of Wales</a> ★</td><td><code>R/42 LO2 R42 Y16 DB8 Y10 DB8 Y8 LO8 Y8 DB8 Y10 DB8 Y16 R42 LO2 R42 LO/8</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/r21lo1r21y8db4y5db4y4lo4y4db4y5db4y8r21lo1r21lo4/"><img src="/variants/s18/r21lo1r21y8db4y5db4y4lo4y4db4y5db4y8r21lo1r21lo4~x2/sett.png" alt="Rice of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4/">Rice of Wales</a> ★</td><td><code>DR/42 LY2 DR42 G16 DB8 G10 DB8 G8 LY8 G8 DB8 G10 DB8 G16 DR42 LY2 DR42 LY/8</code></td><td>—</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4/"><img src="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/sett.png" alt="Rice of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

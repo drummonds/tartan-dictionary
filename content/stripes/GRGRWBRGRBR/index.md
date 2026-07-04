@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonell of Keppoch](/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/)|
-|![MacDonell of Keppoch example sett](/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/sett.png)|
-| [MacDonell of Keppoch (artefact)](/variants/s11/r6db1r1dg28r4db8w1r32dg1r4dg2~x2/)|
-|![MacDonell of Keppoch (artefact) example sett](/variants/s11/r6db1r1dg28r4db8w1r32dg1r4dg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/">MacDonell of Keppoch (artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><img src="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/sett.png" alt="MacDonell of Keppoch (artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

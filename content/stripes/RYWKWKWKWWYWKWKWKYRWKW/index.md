@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Normandy Bay Myth](/variants/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lt8w4k48w3k2w2k1w1ly1r1~x2/)|
-|![Normandy Bay Myth example sett](/variants/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lt8w4k48w3k2w2k1w1ly1r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lb8w4k48w3k2w2k1w1ly1r1~x2/">Normandy Bay Myth (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lb8w4k48w3k2w2k1w1ly1r1~x2/"><img src="/variants/s22/w2k1w1r1ly1k3w18k2w2k1w1ly2lb8w4k48w3k2w2k1w1ly1r1~x2/sett.png" alt="Normandy Bay Myth (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

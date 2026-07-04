@@ -22,17 +22,19 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Confederate Infantry](/variants/s6/dg2o14dg8o3dg12db2~x2/)|
-|![Confederate Infantry example sett](/variants/s6/dg2o14dg8o3dg12db2~x2/sett.png)|
-| [Highland Spring (1997)](/variants/s6/g23r3g7r3g23dp7~x2/)|
-|![Highland Spring (1997) example sett](/variants/s6/g23r3g7r3g23dp7~x2/sett.png)|
-| [Wilson](/variants/s6/db64g20r4g3r4g3/)|
-|![Wilson example sett](/variants/s6/db64g20r4g3r4g3/sett.png)|
-| [Wilson](/variants/s6/db48g14r3g2r3g2~x2/)|
-|![Wilson example sett](/variants/s6/db48g14r3g2r3g2~x2/sett.png)|
-| [Wilson](/variants/s6/db64dg20r4dg3r4dg3/)|
-|![Wilson example sett](/variants/s6/db64dg20r4dg3r4dg3/sett.png)|
-| [Wilson #2](/variants/s6/db48dg14r3dg2r3dg2~x2/)|
-|![Wilson #2 example sett](/variants/s6/db48dg14r3dg2r3dg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db64g20r4g3r4g3/">Wilson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db64g20r4g3r4g3/"><img src="/variants/s6/db64g20r4g3r4g3/sett.png" alt="Wilson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db48g14r3g2r3g2~x2/">Wilson #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db48g14r3g2r3g2~x2/"><img src="/variants/s6/db48g14r3g2r3g2~x2/sett.png" alt="Wilson #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/g23r3g7r3g23dp7~x2/">Highland Spring (1997)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><img src="/variants/s6/g23r3g7r3g23dp7~x2/sett.png" alt="Highland Spring (1997) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [A2 (Personal)](/variants/s8/dt1r1dt10t1dt1t5dt1w1~x6/)|
-|![A2 (Personal) example sett](/variants/s8/dt1r1dt10t1dt1t5dt1w1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db1r1db10t1db1t5db1w1/">A2 (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db1r1db10t1db1t5db1w1/"><img src="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/sett.png" alt="A2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Douglas of Roxburgh](/variants/s5/k6db3dg20r20ly3~x2/)|
-|![Douglas of Roxburgh example sett](/variants/s5/k6db3dg20r20ly3~x2/sett.png)|
-| [Turnbull Dress](/variants/s5/k2db1g10r10ly1~x6/)|
-|![Turnbull Dress example sett](/variants/s5/k2db1g10r10ly1~x6/sett.png)|
-| [Turnbull, dress](/variants/s5/k7db3g28r28ly3~x2/)|
-|![Turnbull, dress example sett](/variants/s5/k7db3g28r28ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k2db1g10r10ly1~x6/">Turnbull Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k2db1g10r10ly1~x6/"><img src="/variants/s5/k2db1g10r10ly1~x6/sett.png" alt="Turnbull Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

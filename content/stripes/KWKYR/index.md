@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burberry (Genuine)](/variants/s5/k3w3k3ly10r1~x6/)|
-|![Burberry (Genuine) example sett](/variants/s5/k3w3k3ly10r1~x6/sett.png)|
-| [Burberry Check Corporate Tartan](/variants/s5/k6w6k6lo21r2~x4/)|
-|![Burberry Check Corporate Tartan example sett](/variants/s5/k6w6k6lo21r2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k3w3k3ly10r1~x6/">Burberry (Genuine)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k3w3k3ly10r1~x6/"><img src="/variants/s5/k3w3k3ly10r1~x6/sett.png" alt="Burberry (Genuine) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k6w6k6ly21r2~x4/">Burberry Check Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k6w6k6ly21r2~x4/"><img src="/variants/s5/k6w6k6ly21r2~x4/sett.png" alt="Burberry Check Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -13,4 +13,4 @@ Part of the [Edinburgh Crystal](/tartans/edinburgh-crystal/) tartan — the name
 | Scale | Sett | Earliest | |
 |---|---|---|---|
 | ×4 | [Edinburgh Crystal](/variants/s5/dt30lb2k6db3r3~x4/) ★ | 1990 | ![Edinburgh Crystal sett](/variants/s5/dt30lb2k6db3r3~x4/sett.png) |
-| ×4 | [Edinburgh Crystal Corporate Tartan](/variants/s8/dt30lb2k6db3r3~x4/) | ~2016 | ![Edinburgh Crystal Corporate Tartan sett](/variants/s8/dt30lb2k6db3r3~x4/sett.png) |
+| ×4 | [Edinburgh Crystal Corporate Tartan](/variants/s5/dt30lb2k6db3r3~x4~db1406275/) | ~2016 | ![Edinburgh Crystal Corporate Tartan sett](/variants/s5/dt30lb2k6db3r3~x4~db1406275/sett.png) |

@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bridge of Weir Leather Co. (Corp)](/variants/s12/r3ly14y3ly3y3ly4y11dt11ri11r11ly1dt1~x2/)|
-|![Bridge of Weir Leather Co. (Corp) example sett](/variants/s12/r3ly14y3ly3y3ly4y11dt11ri11r11ly1dt1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/">Bridge of Weir Leather Co. (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/"><img src="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/sett.png" alt="Bridge of Weir Leather Co. (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

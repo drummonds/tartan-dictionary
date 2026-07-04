@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cameron of Locheil](/variants/s9/r6dg3r6db1lb1db1r2db8r4/)|
-|![Cameron of Locheil example sett](/variants/s9/r6dg3r6db1lb1db1r2db8r4/sett.png)|
-| [Cameron of Lochiel](/setts/r6g3r6db1w1db1r2db8r4/)|
-|![Cameron of Lochiel example sett](/variants/s9/r6g3r6db1w1db1r2db8r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r6g3r6db1w1db1r2db8r4/">Cameron of Locheil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r6g3r6db1w1db1r2db8r4/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4/sett.png" alt="Cameron of Locheil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

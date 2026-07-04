@@ -22,11 +22,20 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ramsay](/variants/s6/k4w2k28db30k1db3~x2/)|
-|![Ramsay example sett](/variants/s6/k4w2k28db30k1db3~x2/sett.png)|
-| [Ramsay Blue Hunting](/variants/s6/k4lb2k28b30k1b3~x2/)|
-|![Ramsay Blue Hunting example sett](/variants/s6/k4lb2k28b30k1b3~x2/sett.png)|
-| [Swan](/variants/s6/k3lb2k18db18k2db3~x4/)|
-|![Swan example sett](/variants/s6/k3lb2k18db18k2db3~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k4w2k28db30k1db3~x2/">Ramsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28db30k1db3~x2/"><img src="/variants/s6/k4w2k28db30k1db3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4lb2k28t30k1t3~x2/">Ramsay Blue Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><img src="/variants/s6/k4lb2k28t30k1t3~x2/sett.png" alt="Ramsay Blue Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3w2k18b18k2b3~x4/">Swan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k3w2k18b18k2b3~x4/"><img src="/variants/s6/k3w2k18b18k2b3~x4/sett.png" alt="Swan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k3w2k18t18k2t3~x4/">Swan (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k3w2k18t18k2t3~x4/"><img src="/variants/s6/k3w2k18t18k2t3~x4/sett.png" alt="Swan (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

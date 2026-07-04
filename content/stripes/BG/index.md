@@ -22,15 +22,22 @@ It is a 2 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hafren (Personal)](/variants/s2/n1g1~x130/)|
-|![Hafren (Personal) example sett](/variants/s2/n1g1~x130/sett.png)|
-| [Outlander #4](/variants/s2/dy9n1~x12/)|
-|![Outlander #4 example sett](/variants/s2/dy9n1~x12/sett.png)|
-| [Wilson's No.116 (light)](/variants/s2/y9dp8~x2/)|
-|![Wilson's No.116 (light) example sett](/variants/s2/y9dp8~x2/sett.png)|
-| [Wilson's No.210](/variants/s2/g7t6~x2/)|
-|![Wilson's No.210 example sett](/variants/s2/g7t6~x2/sett.png)|
-| [Wilson's, No 116](/variants/s2/g1p1~x16/)|
-|![Wilson's, No 116 example sett](/variants/s2/g1p1~x16/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s2/g9dp8~x2/">Wilson's No.116 (light)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/g9dp8~x2/"><img src="/variants/s2/g9dp8~x2/sett.png" alt="Wilson's No.116 (light) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/dp1g1~x16/">Wilson's, No 116</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/dp1g1~x16/"><img src="/variants/s2/dp1g1~x16/sett.png" alt="Wilson's, No 116 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s2/g1t1~x130/">Hafren (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/g1t1~x130/"><img src="/variants/s2/g1t1~x130/sett.png" alt="Hafren (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s2/dy9n1~x12/">Outlander #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/dy9n1~x12/"><img src="/variants/s2/dy9n1~x12/sett.png" alt="Outlander #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

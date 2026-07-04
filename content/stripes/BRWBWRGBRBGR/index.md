@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Parliament Official (Corp)](/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2/)|
-|![Scottish Parliament Official (Corp) example sett](/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/">Scottish Parliament Official Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/"><img src="/variants/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2~o2500000/sett.png" alt="Scottish Parliament Official Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

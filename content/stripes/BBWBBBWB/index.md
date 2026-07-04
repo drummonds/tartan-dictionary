@@ -22,15 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Eildon/Longniddry Blue Dress Fashion Tartan](/variants/s8/db30t2w2t2db4ti10w25db4~x2/)|
-|![Eildon/Longniddry Blue Dress Fashion Tartan example sett](/variants/s8/db30t2w2t2db4ti10w25db4~x2/sett.png)|
-| [Harmony Eildon (Dance)](/variants/s8/db41ti2w2ti2db5t12w31db4~x2/)|
-|![Harmony Eildon (Dance) example sett](/variants/s8/db41ti2w2ti2db5t12w31db4~x2/sett.png)|
-| [Harmony, Eildon](/variants/s8/db41t2w2t2db5b12w31db4~x2/)|
-|![Harmony, Eildon example sett](/variants/s8/db41t2w2t2db5b12w31db4~x2/sett.png)|
-| [Longniddry Dress District Tartan](/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/)|
-|![Longniddry Dress District Tartan example sett](/variants/s8/dp42db2w2db2dp5t12w32dp4~x2/sett.png)|
-| [Longniddry, dress](/variants/s8/p42db2w2db2p5b12w32p4~x2/)|
-|![Longniddry, dress example sett](/variants/s8/p42db2w2db2p5b12w32p4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/">Eildon/Longniddry Blue Dress Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/"><img src="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/sett.png" alt="Eildon/Longniddry Blue Dress Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/">Longniddry, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><img src="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/sett.png" alt="Longniddry, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

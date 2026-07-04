@@ -22,7 +22,20 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Tamer of Wolves](/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/)|
-|![Tamer of Wolves example sett](/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/">McLion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/"><img src="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/sett.png" alt="McLion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/">Tamer of Wolves</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/"><img src="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/sett.png" alt="Tamer of Wolves sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/">Wicklow County, Crest Range</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/"><img src="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/sett.png" alt="Wicklow County, Crest Range sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

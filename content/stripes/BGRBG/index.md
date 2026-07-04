@@ -22,9 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Harmony 8](/variants/s5/dr2y10o15dr10y2~x4/)|
-|![Harmony 8 example sett](/variants/s5/dr2y10o15dr10y2~x4/sett.png)|
-| [Harmony, 6](/variants/s5/dp2g10o15dp10g2~x4/)|
-|![Harmony, 6 example sett](/variants/s5/dp2g10o15dp10g2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/g2b10o15g10b2~x4/">Harmony, 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g2b10o15g10b2~x4/"><img src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/dp49g3r5db15y4~x2/">Orion Nebula</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dp49g3r5db15y4~x2/"><img src="/variants/s5/dp49g3r5db15y4~x2/sett.png" alt="Orion Nebula sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

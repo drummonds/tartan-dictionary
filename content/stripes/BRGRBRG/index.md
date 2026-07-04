@@ -22,19 +22,23 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [GS Gaelic School (School)](/variants/s7/dt30r5g30r22dt30r5g4/)|
-|![GS Gaelic School (School) example sett](/variants/s7/dt30r5g30r22dt30r5g4/sett.png)|
-| [Glasgow](/variants/s7/g25r4db24r21g25r3db4~x2/)|
-|![Glasgow example sett](/variants/s7/g25r4db24r21g25r3db4~x2/sett.png)|
-| [Glasgow #2](/variants/s7/dg25r4db24r21dg25r3db4~x2/)|
-|![Glasgow #2 example sett](/variants/s7/dg25r4db24r21dg25r3db4~x2/sett.png)|
-| [Glasgow, Ciity of (District)](/variants/s7/dg28r4dp25r22dg27r4dp2~x2/)|
-|![Glasgow, Ciity of (District) example sett](/variants/s7/dg28r4dp25r22dg27r4dp2~x2/sett.png)|
-| [Glasgow, City of](/variants/s7/g28r4dp25r22g27r4dp2~x2/)|
-|![Glasgow, City of example sett](/variants/s7/g28r4dp25r22g27r4dp2~x2/sett.png)|
-| [Glasgow, Rock and Wheel](/variants/s7/g25m4db24m21g25m4db2~x2/)|
-|![Glasgow, Rock and Wheel example sett](/variants/s7/g25m4db24m21g25m4db2~x2/sett.png)|
-| [Madder](/variants/s7/dg28r4dp27r27dg28r5dp2~x2/)|
-|![Madder example sett](/variants/s7/dg28r4dp27r27dg28r5dp2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/">Glasgow, Ciity of (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/"><img src="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/sett.png" alt="Glasgow, Ciity of (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/">Glasgow, City of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/"><img src="/variants/s7/g28r4dp25r22g27r4dp2~x2/sett.png" alt="Glasgow, City of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g28r4dp27r27g28r5dp2~x2/">Madder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g28r4dp27r27g28r5dp2~x2/"><img src="/variants/s7/g28r4dp27r27g28r5dp2~x2/sett.png" alt="Madder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/db30r5g30r22db30r5g4/">GS Gaelic School (School)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db30r5g30r22db30r5g4/"><img src="/variants/s7/db30r5g30r22db30r5g4/sett.png" alt="GS Gaelic School (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g25r4db24r21g25r3db4~x2/">Glasgow #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><img src="/variants/s7/g25r4db24r21g25r3db4~x2/sett.png" alt="Glasgow #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

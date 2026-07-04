@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lambert, Patrice (Personal)](/variants/s8/w1p3g6k1db12ly1db2ly1~x4/)|
-|![Lambert, Patrice (Personal) example sett](/variants/s8/w1p3g6k1db12ly1db2ly1~x4/sett.png)|
-| [Lambert, Patrice (Personal)](/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/)|
-|![Lambert, Patrice (Personal) example sett](/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/">Lambert, Patrice (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><img src="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/sett.png" alt="Lambert, Patrice (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

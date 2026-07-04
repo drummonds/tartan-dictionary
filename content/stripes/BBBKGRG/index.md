@@ -22,9 +22,18 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cairngorm #2](/variants/s7/n5t4n22k15y22o4y4~x2/)|
-|![Cairngorm #2 example sett](/variants/s7/n5t4n22k15y22o4y4~x2/sett.png)|
-| [Wcwm 9275-1395](/variants/s7/db6dp3db56k24g6r6g6/)|
-|![Wcwm 9275-1395 example sett](/variants/s7/db6dp3db56k24g6r6g6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/">MacThomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><img src="/variants/s7/db5dr3db32k16g32o3g5~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db5dp3db32k16g32o3g5/">MacThomas LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db5dp3db32k16g32o3g5/"><img src="/variants/s7/db5dp3db32k16g32o3g5/sett.png" alt="MacThomas LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db6dp3db56k24g6r6g6/">Wcwm 9275-1395</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db6dp3db56k24g6r6g6/"><img src="/variants/s7/db6dp3db56k24g6r6g6/sett.png" alt="Wcwm 9275-1395 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

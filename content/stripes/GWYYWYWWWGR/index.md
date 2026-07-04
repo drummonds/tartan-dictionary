@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McAleavy (2014)](/variants/s11/y56lb6ly6lyi2w2lyi2w16lb10w2y6r3~x2/)|
-|![McAleavy (2014) example sett](/variants/s11/y56lb6ly6lyi2w2lyi2w16lb10w2y6r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/">McAleavy (2014)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/"><img src="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/sett.png" alt="McAleavy (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

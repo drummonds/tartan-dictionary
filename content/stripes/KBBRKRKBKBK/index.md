@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Moggach (Strathspey)](/variants/s11/k4n4k4n18k9r4k9o1n18dt2k3~x2/)|
-|![Moggach (Strathspey) example sett](/variants/s11/k4n4k4n18k9r4k9o1n18dt2k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/">Moggach (Strathspey)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/"><img src="/variants/s11/k4n4k4n18k9r4k9o1n18db2k3~x2~n1900000-o2500000/sett.png" alt="Moggach (Strathspey) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

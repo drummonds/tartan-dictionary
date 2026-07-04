@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Linn (Personal)](/variants/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/)|
-|![Linn (Personal) example sett](/variants/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/w3db3r1db3r1db15r1db2g15ly1g2k20ly1k2ly2~x2/">Linn (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/w3db3r1db3r1db15r1db2g15ly1g2k20ly1k2ly2~x2/"><img src="/variants/s15/w3db3r1db3r1db15r1db2g15ly1g2k20ly1k2ly2~x2/sett.png" alt="Linn (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

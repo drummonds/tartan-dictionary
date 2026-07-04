@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ship Hector](/variants/s8/k4db9ly6db22g4w20g6w4/)|
-|![Ship Hector example sett](/variants/s8/k4db9ly6db22g4w20g6w4/sett.png)|
-| [Ship Hector, The (Commemorative)](/variants/s8/k3db10ly5db16g3w16g5w3~x2/)|
-|![Ship Hector, The (Commemorative) example sett](/variants/s8/k3db10ly5db16g3w16g5w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k3db10ly5db16g3w16g5w3~x2/">Ship Hector, The (Commemorative)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k3db10ly5db16g3w16g5w3~x2/"><img src="/variants/s8/k3db10ly5db16g3w16g5w3~x2/sett.png" alt="Ship Hector, The (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

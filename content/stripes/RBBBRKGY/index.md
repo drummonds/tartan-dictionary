@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Caledonian Labrador Retrievers](/variants/s8/m21db4dr5db4m5k21g21ly5~x2/)|
-|![Caledonian Labrador Retrievers example sett](/variants/s8/m21db4dr5db4m5k21g21ly5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/">Caledonian Labrador Retrievers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/"><img src="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/sett.png" alt="Caledonian Labrador Retrievers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

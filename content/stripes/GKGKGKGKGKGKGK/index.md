@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lochcarron Hunting (Corporate)](/variants/s14/dg3k10dg3k2dg2k2dg3k5dg2k5dg22ki2dg3ki2~x2/)|
-|![Lochcarron Hunting (Corporate) example sett](/variants/s14/dg3k10dg3k2dg2k2dg3k5dg2k5dg22ki2dg3ki2~x2/sett.png)|
-| [Watertown Library Assoc.](/variants/s14/k4y2k27y2k8y31k2y4~x2/)|
-|![Watertown Library Assoc. example sett](/variants/s14/k4y2k27y2k8y31k2y4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/">Watertown Library Assoc.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><img src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

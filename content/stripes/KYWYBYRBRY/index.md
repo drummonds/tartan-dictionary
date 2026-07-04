@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacLeroy & Troine](/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/)|
-|![MacLeroy & Troine example sett](/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2~n1900000-o2500000/">MacLeroy &amp; Troine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2~n1900000-o2500000/"><img src="/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2~n1900000-o2500000/sett.png" alt="MacLeroy &amp; Troine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [St Kentigern College](/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2/)|
-|![St Kentigern College example sett](/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2/sett.png)|
-| [St. Kentigern College (Corporate)](/variants/s10/db30dbi3db3dbi3db3dbi10k10dg20k2w4~x2/)|
-|![St. Kentigern College (Corporate) example sett](/variants/s10/db30dbi3db3dbi3db3dbi10k10dg20k2w4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2~b2208266-db1108266/">St Kentigern College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2~b2208266-db1108266/"><img src="/variants/s10/b30db3b3db3b3db10k10g20k2w4~x2~b2208266-db1108266/sett.png" alt="St Kentigern College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/dbi30db3dbi3db3dbi3db10k10dg20k2w4~x2~dbi1106275-db0903284/">St. Kentigern College (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dbi30db3dbi3db3dbi3db10k10dg20k2w4~x2~dbi1106275-db0903284/"><img src="/variants/s10/dbi30db3dbi3db3dbi3db10k10dg20k2w4~x2~dbi1106275-db0903284/sett.png" alt="St. Kentigern College (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

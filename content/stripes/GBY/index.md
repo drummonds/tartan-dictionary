@@ -22,11 +22,14 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gearach Woodcock Tweed (Corporate)](/variants/s3/dy2t1lo1~x2/)|
-|![Gearach Woodcock Tweed (Corporate) example sett](/variants/s3/dy2t1lo1~x2/sett.png)|
-| [Unidentified pattern #2](/variants/s3/dg12db3ly1~x4/)|
-|![Unidentified pattern #2 example sett](/variants/s3/dg12db3ly1~x4/sett.png)|
-| [Unidentified, pattern](/variants/s3/g12db3ly1~x4/)|
-|![Unidentified, pattern example sett](/variants/s3/g12db3ly1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/g9n4ly1~x16/">Ledford (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/g9n4ly1~x16/"><img src="/variants/s3/g9n4ly1~x16/sett.png" alt="Ledford (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

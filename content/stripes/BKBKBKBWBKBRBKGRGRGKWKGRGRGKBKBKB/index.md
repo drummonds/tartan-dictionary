@@ -22,9 +22,16 @@ It is a 33 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Flora, MacDonald Plaid](/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/)|
-|![Flora, MacDonald Plaid example sett](/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/sett.png)|
-| [MacDonald, Flora (Plaid)](/variants/s33/b24k4b4k4b4k22b24w6b24k22b18r24b18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22b4k4b4k4b24~x2/)|
-|![MacDonald, Flora (Plaid) example sett](/variants/s33/b24k4b4k4b4k22b24w6b24k22b18r24b18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22b4k4b4k4b24~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/">Flora, MacDonald Plaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/"><img src="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/sett.png" alt="Flora, MacDonald Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/">MacDonald, Flora (Plaid)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/"><img src="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/sett.png" alt="MacDonald, Flora (Plaid) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

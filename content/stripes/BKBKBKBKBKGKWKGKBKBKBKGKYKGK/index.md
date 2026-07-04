@@ -22,13 +22,14 @@ It is a 28 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Campbell of Argyll](/variants/s28/k16g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/)|
-|![Campbell of Argyll example sett](/variants/s28/k16g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/sett.png)|
-| [Campbell of Argyll](/variants/s28/k16dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db8k1db1k1db1~x2/)|
-|![Campbell of Argyll example sett](/variants/s28/k16dg8k1ly2k1dg8k8db8k1db1k1db8k8dg8k1w2k1dg8k8db1k1db1k1db8k1db1k1db1~x2/sett.png)|
-| [Campbell of Argyll (Clan)](/variants/s28/k13g13k1ly3k1g13k13b12k2b2k2b12k13g13k1w3k1g13k13b2k2b2k2b13k2b2k2b2~x4/)|
-|![Campbell of Argyll (Clan) example sett](/variants/s28/k13g13k1ly3k1g13k13b12k2b2k2b12k13g13k1w3k1g13k13b2k2b2k2b13k2b2k2b2~x4/sett.png)|
-| [Campbell of Argyll Clan Tartan](/variants/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/)|
-|![Campbell of Argyll Clan Tartan example sett](/variants/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/">Campbell of Argyll (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/"><img src="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/sett.png" alt="Campbell of Argyll (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

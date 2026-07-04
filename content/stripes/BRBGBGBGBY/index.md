@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cape Breton University](/variants/s10/db4o17db4g4db2g4db4g27db4ly4~x2/)|
-|![Cape Breton University example sett](/variants/s10/db4o17db4g4db2g4db4g27db4ly4~x2/sett.png)|
-| [Cape Breton University Chemistry Society](/variants/s10/db4o17db4y4db2y4db4y27db4ly4~x2/)|
-|![Cape Breton University Chemistry Society example sett](/variants/s10/db4o17db4y4db2y4db4y27db4ly4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/">Cape Breton University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><img src="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/sett.png" alt="Cape Breton University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

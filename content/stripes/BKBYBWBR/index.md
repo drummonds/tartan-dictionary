@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Maud, Mary](/variants/s8/db65k9db21ly8db21w8db35r35/)|
-|![Maud, Mary example sett](/variants/s8/db65k9db21ly8db21w8db35r35/sett.png)|
-| [Maud, Mary](/variants/s8/b130k9b21ly8b21w8b35r70/)|
-|![Maud, Mary example sett](/variants/s8/b130k9b21ly8b21w8b35r70/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/t130k9t21ly8t21w8t35r70/">Maud, Mary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><img src="/variants/s8/t130k9t21ly8t21w8t35r70/sett.png" alt="Maud, Mary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

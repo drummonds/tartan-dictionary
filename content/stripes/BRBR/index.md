@@ -22,13 +22,14 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Elliot](/variants/s4/db16m4db3r1~x2/)|
-|![Elliot example sett](/variants/s4/db16m4db3r1~x2/sett.png)|
-| [Elliott](/variants/s4/db16ri4db3r1~x2/)|
-|![Elliott example sett](/variants/s4/db16ri4db3r1~x2/sett.png)|
-| [Haggis Hostels](/variants/s4/r10t5o5n4~x8/)|
-|![Haggis Hostels example sett](/variants/s4/r10t5o5n4~x8/sett.png)|
-| [Masai Shuka 21 (Artefact)](/variants/s4/r40db2r6db15~x2/)|
-|![Masai Shuka 21 (Artefact) example sett](/variants/s4/r40db2r6db15~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/r40db2r6db15~x2/">Masai Shuka 21 (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r40db2r6db15~x2/"><img src="/variants/s4/r40db2r6db15~x2/sett.png" alt="Masai Shuka 21 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

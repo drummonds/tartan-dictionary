@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacCormick (Dress)](/variants/s6/k3g13k10r13k2r3~x2/)|
-|![MacCormick (Dress) example sett](/variants/s6/k3g13k10r13k2r3~x2/sett.png)|
-| [Tartan TV](/variants/s6/r19k3r19k32g3k8~x2/)|
-|![Tartan TV example sett](/variants/s6/r19k3r19k32g3k8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k3g13k10r13k2r3~x2/">MacCormick, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k3g13k10r13k2r3~x2/"><img src="/variants/s6/k3g13k10r13k2r3~x2/sett.png" alt="MacCormick, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/">Tartan TV</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/"><img src="/variants/s6/r19k3r19k32g3k8~x2~r2109032/sett.png" alt="Tartan TV sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

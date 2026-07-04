@@ -22,13 +22,19 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Erskine Dress Burgandy Clan Tartan](/variants/s6/r5w2r25w25r2w5~x2/)|
-|![Erskine Dress Burgandy Clan Tartan example sett](/variants/s6/r5w2r25w25r2w5~x2/sett.png)|
-| [Erskine Red & White (Dance)](/variants/s6/r2w1r9w9r1w2~x6/)|
-|![Erskine Red & White (Dance) example sett](/variants/s6/r2w1r9w9r1w2~x6/sett.png)|
-| [Erskine, Burgundy (Dance)](/variants/s6/r6w2r29w29r2w6~x2/)|
-|![Erskine, Burgundy (Dance) example sett](/variants/s6/r6w2r29w29r2w6~x2/sett.png)|
-| [Fallow Deer, The](/variants/s6/o3w17o11w2o11w2~x4/)|
-|![Fallow Deer, The example sett](/variants/s6/o3w17o11w2o11w2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r2w1r9w9r1w2~x6/">Erskine Red &amp; White (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r2w1r9w9r1w2~x6/"><img src="/variants/s6/r2w1r9w9r1w2~x6/sett.png" alt="Erskine Red &amp; White (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r6w2r29w29r2w6~x2/">Erskine, Burgundy (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r6w2r29w29r2w6~x2/"><img src="/variants/s6/r6w2r29w29r2w6~x2/sett.png" alt="Erskine, Burgundy (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/o3w17o11w2o11w2~x4/">Fallow Deer, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/o3w17o11w2o11w2~x4/"><img src="/variants/s6/o3w17o11w2o11w2~x4/sett.png" alt="Fallow Deer, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

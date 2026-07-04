@@ -22,11 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Perthshire (New) District Tartan](/variants/s6/db26r6g16db8g3r2~x2/)|
-|![Perthshire (New) District Tartan example sett](/variants/s6/db26r6g16db8g3r2~x2/sett.png)|
-| [Perthshire Tourist Board (Corporate)](/variants/s6/dp26r6g16dp8g3r2~x2/)|
-|![Perthshire Tourist Board (Corporate) example sett](/variants/s6/dp26r6g16dp8g3r2~x2/sett.png)|
-| [Perthshire, New /Tourist Board](/variants/s6/db37r10dg22db11dg3r3~x2/)|
-|![Perthshire, New /Tourist Board example sett](/variants/s6/db37r10dg22db11dg3r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db37r10dg22db11dg3r3~x2/">Perthshire, New /Tourist Board</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db37r10dg22db11dg3r3~x2/"><img src="/variants/s6/db37r10dg22db11dg3r3~x2/sett.png" alt="Perthshire, New /Tourist Board sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

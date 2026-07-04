@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hebrides Inner](/variants/s24/dr47db3dr1db3dr11dg4g4dr5db2dr1g4dr1db2dr5g4dr4dbi8dr1k2db4dr1db4k2dr23~x2/)|
-|![Hebrides Inner example sett](/variants/s24/dr47db3dr1db3dr11dg4g4dr5db2dr1g4dr1db2dr5g4dr4dbi8dr1k2db4dr1db4k2dr23~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/">Hebrides Inner</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/"><img src="/variants/s24/b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23~x2~dbi1604274-dg1104144-g2508144-db0805267/sett.png" alt="Hebrides Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

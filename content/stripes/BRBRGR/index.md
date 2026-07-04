@@ -22,15 +22,22 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Auld Reekie](/variants/s6/db4r3db3r22dg8r2~x2/)|
-|![Auld Reekie example sett](/variants/s6/db4r3db3r22dg8r2~x2/sett.png)|
-| [Auld Reekie](/variants/s6/db4r3db3r22g8r2~x2/)|
-|![Auld Reekie example sett](/variants/s6/db4r3db3r22g8r2~x2/sett.png)|
-| [Unidentified #21](/variants/s6/dp4r3dp26r26dg26r4~x2/)|
-|![Unidentified #21 example sett](/variants/s6/dp4r3dp26r26dg26r4~x2/sett.png)|
-| [Unidentified 16](/variants/s6/r4g26r26p26r3p4~x2/)|
-|![Unidentified 16 example sett](/variants/s6/r4g26r26p26r3p4~x2/sett.png)|
-| [Unidentified Artifact Tartan](/variants/s6/dp4r3dp26r26g26r4~x2/)|
-|![Unidentified Artifact Tartan example sett](/variants/s6/dp4r3dp26r26g26r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db4r3db3r22dg8r2~x2/">Auld Reekie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db4r3db3r22dg8r2~x2/"><img src="/variants/s6/db4r3db3r22dg8r2~x2/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/">Auld Reekie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/"><img src="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/sett.png" alt="Auld Reekie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/db48r18db6r13y4r14~x2/">Butler</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db48r18db6r13y4r14~x2/"><img src="/variants/s6/db48r18db6r13y4r14~x2/sett.png" alt="Butler sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/dp4r3dp26r26g26r4~x2/">Unidentified #21</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><img src="/variants/s6/dp4r3dp26r26g26r4~x2/sett.png" alt="Unidentified #21 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pendleton Dress](/variants/s11/dbi6db40dg34r5dg34k6dg34ly5dg34db40dbi6/)|
-|![Pendleton Dress example sett](/variants/s11/dbi6db40dg34r5dg34k6dg34ly5dg34db40dbi6/sett.png)|
-| [Pendleton Hunting](/variants/s11/dbi2db16dg14r3dg14k3dg14lo3dg14db16dbi2~x2/)|
-|![Pendleton Hunting example sett](/variants/s11/dbi2db16dg14r3dg14k3dg14lo3dg14db16dbi2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2~x2~dbi1406275-db1204274/">Pendleton Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2~x2~dbi1406275-db1204274/"><img src="/variants/s11/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2~x2~dbi1406275-db1204274/sett.png" alt="Pendleton Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

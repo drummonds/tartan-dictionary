@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Swiss Red](/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/)|
-|![Swiss Red example sett](/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/w18r9w1r1w2r1w1r9db3r4/">Swiss Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w18r9w1r1w2r1w1r9db3r4/"><img src="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/sett.png" alt="Swiss Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

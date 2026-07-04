@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Khosla, Sarah and Justin (Personal)](/variants/s9/dp4n10m18ly3m3ly5r8n9w4~x2/)|
-|![Khosla, Sarah and Justin (Personal) example sett](/variants/s9/dp4n10m18ly3m3ly5r8n9w4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dp4n10r18ly3r3ly5ri8n9w4/">Khosla, Sarah and Jatin (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dp4n10r18ly3r3ly5ri8n9w4/"><img src="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2806019/sett.png" alt="Khosla, Sarah and Jatin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

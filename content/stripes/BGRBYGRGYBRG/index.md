@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kilkenny, County](/variants/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/)|
-|![Kilkenny, County example sett](/variants/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/">Kilkenny, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/"><img src="/variants/s12/dg27o2db25ly5dg3o3dg3ly5db25o2dg27dr4~x2/sett.png" alt="Kilkenny, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

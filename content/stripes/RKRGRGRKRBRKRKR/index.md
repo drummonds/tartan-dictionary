@@ -22,13 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Grant](/variants/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/)|
-|![Grant example sett](/variants/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/sett.png)|
-| [Grant of Ballindalloch](/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/)|
-|![Grant of Ballindalloch example sett](/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/sett.png)|
-| [Grant, Kilt](/variants/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/)|
-|![Grant, Kilt example sett](/variants/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/sett.png)|
-| [Unidentified No 3 #2](/variants/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/)|
-|![Unidentified No 3 #2 example sett](/variants/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/">Grant of Ballindalloch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><img src="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/sett.png" alt="Grant of Ballindalloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

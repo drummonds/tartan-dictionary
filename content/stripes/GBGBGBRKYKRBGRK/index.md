@@ -22,9 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Loseby, Luke (Personal)](/variants/s15/y15dt3y3dt3y3dt16o16k5lo2k5o16dt16y15r1k4~x2/)|
-|![Loseby, Luke (Personal) example sett](/variants/s15/y15dt3y3dt3y3dt16o16k5lo2k5o16dt16y15r1k4~x2/sett.png)|
-| [Loseby, Luke (Personal)](/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/)|
-|![Loseby, Luke (Personal) example sett](/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/">Loseby, Luke (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/"><img src="/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/sett.png" alt="Loseby, Luke (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

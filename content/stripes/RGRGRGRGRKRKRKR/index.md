@@ -22,9 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonell of Keppoch](/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/)|
-|![MacDonell of Keppoch example sett](/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/sett.png)|
-| [MacDonell of Keppoch #3](/variants/s15/r12g2r1g1r1g1r6g12r1k1r12k1r1k1r3~x4/)|
-|![MacDonell of Keppoch #3 example sett](/variants/s15/r12g2r1g1r1g1r6g12r1k1r12k1r1k1r3~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/">MacDonell of Keppoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/"><img src="/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/sett.png" alt="MacDonell of Keppoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

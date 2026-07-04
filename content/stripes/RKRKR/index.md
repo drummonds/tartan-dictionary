@@ -22,13 +22,20 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Campbell Red (artefact)](/variants/s5/r4k1r24k22r2~x2/)|
-|![Campbell Red (artefact) example sett](/variants/s5/r4k1r24k22r2~x2/sett.png)|
-| [Campbell of Armaddie](/variants/s5/r4k1r12k12r2~x2/)|
-|![Campbell of Armaddie example sett](/variants/s5/r4k1r12k12r2~x2/sett.png)|
-| [MacLeod Black & Red](/variants/s5/r8k1r8k12r1~x2/)|
-|![MacLeod Black & Red example sett](/variants/s5/r8k1r8k12r1~x2/sett.png)|
-| [Masai Shuka 07 (Artefact)](/variants/s5/r75k15r4k15r4~x2/)|
-|![Masai Shuka 07 (Artefact) example sett](/variants/s5/r75k15r4k15r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r4k1r24k22r2~x2/">Campbell Red (artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r4k1r24k22r2~x2/"><img src="/variants/s5/r4k1r24k22r2~x2/sett.png" alt="Campbell Red (artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r4k1r12k12r2~x2/">Campbell of Armaddie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r4k1r12k12r2~x2/"><img src="/variants/s5/r4k1r12k12r2~x2/sett.png" alt="Campbell of Armaddie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r8k1r8k12r1~x2/">MacLeod Black &amp; Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r8k1r8k12r1~x2/"><img src="/variants/s5/r8k1r8k12r1~x2/sett.png" alt="MacLeod Black &amp; Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r75k15r4k15r4~x2/">Masai Shuka 07 (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r75k15r4k15r4~x2/"><img src="/variants/s5/r75k15r4k15r4~x2/sett.png" alt="Masai Shuka 07 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

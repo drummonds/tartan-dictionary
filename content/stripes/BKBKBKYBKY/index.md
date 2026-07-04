@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pride of Scotland, Muted (Fashion)](/variants/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/)|
-|![Pride of Scotland, Muted (Fashion) example sett](/variants/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/">Pride of Scotland, Muted (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><img src="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/sett.png" alt="Pride of Scotland, Muted (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

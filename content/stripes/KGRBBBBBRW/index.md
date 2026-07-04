@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Crieff Primary School](/variants/s10/k3g1o1dt6n2dt1n1dt1o10lb1~x4/)|
-|![Crieff Primary School example sett](/variants/s10/k3g1o1dt6n2dt1n1dt1o10lb1~x4/sett.png)|
-| [Crieff Primary School](/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/)|
-|![Crieff Primary School example sett](/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/">Crieff Primary School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><img src="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/sett.png" alt="Crieff Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

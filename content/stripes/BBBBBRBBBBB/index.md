@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Paul Henry (Personal)](/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2/)|
-|![Paul Henry (Personal) example sett](/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/">Paul Henry (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/"><img src="/variants/s11/n4dt3n7db9ni13r2n13dt9n7db3ni4~x2~n1700000-ni1803246/sett.png" alt="Paul Henry (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sandhu (Personal)](/variants/s20/k64n64r4n12r4n64k64lo7w7g7k64n64r4n12r4n64k64g7w7lo7/)|
-|![Sandhu (Personal) example sett](/variants/s20/k64n64r4n12r4n64k64lo7w7g7k64n64r4n12r4n64k64g7w7lo7/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/">Sandhu (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"><img src="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/sett.png" alt="Sandhu (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

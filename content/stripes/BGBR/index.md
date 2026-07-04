@@ -22,15 +22,19 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Elliot (Clan)](/variants/s4/db44dy12db9r3~x2/)|
-|![Elliot (Clan) example sett](/variants/s4/db44dy12db9r3~x2/sett.png)|
-| [Heslop, William D (Name)](/variants/s4/n44dg12dt1r6~x2/)|
-|![Heslop, William D (Name) example sett](/variants/s4/n44dg12dt1r6~x2/sett.png)|
-| [Highland Spring](/variants/s4/r5p19g3p5~x2/)|
-|![Highland Spring example sett](/variants/s4/r5p19g3p5~x2/sett.png)|
-| [Highland Spring (1988) (Corporate)](/variants/s4/dp3g1dp9r3~x4/)|
-|![Highland Spring (1988) (Corporate) example sett](/variants/s4/dp3g1dp9r3~x4/sett.png)|
-| [Highland Spring Corporate Tartan](/variants/s4/dp5g2dp19r5~x2/)|
-|![Highland Spring Corporate Tartan example sett](/variants/s4/dp5g2dp19r5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/dp5g3dp19r5~x2/">Highland Spring</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dp5g3dp19r5~x2/"><img src="/variants/s4/dp5g3dp19r5~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dp5g2dp19r5~x2/">Highland Spring Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dp5g2dp19r5~x2/"><img src="/variants/s4/dp5g2dp19r5~x2/sett.png" alt="Highland Spring Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/n44dg12db1r6/">Heslop Lurdenlaw by Kelso</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/n44dg12db1r6/"><img src="/variants/s4/n44dg12db1r6~x2/sett.png" alt="Heslop Lurdenlaw by Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

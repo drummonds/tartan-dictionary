@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ar Lenn Vor](/variants/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/)|
-|![Ar Lenn Vor example sett](/variants/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/sett.png)|
-| [Ar Lenn Vor](/variants/s11/b15ly30w30k20w20k15w10ly4b94w4r10/)|
-|![Ar Lenn Vor example sett](/variants/s11/b15ly30w30k20w20k15w10ly4b94w4r10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/">Ar Lenn Vor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><img src="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/sett.png" alt="Ar Lenn Vor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

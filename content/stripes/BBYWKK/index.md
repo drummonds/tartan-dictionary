@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ferster, James Carney](/variants/s6/t12dp35lr4w3ki11k5~x2/)|
-|![Ferster, James Carney example sett](/variants/s6/t12dp35lr4w3ki11k5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/">Ferster, James Carney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><img src="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/sett.png" alt="Ferster, James Carney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

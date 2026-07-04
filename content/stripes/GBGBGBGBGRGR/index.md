@@ -22,7 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dublin, County](/variants/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2/)|
-|![Dublin, County example sett](/variants/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/">Dublin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><img src="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/sett.png" alt="Dublin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2~dr1004029-r1606028/">Dublin, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2~dr1004029-r1606028/"><img src="/variants/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2~dr1004029-r1606028/sett.png" alt="Dublin, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

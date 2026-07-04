@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacNeish](/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/)|
-|![MacNeish example sett](/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g6r3k3r24g4k10r2g4r2g24r6g2/">MacNeish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g6r3k3r24g4k10r2g4r2g24r6g2/"><img src="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2~g2408144/sett.png" alt="MacNeish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

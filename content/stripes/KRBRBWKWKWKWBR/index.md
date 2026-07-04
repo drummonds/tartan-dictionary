@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edinburgh Military Tattoo (Dance)](/variants/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/)|
-|![Edinburgh Military Tattoo (Dance) example sett](/variants/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/sett.png)|
-| [Edinburgh, Military Tattoo](/variants/s14/k4r5db3r12b18w4k4w4k4w4k4w4db18r4~x2/)|
-|![Edinburgh, Military Tattoo example sett](/variants/s14/k4r5db3r12b18w4k4w4k4w4k4w4db18r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/k4r5db3r12b18w4k4w4k4w4k4w4db18r4~x2/">Edinburgh, Military Tattoo</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k4r5db3r12b18w4k4w4k4w4k4w4db18r4~x2/"><img src="/variants/s14/k4r5db3r12b18w4k4w4k4w4k4w4db18r4~x2/sett.png" alt="Edinburgh, Military Tattoo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kilmaine Saints](/variants/s6/k54n11g13ly1db13w1~x2/)|
-|![Kilmaine Saints example sett](/variants/s6/k54n11g13ly1db13w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k54n11g13ly1t13w1~x2/">Kilmaine Saints (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k54n11g13ly1t13w1~x2/"><img src="/variants/s6/k54n11g13ly1t13w1~x2/sett.png" alt="Kilmaine Saints (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

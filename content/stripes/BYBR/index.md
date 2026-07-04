@@ -22,15 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Klymson (Personal)](/variants/s4/n70lo16b3o45/)|
-|![Klymson (Personal) example sett](/variants/s4/n70lo16b3o45/sett.png)|
-| [Mother's Pride](/variants/s4/r10db10lo1~x4/)|
-|![Mother's Pride example sett](/variants/s4/r10db10lo1~x4/sett.png)|
-| [Outlander #3](/variants/s4/o14n7lo7n2~x8/)|
-|![Outlander #3 example sett](/variants/s4/o14n7lo7n2~x8/sett.png)|
-| [Sanix Large Muted](/variants/s4/db3lo30db40r3~x2/)|
-|![Sanix Large Muted example sett](/variants/s4/db3lo30db40r3~x2/sett.png)|
-| [UEFA (Corporate)](/variants/s4/b30ly5b4r12~x4/)|
-|![UEFA (Corporate) example sett](/variants/s4/b30ly5b4r12~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/n70lo16t3o45/">Klymson (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/n70lo16t3o45/"><img src="/variants/s4/n70lo16t3o45/sett.png" alt="Klymson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/">Outlander #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/"><img src="/variants/s4/o14n7ly7n2~x8~o2500000-n1900000/sett.png" alt="Outlander #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

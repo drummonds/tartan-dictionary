@@ -22,9 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Braveheart - Warrior (dress) Universal Tartan](/variants/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/)|
-|![Braveheart - Warrior (dress) Universal Tartan example sett](/variants/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/sett.png)|
-| [Braveheart Warrior (Dress)](/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/)|
-|![Braveheart Warrior (Dress) example sett](/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/">Braveheart - Warrior (dress) Universal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><img src="/variants/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/sett.png" alt="Braveheart - Warrior (dress) Universal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/">Braveheart Warrior (Dress)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><img src="/variants/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/sett.png" alt="Braveheart Warrior (Dress) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

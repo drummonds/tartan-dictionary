@@ -22,7 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Allt Dubh (Black Burn)](/variants/s6/k99r5k4r3k2y1~x2/)|
-|![Allt Dubh (Black Burn) example sett](/variants/s6/k99r5k4r3k2y1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k99r5k4r3k2g1~x2/">Allt Dubh (Black Burn)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k99r5k4r3k2g1~x2/"><img src="/variants/s6/k99r5k4r3k2g1~x2/sett.png" alt="Allt Dubh (Black Burn) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k2r6k2r6k12y1/">MacQueen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k2r6k2r6k12y1/"><img src="/variants/s6/k2r6k2r6k12y1~x2/sett.png" alt="MacQueen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

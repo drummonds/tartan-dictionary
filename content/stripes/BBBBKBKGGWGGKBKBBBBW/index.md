@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Inverclyde Green](/variants/s20/db5b2db9dp10k2dp4k2gi10g33w2g33gi10k2dp4k2dp10db9b2db5w3~x2/)|
-|![Inverclyde Green example sett](/variants/s20/db5b2db9dp10k2dp4k2gi10g33w2g33gi10k2dp4k2dp10db9b2db5w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s20/db5t2db9dp10k2dp4k2dg10g33w2g33dg10k2dp4k2dp10db9t2db5w3~x2~db1204274-dg1806142-g2203152/">Inverclyde Green</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/db5t2db9dp10k2dp4k2dg10g33w2g33dg10k2dp4k2dp10db9t2db5w3~x2~db1204274-dg1806142-g2203152/"><img src="/variants/s20/db5t2db9dp10k2dp4k2dg10g33w2g33dg10k2dp4k2dp10db9t2db5w3~x2~db1204274-dg1806142-g2203152/sett.png" alt="Inverclyde Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Clan Pipers Frankfurt and District Pipe Band](/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/)|
-|![Clan Pipers Frankfurt and District Pipe Band example sett](/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/sett.png)|
-| [Frankfurt & Disttrict P & D (Corpora](/variants/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/)|
-|![Frankfurt & Disttrict P & D (Corpora example sett](/variants/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/">Clan Pipers Frankfurt and District Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><img src="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/sett.png" alt="Clan Pipers Frankfurt and District Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

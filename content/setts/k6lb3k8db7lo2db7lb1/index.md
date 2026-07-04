@@ -7,8 +7,10 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 [KWKBYBW](/stripes/kwkbybw/); each scale below is its own sett page. First attested **~1996**
 — its oldest sett (★) anchors the tartan as the parent.
 
+Part of the [St. Johnstone F.C.](/tartans/st-johnstone-f-c/) tartan — the named design grouping this proportion with its other setts.
+
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
 | ×4 | [St. Johnstone F.C. (Sports)](/variants/s7/k6lb3k8db7lo2db7lb1~x4/) ★ | ~1996 | ![St. Johnstone F.C. (Sports) sett](/variants/s7/k6lb3k8db7lo2db7lb1~x4/sett.png) |
-| ×4 | [St. Johnstone Football Club](/variants/s12/k6lb3k8db7lo2db7lb1~x4/) | 1997 | ![St. Johnstone Football Club sett](/variants/s12/k6lb3k8db7lo2db7lb1~x4/sett.png) |
+| ×4 | [St. Johnstone Football Club](/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/) | 1997 | ![St. Johnstone Football Club sett](/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/sett.png) |

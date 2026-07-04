@@ -22,9 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wilson's No.122](/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/)|
-|![Wilson's No.122 example sett](/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/sett.png)|
-| [Wilson's No.124](/variants/s8/g14dp11y3k5y3dp11g14ly2~x2/)|
-|![Wilson's No.124 example sett](/variants/s8/g14dp11y3k5y3dp11g14ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/">Wilson's No.122</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><img src="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/sett.png" alt="Wilson's No.122 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/">Wilson's No.124</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><img src="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/sett.png" alt="Wilson's No.124 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

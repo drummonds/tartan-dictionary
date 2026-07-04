@@ -22,7 +22,14 @@ It is a 31 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Brides Plaid](/variants/s31/r4w1lb2dp4w1dg2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2/)|
-|![Brides Plaid example sett](/variants/s31/r4w1lb2dp4w1dg2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1/">Brides Plaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1/"><img src="/variants/s31/r4w1lb2dp4w1g2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8ri6w1~x2~r2109032-ri2807025/sett.png" alt="Brides Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

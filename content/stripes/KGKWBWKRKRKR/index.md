@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Jardine, dress](/variants/s12/r26k2r6k2r6k20w2db44w2k6g64k3/)|
-|![Jardine, dress example sett](/variants/s12/r26k2r6k2r6k20w2db44w2k6g64k3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r26k2r6k2r6k20w2db44w2k6g64k3/">Jardine, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r26k2r6k2r6k20w2db44w2k6g64k3/"><img src="/variants/s12/r26k2r6k2r6k20w2db44w2k6g64k3/sett.png" alt="Jardine, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

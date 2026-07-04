@@ -22,13 +22,20 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Robertson Htg - 1816 (Clan)](/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/)|
-|![Robertson Htg - 1816 (Clan) example sett](/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png)|
-| [Robertson Hunting](/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/)|
-|![Robertson Hunting example sett](/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png)|
-| [Robertson of Kindeace](/variants/s15/db12k2db2k2db2k12dg16k1r3k1dg16k12db12k1lb3~x2/)|
-|![Robertson of Kindeace example sett](/variants/s15/db12k2db2k2db2k12dg16k1r3k1dg16k12db12k1lb3~x2/sett.png)|
-| [Robertson of Kindeace](/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/)|
-|![Robertson of Kindeace example sett](/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/">Robertson Htg - 1816 (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson Htg - 1816 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/">Robertson of Kindeace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/">Robertson of Kindeace</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><img src="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/sett.png" alt="Robertson of Kindeace sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

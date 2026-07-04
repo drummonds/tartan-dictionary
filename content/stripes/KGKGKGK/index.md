@@ -22,9 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Strathspey District (District)](/variants/s7/k1y5k5g5k1g1k1~x4/)|
-|![Strathspey District (District) example sett](/variants/s7/k1y5k5g5k1g1k1~x4/sett.png)|
-| [Taiheiyo Club, Inc.](/variants/s7/k46dg6k6dg6k42dg47k12/)|
-|![Taiheiyo Club, Inc. example sett](/variants/s7/k46dg6k6dg6k42dg47k12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/">Grass of Rasunda (2009), The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><img src="/variants/s7/k14dg7k2g8k4y2k1~x4/sett.png" alt="Grass of Rasunda (2009), The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/k46dg6k6dg6k42dg47k12/">Taiheiyo Club, Inc.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><img src="/variants/s7/k46dg6k6dg6k42dg47k12/sett.png" alt="Taiheiyo Club, Inc. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

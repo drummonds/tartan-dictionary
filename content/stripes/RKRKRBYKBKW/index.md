@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cork County Crest (Fashion)](/variants/s11/r7k6r62k15r20n15lo10k16db10k3w6/)|
-|![Cork County Crest (Fashion) example sett](/variants/s11/r7k6r62k15r20n15lo10k16db10k3w6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/">Cork County Crest (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/"><img src="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/sett.png" alt="Cork County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

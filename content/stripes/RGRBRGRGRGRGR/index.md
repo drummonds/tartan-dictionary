@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Grant of Rothiemurchus](/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/)|
-|![Grant of Rothiemurchus example sett](/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/sett.png)|
-| [Unnamed 18th century plaid from Rothiemurchus](/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/)|
-|![Unnamed 18th century plaid from Rothiemurchus example sett](/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/">Grant of Rothiemurchus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/"><img src="/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Grant of Rothiemurchus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/">Unnamed 18th century plaid from Rothiemurchus</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/"><img src="/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Unnamed 18th century plaid from Rothiemurchus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

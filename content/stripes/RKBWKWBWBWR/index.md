@@ -22,11 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacRae, Dress](/variants/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/)|
-|![MacRae, Dress example sett](/variants/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/sett.png)|
-| [McRae, Dress](/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/)|
-|![McRae, Dress example sett](/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/sett.png)|
-| [Scott, (MacRae)](/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/)|
-|![Scott, (MacRae) example sett](/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/">McRae, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><img src="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/sett.png" alt="McRae, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/">Scott, (MacRae)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><img src="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png" alt="Scott, (MacRae) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

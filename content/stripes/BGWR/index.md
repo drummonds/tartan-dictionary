@@ -22,11 +22,19 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Farooq (Personal)](/variants/s4/n8g20w4r1~x5/)|
-|![Farooq (Personal) example sett](/variants/s4/n8g20w4r1~x5/sett.png)|
-| [Farooq in Livingston (Personal)](/variants/s4/n8y8w4o1~x5/)|
-|![Farooq in Livingston (Personal) example sett](/variants/s4/n8y8w4o1~x5/sett.png)|
-| [Wilson's, No 189](/variants/s4/p4g10w1r1~x2/)|
-|![Wilson's, No 189 example sett](/variants/s4/p4g10w1r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/db8g20w4r1~x5/">Farooq (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/db8g20w4r1~x5/"><img src="/variants/s4/db8g20w4r1~x5/sett.png" alt="Farooq (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db8g8w4r1~x5/">Farooq in Livingston (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/db8g8w4r1~x5/"><img src="/variants/s4/db8g8w4r1~x5/sett.png" alt="Farooq in Livingston (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dp4g10w1r1~x2/">Wilson's, No 189</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dp4g10w1r1~x2/"><img src="/variants/s4/dp4g10w1r1~x2/sett.png" alt="Wilson's, No 189 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

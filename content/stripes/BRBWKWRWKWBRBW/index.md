@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hamburg 2](/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2/)|
-|![Hamburg 2 example sett](/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2~lb3203246/">Hamburg 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2~lb3203246/"><img src="/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2~lb3203246/sett.png" alt="Hamburg 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

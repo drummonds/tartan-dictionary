@@ -22,17 +22,23 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Largan (?)](/variants/s6/db8k39db8k39db87r6/)|
-|![Largan (?) example sett](/variants/s6/db8k39db8k39db87r6/sett.png)|
-| [MacCorquodale #2](/variants/s6/r8b32k24db24k3b3~x2/)|
-|![MacCorquodale #2 example sett](/variants/s6/r8b32k24db24k3b3~x2/sett.png)|
-| [MacKay V](/variants/s6/db2k6db2k6db16r1~x2/)|
-|![MacKay V example sett](/variants/s6/db2k6db2k6db16r1~x2/sett.png)|
-| [Mackay (Blue)](/variants/s6/n1k3n1k3n8r1~x8/)|
-|![Mackay (Blue) example sett](/variants/s6/n1k3n1k3n8r1~x8/sett.png)|
-| [Morgan (MacKay Blue) Clan Tartan](/variants/s6/db1k3db1k3db8r1~x4/)|
-|![Morgan (MacKay Blue) Clan Tartan example sett](/variants/s6/db1k3db1k3db8r1~x4/sett.png)|
-| [Norsemen, The](/variants/s6/n65ki2n4k2n10r24~x2/)|
-|![Norsemen, The example sett](/variants/s6/n65ki2n4k2n10r24~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db8k39db8k39db87r6/">Largan (?)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db8k39db8k39db87r6/"><img src="/variants/s6/db8k39db8k39db87r6/sett.png" alt="Largan (?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db1k3db1k3db8r1/">MacKay -1842 (VS) (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db1k3db1k3db8r1/"><img src="/variants/s6/db1k3db1k3db8r1~x4/sett.png" alt="MacKay -1842 (VS) (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db2k6db2k6db16r1~x2/">MacKay V</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db2k6db2k6db16r1~x2/"><img src="/variants/s6/db2k6db2k6db16r1~x2/sett.png" alt="MacKay V sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1t8k3t1k3t1~x8/">Mackay (Blue)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r1t8k3t1k3t1~x8/"><img src="/variants/s6/r1t8k3t1k3t1~x8/sett.png" alt="Mackay (Blue) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/r8t32k24db24k3t3~x2/">MacCorquodale #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r8t32k24db24k3t3~x2/"><img src="/variants/s6/r8t32k24db24k3t3~x2/sett.png" alt="MacCorquodale #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McWilliams Personal Tartan](/variants/s12/k3db15k9ki3k2ki14k2ki3k9db13k2db3~x2/)|
-|![McWilliams Personal Tartan example sett](/variants/s12/k3db15k9ki3k2ki14k2ki3k9db13k2db3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/">McWilliams Personal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><img src="/variants/s6/k3db15k42db13k2db3~x2~db1704245/sett.png" alt="McWilliams Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

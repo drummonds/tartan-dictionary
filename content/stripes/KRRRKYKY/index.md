@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wilbers #2 (Personal)](/variants/s8/ly5k9ly2k7o10r4o35k4~x2/)|
-|![Wilbers #2 (Personal) example sett](/variants/s8/ly5k9ly2k7o10r4o35k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/">Wilbers #2 (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><img src="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/sett.png" alt="Wilbers #2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bisset](/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/)|
-|![Bisset example sett](/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png)|
-| [Bisset](/variants/s9/r3g6k2g2k1ly1g2db3w1~x4/)|
-|![Bisset example sett](/variants/s9/r3g6k2g2k1ly1g2db3w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/">Bisset</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><img src="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png" alt="Bisset sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

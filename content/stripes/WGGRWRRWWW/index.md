@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ribbons of Hope](/variants/s10/w3g6gi4rii12w4ri10r5lp8w3lp3~x2/)|
-|![Ribbons of Hope example sett](/variants/s10/w3g6gi4rii12w4ri10r5lp8w3lp3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/w3g6gi4rii12w4ri10r5lp8w3lp3~x2~g2408144-gi2504202-rii2806019-ri2406019-r2109032/">Ribbons of Hope</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w3g6gi4rii12w4ri10r5lp8w3lp3~x2~g2408144-gi2504202-rii2806019-ri2406019-r2109032/"><img src="/variants/s10/w3g6gi4rii12w4ri10r5lp8w3lp3~x2~g2408144-gi2504202-rii2806019-ri2406019-r2109032/sett.png" alt="Ribbons of Hope sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

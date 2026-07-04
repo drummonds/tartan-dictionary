@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Nichol (Personal)](/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/)|
-|![Nichol (Personal) example sett](/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/">Nichol (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/"><img src="/variants/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/sett.png" alt="Nichol (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

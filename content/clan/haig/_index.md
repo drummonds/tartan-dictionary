@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s8/k1w1k1w1b1~x12/"><img src="/variants/s8/k1w1k1w1b1~x12/sett.png" alt="Haig Check (Estate Check)" width="240"><br>Haig Check (Estate Check)</a>
+<a class="tartan" href="/variants/s5/k1w1k1w1t1~x12/"><img src="/variants/s5/k1w1k1w1t1~x12/sett.png" alt="Haig Check (Estate Check)" width="240"><br>Haig Check (Estate Check)</a>
 

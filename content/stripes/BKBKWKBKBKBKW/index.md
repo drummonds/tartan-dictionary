@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hanson (2016)](/variants/s13/p2k3b9k3w2k3b9k2dt3k34dt3k2lb2~x2/)|
-|![Hanson (2016) example sett](/variants/s13/p2k3b9k3w2k3b9k2dt3k34dt3k2lb2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/">Hanson (2016)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/"><img src="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/sett.png" alt="Hanson (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

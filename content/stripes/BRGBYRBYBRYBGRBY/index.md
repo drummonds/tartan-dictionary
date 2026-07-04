@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Monaghan, County](/variants/s16/lo3do2o14lo8do14dg16o13do2lo3~x2/)|
-|![Monaghan, County example sett](/variants/s16/lo3do2o14lo8do14dg16o13do2lo3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/">Monaghan, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><img src="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/sett.png" alt="Monaghan, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

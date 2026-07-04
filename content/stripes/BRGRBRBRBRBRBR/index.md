@@ -22,9 +22,16 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fraser of Altyre](/variants/s14/r4db2r45db2r2db40r4db4r2db2r2g40r2db2~x2/)|
-|![Fraser of Altyre example sett](/variants/s14/r4db2r45db2r2db40r4db4r2db2r2g40r2db2~x2/sett.png)|
-| [Fraser of Altyre](/variants/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/)|
-|![Fraser of Altyre example sett](/variants/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2~x2/">Fraser of Altyre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2~x2/"><img src="/variants/s14/r4db2r45db2r2db40r4db4r2db2r2dg40r2db2~x2/sett.png" alt="Fraser of Altyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/">Fraser of Altyre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/"><img src="/variants/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/sett.png" alt="Fraser of Altyre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Teddy Bear 111th Anniversary](/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/)|
-|![Teddy Bear 111th Anniversary example sett](/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/">Teddy Bear 111th Anniversary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><img src="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/sett.png" alt="Teddy Bear 111th Anniversary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

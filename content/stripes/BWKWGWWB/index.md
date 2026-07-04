@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Desang](/variants/s8/dr4w2lb8dg2lb8k3w2db4~x2/)|
-|![Desang example sett](/variants/s8/dr4w2lb8dg2lb8k3w2db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dr4wi2w8dg2w8k3wi2db4/">Desang</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dr4wi2w8dg2w8k3wi2db4/"><img src="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/sett.png" alt="Desang sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

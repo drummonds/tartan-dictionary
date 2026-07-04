@@ -22,9 +22,17 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scotland Forever](/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2/)|
-|![Scotland Forever example sett](/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2/sett.png)|
-| [Scotland Forever Fashion Weavers Tartan](/variants/s11/b6k3db19k6db4k3n12g4n12w2b5~x2/)|
-|![Scotland Forever Fashion Weavers Tartan example sett](/variants/s11/b6k3db19k6db4k3n12g4n12w2b5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2~db1204274/">Scotland Forever</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2~db1204274/"><img src="/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2~db1204274/sett.png" alt="Scotland Forever sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/t6k3db19k6db4k3dp12g4dp12w2t5~x2~t2205244-db1204274/">Scotland Forever Fashion Weavers Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/t6k3db19k6db4k3dp12g4dp12w2t5~x2~t2205244-db1204274/"><img src="/variants/s11/t6k3db19k6db4k3dp12g4dp12w2t5~x2~t2205244-db1204274/sett.png" alt="Scotland Forever Fashion Weavers Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

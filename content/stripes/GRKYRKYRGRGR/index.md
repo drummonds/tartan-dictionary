@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Livingstone (Australia) NSW](/variants/s12/dg12o4k1ly1o2k1ly1o4dg16o20dg2o8~x2/)|
-|![Livingstone (Australia) NSW example sett](/variants/s12/dg12o4k1ly1o2k1ly1o4dg16o20dg2o8~x2/sett.png)|
-| [Livingstone Australia (NSW) (Clan)](/variants/s12/dg12m4k1lo1m2k1lo1m4dg16m20dg2m8~x2/)|
-|![Livingstone Australia (NSW) (Clan) example sett](/variants/s12/dg12m4k1lo1m2k1lo1m4dg16m20dg2m8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg12r4k1ly1r2k1ly1r4dg16r20dg2r8~x2/">Livingstone Australia (NSW) (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg12r4k1ly1r2k1ly1r4dg16r20dg2r8~x2/"><img src="/variants/s12/dg12r4k1ly1r2k1ly1r4dg16r20dg2r8~x2/sett.png" alt="Livingstone Australia (NSW) (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

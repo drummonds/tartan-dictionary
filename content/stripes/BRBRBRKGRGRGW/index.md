@@ -22,13 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonell of Glengarry](/variants/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/)|
-|![MacDonell of Glengarry example sett](/variants/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/sett.png)|
-| [MacDonell of Glengarry](/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/)|
-|![MacDonell of Glengarry example sett](/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/sett.png)|
-| [MacDonell of Glengarry - 1914 (Clan)](/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4lb1~x2/)|
-|![MacDonell of Glengarry - 1914 (Clan) example sett](/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4lb1~x2/sett.png)|
-| [MacDonell of Glengarry D](/variants/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/)|
-|![MacDonell of Glengarry D example sett](/variants/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db8r1db2r3db12r1k12g12r3g2r1g4w1/">MacDonell of Glengarry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db8r1db2r3db12r1k12g12r3g2r1g4w1/"><img src="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/sett.png" alt="MacDonell of Glengarry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

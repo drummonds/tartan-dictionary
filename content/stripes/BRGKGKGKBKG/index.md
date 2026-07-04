@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Princess Louise (Royal)](/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/)|
-|![Princess Louise (Royal) example sett](/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/">Princess Louise (Royal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><img src="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/sett.png" alt="Princess Louise (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

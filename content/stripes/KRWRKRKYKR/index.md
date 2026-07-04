@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Smeaton 1985 (Name)](/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/)|
-|![Smeaton 1985 (Name) example sett](/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/">Smeaton 1985 (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><img src="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/sett.png" alt="Smeaton 1985 (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

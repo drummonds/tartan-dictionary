@@ -22,11 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ferguson of Balquhidder](/variants/s6/k2dg12k12r1db12dg2~x2/)|
-|![Ferguson of Balquhidder example sett](/variants/s6/k2dg12k12r1db12dg2~x2/sett.png)|
-| [Ferguson of Balquhidder](/variants/s6/k2g12k12r1db12g2~x2/)|
-|![Ferguson of Balquhidder example sett](/variants/s6/k2g12k12r1db12g2~x2/sett.png)|
-| [Ferguson of Balquhidder #2](/variants/s6/k4g25k24r3db24g4~x2/)|
-|![Ferguson of Balquhidder #2 example sett](/variants/s6/k4g25k24r3db24g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k2g12k12r1db12g2~x2/">Ferguson of Balquhidder</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k2g12k12r1db12g2~x2/"><img src="/variants/s6/k2g12k12r1db12g2~x2/sett.png" alt="Ferguson of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4g25k24r3db24g4~x2/">Ferguson of Balquhidder #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4g25k24r3db24g4~x2/"><img src="/variants/s6/k4g25k24r3db24g4~x2/sett.png" alt="Ferguson of Balquhidder #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Harmony 6](/variants/s5/dg2dp10dy15dg10dp2~x4/)|
-|![Harmony 6 example sett](/variants/s5/dg2dp10dy15dg10dp2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/db7dg8g15b6y3~x10/">Unidentified, Silk Plaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db7dg8g15b6y3~x10/"><img src="/variants/s5/db7dg8g15b6y3~x10/sett.png" alt="Unidentified, Silk Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

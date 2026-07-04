@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lochwood Estate Check](/variants/s7/r4ly3g4ly4b4ly4g4~x2/)|
-|![Lochwood Estate Check example sett](/variants/s7/r4ly3g4ly4b4ly4g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r4ly3g4ly4t4ly4g4~x2/">Lochwood Estate Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r4ly3g4ly4t4ly4g4~x2/"><img src="/variants/s7/r4ly3g4ly4t4ly4g4~x2/sett.png" alt="Lochwood Estate Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

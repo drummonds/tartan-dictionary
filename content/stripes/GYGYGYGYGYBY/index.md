@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Houston #2 (Personal)](/variants/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/)|
-|![Houston #2 (Personal) example sett](/variants/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2/">Houston (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2/"><img src="/variants/s12/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2~ly2705081-dy1603076/sett.png" alt="Houston (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

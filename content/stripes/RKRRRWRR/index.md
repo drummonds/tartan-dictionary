@@ -22,11 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cameron Hose #2](/variants/s8/r3k2r23ri3r3w23r3ri3~x2/)|
-|![Cameron Hose #2 example sett](/variants/s8/r3k2r23ri3r3w23r3ri3~x2/sett.png)|
-| [Cameron, Hose for E](/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2/)|
-|![Cameron, Hose for E example sett](/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2/sett.png)|
-| [Hose #2](/variants/s8/r3k2r23ri3r3lb23r3ri3~x2/)|
-|![Hose #2 example sett](/variants/s8/r3k2r23ri3r3lb23r3ri3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/">Cameron Hose #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/"><img src="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/sett.png" alt="Cameron Hose #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

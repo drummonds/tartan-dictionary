@@ -22,13 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Auchterlonie (Personal)](/variants/s6/db40w8db25w14db8ly4~x2/)|
-|![Auchterlonie (Personal) example sett](/variants/s6/db40w8db25w14db8ly4~x2/sett.png)|
-| [Machair](/variants/s6/lo72dt16w9dt4w5dt16~x2/)|
-|![Machair example sett](/variants/s6/lo72dt16w9dt4w5dt16~x2/sett.png)|
-| [Ochterlonie](/variants/s6/dt30w7dt18w11dt6ly3~x2/)|
-|![Ochterlonie example sett](/variants/s6/dt30w7dt18w11dt6ly3~x2/sett.png)|
-| [Whitley (Personal)](/variants/s6/b1w5b1w5b15ly1~x4/)|
-|![Whitley (Personal) example sett](/variants/s6/b1w5b1w5b15ly1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/ly72db16w9db4w5db16~x2/">Machair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><img src="/variants/s6/ly72db16w9db4w5db16~x2/sett.png" alt="Machair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

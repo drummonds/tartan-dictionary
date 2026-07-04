@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Land's End Camel](/variants/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/)|
-|![Land's End Camel example sett](/variants/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/">Land's End Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/"><img src="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/sett.png" alt="Land's End Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

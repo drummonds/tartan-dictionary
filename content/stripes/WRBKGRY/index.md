@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Council of Scottish Clans & Ass. (Co](/variants/s7/w2r2db16k14g15r2ly2~x2/)|
-|![Council of Scottish Clans & Ass. (Co example sett](/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/">Council of Scottish Clans &amp; Ass. (Co</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><img src="/variants/s7/w2r2db16k14g15r2ly2~x2/sett.png" alt="Council of Scottish Clans &amp; Ass. (Co sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Argentina Argentinian District Tartan](/variants/s12/db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3~x2/)|
-|![Argentina Argentinian District Tartan example sett](/variants/s12/db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3~x2~db1204274-dbi1406275-w3600000/">Argentina Argentinian District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3~x2~db1204274-dbi1406275-w3600000/"><img src="/variants/s12/db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3~x2~db1204274-dbi1406275-w3600000/sett.png" alt="Argentina Argentinian District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

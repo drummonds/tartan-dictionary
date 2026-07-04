@@ -22,11 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Leslie Hunting](/variants/s6/k1g8w1k8db8r1~x4/)|
-|![Leslie Hunting example sett](/variants/s6/k1g8w1k8db8r1~x4/sett.png)|
-| [Leslie Hunting](/variants/s6/r2db8k8lb1dg8k1/)|
-|![Leslie Hunting example sett](/variants/s6/r2db8k8lb1dg8k1/sett.png)|
-| [Leslie, hunting](/variants/s6/r2db8k8w1g8k1~x2/)|
-|![Leslie, hunting example sett](/variants/s6/r2db8k8w1g8k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r2db8k8w1g8k1/">Leslie Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r2db8k8w1g8k1/"><img src="/variants/s6/r2db8k8w1g8k1/sett.png" alt="Leslie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k1g8w1k8db8r1/">Syme</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k1g8w1k8db8r1/"><img src="/variants/s6/k1g8w1k8db8r1~x4/sett.png" alt="Syme sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

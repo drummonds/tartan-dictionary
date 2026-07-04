@@ -1,14 +1,5 @@
 ---
 title: "Holland, Tartan of"
-date: 2023-03-18
+redirect: "/variants/s13/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2~dbi1406275-db1204274/"
 ---
-The **Holland, Tartan of** tartan is one sett proportion (`dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BWBBBBRBRYRYW](/stripes/bwbbbbrbryryw/); each scale below is its own sett page. First attested **2005**
-— its oldest sett (★) anchors the tartan as the parent.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×2 | [Holland, Tartan of](/variants/s24/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/) ★ | 2005 | ![Holland, Tartan of sett](/variants/s24/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/sett.png) |
-| ×2 | [Holland, Tartan of (Fashion)](/variants/s13/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/) | 2005 | ![Holland, Tartan of (Fashion) sett](/variants/s13/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/sett.png) |
+This sett is recorded as a single cloth — redirecting to [Holland, Tartan of](/variants/s13/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2~dbi1406275-db1204274/).

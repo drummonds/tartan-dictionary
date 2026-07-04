@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Douglas, (Black)](/variants/s5/k12db3g23k23r3~x2/)|
-|![Douglas, (Black) example sett](/variants/s5/k12db3g23k23r3~x2/sett.png)|
-| [Douglas, Black](/variants/s5/k8b5g44k40r6/)|
-|![Douglas, Black example sett](/variants/s5/k8b5g44k40r6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k12db3g23k23r3~x2/">Douglas, (Black)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k12db3g23k23r3~x2/"><img src="/variants/s5/k12db3g23k23r3~x2/sett.png" alt="Douglas, (Black) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k8t5g44k40r6/">Douglas, Black</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k8t5g44k40r6/"><img src="/variants/s5/k8t5g44k40r6/sett.png" alt="Douglas, Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

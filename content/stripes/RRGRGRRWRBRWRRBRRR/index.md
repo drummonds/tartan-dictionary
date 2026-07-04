@@ -22,11 +22,16 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacColl Hunting](/variants/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7g22r7g2r2m2~x2/)|
-|![MacColl Hunting example sett](/variants/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7g22r7g2r2m2~x2/sett.png)|
-| [MacColl Hunting Clan Tartan](/variants/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7y22r7y2r2m2~x2/)|
-|![MacColl Hunting Clan Tartan example sett](/variants/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7y22r7y2r2m2~x2/sett.png)|
-| [MacColl, hunting](/variants/s18/r6ri3r6db22r7ri2w1r2db2r2w1ri2r7y22r7y2r2ri2~x2/)|
-|![MacColl, hunting example sett](/variants/s18/r6ri3r6db22r7ri2w1r2db2r2w1ri2r7y22r7y2r2ri2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/">MacColl Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/sett.png" alt="MacColl Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7dg22ri7dg2ri2r2~x2~ri2008029-r1707016/">MacColl, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7dg22ri7dg2ri2r2~x2~ri2008029-r1707016/"><img src="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7dg22ri7dg2ri2r2~x2~ri2008029-r1707016/sett.png" alt="MacColl, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

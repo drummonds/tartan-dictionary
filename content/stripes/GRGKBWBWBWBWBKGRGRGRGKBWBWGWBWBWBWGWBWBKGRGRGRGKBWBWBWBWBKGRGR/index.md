@@ -22,7 +22,14 @@ It is a 62 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified Lindley #7](/variants/s62/b3w1b1w1g22w1b1w1b3k11g22r1g1r2g1r1g22k11b16w1b4w1b16w1b4w1b16k11g22r1g1r2~x2/)|
-|![Unidentified Lindley #7 example sett](/variants/s62/b3w1b1w1g22w1b1w1b3k11g22r1g1r2g1r1g22k11b16w1b4w1b16w1b4w1b16k11g22r1g1r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/">Unidentified Lindley #7</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/"><img src="/variants/s32/t3w1t1w1dg22w1t1w1t3k11dg22r1dg1r2dg1r1dg22k11t16w1t4w1t16w1t4w1t16k11dg22r1dg1r2~x2~dg1806142/sett.png" alt="Unidentified Lindley #7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

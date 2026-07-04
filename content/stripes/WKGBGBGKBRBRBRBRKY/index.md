@@ -22,9 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Daniel Melrose Family Tartan](/variants/s18/w1k2g10b1g2b1g2k2b15o1b2o1b2o1b2o15k1ly1~x2/)|
-|![Daniel Melrose Family Tartan example sett](/variants/s18/w1k2g10b1g2b1g2k2b15o1b2o1b2o1b2o15k1ly1~x2/sett.png)|
-| [Melrose (Newbigging) (Personal)](/variants/s18/w1k2g10n1g2n1g2k2n15r1n2r1n2r1n2r15k1lo1~x2/)|
-|![Melrose (Newbigging) (Personal) example sett](/variants/s18/w1k2g10n1g2n1g2k2n15r1n2r1n2r1n2r15k1lo1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/">Daniel Melrose Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/"><img src="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/sett.png" alt="Daniel Melrose Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

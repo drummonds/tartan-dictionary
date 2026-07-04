@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bermuda Blue](/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/)|
-|![Bermuda Blue example sett](/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/sett.png)|
-| [Bermuda Blue (1962) (District)](/variants/s13/b12r4db4b42r6b6db11b6g19b8r4b6db6/)|
-|![Bermuda Blue (1962) (District) example sett](/variants/s13/b12r4db4b42r6b6db11b6g19b8r4b6db6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/">Bermuda Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/"><img src="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/sett.png" alt="Bermuda Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/">Bermuda, Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/"><img src="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/sett.png" alt="Bermuda, Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

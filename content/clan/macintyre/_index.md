@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/"><img src="/variants/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/sett.png" alt="MacIntyre of Glenorchy Clan Tartan" width="240"><br>MacIntyre of Glenorchy Clan Tartan</a>
+<a class="tartan" href="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/"><img src="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/sett.png" alt="MacIntyre of Glenorchy Clan Tartan" width="240"><br>MacIntyre of Glenorchy Clan Tartan</a>
 
 ## Families
 

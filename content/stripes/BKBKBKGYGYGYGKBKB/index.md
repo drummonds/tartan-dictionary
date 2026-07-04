@@ -22,11 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gordon VS](/setts/db28k1db1k1db3k12dg24ly1dg1ly2dg1ly1dg24k12db18k1db4/)|
-|![Gordon VS example sett](/variants/s17/db28k1db1k1db3k12dg24ly1dg1ly2dg1ly1dg24k12db18k1db4/sett.png)|
-| [Gordon of Esselmont (Clan)](/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/)|
-|![Gordon of Esselmont (Clan) example sett](/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/sett.png)|
-| [Gordon, Ancient](/variants/s17/db28k1db1k1db3k12g24ly1g1ly2g1ly1g24k12db18k1db4~x2/)|
-|![Gordon, Ancient example sett](/variants/s17/db28k1db1k1db3k12g24ly1g1ly2g1ly1g24k12db18k1db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/">Gordon of Esselmont (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/"><img src="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/sett.png" alt="Gordon of Esselmont (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

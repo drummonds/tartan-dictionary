@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cameron](/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/)|
-|![Cameron example sett](/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/sett.png)|
-| [Cameron (altered by weaver)](/variants/s10/dg7r2dg2r3dg9k10r2db9r3db7~x2/)|
-|![Cameron (altered by weaver) example sett](/variants/s10/dg7r2dg2r3dg9k10r2db9r3db7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/">Cameron (altered by weaver)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><img src="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/sett.png" alt="Cameron (altered by weaver) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

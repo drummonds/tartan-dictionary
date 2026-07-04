@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pride of Scotland Contemporary](/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2/)|
-|![Pride of Scotland Contemporary example sett](/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/">Pride of Scotland Contemporary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><img src="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/sett.png" alt="Pride of Scotland Contemporary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

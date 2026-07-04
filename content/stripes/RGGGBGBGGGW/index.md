@@ -22,11 +22,17 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Boys Brigade](/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/)|
-|![Boys Brigade example sett](/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/sett.png)|
-| [Fraser Htg (Clan)](/variants/s11/r3dy18dg10dy2db10dy2db10dy2dg10dy18w3~x2/)|
-|![Fraser Htg (Clan) example sett](/variants/s11/r3dy18dg10dy2db10dy2db10dy2dg10dy18w3~x2/sett.png)|
-| [Fraser Hunting](/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/)|
-|![Fraser Hunting example sett](/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/">Boys Brigade</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><img src="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/sett.png" alt="Boys Brigade sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/">Fraser Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"><img src="/variants/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/sett.png" alt="Fraser Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

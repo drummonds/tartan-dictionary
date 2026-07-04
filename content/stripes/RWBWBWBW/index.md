@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Milne Royal Blue Dress (Dance)](/variants/s8/w12t2w12db17w12t2w5r2~x4/)|
-|![Milne Royal Blue Dress (Dance) example sett](/variants/s8/w12t2w12db17w12t2w5r2~x4/sett.png)|
-| [Milne Royal Blue Dress Fashion Tartan](/variants/s8/w24n5w24db36w28n6w12r6/)|
-|![Milne Royal Blue Dress Fashion Tartan example sett](/variants/s8/w24n5w24db36w28n6w12r6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/w24t5w24db36w28t6w12r6/">Milne Royal Blue Dress Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/w24t5w24db36w28t6w12r6/"><img src="/variants/s8/w24t5w24db36w28t6w12r6/sett.png" alt="Milne Royal Blue Dress Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

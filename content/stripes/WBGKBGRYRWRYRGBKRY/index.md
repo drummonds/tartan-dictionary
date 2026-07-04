@@ -22,9 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kutztown (Berks Co., PA) (District)](/variants/s18/w2t2dg8k2t6dg5r5lo5r4w2r4lo5r5dg5t6k2r10lo2~x2/)|
-|![Kutztown (Berks Co., PA) (District) example sett](/variants/s18/w2t2dg8k2t6dg5r5lo5r4w2r4lo5r5dg5t6k2r10lo2~x2/sett.png)|
-| [Kutztown (Berks County, PA)](/variants/s18/w2db2dg8k2db6dg5r5lo5r4w2r4lo5r5dg5db6k2r10lo2~x2/)|
-|![Kutztown (Berks County, PA) example sett](/variants/s18/w2db2dg8k2db6dg5r5lo5r4w2r4lo5r5dg5db6k2r10lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/w2db2dg8k2db6dg5r5ly5r4w2r4ly5r5dg5db6k2r10ly2~x2/">Kutztown (Berks County, PA)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/w2db2dg8k2db6dg5r5ly5r4w2r4ly5r5dg5db6k2r10ly2~x2/"><img src="/variants/s18/w2db2dg8k2db6dg5r5ly5r4w2r4ly5r5dg5db6k2r10ly2~x2/sett.png" alt="Kutztown (Berks County, PA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

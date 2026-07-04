@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scotia (EWM)](/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/)|
-|![Scotia (EWM) example sett](/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/">Scotia (EWM)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><img src="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/sett.png" alt="Scotia (EWM) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

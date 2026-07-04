@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Abernethy (Colerain USA) (Personal)](/variants/s7/lo1db14r28g14r1g14lo1~x2/)|
-|![Abernethy (Colerain USA) (Personal) example sett](/variants/s7/lo1db14r28g14r1g14lo1~x2/sett.png)|
-| [Abernethy (Colerain, USA)](/variants/s7/lo1dg14r1y14r28db14lo1~x2/)|
-|![Abernethy (Colerain, USA) example sett](/variants/s7/lo1dg14r1y14r28db14lo1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/">Abernethy (Colerain USA) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><img src="/variants/s7/lo1db14r28g14r1g14lo1~x2/sett.png" alt="Abernethy (Colerain USA) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

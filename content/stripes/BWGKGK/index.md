@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKay Dress](/variants/s6/k4g23k23g2w23b4~x2/)|
-|![MacKay Dress example sett](/variants/s6/k4g23k23g2w23b4~x2/sett.png)|
-| [MacKay, Dress (Corporate)](/variants/s6/k4g14k14g2w14b3~x2/)|
-|![MacKay, Dress (Corporate) example sett](/variants/s6/k4g14k14g2w14b3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k4g23k23g2w23t4~x2/">MacKay Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4g23k23g2w23t4~x2/"><img src="/variants/s6/k4g23k23g2w23t4~x2/sett.png" alt="MacKay Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4g14k14g2w14t3~x2/">MacKay, Dress (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4g14k14g2w14t3~x2/"><img src="/variants/s6/k4g14k14g2w14t3~x2/sett.png" alt="MacKay, Dress (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

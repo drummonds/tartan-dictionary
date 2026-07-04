@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s7/db36k10dg3r3dg6k1ly2~x2/"><img src="/variants/s7/db36k10dg3r3dg6k1ly2~x2/sett.png" alt="MacLaurin of Brioch" width="240"><br>MacLaurin of Brioch</a>
+<a class="tartan" href="/variants/s7/db36k10g3r3g6k1y2~x2/"><img src="/variants/s7/db36k10g3r3g6k1y2~x2/sett.png" alt="MacLaurin of Brioch" width="240"><br>MacLaurin of Brioch</a>
 
 ## Families
 

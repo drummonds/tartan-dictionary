@@ -22,7 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Polaris Military](/variants/s17/b6k1b1k1b1k7g6lo1k1db1k1lo1g6k7b7k1b1~x4/)|
-|![Polaris Military example sett](/variants/s17/b6k1b1k1b1k7g6lo1k1db1k1lo1g6k7b7k1b1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/">Polaris Military</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/"><img src="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/sett.png" alt="Polaris Military sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

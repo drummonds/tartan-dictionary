@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/"><img src="/variants/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/sett.png" alt="Currie of Arran" width="240"><br>Currie of Arran</a>
+<a class="tartan" href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><img src="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/sett.png" alt="Currie of Arran" width="240"><br>Currie of Arran</a>
 
 ## Families
 

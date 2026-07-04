@@ -22,13 +22,18 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Douglas, Grey (Vestiarium Scoticum)](/variants/s8/k10o1k2o1k4o10k1o2~x4/)|
-|![Douglas, Grey (Vestiarium Scoticum) example sett](/variants/s8/k10o1k2o1k4o10k1o2~x4/sett.png)|
-| [MacLeod #2](/variants/s8/k12r3k2r16k8r12k2r3~x2/)|
-|![MacLeod #2 example sett](/variants/s8/k12r3k2r16k8r12k2r3~x2/sett.png)|
-| [Menzies Hunting](/variants/s8/k48r4k2r4k6r2k3r9~x2/)|
-|![Menzies Hunting example sett](/variants/s8/k48r4k2r4k6r2k3r9~x2/sett.png)|
-| [Murray of Ochtertyre #2](/variants/s8/k30r3k2r3k2r27k30r4~x2/)|
-|![Murray of Ochtertyre #2 example sett](/variants/s8/k30r3k2r3k2r27k30r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/">MacLeod #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><img src="/variants/s8/k12r3k2r16k8r12k2r3~x2/sett.png" alt="MacLeod #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/">Menzies Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><img src="/variants/s8/k48r4k2r4k6r2k3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/">Murray of Ochtertyre #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><img src="/variants/s8/k30r3k2r3k2r27k30r4~x2/sett.png" alt="Murray of Ochtertyre #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

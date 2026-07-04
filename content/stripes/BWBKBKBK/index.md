@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pride of Kinross](/variants/s8/k20db2k6db2k4db27w2db8~x2/)|
-|![Pride of Kinross example sett](/variants/s8/k20db2k6db2k4db27w2db8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/">Pride of Kinross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><img src="/variants/s8/k20db2k6db2k4db27w2db8~x2/sett.png" alt="Pride of Kinross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

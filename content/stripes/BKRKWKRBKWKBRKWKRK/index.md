@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Skye](/variants/s18/n50k12o2k2w2k2o12n7k7w2~x2/)|
-|![Skye example sett](/variants/s18/n50k12o2k2w2k2o12n7k7w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/">Skye</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/"><img src="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/sett.png" alt="Skye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

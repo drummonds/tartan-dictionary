@@ -22,11 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burberry Blue](/variants/s5/lr3k3lr3k10r1~x6/)|
-|![Burberry Blue example sett](/variants/s5/lr3k3lr3k10r1~x6/sett.png)|
-| [Gwynn (Name)](/variants/s5/ly9k4ly4k45r4~x2/)|
-|![Gwynn (Name) example sett](/variants/s5/ly9k4ly4k45r4~x2/sett.png)|
-| [Welsh National #3](/variants/s5/ly7k4ly4k39r4~x2/)|
-|![Welsh National #3 example sett](/variants/s5/ly7k4ly4k39r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/lr3k3lr3k10r1~x6/">Burberry Black</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/lr3k3lr3k10r1~x6/"><img src="/variants/s5/lr3k3lr3k10r1~x6/sett.png" alt="Burberry Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

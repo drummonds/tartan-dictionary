@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Salem Scottish Dancers (Dance) #2](/variants/s14/dt5b5dt30w4dt4b18w3dt3w3b18dt4w4dt30b5~x2/)|
-|![Salem Scottish Dancers (Dance) #2 example sett](/variants/s14/dt5b5dt30w4dt4b18w3dt3w3b18dt4w4dt30b5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/">Salem Scottish Dancers (Dance) #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/"><img src="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/sett.png" alt="Salem Scottish Dancers (Dance) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

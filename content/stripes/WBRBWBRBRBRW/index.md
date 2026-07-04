@@ -22,9 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Frame](/variants/s12/w4b14r1b1w1b1r1b14r14b1r1w1~x4/)|
-|![Frame example sett](/variants/s12/w4b14r1b1w1b1r1b14r14b1r1w1~x4/sett.png)|
-| [Frame](/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/)|
-|![Frame example sett](/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/w4t14r1t1w1t1r1t14r14t1r1w1/">Frame</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w4t14r1t1w1t1r1t14r14t1r1w1/"><img src="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/">Frame</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><img src="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/sett.png" alt="Frame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

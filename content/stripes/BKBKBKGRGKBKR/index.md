@@ -22,13 +22,18 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Atholl](/variants/s13/b25k4b4k4b4k26g25r9g25k26b25k2r9~x2/)|
-|![Atholl example sett](/variants/s13/b25k4b4k4b4k26g25r9g25k26b25k2r9~x2/sett.png)|
-| [Atholl (District)](/variants/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/)|
-|![Atholl (District) example sett](/variants/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/sett.png)|
-| [Murray of Atholl](/setts/db12k2db2k2db2k12dg12r3dg12k12db12k1r3/)|
-|![Murray of Atholl example sett](/variants/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3/sett.png)|
-| [Murray of Atholl #3](/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/)|
-|![Murray of Atholl #3 example sett](/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/">Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/"><img src="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/sett.png" alt="Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/">Atholl (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/"><img src="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/sett.png" alt="Atholl (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db12k2db2k2db2k12g12r3g12k12db12k1r3/">Murray of Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db12k2db2k2db2k12g12r3g12k12db12k1r3/"><img src="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/sett.png" alt="Murray of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

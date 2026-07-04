@@ -22,11 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ensign of Ontario (Fashion)](/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3lo4dg21dy3dg3dy3~x2/)|
-|![Ensign of Ontario (Fashion) example sett](/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3lo4dg21dy3dg3dy3~x2/sett.png)|
-| [Ensign of Ontario Canadian Tartan](/variants/s15/g21k1r4k1dy21g3dy3g3dy21g3ly4g21dy3g3dy3~x2/)|
-|![Ensign of Ontario Canadian Tartan example sett](/variants/s15/g21k1r4k1dy21g3dy3g3dy21g3ly4g21dy3g3dy3~x2/sett.png)|
-| [Ontario](/variants/s15/dg24k1r5k1dy20dg4dy4dg4dy21dg4ly5dg24dy4dg4dy4~x2/)|
-|![Ontario example sett](/variants/s15/dg24k1r5k1dy20dg4dy4dg4dy21dg4ly5dg24dy4dg4dy4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/">Ensign of Ontario (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><img src="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/sett.png" alt="Ensign of Ontario (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

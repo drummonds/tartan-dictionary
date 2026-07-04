@@ -22,11 +22,19 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Loch Rannoch](/variants/s5/g19w5g2k5w2~x2/)|
-|![Loch Rannoch example sett](/variants/s5/g19w5g2k5w2~x2/sett.png)|
-| [Loch Rannoch](/variants/s5/g37w9g3k9w3/)|
-|![Loch Rannoch example sett](/variants/s5/g37w9g3k9w3/sett.png)|
-| [Loch Tummel](/variants/s5/dy38w9dy3k9w3~x2/)|
-|![Loch Tummel example sett](/variants/s5/dy38w9dy3k9w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/g19w5g2k5w2~x2/">Loch Rannoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g19w5g2k5w2~x2/"><img src="/variants/s5/g19w5g2k5w2~x2/sett.png" alt="Loch Rannoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g37w9g3k9w3/">Loch Rannoch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g37w9g3k9w3/"><img src="/variants/s5/g37w9g3k9w3/sett.png" alt="Loch Rannoch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/dy38w9dy3k9w3~x2/">Loch Tummel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dy38w9dy3k9w3~x2/"><img src="/variants/s5/dy38w9dy3k9w3~x2/sett.png" alt="Loch Tummel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

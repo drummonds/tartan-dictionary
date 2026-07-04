@@ -22,9 +22,19 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified No 63](/variants/s7/k3dg4k1dg4k3db4k1~x2/)|
-|![Unidentified No 63 example sett](/variants/s7/k3dg4k1dg4k3db4k1~x2/sett.png)|
-| [Unnamed, No 63](/variants/s7/k3g4k1g4k3db4k1~x2/)|
-|![Unnamed, No 63 example sett](/variants/s7/k3g4k1g4k3db4k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k25y5k5g25k25t3k10~x2/">London Community Gospel Choir</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><img src="/variants/s7/k25y5k5g25k25t3k10~x2/sett.png" alt="London Community Gospel Choir sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/">London Community Gospel Choir, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/"><img src="/variants/s7/k25dy5k5dg25k25db3k10~x2/sett.png" alt="London Community Gospel Choir, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/k3g4k1g4k3db4k1~x2/">Unidentified No 63</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><img src="/variants/s7/k3g4k1g4k3db4k1~x2/sett.png" alt="Unidentified No 63 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

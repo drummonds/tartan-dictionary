@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Galloway Red](/variants/s6/g3r2db22r22db2w3~x2/)|
-|![Galloway Red example sett](/variants/s6/g3r2db22r22db2w3~x2/sett.png)|
-| [Galloway, dress](/variants/s6/g1r1db16r16db1w1~x2/)|
-|![Galloway, dress example sett](/variants/s6/g1r1db16r16db1w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/g3r2db22r22db2w3~x2/">Galloway Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g3r2db22r22db2w3~x2/"><img src="/variants/s6/g3r2db22r22db2w3~x2/sett.png" alt="Galloway Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g1r1db16r16db1w1~x2/">Galloway, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g1r1db16r16db1w1~x2/"><img src="/variants/s6/g1r1db16r16db1w1~x2/sett.png" alt="Galloway, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

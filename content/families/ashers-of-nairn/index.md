@@ -9,14 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/lo4k3w3k44lo4k22lb22w3k3lo4/">Ashers of Nairn</a> ★</td><td><code>LO/4 K3 W3 K44 LO4 K22 LB22 W3 K3 LO/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/lo4k3w3k44lo4k22lb22w3k3lo4/"><img src="/variants/s10/lo4k3w3k44lo4k22lb22w3k3lo4/sett.png" alt="Ashers of Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/ly2k3w3k44ly4k22lb22w3k3ly2/">Ashers of Nairn</a></td><td><code>LY/2 K3 W3 K44 LY4 K22 LB22 W3 K3 LY/2</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/ly2k3w3k44ly4k22lb22w3k3ly2/"><img src="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/sett.png" alt="Ashers of Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y4k3w3k44y4k22n22w3k3y4/">Ashers of Nairn</a> ★</td><td><code>Y/4 K3 W3 K44 Y4 K22 N22 W3 K3 Y/4</code></td><td>216</td><td>2014</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/y4k3w3k44y4k22n22w3k3y4/"><img src="/variants/s10/y4k3w3k44y4k22n22w3k3y4/sett.png" alt="Ashers of Nairn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
-
-[See the Ashers of Nairn tartan and all its setts →](/tartans/ashers-of-nairn/)
 

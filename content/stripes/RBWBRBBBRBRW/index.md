@@ -22,9 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ramblers Red Hat Society](/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2/)|
-|![Ramblers Red Hat Society example sett](/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2/sett.png)|
-| [Ramblers Red Hat Society (Corporate)](/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/)|
-|![Ramblers Red Hat Society (Corporate) example sett](/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2~dp1105325-dpi1607327/">Ramblers Red Hat Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2~dp1105325-dpi1607327/"><img src="/variants/s12/w4r2dp2r2dpi2dp38dpi2r12dp2w1dp3r2~x2~dp1105325-dpi1607327/sett.png" alt="Ramblers Red Hat Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/">Ramblers Red Hat Society (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/"><img src="/variants/s12/w4r2dp2r2b2dp38b2r12dp2w1dp3r2~x2/sett.png" alt="Ramblers Red Hat Society (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

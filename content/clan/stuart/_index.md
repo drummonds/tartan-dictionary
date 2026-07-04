@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s9/m12dg6k1dg2k1dg1k6m24w2~x2/"><img src="/variants/s9/m12dg6k1dg2k1dg1k6m24w2~x2/sett.png" alt="Stuart/Stewart of Bute Hunting" width="240"><br>Stuart/Stewart of Bute Hunting</a>
+<a class="tartan" href="/variants/s9/r12g6k1g2k1g1k6r24w2~x2/"><img src="/variants/s9/r12g6k1g2k1g1k6r24w2~x2/sett.png" alt="Stuart of Bute" width="240"><br>Stuart of Bute</a>
 
 ## Families
 

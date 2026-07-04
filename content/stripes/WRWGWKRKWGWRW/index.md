@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Border Sett](/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/)|
-|![Border Sett example sett](/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png)|
-| [Wilson's Blanket Sett - Border](/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/)|
-|![Wilson's Blanket Sett - Border example sett](/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/">Border Sett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/"><img src="/variants/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png" alt="Border Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/">Wilson's Blanket Sett - Border</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/"><img src="/variants/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png" alt="Wilson's Blanket Sett - Border sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

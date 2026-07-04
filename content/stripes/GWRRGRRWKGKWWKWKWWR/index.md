@@ -22,7 +22,14 @@ It is a 19 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacBean (Lord Lyon version)](/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2/)|
-|![MacBean (Lord Lyon version) example sett](/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10/">MacBain/MacBean</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10/"><img src="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2008029-r1707016/sett.png" alt="MacBain/MacBean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

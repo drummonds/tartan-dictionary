@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Racing Stewart (Stealth)](/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/)|
-|![Racing Stewart (Stealth) example sett](/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/sett.png)|
-| [Racing Stewart, Stealth (Corporate)](/variants/s10/k86n5k5n3k3n3k3dy11dr11n4~x2/)|
-|![Racing Stewart, Stealth (Corporate) example sett](/variants/s10/k86n5k5n3k3n3k3dy11dr11n4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/">Racing Stewart (Stealth)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><img src="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/sett.png" alt="Racing Stewart (Stealth) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/">Racing Stewart, Stealth (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><img src="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/sett.png" alt="Racing Stewart, Stealth (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

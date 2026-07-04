@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Marthas Vineyard (District)](/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/)|
-|![Marthas Vineyard (District) example sett](/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png)|
-| [Mayhew (Personal)](/variants/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/)|
-|![Mayhew (Personal) example sett](/variants/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/">Marthas Vineyard (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><img src="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png" alt="Marthas Vineyard (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/">Mayhew (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/"><img src="/variants/s13/k6g3k3g28t4g4t10g4t4g4t24g5w3~x2/sett.png" alt="Mayhew (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wacker](/variants/s20/db6k3db3dt13g13k1g13dt13w1db3k3~x2/)|
-|![Wacker example sett](/variants/s20/db6k3db3dt13g13k1g13dt13w1db3k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dbi6k3dbi3db13g13k1g13db13w1dbi3k3~x2~dbi1406275-db1404245/">Wacker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dbi6k3dbi3db13g13k1g13db13w1dbi3k3~x2~dbi1406275-db1404245/"><img src="/variants/s11/dbi6k3dbi3db13g13k1g13db13w1dbi3k3~x2~dbi1406275-db1404245/sett.png" alt="Wacker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

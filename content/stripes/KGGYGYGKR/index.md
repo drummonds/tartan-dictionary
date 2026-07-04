@@ -22,9 +22,17 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Broons, The (DC Thomson)](/variants/s9/r3k1yi8ly1dy7ly1yi19y25k1~x2/)|
-|![Broons, The (DC Thomson) example sett](/variants/s9/r3k1yi8ly1dy7ly1yi19y25k1~x2/sett.png)|
-| [The Broons (Corporate)](/variants/s9/r3k1y8lo1dyi7lo1y19dy25k1~x2/)|
-|![The Broons (Corporate) example sett](/variants/s9/r3k1y8lo1dyi7lo1y19dy25k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/">Broons, The (DC Thomson)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/"><img src="/variants/s9/r3k1g8ly1dy7ly1g19y25k1~x2~ly3507098-dy1503057-y2104086/sett.png" alt="Broons, The (DC Thomson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/">The Broons (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/"><img src="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/sett.png" alt="The Broons (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

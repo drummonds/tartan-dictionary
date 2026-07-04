@@ -22,11 +22,16 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacRae Htg - 1820 (Wilsons)](/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/)|
-|![MacRae Htg - 1820 (Wilsons) example sett](/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/sett.png)|
-| [MacRae Hunting (Wilsons)](/variants/s15/g26k4g6m4g6k26db26k3w7k3db26k26g26k3m7~x2/)|
-|![MacRae Hunting (Wilsons) example sett](/variants/s15/g26k4g6m4g6k26db26k3w7k3db26k26g26k3m7~x2/sett.png)|
-| [MacRae, hunting](/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/)|
-|![MacRae, hunting example sett](/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/">MacRae Htg - 1820 (Wilsons)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><img src="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/sett.png" alt="MacRae Htg - 1820 (Wilsons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/">MacRae Hunting (Wilsons)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><img src="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/sett.png" alt="MacRae Hunting (Wilsons) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

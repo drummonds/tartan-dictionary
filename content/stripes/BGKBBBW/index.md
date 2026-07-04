@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fettes College](/variants/s7/dr4dg23k22p3db22dr1w2~x2/)|
-|![Fettes College example sett](/variants/s7/dr4dg23k22p3db22dr1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dp4g23k22p3db22dp1w2~x2/">Fettes College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp4g23k22p3db22dp1w2~x2/"><img src="/variants/s7/dp4g23k22p3db22dp1w2~x2/sett.png" alt="Fettes College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

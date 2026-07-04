@@ -22,7 +22,14 @@ It is a 19 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glenlea](/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dy3dt3dy3dt3dy12g4/)|
-|![Glenlea example sett](/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dy3dt3dy3dt3dy12g4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/">Glenlea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/"><img src="/variants/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dg3dt3dg3dt3dg12g4~o2600000/sett.png" alt="Glenlea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

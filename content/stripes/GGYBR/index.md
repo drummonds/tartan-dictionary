@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dundhuin Dress (Personal)](/variants/s5/o62t17ly12g8dg8~x2/)|
-|![Dundhuin Dress (Personal) example sett](/variants/s5/o62t17ly12g8dg8~x2/sett.png)|
-| [Dundhuin Hunting (Personal)](/variants/s5/dg62g17ly12t8o8~x2/)|
-|![Dundhuin Hunting (Personal) example sett](/variants/s5/dg62g17ly12t8o8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/o62n17ly12y8dg8~x2/">Dundhuin Dress (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/o62n17ly12y8dg8~x2/"><img src="/variants/s5/o62n17ly12y8dg8~x2/sett.png" alt="Dundhuin Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dg62y17ly12n8o8~x2/">Dundhuin Hunting (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dg62y17ly12n8o8~x2/"><img src="/variants/s5/dg62y17ly12n8o8~x2/sett.png" alt="Dundhuin Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

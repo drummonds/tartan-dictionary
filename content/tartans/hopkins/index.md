@@ -2,23 +2,20 @@
 title: "Hopkins"
 date: 2023-03-18
 ---
+Its design is pattern [BKBBBKBBKBKB](/stripes/bkbbbkbbkbkb/) — the page of every tartan sharing this colour sequence.
 
 Welsh surname tartan woven at Cambrian Woollen Mill; differing warp and weft create a predominant vertical stripe.
 
-The **Hopkins** tartan groups 4 setts — the same named design recorded as different cloths
+The **Hopkins** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dt5k2dt2k2dt2db5k2db1o1db1k10dt3/">Hopkins</a> ★</td><td><code>DT/20 K8 DT8 K8 DT8 DB20 K8 DB4 O4 DB4 K40 DT/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dt5k2dt2k2dt2db5k2db1o1db1k10dt3/"><img src="/variants/s12/dt5k2dt2k2dt2db5k2db1o1db1k10dt3~x4/sett.png" alt="Hopkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db5k2db2k2db2dt5k2dt1o1dt1k10db3/">Welsh Name Tartan</a></td><td><code>DB/20 K8 DB8 K8 DB8 DT20 K8 DT4 O4 DT4 K40 DB/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/db5k2db2k2db2dt5k2dt1o1dt1k10db3/"><img src="/variants/s12/db5k2db2k2db2dt5k2dt1o1dt1k10db3~x4/sett.png" alt="Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k5db2k2db2k2dt5db2dt1k1dt1db10k3/">(Welsh Name)</a></td><td><code>K/20 DB8 K8 DB8 K8 DT20 DB8 DT4 K4 DT4 DB40 K/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/k5db2k2db2k2dt5db2dt1k1dt1db10k3/"><img src="/variants/s12/k5db2k2db2k2dt5db2dt1k1dt1db10k3~x4/sett.png" alt="(Welsh Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r36k18r4k7w2/">(Name)</a></td><td><code>R/72 K36 R8 K14 W/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/r36k18r4k7w2/"><img src="/variants/s5/r36k18r4k7w2~x2/sett.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3/">Hopkins</a> ★</td><td><code>DBi/20 K8 DBi8 K8 DBi8 DB20 K8 DB4 N4 DB4 K40 DBi/12</code></td><td>—</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3/"><img src="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/sett.png" alt="Hopkins sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3/">Welsh Name Tartan</a></td><td><code>DB/20 K8 DB8 K8 DB8 DBi20 K8 DBi4 N4 DBi4 K40 DB/12</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3/"><img src="/variants/s12/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3~x4~db1204274-dbi1404245/sett.png" alt="Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Woodberry Forest School (Corporate)](/variants/s10/r6k3w3k3w3k34r6g5r6k5~x2/)|
-|![Woodberry Forest School (Corporate) example sett](/variants/s10/r6k3w3k3w3k34r6g5r6k5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/">Woodberry Forest School (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"><img src="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/sett.png" alt="Woodberry Forest School (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

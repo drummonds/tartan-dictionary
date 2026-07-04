@@ -9,10 +9,10 @@ A family of [Clan Murray](/clan/murray/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg4r4dg4r6dg15r11dg2r2dg16r21dg2r2dg4r2dg2r3dg5r3dg2r2dg4/">Murray of Dunmore</a> ★</td><td><code>DG/8 R8 DG8 R12 DG30 R22 DG4 R4 DG32 R42 DG4 R4 DG8 R4 DG4 R6 DG10 R6 DG4 R4 DG/8</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg4r4dg4r6dg15r11dg2r2dg16r21dg2r2dg4r2dg2r3dg5r3dg2r2dg4/"><img src="/variants/s21/dg4r4dg4r6dg15r11dg2r2dg16r21dg2r2dg4r2dg2r3dg5r3dg2r2dg4~x2/sett.png" alt="Murray of Dunmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/">Murray of Dunmore</a> ★</td><td><code>DG/8 DR8 DG8 DR12 DG30 DR22 DG4 DR4 DG32 DR42 DG4 DR4 DG8 DR4 DG4 DR6 DG10 DR6 DG4 DR4 DG/8</code></td><td>448</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/"><img src="/variants/s21/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4~x2/sett.png" alt="Murray of Dunmore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

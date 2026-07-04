@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stuart of Bute 2013 (Fashion)](/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2/)|
-|![Stuart of Bute 2013 (Fashion) example sett](/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/">Stuart of Bute 2013 (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/"><img src="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/sett.png" alt="Stuart of Bute 2013 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

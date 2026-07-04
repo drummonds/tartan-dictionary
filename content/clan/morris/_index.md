@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s6/w2dp20r3k10g20lo2~x2/"><img src="/variants/s6/w2dp20r3k10g20lo2~x2/sett.png" alt="Morris of Balgonie (Personal)" width="240"><br>Morris of Balgonie (Personal)</a>
+<a class="tartan" href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><img src="/variants/s6/w2dp20dr3k10g20lo2~x2/sett.png" alt="Morris of Balgonie (Personal)" width="240"><br>Morris of Balgonie (Personal)</a>
 
 ## Families
 

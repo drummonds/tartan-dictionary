@@ -1,5 +1,0 @@
----
-title: "Beaverbrook (District)"
-redirect: "/variants/s81/g2dg2g2dg1t1ly1t1ly1t1dg18r6oi5r9ly2r3oi9r8t4ly3o2ly1r16dg18t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1t1ly1t1ly1t1dg18r16ly1o2ly3t4r8oi9r3ly2r9oi5r6dg18t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1-h563109ec68667abe/"
----
-This sett is recorded as a single cloth — redirecting to [Beaverbrook (District)](/variants/s81/g2dg2g2dg1t1ly1t1ly1t1dg18r6oi5r9ly2r3oi9r8t4ly3o2ly1r16dg18t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1t1ly1t1ly1t1dg18r16ly1o2ly3t4r8oi9r3ly2r9oi5r6dg18t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1-h563109ec68667abe/).

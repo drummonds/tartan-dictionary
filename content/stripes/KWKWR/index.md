@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Daks - House Check, C.6700.03](/variants/s5/k3w7k4w6o3~x2/)|
-|![Daks - House Check, C.6700.03 example sett](/variants/s5/k3w7k4w6o3~x2/sett.png)|
-| [McPartlin (Personal)](/variants/s5/k27w29k5w14r2~x2/)|
-|![McPartlin (Personal) example sett](/variants/s5/k27w29k5w14r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k3w7k4w6o3~x2~o2102055/">Daks - House Check, C.6700.03</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k3w7k4w6o3~x2~o2102055/"><img src="/variants/s5/k3w7k4w6o3~x2~o2102055/sett.png" alt="Daks - House Check, C.6700.03 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k27w29k5w14r2~x2/">McPartlin (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k27w29k5w14r2~x2/"><img src="/variants/s5/k27w29k5w14r2~x2/sett.png" alt="McPartlin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

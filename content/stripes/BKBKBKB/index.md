@@ -22,13 +22,20 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dunbar, John Telfer (Personal)](/variants/s7/do5k2do28k10do26k4do4~x2/)|
-|![Dunbar, John Telfer (Personal) example sett](/variants/s7/do5k2do28k10do26k4do4~x2/sett.png)|
-| [STLTH](/variants/s7/dt4k2dt4k45dti2k3dti2~x2/)|
-|![STLTH example sett](/variants/s7/dt4k2dt4k45dti2k3dti2~x2/sett.png)|
-| [STLTH (Corporate)](/variants/s7/dt4k2dt4k45n2k3n2~x2/)|
-|![STLTH (Corporate) example sett](/variants/s7/dt4k2dt4k45n2k3n2~x2/sett.png)|
-| [TACC (Corporate)](/variants/s7/n34k7n12k40n3k4t3~x2/)|
-|![TACC (Corporate) example sett](/variants/s7/n34k7n12k40n3k4t3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/do5k2do28k10do26k4do4~x2/">Dunbar, John Telfer (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/do5k2do28k10do26k4do4~x2/"><img src="/variants/s7/do5k2do28k10do26k4do4~x2/sett.png" alt="Dunbar, John Telfer (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/">STLTH</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><img src="/variants/s7/dt4k2dt4k45n2k3n2~x2/sett.png" alt="STLTH sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/n8k3n17k13n6k3n4~x2/">Scott Black and Grey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/n8k3n17k13n6k3n4~x2/"><img src="/variants/s7/n8k3n17k13n6k3n4~x2/sett.png" alt="Scott Black and Grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

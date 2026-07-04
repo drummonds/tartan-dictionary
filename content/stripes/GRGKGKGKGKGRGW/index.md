@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Strath Hallidale (Sutherland)](/variants/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/)|
-|![Strath Hallidale (Sutherland) example sett](/variants/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/">Strath Hallidale (Sutherland)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><img src="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/sett.png" alt="Strath Hallidale (Sutherland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

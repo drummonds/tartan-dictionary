@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Coulthard (Personal)](/variants/s7/r3g9y15db10k2db18w3~x2/)|
-|![Coulthard (Personal) example sett](/variants/s7/r3g9y15db10k2db18w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/">Coulthard (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><img src="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/sett.png" alt="Coulthard (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

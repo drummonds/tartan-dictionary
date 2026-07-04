@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bowie, Black (Name)](/variants/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/)|
-|![Bowie, Black (Name) example sett](/variants/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k9lo1dg3r5dg16k17r2t16r5t3r3t9/">Bowie, Black</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k9lo1dg3r5dg16k17r2t16r5t3r3t9/"><img src="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/sett.png" alt="Bowie, Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

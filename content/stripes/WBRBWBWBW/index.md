@@ -22,9 +22,17 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Canadian Winter Games 1987](/variants/s9/lb8dt2lb1dt2lb1dt2r3dt3lb1~x4/)|
-|![Canadian Winter Games 1987 example sett](/variants/s9/lb8dt2lb1dt2lb1dt2r3dt3lb1~x4/sett.png)|
-| [Jeux Canada Games '87 (Corporate)](/variants/s9/w16db3w2db3w2db3r5db6w2~x4/)|
-|![Jeux Canada Games '87 (Corporate) example sett](/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/">Canadian Winter Games 1987</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/"><img src="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/sett.png" alt="Canadian Winter Games 1987 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/">Jeux Canada Games '87 (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><img src="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/sett.png" alt="Jeux Canada Games '87 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

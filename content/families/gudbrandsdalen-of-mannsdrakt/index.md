@@ -9,10 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg44r3do6dg6r2do1dg2r10dg2do1r2dg6do6r3lr1r42/">Gudbrandsdalen of Mannsdrakt</a> ★</td><td><code>DG/176 R12 DO24 DG24 R8 DO4 DG8 R40 DG8 DO4 R8 DG24 DO24 R12 LR4 R/168</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg44r3do6dg6r2do1dg2r10dg2do1r2dg6do6r3lr1r42/"><img src="/variants/s16/dg44r3do6dg6r2do1dg2r10dg2do1r2dg6do6r3lr1r42~x4/sett.png" alt="Gudbrandsdalen of Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42/">Gudbrandsdalen of Mannsdrakt</a> ★</td><td><code>G/176 DR12 DO24 G24 DR8 DO4 G8 DR40 G8 DO4 DR8 G24 DO24 DR12 LR4 DR/168</code></td><td>752</td><td>1830</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42/"><img src="/variants/s16/g44dr3do6g6dr2do1g2dr10g2do1dr2g6do6dr3lr1dr42~x4/sett.png" alt="Gudbrandsdalen of Mannsdrakt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

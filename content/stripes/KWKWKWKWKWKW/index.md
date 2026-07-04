@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scott](/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/)|
-|![Scott example sett](/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/sett.png)|
-| [Stuart/Stewart Mourning](/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/)|
-|![Stuart/Stewart Mourning example sett](/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/">Stuart/Stewart Mourning</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><img src="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/sett.png" alt="Stuart/Stewart Mourning sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

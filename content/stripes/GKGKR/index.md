@@ -22,9 +22,29 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Daks (Black)](/variants/s5/r3k6dy4k6y3~x2/)|
-|![Daks (Black) example sett](/variants/s5/r3k6dy4k6y3~x2/sett.png)|
-| [Gadsden (Artefact)](/variants/s5/r3k16dg2k2dg2~x2/)|
-|![Gadsden (Artefact) example sett](/variants/s5/r3k16dg2k2dg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r2k3g45k3y2/">Mar Tribe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2k3g45k3y2/"><img src="/variants/s5/r2k3g45k3y2/sett.png" alt="Mar Tribe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2k4g45k3y2/">Mar, (Tribe of..)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2k4g45k3y2/"><img src="/variants/s5/r2k4g45k3y2/sett.png" alt="Mar, (Tribe of..) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r1k2g16k2y1~x2/">Skene or Tribe of Mar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r1k2g16k2y1~x2/"><img src="/variants/s5/r1k2g16k2y1~x2/sett.png" alt="Skene or Tribe of Mar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/dy9k4dy4k45r4~x2/">Gwynn (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dy9k4dy4k45r4~x2/"><img src="/variants/s5/dy9k4dy4k45r4~x2/sett.png" alt="Gwynn (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y7k4y4k39r4~x2/">Welsh National #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/y7k4y4k39r4~x2/"><img src="/variants/s5/y7k4y4k39r4~x2/sett.png" alt="Welsh National #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/o3k6dy4k6y3~x2/">Daks (Black)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/o3k6dy4k6y3~x2/"><img src="/variants/s5/o3k6dy4k6y3~x2/sett.png" alt="Daks (Black) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/r3k16dg2k2dg2~x2/">Gadsden (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r3k16dg2k2dg2~x2/"><img src="/variants/s5/r3k16dg2k2dg2~x2/sett.png" alt="Gadsden (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

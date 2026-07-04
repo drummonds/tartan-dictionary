@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cheape of Torosay (Personal)](/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/)|
-|![Cheape of Torosay (Personal) example sett](/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/">Cheape of Torosay (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/"><img src="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/sett.png" alt="Cheape of Torosay (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

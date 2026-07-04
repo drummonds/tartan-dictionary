@@ -22,7 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Daks (0600150)](/variants/s8/r5dt12g3db4g20dt3g3r5~x4/)|
-|![Daks (0600150) example sett](/variants/s8/r5dt12g3db4g20dt3g3r5~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/">Daks (0600150)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><img src="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/sett.png" alt="Daks (0600150) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/">Inverness Earl of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><img src="/variants/s8/r42db4y1db6g1db1g1r12~x2/sett.png" alt="Inverness Earl of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

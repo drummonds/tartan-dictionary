@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wedding Day (Fashion)](/variants/s9/lo4w1dp48r2ri3r2dp3w1lo4~x2/)|
-|![Wedding Day (Fashion) example sett](/variants/s9/lo4w1dp48r2ri3r2dp3w1lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/ly4w1dp48r2ri3r2dp3w1ly4~x2~r2109032-ri2806019/">Wedding Day (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/ly4w1dp48r2ri3r2dp3w1ly4~x2~r2109032-ri2806019/"><img src="/variants/s9/ly4w1dp48r2ri3r2dp3w1ly4~x2~r2109032-ri2806019/sett.png" alt="Wedding Day (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

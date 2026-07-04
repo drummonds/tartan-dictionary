@@ -9,10 +9,10 @@ A family of [Clan Johnstons](/clan/johnstons/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/k25r14k8y14b5k12o6k8bi2/">Johnstons of Elgin Bicentennial (Com</a> ★</td><td><code>K/50 R28 K16 Y28 B10 K24 O12 K16 Bi/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/k25r14k8y14b5k12o6k8bi2/"><img src="/variants/s9/k25r14k8y14b5k12o6k8bi2~x2/sett.png" alt="Johnstons of Elgin Bicentennial (Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dt25r14dt8dy14t5dt12o6dt8lb2/">Johnstons of Elgin Bicentennial (Com</a> ★</td><td><code>DT/50 R28 DT16 DY28 T10 DT24 O12 DT16 LB/4</code></td><td>322</td><td>1997</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dt25r14dt8dy14t5dt12o6dt8lb2/"><img src="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial (Com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

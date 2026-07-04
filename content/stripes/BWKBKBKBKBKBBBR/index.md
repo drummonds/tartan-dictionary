@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Passion of Scotland, Purple (Fashion](/variants/s15/dbi7w1k3dp3k3dbi3k13dp2k2dp2k2dp23db3dp2m2~x2/)|
-|![Passion of Scotland, Purple (Fashion example sett](/variants/s15/dbi7w1k3dp3k3dbi3k13dp2k2dp2k2dp23db3dp2m2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/">Passion of Scotland, Purple (Fashion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/"><img src="/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/sett.png" alt="Passion of Scotland, Purple (Fashion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

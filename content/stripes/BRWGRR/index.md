@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cercle de Fermières Varennes](/variants/s6/o30r3dg14w10r3b30~x2/)|
-|![Cercle de Fermières Varennes example sett](/variants/s6/o30r3dg14w10r3b30~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db30r3w10g14r3o30~x2/">Cercle de Fermières Varennes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db30r3w10g14r3o30~x2/"><img src="/variants/s6/db30r3w10g14r3o30~x2/sett.png" alt="Cercle de Fermières Varennes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

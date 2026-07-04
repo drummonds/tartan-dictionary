@@ -22,17 +22,19 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacLean, Donald (Personal)](/variants/s7/g16lb3g3k10db12r2db3~x2/)|
-|![MacLean, Donald (Personal) example sett](/variants/s7/g16lb3g3k10db12r2db3~x2/sett.png)|
-| [MacThomas](/variants/s7/db3r2db22k11g24lp2g3~x2/)|
-|![MacThomas example sett](/variants/s7/db3r2db22k11g24lp2g3~x2/sett.png)|
-| [MacThomas (Clan)](/variants/s7/dg5lp3dg32k16b32m3b5~x2/)|
-|![MacThomas (Clan) example sett](/variants/s7/dg5lp3dg32k16b32m3b5~x2/sett.png)|
-| [MacThomas Clan Tartan](/variants/s7/db3m2db22k11g24lp2g3~x2/)|
-|![MacThomas Clan Tartan example sett](/variants/s7/db3m2db22k11g24lp2g3~x2/sett.png)|
-| [Sinclair Dress (Dance)](/variants/s7/db4r2db31k10g4w21g2~x2/)|
-|![Sinclair Dress (Dance) example sett](/variants/s7/db4r2db31k10g4w21g2~x2/sett.png)|
-| [Sinclair dress](/variants/s7/db2r1db16k5g2w11g1~x4/)|
-|![Sinclair dress example sett](/variants/s7/db2r1db16k5g2w11g1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/">MacTaggert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g9lb2g1k6db6r1db1~x2/"><img src="/variants/s7/g9lb2g1k6db6r1db1~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/">MacThomas (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><img src="/variants/s7/dg5lp3dg32k16db32r3db5~x2/sett.png" alt="MacThomas (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/db2r1db16k5g2w11g1~x4/">Sinclair dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db2r1db16k5g2w11g1~x4/"><img src="/variants/s7/db2r1db16k5g2w11g1~x4/sett.png" alt="Sinclair dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

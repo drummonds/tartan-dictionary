@@ -22,9 +22,17 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacColl #2](/variants/s14/r12dg1r1dy8r2dy1r1db3r1dy1r12dg1r1dg4~x2/)|
-|![MacColl #2 example sett](/variants/s14/r12dg1r1dy8r2dy1r1db3r1dy1r12dg1r1dg4~x2/sett.png)|
-| [MacColl #3](/variants/s14/r12dy1r1dg8r2dy1r1db3r1dy1r12dg1r1dg4~x2/)|
-|![MacColl #3 example sett](/variants/s14/r12dy1r1dg8r2dy1r1db3r1dy1r12dg1r1dg4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/">MacColl #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/"><img src="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/sett.png" alt="MacColl #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s14/r12dy1r1g8r2dy1r1db3r1dy1r12g1r1g4~x2/">MacColl #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r12dy1r1g8r2dy1r1db3r1dy1r12g1r1g4~x2/"><img src="/variants/s14/r12dy1r1g8r2dy1r1db3r1dy1r12g1r1g4~x2/sett.png" alt="MacColl #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

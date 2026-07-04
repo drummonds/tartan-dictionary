@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Norris (1998)](/variants/s6/k2w1g5ri1t18r2~x2/)|
-|![Norris (1998) example sett](/variants/s6/k2w1g5ri1t18r2~x2/sett.png)|
-| [Norris (1998) (Name)](/variants/s6/k2w1g5r1t18r2~x2/)|
-|![Norris (1998) (Name) example sett](/variants/s6/k2w1g5r1t18r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r25db7r3g13lb1k2~x4/">MacPhail</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><img src="/variants/s6/r25db7r3g13lb1k2~x4/sett.png" alt="MacPhail sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r40t8r6g24lb1k4~x2/">MacPhail (Blue Bands)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r40t8r6g24lb1k4~x2/"><img src="/variants/s6/r40t8r6g24lb1k4~x2/sett.png" alt="MacPhail (Blue Bands) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

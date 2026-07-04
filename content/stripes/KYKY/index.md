@@ -22,15 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Justus](/variants/s4/k5ly1k1~x12/)|
-|![Justus example sett](/variants/s4/k5ly1k1~x12/sett.png)|
-| [Justus #2 (Personal)](/variants/s4/k5lo1k1~x20/)|
-|![Justus #2 (Personal) example sett](/variants/s4/k5lo1k1~x20/sett.png)|
-| [MacFarlane VS](/setts/k7lr6k1/)|
-|![MacFarlane VS example sett](/variants/s4/k7lr6k1/sett.png)|
-| [Raeburn](/variants/s4/k34ly3k34ly26~x2/)|
-|![Raeburn example sett](/variants/s4/k34ly3k34ly26~x2/sett.png)|
-| [Raeburn](/variants/s4/k6ly1k6ly6~x6/)|
-|![Raeburn example sett](/variants/s4/k6ly1k6ly6~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/k5lo1k1~x20/">Justus #2 (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k5lo1k1~x20/"><img src="/variants/s3/k5lo1k1~x20/sett.png" alt="Justus #2 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/k34ly3k34ly26~x2/">Raeburn (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k34ly3k34ly26~x2/"><img src="/variants/s4/k34ly3k34ly26~x2/sett.png" alt="Raeburn (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

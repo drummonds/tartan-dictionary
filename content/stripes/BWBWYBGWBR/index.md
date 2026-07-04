@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stratford (Ontario), City of](/variants/s10/db42w5db1w1ly9db1g2w1db1r1~x4/)|
-|![Stratford (Ontario), City of example sett](/variants/s10/db42w5db1w1ly9db1g2w1db1r1~x4/sett.png)|
-| [Stratford, (Oregon) City of (Dist.)](/variants/s10/b42w5b1w1lo9b1g2w1b1r1~x4/)|
-|![Stratford, (Oregon) City of (Dist.) example sett](/variants/s10/b42w5b1w1lo9b1g2w1b1r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/">Stratford, (Oregon) City of (Dist.)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><img src="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/sett.png" alt="Stratford, (Oregon) City of (Dist.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

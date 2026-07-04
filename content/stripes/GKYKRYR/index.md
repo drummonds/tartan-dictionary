@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Alister Grant 'Mohr', the Laird's Champion](/variants/s7/y30k4ly10k4o5ly5o15~x2/)|
-|![Alister Grant 'Mohr', the Laird's Champion example sett](/variants/s7/y30k4ly10k4o5ly5o15~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/">Alister Grant 'Mohr', the Laird's Champion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/"><img src="/variants/s7/y30k4lg10k4r5lg5r15~x2~y2204115-lg3104115/sett.png" alt="Alister Grant 'Mohr', the Laird's Champion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

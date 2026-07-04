@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×4 | [Campbell-Simpson (Personal)](/variants/s10/g12k2g2dg9g4k2~x4/) ★ | 1974 | ![Campbell-Simpson (Personal) sett](/variants/s10/g12k2g2dg9g4k2~x4/sett.png) |
-| ×4 | [Campbell-Simpson (Personal)](/variants/s6/g12k2g2dg9g4k2~x4/) | 1974 | ![Campbell-Simpson (Personal) sett](/variants/s6/g12k2g2dg9g4k2~x4/sett.png) |
+| ×4 | [Campbell-Simpson (Personal)](/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/) ★ | 1974 | ![Campbell-Simpson (Personal) sett](/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/sett.png) |
+| ×4 | [Campbell-Simpson (Personal)](/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/) | 1974 | ![Campbell-Simpson (Personal) sett](/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/sett.png) |

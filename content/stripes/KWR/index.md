@@ -22,13 +22,16 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Coigach Tweed](/variants/s3/k1lb1o1~x6/)|
-|![Coigach Tweed example sett](/variants/s3/k1lb1o1~x6/sett.png)|
-| [Dacre Estate Check](/variants/s3/k1w1r1~x14/)|
-|![Dacre Estate Check example sett](/variants/s3/k1w1r1~x14/sett.png)|
-| [International Karate Fed. (Corporat)](/variants/s3/r8w1k1~x20/)|
-|![International Karate Fed. (Corporat) example sett](/variants/s3/r8w1k1~x20/sett.png)|
-| [St Georges Check](/variants/s3/r35w94k6/)|
-|![St Georges Check example sett](/variants/s3/r35w94k6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/k1w1r1~x14/">Dacre Estate Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k1w1r1~x14/"><img src="/variants/s3/k1w1r1~x14/sett.png" alt="Dacre Estate Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r35w94k6/">St Georges Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r35w94k6/"><img src="/variants/s3/r35w94k6/sett.png" alt="St Georges Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

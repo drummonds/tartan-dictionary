@@ -22,7 +22,14 @@ It is a 29 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Vaughan (Welsh Name) Welsh Name Tartan](/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3g17k20w6ly4w6k20g17k3ly17k2ly4k2ly17k3w2k23w6k4/)|
-|![Vaughan (Welsh Name) Welsh Name Tartan example sett](/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3g17k20w6ly4w6k20g17k3ly17k2ly4k2ly17k3w2k23w6k4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/">Vaughan (Welsh Name) Welsh Name Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/"><img src="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/sett.png" alt="Vaughan (Welsh Name) Welsh Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

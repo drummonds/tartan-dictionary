@@ -22,9 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Barkway (Name)](/variants/s18/g3gi2g2gi16g2gi2g2gi2g4n4k2n2k2n2k24r2k2w3~x2/)|
-|![Barkway (Name) example sett](/variants/s18/g3gi2g2gi16g2gi2g2gi2g4n4k2n2k2n2k24r2k2w3~x2/sett.png)|
-| [Barkway Wedding 2012](/variants/s18/dgi3dg2dgi2dg16dgi2dg2dgi2dg2dgi4dt4k2dt2k2dt2k24r2k2w3~x2/)|
-|![Barkway Wedding 2012 example sett](/variants/s18/dgi3dg2dgi2dg16dgi2dg2dgi2dg2dgi4dt4k2dt2k2dt2k24r2k2w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3/">Barkway (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3/"><img src="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/sett.png" alt="Barkway (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kruenaegel and Schropp](/variants/s8/b20m1w3dt1w2dt8g3w1~x4/)|
-|![Kruenaegel and Schropp example sett](/variants/s8/b20m1w3dt1w2dt8g3w1~x4/sett.png)|
-| [Kruenaegel and Schropp (Name)](/variants/s8/b20r1w3db1w2db8g3w1~x4/)|
-|![Kruenaegel and Schropp (Name) example sett](/variants/s8/b20r1w3db1w2db8g3w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/">Kruenaegel-Schropp Name Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><img src="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/sett.png" alt="Kruenaegel-Schropp Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

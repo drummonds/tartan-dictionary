@@ -22,23 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Royal Stewart](/variants/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/)|
-|![Royal Stewart example sett](/variants/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/sett.png)|
-| [Royal Stewart - 1819](/variants/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/)|
-|![Royal Stewart - 1819 example sett](/variants/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/sett.png)|
-| [Stewart - Pr Ch Ed - Pendleton](/variants/s12/r32db2k8lo1k2lb2k2g18r10k2r2lb2~x4/)|
-|![Stewart - Pr Ch Ed - Pendleton example sett](/variants/s12/r32db2k8lo1k2lb2k2g18r10k2r2lb2~x4/sett.png)|
-| [Stewart Royal](/variants/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/)|
-|![Stewart Royal example sett](/variants/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/sett.png)|
-| [Stewart, Prince Charles Edward](/variants/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/)|
-|![Stewart, Prince Charles Edward example sett](/variants/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/sett.png)|
-| [Stewart/Stuart, Royal](/variants/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/)|
-|![Stewart/Stuart, Royal example sett](/variants/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/sett.png)|
-| [Stewart/Stuart, Royal #2](/setts/r18db2k3ly1k1w1k1g4r2k1r1w1/)|
-|![Stewart/Stuart, Royal #2 example sett](/variants/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x2/sett.png)|
-| [Stuart/Stewart #2](/variants/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/)|
-|![Stuart/Stewart #2 example sett](/variants/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/sett.png)|
-| [TIlted Kilt](/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/)|
-|![TIlted Kilt example sett](/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/">Tilted Kilt (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><img src="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/sett.png" alt="Tilted Kilt (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

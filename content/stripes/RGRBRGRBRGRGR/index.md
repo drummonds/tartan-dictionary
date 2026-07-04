@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Robertson](/setts/r1dg1r9dg1r1db9r1dg9r1db1r9dg1r1/)|
-|![Robertson example sett](/variants/s13/r1dg1r9dg1r1db9r1dg9r1db1r9dg1r1/sett.png)|
-| [Robertson 3](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/)|
-|![Robertson 3 example sett](/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r1g1r9db1r1g9r1db9r1g1r9g1r1/">Robertson</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r1g1r9db1r1g9r1db9r1g1r9g1r1/"><img src="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/sett.png" alt="Robertson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

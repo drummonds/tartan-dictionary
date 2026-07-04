@@ -22,7 +22,14 @@ It is a 46 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Virginia (Fashion)](/variants/s46/dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1/)|
-|![Virginia (Fashion) example sett](/variants/s46/dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/">Virginia (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/"><img src="/variants/s46/dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1~g2408144-dg1806142/sett.png" alt="Virginia (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

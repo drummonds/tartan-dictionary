@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Teirney (Estimated threadcount)](/variants/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~x2/)|
-|![Teirney (Estimated threadcount) example sett](/variants/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/">Teirney (Estimated threadcount)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/"><img src="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/sett.png" alt="Teirney (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

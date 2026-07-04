@@ -12,5 +12,5 @@ Part of the [Nairn](/tartans/nairn/) tartan — the named design grouping this p
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×8 | [Nairn](/variants/s5/r1k8g2db4r1~x8/) ★ | 1930 | ![Nairn sett](/variants/s5/r1k8g2db4r1~x8/sett.png) |
+| ×8 | [Nairn (Name)](/variants/s5/r1k8g2db4r1~x8/) ★ | 1930 | ![Nairn (Name) sett](/variants/s5/r1k8g2db4r1~x8/sett.png) |
 | ×4 | [Nairn](/variants/s5/r1k8g2db4r1~x4/) | ~2016 | ![Nairn sett](/variants/s5/r1k8g2db4r1~x4/sett.png) |

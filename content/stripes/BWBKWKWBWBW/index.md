@@ -22,11 +22,20 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Clark](/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/)|
-|![Clark example sett](/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/sett.png)|
-| [Clark (Clan)](/variants/s11/t2w2t15k15w2k15w2t3w2t7w2~x2/)|
-|![Clark (Clan) example sett](/variants/s11/t2w2t15k15w2k15w2t3w2t7w2~x2/sett.png)|
-| [Clergy (Grey)](/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/)|
-|![Clergy (Grey) example sett](/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/">Clark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/"><img src="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/">Clergy (Grey)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/"><img src="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/sett.png" alt="Clergy (Grey) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/n1w1n6k6w1k6w1n1w1n3w1~x2/">Clergy 6</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n1w1n6k6w1k6w1n1w1n3w1~x2/"><img src="/variants/s11/n1w1n6k6w1k6w1n1w1n3w1~x2/sett.png" alt="Clergy 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

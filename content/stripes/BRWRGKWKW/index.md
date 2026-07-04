@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified #43](/variants/s9/db48r10w2r10dg17k3w17k3w34~x2/)|
-|![Unidentified #43 example sett](/variants/s9/db48r10w2r10dg17k3w17k3w34~x2/sett.png)|
-| [Unidentified 18](/variants/s9/db48r10w2r10g17k3w17k3w34~x2/)|
-|![Unidentified 18 example sett](/variants/s9/db48r10w2r10g17k3w17k3w34~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/">Unidentified #43</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><img src="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/sett.png" alt="Unidentified #43 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

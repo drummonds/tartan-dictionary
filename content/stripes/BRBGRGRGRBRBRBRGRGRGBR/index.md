@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Inverness Fencibles](/variants/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/)|
-|![Inverness Fencibles example sett](/variants/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/">Inverness Fencibles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><img src="/variants/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/sett.png" alt="Inverness Fencibles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

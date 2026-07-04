@@ -22,7 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Carnet (Fashion)](/variants/s6/k6dg3k3dg11k1dg2~x4/)|
-|![Carnet (Fashion) example sett](/variants/s6/k6dg3k3dg11k1dg2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/dy7k2dy12k10g12k3~x2/">Brown Watch (single tramlines)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><img src="/variants/s6/dy7k2dy12k10g12k3~x2/sett.png" alt="Brown Watch (single tramlines) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/">Brown Watch (single) (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/"><img src="/variants/s6/dy7k2dy12k10dg12k3~x2/sett.png" alt="Brown Watch (single) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rankin, John (Personal)](/variants/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/)|
-|![Rankin, John (Personal) example sett](/variants/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/">Rankin, John (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><img src="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/sett.png" alt="Rankin, John (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

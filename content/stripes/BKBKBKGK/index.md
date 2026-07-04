@@ -22,11 +22,19 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Watch (Miniature) Regimental Tartan](/variants/s8/db12k1db1k1db1k3g6k1~x2/)|
-|![Black Watch (Miniature) Regimental Tartan example sett](/variants/s8/db12k1db1k1db1k3g6k1~x2/sett.png)|
-| [Black Watch RHR](/variants/s8/db10k1db3k1db20k25dg40k3~x2/)|
-|![Black Watch RHR example sett](/variants/s8/db10k1db3k1db20k25dg40k3~x2/sett.png)|
-| [Nightstalker (Corporate)](/variants/s8/k1g1k8n1k1n2k1n1~x8/)|
-|![Nightstalker (Corporate) example sett](/variants/s8/k1g1k8n1k1n2k1n1~x8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/">Black Watch (Miniature) Regimental Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/"><img src="/variants/s8/db12k1db1k1db1k3g6k1~x2/sett.png" alt="Black Watch (Miniature) Regimental Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db10k1db3k1db20k25g40k3~x2/">Black Watch RHR</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db10k1db3k1db20k25g40k3~x2/"><img src="/variants/s8/db10k1db3k1db20k25g40k3~x2/sett.png" alt="Black Watch RHR sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/k1g1k8n1k1n2k1n1/">Nightstalker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k1g1k8n1k1n2k1n1/"><img src="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/sett.png" alt="Nightstalker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

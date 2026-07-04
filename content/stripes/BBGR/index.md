@@ -22,11 +22,16 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Norwich No.040](/variants/s4/t6db6g6r1~x2/)|
-|![Norwich No.040 example sett](/variants/s4/t6db6g6r1~x2/sett.png)|
-| [Unidentified No 40](/variants/s4/b6db6dg6r1~x2/)|
-|![Unidentified No 40 example sett](/variants/s4/b6db6dg6r1~x2/sett.png)|
-| [Unnamed No 40](/variants/s4/b6db6g6r1~x2/)|
-|![Unnamed No 40 example sett](/variants/s4/b6db6g6r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/">Norwich No.040</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><img src="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/sett.png" alt="Norwich No.040 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/b6db6g6r1~x2/">Unnamed No 40</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/b6db6g6r1~x2/"><img src="/variants/s4/b6db6g6r1~x2/sett.png" alt="Unnamed No 40 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

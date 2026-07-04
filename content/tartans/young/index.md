@@ -2,21 +2,18 @@
 title: "Young"
 date: 2023-03-18
 ---
+Its design is pattern [BGRBBGBK](/stripes/bgrbbgbk/) — the page of every tartan sharing this colour sequence.
 
-Derived from the 1726 Christina Young blanket, retaining its purple-yellow-orange box check on a Douglas-style green and blue ground.
-
-The **Young** tartan groups 3 setts — the same named design recorded as different cloths
+The **Young** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db3t3g30db25dp4r3ly2dp1/">Young</a> ★</td><td><code>DB/6 T6 G60 DB50 DP8 R6 LY4 DP/2</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/db3t3g30db25dp4r3ly2dp1/"><img src="/variants/s8/db3t3g30db25dp4r3ly2dp1~x2/sett.png" alt="Young sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3db3g15dbi15dp5o3y2dp1/">Young</a></td><td><code>K/6 DB6 G30 DBi30 DP10 O6 Y4 DP/2</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/k3db3g15dbi15dp5o3y2dp1/"><img src="/variants/s8/k3db3g15dbi15dp5o3y2dp1~x2/sett.png" alt="Young sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3dbi3g15db15m5lo3ly2m1/">Family Tartan</a></td><td><code>K/6 DBi6 G30 DB30 M10 LO6 LY4 M/2</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/k3dbi3g15db15m5lo3ly2m1/"><img src="/variants/s8/k3dbi3g15db15m5lo3ly2m1~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k3dbi3g15db15dp5r3y2dp1/">Young</a> ★</td><td><code>K/6 DBi6 G30 DB30 DP10 R6 Y4 DP/2</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3dbi3g15db15dp5r3y2dp1/"><img src="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/sett.png" alt="Young sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k3dbi3g15db15o5lo3dy2o1/">Family Tartan</a></td><td><code>K/6 DBi6 G30 DB30 O10 LO6 DY4 O/2</code></td><td>—</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/k3dbi3g15db15o5lo3dy2o1/"><img src="/variants/s8/k3dbi3g15db15o5lo3dy2o1~x2~dbi1406275-db1204274/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

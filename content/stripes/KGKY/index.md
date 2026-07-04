@@ -22,13 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scotch Tape 2 (Corporate)](/variants/s4/k3g15k20ly3~x2/)|
-|![Scotch Tape 2 (Corporate) example sett](/variants/s4/k3g15k20ly3~x2/sett.png)|
-| [Wallace Htg (Clan)](/variants/s4/k1g8k8ly1~x4/)|
-|![Wallace Htg (Clan) example sett](/variants/s4/k1g8k8ly1~x4/sett.png)|
-| [Wallace Hunting](/variants/s4/k1dg8k8ly1/)|
-|![Wallace Hunting example sett](/variants/s4/k1dg8k8ly1/sett.png)|
-| [Wallace, hunting](/variants/s4/k4g33k33ly4~x2/)|
-|![Wallace, hunting example sett](/variants/s4/k4g33k33ly4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/">Perry Ancient (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><img src="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/sett.png" alt="Perry Ancient (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/k1g8k8ly1~x4/">Wallace Htg (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k1g8k8ly1~x4/"><img src="/variants/s4/k1g8k8ly1~x4/sett.png" alt="Wallace Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

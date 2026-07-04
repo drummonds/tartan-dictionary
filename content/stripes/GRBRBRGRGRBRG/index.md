@@ -22,7 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fraser, Wedding dress](/setts/g2r3db2r48db60r21g2r21g60r48db2r3g2/)|
-|![Fraser, Wedding dress example sett](/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/">Fraser, Isabella (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/"><img src="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/sett.png" alt="Fraser, Isabella (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/">Fraser, Wedding dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><img src="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/sett.png" alt="Fraser, Wedding dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

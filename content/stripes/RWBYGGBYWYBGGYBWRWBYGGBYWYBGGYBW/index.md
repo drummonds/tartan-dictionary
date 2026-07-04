@@ -22,7 +22,14 @@ It is a 32 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Spens Fragment](/variants/s32/r50w2db7lo2gi33g12db7lo3w2lo3db7g12gi33lo2db7w2r17~x2/)|
-|![Spens Fragment example sett](/variants/s32/r50w2db7lo2gi33g12db7lo3w2lo3db7g12gi33lo2db7w2r17~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/">Spens Fragment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/"><img src="/variants/s17/r50w2db7ly2dg33g12db7ly3w2ly3db7g12dg33ly2db7w2r17~x2~dg1806142-g2408144/sett.png" alt="Spens Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

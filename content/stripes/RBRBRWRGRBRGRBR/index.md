@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Walkers Shortbread](/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/)|
-|![Walkers Shortbread example sett](/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/">Walkers Shortbread</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/"><img src="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/sett.png" alt="Walkers Shortbread sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

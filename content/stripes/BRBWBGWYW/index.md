@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Guszcza, The (Personal)](/variants/s9/n28r2n3w2n17y8lb16lo3lb3~x2/)|
-|![Guszcza, The (Personal) example sett](/variants/s9/n28r2n3w2n17y8lb16lo3lb3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/">Guszcza, The (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/"><img src="/variants/s9/n28r2n3w2n17y8lb16ly3lb3~x2~n1700000-y2400000/sett.png" alt="Guszcza, The (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

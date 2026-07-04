@@ -22,9 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lorne](/setts/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2/)|
-|![Lorne example sett](/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/sett.png)|
-| [Lorne, Marquis of](/variants/s15/g2k1t8k1t1k1t1k8g1k1g1k1g8k1t2~x4/)|
-|![Lorne, Marquis of example sett](/variants/s15/g2k1t8k1t1k1t1k8g1k1g1k1g8k1t2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2/">Lorne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2/"><img src="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/sett.png" alt="Lorne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

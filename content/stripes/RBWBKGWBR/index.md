@@ -22,7 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacNaughton Dress](/variants/s9/r2db2w26g25k14db13w26db2r2~x2/)|
-|![MacNaughton Dress example sett](/variants/s9/r2db2w26g25k14db13w26db2r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/">MacNaughton Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"><img src="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/sett.png" alt="MacNaughton Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/r2db2w26g25k14db13w26db2r2~x2/">MacNaughton, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r2db2w26g25k14db13w26db2r2~x2/"><img src="/variants/s9/r2db2w26g25k14db13w26db2r2~x2/sett.png" alt="MacNaughton, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

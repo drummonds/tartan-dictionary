@@ -22,11 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rankin](/variants/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/)|
-|![Rankin example sett](/variants/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/sett.png)|
-| [Rankin](/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/)|
-|![Rankin example sett](/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/sett.png)|
-| [Rankin (1998) (Name)](/variants/s16/db36g10r2g10lb2g10r2g10k14r2db12r3db2r2db4lb2~x2/)|
-|![Rankin (1998) (Name) example sett](/variants/s16/db36g10r2g10lb2g10r2g10k14r2db12r3db2r2db4lb2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/">Rankin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><img src="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/sett.png" alt="Rankin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

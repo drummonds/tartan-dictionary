@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bruce County](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/)|
-|![Bruce County example sett](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/sett.png)|
-| [Bruce County](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/)|
-|![Bruce County example sett](/variants/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/">Bruce County (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><img src="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/sett.png" alt="Bruce County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

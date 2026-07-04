@@ -22,13 +22,18 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Sleat](/variants/s5/dg7r3dg1r9k1~x2/)|
-|![MacDonald of Sleat example sett](/variants/s5/dg7r3dg1r9k1~x2/sett.png)|
-| [MacDonald of Sleat](/setts/dg16r5dg2r18k2/)|
-|![MacDonald of Sleat example sett](/variants/s5/dg16r5dg2r18k2/sett.png)|
-| [MacDonald, Lord of The Isles (Artef)](/variants/s5/g16r5g2r18k2~x2/)|
-|![MacDonald, Lord of The Isles (Artef) example sett](/variants/s5/g16r5g2r18k2~x2/sett.png)|
-| [Murray, Lord George (Hose)](/variants/s5/k1r5g10r5g1~x4/)|
-|![Murray, Lord George (Hose) example sett](/variants/s5/k1r5g10r5g1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g16r5g2r18k2/">MacDonald of Sleat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g16r5g2r18k2/"><img src="/variants/s5/g16r5g2r18k2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/g7r3g1r9k1~x2/">MacDonald of Sleat</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g7r3g1r9k1~x2/"><img src="/variants/s5/g7r3g1r9k1~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1r5g10r5g1~x4/">Murray, Lord George (Hose)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k1r5g10r5g1~x4/"><img src="/variants/s5/k1r5g10r5g1~x4/sett.png" alt="Murray, Lord George (Hose) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

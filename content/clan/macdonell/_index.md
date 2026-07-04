@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/"><img src="/variants/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/sett.png" alt="MacDonell of Glengarry" width="240"><br>MacDonell of Glengarry</a>
+<a class="tartan" href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><img src="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/sett.png" alt="MacDonell of Glengarry #3" width="240"><br>MacDonell of Glengarry #3</a>
 
 ## Families
 

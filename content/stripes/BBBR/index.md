@@ -22,9 +22,19 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Elliott](/setts/db16dr4db3r1/)|
-|![Elliott example sett](/variants/s4/db16dr4db3r1~x2/sett.png)|
-| [Lochaber #3](/variants/s4/db1t1db8r1~x2/)|
-|![Lochaber #3 example sett](/variants/s4/db1t1db8r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/db16b4db3r1~x2/">Elliott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/db16b4db3r1~x2/"><img src="/variants/s4/db16b4db3r1~x2/sett.png" alt="Elliott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/db3b30db40r3~x2/">Sanix Large Muted</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/db3b30db40r3~x2/"><img src="/variants/s4/db3b30db40r3~x2/sett.png" alt="Sanix Large Muted sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/db16dr4db3r1/">Elliot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db16dr4db3r1/"><img src="/variants/s4/db16dr4db3r1~x2/sett.png" alt="Elliot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

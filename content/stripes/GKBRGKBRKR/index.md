@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Delanghe, Ruben (Personal)](/variants/s10/g14k5db2r21g18k4db18r9k2r12/)|
-|![Delanghe, Ruben (Personal) example sett](/variants/s10/g14k5db2r21g18k4db18r9k2r12/sett.png)|
-| [Ruben Delanghe (Personal)](/variants/s10/dg14k5db2r21dg18k4db18r9k2r12/)|
-|![Ruben Delanghe (Personal) example sett](/variants/s10/dg14k5db2r21dg18k4db18r9k2r12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/">Ruben Delanghe (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><img src="/variants/s10/g14k5db2r21g18k4db18r9k2r12/sett.png" alt="Ruben Delanghe (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

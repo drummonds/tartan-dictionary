@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Elystan Glodrydd (Name)](/variants/s7/w3g24r13gi4lo11r8db2~x2/)|
-|![Elystan Glodrydd (Name) example sett](/variants/s7/w3g24r13gi4lo11r8db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/">Elystan Glodrydd (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><img src="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/sett.png" alt="Elystan Glodrydd (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

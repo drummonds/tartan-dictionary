@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Quigley of Knockcroghery (Modern)](/variants/s12/db25w2k2db15lo2db1lo2db15k2w2dg16r1~x2/)|
-|![Quigley of Knockcroghery (Modern) example sett](/variants/s12/db25w2k2db15lo2db1lo2db15k2w2dg16r1~x2/sett.png)|
-| [Quigley of Knockcroghery (Pers)](/variants/s12/db25w2k2db15lo2db1lo2db15k2w2g16r1~x2/)|
-|![Quigley of Knockcroghery (Pers) example sett](/variants/s12/db25w2k2db15lo2db1lo2db15k2w2g16r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/">Quigley of Knockcroghery (Pers)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><img src="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/sett.png" alt="Quigley of Knockcroghery (Pers) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

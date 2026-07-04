@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Monarchs](/variants/s6/db19k4dr1k4dg9dr1~x4/)|
-|![Monarchs example sett](/variants/s6/db19k4dr1k4dg9dr1~x4/sett.png)|
-| [Wilson's, No 166](/variants/s6/t3g12k14t11k3t3~x2/)|
-|![Wilson's, No 166 example sett](/variants/s6/t3g12k14t11k3t3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/">Monarchs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><img src="/variants/s6/db19k4dr1k4dg9dr1~x4/sett.png" alt="Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db19k4b1k4dg9b1~x4/">Monarchs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db19k4b1k4dg9b1~x4/"><img src="/variants/s6/db19k4b1k4dg9b1~x4/sett.png" alt="Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

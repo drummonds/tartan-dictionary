@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bartlett of El Paso (Name)](/variants/s11/r3w2dt2lo1dt39lo1dt1y2dt1ly15dt1~x2/)|
-|![Bartlett of El Paso (Name) example sett](/variants/s11/r3w2dt2lo1dt39lo1dt1y2dt1ly15dt1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/">Bartlett of El Paso (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><img src="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/sett.png" alt="Bartlett of El Paso (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

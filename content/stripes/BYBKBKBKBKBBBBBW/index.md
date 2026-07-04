@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [World Corporate Golf Challenge](/variants/s16/db2lr2db22k6db3k4db3k4db3k6dbi12n4dbi2n6dbi7w2~x2/)|
-|![World Corporate Golf Challenge example sett](/variants/s16/db2lr2db22k6db3k4db3k4db3k6dbi12n4dbi2n6dbi7w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/dt2lr2dt22k6dt3k4dt3k4dt3k6db12t4db2t6db7w2~x2~dt1104259-lr2900000-db1504259-t2002249/">World Corporate Golf Challenge</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/dt2lr2dt22k6dt3k4dt3k4dt3k6db12t4db2t6db7w2~x2~dt1104259-lr2900000-db1504259-t2002249/"><img src="/variants/s16/dt2lr2dt22k6dt3k4dt3k4dt3k6db12t4db2t6db7w2~x2~dt1104259-lr2900000-db1504259-t2002249/sett.png" alt="World Corporate Golf Challenge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

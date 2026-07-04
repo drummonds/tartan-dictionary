@@ -22,13 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cargill](/setts/db1g1db6k6g1k6g1db2g1db3g1/)|
-|![Cargill example sett](/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/sett.png)|
-| [Clergy](/variants/s11/dg1db3dg1db2dg1k6dg1k6db6dg1db1~x2/)|
-|![Clergy example sett](/variants/s11/dg1db3dg1db2dg1k6dg1k6db6dg1db1~x2/sett.png)|
-| [Clergy #2](/variants/s11/db4dg4db18k19dg4k19dg4db7dg4db12dg2~x2/)|
-|![Clergy #2 example sett](/variants/s11/db4dg4db18k19dg4k19dg4db7dg4db12dg2~x2/sett.png)|
-| [Clergy 3](/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/)|
-|![Clergy 3 example sett](/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db1g1db6k6g1k6g1db2g1db3g1/">Clergy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db1g1db6k6g1k6g1db2g1db3g1/"><img src="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/">Clergy #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><img src="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/sett.png" alt="Clergy #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

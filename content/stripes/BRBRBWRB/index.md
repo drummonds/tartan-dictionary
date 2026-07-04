@@ -22,9 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Embrace, The](/variants/s8/db10r24db4r3db24w2r6db6~x2/)|
-|![Embrace, The example sett](/variants/s8/db10r24db4r3db24w2r6db6~x2/sett.png)|
-| [Orkney Slate (Fashion)](/variants/s8/n8o74lb8n42o11dp2o16n4/)|
-|![Orkney Slate (Fashion) example sett](/variants/s8/n8o74lb8n42o11dp2o16n4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/b10r24b4r3b24w2r6b6~x2/">Embrace, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/b10r24b4r3b24w2r6b6~x2/"><img src="/variants/s8/b10r24b4r3b24w2r6b6~x2/sett.png" alt="Embrace, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/">Orkney Slate (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/"><img src="/variants/s8/n8o74lb8n42o11dp2o16n4~n1900000-o2500000/sett.png" alt="Orkney Slate (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

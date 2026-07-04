@@ -22,13 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bryson (2000)](/variants/s5/g5dp2db5dp10ly2~x2/)|
-|![Bryson (2000) example sett](/variants/s5/g5dp2db5dp10ly2~x2/sett.png)|
-| [Open Championship (2000)](/variants/s5/dg1db2dbi5db10ly1~x8/)|
-|![Open Championship (2000) example sett](/variants/s5/dg1db2dbi5db10ly1~x8/sett.png)|
-| [Open Championship, The](/variants/s5/dg1db2dbi5db11ly1~x4/)|
-|![Open Championship, The example sett](/variants/s5/dg1db2dbi5db11ly1~x4/sett.png)|
-| [Pearson](/variants/s5/ly6db28do2db28y1~x2/)|
-|![Pearson example sett](/variants/s5/ly6db28do2db28y1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/lr3db28dt12dr22dg1~x2/">Diaspora (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><img src="/variants/s5/lr3db28dt12dr22dg1~x2/sett.png" alt="Diaspora (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

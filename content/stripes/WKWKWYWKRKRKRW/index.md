@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Casey, Dress (Corporate)](/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/)|
-|![Casey, Dress (Corporate) example sett](/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/">Casey, Dress (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/"><img src="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/sett.png" alt="Casey, Dress (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

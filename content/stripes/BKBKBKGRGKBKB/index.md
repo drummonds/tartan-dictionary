@@ -22,11 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Murray](/setts/db6k1db1k1db1k6dg6r2dg6k6db6k1db2/)|
-|![Murray example sett](/variants/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2/sett.png)|
-| [Murray #2](/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/)|
-|![Murray #2 example sett](/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/sett.png)|
-| [Westwood Gordon Pink (Fashion)](/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/)|
-|![Westwood Gordon Pink (Fashion) example sett](/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/">Murray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db6k1db1k1db1k6g6r2g6k6db6k1db2/"><img src="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/sett.png" alt="Murray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/">Westwood Gordon Pink (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><img src="/variants/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/sett.png" alt="Westwood Gordon Pink (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

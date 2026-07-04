@@ -2,21 +2,20 @@
 title: "Strathdon"
 date: 2023-03-18
 ---
+Its design is pattern [BBBBBBBRGBBGBGW](/stripes/bbbbbbbrgbbgbgw/) — the page of every tartan sharing this colour sequence.
 
 Aberdeenshire valley tartan; blue scree, maroon heather, yellow-brown shale, azure line for the Lonach men's spears.
 
-The **Strathdon** tartan groups 3 setts — the same named design recorded as different cloths
+The **Strathdon** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/w3lo8dpi2lo8dp11dpi2lo4o4dpi27dp1dpi2dp2dpi2dp13dpi2/">Strathdon</a> ★</td><td><code>W/6 LO16 DPi4 LO16 DP22 DPi4 LO8 O8 DPi54 DP2 DPi4 DP4 DPi4 DP26 DPi/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/w3lo8dpi2lo8dp11dpi2lo4o4dpi27dp1dpi2dp2dpi2dp13dpi2/"><img src="/variants/s15/w3lo8dpi2lo8dp11dpi2lo4o4dpi27dp1dpi2dp2dpi2dp13dpi2~x2/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/k3o8do2o8dt11do2o4oi4do27dt1do2dt2do2dt13do3/">District Tartan</a></td><td><code>DO/6 DT26 DO4 DT4 DO4 DT2 DO54 Oi8 O8 DO4 DT22 O16 DO4 O16 K/6</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/k3o8do2o8dt11do2o4oi4do27dt1do2dt2do2dt13do3/"><img src="/variants/s15/k3o8do2o8dt11do2o4oi4do27dt1do2dt2do2dt13do3~x2/sett.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lr3lo8ri2lo8db11ri2lo4r4ri27db1ri2db2ri2db13ri2/">(District?)</a></td><td><code>LR/6 LO16 Ri4 LO16 DB22 Ri4 LO8 R8 Ri54 DB2 Ri4 DB4 Ri4 DB26 Ri/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/lr3lo8ri2lo8db11ri2lo4r4ri27db1ri2db2ri2db13ri2/"><img src="/variants/s15/lr3lo8ri2lo8db11ri2lo4r4ri27db1ri2db2ri2db13ri2~x2/sett.png" alt="(District?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2/">Strathdon</a> ★</td><td><code>LB/6 DY16 DR4 DY16 DB22 DR4 DY8 R8 DR54 DB2 DR4 DB4 DR4 DB26 DR/4</code></td><td>354</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2/"><img src="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/sett.png" alt="Strathdon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2/">(District?)</a></td><td><code>LB/6 LY16 R4 LY16 DB22 R4 LY8 Ri8 R54 DB2 R4 DB4 R4 DB26 R/4</code></td><td>354</td><td>2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2/"><img src="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r1706009-ri2109032/sett.png" alt="(District?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

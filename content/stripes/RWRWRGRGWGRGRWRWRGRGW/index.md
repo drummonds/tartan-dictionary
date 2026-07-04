@@ -22,7 +22,14 @@ It is a 21 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacIntosh Blanket](/variants/s21/w37dy1ri4dg6ri7w2ri3w2ri7dg6r4dy1w64dy1ri4dgi6ri7w2ri3w2ri7~x2/)|
-|![MacIntosh Blanket example sett](/variants/s21/w37dy1ri4dg6ri7w2ri3w2ri7dg6r4dy1w64dy1ri4dgi6ri7w2ri3w2ri7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s21/w37dy1r4dg6r7w2r3w2r7dg6ri4dy1w64dy1r4g6r7w2r3w2r7~x2~r2208029-ri2209032/">MacIntosh Blanket</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/w37dy1r4dg6r7w2r3w2r7dg6ri4dy1w64dy1r4g6r7w2r3w2r7~x2~r2208029-ri2209032/"><img src="/variants/s21/w37dy1r4dg6r7w2r3w2r7dg6ri4dy1w64dy1r4g6r7w2r3w2r7~x2~r2208029-ri2209032/sett.png" alt="MacIntosh Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

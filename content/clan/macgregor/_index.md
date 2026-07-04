@@ -6,11 +6,12 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s6/r36dg18r4dg6k1lr2/"><img src="/variants/s6/r36dg18r4dg6k1lr2/sett.png" alt="MacGregor" width="240"><br>MacGregor</a>
+<a class="tartan" href="/variants/s6/g9r2g9r14k1w2~x2/"><img src="/variants/s6/g9r2g9r14k1w2~x2/sett.png" alt="MacGregor of Balquidder (Logan)" width="240"><br>MacGregor of Balquidder (Logan)</a>
 
 ## Families
 
 - [MacGregor of Balquhidder](/families/macgregor-of-balquhidder/)
 - [MacGregor of Cardney](/families/macgregor-of-cardney/)
+- [MacGregor of Glen Strae](/families/macgregor-of-glen-strae/)
 - [MacGregor of Glenstrae](/families/macgregor-of-glenstrae/)
 

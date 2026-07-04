@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacRae, Special Hunting](/variants/s8/dg18db2dg5r2dg5ki21k20ki5~x2/)|
-|![MacRae, Special Hunting example sett](/variants/s8/dg18db2dg5r2dg5ki21k20ki5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/">MacRae, Special Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><img src="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/sett.png" alt="MacRae, Special Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

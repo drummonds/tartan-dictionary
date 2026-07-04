@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Iron Horse (Corporate)](/variants/s20/k16n4o3k2db1w1r1k2o3n4k12~x4/)|
-|![Iron Horse (Corporate) example sett](/variants/s20/k16n4o3k2db1w1r1k2o3n4k12~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k16n4o3k2db1w1r1k2o3n4k12~x4~n1900000-o2500000/">Iron Horse (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k16n4o3k2db1w1r1k2o3n4k12~x4~n1900000-o2500000/"><img src="/variants/s11/k16n4o3k2db1w1r1k2o3n4k12~x4~n1900000-o2500000/sett.png" alt="Iron Horse (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Flora MacDonald](/variants/s8/r3dg3r3dg10db10r3db3r3~x2/)|
-|![Flora MacDonald example sett](/variants/s8/r3dg3r3dg10db10r3db3r3~x2/sett.png)|
-| [Flora, MacDonald](/variants/s8/r3db3r3db10g10r3g3r3~x2/)|
-|![Flora, MacDonald example sett](/variants/s8/r3db3r3db10g10r3g3r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/">Flora MacDonald</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/"><img src="/variants/s8/r3db3r3db10g10r3g3r3~x2/sett.png" alt="Flora MacDonald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

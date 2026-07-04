@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Confessore (Personal)](/variants/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/)|
-|![Confessore (Personal) example sett](/variants/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/k6g1k1g4ly1r1ly4r1ly2g4k1g1k8w1k2~x4/">Confessore (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/k6g1k1g4ly1r1ly4r1ly2g4k1g1k8w1k2~x4/"><img src="/variants/s15/k6g1k1g4ly1r1ly4r1ly2g4k1g1k8w1k2~x4/sett.png" alt="Confessore (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -1,5 +1,0 @@
----
-title: "Gedling, Peter (Personal)"
-redirect: "/variants/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/"
----
-This sett is recorded as a single cloth — redirecting to [Gedling, Peter (Personal)](/variants/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/).

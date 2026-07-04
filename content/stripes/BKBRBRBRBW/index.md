@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Digital](/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/)|
-|![Digital example sett](/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png)|
-| [Digital Equipment Corp.](/variants/s10/n8k5n16o9n3o3n3o3n10lb3~x2/)|
-|![Digital Equipment Corp. example sett](/variants/s10/n8k5n16o9n3o3n3o3n10lb3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/">Digital</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/"><img src="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png" alt="Digital sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kentucky, State of](/variants/s12/g13db11w2lb4r3ly3r3lb4w2db11g13k2~x2/)|
-|![Kentucky, State of example sett](/variants/s12/g13db11w2lb4r3ly3r3lb4w2db11g13k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/">Kentucky, State of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/"><img src="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/sett.png" alt="Kentucky, State of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

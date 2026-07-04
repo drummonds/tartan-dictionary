@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDougall - 1819 (Clan)](/variants/s24/yi1ri4rii2r2y27r4y2r4dp10ri3rii2r2rii2ri3y10r10y10r2dp2r26ri3rii2r3yi1~x2/)|
-|![MacDougall - 1819 (Clan) example sett](/variants/s24/yi1ri4rii2r2y27r4y2r4dp10ri3rii2r2rii2ri3y10r10y10r2dp2r26ri3rii2r3yi1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s24/y1ri4rii2r2g27r4g2r4dp10ri3rii2r2rii2ri3g10r10g10r2dp2r26ri3rii2r3y1~x2~ri2307033-rii2806019-r2109032/">MacDougall - 1819 (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/y1ri4rii2r2g27r4g2r4dp10ri3rii2r2rii2ri3g10r10g10r2dp2r26ri3rii2r3y1~x2~ri2307033-rii2806019-r2109032/"><img src="/variants/s24/y1ri4rii2r2g27r4g2r4dp10ri3rii2r2rii2ri3g10r10g10r2dp2r26ri3rii2r3y1~x2~ri2307033-rii2806019-r2109032/sett.png" alt="MacDougall - 1819 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

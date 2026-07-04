@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Parr](/variants/s10/b106r3b4r6b8k28g8lb4g12k8/)|
-|![Parr example sett](/variants/s10/b106r3b4r6b8k28g8lb4g12k8/sett.png)|
-| [Parr](/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/)|
-|![Parr example sett](/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/">Parr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><img src="/variants/s10/t106r3t4r6t8k28g8w4g12k8/sett.png" alt="Parr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/">Parr</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><img src="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/sett.png" alt="Parr sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

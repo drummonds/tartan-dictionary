@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fraser Arisaid #2](/variants/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/)|
-|![Fraser Arisaid #2 example sett](/variants/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/">Fraser Arisaid #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/"><img src="/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/sett.png" alt="Fraser Arisaid #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

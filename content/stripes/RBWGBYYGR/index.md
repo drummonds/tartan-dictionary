@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bailey, Leslie A (Personal)](/variants/s9/r3db7lb1gi6dbi5lo2loi2g2r3~x2/)|
-|![Bailey, Leslie A (Personal) example sett](/variants/s9/r3db7lb1gi6dbi5lo2loi2g2r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/">Bailey, Leslie A (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/"><img src="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/sett.png" alt="Bailey, Leslie A (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

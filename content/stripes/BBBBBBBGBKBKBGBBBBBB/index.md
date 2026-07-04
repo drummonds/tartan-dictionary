@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Spirit of Scotland](/variants/s20/db96dp8db12b3db3b3db3dg20dp8k3dp14~x2/)|
-|![Spirit of Scotland example sett](/variants/s20/db96dp8db12b3db3b3db3dg20dp8k3dp14~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db96dp8db12b3db3b3db3dg20dp8k3dp14~x2~db1204274-dp1508310-b1813263/">Spirit of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db96dp8db12b3db3b3db3dg20dp8k3dp14~x2~db1204274-dp1508310-b1813263/"><img src="/variants/s11/db96dp8db12b3db3b3db3dg20dp8k3dp14~x2~db1204274-dp1508310-b1813263/sett.png" alt="Spirit of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,21 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Manor of Wrentnall (Personal)](/variants/s4/r31db33g12w2~x2/)|
-|![Manor of Wrentnall (Personal) example sett](/variants/s4/r31db33g12w2~x2/sett.png)|
-| [Manor of Wrentnall (Personal)](/variants/s4/r31dt33g12w2~x2/)|
-|![Manor of Wrentnall (Personal) example sett](/variants/s4/r31dt33g12w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/r21db61y8w21~x2/">Kellogg College University of Oxford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r21db61y8w21~x2/"><img src="/variants/s4/r21db61y8w21~x2/sett.png" alt="Kellogg College University of Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r21db61dy8w21~x2/">Kellogg College University of Oxford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r21db61dy8w21~x2/"><img src="/variants/s4/r21db61dy8w21~x2/sett.png" alt="Kellogg College University of Oxford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/r31db33dg12w2~x2/">Manor of Wrentnall (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r31db33dg12w2~x2/"><img src="/variants/s4/r31db33dg12w2~x2/sett.png" alt="Manor of Wrentnall (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r31db33g12w2~x2/">Manor of Wrentnall (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r31db33g12w2~x2/"><img src="/variants/s4/r31db33g12w2~x2/sett.png" alt="Manor of Wrentnall (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

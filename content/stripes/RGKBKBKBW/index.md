@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Chamber Orchestra](/variants/s9/lb3db20k3db2k5db2k3y15r2~x2/)|
-|![Scottish Chamber Orchestra example sett](/variants/s9/lb3db20k3db2k5db2k3y15r2~x2/sett.png)|
-| [Scottish Chamber Orchestra, The](/variants/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/)|
-|![Scottish Chamber Orchestra, The example sett](/variants/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/">Scottish Chamber Orchestra, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><img src="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/sett.png" alt="Scottish Chamber Orchestra, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

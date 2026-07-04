@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lennox](/variants/s7/r2ri1r10ri2g10w1g2~x2/)|
-|![Lennox example sett](/variants/s7/r2ri1r10ri2g10w1g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/">Lennox</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/"><img src="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/sett.png" alt="Lennox sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

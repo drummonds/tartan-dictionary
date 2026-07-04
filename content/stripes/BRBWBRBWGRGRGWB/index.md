@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Grampian Trade Tartan](/variants/s15/dt15lb15g3r2g26r2g3lb15dt26r2dt3lb4dt3r2dt11~x2/)|
-|![Grampian Trade Tartan example sett](/variants/s15/dt15lb15g3r2g26r2g3lb15dt26r2dt3lb4dt3r2dt11~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/">Grampian Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/"><img src="/variants/s15/db15lb15g3r2g26r2g3lb15db26r2db3lb4db3r2db11~x2/sett.png" alt="Grampian Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

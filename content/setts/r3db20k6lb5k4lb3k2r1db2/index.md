@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×2 | [Scottish Knights Templar International](/variants/s16/r3db20k6lb5k4lb3k2r1db2~x2/) ★ | 1979 | ![Scottish Knights Templar International sett](/variants/s16/r3db20k6lb5k4lb3k2r1db2~x2/sett.png) |
-| ×2 | [Scottish Knights Templar Int. (Corp)](/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/) | 1979 | ![Scottish Knights Templar Int. (Corp) sett](/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/sett.png) |
+| ×2 | [Scottish Knights Templar Int. (Corp)](/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/) ★ | 1979 | ![Scottish Knights Templar Int. (Corp) sett](/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/sett.png) |
+| ×2 | [Scottish Knights Templar International](/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/) | 1979 | ![Scottish Knights Templar International sett](/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/sett.png) |

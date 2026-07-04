@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Culloden 1746 - Original](/variants/s8/r5lb1dt10w2k10y10k1ly3~x4/)|
-|![Culloden 1746 - Original example sett](/variants/s8/r5lb1dt10w2k10y10k1ly3~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/">Culloden, Gold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><img src="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/sett.png" alt="Culloden, Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

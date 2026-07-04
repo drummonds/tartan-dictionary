@@ -22,11 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Morris of Balgonie](/variants/s6/w3dp22r3k22g22ly2~x2/)|
-|![Morris of Balgonie example sett](/variants/s6/w3dp22r3k22g22ly2~x2/sett.png)|
-| [Morris of Balgonie (Personal)](/variants/s6/w2dp20r3k10g20lo2~x2/)|
-|![Morris of Balgonie (Personal) example sett](/variants/s6/w2dp20r3k10g20lo2~x2/sett.png)|
-| [Morris of Eddergoll (Personal)](/variants/s6/w2db20r3k10g20lo2~x2/)|
-|![Morris of Eddergoll (Personal) example sett](/variants/s6/w2db20r3k10g20lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/w2db20r3k10g20lo2~x2/">Morris of Eddergoll (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w2db20r3k10g20lo2~x2/"><img src="/variants/s6/w2db20r3k10g20lo2~x2/sett.png" alt="Morris of Eddergoll (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

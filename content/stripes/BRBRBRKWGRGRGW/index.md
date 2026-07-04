@@ -22,11 +22,16 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Clanranald #4](/variants/s14/db20r2db3r6db32r2k32w2dg30r6dg4r2dg4w1~x2/)|
-|![MacDonald of Clanranald #4 example sett](/variants/s14/db20r2db3r6db32r2k32w2dg30r6dg4r2dg4w1~x2/sett.png)|
-| [MacDonald of Clanranald #5](/variants/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/)|
-|![MacDonald of Clanranald #5 example sett](/variants/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/sett.png)|
-| [MacDonald of Clanranald 3](/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/)|
-|![MacDonald of Clanranald 3 example sett](/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/">MacDonald of Clanranald #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><img src="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/sett.png" alt="MacDonald of Clanranald #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/">MacDonald of Clanranald #5</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><img src="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/sett.png" alt="MacDonald of Clanranald #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 26 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hayes](/variants/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/)|
-|![Hayes example sett](/variants/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r2g1lo1g12r1g1r1g4r17g3r2g1r2lr2~x4/">Hayes</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r2g1lo1g12r1g1r1g4r17g3r2g1r2lr2~x4/"><img src="/variants/s14/r2g1lo1g12r1g1r1g4r17g3r2g1r2lr2~x4/sett.png" alt="Hayes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

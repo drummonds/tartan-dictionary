@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Olympic](/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/)|
-|![Olympic example sett](/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23/">Olympic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23/"><img src="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg1605139/sett.png" alt="Olympic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

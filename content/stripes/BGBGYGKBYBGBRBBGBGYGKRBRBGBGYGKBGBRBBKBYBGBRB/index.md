@@ -22,7 +22,14 @@ It is a 45 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Highland Mist Corporate Tartan](/variants/s45/dt2g3dp1g2lo1g2k2dp1lo2dp3g1dp2r1dp2dt2g3dp1g2lo1g2k2r1dt2r1dt30g3dp1g2lo1g2k1dp2g1dp2r1dp2dt2k28dp1lo2dp3g1dp2r1dp2~x2/)|
-|![Highland Mist Corporate Tartan example sett](/variants/s45/dt2g3dp1g2lo1g2k2dp1lo2dp3g1dp2r1dp2dt2g3dp1g2lo1g2k2r1dt2r1dt30g3dp1g2lo1g2k1dp2g1dp2r1dp2dt2k28dp1lo2dp3g1dp2r1dp2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s45/db2g3dp1g2ly1g2k2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2k2r1db2r1db30g3dp1g2ly1g2k1dp2g1dp2r1dp2db2k28dp1ly2dp3g1dp2r1dp2~x2/">Highland Mist Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s45/db2g3dp1g2ly1g2k2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2k2r1db2r1db30g3dp1g2ly1g2k1dp2g1dp2r1dp2db2k28dp1ly2dp3g1dp2r1dp2~x2/"><img src="/variants/s45/db2g3dp1g2ly1g2k2dp1ly2dp3g1dp2r1dp2db2g3dp1g2ly1g2k2r1db2r1db30g3dp1g2ly1g2k1dp2g1dp2r1dp2db2k28dp1ly2dp3g1dp2r1dp2~x2/sett.png" alt="Highland Mist Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

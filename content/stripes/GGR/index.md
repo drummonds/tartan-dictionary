@@ -22,7 +22,17 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glenmorangie Check](/variants/s3/dy1dyi2r1~x10/)|
-|![Glenmorangie Check example sett](/variants/s3/dy1dyi2r1~x10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/">Glenmorangie Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/"><img src="/variants/s3/dy1dyi2r1~x10~dy1203057-dyi1604058/sett.png" alt="Glenmorangie Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s3/r104g39y4/">Scottish Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r104g39y4/"><img src="/variants/s3/r104g39y4/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

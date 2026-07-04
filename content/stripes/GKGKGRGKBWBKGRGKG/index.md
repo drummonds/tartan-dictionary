@@ -22,9 +22,16 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacRae](/variants/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/)|
-|![MacRae example sett](/variants/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/sett.png)|
-| [MacRae](/variants/s17/dg24k3dg12r2dg3k1db3w1db3k1dg3r2dg12k3dg12k3dg12~x2/)|
-|![MacRae example sett](/variants/s17/dg24k3dg12r2dg3k1db3w1db3k1dg3r2dg12k3dg12k3dg12~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/">MacRae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/"><img src="/variants/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s17/g24k3g12r2g3k1db3w1db3k1g3r2g12k3g12k3g12~x2/">MacRae</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/g24k3g12r2g3k1db3w1db3k1g3r2g12k3g12k3g12~x2/"><img src="/variants/s17/g24k3g12r2g3k1db3w1db3k1g3r2g12k3g12k3g12~x2/sett.png" alt="MacRae sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

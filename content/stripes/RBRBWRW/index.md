@@ -22,9 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lennox, dress](/variants/s7/r8p2r24p5w25o2w8~x2/)|
-|![Lennox, dress example sett](/variants/s7/r8p2r24p5w25o2w8~x2/sett.png)|
-| [Lennox, dress](/variants/s7/r8p2r24db5w26o2w8~x2/)|
-|![Lennox, dress example sett](/variants/s7/r8p2r24db5w26o2w8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r8dp2r24dp5w25o2w8~x2/">Lennox, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r8dp2r24dp5w25o2w8~x2/"><img src="/variants/s7/r8dp2r24dp5w25o2w8~x2/sett.png" alt="Lennox, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/">Lennox, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/"><img src="/variants/s7/r8dp2r24db5w26o2w8~x2/sett.png" alt="Lennox, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

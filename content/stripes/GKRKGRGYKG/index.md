@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Mead Hunting (Personal)](/variants/s10/dy36k3o6k3dy10o5dy3lo4k1dy2~x2/)|
-|![Mead Hunting (Personal) example sett](/variants/s10/dy36k3o6k3dy10o5dy3lo4k1dy2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/">Mead Hunting (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><img src="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/sett.png" alt="Mead Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

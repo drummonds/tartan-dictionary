@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Drummond of Perth Dress (Dance)](/variants/s9/w50k3gi10g11w1k1r20w3r5~x2/)|
-|![Drummond of Perth Dress (Dance) example sett](/variants/s9/w50k3gi10g11w1k1r20w3r5~x2/sett.png)|
-| [Unidentified Arisaid](/variants/s9/w216k8dg24g24w4k4r45w8r12/)|
-|![Unidentified Arisaid example sett](/variants/s9/w216k8dg24g24w4k4r45w8r12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/">Drummond of Perth Dress (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/"><img src="/variants/s9/w50k3dg10g11w1k1r20w3r5~x2~dg1806142-g2203152/sett.png" alt="Drummond of Perth Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/">Unidentified Arisaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><img src="/variants/s9/w216k8dg24g24w4k4r45w8r12/sett.png" alt="Unidentified Arisaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

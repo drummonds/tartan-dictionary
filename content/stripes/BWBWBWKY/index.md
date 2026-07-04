@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kile (No red line) (Personal)](/variants/s8/db20w3db3w3db3w3k5ly10~x2/)|
-|![Kile (No red line) (Personal) example sett](/variants/s8/db20w3db3w3db3w3k5ly10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/">Kile (Red line) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><img src="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/sett.png" alt="Kile (Red line) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

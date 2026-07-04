@@ -22,7 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Matheson N](/variants/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/)|
-|![Matheson N example sett](/variants/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r2g2r12db10lb3g10r2g2r2g10r12g2r2/">Matheson N</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r2g2r12db10lb3g10r2g2r2g10r12g2r2/"><img src="/variants/s13/r2g2r12db10lb3g10r2g2r2g10r12g2r2/sett.png" alt="Matheson N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r2g2r12db10w3g10r2g2r2g10r12g2r2/">Matheson N</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r2g2r12db10w3g10r2g2r2g10r12g2r2/"><img src="/variants/s13/r2g2r12db10w3g10r2g2r2g10r12g2r2/sett.png" alt="Matheson N sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

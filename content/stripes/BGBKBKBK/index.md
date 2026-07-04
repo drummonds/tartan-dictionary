@@ -22,7 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Martin's Own](/variants/s8/k10t1k2t1k4t10g1t2~x4/)|
-|![Martin's Own example sett](/variants/s8/k10t1k2t1k4t10g1t2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/">West Point</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><img src="/variants/s8/k13n1k1n1k4n10y1n1~x6/sett.png" alt="West Point sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/">West Point Military Academy (Mil.)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><img src="/variants/s8/k10n1k2n1k4n10y1n2~x4/sett.png" alt="West Point Military Academy (Mil.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

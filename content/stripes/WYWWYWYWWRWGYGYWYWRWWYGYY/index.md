@@ -22,7 +22,14 @@ It is a 25 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Morddyn](/variants/s25/lt5lgi13lt6w3lg5lt5lgi24lt5w2r1w2g9lg18g9lgi2lt4lgi2w2r3w2lt12lg6g24lg6lgi2~x2/)|
-|![Morddyn example sett](/variants/s25/lt5lgi13lt6w3lg5lt5lgi24lt5w2r1w2g9lg18g9lgi2lt4lgi2w2r3w2lt12lg6g24lg6lgi2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s25/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2~x2~lb3400000-w3600000-lgi2704158-g2405151/">Morddyn (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s25/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2~x2~lb3400000-w3600000-lgi2704158-g2405151/"><img src="/variants/s25/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2~x2~lb3400000-w3600000-lgi2704158-g2405151/sett.png" alt="Morddyn (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -1,22 +1,21 @@
 ---
-title: "Hebrides Inner.."
+title: "Hebrides, Inner"
 date: 2023-03-18
 ---
+Its design is pattern [GBKGGGBGKGGGKGBGBRGRBGBGKGGGKGRWWWRGKGGGKGBGBRGRBGBGKGGGKGBGGGKBGG](/stripes/gbkgggbgkgggkgbgbrgrbgbgkgggkgrwwwrgkgggkgbgbrgrbgbgkgggkgbgggkbgg/) — the page of every tartan sharing this colour sequence.
 
-The **Hebrides Inner..** tartan groups 4 setts — the same named design recorded as different cloths
+The **Hebrides, Inner** tartan groups 3 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g3ly1db2k3ly1g4gi5db8ly1k2gi3ly1gi3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2gi3ly1gi3k2ly1r14t6w1/">Hebrides Inner..</a> ★</td><td><code>G/6 LY2 DB4 K6 LY2 G8 Gi10 DB16 LY2 K4 Gi6 LY2 Gi6 K4 LY2 DB44 LY2 DB8 R8 LY2 R8 DB8 LY2 DB44 LY2 K4 Gi6 LY2 Gi6 K4 LY2 R28 T12 W2 T12 R28 LY2 K4 Gi6 LY2 Gi6 K4 LY2 DB44 LY2 DB8 R8 LY2 R8 DB8 LY2 DB44 LY2 K4 Gi6 LY2 Gi6 K4 LY2 DB16 Gi10 G8 LY2 K6 DB4 LY/2</code></td><td>2</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/g3ly1db2k3ly1g4gi5db8ly1k2gi3ly1gi3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2gi3ly1gi3k2ly1r14t6w1/"><img src="/variants/s66/g3ly1db2k3ly1g4gi5db8ly1k2gi3ly1gi3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2gi3ly1gi3k2ly1r14t6w1~x2/sett.png" alt="Hebrides Inner.. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dr47db3dr1db3dr11dg4g4dr5db2dr1g4dr1db2dr5g4dr4dbi8dr1k2db4dr1db4k2dr23/">Hebrides Inner</a></td><td><code>DR/94 DB6 DR2 DB6 DR22 DG8 G8 DR10 DB4 DR2 G8 DR2 DB4 DR10 G8 DR8 DBi16 DR2 K4 DB8 DR2 DB8 K4 DR/46</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dr47db3dr1db3dr11dg4g4dr5db2dr1g4dr1db2dr5g4dr4dbi8dr1k2db4dr1db4k2dr23/"><img src="/variants/s24/dr47db3dr1db3dr11dg4g4dr5db2dr1g4dr1db2dr5g4dr4dbi8dr1k2db4dr1db4k2dr23~x2/sett.png" alt="Hebrides Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/gi3ly1db2k3ly1gi4g5db8ly1k2g3ly1g3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2g3ly1g3k2ly1r14t6w1/">Hebrides Inner</a></td><td><code>Gi/6 LY2 DB4 K6 LY2 Gi8 G10 DB16 LY2 K4 G6 LY2 G6 K4 LY2 DB44 LY2 DB8 R8 LY2 R8 DB8 LY2 DB44 LY2 K4 G6 LY2 G6 K4 LY2 R28 T12 W/2</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/gi3ly1db2k3ly1gi4g5db8ly1k2g3ly1g3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2g3ly1g3k2ly1r14t6w1/"><img src="/variants/s34/gi3ly1db2k3ly1gi4g5db8ly1k2g3ly1g3k2ly1db22ly1db4r4ly1r4db4ly1db22ly1k2g3ly1g3k2ly1r14t6w1~x2/sett.png" alt="Hebrides Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r47dbi3r1dbi3r11dg4g4r5dbi2r1g4r1dbi2r5g4r4db8r1k2dbi4r1dbi4k2r23/">Hebrides, Inner #02</a></td><td><code>R/94 DBi6 R2 DBi6 R22 DG8 G8 R10 DBi4 R2 G8 R2 DBi4 R10 G8 R8 DB16 R2 K4 DBi8 R2 DBi8 K4 R46 K4 DBi8 R2 DBi8 K4 R2 DB16 R8 G8 R10 DBi4 R2 G8 R2 DBi4 R10 G8 DG8 R22 DBi6 R2 DBi/6</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/r47dbi3r1dbi3r11dg4g4r5dbi2r1g4r1dbi2r5g4r4db8r1k2dbi4r1dbi4k2r23/"><img src="/variants/s46/r47dbi3r1dbi3r11dg4g4r5dbi2r1g4r1dbi2r5g4r4db8r1k2dbi4r1dbi4k2r23~x2/sett.png" alt="Hebrides, Inner #02 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g3dy1db2k3dy1g4dg5db8dy1k2dg3dy1dg3k2dy1db22dy1db4r4dy1r4db4dy1db22dy1k2dg3dy1dg3k2dy1r14lb6w1/">Hebrides, Inner</a> ★</td><td><code>G/6 DY2 DB4 K6 DY2 G8 DG10 DB16 DY2 K4 DG6 DY2 DG6 K4 DY2 DB44 DY2 DB8 R8 DY2 R8 DB8 DY2 DB44 DY2 K4 DG6 DY2 DG6 K4 DY2 R28 LB12 W2 LB12 R28 DY2 K4 DG6 DY2 DG6 K4 DY2 DB44 DY2 DB8 R8 DY2 R8 DB8 DY2 DB44 DY2 K4 DG6 DY2 DG6 K4 DY2 DB16 DG10 G8 DY2 K6 DB4 DY/2</code></td><td>540</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3dy1db2k3dy1g4dg5db8dy1k2dg3dy1dg3k2dy1db22dy1db4r4dy1r4db4dy1db22dy1k2dg3dy1dg3k2dy1r14lb6w1/"><img src="/variants/s34/g3dy1db2k3dy1g4dg5db8dy1k2dg3dy1dg3k2dy1db22dy1db4r4dy1r4db4dy1db22dy1k2dg3dy1dg3k2dy1r14lb6w1~x2~g2408144-dg1806142/sett.png" alt="Hebrides, Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1/">Hebrides Inner</a></td><td><code>B/6 Y2 DB4 K6 Y2 B8 G10 DB16 Y2 K4 G6 Y2 G6 K4 Y2 DB44 Y2 DB8 R8 Y2 R8 DB8 Y2 DB44 Y2 K4 G6 Y2 G6 K4 Y2 R28 LB12 W/2</code></td><td>540</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1/"><img src="/variants/s34/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1~x2/sett.png" alt="Hebrides Inner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1/">Hebrides Inner.. Artifact Tartan</a></td><td><code>G/6 Y2 DB4 K6 Y2 G8 DG10 DB16 Y2 K4 DG6 Y2 DG6 K4 Y2 DB44 Y2 DB8 R8 Y2 R8 DB8 Y2 DB44 Y2 K4 DG6 Y2 DG6 K4 Y2 R28 LB12 W/2</code></td><td>540</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1/"><img src="/variants/s34/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1~x2~g2408144-dg1806142/sett.png" alt="Hebrides Inner.. Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
@@ -28,4 +27,3 @@ This tartan is also recorded under:
 - Hebrides Inner
 - Hebrides Inner.. Artifact
 - Hebrides, Inner #01
-- Hebrides, Inner #02

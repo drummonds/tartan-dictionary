@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Moran Blue Family Tartan](/variants/s16/b26db13ki13w2g8ki5k3b3k3ki5g8w2ki13db13b26w3~x2/)|
-|![Moran Blue Family Tartan example sett](/variants/s16/b26db13ki13w2g8ki5k3b3k3ki5g8w2ki13db13b26w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/">Moran Blue Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/"><img src="/variants/s14/t26db13k13w2g8k8t3k8g8w2k13db13t26w3~x2/sett.png" alt="Moran Blue Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

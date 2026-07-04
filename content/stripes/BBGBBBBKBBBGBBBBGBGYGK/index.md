@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Monarch of the Glen Fashion Tartan](/variants/s22/dp42db3y1db2dpi1db2dp2k20db1dpi2db3y1db2dpi1db2dp2y3db1y2lo1y2k2~x2/)|
-|![Monarch of the Glen Fashion Tartan example sett](/variants/s22/dp42db3y1db2dpi1db2dp2k20db1dpi2db3y1db2dpi1db2dp2y3db1y2lo1y2k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/">Monarch of the Glen Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/"><img src="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/sett.png" alt="Monarch of the Glen Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Keith](/variants/s24/b18r5b3r5b3k20g18ly4g18k20b20k6b6/)|
-|![Keith example sett](/variants/s24/b18r5b3r5b3k20g18ly4g18k20b20k6b6/sett.png)|
-| [Keith District District Tartan](/variants/s24/db18r5db3r5db3k20dg18lo4dg18k20db20k6db6/)|
-|![Keith District District Tartan example sett](/variants/s24/db18r5db3r5db3k20dg18lo4dg18k20db20k6db6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/">Keith District District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/"><img src="/variants/s13/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/sett.png" alt="Keith District District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

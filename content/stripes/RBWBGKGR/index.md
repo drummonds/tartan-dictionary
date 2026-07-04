@@ -22,7 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Inverness](/setts/r36db3w1db6g1k1g1r9/)|
-|![Inverness example sett](/variants/s8/r36db3w1db6g1k1g1r9~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r36db3w1db6g1k1g1r9/">Inverness</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r36db3w1db6g1k1g1r9/"><img src="/variants/s8/r36db3w1db6g1k1g1r9~x2/sett.png" alt="Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/">Inverness #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><img src="/variants/s8/r114db10w3db16y3k3y3r28~x2/sett.png" alt="Inverness #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

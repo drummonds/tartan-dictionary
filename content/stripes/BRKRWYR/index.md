@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Java Saint Andrew Society Dress](/variants/s7/dt50r26k9r4w2lo2r10~x2/)|
-|![Java Saint Andrew Society Dress example sett](/variants/s7/dt50r26k9r4w2lo2r10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/">Java Saint Andrew Society Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><img src="/variants/s7/db50r26k9r4w2lo2r10~x2/sett.png" alt="Java Saint Andrew Society Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

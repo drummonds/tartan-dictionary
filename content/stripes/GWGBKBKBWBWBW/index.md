@@ -22,9 +22,17 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Oliphant Dress](/variants/s13/w25n2w2n2w2n10k2n4k2n10y23w2y4~x2/)|
-|![Oliphant Dress example sett](/variants/s13/w25n2w2n2w2n10k2n4k2n10y23w2y4~x2/sett.png)|
-| [Oliphant Dress (Clan)](/variants/s13/w25t2w2t2w2t10k2t4k2t10g23w2g4~x2/)|
-|![Oliphant Dress (Clan) example sett](/variants/s13/w25t2w2t2w2t10k2t4k2t10g23w2g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/">Oliphant Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><img src="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/sett.png" alt="Oliphant Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/">Oliphant Dress Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><img src="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/sett.png" alt="Oliphant Dress Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

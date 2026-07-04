@@ -22,7 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Connor Dress](/variants/s5/dy5r5lb11r1dy1~x4/)|
-|![O'Connor Dress example sett](/variants/s5/dy5r5lb11r1dy1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dy5r5lb11r1dy1/">O'Connor Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dy5r5lb11r1dy1/"><img src="/variants/s5/dy5r5lb11r1dy1~x4~r2806019-lb3203246/sett.png" alt="O'Connor Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

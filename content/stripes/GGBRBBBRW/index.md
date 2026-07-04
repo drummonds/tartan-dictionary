@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacNiven](/variants/s9/g18gi2dbi5r45db3dbi18db3r5w2/)|
-|![MacNiven example sett](/variants/s9/g18gi2dbi5r45db3dbi18db3r5w2/sett.png)|
-| [MacNiven Family Tartan](/variants/s9/gi18g2db5r45dbi3db18dbi3r5w2/)|
-|![MacNiven Family Tartan example sett](/variants/s9/gi18g2db5r45dbi3db18dbi3r5w2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/">MacNiven Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/"><img src="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/sett.png" alt="MacNiven Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dundhuin Ladies (Personal)](/variants/s6/b6dp5k2g18m28w2~x2/)|
-|![Dundhuin Ladies (Personal) example sett](/variants/s6/b6dp5k2g18m28w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/t6dp5k2g18r28w2~x2/">Dundhuin Ladies (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><img src="/variants/s6/t6dp5k2g18r28w2~x2/sett.png" alt="Dundhuin Ladies (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

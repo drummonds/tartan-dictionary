@@ -22,7 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Marine Harvest Scotland (Corporate)](/variants/s8/b10lb2k2b1k6lb1k45lo2~x2/)|
-|![Marine Harvest Scotland (Corporate) example sett](/variants/s8/b10lb2k2b1k6lb1k45lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/">Marine Harvest (Scotland)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><img src="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/sett.png" alt="Marine Harvest (Scotland) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/">Marine Harvest Scotland (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><img src="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/sett.png" alt="Marine Harvest Scotland (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

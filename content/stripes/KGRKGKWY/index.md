@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Mission (District)](/variants/s8/lo2lb14k1g11k2r2gi2k1~x4/)|
-|![Mission (District) example sett](/variants/s8/lo2lb14k1g11k2r2gi2k1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/">Mission (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><img src="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/sett.png" alt="Mission (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

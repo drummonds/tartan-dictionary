@@ -22,11 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Crieff](/variants/s13/ri2r6g4r70g4r2dp21r2g85r2g4r6ri2/)|
-|![Crieff example sett](/variants/s13/ri2r6g4r70g4r2dp21r2g85r2g4r6ri2/sett.png)|
-| [Crieff](/variants/s13/r4ri10g7ri70g7ri4p21ri4g85ri4g7ri10r4/)|
-|![Crieff example sett](/variants/s13/r4ri10g7ri70g7ri4p21ri4g85ri4g7ri10r4/sett.png)|
-| [Crieff District Tartan](/variants/s13/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4/)|
-|![Crieff District Tartan example sett](/variants/s13/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/m2r6g4r70g4r2dp21r2g85r2g4r6m2~m2106019-r2109032/">Crieff</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/m2r6g4r70g4r2dp21r2g85r2g4r6m2~m2106019-r2109032/"><img src="/variants/s13/m2r6g4r70g4r2dp21r2g85r2g4r6m2~m2106019-r2109032/sett.png" alt="Crieff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4~ri2406019-r2109032/">Crieff District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4~ri2406019-r2109032/"><img src="/variants/s13/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4~ri2406019-r2109032/sett.png" alt="Crieff District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

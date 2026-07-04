@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Morgan Jocelyn . . . (Personal)](/variants/s13/g40lo2r3lb2g4lo1r18lb1g2lo1b4lb1lo3~x2/)|
-|![Morgan Jocelyn . . . (Personal) example sett](/variants/s13/g40lo2r3lb2g4lo1r18lb1g2lo1b4lb1lo3~x2/sett.png)|
-| [Morgan Jocelyn Osmélian Peregrine (Personal)](/variants/s13/g40lo2r3w2g4lo1r18w1g2lo1n4w1lo3~x2/)|
-|![Morgan Jocelyn Osmélian Peregrine (Personal) example sett](/variants/s13/g40lo2r3w2g4lo1r18w1g2lo1n4w1lo3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/">Morgan Jocelyn . . . (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/"><img src="/variants/s13/g40ly2r3w2g4ly1r18w1g2ly1t4w1ly3~x2/sett.png" alt="Morgan Jocelyn . . . (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

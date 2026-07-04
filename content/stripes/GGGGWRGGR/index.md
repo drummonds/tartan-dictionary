@@ -22,7 +22,17 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Kingsburgh -1746 (Clan)](/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/)|
-|![MacDonald of Kingsburgh -1746 (Clan) example sett](/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/">MacDonald of Kingsburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/"><img src="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/sett.png" alt="MacDonald of Kingsburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/">MacDonald of Kingsburgh -1746 (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><img src="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/sett.png" alt="MacDonald of Kingsburgh -1746 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

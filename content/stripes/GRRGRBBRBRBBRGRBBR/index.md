@@ -22,13 +22,17 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ramada](/variants/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/)|
-|![Ramada example sett](/variants/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/sett.png)|
-| [Ramada (Corporate)](/variants/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/)|
-|![Ramada (Corporate) example sett](/variants/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/sett.png)|
-| [Unidentified #34](/variants/s18/r66db1dbi1r6dg30r6dbi1db1r3dbi16r3db1dbi1r54dg3ri1r6dg6~x2/)|
-|![Unidentified #34 example sett](/variants/s18/r66db1dbi1r6dg30r6dbi1db1r3dbi16r3db1dbi1r54dg3ri1r6dg6~x2/sett.png)|
-| [Unidentified 8](/variants/s18/ri66db1dbi1ri6g30ri6dbi1db1ri3dbi16ri3db1dbi1ri54g3r1ri6g6~x2/)|
-|![Unidentified 8 example sett](/variants/s18/ri66db1dbi1ri6g30ri6dbi1db1ri3dbi16ri3db1dbi1ri54g3r1ri6g6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/">Ramada</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/"><img src="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/sett.png" alt="Ramada sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/">Unidentified #34</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/"><img src="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/sett.png" alt="Unidentified #34 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

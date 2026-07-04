@@ -22,9 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Jones (Name)](/variants/s7/r4lb1y6g25k8db15lb2~x2/)|
-|![Jones (Name) example sett](/variants/s7/r4lb1y6g25k8db15lb2~x2/sett.png)|
-| [Jones, The](/variants/s7/r3w2dy10dg37k12db21w2~x2/)|
-|![Jones, The example sett](/variants/s7/r3w2dy10dg37k12db21w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r4lb1g6dg25k8db15lb2/">Jones</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r4lb1g6dg25k8db15lb2/"><img src="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/sett.png" alt="Jones sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/">Jones, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><img src="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/sett.png" alt="Jones, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

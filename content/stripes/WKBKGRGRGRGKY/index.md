@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [California State](/variants/s13/ly4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/)|
-|![California State example sett](/variants/s13/ly4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/sett.png)|
-| [California State American District Tartan](/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/)|
-|![California State American District Tartan example sett](/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/">California State American District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><img src="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/sett.png" alt="California State American District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

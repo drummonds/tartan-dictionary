@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Indigo Blue (Corporate)](/variants/s11/db9k1dbi4k1db18t5k1t1k1t5db4~x2/)|
-|![Indigo Blue (Corporate) example sett](/variants/s11/db9k1dbi4k1db18t5k1t1k1t5db4~x2/sett.png)|
-| [Indigo Blue Works](/variants/s11/dbi9k1db4k1dbi18b5k1b1k1b5dbi4~x2/)|
-|![Indigo Blue Works example sett](/variants/s11/dbi9k1db4k1dbi18b5k1b1k1b5dbi4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/">Indigo Blue Works</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/"><img src="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/sett.png" alt="Indigo Blue Works sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

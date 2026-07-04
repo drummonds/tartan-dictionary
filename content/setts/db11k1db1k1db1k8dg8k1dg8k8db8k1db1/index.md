@@ -1,16 +1,5 @@
 ---
-title: "Campbell"
-date: 2023-03-18
+title: "Black Watch Regimental Tartan"
+redirect: "/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"
 ---
-The **Campbell** tartan is one sett proportion (`db11k1db1k1db1k8dg8k1dg8k8db8k1db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/); each scale below is its own sett page. First attested **~2016**
-— its oldest sett (★) anchors the tartan as the parent.
-
-Part of the [Campbell](/tartans/campbell/) tartan — the named design grouping this proportion with its other setts.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×1 | [Campbell](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/) ★ | ~2016 | ![Campbell sett](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/sett.png) |
-| ×2 | [Campbell](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/) | ~2016 | ![Campbell sett](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/sett.png) |
+This sett is recorded as a single cloth — redirecting to [Black Watch Regimental Tartan](/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/).

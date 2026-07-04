@@ -22,11 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Watch Dress (Fashion)](/variants/s13/db1k1db3k3dg4k1dg4k3lb1db1lb6db1lb1~x4/)|
-|![Black Watch Dress (Fashion) example sett](/variants/s13/db1k1db3k3dg4k1dg4k3lb1db1lb6db1lb1~x4/sett.png)|
-| [Black Watch Dress (Symmetrical)](/variants/s13/db1k1db3k3g4k1g4k3w1db1w6db1w1~x4/)|
-|![Black Watch Dress (Symmetrical) example sett](/variants/s13/db1k1db3k3g4k1g4k3w1db1w6db1w1~x4/sett.png)|
-| [Sutherland, dress](/variants/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/)|
-|![Sutherland, dress example sett](/variants/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/">Black Watch Dress (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><img src="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/sett.png" alt="Black Watch Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

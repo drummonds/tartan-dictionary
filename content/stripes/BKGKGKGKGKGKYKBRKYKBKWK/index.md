@@ -22,9 +22,14 @@ It is a 23 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ferrazza (Personal)](/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/)|
-|![Ferrazza (Personal) example sett](/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png)|
-| [Ferrazza in Guidonia, Rome (Personal)](/variants/s23/db16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/)|
-|![Ferrazza in Guidonia, Rome (Personal) example sett](/variants/s23/db16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/">Ferrazza (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><img src="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/sett.png" alt="Ferrazza (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

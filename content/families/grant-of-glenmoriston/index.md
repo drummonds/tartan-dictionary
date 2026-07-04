@@ -9,10 +9,10 @@ A family of [Clan Grant](/clan/grant/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db6r2db2r24db2r2db2r8db2db32r2db2r1db6/">Grant of Glenmoriston</a> ★</td><td><code>DB/12 R4 DB4 R48 DB4 R4 DB4 R16 DB4 DB64 R4 DB4 R2 DB/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/db6r2db2r24db2r2db2r8db2db32r2db2r1db6/"><img src="/variants/s14/db6r2db2r24db2r2db2r8db2db32r2db2r1db6~x2/sett.png" alt="Grant of Glenmoriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r6db2r2g24r2g2r2db8r34db2r2db1r6/">Grant of Glenmoriston</a> ★</td><td><code>R/12 DB4 R4 G48 R4 G4 R4 DB16 R68 DB4 R4 DB2 R/12</code></td><td>348</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r6db2r2g24r2g2r2db8r34db2r2db1r6/"><img src="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/sett.png" alt="Grant of Glenmoriston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

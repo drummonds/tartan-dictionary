@@ -22,11 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Chisholm](/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/)|
-|![Chisholm example sett](/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/sett.png)|
-| [Chisholm #2](/variants/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/)|
-|![Chisholm #2 example sett](/variants/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/sett.png)|
-| [Chisholm VS](/variants/s10/r6lb1r24db6dg2k1dg2k1dg12r1/)|
-|![Chisholm VS example sett](/variants/s10/r6lb1r24db6dg2k1dg2k1dg12r1/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r6w1r24db6g2k1g2k1g12r1/">Chisholm #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r6w1r24db6g2k1g2k1g12r1/"><img src="/variants/s10/r6w1r24db6g2k1g2k1g12r1/sett.png" alt="Chisholm #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kieck (2015)](/variants/s13/t6k2w3k2t6k4lb9k2r2k46lb2k2t6~x2/)|
-|![Kieck (2015) example sett](/variants/s13/t6k2w3k2t6k4lb9k2r2k46lb2k2t6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/">Kieck (2015)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/"><img src="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/sett.png" alt="Kieck (2015) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

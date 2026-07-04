@@ -22,13 +22,18 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Drumlithie](/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2/)|
-|![Drumlithie example sett](/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2/sett.png)|
-| [Drumlithie - 1790 (Fashion)](/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2/)|
-|![Drumlithie - 1790 (Fashion) example sett](/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2/sett.png)|
-| [Drumlithie Rock and Wheel Tartan](/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2/)|
-|![Drumlithie Rock and Wheel Tartan example sett](/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2/sett.png)|
-| [Drumlithie, Rock and Wheel](/variants/s11/r2p3ri2r15p3g19p20r15p3ri2r2~x2/)|
-|![Drumlithie, Rock and Wheel example sett](/variants/s11/r2p3ri2r15p3g19p20r15p3ri2r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/">Drumlithie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><img src="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/">Drumlithie - 1790 (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><img src="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie - 1790 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/">Drumlithie Rock and Wheel Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><img src="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/sett.png" alt="Drumlithie Rock and Wheel Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 36 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lauder Dress (Can)](/variants/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/)|
-|![Lauder Dress (Can) example sett](/variants/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/">Lauder Dress (Can)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/"><img src="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/sett.png" alt="Lauder Dress (Can) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hot Boontjie](/variants/s8/r4k32dg18k1w2k1dg4m4~x2/)|
-|![Hot Boontjie example sett](/variants/s8/r4k32dg18k1w2k1dg4m4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/">FIRES Center of Excelence</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/"><img src="/variants/s8/r50y8k2w2k2y8k22r3~x2/sett.png" alt="FIRES Center of Excelence sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burnett's & Struth (Corporate)](/variants/s5/dt68b7dt16k16lo4~x2/)|
-|![Burnett's & Struth (Corporate) example sett](/variants/s5/dt68b7dt16k16lo4~x2/sett.png)|
-| [Burnetts & Struth](/variants/s5/dt68t7dt16k16lo4~x2/)|
-|![Burnetts & Struth example sett](/variants/s5/dt68t7dt16k16lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/dt68t7dt16k16ly4~x2/">Burnett's &amp; Struth (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><img src="/variants/s5/dt68t7dt16k16ly4~x2/sett.png" alt="Burnett's &amp; Struth (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/dt32dr3dt4k2lo3~x2/">MacLaine of Lochbuie Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dt32dr3dt4k2lo3~x2/"><img src="/variants/s5/dt32dr3dt4k2lo3~x2/sett.png" alt="MacLaine of Lochbuie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

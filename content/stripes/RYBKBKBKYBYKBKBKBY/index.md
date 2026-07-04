@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [KPMG](/variants/s18/r12lo2db3k3db30k20dr6k10lo2dr4~x2/)|
-|![KPMG example sett](/variants/s18/r12lo2db3k3db30k20dr6k10lo2dr4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/">KPMG</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/"><img src="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/sett.png" alt="KPMG sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

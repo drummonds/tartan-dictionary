@@ -22,11 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Luker (Personal)](/variants/s9/w8g15k15g5k2g6k40dt20r6/)|
-|![Luker (Personal) example sett](/variants/s9/w8g15k15g5k2g6k40dt20r6/sett.png)|
-| [MacDonald of The Isles](/variants/s9/w4g30k1g1k1g3k12db10r3~x2/)|
-|![MacDonald of The Isles example sett](/variants/s9/w4g30k1g1k1g3k12db10r3~x2/sett.png)|
-| [MacDonnald of ye Ylis](/variants/s9/lb4dg30k1dg1k1dg3k12db10r3/)|
-|![MacDonnald of ye Ylis example sett](/variants/s9/lb4dg30k1dg1k1dg3k12db10r3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/">Luker (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/"><img src="/variants/s9/w8g15k15g5k2g6k40db20r6/sett.png" alt="Luker (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/w4g30k1g1k1g3k12db10r3/">MacDonnald of ye Ylis</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w4g30k1g1k1g3k12db10r3/"><img src="/variants/s9/w4g30k1g1k1g3k12db10r3/sett.png" alt="MacDonnald of ye Ylis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

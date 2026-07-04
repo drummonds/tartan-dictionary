@@ -22,11 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kennedy](/variants/s17/k2dg2ly1dg3ri1dg2ri1dg12db4k3db3k3db3k3db4dg24r2~x2/)|
-|![Kennedy example sett](/variants/s17/k2dg2ly1dg3ri1dg2ri1dg12db4k3db3k3db3k3db4dg24r2~x2/sett.png)|
-| [Kennedy](/variants/s17/k2g2ly1g3ri1g2ri1g12db4k3db3k3db3k3db4g24r2~x2/)|
-|![Kennedy example sett](/variants/s17/k2g2ly1g3ri1g2ri1g12db4k3db3k3db3k3db4g24r2~x2/sett.png)|
-| [Kennedy Clan Tartan](/variants/s17/k2g2ly1g3m1g2m1g12db4k3db3k3db3k3db4g24r2~x2/)|
-|![Kennedy Clan Tartan example sett](/variants/s17/k2g2ly1g3m1g2m1g12db4k3db3k3db3k3db4g24r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/">Kennedy (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><img src="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/sett.png" alt="Kennedy (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

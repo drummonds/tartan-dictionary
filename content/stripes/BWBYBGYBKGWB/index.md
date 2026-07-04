@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fife (Mann)](/variants/s12/b2w1b12lo3b7dy2lo1b2k1g4w1b2~x4/)|
-|![Fife (Mann) example sett](/variants/s12/b2w1b12lo3b7dy2lo1b2k1g4w1b2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/">Fife (Mann)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/"><img src="/variants/s12/t2w1t12ly3t7dy2ly1t2k1g4w1t2~x4/sett.png" alt="Fife (Mann) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 32 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Boy Scouts of Canada (Corporate)](/variants/s32/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3~x3/)|
-|![Boy Scouts of Canada (Corporate) example sett](/variants/s32/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3~x3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s32/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3~x3/">Boy Scouts of Canada (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s32/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3~x3/"><img src="/variants/s32/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3~x3/sett.png" alt="Boy Scouts of Canada (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

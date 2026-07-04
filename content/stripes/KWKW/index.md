@@ -22,15 +22,21 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Covenanter](/variants/s4/w30k1w1k2~x2/)|
-|![Covenanter example sett](/variants/s4/w30k1w1k2~x2/sett.png)|
-| [Lendrum (B&W)](/setts/k7w6k1/)|
-|![Lendrum (B&W) example sett](/variants/s4/k7w6k1~x2/sett.png)|
-| [MacFarlane VS](/variants/s4/k7lb6k1/)|
-|![MacFarlane VS example sett](/variants/s4/k7lb6k1/sett.png)|
-| [MacPhee (Black and White)](/variants/s4/k22w3k3w22~x2/)|
-|![MacPhee (Black and White) example sett](/variants/s4/k22w3k3w22~x2/sett.png)|
-| [Shepherd or Falkirk](/variants/s4/k1w1~x6/)|
-|![Shepherd or Falkirk example sett](/variants/s4/k1w1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/w30k1w1k2~x2/">Covenanter</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/w30k1w1k2~x2/"><img src="/variants/s4/w30k1w1k2~x2/sett.png" alt="Covenanter sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k7w6k1/">MacFarlane VS</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k7w6k1/"><img src="/variants/s3/k7w6k1/sett.png" alt="MacFarlane VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k22w3k3w22~x2/">MacPhee (Black and White)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k22w3k3w22~x2/"><img src="/variants/s4/k22w3k3w22~x2/sett.png" alt="MacPhee (Black and White) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s2/k1lb1~x6/">Shepherd or Falkirk</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/k1lb1~x6/"><img src="/variants/s2/k1lb1~x6/sett.png" alt="Shepherd or Falkirk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

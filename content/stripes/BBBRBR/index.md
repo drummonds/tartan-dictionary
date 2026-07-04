@@ -22,7 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Thorburn (Lochcarron)](/variants/s6/dt3t14dt3o16dt34r3~x2/)|
-|![Thorburn (Lochcarron) example sett](/variants/s6/dt3t14dt3o16dt34r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r13n3r4n56b4n4~x2/">Auchairne grey</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r13n3r4n56b4n4~x2/"><img src="/variants/s6/r13n3r4n56b4n4~x2/sett.png" alt="Auchairne grey sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/r19db6r7db101b6db7~x2/">Lynch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r19db6r7db101b6db7~x2/"><img src="/variants/s6/r19db6r7db101b6db7~x2/sett.png" alt="Lynch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,21 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [London Caledonian Rugby Club](/variants/s6/r5db40lb1db13dg8k4~x2/)|
-|![London Caledonian Rugby Club example sett](/variants/s6/r5db40lb1db13dg8k4~x2/sett.png)|
-| [London Scottish Rugby Club](/variants/s6/r5dt40w1dt13g8k4~x2/)|
-|![London Scottish Rugby Club example sett](/variants/s6/r5dt40w1dt13g8k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/">Kendle (2013)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><img src="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/sett.png" alt="Kendle (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/">Kendle (2013)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/"><img src="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/sett.png" alt="Kendle (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/r5db40w1db13dg8k4~x2/">London Caledonian Rugby Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><img src="/variants/s6/r5db40w1db13dg8k4~x2/sett.png" alt="London Caledonian Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5db40w1db13g8k4~x2/">London Scottish Rugby Club</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r5db40w1db13g8k4~x2/"><img src="/variants/s6/r5db40w1db13g8k4~x2/sett.png" alt="London Scottish Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

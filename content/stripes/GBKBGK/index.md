@@ -22,13 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lennie](/variants/s6/k2g10t2k9p8g2~x2/)|
-|![Lennie example sett](/variants/s6/k2g10t2k9p8g2~x2/sett.png)|
-| [Lennie Family Tartan](/variants/s6/k2g10t2k9dp8g2~x2/)|
-|![Lennie Family Tartan example sett](/variants/s6/k2g10t2k9dp8g2~x2/sett.png)|
-| [Unidentified #28](/variants/s6/k2dg9t1k6b4dg2~x2/)|
-|![Unidentified #28 example sett](/variants/s6/k2dg9t1k6b4dg2~x2/sett.png)|
-| [Unnamed 3](/variants/s6/k2g9t1k6b4g2~x2/)|
-|![Unnamed 3 example sett](/variants/s6/k2g9t1k6b4g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k2g9t1k6ti4g2~x2~t2304245-ti2607245/">Unidentified #28</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k2g9t1k6ti4g2~x2~t2304245-ti2607245/"><img src="/variants/s6/k2g9t1k6ti4g2~x2~t2304245-ti2607245/sett.png" alt="Unidentified #28 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

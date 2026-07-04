@@ -22,11 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Alberta (District)](/variants/s7/g12k1r1k1b2k1ly4~x8/)|
-|![Alberta (District) example sett](/variants/s7/g12k1r1k1b2k1ly4~x8/sett.png)|
-| [Alberta (Province)](/variants/s7/g13k1r1k1b2k1ly4~x8/)|
-|![Alberta (Province) example sett](/variants/s7/g13k1r1k1b2k1ly4~x8/sett.png)|
-| [Alberta District Tartan](/variants/s7/g12k1r1k1t2k1ly4~x2/)|
-|![Alberta District Tartan example sett](/variants/s7/g12k1r1k1t2k1ly4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/">Alberta (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><img src="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/sett.png" alt="Alberta (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/">Alberta (Province)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><img src="/variants/s7/g13k1r1k1t2k1ly4~x8/sett.png" alt="Alberta (Province) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Henderson Dress (Dance)](/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/)|
-|![Henderson Dress (Dance) example sett](/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/">Henderson Dress (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/"><img src="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/sett.png" alt="Henderson Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

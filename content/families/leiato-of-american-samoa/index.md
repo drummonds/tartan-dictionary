@@ -9,14 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/o45k5o28k5r5w2do6/">Leiato of American Samoa</a> ★</td><td><code>O/90 K10 O56 K10 R10 W4 DO/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/o45k5o28k5r5w2do6/"><img src="/variants/s7/o45k5o28k5r5w2do6~x2/sett.png" alt="Leiato of American Samoa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/dy45k5dy28k5r5w2do6/">(Personal)</a></td><td><code>DY/90 K10 DY56 K10 R10 W4 DO/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dy45k5dy28k5r5w2do6/"><img src="/variants/s7/dy45k5dy28k5r5w2do6~x2/sett.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/o45k5o28k5oi5w2do6/">Leiato of American Samoa</a> ★</td><td><code>O/90 K10 O56 K10 Oi10 W4 DO/12</code></td><td>282</td><td>2000</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/o45k5o28k5oi5w2do6/"><img src="/variants/s7/o45k5o28k5oi5w2do6~x2~o2005046-oi2007033/sett.png" alt="Leiato of American Samoa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
-
-[See the Leiato of American Samoa tartan and all its setts →](/tartans/leiato-of-american-samoa/)
 

@@ -1,5 +1,5 @@
 ---
 title: "Dobson (Palm Bay) (Personal)"
-redirect: "/variants/s6/g15ly1dy2db5k4dg5~x6/"
+redirect: "/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/"
 ---
-This sett is recorded as a single cloth — redirecting to [Dobson (Palm Bay) (Personal)](/variants/s6/g15ly1dy2db5k4dg5~x6/).
+This sett is recorded as a single cloth — redirecting to [Dobson (Palm Bay) (Personal)](/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/).

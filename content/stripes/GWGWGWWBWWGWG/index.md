@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Poulter Millicent](/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/)|
-|![Poulter Millicent example sett](/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/sett.png)|
-| [Poulter Millicent](/variants/s13/g69w14g13w14g13wi69w72dp13w72wi69g68w14g13/)|
-|![Poulter Millicent example sett](/variants/s13/g69w14g13w14g13wi69w72dp13w72wi69g68w14g13/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/">Poulter Millicent</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/"><img src="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/">Poulter Millicent</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/"><img src="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

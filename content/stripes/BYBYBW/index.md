@@ -22,11 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lucard, Stphane (Personal))](/variants/s6/w11t20ly3t8ly3t10~x2/)|
-|![Lucard, Stphane (Personal)) example sett](/variants/s6/w11t20ly3t8ly3t10~x2/sett.png)|
-| [Takla Makan #2](/variants/s6/t4lo15t4lo15t4w2~x2/)|
-|![Takla Makan #2 example sett](/variants/s6/t4lo15t4lo15t4w2~x2/sett.png)|
-| [Tokharion](/variants/s6/db1lo5db1lo5db2w1~x4/)|
-|![Tokharion example sett](/variants/s6/db1lo5db1lo5db2w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db1ly5db1ly5db2w1~x4/">Tokharion</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db1ly5db1ly5db2w1~x4/"><img src="/variants/s6/db1ly5db1ly5db2w1~x4/sett.png" alt="Tokharion sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

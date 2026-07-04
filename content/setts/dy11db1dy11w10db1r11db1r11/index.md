@@ -1,16 +1,5 @@
 ---
 title: "St. Andrews (Queens University)"
-date: 2023-03-18
+redirect: "/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"
 ---
-The **St. Andrews (Queens University)** tartan is one sett proportion (`dy11db1dy11w10db1r11db1r11`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BRBWGBGBGWBRBR](/stripes/brbwgbgbgwbrbr/); each scale below is its own sett page. First attested **2002**
-— its oldest sett (★) anchors the tartan as the parent.
-
-Part of the [St Andrews](/tartans/st-andrews/) tartan — the named design grouping this proportion with its other setts.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×2 | [St. Andrews (Queens University)](/variants/s14/dy11db1dy11w10db1r11db1r11~x2/) ★ | 2002 | ![St. Andrews (Queens University) sett](/variants/s14/dy11db1dy11w10db1r11db1r11~x2/sett.png) |
-| ×2 | [St. Andrews (Queens University) (Cor](/variants/s8/dy11db1dy11w10db1r11db1r11~x2/) | ~2002 | ![St. Andrews (Queens University) (Cor sett](/variants/s8/dy11db1dy11w10db1r11db1r11~x2/sett.png) |
+This sett is recorded as a single cloth — redirecting to [St. Andrews (Queens University)](/variants/s8/dy11db1dy11w10db1r11db1r11~x2/).

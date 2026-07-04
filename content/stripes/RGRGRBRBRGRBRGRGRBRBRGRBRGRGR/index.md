@@ -22,9 +22,14 @@ It is a 29 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Robertson #4](/variants/s29/r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28~x2/)|
-|![Robertson #4 example sett](/variants/s29/r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28~x2/sett.png)|
-| [Robertson 5](/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/)|
-|![Robertson 5 example sett](/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/">Robertson #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/"><img src="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/sett.png" alt="Robertson #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

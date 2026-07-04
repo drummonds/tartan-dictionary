@@ -22,7 +22,14 @@ It is a 36 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Nova, Scotia](/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/)|
-|![Nova, Scotia example sett](/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/">Nova, Scotia</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/"><img src="/variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/sett.png" alt="Nova, Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

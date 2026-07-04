@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Chinzei Keiai Junior High School](/variants/s9/n3dp3k16n2o2n16k3n2o2~x2/)|
-|![Chinzei Keiai Junior High School example sett](/variants/s9/n3dp3k16n2o2n16k3n2o2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/n3dp3k16n2o2n16k3n2o2~x2~n1900000-o2500000/">Chinzei Keiai Junior High School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/n3dp3k16n2o2n16k3n2o2~x2~n1900000-o2500000/"><img src="/variants/s9/n3dp3k16n2o2n16k3n2o2~x2~n1900000-o2500000/sett.png" alt="Chinzei Keiai Junior High School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

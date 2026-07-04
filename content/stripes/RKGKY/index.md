@@ -22,15 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Daks, Black (Fashion)](/variants/s5/r3k6dy4k6ly3~x2/)|
-|![Daks, Black (Fashion) example sett](/variants/s5/r3k6dy4k6ly3~x2/sett.png)|
-| [Mar Tribe](/variants/s5/r2k3g45k3ly2/)|
-|![Mar Tribe example sett](/variants/s5/r2k3g45k3ly2/sett.png)|
-| [Mar, (Tribe of..)](/setts/r2k4g45k3ly2/)|
-|![Mar, (Tribe of..) example sett](/variants/s5/r2k4g45k3ly2/sett.png)|
-| [Skene or Tribe of Mar](/variants/s5/r1k2dg16k2ly1~x2/)|
-|![Skene or Tribe of Mar example sett](/variants/s5/r1k2dg16k2ly1~x2/sett.png)|
-| [Skene, or Tribe of Mar](/variants/s5/r1k2g16k2ly1~x2/)|
-|![Skene, or Tribe of Mar example sett](/variants/s5/r1k2g16k2ly1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r4k2dg28k39ly4~x2/">Wcwm 9275 5471-2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r4k2dg28k39ly4~x2/"><img src="/variants/s5/r4k2dg28k39ly4~x2/sett.png" alt="Wcwm 9275 5471-2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

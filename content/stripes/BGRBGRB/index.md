@@ -22,11 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Netball (1986) (Corporate)](/variants/s7/dp3g14m2dp10g2m14dp3~x2/)|
-|![Scottish Netball (1986) (Corporate) example sett](/variants/s7/dp3g14m2dp10g2m14dp3~x2/sett.png)|
-| [Scottish Netball Association](/variants/s7/dp3dg14r2dp10dg2r14dp3~x2/)|
-|![Scottish Netball Association example sett](/variants/s7/dp3dg14r2dp10dg2r14dp3~x2/sett.png)|
-| [Scottish Netball Association](/variants/s7/p3r14g2p10r2g14p3~x2/)|
-|![Scottish Netball Association example sett](/variants/s7/p3r14g2p10r2g14p3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/">Scottish Netball (1986) (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp3r14g2dp10r2g14dp3~x2/"><img src="/variants/s7/dp3r14g2dp10r2g14dp3~x2/sett.png" alt="Scottish Netball (1986) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

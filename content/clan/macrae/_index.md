@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2ly1db18t3r12~x2/"><img src="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2ly1db18t3r12~x2/sett.png" alt="MacRae of Ardentoul" width="240"><br>MacRae of Ardentoul</a>
+<a class="tartan" href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/"><img src="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/sett.png" alt="MacRae of Ardentoul" width="240"><br>MacRae of Ardentoul</a>
 
 ## Families
 

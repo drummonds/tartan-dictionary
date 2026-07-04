@@ -22,9 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wilson's Folio 131](/variants/s5/db12k17dg19w2k5~x2/)|
-|![Wilson's Folio 131 example sett](/variants/s5/db12k17dg19w2k5~x2/sett.png)|
-| [Wilson's, Folio 131](/variants/s5/db12k17g19w2k5~x2/)|
-|![Wilson's, Folio 131 example sett](/variants/s5/db12k17g19w2k5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k42w5dg16k10db21~x2/">Givens (Arizona)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k42w5dg16k10db21~x2/"><img src="/variants/s5/k42w5dg16k10db21~x2/sett.png" alt="Givens (Arizona) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db12k17g19w2k5~x2/">Wilson's Folio 131</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db12k17g19w2k5~x2/"><img src="/variants/s5/db12k17g19w2k5~x2/sett.png" alt="Wilson's Folio 131 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

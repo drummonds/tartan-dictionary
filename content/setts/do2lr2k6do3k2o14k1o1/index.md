@@ -1,5 +1,5 @@
 ---
-title: "Blair Atholl (Fashion)"
+title: "Braemar or Blair Atholl"
 redirect: "/variants/s8/do2lr2k6do3k2o14k1o1~x4/"
 ---
-This sett is recorded as a single cloth — redirecting to [Blair Atholl (Fashion)](/variants/s8/do2lr2k6do3k2o14k1o1~x4/).
+This sett is recorded as a single cloth — redirecting to [Braemar or Blair Atholl](/variants/s8/do2lr2k6do3k2o14k1o1~x4/).

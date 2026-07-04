@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Volkswagen Orange Trim (Fashion)](/variants/s6/lo26k10lo3g3lo3k3~x6/)|
-|![Volkswagen Orange Trim (Fashion) example sett](/variants/s6/lo26k10lo3g3lo3k3~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/">Volkswagen Orange Trim (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/"><img src="/variants/s6/lo26k10lo3g3lo3k3~x6/sett.png" alt="Volkswagen Orange Trim (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

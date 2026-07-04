@@ -22,7 +22,14 @@ It is a 66 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hunter Portrait/Artefact Tartan](/variants/s66/r30ri4y6lo4ri4r16lr2ri4lr2lo4db18y6ly3lr2lo4lr2ly3y6db18lo4lr2ri4r12y2r12ri3lr2g10lr2g2ly4g2lr2y8lr4y8lr2g2ly4g2lr2g10lr2ri4r12y2r12ri4lr2g10lo4lr4lo4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2/)|
-|![Hunter Portrait/Artefact Tartan example sett](/variants/s66/r30ri4y6lo4ri4r16lr2ri4lr2lo4db18y6ly3lr2lo4lr2ly3y6db18lo4lr2ri4r12y2r12ri3lr2g10lr2g2ly4g2lr2y8lr4y8lr2g2ly4g2lr2g10lr2ri4r12y2r12ri4lr2g10lo4lr4lo4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s66/r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2~r21-hbb064559cb0cff7b/">Hunter Portrait/Artefact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s66/r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2~r21-hbb064559cb0cff7b/"><img src="/variants/s66/r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2~r21-hbb064559cb0cff7b/sett.png?s=r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2~r2108022-ri2406019-y2602166-lyi3307090" alt="Hunter Portrait/Artefact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

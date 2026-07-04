@@ -22,9 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Newall (Dumbarton) (Personal)](/variants/s7/t30dp15w4dg12w9t8w3~x2/)|
-|![Newall (Dumbarton) (Personal) example sett](/variants/s7/t30dp15w4dg12w9t8w3~x2/sett.png)|
-| [Newall (Personal)](/variants/s7/b30dt15lb4dg12lb9b8lb3~x2/)|
-|![Newall (Personal) example sett](/variants/s7/b30dt15lb4dg12lb9b8lb3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/n30dp15w4g12w9n8w3~x2~n2203265-dp1502305/">Newall (Dumbarton) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/n30dp15w4g12w9n8w3~x2~n2203265-dp1502305/"><img src="/variants/s7/n30dp15w4g12w9n8w3~x2~n2203265-dp1502305/sett.png" alt="Newall (Dumbarton) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/">Newall (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/"><img src="/variants/s7/t30db15w4dg12w9t8w3~x2/sett.png" alt="Newall (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

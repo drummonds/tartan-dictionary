@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sandhu (Name)](/variants/s11/n12r4n64k64g7w7lo7k64n64r4n12/)|
-|![Sandhu (Name) example sett](/variants/s11/n12r4n64k64g7w7lo7k64n64r4n12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/">Sandhu (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><img src="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/sett.png" alt="Sandhu (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

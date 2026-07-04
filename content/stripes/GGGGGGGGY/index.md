@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McAlbourne (Corporate)](/variants/s9/gi4y52dg4g8dg6dgi12gi17y7lo4/)|
-|![McAlbourne (Corporate) example sett](/variants/s9/gi4y52dg4g8dg6dgi12gi17y7lo4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/">McAlbourne (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/"><img src="/variants/s9/dgii4y52dg4g8dg6dgi12dgii17y7lo4~dgii1806142-y2204130-g2106142-dgi1403152/sett.png" alt="McAlbourne (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

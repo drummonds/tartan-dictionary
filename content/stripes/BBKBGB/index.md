@@ -22,17 +22,20 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Haut Family (by Dundee)](/variants/s6/dt46dpi15k12n8g8dp8~x2/)|
-|![Haut Family (by Dundee) example sett](/variants/s6/dt46dpi15k12n8g8dp8~x2/sett.png)|
-| [Haut Name Tartan](/variants/s6/dp46dpi15k12p8g8dp8~x2/)|
-|![Haut Name Tartan example sett](/variants/s6/dp46dpi15k12p8g8dp8~x2/sett.png)|
-| [Notre Dame Marching Guard (Corp)](/variants/s6/dr5b35k24b9g9dr5~x2/)|
-|![Notre Dame Marching Guard (Corp) example sett](/variants/s6/dr5b35k24b9g9dr5~x2/sett.png)|
-| [Scottish Airports](/variants/s6/dt4g18dt3k17dt18dp4~x2/)|
-|![Scottish Airports example sett](/variants/s6/dt4g18dt3k17dt18dp4~x2/sett.png)|
-| [Scottish Airports](/variants/s6/n4g18n3k17n18p4~x2/)|
-|![Scottish Airports example sett](/variants/s6/n4g18n3k17n18p4~x2/sett.png)|
-| [Scottish Airports (Corporate)](/variants/s6/dp4n18k17n3g18n4~x2/)|
-|![Scottish Airports (Corporate) example sett](/variants/s6/dp4n18k17n3g18n4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/">Haut Family (by Dundee)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/"><img src="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/sett.png" alt="Haut Family (by Dundee) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/dr5t35k24t9g9dr5~x2/">Notre Dame Marching Guard (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><img src="/variants/s6/dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/db4g18db3k17db18dp4~x2/">Scottish Airports (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db4g18db3k17db18dp4~x2/"><img src="/variants/s6/db4g18db3k17db18dp4~x2/sett.png" alt="Scottish Airports (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dhillon (Personal)](/variants/s4/k35lo3w3g3~x4/)|
-|![Dhillon (Personal) example sett](/variants/s4/k35lo3w3g3~x4/sett.png)|
-| [Hogan (2014)](/variants/s4/g10w7ly41k7~x2/)|
-|![Hogan (2014) example sett](/variants/s4/g10w7ly41k7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/k35lo3w3g3~x4/">Dhillon (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k35lo3w3g3~x4/"><img src="/variants/s4/k35lo3w3g3~x4/sett.png" alt="Dhillon (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/g10w7ly41k7~x2/">Hogan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g10w7ly41k7~x2/"><img src="/variants/s4/g10w7ly41k7~x2/sett.png" alt="Hogan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

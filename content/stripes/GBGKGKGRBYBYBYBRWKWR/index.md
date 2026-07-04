@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McKee (Lone Star) (Personal), Dot](/variants/s20/r21w5k1w5r21db6ly1db3ly1db3ly1db4r3g2k1g2k2g1db2g1~x2/)|
-|![McKee (Lone Star) (Personal), Dot example sett](/variants/s20/r21w5k1w5r21db6ly1db3ly1db3ly1db4r3g2k1g2k2g1db2g1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s20/r21w5k1w5r21db6ly1db3ly1db3ly1db4r3g2k1g2k2g1db2g1~x2/">McKee (Lone Star), Dot (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/r21w5k1w5r21db6ly1db3ly1db3ly1db4r3g2k1g2k2g1db2g1~x2/"><img src="/variants/s20/r21w5k1w5r21db6ly1db3ly1db3ly1db4r3g2k1g2k2g1db2g1~x2/sett.png" alt="McKee (Lone Star), Dot (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

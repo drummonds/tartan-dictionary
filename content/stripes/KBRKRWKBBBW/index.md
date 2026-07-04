@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Oban Mist](/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2/)|
-|![Oban Mist example sett](/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/">Oban Mist</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/"><img src="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/sett.png" alt="Oban Mist sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

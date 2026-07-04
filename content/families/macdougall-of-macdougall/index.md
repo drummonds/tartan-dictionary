@@ -1,5 +1,5 @@
 ---
-title: "MacDougall of MacDougall"
+title: "MacDougall, of MacDougall"
 date: 2023-03-18
 ---
 A family of [Clan MacDougall of Lorn](/clan/macdougall/).
@@ -9,10 +9,10 @@ A family of [Clan MacDougall of Lorn](/clan/macdougall/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t2dp10ri3r4dg72r7dg4r10db24dp6ri5r4ri5dp7dg24r24dg24r3db3r74dp7ri5r6t2/">MacDougall of MacDougall</a> ★</td><td><code>T/4 DP20 Ri6 R8 DG144 R14 DG8 R20 DB48 DP12 Ri10 R8 Ri10 DP14 DG48 R48 DG48 R6 DB6 R148 DP14 Ri10 R12 T/4</code></td><td>2</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/t2dp10ri3r4dg72r7dg4r10db24dp6ri5r4ri5dp7dg24r24dg24r3db3r74dp7ri5r6t2/"><img src="/variants/s24/t2dp10ri3r4dg72r7dg4r10db24dp6ri5r4ri5dp7dg24r24dg24r3db3r74dp7ri5r6t2~x2/sett.png" alt="MacDougall of MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2/">MacDougall of MacDougall</a> ★</td><td><code>LB/4 DP20 R6 Ri8 G144 Ri14 G8 Ri20 DB48 DP12 R10 Ri8 R10 DP14 G48 Ri48 G48 Ri6 DB6 Ri148 DP14 R10 Ri12 LB/4</code></td><td>1332</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2/"><img src="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/sett.png" alt="MacDougall of MacDougall sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

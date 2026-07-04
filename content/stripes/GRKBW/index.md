@@ -22,11 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Baillie of Polkemett](/variants/s5/w3db12k12r20g2~x2/)|
-|![Baillie of Polkemett example sett](/variants/s5/w3db12k12r20g2~x2/sett.png)|
-| [Baillie of Polkemmet Red](/variants/s5/w3b12k12r20g2~x2/)|
-|![Baillie of Polkemmet Red example sett](/variants/s5/w3b12k12r20g2~x2/sett.png)|
-| [Diaspora (Fashion)](/variants/s5/lb3db28k12r22dg1~x2/)|
-|![Diaspora (Fashion) example sett](/variants/s5/lb3db28k12r22dg1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/w3db12k12r20g2~x2/">Baillie of Polkemett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/w3db12k12r20g2~x2/"><img src="/variants/s5/w3db12k12r20g2~x2/sett.png" alt="Baillie of Polkemett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w3t12k12r20g2~x2/">Baillie of Polkemmet Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/w3t12k12r20g2~x2/"><img src="/variants/s5/w3t12k12r20g2~x2/sett.png" alt="Baillie of Polkemmet Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

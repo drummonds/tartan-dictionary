@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [PMMC](/variants/s7/r3k11dg29k28g19ly2b1~x2/)|
-|![PMMC example sett](/variants/s7/r3k11dg29k28g19ly2b1~x2/sett.png)|
-| [PMMC](/variants/s7/r3k11gi29k28g19ly2db1~x2/)|
-|![PMMC example sett](/variants/s7/r3k11gi29k28g19ly2db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/">PMMC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/"><img src="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/sett.png" alt="PMMC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

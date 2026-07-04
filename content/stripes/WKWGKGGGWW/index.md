@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [State Seal of Alaska (Fashion)](/variants/s10/lbi49k1lb33gi8k11g4gi19dy2lb12lbi4~x2/)|
-|![State Seal of Alaska (Fashion) example sett](/variants/s10/lbi49k1lb33gi8k11g4gi19dy2lb12lbi4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/lb49k1lbi33dg8k11g4dg19dy2lbi12lb4~x2~lb3200000-lbi3203246-dg1806142-g2408144/">State Seal of Alaska (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/lb49k1lbi33dg8k11g4dg19dy2lbi12lb4~x2~lb3200000-lbi3203246-dg1806142-g2408144/"><img src="/variants/s10/lb49k1lbi33dg8k11g4dg19dy2lbi12lb4~x2~lb3200000-lbi3203246-dg1806142-g2408144/sett.png" alt="State Seal of Alaska (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

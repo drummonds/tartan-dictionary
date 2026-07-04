@@ -22,15 +22,21 @@ It is a 2 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Shadow (Fashion)](/variants/s2/k20n1~x6/)|
-|![Black Shadow (Fashion) example sett](/variants/s2/k20n1~x6/sett.png)|
-| [Buffalo Plaid](/variants/s2/k1db1~x100/)|
-|![Buffalo Plaid example sett](/variants/s2/k1db1~x100/sett.png)|
-| [Staines](/variants/s2/db12k1~x10/)|
-|![Staines example sett](/variants/s2/db12k1~x10/sett.png)|
-| [Tartan Army](/variants/s2/db2k1~x4/)|
-|![Tartan Army example sett](/variants/s2/db2k1~x4/sett.png)|
-| [Wilson's No.172](/variants/s2/k9t8~x2/)|
-|![Wilson's No.172 example sett](/variants/s2/k9t8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s2/k1db1~x100/">Buffalo Plaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/k1db1~x100/"><img src="/variants/s2/k1db1~x100/sett.png" alt="Buffalo Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/db12k1~x10/">Staines</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/db12k1~x10/"><img src="/variants/s2/db12k1~x10/sett.png" alt="Staines sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/db2k1~x4/">Tartan Army</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/db2k1~x4/"><img src="/variants/s2/db2k1~x4/sett.png" alt="Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s2/k20dt1~x6/">Black Shadow (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/k20dt1~x6/"><img src="/variants/s2/k20dt1~x6/sett.png" alt="Black Shadow (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

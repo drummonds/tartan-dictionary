@@ -22,11 +22,22 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Laurel Park](/variants/s4/t48g25t13ly5~x2/)|
-|![Laurel Park example sett](/variants/s4/t48g25t13ly5~x2/sett.png)|
-| [Loch Garth](/variants/s4/do12y6do2lo1~x4/)|
-|![Loch Garth example sett](/variants/s4/do12y6do2lo1~x4/sett.png)|
-| [Oxford University (Corporate)](/variants/s4/dbi9g16db59ly4~x2/)|
-|![Oxford University (Corporate) example sett](/variants/s4/dbi9g16db59ly4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/">Oxford University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><img src="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/sett.png" alt="Oxford University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/">Oxford University (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><img src="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/sett.png" alt="Oxford University (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/ly28dr24dg55dp19~x2/">Hirstwood (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/ly28dr24dg55dp19~x2/"><img src="/variants/s4/ly28dr24dg55dp19~x2/sett.png" alt="Hirstwood (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/do12y6do2lo1~x4/">Loch Garth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/do12y6do2lo1~x4/"><img src="/variants/s4/do12y6do2lo1~x4/sett.png" alt="Loch Garth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

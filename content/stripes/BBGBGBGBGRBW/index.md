@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ayre Robinson (Personal)](/variants/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/)|
-|![Ayre Robinson (Personal) example sett](/variants/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/">Ayre Robinson (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/"><img src="/variants/s12/db12t2dg10db16dg6db2dg2db2dg6r2db5w2~x2~db0906265-t2105244/sett.png" alt="Ayre Robinson (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

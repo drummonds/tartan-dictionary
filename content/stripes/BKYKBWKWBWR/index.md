@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Caledonian Railway (Commemorative)](/variants/s11/b6k1lo6k1b28lb1k2lb1b16lb1r5~x2/)|
-|![Caledonian Railway (Commemorative) example sett](/variants/s11/b6k1lo6k1b28lb1k2lb1b16lb1r5~x2/sett.png)|
-| [Historic Caledonian Railway Enthusiasts', The](/variants/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/)|
-|![Historic Caledonian Railway Enthusiasts', The example sett](/variants/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/">Caledonian Railway (Commemorative)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><img src="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/sett.png" alt="Caledonian Railway (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bruce of Kinnaird (Fashion)](/variants/s10/loi22ly22dr2lb6dr2lo2dr16lg5loi8lb2~x2/)|
-|![Bruce of Kinnaird (Fashion) example sett](/variants/s10/loi22ly22dr2lb6dr2lo2dr16lg5loi8lb2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/ly22lyi22dr2lb6dr2lo2dr16lg5ly8lb2~x2~ly2705081-lyi3104101/">Bruce of Kinnaird (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/ly22lyi22dr2lb6dr2lo2dr16lg5ly8lb2~x2~ly2705081-lyi3104101/"><img src="/variants/s10/ly22lyi22dr2lb6dr2lo2dr16lg5ly8lb2~x2~ly2705081-lyi3104101/sett.png" alt="Bruce of Kinnaird (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

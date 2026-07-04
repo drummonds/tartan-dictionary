@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edinburgh Bus Tours](/variants/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/)|
-|![Edinburgh Bus Tours example sett](/variants/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/">Edinburgh Bus Tours</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/"><img src="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/sett.png" alt="Edinburgh Bus Tours sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

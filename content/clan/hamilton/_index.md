@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s10/lo16k7w1g7k1ly3~x4/"><img src="/variants/s10/lo16k7w1g7k1ly3~x4/sett.png" alt="Hamilton of Brandon" width="240"><br>Hamilton of Brandon</a>
+<a class="tartan" href="/variants/s6/ly16k7w1g7k1dy3~x4/"><img src="/variants/s6/ly16k7w1g7k1dy3~x4/sett.png" alt="Hamilton of Brandon" width="240"><br>Hamilton of Brandon</a>
 
 ## Families
 

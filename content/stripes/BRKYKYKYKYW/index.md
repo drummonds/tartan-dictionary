@@ -22,11 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gary](/variants/s11/p2r1k4ly2k12ly8k12ly2k4ly1w2~x2/)|
-|![Gary example sett](/variants/s11/p2r1k4ly2k12ly8k12ly2k4ly1w2~x2/sett.png)|
-| [Gary (Personal)](/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/)|
-|![Gary (Personal) example sett](/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/sett.png)|
-| [Gary Personal Tartan](/variants/s11/dp2r1k4ly2k12ly8k12ly2k4ly1w2~x2/)|
-|![Gary Personal Tartan example sett](/variants/s11/dp2r1k4ly2k12ly8k12ly2k4ly1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/">Gary (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><img src="/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/sett.png" alt="Gary (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

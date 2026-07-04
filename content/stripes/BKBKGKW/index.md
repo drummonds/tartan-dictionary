@@ -22,17 +22,19 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Baillie](/variants/s7/p3k1p8k6g8k1w2~x2/)|
-|![Baillie example sett](/variants/s7/p3k1p8k6g8k1w2~x2/sett.png)|
-| [Baillie (Highland Society)](/variants/s7/dp3k1dp8k6dg8k1w2~x2/)|
-|![Baillie (Highland Society) example sett](/variants/s7/dp3k1dp8k6dg8k1w2~x2/sett.png)|
-| [Forbes](/variants/s7/db1k1db6k6g6k1w1~x2/)|
-|![Forbes example sett](/variants/s7/db1k1db6k6g6k1w1~x2/sett.png)|
-| [Forbes #4](/variants/s7/db1k1db6k6dg6k1w1~x2/)|
-|![Forbes #4 example sett](/variants/s7/db1k1db6k6dg6k1w1~x2/sett.png)|
-| [Forbes Ancient](/setts/db1k6db6k6g6k1w1/)|
-|![Forbes Ancient example sett](/variants/s7/db1k6db6k6g6k1w1~x2/sett.png)|
-| [Forbes LC](/variants/s7/db1k6db6k6dg6k1lb1/)|
-|![Forbes LC example sett](/variants/s7/db1k6db6k6dg6k1lb1/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db1k1db6k6g6k1w1~x2/">Forbes #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><img src="/variants/s7/db1k1db6k6g6k1w1~x2/sett.png" alt="Forbes #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db1k6db6k6g6k1w1/">Forbes LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db1k6db6k6g6k1w1/"><img src="/variants/s7/db1k6db6k6g6k1w1/sett.png" alt="Forbes LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/">Baillie (Highland Society)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><img src="/variants/s7/dp3k1dp8k6g8k1w2~x2/sett.png" alt="Baillie (Highland Society) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

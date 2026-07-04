@@ -22,7 +22,17 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Beckett Beaumont](/variants/s16/w54dt7w19k5w8y8w8y16k8dy8w21r11y7dt11y8w7~x2/)|
-|![Beckett Beaumont example sett](/variants/s16/w54dt7w19k5w8y8w8y16k8dy8w21r11y7dt11y8w7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/">Beckett Beaumont (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/"><img src="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/sett.png" alt="Beckett Beaumont (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/">Beckett Beaumont Artifact Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/"><img src="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/sett.png" alt="Beckett Beaumont Artifact Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

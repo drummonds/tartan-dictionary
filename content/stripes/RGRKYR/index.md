@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Victoria, City of (British Columbia)](/variants/s6/r5g2ri2k2lo7r2~x4/)|
-|![Victoria, City of (British Columbia) example sett](/variants/s6/r5g2ri2k2lo7r2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r5g2ri2k2lo7r2~x4~r1807033-ri2806019/">Victoria, City of (British Columbia)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r5g2ri2k2lo7r2~x4~r1807033-ri2806019/"><img src="/variants/s6/r5g2ri2k2lo7r2~x4~r1807033-ri2806019/sett.png" alt="Victoria, City of (British Columbia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

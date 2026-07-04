@@ -22,7 +22,16 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sanix Muted](/variants/s4/dg3dy30dg40r3~x2/)|
-|![Sanix Muted example sett](/variants/s4/dg3dy30dg40r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/r10dg4y1~x8/">Lugo (2013)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r10dg4y1~x8/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r10dg4dy1~x8/">Lugo (2013)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r10dg4dy1~x8/"><img src="/variants/s3/r10dg4dy1~x8/sett.png" alt="Lugo (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

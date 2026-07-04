@@ -22,7 +22,14 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Aquascutum](/variants/s3/db1w1r1~x22/)|
-|![Aquascutum example sett](/variants/s3/db1w1r1~x22/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db1w1r1/">Usa</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db1w1r1/"><img src="/variants/s3/db1w1r1~x4/sett.png" alt="Usa sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

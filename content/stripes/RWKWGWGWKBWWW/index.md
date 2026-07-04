@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Diana Pink (Commemorative)](/variants/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/)|
-|![Diana Pink (Commemorative) example sett](/variants/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|
-| [Diana Princess of Wales Mem. (Commem](/variants/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/)|
-|![Diana Princess of Wales Mem. (Commem example sett](/variants/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/">Diana Pink (Commemorative)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><img src="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/sett.png" alt="Diana Pink (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

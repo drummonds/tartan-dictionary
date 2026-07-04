@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Delta Lambda Phi](/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/)|
-|![Delta Lambda Phi example sett](/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/sett.png)|
-| [Delta Lambda Phi (Corporate)](/variants/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/)|
-|![Delta Lambda Phi (Corporate) example sett](/variants/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/">Delta Lambda Phi (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/"><img src="/variants/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/sett.png" alt="Delta Lambda Phi (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

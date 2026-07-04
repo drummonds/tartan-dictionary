@@ -22,9 +22,17 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Knights Templar St Andrews Corporate Tartan](/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/)|
-|![Knights Templar St Andrews Corporate Tartan example sett](/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/sett.png)|
-| [Scottish Knights Templar St. A (Corp](/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/)|
-|![Scottish Knights Templar St. A (Corp example sett](/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/">Knights Templar St Andrews Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><img src="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/sett.png" alt="Knights Templar St Andrews Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/">Scottish Knights Templar St. A (Corp</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><img src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png" alt="Scottish Knights Templar St. A (Corp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

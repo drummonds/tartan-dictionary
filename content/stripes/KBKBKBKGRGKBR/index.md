@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Blairgowrie High School (SA)](/variants/s13/r3b10k10dg10r3dg10k10b2k2b2k2b5k2~x4/)|
-|![Blairgowrie High School (SA) example sett](/variants/s13/r3b10k10dg10r3dg10k10b2k2b2k2b5k2~x4/sett.png)|
-| [Blairgowrie High School S.A. (Corp)](/variants/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/)|
-|![Blairgowrie High School S.A. (Corp) example sett](/variants/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r3t10k10g10r3g10k10t2k2t2k2t5k2/">Blairgowrie High School (SA)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r3t10k10g10r3g10k10t2k2t2k2t5k2/"><img src="/variants/s13/r3t10k10g10r3g10k10t2k2t2k2t5k2~x2/sett.png" alt="Blairgowrie High School (SA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

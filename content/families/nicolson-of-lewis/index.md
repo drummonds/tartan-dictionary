@@ -9,10 +9,10 @@ A family of [Clan Nicolson](/clan/nicolson/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dti3dt5n2dg5r11w3/">Nicolson of Lewis</a> ★</td><td><code>W/12 R44 DG20 N8 DT20 DTi/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dti3dt5n2dg5r11w3/"><img src="/variants/s6/dti3dt5n2dg5r11w3~x4/sett.png" alt="Nicolson of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dt3db5n2dg5r11w3/">Nicolson of Lewis</a> ★</td><td><code>W/12 R44 DG20 N8 DB20 DT/12</code></td><td>208</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dt3db5n2dg5r11w3/"><img src="/variants/s6/dt3db5n2dg5r11w3~x4/sett.png" alt="Nicolson of Lewis sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

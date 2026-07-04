@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s7/w1r2b16k14g15k3ly1~x2/"><img src="/variants/s7/w1r2b16k14g15k3ly1~x2/sett.png" alt="Macneil of Barra - Chief (Personal)" width="240"><br>Macneil of Barra - Chief (Personal)</a>
+<a class="tartan" href="/variants/s6/y3k2g12k12db14w3/"><img src="/variants/s6/y3k2g12k12db14w3/sett.png" alt="MacNeil of Barra" width="240"><br>MacNeil of Barra</a>
 
 ## Families
 

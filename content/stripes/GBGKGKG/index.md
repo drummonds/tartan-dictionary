@@ -22,9 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [John Telfar Dunbar Hunting](/variants/s7/dg5k2dg28k10dy26db4dg4~x2/)|
-|![John Telfar Dunbar Hunting example sett](/variants/s7/dg5k2dg28k10dy26db4dg4~x2/sett.png)|
-| [John Telfar Dunbar/Hunting Tartan](/variants/s7/g5k2g28k10dy26db4g4~x2/)|
-|![John Telfar Dunbar/Hunting Tartan example sett](/variants/s7/g5k2g28k10dy26db4g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/">Baileville (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><img src="/variants/s7/y1k4y1k4y11dr1y1~x4/sett.png" alt="Baileville (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/">John Telfar Dunbar Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><img src="/variants/s7/g5k2g28k10dy26db4g4~x2/sett.png" alt="John Telfar Dunbar Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

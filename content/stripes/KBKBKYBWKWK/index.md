@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Springbank](/variants/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/)|
-|![Springbank example sett](/variants/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k14n2k2n5k25ly1n9lp3k3w1k14~x2/">Springbank</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k14n2k2n5k25ly1n9lp3k3w1k14~x2/"><img src="/variants/s11/k14n2k2n5k25ly1n9lp3k3w1k14~x2/sett.png" alt="Springbank sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

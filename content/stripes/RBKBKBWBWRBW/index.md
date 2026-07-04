@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [North Carolina State University](/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9/)|
-|![North Carolina State University example sett](/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9/sett.png)|
-| [North Carolina State University - Pack Plaid](/variants/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/)|
-|![North Carolina State University - Pack Plaid example sett](/variants/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/w15n25r10w5n25w7n16k9n17k10n23r9/">North Carolina State University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w15n25r10w5n25w7n16k9n17k10n23r9/"><img src="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9/sett.png" alt="North Carolina State University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

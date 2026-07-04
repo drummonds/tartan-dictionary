@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Maple Leaf](/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2y4~x8/)|
-|![Maple Leaf example sett](/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2y4~x8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/">Maple Leaf</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/"><img src="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/sett.png" alt="Maple Leaf sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

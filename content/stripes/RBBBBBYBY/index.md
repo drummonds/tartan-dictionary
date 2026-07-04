@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pagus Wasia](/variants/s9/r1db2dt1dbi3dt19db3ly1db2ly1~x4/)|
-|![Pagus Wasia example sett](/variants/s9/r1db2dt1dbi3dt19db3ly1db2ly1~x4/sett.png)|
-| [Pagus Wasia District Tartan](/variants/s9/r1db2n1dt3n19db3ly1db2ly1~x4/)|
-|![Pagus Wasia District Tartan example sett](/variants/s9/r1db2n1dt3n19db3ly1db2ly1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/">Pagus Wasia District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"><img src="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/sett.png" alt="Pagus Wasia District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

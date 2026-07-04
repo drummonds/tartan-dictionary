@@ -22,9 +22,20 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dark Island Black (Fashion)](/variants/s9/do4k2do2k4do20k43do2k4do2~x2/)|
-|![Dark Island Black (Fashion) example sett](/variants/s9/do4k2do2k4do20k43do2k4do2~x2/sett.png)|
-| [Grey Breton](/variants/s9/n14k19n14k6n14k6n14k47n6/)|
-|![Grey Breton example sett](/variants/s9/n14k19n14k6n14k6n14k47n6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/">Dark Island Black (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/"><img src="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/sett.png" alt="Dark Island Black (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/">Grey Breton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><img src="/variants/s9/n14k19n14k6n14k6n14k47n6/sett.png" alt="Grey Breton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/">Trotter (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><img src="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/sett.png" alt="Trotter (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

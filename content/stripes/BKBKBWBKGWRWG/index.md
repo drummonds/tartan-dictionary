@@ -22,13 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKusick](/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/)|
-|![MacKusick example sett](/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/sett.png)|
-| [MacKusick (Name)](/variants/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/)|
-|![MacKusick (Name) example sett](/variants/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/sett.png)|
-| [MacKusick Family Tartan of North America](/variants/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/)|
-|![MacKusick Family Tartan of North America example sett](/variants/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/sett.png)|
-| [MacKusick Family Tartan of North America](/variants/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/)|
-|![MacKusick Family Tartan of North America example sett](/variants/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/">MacKusick Family Tartan of North America</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><img src="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/sett.png" alt="MacKusick Family Tartan of North America sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,13 +22,24 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Eildon (1980)](/variants/s8/dbi42lbi2lb2lbi2dbi5db12lb32dbi4~x2/)|
-|![Eildon (1980) example sett](/variants/s8/dbi42lbi2lb2lbi2dbi5db12lb32dbi4~x2/sett.png)|
-| [Longniddry Blue (Dance)](/variants/s8/dt42lbi2lb2lbi2dt5dti12lb32dt4~x2/)|
-|![Longniddry Blue (Dance) example sett](/variants/s8/dt42lbi2lb2lbi2dt5dti12lb32dt4~x2/sett.png)|
-| [Longniddry Dress (Dance)](/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/)|
-|![Longniddry Dress (Dance) example sett](/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2/sett.png)|
-| [Longniddry Eildon Blue Dress Fancy Tartan](/variants/s8/db42lbi2lb2lbi2db5dt12lb32db4~x2/)|
-|![Longniddry Eildon Blue Dress Fancy Tartan example sett](/variants/s8/db42lbi2lb2lbi2db5dt12lb32db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/">Eildon (1980)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/"><img src="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/sett.png" alt="Eildon (1980) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/">Harmony, Eildon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/"><img src="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/sett.png" alt="Harmony, Eildon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/">Longniddry Eildon Blue Dress Fancy Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><img src="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/sett.png" alt="Longniddry Eildon Blue Dress Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/">Longniddry Blue (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/"><img src="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/sett.png" alt="Longniddry Blue (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/dp42lb2w2lb2dp5t12w32dp4/">Longniddry Purple</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dp42lb2w2lb2dp5t12w32dp4/"><img src="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~dp1607327-lb3103284-t2405244/sett.png" alt="Longniddry Purple sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -9,10 +9,10 @@ A family of [Clan MacPherson](/clan/macpherson/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db1r1k8r1db1r1w8r1db1/">MacPherson of Pitmain</a> ★</td><td><code>DB/6 R6 K48 R6 DB6 R6 W48 R6 DB/6</code></td><td>2</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/db1r1k8r1db1r1w8r1db1/"><img src="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/sett.png" alt="MacPherson of Pitmain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db1dr1k8dr1db1dr1w8dr1db1/">MacPherson of Pitmain</a> ★</td><td><code>DB/4 DR4 K32 DR4 DB4 DR4 W32 DR4 DB/4</code></td><td>176</td><td>1850</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db1dr1k8dr1db1dr1w8dr1db1/"><img src="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/sett.png" alt="MacPherson of Pitmain sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

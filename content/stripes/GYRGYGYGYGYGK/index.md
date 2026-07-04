@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glen Affric, Fragment](/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/)|
-|![Glen Affric, Fragment example sett](/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/sett.png)|
-| [Glenaffric Fragment](/variants/s13/k2dg2lr10dg2lr7dg2lr7dg2lr5dg2r14lr1dg2~x2/)|
-|![Glenaffric Fragment example sett](/variants/s13/k2dg2lr10dg2lr7dg2lr7dg2lr5dg2r14lr1dg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/">Glenaffric Fragment</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/"><img src="/variants/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/sett.png" alt="Glenaffric Fragment sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

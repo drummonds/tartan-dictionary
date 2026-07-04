@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Allon/Allan](/setts/g8w1g1r1g4k4db8k1db1k1/)|
-|![Allon/Allan example sett](/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png)|
-| [Scott #2](/variants/s10/dg8w1dg1r1dg4k4db8k1db1k1~x2/)|
-|![Scott #2 example sett](/variants/s10/dg8w1dg1r1dg4k4db8k1db1k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/">Scott #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><img src="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/sett.png" alt="Scott #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

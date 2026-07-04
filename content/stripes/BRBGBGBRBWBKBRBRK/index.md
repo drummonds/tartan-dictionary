@@ -22,7 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Isla Grant (Personal)](/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/)|
-|![Isla Grant (Personal) example sett](/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/">Isla Grant (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/"><img src="/variants/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/sett.png" alt="Isla Grant (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

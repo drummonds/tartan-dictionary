@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Asman, Day Tan (Name)](/variants/s11/y2k1y9loi3lb1k3lb1r3loi9lo1loi2~x4/)|
-|![Asman, Day Tan (Name) example sett](/variants/s11/y2k1y9loi3lb1k3lb1r3loi9lo1loi2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/">Asman, Day Tan (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/"><img src="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/sett.png" alt="Asman, Day Tan (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

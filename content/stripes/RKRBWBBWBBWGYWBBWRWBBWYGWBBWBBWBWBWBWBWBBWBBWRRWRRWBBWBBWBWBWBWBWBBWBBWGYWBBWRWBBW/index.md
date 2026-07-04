@@ -22,7 +22,14 @@ It is a 82 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unnamed C18th - Cf 4445](/variants/s82/r2k2r16dp6w1dp2t2w1t2dp2w1g10lg3w1dp3t2w1r3w1t2dp4w1lg3g10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1r10m5w1m5r10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1g10lg3w1dp4t2w1r3w1t2dp3w1-hb62277d532528bf5/)|
-|![Unnamed C18th - Cf 4445 example sett](/variants/s82/r2k2r16dp6w1dp2t2w1t2dp2w1g10lg3w1dp3t2w1r3w1t2dp4w1lg3g10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1r10m5w1m5r10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1g10lg3w1dp4t2w1r3w1t2dp3w1-hb62277d532528bf5/sett.png?s=r2k2r16dp6w1dp2t2w1t2dp2w1g10lg3w1dp3t2w1r3w1t2dp4w1lg3g10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1r10m5w1m5r10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1g10lg3w1dp4t2w1r3w1t2dp3w1~x2)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/">Unnamed C18th - Cf 4445</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/"><img src="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/sett.png?s=r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1~x2~b2603265-g2007139-lg2909145" alt="Unnamed C18th - Cf 4445 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

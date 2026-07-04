@@ -22,13 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Clanranald](/setts/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/)|
-|![MacDonald of Clanranald example sett](/variants/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/sett.png)|
-| [MacDonald of Clanranald D](/setts/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6/)|
-|![MacDonald of Clanranald D example sett](/variants/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6/sett.png)|
-| [Macallan](/variants/s13/dg12r2dg4r5dg16lo2k16r2db16r5db4r2db12~x2/)|
-|![Macallan example sett](/variants/s13/dg12r2dg4r5dg16lo2k16r2db16r5db4r2db12~x2/sett.png)|
-| [Unnamed C20th - Unregistered Error](/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/)|
-|![Unnamed C20th - Unregistered Error example sett](/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/">Unnamed C20th - Unregistered Error</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><img src="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/sett.png" alt="Unnamed C20th - Unregistered Error sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

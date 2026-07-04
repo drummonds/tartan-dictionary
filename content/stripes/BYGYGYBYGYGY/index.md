@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lewis of Wales](/variants/s12/db56lo2dg19lo1dg2lo1db2~x2/)|
-|![Lewis of Wales example sett](/variants/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db56ly2dg19ly1dg2ly1db2~x2/">Lewis of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db56ly2dg19ly1dg2ly1db2~x2/"><img src="/variants/s7/db56ly2dg19ly1dg2ly1db2~x2/sett.png" alt="Lewis of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

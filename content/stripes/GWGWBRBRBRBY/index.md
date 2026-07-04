@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Walker, Dress (Personal)](/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/)|
-|![Walker, Dress (Personal) example sett](/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/lo4db2r7db15r3db3r3db7w28dy7w6dy2/">Walker, Dress (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/lo4db2r7db15r3db3r3db7w28dy7w6dy2/"><img src="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/sett.png" alt="Walker, Dress (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,19 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dunfermline Bank of Scotland (Corp)](/variants/s8/dg24k5dg6r6dg6k20b20w2~x2/)|
-|![Dunfermline Bank of Scotland (Corp) example sett](/variants/s8/dg24k5dg6r6dg6k20b20w2~x2/sett.png)|
-| [MacRae Hunting](/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/)|
-|![MacRae Hunting example sett](/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/sett.png)|
-| [MacRae, Ancient hunting](/variants/s8/g24k4g6r4g6k19db22w5~x2/)|
-|![MacRae, Ancient hunting example sett](/variants/s8/g24k4g6r4g6k19db22w5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/">Dunfermline Bank of Scotland (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><img src="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/sett.png" alt="Dunfermline Bank of Scotland (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/">MacRae, Ancient hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/"><img src="/variants/s8/g24k4g6r4g6k19db22w5~x2/sett.png" alt="MacRae, Ancient hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/">MacRae Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/"><img src="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/sett.png" alt="MacRae Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

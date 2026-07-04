@@ -22,9 +22,16 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stephenson Htg (Name)](/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/)|
-|![Stephenson Htg (Name) example sett](/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/sett.png)|
-| [Stephenson, hunting](/setts/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/)|
-|![Stephenson, hunting example sett](/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/">Stephenson Htg (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/"><img src="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/sett.png" alt="Stephenson Htg (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/">Stephenson, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><img src="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/sett.png" alt="Stephenson, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gill, Anil (Personal)](/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2/)|
-|![Gill, Anil (Personal) example sett](/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/">Gill, Anil (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/"><img src="/variants/s10/g1db30dp32db1r5db1ri4db1r2w1~x2~r2209032-ri2806019/sett.png" alt="Gill, Anil (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

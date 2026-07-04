@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Justus Hunting (Personal)](/variants/s7/db1dg4r1dg1lo1dg4db1~x12/)|
-|![Justus Hunting (Personal) example sett](/variants/s7/db1dg4r1dg1lo1dg4db1~x12/sett.png)|
-| [Justus hunting](/variants/s7/db1g4r1g1ly1g4db1~x12/)|
-|![Justus hunting example sett](/variants/s7/db1g4r1g1ly1g4db1~x12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/">Justus Htg (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/"><img src="/variants/s7/db1dg4r1dg1ly1dg4db1~x12/sett.png" alt="Justus Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

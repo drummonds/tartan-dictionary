@@ -22,11 +22,21 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [College of Radiographers](/variants/s5/k15y2k10db18w3~x2/)|
-|![College of Radiographers example sett](/variants/s5/k15y2k10db18w3~x2/sett.png)|
-| [MacKirdy](/variants/s5/k2g12k11b12w1~x2/)|
-|![MacKirdy example sett](/variants/s5/k2g12k11b12w1~x2/sett.png)|
-| [MacKirdy](/variants/s5/k2g12k11db12w1~x2/)|
-|![MacKirdy example sett](/variants/s5/k2g12k11db12w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k15y2k10db18w3~x2/">College of Radiographers</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k15y2k10db18w3~x2/"><img src="/variants/s5/k15y2k10db18w3~x2/sett.png" alt="College of Radiographers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k15dy2k10db18w3~x2/">College of Radiographers Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k15dy2k10db18w3~x2/"><img src="/variants/s5/k15dy2k10db18w3~x2/sett.png" alt="College of Radiographers Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k2g12k11db12w1~x2/">MacKirdy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k2g12k11db12w1~x2/"><img src="/variants/s5/k2g12k11db12w1~x2/sett.png" alt="MacKirdy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k2g12k11t12w1/">MacKirdy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k2g12k11t12w1/"><img src="/variants/s5/k2g12k11t12w1~x2~g2203152/sett.png" alt="MacKirdy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

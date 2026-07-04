@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Montgomerie](/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/)|
-|![Montgomerie example sett](/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/sett.png)|
-| [Montgomerie/Montgomery](/variants/s12/dg27dgi39db3dgi3db4dgi3db3dgi39db3dgi3db4dgi3~x2/)|
-|![Montgomerie/Montgomery example sett](/variants/s12/dg27dgi39db3dgi3db4dgi3db3dgi39db3dgi3db4dgi3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/">Montgomerie/Montgomery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/"><img src="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/sett.png" alt="Montgomerie/Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

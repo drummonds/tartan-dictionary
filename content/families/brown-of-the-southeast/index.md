@@ -9,10 +9,10 @@ A family of [Clan Brown](/clan/brown/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/n12dg2n4dg2n4k33dg13r4/">Brown of the Southeast</a> ★</td><td><code>N/24 DG4 N8 DG4 N8 K66 DG26 R/8</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/n12dg2n4dg2n4k33dg13r4/"><img src="/variants/s8/n12dg2n4dg2n4k33dg13r4~x2/sett.png" alt="Brown of the Southeast sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb12g2lb4g2lb4k33g13r4/">Brown of the Southeast</a> ★</td><td><code>LB/24 G4 LB8 G4 LB8 K66 G26 R/8</code></td><td>264</td><td>~2009</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb12g2lb4g2lb4k33g13r4/"><img src="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/sett.png" alt="Brown of the Southeast sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

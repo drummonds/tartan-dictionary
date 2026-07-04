@@ -22,13 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wellington or Waterloo](/variants/s6/t3dg12k14t11r3t3~x2/)|
-|![Wellington or Waterloo example sett](/variants/s6/t3dg12k14t11r3t3~x2/sett.png)|
-| [Wellington, or Waterloo](/variants/s6/t3g12k14t11r3t3~x2/)|
-|![Wellington, or Waterloo example sett](/variants/s6/t3g12k14t11r3t3~x2/sett.png)|
-| [Wellington, or Waterloo](/variants/s6/t3g6k6t4r1t1~x2/)|
-|![Wellington, or Waterloo example sett](/variants/s6/t3g6k6t4r1t1~x2/sett.png)|
-| [Wellington, or Waterloo](/variants/s6/t3g8k9db7r2db2~x2/)|
-|![Wellington, or Waterloo example sett](/variants/s6/t3g8k9db7r2db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/b4g17k17db17r3db3~x2/">Royal Highland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/b4g17k17db17r3db3~x2/"><img src="/variants/s6/b4g17k17db17r3db3~x2/sett.png" alt="Royal Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Merchiston Castle School](/variants/s11/k16db8k6db8k6db20k6db6k14b41r4/)|
-|![Merchiston Castle School example sett](/variants/s11/k16db8k6db8k6db20k6db6k14b41r4/sett.png)|
-| [Merchiston Castle School Corporate Tartan](/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4/)|
-|![Merchiston Castle School Corporate Tartan example sett](/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4/sett.png)|
-| [Merchiston, Castle School](/variants/s11/k16dbi8k6dbi8k6dbi20k6dbi6k14db41r4/)|
-|![Merchiston, Castle School example sett](/variants/s11/k16dbi8k6dbi8k6dbi20k6dbi6k14db41r4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/">Merchiston Castle School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/"><img src="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/sett.png" alt="Merchiston Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k16db8k6db8k6db20k6db6k14dbi41r4/">Merchiston, Castle School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k16db8k6db8k6db20k6db6k14dbi41r4/"><img src="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/sett.png" alt="Merchiston, Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

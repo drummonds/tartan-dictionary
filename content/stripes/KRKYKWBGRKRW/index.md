@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stewart of Galloway](/variants/s12/k3r24k4ly1k2w1db4g6r3k1r2w1~x2/)|
-|![Stewart of Galloway example sett](/variants/s12/k3r24k4ly1k2w1db4g6r3k1r2w1~x2/sett.png)|
-| [Stewart of Galloway - 1842 (Clan)](/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/)|
-|![Stewart of Galloway - 1842 (Clan) example sett](/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/">Stewart of Galloway - 1842 (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><img src="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/sett.png" alt="Stewart of Galloway - 1842 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

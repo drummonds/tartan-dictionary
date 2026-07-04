@@ -22,9 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dama Resort](/variants/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/)|
-|![Dama Resort example sett](/variants/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/sett.png)|
-| [Dama Resort (Fashion)](/variants/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/)|
-|![Dama Resort (Fashion) example sett](/variants/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/">Dama Resort</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><img src="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/sett.png" alt="Dama Resort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/">Dama Resort (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/"><img src="/variants/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/sett.png" alt="Dama Resort (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

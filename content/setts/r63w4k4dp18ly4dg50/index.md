@@ -12,5 +12,5 @@ Part of the [Gordon of Abergeldie](/tartans/gordon-of-abergeldie/) tartan — th
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×2 | [Gordon of Abergeldie](/variants/s10/r63w4k4dp18ly4dg50~x2/) ★ | 1723 | ![Gordon of Abergeldie sett](/variants/s10/r63w4k4dp18ly4dg50~x2/sett.png) |
-| ×2 | [Gordon of Abergeldie (Portrait)](/variants/s6/r63w4k4dp18ly4dg50~x2/) | 1723 | ![Gordon of Abergeldie (Portrait) sett](/variants/s6/r63w4k4dp18ly4dg50~x2/sett.png) |
+| ×2 | [Gordon of Abergeldie (Portrait)](/variants/s6/r63w4k4dp18ly4dg50~x2/) ★ | 1723 | ![Gordon of Abergeldie (Portrait) sett](/variants/s6/r63w4k4dp18ly4dg50~x2/sett.png) |
+| ×2 | [Gordon of Abergeldie](/variants/s6/r63w4k4dp18ly4dg50~x2~dp1607327/) | 1723 | ![Gordon of Abergeldie sett](/variants/s6/r63w4k4dp18ly4dg50~x2~dp1607327/sett.png) |

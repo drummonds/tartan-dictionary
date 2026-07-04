@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glenlivet Dress Reproduction](/variants/s14/w16dy5db2dy42r2dy6r2dy42db2dy5w16dy5db2dy5~x2/)|
-|![Glenlivet Dress Reproduction example sett](/variants/s14/w16dy5db2dy42r2dy6r2dy42db2dy5w16dy5db2dy5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/w16dy5db2dy42o2dy6o2dy42db2dy5w16dy5db2dy5~x2/">Glenlivet Dress Reproduction</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/w16dy5db2dy42o2dy6o2dy42db2dy5w16dy5db2dy5~x2/"><img src="/variants/s14/w16dy5db2dy42o2dy6o2dy42db2dy5w16dy5db2dy5~x2/sett.png" alt="Glenlivet Dress Reproduction sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

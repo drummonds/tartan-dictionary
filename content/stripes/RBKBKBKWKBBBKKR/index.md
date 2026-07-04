@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [The Trew 40th](/variants/s15/r4ki3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/)|
-|![The Trew 40th example sett](/variants/s15/r4ki3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/">The Trew 40th</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/"><img src="/variants/s15/r4ki3k11n3db3n30k1w4k1n3k3n3k3n12r2~x2~ki0802166-k0700000/sett.png" alt="The Trew 40th sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

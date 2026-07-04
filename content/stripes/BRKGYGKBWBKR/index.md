@@ -22,11 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rust](/variants/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/)|
-|![Rust example sett](/variants/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/sett.png)|
-| [Rust (Personal)](/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/)|
-|![Rust (Personal) example sett](/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/sett.png)|
-| [Rust Personal Tartan](/variants/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/)|
-|![Rust Personal Tartan example sett](/variants/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/">Rust (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><img src="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/sett.png" alt="Rust (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Monarch of Argyll (Fashion)](/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6/)|
-|![Monarch of Argyll (Fashion) example sett](/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/">Monarch of Argyll (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><img src="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/sett.png" alt="Monarch of Argyll (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

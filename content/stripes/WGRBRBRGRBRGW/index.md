@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Robertson 1820 - White line](/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/)|
-|![Robertson 1820 - White line example sett](/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/">Robertson 1820 - White line</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><img src="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/sett.png" alt="Robertson 1820 - White line sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Crieff Red Dress (Dance)](/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4ri2~x2/)|
-|![Crieff Red Dress (Dance) example sett](/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4ri2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/">Crieff Red Dress (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/"><img src="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/sett.png" alt="Crieff Red Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

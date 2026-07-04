@@ -22,11 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Laurie](/variants/s7/dp6r2dp1dg25db16k2db4~x2/)|
-|![Laurie example sett](/variants/s7/dp6r2dp1dg25db16k2db4~x2/sett.png)|
-| [Laurie Clan Tartan](/variants/s7/dp6r2dp1g25db16k2db4~x2/)|
-|![Laurie Clan Tartan example sett](/variants/s7/dp6r2dp1g25db16k2db4~x2/sett.png)|
-| [Lawrie Clan Tartan](/variants/s7/dp6o2dp1g25db16k2db4~x2/)|
-|![Lawrie Clan Tartan example sett](/variants/s7/dp6o2dp1g25db16k2db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/">Laurie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><img src="/variants/s7/dp6r2dp1dg25db16k2db4~x2/sett.png" alt="Laurie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/">Laurie Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><img src="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/sett.png" alt="Laurie Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

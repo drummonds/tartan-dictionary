@@ -22,9 +22,19 @@ It is a 2 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [English Kilt (Fashion)](/variants/s2/w10r3~x10/)|
-|![English Kilt (Fashion) example sett](/variants/s2/w10r3~x10/sett.png)|
-| [Spare](/setts/r1w1/)|
-|![Spare example sett](/variants/s2/r1w1~x5/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s2/w10r3~x10/">English Kilt (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/w10r3~x10/"><img src="/variants/s2/w10r3~x10/sett.png" alt="English Kilt (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r1w1/">Spare</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r1w1/"><img src="/variants/s2/r1w1~x5/sett.png" alt="Spare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s2/r3lb1~x14/">Wilson's No.138</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/r3lb1~x14/"><img src="/variants/s2/r3lb1~x14/sett.png" alt="Wilson's No.138 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

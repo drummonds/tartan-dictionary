@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Norwich No.030](/variants/s6/db33g3r1~x2/)|
-|![Norwich No.030 example sett](/variants/s6/db33g3r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/db33g3r1~x2~db1406275-r2109032/">Norwich No.030</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/db33g3r1~x2~db1406275-r2109032/"><img src="/variants/s3/db33g3r1~x2~db1406275-r2109032/sett.png" alt="Norwich No.030 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

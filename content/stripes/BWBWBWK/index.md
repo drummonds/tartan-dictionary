@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Queen Margaret University (Corporate](/variants/s7/k1w3db2w4db8w1db1~x6/)|
-|![Queen Margaret University (Corporate example sett](/variants/s7/k1w3db2w4db8w1db1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k1w3db2w4db8w1db1~x6/">Queen Margaret University (Corporate</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k1w3db2w4db8w1db1~x6/"><img src="/variants/s7/k1w3db2w4db8w1db1~x6/sett.png" alt="Queen Margaret University (Corporate sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

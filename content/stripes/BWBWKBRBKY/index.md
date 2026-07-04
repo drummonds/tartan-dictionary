@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gillies Dress Blue](/variants/s10/lo12k3b24r12b24k32w44b4w8b4/)|
-|![Gillies Dress Blue example sett](/variants/s10/lo12k3b24r12b24k32w44b4w8b4/sett.png)|
-| [Gillies, dress Blue](/variants/s10/ly6k2t15r5t9k13w25db2w3db2~x2/)|
-|![Gillies, dress Blue example sett](/variants/s10/ly6k2t15r5t9k13w25db2w3db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/">Gillies Dress Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><img src="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/sett.png" alt="Gillies Dress Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

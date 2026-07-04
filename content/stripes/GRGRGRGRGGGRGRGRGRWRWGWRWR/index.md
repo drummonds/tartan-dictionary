@@ -22,7 +22,14 @@ It is a 26 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Maple Leaf, dress](/variants/s26/dg1r6g5r6dg1r1dg9o3dg3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/)|
-|![Maple Leaf, dress example sett](/variants/s26/dg1r6g5r6dg1r1dg9o3dg3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/">Maple Leaf, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/"><img src="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/sett.png" alt="Maple Leaf, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

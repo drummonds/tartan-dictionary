@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bird Family (Australia) (Name)](/variants/s9/w3b19w1lb17ly11g10w1b3w1~x2/)|
-|![Bird Family (Australia) (Name) example sett](/variants/s9/w3b19w1lb17ly11g10w1b3w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w3t19w1lb17ly11g10w1t3w1~x2/">Bird Family (Australia) (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w3t19w1lb17ly11g10w1t3w1~x2/"><img src="/variants/s9/w3t19w1lb17ly11g10w1t3w1~x2/sett.png" alt="Bird Family (Australia) (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pride of the Highlands (Fashion)](/variants/s10/dp7lb2dp28k7dp3lo2dp2g2dp13r2~x2/)|
-|![Pride of the Highlands (Fashion) example sett](/variants/s10/dp7lb2dp28k7dp3lo2dp2g2dp13r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/">Pride of the Highlands (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/"><img src="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/sett.png" alt="Pride of the Highlands (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

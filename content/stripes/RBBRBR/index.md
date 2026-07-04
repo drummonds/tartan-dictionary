@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dege, of Saville Row](/variants/s6/o11dbi1o3db1dbi9r1~x4/)|
-|![Dege, of Saville Row example sett](/variants/s6/o11dbi1o3db1dbi9r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/">Dege, of Saville Row</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><img src="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/sett.png" alt="Dege, of Saville Row sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lions International](/variants/s20/b60lbi2k2b2lo2b10lb3lo12b10k2lbi5b5lb2lbi2lb2b5lbi4b4k4lb8/)|
-|![Lions International example sett](/variants/s20/b60lbi2k2b2lo2b10lb3lo12b10k2lbi5b5lb2lbi2lb2b5lbi4b4k4lb8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s20/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8~lb3103284-lbi3200000/">Lions International</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s20/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8~lb3103284-lbi3200000/"><img src="/variants/s20/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8~lb3103284-lbi3200000/sett.png" alt="Lions International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

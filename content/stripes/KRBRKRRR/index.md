@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bannockbane Navy Fashion Tartan](/variants/s8/k3m2db30m1k18o30m2o3~x2/)|
-|![Bannockbane Navy Fashion Tartan example sett](/variants/s8/k3m2db30m1k18o30m2o3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/">Bannockbane Navy Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><img src="/variants/s8/k3r2db30r1k18o30r2o3~x2/sett.png" alt="Bannockbane Navy Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

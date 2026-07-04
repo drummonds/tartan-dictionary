@@ -22,19 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Abercrombie (Wilsons No 2/64)](/variants/s7/k6dg6ly1dg6k6dp6k1~x4/)|
-|![Abercrombie (Wilsons No 2/64) example sett](/variants/s7/k6dg6ly1dg6k6dp6k1~x4/sett.png)|
-| [Abercrombie, (Wilson's No 64)](/variants/s7/k6g6ly1g6k6p6k1~x4/)|
-|![Abercrombie, (Wilson's No 64) example sett](/variants/s7/k6g6ly1g6k6p6k1~x4/sett.png)|
-| [Campbell Breadalbane](/setts/k9dg9ly2dg9k9db9k3/)|
-|![Campbell Breadalbane example sett](/variants/s7/k9dg9ly2dg9k9db9k3/sett.png)|
-| [Campbell of Breadalbane (Clan)](/variants/s7/k9g9ly2g9k9db9k3~x2/)|
-|![Campbell of Breadalbane (Clan) example sett](/variants/s7/k9g9ly2g9k9db9k3~x2/sett.png)|
-| [Graham of Montrose](/variants/s7/k4dg4lr1dg4k4db4k1~x2/)|
-|![Graham of Montrose example sett](/variants/s7/k4dg4lr1dg4k4db4k1~x2/sett.png)|
-| [MacKay Coat](/variants/s7/k4dg4ly1dg4k4db4k1~x2/)|
-|![MacKay Coat example sett](/variants/s7/k4dg4ly1dg4k4db4k1~x2/sett.png)|
-| [MacKay, Coat](/variants/s7/k4g4ly1g4k4db4k1~x2/)|
-|![MacKay, Coat example sett](/variants/s7/k4g4ly1g4k4db4k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/">Campbell of Breadalbane (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/"><img src="/variants/s7/k9g9ly2g9k9db9k3~x2/sett.png" alt="Campbell of Breadalbane (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

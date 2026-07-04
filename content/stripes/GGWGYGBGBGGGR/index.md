@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hash House Harriers Hunting (Corp)](/variants/s13/g7dy1lb1dy1lo1dy7n7dy1n7dy7g7dy1r1~x4/)|
-|![Hash House Harriers Hunting (Corp) example sett](/variants/s13/g7dy1lb1dy1lo1dy7n7dy1n7dy7g7dy1r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1/">Hash House Harriers Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1/"><img src="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/sett.png" alt="Hash House Harriers Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

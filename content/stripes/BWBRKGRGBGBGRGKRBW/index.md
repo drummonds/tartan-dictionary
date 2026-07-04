@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scotland the Brave](/variants/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/)|
-|![Scotland the Brave example sett](/variants/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2~db1204274-dg1605139/">Scotland the Brave</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2~db1204274-dg1605139/"><img src="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2~db1204274-dg1605139/sett.png" alt="Scotland the Brave sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

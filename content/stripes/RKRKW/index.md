@@ -22,15 +22,20 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bodog.com](/variants/s5/r3k25r25k10lb3~x2/)|
-|![Bodog.com example sett](/variants/s5/r3k25r25k10lb3~x2/sett.png)|
-| [Hopkins (Name)](/variants/s5/r36k18r4k7w2~x2/)|
-|![Hopkins (Name) example sett](/variants/s5/r36k18r4k7w2~x2/sett.png)|
-| [MacGregor, Black (Personal)](/variants/s5/r41k19r7k9w3~x2/)|
-|![MacGregor, Black (Personal) example sett](/variants/s5/r41k19r7k9w3~x2/sett.png)|
-| [Masai Shuka 15 (Artefact)](/variants/s5/r20k2r2k15w1~x2/)|
-|![Masai Shuka 15 (Artefact) example sett](/variants/s5/r20k2r2k15w1~x2/sett.png)|
-| [Turner (Personal)](/variants/s5/r48k12o7k5w3~x2/)|
-|![Turner (Personal) example sett](/variants/s5/r48k12o7k5w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r3k25r25k10lb3~x2/">Bodog.com</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r3k25r25k10lb3~x2/"><img src="/variants/s5/r3k25r25k10lb3~x2/sett.png" alt="Bodog.com sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r36k18r4k7w2~x2/">Hopkins (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r36k18r4k7w2~x2/"><img src="/variants/s5/r36k18r4k7w2~x2/sett.png" alt="Hopkins (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r41k19r7k9w3~x2/">MacGregor, Black (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r41k19r7k9w3~x2/"><img src="/variants/s5/r41k19r7k9w3~x2/sett.png" alt="MacGregor, Black (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r20k2r2k15w1~x2/">Masai Shuka 15 (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r20k2r2k15w1~x2/"><img src="/variants/s5/r20k2r2k15w1~x2/sett.png" alt="Masai Shuka 15 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

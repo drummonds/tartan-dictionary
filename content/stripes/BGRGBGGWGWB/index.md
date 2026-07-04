@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Nance (2002)](/variants/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/)|
-|![Nance (2002) example sett](/variants/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dp52g14o2dg3dp2dg3g6lb6dg2lb6dp2~x2~g1903114-dg1806142/">Nance (2002)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dp52g14o2dg3dp2dg3g6lb6dg2lb6dp2~x2~g1903114-dg1806142/"><img src="/variants/s11/dp52g14o2dg3dp2dg3g6lb6dg2lb6dp2~x2~g1903114-dg1806142/sett.png" alt="Nance (2002) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

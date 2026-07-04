@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cooper/Couper (James Cant)](/variants/s18/r2m3db2g18db3g2db3k10m3g2m3g8db2k2db14m3db2r2~x2/)|
-|![Cooper/Couper (James Cant) example sett](/variants/s18/r2m3db2g18db3g2db3k10m3g2m3g8db2k2db14m3db2r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2/">Cooper (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2/"><img src="/variants/s18/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2~x2~db1204274/sett.png" alt="Cooper (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

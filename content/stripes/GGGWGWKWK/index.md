@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burns Heritage Check](/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/)|
-|![Burns Heritage Check example sett](/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k6w6k6w6g7w4dy3g2dy3/">Burns Heritage Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k6w6k6w6g7w4dy3g2dy3/"><img src="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g2203152/sett.png" alt="Burns Heritage Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

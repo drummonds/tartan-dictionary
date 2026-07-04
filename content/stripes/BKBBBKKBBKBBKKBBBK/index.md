@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hughes (USA) (Personal)](/variants/s18/ki12db3b4db3ki3k36db3b2k3b2db3k36ki3db3b4db3ki12b4~x2/)|
-|![Hughes (USA) (Personal) example sett](/variants/s18/ki12db3b4db3ki3k36db3b2k3b2db3k36ki3db3b4db3ki12b4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/">Hughes (USA) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/"><img src="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/sett.png" alt="Hughes (USA) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

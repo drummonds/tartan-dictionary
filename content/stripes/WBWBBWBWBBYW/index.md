@@ -22,7 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Akashi](/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/)|
-|![Akashi example sett](/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5~b2008266-db1004274/">Akashi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5~b2008266-db1004274/"><img src="/variants/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5~b2008266-db1004274/sett.png" alt="Akashi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/">Akashi</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/"><img src="/variants/s12/w8t8w4t64db6lb6t4lb6db10t30lo2w5/sett.png" alt="Akashi sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

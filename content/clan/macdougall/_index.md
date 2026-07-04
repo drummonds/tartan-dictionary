@@ -6,9 +6,9 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3~x2/"><img src="/variants/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3~x2/sett.png" alt="MacDougall" width="240"><br>MacDougall</a>
+<a class="tartan" href="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/"><img src="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/sett.png" alt="MacDougall of MacDougall" width="240"><br>MacDougall of MacDougall</a>
 
 ## Families
 
-- [MacDougall of MacDougall](/families/macdougall-of-macdougall/)
+- [MacDougall, of MacDougall](/families/macdougall-of-macdougall/)
 

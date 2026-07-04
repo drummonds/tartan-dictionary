@@ -22,11 +22,17 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacInroy](/setts/k1g3k3r1db3r1db1r3g1k1/)|
-|![MacInroy example sett](/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/sett.png)|
-| [MacInroy](/variants/s10/k1dg3k3r1db3r1db1r3dg1k1~x4/)|
-|![MacInroy example sett](/variants/s10/k1dg3k3r1db3r1db1r3dg1k1~x4/sett.png)|
-| [MacInroy Clan Tartan](/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/)|
-|![MacInroy Clan Tartan example sett](/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k1g3k3r1db3r1db1r3g1k1/">MacInroy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k1g3k3r1db3r1db1r3g1k1/"><img src="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/sett.png" alt="MacInroy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/">MacInroy Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><img src="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/sett.png" alt="MacInroy Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

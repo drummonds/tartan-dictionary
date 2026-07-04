@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Carnegie](/variants/s8/r33g17db50g17r11g17r9k7/)|
-|![Carnegie example sett](/variants/s8/r33g17db50g17r11g17r9k7/sett.png)|
-| [Carnegie #3](/variants/s8/r33dg17db50dg17r11dg17r9k7/)|
-|![Carnegie #3 example sett](/variants/s8/r33dg17db50dg17r11dg17r9k7/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r33g17db50g17r11g17r9k7/">Carnegie #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r33g17db50g17r11g17r9k7/"><img src="/variants/s8/r33g17db50g17r11g17r9k7/sett.png" alt="Carnegie #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

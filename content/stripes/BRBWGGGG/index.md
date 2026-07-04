@@ -22,7 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ayrshire](/variants/s8/db2r1db10w1y4g8g1g2~x4/)|
-|![Ayrshire example sett](/variants/s8/db2r1db10w1y4g8g1g2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/">Ayrshire District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><img src="/variants/s8/db2r1db10w1dy4g8y1g2~x4/sett.png" alt="Ayrshire District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/">Yorkland (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/t36r2t4w1dy14g4y2g18~x2/"><img src="/variants/s8/t36r2t4w1dy14g4y2g18~x2/sett.png" alt="Yorkland (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

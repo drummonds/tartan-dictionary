@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><img src="/variants/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/sett.png" alt="MacLean" width="240"><br>MacLean</a>
+<a class="tartan" href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><img src="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/sett.png" alt="MacLean" width="240"><br>MacLean</a>
 
 ## Families
 

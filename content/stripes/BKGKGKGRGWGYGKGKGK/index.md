@@ -22,11 +22,16 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lorne - Marquis of (Personal)](/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/)|
-|![Lorne - Marquis of (Personal) example sett](/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/sett.png)|
-| [Lorne Asymmetric (Artefact)](/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/)|
-|![Lorne Asymmetric (Artefact) example sett](/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/sett.png)|
-| [Lorne, Marquis of](/variants/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/)|
-|![Lorne, Marquis of example sett](/variants/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/">Lorne - Marquis of (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3n3~x2~n2203265/sett.png" alt="Lorne - Marquis of (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/">Lorne Asymmetric (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/"><img src="/variants/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/sett.png" alt="Lorne Asymmetric (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

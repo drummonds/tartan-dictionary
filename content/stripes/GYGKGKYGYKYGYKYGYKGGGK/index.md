@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Int. College of Dentists (Canada)](/variants/s22/g6lo6g1k15g2k2loi2g2loi2k2loi2g2loi2k2loi2g2loi2k2g2dg15g1k2~x2/)|
-|![Int. College of Dentists (Canada) example sett](/variants/s22/g6lo6g1k15g2k2loi2g2loi2k2loi2g2loi2k2loi2g2loi2k2g2dg15g1k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/g6lyi6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2~lyi2705081-ly2503076/">Int. College of Dentists (Canada)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/g6lyi6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2~lyi2705081-ly2503076/"><img src="/variants/s22/g6lyi6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2~lyi2705081-ly2503076/sett.png" alt="Int. College of Dentists (Canada) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lorne, Louise of](/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/)|
-|![Lorne, Louise of example sett](/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/sett.png)|
-| [Princess Louise](/variants/s15/g8k4b28k5b5k5b5k24g5k5g5k5g39r5b8/)|
-|![Princess Louise example sett](/variants/s15/g8k4b28k5b5k5b5k24g5k5g5k5g39r5b8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/">Lorne, Louise of</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><img src="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/sett.png" alt="Lorne, Louise of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/">Princess Louise</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"><img src="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/sett.png" alt="Princess Louise sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

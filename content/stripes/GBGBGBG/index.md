@@ -22,9 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Blackwood (Corporate)](/variants/s7/dg5db1dg5dp1g5dbi1dg5~x2/)|
-|![Blackwood (Corporate) example sett](/variants/s7/dg5db1dg5dp1g5dbi1dg5~x2/sett.png)|
-| [Blackwood (Loch Wood)](/variants/s7/gi5db1g5dp1gi5b1gi5~x4/)|
-|![Blackwood (Loch Wood) example sett](/variants/s7/gi5db1g5dp1gi5b1gi5~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/">Blackwood (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/"><img src="/variants/s7/dg5db1g5dp1dg5dbi1dg5~x2~db1004274-dbi1406275/sett.png" alt="Blackwood (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/">Blackwood (Loch Wood)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/"><img src="/variants/s7/dg5db1g5dp1dg5b1dg5~x4~db1108266-b2208266/sett.png" alt="Blackwood (Loch Wood) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

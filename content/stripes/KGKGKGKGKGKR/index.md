@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Walker, hunting](/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2/)|
-|![Walker, hunting example sett](/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/">Walker, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><img src="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/sett.png" alt="Walker, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

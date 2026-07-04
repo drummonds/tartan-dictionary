@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Orlando Police Department (Corporate](/variants/s9/db12ly1t16db1t1db14t3db14ly1~x4/)|
-|![Orlando Police Department (Corporate example sett](/variants/s9/db12ly1t16db1t1db14t3db14ly1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/">Calum's Cabin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/"><img src="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/sett.png" alt="Calum's Cabin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

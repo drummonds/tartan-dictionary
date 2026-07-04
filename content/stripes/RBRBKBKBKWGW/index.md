@@ -22,9 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sutherland Dress, Old (Dance)](/variants/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/)|
-|![Sutherland Dress, Old (Dance) example sett](/variants/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/sett.png)|
-| [Sutherland, Dress](/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/)|
-|![Sutherland, Dress example sett](/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/">Sutherland Dress, Old (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><img src="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/sett.png" alt="Sutherland Dress, Old (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/">Sutherland, Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><img src="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/sett.png" alt="Sutherland, Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

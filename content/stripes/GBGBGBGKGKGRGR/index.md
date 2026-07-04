@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ross Hunting](/variants/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/)|
-|![Ross Hunting example sett](/variants/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/sett.png)|
-| [Ross, hunting](/variants/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/)|
-|![Ross, hunting example sett](/variants/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/g2b4g2b1g1b1g3k2g2k2g12r1g2r1~x2/">Ross, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/g2b4g2b1g1b1g3k2g2k2g12r1g2r1~x2/"><img src="/variants/s14/g2b4g2b1g1b1g3k2g2k2g12r1g2r1~x2/sett.png" alt="Ross, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edgar-Feyen](/variants/s6/w18k1db4g4p10lo2~x4/)|
-|![Edgar-Feyen example sett](/variants/s6/w18k1db4g4p10lo2~x4/sett.png)|
-| [Edgar-Feyen (Personal)](/variants/s6/w18k1db4g4dp10lo2~x4/)|
-|![Edgar-Feyen (Personal) example sett](/variants/s6/w18k1db4g4dp10lo2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/w18k1db4g4dp10lo2~x4/">Edgar-Feyen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><img src="/variants/s6/w18k1db4g4dp10lo2~x4/sett.png" alt="Edgar-Feyen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

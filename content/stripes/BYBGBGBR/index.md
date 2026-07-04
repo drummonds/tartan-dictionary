@@ -22,9 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Leighton (Personal)](/variants/s8/dr20lo4dr20g35do20dy16dr28r8/)|
-|![Leighton (Personal) example sett](/variants/s8/dr20lo4dr20g35do20dy16dr28r8/sett.png)|
-| [Leighton (Personal)](/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4/)|
-|![Leighton (Personal) example sett](/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/">Leighton (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/"><img src="/variants/s8/dr20lo4dr20g35do20dy16dr28r8~dr1305012-r1606028/sett.png" alt="Leighton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/">Leighton (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/"><img src="/variants/s8/dr5lo1dr5g9do5dy4dr7r2~x4~dr1305012-r1606028/sett.png" alt="Leighton (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

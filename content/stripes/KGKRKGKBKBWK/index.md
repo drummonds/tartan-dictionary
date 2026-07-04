@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Naomia Melvina Young Wedding Dress](/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k2~x2/)|
-|![Naomia Melvina Young Wedding Dress example sett](/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k2~x2/sett.png)|
-| [Young, Melvina (Artefact)](/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/)|
-|![Young, Melvina (Artefact) example sett](/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k4w1db26k5db5k32g23k2r4k2g13k1/">Young, Melvina</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k4w1db26k5db5k32g23k2r4k2g13k1/"><img src="/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2~g2408144-r2109032/sett.png" alt="Young, Melvina sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

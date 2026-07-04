@@ -22,15 +22,22 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald Lord of the Isles](/variants/s13/dg24w1dg2w2db2w1db1w1db2w2db2w1db12~x2/)|
-|![MacDonald Lord of the Isles example sett](/variants/s13/dg24w1dg2w2db2w1db1w1db2w2db2w1db12~x2/sett.png)|
-| [MacDonald Lord of the Isles Hunting](/variants/s13/dg24lb1dg2lb2db2lb1db12lb1db2lb2db2lb1db12/)|
-|![MacDonald Lord of the Isles Hunting example sett](/variants/s13/dg24lb1dg2lb2db2lb1db12lb1db2lb2db2lb1db12/sett.png)|
-| [MacDonald Lord of the Isles Portrait Tartan](/variants/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/)|
-|![MacDonald Lord of the Isles Portrait Tartan example sett](/variants/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/sett.png)|
-| [MacDonald, Lord of the Isles](/variants/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/)|
-|![MacDonald, Lord of the Isles example sett](/variants/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/sett.png)|
-| [MacDonald, Lord of the Isles Hunting #2](/variants/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/)|
-|![MacDonald, Lord of the Isles Hunting #2 example sett](/variants/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/">MacDonald Lord of the Isles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/"><img src="/variants/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/sett.png" alt="MacDonald Lord of the Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g24w1g2w2db2w1db12w1db2w2db2w1db12/">MacDonald Lord of the Isles Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g24w1g2w2db2w1db12w1db2w2db2w1db12/"><img src="/variants/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12/sett.png" alt="MacDonald Lord of the Isles Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/">Highland Park HS Pipe Band</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/"><img src="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/sett.png" alt="Highland Park HS Pipe Band sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/">MacDonald, Lord of the Isles Hunting #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/"><img src="/variants/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/sett.png" alt="MacDonald, Lord of the Isles Hunting #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

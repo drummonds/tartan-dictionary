@@ -22,9 +22,17 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rathmore](/variants/s12/ri10lbi1ri2n1ri1n1lo1n4lb2r1lb2lo1~x8/)|
-|![Rathmore example sett](/variants/s12/ri10lbi1ri2n1ri1n1lo1n4lb2r1lb2lo1~x8/sett.png)|
-| [Rathmore (Fashion)](/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2/)|
-|![Rathmore (Fashion) example sett](/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2~r2109032-ri2806019/">Rathmore (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2~r2109032-ri2806019/"><img src="/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2~r2109032-ri2806019/sett.png" alt="Rathmore (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/">Rathmore Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><img src="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/sett.png" alt="Rathmore Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Poulter Hoylake](/variants/s13/w35g7w7g7w7g35dt36ly7dt36g35w35g7w7/)|
-|![Poulter Hoylake example sett](/variants/s13/w35g7w7g7w7g35dt36ly7dt36g35w35g7w7/sett.png)|
-| [Poulter Hoylake](/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/)|
-|![Poulter Hoylake example sett](/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/">Poulter Hoylake</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><img src="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/sett.png" alt="Poulter Hoylake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/">Poulter Hoylake</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/"><img src="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/sett.png" alt="Poulter Hoylake sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

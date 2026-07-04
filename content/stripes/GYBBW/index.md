@@ -22,11 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sterling (Name)](/variants/s5/g11lo10dt11b33w3~x2/)|
-|![Sterling (Name) example sett](/variants/s5/g11lo10dt11b33w3~x2/sett.png)|
-| [Sterling, Rob (Florida) (Persona Name Tartan](/variants/s5/g11lo10dp11t33w3~x2/)|
-|![Sterling, Rob (Florida) (Persona Name Tartan example sett](/variants/s5/g11lo10dp11t33w3~x2/sett.png)|
-| [Sterling, Rob (Florida) (Personal)](/variants/s5/g11lo10dp11b33w3~x2/)|
-|![Sterling, Rob (Florida) (Personal) example sett](/variants/s5/g11lo10dp11b33w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/g11ly10db11t33w3~x2/">Sterling (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/g11ly10db11t33w3~x2/"><img src="/variants/s5/g11ly10db11t33w3~x2/sett.png" alt="Sterling (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Gold](/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2/)|
-|![Black Gold example sett](/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2/sett.png)|
-| [Black Gold (Corporate)](/variants/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/)|
-|![Black Gold (Corporate) example sett](/variants/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/">Black Gold</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/"><img src="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/sett.png" alt="Black Gold sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/dy3k3dy3k18db28w1dg22k2dy2~x2/">Black Gold (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dy3k3dy3k18db28w1dg22k2dy2~x2/"><img src="/variants/s9/dy3k3dy3k18db28w1dg22k2dy2~x2/sett.png" alt="Black Gold (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

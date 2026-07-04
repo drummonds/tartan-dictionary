@@ -22,7 +22,14 @@ It is a 19 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Na Fir Dileas](/variants/s19/n15m39y15m7n39m4y4m39y4m4y4m39y4m4n39m7y15m39n14/)|
-|![Na Fir Dileas example sett](/variants/s19/n15m39y15m7n39m4y4m39y4m4y4m39y4m4n39m7y15m39n14/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s19/db15r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/">Na Fir Dileas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s19/db15r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"><img src="/variants/s19/db15r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/sett.png" alt="Na Fir Dileas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

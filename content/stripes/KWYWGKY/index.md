@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black & White Golf (Corporate)](/variants/s7/lo9k32g6lb20lo3lb9k5~x2/)|
-|![Black & White Golf (Corporate) example sett](/variants/s7/lo9k32g6lb20lo3lb9k5~x2/sett.png)|
-| [Black and White Golf](/variants/s7/ly9k32g6w20ly3w9k5~x2/)|
-|![Black and White Golf example sett](/variants/s7/ly9k32g6w20ly3w9k5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/">Black &amp; White Golf (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><img src="/variants/s7/ly9k32g6w20ly3w9k5~x2/sett.png" alt="Black &amp; White Golf (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

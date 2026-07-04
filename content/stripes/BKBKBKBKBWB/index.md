@@ -22,11 +22,17 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bute Heather, Midnight](/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10/)|
-|![Bute Heather, Midnight example sett](/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10/sett.png)|
-| [Bute Heather, Midnight (Fashion)](/variants/s11/ni12lp3n36k10n8k8n16k2n16k4ni10/)|
-|![Bute Heather, Midnight (Fashion) example sett](/variants/s11/ni12lp3n36k10n8k8n16k2n16k4ni10/sett.png)|
-| [Dunn #2](/variants/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2/)|
-|![Dunn #2 example sett](/variants/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10~do1400000/">Bute Heather, Midnight</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10~do1400000/"><img src="/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10~do1400000/sett.png" alt="Bute Heather, Midnight sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2~db1106275-dt1001300/">Dunn #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2~db1106275-dt1001300/"><img src="/variants/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2~db1106275-dt1001300/sett.png" alt="Dunn #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

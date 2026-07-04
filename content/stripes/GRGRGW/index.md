@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dewi Sant](/variants/s6/dg30r2dg8r1dg5w2/)|
-|![Dewi Sant example sett](/variants/s6/dg30r2dg8r1dg5w2/sett.png)|
-| [St. David's Welsh District Tartan](/variants/s6/dg60r2dg8r1dg5w2/)|
-|![St. David's Welsh District Tartan example sett](/variants/s6/dg60r2dg8r1dg5w2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dg60r2dg8r1dg5w2/">St. David's (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dg60r2dg8r1dg5w2/"><img src="/variants/s6/dg60r2dg8r1dg5w2/sett.png" alt="St. David's (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

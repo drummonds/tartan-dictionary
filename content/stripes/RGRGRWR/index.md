@@ -22,15 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Crawford](/variants/s7/r6lb2r30dg12r3dg12r3/)|
-|![Crawford example sett](/variants/s7/r6lb2r30dg12r3dg12r3/sett.png)|
-| [Crawford](/variants/s7/r6w2r30g12r3g12r3~x2/)|
-|![Crawford example sett](/variants/s7/r6w2r30g12r3g12r3~x2/sett.png)|
-| [Crawford](/variants/s7/m6lb2m30g12m3g12m3~x2/)|
-|![Crawford example sett](/variants/s7/m6lb2m30g12m3g12m3~x2/sett.png)|
-| [Crawford (Clan)](/variants/s7/m6w2m30g12m3g12m3~x2/)|
-|![Crawford (Clan) example sett](/variants/s7/m6w2m30g12m3g12m3~x2/sett.png)|
-| [Wasko (Personal)](/variants/s7/r8w2m30g12m3g12m3~x2/)|
-|![Wasko (Personal) example sett](/variants/s7/r8w2m30g12m3g12m3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/">Crawford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><img src="/variants/s7/r6lb2r30g12r3g12r3~x2/sett.png" alt="Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r6w2r30g12r3g12r3/">Crawford</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r6w2r30g12r3g12r3/"><img src="/variants/s7/r6w2r30g12r3g12r3/sett.png" alt="Crawford sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

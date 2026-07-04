@@ -22,13 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Norwich No.077](/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/)|
-|![Norwich No.077 example sett](/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/sett.png)|
-| [Unidentified #33](/variants/s9/dg2r3dg4w1dg1ly1dg4r3dg2~x2/)|
-|![Unidentified #33 example sett](/variants/s9/dg2r3dg4w1dg1ly1dg4r3dg2~x2/sett.png)|
-| [Unnamed 7](/variants/s9/g2r3g4w1g1ly1g4r3g2~x2/)|
-|![Unnamed 7 example sett](/variants/s9/g2r3g4w1g1ly1g4r3g2~x2/sett.png)|
-| [Wilson's, No 169](/variants/s9/g5r9g10w2g2ly2g10r9g5~x2/)|
-|![Wilson's, No 169 example sett](/variants/s9/g5r9g10w2g2ly2g10r9g5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/">Norwich No.077</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><img src="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/sett.png" alt="Norwich No.077 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

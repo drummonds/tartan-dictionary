@@ -1,16 +1,5 @@
 ---
 title: "Montrose"
-date: 2023-03-18
+redirect: "/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"
 ---
-The **Montrose** tartan is one sett proportion (`db1k1r12g12k6db5r12k1db1`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKRBKGRKB](/stripes/bkrbkgrkb/); each scale below is its own sett page. First attested **1986**
-— its oldest sett (★) anchors the tartan as the parent.
-
-Part of the [Montrose](/tartans/montrose/) tartan — the named design grouping this proportion with its other setts.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×4 | [Montrose (Macnaughton variation)](/variants/s9/db1k1r12g12k6db5r12k1db1~x4/) ★ | 1986 | ![Montrose (Macnaughton variation) sett](/variants/s9/db1k1r12g12k6db5r12k1db1~x4/sett.png) |
-| ×2 | [Montrose](/variants/s9/db1k1r12g12k6db5r12k1db1~x2/) | ~2016 | ![Montrose sett](/variants/s9/db1k1r12g12k6db5r12k1db1~x2/sett.png) |
+This sett is recorded as a single cloth — redirecting to [Montrose](/variants/s9/db1k1r12g12k6db5r12k1db1~x2/).

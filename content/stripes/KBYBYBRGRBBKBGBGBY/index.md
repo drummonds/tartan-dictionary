@@ -22,11 +22,16 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Harmon of Plenderleith (Personal)](/variants/s18/k2t6ly2t2ly2t19r2g2r2t2db4k2db11g2db2g2db6ly2~x2/)|
-|![Harmon of Plenderleith (Personal) example sett](/variants/s18/k2t6ly2t2ly2t19r2g2r2t2db4k2db11g2db2g2db6ly2~x2/sett.png)|
-| [Harmon of Plenderleith (Personal)](/variants/s18/k2db6lo2db2lo2db19r2y2r2db2dt4k2dt11y2dt2y2dt6lo2~x2/)|
-|![Harmon of Plenderleith (Personal) example sett](/variants/s18/k2db6lo2db2lo2db19r2y2r2db2dt4k2dt11y2dt2y2dt6lo2~x2/sett.png)|
-| [Harmon of Plenderleith Personal Tartan](/variants/s18/k2t6lo2t2lo2t19r2y2r2t2dt4k2dt11y2dt2y2dt6lo2~x2/)|
-|![Harmon of Plenderleith Personal Tartan example sett](/variants/s18/k2t6lo2t2lo2t19r2y2r2t2dt4k2dt11y2dt2y2dt6lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/">Harmon of Plenderleith (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/"><img src="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/sett.png" alt="Harmon of Plenderleith (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/">Harmon of Plenderleith Personal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/"><img src="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/sett.png" alt="Harmon of Plenderleith Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

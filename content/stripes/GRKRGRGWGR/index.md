@@ -22,11 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scott](/variants/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/)|
-|![Scott example sett](/variants/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/sett.png)|
-| [Scott - 1842 (Clan)](/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/)|
-|![Scott - 1842 (Clan) example sett](/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/sett.png)|
-| [Scott Red Clan Tartan](/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/)|
-|![Scott Red Clan Tartan example sett](/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/">Scott - 1842 (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/sett.png" alt="Scott - 1842 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/">Scott Red Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><img src="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/sett.png" alt="Scott Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

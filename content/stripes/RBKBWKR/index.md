@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Yusra Personal Tartan](/variants/s7/r12k3w14dt10k2dt24r2~x2/)|
-|![Yusra Personal Tartan example sett](/variants/s7/r12k3w14dt10k2dt24r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/">Yusra Personal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><img src="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/sett.png" alt="Yusra Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

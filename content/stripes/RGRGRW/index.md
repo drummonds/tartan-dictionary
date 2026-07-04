@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Al-Maktoum](/variants/s6/w11r32g12r5g12r5~x2/)|
-|![Al-Maktoum example sett](/variants/s6/w11r32g12r5g12r5~x2/sett.png)|
-| [Makhtoum](/variants/s6/w11r40g13r5g12r5~x2/)|
-|![Makhtoum example sett](/variants/s6/w11r40g13r5g12r5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/w11r32g12r5g12r5~x2/">Al-Maktoum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w11r32g12r5g12r5~x2/"><img src="/variants/s6/w11r32g12r5g12r5~x2/sett.png" alt="Al-Maktoum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/w11r40g13r5g12r5~x2/">Makhtoum</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/w11r40g13r5g12r5~x2/"><img src="/variants/s6/w11r40g13r5g12r5~x2/sett.png" alt="Makhtoum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

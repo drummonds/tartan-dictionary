@@ -22,11 +22,17 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sutherland](/variants/s13/t11db1t1db1t1db8g8db1g8db8t8db1t1~x2/)|
-|![Sutherland example sett](/variants/s13/t11db1t1db1t1db8g8db1g8db8t8db1t1~x2/sett.png)|
-| [Sutherland #3](/variants/s13/t11db1t1db1t1db8dg8db1dg8db8t8db1t1~x2/)|
-|![Sutherland #3 example sett](/variants/s13/t11db1t1db1t1db8dg8db1dg8db8t8db1t1~x2/sett.png)|
-| [Tyneside Scottish District Tartan](/variants/s13/db11dr1db1dr1db1dr8g8dr1g8dr8db8dr1db1~x2/)|
-|![Tyneside Scottish District Tartan example sett](/variants/s13/db11dr1db1dr1db1dr8g8dr1g8dr8db8dr1db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/">Scottish Scouts</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/"><img src="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/sett.png" alt="Scottish Scouts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/">Tyneside Scottish District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><img src="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/sett.png" alt="Tyneside Scottish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

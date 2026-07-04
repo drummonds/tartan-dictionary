@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edinburgh & Lothian T.B. (Corporate)](/variants/s7/dbi40db8lo3db6k3db6r4~x2/)|
-|![Edinburgh & Lothian T.B. (Corporate) example sett](/variants/s7/dbi40db8lo3db6k3db6r4~x2/sett.png)|
-| [Milne-Murtaugh (Personal)](/variants/s7/r5t2k30n26ly2n2db4~x2/)|
-|![Milne-Murtaugh (Personal) example sett](/variants/s7/r5t2k30n26ly2n2db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/">Edinburgh &amp; Lothian T.B. (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/"><img src="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/sett.png" alt="Edinburgh &amp; Lothian T.B. (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

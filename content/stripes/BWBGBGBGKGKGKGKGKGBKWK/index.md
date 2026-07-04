@@ -22,9 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wilson-Blyth](/variants/s22/db22lb2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6lb2k15~x2/)|
-|![Wilson-Blyth example sett](/variants/s22/db22lb2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6lb2k15~x2/sett.png)|
-| [Wilson-Blyth Name Tartan](/variants/s22/dt22lb2dt3dg3dt3dg3dt3dg21k3dg3k3dg3k3dg3k3dg21k15dg3dt3k6lb2k15~x2/)|
-|![Wilson-Blyth Name Tartan example sett](/variants/s22/dt22lb2dt3dg3dt3dg3dt3dg21k3dg3k3dg3k3dg3k3dg21k15dg3dt3k6lb2k15~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/">Wilson-Blyth</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/"><img src="/variants/s22/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/sett.png" alt="Wilson-Blyth sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

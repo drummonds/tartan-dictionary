@@ -22,9 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burberry Hunting](/variants/s5/k3w3k3y10r1~x6/)|
-|![Burberry Hunting example sett](/variants/s5/k3w3k3y10r1~x6/sett.png)|
-| [Oban Grey](/variants/s5/k4w3k4y9r1~x4/)|
-|![Oban Grey example sett](/variants/s5/k4w3k4y9r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k3w3k3y10r1~x6/">(6) Burberry</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k3w3k3y10r1~x6/"><img src="/variants/s5/k3w3k3y10r1~x6/sett.png" alt="(6) Burberry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k3w3k3dg10r1~x6/">Burberry Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k3w3k3dg10r1~x6/"><img src="/variants/s5/k3w3k3dg10r1~x6/sett.png" alt="Burberry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

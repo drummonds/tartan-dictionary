@@ -22,11 +22,19 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Burnett of Leys Htg (Clan)](/variants/s8/ri75db6ri6w2ri6g2ri6r2~x2/)|
-|![Burnett of Leys Htg (Clan) example sett](/variants/s8/ri75db6ri6w2ri6g2ri6r2~x2/sett.png)|
-| [Burnett of Leys Hunting](/variants/s8/ri92db10ri8w3ri8g4ri8r4~x2/)|
-|![Burnett of Leys Hunting example sett](/variants/s8/ri92db10ri8w3ri8g4ri8r4~x2/sett.png)|
-| [Burnett, of Leys hunting](/variants/s8/o96db8o8w3o8g3o8r3~x2/)|
-|![Burnett, of Leys hunting example sett](/variants/s8/o96db8o8w3o8g3o8r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/">Burnett of Leys Htg (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/"><img src="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Htg (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/">Burnett of Leys Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><img src="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/sett.png" alt="Burnett of Leys Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/">Burnett, of Leys hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/o96db8o8w3o8g3o8r3~x2/"><img src="/variants/s8/o96db8o8w3o8g3o8r3~x2/sett.png" alt="Burnett, of Leys hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

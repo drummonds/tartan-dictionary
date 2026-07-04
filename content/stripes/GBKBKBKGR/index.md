@@ -22,9 +22,17 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacWilliams Wedding Personal Tartan](/variants/s9/r2g10ki12n1k2n14ki1n1g2~x2/)|
-|![MacWilliams Wedding Personal Tartan example sett](/variants/s9/r2g10ki12n1k2n14ki1n1g2~x2/sett.png)|
-| [McWilliams Wedding (Personal)](/variants/s9/r2g10ki12db1k2db14ki1db1g2~x2/)|
-|![McWilliams Wedding (Personal) example sett](/variants/s9/r2g10ki12db1k2db14ki1db1g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/">MacWilliams Wedding Personal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><img src="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/sett.png" alt="MacWilliams Wedding Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/">McWilliams Wedding (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/"><img src="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/sett.png" alt="McWilliams Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

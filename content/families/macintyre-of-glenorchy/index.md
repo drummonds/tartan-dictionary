@@ -9,10 +9,10 @@ A family of [Clan MacIntyre](/clan/macintyre/).
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1/">MacIntyre of Glenorchy</a> ★</td><td><code>T/4 R4 DB4 R8 G32 R4 DB4 R8 G4 R4 DB32 R8 G4 R4 T/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1/"><img src="/variants/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/sett.png" alt="MacIntyre of Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1/">MacIntyre of Glenorchy</a> ★</td><td><code>LB/4 R4 DB4 R8 G32 R4 DB4 R8 G4 R4 DB32 R8 G4 R4 LB/4</code></td><td>248</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1/"><img src="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/sett.png" alt="MacIntyre of Glenorchy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

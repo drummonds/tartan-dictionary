@@ -22,9 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lee Cox (Personal)](/variants/s17/n3w2r2dp6dg10n3k3n3k3n3dg14n3k3n3k7dg2r3~x2/)|
-|![Lee Cox (Personal) example sett](/variants/s17/n3w2r2dp6dg10n3k3n3k3n3dg14n3k3n3k7dg2r3~x2/sett.png)|
-| [Lee Cox (Personal)](/variants/s17/r3g2k7t3k3t3g14t3k3t3k3t3g10dp6r2w2t3~x2/)|
-|![Lee Cox (Personal) example sett](/variants/s17/r3g2k7t3k3t3g14t3k3t3k3t3g10dp6r2w2t3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/">Lee Cox (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><img src="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/sett.png" alt="Lee Cox (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

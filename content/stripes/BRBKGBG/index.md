@@ -22,11 +22,19 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacTaggart](/variants/s7/dg30db4dg2k20db18r1db4~x2/)|
-|![MacTaggart example sett](/variants/s7/dg30db4dg2k20db18r1db4~x2/sett.png)|
-| [MacTaggert](/variants/s7/g9t2g1k6db6r1db1~x2/)|
-|![MacTaggert example sett](/variants/s7/g9t2g1k6db6r1db1~x2/sett.png)|
-| [MacTaggert](/variants/s7/g30db4g2k20db18r1db4~x2/)|
-|![MacTaggert example sett](/variants/s7/g30db4g2k20db18r1db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/">MacTaggart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/"><img src="/variants/s7/dg30db4dg2k20db18r1db4~x2/sett.png" alt="MacTaggart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/g30db4g2k20db18r1db4~x2/">MacTaggert</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g30db4g2k20db18r1db4~x2/"><img src="/variants/s7/g30db4g2k20db18r1db4~x2/sett.png" alt="MacTaggert sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/db3r2db22k11g24b2g3~x2/">MacThomas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><img src="/variants/s7/db3r2db22k11g24b2g3~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

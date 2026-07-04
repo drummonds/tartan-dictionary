@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [State Seal of Massachusetts Fash)](/variants/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/)|
-|![State Seal of Massachusetts Fash) example sett](/variants/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/">State Seal of Massachusetts Fash)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"><img src="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/sett.png" alt="State Seal of Massachusetts Fash) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

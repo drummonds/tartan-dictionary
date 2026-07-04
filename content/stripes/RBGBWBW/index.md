@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gonzaga University’s True Blue and White](/variants/s7/w6db2w3db2g2db20r1~x2/)|
-|![Gonzaga University’s True Blue and White example sett](/variants/s7/w6db2w3db2g2db20r1~x2/sett.png)|
-| [Ikelman #4 (Personal)](/variants/s7/r10db15g2db2w1db1w1~x4/)|
-|![Ikelman #4 (Personal) example sett](/variants/s7/r10db15g2db2w1db1w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/w6db2w3db2g2db20r1~x2/">Gonzaga University’s True Blue and White</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><img src="/variants/s7/w6db2w3db2g2db20r1~x2/sett.png" alt="Gonzaga University’s True Blue and White sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

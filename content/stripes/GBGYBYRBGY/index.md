@@ -22,9 +22,17 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Antrim Irish County Tartan](/variants/s10/g5dt2g17ly2db5ly2r5db17g2ly4~x2/)|
-|![Antrim Irish County Tartan example sett](/variants/s10/g5dt2g17ly2db5ly2r5db17g2ly4~x2/sett.png)|
-| [Antrim, County](/variants/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/)|
-|![Antrim, County example sett](/variants/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/">Antrim Irish County Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/"><img src="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/sett.png" alt="Antrim Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4~x2/">Antrim, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4~x2/"><img src="/variants/s10/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4~x2/sett.png" alt="Antrim, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

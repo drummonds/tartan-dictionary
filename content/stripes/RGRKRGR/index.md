@@ -22,11 +22,16 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Auld Lang Syne (red) Tartan](/variants/s7/r4g14r5k6r24g2r4~x2/)|
-|![Auld Lang Syne (red) Tartan example sett](/variants/s7/r4g14r5k6r24g2r4~x2/sett.png)|
-| [Maxwell](/variants/s7/r3g16r4k6r28g1r3~x2/)|
-|![Maxwell example sett](/variants/s7/r3g16r4k6r28g1r3~x2/sett.png)|
-| [Maxwell Ancient](/variants/s7/r3dg16r4k6r28dg1r3~x2/)|
-|![Maxwell Ancient example sett](/variants/s7/r3dg16r4k6r28dg1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r4g14r5k6r24g2r4~x2/">Auld Lang Syne (red) Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><img src="/variants/s7/r4g14r5k6r24g2r4~x2/sett.png" alt="Auld Lang Syne (red) Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r3g16r4k6r28g1r3~x2/">Maxwell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r3g16r4k6r28g1r3~x2/"><img src="/variants/s7/r3g16r4k6r28g1r3~x2/sett.png" alt="Maxwell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

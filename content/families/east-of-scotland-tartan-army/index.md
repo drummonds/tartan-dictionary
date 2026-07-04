@@ -9,10 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dt40ly10dt8r20dt100w5/">East of Scotland Tartan Army</a> ★</td><td><code>DT/40 LY10 DT8 R20 DT100 W/5</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dt40ly10dt8r20dt100w5/"><img src="/variants/s6/dt40ly10dt8r20dt100w5/sett.png" alt="East of Scotland Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dt40dy10dt8r20dt100w5/">East of Scotland Tartan Army</a> ★</td><td><code>DT/40 DY10 DT8 R20 DT100 W/5</code></td><td>321</td><td>2005</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dt40dy10dt8r20dt100w5/"><img src="/variants/s6/dt40dy10dt8r20dt100w5/sett.png" alt="East of Scotland Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

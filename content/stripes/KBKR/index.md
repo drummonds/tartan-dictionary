@@ -22,11 +22,14 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Omega Delta Sigma, National Veterans](/variants/s4/k15db40k9o10~x2/)|
-|![Omega Delta Sigma, National Veterans example sett](/variants/s4/k15db40k9o10~x2/sett.png)|
-| [Omega Delta Sigma, National Veterans Fraternity](/variants/s4/k15dt40k9o10~x2/)|
-|![Omega Delta Sigma, National Veterans Fraternity example sett](/variants/s4/k15dt40k9o10~x2/sett.png)|
-| [Wellington Variation](/variants/s4/k3db23k17r2~x2/)|
-|![Wellington Variation example sett](/variants/s4/k3db23k17r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/k3db23k17r2~x2/">Wellington Variation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k3db23k17r2~x2/"><img src="/variants/s4/k3db23k17r2~x2/sett.png" alt="Wellington Variation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

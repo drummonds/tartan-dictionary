@@ -22,15 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Austin (Wilson's No 173)](/variants/s5/dp3k3dp3dg6ly2~x2/)|
-|![Austin (Wilson's No 173) example sett](/variants/s5/dp3k3dp3dg6ly2~x2/sett.png)|
-| [Austin / Wilson's No 173](/variants/s5/p3k3p3g6ly2~x2/)|
-|![Austin / Wilson's No 173 example sett](/variants/s5/p3k3p3g6ly2~x2/sett.png)|
-| [Marshall of Keith (Personal)](/variants/s5/b10k10b10dg26ly5~x2/)|
-|![Marshall of Keith (Personal) example sett](/variants/s5/b10k10b10dg26ly5~x2/sett.png)|
-| [Phoenix Police Honor Guard](/variants/s5/db10k3t65dg56ly6/)|
-|![Phoenix Police Honor Guard example sett](/variants/s5/db10k3t65dg56ly6/sett.png)|
-| [Phoenix Police Honor Guard (Corp.)](/variants/s5/db10k3t65g56ly6/)|
-|![Phoenix Police Honor Guard (Corp.) example sett](/variants/s5/db10k3t65g56ly6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/n10k1db3g3ly1~x6/">Celtic Norse Heritage Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/n10k1db3g3ly1~x6/"><img src="/variants/s5/n10k1db3g3ly1~x6/sett.png" alt="Celtic Norse Heritage Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

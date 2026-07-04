@@ -22,11 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hughes](/variants/s7/dgi20dg14db9ly2db9k1w2~x4/)|
-|![Hughes example sett](/variants/s7/dgi20dg14db9ly2db9k1w2~x4/sett.png)|
-| [Hughes](/variants/s7/g20dg14db9ly2db9k1w2~x4/)|
-|![Hughes example sett](/variants/s7/g20dg14db9ly2db9k1w2~x4/sett.png)|
-| [Hughes (Inverbervie) (Personal)](/variants/s7/g36dg24b18ly4b18k2w5~x2/)|
-|![Hughes (Inverbervie) (Personal) example sett](/variants/s7/g36dg24b18ly4b18k2w5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/g36dg24t18ly4t18k2w5~x2/">Hughes (Inverbervie) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g36dg24t18ly4t18k2w5~x2/"><img src="/variants/s7/g36dg24t18ly4t18k2w5~x2/sett.png" alt="Hughes (Inverbervie) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

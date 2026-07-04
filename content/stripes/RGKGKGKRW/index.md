@@ -22,17 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hunter of Bute (Clan ?)](/variants/s9/r8dg8k1dg3k1dg1k10r20lb3~x2/)|
-|![Hunter of Bute (Clan ?) example sett](/variants/s9/r8dg8k1dg3k1dg1k10r20lb3~x2/sett.png)|
-| [Stuart of Bute](/variants/s9/r12y6k1y2k1y1k6r24w2~x4/)|
-|![Stuart of Bute example sett](/variants/s9/r12y6k1y2k1y1k6r24w2~x4/sett.png)|
-| [Stuart of Bute](/variants/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/)|
-|![Stuart of Bute example sett](/variants/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/sett.png)|
-| [Stuart/Stewart of Bute](/setts/r12g6k1g2k1g1k6r24w2/)|
-|![Stuart/Stewart of Bute example sett](/variants/s9/r12g6k1g2k1g1k6r24w2~x2/sett.png)|
-| [Stuart/Stewart of Bute Hunting](/variants/s9/m12dg6k1dg2k1dg1k6m24w2~x2/)|
-|![Stuart/Stewart of Bute Hunting example sett](/variants/s9/m12dg6k1dg2k1dg1k6m24w2~x2/sett.png)|
-| [Stuart/Stewart of Bute hunting](/variants/s9/m12g6k1g2k1g1k6m24w2~x2/)|
-|![Stuart/Stewart of Bute hunting example sett](/variants/s9/m12g6k1g2k1g1k6m24w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r12g6k1g2k1g1k6r24w2/">Stuart of Bute</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r12g6k1g2k1g1k6r24w2/"><img src="/variants/s9/r12g6k1g2k1g1k6r24w2~x2/sett.png" alt="Stuart of Bute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

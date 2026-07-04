@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ryder Cup, The](/variants/s16/w3dt21t8lt1t4lt1t3lt2t2lt2t1lt3t1lt12db5ly3~x2/)|
-|![Ryder Cup, The example sett](/variants/s16/w3dt21t8lt1t4lt1t3lt2t2lt2t1lt3t1lt12db5ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/w3dbi21dbii8lb1dbii4lb1dbii3lb2dbii2lb2dbii1lb3dbii1lb12db5ly3~x2~dbi1204274-dbii1406275-db1106275/">Ryder Cup 2014 (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/w3dbi21dbii8lb1dbii4lb1dbii3lb2dbii2lb2dbii1lb3dbii1lb12db5ly3~x2~dbi1204274-dbii1406275-db1106275/"><img src="/variants/s16/w3dbi21dbii8lb1dbii4lb1dbii3lb2dbii2lb2dbii1lb3dbii1lb12db5ly3~x2~dbi1204274-dbii1406275-db1106275/sett.png" alt="Ryder Cup 2014 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

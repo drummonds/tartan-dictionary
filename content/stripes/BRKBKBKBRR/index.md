@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [The KpgM](/variants/s10/r24o4db6k6db60k40dr12k20o3dr8/)|
-|![The KpgM example sett](/variants/s10/r24o4db6k6db60k40dr12k20o3dr8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/">The KpgM</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/"><img src="/variants/s10/r24o4db6k6db60k40b12k20o3b8/sett.png" alt="The KpgM sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

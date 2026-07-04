@@ -22,11 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stewart Old](/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/)|
-|![Stewart Old example sett](/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/sett.png)|
-| [Stuart/Stewart Old](/variants/s14/db5k2dg2k2dg2k2db8r3db3r3db8r3w5r3~x2/)|
-|![Stuart/Stewart Old example sett](/variants/s14/db5k2dg2k2dg2k2db8r3db3r3db8r3w5r3~x2/sett.png)|
-| [Wcwm 1138](/variants/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/)|
-|![Wcwm 1138 example sett](/variants/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/">Stuart/Stewart Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/"><img src="/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/sett.png" alt="Stuart/Stewart Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

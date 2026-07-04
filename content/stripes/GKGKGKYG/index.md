@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Aberdeen-Angus Cattle Society (Corp)](/variants/s8/g8lo3k60g3k3g3k3g4~x2/)|
-|![Aberdeen-Angus Cattle Society (Corp) example sett](/variants/s8/g8lo3k60g3k3g3k3g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/">Aberdeen-Angus Cattle Society (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/"><img src="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/sett.png" alt="Aberdeen-Angus Cattle Society (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

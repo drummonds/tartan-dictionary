@@ -22,11 +22,17 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified 18th Century](/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2/)|
-|![Unidentified 18th Century example sett](/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2/sett.png)|
-| [Unidentified Early 18th Centuary](/variants/s10/db3r23db3r26db3r3db25r3dg24r3~x2/)|
-|![Unidentified Early 18th Centuary example sett](/variants/s10/db3r23db3r26db3r3db25r3dg24r3~x2/sett.png)|
-| [Unidentified, Early 18th C](/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/)|
-|![Unidentified, Early 18th C example sett](/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/">Unidentified 18th Century</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><img src="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/sett.png" alt="Unidentified 18th Century sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/">Unidentified Early 18th Centuary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><img src="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/sett.png" alt="Unidentified Early 18th Centuary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

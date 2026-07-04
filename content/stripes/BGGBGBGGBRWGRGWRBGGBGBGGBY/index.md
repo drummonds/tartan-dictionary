@@ -22,7 +22,14 @@ It is a 26 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McGran (Personal)](/variants/s26/dp3g3gi32dp2gi4dp4gi3g10dp2r2w1g1r3g1w1r2dp2g10gi3dp4gi4dp2gi32g3dp3lo2~x2/)|
-|![McGran (Personal) example sett](/variants/s26/dp3g3gi32dp2gi4dp4gi3g10dp2r2w1g1r3g1w1r2dp2g10gi3dp4gi4dp2gi32g3dp3lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/">McGran (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/"><img src="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="McGran (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

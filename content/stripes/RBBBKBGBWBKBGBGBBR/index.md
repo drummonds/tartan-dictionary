@@ -22,9 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Empire Golf Check](/variants/s18/r2dp4dt2dg25dt4dg2dt4k11dp4w2dp4dg11dt2k2dt24dp4dt2r2~x2/)|
-|![Empire Golf Check example sett](/variants/s18/r2dp4dt2dg25dt4dg2dt4k11dp4w2dp4dg11dt2k2dt24dp4dt2r2~x2/sett.png)|
-| [Empire Golf Check (Fashion)](/variants/s18/r2dp4dt2g25dt4g2dt4k11dp4w2dp4g11dt2k2dt24dp4dt2r2~x2/)|
-|![Empire Golf Check (Fashion) example sett](/variants/s18/r2dp4dt2g25dt4g2dt4k11dp4w2dp4g11dt2k2dt24dp4dt2r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/">Empire Golf Check (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/"><img src="/variants/s18/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2~x2/sett.png" alt="Empire Golf Check (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

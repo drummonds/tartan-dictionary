@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Morrison](/variants/s9/g5w2g8r9k3r4k3r17g3~x2/)|
-|![Morrison example sett](/variants/s9/g5w2g8r9k3r4k3r17g3~x2/sett.png)|
-| [Morrison LC](/variants/s9/dg9lb4dg15r17k5r7k5r32dg5/)|
-|![Morrison LC example sett](/variants/s9/dg9lb4dg15r17k5r7k5r32dg5/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/">Morrison</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><img src="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/sett.png" alt="Morrison sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g9w4g15r17k5r7k5r32g5/">Morrison LC</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g9w4g15r17k5r7k5r32g5/"><img src="/variants/s9/g9w4g15r17k5r7k5r32g5/sett.png" alt="Morrison LC sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

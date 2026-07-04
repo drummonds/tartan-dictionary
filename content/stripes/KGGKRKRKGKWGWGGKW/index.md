@@ -22,7 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [St. Margaret's School Edinburgh](/variants/s17/k16gi3g8k3m12k3m12k3g8k3lb12g8lb12g8gi3k16w3~x2/)|
-|![St. Margaret's School Edinburgh example sett](/variants/s17/k16gi3g8k3m12k3m12k3g8k3lb12g8lb12g8gi3k16w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/">St. Margaret's School Edinburgh</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/"><img src="/variants/s17/k16dg3g8k3o12k3o12k3g8k3lb12g8lb12g8dg3k16w3~x2~dg1806142-g2203152/sett.png" alt="St. Margaret's School Edinburgh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

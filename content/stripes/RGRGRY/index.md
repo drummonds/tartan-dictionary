@@ -22,17 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cameron](/setts/r2g6r2g6r16ly1/)|
-|![Cameron example sett](/variants/s6/r2g6r2g6r16ly1~x2/sett.png)|
-| [Cameron](/variants/s6/r2dg6r2dg6r16ly1~x2/)|
-|![Cameron example sett](/variants/s6/r2dg6r2dg6r16ly1~x2/sett.png)|
-| [Cameron](/variants/s6/r1g3r1g3r8ly1~x8/)|
-|![Cameron example sett](/variants/s6/r1g3r1g3r8ly1~x8/sett.png)|
-| [Cameron Clan D](/variants/s6/r1dg6r1dg6r15ly1~x2/)|
-|![Cameron Clan D example sett](/variants/s6/r1dg6r1dg6r15ly1~x2/sett.png)|
-| [Maguire, Black](/variants/s6/r29g2r2g2r6ly21~x4/)|
-|![Maguire, Black example sett](/variants/s6/r29g2r2g2r6ly21~x4/sett.png)|
-| [Maguire, Black (Name)](/variants/s6/r29g2r2g2r6lo21~x4/)|
-|![Maguire, Black (Name) example sett](/variants/s6/r29g2r2g2r6lo21~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/">Cameron (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/"><img src="/variants/s6/r2dg6r2dg6r16ly1~x4/sett.png" alt="Cameron (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/">Maguire, Black (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/"><img src="/variants/s6/r29dg2r2dg2r6ly21~x4/sett.png" alt="Maguire, Black (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

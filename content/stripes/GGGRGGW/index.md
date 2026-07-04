@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKinnon Hunting](/variants/s7/dg1dy8dg8r1dg8dy8w1~x2/)|
-|![MacKinnon Hunting example sett](/variants/s7/dg1dy8dg8r1dg8dy8w1~x2/sett.png)|
-| [MacKinnon Hunting Clan Tartan](/variants/s7/g1dy8g8r1g8dy8w1~x2/)|
-|![MacKinnon Hunting Clan Tartan example sett](/variants/s7/g1dy8g8r1g8dy8w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g1dy8g8r1g8dy8w1/">MacKinnon Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g1dy8g8r1g8dy8w1/"><img src="/variants/s7/g1dy8g8r1g8dy8w1~x2/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

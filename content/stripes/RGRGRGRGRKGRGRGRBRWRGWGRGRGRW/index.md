@@ -22,9 +22,14 @@ It is a 29 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Staffa #4](/variants/s29/r37dg2r2dg2r2dg2r2dg2r11k2dg11r3dg2r11dg2r3db9r11w2r9dg11w2dg11r3dg2r9dg2r19w2/)|
-|![MacDonald of Staffa #4 example sett](/variants/s29/r37dg2r2dg2r2dg2r2dg2r11k2dg11r3dg2r11dg2r3db9r11w2r9dg11w2dg11r3dg2r9dg2r19w2/sett.png)|
-| [MacDonald of Staffa 3](/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/)|
-|![MacDonald of Staffa 3 example sett](/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/">MacDonald of Staffa #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/"><img src="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/sett.png" alt="MacDonald of Staffa #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

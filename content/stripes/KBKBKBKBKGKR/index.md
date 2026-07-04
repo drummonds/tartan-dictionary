@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Brown Ellis (Personal)](/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2dg14k1r2~x2/)|
-|![Brown Ellis (Personal) example sett](/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2dg14k1r2~x2/sett.png)|
-| [Brown Ellis (Personal)](/variants/s12/k2b11k1b2k1b11k2db14k2g14k1r2~x2/)|
-|![Brown Ellis (Personal) example sett](/variants/s12/k2b11k1b2k1b11k2db14k2g14k1r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/k2t11k1t2k1t11k2db14k2g14k1r2~x2/">Brown Ellis (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k2t11k1t2k1t11k2db14k2g14k1r2~x2/"><img src="/variants/s12/k2t11k1t2k1t11k2db14k2g14k1r2~x2/sett.png" alt="Brown Ellis (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

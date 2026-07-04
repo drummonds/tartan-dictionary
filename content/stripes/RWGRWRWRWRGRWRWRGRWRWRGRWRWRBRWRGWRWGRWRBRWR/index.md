@@ -22,7 +22,14 @@ It is a 44 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacAlister](/variants/s44/r8lb1dg2r2lb1r1lb1r1lb1r2dg3r1lb1r6lb1r1dg12r1lb1r16lb1r1dg12r1lb1r6lb1r1db4r1lb1r2dg3lb1r2lb1dg3r3lb1r1db2r1lb1r8/)|
-|![MacAlister example sett](/variants/s44/r8lb1dg2r2lb1r1lb1r1lb1r2dg3r1lb1r6lb1r1dg12r1lb1r16lb1r1dg12r1lb1r6lb1r1db4r1lb1r2dg3lb1r2lb1dg3r3lb1r1db2r1lb1r8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/">MacAlister</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/"><img src="/variants/s44/r8w1g2r2w1r1w1r1w1r2g3r1w1r6w1r1g12r1w1r16w1r1g12r1w1r6w1r1db4r1w1r2g3w1r2w1g3r3w1r1db2r1w1r8/sett.png" alt="MacAlister sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

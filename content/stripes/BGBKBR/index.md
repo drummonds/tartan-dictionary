@@ -22,11 +22,20 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Flower of Scotland](/variants/s6/r3b25k16b3g25b3~x2/)|
-|![Flower of Scotland example sett](/variants/s6/r3b25k16b3g25b3~x2/sett.png)|
-| [Flower of Scotland](/variants/s6/db3g28db3k16db28r3/)|
-|![Flower of Scotland example sett](/variants/s6/db3g28db3k16db28r3/sett.png)|
-| [Flower of Scotland MINI Tartan](/setts/o1b7k4b1g7b1/)|
-|![Flower of Scotland MINI Tartan example sett](/variants/s6/o1b7k4b1g7b1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r3t25k16t3g25t3/">Flower of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r3t25k16t3g25t3/"><img src="/variants/s6/r3t25k16t3g25t3~x2~g2405163/sett.png" alt="Flower of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db3g28db3k16db28r3/">Flower of Scotland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db3g28db3k16db28r3/"><img src="/variants/s6/db3g28db3k16db28r3/sett.png" alt="Flower of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r1t7k4t1dg7t1/">Flower of Scotland MINI Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r1t7k4t1dg7t1/"><img src="/variants/s6/r1t7k4t1dg7t1~x2/sett.png" alt="Flower of Scotland MINI Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/db4g18db3k17db18o4~x2/">Scottish Airports</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db4g18db3k17db18o4~x2/"><img src="/variants/s6/db4g18db3k17db18o4~x2/sett.png" alt="Scottish Airports sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

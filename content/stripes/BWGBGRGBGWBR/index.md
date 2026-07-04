@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Thompson (Pendleton)](/variants/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/)|
-|![Thompson (Pendleton) example sett](/variants/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/">Thompson (Pendleton)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/"><img src="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/sett.png" alt="Thompson (Pendleton) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

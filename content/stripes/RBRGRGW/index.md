@@ -22,9 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cherry, John S (Personal)](/variants/s7/r4db36ri35g2ri2g8w4~x2/)|
-|![Cherry, John S (Personal) example sett](/variants/s7/r4db36ri35g2ri2g8w4~x2/sett.png)|
-| [Cherry, John S. (Personal)](/variants/s7/o4dt36r35g2r2g8w4~x2/)|
-|![Cherry, John S. (Personal) example sett](/variants/s7/o4dt36r35g2r2g8w4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/">Cherry, John S (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><img src="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/sett.png" alt="Cherry, John S (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/">Cherry, John S. (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/"><img src="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/sett.png" alt="Cherry, John S. (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

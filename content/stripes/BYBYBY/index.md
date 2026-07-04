@@ -22,9 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Auburn University (Alabama)](/variants/s6/db3lo3db24lo30db3lo2~x2/)|
-|![Auburn University (Alabama) example sett](/variants/s6/db3lo3db24lo30db3lo2~x2/sett.png)|
-| [Ochterlonie](/variants/s6/db35lr8db21lr13db6lo4~x2/)|
-|![Ochterlonie example sett](/variants/s6/db35lr8db21lr13db6lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/do1ly1do2lr4n1lr1~x8/">Ardalansish Tweed (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/do1ly1do2lr4n1lr1~x8/"><img src="/variants/s6/do1ly1do2lr4n1lr1~x8/sett.png" alt="Ardalansish Tweed (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/db35lr8db21lr13db6ly4~x2/">Ochterlonie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db35lr8db21lr13db6ly4~x2/"><img src="/variants/s6/db35lr8db21lr13db6ly4~x2/sett.png" alt="Ochterlonie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Prince David](/variants/s15/g3y1lo2g3y1lo2dy21g18dy2g3dy2g18dy21y1lo2~x2/)|
-|![Prince David example sett](/variants/s15/g3y1lo2g3y1lo2dy21g18dy2g3dy2g18dy21y1lo2~x2/sett.png)|
-| [Prince David Royal Family Tartan](/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/)|
-|![Prince David Royal Family Tartan example sett](/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2/">Prince David</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2/"><img src="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/sett.png" alt="Prince David sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

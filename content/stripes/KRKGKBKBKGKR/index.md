@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Daly (2016)](/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2/)|
-|![Daly (2016) example sett](/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/">Daly (2016)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/"><img src="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/sett.png" alt="Daly (2016) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

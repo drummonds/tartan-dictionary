@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×4 | [5th Royal Scots of Canada (Military)](/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/) ★ | 1871 | ![5th Royal Scots of Canada (Military) sett](/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/sett.png) |
+| ×4 | [Lorne, Marquis of](/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/) ★ | 1871 | ![Lorne, Marquis of sett](/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/sett.png) |
 | ×2 | [Lorne](/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/) | ~2016 | ![Lorne sett](/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/sett.png) |

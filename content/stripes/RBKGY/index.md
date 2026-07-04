@@ -22,15 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cultoquhey Hotel](/variants/s5/r3db22k11g32ly3~x2/)|
-|![Cultoquhey Hotel example sett](/variants/s5/r3db22k11g32ly3~x2/sett.png)|
-| [Cultoquhey Hotel Corporate Tartan](/variants/s5/r3db22k11dg32ly3~x2/)|
-|![Cultoquhey Hotel Corporate Tartan example sett](/variants/s5/r3db22k11dg32ly3~x2/sett.png)|
-| [Davidson of Tulloch](/variants/s5/r1db6k3dg6lr1~x2/)|
-|![Davidson of Tulloch example sett](/variants/s5/r1db6k3dg6lr1~x2/sett.png)|
-| [Sanix Modern](/variants/s5/r2db16k11g19ly2~x2/)|
-|![Sanix Modern example sett](/variants/s5/r2db16k11g19ly2~x2/sett.png)|
-| [Scots Heritage](/variants/s5/r4db14k15dg14ly4~x2/)|
-|![Scots Heritage example sett](/variants/s5/r4db14k15dg14ly4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r3db22k11g32ly3~x2/">Cultoquhey (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r3db22k11g32ly3~x2/"><img src="/variants/s5/r3db22k11g32ly3~x2/sett.png" alt="Cultoquhey (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r3db22k11dg32ly3~x2/">Cultoquhey Hotel Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r3db22k11dg32ly3~x2/"><img src="/variants/s5/r3db22k11dg32ly3~x2/sett.png" alt="Cultoquhey Hotel Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [LOOK Keith](/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2/)|
-|![LOOK Keith example sett](/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2~n1900000-o2500000/">LOOK Keith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2~n1900000-o2500000/"><img src="/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2~n1900000-o2500000/sett.png" alt="LOOK Keith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

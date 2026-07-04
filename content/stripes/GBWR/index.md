@@ -22,9 +22,21 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKinnon Dress Hunting (Fashion)](/variants/s4/dg7dr7w7r1~x6/)|
-|![MacKinnon Dress Hunting (Fashion) example sett](/variants/s4/dg7dr7w7r1~x6/sett.png)|
-| [MacKinnon Dress Trade Tartan](/variants/s4/g9dr7w7r1~x4/)|
-|![MacKinnon Dress Trade Tartan example sett](/variants/s4/g9dr7w7r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/dg7dr7w7r1~x6/">MacKinnon Dress Hunting (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dg7dr7w7r1~x6/"><img src="/variants/s4/dg7dr7w7r1~x6/sett.png" alt="MacKinnon Dress Hunting (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/g9dr7w7r1~x4/">MacKinnon Dress Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g9dr7w7r1~x4/"><img src="/variants/s4/g9dr7w7r1~x4/sett.png" alt="MacKinnon Dress Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/r1w8b8y1~x4/">MacRae of Conchra</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r1w8b8y1~x4/"><img src="/variants/s4/r1w8b8y1~x4/sett.png" alt="MacRae of Conchra sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r7w36db36y7~x2/">MacRae of Conchra #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r7w36db36y7~x2/"><img src="/variants/s4/r7w36db36y7~x2/sett.png" alt="MacRae of Conchra #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

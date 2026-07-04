@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hackston (Green stripe) or Halkerston](/variants/s14/r11lo3r11lo3k11lr2r51lr2k11lo3r11lo3r11g3~x2/)|
-|![Hackston (Green stripe) or Halkerston example sett](/variants/s14/r11lo3r11lo3k11lr2r51lr2k11lo3r11lo3r11g3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/">Hackston (Green stripe) or Halkerston</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/"><img src="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/sett.png" alt="Hackston (Green stripe) or Halkerston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

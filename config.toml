@@ -149,6 +149,11 @@ weight = 1
   name = "About"
   url = "/about/"
   weight = 5
+  [[menu.info]]
+  parent = "info"
+  name = "Glossary"
+  url = "/glossary/"
+  weight = 6
 
 [params.social]
   github = "https://github.com/Drummonds"

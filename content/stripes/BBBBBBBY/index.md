@@ -22,11 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edinburgh Monarchs](/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/)|
-|![Edinburgh Monarchs example sett](/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png)|
-| [Marist School, The](/variants/s8/db29dbi2db1dbi1db1dbi1t8lo1~x4/)|
-|![Marist School, The example sett](/variants/s8/db29dbi2db1dbi1db1dbi1t8lo1~x4/sett.png)|
-| [Marist School, The](/variants/s8/dt29b2dt1b1dt1b1db8ly1~x4/)|
-|![Marist School, The example sett](/variants/s8/dt29b2dt1b1dt1b1db8ly1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/">Edinburgh Monarchs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><img src="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png" alt="Edinburgh Monarchs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

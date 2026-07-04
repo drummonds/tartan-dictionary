@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/"><img src="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley" width="240"><br>MacDonald of Aird & Valley</a>
+<a class="tartan" href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/"><img src="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley" width="240"><br>MacDonald of Aird & Valley</a>
 
 ## Families
 
@@ -27,6 +27,5 @@ date: 2023-03-18
 - [MacDonald of Prince Edward Island](/families/macdonald-of-prince-edward-island/)
 - [MacDonald of Sleat](/families/macdonald-of-sleat/)
 - [MacDonald of Staffa](/families/macdonald-of-staffa/)
-- [MacDonald of The Isles](/families/macdonald-of-the-isles/)
 - [MacDonald of Vallay](/families/macdonald-of-vallay/)
 

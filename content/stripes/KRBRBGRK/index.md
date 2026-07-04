@@ -22,7 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Skene, of Cromar](/setts/k4r37db37r2db37g37r37k4/)|
-|![Skene, of Cromar example sett](/variants/s8/k4r37db37r2db37g37r37k4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/">Earle's Flame</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/"><img src="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/sett.png" alt="Earle's Flame sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/k4r37db37r2db37g37r37k4/">Skene, of Cromar</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k4r37db37r2db37g37r37k4/"><img src="/variants/s8/k4r37db37r2db37g37r37k4/sett.png" alt="Skene, of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

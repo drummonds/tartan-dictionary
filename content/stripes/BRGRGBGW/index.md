@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Moran (Drummond) Personal Tartan](/variants/s8/db5m3g2m3gi12b34g2w2~x2/)|
-|![Moran (Drummond) Personal Tartan example sett](/variants/s8/db5m3g2m3gi12b34g2w2~x2/sett.png)|
-| [Moran (Wedding) (Personal)](/variants/s8/db5m3gi2m3g12b34gi2w2~x2/)|
-|![Moran (Wedding) (Personal) example sett](/variants/s8/db5m3gi2m3g12b34gi2w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db5r3g2r3dg12t34g2w2/">Moran (Wedding) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db5r3g2r3dg12t34g2w2/"><img src="/variants/s8/db5r3g2r3dg12t34g2w2~x2/sett.png" alt="Moran (Wedding) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

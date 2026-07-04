@@ -22,9 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Longniddry Green District Tartan](/variants/s8/gi42g2w2g2gi5dg12w32gi4~x2/)|
-|![Longniddry Green District Tartan example sett](/variants/s8/gi42g2w2g2gi5dg12w32gi4~x2/sett.png)|
-| [Longniddry, Green](/variants/s8/g42gi2w2gi2g5dg12w32g4~x2/)|
-|![Longniddry, Green example sett](/variants/s8/g42gi2w2gi2g5dg12w32g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/">Longniddry Green District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/"><img src="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/sett.png" alt="Longniddry Green District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g42y1w2y1g5dg12w32g4~x2/">Longniddry Green Error (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g42y1w2y1g5dg12w32g4~x2/"><img src="/variants/s8/g42y1w2y1g5dg12w32g4~x2/sett.png" alt="Longniddry Green Error (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

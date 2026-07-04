@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cailleach](/variants/s9/k30db20k10db5w2db10g20r2g10/)|
-|![Cailleach example sett](/variants/s9/k30db20k10db5w2db10g20r2g10/sett.png)|
-| [Cailleach (Fashion)](/variants/s9/k30n20k10n5w2n10g20r2g10/)|
-|![Cailleach (Fashion) example sett](/variants/s9/k30n20k10n5w2n10g20r2g10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/">Cailleach</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/"><img src="/variants/s9/k30db20k10db5w2db10dg20r2dg10/sett.png" alt="Cailleach sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

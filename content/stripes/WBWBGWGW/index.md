@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Auld Lang Syne (Fashion)](/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6/)|
-|![Auld Lang Syne (Fashion) example sett](/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6~lb3203246-t2503227/">Auld Lang Syne (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6~lb3203246-t2503227/"><img src="/variants/s8/lb1y1lb1y7t7lb1t1lb1~x6~lb3203246-t2503227/sett.png" alt="Auld Lang Syne (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

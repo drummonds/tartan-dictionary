@@ -12,5 +12,5 @@ Part of the [Seton](/tartans/seton/) tartan — the named design grouping this p
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×8 | [Seton](/variants/s18/g3w1g6r2dp2r1k2r10g1r2~x8/) ★ | 1842 | ![Seton sett](/variants/s18/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png) |
-| ×8 | [Seton (Clan)](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/) | 1842 | ![Seton (Clan) sett](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png) |
+| ×8 | [Seton (Clan)](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/) ★ | 1842 | ![Seton (Clan) sett](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png) |
+| ×8 | [Seton](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/) | 1842 | ![Seton sett](/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/sett.png) |

@@ -22,19 +22,16 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kazakhstan Relic (Artefact)](/variants/s3/lo5db5k3~x4/)|
-|![Kazakhstan Relic (Artefact) example sett](/variants/s3/lo5db5k3~x4/sett.png)|
-| [Masai Shuka 04 (Artefact)](/variants/s3/ly20db10k3~x2/)|
-|![Masai Shuka 04 (Artefact) example sett](/variants/s3/ly20db10k3~x2/sett.png)|
-| [Mother's Pride (Corporate)](/variants/s3/k10db10lo1~x4/)|
-|![Mother's Pride (Corporate) example sett](/variants/s3/k10db10lo1~x4/sett.png)|
-| [Poulain League (Corporate)](/variants/s3/ly6t38k3~x2/)|
-|![Poulain League (Corporate) example sett](/variants/s3/ly6t38k3~x2/sett.png)|
-| [Westwater (Edinburgh, 2012)](/variants/s3/k62t33ly1~x2/)|
-|![Westwater (Edinburgh, 2012) example sett](/variants/s3/k62t33ly1~x2/sett.png)|
-| [Westwater (Personal)](/variants/s3/k62b33ly1~x2/)|
-|![Westwater (Personal) example sett](/variants/s3/k62b33ly1~x2/sett.png)|
-| [Wilson's, No 118](/variants/s3/k5t4ly1~x2/)|
-|![Wilson's, No 118 example sett](/variants/s3/k5t4ly1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/ly5db5k3~x4/">Kazakhstan Relic (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/ly5db5k3~x4/"><img src="/variants/s3/ly5db5k3~x4/sett.png" alt="Kazakhstan Relic (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k62t33ly1~x2/">Westwater (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k62t33ly1~x2/"><img src="/variants/s3/k62t33ly1~x2/sett.png" alt="Westwater (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

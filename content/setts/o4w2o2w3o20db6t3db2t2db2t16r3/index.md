@@ -1,5 +1,0 @@
----
-title: "Callum, Scotch House"
-redirect: "/variants/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/"
----
-This sett is recorded as a single cloth — redirecting to [Callum, Scotch House](/variants/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/).

@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Invertere (Daks #1) (Fashion)](/variants/s8/m3dg6lo2db2lo11dg2lo2m3~x2/)|
-|![Invertere (Daks #1) (Fashion) example sett](/variants/s8/m3dg6lo2db2lo11dg2lo2m3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r3dg6ly2db2ly11dg2ly2r3~x2/">Invertere (Daks #1) (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r3dg6ly2db2ly11dg2ly2r3~x2/"><img src="/variants/s8/r3dg6ly2db2ly11dg2ly2r3~x2/sett.png" alt="Invertere (Daks #1) (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

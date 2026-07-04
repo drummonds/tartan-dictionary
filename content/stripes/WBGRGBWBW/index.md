@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Seaford House](/variants/s9/w3db28g26r3g26db26lb12db3lb3/)|
-|![Seaford House example sett](/variants/s9/w3db28g26r3g26db26lb12db3lb3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/">Seaford House</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><img src="/variants/s9/w3db28g26r3g26db26lb12db3lb3/sett.png" alt="Seaford House sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

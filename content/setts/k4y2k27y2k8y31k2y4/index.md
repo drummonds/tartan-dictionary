@@ -1,14 +1,5 @@
 ---
 title: "Watertown Library Assoc."
-date: 2023-03-18
+redirect: "/variants/s8/k4y2k27y2k8y31k2y4~x2/"
 ---
-The **Watertown Library Assoc.** tartan is one sett proportion (`k4y2k27y2k8y31k2y4`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[GKGKGKGK](/stripes/gkgkgkgk/); each scale below is its own sett page. First attested **2004**
-— its oldest sett (★) anchors the tartan as the parent.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×2 | [Watertown Library Assoc.](/variants/s14/k4y2k27y2k8y31k2y4~x2/) ★ | 2004 | ![Watertown Library Assoc. sett](/variants/s14/k4y2k27y2k8y31k2y4~x2/sett.png) |
-| ×2 | [Watertown Library Assoc. (Corporate)](/variants/s8/k4y2k27y2k8y31k2y4~x2/) | ~2004 | ![Watertown Library Assoc. (Corporate) sett](/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png) |
+This sett is recorded as a single cloth — redirecting to [Watertown Library Assoc.](/variants/s8/k4y2k27y2k8y31k2y4~x2/).

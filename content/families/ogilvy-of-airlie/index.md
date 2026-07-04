@@ -9,10 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/r14w2db3w2r14k2r2db2ly2t7w2t7ly2k4r7w1r7w1r7k4ly5t7ly5k2r2k2r2k2r2k2ly2t7ly2db3ly2db3/">Ogilvy of Airlie</a> ★</td><td><code>R/28 W4 DB6 W4 R28 K4 R4 DB4 LY4 T14 W4 T14 LY4 K8 R14 W2 R14 W2 R14 K8 LY10 T14 LY10 K4 R4 K4 R4 K4 R4 K4 LY4 T14 LY4 DB6 LY4 DB/6</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/r14w2db3w2r14k2r2db2ly2t7w2t7ly2k4r7w1r7w1r7k4ly5t7ly5k2r2k2r2k2r2k2ly2t7ly2db3ly2db3/"><img src="/variants/s36/r14w2db3w2r14k2r2db2ly2t7w2t7ly2k4r7w1r7w1r7k4ly5t7ly5k2r2k2r2k2r2k2ly2t7ly2db3ly2db3~x2/sett.png" alt="Ogilvy of Airlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3/">Ogilvy of Airlie</a> ★</td><td><code>R/28 W4 DB6 W4 R28 K4 R4 DB4 Y4 LB14 W4 LB14 Y4 K8 R14 W2 R14 W2 R14 K8 Y10 LB14 Y10 K4 R4 K4 R4 K4 R4 K4 Y4 LB14 Y4 DB6 Y4 DB/6</code></td><td>534</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3/"><img src="/variants/s36/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3~x2/sett.png" alt="Ogilvy of Airlie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,11 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [All as One (Corporate)](/variants/s5/k11t38r11g11k5~x2/)|
-|![All as One (Corporate) example sett](/variants/s5/k11t38r11g11k5~x2/sett.png)|
-| [Edinburgh Military Tattoo 50th](/variants/s5/k1dg8r6db8k1~x4/)|
-|![Edinburgh Military Tattoo 50th example sett](/variants/s5/k1dg8r6db8k1~x4/sett.png)|
-| [Edinburgh Tattoo 50th (Commemorative](/variants/s5/k1db8r6g8k1~x4/)|
-|![Edinburgh Tattoo 50th (Commemorative example sett](/variants/s5/k1db8r6g8k1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k1db8r6g8k1~x4/">Edinburgh Military Tattoo 50th Military Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k1db8r6g8k1~x4/"><img src="/variants/s5/k1db8r6g8k1~x4/sett.png" alt="Edinburgh Military Tattoo 50th Military Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1dg8r6db8k1~x4/">Edinburgh Tattoo 50th (Commemorative</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k1dg8r6db8k1~x4/"><img src="/variants/s5/k1dg8r6db8k1~x4/sett.png" alt="Edinburgh Tattoo 50th (Commemorative sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

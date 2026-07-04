@@ -7,8 +7,6 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 [BKBKBKGWGWGWGKBKB](/stripes/bkbkbkgwgwgwgkbkb/); each scale below is its own sett page. First attested **1937**
 — its oldest sett (★) anchors the tartan as the parent.
 
-Part of the [Baillie of Polkemett](/tartans/baillie-of-polkemett/) tartan — the named design grouping this proportion with its other setts.
-
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|

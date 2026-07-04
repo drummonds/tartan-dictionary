@@ -22,13 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Breon (Jersey Shore, Pennsylvania) (Personal)](/variants/s5/t25dg25k6dp10r6~x2/)|
-|![Breon (Jersey Shore, Pennsylvania) (Personal) example sett](/variants/s5/t25dg25k6dp10r6~x2/sett.png)|
-| [Breon (Personal)](/variants/s5/b25g25k6dt10r6~x2/)|
-|![Breon (Personal) example sett](/variants/s5/b25g25k6dt10r6~x2/sett.png)|
-| [Forbo Nairn](/variants/s5/r2db12k7g8t2~x4/)|
-|![Forbo Nairn example sett](/variants/s5/r2db12k7g8t2~x4/sett.png)|
-| [Frobo Nairn](/variants/s5/r2db9k5g6db1~x4/)|
-|![Frobo Nairn example sett](/variants/s5/r2db9k5g6db1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/">Breon (Jersey Shore, Pennsylvania) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><img src="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/sett.png" alt="Breon (Jersey Shore, Pennsylvania) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/t25g25k6db10r6~x2/">Breon (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/t25g25k6db10r6~x2/"><img src="/variants/s5/t25g25k6db10r6~x2/sett.png" alt="Breon (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

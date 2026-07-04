@@ -22,11 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Daks, (Muted Skye)](/variants/s8/db5y15o4y4o24y4o4db5/)|
-|![Daks, (Muted Skye) example sett](/variants/s8/db5y15o4y4o24y4o4db5/sett.png)|
-| [Daks, Tartan-Loden](/variants/s8/db3o7g2r2g14o2g2db3~x2/)|
-|![Daks, Tartan-Loden example sett](/variants/s8/db3o7g2r2g14o2g2db3~x2/sett.png)|
-| [Daks-Simpson (Muted Skye)](/variants/s8/db5o15dy4o4dy24o4dy4db5/)|
-|![Daks-Simpson (Muted Skye) example sett](/variants/s8/db5o15dy4o4dy24o4dy4db5/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/">Daks, Tartan-Loden</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/"><img src="/variants/s8/db3o7g2r2g14o2g2db3~x2/sett.png" alt="Daks, Tartan-Loden sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/">Glassary #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><img src="/variants/s8/db4r1y12r2y2r12y1db4~x4/sett.png" alt="Glassary #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

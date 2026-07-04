@@ -22,7 +22,14 @@ It is a 29 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unnamed C18/19th - Antigonish (A) #2](/variants/s29/dt13r6dt2r6w1y26r2dt26w1r26w1dt6r2y2r2dt13r2y2r2dt6w1r26w1dt26y26w1r6dt2r6~x2/)|
-|![Unnamed C18/19th - Antigonish (A) #2 example sett](/variants/s29/dt13r6dt2r6w1y26r2dt26w1r26w1dt6r2y2r2dt13r2y2r2dt6w1r26w1dt26y26w1r6dt2r6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/">Unnamed C18/19th - Antigonish (A) #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/"><img src="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/sett.png" alt="Unnamed C18/19th - Antigonish (A) #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

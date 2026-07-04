@@ -22,9 +22,20 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Yellow Pencil](/variants/s8/dy48ly9dy6ly9dy12ly4dy2ly16~x2/)|
-|![Yellow Pencil example sett](/variants/s8/dy48ly9dy6ly9dy12ly4dy2ly16~x2/sett.png)|
-| [Yellow Pencil (Corporate)](/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/)|
-|![Yellow Pencil (Corporate) example sett](/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s2/dg1ly1~x8~dg1405139/">Ballindalloch (Estate Check)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/dg1ly1~x8~dg1405139/"><img src="/variants/s2/dg1ly1~x8~dg1405139/sett.png" alt="Ballindalloch (Estate Check) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/">Snaefell (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><img src="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/sett.png" alt="Snaefell (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/">Yellow Pencil (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><img src="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/sett.png" alt="Yellow Pencil (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

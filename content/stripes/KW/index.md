@@ -26,9 +26,19 @@ An ornamental twill check of natural light and dark wool, found at Falkirk in th
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Joy's Fancy, Allen (Personal)](/variants/s2/k15lb1~x12/)|
-|![Joy's Fancy, Allen (Personal) example sett](/variants/s2/k15lb1~x12/sett.png)|
-| [Shepherd](/setts/k1w1/)|
-|![Shepherd example sett](/variants/s2/k1w1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s2/k15lb1~x12/">Joy's Fancy, Allen (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/k15lb1~x12/"><img src="/variants/s2/k15lb1~x12/sett.png" alt="Joy's Fancy, Allen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s2/k9lb8~x2/">Wilson's No.172</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/k9lb8~x2/"><img src="/variants/s2/k9lb8~x2/sett.png" alt="Wilson's No.172 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/k1w1/">Shepherd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k1w1/"><img src="/variants/s2/k1w1/sett.png" alt="Shepherd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

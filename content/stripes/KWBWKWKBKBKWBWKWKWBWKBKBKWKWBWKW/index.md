@@ -22,7 +22,14 @@ It is a 32 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Clergy (Logan) (Corporate)](/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/)|
-|![Clergy (Logan) (Corporate) example sett](/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/">Clergy (Logan) (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/"><img src="/variants/s32/k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1~x2/sett.png" alt="Clergy (Logan) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

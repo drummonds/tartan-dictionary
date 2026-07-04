@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gordon Dress #2](/variants/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/)|
-|![Gordon Dress #2 example sett](/variants/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/sett.png)|
-| [Gordon, dress 4](/variants/s13/w20k3w3k3w3k16g17ly5g17k16db16k3db3~x2/)|
-|![Gordon, dress 4 example sett](/variants/s13/w20k3w3k3w3k16g17ly5g17k16db16k3db3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/">Farquharson Dress (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><img src="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/sett.png" alt="Farquharson Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

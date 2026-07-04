@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Donachie of Brockloch Ancient Hunting](/variants/s10/o10y1k1y1k1y11o18y1k1y10~x4/)|
-|![Donachie of Brockloch Ancient Hunting example sett](/variants/s10/o10y1k1y1k1y11o18y1k1y10~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dy9k2dy2r2g6k1y1k1g6r3~x2/">MacAart Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dy9k2dy2r2g6k1y1k1g6r3~x2/"><img src="/variants/s10/dy9k2dy2r2g6k1y1k1g6r3~x2/sett.png" alt="MacAart Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

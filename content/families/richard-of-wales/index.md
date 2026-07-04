@@ -9,10 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db5dg2db2dg2db2dt5dg2dt1t1dt1dg10r3/">Richard of Wales</a> ★</td><td><code>DB/20 DG8 DB8 DG8 DB8 DT20 DG8 DT4 T4 DT4 DG40 R/12</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/db5dg2db2dg2db2dt5dg2dt1t1dt1dg10r3/"><img src="/variants/s12/db5dg2db2dg2db2dt5dg2dt1t1dt1dg10r3~x4/sett.png" alt="Richard of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3/">Richard of Wales</a> ★</td><td><code>DB/20 DG8 DB8 DG8 DB8 DBi20 DG8 DBi4 LB4 DBi4 DG40 DR/12</code></td><td>—</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3/"><img src="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/sett.png" alt="Richard of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

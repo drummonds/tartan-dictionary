@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lindsay (Dance)](/variants/s9/w29n2w2n2w2n14dr31n2dr3~x2/)|
-|![Lindsay (Dance) example sett](/variants/s9/w29n2w2n2w2n14dr31n2dr3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w29db2w2db2w2db14dr31db2dr3~x2/">Lindsay (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w29db2w2db2w2db14dr31db2dr3~x2/"><img src="/variants/s9/w29db2w2db2w2db14dr31db2dr3~x2/sett.png" alt="Lindsay (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

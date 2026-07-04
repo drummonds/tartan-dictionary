@@ -22,11 +22,19 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fraser](/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/)|
-|![Fraser example sett](/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png)|
-| [Fraser of Castle Leathers, Major James](/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/)|
-|![Fraser of Castle Leathers, Major James example sett](/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/sett.png)|
-| [Major, Frazer](/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/)|
-|![Major, Frazer example sett](/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/">Fraser</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><img src="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/">Major, Frazer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><img src="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/sett.png" alt="Major, Frazer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/">Fraser of Castle Leathers, Major James</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><img src="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/sett.png" alt="Fraser of Castle Leathers, Major James sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

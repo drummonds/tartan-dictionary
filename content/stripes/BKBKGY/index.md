@@ -22,7 +22,19 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hudson Valley Reg. Police P & D (Cor](/variants/s6/ly5g16k16db16k2db2~x2/)|
-|![Hudson Valley Reg. Police P & D (Cor example sett](/variants/s6/ly5g16k16db16k2db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/dr4k2db24k20g20lo3~x2/">Loudoun's Highlanders</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dr4k2db24k20g20lo3~x2/"><img src="/variants/s6/dr4k2db24k20g20lo3~x2/sett.png" alt="Loudoun's Highlanders sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/">Loudoun's Highlanders - 1747 #1 (Mil</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/"><img src="/variants/s6/dr4k2db24k20dg20lo3~x2/sett.png" alt="Loudoun's Highlanders - 1747 #1 (Mil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/b1k4dr1k4dg5lr1~x4/">Unidentified Dance</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/b1k4dr1k4dg5lr1~x4/"><img src="/variants/s6/b1k4dr1k4dg5lr1~x4/sett.png" alt="Unidentified Dance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

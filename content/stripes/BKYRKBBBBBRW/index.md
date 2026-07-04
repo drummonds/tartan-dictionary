@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Meirhaeghe, Van](/variants/s12/db28k6lo2r2k6db12dbi5db5dbi5db3r8w3~x2/)|
-|![Meirhaeghe, Van example sett](/variants/s12/db28k6lo2r2k6db12dbi5db5dbi5db3r8w3~x2/sett.png)|
-| [Meirhaeghe, Van](/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2/)|
-|![Meirhaeghe, Van example sett](/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/">Meirhaeghe, Van</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/"><img src="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/sett.png" alt="Meirhaeghe, Van sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

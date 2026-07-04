@@ -22,7 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hebrides South Uist #3](/variants/s18/g8r1k1r8g1r8k1r1k8r1~x6/)|
-|![Hebrides South Uist #3 example sett](/variants/s18/g8r1k1r8g1r8k1r1k8r1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/">Hebrides South Uist #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><img src="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/sett.png" alt="Hebrides South Uist #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,13 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [National](/variants/s9/w2db3r6k8g12ly1db4k2w2~x2/)|
-|![National example sett](/variants/s9/w2db3r6k8g12ly1db4k2w2~x2/sett.png)|
-| [National (1934), The](/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/)|
-|![National (1934), The example sett](/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/sett.png)|
-| [National Millennium](/variants/s9/w2db4r16k12g36ly1db6k2w2~x2/)|
-|![National Millennium example sett](/variants/s9/w2db4r16k12g36ly1db6k2w2~x2/sett.png)|
-| [National Millennium](/variants/s9/w2db4r16k14dg32ly1db8k2w2~x2/)|
-|![National Millennium example sett](/variants/s9/w2db4r16k14dg32ly1db8k2w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/">National (1934), The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/"><img src="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/sett.png" alt="National (1934), The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

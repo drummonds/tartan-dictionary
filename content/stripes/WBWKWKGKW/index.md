@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified (shirt fabric)](/variants/s9/w5db3w25k2w2k16g8k1w4/)|
-|![Unidentified (shirt fabric) example sett](/variants/s9/w5db3w25k2w2k16g8k1w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w5db3w25k2w2k16g8k1w4/">Unidentified (shirt fabric)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w5db3w25k2w2k16g8k1w4/"><img src="/variants/s9/w5db3w25k2w2k16g8k1w4/sett.png" alt="Unidentified (shirt fabric) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Salem Scottish Dancers (Corporate)](/variants/s8/dt5b5dt30w4dt4b18w3dt3~x2/)|
-|![Salem Scottish Dancers (Corporate) example sett](/variants/s8/dt5b5dt30w4dt4b18w3dt3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db10t10db60w9db7t36w6db6/">Salem Scottish Dancer's Wee Bluet</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><img src="/variants/s8/db10t10db60w9db7t36w6db6/sett.png" alt="Salem Scottish Dancer's Wee Bluet sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/dt5t5dt30w4dt4t18w3dt3~x2/">Salem Scottish Dancers (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dt5t5dt30w4dt4t18w3dt3~x2/"><img src="/variants/s8/dt5t5dt30w4dt4t18w3dt3~x2/sett.png" alt="Salem Scottish Dancers (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Malmo Skyblue](/variants/s8/dt28w36wi28w36wi85r3wi3r3/)|
-|![Malmo Skyblue example sett](/variants/s8/dt28w36wi28w36wi85r3wi3r3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db28w36lb28w36lb85r3lb3r3/">Malmo Skyblue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db28w36lb28w36lb85r3lb3r3/"><img src="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/sett.png" alt="Malmo Skyblue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

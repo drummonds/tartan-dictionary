@@ -22,9 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McGuigan, Julia (St Monans, Fife) (Personal)](/variants/s4/y9yi52dy15ly4~x2/)|
-|![McGuigan, Julia (St Monans, Fife) (Personal) example sett](/variants/s4/y9yi52dy15ly4~x2/sett.png)|
-| [Spring Morning (Fashion)](/variants/s4/g1y9g9lo1~x4/)|
-|![Spring Morning (Fashion) example sett](/variants/s4/g1y9g9lo1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/">McGuigan, Julia (St Monans, Fife Name Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/"><img src="/variants/s4/y9g52dg15ly4~x2~y2202111-ly3005093/sett.png" alt="McGuigan, Julia (St Monans, Fife Name Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/g1y9g9lo1~x4/">Spring Morning (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g1y9g9lo1~x4/"><img src="/variants/s4/g1y9g9lo1~x4/sett.png" alt="Spring Morning (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

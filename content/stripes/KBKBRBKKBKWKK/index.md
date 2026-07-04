@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pride of Norway](/variants/s13/ki7db2ki6db18r3db18ki4k2db2k2w2k4ki4~x2/)|
-|![Pride of Norway example sett](/variants/s13/ki7db2ki6db18r3db18ki4k2db2k2w2k4ki4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/">Pride of Norway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/"><img src="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/sett.png" alt="Pride of Norway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,19 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Azabu Tailor](/variants/s11/k17db39k20db4k2db3k4db3k2db4k3~x4/)|
-|![Azabu Tailor example sett](/variants/s11/k17db39k20db4k2db3k4db3k2db4k3~x4/sett.png)|
-| [Azabu Tailor (Corporate)](/variants/s11/k66db155k80db16k8db12k16db12k8db16k12/)|
-|![Azabu Tailor (Corporate) example sett](/variants/s11/k66db155k80db16k8db12k16db12k8db16k12/sett.png)|
-| [Grey Pride of Scotland (Fashion)](/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/)|
-|![Grey Pride of Scotland (Fashion) example sett](/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k17db39k20db4k2db3k4db3k2db4k3~x4/">Azabu Tailor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k17db39k20db4k2db3k4db3k2db4k3~x4/"><img src="/variants/s11/k17db39k20db4k2db3k4db3k2db4k3~x4/sett.png" alt="Azabu Tailor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k66db155k80db16k8db12k16db12k8db16k12/">Azabu Tailor (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k66db155k80db16k8db12k16db12k8db16k12/"><img src="/variants/s11/k66db155k80db16k8db12k16db12k8db16k12/sett.png" alt="Azabu Tailor (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/">Grey Pride of Scotland (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><img src="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/sett.png" alt="Grey Pride of Scotland (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

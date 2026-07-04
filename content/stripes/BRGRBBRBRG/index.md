@@ -22,17 +22,17 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonell of Keppoch](/variants/s10/g2r2db1r24t1db6r3g12r4db1~x2/)|
-|![MacDonell of Keppoch example sett](/variants/s10/g2r2db1r24t1db6r3g12r4db1~x2/sett.png)|
-| [MacDonell of Keppoch](/setts/dg2r2db1r24b1db6r3dg12r4db1/)|
-|![MacDonell of Keppoch example sett](/variants/s10/dg2r2db1r24b1db6r3dg12r4db1/sett.png)|
-| [MacDonell of Keppoch](/variants/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/)|
-|![MacDonell of Keppoch example sett](/variants/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/sett.png)|
-| [MacKillop](/variants/s10/g3r2db2r13t1db4r2g7r2db2~x2/)|
-|![MacKillop example sett](/variants/s10/g3r2db2r13t1db4r2g7r2db2~x2/sett.png)|
-| [MacKillop (Clan)](/variants/s10/g3r2db2r14b1db4r2g12r2db2~x8/)|
-|![MacKillop (Clan) example sett](/variants/s10/g3r2db2r14b1db4r2g12r2db2~x8/sett.png)|
-| [Wcwm 9275-1626](/variants/s10/y4r4do2r32b1do12r2y16r4do2~x2/)|
-|![Wcwm 9275-1626 example sett](/variants/s10/y4r4do2r32b1do12r2y16r4do2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/">MacKillop (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><img src="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/sett.png" alt="MacKillop (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/">Wcwm 9275-1626</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><img src="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/sett.png" alt="Wcwm 9275-1626 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

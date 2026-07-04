@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dellen](/variants/s6/k80r6g3r12k2w2~x2/)|
-|![Dellen example sett](/variants/s6/k80r6g3r12k2w2~x2/sett.png)|
-| [Dellen](/variants/s6/k80r6dg3r12k2w2~x2/)|
-|![Dellen example sett](/variants/s6/k80r6dg3r12k2w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k80r6g3r12k2w2~x2/">Dellen</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k80r6g3r12k2w2~x2/"><img src="/variants/s6/k80r6g3r12k2w2~x2/sett.png" alt="Dellen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k6r2g17r16k1lb2~x2/">Unidentified #15</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><img src="/variants/s6/k6r2g17r16k1lb2~x2/sett.png" alt="Unidentified #15 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

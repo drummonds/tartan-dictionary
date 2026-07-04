@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cavan County Crest (Fashion)](/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/)|
-|![Cavan County Crest (Fashion) example sett](/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/">Cavan County Crest (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><img src="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/sett.png" alt="Cavan County Crest (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

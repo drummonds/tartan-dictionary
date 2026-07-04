@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edinburgh Napier University (Corp.)](/variants/s8/t4w4t4w5k8g2r19lo1~x2/)|
-|![Edinburgh Napier University (Corp.) example sett](/variants/s8/t4w4t4w5k8g2r19lo1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db4w8db8w10k16g4r38lo1/">Edinburgh Napier University</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><img src="/variants/s8/db4w8db8w10k16g4r38lo1/sett.png" alt="Edinburgh Napier University sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

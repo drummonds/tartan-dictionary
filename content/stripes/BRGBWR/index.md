@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacIntosh, dress](/variants/s6/r3w8db4g14r4db2~x2/)|
-|![MacIntosh, dress example sett](/variants/s6/r3w8db4g14r4db2~x2/sett.png)|
-| [MacKintosh Dress (Scott Adie)](/variants/s6/r3w8db4dg14r4db2~x4/)|
-|![MacKintosh Dress (Scott Adie) example sett](/variants/s6/r3w8db4dg14r4db2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r3w8db4g14r4db2~x2/">MacIntosh, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r3w8db4g14r4db2~x2/"><img src="/variants/s6/r3w8db4g14r4db2~x2/sett.png" alt="MacIntosh, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3w8db4dg14r4db2~x4/">MacKintosh Dress (Scott Adie)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r3w8db4dg14r4db2~x4/"><img src="/variants/s6/r3w8db4dg14r4db2~x4/sett.png" alt="MacKintosh Dress (Scott Adie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

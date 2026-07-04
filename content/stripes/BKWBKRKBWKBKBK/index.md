@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bristow Helicopters](/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/)|
-|![Bristow Helicopters example sett](/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/">Bristow Helicopters</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><img src="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/sett.png" alt="Bristow Helicopters sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

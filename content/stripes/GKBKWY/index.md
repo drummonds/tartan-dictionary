@@ -22,11 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Inverary](/variants/s6/y10k1db13k3lb9lo3~x2/)|
-|![Inverary example sett](/variants/s6/y10k1db13k3lb9lo3~x2/sett.png)|
-| [Inverary](/variants/s6/dg10k1db13k3w9ly3~x2/)|
-|![Inverary example sett](/variants/s6/dg10k1db13k3w9ly3~x2/sett.png)|
-| [Inverary Clan Tartan](/variants/s6/g10k1db13k3w9ly3~x2/)|
-|![Inverary Clan Tartan example sett](/variants/s6/g10k1db13k3w9ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/g10k1db13k3lb9lo3~x2/">Inverary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g10k1db13k3lb9lo3~x2/"><img src="/variants/s6/g10k1db13k3lb9lo3~x2/sett.png" alt="Inverary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

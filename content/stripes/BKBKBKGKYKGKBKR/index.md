@@ -22,13 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bailey, The House of](/variants/s15/db28k4t4k4db4k4g26k2ly5k2g26k4db40k4r10/)|
-|![Bailey, The House of example sett](/variants/s15/db28k4t4k4db4k4g26k2ly5k2g26k4db40k4r10/sett.png)|
-| [Baillie](/variants/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/)|
-|![Baillie example sett](/variants/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/sett.png)|
-| [Baillie (William Wilson)](/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2/)|
-|![Baillie (William Wilson) example sett](/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2/sett.png)|
-| [MacKenzie](/setts/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/)|
-|![MacKenzie example sett](/variants/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/">Baillie (William Wilson)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><img src="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/sett.png" alt="Baillie (William Wilson) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

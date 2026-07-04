@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kirkcaldy Tartan Army](/variants/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/)|
-|![Kirkcaldy Tartan Army example sett](/variants/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/">Kirkcaldy Tartan Army</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/"><img src="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/sett.png" alt="Kirkcaldy Tartan Army sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

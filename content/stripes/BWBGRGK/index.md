@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Isle of Cumbrae (Corporate)](/variants/s7/k3y3r3y28n28lb2n2~x2/)|
-|![Isle of Cumbrae (Corporate) example sett](/variants/s7/k3y3r3y28n28lb2n2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k3y3r3y28n28lb2n2~x2~y2201120-n1900000/">Isle of Cumbrae (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k3y3r3y28n28lb2n2~x2~y2201120-n1900000/"><img src="/variants/s7/k3y3r3y28n28lb2n2~x2~y2201120-n1900000/sett.png" alt="Isle of Cumbrae (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

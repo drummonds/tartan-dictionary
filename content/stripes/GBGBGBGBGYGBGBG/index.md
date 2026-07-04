@@ -22,9 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Aberlour Bicentenary](/variants/s15/y16dp6y6dt46y5dt8y5dp10y6lo8y48dp6y6dp6y16/)|
-|![Aberlour Bicentenary example sett](/variants/s15/y16dp6y6dt46y5dt8y5dp10y6lo8y48dp6y6dp6y16/sett.png)|
-| [Aberlour Bicentenary (Commemorative)](/variants/s15/y16dp6y6db46y5db8y5dp10y6lo8y48dp6y6dp6y16/)|
-|![Aberlour Bicentenary (Commemorative) example sett](/variants/s15/y16dp6y6db46y5db8y5dp10y6lo8y48dp6y6dp6y16/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/">Aberlour Bicentenary (Commemorative)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><img src="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/sett.png" alt="Aberlour Bicentenary (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

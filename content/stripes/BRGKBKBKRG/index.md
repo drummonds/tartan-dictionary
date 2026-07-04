@@ -22,11 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Famous Grouse, The](/variants/s10/dp3m4g26k3dp4k16dp4k3m26g2~x2/)|
-|![Famous Grouse, The example sett](/variants/s10/dp3m4g26k3dp4k16dp4k3m26g2~x2/sett.png)|
-| [Matthew Gloag](/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/)|
-|![Matthew Gloag example sett](/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/sett.png)|
-| [Matthew Gloag & Son Ltd (Corporate)](/variants/s10/g3r20k2dt3k12dt3k2g20r3dt2~x2/)|
-|![Matthew Gloag & Son Ltd (Corporate) example sett](/variants/s10/g3r20k2dt3k12dt3k2g20r3dt2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dp3r4g26k3dp4k16dp4k3r26g2~x2/">Famous Grouse, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dp3r4g26k3dp4k16dp4k3r26g2~x2/"><img src="/variants/s10/dp3r4g26k3dp4k16dp4k3r26g2~x2/sett.png" alt="Famous Grouse, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/">Matthew Gloag</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><img src="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/sett.png" alt="Matthew Gloag sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

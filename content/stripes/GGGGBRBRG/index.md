@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Brien (Scotch Corner)](/variants/s9/y36g19y4g31b2r3b2r3g12~x2/)|
-|![O'Brien (Scotch Corner) example sett](/variants/s9/y36g19y4g31b2r3b2r3g12~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/">O'Brien (Scotch Corner)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/"><img src="/variants/s9/g36gi19g4gi31t2r3t2r3gi12~x2~g1903114-gi2408144/sett.png" alt="O'Brien (Scotch Corner) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

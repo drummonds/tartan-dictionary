@@ -22,9 +22,14 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Plowman (Personal)](/variants/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2/)|
-|![Plowman (Personal) example sett](/variants/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2/sett.png)|
-| [Unnamed C18th - S.Uist](/variants/s18/r3dp34r4dg6r4dp4r40dg2ly2r2dg4r4dp36r4dg4r48dg6w1~x2/)|
-|![Unnamed C18th - S.Uist example sett](/variants/s18/r3dp34r4dg6r4dp4r40dg2ly2r2dg4r4dp36r4dg4r48dg6w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1/">Plowman (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1/"><img src="/variants/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2~dp0904317/sett.png" alt="Plowman (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Protheroe of Wales](/variants/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/)|
-|![Protheroe of Wales example sett](/variants/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dgi5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/">Protheroe of Wales</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/"><img src="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/sett.png" alt="Protheroe of Wales sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

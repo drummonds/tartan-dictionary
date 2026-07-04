@@ -22,11 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacSporran](/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/)|
-|![MacSporran example sett](/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/sett.png)|
-| [MacSporran](/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/)|
-|![MacSporran example sett](/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/sett.png)|
-| [MacSporran Clan Tartan](/variants/s13/dt17r3dt4r5dt20r3k20dg20r5dg4r3k3ly11~x2/)|
-|![MacSporran Clan Tartan example sett](/variants/s13/dt17r3dt4r5dt20r3k20dg20r5dg4r3k3ly11~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/">MacSporran</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/"><img src="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/sett.png" alt="MacSporran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

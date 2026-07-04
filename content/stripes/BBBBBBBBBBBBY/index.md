@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hawick Common Riding](/variants/s13/db4dbi23db8dbi1db3dbi2db2dbi2db2dbi3db1dbi4ly4~x2/)|
-|![Hawick Common Riding example sett](/variants/s13/db4dbi23db8dbi1db3dbi2db2dbi2db2dbi3db1dbi4ly4~x2/sett.png)|
-| [Hawick Common Riding (Commemorative)](/variants/s13/dt4db23dt8db1dt3db2dt2db2dt2db3dt1db4ly4~x2/)|
-|![Hawick Common Riding (Commemorative) example sett](/variants/s13/dt4db23dt8db1dt3db2dt2db2dt2db3dt1db4ly4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/">Hawick Common Riding (Commemorative)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/"><img src="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/sett.png" alt="Hawick Common Riding (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

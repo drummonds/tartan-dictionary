@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Serenade (Fashion)](/variants/s10/db6dp12lg3dp12b6db2b26dp16lb2dp6~x2/)|
-|![Serenade (Fashion) example sett](/variants/s10/db6dp12lg3dp12b6db2b26dp16lb2dp6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/">Serenade (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/"><img src="/variants/s10/db6dp12lg3dp12t6db2t26dp16lb2dp6~x2~lg3005197-lb3300000/sett.png" alt="Serenade (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

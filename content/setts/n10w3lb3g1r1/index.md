@@ -1,5 +1,5 @@
 ---
-title: "Bagpipe Shop (Corporate)"
+title: "Bagpipe Shop (Switzerland)"
 redirect: "/variants/s5/n10w3lb3g1r1~x10/"
 ---
-This sett is recorded as a single cloth — redirecting to [Bagpipe Shop (Corporate)](/variants/s5/n10w3lb3g1r1~x10/).
+This sett is recorded as a single cloth — redirecting to [Bagpipe Shop (Switzerland)](/variants/s5/n10w3lb3g1r1~x10/).

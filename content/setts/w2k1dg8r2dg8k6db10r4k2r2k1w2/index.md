@@ -1,14 +1,5 @@
 ---
-title: "Hargis"
-date: 2023-03-18
+title: "Hargis (Name)"
+redirect: "/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"
 ---
-The **Hargis** tartan is one sett proportion (`w2k1dg8r2dg8k6db10r4k2r2k1w2`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[KGRGKBRKRKWKRKRBKGRGKW](/stripes/kgrgkbrkrkwkrkrbkgrgkw/); each scale below is its own sett page. First attested **2002**
-— its oldest sett (★) anchors the tartan as the parent.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×2 | [Hargis (Name)](/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/) ★ | 2002 | ![Hargis (Name) sett](/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/sett.png) |
-| ×2 | [Hargis](/variants/s22/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/) | ~2016 | ![Hargis sett](/variants/s22/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/sett.png) |
+This sett is recorded as a single cloth — redirecting to [Hargis (Name)](/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/).

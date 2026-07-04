@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Spirit of West Lothian](/variants/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/)|
-|![Spirit of West Lothian example sett](/variants/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/">Spirit of West Lothian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/"><img src="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/sett.png" alt="Spirit of West Lothian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

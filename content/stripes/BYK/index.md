@@ -22,7 +22,14 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wcwm 9275-1394](/variants/s3/k19lo1n19~x8/)|
-|![Wcwm 9275-1394 example sett](/variants/s3/k19lo1n19~x8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/k19lo1n19~x8/">Wcwm 9275-1394</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k19lo1n19~x8/"><img src="/variants/s3/k19lo1n19~x8/sett.png" alt="Wcwm 9275-1394 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

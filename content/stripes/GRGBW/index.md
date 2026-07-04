@@ -22,7 +22,19 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gamba Tuscany Fife](/variants/s5/dg5r3g30db30w3~x2/)|
-|![Gamba Tuscany Fife example sett](/variants/s5/dg5r3g30db30w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/y25r10g10db11w2~x2/">Samye</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/y25r10g10db11w2~x2/"><img src="/variants/s5/y25r10g10db11w2~x2/sett.png" alt="Samye sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/y28r11g11db11w2~x2/">Samye #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/y28r11g11db11w2~x2/"><img src="/variants/s5/y28r11g11db11w2~x2/sett.png" alt="Samye #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/dg5r3g30db30w3~x2/">Gamba Tuscany Fife</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dg5r3g30db30w3~x2/"><img src="/variants/s5/dg5r3g30db30w3~x2/sett.png" alt="Gamba Tuscany Fife sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

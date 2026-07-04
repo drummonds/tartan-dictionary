@@ -1,5 +1,16 @@
 ---
-title: "Leslie, hunting"
-redirect: "/variants/s6/r2db8k8w1g8k1~x2/"
+title: "Leslie Hunting"
+date: 2023-03-18
 ---
-This sett is recorded as a single cloth — redirecting to [Leslie, hunting](/variants/s6/r2db8k8w1g8k1~x2/).
+The **Leslie Hunting** tartan is one sett proportion (`r2db8k8w1g8k1`) recorded at 2 scales — the
+same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
+[KGWKBR](/stripes/kgwkbr/); each scale below is its own sett page. First attested **~2016**
+— its oldest sett (★) anchors the tartan as the parent.
+
+Part of the [Leslie Hunting](/tartans/leslie-hunting/) tartan — the named design grouping this proportion with its other setts.
+
+
+| Scale | Sett | Earliest | |
+|---|---|---|---|
+| ×1 | [Leslie Hunting](/variants/s6/r2db8k8w1g8k1/) ★ | ~2016 | ![Leslie Hunting sett](/variants/s6/r2db8k8w1g8k1/sett.png) |
+| ×2 | [Leslie, hunting](/variants/s6/r2db8k8w1g8k1~x2/) | ~2016 | ![Leslie, hunting sett](/variants/s6/r2db8k8w1g8k1~x2/sett.png) |

@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Nesbit, Rose](/variants/s6/r6lb3r37k16lb16g4~x2/)|
-|![Nesbit, Rose example sett](/variants/s6/r6lb3r37k16lb16g4~x2/sett.png)|
-| [Nisbet Dress Rose (Dance)](/variants/s6/m3w1m20k8w8g2~x4/)|
-|![Nisbet Dress Rose (Dance) example sett](/variants/s6/m3w1m20k8w8g2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r6w3r37k16w16g4~x2/">Nesbit, Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r6w3r37k16w16g4~x2/"><img src="/variants/s6/r6w3r37k16w16g4~x2/sett.png" alt="Nesbit, Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3w1r20k8w8g2~x4/">Nisbet Dress Rose (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r3w1r20k8w8g2~x4/"><img src="/variants/s6/r3w1r20k8w8g2~x4/sett.png" alt="Nisbet Dress Rose (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

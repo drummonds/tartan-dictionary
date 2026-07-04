@@ -22,9 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dollar Academy (1999)](/variants/s8/lb2dt19k4dt4k4g9db2k1~x4/)|
-|![Dollar Academy (1999) example sett](/variants/s8/lb2dt19k4dt4k4g9db2k1~x4/sett.png)|
-| [Dollar Academy (1999) (Corporate)](/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4/)|
-|![Dollar Academy (1999) (Corporate) example sett](/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/">Dollar Academy (1999)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><img src="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/sett.png" alt="Dollar Academy (1999) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/">Dollar Academy (1999) (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/"><img src="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/sett.png" alt="Dollar Academy (1999) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -7,8 +7,10 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 [BWBKBKBKGKGR](/stripes/bwbkbkbkgkgr/); each scale below is its own sett page. First attested **1842**
 — its oldest sett (★) anchors the tartan as the parent.
 
+Part of the [Urquhart](/tartans/urquhart-3/) tartan — the named design grouping this proportion with its other setts.
+
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×2 | [Urquhart - 1842 (Clan)](/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/) ★ | 1842 | ![Urquhart - 1842 (Clan) sett](/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/sett.png) |
+| ×2 | [Urquhart (White Line)](/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/) ★ | 1842 | ![Urquhart (White Line) sett](/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/sett.png) |
 | ×1 | [Urquhart, White Line](/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/) | ~2016 | ![Urquhart, White Line sett](/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/sett.png) |

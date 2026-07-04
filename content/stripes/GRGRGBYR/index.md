@@ -22,11 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Leatherneck U.S.Marine Corps Corporate Tartan](/variants/s8/g28r2g2r2g8db24ly3r2~x2/)|
-|![Leatherneck U.S.Marine Corps Corporate Tartan example sett](/variants/s8/g28r2g2r2g8db24ly3r2~x2/sett.png)|
-| [U.S. Marine Corps (Military?)](/variants/s8/dg40r3dg4r3dg12db32ly4r3~x2/)|
-|![U.S. Marine Corps (Military?) example sett](/variants/s8/dg40r3dg4r3dg12db32ly4r3~x2/sett.png)|
-| [US Marine Corps](/variants/s8/g40r3g4r3g12db32lo4r3~x2/)|
-|![US Marine Corps example sett](/variants/s8/g40r3g4r3g12db32lo4r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/">U.S. Marine Corps (Military?)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><img src="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/sett.png" alt="U.S. Marine Corps (Military?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/">US Marine Corps</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><img src="/variants/s8/g40r3g4r3g12db32lo4r3~x2/sett.png" alt="US Marine Corps sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

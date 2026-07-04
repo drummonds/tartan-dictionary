@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Redgate Dress (Name)](/variants/s14/lb7db4lb2db7r2db7k6lb1k6lo5db3lo3y13lo4~x2/)|
-|![Redgate Dress (Name) example sett](/variants/s14/lb7db4lb2db7r2db7k6lb1k6lo5db3lo3y13lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/w7db4w2db7r2db7k6w1k6ly5db3ly3g13ly4~x2/">Redgate Dress (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/w7db4w2db7r2db7k6w1k6ly5db3ly3g13ly4~x2/"><img src="/variants/s14/w7db4w2db7r2db7k6w1k6ly5db3ly3g13ly4~x2/sett.png" alt="Redgate Dress (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Prickly Thistle (Corporate)](/variants/s17/g3y15ly3y3lp1y1lp1y1lp1y1lp1y1lp1y1lp12lb15g3~x2/)|
-|![Prickly Thistle (Corporate) example sett](/variants/s17/g3y15ly3y3lp1y1lp1y1lp1y1lp1y1lp1y1lp12lb15g3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/">Prickly Thistle (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/"><img src="/variants/s17/gi3g15ly3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12lb15gi3~x2~gi2408144-g1903114/sett.png" alt="Prickly Thistle (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

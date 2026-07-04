@@ -22,15 +22,25 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Austin](/setts/db4k4db4dg9k2/)|
-|![Austin example sett](/variants/s5/db4k4db4dg9k2/sett.png)|
-| [Austin Clan](/variants/s5/db4k4db4g9k2~x2/)|
-|![Austin Clan example sett](/variants/s5/db4k4db4g9k2~x2/sett.png)|
-| [Austin WI](/setts/n3k3n3dg6k2/)|
-|![Austin WI example sett](/variants/s5/n3k3n3dg6k2/sett.png)|
-| [Dallard (Personal)](/variants/s5/k37dg37n8ki3dp5~x2/)|
-|![Dallard (Personal) example sett](/variants/s5/k37dg37n8ki3dp5~x2/sett.png)|
-| [Falconer](/variants/s5/b3k4b4g9k2~x4/)|
-|![Falconer example sett](/variants/s5/b3k4b4g9k2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/db4k4db4g9k2/">Austin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db4k4db4g9k2/"><img src="/variants/s5/db4k4db4g9k2/sett.png" alt="Austin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/t3k4t4g9k2~x4/">Falconer</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/t3k4t4g9k2~x4/"><img src="/variants/s5/t3k4t4g9k2~x4/sett.png" alt="Falconer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/dr3k3dr3g6k2/">Austin WI</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dr3k3dr3g6k2/"><img src="/variants/s5/dr3k3dr3g6k2/sett.png" alt="Austin WI sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/">Dallard (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><img src="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/sett.png" alt="Dallard (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/db20k5db18y26k6~x2/">Jahore</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db20k5db18y26k6~x2/"><img src="/variants/s5/db20k5db18y26k6~x2/sett.png" alt="Jahore sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

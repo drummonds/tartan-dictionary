@@ -22,9 +22,17 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hueg (Formal) (Personal)](/variants/s11/r4w4r5b4r12gi4r12g8b13dt3b4~x2/)|
-|![Hueg (Formal) (Personal) example sett](/variants/s11/r4w4r5b4r12gi4r12g8b13dt3b4~x2/sett.png)|
-| [Hueg (Munich) Formal (Personal)](/variants/s11/r4w4r5t4r12dgi4r12dg8t13dp3t4~x2/)|
-|![Hueg (Munich) Formal (Personal) example sett](/variants/s11/r4w4r5t4r12dgi4r12dg8t13dp3t4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/">Hueg (Formal) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/"><img src="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/sett.png" alt="Hueg (Formal) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/">Hueg (Munich) Formal (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/"><img src="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/sett.png" alt="Hueg (Munich) Formal (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

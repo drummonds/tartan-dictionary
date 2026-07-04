@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lockhart](/variants/s9/g13k2g34k6b16r2b16k2g13~x2/)|
-|![Lockhart example sett](/variants/s9/g13k2g34k6b16r2b16k2g13~x2/sett.png)|
-| [Lockhart](/variants/s9/g13k3g34k6db16r2db16k3g13~x2/)|
-|![Lockhart example sett](/variants/s9/g13k3g34k6db16r2db16k3g13~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/">Lockhart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><img src="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/sett.png" alt="Lockhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/">Lockhart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/"><img src="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/sett.png" alt="Lockhart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

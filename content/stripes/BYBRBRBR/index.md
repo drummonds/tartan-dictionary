@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Turnberry (MacArthur)](/variants/s8/o24n3o3n3o3n20lr22n4~x2/)|
-|![Turnberry (MacArthur) example sett](/variants/s8/o24n3o3n3o3n20lr22n4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/">Hamilton, Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/"><img src="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/sett.png" alt="Hamilton, Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

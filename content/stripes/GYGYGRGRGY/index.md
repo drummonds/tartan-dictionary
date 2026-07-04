@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Montreal](/variants/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/)|
-|![Montreal example sett](/variants/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/ly78g10r2g1r2g6ly2g3ly2g43~x2/">Montreal</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/ly78g10r2g1r2g6ly2g3ly2g43~x2/"><img src="/variants/s10/ly78g10r2g1r2g6ly2g3ly2g43~x2/sett.png" alt="Montreal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

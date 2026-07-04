@@ -22,7 +22,14 @@ It is a 36 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Weiss-Halliwell (Personal)](/variants/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/)|
-|![Weiss-Halliwell (Personal) example sett](/variants/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/">Weiss-Halliwell (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/"><img src="/variants/s36/dp6k1n1k2n1k1dp6k1n22k3n1k3n10k1dp3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/sett.png" alt="Weiss-Halliwell (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

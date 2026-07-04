@@ -22,13 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lynch](/variants/s6/r3db2r1db18g1db2~x4/)|
-|![Lynch example sett](/variants/s6/r3db2r1db18g1db2~x4/sett.png)|
-| [Lynch](/variants/s6/r19db6r7db101dg6db7~x2/)|
-|![Lynch example sett](/variants/s6/r19db6r7db101dg6db7~x2/sett.png)|
-| [Lynch Family Tartan](/variants/s6/r19db6r14db101g7db7/)|
-|![Lynch Family Tartan example sett](/variants/s6/r19db6r14db101g7db7/sett.png)|
-| [Lynch Variant](/variants/s6/r12dp3r7dp52dg4dp4~x2/)|
-|![Lynch Variant example sett](/variants/s6/r12dp3r7dp52dg4dp4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r3db2r1db18g1db2~x4/">Lynch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r3db2r1db18g1db2~x4/"><img src="/variants/s6/r3db2r1db18g1db2~x4/sett.png" alt="Lynch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r19db6r14db101g7db7/">Lynch Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r19db6r14db101g7db7/"><img src="/variants/s6/r19db6r14db101g7db7/sett.png" alt="Lynch Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

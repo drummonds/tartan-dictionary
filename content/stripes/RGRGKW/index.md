@@ -22,19 +22,22 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacGregor](/variants/s6/r36dg18r4dg6k1lb2/)|
-|![MacGregor example sett](/variants/s6/r36dg18r4dg6k1lb2/sett.png)|
-| [MacGregor](/variants/s6/r36g18r4g6k1w2~x2/)|
-|![MacGregor example sett](/variants/s6/r36g18r4g6k1w2~x2/sett.png)|
-| [MacGregor #3](/variants/s6/r36dg18r4dg6k1w2~x2/)|
-|![MacGregor #3 example sett](/variants/s6/r36dg18r4dg6k1w2~x2/sett.png)|
-| [MacGregor #4](/variants/s6/r41g19r7g8k1w3~x2/)|
-|![MacGregor #4 example sett](/variants/s6/r41g19r7g8k1w3~x2/sett.png)|
-| [MacGregor - 1800 (Clan)](/variants/s6/r57g21r8g8k1w3~x2/)|
-|![MacGregor - 1800 (Clan) example sett](/variants/s6/r57g21r8g8k1w3~x2/sett.png)|
-| [MacGregor Hunting Glengyle Clan Tartan](/variants/s6/m96g42m16g17k4lb6/)|
-|![MacGregor Hunting Glengyle Clan Tartan example sett](/variants/s6/m96g42m16g17k4lb6/sett.png)|
-| [MacGregor of Cardney](/variants/s6/m18g9m2g3k1w1~x4/)|
-|![MacGregor of Cardney example sett](/variants/s6/m18g9m2g3k1w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r36g18r4g6k1w2/">MacGregor</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r36g18r4g6k1w2/"><img src="/variants/s6/r36g18r4g6k1w2/sett.png" alt="MacGregor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r41g19r7g8k1w3~x2/">MacGregor #4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r41g19r7g8k1w3~x2/"><img src="/variants/s6/r41g19r7g8k1w3~x2/sett.png" alt="MacGregor #4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r57dg21r8dg8k1w3~x2/">MacGregor - 1800 (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><img src="/variants/s6/r57dg21r8dg8k1w3~x2/sett.png" alt="MacGregor - 1800 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r96g42r16g17k4lb6/">MacGregor Hunting Glengyle Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r96g42r16g17k4lb6/"><img src="/variants/s6/r96g42r16g17k4lb6/sett.png" alt="MacGregor Hunting Glengyle Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r18g9r2g3k1w1~x4/">MacGregor of Cardney</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r18g9r2g3k1w1~x4/"><img src="/variants/s6/r18g9r2g3k1w1~x4/sett.png" alt="MacGregor of Cardney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

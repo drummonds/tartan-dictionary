@@ -22,9 +22,14 @@ It is a 21 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [New Star](/variants/s21/dp3lo1k4dp1k4dp1k41dp1k4dp1k4o15lo1o3lo2o3lo3o1lo6k1w2~x2/)|
-|![New Star example sett](/variants/s21/dp3lo1k4dp1k4dp1k41dp1k4dp1k4o15lo1o3lo2o3lo3o1lo6k1w2~x2/sett.png)|
-| [New Star (Fashion)](/variants/s21/dp3lo1k4dp1k4dp1k41dp1k4dp1k4r15lo1r3lo2r3lo3r1lo6k1w2~x2/)|
-|![New Star (Fashion) example sett](/variants/s21/dp3lo1k4dp1k4dp1k41dp1k4dp1k4r15lo1r3lo2r3lo3r1lo6k1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s21/dr3ly1k4dr1k4dr1k41dr1k4dr1k4o15ly1o3ly2o3ly3o1ly6k1w2~x2/">New Star</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/dr3ly1k4dr1k4dr1k41dr1k4dr1k4o15ly1o3ly2o3ly3o1ly6k1w2~x2/"><img src="/variants/s21/dr3ly1k4dr1k4dr1k41dr1k4dr1k4o15ly1o3ly2o3ly3o1ly6k1w2~x2/sett.png" alt="New Star sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

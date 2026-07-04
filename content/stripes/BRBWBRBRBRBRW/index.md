@@ -22,7 +22,17 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Largs (1981) (District)](/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/)|
-|![Largs (1981) (District) example sett](/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/">Largs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><img src="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/sett.png" alt="Largs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/">Largs (1981) (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><img src="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/sett.png" alt="Largs (1981) (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

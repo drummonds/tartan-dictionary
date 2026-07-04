@@ -22,15 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Clan Haggis World (Corporate)](/variants/s5/r13lo13g13db22w4~x2/)|
-|![Clan Haggis World (Corporate) example sett](/variants/s5/r13lo13g13db22w4~x2/sett.png)|
-| [Clan Haggis World (Corporate)](/variants/s5/r13ly13g13b22w4~x2/)|
-|![Clan Haggis World (Corporate) example sett](/variants/s5/r13ly13g13b22w4~x2/sett.png)|
-| [Turnbull Hunting](/variants/s5/r7ly3dg28db28w3~x2/)|
-|![Turnbull Hunting example sett](/variants/s5/r7ly3dg28db28w3~x2/sett.png)|
-| [Turnbull Hunting (Name)](/variants/s5/r2ly1g10db10w1~x6/)|
-|![Turnbull Hunting (Name) example sett](/variants/s5/r2ly1g10db10w1~x6/sett.png)|
-| [Turnbull, hunting](/variants/s5/r7ly3g28db28w3~x2/)|
-|![Turnbull, hunting example sett](/variants/s5/r7ly3g28db28w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r13lo13g13db22w4~x2/">Clan Haggis World (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r13lo13g13db22w4~x2/"><img src="/variants/s5/r13lo13g13db22w4~x2/sett.png" alt="Clan Haggis World (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,19 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Allen, Nicholas (Personal)](/variants/s6/r8k24db10k5db10k5~x2/)|
-|![Allen, Nicholas (Personal) example sett](/variants/s6/r8k24db10k5db10k5~x2/sett.png)|
-| [Slanj (Corporate)](/variants/s6/m4k28b3k3b25k3~x2/)|
-|![Slanj (Corporate) example sett](/variants/s6/m4k28b3k3b25k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r8k24db10k5db10k5~x2/">Allen, Nicholas (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r8k24db10k5db10k5~x2/"><img src="/variants/s6/r8k24db10k5db10k5~x2/sett.png" alt="Allen, Nicholas (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/o4k28t3k3t25k3~x2/">Slanj (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/o4k28t3k3t25k3~x2/"><img src="/variants/s6/o4k28t3k3t25k3~x2/sett.png" alt="Slanj (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/k2n6k2n6k12r1~x4/">MacSween, Black (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k2n6k2n6k12r1~x4/"><img src="/variants/s6/k2n6k2n6k12r1~x4/sett.png" alt="MacSween, Black (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

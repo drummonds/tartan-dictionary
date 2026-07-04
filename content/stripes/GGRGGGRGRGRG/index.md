@@ -22,7 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Frame - Ferniegair (Personal)](/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/)|
-|![Frame - Ferniegair (Personal) example sett](/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/">Frame (Ferniegair) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/"><img src="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/sett.png" alt="Frame (Ferniegair) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/">Frame - Ferniegair (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><img src="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/sett.png" alt="Frame - Ferniegair (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

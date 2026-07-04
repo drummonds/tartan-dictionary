@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Undiscovered Scotland (Corporate)](/variants/s11/dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/)|
-|![Undiscovered Scotland (Corporate) example sett](/variants/s11/dg50gi6dg3k6g1gi6k5lb5k18lb3g1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/">Undiscovered Scotland (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><img src="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/sett.png" alt="Undiscovered Scotland (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

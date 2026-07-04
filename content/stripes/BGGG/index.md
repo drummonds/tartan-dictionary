@@ -22,7 +22,20 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Green Alaskan](/variants/s4/dg41y26yi19n19~x2/)|
-|![Green Alaskan example sett](/variants/s4/dg41y26yi19n19~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/g56dy13y13n5~x2/">Colonial Marine (Aliens Legacy)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g56dy13y13n5~x2/"><img src="/variants/s4/g56dy13y13n5~x2/sett.png" alt="Colonial Marine (Aliens Legacy) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dg41y26yi19n19~x2~dg1605139-y2303114-yi2400000-n1700000/">Green Alaskan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dg41y26yi19n19~x2~dg1605139-y2303114-yi2400000-n1700000/"><img src="/variants/s4/dg41y26yi19n19~x2~dg1605139-y2303114-yi2400000-n1700000/sett.png" alt="Green Alaskan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dr3dg40dy30dg3~x2/">Sanix Muted</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dr3dg40dy30dg3~x2/"><img src="/variants/s4/dr3dg40dy30dg3~x2/sett.png" alt="Sanix Muted sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

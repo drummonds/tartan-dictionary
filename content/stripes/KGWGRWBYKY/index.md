@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bird Family (Personal)](/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/)|
-|![Bird Family (Personal) example sett](/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/">Bird Family (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/"><img src="/variants/s10/ly4k28ly2db7w3r9g2w4g2k2~x2/sett.png" alt="Bird Family (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

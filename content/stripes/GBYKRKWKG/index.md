@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Michael Pellicci (Personal)](/variants/s9/dg60db1lo5k1r15k1w15k1dg15~x2/)|
-|![Michael Pellicci (Personal) example sett](/variants/s9/dg60db1lo5k1r15k1w15k1dg15~x2/sett.png)|
-| [Pellicci, Michael (Personal)](/variants/s9/g60db1lo5k1r15k1w15k1g15~x2/)|
-|![Pellicci, Michael (Personal) example sett](/variants/s9/g60db1lo5k1r15k1w15k1g15~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/">Pellicci, Michael (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><img src="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/sett.png" alt="Pellicci, Michael (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

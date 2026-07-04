@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified (2103)](/variants/s11/n2k2n2k2w1o1w1o1w1o1r2~x8/)|
-|![Unidentified (2103) example sett](/variants/s11/n2k2n2k2w1o1w1o1w1o1r2~x8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/n2k2n2k2w1o1w1o1w1o1r2~x8~n1900000-o2500000/">Unidentified (2103)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/n2k2n2k2w1o1w1o1w1o1r2~x8~n1900000-o2500000/"><img src="/variants/s11/n2k2n2k2w1o1w1o1w1o1r2~x8~n1900000-o2500000/sett.png" alt="Unidentified (2103) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

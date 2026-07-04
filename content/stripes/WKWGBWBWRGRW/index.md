@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Grant of Achnarrow Error 1983](/variants/s12/w14k3w28g6db4w2db2w14r12g3r4w4~x2/)|
-|![Grant of Achnarrow Error 1983 example sett](/variants/s12/w14k3w28g6db4w2db2w14r12g3r4w4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/">Grant of Achnarrow Error 1983</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/"><img src="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/sett.png" alt="Grant of Achnarrow Error 1983 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

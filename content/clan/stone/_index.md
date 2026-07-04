@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s9/db4ly2db17k2r4k2db3k11db3~x2/"><img src="/variants/s9/db4ly2db17k2r4k2db3k11db3~x2/sett.png" alt="Stone of Destiny" width="240"><br>Stone of Destiny</a>
+<a class="tartan" href="/variants/s9/db4y2db17k2r4k2db3k11db3~x2/"><img src="/variants/s9/db4y2db17k2r4k2db3k11db3~x2/sett.png" alt="Stone of Destiny" width="240"><br>Stone of Destiny</a>
 
 ## Families
 

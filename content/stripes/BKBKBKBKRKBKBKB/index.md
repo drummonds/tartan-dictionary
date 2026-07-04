@@ -22,9 +22,16 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Mundigl](/variants/s15/bi12k2bi2k2bi2k10r2k10b12k3b12k10bi11k2bi2~x2/)|
-|![Mundigl example sett](/variants/s15/bi12k2bi2k2bi2k10r2k10b12k3b12k10bi11k2bi2~x2/sett.png)|
-| [Mundigl Family Tartan](/variants/s15/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2~x2/)|
-|![Mundigl Family Tartan example sett](/variants/s15/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/">Mundigl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><img src="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/sett.png" alt="Mundigl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2~x2~db1406275-dbi1506265/">Mundigl Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2~x2~db1406275-dbi1506265/"><img src="/variants/s15/db12k2db2k2db2k10r2k10dbi12k3dbi12k10db11k2db2~x2~db1406275-dbi1506265/sett.png" alt="Mundigl Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -1,5 +1,5 @@
 ---
-title: "MacDonell of Glengarry"
+title: "MacDonell of Glengarry #2"
 redirect: "/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"
 ---
-This sett is recorded as a single cloth — redirecting to [MacDonell of Glengarry](/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/).
+This sett is recorded as a single cloth — redirecting to [MacDonell of Glengarry #2](/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/).

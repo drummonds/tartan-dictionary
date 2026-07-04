@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Crowne Plaza (Corporate)](/variants/s13/dg27r2dg3r3n3lo2n14r2n3lo3n3r2n14~x2/)|
-|![Crowne Plaza (Corporate) example sett](/variants/s13/dg27r2dg3r3n3lo2n14r2n3lo3n3r2n14~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/">Crowne Plaza (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><img src="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/sett.png" alt="Crowne Plaza (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

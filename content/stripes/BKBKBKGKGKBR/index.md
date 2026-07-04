@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Young Presidents Organisation](/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/)|
-|![Young Presidents Organisation example sett](/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r22db5k10g12k2g12k10db3k2db3k2db16/">Young Presidents Organisation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r22db5k10g12k2g12k10db3k2db3k2db16/"><img src="/variants/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2~r2109032-db1406275/sett.png" alt="Young Presidents Organisation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

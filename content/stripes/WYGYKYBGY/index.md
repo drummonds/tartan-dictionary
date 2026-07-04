@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [State Seal of Kansas (Fashion)](/variants/s9/lo5g23b21loi30k10loi4g4loi16lb3~x2/)|
-|![State Seal of Kansas (Fashion) example sett](/variants/s9/lo5g23b21loi30k10loi4g4loi16lb3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/">State Seal of Kansas (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/"><img src="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/sett.png" alt="State Seal of Kansas (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

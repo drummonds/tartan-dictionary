@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Balmoral](/variants/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/)|
-|![Balmoral example sett](/variants/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/">Balmoral</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><img src="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/sett.png" alt="Balmoral sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

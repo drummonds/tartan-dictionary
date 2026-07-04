@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stewart Camel Fashion Tartan](/variants/s14/y3k3dg2k6yi7dg2y3dg2lo3dg5y3b3y20k2~x2/)|
-|![Stewart Camel Fashion Tartan example sett](/variants/s14/y3k3dg2k6yi7dg2y3dg2lo3dg5y3b3y20k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/y3k3dg2k6g7dg2y3dg2ly3dg5y3b3y20k2~x2~ly2705081/">Stewart Camel Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/y3k3dg2k6g7dg2y3dg2ly3dg5y3b3y20k2~x2~ly2705081/"><img src="/variants/s14/y3k3dg2k6g7dg2y3dg2ly3dg5y3b3y20k2~x2~ly2705081/sett.png" alt="Stewart Camel Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

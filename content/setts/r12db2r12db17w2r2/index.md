@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×2 | [British European](/variants/s6/r12db2r12db17w2r2~x2/) ★ | 2001 | ![British European sett](/variants/s6/r12db2r12db17w2r2~x2/sett.png) |
+| ×2 | [British European](/variants/s6/r12db2r12db17w2r2~x2~r1807033/) ★ | 2001 | ![British European sett](/variants/s6/r12db2r12db17w2r2~x2~r1807033/sett.png) |
 | ×4 | [British European (Corporate)](/variants/s6/r12db2r12db17w2r2~x4/) | ~2004 | ![British European (Corporate) sett](/variants/s6/r12db2r12db17w2r2~x4/sett.png) |

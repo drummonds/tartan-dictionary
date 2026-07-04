@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [St. Christopher](/variants/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/)|
-|![St. Christopher example sett](/variants/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2~x2~dg1605139-lyi3104101-ly2705081/">St. Christopher</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2~x2~dg1605139-lyi3104101-ly2705081/"><img src="/variants/s14/dg24lyi8dg1ly2dg3r3dg5r3dg3ly2dg1lyi8dg24ly2~x2~dg1605139-lyi3104101-ly2705081/sett.png" alt="St. Christopher sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

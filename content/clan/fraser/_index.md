@@ -14,4 +14,5 @@ date: 2023-03-18
 - [Fraser of Boblainy, Hugh](/families/fraser-of-boblainy-hugh/)
 - [Fraser of Castle Leathers, Major James](/families/fraser-of-castle-leathers-major-james/)
 - [Fraser of Lovat](/families/fraser-of-lovat/)
+- [Fraser of Stratherrick](/families/fraser-of-stratherrick/)
 

@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><img src="/variants/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/sett.png" alt="Sutherland" width="240"><br>Sutherland</a>
+<a class="tartan" href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><img src="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/sett.png" alt="Sutherland (Clan)" width="240"><br>Sutherland (Clan)</a>
 
 ## Families
 

@@ -22,11 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Norwich No.052](/variants/s8/g19w1db12t2db2t2db2t16~x2/)|
-|![Norwich No.052 example sett](/variants/s8/g19w1db12t2db2t2db2t16~x2/sett.png)|
-| [Unidentified No 52](/variants/s8/dg19w1db12b2db2b2db2b16~x2/)|
-|![Unidentified No 52 example sett](/variants/s8/dg19w1db12b2db2b2db2b16~x2/sett.png)|
-| [Unnamed, No 52](/variants/s8/g19w1db12b2db2b2db2b16~x2/)|
-|![Unnamed, No 52 example sett](/variants/s8/g19w1db12b2db2b2db2b16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/">Unnamed, No 52</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><img src="/variants/s8/g19w1db12b2db2b2db2b16~x2/sett.png" alt="Unnamed, No 52 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

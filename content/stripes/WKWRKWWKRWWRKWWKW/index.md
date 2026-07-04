@@ -22,7 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Abergavenny](/variants/s17/lbi36k41lbi4lb6k8o24lbi12lb4o4k6lb4lbi4k48o4lbi8k22lbi18/)|
-|![Abergavenny example sett](/variants/s17/lbi36k41lbi4lb6k8o24lbi12lb4o4k6lb4lbi4k48o4lbi8k22lbi18/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/">Abergaveny (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><img src="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/sett.png" alt="Abergaveny (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,15 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Banff Centennial](/variants/s8/k1b1k1b12dg12k1dg1ly1~x4/)|
-|![Banff Centennial example sett](/variants/s8/k1b1k1b12dg12k1dg1ly1~x4/sett.png)|
-| [Banff Centennial (Commemorative)](/variants/s8/k1b1k1b7dg8k1dg1ly1~x4/)|
-|![Banff Centennial (Commemorative) example sett](/variants/s8/k1b1k1b7dg8k1dg1ly1~x4/sett.png)|
-| [Johnston](/setts/ly3dg2k1dg30db24k2db2k2/)|
-|![Johnston example sett](/variants/s8/ly3dg2k1dg30db24k2db2k2/sett.png)|
-| [Johnston (Clan)](/variants/s8/ly3g2k1g30b24k2b2k2~x2/)|
-|![Johnston (Clan) example sett](/variants/s8/ly3g2k1g30b24k2b2k2~x2/sett.png)|
-| [Johnston / Johnstone](/variants/s8/ly3g2k1g30db24k2db2k2~x2/)|
-|![Johnston / Johnstone example sett](/variants/s8/ly3g2k1g30db24k2db2k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/">Banff Centennial</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><img src="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/sett.png" alt="Banff Centennial sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/">Banff Centennial (Commemorative)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><img src="/variants/s8/k1t1k1t7g8k1g1ly1~x4/sett.png" alt="Banff Centennial (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

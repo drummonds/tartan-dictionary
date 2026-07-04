@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacNeil of Colonsay](/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/)|
-|![MacNeil of Colonsay example sett](/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/sett.png)|
-| [MacNeil of Colonsay (Highland Society of London)](/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/)|
-|![MacNeil of Colonsay (Highland Society of London) example sett](/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/">MacNeil of Colonsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><img src="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/sett.png" alt="MacNeil of Colonsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/">MacNeil of Colonsay (Highland Society of London)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><img src="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/sett.png" alt="MacNeil of Colonsay (Highland Society of London) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

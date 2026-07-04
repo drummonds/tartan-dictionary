@@ -22,21 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cranston](/variants/s8/gi14t2gi2t2gi3t6g12r2~x2/)|
-|![Cranston example sett](/variants/s8/gi14t2gi2t2gi3t6g12r2~x2/sett.png)|
-| [Cranstoun](/variants/s8/gi14db1gi1db1gi3db6g12r2~x2/)|
-|![Cranstoun example sett](/variants/s8/gi14db1gi1db1gi3db6g12r2~x2/sett.png)|
-| [Cranstoun Clan Tartan](/variants/s8/g14db1g1db1g3db6gi12r2~x2/)|
-|![Cranstoun Clan Tartan example sett](/variants/s8/g14db1g1db1g3db6gi12r2~x2/sett.png)|
-| [Crantock](/variants/s8/g24p3g3p3g3p7dg20r3~x2/)|
-|![Crantock example sett](/variants/s8/g24p3g3p3g3p7dg20r3~x2/sett.png)|
-| [Crantock](/variants/s8/y24dp3y3dp3y3dp7dg20r3~x2/)|
-|![Crantock example sett](/variants/s8/y24dp3y3dp3y3dp7dg20r3~x2/sett.png)|
-| [Crantock Trade Tartan](/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/)|
-|![Crantock Trade Tartan example sett](/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/sett.png)|
-| [Devarr (Fashion)](/variants/s8/dy31do3dy3do3dy3do22y26r4~x2/)|
-|![Devarr (Fashion) example sett](/variants/s8/dy31do3dy3do3dy3do22y26r4~x2/sett.png)|
-| [Hector, James](/variants/s8/dg8dt27dg11do2dg11dt27dg8r2~x2/)|
-|![Hector, James example sett](/variants/s8/dg8dt27dg11do2dg11dt27dg8r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/">Cranstoun Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><img src="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/sett.png" alt="Cranstoun Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/g24dp3g3dp3g3dp7dg20r3/">Crantock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g24dp3g3dp3g3dp7dg20r3/"><img src="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Highfield Dress](/variants/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/)|
-|![Highfield Dress example sett](/variants/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/">Highfield Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><img src="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/sett.png" alt="Highfield Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

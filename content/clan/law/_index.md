@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s11/db10r3db3r6db26g12r6g2r3g6lo2~x2/"><img src="/variants/s11/db10r3db3r6db26g12r6g2r3g6lo2~x2/sett.png" alt="Law of Atholl (Personal)" width="240"><br>Law of Atholl (Personal)</a>
+<a class="tartan" href="/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/"><img src="/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/sett.png" alt="Law of Atholl (Personal)" width="240"><br>Law of Atholl (Personal)</a>
 
 ## Families
 

@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sirens & Swords](/variants/s6/dt36y20dg6w12k6r3~x2/)|
-|![Sirens & Swords example sett](/variants/s6/dt36y20dg6w12k6r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/">Sirens &amp; Swords</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/"><img src="/variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/sett.png" alt="Sirens &amp; Swords sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

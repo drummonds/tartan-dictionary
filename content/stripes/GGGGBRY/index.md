@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pubcrawlers (Corporate)](/variants/s7/g3dy4g2dy22n5r16ly3~x2/)|
-|![Pubcrawlers (Corporate) example sett](/variants/s7/g3dy4g2dy22n5r16ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/">Pubcrawlers (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><img src="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/sett.png" alt="Pubcrawlers (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

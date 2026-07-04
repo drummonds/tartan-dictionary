@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pearl O' the Tay (Corporate)](/variants/s11/dt6g3dt3w2dt5k2dt3k2dp16m3k2~x2/)|
-|![Pearl O' the Tay (Corporate) example sett](/variants/s11/dt6g3dt3w2dt5k2dt3k2dp16m3k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/">Pearl O' the Tay (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><img src="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/sett.png" alt="Pearl O' the Tay (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

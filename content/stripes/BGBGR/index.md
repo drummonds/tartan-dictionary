@@ -22,11 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hector, James (Corporate)](/variants/s5/do2dg11dt27dg8r2~x2/)|
-|![Hector, James (Corporate) example sett](/variants/s5/do2dg11dt27dg8r2~x2/sett.png)|
-| [MacNab WI 1](/variants/s5/dr24dg1b1dg2r24~x2/)|
-|![MacNab WI 1 example sett](/variants/s5/dr24dg1b1dg2r24~x2/sett.png)|
-| [Unidentified #24](/variants/s5/db16dy2db16dy19r4~x3/)|
-|![Unidentified #24 example sett](/variants/s5/db16dy2db16dy19r4~x3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/db1dy9db2dy9r1~x4/">Brooks Brothers Tattersall Camel</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db1dy9db2dy9r1~x4/"><img src="/variants/s5/db1dy9db2dy9r1~x4/sett.png" alt="Brooks Brothers Tattersall Camel sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/db16dy2db16dy19r4~x3/">Unidentified #24</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db16dy2db16dy19r4~x3/"><img src="/variants/s5/db16dy2db16dy19r4~x3/sett.png" alt="Unidentified #24 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

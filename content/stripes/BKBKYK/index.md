@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Oakleigh (Corporate)](/variants/s6/k4ly1k20b20k1b4~x4/)|
-|![Oakleigh (Corporate) example sett](/variants/s6/k4ly1k20b20k1b4~x4/sett.png)|
-| [Sligo Irish County Tartan](/variants/s6/t50k4t12k23lo4k4~x2/)|
-|![Sligo Irish County Tartan example sett](/variants/s6/t50k4t12k23lo4k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/n50k4n12k23lo4k4~x2/">Sligo Irish County Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><img src="/variants/s6/n50k4n12k23lo4k4~x2/sett.png" alt="Sligo Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

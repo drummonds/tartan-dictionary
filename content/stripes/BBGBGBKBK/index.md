@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Orman (Midlothian) (Personal)](/variants/s9/k10db3k3db32dg1db1dg1db2n2~x2/)|
-|![Orman (Midlothian) (Personal) example sett](/variants/s9/k10db3k3db32dg1db1dg1db2n2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/">Orman (Midlothian) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><img src="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/sett.png" alt="Orman (Midlothian) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

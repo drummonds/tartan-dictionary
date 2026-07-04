@@ -22,19 +22,22 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Eglinton](/variants/s7/k3r3k3t16k3g3k3~x2/)|
-|![Eglinton example sett](/variants/s7/k3r3k3t16k3g3k3~x2/sett.png)|
-| [Eglinton](/setts/k3dg3k3b16k3r3k3/)|
-|![Eglinton example sett](/variants/s7/k3dg3k3b16k3r3k3/sett.png)|
-| [Eglinton](/variants/s7/k1r1k1db7k1g1k1~x8/)|
-|![Eglinton example sett](/variants/s7/k1r1k1db7k1g1k1~x8/sett.png)|
-| [Montgomerie of Eglinton](/variants/s7/k4r5k4db28k4g5k4~x2/)|
-|![Montgomerie of Eglinton example sett](/variants/s7/k4r5k4db28k4g5k4~x2/sett.png)|
-| [Montgomery](/variants/s7/k4dg5k4dp28k4r5k4/)|
-|![Montgomery example sett](/variants/s7/k4dg5k4dp28k4r5k4/sett.png)|
-| [Montgomery](/setts/k4dg5k4n28k4r5k4/)|
-|![Montgomery example sett](/variants/s7/k4dg5k4n28k4r5k4/sett.png)|
-| [Montgomrie/Montgomery of Eglinton](/variants/s7/k4r5k4dp28k4g5k4~x2/)|
-|![Montgomrie/Montgomery of Eglinton example sett](/variants/s7/k4r5k4dp28k4g5k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k1r1k1db7k1g1k1~x8/">Eglinton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k1r1k1db7k1g1k1~x8/"><img src="/variants/s7/k1r1k1db7k1g1k1~x8/sett.png" alt="Eglinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k4r5k4db28k4g5k4/">Montgomery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k4r5k4db28k4g5k4/"><img src="/variants/s7/k4r5k4db28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/k4r5k4dr28k4g5k4/">Montgomery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k4r5k4dr28k4g5k4/"><img src="/variants/s7/k4r5k4dr28k4g5k4/sett.png" alt="Montgomery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/">Montgomrie/Montgomery of Eglinton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/"><img src="/variants/s7/k4r5k4dp28k4g5k4~x2/sett.png" alt="Montgomrie/Montgomery of Eglinton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

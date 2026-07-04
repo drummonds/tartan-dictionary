@@ -22,7 +22,17 @@ It is a 3 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hibernian S3](/variants/s3/g49w4lo11~x2/)|
-|![Hibernian S3 example sett](/variants/s3/g49w4lo11~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/dy2lb1lo1~x2/">Gearach Woodcock Tweed (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/dy2lb1lo1~x2/"><img src="/variants/s3/dy2lb1lo1~x2/sett.png" alt="Gearach Woodcock Tweed (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s3/g49w4lo11~x2/">Hibernian S3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/g49w4lo11~x2/"><img src="/variants/s3/g49w4lo11~x2/sett.png" alt="Hibernian S3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

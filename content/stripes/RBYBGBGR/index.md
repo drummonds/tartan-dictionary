@@ -22,11 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Earl of Inverness (Artefact)](/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/)|
-|![Earl of Inverness (Artefact) example sett](/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/sett.png)|
-| [Inverness Earl of](/variants/s8/r42db4ly1db6dg1db1dg1r12~x2/)|
-|![Inverness Earl of example sett](/variants/s8/r42db4ly1db6dg1db1dg1r12~x2/sett.png)|
-| [Inverness, Earl of](/variants/s8/r42db4ly1db6g1db1g1r12~x2/)|
-|![Inverness, Earl of example sett](/variants/s8/r42db4ly1db6g1db1g1r12~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/">Earl of Inverness (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><img src="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/sett.png" alt="Earl of Inverness (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

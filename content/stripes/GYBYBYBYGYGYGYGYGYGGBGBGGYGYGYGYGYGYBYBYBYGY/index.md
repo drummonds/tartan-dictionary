@@ -22,7 +22,14 @@ It is a 44 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kirkton](/variants/s44/g4lr1n4lr1n3lr1n2lr1yi4lr1yi3lr1yi2lr1y4lr1y3lr1y2g3n2g10n2g3y2lr1y3lr1y4lr1yi2lr1yi3lr1yi4lr1n2lr1n3lr1n4lr1g4lr2~x4/)|
-|![Kirkton example sett](/variants/s44/g4lr1n4lr1n3lr1n2lr1yi4lr1yi3lr1yi2lr1y4lr1y3lr1y2g3n2g10n2g3y2lr1y3lr1y4lr1yi2lr1yi3lr1yi4lr1n2lr1n3lr1n4lr1g4lr2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s44/dg4lr1n4lr1n3lr1n2lr1g4lr1g3lr1g2lr1y4lr1y3lr1y2dg3n2dg10n2dg3y2lr1y3lr1y4lr1g2lr1g3lr1g4lr1n2lr1n3lr1n4lr1dg4lr2~x4~dg1806142-g1903114/">Kirkton</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s44/dg4lr1n4lr1n3lr1n2lr1g4lr1g3lr1g2lr1y4lr1y3lr1y2dg3n2dg10n2dg3y2lr1y3lr1y4lr1g2lr1g3lr1g4lr1n2lr1n3lr1n4lr1dg4lr2~x4~dg1806142-g1903114/"><img src="/variants/s44/dg4lr1n4lr1n3lr1n2lr1g4lr1g3lr1g2lr1y4lr1y3lr1y2dg3n2dg10n2dg3y2lr1y3lr1y4lr1g2lr1g3lr1g4lr1n2lr1n3lr1n4lr1dg4lr2~x4~dg1806142-g1903114/sett.png" alt="Kirkton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

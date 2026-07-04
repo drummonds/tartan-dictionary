@@ -22,9 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Milling-Christensen](/variants/s5/w8r6ly2g34b3~x2/)|
-|![Milling-Christensen example sett](/variants/s5/w8r6ly2g34b3~x2/sett.png)|
-| [Milling-Kristensen (Personal)](/variants/s5/w8r6lo2g34b3~x2/)|
-|![Milling-Kristensen (Personal) example sett](/variants/s5/w8r6lo2g34b3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/w8r6ly2dg34db3~x2/">Milling-Kristensen (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/w8r6ly2dg34db3~x2/"><img src="/variants/s5/w8r6ly2dg34db3~x2/sett.png" alt="Milling-Kristensen (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

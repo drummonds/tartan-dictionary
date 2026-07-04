@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McCanna NW (Olympia, USA) Hunting (Personal)](/variants/s7/k1dy4g1k1g1k1dy1~x14/)|
-|![McCanna NW (Olympia, USA) Hunting (Personal) example sett](/variants/s7/k1dy4g1k1g1k1dy1~x14/sett.png)|
-| [McCanna NW Htg (Personal)](/variants/s7/k1dy4dg1k1dg1k1dy1~x10/)|
-|![McCanna NW Htg (Personal) example sett](/variants/s7/k1dy4dg1k1dg1k1dy1~x10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/">McCanna NW Htg (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/"><img src="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/sett.png" alt="McCanna NW Htg (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

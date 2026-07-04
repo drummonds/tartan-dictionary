@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Pavelka Ltd](/variants/s8/dy3k48dy5w3dy3g2gi5lb3~x2/)|
-|![Pavelka Ltd example sett](/variants/s8/dy3k48dy5w3dy3g2gi5lb3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/">Pavelka Ltd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/"><img src="/variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/sett.png" alt="Pavelka Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

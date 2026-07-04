@@ -1,16 +1,5 @@
 ---
-title: "Stewart Mourning (Clan)"
-date: 2023-03-18
+title: "Stewart/Stuart Mourning"
+redirect: "/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"
 ---
-The **Stewart Mourning (Clan)** tartan is one sett proportion (`k40n3k5n2k2n2k2n6k4w2k4`) recorded at 2 scales — the
-same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
-[BKBKBKBKWKWKBKBKBKBK](/stripes/bkbkbkbkwkwkbkbkbkbk/); each scale below is its own sett page. First attested **1880**
-— its oldest sett (★) anchors the tartan as the parent.
-
-Part of the [Stewart Mourning](/tartans/stewart-mourning/) tartan — the named design grouping this proportion with its other setts.
-
-
-| Scale | Sett | Earliest | |
-|---|---|---|---|
-| ×2 | [Stewart/Stuart Mourning](/variants/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/) ★ | 1880 | ![Stewart/Stuart Mourning sett](/variants/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/sett.png) |
-| ×2 | [Stewart Mourning (Clan)](/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/) | 1880 | ![Stewart Mourning (Clan) sett](/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/sett.png) |
+This sett is recorded as a single cloth — redirecting to [Stewart/Stuart Mourning](/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/).

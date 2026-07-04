@@ -22,11 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Edinburgh District](/variants/s9/w3db25ri3r3ri3r5g10ri3k2~x2/)|
-|![Edinburgh District example sett](/variants/s9/w3db25ri3r3ri3r5g10ri3k2~x2/sett.png)|
-| [Edinburgh District](/variants/s9/w3b25m3r3m3r5g10m3k2~x2/)|
-|![Edinburgh District example sett](/variants/s9/w3b25m3r3m3r5g10m3k2~x2/sett.png)|
-| [Edinburgh District (District)](/variants/s9/w3n25m3r3m3r5g10m3k2~x2/)|
-|![Edinburgh District (District) example sett](/variants/s9/w3n25m3r3m3r5g10m3k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/">Edinburgh District</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/"><img src="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/sett.png" alt="Edinburgh District sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w3b25r3ri3r3ri5g10r3k2~x2~r1707008-ri2109032/">Edinburgh District (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w3b25r3ri3r3ri5g10r3k2~x2~r1707008-ri2109032/"><img src="/variants/s9/w3b25r3ri3r3ri5g10r3k2~x2~r1707008-ri2109032/sett.png" alt="Edinburgh District (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

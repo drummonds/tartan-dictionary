@@ -22,9 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Chicago University of.. Corporate Tartan](/variants/s16/ri30k8ri2k2ri3k2ri8r15ri8k2ri3k2ri2k8ri30w3~x2/)|
-|![Chicago University of.. Corporate Tartan example sett](/variants/s16/ri30k8ri2k2ri3k2ri8r15ri8k2ri3k2ri2k8ri30w3~x2/sett.png)|
-| [Chicago, University of..](/variants/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/)|
-|![Chicago, University of.. example sett](/variants/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3~x2~r1506019-ri2109032/">Chicago University of.. Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3~x2~r1506019-ri2109032/"><img src="/variants/s16/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3~x2~r1506019-ri2109032/sett.png" alt="Chicago University of.. Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,19 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Louisville Spaulding (Personal)](/variants/s5/k20db50g50r3k3~x2/)|
-|![Louisville Spaulding (Personal) example sett](/variants/s5/k20db50g50r3k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k20db50g50r3k3~x2/">Louisville Spalding (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k20db50g50r3k3~x2/"><img src="/variants/s5/k20db50g50r3k3~x2/sett.png" alt="Louisville Spalding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k20db50dg50r3k3~x2/">Louisville Spaulding (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k20db50dg50r3k3~x2/"><img src="/variants/s5/k20db50dg50r3k3~x2/sett.png" alt="Louisville Spaulding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k31r12y2n5k2~x4/">Perry (2014)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k31r12y2n5k2~x4/"><img src="/variants/s5/k31r12y2n5k2~x4/sett.png" alt="Perry (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

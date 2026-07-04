@@ -22,15 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ballindalloch (Estate Check)](/variants/s8/k1dg1~x8/)|
-|![Ballindalloch (Estate Check) example sett](/variants/s8/k1dg1~x8/sett.png)|
-| [Douglas VS](/variants/s8/k16y1k1y1k8y16k1y2~x2/)|
-|![Douglas VS example sett](/variants/s8/k16y1k1y1k8y16k1y2~x2/sett.png)|
-| [Menzies Green](/variants/s8/k19dg10k6dg10k12dg6k4dg14~x2/)|
-|![Menzies Green example sett](/variants/s8/k19dg10k6dg10k12dg6k4dg14~x2/sett.png)|
-| [Menzies, Green](/variants/s8/k19g10k6g10k12g6k4g14~x2/)|
-|![Menzies, Green example sett](/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png)|
-| [Watertown Library Assoc. (Corporate)](/variants/s8/k4y2k27y2k8y31k2y4~x2/)|
-|![Watertown Library Assoc. (Corporate) example sett](/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k6y2k21y2k6y24k2y6/">MacLachlan 4</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k6y2k21y2k6y24k2y6/"><img src="/variants/s8/k6y2k21y2k6y24k2y6/sett.png" alt="MacLachlan 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/">Menzies Green</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/"><img src="/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png" alt="Menzies Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

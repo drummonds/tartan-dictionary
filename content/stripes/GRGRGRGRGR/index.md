@@ -22,21 +22,21 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Connacht (1993)](/variants/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/)|
-|![Connacht (1993) example sett](/variants/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/sett.png)|
-| [Donachie](/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/)|
-|![Donachie example sett](/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png)|
-| [Donachie of Brockloch](/variants/s10/o24dg2o2dg20o25dg2o2dg2o2dg20~x2/)|
-|![Donachie of Brockloch example sett](/variants/s10/o24dg2o2dg20o25dg2o2dg2o2dg20~x2/sett.png)|
-| [Donachie of Brockloch (Clan)](/variants/s10/r24dg2r2dg20r25dg2r2dg2r2dg20~x2/)|
-|![Donachie of Brockloch (Clan) example sett](/variants/s10/r24dg2r2dg20r25dg2r2dg2r2dg20~x2/sett.png)|
-| [Hilton Hotel Hong Kong (Corporate)](/variants/s10/m4g10m2g2m24g2m2g16m2g1~x2/)|
-|![Hilton Hotel Hong Kong (Corporate) example sett](/variants/s10/m4g10m2g2m24g2m2g16m2g1~x2/sett.png)|
-| [Livingstone](/variants/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/)|
-|![Livingstone example sett](/variants/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/sett.png)|
-| [Livingstone](/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/)|
-|![Livingstone example sett](/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png)|
-| [Nithsdale](/variants/s10/dg10r2y2r6y16r1y2r1y3r6~x4/)|
-|![Nithsdale example sett](/variants/s10/dg10r2y2r6y16r1y2r1y3r6~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/">Bruce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/"><img src="/variants/s10/r8g2r2g6r1g6r2g2r8y1/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r29g2r2g2r6dy21~x4/">Maguire Clan Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><img src="/variants/s6/r29g2r2g2r6dy21~x4/sett.png" alt="Maguire Clan Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/">Donachie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><img src="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/sett.png" alt="Donachie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/">Livingstone</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><img src="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png" alt="Livingstone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

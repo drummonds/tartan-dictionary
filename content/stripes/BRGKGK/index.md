@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Denny Hunting](/variants/s6/k4dg5k2dg5r17db2~x2/)|
-|![Denny Hunting example sett](/variants/s6/k4dg5k2dg5r17db2~x2/sett.png)|
-| [Denny, hunting](/variants/s6/k1g6k1g6r16db1~x2/)|
-|![Denny, hunting example sett](/variants/s6/k1g6k1g6r16db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k1g6k1g6r16db1~x2/">Denny, hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k1g6k1g6r16db1~x2/"><img src="/variants/s6/k1g6k1g6r16db1~x2/sett.png" alt="Denny, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

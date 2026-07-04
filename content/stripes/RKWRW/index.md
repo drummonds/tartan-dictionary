@@ -22,7 +22,16 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Braes High School Falkirk (School)](/variants/s5/w5r5w5k15r2~x2/)|
-|![Braes High School Falkirk (School) example sett](/variants/s5/w5r5w5k15r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/w5r5w5k15r2~x2/">Braes High School Falkirk (School)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/w5r5w5k15r2~x2/"><img src="/variants/s5/w5r5w5k15r2~x2/sett.png" alt="Braes High School Falkirk (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/w3r2w1k2r2~x4/">Oakland Centre</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/w3r2w1k2r2~x4/"><img src="/variants/s5/w3r2w1k2r2~x4/sett.png" alt="Oakland Centre sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

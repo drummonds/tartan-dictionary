@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Morris of Balgonie Arisaid (Personal)](/variants/s13/w2b10w2r3w10g3w2db3w10k3w2gi10ly2~x2/)|
-|![Morris of Balgonie Arisaid (Personal) example sett](/variants/s13/w2b10w2r3w10g3w2db3w10k3w2gi10ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/">Morris of Balgonie Arisaid (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/"><img src="/variants/s13/w2p10w2r3w10gi3w2b3w10k3w2g10ly2~x2~gi2007139-g2004144/sett.png" alt="Morris of Balgonie Arisaid (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

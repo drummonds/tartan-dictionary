@@ -22,9 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald Dress (Irish)](/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/)|
-|![MacDonald Dress (Irish) example sett](/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/sett.png)|
-| [MacDonald Pattern of Plaids](/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/)|
-|![MacDonald Pattern of Plaids example sett](/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/">MacDonald Dress (Irish)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/"><img src="/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/sett.png" alt="MacDonald Dress (Irish) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/">MacDonald Pattern of Plaids</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><img src="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/sett.png" alt="MacDonald Pattern of Plaids sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

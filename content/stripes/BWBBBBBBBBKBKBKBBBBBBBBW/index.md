@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Institute of Directors (Corporate)](/variants/s24/dp50w4dp12dpi4dp10dpi8dp4dpi6dp4dpi10k12dpi5k42dpi6k12dpi10dp4dpi6dp4dpi8dp10dpi4dp12w4/)|
-|![Institute of Directors (Corporate) example sett](/variants/s24/dp50w4dp12dpi4dp10dpi8dp4dpi6dp4dpi10k12dpi5k42dpi6k12dpi10dp4dpi6dp4dpi8dp10dpi4dp12w4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/">Institute of Directors (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/"><img src="/variants/s24/dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4/sett.png" alt="Institute of Directors (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fermanagh](/variants/s17/y3t20db3g3db3g3db3g3db4t13ly2t2ly2t3gi2t3g3~x2/)|
-|![Fermanagh example sett](/variants/s17/y3t20db3g3db3g3db3g3db4t13ly2t2ly2t3gi2t3g3~x2/sett.png)|
-| [Fermanagh, County (District)](/variants/s17/dy3dt20db4dg3db3dg3db3dg3db4dt13lo2dt2lo2dt2dg2dt2dg3~x2/)|
-|![Fermanagh, County (District) example sett](/variants/s17/dy3dt20db4dg3db3dg3db3dg3db4dt13lo2dt2lo2dt2dg2dt2dg3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/">Fermanagh, County (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/"><img src="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/sett.png" alt="Fermanagh, County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

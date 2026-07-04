@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bouguet, Adrian (Personal)](/variants/s11/lb14t9lb14lr4dg3lbi3dg3lr4t14lr2w3~x2/)|
-|![Bouguet, Adrian (Personal) example sett](/variants/s11/lb14t9lb14lr4dg3lbi3dg3lr4t14lr2w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/">Bouguet, Adrian (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/"><img src="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/sett.png" alt="Bouguet, Adrian (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Blue Pride](/variants/s11/b38k4b2g6p11db3p2r2b11k1w2~x2/)|
-|![Blue Pride example sett](/variants/s11/b38k4b2g6p11db3p2r2b11k1w2~x2/sett.png)|
-| [Blue Pride](/variants/s11/b38k4b2g6p11db3p2m2b11k1w2~x2/)|
-|![Blue Pride example sett](/variants/s11/b38k4b2g6p11db3p2m2b11k1w2~x2/sett.png)|
-| [Highland Pride 2 (Fashion)](/variants/s11/db38k4db2dg6dp11dt3dp2r2db11k1w2~x2/)|
-|![Highland Pride 2 (Fashion) example sett](/variants/s11/db38k4db2dg6dp11dt3dp2r2db11k1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b1907270-db1003265/">Blue Pride</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b1907270-db1003265/"><img src="/variants/s11/b38k4b2g6dp11db3dp2r2b11k1w2~x2~b1907270-db1003265/sett.png" alt="Blue Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/b38k4b2g6bi11db3bi2r2b11k1w2~x2~b2008266-bi2308302/">Blue Pride</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/b38k4b2g6bi11db3bi2r2b11k1w2~x2~b2008266-bi2308302/"><img src="/variants/s11/b38k4b2g6bi11db3bi2r2b11k1w2~x2~b2008266-bi2308302/sett.png" alt="Blue Pride sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

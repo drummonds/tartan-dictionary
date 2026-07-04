@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lotus Elan (Corporate)](/variants/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/)|
-|![Lotus Elan (Corporate) example sett](/variants/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/">Lotus Elan (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><img src="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/sett.png" alt="Lotus Elan (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Keogh (Name?)](/variants/s8/g29k4gi6lo4gi28loi28k1lb5~x2/)|
-|![Keogh (Name?) example sett](/variants/s8/g29k4gi6lo4gi28loi28k1lb5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g2408144-dg1806142/">Keogh (Name?)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g2408144-dg1806142/"><img src="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g2408144-dg1806142/sett.png" alt="Keogh (Name?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,17 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Asahi (Estimated threadcount)](/variants/s5/w45b2w4b15w7~x2/)|
-|![Asahi (Estimated threadcount) example sett](/variants/s5/w45b2w4b15w7~x2/sett.png)|
-| [Sephardim (Corporate)](/variants/s5/w50db7w7t7w18~x2/)|
-|![Sephardim (Corporate) example sett](/variants/s5/w50db7w7t7w18~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/w45t2w4t15w7~x2/">Asahi (Estimated threadcount)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/w45t2w4t15w7~x2/"><img src="/variants/s5/w45t2w4t15w7~x2/sett.png" alt="Asahi (Estimated threadcount) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/lb37t9lb3db9w3~x2/">Loch Lomond Trade Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/lb37t9lb3db9w3~x2/"><img src="/variants/s5/lb37t9lb3db9w3~x2/sett.png" alt="Loch Lomond Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

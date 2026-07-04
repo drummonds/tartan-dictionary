@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s6/r2dg20r2db8r36dg1~x2/"><img src="/variants/s6/r2dg20r2db8r36dg1~x2/sett.png" alt="Robertson" width="240"><br>Robertson</a>
+<a class="tartan" href="/variants/s6/r2g20r2db8r36g1~x2/"><img src="/variants/s6/r2g20r2db8r36g1~x2/sett.png" alt="Robertson" width="240"><br>Robertson</a>
 
 ## Families
 

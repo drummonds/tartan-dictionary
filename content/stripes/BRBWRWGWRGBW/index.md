@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glenfalloch](/variants/s12/dt4ri1dt12w1ri4w1dg4w1r4dg12dt1w2~x2/)|
-|![Glenfalloch example sett](/variants/s12/dt4ri1dt12w1ri4w1dg4w1r4dg12dt1w2~x2/sett.png)|
-| [Glenfalloch Corporate Tartan](/variants/s12/dt4r1dt12w1r4w1g4w1ri4g12dt1w2~x2/)|
-|![Glenfalloch Corporate Tartan example sett](/variants/s12/dt4r1dt12w1r4w1g4w1ri4g12dt1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/">Glenfalloch Corporate Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/"><img src="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/sett.png" alt="Glenfalloch Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

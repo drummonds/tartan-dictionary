@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Berry Tribute](/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/)|
-|![Berry Tribute example sett](/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/sett.png)|
-| [Berry Tribute](/variants/s12/gi43dp3o3dp2o4r3g2gi13g2o9gi1lo2~x2/)|
-|![Berry Tribute example sett](/variants/s12/gi43dp3o3dp2o4r3g2gi13g2o9gi1lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/">Berry Tribute</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><img src="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/sett.png" alt="Berry Tribute sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Waterford](/variants/s6/g42ly2gi16db7dr16r5~x2/)|
-|![Waterford example sett](/variants/s6/g42ly2gi16db7dr16r5~x2/sett.png)|
-| [Waterford, County](/variants/s6/dg42lo2y16db7do16r5~x2/)|
-|![Waterford, County example sett](/variants/s6/dg42lo2y16db7do16r5~x2/sett.png)|
-| [Waterford, County (District)](/variants/s6/dg24lo2y16db7do16r5~x2/)|
-|![Waterford, County (District) example sett](/variants/s6/dg24lo2y16db7do16r5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/dg42lo2g16db7do16r5~x2/">Waterford, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dg42lo2g16db7do16r5~x2/"><img src="/variants/s6/dg42lo2g16db7do16r5~x2/sett.png" alt="Waterford, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg24lo2g16db7do16r5~x2/">Waterford, County (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dg24lo2g16db7do16r5~x2/"><img src="/variants/s6/dg24lo2g16db7do16r5~x2/sett.png" alt="Waterford, County (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

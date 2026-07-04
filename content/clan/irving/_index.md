@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/variants/s5/g27gi14dt2gi2ly2~x4/"><img src="/variants/s5/g27gi14dt2gi2ly2~x4/sett.png" alt="Irving of Bonshaw" width="240"><br>Irving of Bonshaw</a>
+<a class="tartan" href="/variants/s5/dg27g14db2g2y2~x4~dg1806142-g2304202/"><img src="/variants/s5/dg27g14db2g2y2~x4~dg1806142-g2304202/sett.png" alt="Irving of Bonshaw" width="240"><br>Irving of Bonshaw</a>
 
 ## Families
 

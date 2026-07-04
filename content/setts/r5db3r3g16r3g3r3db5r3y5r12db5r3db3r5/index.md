@@ -12,5 +12,5 @@ Part of the [Grant of Ballindalloch](/tartans/grant-of-ballindalloch/) tartan �
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×4 | [Grant of Ballindalloch (Personal)](/variants/s28/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/) ★ | 1993 | ![Grant of Ballindalloch (Personal) sett](/variants/s28/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/sett.png) |
-| ×4 | [Grant of Ballindalloch (Personal)](/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/) | 1993 | ![Grant of Ballindalloch (Personal) sett](/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/sett.png) |
+| ×4 | [Grant of Ballindalloch (Personal)](/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/) ★ | 1993 | ![Grant of Ballindalloch (Personal) sett](/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/sett.png) |
+| ×4 | [Grant of Ballindalloch (Personal)](/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4~db1406275/) | 1993 | ![Grant of Ballindalloch (Personal) sett](/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4~db1406275/sett.png) |

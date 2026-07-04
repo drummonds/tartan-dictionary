@@ -22,7 +22,14 @@ It is a 30 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [All Irish Blue Irish District Tartan](/variants/s30/b6lb2db2b30gi2b2lo2g4lo2gi2lo1gi18lo1lb2db2lo4~x2/)|
-|![All Irish Blue Irish District Tartan example sett](/variants/s30/b6lb2db2b30gi2b2lo2g4lo2gi2lo1gi18lo1lb2db2lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/">All Irish Blue Irish District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/"><img src="/variants/s16/n6lb2db2n30g2n2ly2gi4ly2g2ly1g18ly1lb2db2ly4~x2~lb3203246-db1406275-g2203152-gi2408144/sett.png" alt="All Irish Blue Irish District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

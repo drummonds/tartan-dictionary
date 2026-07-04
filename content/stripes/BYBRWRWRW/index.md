@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sea Dog Bamse, Pride of Norway](/variants/s9/dt3lo2dt32r28w2r2w2r2w3~x2/)|
-|![Sea Dog Bamse, Pride of Norway example sett](/variants/s9/dt3lo2dt32r28w2r2w2r2w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/">Sea Dog Bamse, Pride of Norway</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/"><img src="/variants/s9/db3ly2db32r28w2r2w2r2w3~x2/sett.png" alt="Sea Dog Bamse, Pride of Norway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [New Zealand (2000)](/variants/s6/k21lb2k5lb9k13g2~x4/)|
-|![New Zealand (2000) example sett](/variants/s6/k21lb2k5lb9k13g2~x4/sett.png)|
-| [New Zealand District Tartan](/variants/s6/k21w2k5w9k13g2~x4/)|
-|![New Zealand District Tartan example sett](/variants/s6/k21w2k5w9k13g2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k21lb2k5lb9k13g2~x4/">New Zealand (2000)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k21lb2k5lb9k13g2~x4/"><img src="/variants/s6/k21lb2k5lb9k13g2~x4/sett.png" alt="New Zealand (2000) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/k21w2k5w9k13g2~x4/">New Zealand District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k21w2k5w9k13g2~x4/"><img src="/variants/s6/k21w2k5w9k13g2~x4/sett.png" alt="New Zealand District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

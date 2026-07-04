@@ -22,7 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lynn (Personal)](/variants/s8/b18w1k3w1b9w1k45b4~x2/)|
-|![Lynn (Personal) example sett](/variants/s8/b18w1k3w1b9w1k45b4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/t18w1k3w1t9w1k45t4~x2/">Lynn (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/t18w1k3w1t9w1k45t4~x2/"><img src="/variants/s8/t18w1k3w1t9w1k45t4~x2/sett.png" alt="Lynn (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/db18w1k3w1db9w1k45db4~x2/">Lynn (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db18w1k3w1db9w1k45db4~x2/"><img src="/variants/s8/db18w1k3w1db9w1k45db4~x2/sett.png" alt="Lynn (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

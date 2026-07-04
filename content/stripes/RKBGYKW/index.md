@@ -22,9 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cornish Htg (District)](/variants/s7/w5k26ly2dg24db8k4r3~x2/)|
-|![Cornish Htg (District) example sett](/variants/s7/w5k26ly2dg24db8k4r3~x2/sett.png)|
-| [Cornish Hunting District Tartan](/variants/s7/w5k26ly2dg24dt7k3r3~x2/)|
-|![Cornish Hunting District Tartan example sett](/variants/s7/w5k26ly2dg24dt7k3r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/">Cornish Htg (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><img src="/variants/s7/w5k26ly2g24db8k4r3~x2/sett.png" alt="Cornish Htg (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

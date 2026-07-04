@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Notre Dame Marching Guard](/variants/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/)|
-|![Notre Dame Marching Guard example sett](/variants/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/">Notre Dame Marching Guard</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><img src="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/sett.png" alt="Notre Dame Marching Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

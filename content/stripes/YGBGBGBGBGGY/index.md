@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Walker, Gauvin (Personal)](/variants/s12/ly1y3dt2g5dp4g1dt14y1dt4g25y2ly1~x2/)|
-|![Walker, Gauvin (Personal) example sett](/variants/s12/ly1y3dt2g5dp4g1dt14y1dt4g25y2ly1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/">Walker, Gauvin (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/"><img src="/variants/s12/lo1y3dt2g5dp4g1dt14y1dt4g25y2lo1~x2~y2101180-dt0900000/sett.png" alt="Walker, Gauvin (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

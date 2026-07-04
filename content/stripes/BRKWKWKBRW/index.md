@@ -22,11 +22,19 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Knights Templar MTS (Corp)](/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/)|
-|![Scottish Knights Templar MTS (Corp) example sett](/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/sett.png)|
-| [Scottish Knights Templar, of M.T.S.](/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/)|
-|![Scottish Knights Templar, of M.T.S. example sett](/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/sett.png)|
-| [Scottish Knights Templar, of M.T.S. St Andrew](/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/)|
-|![Scottish Knights Templar, of M.T.S. St Andrew example sett](/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/">Scottish Knights Templar, of M.T.S.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><img src="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/sett.png" alt="Scottish Knights Templar, of M.T.S. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/">Scottish Knights Templar, of M.T.S. St Andrew</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><img src="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/sett.png" alt="Scottish Knights Templar, of M.T.S. St Andrew sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/">Scottish Knights Templar MTS (Corp)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/"><img src="/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/sett.png" alt="Scottish Knights Templar MTS (Corp) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

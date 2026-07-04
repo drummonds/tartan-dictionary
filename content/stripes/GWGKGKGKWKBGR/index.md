@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacInnes Dress](/variants/s13/dg4w24dg3k3dg3k3dg24k4w4k4db24dg8r4~x2/)|
-|![MacInnes Dress example sett](/variants/s13/dg4w24dg3k3dg3k3dg24k4w4k4db24dg8r4~x2/sett.png)|
-| [MacInnes, dress](/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/)|
-|![MacInnes, dress example sett](/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/">MacInnes Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><img src="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/sett.png" alt="MacInnes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

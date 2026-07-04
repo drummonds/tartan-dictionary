@@ -22,11 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hawes (2014)](/variants/s10/w2do3g5k50g4do3w2t3k2ly2~x2/)|
-|![Hawes (2014) example sett](/variants/s10/w2do3g5k50g4do3w2t3k2ly2~x2/sett.png)|
-| [Hawes (Personal)](/variants/s10/w2dr3g5k50g4dr3w2t3k2lo2~x2/)|
-|![Hawes (Personal) example sett](/variants/s10/w2dr3g5k50g4dr3w2t3k2lo2~x2/sett.png)|
-| [Hawks (2014)](/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/)|
-|![Hawks (2014) example sett](/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/">Hawks (2014)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/"><img src="/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/sett.png" alt="Hawks (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

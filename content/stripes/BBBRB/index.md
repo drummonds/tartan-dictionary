@@ -22,9 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bryson](/variants/s5/t8r3dbi29db29t4~x2/)|
-|![Bryson example sett](/variants/s5/t8r3dbi29db29t4~x2/sett.png)|
-| [Romanes Check (Fashion)](/variants/s5/dt2n21dt11r21dt1~x2/)|
-|![Romanes Check (Fashion) example sett](/variants/s5/dt2n21dt11r21dt1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/db2n21db11r21db1~x2/">Romanes Check (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db2n21db11r21db1~x2/"><img src="/variants/s5/db2n21db11r21db1~x2/sett.png" alt="Romanes Check (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

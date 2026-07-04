@@ -22,7 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hesco](/variants/s7/dp3n24ni10n2g11n8w3~x2/)|
-|![Hesco example sett](/variants/s7/dp3n24ni10n2g11n8w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/">Hesco</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/"><img src="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/sett.png" alt="Hesco sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

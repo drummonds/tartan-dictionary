@@ -22,9 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Espy (Fashion?)](/variants/s5/r10g3k1g3b1~x16/)|
-|![Espy (Fashion?) example sett](/variants/s5/r10g3k1g3b1~x16/sett.png)|
-| [Waugh](/variants/s5/db100y10k5y10r8/)|
-|![Waugh example sett](/variants/s5/db100y10k5y10r8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r10g3k1g3t1~x16/">Espy (Fashion?)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r10g3k1g3t1~x16/"><img src="/variants/s5/r10g3k1g3t1~x16/sett.png" alt="Espy (Fashion?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

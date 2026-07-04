@@ -22,7 +22,14 @@ It is a 30 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Innes of Learney Hunting (Personal)](/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2/)|
-|![Innes of Learney Hunting (Personal) example sett](/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/">Innes of Learney Hunting (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/"><img src="/variants/s30/k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18t3~x2~t2503227/sett.png" alt="Innes of Learney Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

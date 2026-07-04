@@ -9,10 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2/">Chafee of Glenmary</a> ★</td><td><code>DB/4 R6 K12 LY8 R34 R4 DB32 R4 DB32 DB4 R30 R32 R4 R/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2/"><img src="/variants/s14/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2~x2/sett.png" alt="Chafee of Glenmary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r35db2dg16r2dg16w2r17b4k6r3db2/">Chafee of Glenmary</a> ★</td><td><code>DB/4 R6 K12 B8 R34 W4 DG32 R4 DG32 DB4 R/70</code></td><td>346</td><td>~2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r35db2dg16r2dg16w2r17b4k6r3db2/"><img src="/variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/sett.png" alt="Chafee of Glenmary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

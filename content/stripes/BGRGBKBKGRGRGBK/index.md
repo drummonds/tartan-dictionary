@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacInroy Hunting](/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/)|
-|![MacInroy Hunting example sett](/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/">MacInroy Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/"><img src="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/sett.png" alt="MacInroy Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

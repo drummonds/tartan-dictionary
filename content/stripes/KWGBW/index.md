@@ -22,15 +22,32 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bhatti](/variants/s5/k7lt3dg18db18w2~x2/)|
-|![Bhatti example sett](/variants/s5/k7lt3dg18db18w2~x2/sett.png)|
-| [Bhatti (Name)](/variants/s5/k7lb3g18db18w2~x2/)|
-|![Bhatti (Name) example sett](/variants/s5/k7lb3g18db18w2~x2/sett.png)|
-| [Douglas](/variants/s5/k2lb2dg8db8lb1/)|
-|![Douglas example sett](/variants/s5/k2lb2dg8db8lb1/sett.png)|
-| [Douglas](/variants/s5/k2lt2g8db8w1~x2/)|
-|![Douglas example sett](/variants/s5/k2lt2g8db8w1~x2/sett.png)|
-| [Douglas Green](/variants/s5/k4lb2dg8db8lb1/)|
-|![Douglas Green example sett](/variants/s5/k4lb2dg8db8lb1/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k7lt3dg18db18w2~x2/">Bhatti</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k7lt3dg18db18w2~x2/"><img src="/variants/s5/k7lt3dg18db18w2~x2/sett.png" alt="Bhatti sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k7lb3g18db18w2~x2/">Bhatti (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k7lb3g18db18w2~x2/"><img src="/variants/s5/k7lb3g18db18w2~x2/sett.png" alt="Bhatti (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k2lb2g8db8w1/">Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k2lb2g8db8w1/"><img src="/variants/s5/k2lb2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k2w2g8db8w1/">Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k2w2g8db8w1/"><img src="/variants/s5/k2w2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k1lb1g8db8w1~x4/">Douglas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k1lb1g8db8w1~x4/"><img src="/variants/s5/k1lb1g8db8w1~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/k4w2g8db8w1/">Douglas Green</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k4w2g8db8w1/"><img src="/variants/s5/k4w2g8db8w1/sett.png" alt="Douglas Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k4lb2g8db8w1/">Dougles Green</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k4lb2g8db8w1/"><img src="/variants/s5/k4lb2g8db8w1/sett.png" alt="Dougles Green sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k7lb3dy30db30w3~x2/">Douglas, (Brown)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k7lb3dy30db30w3~x2/"><img src="/variants/s5/k7lb3dy30db30w3~x2/sett.png" alt="Douglas, (Brown) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k4lb3g13dp12w2~x2/">Wilson's No 148</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k4lb3g13dp12w2~x2/"><img src="/variants/s5/k4lb3g13dp12w2~x2/sett.png" alt="Wilson's No 148 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

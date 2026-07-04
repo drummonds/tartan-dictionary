@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacLaren (D.C Dalgliesh version)](/variants/s8/w16db4k12dg4w6r4w11ly7~x2/)|
-|![MacLaren (D.C Dalgliesh version) example sett](/variants/s8/w16db4k12dg4w6r4w11ly7~x2/sett.png)|
-| [MacLaren Albino (Dance)](/variants/s8/lb8db2k6dg2lb3o2lb6ly4~x4/)|
-|![MacLaren Albino (Dance) example sett](/variants/s8/lb8db2k6dg2lb3o2lb6ly4~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/">MacLaren Albino (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><img src="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/sett.png" alt="MacLaren Albino (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

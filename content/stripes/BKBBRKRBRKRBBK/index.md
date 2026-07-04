@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Longniddry Dress Lavender Fancy Tartan](/variants/s14/k32p12db5o2k2o2db42o2k2o2db5p12k32db4~x2/)|
-|![Longniddry Dress Lavender Fancy Tartan example sett](/variants/s14/k32p12db5o2k2o2db42o2k2o2db5p12k32db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/">Longniddry Dress Lavender Fancy Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/"><img src="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/sett.png" alt="Longniddry Dress Lavender Fancy Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cairns, David (Personal)](/variants/s5/n11o1n4o8r1~x8/)|
-|![Cairns, David (Personal) example sett](/variants/s5/n11o1n4o8r1~x8/sett.png)|
-| [Callum (Buchan)](/variants/s5/n7oi1ni6oi8o1~x8/)|
-|![Callum (Buchan) example sett](/variants/s5/n7oi1ni6oi8o1~x8/sett.png)|
-| [Unidentified 17](/variants/s5/db16o2db16o19r4~x3/)|
-|![Unidentified 17 example sett](/variants/s5/db16o2db16o19r4~x3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/db16o2db16o19r4~x3/">Unidentified 17</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db16o2db16o19r4~x3/"><img src="/variants/s5/db16o2db16o19r4~x3/sett.png" alt="Unidentified 17 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Caledonian Dragon (Corporate)](/variants/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/)|
-|![Caledonian Dragon (Corporate) example sett](/variants/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/sett.png)|
-| [Caledonian Oriental Airlines (Corporate)](/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25lo4~x2/)|
-|![Caledonian Oriental Airlines (Corporate) example sett](/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/">Caledonian Orient (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/"><img src="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/sett.png" alt="Caledonian Orient (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

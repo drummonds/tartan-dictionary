@@ -22,7 +22,14 @@ It is a 26 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Harrods](/variants/s26/dy3do9lo2do5lo4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/)|
-|![Harrods example sett](/variants/s26/dy3do9lo2do5lo4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/">Harrods</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/"><img src="/variants/s26/dy3do9ly2do5ly4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/sett.png" alt="Harrods sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

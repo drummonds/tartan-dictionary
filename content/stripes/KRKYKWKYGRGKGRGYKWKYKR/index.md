@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Keefe](/variants/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/)|
-|![O'Keefe example sett](/variants/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi3307090-y2203076/">O'Keefe</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi3307090-y2203076/"><img src="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi3307090-y2203076/sett.png" alt="O'Keefe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

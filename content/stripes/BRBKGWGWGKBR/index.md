@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Sinclair Dress (Dance)](/variants/s12/db4r2db31k10g4w21g2~x2/)|
-|![Sinclair Dress (Dance) example sett](/variants/s12/db4r2db31k10g4w21g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db4r2db31k10g4w21g2~x2/">Sinclair Dress (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db4r2db31k10g4w21g2~x2/"><img src="/variants/s7/db4r2db31k10g4w21g2~x2/sett.png" alt="Sinclair Dress (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

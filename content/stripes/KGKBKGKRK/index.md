@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scotland's Lionheart](/variants/s9/k78y16k2n2k2y2k3r2k10~x2/)|
-|![Scotland's Lionheart example sett](/variants/s9/k78y16k2n2k2y2k3r2k10~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/">Scotland's Lionheart</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><img src="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/sett.png" alt="Scotland's Lionheart sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

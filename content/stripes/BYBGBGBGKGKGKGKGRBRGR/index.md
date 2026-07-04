@@ -22,7 +22,14 @@ It is a 21 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Recovery (Corporate)](/variants/s21/db6ly1db1gi1db1gi1db1gi5k1gi1k1gi1k1gi1k1gi6r5db2r2g1r5~x4/)|
-|![Recovery (Corporate) example sett](/variants/s21/db6ly1db1gi1db1gi1db1gi5k1gi1k1gi1k1gi1k1gi6r5db2r2g1r5~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/">Recovery (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/"><img src="/variants/s21/db6ly1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5~x4~dg1806142-g2408144/sett.png" alt="Recovery (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

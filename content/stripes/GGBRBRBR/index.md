@@ -22,11 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cranston Dress](/variants/s8/r15db2r1db2r3db7g13gi3~x2/)|
-|![Cranston Dress example sett](/variants/s8/r15db2r1db2r3db7g13gi3~x2/sett.png)|
-| [Cranston Dress Family Tartan](/variants/s8/r30db3r2db3r6db14g26gi6/)|
-|![Cranston Dress Family Tartan example sett](/variants/s8/r30db3r2db3r6db14g26gi6/sett.png)|
-| [Cranston, dress](/variants/s8/r30db3r2db3r6db14gi26g6/)|
-|![Cranston, dress example sett](/variants/s8/r30db3r2db3r6db14gi26g6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/">Cranston Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><img src="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/sett.png" alt="Cranston Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/">Cranston Dress Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><img src="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/sett.png" alt="Cranston Dress Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Johnson, J.M.](/variants/s13/r4dg20k16lo2k3w3k2lo18r6k2r4k1w2~x4/)|
-|![Johnson, J.M. example sett](/variants/s13/r4dg20k16lo2k3w3k2lo18r6k2r4k1w2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/">Johnson, J.M.</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/"><img src="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/sett.png" alt="Johnson, J.M. sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

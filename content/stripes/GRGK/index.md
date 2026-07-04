@@ -22,9 +22,16 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glen Lyon #1](/variants/s4/k6g5r2~x2/)|
-|![Glen Lyon #1 example sett](/variants/s4/k6g5r2~x2/sett.png)|
-| [Wilson's No.187](/variants/s4/k1g1r1~x8/)|
-|![Wilson's No.187 example sett](/variants/s4/k1g1r1~x8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/k6g5r2~x2/">Glen Lyon #1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k6g5r2~x2/"><img src="/variants/s3/k6g5r2~x2/sett.png" alt="Glen Lyon #1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/k1g1r1~x8~r2109032/">Wilson's No.187</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/k1g1r1~x8~r2109032/"><img src="/variants/s3/k1g1r1~x8~r2109032/sett.png" alt="Wilson's No.187 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

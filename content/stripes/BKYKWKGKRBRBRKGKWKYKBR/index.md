@@ -22,7 +22,14 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wilson's No.090](/variants/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2/)|
-|![Wilson's No.090 example sett](/variants/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2~t2503227-lb3200000/">Wilson's No.090</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2~t2503227-lb3200000/"><img src="/variants/s12/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2~t2503227-lb3200000/sett.png" alt="Wilson's No.090 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lewis, Green (Dance)](/variants/s4/dg4w35g31w4~x2/)|
-|![Lewis, Green (Dance) example sett](/variants/s4/dg4w35g31w4~x2/sett.png)|
-| [Shepherd (Brown & White)](/variants/s4/dy1lb1~x6/)|
-|![Shepherd (Brown & White) example sett](/variants/s4/dy1lb1~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/lb48g25lb13y5~x2/">Laurel Park</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/lb48g25lb13y5~x2/"><img src="/variants/s4/lb48g25lb13y5~x2/sett.png" alt="Laurel Park sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dg4w35g31w4~x2/">Lewis, Green (Dance)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dg4w35g31w4~x2/"><img src="/variants/s4/dg4w35g31w4~x2/sett.png" alt="Lewis, Green (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

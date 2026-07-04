@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [St. Lawrence #2 (Fashion)](/variants/s8/g2do13g11ly5do1lo21g2dy1~x2/)|
-|![St. Lawrence #2 (Fashion) example sett](/variants/s8/g2do13g11ly5do1lo21g2dy1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/">St. Lawrence #2 (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/"><img src="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/sett.png" alt="St. Lawrence #2 (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

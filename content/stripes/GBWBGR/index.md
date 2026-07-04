@@ -22,9 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bronte House Check (Fashion)](/variants/s6/r10dy60dt13lb24dt24dy8/)|
-|![Bronte House Check (Fashion) example sett](/variants/s6/r10dy60dt13lb24dt24dy8/sett.png)|
-| [Wilson's No.113](/variants/s6/g3dp3w1dp3g3r1~x4/)|
-|![Wilson's No.113 example sett](/variants/s6/g3dp3w1dp3g3r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r10dy60db13w24db24dy8/">Bronte House Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r10dy60db13w24db24dy8/"><img src="/variants/s6/r10dy60db13w24db24dy8/sett.png" alt="Bronte House Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/g3dp3w1dp3g3r1~x4/">Wilson's No.113</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g3dp3w1dp3g3r1~x4/"><img src="/variants/s6/g3dp3w1dp3g3r1~x4/sett.png" alt="Wilson's No.113 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

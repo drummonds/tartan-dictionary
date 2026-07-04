@@ -22,9 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Prince George](/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/)|
-|![Prince George example sett](/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/sett.png)|
-| [Prince George (Royal)](/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/)|
-|![Prince George (Royal) example sett](/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/">Prince George</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><img src="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/sett.png" alt="Prince George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/">Prince George (Royal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/"><img src="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/sett.png" alt="Prince George (Royal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

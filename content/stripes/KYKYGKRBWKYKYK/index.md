@@ -22,9 +22,16 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Tarassow Russian Scout (Corporate)](/variants/s14/k8ly8k8ly2g100k42r8b8w8k21ly2k8ly8k8/)|
-|![Tarassow Russian Scout (Corporate) example sett](/variants/s14/k8ly8k8ly2g100k42r8b8w8k21ly2k8ly8k8/sett.png)|
-| [Tarassow Russian Scouts Corporate Tartan](/variants/s14/k8lo8k8lo2g100k42r8b8w8k21lo2k8lo8k8/)|
-|![Tarassow Russian Scouts Corporate Tartan example sett](/variants/s14/k8lo8k8lo2g100k42r8b8w8k21lo2k8lo8k8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/k8lo8k8lo2g100k42r8t8w8k21lo2k8lo8k8/">Tarassow Russian Scout</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k8lo8k8lo2g100k42r8t8w8k21lo2k8lo8k8/"><img src="/variants/s14/k8lo8k8lo2g100k42r8t8w8k21lo2k8lo8k8/sett.png" alt="Tarassow Russian Scout sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/k8ly8k8ly2g100k42r8t8w8k21ly2k8ly8k8/">Tarassow Russian Scout (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/k8ly8k8ly2g100k42r8t8w8k21ly2k8ly8k8/"><img src="/variants/s14/k8ly8k8ly2g100k42r8t8w8k21ly2k8ly8k8/sett.png" alt="Tarassow Russian Scout (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

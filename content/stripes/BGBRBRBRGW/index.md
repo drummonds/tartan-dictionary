@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Roxburgh Red](/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/)|
-|![Roxburgh Red example sett](/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/sett.png)|
-| [Roxburgh, Red](/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/)|
-|![Roxburgh, Red example sett](/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/">Roxburgh Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><img src="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/sett.png" alt="Roxburgh Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/">Roxburgh, Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/"><img src="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/sett.png" alt="Roxburgh, Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

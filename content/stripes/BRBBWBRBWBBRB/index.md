@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Illinois St Andrews Society Corporate Tartan](/variants/s13/db4r3t23db16w5t3r2t3w5t11db2r1db4~x2/)|
-|![Illinois St Andrews Society Corporate Tartan example sett](/variants/s13/db4r3t23db16w5t3r2t3w5t11db2r1db4~x2/sett.png)|
-| [Illinois, St Andrews Society](/variants/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/)|
-|![Illinois, St Andrews Society example sett](/variants/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/">Illinois, St Andrews Society</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/"><img src="/variants/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/sett.png" alt="Illinois, St Andrews Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

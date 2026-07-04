@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stewart of Achnacone Clan Tartan](/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/)|
-|![Stewart of Achnacone Clan Tartan example sett](/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/">Stewart of Achnacone Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"><img src="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/sett.png" alt="Stewart of Achnacone Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

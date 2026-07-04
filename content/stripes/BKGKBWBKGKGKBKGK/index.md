@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Guildford Town Centre (British Columbia)](/variants/s16/n38k5y5k5n5w2n12k10dy5k5dy10k9n76k9y2k5~x2/)|
-|![Guildford Town Centre (British Columbia) example sett](/variants/s16/n38k5y5k5n5w2n12k10dy5k5dy10k9n76k9y2k5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/">Guildford Town Centre (British Columbia)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/"><img src="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/sett.png" alt="Guildford Town Centre (British Columbia) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

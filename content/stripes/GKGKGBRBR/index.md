@@ -22,11 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Queen of Scots](/variants/s9/r34dp4r1dp4g2k3g1k3g22~x2/)|
-|![Queen of Scots example sett](/variants/s9/r34dp4r1dp4g2k3g1k3g22~x2/sett.png)|
-| [Queen of Scots](/variants/s9/g22k3g1k3g2p8m1p8m16~x2/)|
-|![Queen of Scots example sett](/variants/s9/g22k3g1k3g2p8m1p8m16~x2/sett.png)|
-| [Queen of Scots (Commemorative))](/variants/s9/g22k3g1k3g2dp8r1dp8r16~x2/)|
-|![Queen of Scots (Commemorative)) example sett](/variants/s9/g22k3g1k3g2dp8r1dp8r16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/r34db4r1db4g2k3g1k3g22~x2/">Queen of Scots</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/r34db4r1db4g2k3g1k3g22~x2/"><img src="/variants/s9/r34db4r1db4g2k3g1k3g22~x2/sett.png" alt="Queen of Scots sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

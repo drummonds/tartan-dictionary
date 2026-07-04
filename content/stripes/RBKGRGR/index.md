@@ -22,9 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDuff](/variants/s7/r10db6k8g10r6g3r6~x2/)|
-|![MacDuff example sett](/variants/s7/r10db6k8g10r6g3r6~x2/sett.png)|
-| [MacDuff #3](/variants/s7/r10db6k8dg10r6dg3r6~x2/)|
-|![MacDuff #3 example sett](/variants/s7/r10db6k8dg10r6dg3r6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r10db6k8g10r6g3r6~x2/">MacDuff #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><img src="/variants/s7/r10db6k8g10r6g3r6~x2/sett.png" alt="MacDuff #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/r52db16k16g22r16y3r16/">Sturrock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r52db16k16g22r16y3r16/"><img src="/variants/s7/r52db16k16g22r16y3r16/sett.png" alt="Sturrock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

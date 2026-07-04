@@ -22,11 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Nova Scotia](/variants/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/)|
-|![Nova Scotia example sett](/variants/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/sett.png)|
-| [Nova Scotia (Province)](/variants/s9/w2db20gi2g2gi2g4gi8ly2r1~x2/)|
-|![Nova Scotia (Province) example sett](/variants/s9/w2db20gi2g2gi2g4gi8ly2r1~x2/sett.png)|
-| [Unidentified (ex Tony Murray)](/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2/)|
-|![Unidentified (ex Tony Murray) example sett](/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/">Unidentified (ex Tony Murray)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/"><img src="/variants/s9/w2db20dg2dgi2dg2dgi5dg8ly2r1~x2~dgi1605139/sett.png" alt="Unidentified (ex Tony Murray) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

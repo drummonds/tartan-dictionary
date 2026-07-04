@@ -22,9 +22,14 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Barber Family 2011 (Personal)](/variants/s4/ly30dy30r1y16~x2/)|
-|![Barber Family 2011 (Personal) example sett](/variants/s4/ly30dy30r1y16~x2/sett.png)|
-| [O'Neill, Red (Corporate?)](/variants/s4/g9o20g46lg5~x2/)|
-|![O'Neill, Red (Corporate?) example sett](/variants/s4/g9o20g46lg5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/g9o20g46lg5~x2/">O'Neill, Red (Corporate?)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g9o20g46lg5~x2/"><img src="/variants/s4/g9o20g46lg5~x2/sett.png" alt="O'Neill, Red (Corporate?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

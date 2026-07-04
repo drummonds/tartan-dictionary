@@ -22,9 +22,16 @@ It is a 22 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [ASF Official (Corporate)](/variants/s22/w2r2w2r2dt2w1dt1w1dt1w1dt2db4w1db4dt35dg2k1dg2r2dg1r2w1~x2/)|
-|![ASF Official (Corporate) example sett](/variants/s22/w2r2w2r2dt2w1dt1w1dt1w1dt2db4w1db4dt35dg2k1dg2r2dg1r2w1~x2/sett.png)|
-| [American Scottish Foundation](/variants/s22/w2r2w2r2dt2w1dt1w1dt1w1dt2b4w1b4dt35dg2k1dg2r2dg1r2w1~x2/)|
-|![American Scottish Foundation example sett](/variants/s22/w2r2w2r2dt2w1dt1w1dt1w1dt2b4w1b4dt35dg2k1dg2r2dg1r2w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/">ASF Official (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/"><img src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1~x2~db1404245-dbi1406275/sett.png" alt="ASF Official (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/">American Scottish Foundation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/"><img src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/sett.png" alt="American Scottish Foundation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

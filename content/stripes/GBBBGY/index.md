@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Potts (Personal)](/variants/s6/y1db36do28db3y3ly1~x2/)|
-|![Potts (Personal) example sett](/variants/s6/y1db36do28db3y3ly1~x2/sett.png)|
-| [Scottish Ballet](/variants/s6/ly5g22dp15dpi11dp5g2~x2/)|
-|![Scottish Ballet example sett](/variants/s6/ly5g22dp15dpi11dp5g2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/y1db36do28db3y3ly1~x2/">Potts (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/y1db36do28db3y3ly1~x2/"><img src="/variants/s6/y1db36do28db3y3ly1~x2/sett.png" alt="Potts (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

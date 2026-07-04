@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Livingstone (Australia) Dress](/variants/s11/dg15r25dg4k2ly1dt1ly1k2dg4dt12w1~x2/)|
-|![Livingstone (Australia) Dress example sett](/variants/s11/dg15r25dg4k2ly1dt1ly1k2dg4dt12w1~x2/sett.png)|
-| [Livingstone - Australia (Personal)](/variants/s11/g15r25g4k2lo1db1lo1k2g4db12w1~x2/)|
-|![Livingstone - Australia (Personal) example sett](/variants/s11/g15r25g4k2lo1db1lo1k2g4db12w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/">Livingstone - Australia (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><img src="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/sett.png" alt="Livingstone - Australia (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Venters (Personal)](/variants/s6/db15dt55w1dp5r2ly1~x2/)|
-|![Venters (Personal) example sett](/variants/s6/db15dt55w1dp5r2ly1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/">Venters (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><img src="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/sett.png" alt="Venters (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cochrane Hunting](/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/)|
-|![Cochrane Hunting example sett](/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/">Cochrane Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><img src="/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/sett.png" alt="Cochrane Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

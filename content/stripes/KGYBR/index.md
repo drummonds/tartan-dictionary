@@ -22,9 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [St Johns County Sheriff Office (Cor)](/variants/s5/r17db7lo8g58k6~x2/)|
-|![St Johns County Sheriff Office (Cor) example sett](/variants/s5/r17db7lo8g58k6~x2/sett.png)|
-| [St Johns County's Sheriff's Office](/variants/s5/r17db7lo8dg58k6~x2/)|
-|![St Johns County's Sheriff's Office example sett](/variants/s5/r17db7lo8dg58k6~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r17db7ly8g58k6~x2/">St Johns County Sheriff Office (Cor)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r17db7ly8g58k6~x2/"><img src="/variants/s5/r17db7ly8g58k6~x2/sett.png" alt="St Johns County Sheriff Office (Cor) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

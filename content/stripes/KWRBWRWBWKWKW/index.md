@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Spirit of South Korea](/variants/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/)|
-|![Spirit of South Korea example sett](/variants/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/sett.png)|
-| [Spirit of South Korea (Fashion)](/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/)|
-|![Spirit of South Korea (Fashion) example sett](/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/">Spirit of South Korea</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><img src="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/sett.png" alt="Spirit of South Korea sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dickie (Glasgow)](/variants/s17/k5db1k1n1k3n1k1db1k3db1k1g1k16g1k1n1k2~x4/)|
-|![Dickie (Glasgow) example sett](/variants/s17/k5db1k1n1k3n1k1db1k3db1k1g1k16g1k1n1k2~x4/sett.png)|
-| [Dickie (Glasgow) (Personal)](/variants/s17/k5dt1k1n1k3n1k1dt1k3dt1k1dg1k16dg1k1n1k2~x4/)|
-|![Dickie (Glasgow) (Personal) example sett](/variants/s17/k5dt1k1n1k3n1k1dt1k3dt1k1dg1k16dg1k1n1k2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2~x4/">Dickie (Glasgow)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2~x4/"><img src="/variants/s17/k5db1k1n1k3n1k1db1k3db1k1dg1k16dg1k1n1k2~x4/sett.png" alt="Dickie (Glasgow) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×8 | [Wilson's No.187](/variants/s4/k1g1r1~x8/) ★ | 1819 | ![Wilson's No.187 sett](/variants/s4/k1g1r1~x8/sett.png) |
+| ×8 | [Wilson's No.187](/variants/s3/k1g1r1~x8~r2109032/) ★ | 1819 | ![Wilson's No.187 sett](/variants/s3/k1g1r1~x8~r2109032/sett.png) |
 | ×8 | [Wilson's, No 187](/variants/s3/k1g1r1~x8/) | ~2016 | ![Wilson's, No 187 sett](/variants/s3/k1g1r1~x8/sett.png) |

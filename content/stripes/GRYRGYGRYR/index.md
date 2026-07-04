@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Unidentified Lindley #5](/variants/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/)|
-|![Unidentified Lindley #5 example sett](/variants/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dy1r1ly7r7dy1ly1dy1r7ly7r1~x4~r2109032/">Unidentified Lindley #5</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dy1r1ly7r7dy1ly1dy1r7ly7r1~x4~r2109032/"><img src="/variants/s10/dy1r1ly7r7dy1ly1dy1r7ly7r1~x4~r2109032/sett.png" alt="Unidentified Lindley #5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

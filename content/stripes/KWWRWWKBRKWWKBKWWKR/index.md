@@ -22,9 +22,16 @@ It is a 19 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [J.C.M. Customs](/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/)|
-|![J.C.M. Customs example sett](/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/sett.png)|
-| [JCM Customs](/variants/s19/k3w1wi1r5wi1w1k1db1r1k1w1wi1k1db4k1wi1w4k40r3~x2/)|
-|![JCM Customs example sett](/variants/s19/k3w1wi1r5wi1w1k1db1r1k1w1wi1k1db4k1wi1w4k40r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/">J.C.M. Customs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/"><img src="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/sett.png" alt="J.C.M. Customs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1w1lb1k1db4k1lb1w4k40r3~x2/">JCM Customs</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1w1lb1k1db4k1lb1w4k40r3~x2/"><img src="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1w1lb1k1db4k1lb1w4k40r3~x2/sett.png" alt="JCM Customs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

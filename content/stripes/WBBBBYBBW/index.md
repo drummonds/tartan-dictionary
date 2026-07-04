@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Caitriot](/variants/s9/w3t2n14lr8t14db16n13t2w3~x2/)|
-|![Caitriot example sett](/variants/s9/w3t2n14lr8t14db16n13t2w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w3ni2n14lr8ni14db16n13ni2w3~x2~ni2203265-n1700000-lr2800000-db0705267/">Caitriot</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w3ni2n14lr8ni14db16n13ni2w3~x2~ni2203265-n1700000-lr2800000-db0705267/"><img src="/variants/s9/w3ni2n14lr8ni14db16n13ni2w3~x2~ni2203265-n1700000-lr2800000-db0705267/sett.png" alt="Caitriot sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

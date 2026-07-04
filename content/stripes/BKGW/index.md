@@ -22,11 +22,19 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wilson's No 220](/variants/s4/dp8k11dg9w2~x2/)|
-|![Wilson's No 220 example sett](/variants/s4/dp8k11dg9w2~x2/sett.png)|
-| [Wilson's No.220](/variants/s4/dp5k5g5w1~x4/)|
-|![Wilson's No.220 example sett](/variants/s4/dp5k5g5w1~x4/sett.png)|
-| [Wilson's, No 220](/variants/s4/p8k11g9w2~x2/)|
-|![Wilson's, No 220 example sett](/variants/s4/p8k11g9w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/dp8k11g9w2~x2/">Wilson's No 220</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dp8k11g9w2~x2/"><img src="/variants/s4/dp8k11g9w2~x2/sett.png" alt="Wilson's No 220 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/">Wilson's No.220</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><img src="/variants/s4/dp5k5g5w1~x4~dp1607327/sett.png" alt="Wilson's No.220 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dr14k3dg3w1~x2/">Bacon, Red (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dr14k3dg3w1~x2/"><img src="/variants/s4/dr14k3dg3w1~x2/sett.png" alt="Bacon, Red (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

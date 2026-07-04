@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Diamond Jubilee (Lochcarron) (Comm.)](/variants/s10/dp46db12lo3db3lb3dp11dbi5db2dbi7w2~x2/)|
-|![Diamond Jubilee (Lochcarron) (Comm.) example sett](/variants/s10/dp46db12lo3db3lb3dp11dbi5db2dbi7w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/">Diamond Jubilee (Lochcarron) (Comm.)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/"><img src="/variants/s10/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2~x2~dbi1204274-db1106275/sett.png" alt="Diamond Jubilee (Lochcarron) (Comm.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

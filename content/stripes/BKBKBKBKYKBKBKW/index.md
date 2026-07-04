@@ -22,11 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fleming /Frisken/Flanders](/variants/s15/db32k6db6k6db6k32db33k4ly8k4db33k32db34k4w8/)|
-|![Fleming /Frisken/Flanders example sett](/variants/s15/db32k6db6k6db6k32db33k4ly8k4db33k32db34k4w8/sett.png)|
-| [Fleming/Frisken/Flanders](/variants/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/)|
-|![Fleming/Frisken/Flanders example sett](/variants/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/sett.png)|
-| [Glengoyne Distillery](/variants/s15/db11k3db3k3db3k9dp9k1lo3k1dp9k9db9k1w3~x2/)|
-|![Glengoyne Distillery example sett](/variants/s15/db11k3db3k3db3k9dp9k1lo3k1dp9k9db9k1w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/">Glengoyne Distillery</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/"><img src="/variants/s15/db11k3db3k3db3k9dp9k1ly3k1dp9k9db9k1w3~x2/sett.png" alt="Glengoyne Distillery sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

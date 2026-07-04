@@ -22,9 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Armstrong](/variants/s10/r3db12k1db1k1db2k12g30k1g2~x2/)|
-|![Armstrong example sett](/variants/s10/r3db12k1db1k1db2k12g30k1g2~x2/sett.png)|
-| [Armstrong](/variants/s10/r3db12k1db1k1db2k12dg30k1dg2~x2/)|
-|![Armstrong example sett](/variants/s10/r3db12k1db1k1db2k12dg30k1dg2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/r3db12k1db1k1db2k12g30k1g2/">Armstrong</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r3db12k1db1k1db2k12g30k1g2/"><img src="/variants/s10/r3db12k1db1k1db2k12g30k1g2~x2~db1406275/sett.png" alt="Armstrong sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

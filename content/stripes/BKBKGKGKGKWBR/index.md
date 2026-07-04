@@ -22,9 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Free (Universal)](/variants/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/)|
-|![Free (Universal) example sett](/variants/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/sett.png)|
-| [Free (Wishaw)](/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/)|
-|![Free (Wishaw) example sett](/variants/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/">Free (Universal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/"><img src="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/sett.png" alt="Free (Universal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

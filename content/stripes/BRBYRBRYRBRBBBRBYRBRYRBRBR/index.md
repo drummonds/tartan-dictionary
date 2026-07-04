@@ -22,7 +22,14 @@ It is a 26 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fontainbleu](/variants/s26/o66n8o4dt2o1lo2o3dt4o4lo1dt1o8dt2n8dt2o8dt2o1lo2o3dt4o4lo1dt1o4n8~x2/)|
-|![Fontainbleu example sett](/variants/s26/o66n8o4dt2o1lo2o3dt4o4lo1dt1o8dt2n8dt2o8dt2o1lo2o3dt4o4lo1dt1o4n8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/">Fontainbleu</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/"><img src="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/sett.png" alt="Fontainbleu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

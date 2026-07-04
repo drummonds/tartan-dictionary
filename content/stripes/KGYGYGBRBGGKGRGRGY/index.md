@@ -22,9 +22,16 @@ It is a 18 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Harmon Hunting](/variants/s18/k2g6ly2g2ly2g19dt2r2dt2g2dg4k2dg11r2dg2r2dg6ly2~x2/)|
-|![Harmon Hunting example sett](/variants/s18/k2g6ly2g2ly2g19dt2r2dt2g2dg4k2dg11r2dg2r2dg6ly2~x2/sett.png)|
-| [Harmon Hunting (Personal)](/variants/s18/k2g6lo2g2lo2g19dt2r2dt2g2dg4k2dg11r2dg2r2dg6lo2~x2/)|
-|![Harmon Hunting (Personal) example sett](/variants/s18/k2g6lo2g2lo2g19dt2r2dt2g2dg4k2dg11r2dg2r2dg6lo2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s18/k2g6ly2g2ly2g19db2r2db2g2dg4k2dg11r2dg2r2dg6ly2~x2/">Harmon Hunting (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/k2g6ly2g2ly2g19db2r2db2g2dg4k2dg11r2dg2r2dg6ly2~x2/"><img src="/variants/s18/k2g6ly2g2ly2g19db2r2db2g2dg4k2dg11r2dg2r2dg6ly2~x2/sett.png" alt="Harmon Hunting (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s18/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2~x2~dgi1806142-db1404245/">Harmon Hunting Personal Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s18/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2~x2~dgi1806142-db1404245/"><img src="/variants/s18/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2~x2~dgi1806142-db1404245/sett.png" alt="Harmon Hunting Personal Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

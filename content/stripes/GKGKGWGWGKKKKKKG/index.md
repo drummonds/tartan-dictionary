@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Connor, Old](/variants/s16/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3/)|
-|![O'Connor, Old example sett](/variants/s16/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3~ki0604259/">O'Connor, Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3~ki0604259/"><img src="/variants/s16/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3~ki0604259/sett.png" alt="O'Connor, Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

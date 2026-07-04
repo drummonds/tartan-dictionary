@@ -1,5 +1,0 @@
----
-title: "Oakley (2015)"
-redirect: "/variants/s5/dg37k22w4r15lo3~x2/"
----
-This sett is recorded as a single cloth — redirecting to [Oakley (2015)](/variants/s5/dg37k22w4r15lo3~x2/).

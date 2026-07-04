@@ -22,7 +22,14 @@ It is a 30 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Donohue](/variants/s30/b14k2b2k2b2k8g13w2g12w2g13k8g6k12g5k12g6k8g13w2g12w2g13k8b2k2b2k2b14g3~x2/)|
-|![O'Donohue example sett](/variants/s30/b14k2b2k2b2k8g13w2g12w2g13k8g6k12g5k12g6k8g13w2g12w2g13k8b2k2b2k2b14g3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/">O'Donohue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/"><img src="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/sett.png" alt="O'Donohue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

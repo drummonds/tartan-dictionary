@@ -22,9 +22,17 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [London Caledonian](/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/)|
-|![London Caledonian example sett](/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/sett.png)|
-| [London Caledonian Games Association](/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/)|
-|![London Caledonian Games Association example sett](/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/">London Caledonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><img src="/variants/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/sett.png" alt="London Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/">London Caledonian Games Association</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><img src="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/sett.png" alt="London Caledonian Games Association sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

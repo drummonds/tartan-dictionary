@@ -22,7 +22,14 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fitzgerald Red](/variants/s15/k4r4w4r28b4r4g25r4b25r4b4r28w4r4k4~x2/)|
-|![Fitzgerald Red example sett](/variants/s15/k4r4w4r28b4r4g25r4b25r4b4r28w4r4k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/">Fitzgerald Red</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><img src="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/sett.png" alt="Fitzgerald Red sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Grampian](/variants/s8/g26r2g3db15dbi26ri2dbi3db4~x2/)|
-|![Grampian example sett](/variants/s8/g26r2g3db15dbi26ri2dbi3db4~x2/sett.png)|
-| [Grampian (District)](/variants/s8/y24r2y3db14dt24r2dt3db3~x2/)|
-|![Grampian (District) example sett](/variants/s8/y24r2y3db14dt24r2dt3db3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/">Grampian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/"><img src="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/sett.png" alt="Grampian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

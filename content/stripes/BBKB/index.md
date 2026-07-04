@@ -22,9 +22,18 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lord Willy's (Corporate)](/variants/s4/n10k2db2dp1~x5/)|
-|![Lord Willy's (Corporate) example sett](/variants/s4/n10k2db2dp1~x5/sett.png)|
-| [Lord Willy's (New York)](/variants/s4/n25k5b5p3~x2/)|
-|![Lord Willy's (New York) example sett](/variants/s4/n25k5b5p3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/db8dr1k1n1~x10/">Kucher, Gregory</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/db8dr1k1n1~x10/"><img src="/variants/s4/db8dr1k1n1~x10/sett.png" alt="Kucher, Gregory sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/n10k2db2dp1~x5/">Lord Willy's (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/n10k2db2dp1~x5/"><img src="/variants/s4/n10k2db2dp1~x5/sett.png" alt="Lord Willy's (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/n25k5db5dp3~x2/">Lord Willy's (New York)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/n25k5db5dp3~x2/"><img src="/variants/s4/n25k5db5dp3~x2/sett.png" alt="Lord Willy's (New York) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

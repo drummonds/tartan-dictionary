@@ -22,7 +22,14 @@ It is a 80 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Virginia (USA)](/variants/s80/gi16g1gi1g1gi1g1gi1g1gi1g8m16dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1-h33e6da08edeeca2b/)|
-|![Virginia (USA) example sett](/variants/s80/gi16g1gi1g1gi1g1gi1g1gi1g8m16dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1-h33e6da08edeeca2b/sett.png?s=gi16g1gi1g1gi1g1gi1g1gi1g8m16dp32m16g8gi1g1gi1g1gi1g1gi1g1gi16b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b1gi1b16lb32b16gi1b1gi1b1gi1b1)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/">Virginia (USA)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/"><img src="/variants/s80/dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1-h6ddc73a164bb2d01/sett.png?s=dg16g1dg1g1dg1g1dg1g1dg1g8o16dp32o16g8dg1g1dg1g1dg1g1dg1g1dg16t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg1t16lb32t16dg1t1dg1t1dg1t1~dg1806142-g2408144-t2205244" alt="Virginia (USA) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

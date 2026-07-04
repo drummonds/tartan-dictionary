@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Majewski-White (Personal)](/variants/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/)|
-|![Majewski-White (Personal) example sett](/variants/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/sett.png)|
-| [Majewski-White (Personal)](/variants/s14/db5w7db4w2db2w3db4p6db3p6db34w2db4w2~x2/)|
-|![Majewski-White (Personal) example sett](/variants/s14/db5w7db4w2db2w3db4p6db3p6db34w2db4w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/">Majewski-White (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/"><img src="/variants/s14/db5w7db4w2db2w3db4dp6db3dp6db34w2db4w2~x2/sett.png" alt="Majewski-White (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

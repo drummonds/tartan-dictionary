@@ -5,75 +5,9 @@ date: 2023-03-18
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5db3w25k2w2k16g8k1w4/)
 (the same proportion at any scale), whose colour order is pattern [WBWKWKGKW](/stripes/wbwkwkgkw/).
 
-Part of the [Unidentified](/tartans/unidentified/) tartan — the named design grouping this sett with its other cloths.
-
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6095/
-
-## Also known as
-
-This cloth is also recorded under:
-
-- Unidentified #10
-- Unidentified #12
-- Unidentified #14
-- Unidentified #15
-- Unidentified #16
-- Unidentified #18
-- Unidentified #2
-- Unidentified #21
-- Unidentified #22
-- Unidentified #24
-- Unidentified #25
-- Unidentified #28
-- Unidentified #29
-- Unidentified #30
-- Unidentified #31
-- Unidentified #32
-- Unidentified #36
-- Unidentified #37
-- Unidentified #38
-- Unidentified #40
-- Unidentified #43
-- Unidentified #44
-- Unidentified #45
-- Unidentified #46
-- Unidentified #47
-- Unidentified #48
-- Unidentified #49
-- Unidentified #5
-- Unidentified #50
-- Unidentified #51
-- Unidentified #52
-- Unidentified #53
-- Unidentified #54
-- Unidentified #55
-- Unidentified #56
-- Unidentified #57
-- Unidentified #58
-- Unidentified #59
-- Unidentified #60
-- Unidentified #61
-- Unidentified #62
-- Unidentified #63
-- Unidentified #64
-- Unidentified #65
-- Unidentified #66
-- Unidentified #7
-- Unidentified #8
-- Unidentified #9
-- Unidentified 16
-- Unidentified Artifact
-- Unidentified Plaid
-- Unidentified Plaid #11
-- Unidentified Plaid #13
-- Unidentified Plaid #2
-- Unidentified Plaid #3
-- Unidentified Plaid #7
-- Unidentified Plaid #8
-- Unidentified Plaid #9
-- Unidentified Portrait
 
 ## Register references
 
@@ -82,34 +16,29 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6095
 
 ## Thread count
-LN/5 DB3 LN25 K2 LN2 K16 G8 K1 LN/4
+W/5 DB3 W25 K2 W2 K16 G8 K1 W/4
 
 One full sett is **123 threads**.
 
 ![Sett](sett.png)
 
 ## Palette
-<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(3 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">5</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">3</td><td><code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> <small style="color:#888">#2C2C80</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.0% 0.138 276.6)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">25</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LN</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#009420;"><span style="color:#009420;filter:grayscale(1) invert(1) contrast(100);">#009420</span></code> <small style="color:#888">#009420</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(57.9% 0.186 144.3)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">1</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> <small style="color:#888">#E0E0E0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(90.7% 0.000 89.9)</small></td></tr></tbody></table>
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB</td><td><code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> <small style="color:#888">#082077</small></td><td><small style="color:#888">oklch(30.0% 0.149 265.1)</small></td></tr><tr><td>G</td><td><code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> <small style="color:#888">#008B2A</small></td><td><small style="color:#888">oklch(55.4% 0.170 145.9)</small></td></tr><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LN</td><td><code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> <small style="color:#888">#F7F7F7</small></td><td><small style="color:#888">oklch(97.6% 0.000 89.9)</small></td></tr></tbody></table>
 
-## Compared to the master
+# Sample pattern
 
-This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
+<img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/5 DB3 W25 K2 W2 K16 G8 K1 W/4 tartan" width="880" height="480">
 
-<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
-<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
-<figure style="margin:0"><a href="/setts/dp4r3dp26r26dg26r4/"><img src="/variants/s6/dp4r3dp26r26dg26r4~x2/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dp4r3dp26r26dg26r4/">master sett →</a></figcaption></figure>
-</div>
+## Nearest variants
 
-## Nearest tartans
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
-
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=w5db3w25k2w2k16g8k1w4">Unidentified (shirt fabric)</a> <a class="nn-out" href="/variants/s9/w5db3w25k2w2k16g8k1w4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/w5db3w25k2w2k16g8k1w4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.04</div><div class="nn-name"><a href="/ttd/edit/#slug=n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2&amp;base=w5db3w25k2w2k16g8k1w4">Skye Dress Blue, Isle of (Dance)</a> <a class="nn-out" href="/variants/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.11</div><div class="nn-name"><a href="/ttd/edit/#slug=w1m2w17k11w2k4ly1~x4&amp;base=w5db3w25k2w2k16g8k1w4">MacPherson - 1842 (VS) Dress</a> <a class="nn-out" href="/variants/s7/w1m2w17k11w2k4ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w1m2w17k11w2k4ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.13</div><div class="nn-name"><a href="/ttd/edit/#slug=k9lb4k2lb4k2lb30k9lb4b14lo2~x2&amp;base=w5db3w25k2w2k16g8k1w4">Hannay (Clan)</a> <a class="nn-out" href="/variants/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.14</div><div class="nn-name"><a href="/ttd/edit/#slug=w3r1w30k20w3k9ly1~x2&amp;base=w5db3w25k2w2k16g8k1w4">MacPherson Dress (1842)</a> <a class="nn-out" href="/variants/s7/w3r1w30k20w3k9ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w3r1w30k20w3k9ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.15</div><div class="nn-name"><a href="/ttd/edit/#slug=dg7r3k3w54dg24r5dg5w5dg5r5~x2&amp;base=w5db3w25k2w2k16g8k1w4">Scott Dress #2</a> <a class="nn-out" href="/variants/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.17</div><div class="nn-name"><a href="/ttd/edit/#slug=k9w4k2w4k2w30k9w4db14ly2~x2&amp;base=w5db3w25k2w2k16g8k1w4">Hannay</a> <a class="nn-out" href="/variants/s10/k9w4k2w4k2w30k9w4db14ly2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k9w4k2w4k2w30k9w4db14ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.21</div><div class="nn-name"><a href="/ttd/edit/#slug=ly6dg36w5b4w30b1w2~x2&amp;base=w5db3w25k2w2k16g8k1w4">Pearce Scotch Plaid 4 (Fashion)</a> <a class="nn-out" href="/variants/s7/ly6dg36w5b4w30b1w2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly6dg36w5b4w30b1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.25</div><div class="nn-name"><a href="/ttd/edit/#slug=w1b6w4b1w16k1g4k6ly1~x2&amp;base=w5db3w25k2w2k16g8k1w4">Henderson Dress</a> <a class="nn-out" href="/variants/s9/w1b6w4b1w16k1g4k6ly1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w1b6w4b1w16k1g4k6ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.28</div><div class="nn-name"><a href="/ttd/edit/#slug=k9w4k2w4k2w29k9w4b14lo2~x2&amp;base=w5db3w25k2w2k16g8k1w4">Hannay</a> <a class="nn-out" href="/variants/s10/k9w4k2w4k2w29k9w4b14lo2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k9w4k2w4k2w29k9w4b14lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.30</div><div class="nn-name"><a href="/ttd/edit/#slug=r4w19dg2w8dg2w8k38w4~x2&amp;base=w5db3w25k2w2k16g8k1w4">St. Piran Dress</a> <a class="nn-out" href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">123</div><div class="nn-name nn-base"><a href="/variants/s9/w5db3w25k2w2k16g8k1w4/">Unidentified (shirt fabric)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/w5db3w25k2w2k16g8k1w4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w2g4k7w2k1w11db2w2~x4&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">1.57</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/">Forbes - 1880 (Clans Originaux)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w2g4k7w2k1w11db2w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w5r3w35k28w4k11w2~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">338</div><div class="nn-name nn-far"><a href="/variants/s7/w5r3w35k28w4k11w2~x2/">MacPherson of Cluny (Black and White)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w5r3w35k28w4k11w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4w1k1w9g1w1g1w1dy4~x4&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/">Puffin (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2w6db2w16db3w1k16w1db2k4r2~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.72</a></div><div class="nn-threads nn-far">212</div><div class="nn-name nn-far"><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/">Scott, (MacRae)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1k6g4k1w16b1w4b6w1~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.82</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s9/y1k6g4k1w16b1w4b6w1~x2/">Henderson Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y1k6g4k1w16b1w4b6w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1k6g4k1w16lb1w4lb6w1~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.82</a></div><div class="nn-threads nn-far">156</div><div class="nn-name nn-far"><a href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/">Henderson Dress (Clan?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w38k10do2k3w2k3g8o3k2o3w2~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">224</div><div class="nn-name nn-far"><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/">Glenmore Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2w28db4w2k6w2g7r4k1r2w1~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">230</div><div class="nn-name nn-far"><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/">Rothesay, Duke of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k9w4k2w4k2w30k9w4db14y2~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">298</div><div class="nn-name nn-far"><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/">Hannay</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k9w4k2w4k2w30k9w4b14lo2~x2&amp;base=w5db3w25k2w2k16g8k1w4" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">298</div><div class="nn-name nn-far"><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/">Hannay (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 
-Every grey dot is one of 14360 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/"><circle cx="263.1" cy="91.7" r="4" fill="#3465a4"><title>Skye Dress Blue, Isle of (Dance)</title></circle></a><a href="/variants/s7/w1m2w17k11w2k4ly1~x4/"><circle cx="280.8" cy="140.6" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/"><circle cx="251.5" cy="131.9" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9ly1~x2/"><circle cx="321.3" cy="121.2" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/variants/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="278.2" cy="109.1" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="242.1" cy="131.7" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s7/ly6dg36w5b4w30b1w2~x2/"><circle cx="268.8" cy="114.9" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/variants/s9/w1b6w4b1w16k1g4k6ly1~x2/"><circle cx="216.2" cy="114.8" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4b14lo2~x2/"><circle cx="233.2" cy="128.7" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="256.8" cy="132.4" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><circle cx="277.0" cy="118.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.3" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.6" cy="163.5" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><circle cx="199.6" cy="160.4" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="181.3" cy="122.4" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/variants/s9/y1k6g4k1w16b1w4b6w1~x2/"><circle cx="199.6" cy="125.8" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/"><circle cx="201.2" cy="126.3" r="4" fill="#3465a4"><title>Henderson Dress (Clan?)</title></circle></a><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/"><circle cx="234.5" cy="81.3" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="246.5" cy="72.0" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="134.6" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.1" cy="139.7" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><circle cx="248.8" cy="119.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w5db3w25k2w2k16g8k1w4/

@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Twilfit](/variants/s9/t25r46w11r11w7r11w11r46t12/)|
-|![Twilfit example sett](/variants/s9/t25r46w11r11w7r11w11r46t12/sett.png)|
-| [Twilfit](/variants/s9/db25r46w11r11w7r11w11r46db12/)|
-|![Twilfit example sett](/variants/s9/db25r46w11r11w7r11w11r46db12/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/db25r46w11r11w7r11w11r46db12/">Twilfit</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/db25r46w11r11w7r11w11r46db12/"><img src="/variants/s9/db25r46w11r11w7r11w11r46db12/sett.png" alt="Twilfit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

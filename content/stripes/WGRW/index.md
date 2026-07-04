@@ -22,11 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Dunoon Irish](/variants/s4/w2dg13o13w2~x6/)|
-|![Dunoon Irish example sett](/variants/s4/w2dg13o13w2~x6/sett.png)|
-| [Dunoon Irish (Corporate)](/variants/s4/w2o13g13w2~x6/)|
-|![Dunoon Irish (Corporate) example sett](/variants/s4/w2o13g13w2~x6/sett.png)|
-| [Quaboos Pipers Plaid](/variants/s4/w9r23g23w9~x2/)|
-|![Quaboos Pipers Plaid example sett](/variants/s4/w9r23g23w9~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/w2dg13o13w2~x6/">Dunoon Irish</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/w2dg13o13w2~x6/"><img src="/variants/s4/w2dg13o13w2~x6/sett.png" alt="Dunoon Irish sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/w9r23g23w9~x2/">Quaboos Pipers Plaid</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/w9r23g23w9~x2/"><img src="/variants/s4/w9r23g23w9~x2/sett.png" alt="Quaboos Pipers Plaid sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

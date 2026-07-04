@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Highland Titles (Corporate)](/variants/s16/r40dt25k20db15ly6db15k20dt25r40dt25k20db15w4db15k20dt25/)|
-|![Highland Titles (Corporate) example sett](/variants/s16/r40dt25k20db15ly6db15k20dt25r40dt25k20db15w4db15k20dt25/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/">Highland Titles (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/"><img src="/variants/s16/r40dbi25k20db15ly6db15k20dbi25r40dbi25k20db15w4db15k20dbi25~dbi1404245-db1106275/sett.png" alt="Highland Titles (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

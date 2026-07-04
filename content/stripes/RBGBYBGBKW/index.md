@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fogarty (Tipperary)](/variants/s10/r4b60g35b4ly4b4y12b18k3w2/)|
-|![Fogarty (Tipperary) example sett](/variants/s10/r4b60g35b4ly4b4y12b18k3w2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/">Fogarty (Tipperary)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><img src="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/sett.png" alt="Fogarty (Tipperary) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

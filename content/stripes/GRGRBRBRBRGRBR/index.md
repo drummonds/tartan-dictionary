@@ -22,19 +22,20 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bruce - 1819 (Old)](/variants/s14/r60db2r2y63r2db2r2db20r2db2r54y2r2y40/)|
-|![Bruce - 1819 (Old) example sett](/variants/s14/r60db2r2y63r2db2r2db20r2db2r54y2r2y40/sett.png)|
-| [Bruce Old](/variants/s14/r45db4r4dg48r4db4r4db15r4db4r40dg4r4dg30/)|
-|![Bruce Old example sett](/variants/s14/r45db4r4dg48r4db4r4db15r4db4r40dg4r4dg30/sett.png)|
-| [Bruce Old Clan Tartan](/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/)|
-|![Bruce Old Clan Tartan example sett](/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/sett.png)|
-| [Bruce, Old](/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/)|
-|![Bruce, Old example sett](/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/sett.png)|
-| [MacColl](/setts/r12db1r1g8r2db1r1db3r1db1r12g1r1g4/)|
-|![MacColl example sett](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/sett.png)|
-| [MacColl](/variants/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/)|
-|![MacColl example sett](/variants/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/sett.png)|
-| [MacDonald of Aird & Valley (Clan?)](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/)|
-|![MacDonald of Aird & Valley (Clan?) example sett](/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/">Bruce - 1819 (Old)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><img src="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/sett.png" alt="Bruce - 1819 (Old) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/">Bruce Old</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/"><img src="/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/sett.png" alt="Bruce Old sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/">Bruce Old Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"><img src="/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/sett.png" alt="Bruce Old Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r12db1r1g8r2db1r1db3r1db1r12g1r1g4/">MacColl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r12db1r1g8r2db1r1db3r1db1r12g1r1g4/"><img src="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/sett.png" alt="MacColl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

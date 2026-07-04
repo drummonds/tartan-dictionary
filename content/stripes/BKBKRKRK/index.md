@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Speyside Grey (Fashion)](/variants/s8/n32k3n3k3o5k8oi21k4~x2/)|
-|![Speyside Grey (Fashion) example sett](/variants/s8/n32k3n3k3o5k8oi21k4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/">Speyside Grey (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><img src="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/sett.png" alt="Speyside Grey (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

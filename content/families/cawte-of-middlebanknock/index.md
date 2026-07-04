@@ -9,10 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/g13ly16w4ly4r4ly4k20ly8r8/">Cawte of Middlebanknock</a> ★</td><td><code>G/26 LY32 W8 LY8 R8 LY8 K40 LY16 R/16</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/g13ly16w4ly4r4ly4k20ly8r8/"><img src="/variants/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g13y16w4y4r4y4k20y8r8/">Cawte of Middlebanknock</a> ★</td><td><code>G/26 Y32 W8 Y8 R8 Y8 K40 Y16 R/16</code></td><td>282</td><td>2003</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g13y16w4y4r4y4k20y8r8/"><img src="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/sett.png" alt="Cawte of Middlebanknock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

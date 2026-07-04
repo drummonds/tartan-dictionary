@@ -7,8 +7,6 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 [RGBRGKR](/stripes/rgbrgkr/); each scale below is its own sett page. First attested **~2002**
 — its oldest sett (★) anchors the tartan as the parent.
 
-Part of the [Stewart](/tartans/stewart/) tartan — the named design grouping this proportion with its other setts.
-
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|

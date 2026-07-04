@@ -22,17 +22,20 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gallaecia (Unofficial) (District)](/variants/s5/db24t13db4t4w2~x2/)|
-|![Gallaecia (Unofficial) (District) example sett](/variants/s5/db24t13db4t4w2~x2/sett.png)|
-| [Gallaecia - Galicia National](/variants/s5/db24n13db4n4w2~x2/)|
-|![Gallaecia - Galicia National example sett](/variants/s5/db24n13db4n4w2~x2/sett.png)|
-| [Gilt Edge (Corporate)](/variants/s5/db3dbi2t31db34w2~x2/)|
-|![Gilt Edge (Corporate) example sett](/variants/s5/db3dbi2t31db34w2~x2/sett.png)|
-| [GulfMark](/variants/s5/dt72b6dt12b17w6~x2/)|
-|![GulfMark example sett](/variants/s5/dt72b6dt12b17w6~x2/sett.png)|
-| [Gulfmark (Corporate)](/variants/s5/db72t6db12t17w6~x2/)|
-|![Gulfmark (Corporate) example sett](/variants/s5/db72t6db12t17w6~x2/sett.png)|
-| [Loch Lomond Trade Tartan](/variants/s5/t37b9t3db9w3~x2/)|
-|![Loch Lomond Trade Tartan example sett](/variants/s5/t37b9t3db9w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/db24t13db4t4w2~x2/">Gallaecia - Galicia National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db24t13db4t4w2~x2/"><img src="/variants/s5/db24t13db4t4w2~x2/sett.png" alt="Gallaecia - Galicia National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/dp15dt5dp15dt21w2~x2/">Highland Spirit (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><img src="/variants/s5/dp15dt5dp15dt21w2~x2/sett.png" alt="Highland Spirit (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/n16dr2n10dr14lb5~x2/">Mowbray (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/n16dr2n10dr14lb5~x2/"><img src="/variants/s5/n16dr2n10dr14lb5~x2/sett.png" alt="Mowbray (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

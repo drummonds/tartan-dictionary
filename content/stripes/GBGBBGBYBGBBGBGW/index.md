@@ -22,7 +22,14 @@ It is a 16 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Borderland](/variants/s16/dg2ni1dg30n10ni20dg1ni2lo1ni2dg1ni20n10dg30ni1dg2lb2~x2/)|
-|![Scottish Borderland example sett](/variants/s16/dg2ni1dg30n10ni20dg1ni2lo1ni2dg1ni20n10dg30ni1dg2lb2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/">Scottish Borderland</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/"><img src="/variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/sett.png" alt="Scottish Borderland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

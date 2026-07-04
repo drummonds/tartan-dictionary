@@ -22,11 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Special Saffron (Fashion)](/variants/s4/dg21lo44dg86t10/)|
-|![Special Saffron (Fashion) example sett](/variants/s4/dg21lo44dg86t10/sett.png)|
-| [Special Saffron Tartan](/variants/s4/dg21ly43dg86t10/)|
-|![Special Saffron Tartan example sett](/variants/s4/dg21ly43dg86t10/sett.png)|
-| [Special, Saffron](/variants/s4/dg21lo43dg86b10/)|
-|![Special, Saffron example sett](/variants/s4/dg21lo43dg86b10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s3/dr104dg39lo4~x2/">Scottish Watch</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/dr104dg39lo4~x2/"><img src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="Scottish Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/">Special, Saffron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><img src="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/sett.png" alt="Special, Saffron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

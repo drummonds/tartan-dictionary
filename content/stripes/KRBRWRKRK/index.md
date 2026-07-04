@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gipsy](/setts/k2r2k8r2w1r2db8r2k2/)|
-|![Gipsy example sett](/variants/s9/k2r2k8r2w1r2db8r2k2~x2/sett.png)|
-| [Gipsy](/variants/s9/k1r1k5r1w1r1db5r1k1~x2/)|
-|![Gipsy example sett](/variants/s9/k1r1k5r1w1r1db5r1k1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k2r2k8r2w1r2db8r2k2/">Gipsy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k2r2k8r2w1r2db8r2k2/"><img src="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/sett.png" alt="Gipsy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/k1r1k5r1w1r1db5r1k1~x2/">Gipsy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/k1r1k5r1w1r1db5r1k1~x2/"><img src="/variants/s9/k1r1k5r1w1r1db5r1k1~x2/sett.png" alt="Gipsy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

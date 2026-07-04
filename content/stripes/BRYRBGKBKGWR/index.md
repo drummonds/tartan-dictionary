@@ -22,9 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Heritage Sequane](/variants/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/)|
-|![Heritage Sequane example sett](/variants/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/sett.png)|
-| [Héritage Séquane](/variants/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/)|
-|![Héritage Séquane example sett](/variants/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/">Heritage Sequane</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><img src="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/sett.png" alt="Heritage Sequane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

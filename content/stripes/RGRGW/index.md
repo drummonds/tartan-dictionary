@@ -22,15 +22,21 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacGregor](/variants/s5/r39g6r2g3w1~x2/)|
-|![MacGregor example sett](/variants/s5/r39g6r2g3w1~x2/sett.png)|
-| [MacGregor #2](/variants/s5/r39dg6r2dg3w1~x2/)|
-|![MacGregor #2 example sett](/variants/s5/r39dg6r2dg3w1~x2/sett.png)|
-| [Welsh National (District)](/variants/s5/r8g3r4g44w4~x2/)|
-|![Welsh National (District) example sett](/variants/s5/r8g3r4g44w4~x2/sett.png)|
-| [Welsh National District Tartan](/variants/s5/m2g1m1g10w1~x4/)|
-|![Welsh National District Tartan example sett](/variants/s5/m2g1m1g10w1~x4/sett.png)|
-| [Welsh, National](/variants/s5/r2g1r1g11w1~x8/)|
-|![Welsh, National example sett](/variants/s5/r2g1r1g11w1~x8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/r39g6r2g3w1~x2/">MacGregor #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r39g6r2g3w1~x2/"><img src="/variants/s5/r39g6r2g3w1~x2/sett.png" alt="MacGregor #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2dg1r1dg10w1~x4/">Welsh National District Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2dg1r1dg10w1~x4/"><img src="/variants/s5/r2dg1r1dg10w1~x4/sett.png" alt="Welsh National District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r2g1r1g11w1~x8/">Welsh, National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r2g1r1g11w1~x8/"><img src="/variants/s5/r2g1r1g11w1~x8/sett.png" alt="Welsh, National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/lb11y2r1y2r1~x4/">Carlisle, Ancient</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/lb11y2r1y2r1~x4/"><img src="/variants/s5/lb11y2r1y2r1~x4/sett.png" alt="Carlisle, Ancient sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

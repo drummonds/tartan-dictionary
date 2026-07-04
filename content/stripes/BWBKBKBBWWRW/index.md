@@ -22,7 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Anglicare](/variants/s12/dbi12w4dbi4k12db12k4db8dbi12lt12w11r4w8/)|
-|![Anglicare example sett](/variants/s12/dbi12w4dbi4k12db12k4db8dbi12lt12w11r4w8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/b12w4b4k12db12k4db8b12lb12w11r4w8~b1511266-db1108266/">Anglicare</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/b12w4b4k12db12k4db8b12lb12w11r4w8~b1511266-db1108266/"><img src="/variants/s12/b12w4b4k12db12k4db8b12lb12w11r4w8~b1511266-db1108266/sett.png" alt="Anglicare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/dbi12w4dbi4k12db12k4db8dbi12lb12w11r4w8~dbi1406275-db1204274/">Anglicare (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/dbi12w4dbi4k12db12k4db8dbi12lb12w11r4w8~dbi1406275-db1204274/"><img src="/variants/s12/dbi12w4dbi4k12db12k4db8dbi12lb12w11r4w8~dbi1406275-db1204274/sett.png" alt="Anglicare (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

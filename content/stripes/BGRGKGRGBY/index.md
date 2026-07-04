@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [CAL FIRE Local 2881](/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2/)|
-|![CAL FIRE Local 2881 example sett](/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/">CAL FIRE Local 2881</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/"><img src="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/sett.png" alt="CAL FIRE Local 2881 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

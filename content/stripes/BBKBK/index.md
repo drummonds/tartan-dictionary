@@ -22,9 +22,14 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fenston/Morris (Personal)](/variants/s5/k33db8k4db35p3~x2/)|
-|![Fenston/Morris (Personal) example sett](/variants/s5/k33db8k4db35p3~x2/sett.png)|
-| [Williams (New York) (Personal)](/variants/s5/k30dt6k6dt41t2~x2/)|
-|![Williams (New York) (Personal) example sett](/variants/s5/k30dt6k6dt41t2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k33db8k4db35dp3~x2/">Fenston/Morris (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k33db8k4db35dp3~x2/"><img src="/variants/s5/k33db8k4db35dp3~x2/sett.png" alt="Fenston/Morris (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

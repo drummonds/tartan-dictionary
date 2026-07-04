@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Glen Moray](/variants/s8/db1lo1db13loi3y3loi3r1loi1~x4/)|
-|![Glen Moray example sett](/variants/s8/db1lo1db13loi3y3loi3r1loi1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db1lyi1db13ly3y3ly3r1ly1~x4~lyi2705081-ly2503076/">Glen Moray</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db1lyi1db13ly3y3ly3r1ly1~x4~lyi2705081-ly2503076/"><img src="/variants/s8/db1lyi1db13ly3y3ly3r1ly1~x4~lyi2705081-ly2503076/sett.png" alt="Glen Moray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

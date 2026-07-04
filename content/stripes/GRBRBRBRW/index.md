@@ -22,9 +22,16 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Rose](/variants/s9/g4r32db9r6db2r3db2r12w3~x2/)|
-|![Rose example sett](/variants/s9/g4r32db9r6db2r3db2r12w3~x2/sett.png)|
-| [Rose](/variants/s9/dg2r28db6r5db2r2db2r11lb2/)|
-|![Rose example sett](/variants/s9/dg2r28db6r5db2r2db2r11lb2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/">Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><img src="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g2r28db6r5db2r2db2r11w2/">Rose</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g2r28db6r5db2r2db2r11w2/"><img src="/variants/s9/g2r28db6r5db2r2db2r11w2/sett.png" alt="Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

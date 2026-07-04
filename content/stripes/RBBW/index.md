@@ -22,9 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fong (Personal)](/variants/s4/r21db43dt86lb10/)|
-|![Fong (Personal) example sett](/variants/s4/r21db43dt86lb10/sett.png)|
-| [Fong Wedding (Personal)](/variants/s4/r21dbi43db86w10/)|
-|![Fong Wedding (Personal) example sett](/variants/s4/r21dbi43db86w10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/">Fong (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><img src="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/sett.png" alt="Fong (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/">Fong Wedding (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><img src="/variants/s4/r21b43dt86w10~b1511266-dt1203284/sett.png" alt="Fong Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

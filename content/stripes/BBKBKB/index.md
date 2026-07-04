@@ -22,7 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Loevenstein Castle 3 (Artefact)](/variants/s6/db40k1db4k2db8db24~x2/)|
-|![Loevenstein Castle 3 (Artefact) example sett](/variants/s6/db40k1db4k2db8db24~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db65k2db4k2db10dr24~x2/">Norsemen, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db65k2db4k2db10dr24~x2/"><img src="/variants/s6/db65k2db4k2db10dr24~x2/sett.png" alt="Norsemen, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

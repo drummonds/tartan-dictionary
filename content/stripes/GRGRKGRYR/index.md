@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Justerini & Brooks](/variants/s9/r48ly14r9gi14k6r11g6r10gi3~x2/)|
-|![Justerini & Brooks example sett](/variants/s9/r48ly14r9gi14k6r11g6r10gi3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/">Justerini &amp; Brooks</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><img src="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/sett.png" alt="Justerini &amp; Brooks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

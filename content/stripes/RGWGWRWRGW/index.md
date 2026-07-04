@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Border Sett](/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2/)|
-|![Border Sett example sett](/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/">Border Sett</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><img src="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/sett.png" alt="Border Sett sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

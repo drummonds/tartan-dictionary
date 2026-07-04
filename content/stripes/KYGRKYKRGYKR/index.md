@@ -22,9 +22,17 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scrimgeour of Glassary](/variants/s12/r32k3lo6g10r6k3lo32~x2/)|
-|![Scrimgeour of Glassary example sett](/variants/s12/r32k3lo6g10r6k3lo32~x2/sett.png)|
-| [Scrymgeour](/variants/s12/r15k1lo2g3r2k1lo15~x6/)|
-|![Scrymgeour example sett](/variants/s12/r15k1lo2g3r2k1lo15~x6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r32k3lo6g10r6k3lo32~x2/">Scrimgeour of Glassary</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r32k3lo6g10r6k3lo32~x2/"><img src="/variants/s7/r32k3lo6g10r6k3lo32~x2/sett.png" alt="Scrimgeour of Glassary sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/">Scrymgeour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/"><img src="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

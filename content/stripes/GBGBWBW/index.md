@@ -22,7 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Long (Personal)](/variants/s7/g22dp22g3dp11w3dp4w3~x2/)|
-|![O'Long (Personal) example sett](/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/">O'Long (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><img src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="O'Long (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/">Unidentified No 17</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><img src="/variants/s7/g10db2g2db6lb5db1lb2~x2/sett.png" alt="Unidentified No 17 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Willsher Wedding (Personal)](/variants/s9/n8o4lb2o4n1o12g9n24r4~x2/)|
-|![Willsher Wedding (Personal) example sett](/variants/s9/n8o4lb2o4n1o12g9n24r4~x2/sett.png)|
-| [Willsher Wedding (Personal)](/variants/s9/do8o4w2o4do1o12dg9do24r4~x2/)|
-|![Willsher Wedding (Personal) example sett](/variants/s9/do8o4w2o4do1o12dg9do24r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/">Willsher Wedding (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><img src="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/sett.png" alt="Willsher Wedding (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

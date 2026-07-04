@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Childers (Gurkha Rifles)](/variants/s10/k8y28k8dg17k88dg17k8y28k8r6/)|
-|![Childers (Gurkha Rifles) example sett](/variants/s10/k8y28k8dg17k88dg17k8y28k8r6/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/">Childers (Gurkha Rifles)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><img src="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/sett.png" alt="Childers (Gurkha Rifles) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 17 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Clergy](/variants/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/)|
-|![Clergy example sett](/variants/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/sett.png)|
-| [Clergy 5](/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1~x2/)|
-|![Clergy 5 example sett](/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/">Clergy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><img src="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

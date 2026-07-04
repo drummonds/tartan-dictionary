@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Mullikin (2013)](/variants/s8/r5w4lg6db2dg43db2lg4r3~x2/)|
-|![Mullikin (2013) example sett](/variants/s8/r5w4lg6db2dg43db2lg4r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/">Mullikin (2013)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><img src="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/sett.png" alt="Mullikin (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

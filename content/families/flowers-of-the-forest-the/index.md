@@ -9,14 +9,10 @@ date: 2023-03-18
 ## Tartan
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/b8t4do5r1do5r1do5r1do16b1/">Flowers of the Forest, The</a> ★</td><td><code>B/32 T16 DO20 R4 DO20 R4 DO20 R4 DO64 B/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/b8t4do5r1do5r1do5r1do16b1/"><img src="/variants/s10/b8t4do5r1do5r1do5r1do16b1~x4/sett.png" alt="Flowers of the Forest, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r2do2r20y13lg3db5r2r4o2/">Flowers of the Forest, The</a></td><td><code>O/4 R8 R4 DB10 LG6 Y26 R40 DO4 R/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/r2do2r20y13lg3db5r2r4o2/"><img src="/variants/s9/r2do2r20y13lg3db5r2r4o2~x2/sett.png" alt="Flowers of the Forest, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/lb8db4dy5r1dy5r1dy5r1dy16lb1/">Flowers of the Forest, The</a> ★</td><td><code>LB/32 DB16 DY20 R4 DY20 R4 DY20 R4 DY64 LB/4</code></td><td>340</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/lb8db4dy5r1dy5r1dy5r1dy16lb1/"><img src="/variants/s10/lb8db4dy5r1dy5r1dy5r1dy16lb1~x4/sett.png" alt="Flowers of the Forest, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
-
-[See the Flowers of the Forest, The tartan and all its setts →](/tartans/flowers-of-the-forest-the/)
 

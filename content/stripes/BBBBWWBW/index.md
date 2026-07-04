@@ -22,9 +22,16 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bannockbane Blue #2](/variants/s8/db3dbi2db14dbi1lb10lbi16dbi2lbi3~x2/)|
-|![Bannockbane Blue #2 example sett](/variants/s8/db3dbi2db14dbi1lb10lbi16dbi2lbi3~x2/sett.png)|
-| [Bannockbane Blue #3](/variants/s8/bi3b2bi30b1w18lb14b2lb3~x2/)|
-|![Bannockbane Blue #3 example sett](/variants/s8/bi3b2bi30b1w18lb14b2lb3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/">Bannockbane Blue #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/"><img src="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/sett.png" alt="Bannockbane Blue #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/">Bannockbane Blue #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/"><img src="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/sett.png" alt="Bannockbane Blue #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

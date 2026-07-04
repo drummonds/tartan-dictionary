@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDuck #2](/variants/s6/k4r5k2lo21g8k2~x2/)|
-|![MacDuck #2 example sett](/variants/s6/k4r5k2lo21g8k2~x2/sett.png)|
-| [MacDuck (Corporate)](/variants/s6/k4r5k2ly21g8k2~x2/)|
-|![MacDuck (Corporate) example sett](/variants/s6/k4r5k2ly21g8k2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k4r5k2lo21g8k2~x2/">MacDuck #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4r5k2lo21g8k2~x2/"><img src="/variants/s6/k4r5k2lo21g8k2~x2/sett.png" alt="MacDuck #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

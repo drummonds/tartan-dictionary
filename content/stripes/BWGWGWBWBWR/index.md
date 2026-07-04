@@ -22,7 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Shaw of Tordarroch, Mrs (Personal)](/variants/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/)|
-|![Shaw of Tordarroch, Mrs (Personal) example sett](/variants/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/">Shaw of Tordarroch, Mrs (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/"><img src="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/sett.png" alt="Shaw of Tordarroch, Mrs (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

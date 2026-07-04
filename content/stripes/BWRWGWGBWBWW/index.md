@@ -22,7 +22,16 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Summerwood](/variants/s12/b76w3r4w3dg4w3dgi8b20lt20b3lt8w10/)|
-|![Summerwood example sett](/variants/s12/b76w3r4w3dg4w3dgi8b20lt20b3lt8w10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/">Summerwood</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/"><img src="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/sett.png" alt="Summerwood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/">Summerwood (School)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><img src="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/sett.png" alt="Summerwood (School) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

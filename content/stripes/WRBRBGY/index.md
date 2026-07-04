@@ -22,13 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Bathija (Name)](/variants/s7/ly4g18b4ri8b8r21w1~x2/)|
-|![Bathija (Name) example sett](/variants/s7/ly4g18b4ri8b8r21w1~x2/sett.png)|
-| [Feis An Eilein (Corporate)](/variants/s7/ly2g2db8ri4db8r9lb2~x4/)|
-|![Feis An Eilein (Corporate) example sett](/variants/s7/ly2g2db8ri4db8r9lb2~x4/sett.png)|
-| [G P Bathija (Shikarpur, Sindh)](/variants/s7/ly4dg18db4o8db8r21w1~x2/)|
-|![G P Bathija (Shikarpur, Sindh) example sett](/variants/s7/ly4dg18db4o8db8r21w1~x2/sett.png)|
-| [G P Bathija (Shikarpur, Sindh) Name Tartan](/variants/s7/ly4g18t4o8t8r21w1~x2/)|
-|![G P Bathija (Shikarpur, Sindh) Name Tartan example sett](/variants/s7/ly4g18t4o8t8r21w1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/">Bathija (Name)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/"><img src="/variants/s7/ly4g18t4r8t8ri21w1~x2~r1807033-ri2109032/sett.png" alt="Bathija (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

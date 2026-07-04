@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kilgour](/variants/s6/db14dg21db4r21db14ly2~x2/)|
-|![Kilgour example sett](/variants/s6/db14dg21db4r21db14ly2~x2/sett.png)|
-| [Kilgour](/variants/s6/db14g21db4r21db14ly2~x2/)|
-|![Kilgour example sett](/variants/s6/db14g21db4r21db14ly2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/dr2dy1dr4r1dr12ly1~x2/">Killiechassie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dr2dy1dr4r1dr12ly1~x2/"><img src="/variants/s6/dr2dy1dr4r1dr12ly1~x2/sett.png" alt="Killiechassie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

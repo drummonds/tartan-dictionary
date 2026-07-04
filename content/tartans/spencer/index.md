@@ -2,17 +2,18 @@
 title: "Spencer"
 date: 2023-03-18
 ---
+Its design is pattern [GGBWRW](/stripes/ggbwrw/) — the page of every tartan sharing this colour sequence.
 
 The **Spencer** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/dg55ly4db15w3r3w5/">Spencer</a> ★</td><td><code>DG/110 LY8 DB30 W6 R6 W/10</code></td><td>2</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/dg55ly4db15w3r3w5/"><img src="/variants/s6/dg55ly4db15w3r3w5~x2/sett.png" alt="Spencer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/y40n3y8r2y2w2y10n6do2n2w2/">Spencer</a></td><td><code>Y/80 N6 Y16 R4 Y4 W4 Y20 N12 DO4 N4 W/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/y40n3y8r2y2w2y10n6do2n2w2/"><img src="/variants/s11/y40n3y8r2y2w2y10n6do2n2w2~x2/sett.png" alt="Spencer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g55y4db15w3r3w5/">Spencer</a> ★</td><td><code>G/110 Y8 DB30 W6 R6 W/10</code></td><td>220</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g55y4db15w3r3w5/"><img src="/variants/s6/g55y4db15w3r3w5~x2/sett.png" alt="Spencer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g55y4db15w3dr3w5/">(2013)</a></td><td><code>G/110 Y8 DB30 W6 DR6 W/10</code></td><td>220</td><td>2013</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g55y4db15w3dr3w5/"><img src="/variants/s6/g55y4db15w3dr3w5~x2/sett.png" alt="(2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -22,9 +22,14 @@ It is a 21 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Murray of Tullibardine #3](/variants/s21/k4r5dp6r8dg12r13dg2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/)|
-|![Murray of Tullibardine #3 example sett](/variants/s21/k4r5dp6r8dg12r13dg2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/sett.png)|
-| [Murray of Tullibardine 3](/variants/s21/k4r5p6r8g12r13g2r2p12r20p2r2p4r2p2r3p6r3p2r2p4~x2/)|
-|![Murray of Tullibardine 3 example sett](/variants/s21/k4r5p6r8g12r13g2r2p12r20p2r2p4r2p2r3p6r3p2r2p4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s21/k4r5dp6r8g12r13g2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/">Murray of Tullibardine #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/k4r5dp6r8g12r13g2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/"><img src="/variants/s21/k4r5dp6r8g12r13g2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/sett.png" alt="Murray of Tullibardine #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Buchan](/setts/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/)|
-|![Buchan example sett](/variants/s13/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/sett.png)|
-| [Cumming](/setts/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/)|
-|![Cumming example sett](/variants/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k2db2r2k24r2g6r6db2k6r2g27r2k2/">Buchan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k2db2r2k24r2g6r6db2k6r2g27r2k2/"><img src="/variants/s13/k2db2r2k24r2g6r6db2k6r2g27r2k2/sett.png" alt="Buchan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/k1db1r1k8r1g6r6db1k6r1g8r1k1/">Cumming</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><img src="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

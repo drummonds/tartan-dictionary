@@ -22,13 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacQuarrie #6](/variants/s7/r6dg16r4db12r16t1r2~x2/)|
-|![MacQuarrie #6 example sett](/variants/s7/r6dg16r4db12r16t1r2~x2/sett.png)|
-| [MacQuarrie 2](/variants/s7/r6g16r4db12r16t1r2~x2/)|
-|![MacQuarrie 2 example sett](/variants/s7/r6g16r4db12r16t1r2~x2/sett.png)|
-| [MacQuarrie LO](/variants/s7/r6dg16r4db12r16b1r2~x2/)|
-|![MacQuarrie LO example sett](/variants/s7/r6dg16r4db12r16b1r2~x2/sett.png)|
-| [Robertson - 1988 (Corporate)](/variants/s7/r2db1r16db4r1g10r1~x4/)|
-|![Robertson - 1988 (Corporate) example sett](/variants/s7/r2db1r16db4r1g10r1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r2db1r16db4r1g10r1~x4/">Robertson - 1988 (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><img src="/variants/s7/r2db1r16db4r1g10r1~x4/sett.png" alt="Robertson - 1988 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

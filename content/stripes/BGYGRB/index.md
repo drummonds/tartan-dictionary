@@ -22,9 +22,14 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Cetoloni (Personal)](/variants/s6/db1r12g6ly1g6db1~x4/)|
-|![Cetoloni (Personal) example sett](/variants/s6/db1r12g6ly1g6db1~x4/sett.png)|
-| [Cetoloni Family Tartan](/variants/s6/db2o22dy11ly2dy11db2~x2/)|
-|![Cetoloni Family Tartan example sett](/variants/s6/db2o22dy11ly2dy11db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/">Cetoloni Family Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><img src="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/sett.png" alt="Cetoloni Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,9 +22,14 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Tourist Board (1990)](/variants/s4/db88dt35w3dt10/)|
-|![Scottish Tourist Board (1990) example sett](/variants/s4/db88dt35w3dt10/sett.png)|
-| [Scottish Tourist Board (1990) Corporate Tartan](/variants/s4/dbi88db35w3db10/)|
-|![Scottish Tourist Board (1990) Corporate Tartan example sett](/variants/s4/dbi88db35w3db10/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/dbi88db35w3db10/">Scottish Tourist Board (1990)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dbi88db35w3db10/"><img src="/variants/s4/dbi88db35w3db10~dbi1406275-db1404245/sett.png" alt="Scottish Tourist Board (1990) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

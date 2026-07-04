@@ -22,9 +22,16 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Roscommon Irish County Tartan](/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/)|
-|![Roscommon Irish County Tartan example sett](/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/sett.png)|
-| [Roscommon, County](/variants/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/)|
-|![Roscommon, County example sett](/variants/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/">Roscommon Irish County Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/"><img src="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/sett.png" alt="Roscommon Irish County Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/">Roscommon, County</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><img src="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/sett.png" alt="Roscommon, County sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

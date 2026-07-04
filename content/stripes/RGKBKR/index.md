@@ -22,9 +22,16 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Atholl Highlanders (Military)](/variants/s6/r8dg20k20db20k3r8~x2/)|
-|![Atholl Highlanders (Military) example sett](/variants/s6/r8dg20k20db20k3r8~x2/sett.png)|
-| [MacEachain (Clan)](/variants/s6/r2k1db6k2g6m2~x4/)|
-|![MacEachain (Clan) example sett](/variants/s6/r2k1db6k2g6m2~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/r8dg20k20db20k3r8~x2/">Atholl Highlanders (Military)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><img src="/variants/s6/r8dg20k20db20k3r8~x2/sett.png" alt="Atholl Highlanders (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r2k1db6k2g6o2~x4/">MacCaughan or MacEachain Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r2k1db6k2g6o2~x4/"><img src="/variants/s6/r2k1db6k2g6o2~x4/sett.png" alt="MacCaughan or MacEachain Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

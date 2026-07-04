@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Scottish Piping Society of London](/variants/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/)|
-|![Scottish Piping Society of London example sett](/variants/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/">Scottish Piping Society of London</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/"><img src="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/sett.png" alt="Scottish Piping Society of London sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

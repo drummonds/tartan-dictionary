@@ -22,11 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Gammell (Brown) (Personal)](/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/)|
-|![Gammell (Brown) (Personal) example sett](/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/sett.png)|
-| [Universal Ancient](/variants/s8/t12dg2t2dg2t2dy8g8dy1~x2/)|
-|![Universal Ancient example sett](/variants/s8/t12dg2t2dg2t2dy8g8dy1~x2/sett.png)|
-| [Universal Ancient International Tartan](/variants/s8/t12gi2t2gi2t2dy8g8dy1~x2/)|
-|![Universal Ancient International Tartan example sett](/variants/s8/t12gi2t2gi2t2dy8g8dy1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/">Gammell (Brown) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/"><img src="/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/sett.png" alt="Gammell (Brown) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

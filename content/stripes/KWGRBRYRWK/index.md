@@ -22,7 +22,14 @@ It is a 10 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Nassau County Firefighters (P&D)](/variants/s10/k13w13r26lo13r20dt13r26g22w13k13/)|
-|![Nassau County Firefighters (P&D) example sett](/variants/s10/k13w13r26lo13r20dt13r26g22w13k13/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/">Nassau County Firefighters (P&amp;D)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/"><img src="/variants/s10/k13w13r26lo13r20db13r26g22w13k13/sett.png" alt="Nassau County Firefighters (P&amp;D) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

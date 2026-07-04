@@ -22,7 +22,14 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Lemania (District)](/variants/s13/dg12db3dg3db3dg3k15b20dt3b20k15dg12db3dg3~x2/)|
-|![Lemania (District) example sett](/variants/s13/dg12db3dg3db3dg3k15b20dt3b20k15dg12db3dg3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/">Lemania (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/"><img src="/variants/s13/dg12db3dg3db3dg3k15t20dbi3t20k15dg12db3dg3~x2~db1204274-dbi1404245/sett.png" alt="Lemania (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

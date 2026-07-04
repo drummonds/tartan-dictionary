@@ -22,11 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Kyle (Green)](/variants/s14/r54g6r5g6r10g3r2g18~x2/)|
-|![Kyle (Green) example sett](/variants/s14/r54g6r5g6r10g3r2g18~x2/sett.png)|
-| [Robertson #2](/variants/s14/dg15r1dg1r1dg1r18dg24r1dg1r18dg1r1dg1r3~x2/)|
-|![Robertson #2 example sett](/variants/s14/dg15r1dg1r1dg1r18dg24r1dg1r18dg1r1dg1r3~x2/sett.png)|
-| [Robertson - 1746 (Artefact)](/variants/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/)|
-|![Robertson - 1746 (Artefact) example sett](/variants/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/">Robertson - 1746 (Artefact)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/"><img src="/variants/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/sett.png" alt="Robertson - 1746 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

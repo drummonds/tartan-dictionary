@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Campbell & Co (Beauly) (Corporate)](/variants/s9/g4r5g31r5g31lo5g4lo27ly3~x2/)|
-|![Campbell & Co (Beauly) (Corporate) example sett](/variants/s9/g4r5g31r5g31lo5g4lo27ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/">Campbell &amp; Co (Beauly) (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/"><img src="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/sett.png" alt="Campbell &amp; Co (Beauly) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

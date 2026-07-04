@@ -22,7 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Hunter Graham](/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/)|
-|![Hunter Graham example sett](/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/k10dg9w2dg9k10r1db8dp12k3/">Hunter Graham</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/k10dg9w2dg9k10r1db8dp12k3/"><img src="/variants/s9/k10dg9w2dg9k10r1db8dp12k3~x2~dp1503322/sett.png" alt="Hunter Graham sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

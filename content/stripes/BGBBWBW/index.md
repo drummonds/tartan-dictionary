@@ -22,7 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Blue Boy, The (Fashion)](/variants/s7/dbi1g7dbi7db2w6dbi1w1~x4/)|
-|![Blue Boy, The (Fashion) example sett](/variants/s7/dbi1g7dbi7db2w6dbi1w1~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/">Blue Boy, The (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/"><img src="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/sett.png" alt="Blue Boy, The (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/">Loch Katrine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><img src="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/sett.png" alt="Loch Katrine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

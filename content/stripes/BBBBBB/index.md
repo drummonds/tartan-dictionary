@@ -22,11 +22,17 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Atlin](/variants/s6/do14db14do14db40do3db2~x2/)|
-|![Atlin example sett](/variants/s6/do14db14do14db40do3db2~x2/sett.png)|
-| [Charles Rennie Mackintosh](/variants/s6/dti5dt5dti9b5dti5b5~x2/)|
-|![Charles Rennie Mackintosh example sett](/variants/s6/dti5dt5dti9b5dti5b5~x2/sett.png)|
-| [Dram! (Corporate)](/variants/s6/db5t1db15t25db1t5~x4/)|
-|![Dram! (Corporate) example sett](/variants/s6/db5t1db15t25db1t5~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/do14db14do14db40do3db2~x2/">Atlin</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/do14db14do14db40do3db2~x2/"><img src="/variants/s6/do14db14do14db40do3db2~x2/sett.png" alt="Atlin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/">Mary Erskine School, The</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/"><img src="/variants/s6/dt6dr1dt24dr28dt1dr4~x2/sett.png" alt="Mary Erskine School, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

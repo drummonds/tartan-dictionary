@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [O'Farrell](/variants/s24/lo14ly3k6w2k2w2k2g8lo6k2lo3w1lo3k2lo6g8k2w2k2w2k6ly3lo14w2~x2/)|
-|![O'Farrell example sett](/variants/s24/lo14ly3k6w2k2w2k2g8lo6k2lo3w1lo3k2lo6g8k2w2k2w2k6ly3lo14w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/">O'Farrell</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/"><img src="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/sett.png" alt="O'Farrell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

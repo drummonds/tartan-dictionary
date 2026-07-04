@@ -22,7 +22,14 @@ It is a 20 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDougall](/variants/s20/lb1ri3r1dg23r3dg1r3db6ri4r1ri4dg6r6dg6r2db1r24ri1r1lb1~x2/)|
-|![MacDougall example sett](/variants/s20/lb1ri3r1dg23r3dg1r3db6ri4r1ri4dg6r6dg6r2db1r24ri1r1lb1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1/">MacDougal 2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1/"><img src="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2209032/sett.png" alt="MacDougal 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

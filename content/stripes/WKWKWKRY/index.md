@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Aberlour](/variants/s8/lb23k4lb4k4lb4k22o23lo5~x2/)|
-|![Aberlour example sett](/variants/s8/lb23k4lb4k4lb4k22o23lo5~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/w23k4w4k4w4k22o23ly5/">Aberlour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w23k4w4k4w4k22o23ly5/"><img src="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/sett.png" alt="Aberlour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,11 +22,20 @@ It is a 5 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Angle Dress (Fashion)](/variants/s5/k5g8lo5g3lo5~x4/)|
-|![Angle Dress (Fashion) example sett](/variants/s5/k5g8lo5g3lo5~x4/sett.png)|
-| [Perry Hunting (Green) (Personal)](/variants/s5/k75g26lr2g4lo5~x2/)|
-|![Perry Hunting (Green) (Personal) example sett](/variants/s5/k75g26lr2g4lo5~x2/sett.png)|
-| [SmartWool](/variants/s5/k200dy3lo3dy3lo3/)|
-|![SmartWool example sett](/variants/s5/k200dy3lo3dy3lo3/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s5/k5g8ly5g3ly5~x4/">Angle Dress (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k5g8ly5g3ly5~x4/"><img src="/variants/s5/k5g8ly5g3ly5~x4/sett.png" alt="Angle Dress (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k75g26lr2g4lo5~x2/">Perry Hunting (Green) (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k75g26lr2g4lo5~x2/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting (Green) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/k200dy3lo3dy3lo3/">SmartWool</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/k200dy3lo3dy3lo3/"><img src="/variants/s5/k200dy3lo3dy3lo3/sett.png" alt="SmartWool sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

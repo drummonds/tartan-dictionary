@@ -22,11 +22,20 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Black Shadow](/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/)|
-|![Black Shadow example sett](/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/sett.png)|
-| [Black Shadow Fashion Tartan](/variants/s11/do9k3do17k6do4k4do12k3do12k3do7~x2/)|
-|![Black Shadow Fashion Tartan example sett](/variants/s11/do9k3do17k6do4k4do12k3do12k3do7~x2/sett.png)|
-| [Bute Heather, Black (Fashion)](/variants/s11/do13k2do38k13do28k8do17k2do17k4do11/)|
-|![Bute Heather, Black (Fashion) example sett](/variants/s11/do13k2do38k13do28k8do17k2do17k4do11/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/">Black Shadow</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/"><img src="/variants/s11/do18k5do34k12do8k8do24k5do24k5do14/sett.png" alt="Black Shadow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/db9k3db17k6db4k4db12k3db12k3db7~x2/">Black Shadow Fashion Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/db9k3db17k6db4k4db12k3db12k3db7~x2/"><img src="/variants/s11/db9k3db17k6db4k4db12k3db12k3db7~x2/sett.png" alt="Black Shadow Fashion Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/">Bute Heather, Black (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/"><img src="/variants/s11/dt13k2dt38k13dt28k8dt17k2dt17k4dt11/sett.png" alt="Bute Heather, Black (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ogilvie Hunting](/variants/s14/t30ly3t4k25y26k3y3r4~x2/)|
-|![Ogilvie Hunting example sett](/variants/s14/t30ly3t4k25y26k3y3r4~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/t30ly3t4k25y26k3y3r4~x2~t2503227-ly3307090-y2602166/">Ogilvie Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/t30ly3t4k25y26k3y3r4~x2~t2503227-ly3307090-y2602166/"><img src="/variants/s8/t30ly3t4k25y26k3y3r4~x2~t2503227-ly3307090-y2602166/sett.png" alt="Ogilvie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

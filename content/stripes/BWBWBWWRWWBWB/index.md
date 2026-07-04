@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Poulter Sonic](/variants/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/)|
-|![Poulter Sonic example sett](/variants/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/sett.png)|
-| [Poulter Sonic](/variants/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/)|
-|![Poulter Sonic example sett](/variants/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db69lb14db13lb14db13lb69w72r13w72lb69db68lb14db13/">Poulter Sonic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db69lb14db13lb14db13lb69w72r13w72lb69db68lb14db13/"><img src="/variants/s13/db69lb14db13lb14db13lb69w72r13w72lb69db68lb14db13/sett.png" alt="Poulter Sonic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/">Poulter Sonic</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/"><img src="/variants/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/sett.png" alt="Poulter Sonic sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

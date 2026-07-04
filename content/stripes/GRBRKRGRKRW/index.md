@@ -22,9 +22,16 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Stewart of Rothesay](/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/)|
-|![Stewart of Rothesay example sett](/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/sett.png)|
-| [Stewart/Stuart of Rothesay (Sobieski)](/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/)|
-|![Stewart/Stuart of Rothesay (Sobieski) example sett](/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/">Stewart of Rothesay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><img src="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/sett.png" alt="Stewart of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/">Stewart/Stuart of Rothesay (Sobieski)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><img src="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/sett.png" alt="Stewart/Stuart of Rothesay (Sobieski) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

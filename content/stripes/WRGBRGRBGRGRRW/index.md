@@ -22,9 +22,14 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKinnon #11](/variants/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14ri3r5w3~x2/)|
-|![MacKinnon #11 example sett](/variants/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14ri3r5w3~x2/sett.png)|
-| [MacKinnon 3](/variants/s14/w3ri5r3g14ri36g3p8ri3g36ri14p3g3ri5w3~x2/)|
-|![MacKinnon 3 example sett](/variants/s14/w3ri5r3g14ri36g3p8ri3g36ri14p3g3ri5w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/">MacKinnon #11</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/"><img src="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/sett.png" alt="MacKinnon #11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

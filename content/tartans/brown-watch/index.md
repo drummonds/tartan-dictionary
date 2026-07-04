@@ -2,27 +2,19 @@
 title: "Brown Watch"
 date: 2023-03-18
 ---
+A tartan of [Clan Brown](/clan/brown/).
+Its design is pattern [YKYKGKGKYKYKY](/stripes/ykykgkgkykyky/) — the page of every tartan sharing this colour sequence.
 
-Brown variant of the Black Watch, produced by J & D Paton of Tillicoultry.
-
-The **Brown Watch** tartan groups 3 setts — the same named design recorded as different cloths
+The **Brown Watch** tartan groups 2 setts — the same named design recorded as different cloths
 (its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
 
 <table class="sett-table">
-<thead><tr><th>Sett</th><th>Thread count</th><th>Variants</th></tr></thead>
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
 <tbody>
-<tr><td><a href="/setts/do7k2do12k10dg12k3/">Brown Watch</a> ★</td><td><code>DO/14 K4 DO24 K20 DG24 K/6</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/do7k2do12k10dg12k3/"><img src="/variants/s6/do7k2do12k10dg12k3~x2/sett.png" alt="Brown Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/lo12k2lo2k2lo2k10g12k3g12k10lo12k2lo2/">Brown Watch</a></td><td><code>LO/24 K4 LO4 K4 LO4 K20 G24 K6 G24 K20 LO24 K4 LO/4</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/lo12k2lo2k2lo2k10g12k3g12k10lo12k2lo2/"><img src="/variants/s13/lo12k2lo2k2lo2k10g12k3g12k10lo12k2lo2~x2/sett.png" alt="Brown Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/o11k1o1k1o1k8g8k1g8k8o8k1o1/">Brown, Watch</a></td><td><code>O/22 K2 O2 K2 O2 K16 G16 K2 G16 K16 O16 K2 O/2</code></td><td>1</td></tr>
-<tr><td colspan="3" class="sett-swatch"><a href="/setts/o11k1o1k1o1k8g8k1g8k8o8k1o1/"><img src="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/sett.png" alt="Brown, Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/ly12k2ly2k2ly2k10g12k3g12k10ly12k2ly2/">Brown Watch</a> ★</td><td><code>LY/24 K4 LY4 K4 LY4 K20 G24 K6 G24 K20 LY24 K4 LY/4</code></td><td>304</td><td>2002</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/ly12k2ly2k2ly2k10g12k3g12k10ly12k2ly2/"><img src="/variants/s13/ly12k2ly2k2ly2k10g12k3g12k10ly12k2ly2~x2/sett.png" alt="Brown Watch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1/">Trade Tartan</a></td><td><code>DY/44 K4 DY4 K4 DY4 K32 G32 K4 G32 K32 DY32 K4 DY/4</code></td><td>416</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1/"><img src="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/sett.png" alt="Trade Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 
-
-## Also known as
-
-This tartan is also recorded under:
-
-- Brown, Watch

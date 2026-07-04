@@ -22,13 +22,14 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacPherson - 1842 (VS) Dress](/variants/s7/w1m2w17k11w2k4ly1~x4/)|
-|![MacPherson - 1842 (VS) Dress example sett](/variants/s7/w1m2w17k11w2k4ly1~x4/sett.png)|
-| [MacPherson Dress](/variants/s7/lb3r1lb30k20lb3k9ly1/)|
-|![MacPherson Dress example sett](/variants/s7/lb3r1lb30k20lb3k9ly1/sett.png)|
-| [MacPherson Dress (1842)](/variants/s7/w3r1w30k20w3k9ly1~x2/)|
-|![MacPherson Dress (1842) example sett](/variants/s7/w3r1w30k20w3k9ly1~x2/sett.png)|
-| [MacPherson Dress, Blue (Dance)](/variants/s7/w5r3w26k21w3k8ly3~x2/)|
-|![MacPherson Dress, Blue (Dance) example sett](/variants/s7/w5r3w26k21w3k8ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/">MacPherson Dress (1842)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/"><img src="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/sett.png" alt="MacPherson Dress (1842) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

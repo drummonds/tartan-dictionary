@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×2 | [Johore Regiment](/variants/s8/db20k5db18lo26k6~x2/) ★ | 1930 | ![Johore Regiment sett](/variants/s8/db20k5db18lo26k6~x2/sett.png) |
-| ×2 | [Johore Regiment (Military)](/variants/s5/db20k5db18lo26k6~x2/) | 1930 | ![Johore Regiment (Military) sett](/variants/s5/db20k5db18lo26k6~x2/sett.png) |
+| ×2 | [Johore Regiment (Military)](/variants/s5/db20k5db18lo26k6~x2/) ★ | 1930 | ![Johore Regiment (Military) sett](/variants/s5/db20k5db18lo26k6~x2/sett.png) |
+| ×2 | [Johore Regiment](/variants/s5/db20k5db18lo26k6~x2~db1406275/) | 1930 | ![Johore Regiment sett](/variants/s5/db20k5db18lo26k6~x2~db1406275/sett.png) |

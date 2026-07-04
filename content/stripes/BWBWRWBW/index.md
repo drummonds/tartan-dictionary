@@ -22,11 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Milne Dress Family Tartan](/variants/s8/w18db4w18r30w18db4w9dp4/)|
-|![Milne Dress Family Tartan example sett](/variants/s8/w18db4w18r30w18db4w9dp4/sett.png)|
-| [Milne, Dress (Dance)](/variants/s8/w12t2w12r17w12t2w5dp2~x4/)|
-|![Milne, Dress (Dance) example sett](/variants/s8/w12t2w12r17w12t2w5dp2~x4/sett.png)|
-| [Milne, dress](/variants/s8/w18db4w18r30w18db4w9p4/)|
-|![Milne, dress example sett](/variants/s8/w18db4w18r30w18db4w9p4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/w18db4w18r30w18db4w9dp4/">Milne, dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/w18db4w18r30w18db4w9dp4/"><img src="/variants/s8/w18db4w18r30w18db4w9dp4/sett.png" alt="Milne, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

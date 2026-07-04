@@ -22,11 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Caledonian Hotel (Corporate)](/variants/s8/n9db1n1db1n1db7dg7r2~x4/)|
-|![Caledonian Hotel (Corporate) example sett](/variants/s8/n9db1n1db1n1db7dg7r2~x4/sett.png)|
-| [Gammell](/variants/s8/db32dr3db3dr3db3dr10g24m3~x2/)|
-|![Gammell example sett](/variants/s8/db32dr3db3dr3db3dr10g24m3~x2/sett.png)|
-| [Gammell Family Tartan](/variants/s8/db32do3db3do3db3do10g24r3~x2/)|
-|![Gammell Family Tartan example sett](/variants/s8/db32do3db3do3db3do10g24r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/">Cranstoun</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><img src="/variants/s8/b14db1b1db1b3db6g12r2~x2/sett.png" alt="Cranstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/">Crantock</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><img src="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/sett.png" alt="Crantock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

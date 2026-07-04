@@ -22,7 +22,14 @@ It is a 12 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ferguson Red, George (Personal)](/variants/s12/ri8riii22r2riii8r4riii6r6riii3r48riii6dr48rii8/)|
-|![Ferguson Red, George (Personal) example sett](/variants/s12/ri8riii22r2riii8r4riii6r6riii3r48riii6dr48rii8/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/">Ferguson Red, George (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/"><img src="/variants/s12/r8dr48riii6ri48riii3ri6riii6ri4riii8ri2riii22rii8~r1606028-dr1305012-riii2806019-ri2109032-rii2406019/sett.png" alt="Ferguson Red, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

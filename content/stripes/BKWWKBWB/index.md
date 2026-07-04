@@ -22,7 +22,14 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Croy, Jake (Personal)](/variants/s8/n10k7lt2lb2k27b7lt2b7~x2/)|
-|![Croy, Jake (Personal) example sett](/variants/s8/n10k7lt2lb2k27b7lt2b7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt3304230-t2105244/">Croy, Jake (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt3304230-t2105244/"><img src="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt3304230-t2105244/sett.png" alt="Croy, Jake (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

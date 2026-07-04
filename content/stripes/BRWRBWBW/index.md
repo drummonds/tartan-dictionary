@@ -22,9 +22,17 @@ It is a 8 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Baker](/variants/s8/db28o3w1o3db4w2dp1w5~x4/)|
-|![Baker example sett](/variants/s8/db28o3w1o3db4w2dp1w5~x4/sett.png)|
-| [Baker](/variants/s8/db28o3w1o3db4w2p1w5~x4/)|
-|![Baker example sett](/variants/s8/db28o3w1o3db4w2p1w5~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/">Baker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/"><img src="/variants/s8/db28o3w1o3db4w2dp1w5~x4/sett.png" alt="Baker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/">Baker</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><img src="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/sett.png" alt="Baker sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

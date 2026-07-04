@@ -22,9 +22,16 @@ It is a 15 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [McCulloch (Military Colours)](/variants/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/)|
-|![McCulloch (Military Colours) example sett](/variants/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/sett.png)|
-| [McCulloch (Personal)](/variants/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/)|
-|![McCulloch (Personal) example sett](/variants/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1dbi3db1dbi1db1dbi6~x4~lb3200000-dbi2006246/">McCulloch (Military Colours)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1dbi3db1dbi1db1dbi6~x4~lb3200000-dbi2006246/"><img src="/variants/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1dbi3db1dbi1db1dbi6~x4~lb3200000-dbi2006246/sett.png" alt="McCulloch (Military Colours) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/g6k1g1k1g3lr1w1r1w1lr1t3db1t1db1t6~x4~lr2800000-t2405244/">McCulloch (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/g6k1g1k1g3lr1w1r1w1lr1t3db1t1db1t6~x4~lr2800000-t2405244/"><img src="/variants/s15/g6k1g1k1g3lr1w1r1w1lr1t3db1t1db1t6~x4~lr2800000-t2405244/sett.png" alt="McCulloch (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

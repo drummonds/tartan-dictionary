@@ -22,9 +22,14 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacIver Hunting](/variants/s9/w2g12k3g3k16g3k3g12ly2~x2/)|
-|![MacIver Hunting example sett](/variants/s9/w2g12k3g3k16g3k3g12ly2~x2/sett.png)|
-| [MacIver hunting](/variants/s9/w3g27k5g5k32g5k5g27ly3~x2/)|
-|![MacIver hunting example sett](/variants/s9/w3g27k5g5k32g5k5g27ly3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/">MacIver Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><img src="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/sett.png" alt="MacIver Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

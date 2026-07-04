@@ -22,13 +22,19 @@ It is a 9 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Alma College](/variants/s9/g24k3g2k3g4k4m20k3m6~x2/)|
-|![Alma College example sett](/variants/s9/g24k3g2k3g4k4m20k3m6~x2/sett.png)|
-| [Stewart of Athol](/variants/s9/g22k1g2k1g3k8r20k1r6~x2/)|
-|![Stewart of Athol example sett](/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png)|
-| [Stewart of Atholl](/variants/s9/dg22k1dg2k1dg3k8r20k1r6~x2/)|
-|![Stewart of Atholl example sett](/variants/s9/dg22k1dg2k1dg3k8r20k1r6~x2/sett.png)|
-| [Stewart of Atholl (Clan)](/variants/s9/dg22k1dg2k1dg3k8r20k1r3~x4/)|
-|![Stewart of Atholl (Clan) example sett](/variants/s9/dg22k1dg2k1dg3k8r20k1r3~x4/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/">Stewart of Atholl</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Atholl sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/">Stewart of Atholl (Clan)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/setts/g24k3g2k3g4k4r20k3r6/">Alma College</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g24k3g2k3g4k4r20k3r6/"><img src="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/sett.png" alt="Alma College sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

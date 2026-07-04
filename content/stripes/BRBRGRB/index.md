@@ -22,21 +22,21 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Logan](/variants/s7/db8r3db1r3g14r3db1~x4/)|
-|![Logan example sett](/variants/s7/db8r3db1r3g14r3db1~x4/sett.png)|
-| [Logan](/variants/s7/db8r3db1r3dg14r3db1~x4/)|
-|![Logan example sett](/variants/s7/db8r3db1r3dg14r3db1~x4/sett.png)|
-| [Logan Light](/variants/s7/dp9ri4dp1ri4g15r4dp1~x2/)|
-|![Logan Light example sett](/variants/s7/dp9ri4dp1ri4g15r4dp1~x2/sett.png)|
-| [Logan, Light](/variants/s7/p9r4p1r4g15ri4p1~x2/)|
-|![Logan, Light example sett](/variants/s7/p9r4p1r4g15ri4p1~x2/sett.png)|
-| [Logan, or Skene](/variants/s7/db9r3db1r3g9r3db1~x2/)|
-|![Logan, or Skene example sett](/variants/s7/db9r3db1r3g9r3db1~x2/sett.png)|
-| [MacBean of Tomatin (Clan)](/variants/s7/db3r19db13r5g21r8db3~x2/)|
-|![MacBean of Tomatin (Clan) example sett](/variants/s7/db3r19db13r5g21r8db3~x2/sett.png)|
-| [MacFadyan (MacGregor Hastie)](/variants/s7/db3r25db17r5g22r9db3~x2/)|
-|![MacFadyan (MacGregor Hastie) example sett](/variants/s7/db3r25db17r5g22r9db3~x2/sett.png)|
-| [Skene](/variants/s7/db9r3db1r3dg9r3db1~x2/)|
-|![Skene example sett](/variants/s7/db9r3db1r3dg9r3db1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/db8r3db1r3g14r3db1~x4/">Logan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><img src="/variants/s7/db8r3db1r3g14r3db1~x4/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3r25db17r5g22r9db3~x2/">MacFadyan (MacGregor Hastie)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><img src="/variants/s7/db3r25db17r5g22r9db3~x2/sett.png" alt="MacFadyan (MacGregor Hastie) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db9r3db1r3g9r3db1~x2/">Skene</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><img src="/variants/s7/db9r3db1r3g9r3db1~x2/sett.png" alt="Skene sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/">Logan Light</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><img src="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/sett.png" alt="Logan Light sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

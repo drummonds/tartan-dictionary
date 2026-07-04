@@ -22,11 +22,14 @@ It is a 25 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Fitzgerald Dress](/variants/s25/w2k1r3db3r3ri3r19ri3r3db3r3db29ly3g29r3db3r3ri3r19ri3r3db3r3k1w2~x4/)|
-|![Fitzgerald Dress example sett](/variants/s25/w2k1r3db3r3ri3r19ri3r3db3r3db29ly3g29r3db3r3ri3r19ri3r3db3r3k1w2~x4/sett.png)|
-| [Fitzgerald Family Tartan](/variants/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/)|
-|![Fitzgerald Family Tartan example sett](/variants/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/sett.png)|
-| [Fitzgerald dress](/variants/s25/w2k1r3t3r3ri3r12ri3r3db3r3db19ly3g19r3db3r3ri3r12ri3r3t3r3k1w2~x2/)|
-|![Fitzgerald dress example sett](/variants/s25/w2k1r3t3r3ri3r12ri3r3db3r3db19ly3g19r3db3r3ri3r12ri3r3t3r3k1w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s25/w2k1ri3db3ri3r3ri19r3ri3db3ri3db29ly3g29ri3db3ri3r3ri19r3ri3db3ri3k1w2~x4~ri2108029-r1807016/">Fitzgerald Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s25/w2k1ri3db3ri3r3ri19r3ri3db3ri3db29ly3g29ri3db3ri3r3ri19r3ri3db3ri3k1w2~x4~ri2108029-r1807016/"><img src="/variants/s25/w2k1ri3db3ri3r3ri19r3ri3db3ri3db29ly3g29ri3db3ri3r3ri19r3ri3db3ri3k1w2~x4~ri2108029-r1807016/sett.png" alt="Fitzgerald Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

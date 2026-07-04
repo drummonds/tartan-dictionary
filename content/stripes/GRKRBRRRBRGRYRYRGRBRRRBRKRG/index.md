@@ -22,9 +22,16 @@ It is a 27 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacKay of Strathnaver](/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1lo18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2/)|
-|![MacKay of Strathnaver example sett](/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1lo18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2/sett.png)|
-| [MacKay of Strathnaver Clan Tartan](/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lo18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2/)|
-|![MacKay of Strathnaver Clan Tartan example sett](/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lo18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/">MacKay of Strathnaver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/"><img src="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/sett.png" alt="MacKay of Strathnaver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2~n1900000-o2500000/">MacKay of Strathnaver Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2~n1900000-o2500000/"><img src="/variants/s27/g18r1k18r1n18r1o18r1dr18r1dy18r1lr18r1ly18r1dy18r1dr18r1o18r1n18r1k18r1g18~x2~n1900000-o2500000/sett.png" alt="MacKay of Strathnaver Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

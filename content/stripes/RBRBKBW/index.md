@@ -22,9 +22,17 @@ It is a 7 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [First (Corporate)](/variants/s7/m4dp1m1dp12k6dt16w1~x2/)|
-|![First (Corporate) example sett](/variants/s7/m4dp1m1dp12k6dt16w1~x2/sett.png)|
-| [Heritage of Wales (Fashion)](/variants/s7/r10db4r6db30k10db5w2~x2/)|
-|![Heritage of Wales (Fashion) example sett](/variants/s7/r10db4r6db30k10db5w2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s7/r4dp1r1dp12k6db16w1~x2/">First (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r4dp1r1dp12k6db16w1~x2/"><img src="/variants/s7/r4dp1r1dp12k6db16w1~x2/sett.png" alt="First (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s7/r10db4r6db30k10db5w2~x2/">Heritage of Wales (Fashion)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><img src="/variants/s7/r10db4r6db30k10db5w2~x2/sett.png" alt="Heritage of Wales (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

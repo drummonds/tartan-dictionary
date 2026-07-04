@@ -22,13 +22,19 @@ It is a 14 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ross Hunting](/variants/s14/dg2g4dg2g1dg1g1dg3k2dg2k2dg12r1dg2r1~x2/)|
-|![Ross Hunting example sett](/variants/s14/dg2g4dg2g1dg1g1dg3k2dg2k2dg12r1dg2r1~x2/sett.png)|
-| [Ross Hunting #3](/variants/s14/gi5g7gi4g2gi2g3gi4k6gi3k6gi34r2gi4r2~x2/)|
-|![Ross Hunting #3 example sett](/variants/s14/gi5g7gi4g2gi2g3gi4k6gi3k6gi34r2gi4r2~x2/sett.png)|
-| [Ross Hunting Clan Tartan](/variants/s14/gi2g4gi2g2gi1g2gi3k2gi2k2gi12r1gi2r1~x2/)|
-|![Ross Hunting Clan Tartan example sett](/variants/s14/gi2g4gi2g2gi1g2gi3k2gi2k2gi12r1gi2r1~x2/sett.png)|
-| [Ross, hunting](/variants/s14/g2gi4g2gi1g1gi1g3k2g2k2g12r1g2r1~x2/)|
-|![Ross, hunting example sett](/variants/s14/g2gi4g2gi1g1gi1g3k2g2k2g12r1g2r1~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/">Ross Hunting #3</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/"><img src="/variants/s14/dg5g7dg4g2dg2g3dg4k6dg3k6dg34r2dg4r2~x2~dg1806142-g2408144/sett.png" alt="Ross Hunting #3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/">Ross Hunting Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/"><img src="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/sett.png" alt="Ross Hunting Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/">Ross Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/"><img src="/variants/s14/g2dg4g2dg1g1dg1g3k2g2k2g12r1g2r1~x2/sett.png" alt="Ross Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

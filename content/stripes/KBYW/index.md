@@ -22,9 +22,14 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Perry (Calgary), Alex (Personal)](/variants/s4/k62dt24lo5w3~x2/)|
-|![Perry (Calgary), Alex (Personal) example sett](/variants/s4/k62dt24lo5w3~x2/sett.png)|
-| [Perry, Alex (Personal)](/variants/s4/k62n24lo5w8~x2/)|
-|![Perry, Alex (Personal) example sett](/variants/s4/k62n24lo5w8~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/k62n24ly5w8~x2/">Perry, Alex (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k62n24ly5w8~x2/"><img src="/variants/s4/k62n24ly5w8~x2/sett.png" alt="Perry, Alex (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

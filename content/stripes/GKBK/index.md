@@ -22,7 +22,17 @@ It is a 4 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wallington (Corporate?)](/variants/s4/k60t3k9g7/)|
-|![Wallington (Corporate?) example sett](/variants/s4/k60t3k9g7/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s4/g6k2dr3k1~x4/">Red Watch (Fashion) #1</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/g6k2dr3k1~x4/"><img src="/variants/s4/g6k2dr3k1~x4/sett.png" alt="Red Watch (Fashion) #1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/k1db8k8y1/">Wallace Blue</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k1db8k8y1/"><img src="/variants/s4/k1db8k8y1/sett.png" alt="Wallace Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

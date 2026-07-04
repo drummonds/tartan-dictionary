@@ -10,5 +10,5 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 
 | Scale | Sett | Earliest | |
 |---|---|---|---|
-| ×1 | [Lindsay Red](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/) ★ | ~2016 | ![Lindsay Red sett](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/sett.png) |
+| ×1 | [Lindsay MINI Design Tartan](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/) ★ | ~2016 | ![Lindsay MINI Design Tartan sett](/variants/s9/dg20db2dg2db2dg2db8r24db2r3/sett.png) |
 | ×2 | [Lindsay](/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/) | ~2016 | ![Lindsay sett](/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/sett.png) |

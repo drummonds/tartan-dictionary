@@ -22,7 +22,14 @@ It is a 24 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Isle of Man](/variants/s24/t22lo4w3g7ly2g4w2g9m6ly2m4w2m4ly2m6g9w2g4ly2g7w3lo4t22r2~x2/)|
-|![Isle of Man example sett](/variants/s24/t22lo4w3g7ly2g4w2g9m6ly2m4w2m4ly2m6g9w2g4ly2g7w3lo4t22r2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/">Isle of Man</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/"><img src="/variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/sett.png" alt="Isle of Man sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

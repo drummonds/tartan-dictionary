@@ -22,9 +22,16 @@ It is a 13 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Murray of Atholl, Red Dress](/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/)|
-|![Murray of Atholl, Red Dress example sett](/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/sett.png)|
-| [Unidentified Sample #2](/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/)|
-|![Unidentified Sample #2 example sett](/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/">Murray of Atholl, Red Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><img src="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/sett.png" alt="Murray of Atholl, Red Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/">Unidentified Sample #2</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><img src="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png" alt="Unidentified Sample #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

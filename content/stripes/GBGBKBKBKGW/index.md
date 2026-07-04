@@ -22,9 +22,14 @@ It is a 11 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Selby](/variants/s11/g3db1g1db12k2db2k2db3k12gi24w3~x2/)|
-|![Selby example sett](/variants/s11/g3db1g1db12k2db2k2db3k12gi24w3~x2/sett.png)|
-| [Selby (Name)](/variants/s11/g3n1g1n12k2n2k2n3k12gi24w3~x2/)|
-|![Selby (Name) example sett](/variants/s11/g3n1g1n12k2n2k2n3k12gi24w3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/setts/g3db1g1db12k2db2k2db3k12dg24w3/">Selby</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g3db1g1db12k2db2k2db3k12dg24w3/"><img src="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1806142/sett.png" alt="Selby sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

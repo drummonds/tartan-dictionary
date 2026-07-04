@@ -11,4 +11,4 @@ same cloth woven fine or broad, with close colours folded together. Its colour o
 | Scale | Sett | Earliest | |
 |---|---|---|---|
 | ×2 | [MacCulloch Dress (Name)](/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/) ★ | 2000 | ![MacCulloch Dress (Name) sett](/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png) |
-| ×2 | [MacCulloch Dress Clan/Family Tartan](/variants/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/) | ~2016 | ![MacCulloch Dress Clan/Family Tartan sett](/variants/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png) |
+| ×2 | [MacCulloch Dress Clan/Family Tartan](/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2~db1406275/) | ~2016 | ![MacCulloch Dress Clan/Family Tartan sett](/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2~db1406275/sett.png) |

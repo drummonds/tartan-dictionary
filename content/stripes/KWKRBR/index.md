@@ -22,11 +22,21 @@ It is a 6 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Ramsay](/variants/s6/k4lb2k28r30db1r3~x2/)|
-|![Ramsay example sett](/variants/s6/k4lb2k28r30db1r3~x2/sett.png)|
-| [Ramsay](/variants/s6/k4w2k28r30dp1r3~x2/)|
-|![Ramsay example sett](/variants/s6/k4w2k28r30dp1r3~x2/sett.png)|
-| [Ramsay (Red)](/variants/s6/k4w1k28r30dp1r3~x2/)|
-|![Ramsay (Red) example sett](/variants/s6/k4w1k28r30dp1r3~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s6/k4w2k28r30db1r3~x2/">Ramsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28r30db1r3~x2/"><img src="/variants/s6/k4w2k28r30db1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28r30b1r3~x2/">Ramsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28r30b1r3~x2/"><img src="/variants/s6/k4w2k28r30b1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w1k28r30dp1r3~x2/">Ramsay (Red)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><img src="/variants/s6/k4w1k28r30dp1r3~x2/sett.png" alt="Ramsay (Red) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s6/k4w2k28r30dr1r3~x2/">Ramsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2k28r30dr1r3~x2/"><img src="/variants/s6/k4w2k28r30dr1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -22,7 +22,14 @@ It is a 19 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [Wiregrass (District)](/variants/s19/gi2b1bi2g4bi3g8bi22gi1g4bi2gi7bi2g2bi2gi2bi4gi1g3b2~x2/)|
-|![Wiregrass (District) example sett](/variants/s19/gi2b1bi2g4bi3g8bi22gi1g4bi2gi7bi2g2bi2gi2bi4gi1g3b2~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/">Wiregrass (District)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><img src="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/sett.png" alt="Wiregrass (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

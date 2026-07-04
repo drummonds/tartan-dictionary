@@ -22,11 +22,14 @@ It is a 21 stripe tartan.
 
 ## Tartans with this colour sequence
 
-| Tartans |
-|---------------|
-| [MacDonald of Boisdale](/variants/s21/r16lb1db7lb1r6lb1db34lb1r26g1gi16g1r4g1gi7g1r4lb1db7lb1r16~x2/)|
-|![MacDonald of Boisdale example sett](/variants/s21/r16lb1db7lb1r6lb1db34lb1r26g1gi16g1r4g1gi7g1r4lb1db7lb1r16~x2/sett.png)|
-| [MacDonald of Boisdale](/variants/s21/r16w1db6w1r6w1db32w1r24gi1g16gi1r4gi1g6gi1r4w1db6w1r16~x2/)|
-|![MacDonald of Boisdale example sett](/variants/s21/r16w1db6w1r6w1db32w1r24gi1g16gi1r4gi1g6gi1r4w1db6w1r16~x2/sett.png)|
-| [MacDonald of Boisdale Clan Tartan](/variants/s21/r16w1db6w1r6w1db32w1r24g1gi16g1r4g1gi6g1r4w1db6w1r16~x2/)|
-|![MacDonald of Boisdale Clan Tartan example sett](/variants/s21/r16w1db6w1r6w1db32w1r24g1gi16g1r4g1gi6g1r4w1db6w1r16~x2/sett.png)|
+This pattern is a design lineage: every tartan below shares one colour order, whatever its owner —
+near-identical designs are grouped, the largest lineage first (#112: the pattern is a tartan's
+second parent, beside its family or clan).
+
+<table class="sett-table">
+<tbody>
+<tr><td><a href="/variants/s21/r16w1db6w1r6w1db32w1r24g1dg16g1r4g1dg6g1r4w1db6w1r16~x2~g2408144-dg1806142/">MacDonald of Boisdale Clan Tartan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/r16w1db6w1r6w1db32w1r24g1dg16g1r4g1dg6g1r4w1db6w1r16~x2~g2408144-dg1806142/"><img src="/variants/s21/r16w1db6w1r6w1db32w1r24g1dg16g1r4g1dg6g1r4w1db6w1r16~x2~g2408144-dg1806142/sett.png" alt="MacDonald of Boisdale Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+

@@ -23,7 +23,7 @@ One full sett is **238 threads**.
 ![Sett](sett.png)
 
 ## Palette
-<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> <small style="color:#888">#A50313</small></td><td><small style="color:#888">oklch(45.5% 0.184 26.4)</small></td></tr><tr><td>DRa</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>R</td><td><code style="background-color:#EE2E24;"><span style="color:#EE2E24;filter:grayscale(1) invert(1) contrast(100);">#EE2E24</span></code> <small style="color:#888">#EE2E24</small></td><td><small style="color:#888">oklch(61.4% 0.227 28.9)</small></td></tr></tbody></table>
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>R</td><td><code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> <small style="color:#888">#A50313</small></td><td><small style="color:#888">oklch(45.5% 0.184 26.4)</small></td></tr><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>R</td><td><code style="background-color:#EE2E24;"><span style="color:#EE2E24;filter:grayscale(1) invert(1) contrast(100);">#EE2E24</span></code> <small style="color:#888">#EE2E24</small></td><td><small style="color:#888">oklch(61.4% 0.227 28.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 
@@ -35,10 +35,14 @@ This cloth is one sett of its design; the master sett (the exemplar the design i
 
 Its **ΔTartan distance** from the master is **1.22** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
-<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
-<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
-<figure style="margin:0"><a href="/setts/ri3r18dr6ri15r4ri3r4ri7w2/"><img src="/variants/s9/ri3r18dr6ri15r4ri3r4ri7w2~x2~ri2509032-r1807025/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/ri3r18dr6ri15r4ri3r4ri7w2/">master sett →</a></figcaption></figure>
-</div>
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/ri3r18dr6ri15r4ri3r4ri7w2/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest variants
 

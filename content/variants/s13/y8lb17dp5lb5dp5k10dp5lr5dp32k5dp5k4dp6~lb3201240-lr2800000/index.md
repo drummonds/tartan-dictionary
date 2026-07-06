@@ -26,7 +26,7 @@ One full sett is **210 threads**.
 ![Sett](sett.png)
 
 ## Palette
-<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>N</td><td><code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> <small style="color:#888">#A0A0A0</small></td><td><small style="color:#888">oklch(70.6% 0.000 89.9)</small></td></tr><tr><td>Na</td><td><code style="background-color:#B8C0C8;"><span style="color:#B8C0C8;filter:grayscale(1) invert(1) contrast(100);">#B8C0C8</span></code> <small style="color:#888">#B8C0C8</small></td><td><small style="color:#888">oklch(80.4% 0.014 248.0)</small></td></tr><tr><td>P</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LR</td><td><code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> <small style="color:#888">#A0A0A0</small></td><td><small style="color:#888">oklch(70.6% 0.000 89.9)</small></td></tr><tr><td>LB</td><td><code style="background-color:#B8C0C8;"><span style="color:#B8C0C8;filter:grayscale(1) invert(1) contrast(100);">#B8C0C8</span></code> <small style="color:#888">#B8C0C8</small></td><td><small style="color:#888">oklch(80.4% 0.014 248.0)</small></td></tr><tr><td>DP</td><td><code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> <small style="color:#888">#4B0B4F</small></td><td><small style="color:#888">oklch(30.1% 0.125 325.4)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
 
 # Sample pattern
 
@@ -36,9 +36,15 @@ One full sett is **210 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
-<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
-<figure style="margin:0"><a href="/setts/p12k4p5k4p32lb5p5k10p5lbi5p5lbi18w4/"><img src="/variants/s13/p12k4p5k4p32lb5p5k10p5lbi5p5lbi18w4~lb3200000-lbi3303227/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/p12k4p5k4p32lb5p5k10p5lbi5p5lbi18w4/">master sett →</a></figcaption></figure>
-</div>
+Its **ΔTartan distance** from the master is **1.90** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/p12k4p5k4p32lb5p5k10p5lbi5p5lbi18w4/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ID: /variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/w36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/w36db4k6y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/w36db4k6y1k1w1k1g8r4k1r2w1/">Stewart Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/w36db4k6y1k1w1k1g8r4k1r2w1/"><img src="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/sett.png" alt="Stewart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/">Stewart Dress (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/"><img src="/variants/s12/w39db3k6y3k3w3k3g8r5k3r3w3~x2/sett.png" alt="Stewart Dress (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/">Stewart Dress MINI Tartan</a></td></tr>

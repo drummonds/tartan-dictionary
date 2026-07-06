@@ -33,8 +33,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><img src="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/sett.png" alt="Letham (S.Australia)" width="140"><br>Letham (S.Australia)</a></li>
 <li><a class="tartan" href="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/"><img src="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/sett.png" alt="Letham Hunting" width="140"><br>Letham Hunting</a></li>
 <li><a class="tartan" href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><img src="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/sett.png" alt="Letham Hunting (Name)" width="140"><br>Letham Hunting (Name)</a></li>
-<li><a class="tartan" href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><img src="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/sett.png" alt="Letter Dress (2014)" width="140"><br>Letter Dress (2014)</a></li>
 <li><a class="tartan" href="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"><img src="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/sett.png" alt="Letter Dress (2014)" width="140"><br>Letter Dress (2014)</a></li>
+<li><a class="tartan" href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><img src="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/sett.png" alt="Letter Dress (2014)" width="140"><br>Letter Dress (2014)</a></li>
 <li><a class="tartan" href="/variants/s4/lb53g20w18db14~x2/"><img src="/variants/s4/lb53g20w18db14~x2/sett.png" alt="Leutz (Name?)" width="140"><br>Leutz (Name?)</a></li>
 <li><a class="tartan" href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><img src="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell (New York) (Name)" width="140"><br>Liddell (New York) (Name)</a></li>
 <li><a class="tartan" href="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/"><img src="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/sett.png" alt="Liddell (Newfane, New York)" width="140"><br>Liddell (Newfane, New York)</a></li>
@@ -62,8 +62,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/db4r1w1r1db4k2lb6y1~x6/"><img src="/variants/s8/db4r1w1r1db4k2lb6y1~x6/sett.png" alt="Lopatinsky" width="140"><br>Lopatinsky</a></li>
 <li><a class="tartan" href="/variants/s7/r1n5k5db1k1db6y1~x8/"><img src="/variants/s7/r1n5k5db1k1db6y1~x8/sett.png" alt="Lopez-Gasparotto" width="140"><br>Lopez-Gasparotto</a></li>
 <li><a class="tartan" href="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/"><img src="/variants/s8/y2k2dbi14db4k5r2y5r1~x4~dbi1208266-db1204274/sett.png" alt="Lovell (2014)" width="140"><br>Lovell (2014)</a></li>
-<li><a class="tartan" href="/variants/s3/r10dg4y1~x8/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
 <li><a class="tartan" href="/variants/s3/r10dg4dy1~x8/"><img src="/variants/s3/r10dg4dy1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
+<li><a class="tartan" href="/variants/s3/r10dg4y1~x8/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo (2013)" width="140"><br>Lugo (2013)</a></li>
 <li><a class="tartan" href="/variants/s21/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2~x2/"><img src="/variants/s21/r4lb2db5dg2db2dg2db2dg13db2dg2db2dg2db5lo2db3w2dg6r5lb3db4w2~x2/sett.png" alt="Lundie" width="140"><br>Lundie</a></li>
 <li><a class="tartan" href="/variants/s8/t18w1k3w1t9w1k45t4~x2/"><img src="/variants/s8/t18w1k3w1t9w1k45t4~x2/sett.png" alt="Lynn (Name)" width="140"><br>Lynn (Name)</a></li>
 </ul>

@@ -25,7 +25,7 @@ One full sett is **480 threads**.
 ![Sett](sett.png)
 
 ## Palette
-<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LT</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>T</td><td><code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> <small style="color:#888">#A65C11</small></td><td><small style="color:#888">oklch(55.0% 0.125 58.3)</small></td></tr></tbody></table>
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LY</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>O</td><td><code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> <small style="color:#888">#A65C11</small></td><td><small style="color:#888">oklch(55.0% 0.125 58.3)</small></td></tr></tbody></table>
 
 # Sample pattern
 
@@ -37,16 +37,20 @@ This cloth is one sett of its design; the master sett (the exemplar the design i
 
 Its **ΔTartan distance** from the master is **0.00** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
-<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
-<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
-<figure style="margin:0"><a href="/setts/k20o4k20ly2o2ly7k2o2ly2o7ly2o2/"><img src="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/k20o4k20ly2o2ly7k2o2ly2o7ly2o2/">master sett →</a></figcaption></figure>
-</div>
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/k20o4k20ly2o2ly7k2o2ly2o7ly2o2/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">480</div><div class="nn-name nn-base"><a href="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/">Black Forest (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4&amp;base=k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">488</div><div class="nn-name"><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/">Black Forest</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">480</div><div class="nn-name nn-base"><a href="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/">Black Forest (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4&amp;base=k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">488</div><div class="nn-name"><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/">Black Forest</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-11px;transform:scaleX(-1)"></span></div></div>
 
 ## Neighbour map
 

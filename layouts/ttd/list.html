@@ -24,7 +24,9 @@
     </style>
     <div class="grid">
       {{ range . }}
-      <a class="card" href="{{ .url }}" title="{{ .name }}">
+      {{/* The card opens the WEAVER on this cloth (#120) — the gallery is 'try the editor on
+           these'; its dictionary page is one click away inside the editor. */}}
+      <a class="card" href="/ttd/edit/#slug={{ .slug }}" title="{{ .name }}">
         {{ .bar | safeHTML }}
         <span class="name">{{ .name }}</span>
       </a>

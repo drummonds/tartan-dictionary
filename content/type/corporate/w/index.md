@@ -8,8 +8,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/"><img src="/variants/s8/w60lr15w3lr3w3lr3w5lr15~x2~lr3203019/sett.png" alt="Walk the Walk" width="140"><br>Walk the Walk</a></li>
 <li><a class="tartan" href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><img src="/variants/s8/w60r15w3r3w3r3w5r15~x2/sett.png" alt="Walk the Walk (Corporate)" width="140"><br>Walk the Walk (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><img src="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/sett.png" alt="Walkers Shortbread (Corporate)" width="140"><br>Walkers Shortbread (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><img src="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
 <li><a class="tartan" href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><img src="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
+<li><a class="tartan" href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><img src="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/sett.png" alt="Wallace Memorial Centenary" width="140"><br>Wallace Memorial Centenary</a></li>
 <li><a class="tartan" href="/variants/s4/k60lb3k9g7/"><img src="/variants/s4/k60lb3k9g7/sett.png" alt="Wallington (Corporate?)" width="140"><br>Wallington (Corporate?)</a></li>
 <li><a class="tartan" href="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/"><img src="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/sett.png" alt="Wanless" width="140"><br>Wanless</a></li>
 <li><a class="tartan" href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><img src="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/sett.png" alt="Warren Wilson College" width="140"><br>Warren Wilson College</a></li>
@@ -21,8 +21,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><img src="/variants/s8/k4y2k27y2k8y31k2y4~x2/sett.png" alt="Watertown Library Assoc." width="140"><br>Watertown Library Assoc.</a></li>
 <li><a class="tartan" href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><img src="/variants/s6/dr8g2dr2k1dr1g2~x10/sett.png" alt="Waverley Care Aids Trust" width="140"><br>Waverley Care Aids Trust</a></li>
 <li><a class="tartan" href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><img src="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/sett.png" alt="Waverley Check" width="140"><br>Waverley Check</a></li>
-<li><a class="tartan" href="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/"><img src="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
 <li><a class="tartan" href="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/"><img src="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
+<li><a class="tartan" href="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/"><img src="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/sett.png" alt="Way of the Rainbow" width="140"><br>Way of the Rainbow</a></li>
 <li><a class="tartan" href="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/"><img src="/variants/s7/o32w2o9lyi2o12ly21r1~x2~lyi3407090-ly2503076/sett.png" alt="Weathered Cyclist (Corporate)" width="140"><br>Weathered Cyclist (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s11/w3n30dg3db3dr3dy3db8n3dy3db3w3~x2/"><img src="/variants/s11/w3n30dg3db3dr3dy3db8n3dy3db3w3~x2/sett.png" alt="Wee Course, Blairgowrie Golf Club, The" width="140"><br>Wee Course, Blairgowrie Golf Club, The</a></li>
 <li><a class="tartan" href="/variants/s4/db80w1lo8w3~x2/"><img src="/variants/s4/db80w1lo8w3~x2/sett.png" alt="Weir Minerals" width="140"><br>Weir Minerals</a></li>

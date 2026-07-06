@@ -35,16 +35,20 @@ This cloth is one sett of its design; the master sett (the exemplar the design i
 
 Its **ΔTartan distance** from the master is **0.45** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
-<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
-<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
-<figure style="margin:0"><a href="/setts/db15k8g3r3g5k2y2k2g5r3g3k8db8k8/"><img src="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/db15k8g3r3g5k2y2k2g5r3g3k8db8k8/">master sett →</a></figcaption></figure>
-</div>
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/db15k8g3r3g5k2y2k2g5r3g3k8db8k8/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">428</div><div class="nn-name nn-base"><a href="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/">MacLellan Clan Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4&amp;base=db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2" title="compare in the TTD">0.26</a></div><div class="nn-threads">508</div><div class="nn-name"><a href="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/">MacLellan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db18k5g3r3g6k2y2k2g6r3g3k10db5k10&amp;base=db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2" title="compare in the TTD">0.36</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/">MacClellan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">428</div><div class="nn-name nn-base"><a href="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/">MacLellan Clan Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4&amp;base=db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2" title="compare in the TTD">0.26</a></div><div class="nn-threads">508</div><div class="nn-name"><a href="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/">MacLellan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-412px"></span></div><div class="nn-dt"><a href="/ttd/edit/#slug=db18k5g3r3g6k2y2k2g6r3g3k10db5k10&amp;base=db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2" title="compare in the TTD">0.36</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/">MacClellan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

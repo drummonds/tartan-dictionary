@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/">Clemens and August (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><img src="/variants/s8/y32db3r4db3r8db32w3db4~x2/sett.png" alt="Clemens and August (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/">Clemens and August (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/"><img src="/variants/s8/y35db3r4db3r8db30w3db4~x2/sett.png" alt="Clemens and August (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/">Clemens and August (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><img src="/variants/s8/y32db3r4db3r8db32w3db4~x2/sett.png" alt="Clemens and August (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

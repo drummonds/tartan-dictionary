@@ -25,7 +25,7 @@ One full sett is **292 threads**.
 ![Sett](sett.png)
 
 ## Palette
-<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>DY</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>LG</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR</td><td><code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> <small style="color:#888">#55120C</small></td><td><small style="color:#888">oklch(30.0% 0.099 29.3)</small></td></tr><tr><td>LY</td><td><code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> <small style="color:#888">#DCBC32</small></td><td><small style="color:#888">oklch(80.0% 0.150 95.2)</small></td></tr><tr><td>Y</td><td><code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> <small style="color:#888">#8B6E00</small></td><td><small style="color:#888">oklch(55.1% 0.113 90.4)</small></td></tr></tbody></table>
 
 # Sample pattern
 
@@ -37,16 +37,20 @@ This cloth is one sett of its design; the master sett (the exemplar the design i
 
 Its **ΔTartan distance** from the master is **2.38** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
-<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
-<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
-<figure style="margin:0"><a href="/setts/r9y2r45y20ly3/"><img src="/variants/s5/r9y2r45y20ly3~x2~r1706009/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/r9y2r45y20ly3/">master sett →</a></figcaption></figure>
-</div>
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/r9y2r45y20ly3/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s5/dr9y2dr45y20ly3~x2/">Hunt (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dr9y2dr45y20ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r37dy9r3g9dy3~x2&amp;base=dr9y2dr45y20ly3~x2" title="compare in the TTD">1.02</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s5/r37dy9r3g9dy3~x2/">Glenshee #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r37dy9r3g9dy3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr5o35dr46ly5~x2&amp;base=dr9y2dr45y20ly3~x2" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">344</div><div class="nn-name nn-far"><a href="/variants/s4/dr5o35dr46ly5~x2/">Bryce</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dr5o35dr46ly5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s5/dr9y2dr45y20ly3~x2/">Hunt (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dr9y2dr45y20ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r37dy9r3g9dy3~x2&amp;base=dr9y2dr45y20ly3~x2" title="compare in the TTD">1.02</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s5/r37dy9r3g9dy3~x2/">Glenshee #2</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s5/r37dy9r3g9dy3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-89px"></span></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr5o35dr46ly5~x2&amp;base=dr9y2dr45y20ly3~x2" title="compare in the TTD">2.28</a></div><div class="nn-threads nn-far">344</div><div class="nn-name nn-far"><a href="/variants/s4/dr5o35dr46ly5~x2/">Bryce</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s4/dr5o35dr46ly5~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-44px"></span></div></div>
 
 ## Neighbour map
 

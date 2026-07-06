@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/">California Firefighters (Corporate)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/"><img src="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/sett.png" alt="California Firefighters (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/">California Firefighters (Corporate)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/"><img src="/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/sett.png" alt="California Firefighters (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/">California Firefighters (Corporate)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/"><img src="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/sett.png" alt="California Firefighters (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/">Lochinvar Marine Harvest</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><img src="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/sett.png" alt="Lochinvar Marine Harvest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/dg10k2dg2k2dg2k7db8dp2db8k7dg8k2dg2~x2/">Lochinvar Marine Harvest</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/dg10k2dg2k2dg2k7db8dp2db8k7dg8k2dg2~x2/"><img src="/variants/s13/dg10k2dg2k2dg2k7db8dp2db8k7dg8k2dg2~x2/sett.png" alt="Lochinvar Marine Harvest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/">Lochinvar Marine Harvest</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><img src="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/sett.png" alt="Lochinvar Marine Harvest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/">Urquhart (Logan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><img src="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/sett.png" alt="Urquhart (Logan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

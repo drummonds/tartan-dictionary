@@ -37,10 +37,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/">Lamberton (?)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/"><img src="/variants/s13/db30k5db5k5db5k24g24y6g24k24db24k5db5/sett.png" alt="Lamberton (?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/setts/db8k1db1k1db1k8y1g14y1k8db8k1db1/">Breadalbane Fencibles</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><img src="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/sett.png" alt="Breadalbane Fencibles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/">Breadalbane Fencibles</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/"><img src="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/sett.png" alt="Breadalbane Fencibles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db8k1db1k1db1k8y1g14y1k8db8k1db1/">Breadalbane Fencibles</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><img src="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/sett.png" alt="Breadalbane Fencibles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/">Campbell of Breadalbane (Military)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/"><img src="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/sett.png" alt="Campbell of Breadalbane (Military) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

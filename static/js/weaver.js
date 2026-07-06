@@ -265,6 +265,7 @@
     status(shell, m ? 'Weaving this tartan in your browser…' : 'Starting the weaver…');
     loadEngine().then(function () {
       ed.shell = shell; ed.ttd = true; ed.base = baseSlugFromHash() || ''; ed.palette = paletteFromHash(); ed.name = nameFromHash() || '';
+      var pk = /[#&]pick=([A-Za-z]+)/.exec(location.hash); ed.pick = pk ? pk[1] : '';
       if (!m) {
         // No sett chosen: open a plain starter cloth straight in the editor.
         var blank = window.weaver.fromInput('', 'K#101010 W#F4F4F0', 'K24 W24');
@@ -320,6 +321,10 @@
     var info = window.weaver.parseSlug(ed.slug);
     if (info.error) { status(ed.shell, 'This sett address could not be read: ' + info.error); return; }
     ed.slug = info.slug; // canonical
+    if (ed.pick) { // the #119 colour-picker page state (&pick=<code>): a page, not an overlay
+      ed.shell.innerHTML = window.weaver.pickerPage(ed.slug, ed.pick, ttdSup, overlayArg());
+      return;
+    }
     var name = (typeof window.weaver.title === 'function' && (window.weaver.title(info.slug, '') || {}).text) || 'Tartan variant';
     info.name = name;
     var ov = overlayArg();
@@ -332,8 +337,13 @@
     var tartanEl = document.getElementById('weaver-tartan');
     if (tartanEl) {
       var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
-      var wp = window.weaver.renderWoven(info.slug, 880, tpcm, 0, ov);
-      if (!wp.error) tartanEl.src = pngURL(wp);
+      var wp = ed.base
+        ? window.weaver.renderWovenSplit(info.slug, ed.base, 880, tpcm, 880, ov) // #118 split vs baseline, square
+        : window.weaver.renderWoven(info.slug, 880, tpcm, 0, ov);
+      if (!wp.error) {
+        tartanEl.src = pngURL(wp);
+        if (ed.base) tartanEl.title = 'upper right: working cloth — lower left: baseline';
+      }
     }
 
     // ΔTartan distance from the baseline, and the nearest-tartans table + map, both need the index.
@@ -371,14 +381,28 @@
   /* Move the editor to a freshly-derived slug. On the read-only 404 shell an edit continues in the
    * TTD (a full navigation into /ttd/edit/), so reading a giant sett can flow straight into editing. */
   function gotoSlug(slug) {
-    if (ed.ttd) { ed.slug = slug; renderEditor(); }
+    // First edit away from a KNOWN reference cloth: pin it as the baseline automatically, so the
+    // ΔTartan-from-baseline, the bracketed name and the baseline column appear without the user
+    // having to carry &base= by hand (#119 review).
+    if (ed.ttd && !ed.base && slug !== ed.slug) {
+      var t = window.weaver.title(ed.slug, '');
+      if (t && t.name && !t.approx) ed.base = ed.slug;
+    }
+    if (ed.ttd) { ed.slug = slug; ed.pick = ''; renderEditor(); }
     else location.assign(TTD_PATH + '#slug=' + slug + (ed.base ? '&base=' + ed.base : ''));
   }
 
   function onEditorClick(ev) {
-    var btn = ev.target.closest('button');
+    // Shade appliers are buttons AND the level-wheel SVG dots (#119) — both carry data-shade-hex.
+    var btn = ev.target.closest('button,[data-shade-hex]');
     if (!btn) return;
     ev.preventDefault();
+    if (btn.hasAttribute('data-pick')) { // open the #119 colour-picker page for this colour
+      ed.pick = btn.dataset.pick; renderEditor(); return;
+    }
+    if (btn.hasAttribute('data-pick-cancel')) { // back to the plain editor
+      ed.pick = ''; renderEditor(); return;
+    }
     if (btn.hasAttribute('data-shade-hex')) {
       // Step from the cloth's current EXACT colours, and keep the new exact palette so the next jog
       // accumulates instead of snapping back to the slug's rounded shade (#15).
@@ -394,8 +418,11 @@
       var cur = (window.weaver.parseSlug(ed.slug).scale) || 1;
       var n = Math.max(1, cur + parseInt(btn.dataset.scale, 10));
       if (n === cur) return;
-      var structure = ed.slug.replace(/~x\d+$/, '');
-      var ns = window.weaver.parseSlug(n > 1 ? structure + '~x' + n : structure);
+      // The slug is <structure>[~x<mult>][~<palette>]: a palette section can FOLLOW the scale, so
+      // swap the x-section section-wise — a tail replace would leave the old scale behind (#135).
+      var parts = ed.slug.split('~').filter(function (sec, i) { return i === 0 || !/^x\d+$/.test(sec); });
+      if (n > 1) parts.splice(1, 0, 'x' + n);
+      var ns = window.weaver.parseSlug(parts.join('~'));
       if (!ns.error) gotoSlug(ns.slug);
       return;
     }
@@ -410,7 +437,22 @@
     // The name is metadata, not structure — record it and push it into the address (&name=), but do
     // NOT re-render (that would steal focus mid-edit). It feeds the postcard + share link from ed.name.
     if (el.matches && el.matches('#weaver-name')) { ed.name = el.value.trim(); if (ed.ttd) setTTDFragment(ed.slug, ed.base); return; }
-    if (el.matches && el.matches('select[data-shade-supplier]')) { ttdSup = el.value; renderEditor(); return; }
+    if (el.matches && el.matches('select[data-shade-supplier]')) {
+      // Switching the shade card is a baseline-worthy event (#121): pin the prior cloth (same
+      // known-cloth rule as the first-edit auto-baseline) so the change reads against it.
+      if (ed.ttd && !ed.base) {
+        var st = window.weaver.title(ed.slug, '');
+        if (st && st.name && !st.approx) ed.base = ed.slug;
+      }
+      ttdSup = el.value;
+      // A REAL card re-shades the cloth onto it (#121): every colour snaps to the card's nearest
+      // shade, against the just-pinned baseline. Calculated palettes only change the jog's rails.
+      if (ed.ttd && ttdSup && ttdSup !== 'fine-grid' && ttdSup !== 'superfine') {
+        var cx = window.weaver.applyCard(ed.slug, ttdSup, overlayArg());
+        if (!cx.error) { ed.palette = palMap(cx); gotoSlug(cx.slug); return; }
+      }
+      renderEditor(); return;
+    }
     if (el.matches && el.matches('input[data-count]')) { var v = Math.max(1, parseInt(el.value, 10) || 1); editStripes(function (a, i) { a[i].count = v; return a; }, stripeIndex(el)); return; }
     if (el.matches && el.matches('input[data-hex]')) { var hex = el.value.toUpperCase(); editStripes(function (a, i) { a[i].hex = hex; return a; }, stripeIndex(el)); return; }
   }

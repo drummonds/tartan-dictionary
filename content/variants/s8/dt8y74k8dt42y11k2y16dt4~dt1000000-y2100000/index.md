@@ -23,7 +23,7 @@ One full sett is **318 threads**.
 ![Sett](sett.png)
 
 ## Palette
-<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>K</td><td><code style="background-color:#222222;"><span style="color:#222222;filter:grayscale(1) invert(1) contrast(100);">#222222</span></code> <small style="color:#888">#222222</small></td><td><small style="color:#888">oklch(25.2% 0.000 89.9)</small></td></tr><tr><td>N</td><td><code style="background-color:#6A6A6A;"><span style="color:#6A6A6A;filter:grayscale(1) invert(1) contrast(100);">#6A6A6A</span></code> <small style="color:#888">#6A6A6A</small></td><td><small style="color:#888">oklch(52.4% 0.000 89.9)</small></td></tr></tbody></table>
+<table><thead><tr><th>Colour</th><th>Shade</th><th>OKLCh</th></tr></thead><tbody><tr><td>DT</td><td><code style="background-color:#222222;"><span style="color:#222222;filter:grayscale(1) invert(1) contrast(100);">#222222</span></code> <small style="color:#888">#222222</small></td><td><small style="color:#888">oklch(25.2% 0.000 89.9)</small></td></tr><tr><td>Y</td><td><code style="background-color:#6A6A6A;"><span style="color:#6A6A6A;filter:grayscale(1) invert(1) contrast(100);">#6A6A6A</span></code> <small style="color:#888">#6A6A6A</small></td><td><small style="color:#888">oklch(52.4% 0.000 89.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

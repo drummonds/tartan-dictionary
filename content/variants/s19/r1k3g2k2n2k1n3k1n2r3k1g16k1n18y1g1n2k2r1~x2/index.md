@@ -43,16 +43,20 @@ This cloth is one sett of its design; the master sett (the exemplar the design i
 
 Its **ΔTartan distance** from the master is **0.37** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
-<div class="master-compare" style="display:flex;flex-wrap:wrap;gap:1em;align-items:flex-start">
-<figure style="margin:0"><img src="sett.png" alt="this sett" style="width:100%;max-width:360px"><figcaption style="color:#888;font-size:smaller">this sett</figcaption></figure>
-<figure style="margin:0"><a href="/setts/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1/"><img src="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/sett.png" alt="master sett" style="width:100%;max-width:360px"></a><figcaption style="color:#888;font-size:smaller"><a href="/setts/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1/">master sett →</a></figcaption></figure>
-</div>
+<figure class="master-compare" style="margin:0">
+<span style="position:relative;display:inline-block;max-width:100%">
+<img src="compare.png" alt="this sett (top) woven against the master sett (bottom)" style="width:100%;max-width:740px;display:block">
+<span style="position:absolute;top:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">this sett</span>
+<span style="position:absolute;bottom:8px;left:50%;transform:translateX(-50%);background:#ffffffd9;padding:1px 10px;border-radius:3px;font-size:.8em;color:#333;border:1px solid #0002">master sett ★</span>
+</span>
+<figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
+</figure>
 
 ## Nearest variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/">Craig</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/sett.png" alt="sett" loading="lazy" style="width:576px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4&amp;base=r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2" title="compare in the TTD">0.16</a></div><div class="nn-threads">448</div><div class="nn-name"><a href="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/">Craig</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/sett.png" alt="sett" loading="lazy" style="width:576px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/">Craig</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/sett.png" alt="sett" loading="lazy" style="width:576px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4&amp;base=r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2" title="compare in the TTD">0.16</a></div><div class="nn-threads">448</div><div class="nn-name"><a href="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/">Craig</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:576px;height:26px;background-image:url(/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/sett.png);background-size:576px 26px;background-repeat:repeat-x;background-position-x:-432px;transform:scaleX(-1)"></span></div></div>
 
 ## Neighbour map
 

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/">Forbes Dress</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/"><img src="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/sett.png" alt="Forbes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/db4k2db16k12g16k2w4k2g16k12w4db4w16db2w1~x2/">Forbes Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/db4k2db16k12g16k2w4k2g16k12w4db4w16db2w1~x2/"><img src="/variants/s15/db4k2db16k12g16k2w4k2g16k12w4db4w16db2w1~x2/sett.png" alt="Forbes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/">Forbes Dress</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/"><img src="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/sett.png" alt="Forbes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

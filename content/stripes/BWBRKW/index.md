@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/">Sirrell (2014)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><img src="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/sett.png" alt="Sirrell (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/">Sirrell (2014)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><img src="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/sett.png" alt="Sirrell (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/">Sirrell (2014)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><img src="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/sett.png" alt="Sirrell (2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

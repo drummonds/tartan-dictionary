@@ -50,8 +50,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><img src="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/sett.png" alt="MacRae Grey (Fashion)" width="140"><br>MacRae Grey (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/"><img src="/variants/s11/lb1dp3k2w1dp8w1k2w9k1w3lb1~x6/sett.png" alt="MacRae, Dress Purple (Dance)" width="140"><br>MacRae, Dress Purple (Dance)</a></li>
 <li><a class="tartan" href="/variants/s11/lb1r3k2w1r8w1k2w9k1w3lb1~x6/"><img src="/variants/s11/lb1r3k2w1r8w1k2w9k1w3lb1~x6/sett.png" alt="MacRae, Dress Red (Dance)" width="140"><br>MacRae, Dress Red (Dance)</a></li>
-<li><a class="tartan" href="/variants/s5/lb3w10db10g10r2~x4/"><img src="/variants/s5/lb3w10db10g10r2~x4/sett.png" alt="MacTeddy" width="140"><br>MacTeddy</a></li>
 <li><a class="tartan" href="/variants/s5/lb3w10db10g10k2~x4/"><img src="/variants/s5/lb3w10db10g10k2~x4/sett.png" alt="MacTeddy" width="140"><br>MacTeddy</a></li>
+<li><a class="tartan" href="/variants/s5/lb3w10db10g10r2~x4/"><img src="/variants/s5/lb3w10db10g10r2~x4/sett.png" alt="MacTeddy" width="140"><br>MacTeddy</a></li>
 <li><a class="tartan" href="/variants/s7/g28r4dp27r27g28r5dp2~x2/"><img src="/variants/s7/g28r4dp27r27g28r5dp2~x2/sett.png" alt="Madder" width="140"><br>Madder</a></li>
 <li><a class="tartan" href="/variants/s7/dg28dr4dp27dr27dg28dr5dp2~x2/"><img src="/variants/s7/dg28dr4dp27dr27dg28dr5dp2~x2/sett.png" alt="Madder - 1819" width="140"><br>Madder - 1819</a></li>
 <li><a class="tartan" href="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/"><img src="/variants/s11/k3g3k2g4r2g6k6g4k4g36k2/sett.png" alt="Madoc of Wales" width="140"><br>Madoc of Wales</a></li>

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s9/w4db8w1dbi1b6dbi3r6dbi1w4~x2~db0805267-dbi1604274/">Womble</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s9/w4db8w1dbi1b6dbi3r6dbi1w4~x2~db0805267-dbi1604274/"><img src="/variants/s9/w4db8w1dbi1b6dbi3r6dbi1w4~x2~db0805267-dbi1604274/sett.png" alt="Womble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/w4db8w1b1dbi6b3r6b1w4~x2~db0805267-dbi1604274/">Womble</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/w4db8w1b1dbi6b3r6b1w4~x2~db0805267-dbi1604274/"><img src="/variants/s9/w4db8w1b1dbi6b3r6b1w4~x2~db0805267-dbi1604274/sett.png" alt="Womble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s9/w4db8w1dbi1b6dbi3r6dbi1w4~x2~db0805267-dbi1604274/">Womble</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s9/w4db8w1dbi1b6dbi3r6dbi1w4~x2~db0805267-dbi1604274/"><img src="/variants/s9/w4db8w1dbi1b6dbi3r6dbi1w4~x2~db0805267-dbi1604274/sett.png" alt="Womble sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

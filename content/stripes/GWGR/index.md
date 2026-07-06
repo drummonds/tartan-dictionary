@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/r32g8w4y1/">MacLaine of Lochbuie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/r32g8w4y1/"><img src="/variants/s4/r32g8w4y1/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r32g8lb4y1/">MacLaine of Lochbuie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r32g8lb4y1/"><img src="/variants/s4/r32g8lb4y1/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/r32g8w4y1/">MacLaine of Lochbuie</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/r32g8w4y1/"><img src="/variants/s4/r32g8w4y1/sett.png" alt="MacLaine of Lochbuie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/r32dg8lb4y1~x2/">MacLaine of Lochbuie (Coburn)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/r32dg8lb4y1~x2/"><img src="/variants/s4/r32dg8lb4y1~x2/sett.png" alt="MacLaine of Lochbuie (Coburn) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

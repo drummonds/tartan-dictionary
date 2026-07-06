@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s3/k5y1k1~x12/">Justus</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/k5y1k1~x12/"><img src="/variants/s3/k5y1k1~x12/sett.png" alt="Justus sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/k6y1k6y6~x6/">Raeburn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k6y1k6y6~x6/"><img src="/variants/s4/k6y1k6y6~x6/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/k34y3k34y26~x2/">Raeburn</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/k34y3k34y26~x2/"><img src="/variants/s4/k34y3k34y26~x2/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s4/k6y1k6y6~x6/">Raeburn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k6y1k6y6~x6/"><img src="/variants/s4/k6y1k6y6~x6/sett.png" alt="Raeburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s4/k3g15k20y3~x2/">Scotch Tape 2 (Corporate)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/k3g15k20y3~x2/"><img src="/variants/s4/k3g15k20y3~x2/sett.png" alt="Scotch Tape 2 (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

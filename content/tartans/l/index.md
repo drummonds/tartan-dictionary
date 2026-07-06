@@ -2,13 +2,14 @@
 title: "Tartans — L"
 date: 2023-03-18
 ---
-97 tartans beginning with L. [Back to the A–Z](/tartans/).
+98 tartans beginning with L. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/labrador/"><img src="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/sett.png" alt="Labrador" width="140"><br><strong>Labrador</strong></a></li>
 <li><a class="tartan" href="/tartans/lady-diana/"><img src="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/sett.png" alt="Lady Diana" width="140"><br><strong>Lady Diana</strong></a></li>
 <li><a class="tartan" href="/tartans/ladybird/"><img src="/variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/sett.png" alt="Ladybird" width="140"><br><strong>Ladybird</strong></a></li>
 <li><a class="tartan" href="/tartans/laidlaw-s-highland-drovers/"><img src="/variants/s6/db35k10db4w2db3r2~x2/sett.png" alt="Laidlaw's Highland Drovers" width="140"><br><strong>Laidlaw's Highland Drovers</strong></a></li>
+<li><a class="tartan" href="/tartans/laing/"><img src="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/sett.png" alt="Laing" width="140"><br><strong>Laing</strong></a><div class="clan-territory">Clan Laing</div></li>
 <li><a class="tartan" href="/tartans/laing-of-archiestown/"><img src="/variants/s5/db8r1w1r1k1~x8/sett.png" alt="Laing of Archiestown" width="140"><br><strong>Laing of Archiestown</strong></a><div class="clan-territory">Laing of Archiestown</div></li>
 <li><a class="tartan" href="/tartans/laird/"><img src="/variants/s9/k75g2k4dp10db1dp4db1dp4k4~x2/sett.png" alt="Laird" width="140"><br><strong>Laird</strong></a></li>
 <li><a class="tartan" href="/tartans/laksaa/"><img src="/variants/s8/n22k2n2k2n2k16w16k3~x2/sett.png" alt="Laksaa" width="140"><br><strong>Laksaa</strong></a></li>

@@ -61,8 +61,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/lo4db24g3k21g23k1~x2/"><img src="/variants/s6/lo4db24g3k21g23k1~x2/sett.png" alt="Glenturret Distillery" width="140"><br>Glenturret Distillery</a></li>
 <li><a class="tartan" href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><img src="/variants/s7/dg54db14y7r14k7db14r6~x2/sett.png" alt="Gloucester County Pipe Band" width="140"><br>Gloucester County Pipe Band</a></li>
 <li><a class="tartan" href="/variants/s12/db5dr10y4dr10y4dr10db5w4db3w10db1y1~x2/"><img src="/variants/s12/db5dr10y4dr10y4dr10db5w4db3w10db1y1~x2/sett.png" alt="Glover, Thomas Blake" width="140"><br>Glover, Thomas Blake</a></li>
-<li><a class="tartan" href="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/"><img src="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/sett.png" alt="Glover, Thomas Blake (Corporate)" width="140"><br>Glover, Thomas Blake (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s12/db5dr10ly4dr10ly4dr10db5w4db3w10db1ly1~x2/"><img src="/variants/s12/db5dr10ly4dr10ly4dr10db5w4db3w10db1ly1~x2/sett.png" alt="Glover, Thomas Blake (Corporate)" width="140"><br>Glover, Thomas Blake (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/"><img src="/variants/s12/db4dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1~x2/sett.png" alt="Glover, Thomas Blake (Corporate)" width="140"><br>Glover, Thomas Blake (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/"><img src="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/sett.png" alt="Golden Broom" width="140"><br>Golden Broom</a></li>
 <li><a class="tartan" href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/"><img src="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/sett.png" alt="Golden Broom #2" width="140"><br>Golden Broom #2</a></li>
 <li><a class="tartan" href="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/"><img src="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/sett.png" alt="GOLF (Corporate)" width="140"><br>GOLF (Corporate)</a></li>
@@ -107,8 +107,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><img src="/variants/s7/db67w1ly6r5dg25db3k5~x2/sett.png" alt="Guide Dogs" width="140"><br>Guide Dogs</a></li>
 <li><a class="tartan" href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><img src="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/sett.png" alt="Guild, The" width="140"><br>Guild, The</a></li>
 <li><a class="tartan" href="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/"><img src="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/sett.png" alt="Guildford Town Centre (British Columbia)" width="140"><br>Guildford Town Centre (British Columbia)</a></li>
-<li><a class="tartan" href="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/"><img src="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/sett.png" alt="Guildry of Stirling" width="140"><br>Guildry of Stirling</a></li>
 <li><a class="tartan" href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><img src="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/sett.png" alt="Guildry of Stirling" width="140"><br>Guildry of Stirling</a></li>
+<li><a class="tartan" href="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/"><img src="/variants/s10/g18k3g3k3g3k21dg2k21g21k4~x2/sett.png" alt="Guildry of Stirling" width="140"><br>Guildry of Stirling</a></li>
 <li><a class="tartan" href="/variants/s5/db72lb6db12lb17w6~x2/"><img src="/variants/s5/db72lb6db12lb17w6~x2/sett.png" alt="GulfMark" width="140"><br>GulfMark</a></li>
 <li><a class="tartan" href="/variants/s3/lb8dg1dr2~x20/"><img src="/variants/s3/lb8dg1dr2~x20/sett.png" alt="Gyle" width="140"><br>Gyle</a></li>
 </ul>

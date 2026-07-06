@@ -2,7 +2,7 @@
 title: "Tartans — H"
 date: 2023-03-18
 ---
-86 tartans beginning with H. [Back to the A–Z](/tartans/).
+87 tartans beginning with H. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/h-m-s-duncan/"><img src="/variants/s6/dp3dt15db15r2db15y3~x2/sett.png" alt="H.M.S. DUNCAN" width="140"><br><strong>H.M.S. DUNCAN</strong></a></li>
@@ -19,6 +19,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/hanna/"><img src="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2~w3901120/sett.png" alt="Hanna" width="140"><br><strong>Hanna</strong></a><div class="clan-territory">Clan Hanna</div></li>
 <li><a class="tartan" href="/tartans/hannay/"><img src="/variants/s10/k9t4k2t4k2t30k9t4db14dy2~x2~t2503227/sett.png" alt="Hannay" width="140"><br><strong>Hannay</strong></a></li>
 <li><a class="tartan" href="/tartans/hannigan-of-dirleton/"><img src="/variants/s8/dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090/sett.png" alt="Hannigan of Dirleton" width="140"><br><strong>Hannigan of Dirleton</strong></a><div class="clan-territory">Hannigan of Dirleton</div></li>
+<li><a class="tartan" href="/tartans/harbor-club/"><img src="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/sett.png" alt="Harbor Club" width="140"><br><strong>Harbor Club</strong></a></li>
 <li><a class="tartan" href="/tartans/hardie/"><img src="/variants/s6/o4dg9w2dg24db37r3~x2/sett.png" alt="Hardie" width="140"><br><strong>Hardie</strong></a></li>
 <li><a class="tartan" href="/tartans/harmer/"><img src="/variants/s7/ly12dg4ly24k9ly8dg36dr4/sett.png" alt="Harmer" width="140"><br><strong>Harmer</strong></a></li>
 <li><a class="tartan" href="/tartans/harmon/"><img src="/variants/s18/k2r6y2r2y2r19db2g2db2r2dr4k2dr11g2dr2g2dr6y2~x2/sett.png" alt="Harmon" width="140"><br><strong>Harmon</strong></a><div class="clan-territory">Clan Harmon</div></li>

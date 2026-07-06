@@ -2,7 +2,7 @@
 title: "Tartans — K"
 date: 2023-03-18
 ---
-44 tartans beginning with K. [Back to the A–Z](/tartans/).
+46 tartans beginning with K. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/kagame/"><img src="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/sett.png" alt="Kagame" width="140"><br><strong>Kagame</strong></a></li>
@@ -25,6 +25,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/kenspeckle/"><img src="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/sett.png" alt="Kenspeckle" width="140"><br><strong>Kenspeckle</strong></a></li>
 <li><a class="tartan" href="/tartans/kerr/"><img src="/variants/s10/g20k1g2k1g3k14r28k1r2k4~x2/sett.png" alt="Kerr" width="140"><br><strong>Kerr</strong></a><div class="clan-territory">Clan Kerr</div></li>
 <li><a class="tartan" href="/tartans/kerr-hunting/"><img src="/variants/s10/g16k2g2k2g4k10t19k2t2k3~x2/sett.png" alt="Kerr Hunting" width="140"><br><strong>Kerr Hunting</strong></a><div class="clan-territory">Clan Kerr</div></li>
+<li><a class="tartan" href="/tartans/kerr-shepherd-s/"><img src="/variants/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/sett.png" alt="Kerr Shepherd's" width="140"><br><strong>Kerr Shepherd's</strong></a><div class="clan-territory">Clan Kerr</div></li>
 <li><a class="tartan" href="/tartans/kervegant/"><img src="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/sett.png" alt="Kervegant" width="140"><br><strong>Kervegant</strong></a></li>
 <li><a class="tartan" href="/tartans/kettles-ryan-alan/"><img src="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1~x2/sett.png" alt="Kettles, Ryan &amp; Alan" width="140"><br><strong>Kettles, Ryan & Alan</strong></a></li>
 <li><a class="tartan" href="/tartans/kilbranan-sound/"><img src="/variants/s8/db8r11db28r4k17o1k7r2~x2~db1704245/sett.png" alt="Kilbranan Sound" width="140"><br><strong>Kilbranan Sound</strong></a></li>
@@ -37,7 +38,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/kinding/"><img src="/variants/s7/k10db30g3db3g3db3r6~x2/sett.png" alt="Kinding" width="140"><br><strong>Kinding</strong></a></li>
 <li><a class="tartan" href="/tartans/kinfauns-castle/"><img src="/variants/s6/r4dp12dg2dp2dg46w1~x2/sett.png" alt="Kinfauns Castle" width="140"><br><strong>Kinfauns Castle</strong></a></li>
 <li><a class="tartan" href="/tartans/king-edward/"><img src="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6~r2109032/sett.png" alt="King Edward" width="140"><br><strong>King Edward</strong></a></li>
-<li><a class="tartan" href="/tartans/king-george/"><img src="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/sett.png" alt="King George" width="140"><br><strong>King George</strong></a></li>
+<li><a class="tartan" href="/tartans/king-george/"><img src="/variants/s32/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3~x4~lr3204029-r2109032/sett.png" alt="King George" width="140"><br><strong>King George</strong></a></li>
+<li><a class="tartan" href="/tartans/king-george-2/"><img src="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/sett.png" alt="King George" width="140"><br><strong>King George</strong></a></li>
 <li><a class="tartan" href="/tartans/kings-mountain-1780/"><img src="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/sett.png" alt="Kings Mountain 1780" width="140"><br><strong>Kings Mountain 1780</strong></a></li>
 <li><a class="tartan" href="/tartans/kingsbarns-golf-links/"><img src="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/sett.png" alt="Kingsbarns Golf Links" width="140"><br><strong>Kingsbarns Golf Links</strong></a></li>
 <li><a class="tartan" href="/tartans/kinloch-anderson-hunting/"><img src="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/sett.png" alt="Kinloch Anderson Hunting" width="140"><br><strong>Kinloch Anderson Hunting</strong></a><div class="clan-territory">Clan Kinloch</div></li>

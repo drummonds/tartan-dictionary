@@ -28,8 +28,6 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s4/w20db20w3db3~x2/">Barbie's Moss Plaid (Blue &amp; White)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/w20db20w3db3~x2/"><img src="/variants/s4/w20db20w3db3~x2/sett.png" alt="Barbie's Moss Plaid (Blue &amp; White) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db1w1db5w5db1w1~x8/">Erskine Blanket</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db1w1db5w5db1w1~x8/"><img src="/variants/s6/db1w1db5w5db1w1~x8/sett.png" alt="Erskine Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db6w2db29w29db2w6~x2/">Erskine Blue (Dance)</a></td></tr>
@@ -42,6 +40,9 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/w8db16w2db2w1db1~x4/"><img src="/variants/s6/w8db16w2db2w1db1~x4/sett.png" alt="Ikelman #1 (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db3w16db4w3db12w2~x3/">MacMugen</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db3w16db4w3db12w2~x3/"><img src="/variants/s6/db3w16db4w3db12w2~x3/sett.png" alt="MacMugen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/w20db20w3db3~x2/">Barbie's Moss Plaid (Blue &amp; White)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/w20db20w3db3~x2/"><img src="/variants/s4/w20db20w3db3~x2/sett.png" alt="Barbie's Moss Plaid (Blue &amp; White) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s4/w20b20w3b3~x2/">Unidentified, Plaid Barbie's Moss</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s4/w20b20w3b3~x2/"><img src="/variants/s4/w20b20w3b3~x2/sett.png" alt="Unidentified, Plaid Barbie's Moss sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

@@ -38,10 +38,11 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/k31r4k47r47k4r31~x2/"><img src="/variants/s6/k31r4k47r47k4r31~x2/sett.png" alt="Erskine (Paton) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k6r3k28r28k3r6~x2/">Erskine, Black &amp; Red (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k6r3k28r28k3r6~x2/"><img src="/variants/s6/k6r3k28r28k3r6~x2/sett.png" alt="Erskine, Black &amp; Red (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s4/k23r3k1r12~x4/">Ewing</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s4/k23r3k1r12~x4/"><img src="/variants/s4/k23r3k1r12~x4/sett.png" alt="Ewing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k3r1k16r16k1r3~x4/">The Mary Erskine</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k3r1k16r16k1r3~x4/"><img src="/variants/s6/k3r1k16r16k1r3~x4/sett.png" alt="The Mary Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s4/k23r3k1r12~x4/">Ewing</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s4/k23r3k1r12~x4/"><img src="/variants/s4/k23r3k1r12~x4/sett.png" alt="Ewing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/k16r16k19r5k6r2~x4~r1807016/">Henry, W. A. (Commemorative)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k16r16k19r5k6r2~x4~r1807016/"><img src="/variants/s6/k16r16k19r5k6r2~x4~r1807016/sett.png" alt="Henry, W. A. (Commemorative) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

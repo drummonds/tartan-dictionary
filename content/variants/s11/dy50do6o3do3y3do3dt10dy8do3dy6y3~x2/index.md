@@ -35,7 +35,7 @@ One full sett is **286 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **7.10** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.71** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">
@@ -50,7 +50,7 @@ Its **ΔTartan distance** from the master is **7.10** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">286</div><div class="nn-name nn-base"><a href="/variants/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/">Williams (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4dy30do2dy2do14y2do2y1do6g3~x2&amp;base=dy50do6o3do3y3do3dt10dy8do3dy6y3~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">250</div><div class="nn-name nn-far"><a href="/variants/s10/db4dy30do2dy2do14y2do2y1do6g3~x2/">Hickory</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db4dy30do2dy2do14y2do2y1do6g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">286</div><div class="nn-name nn-base"><a href="/variants/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/">Williams (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db4dy30do2dy2do14y2do2y1do6g3~x2&amp;base=dy50do6o3do3y3do3dt10dy8do3dy6y3~x2" title="compare in the TTD">3.80</a></div><div class="nn-threads nn-far2">250</div><div class="nn-name nn-far2"><a href="/variants/s10/db4dy30do2dy2do14y2do2y1do6g3~x2/">Hickory</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db4dy30do2dy2do14y2do2y1do6g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

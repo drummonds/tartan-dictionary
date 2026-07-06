@@ -35,8 +35,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/dg44w18dg6w11db1r4~x2/"><img src="/variants/s6/dg44w18dg6w11db1r4~x2/sett.png" alt="Westfalia" width="140"><br>Westfalia</a></li>
 <li><a class="tartan" href="/variants/s6/w44dg18w6dg11db1r4~x2/"><img src="/variants/s6/w44dg18w6dg11db1r4~x2/sett.png" alt="Westfalia Dress" width="140"><br>Westfalia Dress</a></li>
 <li><a class="tartan" href="/variants/s4/db102r11db14w11/"><img src="/variants/s4/db102r11db14w11/sett.png" alt="Westfield (Corporate?)" width="140"><br>Westfield (Corporate?)</a></li>
-<li><a class="tartan" href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><img src="/variants/s8/o2k37r10db3r5dy4r3w2~x2/sett.png" alt="Westin Kierland" width="140"><br>Westin Kierland</a></li>
 <li><a class="tartan" href="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/"><img src="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/sett.png" alt="Westin Kierland" width="140"><br>Westin Kierland</a></li>
+<li><a class="tartan" href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><img src="/variants/s8/o2k37r10db3r5dy4r3w2~x2/sett.png" alt="Westin Kierland" width="140"><br>Westin Kierland</a></li>
 <li><a class="tartan" href="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/"><img src="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/sett.png" alt="Westin Kierland (Corporate)" width="140"><br>Westin Kierland (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><img src="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/sett.png" alt="WestJet" width="140"><br>WestJet</a></li>
 <li><a class="tartan" href="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/"><img src="/variants/s15/db2k2db2k21db2r2g21db2k2db2t2db42lr1db21t2~x2~t2503227-lr2800000/sett.png" alt="Westminster College" width="140"><br>Westminster College</a></li>

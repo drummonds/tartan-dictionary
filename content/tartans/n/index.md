@@ -2,7 +2,7 @@
 title: "Tartans — N"
 date: 2023-03-18
 ---
-37 tartans beginning with N. [Back to the A–Z](/tartans/).
+38 tartans beginning with N. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/nhs-grampian/"><img src="/variants/s7/k4w1lb2w1k16db36lb4~x2/sett.png" alt="NHS Grampian" width="140"><br><strong>NHS Grampian</strong></a></li>
@@ -17,6 +17,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/new-brunswick/"><img src="/variants/s36/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4~ly3104101-r2109032/sett.png" alt="New Brunswick" width="140"><br><strong>New Brunswick</strong></a></li>
 <li><a class="tartan" href="/tartans/new-brunswick-2/"><img src="/variants/s44/lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1ly1lb1dg28r24ly1n2ly3lb4r10dy16r4ly2r15dy5r9dg28lb1ly1lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1~x2~ly3307090-dg1806142-g2408144-dy1603076/sett.png" alt="New Brunswick" width="140"><br><strong>New Brunswick</strong></a></li>
 <li><a class="tartan" href="/tartans/new-glasgow/"><img src="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/sett.png" alt="New Glasgow" width="140"><br><strong>New Glasgow</strong></a></li>
+<li><a class="tartan" href="/tartans/new-mexico/"><img src="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/sett.png" alt="New Mexico" width="140"><br><strong>New Mexico</strong></a></li>
 <li><a class="tartan" href="/tartans/new-york-caledonian-club-dress/"><img src="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/sett.png" alt="New York Caledonian Club Dress" width="140"><br><strong>New York Caledonian Club Dress</strong></a></li>
 <li><a class="tartan" href="/tartans/new-york-state-troopers/"><img src="/variants/s7/n6dp4n2w2n25k26y4~x2/sett.png" alt="New York State Troopers" width="140"><br><strong>New York State Troopers</strong></a></li>
 <li><a class="tartan" href="/tartans/new-zealand/"><img src="/variants/s6/k21lb2k5lb9k13g2~x4/sett.png" alt="New Zealand" width="140"><br><strong>New Zealand</strong></a></li>

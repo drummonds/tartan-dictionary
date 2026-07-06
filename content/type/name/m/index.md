@@ -38,8 +38,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><img src="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/sett.png" alt="MacGuire (Name)" width="140"><br>MacGuire (Name)</a></li>
 <li><a class="tartan" href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><img src="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/sett.png" alt="MacHarg, Iain" width="140"><br>MacHarg, Iain</a></li>
 <li><a class="tartan" href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/"><img src="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/sett.png" alt="MacIntosh" width="140"><br>MacIntosh</a></li>
-<li><a class="tartan" href="/variants/s7/db8g8db1g8k8db8y2~x2/"><img src="/variants/s7/db8g8db1g8k8db8y2~x2/sett.png" alt="MacKay" width="140"><br>MacKay</a></li>
 <li><a class="tartan" href="/variants/s13/g6dt28g4k28g28k6g28k6g28k28g4dt28g1~x2/"><img src="/variants/s13/g6dt28g4k28g28k6g28k6g28k28g4dt28g1~x2/sett.png" alt="MacKay" width="140"><br>MacKay</a></li>
+<li><a class="tartan" href="/variants/s7/db8g8db1g8k8db8y2~x2/"><img src="/variants/s7/db8g8db1g8k8db8y2~x2/sett.png" alt="MacKay" width="140"><br>MacKay</a></li>
 <li><a class="tartan" href="/variants/s33/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/"><img src="/variants/s33/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/sett.png" alt="MacKenzie" width="140"><br>MacKenzie</a></li>
 <li><a class="tartan" href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><img src="/variants/s8/dy2g1k1g26k11db6k1g2~x2/sett.png" alt="Mackie (2016)" width="140"><br>Mackie (2016)</a></li>
 <li><a class="tartan" href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/"><img src="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/sett.png" alt="MacKinnon" width="140"><br>MacKinnon</a></li>
@@ -133,8 +133,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s4/dy22dp1g22r4~x4/"><img src="/variants/s4/dy22dp1g22r4~x4/sett.png" alt="McWilliams Hunting (2014)" width="140"><br>McWilliams Hunting (2014)</a></li>
 <li><a class="tartan" href="/variants/s6/lb26n10db19dr6dy2t9~x2~db1404245-t2105244/"><img src="/variants/s6/lb26n10db19dr6dy2t9~x2~db1404245-t2105244/sett.png" alt="Meeson Formal" width="140"><br>Meeson Formal</a></li>
 <li><a class="tartan" href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><img src="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/sett.png" alt="Meeson Hunting" width="140"><br>Meeson Hunting</a></li>
-<li><a class="tartan" href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/"><img src="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/sett.png" alt="Meirhaeghe, Van" width="140"><br>Meirhaeghe, Van</a></li>
 <li><a class="tartan" href="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/"><img src="/variants/s12/dbi28k6y2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1208266-db1004274/sett.png" alt="Meirhaeghe, Van" width="140"><br>Meirhaeghe, Van</a></li>
+<li><a class="tartan" href="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/"><img src="/variants/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2~dbi1406275-db1204274/sett.png" alt="Meirhaeghe, Van" width="140"><br>Meirhaeghe, Van</a></li>
 <li><a class="tartan" href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/"><img src="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/sett.png" alt="Melieres-Frost" width="140"><br>Melieres-Frost</a></li>
 <li><a class="tartan" href="/variants/s6/w8k16g32db3ly5w5~x2/"><img src="/variants/s6/w8k16g32db3ly5w5~x2/sett.png" alt="Mellor (Name)" width="140"><br>Mellor (Name)</a></li>
 <li><a class="tartan" href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><img src="/variants/s7/do8w8k16dg32db3y5w5~x2/sett.png" alt="Mellor, Phillip (Oldham)" width="140"><br>Mellor, Phillip (Oldham)</a></li>

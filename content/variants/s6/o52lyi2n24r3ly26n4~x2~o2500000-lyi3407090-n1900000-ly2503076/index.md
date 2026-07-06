@@ -36,7 +36,7 @@ One full sett is **332 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **5.08** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **1.26** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">
@@ -51,7 +51,7 @@ Its **ΔTartan distance** from the master is **5.08** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">332</div><div class="nn-name nn-base"><a href="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/">Outlander #1</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n11o1n4o8dr1~x8~n1900000-o2500000&amp;base=o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s5/n11o1n4o8dr1~x8~n1900000-o2500000/">Cairns, David (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n11o1n4o8dr1~x8~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">332</div><div class="nn-name nn-base"><a href="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/">Outlander #1</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n11o1n4o8dr1~x8~n1900000-o2500000&amp;base=o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076" title="compare in the TTD">2.32</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s5/n11o1n4o8dr1~x8~n1900000-o2500000/">Cairns, David (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/n11o1n4o8dr1~x8~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

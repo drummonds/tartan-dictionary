@@ -31,4 +31,16 @@ One full sett is **528 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/20 R4 DG4 R4 K20 R4 K20 R2 K4 R2 K20 R2 K4 R2 K20 R2 K4 R2 K20 R2 K4 R2 K20 R2 K4 R2 K20 R4 K20 R4 DG4 R4 K20 T/4 tartan" width="880" height="480">
 
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">528</div><div class="nn-name nn-base"><a href="/variants/s34/k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg1804158/">Hebrides #3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s34/k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg1804158/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2&amp;base=k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg1804158" title="compare in the TTD">2.81</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/">Hebridean 6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2&amp;base=k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg1804158" title="compare in the TTD">3.96</a></div><div class="nn-threads nn-far2">220</div><div class="nn-name nn-far2"><a href="/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/">Hebridean</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/sett.png" alt="sett" loading="lazy" style="width:800px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/"><circle cx="403.9" cy="127.6" r="4" fill="#3465a4"><title>Hebridean 6</title></circle></a><a href="/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="386.4" cy="138.2" r="4" fill="#3465a4"><title>Hebridean</title></circle></a><circle cx="389.8" cy="101.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
 ID: /variants/s34/k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg1804158/

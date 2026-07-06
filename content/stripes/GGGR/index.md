@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s3/r10dg4dy1~x8/">Lugo (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s3/r10dg4dy1~x8/"><img src="/variants/s3/r10dg4dy1~x8/sett.png" alt="Lugo (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s3/r10dg4y1~x8/">Lugo (2013)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s3/r10dg4y1~x8/"><img src="/variants/s3/r10dg4y1~x8/sett.png" alt="Lugo (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s3/r10dg4dy1~x8/">Lugo (2013)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s3/r10dg4dy1~x8/"><img src="/variants/s3/r10dg4dy1~x8/sett.png" alt="Lugo (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -30,4 +30,16 @@ One full sett is **600 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/24 W2 K4 LB2 K2 LB2 K2 LB2 K2 LB2 K2 LB4 K6 LB6 R6 LB24 W2 K2 W4 LB14 K2 W2 K2 W2 K2 W2 K2 W2 K2 W14 K6 W32 K6 W14 R10 W2 R2 W4 R48 K6 R6 W6 R4 LB2 R2 LB2 R2 LB2 R2 LB2 R2 K/8 tartan" width="880" height="480">
 
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">600</div><div class="nn-name nn-base"><a href="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/">Mystery Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4&amp;base=r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">452</div><div class="nn-name nn-far"><a href="/variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/">Coulin</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/sett.png" alt="sett" loading="lazy" style="width:800px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/"><circle cx="149.1" cy="50.9" r="4" fill="#3465a4"><title>Coulin</title></circle></a><circle cx="133.3" cy="30.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
 ID: /variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/

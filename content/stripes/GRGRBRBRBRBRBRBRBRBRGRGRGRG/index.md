@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/">Ross</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/"><img src="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s27/g8r1g8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8g1r2g1r8g8r1g8~x2/">Ross</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s27/g8r1g8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8g1r2g1r8g8r1g8~x2/"><img src="/variants/s27/g8r1g8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8g1r2g1r8g8r1g8~x2/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/">Ross</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/"><img src="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/sett.png" alt="Ross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

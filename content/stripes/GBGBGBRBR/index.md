@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/dg20db2dg2db2dg2db8r24db2r3/">Lindsay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/dg20db2dg2db2dg2db8r24db2r3/"><img src="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/g20db2g2db2g2db8r24db2r3/">Lindsay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/g20db2g2db2g2db8r24db2r3/"><img src="/variants/s9/g20db2g2db2g2db8r24db2r3/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/dg20db2dg2db2dg2db8r24db2r3/">Lindsay</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/dg20db2dg2db2dg2db8r24db2r3/"><img src="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/sett.png" alt="Lindsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

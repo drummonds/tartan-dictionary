@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/">Justus Dress (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/sett.png" alt="Justus Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/">Justus Dress (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/sett.png" alt="Justus Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/">Justus Dress (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/"><img src="/variants/s7/b1lr4dr1lr1ly1lr4b1~x12/sett.png" alt="Justus Dress (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -41,7 +41,7 @@ One full sett is **264 threads**.
 
 This cloth is one sett of its design; the master sett (the exemplar the design is anchored on) is below for comparison.
 
-Its **ΔTartan distance** from the master is **0.06** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
+Its **ΔTartan distance** from the master is **0.02** — the same measure the nearest-tartans table ranks by (0 is identical; a re-scale of the same cloth is near 0, a recolour or a different proportion further).
 
 <figure class="master-compare" style="margin:0">
 <span style="position:relative;display:inline-block;max-width:100%">
@@ -56,7 +56,7 @@ Its **ΔTartan distance** from the master is **0.06** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/">Abbotsford</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2&amp;base=k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/">Abbotsford Check</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/">Abbotsford</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2&amp;base=k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4y2k3w3k2g5~x2" title="compare in the TTD">0.02</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/">Abbotsford Check</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div></div>
 
 ## Neighbour map
 

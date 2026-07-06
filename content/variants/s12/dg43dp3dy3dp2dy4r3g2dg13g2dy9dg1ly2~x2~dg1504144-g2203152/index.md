@@ -29,4 +29,16 @@ One full sett is **258 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/86 DP6 DY6 DP4 DY8 R6 G4 DG26 G4 DY18 DG2 LY/4 tartan" width="880" height="480">
 
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">258</div><div class="nn-name nn-base"><a href="/variants/s12/dg43dp3dy3dp2dy4r3g2dg13g2dy9dg1ly2~x2~dg1504144-g2203152/">Berry Tribute</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dg43dp3dy3dp2dy4r3g2dg13g2dy9dg1ly2~x2~dg1504144-g2203152/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144&amp;base=dg43dp3dy3dp2dy4r3g2dg13g2dy9dg1ly2~x2~dg1504144-g2203152" title="compare in the TTD">3.43</a></div><div class="nn-threads nn-far2">258</div><div class="nn-name nn-far2"><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/">Berry Tribute</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n60lb5n8y2n4w2n4g16o8n2o4w2~x2&amp;base=dg43dp3dy3dp2dy4r3g2dg13g2dy9dg1ly2~x2~dg1504144-g2203152" title="compare in the TTD">3.49</a></div><div class="nn-threads nn-far2">344</div><div class="nn-name nn-far2"><a href="/variants/s12/n60lb5n8y2n4w2n4g16o8n2o4w2~x2/">Stuart / Stewart, Silver</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/n60lb5n8y2n4w2n4g16o8n2o4w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><circle cx="466.7" cy="92.3" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/variants/s12/n60lb5n8y2n4w2n4g16o8n2o4w2~x2/"><circle cx="493.9" cy="111.7" r="4" fill="#3465a4"><title>Stuart / Stewart, Silver</title></circle></a><circle cx="506.9" cy="106.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
 ID: /variants/s12/dg43dp3dy3dp2dy4r3g2dg13g2dy9dg1ly2~x2~dg1504144-g2203152/

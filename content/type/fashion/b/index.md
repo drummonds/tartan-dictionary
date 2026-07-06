@@ -48,10 +48,10 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s4/lb3o6k4lb2~x2~o2500000/"><img src="/variants/s4/lb3o6k4lb2~x2~o2500000/sett.png" alt="Bedford Check" width="140"><br>Bedford Check</a></li>
 <li><a class="tartan" href="/variants/s4/lb3n6k4lb2~x2/"><img src="/variants/s4/lb3n6k4lb2~x2/sett.png" alt="Bedford Check (Fashion)" width="140"><br>Bedford Check (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/"><img src="/variants/s13/k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1~x4/sett.png" alt="BeeJay" width="140"><br>BeeJay</a></li>
-<li><a class="tartan" href="/variants/s7/n3k31w6k7n3k12w2~x2/"><img src="/variants/s7/n3k31w6k7n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
 <li><a class="tartan" href="/variants/s7/n3k31w6k8n3k12w2~x2/"><img src="/variants/s7/n3k31w6k8n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
-<li><a class="tartan" href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><img src="/variants/s8/k4o8m30k8o6k8o12w3~x2/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
+<li><a class="tartan" href="/variants/s7/n3k31w6k7n3k12w2~x2/"><img src="/variants/s7/n3k31w6k7n3k12w2~x2/sett.png" alt="Believe - Colette" width="140"><br>Believe - Colette</a></li>
 <li><a class="tartan" href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><img src="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
+<li><a class="tartan" href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><img src="/variants/s8/k4o8m30k8o6k8o12w3~x2/sett.png" alt="Believe - Corinna" width="140"><br>Believe - Corinna</a></li>
 <li><a class="tartan" href="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/"><img src="/variants/s18/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4~x2/sett.png" alt="Belk Festive (Fashion)" width="140"><br>Belk Festive (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/"><img src="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/sett.png" alt="Belk Heritage (Fashion)" width="140"><br>Belk Heritage (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/"><img src="/variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/sett.png" alt="Belk Heritage Hunting (Fashion)" width="140"><br>Belk Heritage Hunting (Fashion)</a></li>
@@ -110,8 +110,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><img src="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/sett.png" alt="Bottle Green (Fashion)" width="140"><br>Bottle Green (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><img src="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/sett.png" alt="Bowhunter" width="140"><br>Bowhunter</a></li>
 <li><a class="tartan" href="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/"><img src="/variants/s12/dp3g10dp2db25dy3n4dy3dg10db3dp2n3dp1~x2~g1903114-dg1806142/sett.png" alt="Bowhunter (Fashion)" width="140"><br>Bowhunter (Fashion)</a></li>
-<li><a class="tartan" href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><img src="/variants/s7/k13dy28y13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty" width="140"><br>Boxer Beauty</a></li>
 <li><a class="tartan" href="/variants/s7/k13dy28lo13dy28k18w18k13~x2/"><img src="/variants/s7/k13dy28lo13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty" width="140"><br>Boxer Beauty</a></li>
+<li><a class="tartan" href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><img src="/variants/s7/k13dy28y13dy28k18w18k13~x2/sett.png" alt="Boxer Beauty" width="140"><br>Boxer Beauty</a></li>
 <li><a class="tartan" href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><img src="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/sett.png" alt="Bracken" width="140"><br>Bracken</a></li>
 <li><a class="tartan" href="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><img src="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/sett.png" alt="Bracken (WCWM)" width="140"><br>Bracken (WCWM)</a></li>
 <li><a class="tartan" href="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><img src="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/sett.png" alt="Brad Majors" width="140"><br>Brad Majors</a></li>

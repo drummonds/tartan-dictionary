@@ -29,4 +29,16 @@ One full sett is **352 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/52 Y4 DR26 DG4 DR6 K4 DR12 DG2 DR12 K4 DR6 DG4 DR60 K4 DG/4 tartan" width="880" height="480">
 
+## Nearest tartan variants
+
+The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">352</div><div class="nn-name nn-base"><a href="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/">Williams (Welsh Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2&amp;base=dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">696</div><div class="nn-name nn-far"><a href="/variants/s28/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/">Williams of Wales</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s28/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/"><circle cx="626.0" cy="95.5" r="4" fill="#3465a4"><title>Williams of Wales</title></circle></a><circle cx="626.0" cy="125.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+
 ID: /variants/s15/dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2~x2/

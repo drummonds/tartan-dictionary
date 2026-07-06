@@ -2,7 +2,7 @@
 title: "Tartans — M"
 date: 2023-03-18
 ---
-290 tartans beginning with M. [Back to the A–Z](/tartans/).
+291 tartans beginning with M. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/mtv/"><img src="/variants/s7/r5k3r9dg56db4dg2w3/sett.png" alt="MTV" width="140"><br><strong>MTV</strong></a></li>
@@ -126,6 +126,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/maclean-kenneth-baron-of-denboig/"><img src="/variants/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2~t2304245-db1204274/sett.png" alt="MacLean, Kenneth, baron of Denboig" width="140"><br><strong>MacLean, Kenneth, baron of Denboig</strong></a></li>
 <li><a class="tartan" href="/tartans/maclellan/"><img src="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/sett.png" alt="MacLellan" width="140"><br><strong>MacLellan</strong></a><div class="clan-territory">Clan MacLellan</div></li>
 <li><a class="tartan" href="/tartans/macleod/"><img src="/variants/s7/r3k2g15k10db20k2y2~x2/sett.png" alt="MacLeod" width="140"><br><strong>MacLeod</strong></a><div class="clan-territory">Clan MacLeod</div></li>
+<li><a class="tartan" href="/tartans/macleod-society-of-scotland/"><img src="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/sett.png" alt="MacLeod Society of Scotland" width="140"><br><strong>MacLeod Society of Scotland</strong></a></li>
 <li><a class="tartan" href="/tartans/macleod-of-argentina/"><img src="/variants/s5/t10w3t12ly14r4~x2/sett.png" alt="MacLeod of Argentina" width="140"><br><strong>MacLeod of Argentina</strong></a><div class="clan-territory">MacLeod, of Argentina</div></li>
 <li><a class="tartan" href="/tartans/macleod-of-assynt/"><img src="/variants/s6/r3k2g20k10t20y2~x2/sett.png" alt="MacLeod of Assynt" width="140"><br><strong>MacLeod of Assynt</strong></a><div class="clan-territory">MacLeod of Assynt</div></li>
 <li><a class="tartan" href="/tartans/macleod-of-lewis/"><img src="/variants/s5/k8y1k8y12r1~x4/sett.png" alt="MacLeod of Lewis" width="140"><br><strong>MacLeod of Lewis</strong></a><div class="clan-territory">MacLeod of Lewis</div></li>

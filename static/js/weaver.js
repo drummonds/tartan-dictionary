@@ -347,11 +347,21 @@
     }
 
     // ΔTartan distance from the baseline, and the nearest-tartans table + map, both need the index.
+    // distance() returns the blended metric with its parts ({total, jog, shade, l2, w, edits,
+    // notes}, #138): the visible line stays plain "ΔTartan N.NN"; the breakdown — including the
+    // shade-travel component, so a fade reads as "a little bit different" and says why — and the
+    // "baseline has no yarn…" notes live in the tooltip.
     var dtEl = document.getElementById('weaver-dt');
     if (dtEl && ed.base) {
       loadIndexOnce().then(function () {
         var dt = window.weaver.distance(ed.base, info.slug);
-        dtEl.textContent = (typeof dt === 'number') ? 'ΔTartan ' + dt.toFixed(2) : 'ΔTartan —';
+        if (!dt || dt.error || typeof dt.total !== 'number') { dtEl.textContent = 'ΔTartan —'; return; }
+        dtEl.textContent = 'ΔTartan ' + dt.total.toFixed(2);
+        dtEl.title = 'jog ' + dt.jog.toFixed(2) + ' (' + dt.edits + ' stripe edit' + (dt.edits === 1 ? '' : 's') +
+          (typeof dt.shade === 'number' && dt.shade >= 0.005 ? ', shade ' + dt.shade.toFixed(2) : '') +
+          ') · descriptor L2 ' + dt.l2.toFixed(2) + ' · gate ' + dt.w.toFixed(2) +
+          ' (1 = pure jog, 0 = pure descriptor)' +
+          (dt.notes && dt.notes.length ? '\n' + dt.notes.join('\n') : '');
       }).catch(function () { dtEl.textContent = 'ΔTartan —'; });
     }
     var nnEl = document.getElementById('weaver-nn');
@@ -534,9 +544,10 @@
       if (nn.error) throw new Error(nn.error);
       var pct = Math.round((loaded.explained[0] + loaded.explained[1]) * 100);
       // The table is built in Go by the shared nntable.Table — the SAME builder the static /setts/
-      // page uses — so the page and the TTD render one table from one piece of code (issue #54). It
-      // leads with this tartan so the swatches line up against it. The list is ΔTartan-capped
-      // (nn.ListDistCap), so a sett in a sparse region shows fewer than ten — or none, sitting alone.
+      // page uses — so the page and the TTD render one table from one piece of code (issue #54),
+      // ranked by the same blended ΔTartan (#138). It leads with this tartan so the swatches line
+      // up against it. The list is ΔTartan-capped (nn.JogDistCap), so a sett in a sparse region
+      // shows fewer than ten — or none, sitting alone.
       var listHtml = nn.hits.length
         ? '<p>The nearest existing variants by ΔTartan distance, with this tartan at the top so the ' +
           'swatches line up against it. A name opens that neighbour here in the TTD; <em>↗</em> steps ' +

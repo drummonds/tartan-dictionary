@@ -30,6 +30,7 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s6/db2r2db15r15db2r2~x2/">Hebrides #7</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db2r2db15r15db2r2~x2/"><img src="/variants/s6/db2r2db15r15db2r2~x2/sett.png" alt="Hebrides #7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s10/r15db4r1db1r1db1r1db1r1db1~x4/">Masai Shuka 23 (Artefact)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s10/r15db4r1db1r1db1r1db1r1db1~x4/"><img src="/variants/s10/r15db4r1db1r1db1r1db1r1db1~x4/sett.png" alt="Masai Shuka 23 (Artefact) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

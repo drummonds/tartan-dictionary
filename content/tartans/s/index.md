@@ -2,10 +2,11 @@
 title: "Tartans — S"
 date: 2023-03-18
 ---
-163 tartans beginning with S. [Back to the A–Z](/tartans/).
+166 tartans beginning with S. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/safeway/"><img src="/variants/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/sett.png" alt="Safeway" width="140"><br><strong>Safeway</strong></a></li>
+<li><a class="tartan" href="/tartans/salem-scottish-dancers/"><img src="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/sett.png" alt="Salem Scottish Dancers" width="140"><br><strong>Salem Scottish Dancers</strong></a></li>
 <li><a class="tartan" href="/tartans/salt-lake-county/"><img src="/variants/s7/k4dr40k1dr3k1w3k4~x2/sett.png" alt="Salt Lake County" width="140"><br><strong>Salt Lake County</strong></a></li>
 <li><a class="tartan" href="/tartans/salt-lake-county-2/"><img src="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/sett.png" alt="Salt Lake County" width="140"><br><strong>Salt Lake County</strong></a></li>
 <li><a class="tartan" href="/tartans/saltcoats/"><img src="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/sett.png" alt="Saltcoats" width="140"><br><strong>Saltcoats</strong></a></li>
@@ -146,12 +147,14 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/stewart-of-rothesay/"><img src="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/sett.png" alt="Stewart of Rothesay" width="140"><br><strong>Stewart of Rothesay</strong></a><div class="clan-territory">Stewart of Rothesay</div></li>
 <li><a class="tartan" href="/tartans/stewmann/"><img src="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/sett.png" alt="Stewmann" width="140"><br><strong>Stewmann</strong></a></li>
 <li><a class="tartan" href="/tartans/stinson/"><img src="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/sett.png" alt="Stinson" width="140"><br><strong>Stinson</strong></a></li>
+<li><a class="tartan" href="/tartans/stirling/"><img src="/variants/s16/r2lr2t20lr2k13lr2g20k2lb4k2g20lr2k13lr2t20lr2~x2~lr2800000-lb3203246/sett.png" alt="Stirling" width="140"><br><strong>Stirling</strong></a><div class="clan-territory">Clan Stirling</div></li>
 <li><a class="tartan" href="/tartans/stott/"><img src="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2~dg1704144/sett.png" alt="Stott" width="140"><br><strong>Stott</strong></a></li>
 <li><a class="tartan" href="/tartans/strange-of-balcaskie/"><img src="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/sett.png" alt="Strange of Balcaskie" width="140"><br><strong>Strange of Balcaskie</strong></a><div class="clan-territory">Strange of Balcaskie</div></li>
 <li><a class="tartan" href="/tartans/stratford-city-of/"><img src="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/sett.png" alt="Stratford , City of" width="140"><br><strong>Stratford , City of</strong></a></li>
 <li><a class="tartan" href="/tartans/strathclyde/"><img src="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/sett.png" alt="Strathclyde" width="140"><br><strong>Strathclyde</strong></a></li>
 <li><a class="tartan" href="/tartans/strathclyde-2/"><img src="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/sett.png" alt="Strathclyde" width="140"><br><strong>Strathclyde</strong></a></li>
 <li><a class="tartan" href="/tartans/strathdon/"><img src="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/sett.png" alt="Strathdon" width="140"><br><strong>Strathdon</strong></a></li>
+<li><a class="tartan" href="/tartans/strathisla/"><img src="/variants/s18/dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8~x2~dbi1406275-db1305255-dp1607327/sett.png" alt="Strathisla" width="140"><br><strong>Strathisla</strong></a></li>
 <li><a class="tartan" href="/tartans/strathmore/"><img src="/variants/s16/dgi3r15dg2r2dg2r2dg18ly2dg2ly2dg2ly27k2ly2k6lo2~x2~dgi1703114-lo3007057/sett.png" alt="Strathmore" width="140"><br><strong>Strathmore</strong></a></li>
 <li><a class="tartan" href="/tartans/strathyre-dress/"><img src="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/sett.png" alt="Strathyre Dress" width="140"><br><strong>Strathyre Dress</strong></a></li>
 <li><a class="tartan" href="/tartans/strathyre-dress-2/"><img src="/variants/s11/w36g6dr2g3w2g3dy6b4g2b2w2~x2/sett.png" alt="Strathyre Dress" width="140"><br><strong>Strathyre Dress</strong></a></li>

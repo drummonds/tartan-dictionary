@@ -2,7 +2,7 @@
 title: "Tartans — I"
 date: 2023-03-18
 ---
-21 tartans beginning with I. [Back to the A–Z](/tartans/).
+22 tartans beginning with I. [Back to the A–Z](/tartans/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/tartans/ikelman/"><img src="/variants/s5/dr11k4dr4lo4dr11~x4/sett.png" alt="Ikelman" width="140"><br><strong>Ikelman</strong></a></li>
@@ -22,6 +22,7 @@ date: 2023-03-18
 <li><a class="tartan" href="/tartans/invertere/"><img src="/variants/s8/ly5g14dy4db4dy27g3dy4ly5~x2~ly3307090-dy1603076/sett.png" alt="Invertere" width="140"><br><strong>Invertere</strong></a></li>
 <li><a class="tartan" href="/tartans/invertere-2/"><img src="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/sett.png" alt="Invertere" width="140"><br><strong>Invertere</strong></a></li>
 <li><a class="tartan" href="/tartans/iron-horse/"><img src="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/sett.png" alt="Iron Horse" width="140"><br><strong>Iron Horse</strong></a></li>
+<li><a class="tartan" href="/tartans/irvine-of-drum/"><img src="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/sett.png" alt="Irvine of Drum" width="140"><br><strong>Irvine of Drum</strong></a><div class="clan-territory">Irvine of Drum</div></li>
 <li><a class="tartan" href="/tartans/irving-of-bonshaw/"><img src="/variants/s5/dg27g14db2g2y2~x4~dg1806142-g2304202/sett.png" alt="Irving of Bonshaw" width="140"><br><strong>Irving of Bonshaw</strong></a><div class="clan-territory">Irving of Bonshaw</div></li>
 <li><a class="tartan" href="/tartans/irving-of-glentulchan/"><img src="/variants/s6/r1g9db9k1db1w1~x6/sett.png" alt="Irving of Glentulchan" width="140"><br><strong>Irving of Glentulchan</strong></a><div class="clan-territory">Irving of Glentulchan</div></li>
 <li><a class="tartan" href="/tartans/isle-of-skye/"><img src="/variants/s11/dy20dp2dy2dp2dy3dp8dg9dgi8g8dg1lb2~x2~dgi1806142-g1903114/sett.png" alt="Isle of Skye" width="140"><br><strong>Isle of Skye</strong></a></li>

@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s12/y1g6k1db1k1db1k6r12g1r1k1w1~x4/">Boyd</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s12/y1g6k1db1k1db1k6r12g1r1k1w1~x4/"><img src="/variants/s12/y1g6k1db1k1db1k6r12g1r1k1w1~x4/sett.png" alt="Boyd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/y5g22k2db2k2db2k10r38g5r4k4w5/">Boyd</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/y5g22k2db2k2db2k10r38g5r4k4w5/"><img src="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/sett.png" alt="Boyd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s12/y1g6k1db1k1db1k6r12g1r1k1w1~x4/">Boyd</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s12/y1g6k1db1k1db1k6r12g1r1k1w1~x4/"><img src="/variants/s12/y1g6k1db1k1db1k6r12g1r1k1w1~x4/sett.png" alt="Boyd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

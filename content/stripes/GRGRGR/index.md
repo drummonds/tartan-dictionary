@@ -39,10 +39,10 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s6/r2g2r16g15r2g2~x2/">Unidentified NW Highlands</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r2g2r16g15r2g2~x2/"><img src="/variants/s6/r2g2r16g15r2g2~x2/sett.png" alt="Unidentified NW Highlands sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s6/r1g3r1g3r8y1~x8/">Cameron</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r1g3r1g3r8y1~x8/"><img src="/variants/s6/r1g3r1g3r8y1~x8/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r2g6r2g6r16y1~x2/">Cameron</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r2g6r2g6r16y1~x2/"><img src="/variants/s6/r2g6r2g6r16y1~x2/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r1g3r1g3r8y1~x8/">Cameron</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r1g3r1g3r8y1~x8/"><img src="/variants/s6/r1g3r1g3r8y1~x8/sett.png" alt="Cameron sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r1g6r1g6r15y1~x2/">Cameron Clan D</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r1g6r1g6r15y1~x2/"><img src="/variants/s6/r1g6r1g6r15y1~x2/sett.png" alt="Cameron Clan D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r29g2r2g2r6y21~x4/">Maguire, Black</a></td></tr>

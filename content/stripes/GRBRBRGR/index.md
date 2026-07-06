@@ -30,7 +30,6 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/">Gow</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/"><img src="/variants/s5/r4dg4r1db4r4~x12~dg1605139/sett.png" alt="Gow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/">Gow (Portrait)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><img src="/variants/s5/r5dp5r1g5r5~x8~dp1607327/sett.png" alt="Gow (Portrait) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

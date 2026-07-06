@@ -43,11 +43,11 @@ One full sett is **350 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/4 K2 DR8 K4 DR4 K63 R5 DR64 K4 DR3 K4 DR8 K2 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">350</div><div class="nn-name nn-base"><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/">German Heritage</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3&amp;base=ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/">Old Aberdeen Diamond Jubilee</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-207px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">350</div><div class="nn-name nn-base"><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/">German Heritage</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3&amp;base=ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4" title="compare in the TTD">2.30</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/">Old Aberdeen Diamond Jubilee</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

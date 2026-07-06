@@ -43,11 +43,11 @@ One full sett is **292 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 R26 K16 N4 R2 K2 R42 N2 R2 K4 DB16 K26 DB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s13/k2r13k8n2r1k1r21n1r1k2db8k13db2~x2/">Alyssa's Theme</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k2r13k8n2r1k1r21n1r1k2db8k13db2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2k35db30k3r30k2r4k2r30k3w2&amp;base=k2r13k8n2r1k1r21n1r1k2db8k13db2~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">282</div><div class="nn-name nn-far"><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/">Gwyn Welsh Name Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-121px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s13/k2r13k8n2r1k1r21n1r1k2db8k13db2~x2/">Alyssa's Theme</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k2r13k8n2r1k1r21n1r1k2db8k13db2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2k35db30k3r30k2r4k2r30k3w2&amp;base=k2r13k8n2r1k1r21n1r1k2db8k13db2~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">282</div><div class="nn-name nn-far"><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/">Gwyn Welsh Name Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

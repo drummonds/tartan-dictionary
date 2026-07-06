@@ -23,11 +23,11 @@ One full sett is **278 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/8 DB38 O6 K40 Oi48 DB/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/">Edinburgh International Conference Centre</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o4k29dr30db29o4~x2&amp;base=o4db19o3k20oi24db3~x2~o2102055-oi2104058" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">368</div><div class="nn-name nn-far"><a href="/variants/s5/o4k29dr30db29o4~x2/">Glen Shee #3 (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s5/o4k29dr30db29o4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-270px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/">Edinburgh International Conference Centre</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o4k29dr30db29o4~x2&amp;base=o4db19o3k20oi24db3~x2~o2102055-oi2104058" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">368</div><div class="nn-name nn-far"><a href="/variants/s5/o4k29dr30db29o4~x2/">Glen Shee #3 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/o4k29dr30db29o4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

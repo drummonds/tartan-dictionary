@@ -30,11 +30,11 @@ One full sett is **396 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 LY6 K4 T80 W6 T20 G20 LY6 G42 K2 DR6 W/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">396</div><div class="nn-name nn-base"><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/">State Seal of Maryland (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3t38lb2k4dp4k4g30y1g1y2~x2&amp;base=k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">346</div><div class="nn-name nn-far"><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/">Pinewoods Jubilee</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-347px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">396</div><div class="nn-name nn-base"><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/">State Seal of Maryland (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3t38lb2k4dp4k4g30y1g1y2~x2&amp;base=k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">346</div><div class="nn-name nn-far"><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/">Pinewoods Jubilee</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

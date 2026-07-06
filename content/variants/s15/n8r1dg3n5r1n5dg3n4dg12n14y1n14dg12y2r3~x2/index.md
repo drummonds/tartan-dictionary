@@ -43,11 +43,11 @@ One full sett is **330 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/16 R2 DG6 N10 R2 N10 DG6 N8 DG24 N28 Y2 N28 DG24 Y4 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">330</div><div class="nn-name nn-base"><a href="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/">Howell of Wales</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2&amp;base=n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2" title="compare in the TTD">0.19</a></div><div class="nn-threads">352</div><div class="nn-name"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-335px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">330</div><div class="nn-name nn-base"><a href="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/">Howell of Wales</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2&amp;base=n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2" title="compare in the TTD">0.19</a></div><div class="nn-threads">352</div><div class="nn-name"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

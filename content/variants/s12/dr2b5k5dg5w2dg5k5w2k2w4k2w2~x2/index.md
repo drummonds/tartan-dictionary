@@ -38,11 +38,11 @@ One full sett is **156 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/4 B10 K10 DG10 W4 DG10 K10 W4 K4 W8 K4 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">156</div><div class="nn-name nn-base"><a href="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/">Davidson of Tulloch Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8k4w8k2w3k8dg8r2dg8k4~x2&amp;base=dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">196</div><div class="nn-name nn-far"><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/">Ferguson Dress variation</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-228px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">156</div><div class="nn-name nn-base"><a href="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/">Davidson of Tulloch Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8k4w8k2w3k8dg8r2dg8k4~x2&amp;base=dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">196</div><div class="nn-name nn-far"><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/">Ferguson Dress variation</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

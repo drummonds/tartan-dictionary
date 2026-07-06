@@ -30,11 +30,11 @@ One full sett is **562 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 DP12 DG24 K34 G42 W4 G42 W4 G42 K34 DG24 DP12 K4 W/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">562</div><div class="nn-name nn-base"><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/">Hibernian Football Club (2004)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp3dg6k9g11w1g11w1g11k9dg6dp3~x4&amp;base=k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">544</div><div class="nn-name nn-far"><a href="/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/">Hibernian F.C.</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-246px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">562</div><div class="nn-name nn-base"><a href="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/">Hibernian Football Club (2004)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp3dg6k9g11w1g11w1g11k9dg6dp3~x4&amp;base=k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1~x2~dg1605139" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">544</div><div class="nn-name nn-far"><a href="/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/">Hibernian F.C.</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

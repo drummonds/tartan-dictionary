@@ -29,11 +29,11 @@ One full sett is **272 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 R36 LO36 Y36 G24 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s6/g1r9lo9y9g6w1~x4/">Max Reger, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g1r9lo9y9g6w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8lo4y3g6lb6dp1~x5&amp;base=g1r9lo9y9g6w1~x4" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">235</div><div class="nn-name nn-far"><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/">Pride, The Tartan of</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s6/r8lo4y3g6lb6dp1~x5/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-41px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s6/g1r9lo9y9g6w1~x4/">Max Reger, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g1r9lo9y9g6w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8lo4y3g6lb6dp1~x5&amp;base=g1r9lo9y9g6w1~x4" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">235</div><div class="nn-name nn-far"><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/">Pride, The Tartan of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r8lo4y3g6lb6dp1~x5/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

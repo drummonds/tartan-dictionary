@@ -38,11 +38,11 @@ One full sett is **448 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/24 N16 DR24 N44 DB4 N12 DB12 N4 DB44 LY24 DB16 LY/24 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">448</div><div class="nn-name nn-base"><a href="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/">Lysaght</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4&amp;base=dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">448</div><div class="nn-name"><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/">Lysaght Dress</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-116px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">448</div><div class="nn-name nn-base"><a href="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/">Lysaght</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4&amp;base=dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">448</div><div class="nn-name"><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/">Lysaght Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

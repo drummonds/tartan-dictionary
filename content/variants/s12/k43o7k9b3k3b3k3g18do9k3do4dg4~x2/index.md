@@ -23,11 +23,11 @@ One full sett is **342 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/86 O14 K18 B6 K6 B6 K6 G36 DO18 K6 DO8 DG/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">342</div><div class="nn-name nn-base"><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/">Braveheart -Warrior (hunting)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k43b3k7dg3k2dg3k2g11r6k2r3w3~x2&amp;base=k43o7k9b3k3b3k3g18do9k3do4dg4~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/">Braveheart - ( Warrior)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-14px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">342</div><div class="nn-name nn-base"><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/">Braveheart -Warrior (hunting)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k43b3k7dg3k2dg3k2g11r6k2r3w3~x2&amp;base=k43o7k9b3k3b3k3g18do9k3do4dg4~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/">Braveheart - ( Warrior)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

@@ -29,11 +29,11 @@ One full sett is **488 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DTi/4 DT16 K44 DT4 K4 DT4 K4 DTi4 K44 N16 G4 N32 K32 DT32 N/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">488</div><div class="nn-name nn-base"><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/">ShadowHalls</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4&amp;base=dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249" title="compare in the TTD">1.33</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/">Shadow Halls</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-90px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">488</div><div class="nn-name nn-base"><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/">ShadowHalls</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4&amp;base=dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249" title="compare in the TTD">1.33</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/">Shadow Halls</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

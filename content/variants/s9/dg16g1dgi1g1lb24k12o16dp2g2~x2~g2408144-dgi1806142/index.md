@@ -30,11 +30,11 @@ One full sett is **264 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/32 G2 DGi2 G2 LB48 K24 O32 DP4 G/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s9/dg16g1dgi1g1lb24k12o16dp2g2~x2~g2408144-dgi1806142/">Thistle Stop LLC</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dg16g1dgi1g1lb24k12o16dp2g2~x2~g2408144-dgi1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142&amp;base=dg16g1dgi1g1lb24k12o16dp2g2~x2~g2408144-dgi1806142" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/">Thistle Stop LLC (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-208px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s9/dg16g1dgi1g1lb24k12o16dp2g2~x2~g2408144-dgi1806142/">Thistle Stop LLC</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dg16g1dgi1g1lb24k12o16dp2g2~x2~g2408144-dgi1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142&amp;base=dg16g1dgi1g1lb24k12o16dp2g2~x2~g2408144-dgi1806142" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/">Thistle Stop LLC (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/lg16g1dg1g1lb24k12o16dp2g2~x2~g2408144-dg1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

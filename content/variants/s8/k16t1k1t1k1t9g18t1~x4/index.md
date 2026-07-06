@@ -30,11 +30,11 @@ One full sett is **564 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/64 T4 K4 T4 K4 T36 G72 T4 G72 T36 K4 T4 K4 T/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">564</div><div class="nn-name nn-base"><a href="/variants/s8/k16t1k1t1k1t9g18t1~x4/">Kelvingrove</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k16t1k1t1k1t9g18t1~x4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2&amp;base=k16t1k1t1k1t9g18t1~x4" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">416</div><div class="nn-name nn-far"><a href="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/">Hebrides #9</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-122px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">564</div><div class="nn-name nn-base"><a href="/variants/s8/k16t1k1t1k1t9g18t1~x4/">Kelvingrove</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k16t1k1t1k1t9g18t1~x4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2&amp;base=k16t1k1t1k1t9g18t1~x4" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">416</div><div class="nn-name nn-far"><a href="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/">Hebrides #9</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

@@ -38,11 +38,11 @@ One full sett is **288 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 K9 Y9 R21 Y6 K6 W4 K6 Y6 R49 K22 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/">Normandy (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n28k3r22k8w3k8r22k3n28k3~x2&amp;base=w8k9y9r21y6k6w4k6y6r49k22w4" title="compare in the TTD">2.77</a></div><div class="nn-threads nn-far">450</div><div class="nn-name nn-far"><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/">Henkel</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-8px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/">Normandy (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n28k3r22k8w3k8r22k3n28k3~x2&amp;base=w8k9y9r21y6k6w4k6y6r49k22w4" title="compare in the TTD">2.77</a></div><div class="nn-threads nn-far">450</div><div class="nn-name nn-far"><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/">Henkel</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

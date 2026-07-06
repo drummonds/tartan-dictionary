@@ -30,11 +30,11 @@ One full sett is **278 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 DB6 W3 DB44 DG20 G8 DG2 G8 DG6 R3 DG2 R3 DG4 W25 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4/">Anstey (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085&amp;base=w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4" title="compare in the TTD">0.00</a></div><div class="nn-threads">278</div><div class="nn-name"><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085/">Anstey in New Scotland (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-338px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4/">Anstey (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085&amp;base=w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4" title="compare in the TTD">0.00</a></div><div class="nn-threads">278</div><div class="nn-name"><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085/">Anstey in New Scotland (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

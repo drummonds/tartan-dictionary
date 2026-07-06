@@ -31,11 +31,11 @@ One full sett is **944 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/69 T14 DP13 T14 DP13 T69 DB72 LB13 DB72 T69 DP68 T14 DP/13 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">944</div><div class="nn-name nn-base"><a href="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/">Poulter Sandwich</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7&amp;base=dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265" title="compare in the TTD">0.09</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s13/dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7/">Poulter Sandwich</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-226px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">944</div><div class="nn-name nn-base"><a href="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/">Poulter Sandwich</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7&amp;base=dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265" title="compare in the TTD">0.09</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s13/dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7/">Poulter Sandwich</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

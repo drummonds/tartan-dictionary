@@ -31,11 +31,11 @@ One full sett is **516 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 LB14 LY52 K52 W10 K52 LY52 LB14 K6 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">516</div><div class="nn-name nn-base"><a href="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/">Cornish National</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2k13ly13r2ly13k13w2k6ly6r1~x2&amp;base=k3lb7ly26k26w5k26ly26lb7k3r3~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/">Westwood MacStone (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-21px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">516</div><div class="nn-name nn-base"><a href="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/">Cornish National</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2k13ly13r2ly13k13w2k6ly6r1~x2&amp;base=k3lb7ly26k26w5k26ly26lb7k3r3~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/">Westwood MacStone (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

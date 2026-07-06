@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **0.36** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/db76w3r4w3g4w3dg8db20lt20db3lt8w10/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/">Summerwood (School)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db76w3r4w3g4w3dg8db20lt20db3lt8w10&amp;base=db76w3r4w3g4w3dg8db19lb20db3lb8w10" title="compare in the TTD">0.01</a></div><div class="nn-threads">238</div><div class="nn-name"><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/">Summerwood</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-352px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/">Summerwood (School)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db76w3r4w3g4w3dg8db20lt20db3lt8w10&amp;base=db76w3r4w3g4w3dg8db19lb20db3lb8w10" title="compare in the TTD">0.01</a></div><div class="nn-threads">238</div><div class="nn-name"><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/">Summerwood</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

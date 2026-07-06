@@ -29,11 +29,11 @@ One full sett is **278 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/8 K24 DB6 T8 DB6 K6 LY72 DB6 T4 LY/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/">Hughes (USA) (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r1k18w1ly18g1ly1w2~x4&amp;base=t4k12db3t4db3k3ly36db3t2ly3~x2" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">340</div><div class="nn-name nn-far"><a href="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/">Dunlop Hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/k3r1k18w1ly18g1ly1w2~x4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-103px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/">Hughes (USA) (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r1k18w1ly18g1ly1w2~x4&amp;base=t4k12db3t4db3k3ly36db3t2ly3~x2" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">340</div><div class="nn-name nn-far"><a href="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/">Dunlop Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

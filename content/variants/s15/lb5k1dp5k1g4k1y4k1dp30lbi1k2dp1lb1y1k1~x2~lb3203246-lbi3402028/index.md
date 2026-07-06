@@ -32,11 +32,11 @@ One full sett is **224 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 K2 DP10 K2 G8 K2 Y8 K2 DP60 LBi2 K4 DP2 LB2 Y2 K/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">224</div><div class="nn-name nn-base"><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/">House of Holland</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2&amp;base=lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028" title="compare in the TTD">0.00</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2/">House of Holland (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-172px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">224</div><div class="nn-name nn-base"><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/">House of Holland</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2&amp;base=lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028" title="compare in the TTD">0.00</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2/">House of Holland (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

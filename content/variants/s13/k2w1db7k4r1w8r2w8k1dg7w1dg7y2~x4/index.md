@@ -39,11 +39,11 @@ One full sett is **392 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 W4 DB28 K16 R4 W32 R8 W32 K4 DG28 W4 DG28 Y/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/">MacLellan/McLellan Dress (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2w1db7k4r1w8r2w8k1g7w1y2~x2&amp;base=k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4" title="compare in the TTD">1.35</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/">MacLellan, dress McLellan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-186px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/">MacLellan/McLellan Dress (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2w1db7k4r1w8r2w8k1g7w1y2~x2&amp;base=k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4" title="compare in the TTD">1.35</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/">MacLellan, dress McLellan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

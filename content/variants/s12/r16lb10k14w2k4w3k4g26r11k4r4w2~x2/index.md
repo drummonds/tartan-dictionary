@@ -45,11 +45,11 @@ One full sett is **676 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/32 LB20 K28 W4 K8 W6 K8 G52 R22 K8 R8 W4 R8 K8 R22 G52 K8 W6 K8 W4 K28 LB/20 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">676</div><div class="nn-name nn-base"><a href="/variants/s12/r16lb10k14w2k4w3k4g26r11k4r4w2~x2/">Stewart/Stuart - Prince Charles Edward</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r16lb10k14w2k4w3k4g26r11k4r4w2~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r32lb10k16y2k3w3k3g23r13k3r3w2~x2&amp;base=r16lb10k14w2k4w3k4g26r11k4r4w2~x2" title="compare in the TTD">0.87</a></div><div class="nn-threads">384</div><div class="nn-name"><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/">Wilson's No.073</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:672px;height:26px;background-image:url(/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/sett.png);background-size:672px 26px;background-repeat:repeat-x;background-position-x:-39px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">676</div><div class="nn-name nn-base"><a href="/variants/s12/r16lb10k14w2k4w3k4g26r11k4r4w2~x2/">Stewart/Stuart - Prince Charles Edward</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r16lb10k14w2k4w3k4g26r11k4r4w2~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r32lb10k16y2k3w3k3g23r13k3r3w2~x2&amp;base=r16lb10k14w2k4w3k4g26r11k4r4w2~x2" title="compare in the TTD">0.87</a></div><div class="nn-threads">384</div><div class="nn-name"><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/">Wilson's No.073</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/sett.png" alt="sett" loading="lazy" style="width:672px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

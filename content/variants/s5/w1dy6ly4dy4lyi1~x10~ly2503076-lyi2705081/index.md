@@ -29,11 +29,11 @@ One full sett is **300 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LYi/10 DY40 LY40 DY60 W/10 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/">Amber Rose (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy12ly6dy2y1~x4&amp;base=w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081" title="compare in the TTD">1.24</a></div><div class="nn-threads">116</div><div class="nn-name"><a href="/variants/s4/dy12ly6dy2y1~x4/">Loch Garth Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s4/dy12ly6dy2y1~x4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-126px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/">Amber Rose (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy12ly6dy2y1~x4&amp;base=w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081" title="compare in the TTD">1.24</a></div><div class="nn-threads">116</div><div class="nn-name"><a href="/variants/s4/dy12ly6dy2y1~x4/">Loch Garth Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dy12ly6dy2y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

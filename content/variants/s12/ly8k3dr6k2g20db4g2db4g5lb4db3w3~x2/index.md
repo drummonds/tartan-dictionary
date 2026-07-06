@@ -29,11 +29,11 @@ One full sett is **234 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/16 K6 DR12 K4 G40 DB8 G4 DB8 G10 LB8 DB6 W/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">234</div><div class="nn-name nn-base"><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County Crest (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2&amp;base=ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">234</div><div class="nn-name"><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County, Crest Range</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-202px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">234</div><div class="nn-name nn-base"><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County Crest (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2&amp;base=ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">234</div><div class="nn-name"><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/">Down County, Crest Range</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

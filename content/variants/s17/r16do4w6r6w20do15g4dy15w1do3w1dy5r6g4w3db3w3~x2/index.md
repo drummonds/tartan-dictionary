@@ -42,11 +42,11 @@ One full sett is **422 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/32 DO8 W12 R12 W40 DO30 G8 DY30 W2 DO6 W2 DY10 R12 G8 W6 DB6 W/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">422</div><div class="nn-name nn-base"><a href="/variants/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/">Jacobite Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2&amp;base=r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">422</div><div class="nn-name nn-far"><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/">Jacobite, dress</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:512px;height:26px;background-image:url(/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/sett.png);background-size:512px 26px;background-repeat:repeat-x;background-position-x:-347px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">422</div><div class="nn-name nn-base"><a href="/variants/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/">Jacobite Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2&amp;base=r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">422</div><div class="nn-name nn-far"><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/">Jacobite, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div></div>
 
 ## Neighbour map
 

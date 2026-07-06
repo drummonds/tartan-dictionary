@@ -31,11 +31,11 @@ One full sett is **264 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 DB24 K16 LB20 Y2 LB20 K8 R2 K8 DB24 K4 G/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2g2~x2/">Auchinachie</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2g2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2&amp;base=k2db12k8lb10y1lb10k4r1k4db12k2g2~x2" title="compare in the TTD">1.00</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/">Auchinachie (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-315px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2g2~x2/">Auchinachie</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2g2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2&amp;base=k2db12k8lb10y1lb10k4r1k4db12k2g2~x2" title="compare in the TTD">1.00</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/">Auchinachie (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k2db12k8lb10y1lb10k4r1k4db12k2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

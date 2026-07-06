@@ -30,11 +30,11 @@ One full sett is **170 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/4 DB2 T10 DB12 G4 DB4 G20 DB4 G4 DB12 T10 DB/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">170</div><div class="nn-name nn-base"><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/">Norwich No.017</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2&amp;base=g10db2g2db6t5db1t2~x2~db1406275-t2503227" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">208</div><div class="nn-name nn-far"><a href="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/">Sutherland #3</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-238px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">170</div><div class="nn-name nn-base"><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/">Norwich No.017</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2&amp;base=g10db2g2db6t5db1t2~x2~db1406275-t2503227" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">208</div><div class="nn-name nn-far"><a href="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/">Sutherland #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

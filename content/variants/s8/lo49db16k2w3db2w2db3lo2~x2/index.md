@@ -44,11 +44,11 @@ One full sett is **214 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LO/98 DB32 K4 W6 DB4 W4 DB6 LO/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">214</div><div class="nn-name nn-base"><a href="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/">Irn Bru</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o24lb2o7lb3k2n4k2lb1o4lb1~x2&amp;base=lo49db16k2w3db2w2db3lo2~x2" title="compare in the TTD">2.53</a></div><div class="nn-threads nn-far">150</div><div class="nn-name nn-far"><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/">Vemma (Corporate) XXXXXXXXX</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-298px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">214</div><div class="nn-name nn-base"><a href="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/">Irn Bru</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o24lb2o7lb3k2n4k2lb1o4lb1~x2&amp;base=lo49db16k2w3db2w2db3lo2~x2" title="compare in the TTD">2.53</a></div><div class="nn-threads nn-far">150</div><div class="nn-name nn-far"><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/">Vemma (Corporate) XXXXXXXXX</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

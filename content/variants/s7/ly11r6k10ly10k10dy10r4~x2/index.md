@@ -31,11 +31,11 @@ One full sett is **214 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/22 R12 K20 LY20 K20 DY20 R/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">214</div><div class="nn-name nn-base"><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/">Duffus Hose, Lord</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/ly11r6k10ly10k10dy10r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y15r7k12y12k12dy12r7~x2&amp;base=ly11r6k10ly10k10dy10r4~x2" title="compare in the TTD">0.37</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/">Duffus Lord... Portrait Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s7/y15r7k12y12k12dy12r7~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-2px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">214</div><div class="nn-name nn-base"><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/">Duffus Hose, Lord</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/ly11r6k10ly10k10dy10r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y15r7k12y12k12dy12r7~x2&amp;base=ly11r6k10ly10k10dy10r4~x2" title="compare in the TTD">0.37</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/">Duffus Lord... Portrait Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y15r7k12y12k12dy12r7~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

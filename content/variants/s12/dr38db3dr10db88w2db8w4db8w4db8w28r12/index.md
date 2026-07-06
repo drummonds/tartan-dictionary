@@ -30,11 +30,11 @@ One full sett is **376 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/38 DB3 DR10 DB88 W2 DB8 W4 DB8 W4 DB8 W28 R/12 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">376</div><div class="nn-name nn-base"><a href="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/">St George</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w24db50k2db8k4db2k4db8k2r40w5db10&amp;base=dr38db3dr10db88w2db8w4db8w4db8w28r12" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s12/w24db50k2db8k4db2k4db8k2r40w5db10/">Norwegian Centennial</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/w24db50k2db8k4db2k4db8k2r40w5db10/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-324px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">376</div><div class="nn-name nn-base"><a href="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/">St George</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w24db50k2db8k4db2k4db8k2r40w5db10&amp;base=dr38db3dr10db88w2db8w4db8w4db8w28r12" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s12/w24db50k2db8k4db2k4db8k2r40w5db10/">Norwegian Centennial</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w24db50k2db8k4db2k4db8k2r40w5db10/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

@@ -29,11 +29,11 @@ One full sett is **358 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/46 R6 G6 R2 G8 R2 G6 R2 G6 DY36 R2 DB47 R6 DB24 Y/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">358</div><div class="nn-name nn-base"><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/">Cochrane Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g8r3g3r5g26dy7lb3db28r3db6~x2&amp;base=g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">340</div><div class="nn-name nn-far"><a href="/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/">Stewart of Appin Hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-105px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">358</div><div class="nn-name nn-base"><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/">Cochrane Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g8r3g3r5g26dy7lb3db28r3db6~x2&amp;base=g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">340</div><div class="nn-name nn-far"><a href="/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/">Stewart of Appin Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

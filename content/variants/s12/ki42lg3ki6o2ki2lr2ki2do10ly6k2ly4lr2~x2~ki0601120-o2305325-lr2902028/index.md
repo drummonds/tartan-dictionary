@@ -31,11 +31,11 @@ One full sett is **244 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ki/84 LG6 Ki12 O4 Ki4 LR4 Ki4 DO20 LY12 K4 LY8 LR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/">Wcwm 849-3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2&amp;base=ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">230</div><div class="nn-name nn-far"><a href="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/">GRM (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-351px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/">Wcwm 849-3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2&amp;base=ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">230</div><div class="nn-name nn-far"><a href="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/">GRM (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

@@ -27,11 +27,11 @@ One full sett is **328 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/22 DG12 G12 W2 DG4 W2 G12 DG12 G72 K2 LO6 K2 G10 DG/10 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">328</div><div class="nn-name nn-base"><a href="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/">Wexford Irish County Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2&amp;base=g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2" title="compare in the TTD">1.36</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/">Wexford, County</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-155px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">328</div><div class="nn-name nn-base"><a href="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/">Wexford Irish County Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2&amp;base=g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2" title="compare in the TTD">1.36</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/">Wexford, County</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

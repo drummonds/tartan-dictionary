@@ -38,11 +38,11 @@ One full sett is **264 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/46 DY10 DB26 G10 DB10 W6 DB10 G10 DY18 G/18 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/">MacScott Family (America) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g21db4w4db32g12y4g8r4g6db12&amp;base=g23dy5db13g5db5w3db5g5dy9g9~x2" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">181</div><div class="nn-name nn-far"><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/">Harkness Hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/g21db4w4db32g12y4g8r4g6db12/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-311px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/">MacScott Family (America) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g21db4w4db32g12y4g8r4g6db12&amp;base=g23dy5db13g5db5w3db5g5dy9g9~x2" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">181</div><div class="nn-name nn-far"><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/">Harkness Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g21db4w4db32g12y4g8r4g6db12/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

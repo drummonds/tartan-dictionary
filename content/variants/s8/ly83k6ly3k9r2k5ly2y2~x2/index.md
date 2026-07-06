@@ -39,11 +39,11 @@ One full sett is **278 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/166 K12 LY6 K18 R4 K10 LY4 Y/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s8/ly83k6ly3k9r2k5ly2y2~x2/">Crane of Cluny Hunting (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/ly83k6ly3k9r2k5ly2y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y5k9y2k7ly35r4ly35k4~x2&amp;base=ly83k6ly3k9r2k5ly2y2~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">386</div><div class="nn-name nn-far"><a href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/">Wilbers</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-157px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s8/ly83k6ly3k9r2k5ly2y2~x2/">Crane of Cluny Hunting (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/ly83k6ly3k9r2k5ly2y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y5k9y2k7ly35r4ly35k4~x2&amp;base=ly83k6ly3k9r2k5ly2y2~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">386</div><div class="nn-name nn-far"><a href="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/">Wilbers</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y5k9y2k7ly35r4ly35k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

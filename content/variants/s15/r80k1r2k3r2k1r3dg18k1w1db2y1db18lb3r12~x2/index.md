@@ -39,11 +39,11 @@ One full sett is **408 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/160 K2 R4 K6 R4 K2 R6 DG36 K2 W2 DB4 Y2 DB36 LB6 R/24 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">408</div><div class="nn-name nn-base"><a href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/">MacRae of Ardentoul</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2&amp;base=r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2" title="compare in the TTD">1.97</a></div><div class="nn-threads">424</div><div class="nn-name"><a href="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/">MacRae, of Ardentoul</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-73px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">408</div><div class="nn-name nn-base"><a href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/">MacRae of Ardentoul</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2&amp;base=r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2" title="compare in the TTD">1.97</a></div><div class="nn-threads">424</div><div class="nn-name"><a href="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/">MacRae, of Ardentoul</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

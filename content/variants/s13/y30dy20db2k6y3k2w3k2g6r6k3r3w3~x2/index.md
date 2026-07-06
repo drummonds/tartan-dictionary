@@ -31,11 +31,11 @@ One full sett is **290 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/60 DY40 DB4 K12 Y6 K4 W6 K4 G12 R12 K6 R6 W/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">290</div><div class="nn-name nn-base"><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/">Cree</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019&amp;base=y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/">Bruce of Kinnaird</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-51px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">290</div><div class="nn-name nn-base"><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/">Cree</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019&amp;base=y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/">Bruce of Kinnaird</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

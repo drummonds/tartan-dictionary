@@ -23,11 +23,11 @@ One full sett is **296 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/18 LB6 DO8 Y6 DO6 Y8 DO6 O22 G60 B6 G8 DO/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/">Harmony, 2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245&amp;base=do9lb3do4y3do3y4do3o11g30b3g4do3~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s12/do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245/">Harmony 2</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-112px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/">Harmony, 2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245&amp;base=do9lb3do4y3do3y4do3o11g30b3g4do3~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s12/do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245/">Harmony 2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

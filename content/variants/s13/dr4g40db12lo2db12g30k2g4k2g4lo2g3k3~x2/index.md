@@ -39,11 +39,11 @@ One full sett is **466 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 G80 DB24 LO4 DB24 G60 K4 G8 K4 G8 LO4 G6 K/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">466</div><div class="nn-name nn-base"><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/">Bartlett from Winnetka, Illinois</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3g3y2g4k2g3k2g24db10y2db10g30r3~x2&amp;base=dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2" title="compare in the TTD">0.88</a></div><div class="nn-threads">380</div><div class="nn-name"><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/">Bartlett from Winnetka, Illinois</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-116px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">466</div><div class="nn-name nn-base"><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/">Bartlett from Winnetka, Illinois</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3g3y2g4k2g3k2g24db10y2db10g30r3~x2&amp;base=dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2" title="compare in the TTD">0.88</a></div><div class="nn-threads">380</div><div class="nn-name"><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/">Bartlett from Winnetka, Illinois</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

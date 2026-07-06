@@ -27,11 +27,11 @@ One full sett is **196 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/4 K2 G12 DY22 LY52 R4 LY2 Y/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">196</div><div class="nn-name nn-base"><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/">Saskatchewan District Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032&amp;base=y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/">Australian Donkey (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-6px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">196</div><div class="nn-name nn-base"><a href="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/">Saskatchewan District Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032&amp;base=y2ly1r2ly26dy11g6k1w2~x2~ly3307090-dy1603076" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/">Australian Donkey (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

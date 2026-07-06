@@ -29,11 +29,11 @@ One full sett is **388 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/40 DY4 R4 DY4 R4 DY30 G26 DY4 W4 DY4 G26 DY30 R28 DY4 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">388</div><div class="nn-name nn-base"><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/">Mauthe Unidentified (Name?)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2&amp;base=r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">440</div><div class="nn-name nn-far"><a href="/variants/s17/r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/">Mauthe Unidentified</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s17/r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-400px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">388</div><div class="nn-name nn-base"><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/">Mauthe Unidentified (Name?)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2&amp;base=r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2" title="compare in the TTD">2.00</a></div><div class="nn-threads nn-far">440</div><div class="nn-name nn-far"><a href="/variants/s17/r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/">Mauthe Unidentified</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

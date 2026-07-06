@@ -31,11 +31,11 @@ One full sett is **152 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 DB4 Y4 DB4 Y6 DBi32 G8 K6 G6 DB/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s10/k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275/">St Andrews, University of</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4dg17k10db3k3db17dr3db3~x2&amp;base=k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/">Royal Highland</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-118px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s10/k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275/">St Andrews, University of</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4dg17k10db3k3db17dr3db3~x2&amp;base=k3db2y2db2y3dbi16g4k3g3db3~x2~db1204274-dbi1406275" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/">Royal Highland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lb4dg17k10db3k3db17dr3db3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

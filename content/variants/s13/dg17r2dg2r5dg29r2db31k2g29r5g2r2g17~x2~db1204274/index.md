@@ -32,11 +32,11 @@ One full sett is **512 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/34 R4 DG4 R10 DG58 R4 DB62 K4 G58 R10 G4 R4 G/34 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">512</div><div class="nn-name nn-base"><a href="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/">Barbecue Presbyterian Church</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2&amp;base=dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274" title="compare in the TTD">0.30</a></div><div class="nn-threads">512</div><div class="nn-name"><a href="/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/">Barbecue Presbyterian Church (Corp)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-192px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">512</div><div class="nn-name nn-base"><a href="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/">Barbecue Presbyterian Church</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2&amp;base=dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274" title="compare in the TTD">0.30</a></div><div class="nn-threads">512</div><div class="nn-name"><a href="/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/">Barbecue Presbyterian Church (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

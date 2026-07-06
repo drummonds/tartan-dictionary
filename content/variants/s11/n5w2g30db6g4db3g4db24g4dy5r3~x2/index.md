@@ -29,11 +29,11 @@ One full sett is **344 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/10 W4 G60 DB12 G8 DB6 G8 DB48 G8 DY10 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">344</div><div class="nn-name nn-base"><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/">Wells (1970) (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy5w3dy30db6g3db3g3db3g15r3~x2&amp;base=n5w2g30db6g4db3g4db24g4dy5r3~x2" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/">Chisholm Hunting #2</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-93px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">344</div><div class="nn-name nn-base"><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/">Wells (1970) (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy5w3dy30db6g3db3g3db3g15r3~x2&amp;base=n5w2g30db6g4db3g4db24g4dy5r3~x2" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/">Chisholm Hunting #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

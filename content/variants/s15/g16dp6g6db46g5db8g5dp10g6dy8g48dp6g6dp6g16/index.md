@@ -31,11 +31,11 @@ One full sett is **364 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/16 DP6 G6 DB46 G5 DB8 G5 DP10 G6 DY8 G48 DP6 G6 DP6 G/16 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">364</div><div class="nn-name nn-base"><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/">Aberlour Bicentenary</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16&amp;base=g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16" title="compare in the TTD">0.00</a></div><div class="nn-threads">364</div><div class="nn-name"><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/">Aberlour Bicentenary (Commemorative)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-123px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">364</div><div class="nn-name nn-base"><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/">Aberlour Bicentenary</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16&amp;base=g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16" title="compare in the TTD">0.00</a></div><div class="nn-threads">364</div><div class="nn-name"><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/">Aberlour Bicentenary (Commemorative)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

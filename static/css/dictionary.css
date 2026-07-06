@@ -749,6 +749,21 @@ details.attestations ul {
   }
 }
 
+/* One swatch treatment across the editor (#136): the TTD's own cloth images — the woven sample and
+   its sett strip — read exactly like the nearest-variants rows' strips (square, thin #ddd border,
+   flush left), not the rounded, centred picture styling `.post-text img` gives ordinary post
+   images. The same override keeps the nn strips themselves square inside .post-text, where the
+   generic img rule otherwise outweighs .nn-swatch. */
+.post-text img#weaver-tartan,
+.post-text img#weaver-sett,
+.post-text img.nn-swatch {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 /* /stripes/<seq>/ — a divider row between clusters of near-identical tartans (issue #11), so the
    genuinely distinct designs read as separate groups down the list. */
 .sett-table tr.cluster-sep td {

@@ -30,11 +30,11 @@ One full sett is **422 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/10 DB40 G40 DB4 G4 DB4 G50 R4 G4 R34 K16 G4 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">422</div><div class="nn-name nn-base"><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/">Boyle, Cameron (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2&amp;base=g5db20g20db2g2db2g25r2g2r17k8g2w2~x2" title="compare in the TTD">0.59</a></div><div class="nn-threads">350</div><div class="nn-name"><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/">Cameron Boyle, The (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-180px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">422</div><div class="nn-name nn-base"><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/">Boyle, Cameron (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2&amp;base=g5db20g20db2g2db2g25r2g2r17k8g2w2~x2" title="compare in the TTD">0.59</a></div><div class="nn-threads">350</div><div class="nn-name"><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/">Cameron Boyle, The (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

@@ -39,11 +39,11 @@ One full sett is **590 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/14 W4 K42 R4 K68 W10 K6 W4 K14 W4 K6 W10 K68 R4 K42 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">590</div><div class="nn-name nn-base"><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/">St. Mirren Football Club</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k80w1k6w2k5w3k4w4k3w5k2w6k1~x2&amp;base=k7w2k21r2k34w5k3w2k7~x2" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">326</div><div class="nn-name nn-far"><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/">Heolnezva ha Materi (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:480px;height:26px;background-image:url(/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/sett.png);background-size:480px 26px;background-repeat:repeat-x;background-position-x:-38px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">590</div><div class="nn-name nn-base"><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/">St. Mirren Football Club</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k80w1k6w2k5w3k4w4k3w5k2w6k1~x2&amp;base=k7w2k21r2k34w5k3w2k7~x2" title="compare in the TTD">2.19</a></div><div class="nn-threads nn-far">326</div><div class="nn-name nn-far"><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/">Heolnezva ha Materi (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

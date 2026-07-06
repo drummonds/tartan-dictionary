@@ -31,11 +31,11 @@ One full sett is **262 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/6 Y2 G24 DB4 G8 DB6 G6 DB8 G3 DB10 N14 DB4 R3 DB34 LB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">262</div><div class="nn-name nn-base"><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/">Matchpoint Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4&amp;base=db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4" title="compare in the TTD">0.00</a></div><div class="nn-threads">262</div><div class="nn-name"><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/">Matchpoint Hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-65px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">262</div><div class="nn-name nn-base"><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/">Matchpoint Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4&amp;base=db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4" title="compare in the TTD">0.00</a></div><div class="nn-threads">262</div><div class="nn-name"><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/">Matchpoint Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

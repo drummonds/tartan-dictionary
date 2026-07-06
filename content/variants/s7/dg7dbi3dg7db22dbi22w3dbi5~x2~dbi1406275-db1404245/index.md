@@ -39,11 +39,11 @@ One full sett is **252 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/14 DBi6 DG14 DB44 DBi44 W6 DBi/10 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/">United Colours of Scotland (Corporat</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15b2w2b11n28b4~x2~g2003152-n2002277&amp;base=dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245" title="compare in the TTD">1.84</a></div><div class="nn-threads">210</div><div class="nn-name"><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/">Rhode Island, The State of</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-63px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/">United Colours of Scotland (Corporat</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g15b2w2b11n28b4~x2~g2003152-n2002277&amp;base=dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245" title="compare in the TTD">1.84</a></div><div class="nn-threads">210</div><div class="nn-name"><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/">Rhode Island, The State of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

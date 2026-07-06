@@ -29,11 +29,11 @@ One full sett is **288 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/16 K6 LB30 K2 W6 K2 LB16 K2 W6 K2 R38 K4 Y4 K4 G4 K4 R4 K/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/">Canadian Dental Association</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2&amp;base=r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/">Canadian Dental Association (Corp.)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:544px;height:26px;background-image:url(/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/sett.png);background-size:544px 26px;background-repeat:repeat-x;background-position-x:-170px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/">Canadian Dental Association</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2&amp;base=r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/">Canadian Dental Association (Corp.)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/sett.png" alt="sett" loading="lazy" style="width:544px"></div></div>
 
 ## Neighbour map
 

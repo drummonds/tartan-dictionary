@@ -30,11 +30,11 @@ One full sett is **252 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 DR4 LB14 N60 LB16 N14 R10 K2 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/">Hebridean Fire</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1y1k1y1k1y1n46lb17n4lb16r1~x2&amp;base=lb4dr2lb7n30lb8n7r5k1w2~x2" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">356</div><div class="nn-name nn-far"><a href="/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/">Saunders (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-299px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/">Hebridean Fire</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1y1k1y1k1y1n46lb17n4lb16r1~x2&amp;base=lb4dr2lb7n30lb8n7r5k1w2~x2" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">356</div><div class="nn-name nn-far"><a href="/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/">Saunders (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

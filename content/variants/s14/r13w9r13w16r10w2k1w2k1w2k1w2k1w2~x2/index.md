@@ -38,11 +38,11 @@ One full sett is **270 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/26 W18 R26 W32 R20 W4 K2 W4 K2 W4 K2 W4 K2 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">270</div><div class="nn-name nn-base"><a href="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/">d'Andeville, Xavier (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2&amp;base=r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">778</div><div class="nn-name nn-far"><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/">Duke of Rothesay (Royal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-254px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">270</div><div class="nn-name nn-base"><a href="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/">d'Andeville, Xavier (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2&amp;base=r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">778</div><div class="nn-name nn-far"><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/">Duke of Rothesay (Royal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

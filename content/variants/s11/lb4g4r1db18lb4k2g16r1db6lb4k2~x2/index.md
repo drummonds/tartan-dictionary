@@ -23,11 +23,11 @@ One full sett is **236 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 G8 R2 DB36 LB8 K4 G32 R2 DB12 LB8 K/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/">Coopers &amp; Lybrand</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb4g4r1db24lb4k2g24r1db10lb4db2~x2&amp;base=lb4g4r1db18lb4k2g16r1db6lb4k2~x2" title="compare in the TTD">1.31</a></div><div class="nn-threads">308</div><div class="nn-name"><a href="/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/">Coopers &amp; Lybrand</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-315px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/">Coopers &amp; Lybrand</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb4g4r1db24lb4k2g24r1db10lb4db2~x2&amp;base=lb4g4r1db18lb4k2g16r1db6lb4k2~x2" title="compare in the TTD">1.31</a></div><div class="nn-threads">308</div><div class="nn-name"><a href="/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/">Coopers &amp; Lybrand</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

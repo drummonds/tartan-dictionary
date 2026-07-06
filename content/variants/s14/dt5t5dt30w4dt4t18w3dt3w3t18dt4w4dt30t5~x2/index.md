@@ -39,11 +39,11 @@ One full sett is **524 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/10 DT60 W8 DT8 T36 W6 DT6 W6 T36 DT8 W8 DT60 T10 DT/10 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">524</div><div class="nn-name nn-base"><a href="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/">Salem Scottish Dancers (Dance) #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2&amp;base=dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">310</div><div class="nn-name nn-far"><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/">Scottish Scouts (1922) (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-317px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">524</div><div class="nn-name nn-base"><a href="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/">Salem Scottish Dancers (Dance) #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2&amp;base=dt5t5dt30w4dt4t18w3dt3w3t18dt4w4dt30t5~x2" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">310</div><div class="nn-name nn-far"><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/">Scottish Scouts (1922) (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

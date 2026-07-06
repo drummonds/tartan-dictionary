@@ -38,11 +38,11 @@ One full sett is **276 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LP/66 DR14 DB18 DP14 G24 R6 K/58 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">276</div><div class="nn-name nn-base"><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/">Hatcher (Texas) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lp33dr7db9dp7g12r3k29~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg22w3k2y3k19r18b4~x2&amp;base=lp33dr7db9dp7g12r3k29~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/">Scotch House 2000, dress</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s7/dg22w3k2y3k19r18b4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-251px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">276</div><div class="nn-name nn-base"><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/">Hatcher (Texas) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/lp33dr7db9dp7g12r3k29~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg22w3k2y3k19r18b4~x2&amp;base=lp33dr7db9dp7g12r3k29~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/">Scotch House 2000, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg22w3k2y3k19r18b4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

@@ -40,7 +40,7 @@ Its **ΔTartan distance** from the master is **0.46** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/w4r1w2r3w24dr5r3dr1r1dr1r20w2/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 

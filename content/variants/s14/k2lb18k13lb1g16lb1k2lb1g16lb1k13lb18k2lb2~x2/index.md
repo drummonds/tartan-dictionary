@@ -31,11 +31,11 @@ One full sett is **416 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 LB36 K26 LB2 G32 LB2 K4 LB2 G32 LB2 K26 LB36 K4 LB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">416</div><div class="nn-name nn-base"><a href="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/">Hebrides #9</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k16t1k1t1k1t9g18t1~x4&amp;base=k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2" title="compare in the TTD">2.66</a></div><div class="nn-threads nn-far">316</div><div class="nn-name nn-far"><a href="/variants/s8/k16t1k1t1k1t9g18t1~x4/">Kelvingrove</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s8/k16t1k1t1k1t9g18t1~x4/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-94px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">416</div><div class="nn-name nn-base"><a href="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/">Hebrides #9</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k16t1k1t1k1t9g18t1~x4&amp;base=k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2" title="compare in the TTD">2.66</a></div><div class="nn-threads nn-far">316</div><div class="nn-name nn-far"><a href="/variants/s8/k16t1k1t1k1t9g18t1~x4/">Kelvingrove</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k16t1k1t1k1t9g18t1~x4/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

@@ -32,11 +32,11 @@ One full sett is **360 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/8 W4 LB30 R12 LB50 W4 K8 W4 LB30 W8 K4 W8 K4 W8 K/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">360</div><div class="nn-name nn-base"><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/">Beck (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2&amp;base=k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2" title="compare in the TTD">1.08</a></div><div class="nn-threads">426</div><div class="nn-name"><a href="/variants/s17/k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2/">Beck (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s17/k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-18px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">360</div><div class="nn-name nn-base"><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/">Beck (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2&amp;base=k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2" title="compare in the TTD">1.08</a></div><div class="nn-threads">426</div><div class="nn-name"><a href="/variants/s17/k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2/">Beck (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

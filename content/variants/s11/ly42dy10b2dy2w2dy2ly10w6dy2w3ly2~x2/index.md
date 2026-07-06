@@ -38,11 +38,11 @@ One full sett is **244 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/84 DY20 B4 DY4 W4 DY4 LY20 W12 DY4 W6 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s11/ly42dy10b2dy2w2dy2ly10w6dy2w3ly2~x2/">Elvan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/ly42dy10b2dy2w2dy2ly10w6dy2w3ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4ly27dy9w2t2dy2t4~x3&amp;base=ly42dy10b2dy2w2dy2ly10w6dy2w3ly2~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s7/r4ly27dy9w2t2dy2t4~x3/">Unidentified #25</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s7/r4ly27dy9w2t2dy2t4~x3/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-6px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s11/ly42dy10b2dy2w2dy2ly10w6dy2w3ly2~x2/">Elvan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/ly42dy10b2dy2w2dy2ly10w6dy2w3ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4ly27dy9w2t2dy2t4~x3&amp;base=ly42dy10b2dy2w2dy2ly10w6dy2w3ly2~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s7/r4ly27dy9w2t2dy2t4~x3/">Unidentified #25</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4ly27dy9w2t2dy2t4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

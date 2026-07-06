@@ -38,11 +38,11 @@ One full sett is **258 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/6 G6 DB6 G28 DB6 G6 DB6 LB10 DB36 Y4 DB16 Y/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">258</div><div class="nn-name nn-base"><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/">California Burns (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1db8g2db2g6db1g6db2g2db8w1~x4&amp;base=dr3g3db3g14db3g3db3lb5db18y2db8y2~x2" title="compare in the TTD">2.37</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/">Bruce (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-245px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">258</div><div class="nn-name nn-base"><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/">California Burns (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1db8g2db2g6db1g6db2g2db8w1~x4&amp;base=dr3g3db3g14db3g3db3lb5db18y2db8y2~x2" title="compare in the TTD">2.37</a></div><div class="nn-threads nn-far">304</div><div class="nn-name nn-far"><a href="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/">Bruce (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

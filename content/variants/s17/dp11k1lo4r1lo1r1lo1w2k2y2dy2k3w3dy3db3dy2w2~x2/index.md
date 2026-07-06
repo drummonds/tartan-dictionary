@@ -41,11 +41,11 @@ One full sett is **150 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/22 K2 LO8 R2 LO2 R2 LO2 W4 K4 Y4 DY4 K6 W6 DY6 DB6 DY4 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">150</div><div class="nn-name nn-base"><a href="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/">York Puppet</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2~x2&amp;base=dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2" title="compare in the TTD">0.64</a></div><div class="nn-threads">158</div><div class="nn-name"><a href="/variants/s17/dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2~x2/">York Puppet Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:512px;height:26px;background-image:url(/variants/s17/dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2~x2/sett.png);background-size:512px 26px;background-repeat:repeat-x;background-position-x:-510px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">150</div><div class="nn-name nn-base"><a href="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/">York Puppet</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2~x2&amp;base=dp11k1lo4r1lo1r1lo1w2k2y2dy2k3w3dy3db3dy2w2~x2" title="compare in the TTD">0.64</a></div><div class="nn-threads">158</div><div class="nn-name"><a href="/variants/s17/dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2~x2/">York Puppet Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/dp11k1lo4r1lo1r1lo3w2k2y2k3dy2w3dy3db3dy2w2~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div></div>
 
 ## Neighbour map
 

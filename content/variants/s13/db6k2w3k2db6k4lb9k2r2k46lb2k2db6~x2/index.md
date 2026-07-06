@@ -29,11 +29,11 @@ One full sett is **344 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/12 K4 W6 K4 DB12 K8 LB18 K4 R4 K92 LB4 K4 DB/12 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">344</div><div class="nn-name nn-base"><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/">Kieck (2015)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000&amp;base=db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">300</div><div class="nn-name nn-far"><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/">Hanson (2016)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-4px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">344</div><div class="nn-name nn-base"><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/">Kieck (2015)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000&amp;base=db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">300</div><div class="nn-name nn-far"><a href="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/">Hanson (2016)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2~x2~w3600000-dt0900000/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

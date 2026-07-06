@@ -38,11 +38,11 @@ One full sett is **356 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LR/128 DB36 LB4 DB6 LR4 DB6 T28 B16 K4 B8 LR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">356</div><div class="nn-name nn-base"><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/">Bennet Dress (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t50r3t4k8n4k2y3k2r12w2r4t4~x2&amp;base=lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/">City of Barrie</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-78px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">356</div><div class="nn-name nn-base"><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/">Bennet Dress (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t50r3t4k8n4k2y3k2r12w2r4t4~x2&amp;base=lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">284</div><div class="nn-name nn-far"><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/">City of Barrie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

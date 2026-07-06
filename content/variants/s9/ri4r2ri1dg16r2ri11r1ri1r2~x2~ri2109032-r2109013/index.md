@@ -33,11 +33,11 @@ One full sett is **148 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ri/8 R4 Ri2 DG32 R4 Ri22 R2 Ri2 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">148</div><div class="nn-name nn-base"><a href="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/">Valdres, Kvam &amp; Vang</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5m2r1dg16m2r11m1r1m2~x4&amp;base=ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013" title="compare in the TTD">0.93</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/">Valdres, Kvam &amp; Vang (Artefact)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-208px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">148</div><div class="nn-name nn-base"><a href="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/">Valdres, Kvam &amp; Vang</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5m2r1dg16m2r11m1r1m2~x4&amp;base=ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013" title="compare in the TTD">0.93</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/">Valdres, Kvam &amp; Vang (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

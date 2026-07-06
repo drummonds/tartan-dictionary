@@ -29,11 +29,11 @@ One full sett is **308 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/6 DB6 LY30 DB4 K4 DB4 K40 G40 DB6 G6 W4 G4 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">308</div><div class="nn-name nn-base"><a href="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/">U.S. Ancient Order of Hibernians (Co</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6g2r2g21k2w4k2db23y2db2y6~x2&amp;base=r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/">Glasgow, City of Culture</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-284px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">308</div><div class="nn-name nn-base"><a href="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/">U.S. Ancient Order of Hibernians (Co</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6g2r2g21k2w4k2db23y2db2y6~x2&amp;base=r3g2w2g3db3g20k20db2k2db2ly15db3ly3~x2" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/">Glasgow, City of Culture</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

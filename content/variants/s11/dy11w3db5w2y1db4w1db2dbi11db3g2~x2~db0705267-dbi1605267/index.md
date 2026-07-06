@@ -29,11 +29,11 @@ One full sett is **154 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/22 W6 DB10 W4 Y2 DB8 W2 DB4 DBi22 DB6 G/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">154</div><div class="nn-name nn-base"><a href="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/">Scottish Bear (Mathan Albannach)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly7g11db4lb31db4g11dy4db14w3db4~x2&amp;base=dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">350</div><div class="nn-name nn-far"><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/">State Seal of Nebraska (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-45px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">154</div><div class="nn-name nn-base"><a href="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/">Scottish Bear (Mathan Albannach)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly7g11db4lb31db4g11dy4db14w3db4~x2&amp;base=dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267" title="compare in the TTD">2.83</a></div><div class="nn-threads nn-far">350</div><div class="nn-name nn-far"><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/">State Seal of Nebraska (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

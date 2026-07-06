@@ -23,11 +23,11 @@ One full sett is **252 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/10 G2 K6 B4 G20 K6 G8 K56 B4 K4 G2 K8 B/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s13/k5g1k3b2g10k3g4k28b2k2g1k4b1~x2/">McCarthy</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k5g1k3b2g10k3g4k28b2k2g1k4b1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4g12k3g4k3g3k36g3k2y3~x2&amp;base=k5g1k3b2g10k3g4k28b2k2g1k4b1~x2" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/">Reagan (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-137px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s13/k5g1k3b2g10k3g4k28b2k2g1k4b1~x2/">McCarthy</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k5g1k3b2g10k3g4k28b2k2g1k4b1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k4g12k3g4k3g3k36g3k2y3~x2&amp;base=k5g1k3b2g10k3g4k28b2k2g1k4b1~x2" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/">Reagan (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

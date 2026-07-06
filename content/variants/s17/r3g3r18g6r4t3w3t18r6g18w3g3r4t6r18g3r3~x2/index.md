@@ -32,11 +32,11 @@ One full sett is **476 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/6 G6 R36 G12 R8 T6 W6 T36 R12 G36 W6 G6 R8 T12 R36 G6 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">476</div><div class="nn-name nn-base"><a href="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/">Reid of Straloch (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6&amp;base=r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2" title="compare in the TTD">0.05</a></div><div class="nn-threads">468</div><div class="nn-name"><a href="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/">Reid of Straloch (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:512px;height:26px;background-image:url(/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/sett.png);background-size:512px 26px;background-repeat:repeat-x;background-position-x:-52px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">476</div><div class="nn-name nn-base"><a href="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/">Reid of Straloch (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6&amp;base=r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2" title="compare in the TTD">0.05</a></div><div class="nn-threads">468</div><div class="nn-name"><a href="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/">Reid of Straloch (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/sett.png" alt="sett" loading="lazy" style="width:512px"></div></div>
 
 ## Neighbour map
 

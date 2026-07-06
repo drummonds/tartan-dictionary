@@ -32,11 +32,11 @@ One full sett is **220 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/5 DB3 T20 DB3 DG5 G20 Y3 G20 DG5 DB3 T20 DB3 W/5 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/">Hosey</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5&amp;base=r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244" title="compare in the TTD">0.00</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s13/r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5/">Hosey (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-330px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/">Hosey</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5&amp;base=r5db3t20db3dg5g20y3g20dg5db3t20db3w5~db1004274-t2405244" title="compare in the TTD">0.00</a></div><div class="nn-threads">220</div><div class="nn-name"><a href="/variants/s13/r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5/">Hosey (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r5db3lb20db3dg5g20y3g20dg5db3lb20db3w5/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

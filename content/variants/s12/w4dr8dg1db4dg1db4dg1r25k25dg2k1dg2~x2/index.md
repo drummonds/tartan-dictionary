@@ -32,11 +32,11 @@ One full sett is **300 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 DR16 DG2 DB8 DG2 DB8 DG2 R50 K50 DG4 K2 DG/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/">Tweedbank</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w4dr8g1db4g1db4g1r25k25g2k1g2~x2&amp;base=w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/">Tweedbank (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-77px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/">Tweedbank</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w4dr8g1db4g1db4g1r25k25g2k1g2~x2&amp;base=w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/">Tweedbank (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

@@ -23,11 +23,11 @@ One full sett is **172 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/4 K2 DB12 K2 R10 Y6 R10 K4 W6 K4 W18 K2 W4 K2 Y/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">172</div><div class="nn-name nn-base"><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/">Unidentified 32</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2&amp;base=db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">172</div><div class="nn-name"><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/">Unidentified #11</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-99px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">172</div><div class="nn-name nn-base"><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/">Unidentified 32</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2&amp;base=db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">172</div><div class="nn-name"><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/">Unidentified #11</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

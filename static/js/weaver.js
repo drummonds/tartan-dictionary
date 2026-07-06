@@ -413,13 +413,16 @@
     }
     if (btn.hasAttribute('data-pin') || btn.hasAttribute('data-repin')) { ed.base = ed.slug; renderEditor(); return; }
     if (btn.hasAttribute('data-unpin')) { ed.base = ''; renderEditor(); return; }
-    if (btn.hasAttribute('data-reset')) { if (ed.base) { ed.slug = ed.base; ed.palette = {}; renderEditor(); } return; }
+    // Reset returns to the pinned baseline AND drops the pin (#129 review): the working cloth now
+    // IS the baseline, so a kept pin is just a self-comparison — the address goes back to plain
+    // &slug=, exactly where the user started before the (often auto-) pin.
+    if (btn.hasAttribute('data-reset')) { if (ed.base) { ed.slug = ed.base; ed.base = ''; ed.palette = {}; renderEditor(); } return; }
     if (btn.hasAttribute('data-scale')) {
       var cur = (window.weaver.parseSlug(ed.slug).scale) || 1;
       var n = Math.max(1, cur + parseInt(btn.dataset.scale, 10));
       if (n === cur) return;
       // The slug is <structure>[~x<mult>][~<palette>]: a palette section can FOLLOW the scale, so
-      // swap the x-section section-wise — a tail replace would leave the old scale behind (#135).
+      // swap the x-section section-wise — a tail replace would leave the old scale behind (#135/#127).
       var parts = ed.slug.split('~').filter(function (sec, i) { return i === 0 || !/^x\d+$/.test(sec); });
       if (n > 1) parts.splice(1, 0, 'x' + n);
       var ns = window.weaver.parseSlug(parts.join('~'));
@@ -524,7 +527,7 @@
    * the navigator) or on its own page in the dictionary; hashed-leaf URLs cannot be re-encoded as
    * a fragment slug, so those offer only their page. */
   function renderExtras(container, slug) {
-    container.innerHTML = '<h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p>';
+    container.innerHTML = '<h2>Nearest tartan variants</h2><p>Measuring ΔTartan distances…</p>';
     var tFetch = performance.now();
     loadIndexOnce().then(function (loaded) {
       var nn = window.weaver.neighbours(slug, 10);
@@ -539,7 +542,7 @@
           'swatches line up against it. A name opens that neighbour here in the TTD; <em>↗</em> steps ' +
           'out to its entry in the dictionary.</p>' + nn.html
         : '<p>No existing variant lies within ΔTartan range — this sett sits on its own.</p>';
-      container.innerHTML = '<h2>Nearest tartans</h2>' + listHtml +
+      container.innerHTML = '<h2>Nearest tartan variants</h2>' + listHtml +
         '<h2>Neighbour map</h2><p>Every grey dot is one of ' + loaded.count +
         ' existing variants placed by the first two principal components of the ΔTartan feature space (' +
         pct + '% of its variance). Red is this tartan; blue dots are its nearest — click one to open it here.</p>';
@@ -548,7 +551,7 @@
       statLine('neighbours over ' + loaded.count + ' variants in ' +
         Math.round(performance.now() - tFetch) + ' ms (fetch + index + query)');
     }).catch(function (err) {
-      container.innerHTML = '<h2>Nearest tartans</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
+      container.innerHTML = '<h2>Nearest tartan variants</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
     });
   }
 

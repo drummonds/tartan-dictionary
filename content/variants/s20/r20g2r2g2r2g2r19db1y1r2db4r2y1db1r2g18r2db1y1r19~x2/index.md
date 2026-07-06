@@ -25,11 +25,11 @@ One full sett is **338 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/40 G4 R4 G4 R4 G4 R38 DB2 Y2 R4 DB8 R4 Y2 DB2 R4 G36 R4 DB2 Y2 R/38 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">338</div><div class="nn-name nn-base"><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/">Munro</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4&amp;base=r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2" title="compare in the TTD">0.44</a></div><div class="nn-threads">884</div><div class="nn-name"><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/">Munro</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:608px;height:26px;background-image:url(/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/sett.png);background-size:608px 26px;background-repeat:repeat-x;background-position-x:-495px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">338</div><div class="nn-name nn-base"><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/">Munro</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4&amp;base=r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2" title="compare in the TTD">0.44</a></div><div class="nn-threads">884</div><div class="nn-name"><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/">Munro</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/sett.png" alt="sett" loading="lazy" style="width:608px"></div></div>
 
 ## Neighbour map
 

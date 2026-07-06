@@ -39,11 +39,11 @@ One full sett is **352 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/108 W6 K6 W6 K4 Y6 K4 W40 K6 W6 K8 W6 K8 W8 K4 Y/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">352</div><div class="nn-name nn-base"><a href="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/">Livingstone Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12&amp;base=db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2" title="compare in the TTD">0.65</a></div><div class="nn-threads">481</div><div class="nn-name"><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/">Livingston, dress</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:480px;height:26px;background-image:url(/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png);background-size:480px 26px;background-repeat:repeat-x;background-position-x:-473px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">352</div><div class="nn-name nn-base"><a href="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/">Livingstone Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12&amp;base=db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2" title="compare in the TTD">0.65</a></div><div class="nn-threads">481</div><div class="nn-name"><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/">Livingston, dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

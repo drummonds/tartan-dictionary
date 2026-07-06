@@ -29,11 +29,11 @@ One full sett is **218 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/24 DB6 G6 DB6 G6 K30 LB40 T/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">218</div><div class="nn-name nn-base"><a href="/variants/s8/g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259/">Lemania</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3db20g3k20db3g20w3g3~x2&amp;base=g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/">MacFrog (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/r3db20g3k20db3g20w3g3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-52px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">218</div><div class="nn-name nn-base"><a href="/variants/s8/g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259/">Lemania</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3db20g3k20db3g20w3g3~x2&amp;base=g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/">MacFrog (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3db20g3k20db3g20w3g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

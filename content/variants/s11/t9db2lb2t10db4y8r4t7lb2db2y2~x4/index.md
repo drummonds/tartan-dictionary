@@ -29,11 +29,11 @@ One full sett is **372 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/36 DB8 LB8 T40 DB16 Y32 R16 T28 LB8 DB8 Y/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">372</div><div class="nn-name nn-base"><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/">Healy (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t31db4lb4t20db8y16o8t14lb4db4ly4&amp;base=t9db2lb2t10db4y8r4t7lb2db2y2~x4" title="compare in the TTD">1.66</a></div><div class="nn-threads">199</div><div class="nn-name"><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/">Cian Clan Irish Family Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-283px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">372</div><div class="nn-name nn-base"><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/">Healy (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t31db4lb4t20db8y16o8t14lb4db4ly4&amp;base=t9db2lb2t10db4y8r4t7lb2db2y2~x4" title="compare in the TTD">1.66</a></div><div class="nn-threads">199</div><div class="nn-name"><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/">Cian Clan Irish Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

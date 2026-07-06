@@ -29,11 +29,11 @@ One full sett is **224 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 N4 DO4 N48 LB4 DO12 N4 G24 N8 DO/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">224</div><div class="nn-name nn-base"><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do2n4dg12n3do6t2n24do2n2dg2~x2&amp;base=do1n2g6n1do3lb1n12do1n1g1~x4" title="compare in the TTD">0.04</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/">Wicklow Irish County Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-153px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">224</div><div class="nn-name nn-base"><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do2n4dg12n3do6t2n24do2n2dg2~x2&amp;base=do1n2g6n1do3lb1n12do1n1g1~x4" title="compare in the TTD">0.04</a></div><div class="nn-threads">228</div><div class="nn-name"><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/">Wicklow Irish County Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

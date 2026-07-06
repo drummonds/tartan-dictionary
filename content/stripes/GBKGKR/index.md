@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r3k2g20k10t20y2~x2/">MacLeod of Assynt</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r3k2g20k10t20y2~x2/"><img src="/variants/s6/r3k2g20k10t20y2~x2/sett.png" alt="MacLeod of Assynt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r3k2g15k10db20y2~x2/">MacLeod of Assynt</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r3k2g15k10db20y2~x2/"><img src="/variants/s6/r3k2g15k10db20y2~x2/sett.png" alt="MacLeod of Assynt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r3k2g20k10t20y2~x2/">MacLeod of Assynt</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r3k2g20k10t20y2~x2/"><img src="/variants/s6/r3k2g20k10t20y2~x2/sett.png" alt="MacLeod of Assynt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

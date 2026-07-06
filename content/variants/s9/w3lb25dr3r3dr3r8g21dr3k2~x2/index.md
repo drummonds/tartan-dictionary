@@ -29,11 +29,11 @@ One full sett is **274 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 LB50 DR6 R6 DR6 R16 G42 DR6 K/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">274</div><div class="nn-name nn-base"><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/">Dunedin (USA) (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019&amp;base=w3lb25dr3r3dr3r8g21dr3k2~x2" title="compare in the TTD">1.68</a></div><div class="nn-threads">276</div><div class="nn-name"><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/">Dunedin (USA)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-88px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">274</div><div class="nn-name nn-base"><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/">Dunedin (USA) (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019&amp;base=w3lb25dr3r3dr3r8g21dr3k2~x2" title="compare in the TTD">1.68</a></div><div class="nn-threads">276</div><div class="nn-name"><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/">Dunedin (USA)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

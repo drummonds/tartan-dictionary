@@ -38,11 +38,11 @@ One full sett is **208 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/22 DB2 LB2 DB2 LB2 DB16 G16 DB2 G16 DB16 LB16 DB2 LB/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">208</div><div class="nn-name nn-base"><a href="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/">Sutherland #3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10db2g2db6t5db1t2~x2~db1406275-t2503227&amp;base=lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">88</div><div class="nn-name nn-far"><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/">Norwich No.017</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-320px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">208</div><div class="nn-name nn-base"><a href="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/">Sutherland #3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10db2g2db6t5db1t2~x2~db1406275-t2503227&amp;base=lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">88</div><div class="nn-name nn-far"><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/">Norwich No.017</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

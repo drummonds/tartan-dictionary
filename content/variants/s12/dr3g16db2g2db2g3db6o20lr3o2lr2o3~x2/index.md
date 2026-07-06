@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **1.20** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/">Callum, Blue (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr4g20db2g2db2g3db6o26w3o2w2o4~x2&amp;base=dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2" title="compare in the TTD">0.85</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/">Dorcas (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-108px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/">Callum, Blue (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr4g20db2g2db2g3db6o26w3o2w2o4~x2&amp;base=dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2" title="compare in the TTD">0.85</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/">Dorcas (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

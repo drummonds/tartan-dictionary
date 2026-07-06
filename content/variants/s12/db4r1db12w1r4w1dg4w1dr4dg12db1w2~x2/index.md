@@ -41,11 +41,11 @@ One full sett is **176 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 R2 DB24 W2 R8 W2 DG8 W2 DR8 DG24 DB2 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">176</div><div class="nn-name nn-base"><a href="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/">Glenfalloch</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009&amp;base=db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">176</div><div class="nn-name"><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/">Glenfalloch Corporate Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-280px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">176</div><div class="nn-name nn-base"><a href="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/">Glenfalloch</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009&amp;base=db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">176</div><div class="nn-name"><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/">Glenfalloch Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

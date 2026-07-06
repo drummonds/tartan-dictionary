@@ -27,11 +27,11 @@ One full sett is **584 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/20 LB4 DB40 W8 K40 G40 K4 Y12 K4 G40 K40 W8 DB40 LB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">584</div><div class="nn-name nn-base"><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/">Culloden 1746 Artefact Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3k1g12k12db12lb3db12k12g12k1y3~x2&amp;base=r5lb1db10w2k10g10k1y3~x4~lb3203246" title="compare in the TTD">1.73</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/">Smith</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-203px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">584</div><div class="nn-name nn-base"><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/">Culloden 1746 Artefact Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3k1g12k12db12lb3db12k12g12k1y3~x2&amp;base=r5lb1db10w2k10g10k1y3~x4~lb3203246" title="compare in the TTD">1.73</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/">Smith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

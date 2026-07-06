@@ -43,11 +43,11 @@ One full sett is **478 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/36 LB2 N36 K2 G36 W2 LB36 R2 N36 G2 R36 K6 W8 K6 W8 K/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">478</div><div class="nn-name nn-base"><a href="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/">City of Edinburgh (2001) (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2&amp;base=r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">520</div><div class="nn-name"><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/">Brinkie's Brae (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:480px;height:26px;background-image:url(/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/sett.png);background-size:480px 26px;background-repeat:repeat-x;background-position-x:-178px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">478</div><div class="nn-name nn-base"><a href="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/">City of Edinburgh (2001) (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2&amp;base=r18lb1n18k1g18w1lb18r1n18g1r18k3w4k3w4k3~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">520</div><div class="nn-name"><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/">Brinkie's Brae (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

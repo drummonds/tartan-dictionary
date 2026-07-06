@@ -29,11 +29,11 @@ One full sett is **252 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/28 DP2 O38 W2 O36 K6 O2 DT14 DP4 DT2 O2 N/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/">Orkney Magnus</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000&amp;base=o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000" title="compare in the TTD">1.84</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/">Orkney Magnus</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-254px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/">Orkney Magnus</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000&amp;base=o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000" title="compare in the TTD">1.84</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/">Orkney Magnus</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2~o2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

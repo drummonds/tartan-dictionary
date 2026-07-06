@@ -29,11 +29,11 @@ One full sett is **312 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/12 K4 N48 K4 N4 K8 N4 K24 LR48 K4 LO/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">312</div><div class="nn-name nn-base"><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/">McCandlish Dress, Grey (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb3k1n12k1n1k2n1k6w12k1lo1~x4&amp;base=lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000" title="compare in the TTD">0.00</a></div><div class="nn-threads">312</div><div class="nn-name"><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/">McCandlish Arisaid, Grey (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-213px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">312</div><div class="nn-name nn-base"><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/">McCandlish Dress, Grey (Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb3k1n12k1n1k2n1k6w12k1lo1~x4&amp;base=lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000" title="compare in the TTD">0.00</a></div><div class="nn-threads">312</div><div class="nn-name"><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/">McCandlish Arisaid, Grey (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

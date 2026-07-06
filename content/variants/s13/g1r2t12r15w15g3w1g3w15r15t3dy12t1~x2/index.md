@@ -29,11 +29,11 @@ One full sett is **388 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/2 R4 T24 R30 W30 G6 W2 G6 W30 R30 T6 DY24 T/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">388</div><div class="nn-name nn-base"><a href="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/">Saint John New Brunswick</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2&amp;base=g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far2">388</div><div class="nn-name nn-far2"><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/">St. John New Brunswick (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-382px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">388</div><div class="nn-name nn-base"><a href="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/">Saint John New Brunswick</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2&amp;base=g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far2">388</div><div class="nn-name nn-far2"><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/">St. John New Brunswick (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

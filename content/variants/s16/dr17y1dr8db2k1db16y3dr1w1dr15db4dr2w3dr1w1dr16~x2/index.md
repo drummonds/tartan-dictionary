@@ -40,11 +40,11 @@ One full sett is **302 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/34 Y2 DR16 DB4 K2 DB32 Y6 DR2 W2 DR30 DB8 DR4 W6 DR2 W2 DR/32 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">302</div><div class="nn-name nn-base"><a href="/variants/s16/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2/">Ruxton Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2&amp;base=dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2" title="compare in the TTD">1.83</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/">(5) Ruxton hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:480px;height:26px;background-image:url(/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/sett.png);background-size:480px 26px;background-repeat:repeat-x;background-position-x:-88px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">302</div><div class="nn-name nn-base"><a href="/variants/s16/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2/">Ruxton Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2&amp;base=dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2" title="compare in the TTD">1.83</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/">(5) Ruxton hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

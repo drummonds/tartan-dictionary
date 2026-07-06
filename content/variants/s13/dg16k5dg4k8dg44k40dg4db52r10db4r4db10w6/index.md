@@ -33,11 +33,11 @@ One full sett is **392 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/16 K5 DG4 K8 DG44 K40 DG4 DB52 R10 DB4 R4 DB10 W/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/">MacNeil of Colonsay (Highland Society of London)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2&amp;base=dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/">Clerke of Ulva</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-382px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/">MacNeil of Colonsay (Highland Society of London)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2&amp;base=dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/">Clerke of Ulva</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

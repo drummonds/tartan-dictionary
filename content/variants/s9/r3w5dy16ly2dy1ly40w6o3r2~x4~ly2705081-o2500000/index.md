@@ -32,11 +32,11 @@ One full sett is **604 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/12 W20 DY64 LY8 DY4 LY160 W24 O12 R/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">604</div><div class="nn-name nn-base"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/">Bell's Whisky</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3w5dy16ly2dy1ly40w6n3r2~x4&amp;base=r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000" title="compare in the TTD">0.00</a></div><div class="nn-threads">604</div><div class="nn-name"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/">Bell's Whisky (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-127px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">604</div><div class="nn-name nn-base"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/">Bell's Whisky</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3w5dy16ly2dy1ly40w6n3r2~x4&amp;base=r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000" title="compare in the TTD">0.00</a></div><div class="nn-threads">604</div><div class="nn-name"><a href="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/">Bell's Whisky (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r3w5dy16ly2dy1ly40w6n3r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -17,8 +17,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/w43k5r3g5ly27dp5~x2/"><img src="/variants/s6/w43k5r3g5ly27dp5~x2/sett.png" alt="Reekie, Charlene (Personal)" width="140"><br>Reekie, Charlene (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/r4g2r2k5db22w2~x4/"><img src="/variants/s6/r4g2r2k5db22w2~x4/sett.png" alt="Reese (Personal)" width="140"><br>Reese (Personal)</a></li>
 <li><a class="tartan" href="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/"><img src="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/sett.png" alt="Regimbal, Leonel–Jean (Personal)" width="140"><br>Regimbal, Leonel–Jean (Personal)</a></li>
-<li><a class="tartan" href="/variants/s6/r60k40y3o5p3dg12~x2/"><img src="/variants/s6/r60k40y3o5p3dg12~x2/sett.png" alt="Rei Okamoto (Personal)" width="140"><br>Rei Okamoto (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/r60k40y3o5lp3dg12~x2/"><img src="/variants/s6/r60k40y3o5lp3dg12~x2/sett.png" alt="Rei Okamoto (Personal)" width="140"><br>Rei Okamoto (Personal)</a></li>
+<li><a class="tartan" href="/variants/s6/r60k40y3o5p3dg12~x2/"><img src="/variants/s6/r60k40y3o5p3dg12~x2/sett.png" alt="Rei Okamoto (Personal)" width="140"><br>Rei Okamoto (Personal)</a></li>
 <li><a class="tartan" href="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/"><img src="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/sett.png" alt="Reid of Straloch (Personal)" width="140"><br>Reid of Straloch (Personal)</a></li>
 <li><a class="tartan" href="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><img src="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/sett.png" alt="Reid of Straloch (Personal)" width="140"><br>Reid of Straloch (Personal)</a></li>
 <li><a class="tartan" href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><img src="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/sett.png" alt="Reilly fae the Mearns (Personal)" width="140"><br>Reilly fae the Mearns (Personal)</a></li>
@@ -69,6 +69,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><img src="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/sett.png" alt="Rust (Personal)" width="140"><br>Rust (Personal)</a></li>
 <li><a class="tartan" href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/"><img src="/variants/s7/db64r3k3r3dp61dg5dp6~x2/sett.png" alt="Rutherford, John (Personal)" width="140"><br>Rutherford, John (Personal)</a></li>
 <li><a class="tartan" href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><img src="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/sett.png" alt="Rutlin (Personal)" width="140"><br>Rutlin (Personal)</a></li>
-<li><a class="tartan" href="/variants/s6/w4r7y5db13dr18g3~x2/"><img src="/variants/s6/w4r7y5db13dr18g3~x2/sett.png" alt="Ryan/Fehder (Personal)" width="140"><br>Ryan/Fehder (Personal)</a></li>
 <li><a class="tartan" href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><img src="/variants/s6/w4dr7ly5t13dr18g3~x2/sett.png" alt="Ryan/Fehder (Personal)" width="140"><br>Ryan/Fehder (Personal)</a></li>
+<li><a class="tartan" href="/variants/s6/w4r7y5db13dr18g3~x2/"><img src="/variants/s6/w4r7y5db13dr18g3~x2/sett.png" alt="Ryan/Fehder (Personal)" width="140"><br>Ryan/Fehder (Personal)</a></li>
 </ul>

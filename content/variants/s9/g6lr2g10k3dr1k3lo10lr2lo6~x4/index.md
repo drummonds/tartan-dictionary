@@ -38,11 +38,11 @@ One full sett is **296 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LO/24 LR8 LO40 K12 DR4 K12 G40 LR8 G/24 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/">Eire</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg8b6dg48w31o42g6o8&amp;base=g6lr2g10k3dr1k3lo10lr2lo6~x4" title="compare in the TTD">1.76</a></div><div class="nn-threads">282</div><div class="nn-name"><a href="/variants/s7/dg8b6dg48w31o42g6o8/">Bannockbane, Green</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s7/dg8b6dg48w31o42g6o8/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-320px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/">Eire</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg8b6dg48w31o42g6o8&amp;base=g6lr2g10k3dr1k3lo10lr2lo6~x4" title="compare in the TTD">1.76</a></div><div class="nn-threads">282</div><div class="nn-name"><a href="/variants/s7/dg8b6dg48w31o42g6o8/">Bannockbane, Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg8b6dg48w31o42g6o8/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

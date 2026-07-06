@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **0.46** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/dy3n2dg19n6dg2n6ly14dr4w2/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/">Royal Pharmaceutical Society (Corp)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy3n2dg19n6dg2n6ly14dr4w2~x2&amp;base=dy2n2dg19n6dg2n6lo14dr4w2~x2" title="compare in the TTD">1.03</a></div><div class="nn-threads">222</div><div class="nn-name"><a href="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/">Royal Pharmaceutical Society</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-248px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/">Royal Pharmaceutical Society (Corp)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy3n2dg19n6dg2n6ly14dr4w2~x2&amp;base=dy2n2dg19n6dg2n6lo14dr4w2~x2" title="compare in the TTD">1.03</a></div><div class="nn-threads">222</div><div class="nn-name"><a href="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/">Royal Pharmaceutical Society</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

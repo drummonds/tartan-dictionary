@@ -33,11 +33,11 @@ One full sett is **424 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 G4 R16 W28 T6 R6 G40 R6 T40 R6 T6 W28 R16 G4 W/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">424</div><div class="nn-name nn-base"><a href="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/">Robertson dress Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2&amp;base=w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2" title="compare in the TTD">0.19</a></div><div class="nn-threads">568</div><div class="nn-name"><a href="/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/">Robertson, dress hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-176px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">424</div><div class="nn-name nn-base"><a href="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/">Robertson dress Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2&amp;base=w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2" title="compare in the TTD">0.19</a></div><div class="nn-threads">568</div><div class="nn-name"><a href="/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/">Robertson, dress hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

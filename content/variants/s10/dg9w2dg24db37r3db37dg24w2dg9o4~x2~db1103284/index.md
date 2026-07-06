@@ -31,11 +31,11 @@ One full sett is **578 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/18 W4 DG48 DB74 R6 DB74 DG48 W4 DG18 O/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">578</div><div class="nn-name nn-base"><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/">Hardie</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg8do2dg13db4dg12n22dg5ly3~x2&amp;base=dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/">Scottish Pup</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-239px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">578</div><div class="nn-name nn-base"><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/">Hardie</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg8do2dg13db4dg12n22dg5ly3~x2&amp;base=dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284" title="compare in the TTD">2.87</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/">Scottish Pup</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -38,11 +38,11 @@ One full sett is **392 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LO/4 DR48 G8 DR8 W64 DR8 G8 DR48 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/">MacFie Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032&amp;base=w1dr12g2dr2w16dr2g2dr12lo1~x4" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/">Longniddry Burgundy (Dance)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-85px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/">MacFie Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032&amp;base=w1dr12g2dr2w16dr2g2dr12lo1~x4" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">312</div><div class="nn-name nn-far"><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/">Longniddry Burgundy (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

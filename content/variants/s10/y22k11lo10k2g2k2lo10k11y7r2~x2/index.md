@@ -38,11 +38,11 @@ One full sett is **268 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/44 K22 LO20 K4 G4 K4 LO20 K22 Y14 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/">Project, Faith Inc (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lr3ly2k4lo6k4ly15k4dg18k2ly3~x2&amp;base=y22k11lo10k2g2k2lo10k11y7r2~x2" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/">Fitzsimmons</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-229px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/">Project, Faith Inc (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lr3ly2k4lo6k4ly15k4dg18k2ly3~x2&amp;base=y22k11lo10k2g2k2lo10k11y7r2~x2" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/">Fitzsimmons</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

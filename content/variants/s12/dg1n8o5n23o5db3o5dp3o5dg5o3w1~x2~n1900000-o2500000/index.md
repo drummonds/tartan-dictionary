@@ -30,11 +30,11 @@ One full sett is **264 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/2 N16 O10 N46 O10 DB6 O10 DP6 O10 DG10 O6 W/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/">Hand (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000&amp;base=dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">328</div><div class="nn-name nn-far"><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/">Titanium (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-331px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/">Hand (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000&amp;base=dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">328</div><div class="nn-name nn-far"><a href="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/">Titanium (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n44o8n8o22lb4o4lb11o2w2~x2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

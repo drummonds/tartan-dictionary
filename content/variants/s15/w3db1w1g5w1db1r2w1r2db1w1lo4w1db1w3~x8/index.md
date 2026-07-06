@@ -38,11 +38,11 @@ One full sett is **768 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 LO32 W8 DB8 W24 DB8 W8 LO32 W8 DB8 R16 W8 R16 DB8 W8 G40 W8 DB/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">768</div><div class="nn-name nn-base"><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/">Womble</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4&amp;base=w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8" title="compare in the TTD">0.49</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4/">Wombles #4</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:800px;height:26px;background-image:url(/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4/sett.png);background-size:800px 26px;background-repeat:repeat-x;background-position-x:-64px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">768</div><div class="nn-name nn-base"><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/">Womble</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4&amp;base=w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8" title="compare in the TTD">0.49</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4/">Wombles #4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4/sett.png" alt="sett" loading="lazy" style="width:800px"></div></div>
 
 ## Neighbour map
 

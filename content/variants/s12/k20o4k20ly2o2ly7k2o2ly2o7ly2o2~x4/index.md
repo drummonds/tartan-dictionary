@@ -32,11 +32,11 @@ One full sett is **488 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/80 O16 K80 LY8 O8 LY28 K8 O8 LY8 O28 LY8 O/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">488</div><div class="nn-name nn-base"><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/">Black Forest</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4&amp;base=k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/">Black Forest (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-83px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">488</div><div class="nn-name nn-base"><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/">Black Forest</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4&amp;base=k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4" title="compare in the TTD">0.00</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/">Black Forest (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **0.64** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">480</div><div class="nn-name nn-base"><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/">Euphoria (Universal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6&amp;base=w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6" title="compare in the TTD">0.00</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/">Euphoria</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-187px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">480</div><div class="nn-name nn-base"><a href="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/">Euphoria (Universal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6&amp;base=w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6" title="compare in the TTD">0.00</a></div><div class="nn-threads">480</div><div class="nn-name"><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/">Euphoria</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

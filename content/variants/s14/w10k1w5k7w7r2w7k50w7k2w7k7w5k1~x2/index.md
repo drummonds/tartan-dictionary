@@ -38,11 +38,11 @@ One full sett is **450 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/20 K2 W10 K14 W14 R4 W14 K100 W14 K4 W14 K14 W10 K/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">450</div><div class="nn-name nn-base"><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/">Pars, Dress (Sports)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w36k8w36k95w4k4r6&amp;base=w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">336</div><div class="nn-name nn-far"><a href="/variants/s7/w36k8w36k95w4k4r6/">Gretna Football Club</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s7/w36k8w36k95w4k4r6/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-40px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">450</div><div class="nn-name nn-base"><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/">Pars, Dress (Sports)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w36k8w36k95w4k4r6&amp;base=w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">336</div><div class="nn-name nn-far"><a href="/variants/s7/w36k8w36k95w4k4r6/">Gretna Football Club</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w36k8w36k95w4k4r6/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

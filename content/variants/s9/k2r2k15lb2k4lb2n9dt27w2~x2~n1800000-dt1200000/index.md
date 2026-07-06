@@ -29,11 +29,11 @@ One full sett is **252 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 R4 K30 LB4 K8 LB4 N18 DT54 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/">Real Mary King's Close, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000&amp;base=k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">282</div><div class="nn-name nn-far"><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000/">Yates Personal Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-94px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/">Real Mary King's Close, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000&amp;base=k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">282</div><div class="nn-name nn-far"><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000/">Yates Personal Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k29r3db24n6k8w4n8o6~x2~db1404245-n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

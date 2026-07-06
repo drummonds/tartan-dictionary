@@ -30,11 +30,11 @@ One full sett is **232 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/12 K10 Y2 K2 W6 T10 W2 T40 W2 T10 W6 K2 R2 K10 Y/12 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">232</div><div class="nn-name nn-base"><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/">Oromocto</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2&amp;base=r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000" title="compare in the TTD">0.00</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/">Oromocto (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-224px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">232</div><div class="nn-name nn-base"><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/">Oromocto</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2&amp;base=r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000" title="compare in the TTD">0.00</a></div><div class="nn-threads">232</div><div class="nn-name"><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/">Oromocto (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

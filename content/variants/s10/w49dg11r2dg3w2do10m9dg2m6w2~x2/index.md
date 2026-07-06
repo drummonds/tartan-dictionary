@@ -30,11 +30,11 @@ One full sett is **282 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/98 DG22 R4 DG6 W4 DO20 M18 DG4 M12 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">282</div><div class="nn-name nn-base"><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/">Strathyre dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w55dg12r2dg3w2g10dp9dg2dp6w2~x2&amp;base=w49dg11r2dg3w2do10m9dg2m6w2~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">298</div><div class="nn-name nn-far"><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/">Strathyre Dress (Dance)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-3px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">282</div><div class="nn-name nn-base"><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/">Strathyre dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w55dg12r2dg3w2g10dp9dg2dp6w2~x2&amp;base=w49dg11r2dg3w2do10m9dg2m6w2~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">298</div><div class="nn-name nn-far"><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/">Strathyre Dress (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

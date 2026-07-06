@@ -42,11 +42,11 @@ One full sett is **400 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DP/44 K4 DR4 K4 DR4 K28 G32 K4 G32 K28 DP32 K4 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">400</div><div class="nn-name nn-base"><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/">Red Hackle (Military)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2&amp;base=dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4" title="compare in the TTD">2.49</a></div><div class="nn-threads nn-far">426</div><div class="nn-name nn-far"><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/">The Red Hackle</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-384px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">400</div><div class="nn-name nn-base"><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/">Red Hackle (Military)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2&amp;base=dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4" title="compare in the TTD">2.49</a></div><div class="nn-threads nn-far">426</div><div class="nn-name nn-far"><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/">The Red Hackle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

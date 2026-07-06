@@ -42,11 +42,11 @@ One full sett is **412 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 K4 DB32 K32 G32 LY8 G32 K32 DB2 K2 DB2 K2 DB2 K2 DB16 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">412</div><div class="nn-name nn-base"><a href="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/">Farquharson</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8db30k4db4k4db4k56g55y8g55k56db46k4r8&amp;base=r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">668</div><div class="nn-name nn-far"><a href="/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/">Farquharson (Clan)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:480px;height:26px;background-image:url(/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/sett.png);background-size:480px 26px;background-repeat:repeat-x;background-position-x:-394px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">412</div><div class="nn-name nn-base"><a href="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/">Farquharson</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8db30k4db4k4db4k56g55y8g55k56db46k4r8&amp;base=r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">668</div><div class="nn-name nn-far"><a href="/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/">Farquharson (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

@@ -29,11 +29,11 @@ One full sett is **226 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/6 K4 W14 K4 W4 K14 G16 K2 W4 K2 G16 K14 DB14 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/">MacKenzie Dress - 1950 (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2&amp;base=w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2" title="compare in the TTD">2.11</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/">MacKenzie Dress</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-173px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/">MacKenzie Dress - 1950 (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2&amp;base=w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2" title="compare in the TTD">2.11</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/">MacKenzie Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

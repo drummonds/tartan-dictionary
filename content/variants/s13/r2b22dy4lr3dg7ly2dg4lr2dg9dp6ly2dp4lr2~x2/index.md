@@ -38,11 +38,11 @@ One full sett is **268 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 B44 DY8 LR6 DG14 LY4 DG8 LR4 DG18 DP12 LY4 DP8 LR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/">Man, Isle of</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10m2g2r4g16dp16r2b18y2b8r3~x2&amp;base=r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">306</div><div class="nn-name nn-far"><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/">Commonwealth Games 1998 (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-194px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/">Man, Isle of</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g10m2g2r4g16dp16r2b18y2b8r3~x2&amp;base=r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">306</div><div class="nn-name nn-far"><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/">Commonwealth Games 1998 (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

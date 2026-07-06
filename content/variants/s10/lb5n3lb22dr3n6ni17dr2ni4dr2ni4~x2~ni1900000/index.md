@@ -39,11 +39,11 @@ One full sett is **254 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/10 N6 LB44 DR6 N12 Ni34 DR4 Ni8 DR4 Ni/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/">Clyde</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3dr2db18dr1w10n18dr2n3~x2&amp;base=lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000" title="compare in the TTD">2.13</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/">Bannockbane Silver</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-71px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/">Clyde</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db3dr2db18dr1w10n18dr2n3~x2&amp;base=lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000" title="compare in the TTD">2.13</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/">Bannockbane Silver</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

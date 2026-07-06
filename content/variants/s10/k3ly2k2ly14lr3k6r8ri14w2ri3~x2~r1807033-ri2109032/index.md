@@ -30,11 +30,11 @@ One full sett is **216 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 LY4 K4 LY28 LR6 K12 R16 Ri28 W4 Ri/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">216</div><div class="nn-name nn-base"><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/">Walls, Steve C (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3y2k2y14dy3k6dr8r14w2r3~x2&amp;base=k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/">Walls, Steve C (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-62px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">216</div><div class="nn-name nn-base"><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/">Walls, Steve C (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3y2k2y14dy3k6dr8r14w2r3~x2&amp;base=k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/">Walls, Steve C (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

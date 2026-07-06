@@ -29,11 +29,11 @@ One full sett is **354 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ni/18 R6 Ni64 N24 K10 N4 K8 N4 K34 DP8 K4 LB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">354</div><div class="nn-name nn-base"><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/">Scottish Spirit</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000&amp;base=ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000" title="compare in the TTD">0.33</a></div><div class="nn-threads">356</div><div class="nn-name"><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/">Scottish Spirit Fashion Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-2px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">354</div><div class="nn-name nn-base"><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/">Scottish Spirit</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000&amp;base=ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000" title="compare in the TTD">0.33</a></div><div class="nn-threads">356</div><div class="nn-name"><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/">Scottish Spirit Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

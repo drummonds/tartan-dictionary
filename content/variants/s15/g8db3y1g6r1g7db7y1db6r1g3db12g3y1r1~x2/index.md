@@ -52,11 +52,11 @@ Its **ΔTartan distance** from the master is **1.04** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/">Platt</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2&amp;base=g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2" title="compare in the TTD">0.49</a></div><div class="nn-threads">448</div><div class="nn-name"><a href="/variants/s15/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2/">Platt</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-84px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/">Platt</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2&amp;base=g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2" title="compare in the TTD">0.49</a></div><div class="nn-threads">448</div><div class="nn-name"><a href="/variants/s15/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2/">Platt</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

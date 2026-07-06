@@ -31,11 +31,11 @@ One full sett is **310 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/30 DY4 DB4 R4 DB12 DG60 DB12 R4 DB4 DY4 DB30 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">310</div><div class="nn-name nn-base"><a href="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/">Hydesville Tower</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6dr30db6dr30db6g6db6dr6db15r2g10db15r2&amp;base=db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/">Great Dane, The (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-284px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">310</div><div class="nn-name nn-base"><a href="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/">Hydesville Tower</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6dr30db6dr30db6g6db6dr6db15r2g10db15r2&amp;base=db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139" title="compare in the TTD">2.84</a></div><div class="nn-threads nn-far">272</div><div class="nn-name nn-far"><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/">Great Dane, The (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

@@ -27,11 +27,11 @@ One full sett is **266 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/18 K4 DG4 G26 K4 G4 DY2 DG26 K52 DY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">266</div><div class="nn-name nn-base"><a href="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/">Pride of Ireland Fashion Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg14k1dg2k1dg2k10g14r2&amp;base=dg9k2dg2g13k2g2dy1dg13k26dy2~x2" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">76</div><div class="nn-name nn-far"><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/">Manor (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/dg14k1dg2k1dg2k10g14r2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-212px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">266</div><div class="nn-name nn-base"><a href="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/">Pride of Ireland Fashion Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg14k1dg2k1dg2k10g14r2&amp;base=dg9k2dg2g13k2g2dy1dg13k26dy2~x2" title="compare in the TTD">2.51</a></div><div class="nn-threads nn-far">76</div><div class="nn-name nn-far"><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/">Manor (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg14k1dg2k1dg2k10g14r2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

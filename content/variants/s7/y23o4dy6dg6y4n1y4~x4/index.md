@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **0.62** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/y23o4dy6dg6y4lb1y4/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">276</div><div class="nn-name nn-base"><a href="/variants/s7/y23o4dy6dg6y4n1y4~x4/">Tricor (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/y23o4dy6dg6y4n1y4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o62n17ly12y8dg8~x2&amp;base=y23o4dy6dg6y4n1y4~x4" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s5/o62n17ly12y8dg8~x2/">Dundhuin Dress (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s5/o62n17ly12y8dg8~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-16px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">276</div><div class="nn-name nn-base"><a href="/variants/s7/y23o4dy6dg6y4n1y4~x4/">Tricor (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/y23o4dy6dg6y4n1y4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o62n17ly12y8dg8~x2&amp;base=y23o4dy6dg6y4n1y4~x4" title="compare in the TTD">2.90</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s5/o62n17ly12y8dg8~x2/">Dundhuin Dress (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/o62n17ly12y8dg8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

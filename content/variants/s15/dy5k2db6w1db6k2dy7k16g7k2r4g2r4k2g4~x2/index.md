@@ -31,11 +31,11 @@ One full sett is **262 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/10 K4 DB12 W2 DB12 K4 DY14 K32 G14 K4 R8 G4 R8 K4 G/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">262</div><div class="nn-name nn-base"><a href="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/">Redgate (Connecticut) Hunting #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2&amp;base=dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">262</div><div class="nn-name"><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/">Redgate Hunting #2 (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-212px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">262</div><div class="nn-name nn-base"><a href="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/">Redgate (Connecticut) Hunting #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2&amp;base=dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">262</div><div class="nn-name"><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/">Redgate Hunting #2 (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

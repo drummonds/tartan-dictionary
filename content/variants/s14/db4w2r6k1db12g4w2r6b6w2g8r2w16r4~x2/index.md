@@ -23,11 +23,11 @@ One full sett is **284 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/8 W4 R12 K2 DB24 G8 W4 R12 B12 W4 G16 R4 W32 R/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">284</div><div class="nn-name nn-base"><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/">MacFarlane, dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2&amp;base=db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/">MacFarlane Dress Clan Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-58px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">284</div><div class="nn-name nn-base"><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/">MacFarlane, dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2&amp;base=db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">288</div><div class="nn-name nn-far"><a href="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/">MacFarlane Dress Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

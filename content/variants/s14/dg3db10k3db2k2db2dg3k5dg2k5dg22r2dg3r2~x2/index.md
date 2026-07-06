@@ -27,11 +27,11 @@ One full sett is **254 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/6 DB20 K6 DB4 K4 DB4 DG6 K10 DG4 K10 DG44 R4 DG6 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/">Lochcarron Hunting Corporate Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2&amp;base=dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/">Lochcarron Hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-111px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/">Lochcarron Hunting Corporate Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2&amp;base=dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2" title="compare in the TTD">2.60</a></div><div class="nn-threads nn-far">254</div><div class="nn-name nn-far"><a href="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/">Lochcarron Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

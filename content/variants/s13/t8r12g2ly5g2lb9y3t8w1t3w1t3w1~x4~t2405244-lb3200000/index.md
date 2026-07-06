@@ -30,11 +30,11 @@ One full sett is **428 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/32 R48 G8 LY20 G8 LB36 Y12 T32 W4 T12 W4 T12 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">428</div><div class="nn-name nn-base"><a href="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000/">Saint Joseph de Sorel #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2&amp;base=t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000" title="compare in the TTD">1.38</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/">Saint Joseph de Sorel (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-14px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">428</div><div class="nn-name nn-base"><a href="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000/">Saint Joseph de Sorel #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2&amp;base=t8r12g2ly5g2lb9y3t8w1t3w1t3w1~x4~t2405244-lb3200000" title="compare in the TTD">1.38</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/">Saint Joseph de Sorel (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/lb14r12g2ly5g2n9dy2lb8w1lb3w1lb3w1lb8~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

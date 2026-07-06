@@ -46,11 +46,11 @@ One full sett is **344 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/16 DB8 G2 DB2 G2 DB48 K16 G8 DB2 G2 DB2 G8 DB16 G2 DB2 G2 DB2 K16 G16 DB4 G/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">344</div><div class="nn-name nn-base"><a href="/variants/s21/g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2/">Matheson Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s21/g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2/sett.png" alt="sett" loading="lazy" style="width:640px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4&amp;base=g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2" title="compare in the TTD">0.07</a></div><div class="nn-threads">680</div><div class="nn-name"><a href="/variants/s21/g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4/">Matheson Htg (Clan)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:640px;height:26px;background-image:url(/variants/s21/g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4/sett.png);background-size:640px 26px;background-repeat:repeat-x;background-position-x:-468px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">344</div><div class="nn-name nn-base"><a href="/variants/s21/g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2/">Matheson Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s21/g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2/sett.png" alt="sett" loading="lazy" style="width:640px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4&amp;base=g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2" title="compare in the TTD">0.07</a></div><div class="nn-threads">680</div><div class="nn-name"><a href="/variants/s21/g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4/">Matheson Htg (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2~x4/sett.png" alt="sett" loading="lazy" style="width:640px"></div></div>
 
 ## Neighbour map
 

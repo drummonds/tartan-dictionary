@@ -29,11 +29,11 @@ One full sett is **364 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/98 G6 K44 R4 T66 DB6 T/14 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">364</div><div class="nn-name nn-base"><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/">U.S. 2001 Air Force (Military?)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db40t16k5b16w2dp6~x2&amp;base=dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s6/db40t16k5b16w2dp6~x2/">MacFarland-Collins (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s6/db40t16k5b16w2dp6~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-9px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">364</div><div class="nn-name nn-base"><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/">U.S. 2001 Air Force (Military?)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db40t16k5b16w2dp6~x2&amp;base=dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s6/db40t16k5b16w2dp6~x2/">MacFarland-Collins (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db40t16k5b16w2dp6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

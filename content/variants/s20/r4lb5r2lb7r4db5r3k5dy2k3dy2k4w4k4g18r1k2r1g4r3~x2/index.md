@@ -39,11 +39,11 @@ One full sett is **318 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 LB10 R4 LB14 R8 DB10 R6 K10 DY4 K6 DY4 K8 W8 K8 G36 R2 K4 R2 G8 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">318</div><div class="nn-name nn-base"><a href="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/">Anderson of Kinneddar Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6&amp;base=r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2" title="compare in the TTD">0.06</a></div><div class="nn-threads">308</div><div class="nn-name"><a href="/variants/s20/r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6/">Anderson of Kinnedar, hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:608px;height:26px;background-image:url(/variants/s20/r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6/sett.png);background-size:608px 26px;background-repeat:repeat-x;background-position-x:-144px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">318</div><div class="nn-name nn-base"><a href="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/">Anderson of Kinneddar Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6&amp;base=r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2" title="compare in the TTD">0.06</a></div><div class="nn-threads">308</div><div class="nn-name"><a href="/variants/s20/r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6/">Anderson of Kinnedar, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6/sett.png" alt="sett" loading="lazy" style="width:608px"></div></div>
 
 ## Neighbour map
 

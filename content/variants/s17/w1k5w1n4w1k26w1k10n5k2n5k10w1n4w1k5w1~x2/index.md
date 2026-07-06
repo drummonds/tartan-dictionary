@@ -31,11 +31,11 @@ One full sett is **328 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/2 K10 W2 N8 W2 K52 W2 K20 N10 K4 N10 K20 W2 N8 W2 K10 W/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">328</div><div class="nn-name nn-base"><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/">Clergy 5</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1&amp;base=w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:512px;height:26px;background-image:url(/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/sett.png);background-size:512px 26px;background-repeat:repeat-x;background-position-x:-359px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">328</div><div class="nn-name nn-base"><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/">Clergy 5</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1&amp;base=w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/">Clergy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/sett.png" alt="sett" loading="lazy" style="width:512px"></div></div>
 
 ## Neighbour map
 

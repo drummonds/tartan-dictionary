@@ -29,11 +29,11 @@ One full sett is **340 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/12 DB8 Y4 DB34 G4 DB4 G4 DB16 G52 DB12 G8 K4 G8 W/12 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">340</div><div class="nn-name nn-base"><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/">Hay Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k6g3k3g28db4g4db10g4db4g4db24g5w3~x2&amp;base=g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2" title="compare in the TTD">2.17</a></div><div class="nn-threads nn-far">390</div><div class="nn-name nn-far"><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/">Marthas Vineyard (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-322px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">340</div><div class="nn-name nn-base"><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/">Hay Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k6g3k3g28db4g4db10g4db4g4db24g5w3~x2&amp;base=g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2" title="compare in the TTD">2.17</a></div><div class="nn-threads nn-far">390</div><div class="nn-name nn-far"><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/">Marthas Vineyard (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

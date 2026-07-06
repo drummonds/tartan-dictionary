@@ -29,11 +29,11 @@ One full sett is **254 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/90 N8 K10 N3 K4 G4 K3 R16 K14 LO6 K/28 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/">Father’s Pride, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y6k2r8k4dr64dg14k63r4k4r8k2y6&amp;base=dy90n8k10n3k4g4k3r16k14lo6k28" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">358</div><div class="nn-name nn-far"><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/">Integrated Landscape Management (ILM)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-222px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/">Father’s Pride, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y6k2r8k4dr64dg14k63r4k4r8k2y6&amp;base=dy90n8k10n3k4g4k3r16k14lo6k28" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">358</div><div class="nn-name nn-far"><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/">Integrated Landscape Management (ILM)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

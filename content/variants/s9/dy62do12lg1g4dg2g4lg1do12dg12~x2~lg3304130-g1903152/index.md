@@ -29,11 +29,11 @@ One full sett is **292 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/124 DO24 LG2 G8 DG4 G8 LG2 DO24 DG/24 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s9/dy62do12lg1g4dg2g4lg1do12dg12~x2~lg3304130-g1903152/">Roast Den, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dy62do12lg1g4dg2g4lg1do12dg12~x2~lg3304130-g1903152/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y100o26dg3b2&amp;base=dy62do12lg1g4dg2g4lg1do12dg12~x2~lg3304130-g1903152" title="compare in the TTD">2.93</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s4/y100o26dg3b2/">13, Irish Regiment</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s4/y100o26dg3b2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-152px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s9/dy62do12lg1g4dg2g4lg1do12dg12~x2~lg3304130-g1903152/">Roast Den, The</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dy62do12lg1g4dg2g4lg1do12dg12~x2~lg3304130-g1903152/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y100o26dg3b2&amp;base=dy62do12lg1g4dg2g4lg1do12dg12~x2~lg3304130-g1903152" title="compare in the TTD">2.93</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s4/y100o26dg3b2/">13, Irish Regiment</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y100o26dg3b2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

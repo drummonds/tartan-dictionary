@@ -28,14 +28,14 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/k4w2g18k13db12k2~x2/">Melville</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/k4w2g18k13db12k2~x2/"><img src="/variants/s6/k4w2g18k13db12k2~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/k5w2g18k17dr16k3/">Melville</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/k5w2g18k17dr16k3/"><img src="/variants/s6/k5w2g18k17dr16k3/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k4w2g13k13b12k2~x2/">Melville</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k4w2g13k13b12k2~x2/"><img src="/variants/s6/k4w2g13k13b12k2~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k5w2g18k17db16k3/">Melville</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/k5w2g18k17db16k3/"><img src="/variants/s6/k5w2g18k17db16k3/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/k4w2g18k13db12k2~x2/">Melville</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/k4w2g18k13db12k2~x2/"><img src="/variants/s6/k4w2g18k13db12k2~x2/sett.png" alt="Melville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

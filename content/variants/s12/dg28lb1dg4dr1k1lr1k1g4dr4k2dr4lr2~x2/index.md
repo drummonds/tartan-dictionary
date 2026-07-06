@@ -38,11 +38,11 @@ One full sett is **152 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/56 LB2 DG8 DR2 K2 LR2 K2 G8 DR8 K4 DR8 LR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/">Carroll O'Reed</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2&amp;base=dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">294</div><div class="nn-name nn-far"><a href="/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/">MacFarlane Hunting (MacGregor Hastie)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-337px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/">Carroll O'Reed</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2&amp;base=dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">294</div><div class="nn-name nn-far"><a href="/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/">MacFarlane Hunting (MacGregor Hastie)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

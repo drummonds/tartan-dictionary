@@ -29,11 +29,11 @@ One full sett is **236 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/4 G60 K2 T10 W6 T10 K2 DY24 B/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/">St Brigid's Quirindi</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2dy12k1t5w3t5k1g30ly2~x2&amp;base=y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266" title="compare in the TTD">0.00</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/">St Brigid's Parish Triple Celebratio</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-155px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/">St Brigid's Quirindi</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db2dy12k1t5w3t5k1g30ly2~x2&amp;base=y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266" title="compare in the TTD">0.00</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/">St Brigid's Parish Triple Celebratio</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

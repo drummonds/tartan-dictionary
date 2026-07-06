@@ -27,11 +27,11 @@ One full sett is **256 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/24 T7 DG7 T7 DG7 DB22 T7 DB4 DY4 DB4 T40 R/14 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/">Powys Welsh District Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg24t7dg7t7dg7db22t7db4dy4db4t40r14&amp;base=dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275" title="compare in the TTD">0.00</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/">Powys (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-74px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/">Powys Welsh District Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg24t7dg7t7dg7db22t7db4dy4db4t40r14&amp;base=dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275" title="compare in the TTD">0.00</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/">Powys (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

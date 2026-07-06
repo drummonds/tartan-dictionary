@@ -41,11 +41,11 @@ One full sett is **484 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 DY4 G8 DY4 G8 DY36 R36 DY2 Y8 DY2 R36 DY36 G36 DY2 W/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">484</div><div class="nn-name nn-base"><a href="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/">Prince Edward Island (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2&amp;base=g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2" title="compare in the TTD">0.40</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/">Prince Edward Island District Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-4px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">484</div><div class="nn-name nn-base"><a href="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/">Prince Edward Island (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2&amp;base=g20dy2g4dy2g4dy18r18dy1y4dy1r18dy18g18dy1w4~x2" title="compare in the TTD">0.40</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/">Prince Edward Island District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

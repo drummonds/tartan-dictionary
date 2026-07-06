@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/y4b3y1b17db40b2db3~x2/">Danzas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><img src="/variants/s7/y4b3y1b17db40b2db3~x2/sett.png" alt="Danzas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/y4t3y1t17db40t2db3~x2/">Danzas</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><img src="/variants/s7/y4t3y1t17db40t2db3~x2/sett.png" alt="Danzas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/y4b3y1b17db40b2db3~x2/">Danzas</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><img src="/variants/s7/y4b3y1b17db40b2db3~x2/sett.png" alt="Danzas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s7/dt4dr1dt4dr1dg14n1dg1~x4/">Pinehurst Resort</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/dt4dr1dt4dr1dg14n1dg1~x4/"><img src="/variants/s7/dt4dr1dt4dr1dg14n1dg1~x4/sett.png" alt="Pinehurst Resort sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

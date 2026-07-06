@@ -27,11 +27,11 @@ One full sett is **318 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/12 K8 DR16 G32 DR12 LB4 DR4 G4 DR4 LB4 DR12 G36 DP12 G4 DP/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">318</div><div class="nn-name nn-base"><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/">MacCall Family Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2&amp;base=dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/">Glen Orchy #2 or MacIntyre</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-92px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">318</div><div class="nn-name nn-base"><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/">MacCall Family Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2&amp;base=dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2" title="compare in the TTD">2.65</a></div><div class="nn-threads nn-far">280</div><div class="nn-name nn-far"><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/">Glen Orchy #2 or MacIntyre</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

@@ -38,11 +38,11 @@ One full sett is **256 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/10 K2 Y4 K2 DG38 K30 Y4 DB40 DG/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/">Maine Acadia</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db28dg2r5dg2r5k21dg23k2~x2~db1003265&amp;base=dg5k1y2k1dg19k15y2db20dg3~x2" title="compare in the TTD">2.63</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/">Bentley</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-152px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/">Maine Acadia</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db28dg2r5dg2r5k21dg23k2~x2~db1003265&amp;base=dg5k1y2k1dg19k15y2db20dg3~x2" title="compare in the TTD">2.63</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/">Bentley</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

@@ -43,11 +43,11 @@ One full sett is **296 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="N/8 K6 N40 DB12 W4 K12 W4 R12 DB44 DY6 DB/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/">Asman Hunting (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4dy3db22r6w2k6w2db6n20k3n4~x2&amp;base=db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000" title="compare in the TTD">0.00</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/">Asman Hunting (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-221px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/">Asman Hunting (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4dy3db22r6w2k6w2db6n20k3n4~x2&amp;base=db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000" title="compare in the TTD">0.00</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/">Asman Hunting (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

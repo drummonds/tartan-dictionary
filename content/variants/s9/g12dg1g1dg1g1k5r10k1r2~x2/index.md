@@ -38,11 +38,11 @@ One full sett is **108 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/24 DG2 G2 DG2 G2 K10 R20 K2 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">108</div><div class="nn-name nn-base"><a href="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/">Lindsay #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg12g6dg6r15k1r1k2~x2&amp;base=g12dg1g1dg1g1k5r10k1r2~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/">Cook (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s7/dg12g6dg6r15k1r1k2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-311px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">108</div><div class="nn-name nn-base"><a href="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/">Lindsay #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg12g6dg6r15k1r1k2~x2&amp;base=g12dg1g1dg1g1k5r10k1r2~x2" title="compare in the TTD">2.99</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/">Cook (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg12g6dg6r15k1r1k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

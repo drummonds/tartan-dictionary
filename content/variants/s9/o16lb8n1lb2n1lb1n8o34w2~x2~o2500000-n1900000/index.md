@@ -30,11 +30,11 @@ One full sett is **256 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/32 LB16 N2 LB4 N2 LB2 N16 O68 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/">Stuart of Bute 2013 (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173&amp;base=o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">362</div><div class="nn-name nn-far"><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/">Dallas (Lochcarron) (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-115px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/">Stuart of Bute 2013 (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173&amp;base=o16lb8n1lb2n1lb1n8o34w2~x2~o2500000-n1900000" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">362</div><div class="nn-name nn-far"><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/">Dallas (Lochcarron) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

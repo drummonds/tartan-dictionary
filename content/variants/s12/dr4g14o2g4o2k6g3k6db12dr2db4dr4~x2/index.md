@@ -29,11 +29,11 @@ One full sett is **236 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 G28 O4 G8 O4 K12 G6 K12 DB24 DR4 DB8 DR/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/">Kinloch Anderson #2 (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2&amp;base=dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2" title="compare in the TTD">1.66</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/">Kinloch Anderson Hunting</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-111px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/">Kinloch Anderson #2 (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2&amp;base=dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2" title="compare in the TTD">1.66</a></div><div class="nn-threads">240</div><div class="nn-name"><a href="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/">Kinloch Anderson Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

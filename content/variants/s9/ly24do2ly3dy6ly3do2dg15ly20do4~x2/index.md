@@ -39,11 +39,11 @@ One full sett is **260 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/48 DO4 LY6 DY12 LY6 DO4 DG30 LY40 DO/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/">Land's End Camel</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3ly8r3ly20dy20ly3dy8ly3~x2&amp;base=ly24do2ly3dy6ly3do2dg15ly20do4~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/">Miyuki #4</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-239px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/">Land's End Camel</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/ly24do2ly3dy6ly3do2dg15ly20do4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3ly8r3ly20dy20ly3dy8ly3~x2&amp;base=ly24do2ly3dy6ly3do2dg15ly20do4~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">260</div><div class="nn-name nn-far"><a href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/">Miyuki #4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

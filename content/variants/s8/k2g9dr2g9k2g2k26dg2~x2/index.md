@@ -23,11 +23,11 @@ One full sett is **208 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/4 K52 G4 K4 G18 DR4 G18 K/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">208</div><div class="nn-name nn-base"><a href="/variants/s8/k2g9dr2g9k2g2k26dg2~x2/">Land's End</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k2g9dr2g9k2g2k26dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k88g17k8dg28k8r6~x2~g2408144-dg1806142&amp;base=k2g9dr2g9k2g2k26dg2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">432</div><div class="nn-name nn-far"><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/">Childers Regimental Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-19px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">208</div><div class="nn-name nn-base"><a href="/variants/s8/k2g9dr2g9k2g2k26dg2~x2/">Land's End</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k2g9dr2g9k2g2k26dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k88g17k8dg28k8r6~x2~g2408144-dg1806142&amp;base=k2g9dr2g9k2g2k26dg2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">432</div><div class="nn-name nn-far"><a href="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/">Childers Regimental Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k88g17k8dg28k8r6~x2~g2408144-dg1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

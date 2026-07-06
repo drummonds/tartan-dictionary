@@ -29,11 +29,11 @@ One full sett is **288 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/5 DP7 LB40 LP5 LB5 LP32 LB5 LP5 DP40 LP/5 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/">Intelligent Finance (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000&amp;base=w5dp7lb40lp5lb5lp32lb5lp5dp40lp5" title="compare in the TTD">0.00</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/">Intelligent Finance</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-204px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/">Intelligent Finance (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/w5dp7lb40lp5lb5lp32lb5lp5dp40lp5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000&amp;base=w5dp7lb40lp5lb5lp32lb5lp5dp40lp5" title="compare in the TTD">0.00</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/">Intelligent Finance</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/n5dp40n5lb5n32lb5n5lb40dp7w5~n1903303-w3600000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

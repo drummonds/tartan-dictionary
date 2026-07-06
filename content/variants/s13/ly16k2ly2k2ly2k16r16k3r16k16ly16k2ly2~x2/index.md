@@ -30,11 +30,11 @@ One full sett is **408 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/32 K4 LY4 K4 LY4 K32 R32 K6 R32 K32 LY32 K4 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">408</div><div class="nn-name nn-base"><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/">Unidentified (NZ)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2&amp;base=ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2" title="compare in the TTD">2.46</a></div><div class="nn-threads nn-far">414</div><div class="nn-name nn-far"><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/">Campbell Collegiate (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-310px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">408</div><div class="nn-name nn-base"><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/">Unidentified (NZ)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2&amp;base=ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2" title="compare in the TTD">2.46</a></div><div class="nn-threads nn-far">414</div><div class="nn-name nn-far"><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/">Campbell Collegiate (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

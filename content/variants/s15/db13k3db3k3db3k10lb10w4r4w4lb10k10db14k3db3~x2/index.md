@@ -27,11 +27,11 @@ One full sett is **356 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/26 K6 DB6 K6 DB6 K20 LB20 W8 R8 W8 LB20 K20 DB28 K6 DB/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">356</div><div class="nn-name nn-base"><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/">Palatine Union Personal Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2&amp;base=db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/">Blanton (Dress)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-216px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">356</div><div class="nn-name nn-base"><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/">Palatine Union Personal Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2&amp;base=db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2" title="compare in the TTD">2.91</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/">Blanton (Dress)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

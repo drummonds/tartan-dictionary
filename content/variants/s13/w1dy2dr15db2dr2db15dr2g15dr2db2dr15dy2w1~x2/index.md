@@ -31,11 +31,11 @@ One full sett is **300 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/2 DY4 DR30 DB4 DR4 G30 DR4 DB30 DR4 DB4 DR30 DY4 W/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/">Robbie (Stirling) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2&amp;base=w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s13/w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2/">Robbie (Commemorative)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-189px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/">Robbie (Stirling) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2&amp;base=w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s13/w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2/">Robbie (Commemorative)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

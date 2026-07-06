@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db3r1db10k8g10r1g3~x4/">Blair</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><img src="/variants/s7/db3r1db10k8g10r1g3~x4/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/">Blair</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/"><img src="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db3r1db10k8g10r1g3~x4/">Blair</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><img src="/variants/s7/db3r1db10k8g10r1g3~x4/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db4r1db18k20g18r1g4~x2/">Blair (Name)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><img src="/variants/s7/db4r1db18k20g18r1g4~x2/sett.png" alt="Blair (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db3r2db22k11g22r2g3~x2/">Gammell (1978) (Personal)</a></td></tr>

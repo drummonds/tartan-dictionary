@@ -30,11 +30,11 @@ One full sett is **256 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/12 R4 K20 G12 K6 DGi16 K6 DG18 K26 R10 K2 DP/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/">Ross (Musselburgh) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000&amp;base=k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142" title="compare in the TTD">1.20</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/">Dilanan (Musselburgh) (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-74px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/">Ross (Musselburgh) (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000&amp;base=k6r2k10g6k3dgi8k3dg9k13r5k1dp2~x2~g2408144-dgi1806142" title="compare in the TTD">1.20</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/">Dilanan (Musselburgh) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

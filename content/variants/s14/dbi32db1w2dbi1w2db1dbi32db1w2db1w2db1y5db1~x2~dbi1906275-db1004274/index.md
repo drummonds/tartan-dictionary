@@ -29,11 +29,11 @@ One full sett is **270 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DBi/64 DB2 W4 DBi2 W4 DB2 DBi64 DB2 W4 DB2 W4 DB2 Y10 DB/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">270</div><div class="nn-name nn-base"><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/">Worsoff (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db45t3db3t15db3t3db7w1db7dy1db1dy1~x2&amp;base=dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274" title="compare in the TTD">1.50</a></div><div class="nn-threads">268</div><div class="nn-name"><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/">Deuchars IPA (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-132px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">270</div><div class="nn-name nn-base"><a href="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/">Worsoff (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db45t3db3t15db3t3db7w1db7dy1db1dy1~x2&amp;base=dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1~x2~dbi1906275-db1004274" title="compare in the TTD">1.50</a></div><div class="nn-threads">268</div><div class="nn-name"><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/">Deuchars IPA (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

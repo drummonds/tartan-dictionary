@@ -39,11 +39,11 @@ One full sett is **762 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/3 LB24 G8 LB12 G44 DR6 G44 LB48 G6 LB48 G44 LO6 G44 LB12 G8 LB24 G/3 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">762</div><div class="nn-name nn-base"><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/">Jubilee (Artefact)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5&amp;base=g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3" title="compare in the TTD">1.84</a></div><div class="nn-threads">290</div><div class="nn-name"><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/">Jubilee</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:512px;height:26px;background-image:url(/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/sett.png);background-size:512px 26px;background-repeat:repeat-x;background-position-x:-349px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">762</div><div class="nn-name nn-base"><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/">Jubilee (Artefact)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/sett.png" alt="sett" loading="lazy" style="width:512px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5&amp;base=g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3" title="compare in the TTD">1.84</a></div><div class="nn-threads">290</div><div class="nn-name"><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/">Jubilee</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/sett.png" alt="sett" loading="lazy" style="width:512px"></div></div>
 
 ## Neighbour map
 

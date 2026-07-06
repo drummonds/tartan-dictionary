@@ -31,11 +31,11 @@ One full sett is **266 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 DB4 G4 DB44 R8 G6 R6 G4 R44 K4 R4 Y/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">266</div><div class="nn-name nn-base"><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/">Harris, Jeffrey S (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2db2g2db22r4g3r3g2r22k2r2ly2~x2&amp;base=k3db2g2db22r4g3r3g2r22k2r2y2~x2" title="compare in the TTD">0.03</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/">Harris, Jeffrey S (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-264px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">266</div><div class="nn-name nn-base"><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/">Harris, Jeffrey S (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2db2g2db22r4g3r3g2r22k2r2ly2~x2&amp;base=k3db2g2db22r4g3r3g2r22k2r2y2~x2" title="compare in the TTD">0.03</a></div><div class="nn-threads">264</div><div class="nn-name"><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/">Harris, Jeffrey S (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

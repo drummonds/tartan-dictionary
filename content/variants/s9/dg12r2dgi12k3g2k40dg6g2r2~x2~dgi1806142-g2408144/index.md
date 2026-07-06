@@ -30,11 +30,11 @@ One full sett is **296 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/24 R4 DGi24 K6 G4 K80 DG12 G4 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/">Lordship of Greencastle (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4&amp;base=dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">184</div><div class="nn-name nn-far"><a href="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/">Anthony Plaid Stewart</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-227px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/">Lordship of Greencastle (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4&amp;base=dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144" title="compare in the TTD">2.80</a></div><div class="nn-threads nn-far">184</div><div class="nn-name nn-far"><a href="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/">Anthony Plaid Stewart</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

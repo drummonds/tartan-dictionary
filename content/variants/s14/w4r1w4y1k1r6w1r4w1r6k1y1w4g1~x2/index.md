@@ -23,11 +23,11 @@ One full sett is **134 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 R2 W8 Y2 K2 R12 W2 R8 W2 R12 K2 Y2 W8 G/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">134</div><div class="nn-name nn-base"><a href="/variants/s14/w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2/">Ogilvy D</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w10r3w10y5k2r6w2r6w2r6db2y2w5g2&amp;base=w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2" title="compare in the TTD">0.94</a></div><div class="nn-threads">114</div><div class="nn-name"><a href="/variants/s14/w10r3w10y5k2r6w2r6w2r6db2y2w5g2/">Ogilvy</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/w10r3w10y5k2r6w2r6w2r6db2y2w5g2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-347px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">134</div><div class="nn-name nn-base"><a href="/variants/s14/w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2/">Ogilvy D</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w10r3w10y5k2r6w2r6w2r6db2y2w5g2&amp;base=w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2" title="compare in the TTD">0.94</a></div><div class="nn-threads">114</div><div class="nn-name"><a href="/variants/s14/w10r3w10y5k2r6w2r6w2r6db2y2w5g2/">Ogilvy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/w10r3w10y5k2r6w2r6w2r6db2y2w5g2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

@@ -39,11 +39,11 @@ One full sett is **400 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/6 R50 K16 R8 DB16 W4 DB6 W4 DB16 R8 G16 R50 Y/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">400</div><div class="nn-name nn-base"><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/">Maynard</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259&amp;base=y3r25k8r4db8w2db3w2db8r4g8r25y3~x2" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">332</div><div class="nn-name nn-far"><a href="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/">Ikelman No. 6</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-373px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">400</div><div class="nn-name nn-base"><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/">Maynard</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259&amp;base=y3r25k8r4db8w2db3w2db8r4g8r25y3~x2" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">332</div><div class="nn-name nn-far"><a href="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/">Ikelman No. 6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

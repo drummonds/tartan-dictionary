@@ -30,11 +30,11 @@ One full sett is **226 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DB4 K6 Y6 R6 K6 DY20 K24 DR6 R32 W/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s11/r2db2k3y3r3k3dy10k12dr3r16w1~x2/">Unnamed 18th century plaid (Carlisle Museum)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/r2db2k3y3r3k3dy10k12dr3r16w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008&amp;base=r2db2k3y3r3k3dy10k12dr3r16w1~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">198</div><div class="nn-name"><a href="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/">Colville (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-155px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">226</div><div class="nn-name nn-base"><a href="/variants/s11/r2db2k3y3r3k3dy10k12dr3r16w1~x2/">Unnamed 18th century plaid (Carlisle Museum)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/r2db2k3y3r3k3dy10k12dr3r16w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008&amp;base=r2db2k3y3r3k3dy10k12dr3r16w1~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">198</div><div class="nn-name"><a href="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/">Colville (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

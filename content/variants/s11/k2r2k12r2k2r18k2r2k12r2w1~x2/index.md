@@ -44,11 +44,11 @@ One full sett is **436 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 R4 K24 R4 K4 R36 K4 R4 K24 R4 W2 R4 K24 R4 K4 R36 K4 R4 K24 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">436</div><div class="nn-name nn-base"><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/">Hebrides #12</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r2k1r6k24r6k1r1k3r2k1r32k24r6k6r32k24r16k6r4k2~x2&amp;base=k2r2k12r2k2r18k2r2k12r2w1~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">798</div><div class="nn-name nn-far"><a href="/variants/s21/k3r2k1r6k24r6k1r1k3r2k1r32k24r6k6r32k24r16k6r4k2~x2/">MacLeod</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:608px;height:26px;background-image:url(/variants/s21/k3r2k1r6k24r6k1r1k3r2k1r32k24r6k6r32k24r16k6r4k2~x2/sett.png);background-size:608px 26px;background-repeat:repeat-x;background-position-x:-427px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">436</div><div class="nn-name nn-base"><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/">Hebrides #12</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3r2k1r6k24r6k1r1k3r2k1r32k24r6k6r32k24r16k6r4k2~x2&amp;base=k2r2k12r2k2r18k2r2k12r2w1~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">798</div><div class="nn-name nn-far"><a href="/variants/s21/k3r2k1r6k24r6k1r1k3r2k1r32k24r6k6r32k24r16k6r4k2~x2/">MacLeod</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/k3r2k1r6k24r6k1r1k3r2k1r32k24r6k6r32k24r16k6r4k2~x2/sett.png" alt="sett" loading="lazy" style="width:608px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

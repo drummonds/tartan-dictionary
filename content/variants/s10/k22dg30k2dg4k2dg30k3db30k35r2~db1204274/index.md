@@ -27,11 +27,11 @@ One full sett is **316 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/2 K35 DB30 K3 DG30 K2 DG4 K2 DG30 K20 K/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">316</div><div class="nn-name nn-base"><a href="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/">Phillips Welsh Name Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000&amp;base=k22dg30k2dg4k2dg30k3db30k35r2~db1204274" title="compare in the TTD">1.00</a></div><div class="nn-threads">316</div><div class="nn-name"><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/">Phillips (Welsh Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-121px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">316</div><div class="nn-name nn-base"><a href="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/">Phillips Welsh Name Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000&amp;base=k22dg30k2dg4k2dg30k3db30k35r2~db1204274" title="compare in the TTD">1.00</a></div><div class="nn-threads">316</div><div class="nn-name"><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/">Phillips (Welsh Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

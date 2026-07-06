@@ -30,11 +30,11 @@ One full sett is **418 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/4 K12 LB4 G68 W2 G10 W2 G10 W2 G68 Y2 K26 LB/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">418</div><div class="nn-name nn-base"><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/">Stirling Castle (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2db4g27lo2g1dp4g1lb2g27db4k2~x2&amp;base=lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/">Chapman-Smith, M &amp; L (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-97px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">418</div><div class="nn-name nn-base"><a href="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/">Stirling Castle (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k2db4g27lo2g1dp4g1lb2g27db4k2~x2&amp;base=lb2k6lb2g34w1g5w1g5w1g34y1k13lb1~x2" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">296</div><div class="nn-name nn-far"><a href="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/">Chapman-Smith, M &amp; L (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/k2db4g27lo2g1dp4g1lb2g27db4k2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

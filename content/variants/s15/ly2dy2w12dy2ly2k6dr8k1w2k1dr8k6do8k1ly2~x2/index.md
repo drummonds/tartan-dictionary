@@ -39,11 +39,11 @@ One full sett is **244 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/4 DY4 W24 DY4 LY4 K12 DR16 K2 W4 K2 DR16 K12 DO16 K2 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/">Dunkeld</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055&amp;base=ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">242</div><div class="nn-name"><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/">Dunkeld</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-446px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/">Dunkeld</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055&amp;base=ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2" title="compare in the TTD">1.50</a></div><div class="nn-threads">242</div><div class="nn-name"><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/">Dunkeld</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

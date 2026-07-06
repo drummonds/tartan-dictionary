@@ -33,7 +33,7 @@ One full sett is **330 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/20 K6 G6 K16 DR18 K6 DR20 DG6 DR56 G6 K6 W6 K/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 

@@ -23,11 +23,11 @@ One full sett is **254 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/68 W2 DB20 G20 W2 Y2 G4 LB4 W2 DB4 LB20 R12 W/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/">Holyrood, Chair</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r30w1dp4y1dg14r6dp4lb2w1~x4&amp;base=r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">380</div><div class="nn-name nn-far"><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/">Perth - 1819 (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-9px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">254</div><div class="nn-name nn-base"><a href="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/">Holyrood, Chair</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r30w1dp4y1dg14r6dp4lb2w1~x4&amp;base=r34w1db10g10w1y1g2lb2w1db2lb10r6w1~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">380</div><div class="nn-name nn-far"><a href="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/">Perth - 1819 (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r30w1dp4y1dg14r6dp4lb2w1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **1.61** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/db4k2db20k13y1k2y2k2y1dp23n4/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/">Michigan State Police (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4k2db20k13y1k2y2k2y1dp23n4~x2&amp;base=db4k2db20k13y1k2y2k2y1b23n4~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/">Michigan State Police</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-214px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/">Michigan State Police (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4k2db20k13y1k2y2k2y1dp23n4~x2&amp;base=db4k2db20k13y1k2y2k2y1b23n4~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/">Michigan State Police</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db4k2db20k13y1k2y2k2y1dp23n4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

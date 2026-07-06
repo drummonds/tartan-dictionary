@@ -29,11 +29,11 @@ One full sett is **280 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LR/8 DT12 R6 DT20 DB28 LY12 LR36 LY12 DB8 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s10/lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2/">Gray, Sir John Hamilton (Commem)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8g14r6g24db30y10w40y10db7y4&amp;base=lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">294</div><div class="nn-name nn-far"><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/">John, Hamilton Gray</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/w8g14r6g24db30y10w40y10db7y4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-3px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s10/lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2/">Gray, Sir John Hamilton (Commem)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w8g14r6g24db30y10w40y10db7y4&amp;base=lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2" title="compare in the TTD">2.56</a></div><div class="nn-threads nn-far">294</div><div class="nn-name nn-far"><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/">John, Hamilton Gray</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w8g14r6g24db30y10w40y10db7y4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

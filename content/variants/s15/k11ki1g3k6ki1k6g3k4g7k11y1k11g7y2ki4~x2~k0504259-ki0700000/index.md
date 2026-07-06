@@ -43,11 +43,11 @@ One full sett is **282 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/22 Ki2 G6 K12 Ki2 K12 G6 K8 G14 K22 Y2 K22 G14 Y4 Ki/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">282</div><div class="nn-name nn-base"><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/">Eynon (Welsh Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4&amp;base=k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000" title="compare in the TTD">0.00</a></div><div class="nn-threads">141</div><div class="nn-name"><a href="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/">Beynon</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-98px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">282</div><div class="nn-name nn-base"><a href="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/">Eynon (Welsh Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4&amp;base=k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000" title="compare in the TTD">0.00</a></div><div class="nn-threads">141</div><div class="nn-name"><a href="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/">Beynon</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

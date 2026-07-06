@@ -31,11 +31,11 @@ One full sett is **248 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/30 R6 DY16 DP8 G10 DP14 G24 Y4 DY10 DP3 DY/28 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/">Greyfriars</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t30r6dy16lp6g10lp14g24y4dy10lp3dy28&amp;base=db30r6dy16dp8g10dp14g24y4dy10dp3dy28" title="compare in the TTD">0.02</a></div><div class="nn-threads">244</div><div class="nn-name"><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/">Greyfriars (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-121px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">248</div><div class="nn-name nn-base"><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/">Greyfriars</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=t30r6dy16lp6g10lp14g24y4dy10lp3dy28&amp;base=db30r6dy16dp8g10dp14g24y4dy10dp3dy28" title="compare in the TTD">0.02</a></div><div class="nn-threads">244</div><div class="nn-name"><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/">Greyfriars (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

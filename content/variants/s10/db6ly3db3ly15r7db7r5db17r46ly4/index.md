@@ -30,11 +30,11 @@ One full sett is **216 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/6 LY3 DB3 LY15 R7 DB7 R5 DB17 R46 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">216</div><div class="nn-name nn-base"><a href="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/">Harry/Parry</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db6n3db3n15r7db7r5db17r46n4&amp;base=db6ly3db3ly15r7db7r5db17r46ly4" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far2">216</div><div class="nn-name nn-far2"><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/">Harry (Welsh Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/db6n3db3n15r7db7r5db17r46n4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-74px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">216</div><div class="nn-name nn-base"><a href="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/">Harry/Parry</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db6n3db3n15r7db7r5db17r46n4&amp;base=db6ly3db3ly15r7db7r5db17r46ly4" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far2">216</div><div class="nn-name nn-far2"><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/">Harry (Welsh Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db6n3db3n15r7db7r5db17r46n4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -30,11 +30,11 @@ One full sett is **260 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/8 G52 T8 K12 LY4 K4 LR4 K4 G16 DR8 K4 DR8 LR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/">Stewart (King George VI)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g24k4y2k3db2k6r4k2r3w2~x2&amp;base=dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4" title="compare in the TTD">2.21</a></div><div class="nn-threads nn-far">210</div><div class="nn-name nn-far"><a href="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/">King George VI</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-290px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/">Stewart (King George VI)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g24k4y2k3db2k6r4k2r3w2~x2&amp;base=dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4" title="compare in the TTD">2.21</a></div><div class="nn-threads nn-far">210</div><div class="nn-name nn-far"><a href="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/">King George VI</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

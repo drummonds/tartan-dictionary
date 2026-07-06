@@ -30,11 +30,11 @@ One full sett is **224 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/48 LO16 DO4 LO16 DO4 LO16 DY30 G/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">224</div><div class="nn-name nn-base"><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/">Unidentified from Winnipeg</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=do2lo2do15lo1w10ly15lo2ly2~x2&amp;base=w24lo8do2lo8do2lo8dy15g2~x2" title="compare in the TTD">2.13</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/">Bannockbane Orange Stripes</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-87px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">224</div><div class="nn-name nn-base"><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/">Unidentified from Winnipeg</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=do2lo2do15lo1w10ly15lo2ly2~x2&amp;base=w24lo8do2lo8do2lo8dy15g2~x2" title="compare in the TTD">2.13</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/">Bannockbane Orange Stripes</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

@@ -30,11 +30,11 @@ One full sett is **280 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/4 O24 LY8 W4 K32 W4 LY8 W36 K4 W16 DY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/">Kintyre</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1n6ly2w1k8w1ly2w9k1w4dy1~x4&amp;base=dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000" title="compare in the TTD">0.00</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/">Kintyre (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-91px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/">Kintyre</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1n6ly2w1k8w1ly2w9k1w4dy1~x4&amp;base=dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000" title="compare in the TTD">0.00</a></div><div class="nn-threads">280</div><div class="nn-name"><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/">Kintyre (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

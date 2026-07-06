@@ -31,11 +31,11 @@ One full sett is **300 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/26 R4 DB18 R8 Y2 R8 Y4 R10 DY6 W10 DY12 W4 G14 R4 G26 R/14 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s16/db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2/">Riley-Utter Union (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2&amp;base=db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2" title="compare in the TTD">0.08</a></div><div class="nn-threads">302</div><div class="nn-name"><a href="/variants/s16/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2/">Riley-Utter Union (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:480px;height:26px;background-image:url(/variants/s16/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2/sett.png);background-size:480px 26px;background-repeat:repeat-x;background-position-x:-478px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s16/db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2/">Riley-Utter Union (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2&amp;base=db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2" title="compare in the TTD">0.08</a></div><div class="nn-threads">302</div><div class="nn-name"><a href="/variants/s16/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2/">Riley-Utter Union (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

@@ -39,11 +39,11 @@ One full sett is **258 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DO/78 DY8 DR12 LY4 DR4 W4 DR4 DY24 DO12 DR4 DO12 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">258</div><div class="nn-name nn-base"><a href="/variants/s12/do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2~x2/">Glen Clova #2 (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2&amp;base=do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">322</div><div class="nn-name nn-far"><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/">Tyrone, County</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-1px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">258</div><div class="nn-name nn-base"><a href="/variants/s12/do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2~x2/">Glen Clova #2 (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2&amp;base=do39dy4dr6ly2dr2w2dr2dy12do6dr2do6ly2~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">322</div><div class="nn-name nn-far"><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/">Tyrone, County</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

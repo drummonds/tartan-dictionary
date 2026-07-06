@@ -38,11 +38,11 @@ One full sett is **268 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 DB28 R8 DB8 K16 Y4 K8 G20 R16 K14 R8 DB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/">Unidentified pattern</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8db3r18db3r3k6g12r3g12k6db12k2db7~x2&amp;base=db2r4k7r8g10k4y2k8db4r4db14r2~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">350</div><div class="nn-name nn-far"><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/">Unidentified Sample #2</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-121px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/">Unidentified pattern</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r8db3r18db3r3k6g12r3g12k6db12k2db7~x2&amp;base=db2r4k7r8g10k4y2k8db4r4db14r2~x2" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">350</div><div class="nn-name nn-far"><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/">Unidentified Sample #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

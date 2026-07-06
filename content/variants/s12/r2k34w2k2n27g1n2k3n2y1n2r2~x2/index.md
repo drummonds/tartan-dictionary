@@ -42,11 +42,11 @@ One full sett is **312 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 K68 W4 K4 N54 G2 N4 K6 N4 Y2 N4 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">312</div><div class="nn-name nn-base"><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/">Hudson's Bay (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4w1dr36db4k1db3k10w1db4w1k8w1~x2&amp;base=r2k34w2k2n27g1n2k3n2y1n2r2~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">286</div><div class="nn-name nn-far"><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/">YMCA</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-176px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">312</div><div class="nn-name nn-base"><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/">Hudson's Bay (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4w1dr36db4k1db3k10w1db4w1k8w1~x2&amp;base=r2k34w2k2n27g1n2k3n2y1n2r2~x2" title="compare in the TTD">2.20</a></div><div class="nn-threads nn-far">286</div><div class="nn-name nn-far"><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/">YMCA</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

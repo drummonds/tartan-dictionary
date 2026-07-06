@@ -27,11 +27,11 @@ One full sett is **342 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/36 K6 DB10 K6 DB36 DG12 K10 DG12 O24 R10 O24 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">342</div><div class="nn-name nn-base"><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/">Longford Irish County Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8k3db18g6k8g6o12r5o12r3~x2&amp;base=db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058" title="compare in the TTD">1.61</a></div><div class="nn-threads">302</div><div class="nn-name"><a href="/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/">Longford</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-28px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">342</div><div class="nn-name nn-base"><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/">Longford Irish County Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8k3db18g6k8g6o12r5o12r3~x2&amp;base=db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058" title="compare in the TTD">1.61</a></div><div class="nn-threads">302</div><div class="nn-name"><a href="/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/">Longford</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

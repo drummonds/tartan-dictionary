@@ -23,11 +23,11 @@ One full sett is **118 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/5 B12 DG4 R4 DG27 B3 DG4 O/5 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">118</div><div class="nn-name nn-base"><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/">Daks, Muted Loden</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/o5b12dg4r4dg27b3dg4o5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg40r3dg4r3dg12db32lo4r3~x2&amp;base=o5b12dg4r4dg27b3dg4o5" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">318</div><div class="nn-name nn-far"><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/">U.S. Marine Corps (Military?)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-175px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">118</div><div class="nn-name nn-base"><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/">Daks, Muted Loden</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/o5b12dg4r4dg27b3dg4o5/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg40r3dg4r3dg12db32lo4r3~x2&amp;base=o5b12dg4r4dg27b3dg4o5" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">318</div><div class="nn-name nn-far"><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/">U.S. Marine Corps (Military?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

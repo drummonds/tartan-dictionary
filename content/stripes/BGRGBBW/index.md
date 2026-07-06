@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/">Manx National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><img src="/variants/s7/dp2g6r1y1db3b10w1~x2/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/dp8g31r4y4db17b64w4/">Manx National</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/dp8g31r4y4db17b64w4/"><img src="/variants/s7/dp8g31r4y4db17b64w4/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/">Manx National</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><img src="/variants/s7/dp2g6r1y1db3b10w1~x2/sett.png" alt="Manx National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

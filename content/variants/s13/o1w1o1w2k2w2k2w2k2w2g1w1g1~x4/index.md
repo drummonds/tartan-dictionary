@@ -23,11 +23,11 @@ One full sett is **152 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/4 W4 G4 W8 K8 W8 K8 W8 K8 W8 O4 W4 O/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s13/o1w1o1w2k2w2k2w2k2w2g1w1g1~x4/">Glen Flesk</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/o1w1o1w2k2w2k2w2k2w2g1w1g1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2k2w2k2w2k2w1o1g1o1~x4&amp;base=o1w1o1w2k2w2k2w2k2w2g1w1g1~x4" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">116</div><div class="nn-name nn-far"><a href="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/">Robert, Burns check</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-204px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s13/o1w1o1w2k2w2k2w2k2w2g1w1g1~x4/">Glen Flesk</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/o1w1o1w2k2w2k2w2k2w2g1w1g1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w2k2w2k2w2k2w1o1g1o1~x4&amp;base=o1w1o1w2k2w2k2w2k2w2g1w1g1~x4" title="compare in the TTD">2.78</a></div><div class="nn-threads nn-far">116</div><div class="nn-name nn-far"><a href="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/">Robert, Burns check</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

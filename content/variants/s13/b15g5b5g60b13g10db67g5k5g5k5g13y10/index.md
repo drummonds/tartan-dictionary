@@ -23,11 +23,11 @@ One full sett is **411 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/10 G13 K5 G5 K5 G5 DB67 G10 B13 G60 B5 G5 B/15 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">411</div><div class="nn-name nn-base"><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/">Beatrice, Princess.. (hunting)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2&amp;base=b15g5b5g60b13g10db67g5k5g5k5g13y10" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">492</div><div class="nn-name nn-far"><a href="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/">Princess Beatrice Hunting (MacKinlay strip)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-58px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">411</div><div class="nn-name nn-base"><a href="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/">Beatrice, Princess.. (hunting)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/b15g5b5g60b13g10db67g5k5g5k5g13y10/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2&amp;base=b15g5b5g60b13g10db67g5k5g5k5g13y10" title="compare in the TTD">2.40</a></div><div class="nn-threads nn-far">492</div><div class="nn-name nn-far"><a href="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/">Princess Beatrice Hunting (MacKinlay strip)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

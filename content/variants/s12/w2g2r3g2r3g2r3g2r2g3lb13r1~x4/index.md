@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **1.47** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/r2lb22g3r2g2r3g2r3g2r3g2w2/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/">Princess Marina (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2lb22g3r2g2r3g2r3g2r3g2w2~x4&amp;base=w2g2r3g2r3g2r3g2r2g3lb13r1~x4" title="compare in the TTD">0.65</a></div><div class="nn-threads">368</div><div class="nn-name"><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/">Princess Marina #2</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-247px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/">Princess Marina (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2lb22g3r2g2r3g2r3g2r3g2w2~x4&amp;base=w2g2r3g2r3g2r3g2r2g3lb13r1~x4" title="compare in the TTD">0.65</a></div><div class="nn-threads">368</div><div class="nn-name"><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/">Princess Marina #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

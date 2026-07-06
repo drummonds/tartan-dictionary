@@ -29,11 +29,11 @@ One full sett is **268 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Ri/6 R46 DB4 R4 DP4 R6 DB56 Y4 DB4 G/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/">Yarns to Yearn For</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4y2r34db10g4db4lb4db23w3~x2&amp;base=ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">338</div><div class="nn-name nn-far"><a href="/variants/s9/r4y2r34db10g4db4lb4db23w3~x2/">Heirloom Red Alba (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/r4y2r34db10g4db4lb4db23w3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-22px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/">Yarns to Yearn For</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r4y2r34db10g4db4lb4db23w3~x2&amp;base=ri3r23db2r2dp2r3db28y2db2g3~x2~ri2806019-r1807008" title="compare in the TTD">2.68</a></div><div class="nn-threads nn-far">338</div><div class="nn-name nn-far"><a href="/variants/s9/r4y2r34db10g4db4lb4db23w3~x2/">Heirloom Red Alba (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r4y2r34db10g4db4lb4db23w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -15,9 +15,9 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/w7db4w2db7r2db7k6w1k6dy5db3dy3g13dy4~x2/"><img src="/variants/s14/w7db4w2db7r2db7k6w1k6dy5db3dy3g13dy4~x2/sett.png" alt="Redgate (Connecticut) Dress" width="140"><br>Redgate (Connecticut) Dress</a></li>
 <li><a class="tartan" href="/variants/s9/db1r4db12r1k7g12k7dy21w1~x2/"><img src="/variants/s9/db1r4db12r1k7g12k7dy21w1~x2/sett.png" alt="Redgate (Connecticut) Hunting" width="140"><br>Redgate (Connecticut) Hunting</a></li>
 <li><a class="tartan" href="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/"><img src="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/sett.png" alt="Redgate (Connecticut) Hunting #2" width="140"><br>Redgate (Connecticut) Hunting #2</a></li>
+<li><a class="tartan" href="/variants/s13/lb21dy10lb18dr6lb18k20w2k20dg12dr6dg12dy8dg2/"><img src="/variants/s13/lb21dy10lb18dr6lb18k20w2k20dg12dr6dg12dy8dg2/sett.png" alt="Redgate (Name)" width="140"><br>Redgate (Name)</a></li>
 <li><a class="tartan" href="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/"><img src="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/sett.png" alt="Redgate (Name)" width="140"><br>Redgate (Name)</a></li>
 <li><a class="tartan" href="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/"><img src="/variants/s14/r6g4r2g9k10w1k10lg3dy2lg3dy2lg11r3lg6~x2/sett.png" alt="Redgate (Name)" width="140"><br>Redgate (Name)</a></li>
-<li><a class="tartan" href="/variants/s13/lb21dy10lb18dr6lb18k20w2k20dg12dr6dg12dy8dg2/"><img src="/variants/s13/lb21dy10lb18dr6lb18k20w2k20dg12dr6dg12dy8dg2/sett.png" alt="Redgate (Name)" width="140"><br>Redgate (Name)</a></li>
 <li><a class="tartan" href="/variants/s14/w7db4w2db7r2db7k6w1k6ly5db3ly3g13ly4~x2/"><img src="/variants/s14/w7db4w2db7r2db7k6w1k6ly5db3ly3g13ly4~x2/sett.png" alt="Redgate Dress (Name)" width="140"><br>Redgate Dress (Name)</a></li>
 <li><a class="tartan" href="/variants/s9/db1dr4db12dr1k7g12k7dy21w1~x2/"><img src="/variants/s9/db1dr4db12dr1k7g12k7dy21w1~x2/sett.png" alt="Redgate Htg #1 (Name)" width="140"><br>Redgate Htg #1 (Name)</a></li>
 <li><a class="tartan" href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><img src="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/sett.png" alt="Redgate Hunting #2 (Name)" width="140"><br>Redgate Hunting #2 (Name)</a></li>
@@ -49,8 +49,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/w8lb30g5w3db8r5/"><img src="/variants/s6/w8lb30g5w3db8r5/sett.png" alt="Roseberry" width="140"><br>Roseberry</a></li>
 <li><a class="tartan" href="/variants/s9/dr50dy4w16db2w4db2w15g27r4~x2/"><img src="/variants/s9/dr50dy4w16db2w4db2w15g27r4~x2/sett.png" alt="Rosevear" width="140"><br>Rosevear</a></li>
 <li><a class="tartan" href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><img src="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/sett.png" alt="Rourke-Frew (Ontario)" width="140"><br>Rourke-Frew (Ontario)</a></li>
-<li><a class="tartan" href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><img src="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/sett.png" alt="Rourke-Frew Hunting" width="140"><br>Rourke-Frew Hunting</a></li>
 <li><a class="tartan" href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><img src="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/sett.png" alt="Rourke-Frew Hunting" width="140"><br>Rourke-Frew Hunting</a></li>
+<li><a class="tartan" href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><img src="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/sett.png" alt="Rourke-Frew Hunting" width="140"><br>Rourke-Frew Hunting</a></li>
 <li><a class="tartan" href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><img src="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Royal &amp; Ancient/Golfing Stewart" width="140"><br>Royal & Ancient/Golfing Stewart</a></li>
 <li><a class="tartan" href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><img src="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/sett.png" alt="Rutledge (Name)" width="140"><br>Rutledge (Name)</a></li>
 </ul>

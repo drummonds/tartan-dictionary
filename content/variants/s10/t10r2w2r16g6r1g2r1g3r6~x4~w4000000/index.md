@@ -31,11 +31,11 @@ One full sett is **608 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="T/40 R8 W8 R64 G24 R4 G8 R4 G12 R24 G12 R4 G8 R4 G24 R64 W8 R/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">608</div><div class="nn-name nn-base"><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4~w4000000/">Harkness Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4~w4000000/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2&amp;base=t10r2w2r16g6r1g2r1g3r6~x4~w4000000" title="compare in the TTD">1.89</a></div><div class="nn-threads">428</div><div class="nn-name"><a href="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/">Rothesay, Duke of</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:544px;height:26px;background-image:url(/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/sett.png);background-size:544px 26px;background-repeat:repeat-x;background-position-x:-144px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">608</div><div class="nn-name nn-base"><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4~w4000000/">Harkness Dress</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4~w4000000/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2&amp;base=t10r2w2r16g6r1g2r1g3r6~x4~w4000000" title="compare in the TTD">1.89</a></div><div class="nn-threads">428</div><div class="nn-name"><a href="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/">Rothesay, Duke of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/sett.png" alt="sett" loading="lazy" style="width:544px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

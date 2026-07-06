@@ -41,11 +41,11 @@ One full sett is **448 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/4 K8 N8 G4 Y4 N68 K4 G56 K4 DR8 N8 K4 N8 K4 N8 K8 G8 K8 DR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">448</div><div class="nn-name nn-base"><a href="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/">Craig</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/sett.png" alt="sett" loading="lazy" style="width:576px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2&amp;base=dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4" title="compare in the TTD">0.14</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/">Craig</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:576px;height:26px;background-image:url(/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/sett.png);background-size:576px 26px;background-repeat:repeat-x;background-position-x:-278px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">448</div><div class="nn-name nn-base"><a href="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/">Craig</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/sett.png" alt="sett" loading="lazy" style="width:576px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2&amp;base=dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4" title="compare in the TTD">0.14</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/">Craig</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/sett.png" alt="sett" loading="lazy" style="width:576px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

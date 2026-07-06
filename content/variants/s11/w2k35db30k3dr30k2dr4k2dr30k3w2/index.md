@@ -31,11 +31,11 @@ One full sett is **282 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/2 K35 DB30 K3 DR30 K2 DR4 K2 DR30 K3 W/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">282</div><div class="nn-name nn-base"><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/">Gwyn (Welsh Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr48k10db12k2dr3k2db12k10n10k2ly3~x2&amp;base=w2k35db30k3dr30k2dr4k2dr30k3w2" title="compare in the TTD">2.33</a></div><div class="nn-threads nn-far">354</div><div class="nn-name nn-far"><a href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/">Brooks Brothers (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-21px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">282</div><div class="nn-name nn-base"><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/">Gwyn (Welsh Name)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr48k10db12k2dr3k2db12k10n10k2ly3~x2&amp;base=w2k35db30k3dr30k2dr4k2dr30k3w2" title="compare in the TTD">2.33</a></div><div class="nn-threads nn-far">354</div><div class="nn-name nn-far"><a href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/">Brooks Brothers (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

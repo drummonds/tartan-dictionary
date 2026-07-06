@@ -38,11 +38,11 @@ One full sett is **412 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DG/40 DB4 G12 DB4 DG8 DB54 LO4 DB16 LO4 DB54 DG8 DB4 G12 DB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">412</div><div class="nn-name nn-base"><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/">Kinross</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2&amp;base=dg20db2g6db2dg4db27lo2db8~x2" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">252</div><div class="nn-name nn-far"><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/">McCarthy</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-26px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">412</div><div class="nn-name nn-base"><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/">Kinross</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2&amp;base=dg20db2g6db2dg4db27lo2db8~x2" title="compare in the TTD">2.85</a></div><div class="nn-threads nn-far">252</div><div class="nn-name nn-far"><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/">McCarthy</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

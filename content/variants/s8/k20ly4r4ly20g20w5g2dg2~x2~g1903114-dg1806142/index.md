@@ -30,11 +30,11 @@ One full sett is **264 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/40 LY8 R8 LY40 G40 W10 G4 DG/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/">Hackett Hunting (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128&amp;base=k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/">Hackett William (Coatbridge) Hunting (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-87px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/">Hackett Hunting (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128&amp;base=k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">264</div><div class="nn-name nn-far"><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/">Hackett William (Coatbridge) Hunting (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

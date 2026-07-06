@@ -33,11 +33,11 @@ One full sett is **672 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/12 G4 W56 K26 T12 K8 T8 K8 T32 R4 T4 R8 T4 R4 T32 K8 T8 K8 T12 K26 W56 G/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">672</div><div class="nn-name nn-base"><a href="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/">Sutherland Dress (Dance)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4&amp;base=w6g2w28k13t6k4t4k4t16r2t2r4~x2" title="compare in the TTD">1.76</a></div><div class="nn-threads">880</div><div class="nn-name"><a href="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/">Sutherland, Dress Royal (Dance)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:672px;height:26px;background-image:url(/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/sett.png);background-size:672px 26px;background-repeat:repeat-x;background-position-x:-295px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">672</div><div class="nn-name nn-base"><a href="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/">Sutherland Dress (Dance)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4&amp;base=w6g2w28k13t6k4t4k4t16r2t2r4~x2" title="compare in the TTD">1.76</a></div><div class="nn-threads">880</div><div class="nn-name"><a href="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/">Sutherland, Dress Royal (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/sett.png" alt="sett" loading="lazy" style="width:672px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

@@ -23,11 +23,11 @@ One full sett is **340 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/50 DO6 W4 O50 W6 Y10 R8 DO4 R8 Y10 W6 DB8 DO10 R12 W2 DB/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">340</div><div class="nn-name nn-base"><a href="/variants/s16/r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2/">MacGlashan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2&amp;base=r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">340</div><div class="nn-name"><a href="/variants/s16/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2/">MacGlashan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:480px;height:26px;background-image:url(/variants/s16/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2/sett.png);background-size:480px 26px;background-repeat:repeat-x;background-position-x:-395px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">340</div><div class="nn-name nn-base"><a href="/variants/s16/r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2/">MacGlashan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2&amp;base=r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">340</div><div class="nn-name"><a href="/variants/s16/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2/">MacGlashan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

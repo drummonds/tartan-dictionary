@@ -31,11 +31,11 @@ One full sett is **312 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/32 Y6 LB18 T28 LB2 T16 K64 DR2 W/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">312</div><div class="nn-name nn-base"><a href="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2/">Wrens (WRNS) (Military)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032&amp;base=lb16y3lb9t14lb1t8k32dr1w4~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/">Bell Rock Lighthouse 200th Aniversar</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-310px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">312</div><div class="nn-name nn-base"><a href="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2/">Wrens (WRNS) (Military)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032&amp;base=lb16y3lb9t14lb1t8k32dr1w4~x2" title="compare in the TTD">2.89</a></div><div class="nn-threads nn-far">248</div><div class="nn-name nn-far"><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/">Bell Rock Lighthouse 200th Aniversar</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

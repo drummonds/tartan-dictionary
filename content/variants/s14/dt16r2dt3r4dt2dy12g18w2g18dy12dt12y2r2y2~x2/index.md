@@ -29,11 +29,11 @@ One full sett is **392 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DT/32 R4 DT6 R8 DT4 DY24 G36 W4 G36 DY24 DT24 Y4 R4 Y/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/">Allen - 2001 (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000&amp;base=dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">392</div><div class="nn-name"><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/">Allen - Northumbrian (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-204px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/">Allen - 2001 (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000&amp;base=dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">392</div><div class="nn-name"><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/">Allen - Northumbrian (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

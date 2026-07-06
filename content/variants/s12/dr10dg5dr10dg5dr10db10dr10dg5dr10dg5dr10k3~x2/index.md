@@ -31,11 +31,11 @@ One full sett is **346 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/20 DG10 DR20 DG10 DR20 DB20 DR20 DG10 DR20 DG10 DR20 K/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">346</div><div class="nn-name nn-base"><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/">Capricornica / Capricornia</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2&amp;base=dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">346</div><div class="nn-name"><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/">Capricornica (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-81px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">346</div><div class="nn-name nn-base"><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/">Capricornica / Capricornia</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2&amp;base=dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10k3~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">346</div><div class="nn-name"><a href="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/">Capricornica (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr10dg5dr10dg5dr10db10dr10dg5dr10dg5dr10ly3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

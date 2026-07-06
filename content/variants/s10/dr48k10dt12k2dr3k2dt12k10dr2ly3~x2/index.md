@@ -30,11 +30,11 @@ One full sett is **314 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DR/96 K20 DT24 K4 DR6 K4 DT24 K20 DR4 LY/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">314</div><div class="nn-name nn-base"><a href="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/">Wcwm 1684</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr8dg8k1dg3k1dg1k10dr20w3~x2&amp;base=dr48k10dt12k2dr3k2dt12k10dr2ly3~x2" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">198</div><div class="nn-name nn-far"><a href="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/">Hunter of Bute (Clan ?)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-135px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">314</div><div class="nn-name nn-base"><a href="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/">Wcwm 1684</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr8dg8k1dg3k1dg1k10dr20w3~x2&amp;base=dr48k10dt12k2dr3k2dt12k10dr2ly3~x2" title="compare in the TTD">2.88</a></div><div class="nn-threads nn-far">198</div><div class="nn-name nn-far"><a href="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/">Hunter of Bute (Clan ?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

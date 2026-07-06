@@ -38,11 +38,11 @@ One full sett is **152 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 LO16 DR12 R4 DR12 LR4 G12 DB12 LR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/">Isle of Arran (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6y15do4db12g12dy4r25w5~x2&amp;base=r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029" title="compare in the TTD">2.95</a></div><div class="nn-threads nn-far">310</div><div class="nn-name nn-far"><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/">Young Presidents Organisation Dress</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/r6y15do4db12g12dy4r25w5~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-3px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">152</div><div class="nn-name nn-base"><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/">Isle of Arran (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r6y15do4db12g12dy4r25w5~x2&amp;base=r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029" title="compare in the TTD">2.95</a></div><div class="nn-threads nn-far">310</div><div class="nn-name nn-far"><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/">Young Presidents Organisation Dress</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/r6y15do4db12g12dy4r25w5~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

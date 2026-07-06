@@ -29,11 +29,11 @@ One full sett is **301 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/38 DP5 LB6 DP5 LB4 DB20 LB38 Y12 W3 N30 W3 N2 W/7 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">301</div><div class="nn-name nn-base"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/">Tom Morris (Official)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000&amp;base=lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7" title="compare in the TTD">1.20</a></div><div class="nn-threads">301</div><div class="nn-name"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/">Morris, Tom (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-284px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">301</div><div class="nn-name nn-base"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/">Tom Morris (Official)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000&amp;base=lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7" title="compare in the TTD">1.20</a></div><div class="nn-threads">301</div><div class="nn-name"><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/">Morris, Tom (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

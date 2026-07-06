@@ -30,11 +30,11 @@ One full sett is **260 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DY/4 W38 R4 W4 DY6 W6 DY6 R12 LY50 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/">Llama (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=do2w20r2w2do3w3y3r8y26w2~x2&amp;base=dy2w19r2w2dy3w3dy3r6ly25w2~x2" title="compare in the TTD">2.10</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/">Liama, The</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-219px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">260</div><div class="nn-name nn-base"><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/">Llama (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=do2w20r2w2do3w3y3r8y26w2~x2&amp;base=dy2w19r2w2dy3w3dy3r6ly25w2~x2" title="compare in the TTD">2.10</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/">Liama, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

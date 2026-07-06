@@ -39,11 +39,11 @@ One full sett is **264 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/76 N2 O22 N2 W8 N2 Y8 N2 DG40 N2 LB/12 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/">Manx Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142&amp;base=db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000" title="compare in the TTD">2.97</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s9/db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142/">St. Columba (two greens) (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-318px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">264</div><div class="nn-name nn-base"><a href="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/">Manx Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142&amp;base=db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000" title="compare in the TTD">2.97</a></div><div class="nn-threads nn-far">144</div><div class="nn-name nn-far"><a href="/variants/s9/db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142/">St. Columba (two greens) (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -27,11 +27,11 @@ One full sett is **256 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 DB2 W4 DB6 W48 LB10 DB6 LB2 DB2 LB2 DB40 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/">Menzies Royal Blue Dress Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t52db28w5db3w2db10~x2&amp;base=w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s6/t52db28w5db3w2db10~x2/">St. Andrews, Earl of</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s6/t52db28w5db3w2db10~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-6px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">256</div><div class="nn-name nn-base"><a href="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/">Menzies Royal Blue Dress Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t52db28w5db3w2db10~x2&amp;base=w4db1w2db3w24lb5db3lb1db1lb1db20w2~x2" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">276</div><div class="nn-name nn-far"><a href="/variants/s6/t52db28w5db3w2db10~x2/">St. Andrews, Earl of</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/t52db28w5db3w2db10~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

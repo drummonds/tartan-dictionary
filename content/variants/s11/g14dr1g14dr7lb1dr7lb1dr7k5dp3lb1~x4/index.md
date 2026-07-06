@@ -46,11 +46,11 @@ Its **ΔTartan distance** from the master is **1.65** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">428</div><div class="nn-name nn-base"><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/">Hynde (Sir John) (Artefact)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp3k1g16dr5g6dr5g14dr16lo2~x2&amp;base=g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4" title="compare in the TTD">2.67</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/">Fulton</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-277px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">428</div><div class="nn-name nn-base"><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/">Hynde (Sir John) (Artefact)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp3k1g16dr5g6dr5g14dr16lo2~x2&amp;base=g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4" title="compare in the TTD">2.67</a></div><div class="nn-threads nn-far">262</div><div class="nn-name nn-far"><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/">Fulton</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

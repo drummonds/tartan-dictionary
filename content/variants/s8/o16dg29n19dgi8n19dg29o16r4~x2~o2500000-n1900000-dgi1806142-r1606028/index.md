@@ -30,11 +30,11 @@ One full sett is **520 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/32 DG58 N38 DGi16 N38 DG58 O32 R/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">520</div><div class="nn-name nn-base"><a href="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/">Styrian</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g8n19dg29o16dr4~x2~n1900000-o2500000&amp;base=o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far2">280</div><div class="nn-name nn-far2"><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/">Styrian (Fashion)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-57px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">520</div><div class="nn-name nn-base"><a href="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/">Styrian</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g8n19dg29o16dr4~x2~n1900000-o2500000&amp;base=o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far2">280</div><div class="nn-name nn-far2"><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/">Styrian (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

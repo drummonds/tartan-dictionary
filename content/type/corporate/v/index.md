@@ -10,8 +10,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><img src="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/sett.png" alt="VeMMA" width="140"><br>VeMMA</a></li>
 <li><a class="tartan" href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><img src="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/sett.png" alt="Vemma (Corporate) XXXXXXXXX" width="140"><br>Vemma (Corporate) XXXXXXXXX</a></li>
 <li><a class="tartan" href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><img src="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/sett.png" alt="VersaCold/Atlas" width="140"><br>VersaCold/Atlas</a></li>
-<li><a class="tartan" href="/variants/s10/n110lp3o14w1dp10w1o6lp3dp4n2~x2~n1900000-o2500000/"><img src="/variants/s10/n110lp3o14w1dp10w1o6lp3dp4n2~x2~n1900000-o2500000/sett.png" alt="Vetoclock" width="140"><br>Vetoclock</a></li>
 <li><a class="tartan" href="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/"><img src="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/sett.png" alt="Vetoclock" width="140"><br>Vetoclock</a></li>
+<li><a class="tartan" href="/variants/s10/n110lp3o14w1dp10w1o6lp3dp4n2~x2~n1900000-o2500000/"><img src="/variants/s10/n110lp3o14w1dp10w1o6lp3dp4n2~x2~n1900000-o2500000/sett.png" alt="Vetoclock" width="140"><br>Vetoclock</a></li>
 <li><a class="tartan" href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><img src="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/sett.png" alt="Victorian Highland Pipe Band Assoc" width="140"><br>Victorian Highland Pipe Band Assoc</a></li>
 <li><a class="tartan" href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><img src="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/sett.png" alt="Victorian Highland Pipe Band Association (Australia)" width="140"><br>Victorian Highland Pipe Band Association (Australia)</a></li>
 <li><a class="tartan" href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><img src="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/sett.png" alt="Victory" width="140"><br>Victory</a></li>
@@ -27,6 +27,6 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><img src="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/sett.png" alt="Virtuoso (Corporate)" width="140"><br>Virtuoso (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/"><img src="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/sett.png" alt="Visit Scotland" width="140"><br>Visit Scotland</a></li>
 <li><a class="tartan" href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><img src="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/sett.png" alt="Voluntary Service Aberdeen" width="140"><br>Voluntary Service Aberdeen</a></li>
-<li><a class="tartan" href="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/"><img src="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/sett.png" alt="Vorwerk, The" width="140"><br>Vorwerk, The</a></li>
 <li><a class="tartan" href="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/"><img src="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/sett.png" alt="Vorwerk, The" width="140"><br>Vorwerk, The</a></li>
+<li><a class="tartan" href="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/"><img src="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/sett.png" alt="Vorwerk, The" width="140"><br>Vorwerk, The</a></li>
 </ul>

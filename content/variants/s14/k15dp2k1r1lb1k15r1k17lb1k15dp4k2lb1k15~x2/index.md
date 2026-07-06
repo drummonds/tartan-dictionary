@@ -29,11 +29,11 @@ One full sett is **304 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/30 DP4 K2 R2 LB2 K30 R2 K4 K30 LB2 K30 DP8 K4 LB2 K/30 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">304</div><div class="nn-name nn-base"><a href="/variants/s14/k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15~x2/">GOLF (Wonderland Publications)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2&amp;base=k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15~x2" title="compare in the TTD">0.90</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/">GOLF (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:448px;height:26px;background-image:url(/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/sett.png);background-size:448px 26px;background-repeat:repeat-x;background-position-x:-292px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">304</div><div class="nn-name nn-base"><a href="/variants/s14/k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15~x2/">GOLF (Wonderland Publications)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2&amp;base=k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15~x2" title="compare in the TTD">0.90</a></div><div class="nn-threads">304</div><div class="nn-name"><a href="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/">GOLF (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

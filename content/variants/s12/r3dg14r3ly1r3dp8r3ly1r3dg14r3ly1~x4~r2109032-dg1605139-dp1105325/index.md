@@ -30,11 +30,11 @@ One full sett is **440 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/12 DG56 R12 LY4 R12 DP32 R12 LY4 R12 DG56 R12 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">440</div><div class="nn-name nn-base"><a href="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/">Wilson's No.213</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g3r3g14r3g3r3db5r18y2r8y2~x2&amp;base=r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">258</div><div class="nn-name nn-far"><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/">Burns</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-285px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">440</div><div class="nn-name nn-base"><a href="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/">Wilson's No.213</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g3r3g14r3g3r3db5r18y2r8y2~x2&amp;base=r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">258</div><div class="nn-name nn-far"><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/">Burns</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

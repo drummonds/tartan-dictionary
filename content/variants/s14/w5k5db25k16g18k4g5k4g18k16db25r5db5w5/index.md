@@ -38,11 +38,11 @@ One full sett is **302 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/5 K5 DB25 K16 G18 K4 G5 K4 G18 K16 DB25 R5 DB5 W/5 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">302</div><div class="nn-name nn-base"><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/">Arndt (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2&amp;base=w5k5db25k16g18k4g5k4g18k16db25r5db5w5" title="compare in the TTD">1.85</a></div><div class="nn-threads">340</div><div class="nn-name"><a href="/variants/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/">Scottish National</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-401px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">302</div><div class="nn-name nn-base"><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/">Arndt (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2&amp;base=w5k5db25k16g18k4g5k4g18k16db25r5db5w5" title="compare in the TTD">1.85</a></div><div class="nn-threads">340</div><div class="nn-name"><a href="/variants/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/">Scottish National</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

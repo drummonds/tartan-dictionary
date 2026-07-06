@@ -38,11 +38,11 @@ One full sett is **252 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/4 G60 K6 DBi8 K4 DB36 LB2 K6 R/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/">Lusk (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g20k1n1k1g20k10n2k2r2db20w1~x2&amp;base=k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274" title="compare in the TTD">2.66</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/">Storrie (Name)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-247px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/">Lusk (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g20k1n1k1g20k10n2k2r2db20w1~x2&amp;base=k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274" title="compare in the TTD">2.66</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/">Storrie (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

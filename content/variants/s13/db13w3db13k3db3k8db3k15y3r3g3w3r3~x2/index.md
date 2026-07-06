@@ -38,11 +38,11 @@ One full sett is **272 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="DB/26 W6 DB26 K6 DB6 K16 DB6 K30 Y6 R6 G6 W6 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/">Salich-Plaja of St. Genis (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2&amp;base=db13w3db13k3db3k8db3k15y3r3g3w3r3~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/">Scotch House (Dalgliesh)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-168px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/">Salich-Plaja of St. Genis (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2&amp;base=db13w3db13k3db3k8db3k15y3r3g3w3r3~x2" title="compare in the TTD">2.92</a></div><div class="nn-threads nn-far">226</div><div class="nn-name nn-far"><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/">Scotch House (Dalgliesh)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

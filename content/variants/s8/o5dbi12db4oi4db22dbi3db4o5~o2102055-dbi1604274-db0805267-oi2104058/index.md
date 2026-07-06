@@ -23,11 +23,11 @@ One full sett is **108 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="O/5 DBi12 DB4 Oi4 DB22 DBi3 DB4 O/5 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">108</div><div class="nn-name nn-base"><a href="/variants/s8/o5dbi12db4oi4db22dbi3db4o5~o2102055-dbi1604274-db0805267-oi2104058/">Daks, Muted blue</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/o5dbi12db4oi4db22dbi3db4o5~o2102055-dbi1604274-db0805267-oi2104058/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db10o3t4o3db7t3g7db17dy2~x2&amp;base=o5dbi12db4oi4db22dbi3db4o5~o2102055-dbi1604274-db0805267-oi2104058" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/">Ayrshire Tourist Board</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-39px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">108</div><div class="nn-name nn-base"><a href="/variants/s8/o5dbi12db4oi4db22dbi3db4o5~o2102055-dbi1604274-db0805267-oi2104058/">Daks, Muted blue</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/o5dbi12db4oi4db22dbi3db4o5~o2102055-dbi1604274-db0805267-oi2104058/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db10o3t4o3db7t3g7db17dy2~x2&amp;base=o5dbi12db4oi4db22dbi3db4o5~o2102055-dbi1604274-db0805267-oi2104058" title="compare in the TTD">2.70</a></div><div class="nn-threads nn-far">200</div><div class="nn-name nn-far"><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/">Ayrshire Tourist Board</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -31,11 +31,11 @@ One full sett is **308 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/8 DB16 W8 LB16 W4 LB4 W8 DB84 R2 Y4 R2 DB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">308</div><div class="nn-name nn-base"><a href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/">StammBar</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b84dr3k16ly4k4w4k4dg20b8k4b8w4&amp;base=w4db8w4lb8w2lb2w4db42r1y2r1db2~x2" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">238</div><div class="nn-name nn-far"><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/">Wcwm 1105</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-70px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">308</div><div class="nn-name nn-base"><a href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/">StammBar</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b84dr3k16ly4k4w4k4dg20b8k4b8w4&amp;base=w4db8w4lb8w2lb2w4db42r1y2r1db2~x2" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">238</div><div class="nn-name nn-far"><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/">Wcwm 1105</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

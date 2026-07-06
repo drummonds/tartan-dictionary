@@ -23,11 +23,11 @@ One full sett is **306 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="B/10 W4 B4 W8 K54 W4 DG4 W4 DG12 W4 DG4 W44 DR/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">306</div><div class="nn-name nn-base"><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/">Robert Wiseman Dairies, Golden Jubilee</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2&amp;base=b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">394</div><div class="nn-name"><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/">Wiseman Dairies Corporate Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-87px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">306</div><div class="nn-name nn-base"><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/">Robert Wiseman Dairies, Golden Jubilee</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2&amp;base=b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">394</div><div class="nn-name"><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/">Wiseman Dairies Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

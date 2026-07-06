@@ -31,11 +31,11 @@ One full sett is **128 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LY/6 LB14 DO4 R4 DO28 LB4 DO4 LY/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">128</div><div class="nn-name nn-base"><a href="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/">Daks (Blue Loden)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o5lb13do4r4do27lb3do4o5&amp;base=ly3lb7do2r2do14lb2do2ly3~x2" title="compare in the TTD">2.31</a></div><div class="nn-threads nn-far">120</div><div class="nn-name nn-far"><a href="/variants/s8/o5lb13do4r4do27lb3do4o5/">Daks, Blue Loden</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/o5lb13do4r4do27lb3do4o5/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-123px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">128</div><div class="nn-name nn-base"><a href="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/">Daks (Blue Loden)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=o5lb13do4r4do27lb3do4o5&amp;base=ly3lb7do2r2do14lb2do2ly3~x2" title="compare in the TTD">2.31</a></div><div class="nn-threads nn-far">120</div><div class="nn-name nn-far"><a href="/variants/s8/o5lb13do4r4do27lb3do4o5/">Daks, Blue Loden</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/o5lb13do4r4do27lb3do4o5/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

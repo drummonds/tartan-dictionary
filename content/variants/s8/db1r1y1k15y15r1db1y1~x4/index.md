@@ -29,11 +29,11 @@ One full sett is **280 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="Y/4 DB4 R4 Y60 K60 Y4 R4 DB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/">Pittsburgh St Andrew's Society</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/db1r1y1k15y15r1db1y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3t14y2k2t14k36y2k2y2~x2&amp;base=db1r1y1k15y15r1db1y1~x4" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">298</div><div class="nn-name nn-far"><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/">Ewbank</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/r3t14y2k2t14k36y2k2y2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-317px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">280</div><div class="nn-name nn-base"><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/">Pittsburgh St Andrew's Society</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/db1r1y1k15y15r1db1y1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3t14y2k2t14k36y2k2y2~x2&amp;base=db1r1y1k15y15r1db1y1~x4" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">298</div><div class="nn-name nn-far"><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/">Ewbank</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

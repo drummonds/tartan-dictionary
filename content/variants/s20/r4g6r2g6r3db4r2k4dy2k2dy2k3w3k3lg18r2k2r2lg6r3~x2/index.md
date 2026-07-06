@@ -29,11 +29,11 @@ One full sett is **302 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/8 G12 R4 G12 R6 DB8 R4 K8 DY4 K4 DY4 K6 W6 K6 LG36 R4 K4 R4 LG12 R/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">302</div><div class="nn-name nn-base"><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/">Anderson (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275&amp;base=r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">302</div><div class="nn-name"><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275/">Anderson</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:608px;height:26px;background-image:url(/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275/sett.png);background-size:608px 26px;background-repeat:repeat-x;background-position-x:-181px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">302</div><div class="nn-name nn-base"><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/">Anderson (Clan)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275&amp;base=r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">302</div><div class="nn-name"><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275/">Anderson</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275/sett.png" alt="sett" loading="lazy" style="width:608px"></div></div>
 
 ## Neighbour map
 

@@ -30,11 +30,11 @@ One full sett is **288 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/32 W8 K4 W8 K4 R16 Y16 G16 K2 DB48 W/12 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s11/k16w4k2w4k2r8y8g8k1db24w6~x2/">Zimbabwe</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/k16w4k2w4k2r8y8g8k1db24w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db17dr6y2dr6k2w2k2w10k1w2k1y3~x2&amp;base=k16w4k2w4k2r8y8g8k1db24w6~x2" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">176</div><div class="nn-name nn-far"><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/">Chieftain, The</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-145px;transform:scaleX(-1)"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s11/k16w4k2w4k2r8y8g8k1db24w6~x2/">Zimbabwe</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/k16w4k2w4k2r8y8g8k1db24w6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db17dr6y2dr6k2w2k2w10k1w2k1y3~x2&amp;base=k16w4k2w4k2r8y8g8k1db24w6~x2" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">176</div><div class="nn-name nn-far"><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/">Chieftain, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
 
 ## Neighbour map
 

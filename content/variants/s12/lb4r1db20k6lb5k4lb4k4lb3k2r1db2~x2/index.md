@@ -29,11 +29,11 @@ One full sett is **212 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/8 R2 DB40 K12 LB10 K8 LB8 K8 LB6 K4 R2 DB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">212</div><div class="nn-name nn-base"><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/">Scottish Knights Templar St. A (Corp</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4r2db20k6lb5k4lb3k2r2db2~x2&amp;base=lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2" title="compare in the TTD">2.61</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/">Scottish Knights Templar MTS (Corp)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-257px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">212</div><div class="nn-name nn-base"><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/">Scottish Knights Templar St. A (Corp</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb4r2db20k6lb5k4lb3k2r2db2~x2&amp;base=lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2" title="compare in the TTD">2.61</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/">Scottish Knights Templar MTS (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

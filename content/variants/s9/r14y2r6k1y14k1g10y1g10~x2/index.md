@@ -23,11 +23,11 @@ One full sett is **188 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/28 Y4 R12 K2 Y28 K2 G20 Y2 G/20 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">188</div><div class="nn-name nn-base"><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/">Grant, Champion</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16k3r16g44k3g8k3y20k4~x2&amp;base=r14y2r6k1y14k1g10y1g10~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">428</div><div class="nn-name nn-far"><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/">MacMillan, Society of Glasgow</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/r16k3r16g44k3g8k3y20k4~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-130px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">188</div><div class="nn-name nn-base"><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/">Grant, Champion</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16k3r16g44k3g8k3y20k4~x2&amp;base=r14y2r6k1y14k1g10y1g10~x2" title="compare in the TTD">2.75</a></div><div class="nn-threads nn-far">428</div><div class="nn-name nn-far"><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/">MacMillan, Society of Glasgow</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

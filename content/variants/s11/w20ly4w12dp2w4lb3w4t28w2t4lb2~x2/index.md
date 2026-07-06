@@ -30,11 +30,11 @@ One full sett is **296 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/40 LY8 W24 DP4 W8 LB6 W8 T56 W4 T8 LB/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/">Portree Blue (Dance)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2&amp;base=w20ly4w12dp2w4lb3w4t28w2t4lb2~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/">Portree, Blue (Dance)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-309px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">296</div><div class="nn-name nn-base"><a href="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/">Portree Blue (Dance)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/w20ly4w12dp2w4lb3w4t28w2t4lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2&amp;base=w20ly4w12dp2w4lb3w4t28w2t4lb2~x2" title="compare in the TTD">1.89</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/">Portree, Blue (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w20ly4w12dp2w4lb3w4t18db10w2db4lb2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

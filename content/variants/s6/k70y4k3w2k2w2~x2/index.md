@@ -27,11 +27,11 @@ One full sett is **240 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/88 K6 K6 K6 K6 K28 Y8 K6 W4 K4 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">240</div><div class="nn-name nn-base"><a href="/variants/s6/k70y4k3w2k2w2~x2/">Kang Personal Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k70y4k3w2k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k8n1k40n1k16n16dt6n3dr3n6~x2&amp;base=k70y4k3w2k2w2~x2" title="compare in the TTD">1.54</a></div><div class="nn-threads">372</div><div class="nn-name"><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/">Lochnagar Dark Fashion Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-225px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">240</div><div class="nn-name nn-base"><a href="/variants/s6/k70y4k3w2k2w2~x2/">Kang Personal Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/k70y4k3w2k2w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k8n1k40n1k16n16dt6n3dr3n6~x2&amp;base=k70y4k3w2k2w2~x2" title="compare in the TTD">1.54</a></div><div class="nn-threads">372</div><div class="nn-name"><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/">Lochnagar Dark Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

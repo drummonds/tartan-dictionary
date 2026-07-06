@@ -39,11 +39,11 @@ One full sett is **240 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/2 LO4 K36 LB4 G4 LB4 G4 LB4 G4 LB4 G44 K2 LO4 K/2 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">240</div><div class="nn-name nn-base"><a href="/variants/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/">Hammarby Football Club</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1y2k21w2g2w2g2w2g2w2g20k1y2k1~x2&amp;base=k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">244</div><div class="nn-name nn-far"><a href="/variants/s14/k1y2k21w2g2w2g2w2g2w2g20k1y2k1~x2/">Hammaby,The</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/k1y2k21w2g2w2g2w2g2w2g20k1y2k1~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-4px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">240</div><div class="nn-name nn-base"><a href="/variants/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/">Hammarby Football Club</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k1y2k21w2g2w2g2w2g2w2g20k1y2k1~x2&amp;base=k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">244</div><div class="nn-name nn-far"><a href="/variants/s14/k1y2k21w2g2w2g2w2g2w2g20k1y2k1~x2/">Hammaby,The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/k1y2k21w2g2w2g2w2g2w2g20k1y2k1~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

@@ -41,11 +41,11 @@ One full sett is **352 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/40 G6 R6 G26 R12 K20 DB28 W6 R6 W6 DB28 K/24 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">352</div><div class="nn-name nn-base"><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/">Glengarry Highland Games</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8g2r2g6r4k8db12w2r2w2db12k5~x2&amp;base=r20g3r3g13r6k10db14w3r3w3db14k12~x2" title="compare in the TTD">0.57</a></div><div class="nn-threads">234</div><div class="nn-name"><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/">Glengarry Highland Games</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-88px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">352</div><div class="nn-name nn-base"><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/">Glengarry Highland Games</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8g2r2g6r4k8db12w2r2w2db12k5~x2&amp;base=r20g3r3g13r6k10db14w3r3w3db14k12~x2" title="compare in the TTD">0.57</a></div><div class="nn-threads">234</div><div class="nn-name"><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/">Glengarry Highland Games</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

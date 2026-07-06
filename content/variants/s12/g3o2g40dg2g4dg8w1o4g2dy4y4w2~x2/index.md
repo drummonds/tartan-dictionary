@@ -29,11 +29,11 @@ One full sett is **294 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/6 O4 G80 DG4 G8 DG16 W2 O8 G4 DY8 Y8 W/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">294</div><div class="nn-name nn-base"><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/">Springbok</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y30dg5g3r1g3k1g3r1g3db1lo1~x4&amp;base=g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/">California Department of Forestry (Corporate)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-12px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">294</div><div class="nn-name nn-base"><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/">Springbok</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y30dg5g3r1g3k1g3r1g3db1lo1~x4&amp;base=g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2" title="compare in the TTD">3.00</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/">California Department of Forestry (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

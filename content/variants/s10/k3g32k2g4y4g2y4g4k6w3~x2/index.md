@@ -38,11 +38,11 @@ One full sett is **244 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="K/6 G64 K4 G8 Y8 G4 Y8 G8 K12 W/6 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/">University of Alberta (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy2g1k1g26k11db6k1g2~x2&amp;base=k3g32k2g4y4g2y4g4k6w3~x2" title="compare in the TTD">2.31</a></div><div class="nn-threads nn-far">192</div><div class="nn-name nn-far"><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/">Mackie (2016)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s8/dy2g1k1g26k11db6k1g2~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-220px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">244</div><div class="nn-name nn-base"><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/">University of Alberta (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy2g1k1g26k11db6k1g2~x2&amp;base=k3g32k2g4y4g2y4g4k6w3~x2" title="compare in the TTD">2.31</a></div><div class="nn-threads nn-far">192</div><div class="nn-name nn-far"><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/">Mackie (2016)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy2g1k1g26k11db6k1g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

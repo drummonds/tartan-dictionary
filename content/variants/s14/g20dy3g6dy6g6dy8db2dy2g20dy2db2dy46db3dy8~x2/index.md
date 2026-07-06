@@ -39,11 +39,11 @@ One full sett is **480 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="G/40 DY6 G12 DY12 G12 DY16 DB4 DY4 G40 DY4 DB4 DY92 DB6 DY/16 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">480</div><div class="nn-name nn-base"><a href="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/">MacAlister of Glenbarr Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2&amp;base=g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2" title="compare in the TTD">0.63</a></div><div class="nn-threads">146</div><div class="nn-name"><a href="/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/">MacAlister of Glenbarr Clan Tartan</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:416px;height:26px;background-image:url(/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/sett.png);background-size:416px 26px;background-repeat:repeat-x;background-position-x:-100px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">480</div><div class="nn-name nn-base"><a href="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/">MacAlister of Glenbarr Hunting</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2&amp;base=g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2" title="compare in the TTD">0.63</a></div><div class="nn-threads">146</div><div class="nn-name"><a href="/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/">MacAlister of Glenbarr Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

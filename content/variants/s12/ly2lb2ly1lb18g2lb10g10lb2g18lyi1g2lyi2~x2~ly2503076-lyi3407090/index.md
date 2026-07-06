@@ -29,11 +29,11 @@ One full sett is **272 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LYi/4 G4 LYi2 G36 LB4 G20 LB20 G4 LB36 LY2 LB4 LY/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/">Yarmouth NS (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6lb8r2lb2y2lb16g18lb4g4lb3~x4&amp;base=ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">484</div><div class="nn-name nn-far"><a href="/variants/s10/g6lb8r2lb2y2lb16g18lb4g4lb3~x4/">Blue Ridge (District)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:352px;height:26px;background-image:url(/variants/s10/g6lb8r2lb2y2lb16g18lb4g4lb3~x4/sett.png);background-size:352px 26px;background-repeat:repeat-x;background-position-x:-143px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">272</div><div class="nn-name nn-base"><a href="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/">Yarmouth NS (District)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6lb8r2lb2y2lb16g18lb4g4lb3~x4&amp;base=ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090" title="compare in the TTD">2.55</a></div><div class="nn-threads nn-far">484</div><div class="nn-name nn-far"><a href="/variants/s10/g6lb8r2lb2y2lb16g18lb4g4lb3~x4/">Blue Ridge (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g6lb8r2lb2y2lb16g18lb4g4lb3~x4/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

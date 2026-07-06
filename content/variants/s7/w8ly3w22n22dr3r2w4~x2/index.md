@@ -38,11 +38,11 @@ One full sett is **232 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="W/16 LY6 W44 N44 DR6 R4 W/8 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">232</div><div class="nn-name nn-base"><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/">Banff, White (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/w8ly3w22n22dr3r2w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076&amp;base=w8ly3w22n22dr3r2w4~x2" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">322</div><div class="nn-name nn-far"><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/">de Meuron Dress (Family)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-6px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">232</div><div class="nn-name nn-base"><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/">Banff, White (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/w8ly3w22n22dr3r2w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076&amp;base=w8ly3w22n22dr3r2w4~x2" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">322</div><div class="nn-name nn-far"><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/">de Meuron Dress (Family)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

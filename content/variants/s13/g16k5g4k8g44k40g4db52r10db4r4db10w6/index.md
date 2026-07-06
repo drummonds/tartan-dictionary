@@ -40,11 +40,11 @@ Its **ΔTartan distance** from the master is **1.24** — the same measure the n
 <figcaption style="color:#888;font-size:smaller">One weave of this sett against the <a href="/setts/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/">master sett ★</a>, split on the diagonal: a shared proportion runs seamlessly across it with only the shades shifting; a different proportion breaks on it.</figcaption>
 </figure>
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/">MacNeil of Colonsay</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb3g3k4g14k4g3k14db18r1db4r2~x2&amp;base=g16k5g4k8g44k40g4db52r10db4r4db10w6" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">270</div><div class="nn-name nn-far"><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/">Clerke of Ulva</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:384px;height:26px;background-image:url(/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/sett.png);background-size:384px 26px;background-repeat:repeat-x;background-position-x:-95px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">392</div><div class="nn-name nn-base"><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/">MacNeil of Colonsay</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb3g3k4g14k4g3k14db18r1db4r2~x2&amp;base=g16k5g4k8g44k40g4db52r10db4r4db10w6" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">270</div><div class="nn-name nn-far"><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/">Clerke of Ulva</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

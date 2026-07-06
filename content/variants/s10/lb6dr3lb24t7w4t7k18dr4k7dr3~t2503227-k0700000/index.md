@@ -29,11 +29,11 @@ One full sett is **157 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="LB/6 DR3 LB24 T7 W4 T7 K18 DR4 K7 DR/3 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">157</div><div class="nn-name nn-base"><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/">Law Society of Scotland (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3lb26db13k13w2g8k5r3lb3~x2&amp;base=lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/">Moran (Virgin Islands) (Personal)</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:320px;height:26px;background-image:url(/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/sett.png);background-size:320px 26px;background-repeat:repeat-x;background-position-x:-312px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">157</div><div class="nn-name nn-base"><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/">Law Society of Scotland (Corporate)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w3lb26db13k13w2g8k5r3lb3~x2&amp;base=lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000" title="compare in the TTD">2.71</a></div><div class="nn-threads nn-far">292</div><div class="nn-name nn-far"><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/">Moran (Virgin Islands) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

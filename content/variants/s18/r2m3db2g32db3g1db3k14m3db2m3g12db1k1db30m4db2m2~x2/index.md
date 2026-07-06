@@ -31,11 +31,11 @@ One full sett is **472 threads**.
 
 <img class="tartan-sample" src="tartan.png?w=880&tpcm=16" alt="R/4 M6 DB4 G64 DB6 G2 DB6 K28 M6 DB4 M6 G24 DB2 K2 DB60 M8 DB4 M/4 tartan" width="880" height="480">
 
-## Nearest variants
+## Nearest tartan variants
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">472</div><div class="nn-name nn-base"><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/">Cooper/Couper</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2&amp;base=r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">468</div><div class="nn-name"><a href="/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/">Cooper</a></div><div class="nn-sw"><span class="nn-swatch" role="img" aria-label="sett" style="display:inline-block;width:544px;height:26px;background-image:url(/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/sett.png);background-size:544px 26px;background-repeat:repeat-x;background-position-x:-442px"></span></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">472</div><div class="nn-name nn-base"><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/">Cooper/Couper</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/sett.png" alt="sett" loading="lazy" style="width:544px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2&amp;base=r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2" title="compare in the TTD">1.80</a></div><div class="nn-threads">468</div><div class="nn-name"><a href="/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/">Cooper</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/r2b3db2g32db3g1db3k14b3db2b3g12db1k1db30b3db2b2~x2/sett.png" alt="sett" loading="lazy" style="width:544px"></div></div>
 
 ## Neighbour map
 

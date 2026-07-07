@@ -1,6 +1,9 @@
 ---
 title: "Thomson Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GKWKBR](/stripes/gkwkbr/) — the page of every tartan sharing this colour sequence.
 

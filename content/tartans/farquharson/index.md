@@ -1,6 +1,11 @@
 ---
 title: "Farquharson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Farquharson"
+  url: "/clan/farquharson/"
 ---
 A tartan of [Clan Farquharson](/clan/farquharson/).
 Its design is pattern [RBKBKBKGGGKBKR](/stripes/rbkbkbkgggkbkr/) — the page of every tartan sharing this colour sequence.

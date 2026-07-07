@@ -1,6 +1,9 @@
 ---
 title: "Napier"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/) — the page of every tartan sharing this colour sequence.
 

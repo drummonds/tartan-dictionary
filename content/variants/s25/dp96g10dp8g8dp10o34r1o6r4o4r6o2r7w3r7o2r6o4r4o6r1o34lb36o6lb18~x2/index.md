@@ -1,6 +1,9 @@
 ---
 title: "Unidentified 22"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBRRRRRRRRWRRRRRRRRWRW](/stripes/bgbgbrrrrrrrrwrrrrrrrrwrw/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DP/192 G20 DP16 G16 DP20 O68 R2 O12 R8 O8 R12 O4 R14 W6 R14 O4 R12 O8 R8 O12 R2 O68 LB72 O12 LB/36

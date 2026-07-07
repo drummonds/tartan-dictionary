@@ -1,6 +1,9 @@
 ---
 title: "Lynch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGBRBR](/stripes/bgbrbr/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "Glen Shee #1 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Shee"
+  url: "/tartans/glen-shee/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr37do9dr3g9do3/)
 (the same proportion at any scale), whose colour order is pattern [BBBGB](/stripes/bbbgb/).
@@ -9,7 +16,23 @@ Part of the [Glen Shee](/tartans/glen-shee/) tartan — the named design groupin
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1662/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1662
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>pre 2002 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -35,7 +58,7 @@ One full sett is **164 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">164</div><div class="nn-name nn-base"><a href="/variants/s5/dr37do9dr3g9do3~x2/">Glen Shee #1 (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dr37do9dr3g9do3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r37o9r3g9o3~x2&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">0.23</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s5/r37o9r3g9o3~x2/">Glen Shee</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r37o9r3g9o3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg42o10dg3dr10o3~x2&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">1.97</a></div><div class="nn-threads">182</div><div class="nn-name"><a href="/variants/s5/dg42o10dg3dr10o3~x2/">Glen Trool (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dg42o10dg3dr10o3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr2o2dr17dt17m2dt2~x4&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">2.18</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/">Eglington</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr2o2dr17dt17m2dt2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr104dg39lo4~x2&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">3.48</a></div><div class="nn-threads nn-far2">372</div><div class="nn-name nn-far2"><a href="/variants/s3/dr104dg39lo4~x2/">Scottish Watch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr6dg2b2dg17dr2~x4&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">3.50</a></div><div class="nn-threads nn-far2">200</div><div class="nn-name nn-far2"><a href="/variants/s5/dr6dg2b2dg17dr2~x4/">Loton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr6dg2b2dg17dr2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">164</div><div class="nn-name nn-base"><a href="/variants/s5/dr37do9dr3g9do3~x2/">Glen Shee #1 (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dr37do9dr3g9do3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r37o9r3g9o3~x2&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">0.23</a></div><div class="nn-threads">164</div><div class="nn-name"><a href="/variants/s5/r37o9r3g9o3~x2/">Glen Shee</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/r37o9r3g9o3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg42o10dg3dr10o3~x2&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">1.97</a></div><div class="nn-threads">182</div><div class="nn-name"><a href="/variants/s5/dg42o10dg3dr10o3~x2/">Glen Trool (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dg42o10dg3dr10o3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr2o2dr17dt17m2dt2~x4&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">2.18</a></div><div class="nn-threads nn-far">320</div><div class="nn-name nn-far"><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/">Eglington</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dr2o2dr17dt17m2dt2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr104dg39lo4~x2&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">3.48</a></div><div class="nn-threads nn-far2">372</div><div class="nn-name nn-far2"><a href="/variants/s3/dr104dg39lo4~x2/">Scottish Watch</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/dr104dg39lo4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr6dg2b2dg17dr2~x4&amp;base=dr37do9dr3g9do3~x2" title="compare in the TTD">3.50</a></div><div class="nn-threads nn-far2">200</div><div class="nn-name nn-far2"><a href="/variants/s5/dr6dg2b2dg17dr2~x4/">Loton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr6dg2b2dg17dr2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -1,6 +1,13 @@
 ---
 title: "MacIver Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIver"
+  url: "/clan/maciver/"
+- name: "MacIver Hunting"
+  url: "/tartans/maciver-hunting/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2dg12k3dg3k16dg3k3dg12ly2/)
 (the same proportion at any scale), whose colour order is pattern [WGKGKGKGY](/stripes/wgkgkgkgy/).
@@ -15,8 +22,24 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2493
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1998 — MacIver Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2493">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#507830;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #507830"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>In this the red ground changes to green and supercedes the comment made in #1855, (original Scottish Tartans Authority reference) about there being no MacIver Hunting. Scottish Tartans Society notes that this was worn in 1998 by Ian MacIver Chairman of the MacIver Society. The sett was found on the west coast of Scotland. It avoids the confusion with the MacArthur Hunting #1100, (original Scottish Tartans Authority reference). Sample in Scottish Tartans Authority Dalgety Collection.</em></li>
-<li>pre 1998 — MacIver Hunting (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2697/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#507830;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #507830"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>In this the red ground changes to green and supercedes the comment made in #1855 about there being no MacIver Hunting. STS notes that this was worn in 1998 by Ian MacIver Chairman of the MacIver Society. The sett was found on the west coast of Scotland. It avoids the confusion with the MacArthur Hunting #1100. Sample in STA Dalgety Collection. Lochcarron sample proportions quite different: Y/4 G48 K8 G8 K60 G8 K8 G46 W/4</em></li>
+<li>pre 1998 — MacIver Hunting (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2697">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#D8B000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="YT #D8B000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#507830;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #507830"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>In this the red ground changes to green and supercedes the comment made in #1855 about there being no MacIver Hunting. STS notes that this was worn in 1998 by Ian MacIver Chairman of the MacIver Society. The sett was found on the west coast of Scotland. It avoids the confusion with the MacArthur Hunting #1100. Sample in STA Dalgety Collection. Lochcarron sample proportions quite different: Y/4 G48 K8 G8 K60 G8 K8 G46 W/4</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>1998 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

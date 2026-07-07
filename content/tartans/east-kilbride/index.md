@@ -1,6 +1,11 @@
 ---
 title: "East Kilbride"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan East"
+  url: "/clan/east/"
 ---
 A tartan of [Clan East](/clan/east/).
 Its design is pattern [GRGBRKW](/stripes/grgbrkw/) — the page of every tartan sharing this colour sequence.

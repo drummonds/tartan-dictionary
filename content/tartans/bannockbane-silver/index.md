@@ -1,6 +1,9 @@
 ---
 title: "Bannockbane Silver"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBBBWBBB](/stripes/bbbbwbbb/) — the page of every tartan sharing this colour sequence.
 

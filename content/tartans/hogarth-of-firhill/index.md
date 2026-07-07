@@ -1,6 +1,13 @@
 ---
 title: "Hogarth of Firhill"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hogarth"
+  url: "/clan/hogarth/"
+- name: "Hogarth of Firhill"
+  url: "/families/hogarth-of-firhill/"
 ---
 A tartan of the [Hogarth of Firhill](/families/hogarth-of-firhill/) family.
 Its design is pattern [BKBKGGW](/stripes/bkbkggw/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,11 @@
 ---
 title: "North Carolina State University - Pack Plaid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "North Carolina State University"
+  url: "/setts/w15n25r10w5n25w7n16k9n17k10n23r9/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w15n25r10w5n25w7n16k9n17k10n23r9/)
 (the same proportion at any scale), whose colour order is pattern [RBKBKBWBWRBW](/stripes/rbkbkbwbwrbw/).
@@ -8,6 +13,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11133
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>01/02/2013 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +54,7 @@ One full sett is **636 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">636</div><div class="nn-name nn-base"><a href="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9~x2/">North Carolina State University - Pack Plaid</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w15n25r10w5n25w7n16k9n17k10n23r9&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">318</div><div class="nn-name"><a href="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9/">North Carolina State University</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k5w4k4r4k4w7k2w7k8y1~x4&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.64</a></div><div class="nn-threads nn-far2">344</div><div class="nn-name nn-far2"><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/">Little, Arisaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.86</a></div><div class="nn-threads nn-far2">150</div><div class="nn-name nn-far2"><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/">Westgaard Ladies' (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg5r9dg10w2dg2ly2dg10r9dg5~x2&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.99</a></div><div class="nn-threads nn-far2">196</div><div class="nn-name nn-far2"><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/">Norwich No.077</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k10w10k10w10r3w6k3w3k3w3k3w3k3~x2&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.99</a></div><div class="nn-threads nn-far2">254</div><div class="nn-name nn-far2"><a href="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/">Blackcraig (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">636</div><div class="nn-name nn-base"><a href="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9~x2/">North Carolina State University - Pack Plaid</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w15n25r10w5n25w7n16k9n17k10n23r9&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">0.00</a></div><div class="nn-threads">318</div><div class="nn-name"><a href="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9/">North Carolina State University</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/w15n25r10w5n25w7n16k9n17k10n23r9/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k5w4k4r4k4w7k2w7k8y1~x4&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.64</a></div><div class="nn-threads nn-far2">344</div><div class="nn-name nn-far2"><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/">Little, Arisaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.86</a></div><div class="nn-threads nn-far2">150</div><div class="nn-name nn-far2"><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/">Westgaard Ladies' (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg5r9dg10w2dg2ly2dg10r9dg5~x2&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.99</a></div><div class="nn-threads nn-far2">196</div><div class="nn-name nn-far2"><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/">Norwich No.077</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k10w10k10w10r3w6k3w3k3w3k3w3k3~x2&amp;base=w15n25r10w5n25w7n16k9n17k10n23r9~x2" title="compare in the TTD">3.99</a></div><div class="nn-threads nn-far2">254</div><div class="nn-name nn-far2"><a href="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/">Blackcraig (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

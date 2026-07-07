@@ -1,6 +1,13 @@
 ---
 title: "Stewart of Rothesay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Rothesay"
+  url: "/families/stewart-of-rothesay/"
 ---
 A tartan of the [Stewart of Rothesay](/families/stewart-of-rothesay/) family.
 Its design is pattern [GRBRKRGRKRW](/stripes/grbrkrgrkrw/) — the page of every tartan sharing this colour sequence.

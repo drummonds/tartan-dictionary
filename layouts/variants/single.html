@@ -7,6 +7,9 @@
 {{ $slug := .Params.slug_full | default (path.Base .RelPermalink) }}
 <article class="post">
   <header class="post-header">
+    {{/* The breadcrumb trail (#133): Home › Clan › Family › Tartan › Sett, from front-matter
+         crumbs — the shared partial named-tartan pages use too (#146). */}}
+    {{ partial "crumbs.html" . }}
     <h1 style="text-align: center;" >{{ .Title }}</h1>
     <div class="post-metadata">
     {{ if .Date }}

@@ -1,6 +1,11 @@
 ---
 title: "Hamilton Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hamilton"
+  url: "/clan/hamilton/"
 ---
 A tartan of [Clan Hamilton](/clan/hamilton/).
 Its design is pattern [BGBGW](/stripes/bgbgw/) — the page of every tartan sharing this colour sequence.

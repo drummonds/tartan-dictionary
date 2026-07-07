@@ -1,6 +1,13 @@
 ---
 title: "Murray of Atholl"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Atholl"
+  url: "/families/murray-of-atholl/"
 ---
 A tartan of the [Murray of Atholl](/families/murray-of-atholl/) family.
 Its design is pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/) — the page of every tartan sharing this colour sequence.

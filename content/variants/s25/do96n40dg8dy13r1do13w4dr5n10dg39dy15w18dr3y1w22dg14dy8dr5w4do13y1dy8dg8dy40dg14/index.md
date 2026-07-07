@@ -1,6 +1,11 @@
 ---
 title: "Wirth, Iwan (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wirth, Iwan"
+  url: "/tartans/wirth-iwan/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/)
 (the same proportion at any scale), whose colour order is pattern [BBGGRBWBBGGWBGWGGBWBGGGGG](/stripes/bbggrbwbbggwbgwggbwbggggg/).
@@ -10,6 +15,22 @@ Part of the [Wirth, Iwan](/tartans/wirth-iwan/) tartan — the named design grou
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10963
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>01/04/2013 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -35,7 +56,7 @@ One full sett is **696 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">696</div><div class="nn-name nn-base"><a href="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/">Wirth, Iwan (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033&amp;base=do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14" title="compare in the TTD">0.61</a></div><div class="nn-threads">696</div><div class="nn-name"><a href="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/">Wirth, Iwan (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327&amp;base=do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">666</div><div class="nn-name nn-far"><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/">Unnamed C18th - Prince Charles Edward</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="sett" loading="lazy" style="width:768px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4&amp;base=do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14" title="compare in the TTD">3.73</a></div><div class="nn-threads nn-far2">666</div><div class="nn-name nn-far2"><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/">Stuart / Stewart, Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/sett.png" alt="sett" loading="lazy" style="width:768px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">696</div><div class="nn-name nn-base"><a href="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/">Wirth, Iwan (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s25/do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033&amp;base=do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14" title="compare in the TTD">0.61</a></div><div class="nn-threads">696</div><div class="nn-name"><a href="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/">Wirth, Iwan (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/do96n40dg8dy13ri1do13w4r5n10dg39dy15w18r3y1w22dg14dy8r5w4y1do13dy8dg8dy40dg14~ri2109032-r1807033/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327&amp;base=do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14" title="compare in the TTD">2.16</a></div><div class="nn-threads nn-far">666</div><div class="nn-name nn-far"><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/">Unnamed C18th - Prince Charles Edward</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett-rev.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4&amp;base=do96n40dg8dy13r1do13w4dr5n10dg39dy15w18dr3y1w22dg14dy8dr5w4do13y1dy8dg8dy40dg14" title="compare in the TTD">3.73</a></div><div class="nn-threads nn-far2">666</div><div class="nn-name nn-far2"><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/">Stuart / Stewart, Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/sett-rev.png" alt="sett" loading="lazy" style="width:768px"></div></div>
 
 ## Neighbour map
 

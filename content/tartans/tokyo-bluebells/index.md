@@ -1,6 +1,9 @@
 ---
 title: "Tokyo Bluebells"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRBRBKBWBKBRBR](/stripes/brbrbkbwbkbrbr/) — the page of every tartan sharing this colour sequence.
 

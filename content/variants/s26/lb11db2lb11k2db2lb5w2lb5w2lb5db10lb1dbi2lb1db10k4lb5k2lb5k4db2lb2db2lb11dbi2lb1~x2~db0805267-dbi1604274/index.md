@@ -1,6 +1,11 @@
 ---
 title: "Round Table"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Round Table"
+  url: "/setts/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1/)
 (the same proportion at any scale), whose colour order is pattern [WBWBWBKWKWKBWBWBWWWWWBKWBW](/stripes/wbwbwbkwkwkbwbwbwwwwwbkwbw/).
@@ -8,6 +13,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 LB/22 DB4 LB22 K4 DB4 LB10 W4 LB10 W4 LB10 DB20 LB2 DBi4 LB2 DB20 K8 LB10 K4 LB10 K8 DB4 LB4 DB4 LB22 DBi4 LB/2

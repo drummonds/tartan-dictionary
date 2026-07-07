@@ -1,6 +1,13 @@
 ---
 title: "Jardine of Castlemilk"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
+- name: "Jardine, of Castlemilk"
+  url: "/families/jardine-of-castlemilk/"
 ---
 A tartan of the [Jardine, of Castlemilk](/families/jardine-of-castlemilk/) family.
 Its design is pattern [BGBRBGBR](/stripes/bgbrbgbr/) — the page of every tartan sharing this colour sequence.

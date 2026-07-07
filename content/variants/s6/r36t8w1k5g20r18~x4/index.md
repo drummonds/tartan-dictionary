@@ -1,6 +1,13 @@
 ---
 title: "Sinclair"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sinclair"
+  url: "/clan/sinclair/"
+- name: "Sinclair"
+  url: "/tartans/sinclair/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36t8w1k5g20r18/)
 (the same proportion at any scale), whose colour order is pattern [RBWKGR](/stripes/rbwkgr/).
@@ -29,6 +36,22 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Sinclair** name adjusted Logan's counts: [Sinclair (Logan)](/setts/s6/r28g16k4w1b6r28~b202060-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair](/setts/s10/r30g12k5w2b6r30b12w2k5g12~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair Dress (Dance)](/setts/s12/b4r2b31k10g4w21g2w21g4k10b31r2~b38409c-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair Green (Personal)](/setts/s7/g4r2g30b15w2ba15r4~b5c5c5c-ba1c0070-g006818-r880000-wfcfcfc~x2/). Compare their thread counts with Logan's above.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/logan-1831/">Logan, The Scottish Gaël (1831)</a></dd>
+<dt>data captured from</dt><dd><a href="https://archive.org/details/scotishgalorcel02logagoog">https://archive.org/details/scotishgalorcel02logagoog</a></dd>
+<dt>data date</dt><dd>1831 <small>(this record)</small></dd>
+<dt>licence</dt><dd>Public domain</dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
+<li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 R/144 T32 W4 K20 G80 R/72

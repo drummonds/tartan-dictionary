@@ -1,6 +1,13 @@
 ---
 title: "Stewart of Appin Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Appin"
+  url: "/families/stewart-of-appin/"
 ---
 A tartan of the [Stewart of Appin](/families/stewart-of-appin/) family.
 Its design is pattern [GRGRGGWBRBRBWGGRGR](/stripes/grgrggwbrbrbwggrgr/) — the page of every tartan sharing this colour sequence.

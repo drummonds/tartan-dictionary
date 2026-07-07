@@ -1,6 +1,11 @@
 ---
 title: "Brooks Brothers Signature Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brooks Brothers Signature"
+  url: "/tartans/brooks-brothers-signature/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt5dy1dg7dr1dt45dr5dy3dt4dy3/)
 (the same proportion at any scale), whose colour order is pattern [BGGBBBGBG](/stripes/bggbbbgbg/).
@@ -14,6 +19,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 01/05/2012 Brooks Brothers' Scottish roots originate in Perthshire's Glen Lyon. Thomas Lyon emigrated from Glen Lyon to the USA in the 1600s. It was his granddaughter, Lavinia, who married Henry Sands Brooks, founder of the Brooks empire. Brooks opened his first store in Cherry Street, New York in 1818. This simple and elegant tartan contains elements of the traditional 1819 Campbell tartan (the major clan in Glen Lyon) and incorporates the gold from the Brooks Brothers famous Golden Fleece logo and their equally famous necktie design, No. 1 stripe.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DT/10 DY2 DG14 DR2 DT90 DR10 DY6 DT8 DY/6

@@ -1,6 +1,11 @@
 ---
 title: "Stirling"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stirling"
+  url: "/clan/stirling/"
 ---
 A tartan of [Clan Stirling](/clan/stirling/).
 Its design is pattern [RYBYKYGKWKGYKYBY](/stripes/rybykygkwkgykyby/) — the page of every tartan sharing this colour sequence.

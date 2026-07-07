@@ -1,6 +1,11 @@
 ---
 title: "MacGill"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGill"
+  url: "/clan/macgill/"
 ---
 A tartan of [Clan MacGill](/clan/macgill/).
 Its design is pattern [RGKWGRGWBKRGW](/stripes/rgkwgrgwbkrgw/) — the page of every tartan sharing this colour sequence.

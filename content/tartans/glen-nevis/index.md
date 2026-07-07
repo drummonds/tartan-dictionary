@@ -1,6 +1,11 @@
 ---
 title: "Glen Nevis"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
 ---
 A tartan of [Clan Glen](/clan/glen/).
 Its design is pattern [GBGBGBGG](/stripes/gbgbgbgg/) — the page of every tartan sharing this colour sequence.

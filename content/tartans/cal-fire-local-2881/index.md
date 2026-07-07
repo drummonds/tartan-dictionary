@@ -1,6 +1,9 @@
 ---
 title: "CAL FIRE Local 2881"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGRGKGRGBG](/stripes/bgrgkgrgbg/) — the page of every tartan sharing this colour sequence.
 

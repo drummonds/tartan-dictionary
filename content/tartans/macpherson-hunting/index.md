@@ -1,6 +1,11 @@
 ---
 title: "MacPherson Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
 ---
 A tartan of [Clan MacPherson](/clan/macpherson/).
 Its design is pattern [BRKRBRWRB](/stripes/brkrbrwrb/) — the page of every tartan sharing this colour sequence.

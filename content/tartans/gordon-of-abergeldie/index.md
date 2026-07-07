@@ -1,6 +1,13 @@
 ---
 title: "Gordon of Abergeldie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gordon (Duke of Gordon)"
+  url: "/clan/gordon/"
+- name: "Gordon of Abergeldie"
+  url: "/families/gordon-of-abergeldie/"
 ---
 A tartan of the [Gordon of Abergeldie](/families/gordon-of-abergeldie/) family.
 Its design is pattern [RWKBYGYBKW](/stripes/rwkbygybkw/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,13 @@
 ---
 title: "Stewart of Galloway"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Galloway"
+  url: "/families/stewart-of-galloway/"
 ---
 A tartan of the [Stewart of Galloway](/families/stewart-of-galloway/) family.
 Its design is pattern [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/) — the page of every tartan sharing this colour sequence.

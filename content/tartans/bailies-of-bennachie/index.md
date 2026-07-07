@@ -1,6 +1,13 @@
 ---
 title: "Bailies of Bennachie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bailies"
+  url: "/clan/bailies/"
+- name: "Bailies of Bennachie"
+  url: "/families/bailies-of-bennachie/"
 ---
 A tartan of the [Bailies of Bennachie](/families/bailies-of-bennachie/) family.
 Its design is pattern [BKBRGBG](/stripes/bkbrgbg/) — the page of every tartan sharing this colour sequence.

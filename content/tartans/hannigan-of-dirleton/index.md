@@ -1,6 +1,13 @@
 ---
 title: "Hannigan of Dirleton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hannigan"
+  url: "/clan/hannigan/"
+- name: "Hannigan of Dirleton"
+  url: "/families/hannigan-of-dirleton/"
 ---
 A tartan of the [Hannigan of Dirleton](/families/hannigan-of-dirleton/) family.
 Its design is pattern [BGGWGGYRYGGWGG](/stripes/bggwggyryggwgg/) — the page of every tartan sharing this colour sequence.

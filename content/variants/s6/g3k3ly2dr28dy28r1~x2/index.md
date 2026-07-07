@@ -1,13 +1,32 @@
 ---
 title: "Passchendaele (Commemorative)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3k3ly2dr28dy28r1/)
 (the same proportion at any scale), whose colour order is pattern [GKYBGR](/stripes/gkybgr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6982/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6982
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>2006 July <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **252 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s6/g3k3ly2dr28dy28r1~x2/">Passchendaele (Commemorative)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g3k3ly2dr28dy28r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy11db2r4y1dp2n2~x4&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">2.26</a></div><div class="nn-threads nn-far">124</div><div class="nn-name nn-far"><a href="/variants/s6/dy11db2r4y1dp2n2~x4/">Windy Meadows</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dy11db2r4y1dp2n2~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr24g1lb1g2r24~x2~r1908029&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">112</div><div class="nn-name nn-far"><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/">MacNab WI 1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr24g1lb1g2r24~x2~r1908029/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy6r3dy34k16y3dt22r4~x2&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">3.26</a></div><div class="nn-threads nn-far2">332</div><div class="nn-name nn-far2"><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/">Ballantrae (Macnaughtons)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy6r3dy34k16y3dt22r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg30g1dg3dr30k1y3~x2~dg1806142-g2408144&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">3.83</a></div><div class="nn-threads nn-far2">206</div><div class="nn-name nn-far2"><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/">Abadia Da Cova (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">252</div><div class="nn-name nn-base"><a href="/variants/s6/g3k3ly2dr28dy28r1~x2/">Passchendaele (Commemorative)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/g3k3ly2dr28dy28r1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy11db2r4y1dp2n2~x4&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">2.26</a></div><div class="nn-threads nn-far">124</div><div class="nn-name nn-far"><a href="/variants/s6/dy11db2r4y1dp2n2~x4/">Windy Meadows</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dy11db2r4y1dp2n2~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr24g1lb1g2r24~x2~r1908029&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">2.94</a></div><div class="nn-threads nn-far">112</div><div class="nn-name nn-far"><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/">MacNab WI 1</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr24g1lb1g2r24~x2~r1908029/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy6r3dy34k16y3dt22r4~x2&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">3.26</a></div><div class="nn-threads nn-far2">332</div><div class="nn-name nn-far2"><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/">Ballantrae (Macnaughtons)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy6r3dy34k16y3dt22r4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg30g1dg3dr30k1y3~x2~dg1806142-g2408144&amp;base=g3k3ly2dr28dy28r1~x2" title="compare in the TTD">3.83</a></div><div class="nn-threads nn-far2">206</div><div class="nn-name nn-far2"><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/">Abadia Da Cova (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

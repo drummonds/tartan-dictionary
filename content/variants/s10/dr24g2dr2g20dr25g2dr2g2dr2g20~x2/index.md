@@ -1,6 +1,9 @@
 ---
 title: "Donachie of Brockloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr24g2dr2g20dr25g2dr2g2dr2g20/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
@@ -13,8 +16,24 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=948
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/11/2003 — Donachie of Brockloch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=948">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#6C0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #6C0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003C24;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #003C24"></span><br><em>For the use of the Laird of Brockloch, his family, all those of the name of Donachie (and variants) and also anybody with an association with the Lairdship of Brockloch, Kirkcubrightshire. This, a modified version of the clan Donnachaidh tartan Scottish Tartrans World Register reference #893. D.C. Stewart wrote, "a fragment of which now belongs to the Clan Donnachaidh Society and is given the name Robertson. The plaid of which it was part is said to have been presented by the Prince to a member of the Robertson clan during the '45." (The Setts of the Scottish Tartans 1950.)</em></li>
-<li>pre 2005 — Donachie of Brockloch (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6702/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#940000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #940000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005834"></span><br><em>This is a modification of the Clan Donnachaidh tartan designed for the use of the Laird of Brockloch, his family and all of the name and its spelling variants. (STWR). www.donachiesociety.co.uk Woven by D C Dalgliesh of Selkirk. Note: It is such a slight modification of the Donachie (6138) that the STA would not have accepted it as a different tartan had it been approached to register it.</em></li>
+<li>pre 2005 — Donachie of Brockloch (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6702">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#940000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #940000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#005834;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #005834"></span><br><em>This is a modification of the Clan Donnachaidh tartan designed for the use of the Laird of Brockloch, his family and all of the name and its spelling variants. (STWR). www.donachiesociety.co.uk Woven by D C Dalgliesh of Selkirk. Note: It is such a slight modification of the Donachie (6138) that the STA would not have accepted it as a different tartan had it been approached to register it.</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>01/11/2003 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

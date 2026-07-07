@@ -1,6 +1,9 @@
 ---
 title: "Stratford Police Pipe Band (Ontario)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5lb2y1r45lb4w1k4db9lb2y2lb2k10w2/)
 (the same proportion at any scale), whose colour order is pattern [RWGRWWKBWGWKW](/stripes/rwgrwwkbwgwkw/).
@@ -19,6 +22,22 @@ Earliest known date: 14/06/2012 Designed by Scott Baughman for the Stratford Pol
 <li>14/06/2012 — Stratford Police Pipe Band (Ontario) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10638">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CB2026;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #CB2026"></span><span style="display:inline-block;width:.85em;height:.85em;background:#035F9D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #035F9D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F5B800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F5B800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6CC5D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #6CC5D8"></span><br><em>Designed by Scott Baughman for the Stratford Police Pipe Band also known as Perth County Pipe Band Incorporated. Colours: blue white and gold are for the city of Stratford; red and black are for the Stratford Police Service, Ontario.</em></li>
 <li>undated — Stratford Police Pipe Band Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10638">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#9F0805;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #9F0805"></span><span style="display:inline-block;width:.85em;height:.85em;background:#035F9D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #035F9D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F5B800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #F5B800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#6CC5D8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #6CC5D8"></span></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>14/06/2012 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

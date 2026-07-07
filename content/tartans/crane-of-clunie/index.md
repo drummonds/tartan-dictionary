@@ -1,6 +1,13 @@
 ---
 title: "Crane of Clunie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Crane"
+  url: "/clan/crane/"
+- name: "Crane of Clunie"
+  url: "/families/crane-of-clunie/"
 ---
 A tartan of the [Crane of Clunie](/families/crane-of-clunie/) family.
 Its design is pattern [GGKRKGKG](/stripes/ggkrkgkg/) — the page of every tartan sharing this colour sequence.

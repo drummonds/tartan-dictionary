@@ -1,6 +1,11 @@
 ---
 title: "Lumsden"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lumsden"
+  url: "/clan/lumsden/"
 ---
 A tartan of [Clan Lumsden](/clan/lumsden/).
 Its design is pattern [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGGGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgggrgwg/) — the page of every tartan sharing this colour sequence.

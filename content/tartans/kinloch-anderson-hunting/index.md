@@ -1,6 +1,11 @@
 ---
 title: "Kinloch Anderson Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
 ---
 A tartan of [Clan Kinloch](/clan/kinloch/).
 Its design is pattern [BBBBKGKGGGGB](/stripes/bbbbkgkggggb/) — the page of every tartan sharing this colour sequence.

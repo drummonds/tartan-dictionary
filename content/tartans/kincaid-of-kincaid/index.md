@@ -1,6 +1,13 @@
 ---
 title: "Kincaid of Kincaid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kincaid"
+  url: "/clan/kincaid/"
+- name: "Kincaid of Kincaid"
+  url: "/families/kincaid-of-kincaid/"
 ---
 A tartan of the [Kincaid of Kincaid](/families/kincaid-of-kincaid/) family.
 Its design is pattern [BGK](/stripes/bgk/) — the page of every tartan sharing this colour sequence.

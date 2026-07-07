@@ -1,6 +1,9 @@
 ---
 title: "Confederate Artillery"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GYGYGR](/stripes/gygygr/) — the page of every tartan sharing this colour sequence.
 

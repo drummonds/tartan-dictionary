@@ -1,6 +1,13 @@
 ---
 title: "Skene of Cromar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skene"
+  url: "/clan/skene/"
+- name: "Skene of Cromar"
+  url: "/families/skene-of-cromar/"
 ---
 A tartan of the [Skene of Cromar](/families/skene-of-cromar/) family.
 Its design is pattern [BRGKR](/stripes/brgkr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "McGran (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2/)
 (the same proportion at any scale), whose colour order is pattern [BGGBGBGGBRWGRGWRBGGBGBGGBY](/stripes/bggbgbggbrwgrgwrbggbgbggby/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2886
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>01/10/2005 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -34,7 +53,7 @@ One full sett is **546 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">546</div><div class="nn-name nn-base"><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/">McGran (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142&amp;base=dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s14/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/">McGran (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="sett" loading="lazy" style="width:800px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2&amp;base=dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142" title="compare in the TTD">3.34</a></div><div class="nn-threads nn-far2">1088</div><div class="nn-name nn-far2"><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/">Lorne, Marquis of #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2&amp;base=dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142" title="compare in the TTD">3.80</a></div><div class="nn-threads nn-far2">678</div><div class="nn-name nn-far2"><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/">Sea Bees Regimental Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/sett.png" alt="sett" loading="lazy" style="width:800px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">546</div><div class="nn-name nn-base"><a href="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/">McGran (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142&amp;base=dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142" title="compare in the TTD">2.79</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s14/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/">McGran (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett-rev.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2&amp;base=dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142" title="compare in the TTD">3.34</a></div><div class="nn-threads nn-far2">1088</div><div class="nn-name nn-far2"><a href="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/">Lorne, Marquis of #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s18/dg10g8dg46g3dg3g55r4g5w4g5y4g55dg3g3dg46g8dg10db10~x2/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2&amp;base=dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142" title="compare in the TTD">3.80</a></div><div class="nn-threads nn-far2">678</div><div class="nn-name nn-far2"><a href="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/">Sea Bees Regimental Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/db6g3lb6g7y2g36y2g7lb6g3db6g3dy6g3r6g7y2g36y2g7r6g3dy6g3~x2/sett.png" alt="sett" loading="lazy" style="width:800px"></div></div>
 
 ## Neighbour map
 

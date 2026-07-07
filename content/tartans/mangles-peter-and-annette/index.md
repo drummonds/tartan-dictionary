@@ -1,6 +1,9 @@
 ---
 title: "Mangles, Peter and Annette"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBWRGKR](/stripes/gbwrgkr/) — the page of every tartan sharing this colour sequence.
 

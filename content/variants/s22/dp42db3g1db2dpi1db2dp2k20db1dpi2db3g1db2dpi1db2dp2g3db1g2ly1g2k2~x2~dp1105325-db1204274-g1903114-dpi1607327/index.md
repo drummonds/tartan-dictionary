@@ -1,6 +1,9 @@
 ---
 title: "Monarch of the Glen Fashion Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2/)
 (the same proportion at any scale), whose colour order is pattern [BBGBBBBKBBBGBBBBGBGYGK](/stripes/bbgbbbbkbbbgbbbbgbgygk/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 2002 Designed by Claire Donaldson of House of Edgar using the name of the popular television series. (2002)
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DP/84 DB6 G2 DB4 DPi2 DB4 DP4 K40 DB2 DPi4 DB6 G2 DB4 DPi2 DB4 DP4 G6 DB2 G4 LY2 G4 K/4
@@ -31,7 +50,7 @@ One full sett is **304 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">304</div><div class="nn-name nn-base"><a href="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/">Monarch of the Glen Fashion Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2&amp;base=dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">700</div><div class="nn-name nn-far"><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/">Arran, Isle of (Strathmore)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327&amp;base=dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327" title="compare in the TTD">3.65</a></div><div class="nn-threads nn-far2">350</div><div class="nn-name nn-far2"><a href="/variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327/">Arran - 1978 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2~x2~dpi1607327-dp1105325&amp;base=dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">696</div><div class="nn-name nn-far2"><a href="/variants/s20/g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2~x2~dpi1607327-dp1105325/">Scottish Pride</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2~x2~dpi1607327-dp1105325/sett.png" alt="sett" loading="lazy" style="width:672px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">304</div><div class="nn-name nn-base"><a href="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/">Monarch of the Glen Fashion Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s22/dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2&amp;base=dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327" title="compare in the TTD">2.86</a></div><div class="nn-threads nn-far">700</div><div class="nn-name nn-far"><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/">Arran, Isle of (Strathmore)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327&amp;base=dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327" title="compare in the TTD">3.65</a></div><div class="nn-threads nn-far2">350</div><div class="nn-name nn-far2"><a href="/variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327/">Arran - 1978 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327/sett.png" alt="sett" loading="lazy" style="width:672px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2~x2~dpi1607327-dp1105325&amp;base=dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2~x2~dp1105325-db1204274-g1903114-dpi1607327" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">696</div><div class="nn-name nn-far2"><a href="/variants/s20/g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2~x2~dpi1607327-dp1105325/">Scottish Pride</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2~x2~dpi1607327-dp1105325/sett-rev.png" alt="sett" loading="lazy" style="width:672px"></div></div>
 
 ## Neighbour map
 

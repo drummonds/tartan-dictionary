@@ -1,6 +1,11 @@
 ---
 title: "Buie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Buie"
+  url: "/tartans/buie/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r18k3r2/)
 (the same proportion at any scale), whose colour order is pattern [RKR](/stripes/rkr/).
@@ -19,9 +24,25 @@ Earliest known date: pre 2003 A sample of this tartan was recorded by the Scotti
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1968 — Buie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=436">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>Sindex notes: 'Details from Mr Buie of Atlanta, Georgia 1968.' Tony Murray did quite a bit of research into this in 1971 but came to no firm conclusions. He did say that 'It does not resemble MacLaine of Lochbuie' (#1590, original Scottish Tartans Authority reference) but it does resemble that tartan in construction if not in colour and may well be a corruption of it or a deliberate differencing for an individual called Buie (Scottish Tartans Authority February 2005). MacLaine of Lochbuie frequently gets written as Loch Buie overseas. There are also suggestions that Buie is an alternative spelling of Bowie - a name said to be from Jura and S. Uist.</em></li>
-<li>1968 — Buie (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1590/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>Sindex notes: "Details from Mr Buie of Atlanta, Georgia 1968." Tony Murray did quite a bit of research into this in 1971 but came to no firm conclusions. He did say that "It resembles MacLaine of Lochbuie"(#1590) in construction if not in colour and may well be a corruption of it or a deliberate differencing for an individual called Buie. (BW Feb.2005). MacLaine of Lochbuie frequently gets written as Loch Buie overseas. There are also suggestions that Buie is an alternative spelling of Bowie - a name said to be from Jura and S. Uist.</em></li>
+<li>1968 — Buie (Name) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1590">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="XR #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><br><em>Sindex notes: "Details from Mr Buie of Atlanta, Georgia 1968." Tony Murray did quite a bit of research into this in 1971 but came to no firm conclusions. He did say that "It resembles MacLaine of Lochbuie"(#1590) in construction if not in colour and may well be a corruption of it or a deliberate differencing for an individual called Buie. (BW Feb.2005). MacLaine of Lochbuie frequently gets written as Loch Buie overseas. There are also suggestions that Buie is an alternative spelling of Bowie - a name said to be from Jura and S. Uist.</em></li>
 <li>undated — Buie Family Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1590">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>1968 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

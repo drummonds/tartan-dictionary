@@ -1,6 +1,9 @@
 ---
 title: "Hughes Welsh Name Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4db34dbi20db4dbi8db6r2db5dbi2db3g4/)
 (the same proportion at any scale), whose colour order is pattern [GBBBBBRBBBG](/stripes/gbbbbbrbbbg/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 2002 The tartan for this Welsh surname and its variations, Hugh, Hullin, Hullyn, Huws, Pugh, Tugh, Hoell, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 G/4 DB34 DBi20 DB4 DBi8 DB6 R2 DB5 DBi2 DB3 G/4
@@ -31,7 +50,7 @@ One full sett is **176 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">176</div><div class="nn-name nn-base"><a href="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/">Hughes Welsh Name Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2dg13db8dg3db33do3db8do13r2~x2&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">332</div><div class="nn-name nn-far"><a href="/variants/s9/dp2dg13db8dg3db33do3db8do13r2~x2/">Burt Family</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dp2dg13db8dg3db33do3db8do13r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r4db21w2db20dbi21db2dbi2~x2~db1404245-dbi1406275&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">3.32</a></div><div class="nn-threads nn-far2">276</div><div class="nn-name nn-far2"><a href="/variants/s7/r4db21w2db20dbi21db2dbi2~x2~db1404245-dbi1406275/">St. George's School (Birmingham)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4db21w2db20dbi21db2dbi2~x2~db1404245-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">3.44</a></div><div class="nn-threads nn-far2">226</div><div class="nn-name nn-far2"><a href="/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/">Paxton Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dt4r1dt18db18w1db4~x4~dt1101240-db1404245&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">336</div><div class="nn-name nn-far2"><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/">Ewell Castle School</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">176</div><div class="nn-name nn-base"><a href="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/">Hughes Welsh Name Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2dg13db8dg3db33do3db8do13r2~x2&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">332</div><div class="nn-name nn-far"><a href="/variants/s9/dp2dg13db8dg3db33do3db8do13r2~x2/">Burt Family</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/dp2dg13db8dg3db33do3db8do13r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r4db21w2db20dbi21db2dbi2~x2~db1404245-dbi1406275&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">3.32</a></div><div class="nn-threads nn-far2">276</div><div class="nn-name nn-far2"><a href="/variants/s7/r4db21w2db20dbi21db2dbi2~x2~db1404245-dbi1406275/">St. George's School (Birmingham)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r4db21w2db20dbi21db2dbi2~x2~db1404245-dbi1406275/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">3.44</a></div><div class="nn-threads nn-far2">226</div><div class="nn-name nn-far2"><a href="/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/">Paxton Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db30dp4db5dg3db2dg2db2dg10dp7k2dp9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dt4r1dt18db18w1db4~x4~dt1101240-db1404245&amp;base=g4db34dbi20db4dbi8db6r2db5dbi2db3g4~db1204274-dbi1404245" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">336</div><div class="nn-name nn-far2"><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/">Ewell Castle School</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

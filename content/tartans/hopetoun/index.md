@@ -1,6 +1,9 @@
 ---
 title: "Hopetoun"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBGKGKGKGKG](/stripes/gbgkgkgkgkg/) — the page of every tartan sharing this colour sequence.
 

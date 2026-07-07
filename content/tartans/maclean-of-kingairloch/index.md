@@ -1,6 +1,13 @@
 ---
 title: "MacLean of Kingairloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean of Kingairloch"
+  url: "/families/maclean-of-kingairloch/"
 ---
 A tartan of the [MacLean of Kingairloch](/families/maclean-of-kingairloch/) family.
 Its design is pattern [BKGKWKGGWG](/stripes/bkgkwkggwg/) — the page of every tartan sharing this colour sequence.

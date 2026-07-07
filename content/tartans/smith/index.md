@@ -1,6 +1,11 @@
 ---
 title: "Smith"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
 ---
 A tartan of [Clan Smith](/clan/smith/).
 Its design is pattern [BKGKBBBKGKYKGKBBBKGK](/stripes/bkgkbbbkgkykgkbbbkgk/) — the page of every tartan sharing this colour sequence.

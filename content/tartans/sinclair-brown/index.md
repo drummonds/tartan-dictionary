@@ -1,6 +1,9 @@
 ---
 title: "Sinclair-Brown"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKRKRKGYGKRKRK](/stripes/bkrkrkgygkrkrk/) — the page of every tartan sharing this colour sequence.
 

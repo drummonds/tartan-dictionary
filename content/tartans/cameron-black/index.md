@@ -1,6 +1,11 @@
 ---
 title: "Cameron Black &"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cameron"
+  url: "/clan/cameron/"
 ---
 A tartan of [Clan Cameron](/clan/cameron/).
 Its design is pattern [KRKRKR](/stripes/krkrkr/) — the page of every tartan sharing this colour sequence.

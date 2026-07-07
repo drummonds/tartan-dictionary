@@ -1,6 +1,11 @@
 ---
 title: "Cockburn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cockburn"
+  url: "/clan/cockburn/"
 ---
 A tartan of [Clan Cockburn](/clan/cockburn/).
 Its design is pattern [KGKBKWKBKGKGKGKGKGKBKWKBKGKGKRKGKGKBKWKBKGKGKGKGKGKBKWKBKGKR](/stripes/kgkbkwkbkgkgkgkgkgkbkwkbkgkgkrkgkgkbkwkbkgkgkgkgkgkbkwkbkgkr/) — the page of every tartan sharing this colour sequence.

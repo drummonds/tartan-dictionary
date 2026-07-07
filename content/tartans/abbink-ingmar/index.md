@@ -1,6 +1,9 @@
 ---
 title: "Abbink, Ingmar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GGKBR](/stripes/ggkbr/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Gunning, Robert Maxwell Stewart (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2/)
 (the same proportion at any scale), whose colour order is pattern [GBKBKGBGKGKGKGKGRGKBKBG](/stripes/gbkbkgbgkgkgkgkgrgkbkbg/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11525
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>04/03/2016 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **448 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">448</div><div class="nn-name nn-base"><a href="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/">Gunning, Robert Maxwell Stewart (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3&amp;base=dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2" title="compare in the TTD">2.36</a></div><div class="nn-threads nn-far">456</div><div class="nn-name nn-far"><a href="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/">Stewart Htg (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/sett.png" alt="sett" loading="lazy" style="width:704px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2&amp;base=dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">646</div><div class="nn-name nn-far"><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/">College of William &amp; Mary Schools Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139&amp;base=dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2" title="compare in the TTD">3.96</a></div><div class="nn-threads nn-far2">456</div><div class="nn-name nn-far2"><a href="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/">Stewart Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/sett.png" alt="sett" loading="lazy" style="width:704px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">448</div><div class="nn-name nn-base"><a href="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/">Gunning, Robert Maxwell Stewart (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s23/dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3&amp;base=dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2" title="compare in the TTD">2.36</a></div><div class="nn-threads nn-far">456</div><div class="nn-name nn-far"><a href="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/">Stewart Htg (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/sett-rev.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2&amp;base=dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2" title="compare in the TTD">2.69</a></div><div class="nn-threads nn-far">646</div><div class="nn-name nn-far"><a href="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/">College of William &amp; Mary Schools Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s20/db10dg25y2dg2y3dg2y2dg25db10w3db10dg25y2dg2y3dg2y2dg25db10k3~x2/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139&amp;base=dg2db5k2db2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3db2k2db5dg2~x2" title="compare in the TTD">3.96</a></div><div class="nn-threads nn-far2">456</div><div class="nn-name nn-far2"><a href="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/">Stewart Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/sett-rev.png" alt="sett" loading="lazy" style="width:704px"></div></div>
 
 ## Neighbour map
 

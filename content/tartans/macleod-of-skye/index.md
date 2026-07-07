@@ -1,6 +1,13 @@
 ---
 title: "MacLeod of Skye"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod of Skye"
+  url: "/families/macleod-of-skye/"
 ---
 A tartan of the [MacLeod of Skye](/families/macleod-of-skye/) family.
 Its design is pattern [BKBKBKGKGKGKBR](/stripes/bkbkbkgkgkgkbr/) — the page of every tartan sharing this colour sequence.

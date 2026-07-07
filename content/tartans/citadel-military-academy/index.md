@@ -1,6 +1,9 @@
 ---
 title: "Citadel Military Academy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GKWBYBYBYBYBWKR](/stripes/gkwbybybybybwkr/) — the page of every tartan sharing this colour sequence.
 

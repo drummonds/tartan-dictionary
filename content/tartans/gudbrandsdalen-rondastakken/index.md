@@ -1,6 +1,11 @@
 ---
 title: "Gudbrandsdalen, Rondastakken"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gudbrandsdalen"
+  url: "/clan/gudbrandsdalen/"
 ---
 A tartan of [Clan Gudbrandsdalen](/clan/gudbrandsdalen/).
 Its design is pattern [RGRGBRWR](/stripes/rgrgbrwr/) — the page of every tartan sharing this colour sequence.

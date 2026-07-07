@@ -1,6 +1,11 @@
 ---
 title: "Dundee Wallace Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dundee Wallace"
+  url: "/tartans/dundee-wallace/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri52w2g43y4w2k2w2y4k18lb8w2dp8w8dp8w2lb8ri10k3rii2r2ri4/)
 (the same proportion at any scale), whose colour order is pattern [RRRKRWWBWBWWKGWKWGGWR](/stripes/rrrkrwwbwbwwkgwkwggwr/).
@@ -14,6 +19,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 1819 Based on the design of a tartan Jacket said to have been worn by Prince Charles Edward Stuart at Culloden - earliest date 1746 - now preserved in the Scottish United Services Museum in Edinburgh Castle.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 Ri/104 W4 G86 Y8 W4 K4 W4 Y8 K36 LB16 W4 DP16 W16 DP16 W4 LB16 Ri20 K6 Rii4 R4 Ri/8

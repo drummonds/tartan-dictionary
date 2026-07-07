@@ -1,6 +1,9 @@
 ---
 title: "Daniel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBKYKBKBKBK](/stripes/bkbkykbkbkbk/) — the page of every tartan sharing this colour sequence.
 

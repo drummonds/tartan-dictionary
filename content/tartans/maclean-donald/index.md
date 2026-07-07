@@ -1,6 +1,11 @@
 ---
 title: "MacLean, Donald"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
 ---
 A tartan of [Clan Maclean](/clan/maclean/).
 Its design is pattern [BBBKGWG](/stripes/bbbkgwg/) — the page of every tartan sharing this colour sequence.

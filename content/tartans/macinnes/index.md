@@ -1,6 +1,9 @@
 ---
 title: "MacInnes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [WGRGRGRGRBRKGKRW](/stripes/wgrgrgrgrbrkgkrw/) — the page of every tartan sharing this colour sequence.
 

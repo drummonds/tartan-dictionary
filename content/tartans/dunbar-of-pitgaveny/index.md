@@ -1,6 +1,13 @@
 ---
 title: "Dunbar of Pitgaveny"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunbar"
+  url: "/clan/dunbar/"
+- name: "Dunbar of Pitgaveny"
+  url: "/families/dunbar-of-pitgaveny/"
 ---
 A tartan of the [Dunbar of Pitgaveny](/families/dunbar-of-pitgaveny/) family.
 Its design is pattern [BWBR](/stripes/bwbr/) — the page of every tartan sharing this colour sequence.

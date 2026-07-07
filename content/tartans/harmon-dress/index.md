@@ -1,6 +1,11 @@
 ---
 title: "Harmon Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harmon"
+  url: "/clan/harmon/"
 ---
 A tartan of [Clan Harmon](/clan/harmon/).
 Its design is pattern [GBGBGBKBYBGBYGYGYK](/stripes/gbgbgbkbybgbygygyk/) — the page of every tartan sharing this colour sequence.

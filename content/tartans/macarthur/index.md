@@ -1,6 +1,11 @@
 ---
 title: "MacArthur"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacArthur"
+  url: "/clan/macarthur/"
 ---
 A tartan of [Clan MacArthur](/clan/macarthur/).
 Its design is pattern [GYGKGK](/stripes/gygkgk/) — the page of every tartan sharing this colour sequence.

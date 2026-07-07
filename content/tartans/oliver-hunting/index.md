@@ -1,6 +1,9 @@
 ---
 title: "Oliver Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GGGKGWGWGWGKGGGK](/stripes/gggkgwgwgwgkgggk/) — the page of every tartan sharing this colour sequence.
 

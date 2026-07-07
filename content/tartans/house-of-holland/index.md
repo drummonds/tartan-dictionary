@@ -1,6 +1,9 @@
 ---
 title: "House of Holland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KGWBKWBKGKGKBKW](/stripes/kgwbkwbkgkgkbkw/) — the page of every tartan sharing this colour sequence.
 

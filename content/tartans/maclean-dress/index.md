@@ -1,6 +1,11 @@
 ---
 title: "MacLean Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
 ---
 A tartan of [Clan Maclean](/clan/maclean/).
 Its design is pattern [BWGBWY](/stripes/bwgbwy/) — the page of every tartan sharing this colour sequence.

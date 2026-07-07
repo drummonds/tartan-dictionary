@@ -1,6 +1,11 @@
 ---
 title: "Lochcarron Camel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochcarron"
+  url: "/clan/lochcarron/"
 ---
 A tartan of [Clan Lochcarron](/clan/lochcarron/).
 Its design is pattern [RYKWY](/stripes/rykwy/) — the page of every tartan sharing this colour sequence.

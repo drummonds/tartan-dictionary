@@ -1,6 +1,13 @@
 ---
 title: "Cheape of Torosay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cheape"
+  url: "/clan/cheape/"
+- name: "Cheape of Torosay"
+  url: "/families/cheape-of-torosay/"
 ---
 A tartan of the [Cheape of Torosay](/families/cheape-of-torosay/) family.
 Its design is pattern [BKBKBKGWGKBKG](/stripes/bkbkbkgwgkbkg/) — the page of every tartan sharing this colour sequence.

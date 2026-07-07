@@ -1,6 +1,13 @@
 ---
 title: "Bruce of Kinnaird"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
+- name: "Bruce of Kinnaird"
+  url: "/families/bruce-of-kinnaird/"
 ---
 A tartan of the [Bruce of Kinnaird](/families/bruce-of-kinnaird/) family.
 Its design is pattern [RGKWKYKGRW](/stripes/rgkwkykgrw/) — the page of every tartan sharing this colour sequence.

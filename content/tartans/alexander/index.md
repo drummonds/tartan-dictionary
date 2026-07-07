@@ -1,6 +1,11 @@
 ---
 title: "Alexander"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Alexander"
+  url: "/clan/alexander/"
 ---
 A tartan of [Clan Alexander](/clan/alexander/).
 Its design is pattern [BKGBGKW](/stripes/bkgbgkw/) — the page of every tartan sharing this colour sequence.

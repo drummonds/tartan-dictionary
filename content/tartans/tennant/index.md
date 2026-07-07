@@ -1,6 +1,9 @@
 ---
 title: "Tennant"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RBGBGGR](/stripes/rbgbggr/) — the page of every tartan sharing this colour sequence.
 

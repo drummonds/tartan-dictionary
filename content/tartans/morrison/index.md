@@ -1,6 +1,9 @@
 ---
 title: "Morrison"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRKRKRGWG](/stripes/grkrkrgwg/) — the page of every tartan sharing this colour sequence.
 

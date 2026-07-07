@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/r46k3y6db8r6k3y46/">Scrymgeour</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/r46k3y6db8r6k3y46/"><img src="/variants/s7/r46k3y6db8r6k3y46/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r15k1y2db3r2k1y15/">Scrymgeour</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r15k1y2db3r2k1y15/"><img src="/variants/s7/r15k1y2db3r2k1y15~x3/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/r46k3y6db8r6k3y46/">Scrymgeour</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/r46k3y6db8r6k3y46/"><img src="/variants/s7/r46k3y6db8r6k3y46/sett.png" alt="Scrymgeour sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/dy15k1r2db3dy2k1r15~x4/">Scrymgeour Family Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/dy15k1r2db3dy2k1r15~x4/"><img src="/variants/s7/dy15k1r2db3dy2k1r15~x4/sett.png" alt="Scrymgeour Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

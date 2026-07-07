@@ -1,6 +1,9 @@
 ---
 title: "Danzas"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBBBGBG](/stripes/bbbbgbg/) — the page of every tartan sharing this colour sequence.
 

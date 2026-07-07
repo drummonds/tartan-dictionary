@@ -1,6 +1,13 @@
 ---
 title: "Innes of Cowie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Innes,"
+  url: "/clan/innes/"
+- name: "Innes, of Cowie"
+  url: "/families/innes-of-cowie/"
 ---
 A tartan of the [Innes, of Cowie](/families/innes-of-cowie/) family.
 Its design is pattern [BKBKBKBWBGBKGKBWBKGKBGBWBKBKBKG](/stripes/bkbkbkbwbgbkgkbwbkgkbgbwbkbkbkg/) — the page of every tartan sharing this colour sequence.

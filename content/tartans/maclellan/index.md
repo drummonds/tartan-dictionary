@@ -1,6 +1,11 @@
 ---
 title: "MacLellan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLellan"
+  url: "/clan/maclellan/"
 ---
 A tartan of [Clan MacLellan](/clan/maclellan/).
 Its design is pattern [BKGRGKGKGRGKBK](/stripes/bkgrgkgkgrgkbk/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,13 @@
 ---
 title: "Graham of Montrose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham of Montrose"
+  url: "/families/graham-of-montrose/"
 ---
 A tartan of the [Graham of Montrose](/families/graham-of-montrose/) family.
 Its design is pattern [BKGWGKGWGKBK](/stripes/bkgwgkgwgkbk/) — the page of every tartan sharing this colour sequence.

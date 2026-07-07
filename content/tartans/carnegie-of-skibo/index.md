@@ -1,6 +1,13 @@
 ---
 title: "Carnegie of Skibo"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Carnegie"
+  url: "/clan/carnegie/"
+- name: "Carnegie of Skibo"
+  url: "/families/carnegie-of-skibo/"
 ---
 A tartan of the [Carnegie of Skibo](/families/carnegie-of-skibo/) family.
 Its design is pattern [WBWBBKBKGGW](/stripes/wbwbbkbkggw/) — the page of every tartan sharing this colour sequence.

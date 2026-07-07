@@ -1,6 +1,11 @@
 ---
 title: "Falkirk Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Shepherd"
+  url: "/setts/k1w1/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1w1/)
 (the same proportion at any scale), whose colour order is pattern [KW](/stripes/kw/).
@@ -8,6 +13,15 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from research.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.nms.ac.uk/
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/research/">Our own research</a></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></dd>
+<dt>captured</dt><dd>2025-11-01</dd>
+</dl>
+</details>
 
 ## Thread count
 K/24 W/24

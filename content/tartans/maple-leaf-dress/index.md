@@ -1,6 +1,9 @@
 ---
 title: "Maple Leaf Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RGRGRGRGYGBGRGRGRGRWRWGWRW](/stripes/rgrgrgrgygbgrgrgrgrwrwgwrw/) — the page of every tartan sharing this colour sequence.
 

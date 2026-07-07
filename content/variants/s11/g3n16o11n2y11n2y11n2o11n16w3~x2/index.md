@@ -1,6 +1,9 @@
 ---
 title: "Harmony 14"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3n16o11n2y11n2y11n2o11n16w3/)
 (the same proportion at any scale), whose colour order is pattern [GBRBGBGBRBW](/stripes/gbrbgbgbrbw/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 G/6 N32 O22 N4 Y22 N4 Y22 N4 O22 N32 W/6
@@ -27,7 +46,7 @@ One full sett is **340 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">340</div><div class="nn-name nn-base"><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/">Harmony 14</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000&amp;base=g3n16o11n2y11n2y11n2o11n16w3~x2" title="compare in the TTD">3.64</a></div><div class="nn-threads nn-far2">150</div><div class="nn-name nn-far2"><a href="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/">Annan (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do9dy9n9r1db1dy9db1r1~x4&amp;base=g3n16o11n2y11n2y11n2o11n16w3~x2" title="compare in the TTD">3.96</a></div><div class="nn-threads nn-far2">280</div><div class="nn-name nn-far2"><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/">Jardine of Castlemilk Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">340</div><div class="nn-name nn-base"><a href="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/">Harmony 14</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000&amp;base=g3n16o11n2y11n2y11n2o11n16w3~x2" title="compare in the TTD">3.64</a></div><div class="nn-threads nn-far2">150</div><div class="nn-name nn-far2"><a href="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/">Annan (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/y16oi2y2o2y2oi2y2do6n10y3~x2~oi2500000-n1900000/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do9dy9n9r1db1dy9db1r1~x4&amp;base=g3n16o11n2y11n2y11n2o11n16w3~x2" title="compare in the TTD">3.96</a></div><div class="nn-threads nn-far2">280</div><div class="nn-name nn-far2"><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/">Jardine of Castlemilk Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -1,6 +1,9 @@
 ---
 title: "Spirit of 1994"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWGWRWGGK](/stripes/bwgwrwggk/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Hay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RGGGRGRGRGRKRW](/stripes/rgggrgrgrgrkrw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "Ross Wedding Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ross"
+  url: "/clan/ross/"
 ---
 A tartan of [Clan Ross](/clan/ross/).
 Its design is pattern [BWWWBRWBWGWGWBWGWGRWWKWK](/stripes/bwwwbrwbwgwgwbwgwgrwwkwk/) — the page of every tartan sharing this colour sequence.

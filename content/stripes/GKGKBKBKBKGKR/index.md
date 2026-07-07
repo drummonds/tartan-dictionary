@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/">MacEwan</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/"><img src="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/sett.png" alt="MacEwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/">MacEwan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/"><img src="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/sett.png" alt="MacEwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/">MacEwan</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/"><img src="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/sett.png" alt="MacEwan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

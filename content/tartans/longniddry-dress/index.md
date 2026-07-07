@@ -1,6 +1,9 @@
 ---
 title: "Longniddry Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWBBWWWB](/stripes/bwbbwwwb/) — the page of every tartan sharing this colour sequence.
 

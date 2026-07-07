@@ -1,6 +1,11 @@
 ---
 title: "Chisholm, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Chisholm"
+  url: "/clan/chisholm/"
 ---
 A tartan of [Clan Chisholm](/clan/chisholm/).
 Its design is pattern [RGBRBGBRWR](/stripes/rgbrbgbrwr/) — the page of every tartan sharing this colour sequence.

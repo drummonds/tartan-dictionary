@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Gordon variant"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Gordon variant"
+  url: "/tartans/unidentified-gordon-variant/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4/)
 (the same proportion at any scale), whose colour order is pattern [BBGBBYBBWYWYW](/stripes/bbgbbybbwywyw/).
@@ -10,6 +15,22 @@ Part of the [Unidentified Gordon variant](/tartans/unidentified-gordon-variant/)
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4299
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-06 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -36,7 +57,7 @@ One full sett is **288 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/">Unidentified Gordon variant</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do4n2o8n8db9b2db9n8w4oi4w12oi2w4~x2~n1604274-o2102055-db0805267-oi2104058&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">1.20</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/">Unidentified, Gordon variant</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb18t18k10w3dy15y3ly8~x2~t2503227-k0705267&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">3.29</a></div><div class="nn-threads nn-far2">248</div><div class="nn-name nn-far2"><a href="/variants/s7/lb18t18db10w3dy15y3ly8~x2~t2503227-db0705267/">Isle of Jura</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb18t18db10w3dy15y3ly8~x2~t2503227-db0705267/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g3dp7lb11db3dy8w2db3lb3~x2&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">3.41</a></div><div class="nn-threads nn-far2">148</div><div class="nn-name nn-far2"><a href="/variants/s8/g3dp7lb11db3dy8w2db3lb3~x2/">Scotia Trade Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g3dp7lb11db3dy8w2db3lb3~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">3.69</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/">Belwade</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/">Unidentified Gordon variant</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=do4n2o8n8db9b2db9n8w4oi4w12oi2w4~x2~n1604274-o2102055-db0805267-oi2104058&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">1.20</a></div><div class="nn-threads">288</div><div class="nn-name"><a href="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/">Unidentified, Gordon variant</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/do4dbi2o8dbi8db9b2db9dbi8w4oi4w12oi2w4~x2~dbi1604274-o2102055-db0805267-oi2104058/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb18t18k10w3dy15y3ly8~x2~t2503227-k0705267&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">3.29</a></div><div class="nn-threads nn-far2">248</div><div class="nn-name nn-far2"><a href="/variants/s7/lb18t18db10w3dy15y3ly8~x2~t2503227-db0705267/">Isle of Jura</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/lb18t18db10w3dy15y3ly8~x2~t2503227-db0705267/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g3dp7lb11db3dy8w2db3lb3~x2&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">3.41</a></div><div class="nn-threads nn-far2">148</div><div class="nn-name nn-far2"><a href="/variants/s8/g3dp7lb11db3dy8w2db3lb3~x2/">Scotia Trade Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g3dp7lb11db3dy8w2db3lb3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267&amp;base=do4dbi2dy8dbi8db9lo2db9dbi8w4ly4w12ly2w4~x2~dbi1605267-db0804274" title="compare in the TTD">3.69</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/">Belwade</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

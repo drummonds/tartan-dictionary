@@ -1,6 +1,9 @@
 ---
 title: "Bermuda"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBRBGBBBRBBRB](/stripes/bbrbgbbbrbbrb/) — the page of every tartan sharing this colour sequence.
 

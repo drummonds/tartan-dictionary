@@ -1,6 +1,11 @@
 ---
 title: "Baillie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Baillie"
+  url: "/clan/baillie/"
 ---
 A tartan of [Clan Baillie](/clan/baillie/).
 Its design is pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/) — the page of every tartan sharing this colour sequence.

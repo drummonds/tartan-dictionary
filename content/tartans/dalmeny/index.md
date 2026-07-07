@@ -1,6 +1,9 @@
 ---
 title: "Dalmeny"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RGKBW](/stripes/rgkbw/) — the page of every tartan sharing this colour sequence.
 

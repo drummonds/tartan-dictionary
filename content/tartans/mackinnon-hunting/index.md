@@ -1,6 +1,11 @@
 ---
 title: "MacKinnon, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinnon"
+  url: "/clan/mackinnon/"
 ---
 A tartan of [Clan MacKinnon](/clan/mackinnon/).
 Its design is pattern [GRGRGRW](/stripes/grgrgrw/) — the page of every tartan sharing this colour sequence.

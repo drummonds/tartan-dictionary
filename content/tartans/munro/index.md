@@ -1,6 +1,11 @@
 ---
 title: "Munro"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Munro"
+  url: "/clan/munro/"
 ---
 A tartan of [Clan Munro](/clan/munro/).
 Its design is pattern [GRGRBGRBRGBRGRBGR](/stripes/grgrbgrbrgbrgrbgr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,11 @@
 ---
 title: "Sutherland Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sutherland"
+  url: "/clan/sutherland/"
 ---
 A tartan of [Clan Sutherland](/clan/sutherland/).
 Its design is pattern [GWKBKBKBRBRBRBKBKBKWGW](/stripes/gwkbkbkbrbrbrbkbkbkwgw/) — the page of every tartan sharing this colour sequence.

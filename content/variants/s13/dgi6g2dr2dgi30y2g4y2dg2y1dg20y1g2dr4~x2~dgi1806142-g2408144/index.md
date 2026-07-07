@@ -1,6 +1,11 @@
 ---
 title: "All Ireland Green (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "All Ireland"
+  url: "/tartans/all-ireland/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4/)
 (the same proportion at any scale), whose colour order is pattern [BGGGGGGGGGBGG](/stripes/bgggggggggbgg/).
@@ -9,7 +14,23 @@ Part of the [All Ireland](/tartans/all-ireland/) tartan — the named design gro
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4065/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4065
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>1997 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -50,7 +71,7 @@ Its **ΔTartan distance** from the master is **1.20** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/">All Ireland Green (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144&amp;base=dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144" title="compare in the TTD">1.20</a></div><div class="nn-threads">292</div><div class="nn-name"><a href="/variants/s13/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144/">All Ireland Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144&amp;base=dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144" title="compare in the TTD">1.20</a></div><div class="nn-threads">292</div><div class="nn-name"><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/">All Irish Green Irish District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090&amp;base=dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144" title="compare in the TTD">3.78</a></div><div class="nn-threads nn-far2">282</div><div class="nn-name nn-far2"><a href="/variants/s8/dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090/">Hannigan of Dirleton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">292</div><div class="nn-name nn-base"><a href="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/">All Ireland Green (Fashion)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144&amp;base=dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144" title="compare in the TTD">1.20</a></div><div class="nn-threads">292</div><div class="nn-name"><a href="/variants/s13/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144/">All Ireland Green</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dgi6g2dr2dgi30n2g4n2dg2n1dg20n1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144&amp;base=dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144" title="compare in the TTD">1.20</a></div><div class="nn-threads">292</div><div class="nn-name"><a href="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/">All Irish Green Irish District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dgi6g2dr2dgi30lo2g4lo2dg2lo1dg20lo1g2dr4~x2~dgi1806142-g2408144/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090&amp;base=dgi6g2dr2dgi30y2g4y2dg2y1dg20y1g2dr4~x2~dgi1806142-g2408144" title="compare in the TTD">3.78</a></div><div class="nn-threads nn-far2">282</div><div class="nn-name nn-far2"><a href="/variants/s8/dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090/">Hannigan of Dirleton (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dp4dg4g2w3dg27g30ly1r3~x2~dg1806142-g1903114-ly3307090/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

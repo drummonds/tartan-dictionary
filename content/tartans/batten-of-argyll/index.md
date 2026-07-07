@@ -1,6 +1,13 @@
 ---
 title: "Batten of Argyll"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Batten"
+  url: "/clan/batten/"
+- name: "Batten of Argyll"
+  url: "/families/batten-of-argyll/"
 ---
 A tartan of the [Batten of Argyll](/families/batten-of-argyll/) family.
 Its design is pattern [BKGBGGKB](/stripes/bkgbggkb/) — the page of every tartan sharing this colour sequence.

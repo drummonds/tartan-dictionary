@@ -1,6 +1,9 @@
 ---
 title: "Scottish Airports"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGBKBR](/stripes/bgbkbr/) — the page of every tartan sharing this colour sequence.
 

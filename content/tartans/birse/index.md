@@ -1,6 +1,9 @@
 ---
 title: "Birse"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KGKYBR](/stripes/kgkybr/) — the page of every tartan sharing this colour sequence.
 

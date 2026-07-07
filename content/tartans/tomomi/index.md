@@ -1,6 +1,9 @@
 ---
 title: "Tomomi"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [WGGRWY](/stripes/wggrwy/) — the page of every tartan sharing this colour sequence.
 

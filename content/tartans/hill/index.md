@@ -1,6 +1,11 @@
 ---
 title: "Hill"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hill"
+  url: "/clan/hill/"
 ---
 A tartan of [Clan Hill](/clan/hill/).
 Its design is pattern [KRKBGBGBW](/stripes/krkbgbgbw/) — the page of every tartan sharing this colour sequence.

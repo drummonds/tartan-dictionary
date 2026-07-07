@@ -1,6 +1,11 @@
 ---
 title: "MacNeil"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNeil"
+  url: "/clan/macneil/"
 ---
 A tartan of [Clan MacNeil](/clan/macneil/).
 Its design is pattern [GKGKBRW](/stripes/gkgkbrw/) — the page of every tartan sharing this colour sequence.

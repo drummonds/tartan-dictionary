@@ -1,6 +1,11 @@
 ---
 title: "Spirit of Hoxa District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spirit of Hoxa"
+  url: "/tartans/spirit-of-hoxa/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2dt19dg2do46lb2dt10dg3o2r2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/).
@@ -14,6 +19,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 24 September 2012 Allison Dearness, who was born and bred in the district of Hoxa in Orkney, has designed this tartan, with Lochcarron of Scotland. Prior to the opening of the Churchill barriers (causeways) in 1945, the parish of South Ronaldsay was an island, which was made up of various districts, one of which was, and still is, called Hoxa. Situated on the South West corner of South Ronaldsay, this district is mainly agricultural, although its main claim to fame is that this area houses the remains of the gun emplacements which defended the RN Home Fleet in Scapa Flow during two world wars. As a consequence not only does this district have a prominent part in Orcadian history, but also for the huge numbers of ex servicemen-women who defended Scapa Flow during those wars. This tartan will be available from Allisons Formal Dress Hire Ltd, 105 Rosemount Place, Aberdeen AB25 2YG Email: allisonskilts@onebillnet.co.uk
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 R/4 O4 DG6 DT20 LB4 DO92 DG4 DT38 DG/4

@@ -1,6 +1,9 @@
 ---
 title: "Wormeck (2013) Germany"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4y4r33k30w2/)
 (the same proportion at any scale), whose colour order is pattern [BGRKW](/stripes/bgrkw/).
@@ -19,6 +22,22 @@ Earliest known date: 11 October 2012 This tartan was created by the designer for
 <li>08/10/2012 — Wormeck (2013) Germany (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10714">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#271B86;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #271B86"></span><span style="display:inline-block;width:.85em;height:.85em;background:#EBAA57;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #EBAA57"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A90725;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #A90725"></span><span style="display:inline-block;width:.85em;height:.85em;background:#120A01;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #120A01"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F7F1E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F7F1E8"></span><br><em>This tartan was created for all those bearing the name Wormeck in Europe and especially Germany, where there is a new branch of the Wormeck family with its roots on the Baltic shores of Northern Germany (Schleswig-Holstein), and including the old branch of the Wormeck family which has its roots in former Western Prussia, where the family lived until 1945. The Wormeck (2013) Germany tartan may also be used and worn by members of the Sovadina/Sovadinová family living in and nearby the city of Kutná Hora in the Czech Republic, as Eliška Sovadinová and the designer, Marcus Wormeck, married in 2013, uniting the two families. The designer and his wife live in Kiel in Northern Germany. Those bearing the name Wormek, a spelling variation of Wormeck, may also wear and use this tartan as they share the same family roots.</em></li>
 <li>undated — Wormeck (2013) German Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10714">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#271B86;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #271B86"></span><span style="display:inline-block;width:.85em;height:.85em;background:#EBAA57;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #EBAA57"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A90725;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #A90725"></span><span style="display:inline-block;width:.85em;height:.85em;background:#120A01;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #120A01"></span><span style="display:inline-block;width:.85em;height:.85em;background:#F7F1E8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #F7F1E8"></span></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>08/10/2012 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

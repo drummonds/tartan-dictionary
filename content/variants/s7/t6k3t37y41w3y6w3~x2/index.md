@@ -1,20 +1,39 @@
 ---
 title: "Tilburg Hunting (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t6k3t37y41w3y6w3/)
 (the same proportion at any scale), whose colour order is pattern [BKBGWGW](/stripes/bkbgwgw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7428/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7428
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>Aug 2007 — Tilburg Hunting (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7428/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1068A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1068A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8A810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D8A810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Concept from Alastair Gillespie and design by Marjan Stoop of AaBe Textiles (www.aabe.nl) of Tilburg. Tilburg was liberated during World War II by the 15th Scottish Division on 24th October 1944 and Alastair Gillespie and his organisation Scotfest (www.scotfest.nl) suggested to the Tilburg Mayor that the two tartans would cement the bonds between Tilburg and Scotland. Tilburg uses blue and yellow as their city colours amd the tartans will be used for kilts and to decorate one or more meeting places in the town. Tilburg was traditionally known as the wool capital of the Netherlands and in the 17th century there were more than 300 looms in the city and by 1881 there were around 145 woollen mills. The industry collapsed in the 1960s and now there is but one mill remaining - AaBe. Tilburg is between Rotterdam and Eindhoven just north of the Belgian border.</em></li>
+<li>Aug 2007 — Tilburg Hunting (District) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7428">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1068A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1068A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8A810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D8A810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Concept from Alastair Gillespie and design by Marjan Stoop of AaBe Textiles (www.aabe.nl) of Tilburg. Tilburg was liberated during World War II by the 15th Scottish Division on 24th October 1944 and Alastair Gillespie and his organisation Scotfest (www.scotfest.nl) suggested to the Tilburg Mayor that the two tartans would cement the bonds between Tilburg and Scotland. Tilburg uses blue and yellow as their city colours amd the tartans will be used for kilts and to decorate one or more meeting places in the town. Tilburg was traditionally known as the wool capital of the Netherlands and in the 17th century there were more than 300 looms in the city and by 1881 there were around 145 woollen mills. The industry collapsed in the 1960s and now there is but one mill remaining - AaBe. Tilburg is between Rotterdam and Eindhoven just north of the Belgian border.</em></li>
 <li>undated — Tilburg Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5500">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#1068A4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LRB #1068A4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D8A810;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #D8A810"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><br><em>Concept from Alastair Gillespie and design by Marjan Stoop of AaBe Textiles (www.aabe.nl) of Tilburg. Tilburg was liberated during World War II by the 15th Scottish Division on 24th October 1944 and Alastair Gillespie and his organisation Scotfest (www.scotfest.nl) suggested to the Tilburg Mayor that the two tartans would cement the bonds between Tilburg and Scotland. Tilburg uses blue and yellow as their city colours and the tartans will be used for kilts and to decorate one or more meeting places in the town. Tilburg was traditionally known as the wool capital of the Netherlands and in the 17th century there were more than 300 looms in the city and by 1881 there were around 145 woollen mills. The industry collapsed in the 1960s and now there is but one mill remaining - AaBe. Tilburg is between Rotterdam and Eindhoven just north of the Belgian border.</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>Aug 2007 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

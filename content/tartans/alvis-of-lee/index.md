@@ -1,6 +1,13 @@
 ---
 title: "Alvis of Lee"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Alvis"
+  url: "/clan/alvis/"
+- name: "Alvis of Lee"
+  url: "/families/alvis-of-lee/"
 ---
 A tartan of the [Alvis of Lee](/families/alvis-of-lee/) family.
 Its design is pattern [BWGWR](/stripes/bwgwr/) — the page of every tartan sharing this colour sequence.

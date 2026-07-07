@@ -1,6 +1,9 @@
 ---
 title: "Royal Marines Condor"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KRKBRGY](/stripes/krkbrgy/) — the page of every tartan sharing this colour sequence.
 

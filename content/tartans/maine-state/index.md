@@ -1,6 +1,9 @@
 ---
 title: "Maine State"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRWBWBWBGRW](/stripes/grwbwbwbgrw/) — the page of every tartan sharing this colour sequence.
 

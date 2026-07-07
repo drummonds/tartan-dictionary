@@ -1,6 +1,9 @@
 ---
 title: "Nova Scotia Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWRGGGGGGBW](/stripes/bwrggggggbw/) — the page of every tartan sharing this colour sequence.
 

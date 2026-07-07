@@ -1,6 +1,9 @@
 ---
 title: "Unidentified Plaid 3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10/)
 (the same proportion at any scale), whose colour order is pattern [BBGBGBGBGBGBGBGBGBGBGRB](/stripes/bbgbgbgbgbgbgbgbgbgbgrb/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 B/126 R3 Y16 B20 Y4 B4 Y4 B4 Y4 B4 Y4 B4 Y4 B4 Y4 B4 Y4 B4 Y4 B4 Y4 DO130 B/10
@@ -27,7 +46,7 @@ One full sett is **610 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">610</div><div class="nn-name nn-base"><a href="/variants/s23/b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10/">Unidentified Plaid 3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s23/b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2&amp;base=b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10" title="compare in the TTD">3.18</a></div><div class="nn-threads nn-far2">296</div><div class="nn-name nn-far2"><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/">Kirkcaldy Tartan Army</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/sett.png" alt="sett" loading="lazy" style="width:704px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4&amp;base=b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10" title="compare in the TTD">3.59</a></div><div class="nn-threads nn-far2">576</div><div class="nn-name nn-far2"><a href="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/">Allen hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t48db4ly7db3ly4db1ly2db6ly3db9t4r3db7~x2~t2503227-ly2600000&amp;base=b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">294</div><div class="nn-name nn-far2"><a href="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/">Budge (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/sett.png" alt="sett" loading="lazy" style="width:704px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">610</div><div class="nn-name nn-base"><a href="/variants/s23/b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10/">Unidentified Plaid 3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s23/b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2&amp;base=b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10" title="compare in the TTD">3.18</a></div><div class="nn-threads nn-far2">296</div><div class="nn-name nn-far2"><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/">Kirkcaldy Tartan Army</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4&amp;base=b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10" title="compare in the TTD">3.59</a></div><div class="nn-threads nn-far2">576</div><div class="nn-name nn-far2"><a href="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/">Allen hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/sett.png" alt="sett" loading="lazy" style="width:704px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t48db4ly7db3ly4db1ly2db6ly3db9t4r3db7~x2~t2503227-ly2600000&amp;base=b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">294</div><div class="nn-name nn-far2"><a href="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/">Budge (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/sett.png" alt="sett" loading="lazy" style="width:704px"></div></div>
 
 ## Neighbour map
 

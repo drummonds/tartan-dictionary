@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/">Suttle (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><img src="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/sett.png" alt="Suttle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/n36k18n5db7n5k7r1g2~x2/">Suttle (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><img src="/variants/s8/n36k18n5db7n5k7r1g2~x2/sett.png" alt="Suttle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/">Suttle (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><img src="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/sett.png" alt="Suttle (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

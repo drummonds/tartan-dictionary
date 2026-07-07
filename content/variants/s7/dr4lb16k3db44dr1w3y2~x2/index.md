@@ -1,6 +1,11 @@
 ---
 title: "Dress Blue"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dress"
+  url: "/tartans/dress/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4lb16k3db44dr1w3y2/)
 (the same proportion at any scale), whose colour order is pattern [BWKBBWG](/stripes/bwkbbwg/).
@@ -21,6 +26,22 @@ Earliest known date: 5 September 2012 This tartan is intended as an unofficial c
 <li>09/06/2012 — Dress Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10689">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E3170D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #E3170D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#82CFFD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #82CFFD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFE700;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE700"></span><br><em>This tartan is intended as an unofficial complementary alternative to the existing tartans worn by US Marines. The design should be recognisable to anyone who is familiar with the Dress Blue uniform. It may be worn by anyone who has served in the US Marine Corps, who has a family member who is, or was, a Marine, or who wishes to honour those who are, or have served as, Marines. The colours are presented in the tartan in the same ratios as they would appear in the uniform. The dark blue is from the uniform blouse, the light blue is from the trousers, the red is from the piping on the blouse and the 'blood stripe' down the trouser legs, the white is from the cover, waistbelt and gloves, the gold is from the brass buttons, waistplate and EGA, and the black is from the cover bill and the shoes.</em></li>
 <li>undated — Dress Blue Fashion Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10689">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E3170D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #E3170D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#82CFFD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LB #82CFFD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="NB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFE700;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE700"></span></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>09/06/2012 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

@@ -1,6 +1,13 @@
 ---
 title: "Fraser of Altyre"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser of Altyre"
+  url: "/families/fraser-of-altyre/"
 ---
 A tartan of the [Fraser of Altyre](/families/fraser-of-altyre/) family.
 Its design is pattern [BRGRBRBRBRBRBR](/stripes/brgrbrbrbrbrbr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,11 @@
 ---
 title: "Bruce Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
 ---
 A tartan of [Clan Bruce](/clan/bruce/).
 Its design is pattern [GKGRGRGRGRGKW](/stripes/gkgrgrgrgrgkw/) — the page of every tartan sharing this colour sequence.

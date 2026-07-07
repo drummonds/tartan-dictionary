@@ -1,6 +1,11 @@
 ---
 title: "Carrick Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Carrick Hunting"
+  url: "/tartans/carrick-hunting/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13dp1g1dp1g3t5k4y2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBKG](/stripes/gbgbgbkg/).
@@ -15,8 +20,24 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=577
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>01/01/1930 — Carrick Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=577">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#780078;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="P #780078"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>District Tartans book states that this was designed about 1930 for Councillor John Hannay by Arthur Galt of Hugh Galt & Sons Ltd., of Barrhill, Girvan. The name Carrick has a Gaelic derivation ('rock') and may refer to the island of Ailsa Craig off the Ayrshire coast. See also Carrick. This is also called Carrick Hunting and is no doubt the source of McGregor Hastie's swatch in his collection 0721. Sample in Scottish Tartans Authority Scarlett Collection. This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked.</em></li>
-<li>1930 — Carrick Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/721/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>District Tartans book states that this was designed about 1930 for Councillor John Hannay by Arthur Galt of Hugh Galt & Sons Ltd., of Barrhill, Girvan. The name Carrick has a Gaelic derivation ('rock') and may refer to the island of Ailsa Craig off the Ayrshire coast. See also Carrick. This is also called Carrick Green and is no doubt the source of McGregor Hastie's swatch in his collection 0721. Sample in STA Scarlett Collection. This tartan and its associated clan version at #1389 were for some time considered as Personal & District tartans respectively, but this misunderstanding has now been rectified (June 2010)</em></li>
+<li>1930 — Carrick Htg (Clan) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=721">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#408060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="WG #408060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#440044;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DP #440044"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1474B4;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="BL #1474B4"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><br><em>District Tartans book states that this was designed about 1930 for Councillor John Hannay by Arthur Galt of Hugh Galt & Sons Ltd., of Barrhill, Girvan. The name Carrick has a Gaelic derivation ('rock') and may refer to the island of Ailsa Craig off the Ayrshire coast. See also Carrick. This is also called Carrick Green and is no doubt the source of McGregor Hastie's swatch in his collection 0721. Sample in STA Scarlett Collection. This tartan and its associated clan version at #1389 were for some time considered as Personal & District tartans respectively, but this misunderstanding has now been rectified (June 2010)</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>1930 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

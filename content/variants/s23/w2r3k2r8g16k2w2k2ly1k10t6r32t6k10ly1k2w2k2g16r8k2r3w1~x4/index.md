@@ -1,6 +1,9 @@
 ---
 title: "Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1/)
 (the same proportion at any scale), whose colour order is pattern [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw/).
@@ -27,6 +30,22 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Stewart** name adjusted Logan's counts: [Stewart](/setts/s30/b14k12b3g22g4k6y2k2b2k2g8r4k2r4w2r4k2r4g8k2b2k2y2k6g4g22b3k12b14k4~b00248c-g004c00-k000000-rc80000-wc0c0c0-ya08c28~x2/); [Stewart - Pr Ch Ed - Pendleton](/setts/s12/r32b2k8y1k2w2k2g18r10k2r2w2~b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800~x4/); [Stewart (King George VI)](/setts/s14/r2g11g2b2k3y1k1ya1k1g4r2k1r2ya1~b2474e8-g006818-k101010-r880000-ybc8c00-yab8b8b8~x4/); [Stewart (Silk Fragment)](/setts/s24/b4w2b2w1ba5y5g5w1g20w1b4ba4ga3w1ga3ba4b4w1y30b2ba2w1ba2b2~b2c2c80-ba5c8ca8-g006818-ga604000-we0e0e0-yd87c00~x2/). Compare their thread counts with Logan's above.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/logan-1831/">Logan, The Scottish Gaël (1831)</a></dd>
+<dt>data captured from</dt><dd><a href="https://archive.org/details/scotishgalorcel02logagoog">https://archive.org/details/scotishgalorcel02logagoog</a></dd>
+<dt>data date</dt><dd>1831 <small>(this record)</small></dd>
+<dt>licence</dt><dd>Public domain</dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
+<li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 W/8 R12 K8 R32 G64 K8 W8 K8 LY4 K40 T24 R128 T24 K40 LY4 K8 W8 K8 G64 R32 K8 R12 W/4

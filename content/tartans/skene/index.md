@@ -1,6 +1,11 @@
 ---
 title: "Skene"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skene"
+  url: "/clan/skene/"
 ---
 A tartan of [Clan Skene](/clan/skene/).
 Its design is pattern [BRGRGRGRGRGR](/stripes/brgrgrgrgrgr/) — the page of every tartan sharing this colour sequence.

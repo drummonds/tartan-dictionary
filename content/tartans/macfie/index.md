@@ -1,6 +1,11 @@
 ---
 title: "MacFie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacFie"
+  url: "/clan/macfie/"
 ---
 A tartan of [Clan MacFie](/clan/macfie/).
 Its design is pattern [GRGRGRGRW](/stripes/grgrgrgrw/) — the page of every tartan sharing this colour sequence.

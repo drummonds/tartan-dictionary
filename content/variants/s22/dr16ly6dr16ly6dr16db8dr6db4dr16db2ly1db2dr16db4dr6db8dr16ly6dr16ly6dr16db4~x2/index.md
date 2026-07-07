@@ -1,6 +1,9 @@
 ---
 title: "Thomas Blake Glover Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr16ly6dr16ly6dr16db8dr6db4dr16db2ly1db2dr16db4dr6db8dr16ly6dr16ly6dr16db4/)
 (the same proportion at any scale), whose colour order is pattern [BBYBYBBBBBBYBBBBBBYBYB](/stripes/bbybybbbbbbybbbbbbybyb/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 1996 Two versions of this and it is not known at this stage which is correct. From Lochcarron 1996. According to STS 'Tartans' 1996 this was designed by Johnsons of Elgin for the Thomas Blake Glover Heritage Centre. Thomas Blake Glover was born in Fraserburgh, Scotland. He was the founder of Mitsubishi, the Japanese Mint and the Jappanese ship building industry circa 1860. His house in Nagasaki has over 2 milion visitors a year. STS wesbite version use three colours as against the four in this (original?) version. Sample in STA's Johnston Collection. Alsowoven by Lochcarron
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DR/32 LY12 DR32 LY12 DR32 DB16 DR12 DB8 DR32 DB4 LY2 DB4 DR32 DB8 DR12 DB16 DR32 LY12 DR32 LY12 DR32 DB/8

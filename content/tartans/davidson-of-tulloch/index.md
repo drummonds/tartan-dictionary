@@ -1,6 +1,13 @@
 ---
 title: "Davidson of Tulloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Davidson"
+  url: "/clan/davidson/"
+- name: "Davidson of Tulloch"
+  url: "/families/davidson-of-tulloch/"
 ---
 A tartan of the [Davidson of Tulloch](/families/davidson-of-tulloch/) family.
 Its design is pattern [RBKGW](/stripes/rbkgw/) — the page of every tartan sharing this colour sequence.

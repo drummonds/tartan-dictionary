@@ -1,6 +1,9 @@
 ---
 title: "Angle"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [YGKGYGY](/stripes/ygkgygy/) — the page of every tartan sharing this colour sequence.
 

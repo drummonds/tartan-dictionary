@@ -1,6 +1,13 @@
 ---
 title: "Williams"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Williams"
+  url: "/clan/williams/"
+- name: "Williams"
+  url: "/tartans/williams/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy46do6lo3do3w3do3dg10dy8do3dy6w3/)
 (the same proportion at any scale), whose colour order is pattern [GBYBWBGGBGW](/stripes/gbybwbggbgw/).
@@ -10,6 +17,22 @@ Part of the [Williams](/tartans/williams/) tartan — the named design grouping 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4626
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>2000 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -36,7 +59,7 @@ One full sett is **278 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s11/dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2/">Williams</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">2.31</a></div><div class="nn-threads nn-far">244</div><div class="nn-name nn-far"><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/">Yarrow</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n19dy2do3w1do1w1do1dy6n3do1n3w1~x4&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">3.72</a></div><div class="nn-threads nn-far2">256</div><div class="nn-name nn-far2"><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/">Glen Moy #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do17dy3do2dy1do1dy1do1dy1r3ly2do1ly2ri1~x4~do1103038-dy1402055-r1506019-ri2806019&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">3.77</a></div><div class="nn-threads nn-far2">216</div><div class="nn-name nn-far2"><a href="/variants/s13/do17doi3do2doi1do1doi1do1doi1r3ly2do1ly2ri1~x4~do1103038-doi1402055-r1506019-ri2806019/">Kinnaird (1984)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/do17doi3do2doi1do1doi1do1doi1r3ly2do1ly2ri1~x4~do1103038-doi1402055-r1506019-ri2806019/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">3.78</a></div><div class="nn-threads nn-far2">440</div><div class="nn-name nn-far2"><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/">Glendronach Distillery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">278</div><div class="nn-name nn-base"><a href="/variants/s11/dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2/">Williams</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">2.31</a></div><div class="nn-threads nn-far">244</div><div class="nn-name nn-far"><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/">Yarrow</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n19dy2do3w1do1w1do1dy6n3do1n3w1~x4&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">3.72</a></div><div class="nn-threads nn-far2">256</div><div class="nn-name nn-far2"><a href="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/">Glen Moy #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do17dy3do2dy1do1dy1do1dy1r3ly2do1ly2ri1~x4~do1103038-dy1402055-r1506019-ri2806019&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">3.77</a></div><div class="nn-threads nn-far2">216</div><div class="nn-name nn-far2"><a href="/variants/s13/do17doi3do2doi1do1doi1do1doi1r3ly2do1ly2ri1~x4~do1103038-doi1402055-r1506019-ri2806019/">Kinnaird (1984)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/do17doi3do2doi1do1doi1do1doi1r3ly2do1ly2ri1~x4~do1103038-doi1402055-r1506019-ri2806019/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4&amp;base=dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2" title="compare in the TTD">3.78</a></div><div class="nn-threads nn-far2">440</div><div class="nn-name nn-far2"><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/">Glendronach Distillery</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

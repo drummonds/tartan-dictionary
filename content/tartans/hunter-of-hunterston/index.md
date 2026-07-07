@@ -1,6 +1,13 @@
 ---
 title: "Hunter of Hunterston"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
+- name: "Hunter of Hunterston"
+  url: "/families/hunter-of-hunterston/"
 ---
 A tartan of the [Hunter of Hunterston](/families/hunter-of-hunterston/) family.
 Its design is pattern [GBGBRBWGRGG](/stripes/gbgbrbwgrgg/) — the page of every tartan sharing this colour sequence.

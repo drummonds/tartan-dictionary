@@ -1,6 +1,9 @@
 ---
 title: "Battle of Bannockburn, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRBYGRGR](/stripes/grbygrgr/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "MacDonald of Lochmaddy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Lochmaddy"
+  url: "/families/macdonald-of-lochmaddy/"
 ---
 A tartan of the [MacDonald of Lochmaddy](/families/macdonald-of-lochmaddy/) family.
 Its design is pattern [GRGRWWRBRWWRGRWWR](/stripes/grgrwwrbrwwrgrwwr/) — the page of every tartan sharing this colour sequence.

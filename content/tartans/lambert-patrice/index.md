@@ -1,6 +1,9 @@
 ---
 title: "Lambert, Patrice"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBGBKGBW](/stripes/gbgbkgbw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "Davidson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Davidson"
+  url: "/clan/davidson/"
 ---
 A tartan of [Clan Davidson](/clan/davidson/).
 Its design is pattern [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/) — the page of every tartan sharing this colour sequence.

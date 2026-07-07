@@ -1,6 +1,9 @@
 ---
 title: "Henderson Dress (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1/)
 (the same proportion at any scale), whose colour order is pattern [BWBWKWKYKWKWBWBW](/stripes/bwbwkwkykwkwbwbw/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1684
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -34,7 +53,7 @@ One full sett is **288 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/">Henderson Dress (Dance)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w1b3w3b1w5k1w2k3lo1~x4&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/">Henderson Dress (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w5k5w10r2w10dp8w15dp8lb3k3~x2&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.40</a></div><div class="nn-threads nn-far2">260</div><div class="nn-name nn-far2"><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/">Dijkgraaf, Markus Jack (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/sett.png" alt="sett" loading="lazy" style="width:480px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w2r1w8n2k2w1n1w1n4w2k1w1r1~x4&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.87</a></div><div class="nn-threads nn-far2">204</div><div class="nn-name nn-far2"><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/">Balmoral (Ghillies white variation)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w13r3w2k5w2r3w13db8~x2&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.91</a></div><div class="nn-threads nn-far2">154</div><div class="nn-name nn-far2"><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/">Boswell Dress Personal Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w13r3w2k5w2r3w13db8~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w25k8w8k8w8k46w46y8w46k46w46k8w8&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.98</a></div><div class="nn-threads nn-far2">589</div><div class="nn-name nn-far2"><a href="/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/">Poulter SG ? Black &amp; white (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">288</div><div class="nn-name nn-base"><a href="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/">Henderson Dress (Dance)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=w1b3w3b1w5k1w2k3lo1~x4&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">152</div><div class="nn-name nn-far"><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/">Henderson Dress (Dance)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w5k5w10r2w10dp8w15dp8lb3k3~x2&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.40</a></div><div class="nn-threads nn-far2">260</div><div class="nn-name nn-far2"><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/">Dijkgraaf, Markus Jack (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w2r1w8n2k2w1n1w1n4w2k1w1r1~x4&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.87</a></div><div class="nn-threads nn-far2">204</div><div class="nn-name nn-far2"><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/">Balmoral (Ghillies white variation)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w13r3w2k5w2r3w13db8~x2&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.91</a></div><div class="nn-threads nn-far2">154</div><div class="nn-name nn-far2"><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/">Boswell Dress Personal Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/w13r3w2k5w2r3w13db8~x2/sett.png" alt="sett" loading="lazy" style="width:480px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w25k8w8k8w8k46w46y8w46k46w46k8w8&amp;base=b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4" title="compare in the TTD">3.98</a></div><div class="nn-threads nn-far2">589</div><div class="nn-name nn-far2"><a href="/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/">Poulter SG ? Black &amp; white (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/sett.png" alt="sett" loading="lazy" style="width:480px"></div></div>
 
 ## Neighbour map
 

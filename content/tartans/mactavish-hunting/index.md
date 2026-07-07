@@ -1,6 +1,11 @@
 ---
 title: "MacTavish Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacTavish"
+  url: "/clan/mactavish/"
 ---
 A tartan of [Clan MacTavish](/clan/mactavish/).
 Its design is pattern [WGGWKW](/stripes/wggwkw/) — the page of every tartan sharing this colour sequence.

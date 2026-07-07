@@ -1,6 +1,13 @@
 ---
 title: "MacKay of Strathnaver"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackay"
+  url: "/clan/mackay/"
+- name: "MacKay, of Strathnaver"
+  url: "/families/mackay-of-strathnaver/"
 ---
 A tartan of the [MacKay, of Strathnaver](/families/mackay-of-strathnaver/) family.
 Its design is pattern [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/) — the page of every tartan sharing this colour sequence.

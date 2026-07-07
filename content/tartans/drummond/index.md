@@ -1,6 +1,11 @@
 ---
 title: "Drummond"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
 ---
 A tartan of [Clan Drummond](/clan/drummond/).
 Its design is pattern [RBGGRBWW](/stripes/rbggrbww/) — the page of every tartan sharing this colour sequence.

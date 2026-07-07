@@ -1,6 +1,9 @@
 ---
 title: "Heneghan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBYGYRGBRGBWRG](/stripes/gbygyrgbrgbwrg/) — the page of every tartan sharing this colour sequence.
 

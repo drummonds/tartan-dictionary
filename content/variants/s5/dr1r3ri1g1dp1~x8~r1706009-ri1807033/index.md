@@ -1,6 +1,11 @@
 ---
 title: "Blairgowrie Berries and Cherries"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Blairgowrie Berries and Cherries"
+  url: "/tartans/blairgowrie-berries-and-cherries/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr1r3ri1g1dp1/)
 (the same proportion at any scale), whose colour order is pattern [BGRRB](/stripes/bgrrb/).
@@ -9,7 +14,23 @@ Part of the [Blairgowrie Berries and Cherries](/tartans/blairgowrie-berries-and-
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/11150/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11150
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>2014 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -51,7 +72,7 @@ Its **ΔTartan distance** from the master is **0.10** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">96</div><div class="nn-name nn-base"><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/">Blairgowrie Berries and Cherries</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1ri3r1g1dp1~x4~dr1004029-ri1506019&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">0.09</a></div><div class="nn-threads">48</div><div class="nn-name"><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/">Blairgowrie Berries and Cherries</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/">Stevens #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db2dp3g3n6y2~x2&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">3.07</a></div><div class="nn-threads nn-far2">56</div><div class="nn-name nn-far2"><a href="/variants/s5/db2dp3g3n6y2~x2/">Dunoon Burgh Hall Trust</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y1o5r5w1~x4&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">3.35</a></div><div class="nn-threads nn-far2">88</div><div class="nn-name nn-far2"><a href="/variants/s4/y1o5r5w1~x4/">Manx, Mannin Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y1o5r5w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">3.88</a></div><div class="nn-threads nn-far2">162</div><div class="nn-name nn-far2"><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/">Myres Castle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">96</div><div class="nn-name nn-base"><a href="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/">Blairgowrie Berries and Cherries</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s5/dr1r3ri1g1dp1~x8~r1706009-ri1807033/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr1ri3r1g1dp1~x4~dr1004029-ri1506019&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">0.09</a></div><div class="nn-threads">48</div><div class="nn-name"><a href="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/">Blairgowrie Berries and Cherries</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/dr1ri3r1g1dp1~x4~dr1004029-ri1506019/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">2.64</a></div><div class="nn-threads nn-far">160</div><div class="nn-name nn-far"><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/">Stevens #3</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db2dp3g3n6y2~x2&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">3.07</a></div><div class="nn-threads nn-far2">56</div><div class="nn-name nn-far2"><a href="/variants/s5/db2dp3g3n6y2~x2/">Dunoon Burgh Hall Trust</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/db2dp3g3n6y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y1o5r5w1~x4&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">3.35</a></div><div class="nn-threads nn-far2">88</div><div class="nn-name nn-far2"><a href="/variants/s4/y1o5r5w1~x4/">Manx, Mannin Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y1o5r5w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083&amp;base=dr1r3ri1g1dp1~x8~r1706009-ri1807033" title="compare in the TTD">3.88</a></div><div class="nn-threads nn-far2">162</div><div class="nn-name nn-far2"><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/">Myres Castle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

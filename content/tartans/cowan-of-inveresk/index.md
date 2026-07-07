@@ -1,6 +1,13 @@
 ---
 title: "Cowan of Inveresk"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cowan"
+  url: "/clan/cowan/"
+- name: "Cowan of Inveresk"
+  url: "/families/cowan-of-inveresk/"
 ---
 A tartan of the [Cowan of Inveresk](/families/cowan-of-inveresk/) family.
 Its design is pattern [GBKBKWGR](/stripes/gbkbkwgr/) — the page of every tartan sharing this colour sequence.

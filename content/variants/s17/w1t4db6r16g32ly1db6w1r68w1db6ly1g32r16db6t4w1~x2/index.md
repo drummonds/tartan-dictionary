@@ -1,6 +1,9 @@
 ---
 title: "Drummond"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1/)
 (the same proportion at any scale), whose colour order is pattern [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/).
@@ -27,6 +30,22 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Drummond** name adjusted Logan's counts: [Drummond](/setts/s15/r6b2r2g24r2g2r2b8r2ba1r32b2r2b1r6~b1474b4-ba5c8ca8-g006818-rc80000~x2/); [Drummond #2](/setts/s12/b24r7g7r39b4r2b2r5g42r7b6r7~b2c4084-g005020-rdc0000~x2/); [Drummond #3](/setts/s12/g4r1g1r28g8k1g1k1g18r1g1r4~g005020-k101010-rdc0000~x2/); [Drummond (Grey)](/setts/s14/k4w2k2b14w2k2w2k4b2k16w2k2w1k4~b505050-k101010-wc0c0c0~x2/). Compare their thread counts with Logan's above.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/logan-1831/">Logan, The Scottish Gaël (1831)</a></dd>
+<dt>data captured from</dt><dd><a href="https://archive.org/details/scotishgalorcel02logagoog">https://archive.org/details/scotishgalorcel02logagoog</a></dd>
+<dt>data date</dt><dd>1831 <small>(this record)</small></dd>
+<dt>licence</dt><dd>Public domain</dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
+<li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 W/2 T8 DB12 R32 G64 LY2 DB12 W2 R136 W2 DB12 LY2 G64 R32 DB12 T8 W/2

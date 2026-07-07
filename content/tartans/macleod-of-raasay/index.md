@@ -1,6 +1,13 @@
 ---
 title: "MacLeod of Raasay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod of Raasay"
+  url: "/families/macleod-of-raasay/"
 ---
 A tartan of the [MacLeod of Raasay](/families/macleod-of-raasay/) family.
 Its design is pattern [KRKRK](/stripes/krkrk/) — the page of every tartan sharing this colour sequence.

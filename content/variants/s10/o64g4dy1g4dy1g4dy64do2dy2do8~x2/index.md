@@ -1,6 +1,9 @@
 ---
 title: "Connacht"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o64g4dy1g4dy1g4dy64do2dy2do8/)
 (the same proportion at any scale), whose colour order is pattern [BGBGGGGGGR](/stripes/bgbggggggr/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=738
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-06 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -34,7 +53,7 @@ One full sett is **472 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">472</div><div class="nn-name nn-base"><a href="/variants/s10/o64g4dy1g4dy1g4dy64do2dy2do8~x2/">Connacht</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/o64g4dy1g4dy1g4dy64do2dy2do8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.39</a></div><div class="nn-threads nn-far2">434</div><div class="nn-name nn-far2"><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/">Drummond of Megginch - 2023 BertieLexa</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g8dg1g1dg42w2o40g2dg2o3~x2&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.41</a></div><div class="nn-threads nn-far2">382</div><div class="nn-name nn-far2"><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/">MacDonald of Kingsburgh -1746 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o7db1o2db2o35lg2o2db10o2g2o2g37o3db2o6~x2~o2207033-db1204259-lg3002249-g2005139&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.68</a></div><div class="nn-threads nn-far2">434</div><div class="nn-name nn-far2"><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/">Drummond of Megginch - 1849 Kilt (faded)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=ly1dr45dt23w1dt6r2ly1r2ly1~x2&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.86</a></div><div class="nn-threads nn-far2">324</div><div class="nn-name nn-far2"><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/">Arbroath Smokie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">472</div><div class="nn-name nn-base"><a href="/variants/s10/o64g4dy1g4dy1g4dy64do2dy2do8~x2/">Connacht</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/o64g4dy1g4dy1g4dy64do2dy2do8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.39</a></div><div class="nn-threads nn-far2">434</div><div class="nn-name nn-far2"><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/">Drummond of Megginch - 2023 BertieLexa</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g8dg1g1dg42w2o40g2dg2o3~x2&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.41</a></div><div class="nn-threads nn-far2">382</div><div class="nn-name nn-far2"><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/">MacDonald of Kingsburgh -1746 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o7db1o2db2o35lg2o2db10o2g2o2g37o3db2o6~x2~o2207033-db1204259-lg3002249-g2005139&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.68</a></div><div class="nn-threads nn-far2">434</div><div class="nn-name nn-far2"><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/">Drummond of Megginch - 1849 Kilt (faded)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=ly1dr45dt23w1dt6r2ly1r2ly1~x2&amp;base=o64g4dy1g4dy1g4dy64do2dy2do8~x2" title="compare in the TTD">3.86</a></div><div class="nn-threads nn-far2">324</div><div class="nn-name nn-far2"><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/">Arbroath Smokie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

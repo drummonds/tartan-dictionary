@@ -1,6 +1,9 @@
 ---
 title: "Haggis Hostels"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWBR](/stripes/bwbr/) — the page of every tartan sharing this colour sequence.
 

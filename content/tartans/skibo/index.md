@@ -1,6 +1,9 @@
 ---
 title: "Skibo"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RBBGR](/stripes/rbbgr/) — the page of every tartan sharing this colour sequence.
 

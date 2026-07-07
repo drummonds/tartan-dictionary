@@ -1,6 +1,11 @@
 ---
 title: "Sinclair Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sinclair"
+  url: "/clan/sinclair/"
 ---
 A tartan of [Clan Sinclair](/clan/sinclair/).
 Its design is pattern [BRBKGWGWGKBR](/stripes/brbkgwgwgkbr/) — the page of every tartan sharing this colour sequence.

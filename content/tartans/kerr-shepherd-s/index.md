@@ -1,6 +1,11 @@
 ---
 title: "Kerr Shepherd's"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
 ---
 A tartan of [Clan Kerr](/clan/kerr/).
 Its design is pattern [RWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/) — the page of every tartan sharing this colour sequence.

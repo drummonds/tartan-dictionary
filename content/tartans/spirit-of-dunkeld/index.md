@@ -1,6 +1,9 @@
 ---
 title: "Spirit of Dunkeld"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRWBRGRWRWRW](/stripes/grwbrgrwrwrw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "MacMaster (Name 2001)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacMaster"
+  url: "/tartans/macmaster-2/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr12dg12lb2dg12dr12dg2dr2dg2dr2dg6lo2dr1lo2dg6dr2dg2dr2dg2dr12db8dg8k2dr4k2dr4k2dg8db8/)
 (the same proportion at any scale), whose colour order is pattern [BGKBKBKGBBGBGBGYBYGBGBGBGWGB](/stripes/bgkbkbkgbbgbgbgybygbgbgbgwgb/).
@@ -9,14 +14,30 @@ Part of the [MacMaster](/tartans/macmaster-2/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3492/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3492
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>2001 — MacMaster (Name 2001) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3492/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Asymmetric. This would appear to have the strongest claim to being a tartan for all Macmasters having been designed under the auspices of the International Association of the Clan Macinnes - the "parent" clan for Macmasters. An asymmetric tartan designed by Blair Urquhart for David John MacMaster of Beamsville, Ontario, Canada. For use by all of the name regardless of spelling. Created to celebrate the 200th anniversary of the MacMaster families in Canada. The families emigrated from Moidart and settled in Craignish, Inverness Co, Cape Breton. A prime example - apparently - of separate entities designing a tartan for the same name unaware that one already exists!</em></li>
+<li>2001 — MacMaster (Name 2001) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3492">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>Asymmetric. This would appear to have the strongest claim to being a tartan for all Macmasters having been designed under the auspices of the International Association of the Clan Macinnes - the "parent" clan for Macmasters. An asymmetric tartan designed by Blair Urquhart for David John MacMaster of Beamsville, Ontario, Canada. For use by all of the name regardless of spelling. Created to celebrate the 200th anniversary of the MacMaster families in Canada. The families emigrated from Moidart and settled in Craignish, Inverness Co, Cape Breton. A prime example - apparently - of separate entities designing a tartan for the same name unaware that one already exists!</em></li>
 <li>undated — MacMaster (Canada) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5207">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#285800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="HG #285800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#A8ACE8;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="SB #A8ACE8"></span><span style="display:inline-block;width:.85em;height:.85em;background:#D09800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="MY #D09800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1C0070;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="RB #1C0070"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><br><em>An asymmetric tartan designed by Blair Urquhart for David John MacMaster of Beamsville, Ontario, Canada. For use by all of the name regardless of spelling. Created to celebrate the 200th anniversary of the MacMaster families in Canada. The families emigrated from Moidart and settled in Craignish, Inverness Co, Cape Breton. A prime example of separate entities designing a tartan for the same name unaware that one already exists.</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>2001 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

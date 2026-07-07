@@ -1,6 +1,11 @@
 ---
 title: "Dunbar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunbar"
+  url: "/clan/dunbar/"
 ---
 A tartan of [Clan Dunbar](/clan/dunbar/).
 Its design is pattern [GKWKRK](/stripes/gkwkrk/) — the page of every tartan sharing this colour sequence.

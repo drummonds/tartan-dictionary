@@ -1,6 +1,13 @@
 ---
 title: "Kelly of Sleat"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kelly"
+  url: "/clan/kelly/"
+- name: "Kelly of Sleat"
+  url: "/families/kelly-of-sleat/"
 ---
 A tartan of the [Kelly of Sleat](/families/kelly-of-sleat/) family.
 Its design is pattern [RKRBGKGBGBKW](/stripes/rkrbgkgbgbkw/) — the page of every tartan sharing this colour sequence.

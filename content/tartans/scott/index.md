@@ -1,6 +1,11 @@
 ---
 title: "Scott"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
 ---
 A tartan of [Clan Scott](/clan/scott/).
 Its design is pattern [GRKRGRGWGR](/stripes/grkrgrgwgr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "Connacht"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b64g4o1g4o1g4o64do2o2do8/)
 (the same proportion at any scale), whose colour order is pattern [BGRGRGRBRB](/stripes/bgrgrgrbrb/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 B/128 G8 O2 G8 O2 G8 O128 DO4 O4 DO/16
@@ -27,7 +46,7 @@ One full sett is **472 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">472</div><div class="nn-name nn-base"><a href="/variants/s10/b64g4o1g4o1g4o64do2o2do8~x2/">Connacht</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/b64g4o1g4o1g4o64do2o2do8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t48db4ly7db3ly4db1ly2db6ly3db9t4r3db7~x2~t2503227-ly2600000&amp;base=b64g4o1g4o1g4o64do2o2do8~x2" title="compare in the TTD">3.75</a></div><div class="nn-threads nn-far2">294</div><div class="nn-name nn-far2"><a href="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/">Budge (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139&amp;base=b64g4o1g4o1g4o64do2o2do8~x2" title="compare in the TTD">3.76</a></div><div class="nn-threads nn-far2">434</div><div class="nn-name nn-far2"><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/">Drummond of Megginch - 2023 BertieLexa</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n20db2n2db2n2o47db24w2~n1900000-o2500000&amp;base=b64g4o1g4o1g4o64do2o2do8~x2" title="compare in the TTD">3.76</a></div><div class="nn-threads nn-far2">180</div><div class="nn-name nn-far2"><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/">Browne (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">472</div><div class="nn-name nn-base"><a href="/variants/s10/b64g4o1g4o1g4o64do2o2do8~x2/">Connacht</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/b64g4o1g4o1g4o64do2o2do8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t48db4ly7db3ly4db1ly2db6ly3db9t4r3db7~x2~t2503227-ly2600000&amp;base=b64g4o1g4o1g4o64do2o2do8~x2" title="compare in the TTD">3.75</a></div><div class="nn-threads nn-far2">294</div><div class="nn-name nn-far2"><a href="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/">Budge (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7~x2~t2503227-lr2600000/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139&amp;base=b64g4o1g4o1g4o64do2o2do8~x2" title="compare in the TTD">3.76</a></div><div class="nn-threads nn-far2">434</div><div class="nn-name nn-far2"><a href="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/">Drummond of Megginch - 2023 BertieLexa</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/o7db1o2db2o35lb2o2db10o2g2o2g37o3db2o6~x2~o2207025-db1404259-lb3302249-g2105139/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n20db2n2db2n2o47db24w2~n1900000-o2500000&amp;base=b64g4o1g4o1g4o64do2o2do8~x2" title="compare in the TTD">3.76</a></div><div class="nn-threads nn-far2">180</div><div class="nn-name nn-far2"><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/">Browne (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

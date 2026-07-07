@@ -1,6 +1,9 @@
 ---
 title: "Widows Sons Scotland Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBGKGW](/stripes/gbgkgw/) — the page of every tartan sharing this colour sequence.
 

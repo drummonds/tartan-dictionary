@@ -1,6 +1,9 @@
 ---
 title: "Edinburgh Military Tattoo 50th"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KBRGK](/stripes/kbrgk/) — the page of every tartan sharing this colour sequence.
 

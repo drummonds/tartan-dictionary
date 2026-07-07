@@ -1,6 +1,11 @@
 ---
 title: "Forbes Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Forbes"
+  url: "/clan/forbes/"
 ---
 A tartan of [Clan Forbes](/clan/forbes/).
 Its design is pattern [BKBKGKWKGKWBWBW](/stripes/bkbkgkwkgkwbwbw/) — the page of every tartan sharing this colour sequence.

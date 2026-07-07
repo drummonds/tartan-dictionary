@@ -1,6 +1,13 @@
 ---
 title: "MacAlister of Glenbarr"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAlister"
+  url: "/clan/macalister/"
+- name: "MacAlister of Glenbarr"
+  url: "/families/macalister-of-glenbarr/"
 ---
 A tartan of the [MacAlister of Glenbarr](/families/macalister-of-glenbarr/) family.
 Its design is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/) — the page of every tartan sharing this colour sequence.

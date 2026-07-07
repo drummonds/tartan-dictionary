@@ -1,6 +1,9 @@
 ---
 title: "St Andrews Links"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGBGGGR](/stripes/bgbgggr/) — the page of every tartan sharing this colour sequence.
 

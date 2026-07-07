@@ -1,6 +1,9 @@
 ---
 title: "Lands of Liberty"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RWBWR](/stripes/rwbwr/) — the page of every tartan sharing this colour sequence.
 

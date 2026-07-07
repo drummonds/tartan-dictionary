@@ -1,6 +1,9 @@
 ---
 title: "Morddyn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2/)
 (the same proportion at any scale), whose colour order is pattern [BYGYWWRWBWBGYGWRWWBWYWWBW](/stripes/bygywwrwbwbgygwrwwbwywwbw/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10317
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>20/07/2010 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **674 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">674</div><div class="nn-name nn-base"><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/">Morddyn</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t22oi4w3g7ly2g4w2g9o6ly2o4w2o4ly2o6g9w2g4ly2g7w3oi4t22r2~x2~t2503227-oi2503076-ly3407090&amp;base=lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2" title="compare in the TTD">3.67</a></div><div class="nn-threads nn-far2">488</div><div class="nn-name nn-far2"><a href="/variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/">Isle of Man</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2&amp;base=lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2" title="compare in the TTD">3.82</a></div><div class="nn-threads nn-far2">244</div><div class="nn-name nn-far2"><a href="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/">Pille Family (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png" alt="sett" loading="lazy" style="width:768px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6&amp;base=lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2" title="compare in the TTD">4.00</a></div><div class="nn-threads nn-far2">308</div><div class="nn-name nn-far2"><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/">Victoria, County of (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/sett.png" alt="sett" loading="lazy" style="width:768px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">674</div><div class="nn-name nn-base"><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/">Morddyn</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t22oi4w3g7ly2g4w2g9o6ly2o4w2o4ly2o6g9w2g4ly2g7w3oi4t22r2~x2~t2503227-oi2503076-ly3407090&amp;base=lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2" title="compare in the TTD">3.67</a></div><div class="nn-threads nn-far2">488</div><div class="nn-name nn-far2"><a href="/variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/">Isle of Man</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/t22ly4w3g7lyi2g4w2g9o6lyi2o4w2o4lyi2o6g9w2g4lyi2g7w3ly4t22r2~x2~t2503227-ly2503076-lyi3407090/sett.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2&amp;base=lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2" title="compare in the TTD">3.82</a></div><div class="nn-threads nn-far2">244</div><div class="nn-name nn-far2"><a href="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/">Pille Family (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:768px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6&amp;base=lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2" title="compare in the TTD">4.00</a></div><div class="nn-threads nn-far2">308</div><div class="nn-name nn-far2"><a href="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/">Victoria, County of (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s21/n36lr3g3lr3r20n3lb24g32lo3r3n3lb6n6r3lo3lr3g6lr3lo3lb3r6/sett.png" alt="sett" loading="lazy" style="width:768px"></div></div>
 
 ## Neighbour map
 

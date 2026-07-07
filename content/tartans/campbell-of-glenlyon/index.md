@@ -1,6 +1,13 @@
 ---
 title: "Campbell of Glenlyon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Glenlyon"
+  url: "/families/campbell-of-glenlyon/"
 ---
 A tartan of the [Campbell of Glenlyon](/families/campbell-of-glenlyon/) family.
 Its design is pattern [BKBKG](/stripes/bkbkg/) — the page of every tartan sharing this colour sequence.

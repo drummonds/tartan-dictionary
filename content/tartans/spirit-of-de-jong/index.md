@@ -1,6 +1,9 @@
 ---
 title: "Spirit of de Jong"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBGBBKWRWKBBYB](/stripes/bkbgbbkwrwkbbyb/) — the page of every tartan sharing this colour sequence.
 

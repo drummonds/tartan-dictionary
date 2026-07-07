@@ -1,13 +1,32 @@
 ---
 title: "Del Forno Wolf (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g38n8t3db4n12ly1g4n1/)
 (the same proportion at any scale), whose colour order is pattern [BGYBBBBG](/stripes/bgybbbbg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/8518/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8518
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>23rd March 2011 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -34,7 +53,7 @@ One full sett is **206 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">206</div><div class="nn-name nn-base"><a href="/variants/s8/g38n8t3db4n12ly1g4n1~x2/">Del Forno Wolf (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g38n8t3db4n12ly1g4n1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">1.65</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/">Hebridean Heather Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g20y2n5w4g2n2g2n2t6~x2&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">128</div><div class="nn-name nn-far"><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/">Boucherville (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g20y2n5w4g2n2g2n2t6~x2~w4000000&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">128</div><div class="nn-name nn-far"><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/">Boucherville</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n40db4n4dp5g5n3y6r3~x2&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">3.63</a></div><div class="nn-threads nn-far2">194</div><div class="nn-name nn-far2"><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/">Miller Hargreaves (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n40db4n4dp5g5n3y6r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">206</div><div class="nn-name nn-base"><a href="/variants/s8/g38n8t3db4n12ly1g4n1~x2/">Del Forno Wolf (Personal)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g38n8t3db4n12ly1g4n1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">1.65</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/">Hebridean Heather Fashion Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g20y2n5w4g2n2g2n2t6~x2&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">2.58</a></div><div class="nn-threads nn-far">128</div><div class="nn-name nn-far"><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/">Boucherville (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g20y2n5w4g2n2g2n2t6~x2~w4000000&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">2.59</a></div><div class="nn-threads nn-far">128</div><div class="nn-name nn-far"><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/">Boucherville</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n40db4n4dp5g5n3y6r3~x2&amp;base=g38n8t3db4n12ly1g4n1~x2" title="compare in the TTD">3.63</a></div><div class="nn-threads nn-far2">194</div><div class="nn-name nn-far2"><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/">Miller Hargreaves (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/n40db4n4dp5g5n3y6r3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

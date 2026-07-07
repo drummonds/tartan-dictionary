@@ -1,6 +1,11 @@
 ---
 title: "Milne Royal Blue Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Milne"
+  url: "/clan/milne/"
 ---
 A tartan of [Clan Milne](/clan/milne/).
 Its design is pattern [RWWWBWWW](/stripes/rwwwbwww/) — the page of every tartan sharing this colour sequence.

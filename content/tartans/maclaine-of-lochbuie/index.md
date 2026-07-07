@@ -1,6 +1,13 @@
 ---
 title: "MacLaine of Lochbuie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLaine"
+  url: "/clan/maclaine/"
+- name: "MacLaine of Lochbuie"
+  url: "/families/maclaine-of-lochbuie/"
 ---
 A tartan of the [MacLaine of Lochbuie](/families/maclaine-of-lochbuie/) family.
 Its design is pattern [GWGR](/stripes/gwgr/) — the page of every tartan sharing this colour sequence.

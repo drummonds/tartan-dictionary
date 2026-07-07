@@ -1,6 +1,13 @@
 ---
 title: "Reid of Straloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Reid"
+  url: "/clan/reid/"
+- name: "Reid of Straloch"
+  url: "/families/reid-of-straloch/"
 ---
 A tartan of the [Reid of Straloch](/families/reid-of-straloch/) family.
 Its design is pattern [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/) — the page of every tartan sharing this colour sequence.

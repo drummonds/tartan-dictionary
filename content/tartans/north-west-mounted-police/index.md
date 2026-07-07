@@ -1,6 +1,11 @@
 ---
 title: "North West Mounted Police"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
 ---
 A tartan of [Clan North](/clan/north/).
 Its design is pattern [BBWGWGBBBGWBBBGW](/stripes/bbwgwgbbbgwbbbgw/) — the page of every tartan sharing this colour sequence.

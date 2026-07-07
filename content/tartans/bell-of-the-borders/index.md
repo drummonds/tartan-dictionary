@@ -1,6 +1,13 @@
 ---
 title: "Bell of the Borders."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bell"
+  url: "/clan/bell/"
+- name: "Bell of the Borders"
+  url: "/families/bell-of-the-borders/"
 ---
 A tartan of the [Bell of the Borders](/families/bell-of-the-borders/) family.
 Its design is pattern [GBGBKBKGR](/stripes/gbgbkbkgr/) — the page of every tartan sharing this colour sequence.

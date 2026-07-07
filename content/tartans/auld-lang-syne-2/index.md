@@ -1,6 +1,9 @@
 ---
 title: "Auld Lang Syne"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KBKBGKGW](/stripes/kbkbgkgw/) — the page of every tartan sharing this colour sequence.
 

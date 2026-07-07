@@ -1,6 +1,9 @@
 ---
 title: "Finnie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBBKBBBK](/stripes/bbbkbbbk/) — the page of every tartan sharing this colour sequence.
 

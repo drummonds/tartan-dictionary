@@ -1,6 +1,9 @@
 ---
 title: "Unidentified 3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBGBBBGBBBG](/stripes/bbbbbgbbbgbbbg/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DG/4 DB3 B4 DB3 DG2 DB3 B4 DB2 Y2 B4 DB2 B52 DB2 B/4
@@ -27,7 +46,7 @@ One full sett is **174 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">174</div><div class="nn-name nn-base"><a href="/variants/s14/dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4/">Unidentified 3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">2.49</a></div><div class="nn-threads nn-far">220</div><div class="nn-name nn-far"><a href="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/">Hawick Common Riding (Commemorative)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4b23db8b1db3b2db2b2db2b3db1b4y4~x2~db1108266-b1611266&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">220</div><div class="nn-name nn-far"><a href="/variants/s13/db4b23db8b1db3b2db2b2db2b3db1b4y4~x2~db1108266-b1511266/">Hawick Common Riding</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db4b23db8b1db3b2db2b2db2b3db1b4y4~x2~db1108266-b1511266/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b29dg2b1dg1b1dg1db8y1~x4&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/">Marist School, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db45t3db3t15db3t3db7w1db7dy1db1dy1~x2&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">3.69</a></div><div class="nn-threads nn-far2">268</div><div class="nn-name nn-far2"><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/">Deuchars IPA (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">174</div><div class="nn-name nn-base"><a href="/variants/s14/dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4/">Unidentified 3</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">2.49</a></div><div class="nn-threads nn-far">220</div><div class="nn-name nn-far"><a href="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/">Hawick Common Riding (Commemorative)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/sett-rev.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=db4b23db8b1db3b2db2b2db2b3db1b4y4~x2~db1108266-b1611266&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">2.57</a></div><div class="nn-threads nn-far">220</div><div class="nn-name nn-far"><a href="/variants/s13/db4b23db8b1db3b2db2b2db2b3db1b4y4~x2~db1108266-b1511266/">Hawick Common Riding</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/db4b23db8b1db3b2db2b2db2b3db1b4y4~x2~db1108266-b1511266/sett-rev.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=b29dg2b1dg1b1dg1db8y1~x4&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">2.98</a></div><div class="nn-threads nn-far">232</div><div class="nn-name nn-far"><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/">Marist School, The</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db45t3db3t15db3t3db7w1db7dy1db1dy1~x2&amp;base=dg4db3b4db3dg2db3b4db2y2b4db2b52db2b4" title="compare in the TTD">3.69</a></div><div class="nn-threads nn-far2">268</div><div class="nn-name nn-far2"><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/">Deuchars IPA (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

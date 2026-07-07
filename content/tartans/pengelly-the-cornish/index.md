@@ -1,6 +1,9 @@
 ---
 title: "Pengelly, The Cornish"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RKBWYKW](/stripes/rkbwykw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "Campbell of Breadalbane"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Breadalbane"
+  url: "/families/campbell-of-breadalbane/"
 ---
 A tartan of the [Campbell of Breadalbane](/families/campbell-of-breadalbane/) family.
 Its design is pattern [BKBKBKGGGKBKB](/stripes/bkbkbkgggkbkb/) — the page of every tartan sharing this colour sequence.

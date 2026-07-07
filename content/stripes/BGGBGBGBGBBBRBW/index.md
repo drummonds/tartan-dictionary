@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/">Matchpoint Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><img src="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/sett.png" alt="Matchpoint Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/">Matchpoint Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><img src="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/sett.png" alt="Matchpoint Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/">Matchpoint Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><img src="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/sett.png" alt="Matchpoint Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi2400000-n1700000/">MatchPoint Dress</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi2400000-n1700000/"><img src="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi2400000-n1700000/sett.png" alt="MatchPoint Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

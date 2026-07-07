@@ -1,6 +1,13 @@
 ---
 title: "MacNeil of Barra"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNeil"
+  url: "/clan/macneil/"
+- name: "MacNeil of Barra"
+  url: "/families/macneil-of-barra/"
 ---
 A tartan of the [MacNeil of Barra](/families/macneil-of-barra/) family.
 Its design is pattern [GKGKBW](/stripes/gkgkbw/) — the page of every tartan sharing this colour sequence.

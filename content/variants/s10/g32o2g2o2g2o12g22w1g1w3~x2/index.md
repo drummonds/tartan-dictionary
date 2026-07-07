@@ -1,6 +1,9 @@
 ---
 title: "Unidentified Plaid 11"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g32o2g2o2g2o12g22w1g1w3/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 G/64 O4 G4 O4 G4 O24 G44 W2 G2 W/6
@@ -27,7 +46,7 @@ One full sett is **246 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">246</div><div class="nn-name nn-base"><a href="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/">Unidentified Plaid 11</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g74o6g3o24k1g9o12db2g2db2g2db2~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">404</div><div class="nn-name nn-far"><a href="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/">Ridgeback (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g2o2g15o1w1g15o2g2~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.27</a></div><div class="nn-threads nn-far2">152</div><div class="nn-name nn-far2"><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/">Bannockbane, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g2o2g15o1w1g15o2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y5k1y6g20w1g3w1g3w1g30k1y2~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.43</a></div><div class="nn-threads nn-far2">282</div><div class="nn-name nn-far2"><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/">Delta Lambda Phi</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g48r4g2r4g6r2g3r9~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.94</a></div><div class="nn-threads nn-far2">198</div><div class="nn-name nn-far2"><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g48r4g2r4g6r2g3r9&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.94</a></div><div class="nn-threads nn-far2">99</div><div class="nn-name nn-far2"><a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g48r4g2r4g6r2g3r9/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">246</div><div class="nn-name nn-base"><a href="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/">Unidentified Plaid 11</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g74o6g3o24k1g9o12db2g2db2g2db2~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">2.04</a></div><div class="nn-threads nn-far">404</div><div class="nn-name nn-far"><a href="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/">Ridgeback (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g2o2g15o1w1g15o2g2~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.27</a></div><div class="nn-threads nn-far2">152</div><div class="nn-name nn-far2"><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/">Bannockbane, hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g2o2g15o1w1g15o2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y5k1y6g20w1g3w1g3w1g30k1y2~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.43</a></div><div class="nn-threads nn-far2">282</div><div class="nn-name nn-far2"><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/">Delta Lambda Phi</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g48r4g2r4g6r2g3r9~x2&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.94</a></div><div class="nn-threads nn-far2">198</div><div class="nn-name nn-far2"><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/">Menzies</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g48r4g2r4g6r2g3r9&amp;base=g32o2g2o2g2o12g22w1g1w3~x2" title="compare in the TTD">3.94</a></div><div class="nn-threads nn-far2">99</div><div class="nn-name nn-far2"><a href="/variants/s8/g48r4g2r4g6r2g3r9/">Menzies Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g48r4g2r4g6r2g3r9/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

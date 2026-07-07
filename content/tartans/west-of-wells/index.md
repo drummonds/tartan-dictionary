@@ -1,6 +1,13 @@
 ---
 title: "West of Wells"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan West"
+  url: "/clan/west/"
+- name: "West of Wells"
+  url: "/families/west-of-wells/"
 ---
 A tartan of the [West of Wells](/families/west-of-wells/) family.
 Its design is pattern [GKBKBKBBW](/stripes/gkbkbkbbw/) — the page of every tartan sharing this colour sequence.

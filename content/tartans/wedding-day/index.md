@@ -1,6 +1,9 @@
 ---
 title: "Wedding Day"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GWBRRRBWG](/stripes/gwbrrrbwg/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "St Anne de Portneuf Canadian District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo2w3ly7db1dy4r2y6dg2w1ly2db6do2r4y1dg7w3lb2/)
 (the same proportion at any scale), whose colour order is pattern [WWGGRBBYWGGRGBYWY](/stripes/wwggrbbywggrgbywy/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 2002 Ste-Anne-de-Portneuf is a village of about 1000 population on the north shore of the St lawrence River in Quebec. The first permanent residents established themselvs there in 1902 and the original industrialists were mainly of English and Scottish origin whilst the work force was French Canadian. This tartan was woven in cotton by a company called Leclerc. The tartan is unconventional in that it has 10 colours, is non-repeating.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 LO/4 W6 LY14 DB2 DY8 R4 Y12 DG4 W2 LY4 DB12 DO4 R8 Y2 DG14 W6 LB/4

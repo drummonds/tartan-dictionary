@@ -1,6 +1,9 @@
 ---
 title: "Marsa Scout Group"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GKGKGKRKBKR](/stripes/gkgkgkrkbkr/) — the page of every tartan sharing this colour sequence.
 

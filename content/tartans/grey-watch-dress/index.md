@@ -1,6 +1,9 @@
 ---
 title: "Grey Watch, Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBBBBBWB](/stripes/bbbbbbwb/) — the page of every tartan sharing this colour sequence.
 

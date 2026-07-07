@@ -1,6 +1,11 @@
 ---
 title: "Laing"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Laing"
+  url: "/clan/laing/"
 ---
 A tartan of [Clan Laing](/clan/laing/).
 Its design is pattern [BKBKBWBRBGBGBGR](/stripes/bkbkbwbrbgbgbgr/) — the page of every tartan sharing this colour sequence.

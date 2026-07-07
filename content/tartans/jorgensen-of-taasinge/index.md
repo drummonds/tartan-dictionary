@@ -1,6 +1,13 @@
 ---
 title: "Jorgensen of Taasinge"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jorgensen"
+  url: "/clan/jorgensen/"
+- name: "Jorgensen of Taasinge"
+  url: "/families/jorgensen-of-taasinge/"
 ---
 A tartan of the [Jorgensen of Taasinge](/families/jorgensen-of-taasinge/) family.
 Its design is pattern [BRBGBRGRBRBGBRBRGBG](/stripes/brbgbrgrbrbgbrbrgbg/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,13 @@
 ---
 title: "MacLeod of Assynt"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod of Assynt"
+  url: "/families/macleod-of-assynt/"
 ---
 A tartan of the [MacLeod of Assynt](/families/macleod-of-assynt/) family.
 Its design is pattern [GBKGKR](/stripes/gbkgkr/) — the page of every tartan sharing this colour sequence.

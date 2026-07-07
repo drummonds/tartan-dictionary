@@ -1,6 +1,13 @@
 ---
 title: "Campbell of Argyll"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Argyll"
+  url: "/families/campbell-of-argyll/"
 ---
 A tartan of the [Campbell of Argyll](/families/campbell-of-argyll/) family.
 Its design is pattern [BKBKBKBKBKGKWKGKBKBKBKGKGKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkgkgk/) — the page of every tartan sharing this colour sequence.

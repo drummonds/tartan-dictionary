@@ -1,6 +1,9 @@
 ---
 title: "Lawrie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGBGBKB](/stripes/bgbgbkb/) — the page of every tartan sharing this colour sequence.
 

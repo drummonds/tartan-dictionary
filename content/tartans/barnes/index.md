@@ -1,6 +1,9 @@
 ---
 title: "Barnes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGYGKBKBKB](/stripes/bgygkbkbkb/) — the page of every tartan sharing this colour sequence.
 

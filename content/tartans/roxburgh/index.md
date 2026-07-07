@@ -1,6 +1,9 @@
 ---
 title: "Roxburgh"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRGBWBWB](/stripes/brgbwbwb/) — the page of every tartan sharing this colour sequence.
 

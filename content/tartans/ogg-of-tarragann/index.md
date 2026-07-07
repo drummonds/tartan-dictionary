@@ -1,6 +1,13 @@
 ---
 title: "Ogg of Tarragann"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogg"
+  url: "/clan/ogg/"
+- name: "Ogg of Tarragann"
+  url: "/families/ogg-of-tarragann/"
 ---
 A tartan of the [Ogg of Tarragann](/families/ogg-of-tarragann/) family.
 Its design is pattern [KWWRKRWKGYGY](/stripes/kwwrkrwkgygy/) — the page of every tartan sharing this colour sequence.

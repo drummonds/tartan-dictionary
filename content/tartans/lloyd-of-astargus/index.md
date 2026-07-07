@@ -1,6 +1,13 @@
 ---
 title: "Lloyd of Astargus"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan LLoyd"
+  url: "/clan/lloyd/"
+- name: "LLoyd of Astargus"
+  url: "/families/lloyd-of-astargus/"
 ---
 A tartan of the [LLoyd of Astargus](/families/lloyd-of-astargus/) family.
 Its design is pattern [RBKWBY](/stripes/rbkwby/) — the page of every tartan sharing this colour sequence.

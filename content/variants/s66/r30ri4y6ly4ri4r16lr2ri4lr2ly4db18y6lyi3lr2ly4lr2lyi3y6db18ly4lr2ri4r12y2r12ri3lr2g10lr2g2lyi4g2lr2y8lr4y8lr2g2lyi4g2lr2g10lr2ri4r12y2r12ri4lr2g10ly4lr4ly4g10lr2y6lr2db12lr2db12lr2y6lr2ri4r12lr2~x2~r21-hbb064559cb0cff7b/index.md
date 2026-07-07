@@ -1,6 +1,9 @@
 ---
 title: "Hunter Portrait/Artefact Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 slug_full: "r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2~r2108022-ri2406019-y2602166-lyi3307090"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2/)
@@ -13,6 +16,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 1775 Presented to the Tartans Authority in Canada in 2003 by a Jean Hunter from Huntsville Ontario who had been given it by her Father the Rev. George W. Hunter - a minister in Aberdeen. The piece is a shawl 6ft 6inches long by 19inches wide and is what is known as a hard, superfine tartan using typical Wilson of Bannockburn colours. The sett is selvedge to selvedge full repeat and the weave is 52epi. The sett is complex with 8 colours and 67 colour changes. Embroidered into the end of the shawl is "Donnald 1775"
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 R/60 Ri8 Y12 LY8 Ri8 R32 LR4 Ri8 LR4 LY8 DB36 Y12 LYi6 LR4 LY8 LR4 LYi6 Y12 DB36 LY8 LR4 Ri8 R24 Y4 R24 Ri6 LR4 G20 LR4 G4 LYi8 G4 LR4 Y16 LR8 Y16 LR4 G4 LYi8 G4 LR4 G20 LR4 Ri8 R24 Y4 R24 Ri8 LR4 G20 LY8 LR8 LY8 G20 LR4 Y12 LR4 DB24 LR4 DB24 LR4 Y12 LR4 Ri8 R24 LR/4

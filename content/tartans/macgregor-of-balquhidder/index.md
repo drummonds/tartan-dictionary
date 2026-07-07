@@ -1,6 +1,13 @@
 ---
 title: "MacGregor of Balquhidder"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor of Balquhidder"
+  url: "/families/macgregor-of-balquhidder/"
 ---
 A tartan of the [MacGregor of Balquhidder](/families/macgregor-of-balquhidder/) family.
 Its design is pattern [GRGRKW](/stripes/grgrkw/) — the page of every tartan sharing this colour sequence.

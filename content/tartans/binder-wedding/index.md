@@ -1,6 +1,9 @@
 ---
 title: "Binder Wedding"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBKBKWBY](/stripes/gbkbkwby/) — the page of every tartan sharing this colour sequence.
 

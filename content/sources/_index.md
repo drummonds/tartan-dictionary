@@ -11,7 +11,7 @@ When the same cloth is recorded by more than one source, the records **collapse*
 
 | Source | Holds | Records | Status |
 |---|---|---|---|
-| [Editorial curation](/sources/curation/) | editorial curation overlay | 1670 | active |
+| [Editorial curation](/sources/curation/) | editorial curation overlay | 1671 | active |
 | [House of Tartan](/sources/house-of-tartan/) | tartan setts | 2152 | active |
 | [Logan, The Scottish Gaël (1831)](/sources/logan-1831/) | tartan setts | 55 | active |
 | [Scottish Register of Tartans](/sources/register-of-tartans/) | tartan setts | 7427 | active |

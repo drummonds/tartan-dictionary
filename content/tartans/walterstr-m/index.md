@@ -1,6 +1,9 @@
 ---
 title: "Walterström"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBGGRGBG](/stripes/gbggrgbg/) — the page of every tartan sharing this colour sequence.
 

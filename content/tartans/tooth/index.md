@@ -1,6 +1,9 @@
 ---
 title: "Tooth"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GWBKGBYG](/stripes/gwbkgbyg/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "MacNeil of Colonsay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNeil"
+  url: "/clan/macneil/"
+- name: "MacNeil of Colonsay"
+  url: "/families/macneil-of-colonsay/"
 ---
 A tartan of the [MacNeil of Colonsay](/families/macneil-of-colonsay/) family.
 Its design is pattern [GKGKGKGBRBRBW](/stripes/gkgkgkgbrbrbw/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "Poulter Hoylake"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [WGWGBYBGWGWGW](/stripes/wgwgbybgwgwgw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "MacIver Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIver"
+  url: "/clan/maciver/"
 ---
 A tartan of [Clan MacIver](/clan/maciver/).
 Its design is pattern [WGKGKGKGY](/stripes/wgkgkgkgy/) — the page of every tartan sharing this colour sequence.

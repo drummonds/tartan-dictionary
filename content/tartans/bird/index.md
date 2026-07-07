@@ -1,6 +1,11 @@
 ---
 title: "Bird"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bird"
+  url: "/clan/bird/"
 ---
 A tartan of [Clan Bird](/clan/bird/).
 Its design is pattern [WBWGGWWBW](/stripes/wbwggwwbw/) — the page of every tartan sharing this colour sequence.

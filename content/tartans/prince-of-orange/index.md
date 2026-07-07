@@ -1,6 +1,9 @@
 ---
 title: "Prince of Orange"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKGYB](/stripes/bkgyb/) — the page of every tartan sharing this colour sequence.
 

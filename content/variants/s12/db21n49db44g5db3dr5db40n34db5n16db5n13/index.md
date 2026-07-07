@@ -1,6 +1,9 @@
 ---
 title: "Cara O Cruz"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db21n49db44g5db3dr5db40n34db5n16db5n13/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBBGBBB](/stripes/bbbbbbbbgbbb/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11295
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>22/05/2015 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **446 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">446</div><div class="nn-name nn-base"><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/">Cara O Cruz</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.15</a></div><div class="nn-threads nn-far2">310</div><div class="nn-name nn-far2"><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/">Scottish Scouts</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.56</a></div><div class="nn-threads nn-far2">320</div><div class="nn-name nn-far2"><a href="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/">Reflections of the Sea</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n8y4n35db2lb8db2n4db21n4~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">328</div><div class="nn-name nn-far2"><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/">Bedford Academy (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n37db4n7db4n9db40lb2db4n2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.81</a></div><div class="nn-threads nn-far2">179</div><div class="nn-name nn-far2"><a href="/variants/s9/n37db4n7db4n9db40lb2db4n2/">Edwards</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n37db4n7db4n9db40lb2db4n2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db16dr3g3dr10db24dr3db3dr3db3dr10~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.98</a></div><div class="nn-threads nn-far2">260</div><div class="nn-name nn-far2"><a href="/variants/s10/db16dr3g3dr10db24dr3db3dr3db3dr10~x2/">Nithsdale (Dalgliesh)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db16dr3g3dr10db24dr3db3dr3db3dr10~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">446</div><div class="nn-name nn-base"><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/">Cara O Cruz</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.15</a></div><div class="nn-threads nn-far2">310</div><div class="nn-name nn-far2"><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/">Scottish Scouts</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.56</a></div><div class="nn-threads nn-far2">320</div><div class="nn-name nn-far2"><a href="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/">Reflections of the Sea</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/t3b6dg12t14dg2b17t3dg1t3b17dg2lb3~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n8y4n35db2lb8db2n4db21n4~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">328</div><div class="nn-name nn-far2"><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/">Bedford Academy (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n37db4n7db4n9db40lb2db4n2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.81</a></div><div class="nn-threads nn-far2">179</div><div class="nn-name nn-far2"><a href="/variants/s9/n37db4n7db4n9db40lb2db4n2/">Edwards</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/n37db4n7db4n9db40lb2db4n2/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db16dr3g3dr10db24dr3db3dr3db3dr10~x2&amp;base=db21n49db44g5db3dr5db40n34db5n16db5n13" title="compare in the TTD">3.98</a></div><div class="nn-threads nn-far2">260</div><div class="nn-name nn-far2"><a href="/variants/s10/db16dr3g3dr10db24dr3db3dr3db3dr10~x2/">Nithsdale (Dalgliesh)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/db16dr3g3dr10db24dr3db3dr3db3dr10~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

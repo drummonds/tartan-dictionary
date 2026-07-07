@@ -1,6 +1,11 @@
 ---
 title: "Cochrane"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cochrane"
+  url: "/clan/cochrane/"
 ---
 A tartan of [Clan Cochrane](/clan/cochrane/).
 Its design is pattern [GBRBRKGRGRGRGRG](/stripes/gbrbrkgrgrgrgrg/) — the page of every tartan sharing this colour sequence.

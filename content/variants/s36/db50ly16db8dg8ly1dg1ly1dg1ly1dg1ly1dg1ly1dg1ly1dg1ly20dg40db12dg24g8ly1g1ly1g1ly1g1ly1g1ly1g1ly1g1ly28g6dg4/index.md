@@ -1,6 +1,11 @@
 ---
 title: "Nova Scotia (Commemorative)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Nova Scotia"
+  url: "/tartans/nova-scotia/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50ly16db8dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly20dg40db12dg24g8ly1g1ly1g1ly1g1ly1g1ly1g1ly1g1ly28g6dg4/)
 (the same proportion at any scale), whose colour order is pattern [BYBGYGYGYGYGYGYGYGBGGYGYGYGYGYGYGYGG](/stripes/bybgygygygygygygygbggygygygygygygygg/).
@@ -9,14 +14,30 @@ Part of the [Nova Scotia](/tartans/nova-scotia/) tartan — the named design gro
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7707/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7707
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
-<li>16th Feb. 1966 — Nova Scotia (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7707/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Asymmetric. This replaces #1912 & #1927. In his thorough and painstaking 2008 review of Canadian tartans, John Fitzpatrick pointed out that a series of ten tartans from Pik Mills of Quebec City were probably their contribution to the 'Centennial of Confederation' like the 'Fathers of Confederation' series produced by WCWM/Sainthill-Levine. All ten tartans are complex asymmetric designs each with different warp and weft. The threadcounts (taken from the CIDD) remain the same but colours are changed. JF notes that the yellow is closer to brown in the graphic that he'd seen.</em></li>
+<li>16th Feb. 1966 — Nova Scotia (Commemorative) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7707">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>Asymmetric. This replaces #1912 & #1927. In his thorough and painstaking 2008 review of Canadian tartans, John Fitzpatrick pointed out that a series of ten tartans from Pik Mills of Quebec City were probably their contribution to the 'Centennial of Confederation' like the 'Fathers of Confederation' series produced by WCWM/Sainthill-Levine. All ten tartans are complex asymmetric designs each with different warp and weft. The threadcounts (taken from the CIDD) remain the same but colours are changed. JF notes that the yellow is closer to brown in the graphic that he'd seen.</em></li>
 <li>undated — Nova Scotia (CIDD 20899) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5699">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="GO #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#003820;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DG #003820"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><br><em>This replaces #1912 and #1927 (original Scottish Tartans Authority refs) In his thorough and painstaking 2008 review of Canadian tartans, John Fitzpatrick pointed out that a series of ten tartans from Pik Mills of Quebec City were probably their contribution to the 'Centennial of Confederation' like the 'Fathers of Confederation' series produced by WCWM/Sainthill-Levine. All ten tartans are complex asymmetric designs each with different warp and weft. The threadcounts (taken from the CIDD) remain the same but colours are changed. JF notes that the yellow is closer to brown in the graphic that he'd seen.</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>16th Feb. 1966 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

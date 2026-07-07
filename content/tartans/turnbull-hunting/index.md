@@ -1,6 +1,11 @@
 ---
 title: "Turnbull Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Turnbull"
+  url: "/clan/turnbull/"
 ---
 A tartan of [Clan Turnbull](/clan/turnbull/).
 Its design is pattern [BGGBW](/stripes/bggbw/) — the page of every tartan sharing this colour sequence.

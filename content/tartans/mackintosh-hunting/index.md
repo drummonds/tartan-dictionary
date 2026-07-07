@@ -1,6 +1,11 @@
 ---
 title: "MacKintosh Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackintosh (Clan Chattan)"
+  url: "/clan/mackintosh/"
 ---
 A tartan of [Clan Mackintosh (Clan Chattan)](/clan/mackintosh/).
 Its design is pattern [BRGRBGG](/stripes/brgrbgg/) — the page of every tartan sharing this colour sequence.

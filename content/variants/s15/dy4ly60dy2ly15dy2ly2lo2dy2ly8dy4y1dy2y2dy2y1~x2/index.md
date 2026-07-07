@@ -1,6 +1,9 @@
 ---
 title: "UPS No.1"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGGYGYYGYGYG](/stripes/ggggggygyygygyg/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10023
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>24/04/2009 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **426 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">426</div><div class="nn-name nn-base"><a href="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/">UPS No.1</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">436</div><div class="nn-name"><a href="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/">UPS No.2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">420</div><div class="nn-name"><a href="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/">UPS No. 1 (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">420</div><div class="nn-name"><a href="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/">UPS No. 2 (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">172</div><div class="nn-name nn-far"><a href="/variants/s12/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2/">Houston (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">426</div><div class="nn-name nn-base"><a href="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/">UPS No.1</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">436</div><div class="nn-name"><a href="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/">UPS No.2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/dy2ly8dy4y1dy2y2dy2y1dy4ly60dy2ly15dy2ly2lo2ly2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">420</div><div class="nn-name"><a href="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/">UPS No. 1 (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/lyi8dy2lyi2lo2lyi2dy2lyi15dy2lyi60dy4ly1dy2ly2dy2ly1dy4~x2~lyi3504086-lo2906076/sett-rev.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">420</div><div class="nn-name"><a href="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/">UPS No. 2 (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s16/w8dy2w2lo2w2dy2w15dy2w60dy4ly1dy2ly2dy2ly1dy4~x2~w3803095-lo2906076/sett-rev.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2&amp;base=dy4ly60dy2ly15dy2ly2lo2dy2ly8dy4y1dy2y2dy2y1~x2" title="compare in the TTD">2.24</a></div><div class="nn-threads nn-far">172</div><div class="nn-name nn-far"><a href="/variants/s12/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2/">Houston (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/ly32do2ly12dy2ly1g2ly1dy2ly1g2ly1dy2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

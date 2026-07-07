@@ -1,6 +1,9 @@
 ---
 title: "Black Watch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/) — the page of every tartan sharing this colour sequence.
 

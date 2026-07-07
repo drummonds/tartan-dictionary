@@ -1,6 +1,9 @@
 ---
 title: "StammBar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRGRBWWWWWBW](/stripes/brgrbwwwwwbw/) — the page of every tartan sharing this colour sequence.
 

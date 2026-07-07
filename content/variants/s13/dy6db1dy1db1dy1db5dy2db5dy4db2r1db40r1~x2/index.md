@@ -1,6 +1,11 @@
 ---
 title: "Angotta"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Angotta"
+  url: "/tartans/angotta/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/).
@@ -21,6 +26,22 @@ Earliest known date: 2009 Designed by Scottish Tartans Authority for the armiger
 <li>28/03/2009 — Angotta (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10038">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#CDAD00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #CDAD00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#380474;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #380474"></span><span style="display:inline-block;width:.85em;height:.85em;background:#EE0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #EE0000"></span><br><em>This tartan is for the use of all of the name of Angotta. Designed in March 2009 by Brian Wilton of the Scottish Tartans Authority for the armigerous Donald Paul Angotta of the USA and based on an unidentified 19th century sett. The yellow and blue are the major colours of the Angotta arms granted in South Africa in 2001 and the red highlights are from the helm in that coat of arms.</em></li>
 <li>undated — Angotta Name Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10038">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#BC8C00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DY #BC8C00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><span style="display:inline-block;width:.85em;height:.85em;background:#C80000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #C80000"></span></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>28/03/2009 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

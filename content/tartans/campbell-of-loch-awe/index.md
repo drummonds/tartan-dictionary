@@ -1,6 +1,13 @@
 ---
 title: "Campbell of Loch Awe"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Loch Awe"
+  url: "/families/campbell-of-loch-awe/"
 ---
 A tartan of the [Campbell of Loch Awe](/families/campbell-of-loch-awe/) family.
 Its design is pattern [KBKGK](/stripes/kbkgk/) — the page of every tartan sharing this colour sequence.

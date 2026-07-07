@@ -1,6 +1,9 @@
 ---
 title: "Caledonian Brewery"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRWRGGW](/stripes/grwrggw/) — the page of every tartan sharing this colour sequence.
 

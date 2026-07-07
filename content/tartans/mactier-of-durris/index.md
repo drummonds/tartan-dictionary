@@ -1,6 +1,13 @@
 ---
 title: "MacTier of Durris"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacTier"
+  url: "/clan/mactier/"
+- name: "MacTier of Durris"
+  url: "/families/mactier-of-durris/"
 ---
 A tartan of the [MacTier of Durris](/families/mactier-of-durris/) family.
 Its design is pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/) — the page of every tartan sharing this colour sequence.

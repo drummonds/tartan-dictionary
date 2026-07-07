@@ -1,6 +1,13 @@
 ---
 title: "Grant of Rothiemurchus"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant of Rothiemurchus"
+  url: "/families/grant-of-rothiemurchus/"
 ---
 A tartan of the [Grant of Rothiemurchus](/families/grant-of-rothiemurchus/) family.
 Its design is pattern [RGRBRGRGRGRGR](/stripes/rgrbrgrgrgrgr/) — the page of every tartan sharing this colour sequence.

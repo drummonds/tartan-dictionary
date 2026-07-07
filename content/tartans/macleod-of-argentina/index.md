@@ -1,6 +1,13 @@
 ---
 title: "MacLeod of Argentina"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod, of Argentina"
+  url: "/families/macleod-of-argentina/"
 ---
 A tartan of the [MacLeod, of Argentina](/families/macleod-of-argentina/) family.
 Its design is pattern [BWBYR](/stripes/bwbyr/) — the page of every tartan sharing this colour sequence.

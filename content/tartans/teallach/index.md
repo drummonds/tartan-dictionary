@@ -1,6 +1,9 @@
 ---
 title: "Teallach"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBGBGWGRG](/stripes/gbgbgwgrg/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Royal Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RWKGKWKGRKRW](/stripes/rwkgkwkgrkrw/) — the page of every tartan sharing this colour sequence.
 

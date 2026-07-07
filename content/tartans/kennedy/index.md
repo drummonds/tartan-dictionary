@@ -1,6 +1,9 @@
 ---
 title: "Kennedy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KWKRKGKGKBKBW](/stripes/kwkrkgkgkbkbw/) — the page of every tartan sharing this colour sequence.
 

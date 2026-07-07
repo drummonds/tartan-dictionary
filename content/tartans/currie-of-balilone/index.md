@@ -1,6 +1,13 @@
 ---
 title: "Currie of Balilone"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Currie"
+  url: "/clan/currie/"
+- name: "Currie of Balilone"
+  url: "/families/currie-of-balilone/"
 ---
 A tartan of the [Currie of Balilone](/families/currie-of-balilone/) family.
 Its design is pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/) — the page of every tartan sharing this colour sequence.

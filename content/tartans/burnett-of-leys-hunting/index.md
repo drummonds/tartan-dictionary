@@ -1,6 +1,13 @@
 ---
 title: "Burnett of Leys Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Burnett"
+  url: "/clan/burnett/"
+- name: "Burnett of Leys"
+  url: "/families/burnett-of-leys/"
 ---
 A tartan of the [Burnett of Leys](/families/burnett-of-leys/) family.
 Its design is pattern [RBRWRGRR](/stripes/rbrwrgrr/) — the page of every tartan sharing this colour sequence.

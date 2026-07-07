@@ -1,6 +1,9 @@
 ---
 title: "MacLeod Society of Scotland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBKRGG](/stripes/gbkrgg/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "MacMillan Society of Glasgow"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KYKGKGRKR](/stripes/kykgkgrkr/) — the page of every tartan sharing this colour sequence.
 

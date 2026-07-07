@@ -1,6 +1,9 @@
 ---
 title: "Phoenix Police Honor Guard"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKWGG](/stripes/bkwgg/) — the page of every tartan sharing this colour sequence.
 

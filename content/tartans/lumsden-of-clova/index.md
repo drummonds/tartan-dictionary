@@ -1,6 +1,13 @@
 ---
 title: "Lumsden of Clova"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lumsden"
+  url: "/clan/lumsden/"
+- name: "Lumsden of Clova"
+  url: "/families/lumsden-of-clova/"
 ---
 A tartan of the [Lumsden of Clova](/families/lumsden-of-clova/) family.
 Its design is pattern [BRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/brbrbrbrbrwrbrbrwrgrgrgrg/) — the page of every tartan sharing this colour sequence.

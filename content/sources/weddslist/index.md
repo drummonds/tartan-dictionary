@@ -14,9 +14,9 @@ A privately compiled online tartan reference, cross-indexing setts from many sou
 | **Kind** | tartan setts (thread counts) |
 | **Records** | 3397 |
 | **Source** | [https://www.weddslist.com/tartans/](https://www.weddslist.com/tartans/) |
-| **Attribution** | Data: Weddslist, via kravets-levko/tartan-database |
+| **Attribution** | Data: Weddslist, via thetartan/tartan-database (Levko Kravets, 2016-2017 snapshot) |
 | **Licence** | CC BY-NC-ND 4.0 |
-| **Snapshot** | https://github.com/kravets-levko/tartan-database @ 5bf86c756693 |
+| **Snapshot** | https://github.com/thetartan/tartan-database @ 5bf86c756693 |
 
 Creative Commons Non-Commercial No-Derivatives
 

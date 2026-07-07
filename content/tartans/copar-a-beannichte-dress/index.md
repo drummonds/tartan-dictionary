@@ -1,6 +1,9 @@
 ---
 title: "Copar a'Beannichte Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RBBBWBWWGW](/stripes/rbbbwbwwgw/) — the page of every tartan sharing this colour sequence.
 

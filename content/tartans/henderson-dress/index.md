@@ -1,6 +1,9 @@
 ---
 title: "Henderson Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GKGKWBWBW](/stripes/gkgkwbwbw/) — the page of every tartan sharing this colour sequence.
 

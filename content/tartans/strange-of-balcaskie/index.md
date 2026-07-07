@@ -1,6 +1,13 @@
 ---
 title: "Strange of Balcaskie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strange"
+  url: "/clan/strange/"
+- name: "Strange of Balcaskie"
+  url: "/families/strange-of-balcaskie/"
 ---
 A tartan of the [Strange of Balcaskie](/families/strange-of-balcaskie/) family.
 Its design is pattern [GGGBGGGBGGGG](/stripes/gggbgggbgggg/) — the page of every tartan sharing this colour sequence.

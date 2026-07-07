@@ -1,6 +1,13 @@
 ---
 title: "Stewart of Bute"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Bute"
+  url: "/families/stewart-of-bute/"
 ---
 A tartan of the [Stewart of Bute](/families/stewart-of-bute/) family.
 Its design is pattern [BKGKGKBRKRKRGKBKGKBKGRKRKRBKGKGK](/stripes/bkgkgkbrkrkrgkbkgkbkgrkrkrbkgkgk/) — the page of every tartan sharing this colour sequence.

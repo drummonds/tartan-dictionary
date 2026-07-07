@@ -1,6 +1,9 @@
 ---
 title: "William Murdoch (Scottish Gas) Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 1985 Permission required from Scottish Gas to reveal thread count.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 T/22 DB4 T8 DB4 T8 DB22 DBi22 DB4 Ti8 DB4 DBi22 DB22 T22 DB4 T/8
@@ -31,7 +50,7 @@ One full sett is **338 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">338</div><div class="nn-name nn-base"><a href="/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/">William Murdoch (Scottish Gas) Corporate Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227&amp;base=t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227" title="compare in the TTD">0.15</a></div><div class="nn-threads">338</div><div class="nn-name"><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/">Scottish Gas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2&amp;base=t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">614</div><div class="nn-name nn-far"><a href="/variants/s13/t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2/">Poulter Blue Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp69b14dp13b14dp13b69db72lb13db72b69dp68b14dp13~b2105244-db1003265&amp;base=t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227" title="compare in the TTD">3.77</a></div><div class="nn-threads nn-far2">944</div><div class="nn-name nn-far2"><a href="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/">Poulter Sandwich</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">338</div><div class="nn-name nn-base"><a href="/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/">William Murdoch (Scottish Gas) Corporate Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227&amp;base=t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227" title="compare in the TTD">0.15</a></div><div class="nn-threads">338</div><div class="nn-name"><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/">Scottish Gas</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2&amp;base=t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227" title="compare in the TTD">2.50</a></div><div class="nn-threads nn-far">614</div><div class="nn-name nn-far"><a href="/variants/s13/t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2/">Poulter Blue Corporate Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp69b14dp13b14dp13b69db72lb13db72b69dp68b14dp13~b2105244-db1003265&amp;base=t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227" title="compare in the TTD">3.77</a></div><div class="nn-threads nn-far2">944</div><div class="nn-name nn-far2"><a href="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/">Poulter Sandwich</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/sett-rev.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

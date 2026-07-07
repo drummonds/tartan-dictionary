@@ -1,6 +1,9 @@
 ---
 title: "Cranston Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GGBRBRBR](/stripes/ggbrbrbr/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Spirit of Glyndwr"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBKBKBK](/stripes/bkbkbkbk/) — the page of every tartan sharing this colour sequence.
 

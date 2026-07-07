@@ -1,6 +1,11 @@
 ---
 title: "MacIntyre"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIntyre"
+  url: "/clan/macintyre/"
 ---
 A tartan of [Clan MacIntyre](/clan/macintyre/).
 Its design is pattern [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/) — the page of every tartan sharing this colour sequence.

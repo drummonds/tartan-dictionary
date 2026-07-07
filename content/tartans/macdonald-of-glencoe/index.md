@@ -1,6 +1,13 @@
 ---
 title: "MacDonald of Glencoe"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Glencoe"
+  url: "/families/macdonald-of-glencoe/"
 ---
 A tartan of the [MacDonald of Glencoe](/families/macdonald-of-glencoe/) family.
 Its design is pattern [GRRGRWBRGRBRR](/stripes/grrgrwbrgrbrr/) — the page of every tartan sharing this colour sequence.

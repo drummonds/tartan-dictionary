@@ -1,6 +1,9 @@
 ---
 title: "degli Uberti, Baron of Cartsburn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRKRGRKG](/stripes/brkrgrkg/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Lambert Kai"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KGBGRKGW](/stripes/kgbgrkgw/) — the page of every tartan sharing this colour sequence.
 

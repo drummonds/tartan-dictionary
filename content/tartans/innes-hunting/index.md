@@ -1,6 +1,11 @@
 ---
 title: "Innes Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Innes,"
+  url: "/clan/innes/"
 ---
 A tartan of [Clan Innes,](/clan/innes/).
 Its design is pattern [KGWK](/stripes/kgwk/) — the page of every tartan sharing this colour sequence.

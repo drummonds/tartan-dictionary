@@ -1,6 +1,13 @@
 ---
 title: "Laing Clan/Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Laing"
+  url: "/clan/laing/"
+- name: "Laing"
+  url: "/tartans/laing/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBRBKBKBKBKBKBKBRBGBGBGR](/stripes/gbgbgbrbkbkbkbkbkbkbrbgbgbgr/).
@@ -14,6 +21,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: pre 1765 This is the Clan Laing Society tartan which was recovered from the grave of George Henry Laing who died in 1853 in East Texas. James, his grandfather, had moved to The North Carolina Scottish Colony of the Cape Fear River from Scotland some time between 1745 and 1765 bringing the sett with him. The relatively dry climate and local soil conditions are account for the remarkable preservation of his great kilt to allow the reconstruction of the sett.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 Y/4 T4 Y12 T4 Y16 T4 R4 T104 K4 T4 K16 T4 K12 T4 K12 T4 K16 T4 K4 T104 R4 T4 Y16 T4 Y12 T4 Y4 R/4
@@ -48,7 +71,7 @@ Its **ΔTartan distance** from the master is **2.73** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">776</div><div class="nn-name nn-base"><a href="/variants/s28/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4/">Laing Clan/Family Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s28/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4&amp;base=r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">392</div><div class="nn-name nn-far"><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/">Laing (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/sett.png" alt="sett" loading="lazy" style="width:800px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w2r2w2r2db2w1db1w1db1w1db2b4w1b4db35g2k1g2r2g1r2w1~x2~db1404245-b2308259&amp;base=r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4" title="compare in the TTD">3.93</a></div><div class="nn-threads nn-far2">282</div><div class="nn-name nn-far2"><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/">American Scottish Foundation</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/sett.png" alt="sett" loading="lazy" style="width:800px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">776</div><div class="nn-name nn-base"><a href="/variants/s28/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4/">Laing Clan/Family Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s28/r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4/sett.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4&amp;base=r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4" title="compare in the TTD">2.73</a></div><div class="nn-threads nn-far">392</div><div class="nn-name nn-far"><a href="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/">Laing (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r1y1t1y3t1y4t1r1t26w1t1k4t1k3t1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:800px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w2r2w2r2db2w1db1w1db1w1db2b4w1b4db35g2k1g2r2g1r2w1~x2~db1404245-b2308259&amp;base=r1y1t1y3t1y4t1r1t26k1t1k4t1k3t1k3t1k4t1k1t26r1t1y4t1y3t1y1~x4" title="compare in the TTD">3.93</a></div><div class="nn-threads nn-far2">282</div><div class="nn-name nn-far2"><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/">American Scottish Foundation</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/sett.png" alt="sett" loading="lazy" style="width:800px"></div></div>
 
 ## Neighbour map
 

@@ -1,6 +1,9 @@
 ---
 title: "George"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GWGBRBRBR](/stripes/gwgbrbrbr/) — the page of every tartan sharing this colour sequence.
 

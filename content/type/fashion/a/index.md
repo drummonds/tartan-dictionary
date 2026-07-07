@@ -2,11 +2,10 @@
 title: "Fashion tartans — A"
 date: 2023-03-18
 ---
-96 Fashion tartans beginning with A. [Back to all Fashion tartans](/type/fashion/).
+95 Fashion tartans beginning with A. [Back to all Fashion tartans](/type/fashion/).
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><img src="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/sett.png" alt="Abaco Loyalist" width="140"><br>Abaco Loyalist</a></li>
-<li><a class="tartan" href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/"><img src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="Abbotsford Check" width="140"><br>Abbotsford Check</a></li>
 <li><a class="tartan" href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/"><img src="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/sett.png" alt="Aberdale (Fashion)" width="140"><br>Aberdale (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><img src="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/sett.png" alt="Abergavenny" width="140"><br>Abergavenny</a></li>
 <li><a class="tartan" href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><img src="/variants/s8/o8k2dy10dp30dy30g55k4lo6/sett.png" alt="Aberuchill" width="140"><br>Aberuchill</a></li>
@@ -15,13 +14,13 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/r2ly1r5k4g5w1~x4/"><img src="/variants/s6/r2ly1r5k4g5w1~x4/sett.png" alt="Aboyne II (Fashion)" width="140"><br>Aboyne II (Fashion)</a></li>
 <li><a class="tartan" href="/variants/s6/y15g98n72r25n8lb15/"><img src="/variants/s6/y15g98n72r25n8lb15/sett.png" alt="Afternoon Tea / Afternoon Tea" width="140"><br>Afternoon Tea / Afternoon Tea</a></li>
 <li><a class="tartan" href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><img src="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/sett.png" alt="Afternoon Tea / Apple Tea" width="140"><br>Afternoon Tea / Apple Tea</a></li>
-<li><a class="tartan" href="/variants/s6/r15dr98db72lb25db8w15/"><img src="/variants/s6/r15dr98db72lb25db8w15/sett.png" alt="Afternoon Tea / Assam" width="140"><br>Afternoon Tea / Assam</a></li>
 <li><a class="tartan" href="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/"><img src="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/sett.png" alt="Afternoon Tea / Assam" width="140"><br>Afternoon Tea / Assam</a></li>
+<li><a class="tartan" href="/variants/s6/r15dr98db72lb25db8w15/"><img src="/variants/s6/r15dr98db72lb25db8w15/sett.png" alt="Afternoon Tea / Assam" width="140"><br>Afternoon Tea / Assam</a></li>
 <li><a class="tartan" href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><img src="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/sett.png" alt="Afternoon Tea / Black Tea" width="140"><br>Afternoon Tea / Black Tea</a></li>
-<li><a class="tartan" href="/variants/s6/w15dg98db72dr25db8ly15/"><img src="/variants/s6/w15dg98db72dr25db8ly15/sett.png" alt="Afternoon Tea / Darjeeling" width="140"><br>Afternoon Tea / Darjeeling</a></li>
 <li><a class="tartan" href="/variants/s6/y15db8r25db72dg98w15/"><img src="/variants/s6/y15db8r25db72dg98w15/sett.png" alt="Afternoon Tea / Darjeeling" width="140"><br>Afternoon Tea / Darjeeling</a></li>
-<li><a class="tartan" href="/variants/s6/r15lb98db72ly25db8w15/"><img src="/variants/s6/r15lb98db72ly25db8w15/sett.png" alt="Afternoon Tea / Earl Grey" width="140"><br>Afternoon Tea / Earl Grey</a></li>
+<li><a class="tartan" href="/variants/s6/w15dg98db72dr25db8ly15/"><img src="/variants/s6/w15dg98db72dr25db8ly15/sett.png" alt="Afternoon Tea / Darjeeling" width="140"><br>Afternoon Tea / Darjeeling</a></li>
 <li><a class="tartan" href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><img src="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/sett.png" alt="Afternoon Tea / Earl Grey" width="140"><br>Afternoon Tea / Earl Grey</a></li>
+<li><a class="tartan" href="/variants/s6/r15lb98db72ly25db8w15/"><img src="/variants/s6/r15lb98db72ly25db8w15/sett.png" alt="Afternoon Tea / Earl Grey" width="140"><br>Afternoon Tea / Earl Grey</a></li>
 <li><a class="tartan" href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><img src="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/sett.png" alt="Afternoon Tea / Milk Tea" width="140"><br>Afternoon Tea / Milk Tea</a></li>
 <li><a class="tartan" href="/variants/s6/w15lg98db72lb25db8ly15/"><img src="/variants/s6/w15lg98db72lb25db8ly15/sett.png" alt="Afternoon Tea / Mint Tea" width="140"><br>Afternoon Tea / Mint Tea</a></li>
 <li><a class="tartan" href="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/"><img src="/variants/s14/lo4k1lo3db1lo1db2k6lo4db2k6lo7k6db29lo2~x4/sett.png" alt="Agincourt" width="140"><br>Agincourt</a></li>

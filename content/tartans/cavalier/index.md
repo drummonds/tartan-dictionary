@@ -1,6 +1,9 @@
 ---
 title: "Cavalier"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RBGBWBGRBRW](/stripes/rbgbwbgrbrw/) — the page of every tartan sharing this colour sequence.
 

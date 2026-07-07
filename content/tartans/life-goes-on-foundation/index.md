@@ -1,6 +1,9 @@
 ---
 title: "Life Goes on Foundation"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBKBWBKBWBWW](/stripes/bkbkbwbkbwbww/) — the page of every tartan sharing this colour sequence.
 

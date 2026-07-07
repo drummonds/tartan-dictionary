@@ -1,6 +1,11 @@
 ---
 title: "Brown Ellis"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Brown"
+  url: "/clan/brown/"
 ---
 A tartan of [Clan Brown](/clan/brown/).
 Its design is pattern [KBKBKBKBKGKY](/stripes/kbkbkbkbkgky/) — the page of every tartan sharing this colour sequence.

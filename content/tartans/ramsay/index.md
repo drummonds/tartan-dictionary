@@ -1,6 +1,11 @@
 ---
 title: "Ramsay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ramsay"
+  url: "/clan/ramsay/"
 ---
 A tartan of [Clan Ramsay](/clan/ramsay/).
 Its design is pattern [KWKRBR](/stripes/kwkrbr/) — the page of every tartan sharing this colour sequence.

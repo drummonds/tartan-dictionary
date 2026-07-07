@@ -1,6 +1,11 @@
 ---
 title: "Fraser Arisaid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
 ---
 A tartan of [Clan Fraser](/clan/fraser/).
 Its design is pattern [BWBGWGWBWB](/stripes/bwbgwgwbwb/) — the page of every tartan sharing this colour sequence.

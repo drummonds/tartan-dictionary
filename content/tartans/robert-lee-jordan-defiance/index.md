@@ -1,6 +1,9 @@
 ---
 title: "Robert Lee Jordan Defiance"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/) — the page of every tartan sharing this colour sequence.
 

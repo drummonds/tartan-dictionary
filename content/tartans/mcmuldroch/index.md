@@ -1,6 +1,9 @@
 ---
 title: "McMuldroch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBWGBGWBKG](/stripes/bbwgbgwbkg/) — the page of every tartan sharing this colour sequence.
 

@@ -14,11 +14,11 @@ The official government register of tartans, maintained by National Records of S
 | **Kind** | tartan setts (thread counts) |
 | **Records** | 7427 |
 | **Source** | [https://www.tartanregister.gov.uk/](https://www.tartanregister.gov.uk/) |
-| **Attribution** | Data: Scottish Register of Tartans, via kravets-levko/tartan-database |
-| **Licence** | CC BY-NC-ND 4.0 |
-| **Snapshot** | https://github.com/kravets-levko/tartan-database @ 5bf86c756693 |
+| **Attribution** | Data: Scottish Register of Tartans (Crown copyright), via thetartan/tartan-database (Levko Kravets, 2016-2017 snapshot) |
+| **Licence** | Crown copyright |
+| **Snapshot** | https://github.com/thetartan/tartan-database @ 5bf86c756693 |
 
-Creative Commons Non-Commercial No-Derivatives
+Re-use free of charge in any format, acknowledging Crown copyright and the source document. The CC BY-NC-ND 4.0 terms apply to the intermediate thetartan/tartan-database capture only.
 
 ## Tartans from this source
 
@@ -34,7 +34,7 @@ A sample of the 7,306 tartans this source attests — the first 120, alphabetica
 <li><a class="tartan" href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><img src="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/sett.png" alt="Abaco Loyalist" width="140"><br>Abaco Loyalist</a></li>
 <li><a class="tartan" href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><img src="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/sett.png" alt="Abadia Da Cova" width="140"><br>Abadia Da Cova</a></li>
 <li><a class="tartan" href="/variants/s5/r39db22k11y22g5~x2/"><img src="/variants/s5/r39db22k11y22g5~x2/sett.png" alt="Abbink, Ingmar (Personal)" width="140"><br>Abbink, Ingmar (Personal)</a></li>
-<li><a class="tartan" href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/"><img src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="Abbotsford Check" width="140"><br>Abbotsford Check</a></li>
+<li><a class="tartan" href="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/"><img src="/variants/s23/k5g2w2g3r3g4k3w3k3w3k3w3k3w3k3w3k3db4dy2k3w3k2g5~x2/sett.png" alt="Abbotsford" width="140"><br>Abbotsford</a></li>
 <li><a class="tartan" href="/variants/s13/g50k3w4k1y5r4k1w2k2db15k5g4w2~x2/"><img src="/variants/s13/g50k3w4k1y5r4k1w2k2db15k5g4w2~x2/sett.png" alt="Abbotsford, City of" width="140"><br>Abbotsford, City of</a></li>
 <li><a class="tartan" href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><img src="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/sett.png" alt="Abel (2015)" width="140"><br>Abel (2015)</a></li>
 <li><a class="tartan" href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><img src="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/sett.png" alt="Abercrombie" width="140"><br>Abercrombie</a></li>

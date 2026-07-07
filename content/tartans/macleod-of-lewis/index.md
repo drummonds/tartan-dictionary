@@ -1,6 +1,13 @@
 ---
 title: "MacLeod of Lewis"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod of Lewis"
+  url: "/families/macleod-of-lewis/"
 ---
 A tartan of the [MacLeod of Lewis](/families/macleod-of-lewis/) family.
 Its design is pattern [KGKGR](/stripes/kgkgr/) — the page of every tartan sharing this colour sequence.

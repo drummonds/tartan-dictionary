@@ -1,6 +1,13 @@
 ---
 title: "Way of the Rainbow"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Way"
+  url: "/clan/way/"
+- name: "Way of the Rainbow"
+  url: "/families/way-of-the-rainbow/"
 ---
 A tartan of the [Way of the Rainbow](/families/way-of-the-rainbow/) family.
 Its design is pattern [BBGGYRBK](/stripes/bbggyrbk/) — the page of every tartan sharing this colour sequence.

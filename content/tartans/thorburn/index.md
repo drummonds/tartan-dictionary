@@ -1,6 +1,9 @@
 ---
 title: "Thorburn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWBBBWBWR](/stripes/bwbbbwbwr/) — the page of every tartan sharing this colour sequence.
 

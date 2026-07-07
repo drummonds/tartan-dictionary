@@ -1,6 +1,9 @@
 ---
 title: "Highlands School"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBGBBBBW](/stripes/gbgbbbbw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Hueg Scottish Thistle"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RBKGKBGGGWGBRKRW](/stripes/rbkgkbgggwgbrkrw/) — the page of every tartan sharing this colour sequence.
 

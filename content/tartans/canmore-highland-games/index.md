@@ -1,6 +1,9 @@
 ---
 title: "Canmore Highland Games"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GBKWKBKBGKGG](/stripes/gbkwkbkbgkgg/) — the page of every tartan sharing this colour sequence.
 

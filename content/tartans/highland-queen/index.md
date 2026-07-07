@@ -1,6 +1,9 @@
 ---
 title: "Highland Queen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RGRWRKRGRKRY](/stripes/rgrwrkrgrkry/) — the page of every tartan sharing this colour sequence.
 

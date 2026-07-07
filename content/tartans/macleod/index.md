@@ -1,6 +1,11 @@
 ---
 title: "MacLeod"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
 ---
 A tartan of [Clan MacLeod](/clan/macleod/).
 Its design is pattern [GKBKGKR](/stripes/gkbkgkr/) — the page of every tartan sharing this colour sequence.

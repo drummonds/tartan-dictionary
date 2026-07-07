@@ -1,6 +1,9 @@
 ---
 title: "Culloden, Worn by Pr Charles"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2/)
 (the same proportion at any scale), whose colour order is pattern [BGGWGGWBBRWRWRW](/stripes/bggwggwbbrwrwrw/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 B/34 G30 Y10 W4 G16 DG12 W4 DB16 DO64 R36 W4 R16 W4 O100 W/4
@@ -27,7 +46,7 @@ One full sett is **670 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">670</div><div class="nn-name nn-base"><a href="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/">Culloden, Worn by Pr Charles</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">1.48</a></div><div class="nn-threads">666</div><div class="nn-name"><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/">Stuart / Stewart, Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">2.39</a></div><div class="nn-threads nn-far">670</div><div class="nn-name nn-far"><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/">Culloden Worn by Pr Charles</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb17r2w2db9ly2g16w1r6w1dg5ly1o8ly2~x2~ly3307090-g1903114-dg1806142-o2203076&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">3.52</a></div><div class="nn-threads nn-far2">250</div><div class="nn-name nn-far2"><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/">Okanagan(District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/sett.png" alt="sett" loading="lazy" style="width:448px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">3.69</a></div><div class="nn-threads nn-far2">666</div><div class="nn-name nn-far2"><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/">Unnamed C18th - Prince Charles Edward</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">670</div><div class="nn-name nn-base"><a href="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/">Culloden, Worn by Pr Charles</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">1.48</a></div><div class="nn-threads">666</div><div class="nn-name"><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/">Stuart / Stewart, Plaid</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/sett-rev.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">2.39</a></div><div class="nn-threads nn-far">670</div><div class="nn-name nn-far"><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/">Culloden Worn by Pr Charles</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/sett.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb17r2w2db9ly2g16w1r6w1dg5ly1o8ly2~x2~ly3307090-g1903114-dg1806142-o2203076&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">3.52</a></div><div class="nn-threads nn-far2">250</div><div class="nn-name nn-far2"><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/">Okanagan(District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/sett-rev.png" alt="sett" loading="lazy" style="width:448px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327&amp;base=b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2" title="compare in the TTD">3.69</a></div><div class="nn-threads nn-far2">666</div><div class="nn-name nn-far2"><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/">Unnamed C18th - Prince Charles Edward</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/sett.png" alt="sett" loading="lazy" style="width:448px"></div></div>
 
 ## Neighbour map
 

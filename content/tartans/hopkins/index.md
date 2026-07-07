@@ -1,6 +1,9 @@
 ---
 title: "Hopkins"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBBBKBBKBKB](/stripes/bkbbbkbbkbkb/) — the page of every tartan sharing this colour sequence.
 

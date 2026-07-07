@@ -1,6 +1,9 @@
 ---
 title: "Graham"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2db12k12g1t2g16t2g1k12db12k1/)
 (the same proportion at any scale), whose colour order is pattern [KBKGBGBGKBK](/stripes/kbkgbgbgkbk/).
@@ -27,6 +30,22 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Graham** name adjusted Logan's counts: [Graham](/setts/s4/g12k4g1k4~g005020-k101010~x2/); [Graham Dress](/setts/s21/w4b4w60b5w5k30b27k5b30k27g4ba5g66ba5g4k30w5b5w57b4w4~b2c4084-ba3c82af-g005020-k101010-we0e0e0/); [Graham of Airth](/setts/s18/b6k2b6k12b3k13y2g18b3r3b3g18y2k13b15r5b3r5~b5a008c-g005020-k101010-rdc0000-ye8c000~x2/); [Graham of Menteith](/setts/s6/g8b1g1k6ba6k1~b2474e8-ba28287c-g006c3c-k101010~x4/). Compare their thread counts with Logan's above.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/logan-1831/">Logan, The Scottish Gaël (1831)</a></dd>
+<dt>data captured from</dt><dd><a href="https://archive.org/details/scotishgalorcel02logagoog">https://archive.org/details/scotishgalorcel02logagoog</a></dd>
+<dt>data date</dt><dd>1831 <small>(this record)</small></dd>
+<dt>licence</dt><dd>Public domain</dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
+<li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 K/8 DB48 K48 G4 T8 G64 T8 G4 K48 DB48 K/4

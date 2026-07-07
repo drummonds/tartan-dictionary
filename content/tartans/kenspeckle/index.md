@@ -1,6 +1,9 @@
 ---
 title: "Kenspeckle"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRBKW](/stripes/grbkw/) — the page of every tartan sharing this colour sequence.
 

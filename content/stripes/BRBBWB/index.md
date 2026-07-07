@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/">Ewell Castle School</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db4r1db18t18w1t4~x4/">Ewell Castle School</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db4r1db18t18w1t4~x4/"><img src="/variants/s6/db4r1db18t18w1t4~x4/sett.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/">Ewell Castle School</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><img src="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/sett.png" alt="Ewell Castle School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/db35w4db10dr3r3dr3~x4/">Steffen, Markus (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><img src="/variants/s6/db35w4db10dr3r3dr3~x4/sett.png" alt="Steffen, Markus (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

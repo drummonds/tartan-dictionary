@@ -1,6 +1,9 @@
 ---
 title: "Duchess of York"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGGGKGGGW](/stripes/bgggkgggw/) — the page of every tartan sharing this colour sequence.
 

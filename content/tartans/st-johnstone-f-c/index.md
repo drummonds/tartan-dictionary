@@ -1,6 +1,9 @@
 ---
 title: "St. Johnstone F.C."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KWKBYBWBYBKW](/stripes/kwkbybwbybkw/) — the page of every tartan sharing this colour sequence.
 

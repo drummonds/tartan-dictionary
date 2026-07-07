@@ -1,6 +1,11 @@
 ---
 title: "TIlted Kilt"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "TIlted"
+  url: "/tartans/tilted/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r66db2k11y4k2w4k11g2r8k2r8w2/)
 (the same proportion at any scale), whose colour order is pattern [RBKGKWKGRKRW](/stripes/rbkgkwkgrkrw/).
@@ -21,6 +26,22 @@ Earliest known date: 23 August 2012 The Tilted Kilt is a Celtic-themed pub franc
 <li>15/03/2006 — TIlted Kilt (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10682">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000CD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000CD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFE600;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE600"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006400"></span><br><em>The Tilted Kilt is a Celtic-themed pub franchise based in Tempe, Arizona, USA. The tartan is used in staff costume and throughout brand presence. It was designed and the first 2000 metres of it produced by Marton Mills (England). A further 2000-plus metres have since been produced. It has appeared in advertisments, on television and on race cars, boats and other applications. It has also been included in the Tilted Kilt trade dress registration in the US Patent Office.</em></li>
 <li>undated — TIlted Kilt Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10682">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FF0000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #FF0000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#0000CD;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #0000CD"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFE600;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFE600"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#006400;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #006400"></span></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>15/03/2006 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

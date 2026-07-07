@@ -1,6 +1,9 @@
 ---
 title: "Kettles, Ryan & Alan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGKGKBKGKBKGKGKG](/stripes/bgkgkbkgkbkgkgkg/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "MacLean of Duart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean of Duart"
+  url: "/families/maclean-of-duart/"
 ---
 A tartan of the [MacLean of Duart](/families/maclean-of-duart/) family.
 Its design is pattern [BWKGKWKGRWRK](/stripes/bwkgkwkgrwrk/) — the page of every tartan sharing this colour sequence.

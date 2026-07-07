@@ -1,6 +1,13 @@
 ---
 title: "Quigley of Knockcroghery"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Quigley"
+  url: "/clan/quigley/"
+- name: "Quigley of Knockcroghery"
+  url: "/families/quigley-of-knockcroghery/"
 ---
 A tartan of the [Quigley of Knockcroghery](/families/quigley-of-knockcroghery/) family.
 Its design is pattern [BWBGBGBKWGR](/stripes/bwbgbgbkwgr/) — the page of every tartan sharing this colour sequence.

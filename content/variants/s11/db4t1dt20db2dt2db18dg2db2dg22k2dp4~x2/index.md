@@ -1,6 +1,9 @@
 ---
 title: "Heartlands Fancy Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4t1dt20db2dt2db18dg2db2dg22k2dp4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBGBGKBKGBGBBBBB](/stripes/bbbbbbgbgkbkgbgbbbbb/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 2002 Designed by Erica Randall of House of Edgar for MacGregor & MacDuff of 41 Bath Street, Glasgow G2 1HW for use in their kilt hire business. The customer requested that the tartan be based upon the Melville sett. Date of application 6th November 2002. In May 2003 the business was sold by Mr Robert Brown who elected to retain the copyright of this tartan.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DB/8 T2 DT40 DB4 DT4 DB36 DG4 DB4 DG44 K4 DP8 K4 DG44 DB4 DG4 DB36 DT4 DB4 DT40 T/2
@@ -31,7 +50,7 @@ One full sett is **590 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">590</div><div class="nn-name nn-base"><a href="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22k2dp4~x2/">Heartlands Fancy Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22k2dp4~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2&amp;base=db4t1dt20db2dt2db18dg2db2dg22k2dp4~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/">Heartlands</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/sett.png" alt="sett" loading="lazy" style="width:608px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">590</div><div class="nn-name nn-base"><a href="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22k2dp4~x2/">Heartlands Fancy Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22k2dp4~x2/sett.png" alt="sett" loading="lazy" style="width:608px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2&amp;base=db4t1dt20db2dt2db18dg2db2dg22k2dp4~x2" title="compare in the TTD">0.30</a></div><div class="nn-threads">300</div><div class="nn-name"><a href="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/">Heartlands</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db4t1dt20db2dt2db18dg2db2dg22r2dp4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:608px"></div></div>
 
 ## Neighbour map
 

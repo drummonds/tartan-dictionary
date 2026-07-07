@@ -1,6 +1,11 @@
 ---
 title: "Grant D"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
 ---
 A tartan of [Clan Grant](/clan/grant/).
 Its design is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/) — the page of every tartan sharing this colour sequence.

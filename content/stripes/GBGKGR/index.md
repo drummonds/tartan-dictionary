@@ -34,10 +34,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/r4g11k11g2db11dy3~x4/"><img src="/variants/s6/r4g11k11g2db11dy3~x4/sett.png" alt="Casely (Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r2g12k12g1db12g2/">Gunn</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r2g12k12g1db12g2/"><img src="/variants/s6/r2g12k12g1db12g2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/">Gunn</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r2g12k12g1db12g1~x2/">Gunn</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r2g12k12g1db12g1~x2/"><img src="/variants/s6/r2g12k12g1db12g1~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/">Gunn</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r4g12k12g2db12g3~x2/">Gunn - 1810 (Clan)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r4g12k12g2db12g3~x2/"><img src="/variants/s6/r4g12k12g2db12g3~x2/sett.png" alt="Gunn - 1810 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g3db8g3k4g15r2~x2/">Lauder (Family)</a></td></tr>

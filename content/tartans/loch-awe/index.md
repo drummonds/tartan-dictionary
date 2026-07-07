@@ -1,6 +1,9 @@
 ---
 title: "Loch Awe"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GKRBKGRKW](/stripes/gkrbkgrkw/) — the page of every tartan sharing this colour sequence.
 

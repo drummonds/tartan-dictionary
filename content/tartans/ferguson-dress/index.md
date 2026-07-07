@@ -1,6 +1,11 @@
 ---
 title: "Ferguson Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
 ---
 A tartan of [Clan Ferguson](/clan/ferguson/).
 Its design is pattern [BKWRWGW](/stripes/bkwrwgw/) — the page of every tartan sharing this colour sequence.

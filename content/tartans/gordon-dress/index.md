@@ -1,6 +1,11 @@
 ---
 title: "Gordon Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gordon (Duke of Gordon)"
+  url: "/clan/gordon/"
 ---
 A tartan of [Clan Gordon (Duke of Gordon)](/clan/gordon/).
 Its design is pattern [BKBKGYGKWBWBW](/stripes/bkbkgygkwbwbw/) — the page of every tartan sharing this colour sequence.

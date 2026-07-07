@@ -1,6 +1,9 @@
 ---
 title: "Illinois, St Andrews Society"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRBBWBRBWBBRB](/stripes/brbbwbrbwbbrb/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Ritch Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10lr2r14w2r14lr2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/)
 (the same proportion at any scale), whose colour order is pattern [RWRWRWWWBWBWWWGGWGGYRWRYGWGGGWWWWWGGGWGWRWRWBWWGWGWGWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwggwggyrwrygwgggwwwwwgggwgwrwrwbwwgwgwgwwbwrwwwrw/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 1847 An 'Old Superfine Tartan Sett'. Speculation that this sett was designed for weaving in silk seems unlikely. (STS archive)
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 R/12 W4 R6 W4 R40 W4 LB12 W4 DP20 W4 DP20 W4 LB12 W4 DG20 G8 W4 G8 DG20 LR4 R28 W4 R28 LR4 DG6 W4 DG4 Y4 DG4 W4 LB8 W4 LB8 W4 DG4 Y4 DG4 W4 DG6 W4 R28 W4 R28 W4 DP20 LB4 W4 Y8 W4 G8 W4 Y8 W4 LB4 DP20 W4 R40 W4 LB12 W4 R28 W/2

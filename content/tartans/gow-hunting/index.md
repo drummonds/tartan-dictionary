@@ -1,6 +1,9 @@
 ---
 title: "Gow Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBBKGKRKGKGKGK](/stripes/bbbkgkrkgkgkgk/) — the page of every tartan sharing this colour sequence.
 

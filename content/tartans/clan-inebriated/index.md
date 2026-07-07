@@ -1,6 +1,9 @@
 ---
 title: "Clan Inebriated"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBKBBKBBK](/stripes/bbkbbkbbk/) — the page of every tartan sharing this colour sequence.
 

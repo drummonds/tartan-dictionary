@@ -1,6 +1,11 @@
 ---
 title: "Douglas"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Douglas"
+  url: "/clan/douglas/"
 ---
 A tartan of [Clan Douglas](/clan/douglas/).
 Its design is pattern [KWGBW](/stripes/kwgbw/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,13 @@
 ---
 title: "Irving of Glentulchan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Irving"
+  url: "/clan/irving/"
+- name: "Irving of Glentulchan"
+  url: "/families/irving-of-glentulchan/"
 ---
 A tartan of the [Irving of Glentulchan](/families/irving-of-glentulchan/) family.
 Its design is pattern [RGBKBW](/stripes/rgbkbw/) — the page of every tartan sharing this colour sequence.

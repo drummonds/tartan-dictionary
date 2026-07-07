@@ -1,6 +1,11 @@
 ---
 title: "Burnett"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Burnett"
+  url: "/clan/burnett/"
 ---
 A tartan of [Clan Burnett](/clan/burnett/).
 Its design is pattern [GRGRGYGR](/stripes/grgrgygr/) — the page of every tartan sharing this colour sequence.

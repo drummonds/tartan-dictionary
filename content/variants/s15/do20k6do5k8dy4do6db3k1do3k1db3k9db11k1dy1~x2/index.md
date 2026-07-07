@@ -1,6 +1,9 @@
 ---
 title: "Amble"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGBBKBKBKBKG](/stripes/bkbkgbbkbkbkbkg/).
@@ -13,8 +16,24 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10280
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>08/09/2010 — Amble (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10280">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#3C2010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #3C2010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#8B4513;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #8B4513"></span><span style="display:inline-block;width:.85em;height:.85em;background:#007BA7;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #007BA7"></span><br><em>"Amble" - An unhurried walk through wooded fields; a stroll without regard to time. A quiet place to garden in rich soil under blue Alberta skies. A warmth and reassurance that it shall be the same one hundred years hence as it is this moment. Designed using tartan designer software at www.scotweb.co.uk.</em></li>
-<li>8th Sept. 2010 — Amble (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10280/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#906000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #906000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>"Amble" - An unhurried walk through wooded fields; a stroll without regard to time. A quiet place to garden in rich soil under blue Alberta skies. A warmth and reassurance that it shall be the same one hundred years hence as it is this moment. This tartan may only be worn with permission of the designer, Carol A L Martin</em></li>
+<li>8th Sept. 2010 — Amble (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10280">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#441800;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DT #441800"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#906000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #906000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#2C2C80;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="B #2C2C80"></span><br><em>"Amble" - An unhurried walk through wooded fields; a stroll without regard to time. A quiet place to garden in rich soil under blue Alberta skies. A warmth and reassurance that it shall be the same one hundred years hence as it is this moment. This tartan may only be worn with permission of the designer, Carol A L Martin</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>08/09/2010 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

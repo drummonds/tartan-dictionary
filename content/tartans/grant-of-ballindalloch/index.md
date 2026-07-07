@@ -1,6 +1,13 @@
 ---
 title: "Grant of Ballindalloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant of Ballindalloch"
+  url: "/families/grant-of-ballindalloch/"
 ---
 A tartan of the [Grant of Ballindalloch](/families/grant-of-ballindalloch/) family.
 Its design is pattern [BRBRGRBRGRGRBRBRGRGRBRGRBRBR](/stripes/brbrgrbrgrgrbrbrgrgrbrgrbrbr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "MacDonald, Lord of the Isles Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/) — the page of every tartan sharing this colour sequence.
 

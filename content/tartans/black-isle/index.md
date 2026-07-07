@@ -1,6 +1,9 @@
 ---
 title: "Black Isle"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBKBK](/stripes/bkbkbk/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "Hyndman (Omagh)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hyndman"
+  url: "/tartans/hyndman-2/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBGRGKBRBRB](/stripes/brbrbgrgkbrbrb/).
@@ -10,6 +15,22 @@ Part of the [Hyndman](/tartans/hyndman-2/) tartan — the named design grouping 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/weddslist/">Weddslist</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/weddslist/data.csv</a></dd>
+<dt>data date</dt><dd>2016-11-17 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.weddslist.com/tartans/">Weddslist</a><br><small>the living privately compiled reference</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DBi/8 R4 DBi6 R10 DBi24 DG12 O4 DG4 K4 DB18 Ri10 DB4 Ri6 B/3
@@ -44,7 +65,7 @@ Its **ΔTartan distance** from the master is **0.65** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">223</div><div class="nn-name nn-base"><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/">Hyndman (Omagh)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8dr4db6dr10db24dg12ly4dg4k4dt18r10dt4r6lr3~db1406275-dt1204274&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">0.64</a></div><div class="nn-threads">223</div><div class="nn-name"><a href="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/">Hyndman Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">3.50</a></div><div class="nn-threads nn-far2">204</div><div class="nn-name nn-far2"><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/">Salt Lake City Arts Council (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y4dg19dt4dg4dt4dg6dt12db12r15k4r4w4~dt1204274-db1406275&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">3.86</a></div><div class="nn-threads nn-far2">176</div><div class="nn-name nn-far2"><a href="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/">Chattahoochee Commemorative Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:416px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db22r3db2n3k14dg20dy2dg20k14db11do6~x2&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">3.96</a></div><div class="nn-threads nn-far2">412</div><div class="nn-name nn-far2"><a href="/variants/s11/db22r3db2n3k14dg20dy2dg20k14db11do6~x2/">Wisconsin</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db22r3db2n3k14dg20dy2dg20k14db11do6~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">223</div><div class="nn-name nn-base"><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/">Hyndman (Omagh)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db8dr4db6dr10db24dg12ly4dg4k4dt18r10dt4r6lr3~db1406275-dt1204274&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">0.64</a></div><div class="nn-threads">223</div><div class="nn-name"><a href="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/">Hyndman Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">3.50</a></div><div class="nn-threads nn-far2">204</div><div class="nn-name nn-far2"><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/">Salt Lake City Arts Council (Corp)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/sett.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y4dg19dt4dg4dt4dg6dt12db12r15k4r4w4~dt1204274-db1406275&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">3.86</a></div><div class="nn-threads nn-far2">176</div><div class="nn-name nn-far2"><a href="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/">Chattahoochee Commemorative Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/sett-rev.png" alt="sett" loading="lazy" style="width:416px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db22r3db2n3k14dg20dy2dg20k14db11do6~x2&amp;base=dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029" title="compare in the TTD">3.96</a></div><div class="nn-threads nn-far2">412</div><div class="nn-name nn-far2"><a href="/variants/s11/db22r3db2n3k14dg20dy2dg20k14db11do6~x2/">Wisconsin</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/db22r3db2n3k14dg20dy2dg20k14db11do6~x2/sett.png" alt="sett" loading="lazy" style="width:416px"></div></div>
 
 ## Neighbour map
 

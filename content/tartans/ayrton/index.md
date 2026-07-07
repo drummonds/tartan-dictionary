@@ -1,6 +1,11 @@
 ---
 title: "Ayrton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ayrton"
+  url: "/clan/ayrton/"
 ---
 A tartan of [Clan Ayrton](/clan/ayrton/).
 Its design is pattern [GKBKGKWKGKR](/stripes/gkbkgkwkgkr/) — the page of every tartan sharing this colour sequence.

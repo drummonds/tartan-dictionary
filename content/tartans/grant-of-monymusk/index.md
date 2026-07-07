@@ -1,6 +1,13 @@
 ---
 title: "Grant of Monymusk"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant of Monymusk"
+  url: "/families/grant-of-monymusk/"
 ---
 A tartan of the [Grant of Monymusk](/families/grant-of-monymusk/) family.
 Its design is pattern [RGRGRGRBRKRGR](/stripes/rgrgrgrbrkrgr/) — the page of every tartan sharing this colour sequence.

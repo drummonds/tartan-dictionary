@@ -1,6 +1,9 @@
 ---
 title: "Fitzpatrick"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [WGWGWGBKBKW](/stripes/wgwgwgbkbkw/) — the page of every tartan sharing this colour sequence.
 

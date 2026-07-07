@@ -1,6 +1,11 @@
 ---
 title: "Watkins"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Watkins"
+  url: "/clan/watkins/"
 ---
 A tartan of [Clan Watkins](/clan/watkins/).
 Its design is pattern [GBBBWBGBGGGBGBBGBGG](/stripes/gbbbwbgbgggbgbbgbgg/) — the page of every tartan sharing this colour sequence.

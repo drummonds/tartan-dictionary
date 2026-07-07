@@ -1,6 +1,13 @@
 ---
 title: "Moray of Abercairney"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Moray"
+  url: "/clan/moray/"
+- name: "Moray of Abercairney"
+  url: "/families/moray-of-abercairney/"
 ---
 A tartan of the [Moray of Abercairney](/families/moray-of-abercairney/) family.
 Its design is pattern [BWKRBGRWB](/stripes/bwkrbgrwb/) — the page of every tartan sharing this colour sequence.

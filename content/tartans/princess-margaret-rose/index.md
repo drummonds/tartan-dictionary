@@ -1,6 +1,9 @@
 ---
 title: "Princess Margaret Rose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRGRKW](/stripes/grgrkw/) — the page of every tartan sharing this colour sequence.
 

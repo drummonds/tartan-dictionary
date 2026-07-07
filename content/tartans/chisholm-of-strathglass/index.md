@@ -1,6 +1,13 @@
 ---
 title: "Chisholm of Strathglass"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Chisholm"
+  url: "/clan/chisholm/"
+- name: "Chisholm of Strathglass"
+  url: "/families/chisholm-of-strathglass/"
 ---
 A tartan of the [Chisholm of Strathglass](/families/chisholm-of-strathglass/) family.
 Its design is pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "Forsyth"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KGGKBR](/stripes/kggkbr/) — the page of every tartan sharing this colour sequence.
 

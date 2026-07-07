@@ -1,6 +1,9 @@
 ---
 title: "Commonwealth Games 1986"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWBWBWBWBWR](/stripes/bwbwbwbwbwr/) — the page of every tartan sharing this colour sequence.
 

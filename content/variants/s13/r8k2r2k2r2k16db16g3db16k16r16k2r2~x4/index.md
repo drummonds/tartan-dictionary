@@ -1,6 +1,13 @@
 ---
 title: "MacLachlan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLachlan"
+  url: "/clan/maclachlan/"
+- name: "MacLachlan"
+  url: "/tartans/maclachlan/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8k2r2k2r2k16db16g3db16k16r16k2r2/)
 (the same proportion at any scale), whose colour order is pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
@@ -29,6 +36,22 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **MacLachlan** name adjusted Logan's counts: [MacLachlan](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2~b202060-g006818-k101010-rc80000~x2/); [MacLachlan #2](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2~b2c4084-g005020-k101010-rdc0000~x2/); [MacLachlan #3](/setts/s15/r12k2r2k2r2k10b10k1g3k1b12k10r12k2r2~b2c4084-g005020-k101010-rdc0000~x2/); [MacLachlan #4](/setts/s7/r24w2y3g16k16w2y3~g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/). Compare their thread counts with Logan's above.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/logan-1831/">Logan, The Scottish Gaël (1831)</a></dd>
+<dt>data captured from</dt><dd><a href="https://archive.org/details/scotishgalorcel02logagoog">https://archive.org/details/scotishgalorcel02logagoog</a></dd>
+<dt>data date</dt><dd>1831 <small>(this record)</small></dd>
+<dt>licence</dt><dd>Public domain</dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
+<li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 R/32 K8 R8 K8 R8 K64 DB64 G12 DB64 K64 R64 K8 R/8

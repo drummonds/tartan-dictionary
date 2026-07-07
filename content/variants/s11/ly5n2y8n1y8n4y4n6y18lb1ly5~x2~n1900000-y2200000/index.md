@@ -1,13 +1,32 @@
 ---
 title: "Bute Heather, Ancient Wth'd (Fashion"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly5n2y8n1y8n4y4n6y18lb1ly5/)
 (the same proportion at any scale), whose colour order is pattern [YBGBGBGBGWY](/stripes/ybgbgbgbgwy/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7247/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7247
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>pre 2007 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **228 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">228</div><div class="nn-name nn-base"><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/">Bute Heather, Ancient Wth'd (Fashion</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">3.83</a></div><div class="nn-threads nn-far2">352</div><div class="nn-name nn-far2"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">3.93</a></div><div class="nn-threads nn-far2">246</div><div class="nn-name nn-far2"><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/">Lister (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do2n4dg12n3do6t2n24do2n2dg2~x2&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">228</div><div class="nn-name nn-far2"><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/">Wicklow Irish County Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do1n2g6n1do3lb1n12do1n1g1~x4&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">4.00</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">228</div><div class="nn-name nn-base"><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/">Bute Heather, Ancient Wth'd (Fashion</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">3.83</a></div><div class="nn-threads nn-far2">352</div><div class="nn-name nn-far2"><a href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/">Howells</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">3.93</a></div><div class="nn-threads nn-far2">246</div><div class="nn-name nn-far2"><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/">Lister (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do2n4dg12n3do6t2n24do2n2dg2~x2&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">228</div><div class="nn-name nn-far2"><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/">Wicklow Irish County Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=do1n2g6n1do3lb1n12do1n1g1~x4&amp;base=ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000" title="compare in the TTD">4.00</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/">Wicklow, County (District)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

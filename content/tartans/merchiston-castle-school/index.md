@@ -1,6 +1,9 @@
 ---
 title: "Merchiston Castle School"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KWKWRWKWKBR](/stripes/kwkwrwkwkbr/) — the page of every tartan sharing this colour sequence.
 

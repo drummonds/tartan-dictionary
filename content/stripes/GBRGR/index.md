@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s5/r2g17r8db8y2~x4/">British Hills</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r2g17r8db8y2~x4/"><img src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="British Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/r5dg3r18db18dg3~x4/">Wotherspoon</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/r5dg3r18db18dg3~x4/"><img src="/variants/s5/r5dg3r18db18dg3~x4/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s5/r12g8r54db45g6/">Wotherspoon</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/r12g8r54db45g6/"><img src="/variants/s5/r12g8r54db45g6/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s5/r5dg3r18db18dg3~x4/">Wotherspoon</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/r5dg3r18db18dg3~x4/"><img src="/variants/s5/r5dg3r18db18dg3~x4/sett.png" alt="Wotherspoon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

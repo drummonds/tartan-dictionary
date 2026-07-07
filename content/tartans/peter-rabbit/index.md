@@ -1,6 +1,11 @@
 ---
 title: "Peter Rabbit™"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Peter"
+  url: "/clan/peter/"
 ---
 A tartan of [Clan Peter](/clan/peter/).
 Its design is pattern [RWWWWWWWYY](/stripes/rwwwwwwwyy/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "Urquhart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWBKBKBKGKGR](/stripes/bwbkbkbkgkgr/) — the page of every tartan sharing this colour sequence.
 

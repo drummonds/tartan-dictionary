@@ -1,6 +1,13 @@
 ---
 title: "Fuller of Hopewell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fuller"
+  url: "/clan/fuller/"
+- name: "Fuller of Hopewell"
+  url: "/families/fuller-of-hopewell/"
 ---
 A tartan of the [Fuller of Hopewell](/families/fuller-of-hopewell/) family.
 Its design is pattern [GRWBKWK](/stripes/grwbkwk/) — the page of every tartan sharing this colour sequence.

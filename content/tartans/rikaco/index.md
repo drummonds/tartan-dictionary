@@ -1,6 +1,9 @@
 ---
 title: "Rikaco"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BWBRBRBGWR](/stripes/bwbrbrbgwr/) — the page of every tartan sharing this colour sequence.
 

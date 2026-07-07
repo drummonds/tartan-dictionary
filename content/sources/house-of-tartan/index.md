@@ -13,10 +13,10 @@ A weaver/retailer's tartan database of woven setts.
 | **Status** | active — contributes data to the build |
 | **Kind** | tartan setts (thread counts) |
 | **Records** | 2152 |
-| **Source** | — |
-| **Attribution** | Data: House of Tartan, via kravets-levko/tartan-database |
+| **Source** | [http://www.house-of-tartan.scotland.net/](http://www.house-of-tartan.scotland.net/) |
+| **Attribution** | Data: House of Tartan, via thetartan/tartan-database (Levko Kravets, 2016-2017 snapshot) |
 | **Licence** | CC BY-NC-ND 4.0 |
-| **Snapshot** | https://github.com/kravets-levko/tartan-database @ 5bf86c756693 |
+| **Snapshot** | https://github.com/thetartan/tartan-database @ 5bf86c756693 |
 
 Creative Commons Non-Commercial No-Derivatives
 

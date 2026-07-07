@@ -1,6 +1,13 @@
 ---
 title: "Lloyd of Dolobran"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan LLoyd"
+  url: "/clan/lloyd/"
+- name: "Lloyd of Dolobran"
+  url: "/families/lloyd-of-dolobran/"
 ---
 A tartan of the [Lloyd of Dolobran](/families/lloyd-of-dolobran/) family.
 Its design is pattern [BKBKGRGKGWGKGWGKGRGKBK](/stripes/bkbkgrgkgwgkgwgkgrgkbk/) — the page of every tartan sharing this colour sequence.

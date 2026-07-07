@@ -1,6 +1,11 @@
 ---
 title: "MacAlister"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAlister"
+  url: "/clan/macalister/"
 ---
 A tartan of [Clan MacAlister](/clan/macalister/).
 Its design is pattern [RGGRWRWRWRGRWRWRGRWRWRGRWRWRBRWRGGRGGRWRBRWR](/stripes/rggrwrwrwrgrwrwrgrwrwrgrwrwrbrwrggrggrwrbrwr/) — the page of every tartan sharing this colour sequence.

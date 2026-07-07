@@ -1,6 +1,9 @@
 ---
 title: "Pubcrawlers, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3r16n5dy22g2dy4w3/)
 (the same proportion at any scale), whose colour order is pattern [GRBGGGW](/stripes/grbgggw/).
@@ -19,6 +22,22 @@ Earliest known date: 06/08/2012 With over a decade of performing, the Pubcrawler
 <li>06/08/2012 — Pubcrawlers, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10668">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#DFAF00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #DFAF00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680D0D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #680D0D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1E1E1E;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #1E1E1E"></span><span style="display:inline-block;width:.85em;height:.85em;background:#846247;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #846247"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1B3B1D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #1B3B1D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DFDFDF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #DFDFDF"></span><br><em>With over a decade of performing, the Pubcrawlers have firmly established themselves as a brand as well as a musical group, and the muted earthen tones of the Pubcrawler tartan reflect the colour palette that has come to be associated with both. Working together with members of the band, USA Kilts have crafted a tartan that represents not only the colours that have been the Pubcrawlers' trademark since 2002 (originally chosen as an amalgamation of the colours of several members' family tartans), but their physical location as well, having woven into the pattern the coordinates of Portland, Maine, the city that the band calls home. The Pubcrawlers take great pride in their tartan and will happily permit it to be worn by any members, friends, family and supporters of the band.</em></li>
 <li>undated — Pubcrawlers, The Corporate Tartan (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10668">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#DFAF00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #DFAF00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#680D0D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="R #680D0D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1E1E1E;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #1E1E1E"></span><span style="display:inline-block;width:.85em;height:.85em;background:#846247;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="T #846247"></span><span style="display:inline-block;width:.85em;height:.85em;background:#1B3B1D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="G #1B3B1D"></span><span style="display:inline-block;width:.85em;height:.85em;background:#DFDFDF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #DFDFDF"></span></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>06/08/2012 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

@@ -1,6 +1,13 @@
 ---
 title: "Fraser of Lovat"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser of Lovat"
+  url: "/families/fraser-of-lovat/"
 ---
 A tartan of the [Fraser of Lovat](/families/fraser-of-lovat/) family.
 Its design is pattern [BRBGRWRGRBRB](/stripes/brbgrwrgrbrb/) — the page of every tartan sharing this colour sequence.

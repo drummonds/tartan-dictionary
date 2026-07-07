@@ -1,6 +1,13 @@
 ---
 title: "Murray of Tullibardine"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Tullibardine"
+  url: "/families/murray-of-tullibardine/"
 ---
 A tartan of the [Murray of Tullibardine](/families/murray-of-tullibardine/) family.
 Its design is pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/) — the page of every tartan sharing this colour sequence.

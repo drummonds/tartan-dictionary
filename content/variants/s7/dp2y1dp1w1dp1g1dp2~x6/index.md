@@ -1,6 +1,13 @@
 ---
 title: "Justus International Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Justus International"
+  url: "/tartans/justus-international/"
+- name: "Justus International"
+  url: "/setts/dp2y1dp1w1dp1g1dp2/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2y1dp1w1dp1g1dp2/)
 (the same proportion at any scale), whose colour order is pattern [BGBWBGB](/stripes/bgbwbgb/).
@@ -14,6 +21,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: pre 2003 Y = Saffron. Seen at Grandfather Mountain Games by Bob Martin in 1981 or 1982
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DP/12 Y6 DP6 W6 DP6 G6 DP/12
@@ -48,7 +71,7 @@ Its **ΔTartan distance** from the master is **0.07** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">84</div><div class="nn-name nn-base"><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Justus International Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp2y1dp1w1dp1g1dp2~x24&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">0.00</a></div><div class="nn-threads">336</div><div class="nn-name"><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/">Justus International</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp2dg1dp1w1dp1y1dp2~x24&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">0.07</a></div><div class="nn-threads">336</div><div class="nn-name"><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/">Justus International (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp2dg1dp1w1dp1y1dp2~x24~w4000000&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">0.07</a></div><div class="nn-threads">336</div><div class="nn-name"><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w4000000/">Justus International (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w4000000/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g22dp22g3dp11w3dp4w3~x2&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">2.03</a></div><div class="nn-threads nn-far">222</div><div class="nn-name nn-far"><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/">O'Long (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">84</div><div class="nn-name nn-base"><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/">Justus International Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/dp2y1dp1w1dp1g1dp2~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp2y1dp1w1dp1g1dp2~x24&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">0.00</a></div><div class="nn-threads">336</div><div class="nn-name"><a href="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/">Justus International</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp2y1dp1w1dp1g1dp2~x24/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp2dg1dp1w1dp1y1dp2~x24&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">0.07</a></div><div class="nn-threads">336</div><div class="nn-name"><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/">Justus International (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dp2dg1dp1w1dp1y1dp2~x24~w4000000&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">0.07</a></div><div class="nn-threads">336</div><div class="nn-name"><a href="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w4000000/">Justus International (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dp2dg1dp1w1dp1y1dp2~x24~w4000000/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g22dp22g3dp11w3dp4w3~x2&amp;base=dp2y1dp1w1dp1g1dp2~x6" title="compare in the TTD">2.03</a></div><div class="nn-threads nn-far">222</div><div class="nn-name nn-far"><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/">O'Long (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/g22dp22g3dp11w3dp4w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

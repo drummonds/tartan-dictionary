@@ -1,6 +1,11 @@
 ---
 title: "Shaw"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
 ---
 A tartan of [Clan Shaw](/clan/shaw/).
 Its design is pattern [BRGRBRKW](/stripes/brgrbrkw/) — the page of every tartan sharing this colour sequence.

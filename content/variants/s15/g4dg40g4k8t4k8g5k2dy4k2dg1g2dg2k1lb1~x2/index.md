@@ -1,6 +1,9 @@
 ---
 title: "Eastern Shore Police Emerald So Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1/)
 (the same proportion at any scale), whose colour order is pattern [GGGKBKGKGKGGGKW](/stripes/gggkbkgkgkgggkw/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 13 August 2012 The Eastern Shore Police Emerald Society was founded in March of 2011. It is a non-profit making Irish/Gaelic cultural organization that supports law enforcement officers and organizations on the Delmarva Peninsula of Maryland. The Eastern Shore Police Emerald Society's mission is to develop the spirit of fraternalism and fellowship amongst members, to encourage active participation in community activities, to encourage and enhance professionalism within the law enforcement profession to better serve the community and to promote shared Irish heritage and customs. This tartan was designed to represent these goals. The tartan begins with four fields of emerald green at the centre that represent the four provinces of Ireland. The black, blue and black striping surrounding the four fields of dark green symbolises the thin blue line that is the internationally recognized phrase for the police profession and those whom they protect. The black, gold and black striping surrounding the edge of the tartan is representative of the family coat of arms of the Calvert family, as Maryland was founded by Cecilius Calvert, the second Baron of Baltimore. The small stripe of silver at the centre of this border represents the silver badges associated with the rank and file of law enforcement. Members and supporters of the Eastern Shore Police Emerald Society are permitted and encouraged to wear the Eastern Shore Police Emerald Society Tartan.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 G/8 DG80 G8 K16 T8 K16 G10 K4 DY8 K4 DG2 G4 DG4 K2 LB/2

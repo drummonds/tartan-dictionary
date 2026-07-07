@@ -1,6 +1,11 @@
 ---
 title: "Mackay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackay"
+  url: "/clan/mackay/"
 ---
 A tartan of [Clan Mackay](/clan/mackay/).
 Its design is pattern [BKBKBR](/stripes/bkbkbr/) — the page of every tartan sharing this colour sequence.

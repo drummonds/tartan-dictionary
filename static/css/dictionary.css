@@ -59,6 +59,34 @@ body.container a {
   color: #1a4f8b;
 }
 
+/* Breadcrumb trail (#133/#146): the way UP the model's ladder — on a variant page Home › Clan ›
+   Family › Tartan › Sett, on a named-tartan page Home › super group (clan) › group (family) —
+   each crumb a link, rendered from front matter by the shared crumbs partial.
+   Always one line: flex with hidden overflow, and each crumb may shrink and ellipsize
+   independently — except Home (the non-negotiable way back to the root) and the separators,
+   which keep their full width. */
+.crumbs {
+  display: flex;
+  align-items: baseline;
+  gap: .35em;
+  font-size: .85em;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0 0 .6em;
+}
+.crumbs a {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.crumbs a:first-child,
+.crumbs .crumb-sep {
+  flex-shrink: 0;
+}
+.crumbs .crumb-sep {
+  color: #888;
+}
+
 /* Band summary: a responsive card grid (was a markdown table whose patterns column blew out to
    the width of the longest sett). Each card's sample swatches flex-wrap within the card. Shared by
    the /bands/ and /stripes/ indexes — both emit `band-summary` cards with a `.count` link over a
@@ -596,6 +624,49 @@ details.attestations summary {
 }
 details.attestations ul {
   margin: .5rem 0 0 1.2rem;
+}
+
+/* ------- sett page: dataset provenance (#74) -------
+   The dataset-level provenance the record inherits from its source manifest — source, data date,
+   licence, and the capture chain (the hands the data passed through, oldest first, each capture
+   under its own licence). Secondary matter: a closed <details> like the attestations. */
+details.dataset {
+  margin: 1rem 0;
+}
+details.dataset summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+details.dataset summary small,
+details.dataset .chain-lead small {
+  color: #777;
+  font-weight: 400;
+}
+dl.dataset-prov {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: .15rem .8rem;
+  margin: .5rem 0 0;
+  font-size: .9rem;
+}
+dl.dataset-prov dt {
+  color: #777;
+}
+dl.dataset-prov dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+details.dataset .chain-lead {
+  margin: .6rem 0 0;
+  font-size: .9rem;
+  font-weight: 600;
+}
+ol.capture-chain {
+  margin: .3rem 0 0 1.4rem;
+  font-size: .9rem;
+}
+ol.capture-chain small {
+  color: #777;
 }
 
 /* ------- pattern page (/stripes/<SEQ>/) -------

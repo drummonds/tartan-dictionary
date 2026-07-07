@@ -1,6 +1,9 @@
 ---
 title: "Daks"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KGKGBKKKKKK](/stripes/kgkgbkkkkkk/) — the page of every tartan sharing this colour sequence.
 

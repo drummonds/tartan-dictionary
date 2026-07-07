@@ -1,6 +1,13 @@
 ---
 title: "MacGregor of Cardney"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor of Cardney"
+  url: "/families/macgregor-of-cardney/"
 ---
 A tartan of the [MacGregor of Cardney](/families/macgregor-of-cardney/) family.
 Its design is pattern [RGRGKW](/stripes/rgrgkw/) — the page of every tartan sharing this colour sequence.

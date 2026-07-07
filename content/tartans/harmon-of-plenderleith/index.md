@@ -1,6 +1,13 @@
 ---
 title: "Harmon of Plenderleith"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harmon"
+  url: "/clan/harmon/"
+- name: "Harmon of Plenderleith"
+  url: "/families/harmon-of-plenderleith/"
 ---
 A tartan of the [Harmon of Plenderleith](/families/harmon-of-plenderleith/) family.
 Its design is pattern [GBGBGBKBBBGBBGBGBK](/stripes/gbgbgbkbbbgbbgbgbk/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,11 @@
 ---
 title: "James"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan James"
+  url: "/clan/james/"
 ---
 A tartan of [Clan James](/clan/james/).
 Its design is pattern [RKGGGBY](/stripes/rkgggby/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "Grand Lodge of Canada"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKRKBKRBRKGKRKBRKRKRBKRKGKRBRKBKRK](/stripes/bkrkbkrbrkgkrkbrkrkrbkrkgkrbrkbkrk/) — the page of every tartan sharing this colour sequence.
 

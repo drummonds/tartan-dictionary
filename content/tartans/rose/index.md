@@ -1,6 +1,11 @@
 ---
 title: "Rose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rose"
+  url: "/clan/rose/"
 ---
 A tartan of [Clan Rose](/clan/rose/).
 Its design is pattern [GRBRBRBRW](/stripes/grbrbrbrw/) — the page of every tartan sharing this colour sequence.

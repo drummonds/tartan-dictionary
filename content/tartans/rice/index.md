@@ -1,6 +1,11 @@
 ---
 title: "Rice"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rice"
+  url: "/clan/rice/"
 ---
 A tartan of [Clan Rice](/clan/rice/).
 Its design is pattern [YBYBGBGBGY](/stripes/ybybgbgbgy/) — the page of every tartan sharing this colour sequence.

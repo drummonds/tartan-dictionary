@@ -1,6 +1,9 @@
 ---
 title: "Dean/Dundas"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RKWKGBKGW](/stripes/rkwkgbkgw/) — the page of every tartan sharing this colour sequence.
 

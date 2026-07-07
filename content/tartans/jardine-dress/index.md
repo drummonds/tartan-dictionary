@@ -1,6 +1,11 @@
 ---
 title: "Jardine Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
 ---
 A tartan of [Clan Jardine,](/clan/jardine/).
 Its design is pattern [KRKRKYBYKGKGKYBYKRKRKR](/stripes/krkrkybykgkgkybykrkrkr/) — the page of every tartan sharing this colour sequence.

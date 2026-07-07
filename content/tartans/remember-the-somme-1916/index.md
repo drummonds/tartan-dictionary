@@ -1,6 +1,9 @@
 ---
 title: "Remember the Somme 1916"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGWBBBGG](/stripes/bgwbbbgg/) — the page of every tartan sharing this colour sequence.
 

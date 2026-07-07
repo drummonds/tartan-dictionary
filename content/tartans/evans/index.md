@@ -1,6 +1,11 @@
 ---
 title: "Evans"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Evans"
+  url: "/clan/evans/"
 ---
 A tartan of [Clan Evans](/clan/evans/).
 Its design is pattern [RKBKBKBKBKW](/stripes/rkbkbkbkbkw/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "Blairgowrie Berries and Cherries"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGRRB](/stripes/bgrrb/) — the page of every tartan sharing this colour sequence.
 

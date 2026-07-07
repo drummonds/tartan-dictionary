@@ -1,6 +1,13 @@
 ---
 title: "Alexander of Menstry"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Alexander"
+  url: "/clan/alexander/"
+- name: "Alexander of Menstry"
+  url: "/families/alexander-of-menstry/"
 ---
 A tartan of the [Alexander of Menstry](/families/alexander-of-menstry/) family.
 Its design is pattern [GRGRKYBW](/stripes/grgrkybw/) — the page of every tartan sharing this colour sequence.

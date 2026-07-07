@@ -1,6 +1,11 @@
 ---
 title: "Cladish Weavers Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cladish"
+  url: "/setts/y10lo5y54lo2w32ly54t4ly10/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y10lo5y54lo2w32ly54t4ly10/)
 (the same proportion at any scale), whose colour order is pattern [GYGYWYBY](/stripes/gygywyby/).
@@ -12,6 +17,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: pre 2003 From the Marton Mills Keighly range (5.5oz polyester/cotton).
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 Y/10 LO5 Y54 LO2 W32 LY54 T4 LY/10
@@ -31,7 +52,7 @@ One full sett is **322 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">322</div><div class="nn-name nn-base"><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10~ly2503076/">Cladish Weavers Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/y10lo5y54lo2w32ly54t4ly10~ly2503076/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y10lo5y54lo2w32ly54t4ly10&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">0.12</a></div><div class="nn-threads">322</div><div class="nn-name"><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/">Cladish</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y10lo5y54lo2w32ly54t4ly10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g2do13g11ly5do1o21g2dy1~x2~ly3407090-o2503076&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">3.66</a></div><div class="nn-threads nn-far2">218</div><div class="nn-name nn-far2"><a href="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/">St. Lawrence #2 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lr3lb3lr1y25lr15r5lb4dy2~x2&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">222</div><div class="nn-name nn-far2"><a href="/variants/s8/lr3lb3lr1y25lr15r5lb4dy2~x2/">Rikaco Morning Dew #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lr3lb3lr1y25lr15r5lb4dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb30db1w4n10y18~x2&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">156</div><div class="nn-name nn-far2"><a href="/variants/s5/lb30db1w4n10y18~x2/">Alloway Primary School (Ayr)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lb30db1w4n10y18~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">322</div><div class="nn-name nn-base"><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10~ly2503076/">Cladish Weavers Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/y10lo5y54lo2w32ly54t4ly10~ly2503076/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y10lo5y54lo2w32ly54t4ly10&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">0.12</a></div><div class="nn-threads">322</div><div class="nn-name"><a href="/variants/s8/y10lo5y54lo2w32ly54t4ly10/">Cladish</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/y10lo5y54lo2w32ly54t4ly10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=g2do13g11ly5do1o21g2dy1~x2~ly3407090-o2503076&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">3.66</a></div><div class="nn-threads nn-far2">218</div><div class="nn-name nn-far2"><a href="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/">St. Lawrence #2 (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lr3lb3lr1y25lr15r5lb4dy2~x2&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">3.74</a></div><div class="nn-threads nn-far2">222</div><div class="nn-name nn-far2"><a href="/variants/s8/lr3lb3lr1y25lr15r5lb4dy2~x2/">Rikaco Morning Dew #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/lr3lb3lr1y25lr15r5lb4dy2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=lb30db1w4n10y18~x2&amp;base=y10lo5y54lo2w32ly54t4ly10~ly2503076" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">156</div><div class="nn-name nn-far2"><a href="/variants/s5/lb30db1w4n10y18~x2/">Alloway Primary School (Ayr)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/lb30db1w4n10y18~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

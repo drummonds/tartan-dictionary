@@ -1,6 +1,13 @@
 ---
 title: "Newlands of Lauriston"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Newlands"
+  url: "/clan/newlands/"
+- name: "Newlands of Lauriston"
+  url: "/families/newlands-of-lauriston/"
 ---
 A tartan of the [Newlands of Lauriston](/families/newlands-of-lauriston/) family.
 Its design is pattern [BKBRKGRGRG](/stripes/bkbrkgrgrg/) — the page of every tartan sharing this colour sequence.

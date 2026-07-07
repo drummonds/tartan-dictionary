@@ -1,6 +1,9 @@
 ---
 title: "Mack of Stoneywood Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db80dr1db2dr1db6dr10db1dr7/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBB](/stripes/bbbbbbbb/).
@@ -13,8 +16,24 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>24/01/2008 — Mack of Stoneywood Dress (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#000080;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #000080"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E3170D;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #E3170D"></span><br><em>This sett embodies two elements from tartans associated with Charles Mack of Stoneywood, Baron of Stoneywood, Fraser and Hume. Fraser are connected with the area of Stoneywood near Aberdeen (Grampian) and Hume is a Borders Clan with connections to the Mack going back as early as 10th Century.</em></li>
-<li>Feb 2008 — Mack of Stoneywood Dress (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10795/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This sett embodies two elements from tartans associated with Charles Mack of Stoneywood, Baron of Stoneywood, Fraser and Hume. Fraser are connected with the area of Stoneywood near Aberdeen (Grampian) and Hume is a Borders Clan with connections to the Mack going back as early as 10th Century. Designed for his personal use but others of the name and/or the area of the Barony will no doubt be given permission to wear it.</em></li>
+<li>Feb 2008 — Mack of Stoneywood Dress (Personal) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#202060;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DB #202060"></span><span style="display:inline-block;width:.85em;height:.85em;background:#880000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="DR #880000"></span><br><em>This sett embodies two elements from tartans associated with Charles Mack of Stoneywood, Baron of Stoneywood, Fraser and Hume. Fraser are connected with the area of Stoneywood near Aberdeen (Grampian) and Hume is a Borders Clan with connections to the Mack going back as early as 10th Century. Designed for his personal use but others of the name and/or the area of the Barony will no doubt be given permission to wear it.</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>24/01/2008 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

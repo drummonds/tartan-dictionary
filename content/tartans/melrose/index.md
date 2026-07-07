@@ -1,6 +1,11 @@
 ---
 title: "Melrose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Melrose"
+  url: "/clan/melrose/"
 ---
 A tartan of [Clan Melrose](/clan/melrose/).
 Its design is pattern [GKBBBBBBBBKGBGBGKW](/stripes/gkbbbbbbbbkgbgbgkw/) — the page of every tartan sharing this colour sequence.

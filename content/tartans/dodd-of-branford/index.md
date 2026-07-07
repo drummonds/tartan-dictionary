@@ -1,6 +1,13 @@
 ---
 title: "Dodd of Branford"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dodd"
+  url: "/clan/dodd/"
+- name: "Dodd of Branford"
+  url: "/families/dodd-of-branford/"
 ---
 A tartan of the [Dodd of Branford](/families/dodd-of-branford/) family.
 Its design is pattern [GBGBKBWYK](/stripes/gbgbkbwyk/) — the page of every tartan sharing this colour sequence.

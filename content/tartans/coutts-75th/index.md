@@ -1,6 +1,9 @@
 ---
 title: "Coutts 75th"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBKBKBKWKRKWBKBKBKBKGKGKGKGKWGWGKGKGKGK](/stripes/bkbkbkbkwkrkwbkbkbkbkgkgkgkgkwgwgkgkgkgk/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "Anderson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
 ---
 A tartan of [Clan Anderson](/clan/anderson/).
 Its design is pattern [RGRGRBRKGKGKWKWRKRWR](/stripes/rgrgrbrkgkgkwkwrkrwr/) — the page of every tartan sharing this colour sequence.

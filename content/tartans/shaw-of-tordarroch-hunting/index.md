@@ -1,6 +1,13 @@
 ---
 title: "Shaw of Tordarroch, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw of Tordarroch"
+  url: "/families/shaw-of-tordarroch/"
 ---
 A tartan of the [Shaw of Tordarroch](/families/shaw-of-tordarroch/) family.
 Its design is pattern [BRGRBGKW](/stripes/brgrbgkw/) — the page of every tartan sharing this colour sequence.

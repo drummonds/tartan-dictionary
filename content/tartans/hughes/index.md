@@ -1,6 +1,11 @@
 ---
 title: "Hughes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hughes"
+  url: "/clan/hughes/"
 ---
 A tartan of [Clan Hughes](/clan/hughes/).
 Its design is pattern [GGBGBKW](/stripes/ggbgbkw/) — the page of every tartan sharing this colour sequence.

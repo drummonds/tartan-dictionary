@@ -1,6 +1,6 @@
 /* Service worker — render via the weaver wasm engine on demand. Two jobs:
  *
- *  1. A missing sett.png / tartan.png. Network-first and fallback-only: if the statically generated
+ *  1. A missing sett.png / sett-rev.png / tartan.png. Network-first and fallback-only: if the statically generated
  *     image exists it is served unchanged. Only a miss — the build's skipped (>10s render) or
  *     weave-capped thumbnails, and the read-only/dynamic sett pages that never had a file — falls
  *     through to a live render. So no page loses an image it used to have, and no-JS reading is
@@ -25,7 +25,7 @@
 importScripts('/wasm/wasm_exec.js');
 
 var WASM = '/wasm/weaver.wasm';
-var IMG = /\/(sett|tartan)\.png$/;
+var IMG = /\/(sett-rev|sett|tartan)\.png$/; // sett-rev before sett: the alternation must claim the longer leaf
 var XTTD = /^\/x\/ttd\/page$/;
 var enginePromise = null;
 
@@ -70,7 +70,11 @@ function render(url) {
   var width = parseInt(url.searchParams.get('w'), 10) || 480;
   var tpcm = parseFloat(url.searchParams.get('tpcm')) || 0;
   return engine().then(function (w) {
-    var png = kind === 'sett' ? w.renderSett(slug, 1000, 64) : w.renderWoven(slug, width, tpcm);
+    // sett-rev is the other-pivot cut of a reflective closed strip (#142) — a mirrored
+    // nearest-table row's swatch; prerendered files serve first, this covers the misses.
+    var png = kind === 'sett' ? w.renderSett(slug, 1000, 64)
+      : kind === 'sett-rev' ? w.renderSettRev(slug, 1000, 64)
+      : w.renderWoven(slug, width, tpcm);
     if (!png || png.error) return new Response((png && png.error) || 'render failed', { status: 422 });
     return new Response(png, { headers: { 'Content-Type': 'image/png', 'Cache-Control': 'no-store' } });
   }).catch(function (err) {
@@ -99,10 +103,10 @@ function renderPage(url) {
   });
 }
 
-/* The path leaf is the slug for an ordinary sett: /setts/s<n>/<slug>/{sett,tartan}.png. The leaf
+/* The path leaf is the slug for an ordinary sett: /variants/s<n>/<slug>/{sett,sett-rev,tartan}.png. The leaf
  * can carry the ~xN scale and other slug characters, so take it whole; a hashed-leaf sett's opaque
  * name simply won't decode (parseSlug rejects it) and falls back to ?s=. */
 function slugFromPath(p) {
-  var m = /\/variants\/s\d+\/([^/]+)\/(?:sett|tartan)\.png$/.exec(p);
+  var m = /\/variants\/s\d+\/([^/]+)\/(?:sett-rev|sett|tartan)\.png$/.exec(p);
   return m ? decodeURIComponent(m[1]) : null;
 }

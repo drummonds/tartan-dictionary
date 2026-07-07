@@ -1,6 +1,9 @@
 ---
 title: "Dobson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GGGBKG](/stripes/gggbkg/) — the page of every tartan sharing this colour sequence.
 

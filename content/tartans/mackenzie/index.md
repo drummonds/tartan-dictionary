@@ -1,6 +1,11 @@
 ---
 title: "MacKenzie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKenzie"
+  url: "/clan/mackenzie/"
 ---
 A tartan of [Clan MacKenzie](/clan/mackenzie/).
 Its design is pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/) — the page of every tartan sharing this colour sequence.

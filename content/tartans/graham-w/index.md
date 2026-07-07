@@ -1,6 +1,11 @@
 ---
 title: "Graham W"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
 ---
 A tartan of [Clan Graham](/clan/graham/).
 Its design is pattern [GWGKBK](/stripes/gwgkbk/) — the page of every tartan sharing this colour sequence.

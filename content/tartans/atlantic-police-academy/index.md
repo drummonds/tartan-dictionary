@@ -1,6 +1,9 @@
 ---
 title: "Atlantic Police Academy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRBWYK](/stripes/grbwyk/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Kinnoull"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgwgw/) — the page of every tartan sharing this colour sequence.
 

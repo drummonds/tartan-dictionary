@@ -1,6 +1,11 @@
 ---
 title: "Montrose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Montrose"
+  url: "/clan/montrose/"
 ---
 A tartan of [Clan Montrose](/clan/montrose/).
 Its design is pattern [BKBBKGBKB](/stripes/bkbbkgbkb/) — the page of every tartan sharing this colour sequence.

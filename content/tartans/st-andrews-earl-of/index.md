@@ -1,6 +1,9 @@
 ---
 title: "St Andrews, Earl of"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKWKWK](/stripes/bkwkwk/) — the page of every tartan sharing this colour sequence.
 

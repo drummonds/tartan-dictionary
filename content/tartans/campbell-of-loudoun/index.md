@@ -1,6 +1,13 @@
 ---
 title: "Campbell of Loudoun"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Loudoun"
+  url: "/families/campbell-of-loudoun/"
 ---
 A tartan of the [Campbell of Loudoun](/families/campbell-of-loudoun/) family.
 Its design is pattern [GKGKBKBKBKGKW](/stripes/gkgkbkbkbkgkw/) — the page of every tartan sharing this colour sequence.

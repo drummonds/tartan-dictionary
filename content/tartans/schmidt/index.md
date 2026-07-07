@@ -1,6 +1,9 @@
 ---
 title: "Schmidt"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GGRGKGBBBK](/stripes/ggrgkgbbbk/) — the page of every tartan sharing this colour sequence.
 

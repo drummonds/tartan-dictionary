@@ -1,6 +1,9 @@
 ---
 title: "Praetorian"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [WBGRKWWWKWWRWW](/stripes/wbgrkwwwkwwrww/) — the page of every tartan sharing this colour sequence.
 

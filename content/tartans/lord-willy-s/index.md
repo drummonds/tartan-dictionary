@@ -1,6 +1,9 @@
 ---
 title: "Lord Willy's"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBKB](/stripes/bbkb/) — the page of every tartan sharing this colour sequence.
 

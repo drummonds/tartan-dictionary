@@ -1,6 +1,13 @@
 ---
 title: "Laing of Archiestown"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Laing"
+  url: "/clan/laing/"
+- name: "Laing of Archiestown"
+  url: "/families/laing-of-archiestown/"
 ---
 A tartan of the [Laing of Archiestown](/families/laing-of-archiestown/) family.
 Its design is pattern [KRWRBRWR](/stripes/krwrbrwr/) — the page of every tartan sharing this colour sequence.

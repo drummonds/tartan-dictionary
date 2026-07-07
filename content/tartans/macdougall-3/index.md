@@ -1,6 +1,11 @@
 ---
 title: "MacDougall"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDougall of Lorn"
+  url: "/clan/macdougall/"
 ---
 A tartan of [Clan MacDougall of Lorn](/clan/macdougall/).
 Its design is pattern [RBRRGBRRRBBWRBRR](/stripes/rbrrgbrrrbbwrbrr/) — the page of every tartan sharing this colour sequence.

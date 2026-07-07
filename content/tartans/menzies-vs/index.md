@@ -1,6 +1,11 @@
 ---
 title: "Menzies VS"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
 ---
 A tartan of [Clan Menzies](/clan/menzies/).
 Its design is pattern [WRBRBRBWRWRW](/stripes/wrbrbrbwrwrw/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,11 @@
 ---
 title: "Hanna"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hanna"
+  url: "/clan/hanna/"
 ---
 A tartan of [Clan Hanna](/clan/hanna/).
 Its design is pattern [BWBWBWBWBWBWKWBWBWBWBWBW](/stripes/bwbwbwbwbwbwkwbwbwbwbwbw/) — the page of every tartan sharing this colour sequence.

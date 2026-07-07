@@ -1,6 +1,13 @@
 ---
 title: "Peter of Lee"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Peter"
+  url: "/clan/peter/"
+- name: "Peter of Lee"
+  url: "/families/peter-of-lee/"
 ---
 A tartan of the [Peter of Lee](/families/peter-of-lee/) family.
 Its design is pattern [KBKBGKGR](/stripes/kbkbgkgr/) — the page of every tartan sharing this colour sequence.

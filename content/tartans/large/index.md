@@ -1,6 +1,9 @@
 ---
 title: "Large"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KBGKGKGBGKBKGKBK](/stripes/kbgkgkgbgkbkgkbk/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "MacGregor"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
 ---
 A tartan of [Clan MacGregor (Clan Gregor)](/clan/macgregor/).
 Its design is pattern [BKRWRW](/stripes/bkrwrw/) — the page of every tartan sharing this colour sequence.

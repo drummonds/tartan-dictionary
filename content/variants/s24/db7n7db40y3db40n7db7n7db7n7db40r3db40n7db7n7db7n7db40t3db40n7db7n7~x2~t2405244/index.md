@@ -1,6 +1,11 @@
 ---
 title: "Colliers International Canadian Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Colliers International"
+  url: "/tartans/colliers-international/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBRBBBBBBBGBBB](/stripes/bbbbbbbbbbbbrbbbbbbbgbbb/).
@@ -14,6 +19,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 2008 Colliers International are a long established (1985) international property company. This asymmetric tartan appears to have been designed for them by Janet Helm Presents Tartan - a design company from Vancouver. Count estimated from online photograph.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DB/14 N14 DB80 Y6 DB80 N14 DB14 N14 DB14 N14 DB80 R6 DB80 N14 DB14 N14 DB14 N14 DB80 T6 DB80 N14 DB14 N/14
@@ -48,7 +69,7 @@ Its **ΔTartan distance** from the master is **0.00** — the same measure the n
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">1388</div><div class="nn-name nn-base"><a href="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244/">Colliers International Canadian Corporate Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7~x2&amp;base=db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244" title="compare in the TTD">0.00</a></div><div class="nn-threads">1388</div><div class="nn-name"><a href="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7~x2/">Colliers International (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7~x2/sett.png" alt="sett" loading="lazy" style="width:736px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">1388</div><div class="nn-name nn-base"><a href="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244/">Colliers International Canadian Corporate Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7~x2&amp;base=db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244" title="compare in the TTD">0.00</a></div><div class="nn-threads">1388</div><div class="nn-name"><a href="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7~x2/">Colliers International (Corporate)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7~x2/sett-rev.png" alt="sett" loading="lazy" style="width:736px"></div></div>
 
 ## Neighbour map
 

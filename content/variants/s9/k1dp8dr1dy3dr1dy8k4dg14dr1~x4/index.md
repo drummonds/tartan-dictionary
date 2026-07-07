@@ -1,6 +1,9 @@
 ---
 title: "Wcwm 1873-5"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1dp8dr1dy3dr1dy8k4dg14dr1/)
 (the same proportion at any scale), whose colour order is pattern [BGKGBGBBK](/stripes/bgkgbgbbk/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4546
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>2002 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -34,7 +53,7 @@ One full sett is **320 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">320</div><div class="nn-name nn-base"><a href="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/">Wcwm 1873-5</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">345</div><div class="nn-name nn-far"><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/">79th Regiment (Military)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k3dr22g5dg10do10dg2~x2&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.25</a></div><div class="nn-threads nn-far2">198</div><div class="nn-name nn-far2"><a href="/variants/s6/k3dr22g5dg10do10dg2~x2/">Rowardennan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3dr22g5dg10do10dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db24dg4k2y1k2dg4dr25dg15~x2&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.64</a></div><div class="nn-threads nn-far2">230</div><div class="nn-name nn-far2"><a href="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/">Livingstone Aus. Dress (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy6r3dy34k16y3dt22r4~x2&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.66</a></div><div class="nn-threads nn-far2">332</div><div class="nn-name nn-far2"><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/">Ballantrae (Macnaughtons)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy6r3dy34k16y3dt22r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.77</a></div><div class="nn-threads nn-far2">852</div><div class="nn-name nn-far2"><a href="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/">Ferguson Britt</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">320</div><div class="nn-name nn-base"><a href="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/">Wcwm 1873-5</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">2.54</a></div><div class="nn-threads nn-far">345</div><div class="nn-name nn-far"><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/">79th Regiment (Military)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k3dr22g5dg10do10dg2~x2&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.25</a></div><div class="nn-threads nn-far2">198</div><div class="nn-name nn-far2"><a href="/variants/s6/k3dr22g5dg10do10dg2~x2/">Rowardennan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k3dr22g5dg10do10dg2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db24dg4k2y1k2dg4dr25dg15~x2&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.64</a></div><div class="nn-threads nn-far2">230</div><div class="nn-name nn-far2"><a href="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/">Livingstone Aus. Dress (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dy6r3dy34k16y3dt22r4~x2&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.66</a></div><div class="nn-threads nn-far2">332</div><div class="nn-name nn-far2"><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/">Ballantrae (Macnaughtons)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dy6r3dy34k16y3dt22r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259&amp;base=k1dp8dr1dy3dr1dy8k4dg14dr1~x4" title="compare in the TTD">3.77</a></div><div class="nn-threads nn-far2">852</div><div class="nn-name nn-far2"><a href="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/">Ferguson Britt</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6~k0504259/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

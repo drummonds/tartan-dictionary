@@ -1,6 +1,9 @@
 ---
 title: "Heddle Clan/Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3/)
 (the same proportion at any scale), whose colour order is pattern [BKBGBKBBBKBBBKBBBKBGBKBW](/stripes/bkbgbkbbbkbbbkbbbkbgbkbw/).
@@ -12,6 +15,22 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 ## Provenance
 
 Earliest known date: 2003 June Designed by Scott Heddle for his wedding. Grandfather John Robert heddle wrote, "As the oldest surviving member of the Heddle family in Stromness, Orkney, I am, as head of the Clan, proud to sign this note as documentary evidence supporting the application for recording the Heddle Tartan ... which was conceived by my grandson, Scott Heddle, second son of my eldest John Flett Heddle, Stromness, KW16 3DA." Signed, 23rd June 2004. Scott Heddle wore the newly designed tartan at his wedding in St Magnus Cathedral on 28th June 2003, and it was unanimously agreed by all members of the family that this would become the tartan of the Heddle Clan.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/house-of-tartan/">House of Tartan</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/house-of-tartan/data.csv</a></dd>
+<dt>data date</dt><dd>2017-01-10 <small>(dataset default)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="http://www.house-of-tartan.scotland.net/">House of Tartan</a><br><small>the weaver/retailer's database — the site is now offline; the URL is kept as the ultimate source's identity</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 DP/24 K4 DB8 DY4 DB8 K4 DB4 DP16 DB4 K4 DB48 DP16 DB48 K4 DB4 DP16 DB4 K4 DB8 DY4 DB8 K4 DP24 W/6
@@ -31,7 +50,7 @@ One full sett is **526 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">526</div><div class="nn-name nn-base"><a href="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/">Heddle Clan/Family Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dt6y2db24dt4db8dt6db6dt8db3dt10k14dt4r3dt34w4~dt1204274-db1406275&amp;base=dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2" title="compare in the TTD">3.33</a></div><div class="nn-threads nn-far2">262</div><div class="nn-name nn-far2"><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1204274-dbi1406275/">Matchpoint</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1204274-dbi1406275/sett.png" alt="sett" loading="lazy" style="width:736px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2&amp;base=dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2" title="compare in the TTD">3.34</a></div><div class="nn-threads nn-far2">278</div><div class="nn-name nn-far2"><a href="/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/">Heddle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k3db30k2db4k2db30k3dg30k3dt30k2lb2k2dt30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dt1204274-g2203152&amp;base=dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">560</div><div class="nn-name nn-far2"><a href="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/">Davies of Wales</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/sett.png" alt="sett" loading="lazy" style="width:736px;transform:scaleX(-1)"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">526</div><div class="nn-name nn-base"><a href="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/">Heddle Clan/Family Tartan</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s24/dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dt6y2db24dt4db8dt6db6dt8db3dt10k14dt4r3dt34w4~dt1204274-db1406275&amp;base=dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2" title="compare in the TTD">3.33</a></div><div class="nn-threads nn-far2">262</div><div class="nn-name nn-far2"><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1204274-dbi1406275/">Matchpoint</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1204274-dbi1406275/sett-rev.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2&amp;base=dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2" title="compare in the TTD">3.34</a></div><div class="nn-threads nn-far2">278</div><div class="nn-name nn-far2"><a href="/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/">Heddle</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png" alt="sett" loading="lazy" style="width:736px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k3db30k2db4k2db30k3dg30k3dt30k2lb2k2dt30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dt1204274-g2203152&amp;base=dp12k2db4dy2db4k2db2dp8db2k2db24dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2" title="compare in the TTD">3.95</a></div><div class="nn-threads nn-far2">560</div><div class="nn-name nn-far2"><a href="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/">Davies of Wales</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s24/k3db30k2db4k2db30k3dg30k3dbi30k2lb2k2dbi30k3dg30k3db30k2db4k2db30k3g3~db1106275-dg1806142-dbi1204274-g2203152/sett-rev.png" alt="sett" loading="lazy" style="width:736px"></div></div>
 
 ## Neighbour map
 

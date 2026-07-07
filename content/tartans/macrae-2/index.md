@@ -1,6 +1,11 @@
 ---
 title: "MacRae"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
 ---
 A tartan of [Clan MacRae](/clan/macrae/).
 Its design is pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/) — the page of every tartan sharing this colour sequence.

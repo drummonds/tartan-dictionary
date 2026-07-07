@@ -1,6 +1,9 @@
 ---
 title: "Allianz Deutschland 2012"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBBBKBW](/stripes/bbbbkbw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Invertere"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GYBYGYRYGYBYGR](/stripes/gybygyrygybygr/) — the page of every tartan sharing this colour sequence.
 

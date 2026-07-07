@@ -1,6 +1,9 @@
 ---
 title: "Edinburgh International Film Festival"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k184r1k2r2k2r1k2w1k6w1k4r10k20/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKRKWKWKRK](/stripes/krkrkrkwkwkrk/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11515
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>24/03/2016 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **268 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/">Edinburgh International Film Festival</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">1.60</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/">Salt Lake County District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k61w1k1r2k1w1k16w1r4k2r6k1y4~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">274</div><div class="nn-name nn-far"><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/">Coeur D'Alene Firefighters Richard Gaines Memorial</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/">Edinburgh Castle (Corporate?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett.png" alt="sett" loading="lazy" style="width:384px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k99r5k4r3k2g1~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">3.84</a></div><div class="nn-threads nn-far2">256</div><div class="nn-name nn-far2"><a href="/variants/s6/k99r5k4r3k2g1~x2/">Allt Dubh (Black Burn)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k99r5k4r3k2g1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">3.87</a></div><div class="nn-threads nn-far2">470</div><div class="nn-name nn-far2"><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/">Celkilt</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">268</div><div class="nn-name nn-base"><a href="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/">Edinburgh International Film Festival</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">1.60</a></div><div class="nn-threads">328</div><div class="nn-name"><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/">Salt Lake County District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k61w1k1r2k1w1k16w1r4k2r6k1y4~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">2.25</a></div><div class="nn-threads nn-far">274</div><div class="nn-name nn-far"><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/">Coeur D'Alene Firefighters Richard Gaines Memorial</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">2.29</a></div><div class="nn-threads nn-far">278</div><div class="nn-name nn-far"><a href="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/">Edinburgh Castle (Corporate?)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k99r5k4r3k2g1~x2&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">3.84</a></div><div class="nn-threads nn-far2">256</div><div class="nn-name nn-far2"><a href="/variants/s6/k99r5k4r3k2g1~x2/">Allt Dubh (Black Burn)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k99r5k4r3k2g1~x2/sett.png" alt="sett" loading="lazy" style="width:384px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000&amp;base=k184r1k2r2k2r1k2w1k6w1k4r10k20" title="compare in the TTD">3.87</a></div><div class="nn-threads nn-far2">470</div><div class="nn-name nn-far2"><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/">Celkilt</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/sett.png" alt="sett" loading="lazy" style="width:384px"></div></div>
 
 ## Neighbour map
 

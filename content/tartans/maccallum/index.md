@@ -1,6 +1,11 @@
 ---
 title: "MacCallum"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacCallum,"
+  url: "/clan/maccallum/"
 ---
 A tartan of [Clan MacCallum,](/clan/maccallum/).
 Its design is pattern [GKWGKBK](/stripes/gkwgkbk/) — the page of every tartan sharing this colour sequence.

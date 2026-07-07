@@ -1,6 +1,11 @@
 ---
 title: "Jones"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jones"
+  url: "/clan/jones/"
 ---
 A tartan of [Clan Jones](/clan/jones/).
 Its design is pattern [RWGGKBW](/stripes/rwggkbw/) — the page of every tartan sharing this colour sequence.

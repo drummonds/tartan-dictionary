@@ -1,6 +1,9 @@
 ---
 title: "Ewell Castle School"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRBBWB](/stripes/brbbwb/) — the page of every tartan sharing this colour sequence.
 

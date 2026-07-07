@@ -1,6 +1,13 @@
 ---
 title: "Graham of Menteith"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham of Menteith"
+  url: "/families/graham-of-menteith/"
 ---
 A tartan of the [Graham of Menteith](/families/graham-of-menteith/) family.
 Its design is pattern [KBKRWR](/stripes/kbkrwr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,9 @@
 ---
 title: "Nashotah House"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RKRKWKBGWGRGY](/stripes/rkrkwkbgwgrgy/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Billy Apple®"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GKRG](/stripes/gkrg/) — the page of every tartan sharing this colour sequence.
 

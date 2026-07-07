@@ -1,13 +1,32 @@
 ---
 title: "Shenzhen (Sports)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3o29lo2o2lo4o2lo20y1lo2y10w3/)
 (the same proportion at any scale), whose colour order is pattern [KRYRYRYGYGW](/stripes/kryryrygygw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6250/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6250
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/tartans-authority/">Scottish Tartans Authority</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/tartans-authority/data.csv</a></dd>
+<dt>data date</dt><dd>pre 2004 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartansauthority.com/">Scottish Tartans Authority</a><br><small>the heritage body's archive — its tartan-ferret record browser is retired (links repaired to the SRT, above)</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -33,7 +52,7 @@ One full sett is **300 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/">Shenzhen (Sports)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.11</a></div><div class="nn-threads nn-far2">280</div><div class="nn-name nn-far2"><a href="/variants/s14/y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2/">Leask</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.22</a></div><div class="nn-threads nn-far2">272</div><div class="nn-name nn-far2"><a href="/variants/s14/y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2/">Leask</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y9k1lb4k1r30k1n4g9y3~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.42</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/">Kings Mountain 1780</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w2r16k1lb2k1y43k1lb2k1g16lb1~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.90</a></div><div class="nn-threads nn-far2">338</div><div class="nn-name nn-far2"><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/">Baxter Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o24lb2lo7lb3k2n4k2lb1o4lb1~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.97</a></div><div class="nn-threads nn-far2">150</div><div class="nn-name nn-far2"><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/">VeMMA</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">300</div><div class="nn-name nn-base"><a href="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/">Shenzhen (Sports)</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.11</a></div><div class="nn-threads nn-far2">280</div><div class="nn-name nn-far2"><a href="/variants/s14/y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2/">Leask</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.22</a></div><div class="nn-threads nn-far2">272</div><div class="nn-name nn-far2"><a href="/variants/s14/y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2/">Leask</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s14/y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=y9k1lb4k1r30k1n4g9y3~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.42</a></div><div class="nn-threads nn-far2">224</div><div class="nn-name nn-far2"><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/">Kings Mountain 1780</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=w2r16k1lb2k1y43k1lb2k1g16lb1~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.90</a></div><div class="nn-threads nn-far2">338</div><div class="nn-name nn-far2"><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/">Baxter Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=o24lb2lo7lb3k2n4k2lb1o4lb1~x2&amp;base=k3o29lo2o2lo4o2lo20y1lo2y10w3~x2" title="compare in the TTD">3.97</a></div><div class="nn-threads nn-far2">150</div><div class="nn-name nn-far2"><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/">VeMMA</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -1,6 +1,11 @@
 ---
 title: "Williams Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Williams"
+  url: "/clan/williams/"
 ---
 A tartan of [Clan Williams](/clan/williams/).
 Its design is pattern [GKBKGKBKWKR](/stripes/gkbkgkbkwkr/) — the page of every tartan sharing this colour sequence.

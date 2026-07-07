@@ -1,0 +1,13 @@
+{{/* The breadcrumb trail (#133/#146): the way UP the model's ladder, generated into front
+     matter by the engine as `crumbs` — on a variant page Home › super group (clan) › group
+     (family) › tartan › sett, on a named-tartan page Home › super group › group. Tiers the
+     page lacks are simply absent; Home always leads; the current page is never a crumb.
+     Renders nothing when the page carries no crumbs. Styled one-line with truncation in
+     dictionary.css (.crumbs). */}}
+{{ with .Params.crumbs }}
+<nav class="crumbs" aria-label="Breadcrumb">
+  {{- range $i, $c := . }}
+  {{- if $i }}<span class="crumb-sep" aria-hidden="true">›</span>{{ end }}<a href="{{ $c.url }}">{{ $c.name }}</a>
+  {{- end }}
+</nav>
+{{ end }}

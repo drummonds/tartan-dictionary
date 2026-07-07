@@ -1,6 +1,11 @@
 ---
 title: "Urquhart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Urquhart"
+  url: "/tartans/urquhart/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4k1g1k1g1k8db8r1db8k8g8k1g1/)
 (the same proportion at any scale), whose colour order is pattern [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/).
@@ -29,6 +34,22 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Urquhart** name adjusted Logan's counts: [Urquhart (Brydone)](/setts/s14/g1k1g8k8b8r1b8k8g1k1g1k1g3w1~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/); [Urquhart (White Line)](/setts/s12/g4w2g24k3g3k3g8k24ga48k3ga3r2~g007800-ga006818-k101010-rc80000-we0e0e0~x2/); [Urquhart](/setts/s9/r3g6k1g1k1g1k6ga9k2~g007800-ga006818-k101010-rc80000~x2/); [Urquhart (Fashion)](/setts/s12/r9w2r18k3r3k3r3k12b30k6b6ra6~b5c5c5c-k101010-r888888-rac80000-we0e0e0/). Compare their thread counts with Logan's above.
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/logan-1831/">Logan, The Scottish Gaël (1831)</a></dd>
+<dt>data captured from</dt><dd><a href="https://archive.org/details/scotishgalorcel02logagoog">https://archive.org/details/scotishgalorcel02logagoog</a></dd>
+<dt>data date</dt><dd>1831 <small>(this record)</small></dd>
+<dt>licence</dt><dd>Public domain</dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
+<li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Thread count
 G/32 K8 G8 K8 G8 K64 DB64 R8 DB64 K64 G64 K8 G/8

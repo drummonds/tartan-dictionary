@@ -1,6 +1,9 @@
 ---
 title: "Maguire"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRGRGR](/stripes/grgrgr/) — the page of every tartan sharing this colour sequence.
 

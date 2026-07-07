@@ -1,6 +1,11 @@
 ---
 title: "MacLachlan Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLachlan"
+  url: "/clan/maclachlan/"
 ---
 A tartan of [Clan MacLachlan](/clan/maclachlan/).
 Its design is pattern [GKGKGKBRBRBGKGK](/stripes/gkgkgkbrbrbgkgk/) — the page of every tartan sharing this colour sequence.

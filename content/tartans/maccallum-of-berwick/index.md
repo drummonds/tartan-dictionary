@@ -1,6 +1,13 @@
 ---
 title: "MacCallum of Berwick"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacCallum,"
+  url: "/clan/maccallum/"
+- name: "MacCallum, of Berwick"
+  url: "/families/maccallum-of-berwick/"
 ---
 A tartan of the [MacCallum, of Berwick](/families/maccallum-of-berwick/) family.
 Its design is pattern [BRBKGKBKG](/stripes/brbkgkbkg/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,13 @@
 ---
 title: "MacDonell of Keppoch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonell"
+  url: "/clan/macdonell/"
+- name: "MacDonell of Keppoch"
+  url: "/families/macdonell-of-keppoch/"
 ---
 A tartan of the [MacDonell of Keppoch](/families/macdonell-of-keppoch/) family.
 Its design is pattern [BRGRBWRBRG](/stripes/brgrbwrbrg/) — the page of every tartan sharing this colour sequence.

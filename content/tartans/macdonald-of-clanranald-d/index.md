@@ -1,6 +1,13 @@
 ---
 title: "MacDonald of Clanranald D"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Clanranald D"
+  url: "/families/macdonald-of-clanranald-d/"
 ---
 A tartan of the [MacDonald of Clanranald D](/families/macdonald-of-clanranald-d/) family.
 Its design is pattern [BRBRBRKWGRGRG](/stripes/brbrbrkwgrgrg/) — the page of every tartan sharing this colour sequence.

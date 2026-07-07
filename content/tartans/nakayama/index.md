@@ -1,6 +1,9 @@
 ---
 title: "Nakayama"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRKRKRKW](/stripes/brkrkrkw/) — the page of every tartan sharing this colour sequence.
 

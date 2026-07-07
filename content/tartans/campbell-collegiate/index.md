@@ -1,6 +1,11 @@
 ---
 title: "Campbell Collegiate"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
 ---
 A tartan of [Clan Campbell](/clan/campbell/).
 Its design is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/) — the page of every tartan sharing this colour sequence.

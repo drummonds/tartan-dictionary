@@ -1,6 +1,13 @@
 ---
 title: "MacRae of Conchra"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae of Conchra"
+  url: "/families/macrae-of-conchra/"
 ---
 A tartan of the [MacRae of Conchra](/families/macrae-of-conchra/) family.
 Its design is pattern [GBWR](/stripes/gbwr/) — the page of every tartan sharing this colour sequence.

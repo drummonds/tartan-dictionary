@@ -1,6 +1,13 @@
 ---
 title: "MacDonald of Sleat"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Sleat"
+  url: "/families/macdonald-of-sleat/"
 ---
 A tartan of the [MacDonald of Sleat](/families/macdonald-of-sleat/) family.
 Its design is pattern [GRGRK](/stripes/grgrk/) — the page of every tartan sharing this colour sequence.

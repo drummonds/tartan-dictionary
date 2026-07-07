@@ -1,6 +1,9 @@
 ---
 title: "Chieftain's"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGKRYBGKRYBG](/stripes/bgkrybgkrybg/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "Canadian Caledonian Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKGYBWBGBGW](/stripes/bkgybwbgbgw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "Reid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Reid"
+  url: "/clan/reid/"
 ---
 A tartan of [Clan Reid](/clan/reid/).
 Its design is pattern [BBBYGGWR](/stripes/bbbyggwr/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,11 @@
 ---
 title: "West Highland Way"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan West"
+  url: "/clan/west/"
 ---
 A tartan of [Clan West](/clan/west/).
 Its design is pattern [BWBRBRKGBGRGRGBGKRBRBW](/stripes/bwbrbrkgbgrgrgbgkrbrbw/) — the page of every tartan sharing this colour sequence.

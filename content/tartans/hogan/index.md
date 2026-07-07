@@ -1,6 +1,9 @@
 ---
 title: "Hogan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GWGK](/stripes/gwgk/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "MacDonell of Glengarry"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonell"
+  url: "/clan/macdonell/"
+- name: "MacDonell of Glengarry"
+  url: "/families/macdonell-of-glengarry/"
 ---
 A tartan of the [MacDonell of Glengarry](/families/macdonell-of-glengarry/) family.
 Its design is pattern [BRBRKGRGRGW](/stripes/brbrkgrgrgw/) — the page of every tartan sharing this colour sequence.

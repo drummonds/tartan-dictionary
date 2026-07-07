@@ -1,6 +1,11 @@
 ---
 title: "Stewart Hunting Early"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
 ---
 A tartan of [Clan Stewart](/clan/stewart/).
 Its design is pattern [GBKBKGGGKGKGKGKGRGKBKBG](/stripes/gbkbkgggkgkgkgkgrgkbkbg/) — the page of every tartan sharing this colour sequence.

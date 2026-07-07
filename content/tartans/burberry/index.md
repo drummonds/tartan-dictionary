@@ -1,6 +1,9 @@
 ---
 title: "Burberry"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KWKYR](/stripes/kwkyr/) — the page of every tartan sharing this colour sequence.
 

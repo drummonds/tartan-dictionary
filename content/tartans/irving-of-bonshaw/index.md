@@ -1,6 +1,13 @@
 ---
 title: "Irving of Bonshaw"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Irving"
+  url: "/clan/irving/"
+- name: "Irving of Bonshaw"
+  url: "/families/irving-of-bonshaw/"
 ---
 A tartan of the [Irving of Bonshaw](/families/irving-of-bonshaw/) family.
 Its design is pattern [GGBGG](/stripes/ggbgg/) — the page of every tartan sharing this colour sequence.

@@ -1,6 +1,13 @@
 ---
 title: "MacAn of Lurgyvallan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Macan"
+  url: "/clan/macan/"
+- name: "Macan of Lurgyvallan"
+  url: "/families/macan-of-lurgyvallan/"
 ---
 A tartan of the [Macan of Lurgyvallan](/families/macan-of-lurgyvallan/) family.
 Its design is pattern [KRGRGKWKGKBBBKGKWKGRGRGR](/stripes/krgrgkwkgkbbbkgkwkgrgrgr/) — the page of every tartan sharing this colour sequence.

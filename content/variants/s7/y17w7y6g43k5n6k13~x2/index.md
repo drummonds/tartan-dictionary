@@ -1,6 +1,9 @@
 ---
 title: "Keeling Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y17w7y6g43k5n6k13/)
 (the same proportion at any scale), whose colour order is pattern [GWGGKBK](/stripes/gwggkbk/).
@@ -13,8 +16,24 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10593
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
 <li>02/05/2011 — Keeling Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10593">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#FFFF00;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #FFFF00"></span><span style="display:inline-block;width:.85em;height:.85em;background:#FFFFFF;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #FFFFFF"></span><span style="display:inline-block;width:.85em;height:.85em;background:#008000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #008000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#000000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #000000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#848484;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #848484"></span><br><em>The Keeling Dress tartan symbolises a wholesale shift in the energy basis of civilisation, from fossil fuels (grey and black track) to 100 per cent clean energy (white and yellow track). It is named in honour of the late Charles David Keeling of the Scripps Institution of Oceanography, whose measurements from 1958 onwards supplied the first concrete evidence of rapidly increasing carbon dioxide levels in the atmosphere, commonly known as the ‘Keeling Curve’. Today, ninety-seven percent of actively publishing climate scientists agree that man-made climate change is for real. Permission to adopt the Keeling name was graciously granted by his son, Ralph Keeling, director of the Scripps CO2 Program that continues the vital measurement series to this day. See also the Keeling tartan.</em></li>
-<li>02/05/2011 — Keeling Dress (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10593/">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Anyone who identifies with the environmental movement is welcome to wear or display the Keeling Dress tartan. Named in honour of the late Charles David Keeling of the Scripps Institution of Oceanography, whose measurements from 1958 onwards supplied the first concrete evidence of rapidly increasing carbon dioxide levels in the atmosphere. Permission to adopt the Keeling name was graciously granted by his son, Ralph Keeling, director of the Scripps CO2 Program that continues the vital measurement series to this day. See also the Keeling tartan.</em></li>
+<li>02/05/2011 — Keeling Dress (Fashion) (tartans-authority, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10593">record</a>) <span style="display:inline-block;width:.85em;height:.85em;background:#E8C000;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="Y #E8C000"></span><span style="display:inline-block;width:.85em;height:.85em;background:#E0E0E0;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="W #E0E0E0"></span><span style="display:inline-block;width:.85em;height:.85em;background:#289C18;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="LG #289C18"></span><span style="display:inline-block;width:.85em;height:.85em;background:#101010;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="K #101010"></span><span style="display:inline-block;width:.85em;height:.85em;background:#888888;border:1px solid rgba(0,0,0,.25);vertical-align:-.08em;margin-right:2px" title="N #888888"></span><br><em>Anyone who identifies with the environmental movement is welcome to wear or display the Keeling Dress tartan. Named in honour of the late Charles David Keeling of the Scripps Institution of Oceanography, whose measurements from 1958 onwards supplied the first concrete evidence of rapidly increasing carbon dioxide levels in the atmosphere. Permission to adopt the Keeling name was graciously granted by his son, Ralph Keeling, director of the Scripps CO2 Program that continues the vital measurement series to this day. See also the Keeling tartan.</em></li>
 </ul>
+</details>
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>02/05/2011 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
 </details>
 
 ## Register references

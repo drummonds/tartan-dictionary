@@ -1,6 +1,9 @@
 ---
 title: "King Edward"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GGGRGRGBKBKBKBGGGBKBKBKBGRGRGGGR](/stripes/gggrgrgbkbkbkbgggbkbkbkbgrgrgggr/) — the page of every tartan sharing this colour sequence.
 

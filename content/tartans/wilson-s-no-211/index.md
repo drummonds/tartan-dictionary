@@ -1,6 +1,9 @@
 ---
 title: "Wilson's No 211"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGBG](/stripes/bgbg/) — the page of every tartan sharing this colour sequence.
 

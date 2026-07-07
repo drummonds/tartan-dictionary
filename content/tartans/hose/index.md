@@ -1,6 +1,9 @@
 ---
 title: "Hose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [RKW](/stripes/rkw/) — the page of every tartan sharing this colour sequence.
 

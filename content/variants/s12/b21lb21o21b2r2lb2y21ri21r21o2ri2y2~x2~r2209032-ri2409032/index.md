@@ -1,6 +1,9 @@
 ---
 title: "Rainbow #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b21lb21o21b2r2lb2y21ri21r21o2ri2y2/)
 (the same proportion at any scale), whose colour order is pattern [BWRBRWGRRRRG](/stripes/bwrbrwgrrrrg/).
@@ -8,6 +11,22 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3442
+
+<details class="dataset">
+<summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
+<dl class="dataset-prov">
+<dt>source</dt><dd><a href="/sources/register-of-tartans/">Scottish Register of Tartans</a></dd>
+<dt>data captured from</dt><dd><a href="https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv">https://github.com/thetartan/tartan-database/blob/master/data/register-of-tartans/data.csv</a></dd>
+<dt>data date</dt><dd>01/03/2000 <small>(this record)</small></dd>
+<dt>licence</dt><dd><a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a></dd>
+</dl>
+<p class="chain-lead">Capture chain <small>— the hands this data passed through, oldest first; each capture carries its own licence</small></p>
+<ol class="capture-chain">
+<li><a href="https://www.tartanregister.gov.uk/">Scottish Register of Tartans</a> · <a href="https://www.tartanregister.gov.uk/copyright">Crown copyright</a><br><small>the living register — still published by National Records of Scotland</small></li>
+<li><a href="https://github.com/thetartan/tartan-database">thetartan/tartan-database</a> <small>2016-2017</small> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><br><small>Levko Kravets's frozen compilation — the capture we vendored, and where its CC licence text came from</small></li>
+<li>this dictionary <small>captured 2026-06-10 · commit 5bf86c7566</small><br><small>each re-capture is a git commit to data/sources</small></li>
+</ol>
+</details>
 
 ## Register references
 
@@ -34,7 +53,7 @@ One full sett is **506 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">506</div><div class="nn-name nn-base"><a href="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/">Rainbow #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111&amp;base=b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032" title="compare in the TTD">3.83</a></div><div class="nn-threads nn-far2">276</div><div class="nn-name nn-far2"><a href="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/">Auld Scotland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/sett.png" alt="sett" loading="lazy" style="width:352px;transform:scaleX(-1)"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2&amp;base=b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032" title="compare in the TTD">3.89</a></div><div class="nn-threads nn-far2">468</div><div class="nn-name nn-far2"><a href="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/">Watret</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">506</div><div class="nn-name nn-base"><a href="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/">Rainbow #2</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/sett.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111&amp;base=b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032" title="compare in the TTD">3.83</a></div><div class="nn-threads nn-far2">276</div><div class="nn-name nn-far2"><a href="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/">Auld Scotland</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/sett-rev.png" alt="sett" loading="lazy" style="width:352px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2&amp;base=b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032" title="compare in the TTD">3.89</a></div><div class="nn-threads nn-far2">468</div><div class="nn-name nn-far2"><a href="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/">Watret</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/sett.png" alt="sett" loading="lazy" style="width:352px"></div></div>
 
 ## Neighbour map
 

@@ -1,6 +1,13 @@
 ---
 title: "Lashbrooke of Barrowfield"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lashbrooke"
+  url: "/clan/lashbrooke/"
+- name: "Lashbrooke of Barrowfield"
+  url: "/families/lashbrooke-of-barrowfield/"
 ---
 A tartan of the [Lashbrooke of Barrowfield](/families/lashbrooke-of-barrowfield/) family.
 Its design is pattern [BGBBRBGGWRWB](/stripes/bgbbrbggwrwb/) — the page of every tartan sharing this colour sequence.

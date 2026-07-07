@@ -1,6 +1,9 @@
 ---
 title: "Clan MacLeod Societies of Canada"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GWBWRKGK](/stripes/gwbwrkgk/) — the page of every tartan sharing this colour sequence.
 

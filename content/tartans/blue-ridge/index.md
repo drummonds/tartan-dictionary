@@ -1,6 +1,9 @@
 ---
 title: "Blue Ridge"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGBGBGBRBG](/stripes/bgbgbgbrbg/) — the page of every tartan sharing this colour sequence.
 

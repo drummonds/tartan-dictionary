@@ -1,6 +1,9 @@
 ---
 title: "Loudoun's Highlanders"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BKBKGY](/stripes/bkbkgy/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,9 @@
 ---
 title: "St Giles Check"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BBWBWBB](/stripes/bbwbwbb/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "Currie of Arran"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Currie"
+  url: "/clan/currie/"
+- name: "Currie of Arran"
+  url: "/families/currie-of-arran/"
 ---
 A tartan of the [Currie of Arran](/families/currie-of-arran/) family.
 Its design is pattern [BRGRGRGGBWB](/stripes/brgrgrggbwb/) — the page of every tartan sharing this colour sequence.

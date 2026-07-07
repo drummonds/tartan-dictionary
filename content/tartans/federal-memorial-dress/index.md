@@ -1,6 +1,9 @@
 ---
 title: "Federal Memorial Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BGWWWRWWWRWRW](/stripes/bgwwwrwwwrwrw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "MacAulay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAulay"
+  url: "/clan/macaulay/"
 ---
 A tartan of [Clan MacAulay](/clan/macaulay/).
 Its design is pattern [KRGRGW](/stripes/krgrgw/) — the page of every tartan sharing this colour sequence.

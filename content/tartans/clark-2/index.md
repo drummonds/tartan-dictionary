@@ -1,6 +1,11 @@
 ---
 title: "Clark"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clark"
+  url: "/clan/clark/"
 ---
 A tartan of [Clan Clark](/clan/clark/).
 Its design is pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/) — the page of every tartan sharing this colour sequence.

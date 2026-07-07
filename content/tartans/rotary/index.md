@@ -1,6 +1,9 @@
 ---
 title: "Rotary"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BYGRWRG](/stripes/bygrwrg/) — the page of every tartan sharing this colour sequence.
 

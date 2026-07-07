@@ -28,11 +28,11 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/">Anderson P</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/"><img src="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/sett.png" alt="Anderson P sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s21/r3g6k1r2k1g6db5r1k3y1k1y1k3w3k3w18k1r2k1w6r3/">Anderson P</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s21/r3g6k1r2k1g6db5r1k3y1k1y1k3w3k3w18k1r2k1w6r3/"><img src="/variants/s21/r3g6k1r2k1g6db5r1k3y1k1y1k3w3k3w18k1r2k1w6r3/sett.png" alt="Anderson P sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/">Anderson P</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/"><img src="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/sett.png" alt="Anderson P sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

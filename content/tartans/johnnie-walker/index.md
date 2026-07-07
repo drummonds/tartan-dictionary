@@ -1,6 +1,9 @@
 ---
 title: "Johnnie Walker"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KRKRKRKYRKRKRK](/stripes/krkrkrkyrkrkrk/) — the page of every tartan sharing this colour sequence.
 

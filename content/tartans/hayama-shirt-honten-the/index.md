@@ -1,6 +1,9 @@
 ---
 title: "Hayama Shirt Honten, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [KGKGKWKBWBWR](/stripes/kgkgkwkbwbwr/) — the page of every tartan sharing this colour sequence.
 

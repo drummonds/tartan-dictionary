@@ -2,6 +2,11 @@
 {{ define "main" }}
 <article class="post">
   <header class="post-header">
+    {{/* The breadcrumb trail (#146): named-tartan pages (/tartans/<slug>/, leaf bundles rendered
+         by this default layout) carry front-matter crumbs — Home › super group (clan) › group
+         (family) — via the same partial as variant pages (#133). Pages without crumbs (posts,
+         setts, …) render nothing here. */}}
+    {{ partial "crumbs.html" . }}
     <h1 style="text-align: center;" >{{ .Title }}</h1>
     <div class="post-metadata">
     {{ if .Date }}

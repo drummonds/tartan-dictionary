@@ -1,6 +1,13 @@
 ---
 title: "Hunter of Bute"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
+- name: "Hunter of Bute"
+  url: "/families/hunter-of-bute/"
 ---
 A tartan of the [Hunter of Bute](/families/hunter-of-bute/) family.
 Its design is pattern [BGKGKGKBWBKGKGKG](/stripes/bgkgkgkbwbkgkgkg/) — the page of every tartan sharing this colour sequence.

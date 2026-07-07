@@ -1,6 +1,11 @@
 ---
 title: "MacDonald, Flora"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
 ---
 A tartan of [Clan MacDonald](/clan/macdonald/).
 Its design is pattern [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrbkgrgrgkwkgrgrgkbkbkb/) — the page of every tartan sharing this colour sequence.

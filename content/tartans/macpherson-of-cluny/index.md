@@ -1,6 +1,13 @@
 ---
 title: "MacPherson Of Cluny"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson of Cluny"
+  url: "/families/macpherson-of-cluny/"
 ---
 A tartan of the [MacPherson of Cluny](/families/macpherson-of-cluny/) family.
 Its design is pattern [GRGBRBRGRBR](/stripes/grgbrbrgrbr/) — the page of every tartan sharing this colour sequence.

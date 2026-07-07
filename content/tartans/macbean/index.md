@@ -1,6 +1,11 @@
 ---
 title: "MacBean"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacBean"
+  url: "/clan/macbean/"
 ---
 A tartan of [Clan MacBean](/clan/macbean/).
 Its design is pattern [GWRRGRRWKGKWBWWWBWR](/stripes/gwrrgrrwkgkwbwwwbwr/) — the page of every tartan sharing this colour sequence.

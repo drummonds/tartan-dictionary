@@ -1,6 +1,13 @@
 ---
 title: "Grant of Achnarrow"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant of Achnarrow"
+  url: "/families/grant-of-achnarrow/"
 ---
 A tartan of the [Grant of Achnarrow](/families/grant-of-achnarrow/) family.
 Its design is pattern [WRGRYWBWBGWRW](/stripes/wrgrywbwbgwrw/) — the page of every tartan sharing this colour sequence.

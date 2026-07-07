@@ -1,6 +1,11 @@
 ---
 title: "Owen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Owen"
+  url: "/clan/owen/"
 ---
 A tartan of [Clan Owen](/clan/owen/).
 Its design is pattern [BGRGRGBGBG](/stripes/bgrgrgbgbg/) — the page of every tartan sharing this colour sequence.

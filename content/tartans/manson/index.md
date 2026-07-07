@@ -1,6 +1,9 @@
 ---
 title: "Manson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [GRGKGRKBW](/stripes/grgkgrkbw/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,11 @@
 ---
 title: "Cairns, David"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cairns"
+  url: "/clan/cairns/"
 ---
 A tartan of [Clan Cairns](/clan/cairns/).
 Its design is pattern [BBBBB](/stripes/bbbbb/) — the page of every tartan sharing this colour sequence.

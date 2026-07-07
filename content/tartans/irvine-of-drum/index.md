@@ -1,6 +1,13 @@
 ---
 title: "Irvine of Drum"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Irvine"
+  url: "/clan/irvine/"
+- name: "Irvine of Drum"
+  url: "/families/irvine-of-drum/"
 ---
 A tartan of the [Irvine of Drum](/families/irvine-of-drum/) family.
 Its design is pattern [WKWGWKWW](/stripes/wkwgwkww/) — the page of every tartan sharing this colour sequence.

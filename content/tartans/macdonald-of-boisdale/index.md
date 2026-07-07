@@ -1,6 +1,13 @@
 ---
 title: "MacDonald of Boisdale"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Boisdale"
+  url: "/families/macdonald-of-boisdale/"
 ---
 A tartan of the [MacDonald of Boisdale](/families/macdonald-of-boisdale/) family.
 Its design is pattern [RWBWRBGBRBGBRWBWRWBWR](/stripes/rwbwrbgbrbgbrwbwrwbwr/) — the page of every tartan sharing this colour sequence.

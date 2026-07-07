@@ -1,6 +1,13 @@
 ---
 title: "Cairns of Finavon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cairns"
+  url: "/clan/cairns/"
+- name: "Cairns of Finavon"
+  url: "/families/cairns-of-finavon/"
 ---
 A tartan of the [Cairns of Finavon](/families/cairns-of-finavon/) family.
 Its design is pattern [BGBGBGBGBGBRBGBRBGBGBGBRBRBR](/stripes/bgbgbgbgbgbrbgbrbgbgbgbrbrbr/) — the page of every tartan sharing this colour sequence.

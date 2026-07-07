@@ -1,6 +1,13 @@
 ---
 title: "Drummond of Perth Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond of Perth"
+  url: "/families/drummond-of-perth/"
 ---
 A tartan of the [Drummond of Perth](/families/drummond-of-perth/) family.
 Its design is pattern [RGBBWRBBW](/stripes/rgbbwrbbw/) — the page of every tartan sharing this colour sequence.

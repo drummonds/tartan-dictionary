@@ -1,6 +1,9 @@
 ---
 title: "Wellington or Waterloo"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [WGKWRW](/stripes/wgkwrw/) — the page of every tartan sharing this colour sequence.
 

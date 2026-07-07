@@ -1,6 +1,9 @@
 ---
 title: "Scotch House 2000 Original"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [BRBRBKGY](/stripes/brbrbkgy/) — the page of every tartan sharing this colour sequence.
 

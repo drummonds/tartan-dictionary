@@ -1,6 +1,9 @@
 ---
 title: "Washington State"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 Its design is pattern [WBBGBKY](/stripes/wbbgbky/) — the page of every tartan sharing this colour sequence.
 

@@ -1,6 +1,13 @@
 ---
 title: "Drummond of Megginch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond of Megginch"
+  url: "/families/drummond-of-megginch/"
 ---
 A tartan of the [Drummond of Megginch](/families/drummond-of-megginch/) family.
 Its design is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/) — the page of every tartan sharing this colour sequence.

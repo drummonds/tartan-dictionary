@@ -1,6 +1,13 @@
 ---
 title: "MacDonald of Staffa"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Staffa"
+  url: "/families/macdonald-of-staffa/"
 ---
 A tartan of the [MacDonald of Staffa](/families/macdonald-of-staffa/) family.
 Its design is pattern [GRBRBRGWGRGRKRBRBRGRBRBRBRBR](/stripes/grbrbrgwgrgrkrbrbrgrbrbrbrbr/) — the page of every tartan sharing this colour sequence.
